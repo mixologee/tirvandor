@@ -1,102 +1,25 @@
-<style>
-  /* === TIRVANDOR MONSTER MANUAL THEME === */
-  
-  /* Main page background - aged parchment */
-  .phb {
-    background-color: #f5f2e8;
-    font-family: 'Crimson Text', serif;
-  }
-  
-  /* Headers - deep forest green with bronze accents */
-  .phb h1 {
-    color: #1b4332;
-    border-bottom: 3px solid #8b6914;
-    font-family: 'Spectral SC', serif;
-  }
-  
-  .phb h2 {
-    color: #2c5f2d;
-    font-family: 'Spectral SC', serif;
-  }
-  
-  .phb h3, .phb h4 {
-    color: #40513b;
-  }
-  
-  /* Stat blocks - subtle green with bronze border */
-  .phb blockquote {
-    border-left: 5px solid #8b6914;
-    background-color: #f0f7f0;
-    box-shadow: 0 0 5px rgba(43, 95, 45, 0.1);
-  }
-  
-  /* Monster names in stat blocks */
-  .phb blockquote h2 {
-    color: #1b4332;
-    border-bottom: 2px solid #8b6914;
-    font-family: 'Spectral SC', serif;
-  }
-  
-  /* Horizontal rules */
-  .phb hr {
-    background-image: linear-gradient(to right, 
-      transparent, 
-      #2c5f2d 10%, 
-      #8b6914 50%, 
-      #2c5f2d 90%, 
-      transparent);
-  }
-  
-  /* Page numbers and footers */
-  .phb .pageNumber {
-    color: #8b6914;
-    font-family: 'Spectral SC', serif;
-  }
-  
-  /* Footer text alternating pages */
-  .phb:nth-child(odd):after {
-    content: 'TIRVANDOR: MONSTER MANUAL';
-    font-family: 'Spectral SC', serif;
-    font-size: 0.8em;
-    color: #2c5f2d;
-  }
-  
-  .phb:nth-child(even):after {
-    content: 'CREATURES OF THE SUNDERING';
-    font-family: 'Spectral SC', serif;
-    font-size: 0.8em;
-    color: #2c5f2d;
-  }
-  
-  /* Tables - match the theme */
-  .phb table thead {
-    background-color: #2c5f2d;
-    color: #f5f2e8;
-  }
-  
-  
-  .phb#p1:after {
-    display: none;
-  }
-  
-  .phb#p1::before {
-    display: none;
-  }
-  
-  /* Table of Contents - no decorative letter, bigger font */
-  .phb#p2 h1:first-letter {
-    font-size: inherit;
-    float: none;
-    line-height: inherit;
-    color: inherit;
-  }
-  
-  .phb#p2 {
-    font-size: 1.1em;
-  }
-</style>
 
-![monster_manual_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/tirvandor-project/monster-manual-cover.png) {position:absolute,top:0px,left:0px,width:820px}
+
+![monster_manual_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/monster-manual-cover.png) {position:absolute,top:0px,left:0px,width:820px}
+\page
+
+{{toc,wide
+# Table of Contents
+
+- ### [{{ Chapter 1}}{{ 3}}](#p3)
+- ##### [{{ Border Creatures}}{{ 3}}](#p3)
+- ### [{{ Chapter 2}}{{ 13}}](#p13)
+  - ##### [{{ Thaldros Military}}{{ 13}}](#p13)
+- ### [{{ Chapter 3}}{{ 23}}](#p23)
+  - ##### [{{ Aethoria Resistance}}{{ 23}}](#p23)
+  - ##### [{{ Iron Guild Mercenaries}}{{ 31}}](#p31)
+\column
+- ### [{{ Chapter 4}}{{ 38}}](#p38)
+  - ##### [{{ Ascended-Touched}}{{ 38}}](#p38)
+  - ##### [{{ Ancient & Prophecy}}{{ 46}}](#p46)
+  - ##### [{{ Corrupted & Cursed}}{{ 50}}](#p50)
+}}
+
 \page
 # Chapter 1
 # Border Creatures
@@ -140,7 +63,8 @@ Border bandits are desperate refugees, deserters, or opportunists who prey on tr
 - Flee when outnumbered or badly wounded
 - May surrender if offered mercy
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
 
 {{monster,frame,wide
@@ -188,7 +112,8 @@ Smuggler captains run illicit goods across the Border—weapons, refugees, contr
 - Call for backup if losing
 - Always have an escape route planned
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
 
 {{monster,frame,wide
@@ -233,7 +158,8 @@ These veterans have fought in countless Border skirmishes for both sides, mercen
 - Know when to retreat (and how)
 - Protect allies instinctively
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
 
 {{monster,frame,wide
@@ -274,7 +200,8 @@ Border wraiths are the spirits of soldiers and civilians who died in the countle
 - Use Create Specter on fallen enemies
 - Flee if seriously injured (unless enraged)
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
 
 {{monster,frame,wide
@@ -317,7 +244,8 @@ These elementals form in the Border region, composed of earth from both nations.
 - Use Border Quake to knock down groups
 - Retreat underground if badly hurt
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
 
 {{monster,frame,wide
@@ -357,7 +285,8 @@ Desperate refugees sometimes form angry mobs, driven by fear, hunger, or manipul
 - Flee if leaders fall or hope is offered
 - Can be calmed with Persuasion (DC 15)
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
 
 {{monster,frame,wide
@@ -396,7 +325,8 @@ The Border's constant violence creates ample food for ghouls. These undead scave
 - Use paralysis on dangerous foes
 - Feast mid-combat if possible
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
 
 {{monster,frame,wide
@@ -438,7 +368,8 @@ These drakes have claimed territories in the Border's ruins and caves. They're a
 - Use tail to knock down enemies
 - Flee to lair if seriously wounded
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
 
 {{monster,frame,wide
@@ -480,7 +411,8 @@ Both armies use war beasts—massive wolves, war dogs, or other predators bred a
 - Focus on frightened enemies
 - Protect handlers if trained
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
 
 {{monster,frame,wide
@@ -519,7 +451,8 @@ Some battlefields in the Border have seen so much death that the land itself bec
 - Roll for spectral spawns
 - Allow creative solutions (not just combat)
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
 # Chapter 2
 # Thaldros Military
@@ -560,7 +493,8 @@ Most of Thaldros's army consists of conscripted farmers, laborers, and urban poo
 - May surrender if treated well
 - Protect each other (poorly)
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
 
 {{monster,frame,wide
@@ -601,7 +535,8 @@ Professional soldiers of Thaldros are disciplined, well-equipped, and indoctrina
 - Follow orders strictly
 - Retreat only when commanded
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
 
 {{monster,frame,wide
@@ -641,7 +576,8 @@ The Iron Legion are Thaldros's internal security force—brutal enforcers who ma
 - Work in pairs or groups
 - Make examples of defiers
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
 
 {{monster,frame,wide
@@ -687,7 +623,8 @@ The Royal Guard are the elite soldiers of Thaldros, sworn to protect nobility an
 - Fight honorably but effectively
 - Coordinate attacks
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
 
 {{monster,frame,wide
@@ -739,7 +676,8 @@ State Inquisitors are Thaldros's secret police—spies, assassins, and interroga
 - Use Interrogate to extract info
 - Escape if discovered
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
 
 {{monster,frame,wide
@@ -777,7 +715,8 @@ Thaldros trains battle mages specifically for military operations. Unlike academ
 - *Misty step* away from danger
 - Conserve 5th level slot for emergency
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
 
 {{monster,frame,wide
@@ -824,7 +763,8 @@ Thaldros's military mages have created these massive constructs for sieges and l
 - Target clustered enemies with Boulder Launch
 - Ignore distractions
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
 
 {{monster,frame,wide
@@ -870,7 +810,8 @@ Thaldros generals sometimes send their personal champions to deal with important
 - Fight honorably but ruthlessly
 - Never surrender
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
 
 {{monster,frame,wide
@@ -918,7 +859,8 @@ The Iron Crown Knights are Thaldros's holy warriors, fanatically devoted to the 
 - Iron Command at start of combat
 - Protect important allies
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
 
 {{monster,frame,wide
@@ -980,7 +922,8 @@ In **Shattered Oaths**, he's a major antagonist—the final military obstacle be
 - Lead from the front but strategically
 - Respect worthy opponents
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
 # Chapter 3
 # Aethoria & Iron Guild
@@ -1019,7 +962,8 @@ ___
 ### LORE
 Untrained civilians who took up arms. Brave but inexperienced.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1051,7 +995,8 @@ ___
 ### LORE
 More experienced than militia. Fighting for families and freedom.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1084,7 +1029,8 @@ ___
 ### LORE
 Local heroes who stood up to tyranny. Inspirational leaders.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1107,7 +1053,8 @@ ___
 ### LORE
 Aethorian mages who use magic to free the oppressed.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1146,7 +1093,8 @@ ___
 ### LORE
 Former slaves who mastered martial arts. Dedicated to freeing others.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1181,7 +1129,8 @@ ___
 ### LORE
 Brilliant guerrilla leader. Master of ambush and hit-and-run tactics.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1224,7 +1173,8 @@ ___
 ### LORE
 Legendary resistance leader. Symbol of hope for all oppressed people.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1258,7 +1208,8 @@ ___
 ### LORE
 One of "the Seven" from prophecy. Destined hero.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 ## Iron Guild Mercenaries
@@ -1293,7 +1244,8 @@ ___
 ### LORE
 New mercenaries learning the trade. Disciplined and eager to prove themselves.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1325,7 +1277,8 @@ ___
 ### LORE
 Experienced fighters who've survived many contracts.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1357,7 +1310,8 @@ ___
 ### LORE
 Enforce Guild rules and handle troublemakers.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1392,7 +1346,8 @@ ___
 ### LORE
 Guild assassins for special contracts. Professional and ruthless.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1427,7 +1382,8 @@ ___
 ### LORE
 Lead mercenary squads. Respected tacticians and fighters.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1462,7 +1418,8 @@ ___
 ### LORE
 The Guildmaster's personal guard. Legendary mercenaries.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
 {{monster,frame,wide
@@ -1503,6 +1460,8 @@ ___
 ### LORE
 Founded Iron Guild. Legendary warrior and fair leader. Respected even by enemies.
 }}
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 # Chapter 4
 # Ascended & Ancient
@@ -1541,7 +1500,8 @@ ___
 ### LORE
 Paladins blessed by the Seven Ascended. Champions of good.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -1571,7 +1531,8 @@ ___
 ### LORE
 Chosen enforcers of Thandros, god of law. Hunt criminals and maintain order.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -1606,7 +1567,8 @@ ___
 ### LORE
 Divine servants of Aethor sent to break chains and free the oppressed.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -1636,7 +1598,8 @@ ___
 ### LORE
 Priests of Moira who see threads of fate. Cryptic but helpful.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -1672,7 +1635,8 @@ ___
 ### LORE
 Sylvara's chosen hunters. Defend wilderness, punish those who harm nature.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -1704,7 +1668,8 @@ ___
 ### LORE
 Sera's divine messengers. Heal wounded and offer mercy to repentant.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -1738,7 +1703,8 @@ ___
 ### LORE
 Mordain's chosen guardians. Protect sacred sites and honor the dead.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -1772,7 +1738,8 @@ ___
 ### LORE
 Heroes who broke their oaths or fell to corruption. Tragic enemies.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 ## Ancient & Prophecy
@@ -1807,7 +1774,8 @@ ___
 ### LORE
 Ancient constructs guarding prophetic sites. Test those who seek knowledge.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -1841,7 +1809,8 @@ ___
 ### LORE
 Cosmic entities who record prophecies. Neutral—they just observe and remember.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -1881,7 +1850,8 @@ ___
 ### LORE
 Ancient king whose dynasty fell. Part of the original "Seven" who failed. His throne is prophesied to be reclaimed.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -1916,7 +1886,8 @@ ___
 ### LORE
 Direct messenger of the Seven Ascended. Appears during pivotal moments.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 ## Corrupted & Cursed
@@ -1954,7 +1925,8 @@ ___
 ### LORE
 Spawn of war magic gone wrong. Corrupted by dark energies. Mindless and hungry.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -1990,7 +1962,8 @@ ___
 ### LORE
 Soldiers who died violently and rose as undead, twisted by rage and trauma.
 }}
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
 {{monster,frame,wide
@@ -2026,3 +1999,5 @@ ___
 ### LORE
 Result of powerful curses or exposure to corrupted magic. Was once human or beast.
 }}
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 4 - Ascended & Ancient</div>
