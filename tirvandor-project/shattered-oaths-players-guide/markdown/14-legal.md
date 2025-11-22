@@ -1,0 +1,8 @@
+- From the Temple of Aethor the Liberator
+- Welcome, hero.
+- Your destiny awaits.
+- The prophecy has spoken.
+- Now it's time to act.
+- END OF SHATTERED OATHS PLAYER'S GUIDE
+- Are you the hero the world needs?
+- Or the one it deserves?

@@ -1,0 +1,2 @@
+# CONTENTS
+*Auto-generated*
