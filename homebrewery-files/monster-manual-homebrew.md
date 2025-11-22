@@ -96,7 +96,7 @@
   }
 </style>
 
-![monster_manual_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/monster-manual-cover.png) {position:absolute,top:0px,left:0px,width:820px}
+![monster_manual_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/tirvandor-project/monster-manual-cover.png) {position:absolute,top:0px,left:0px,width:820px}
 \page
 # Chapter 1
 # Border Creatures
@@ -111,7 +111,7 @@ The contested lands between Thaldros and Aethoria are a lawless frontier where d
 ___
 **Armor Class** :: 12 (leather armor)
 **Hit Points** :: 11 (2d8 + 2)
-**Speed** :: 30 ft.![border bandit](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-border-bandit.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![border bandit](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-border-bandit.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -149,7 +149,7 @@ Border bandits are desperate refugees, deserters, or opportunists who prey on tr
 ___
 **Armor Class** :: 15 (studded leather)
 **Hit Points** :: 58 (9d8 + 18)
-**Speed** :: 30 ft.![smuggler captain](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-smuggler-captain.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![smuggler captain](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-smuggler-captain.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -197,7 +197,7 @@ Smuggler captains run illicit goods across the Border—weapons, refugees, contr
 ___
 **Armor Class** :: 17 (half plate)
 **Hit Points** :: 68 (8d8 + 32)
-**Speed** :: 30 ft.![war-scarred veteran](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-war-scarred-veteran.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![war-scarred veteran](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-war-scarred-veteran.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -242,7 +242,7 @@ These veterans have fought in countless Border skirmishes for both sides, mercen
 ___
 **Armor Class** :: 13
 **Hit Points** :: 67 (9d8 + 27)
-**Speed** :: 0 ft., fly 60 ft. (hover)![border wraith](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-border-wraith.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 0 ft., fly 60 ft. (hover)![border wraith](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-border-wraith.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -283,7 +283,7 @@ Border wraiths are the spirits of soldiers and civilians who died in the countle
 ___
 **Armor Class** :: 17 (natural armor)
 **Hit Points** :: 126 (12d10 + 60)
-**Speed** :: 30 ft., burrow 30 ft.![contested land elemental](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-contested-land-elemental.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft., burrow 30 ft.![contested land elemental](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-contested-land-elemental.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -326,7 +326,7 @@ These elementals form in the Border region, composed of earth from both nations.
 ___
 **Armor Class** :: 10
 **Hit Points** :: 39 (6d10 + 6)
-**Speed** :: 30 ft.![refugee mob](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-refugee-mob.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![refugee mob](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-refugee-mob.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -366,7 +366,7 @@ Desperate refugees sometimes form angry mobs, driven by fear, hunger, or manipul
 ___
 **Armor Class** :: 12
 **Hit Points** :: 22 (5d8)
-**Speed** :: 30 ft.![scavenger ghoul](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-scavenger-ghoul.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![scavenger ghoul](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-scavenger-ghoul.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -405,7 +405,7 @@ The Border's constant violence creates ample food for ghouls. These undead scave
 ___
 **Armor Class** :: 14 (natural armor)
 **Hit Points** :: 52 (7d10 + 14)
-**Speed** :: 30 ft., climb 30 ft.![territorial drake](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-territorial-drake.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft., climb 30 ft.![territorial drake](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-territorial-drake.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -447,7 +447,7 @@ These drakes have claimed territories in the Border's ruins and caves. They're a
 ___
 **Armor Class** :: 14 (natural armor)
 **Hit Points** :: 45 (6d10 + 12)
-**Speed** :: 50 ft.![war beast](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-war-beast.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 50 ft.![war beast](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-war-beast.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -489,7 +489,7 @@ Both armies use war beasts—massive wolves, war dogs, or other predators bred a
 ___
 **Armor Class** :: 15
 **Hit Points** :: 150 (12d20 + 24)
-**Speed** :: 0 ft.![haunted battlefield](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-haunted-battlefield.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 0 ft.![haunted battlefield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-haunted-battlefield.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -534,7 +534,7 @@ The iron fist of the Thaldros Empire—disciplined soldiers, ruthless inquisitor
 ___
 **Armor Class** :: 10 (no armor)
 **Hit Points** :: 4 (1d8)
-**Speed** :: 30 ft.![thaldros conscript](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-thaldros-conscript.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![thaldros conscript](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-thaldros-conscript.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -569,7 +569,7 @@ Most of Thaldros's army consists of conscripted farmers, laborers, and urban poo
 ___
 **Armor Class** :: 16 (chain shirt, shield)
 **Hit Points** :: 11 (2d8 + 2)
-**Speed** :: 30 ft.![thaldros soldier](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-thaldros-soldier.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![thaldros soldier](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-thaldros-soldier.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -610,7 +610,7 @@ Professional soldiers of Thaldros are disciplined, well-equipped, and indoctrina
 ___
 **Armor Class** :: 13 (leather armor)
 **Hit Points** :: 32 (5d8 + 10)
-**Speed** :: 30 ft.![iron legion enforcer](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-iron-legion-enforcer.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![iron legion enforcer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-iron-legion-enforcer.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -650,7 +650,7 @@ The Iron Legion are Thaldros's internal security force—brutal enforcers who ma
 ___
 **Armor Class** :: 18 (plate armor)
 **Hit Points** :: 52 (8d8 + 16)
-**Speed** :: 30 ft.![royal guard elite](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-royal-guard-elite.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![royal guard elite](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-royal-guard-elite.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -696,7 +696,7 @@ The Royal Guard are the elite soldiers of Thaldros, sworn to protect nobility an
 ___
 **Armor Class** :: 15 (studded leather)
 **Hit Points** :: 78 (12d8 + 24)
-**Speed** :: 30 ft.![state inquisitor](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-state-inquisitor.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![state inquisitor](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-state-inquisitor.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -748,7 +748,7 @@ State Inquisitors are Thaldros's secret police—spies, assassins, and interroga
 ___
 **Armor Class** :: 12 (15 with *mage armor*)
 **Hit Points** :: 66 (12d8 + 12)
-**Speed** :: 30 ft.![war mage of thaldros](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-war-mage-of-thaldros.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![war mage of thaldros](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-war-mage-of-thaldros.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -786,7 +786,7 @@ Thaldros trains battle mages specifically for military operations. Unlike academ
 ___
 **Armor Class** :: 17 (natural armor)
 **Hit Points** :: 157 (15d10 + 75)
-**Speed** :: 20 ft.![siege golem](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-siege-golem.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 20 ft.![siege golem](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-siege-golem.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -833,7 +833,7 @@ Thaldros's military mages have created these massive constructs for sieges and l
 ___
 **Armor Class** :: 18 (plate armor)
 **Hit Points** :: 143 (22d8 + 44)
-**Speed** :: 30 ft.![general's champion](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-generals-champion.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![general's champion](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-generals-champion.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -879,7 +879,7 @@ Thaldros generals sometimes send their personal champions to deal with important
 ___
 **Armor Class** :: 20 (plate armor +2, shield)
 **Hit Points** :: 153 (18d8 + 72)
-**Speed** :: 30 ft.![iron crown knight](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-iron-crown-knight.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![iron crown knight](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-iron-crown-knight.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -927,7 +927,7 @@ The Iron Crown Knights are Thaldros's holy warriors, fanatically devoted to the 
 ___
 **Armor Class** :: 21 (plate armor +3, shield +1)
 **Hit Points** :: 187 (22d8 + 88)
-**Speed** :: 30 ft.![lord commander varius](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-lord-commander-varius-military-leader.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![lord commander varius](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-lord-commander-varius-military-leader.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -998,7 +998,7 @@ Brave souls fighting for liberation from Thaldros rule.
 ___
 **Armor Class** :: 12 (leather armor)
 **Hit Points** :: 9 (2d8)
-**Speed** :: 30 ft.![aethorian militia](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-aethorian-militia.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![aethorian militia](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-aethorian-militia.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1028,7 +1028,7 @@ Untrained civilians who took up arms. Brave but inexperienced.
 ___
 **Armor Class** :: 14 (leather armor)
 **Hit Points** :: 16 (3d8 + 3)
-**Speed** :: 30 ft.![resistance fighter](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-resistance-fighter.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![resistance fighter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-resistance-fighter.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1060,7 +1060,7 @@ More experienced than militia. Fighting for families and freedom.
 ___
 **Armor Class** :: 16 (chainmail)
 **Hit Points** :: 58 (9d8 + 18)
-**Speed** :: 30 ft.![people's champion](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-peoples-champion.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![people's champion](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-peoples-champion.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1093,7 +1093,7 @@ Local heroes who stood up to tyranny. Inspirational leaders.
 ___
 **Armor Class** :: 12 (15 with *mage armor*)
 **Hit Points** :: 49 (11d8)
-**Speed** :: 30 ft.![revolutionary mage](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-revolutionary-mage.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![revolutionary mage](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-revolutionary-mage.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1116,7 +1116,7 @@ Aethorian mages who use magic to free the oppressed.
 ___
 **Armor Class** :: 17
 **Hit Points** :: 91 (14d8 + 28)
-**Speed** :: 50 ft.![chain breaker monk](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-chain-breaker-monk.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 50 ft.![chain breaker monk](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-chain-breaker-monk.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1155,7 +1155,7 @@ Former slaves who mastered martial arts. Dedicated to freeing others.
 ___
 **Armor Class** :: 16 (studded leather +1)
 **Hit Points** :: 117 (18d8 + 36)
-**Speed** :: 30 ft.![guerrilla commander](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-guerrilla-commander.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![guerrilla commander](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-guerrilla-commander.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1190,7 +1190,7 @@ Brilliant guerrilla leader. Master of ambush and hit-and-run tactics.
 ___
 **Armor Class** :: 19 (studded leather +3)
 **Hit Points** :: 178 (21d8 + 84)
-**Speed** :: 40 ft.![the liberator](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-the-liberator.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 40 ft.![the liberator](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-the-liberator.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1233,7 +1233,7 @@ Legendary resistance leader. Symbol of hope for all oppressed people.
 ___
 **Armor Class** :: 20 (plate +1, shield +1)
 **Hit Points** :: 210 (20d8 + 120)
-**Speed** :: 30 ft.![prophesied hero](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-prophesied-hero.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![prophesied hero](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-prophesied-hero.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1272,7 +1272,7 @@ Professional soldiers for hire—loyal only to the contract.
 ___
 **Armor Class** :: 14 (leather, shield)
 **Hit Points** :: 16 (3d8 + 3)
-**Speed** :: 30 ft.![guild recruit](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-guild-recruit.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![guild recruit](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-guild-recruit.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1302,7 +1302,7 @@ New mercenaries learning the trade. Disciplined and eager to prove themselves.
 ___
 **Armor Class** :: 16 (chain shirt, shield)
 **Hit Points** :: 45 (7d8 + 14)
-**Speed** :: 30 ft.![veteran mercenary](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-veteran-mercenary.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![veteran mercenary](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-veteran-mercenary.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1334,7 +1334,7 @@ Experienced fighters who've survived many contracts.
 ___
 **Armor Class** :: 17 (half plate)
 **Hit Points** :: 68 (8d8 + 32)
-**Speed** :: 30 ft.![guild enforcer](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-guild-enforcer.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![guild enforcer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-guild-enforcer.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1366,7 +1366,7 @@ Enforce Guild rules and handle troublemakers.
 ___
 **Armor Class** :: 15 (studded leather)
 **Hit Points** :: 78 (12d8 + 24)
-**Speed** :: 30 ft.![contract killer](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-contract-killer.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![contract killer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-contract-killer.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1401,7 +1401,7 @@ Guild assassins for special contracts. Professional and ruthless.
 ___
 **Armor Class** :: 18 (plate)
 **Hit Points** :: 135 (18d8 + 54)
-**Speed** :: 30 ft.![iron guild captain](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-iron-guild-captain.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![iron guild captain](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-iron-guild-captain.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1436,7 +1436,7 @@ Lead mercenary squads. Respected tacticians and fighters.
 ___
 **Armor Class** :: 19 (plate +1)
 **Hit Points** :: 165 (22d8 + 66)
-**Speed** :: 30 ft.![guildmaster's elite](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-guildmasters-elite.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![guildmaster's elite](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-guildmasters-elite.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1471,7 +1471,7 @@ The Guildmaster's personal guard. Legendary mercenaries.
 ___
 **Armor Class** :: 20 (plate +2, shield +1)
 **Hit Points** :: 195 (23d8 + 92)
-**Speed** :: 25 ft.![garrick ironheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-garrick-ironheart-guildmaster.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 25 ft.![garrick ironheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-garrick-ironheart-guildmaster.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1519,7 +1519,7 @@ Champions blessed by the gods.
 ___
 **Armor Class** :: 18 (plate)
 **Hit Points** :: 52 (8d8 + 16)
-**Speed** :: 30 ft.![blessed paladin](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-blessed-paladin.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![blessed paladin](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-blessed-paladin.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1550,7 +1550,7 @@ Paladins blessed by the Seven Ascended. Champions of good.
 ___
 **Armor Class** :: 17 (chain mail, shield)
 **Hit Points** :: 91 (14d8 + 28)
-**Speed** :: 30 ft.![thandros's justicar](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-thandross-justicar.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![thandros's justicar](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-thandross-justicar.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1580,7 +1580,7 @@ Chosen enforcers of Thandros, god of law. Hunt criminals and maintain order.
 ___
 **Armor Class** :: 17 (natural)
 **Hit Points** :: 136 (16d8 + 64)
-**Speed** :: 30 ft., fly 90 ft.![aethor's liberator](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-aethors-liberator.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft., fly 90 ft.![aethor's liberator](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-aethors-liberator.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1615,7 +1615,7 @@ Divine servants of Aethor sent to break chains and free the oppressed.
 ___
 **Armor Class** :: 12 (15 with *mage armor*)
 **Hit Points** :: 60 (11d8 + 11)
-**Speed** :: 30 ft.![moira's seer](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-moira-seer.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![moira's seer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-moira-seer.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1645,7 +1645,7 @@ Priests of Moira who see threads of fate. Cryptic but helpful.
 ___
 **Armor Class** :: 16 (natural)
 **Hit Points** :: 127 (15d8 + 60)
-**Speed** :: 40 ft.![sylvara's wild hunter](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-sylvaras-wild-hunter.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 40 ft.![sylvara's wild hunter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-sylvaras-wild-hunter.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1681,7 +1681,7 @@ Sylvara's chosen hunters. Defend wilderness, punish those who harm nature.
 ___
 **Armor Class** :: 14
 **Hit Points** :: 45 (10d6 + 10)
-**Speed** :: 30 ft., fly 60 ft.![sera's mercy](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-seras-mercy.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft., fly 60 ft.![sera's mercy](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-seras-mercy.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1713,7 +1713,7 @@ Sera's divine messengers. Heal wounded and offer mercy to repentant.
 ___
 **Armor Class** :: 20 (plate, shield)
 **Hit Points** :: 180 (19d8 + 95)
-**Speed** :: 30 ft.![mordain's sentinel](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-mordains-sentinel.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![mordain's sentinel](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-mordains-sentinel.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1747,7 +1747,7 @@ Mordain's chosen guardians. Protect sacred sites and honor the dead.
 ___
 **Armor Class** :: 18 (plate)
 **Hit Points** :: 135 (18d8 + 54)
-**Speed** :: 30 ft.![fallen champion](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-fallen-champion.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![fallen champion](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-fallen-champion.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1785,7 +1785,7 @@ Timeless guardians and prophetic beings.
 ___
 **Armor Class** :: 17 (natural)
 **Hit Points** :: 178 (17d10 + 85)
-**Speed** :: 20 ft.![ancient guardian](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-ancient-guardian.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 20 ft.![ancient guardian](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-ancient-guardian.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1816,7 +1816,7 @@ Ancient constructs guarding prophetic sites. Test those who seek knowledge.
 ___
 **Armor Class** :: 15 (natural)
 **Hit Points** :: 142 (15d8 + 75)
-**Speed** :: 0 ft., fly 40 ft. (hover)![prophecy keeper](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-prophecy-keeper.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 0 ft., fly 40 ft. (hover)![prophecy keeper](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-prophecy-keeper.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1850,7 +1850,7 @@ Cosmic entities who record prophecies. Neutral—they just observe and remember.
 ___
 **Armor Class** :: 17 (natural)
 **Hit Points** :: 135 (18d8 + 54)
-**Speed** :: 30 ft.![forgotten king](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-forgotten-king.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![forgotten king](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-forgotten-king.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1890,7 +1890,7 @@ Ancient king whose dynasty fell. Part of the original "Seven" who failed. His th
 ___
 **Armor Class** :: 19 (natural)
 **Hit Points** :: 200 (16d10 + 112)
-**Speed** :: 40 ft., fly 120 ft.![herald of the seven](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-herald-of-the-seven.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 40 ft., fly 120 ft.![herald of the seven](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-herald-of-the-seven.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1931,7 +1931,7 @@ Twisted by war and dark magic.
 ___
 **Armor Class** :: 9
 **Hit Points** :: 67 (9d6 + 36)
-**Speed** :: 10 ft., swim 10 ft.![corruption spawn](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-corruption-spawn.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 10 ft., swim 10 ft.![corruption spawn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-corruption-spawn.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1963,7 +1963,7 @@ Spawn of war magic gone wrong. Corrupted by dark energies. Mindless and hungry.
 ___
 **Armor Class** :: 14 (armor scraps)
 **Hit Points** :: 97 (13d8 + 39)
-**Speed** :: 30 ft.![war-twisted soldier](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-war-twisted-soldier.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![war-twisted soldier](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-war-twisted-soldier.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1999,7 +1999,7 @@ Soldiers who died violently and rose as undead, twisted by rage and trauma.
 ___
 **Armor Class** :: 15 (natural)
 **Hit Points** :: 126 (12d10 + 60)
-**Speed** :: 40 ft., climb 40 ft.![curse bearer](https://raw.githubusercontent.com/mixologee/tirvandor/main/monster-manual/images/portraits/tirvandor-monster-curse-bearer.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 40 ft., climb 40 ft.![curse bearer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-curse-bearer.jpg) {width:325px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
