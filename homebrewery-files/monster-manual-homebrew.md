@@ -25,8 +25,15 @@
 # Border Creatures
 
 The contested lands between Thaldros and Aethoria are a lawless frontier where desperate souls eke out survival among ancient ruins and war-scarred terrain.
-
-:::::::::::::
+\column
+## BORDER BANDIT
+### LORE
+Border bandits are desperate refugees, deserters, or opportunists who prey on travelers in the contested lands. They know the terrain intimately and fight with the desperation of those with nothing left to lose.
+### TACTICS
+- Use terrain for ambushes
+- Target weakest-looking party member
+- Flee when outnumbered or badly wounded
+- May surrender if offered mercy
 
 {{monster,frame,wide
 ## BORDER BANDIT
@@ -55,17 +62,25 @@ ___
 
 **Light Crossbow.** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
-### LORE
-Border bandits are desperate refugees, deserters, or opportunists who prey on travelers in the contested lands. They know the terrain intimately and fight with the desperation of those with nothing left to lose.
-### TACTICS
-- Use terrain for ambushes
-- Target weakest-looking party member
-- Flee when outnumbered or badly wounded
-- May surrender if offered mercy
 }}
+
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
+## SMUGGLER CAPTAIN
+
+### LORE
+Smuggler captains run illicit goods across the Border—weapons, refugees, contraband, and information. They're neutral parties in the conflict, caring only for profit, but their networks make them valuable allies or dangerous enemies.
+
+### TACTICS
+- Negotiate before fighting if possible
+- Use Cunning Action to stay mobile
+- Call for backup if losing
+- Always have an escape route planned
+
+ ::
+ 
 
 {{monster,frame,wide
 ## SMUGGLER CAPTAIN
@@ -74,6 +89,7 @@ ___
 **Armor Class** :: 15 (studded leather)
 **Hit Points** :: 58 (9d8 + 18)
 **Speed** :: 30 ft.![smuggler captain](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-smuggler-captain.jpg) {width:325px,mix-blend-mode:multiply}
+\column
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -103,18 +119,24 @@ ___
 
 ### REACTIONS
 **Parry.** The captain adds 2 to their AC against one melee attack that would hit them. To do so, the captain must see the attacker and be wielding a melee weapon.
-
-### LORE
-Smuggler captains run illicit goods across the Border—weapons, refugees, contraband, and information. They're neutral parties in the conflict, caring only for profit, but their networks make them valuable allies or dangerous enemies.
-### TACTICS
-- Negotiate before fighting if possible
-- Use Cunning Action to stay mobile
-- Call for backup if losing
-- Always have an escape route planned
 }}
+
+
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
+## WAR-SCARRED VETERAN
+### LORE
+These veterans have fought in countless Border skirmishes for both sides, mercenary bands, or their own survival. They're hard as nails, cynical, and incredibly difficult to kill. Many become mercenaries, bandits, or hermits.
+
+### TACTICS
+- Fight defensively, conserving energy
+- Use intimidation to avoid fights
+- Know when to retreat (and how)
+- Protect allies instinctively
+
+::
 
 {{monster,frame,wide
 ## WAR-SCARRED VETERAN
@@ -149,18 +171,23 @@ ___
 **Longbow.** *Ranged Weapon Attack:* +3 to hit, range 150/600 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
 
 **Intimidating Presence (Recharge 5-6).** The veteran roars a challenge. Each enemy within 30 feet that can see or hear the veteran must make a DC 13 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on a success.
-
-### LORE
-These veterans have fought in countless Border skirmishes for both sides, mercenary bands, or their own survival. They're hard as nails, cynical, and incredibly difficult to kill. Many become mercenaries, bandits, or hermits.
-### TACTICS
-- Fight defensively, conserving energy
-- Use intimidation to avoid fights
-- Know when to retreat (and how)
-- Protect allies instinctively
 }}
+
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
+## BORDER WRAITH
+
+### LORE
+Border wraiths are the spirits of soldiers and civilians who died in the countless conflicts in the Border region. They're drawn to battles, feeding on death and violence. Some retain fragments of their former identities and may be laid to rest if their remains are properly buried.
+### TACTICS
+- Ambush from walls/objects
+- Target squishier party members
+- Use Create Specter on fallen enemies
+- Flee if seriously injured (unless enraged)
+
+ ::
 
 {{monster,frame,wide
 ## BORDER WRAITH
@@ -192,18 +219,22 @@ ___
 
 **Create Specter.** The wraith targets a humanoid within 10 feet of it that died violently in the last minute. The target's spirit rises as a specter under the wraith's control. The wraith can have no more than three specters under its control at one time.
 
-### LORE
-Border wraiths are the spirits of soldiers and civilians who died in the countless conflicts in the Border region. They're drawn to battles, feeding on death and violence. Some retain fragments of their former identities and may be laid to rest if their remains are properly buried.
-### TACTICS
-- Ambush from walls/objects
-- Target squishier party members
-- Use Create Specter on fallen enemies
-- Flee if seriously injured (unless enraged)
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
+## CONTESTED LAND ELEMENTAL
 
+### LORE
+These elementals form in the Border region, composed of earth from both nations. The constant conflict and bloodshed has made the land itself angry and unstable. They attack anyone who further damages the land but may ignore peaceful travelers.
+### TACTICS
+- Emerge from underground (surprise)
+- Focus on those damaging terrain
+- Use Border Quake to knock down groups
+- Retreat underground if badly hurt
+
+ ::
+ 
 {{monster,frame,wide
 ## CONTESTED LAND ELEMENTAL
 *Large elemental, neutral*
@@ -235,18 +266,22 @@ ___
 **Slam.** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 
 **Border Quake (Recharge 5-6).** The elemental strikes the ground, creating a localized earthquake. Each creature on the ground within 20 feet must make a DC 15 Strength saving throw. On a failure, a creature takes 18 (4d8) bludgeoning damage and is knocked prone. On a success, the creature takes half damage and isn't knocked prone. Additionally, the ground in that area becomes difficult terrain until cleared.
-
-### LORE
-These elementals form in the Border region, composed of earth from both nations. The constant conflict and bloodshed has made the land itself angry and unstable. They attack anyone who further damages the land but may ignore peaceful travelers.
-### TACTICS
-- Emerge from underground (surprise)
-- Focus on those damaging terrain
-- Use Border Quake to knock down groups
-- Retreat underground if badly hurt
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
+## REFUGEE MOB
+
+### LORE
+Desperate refugees sometimes form angry mobs, driven by fear, hunger, or manipulation. They're not evil—just desperate people in terrible circumstances. Most will flee or surrender if given the opportunity.
+
+### TACTICS
+- Overwhelm through numbers
+- Target obvious threats
+- Flee if leaders fall or hope is offered
+- Can be calmed with Persuasion (DC 15)
+
+ ::
 
 {{monster,frame,wide
 ## REFUGEE MOB
@@ -276,19 +311,22 @@ ___
 
 ### REACTIONS
 **Stampede.** When the mob takes damage from an area effect, it can move up to its speed away from the source of danger. This movement doesn't provoke opportunity attacks.
-
-### LORE
-Desperate refugees sometimes form angry mobs, driven by fear, hunger, or manipulation. They're not evil—just desperate people in terrible circumstances. Most will flee or surrender if given the opportunity.
-### TACTICS
-- Overwhelm through numbers
-- Target obvious threats
-- Flee if leaders fall or hope is offered
-- Can be calmed with Persuasion (DC 15)
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
+## SCAVENGER GHOUL
 
+### LORE
+The Border's constant violence creates ample food for ghouls. These undead scavengers lurk near battlefields and ambush sites, waiting for fresh corpses—or making their own.
+### TACTICS
+- Hunt in packs (2-8 ghouls)
+- Target wounded enemies
+- Use paralysis on dangerous foes
+- Feast mid-combat if possible
+
+ ::
+ 
 {{monster,frame,wide
 ## SCAVENGER GHOUL
 *Medium undead, chaotic evil*
@@ -317,17 +355,23 @@ ___
 
 **Corpse Feast (Recharge 5-6).** If the ghoul is adjacent to a corpse or unconscious creature, it can spend its action feeding. It regains 10 (3d6) hit points.
 
-### LORE
-The Border's constant violence creates ample food for ghouls. These undead scavengers lurk near battlefields and ambush sites, waiting for fresh corpses—or making their own.
-### TACTICS
-- Hunt in packs (2-8 ghouls)
-- Target wounded enemies
-- Use paralysis on dangerous foes
-- Feast mid-combat if possible
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
+## TERRITORIAL DRAKE
+
+### LORE
+These drakes have claimed territories in the Border's ruins and caves. They're aggressive toward intruders but intelligent enough to recognize when they're outmatched. Some mercenary bands have trained them as mounts or guards.
+
+### TACTICS
+- Ambush from high ground
+- Work in pairs if possible
+- Use tail to knock down enemies
+- Flee to lair if seriously wounded
+
+ ::
 
 {{monster,frame,wide
 ## TERRITORIAL DRAKE
@@ -359,19 +403,22 @@ ___
 **Tail.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage, and the target must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 **Warning Roar (Recharge 5-6).** The drake roars, alerting other drakes in a 1-mile radius. Allied drakes within 60 feet gain advantage on their next attack roll.
-
-### LORE
-These drakes have claimed territories in the Border's ruins and caves. They're aggressive toward intruders but intelligent enough to recognize when they're outmatched. Some mercenary bands have trained them as mounts or guards.
-### TACTICS
-- Ambush from high ground
-- Work in pairs if possible
-- Use tail to knock down enemies
-- Flee to lair if seriously wounded
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
+## WAR BEAST
 
+### LORE
+Both armies use war beasts—massive wolves, war dogs, or other predators bred and trained for combat. Some have escaped and gone feral in the Border, becoming apex predators.
+### TACTICS
+- Hunt in packs (2-5 beasts)
+- Use Pounce to knock down targets
+- Focus on frightened enemies
+- Protect handlers if trained
+
+ ::
+ 
 {{monster,frame,wide
 ## WAR BEAST
 *Large beast, unaligned*
@@ -403,18 +450,23 @@ ___
 
 **Intimidating Howl (Recharge 5-6).** The beast howls. Each enemy within 30 feet that can hear it must succeed on a DC 11 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on a success.
 
-### LORE
-Both armies use war beasts—massive wolves, war dogs, or other predators bred and trained for combat. Some have escaped and gone feral in the Border, becoming apex predators.
-### TACTICS
-- Hunt in packs (2-5 beasts)
-- Use Pounce to knock down targets
-- Focus on frightened enemies
-- Protect handlers if trained
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
+## HAUNTED BATTLEFIELD
 
+### LORE
+Some battlefields in the Border have seen so much death that the land itself became haunted. These cursed areas trap the spirits of fallen soldiers, endlessly reenacting their final battle. The only way to permanently end a haunted battlefield is to consecrate it with proper funeral rites—a dangerous undertaking.
+
+### TACTICS
+- Describe the horror and chaos
+- Track who enters the area
+- Roll for spectral spawns
+- Allow creative solutions (not just combat)
+
+ ::
+ 
 {{monster,frame,wide
 ## HAUNTED BATTLEFIELD
 *Gargantuan hazard/swarm, chaotic neutral*
@@ -422,6 +474,7 @@ ___
 **Armor Class** :: 15
 **Hit Points** :: 150 (12d20 + 24)
 **Speed** :: 0 ft.![haunted battlefield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-haunted-battlefield.jpg) {width:325px,mix-blend-mode:multiply}
+\column
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -443,13 +496,7 @@ ___
 ### ACTIONS
 **Phantom Army (Recharge 5-6).** At initiative count 20, the battlefield can summon a phantom army. All creatures in the area see ghostly soldiers fighting and dying around them. Each creature must make a DC 15 Wisdom saving throw. On a failure, a creature takes 22 (4d10) psychic damage and is frightened until the end of its next turn. On a success, the creature takes half damage and isn't frightened.
 
-### LORE
-Some battlefields in the Border have seen so much death that the land itself became haunted. These cursed areas trap the spirits of fallen soldiers, endlessly reenacting their final battle. The only way to permanently end a haunted battlefield is to consecrate it with proper funeral rites—a dangerous undertaking.
-### TACTICS
-- Describe the horror and chaos
-- Track who enters the area
-- Roll for spectral spawns
-- Allow creative solutions (not just combat)
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
@@ -459,8 +506,20 @@ Some battlefields in the Border have seen so much death that the land itself bec
 
 The iron fist of the Thaldros Empire—disciplined soldiers, ruthless inquisitors, and devastating war machines that enforce the Emperor's will.
 
-:::::::::::::
+\column
+## THALDROS CONSCRIPT
 
+### LORE
+Most of Thaldros's army consists of conscripted farmers, laborers, and urban poor. They're given minimal training and thrown into battle. Many desert if given the chance. Conscripts often have families back home they're fighting to return to.
+
+### TACTICS
+- Fight in large groups (5-20)
+- Flee if leaders fall
+- May surrender if treated well
+- Protect each other (poorly)
+
+ ::
+ 
 {{monster,frame,wide
 ## THALDROS CONSCRIPT
 *Medium humanoid (any race), lawful neutral*
@@ -484,19 +543,23 @@ ___
 ___
 ### ACTIONS
 **Spear.** *Melee or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands for a melee attack.
-
-### LORE
-Most of Thaldros's army consists of conscripted farmers, laborers, and urban poor. They're given minimal training and thrown into battle. Many desert if given the chance. Conscripts often have families back home they're fighting to return to.
-### TACTICS
-- Fight in large groups (5-20)
-- Flee if leaders fall
-- May surrender if treated well
-- Protect each other (poorly)
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
+## THALDROS SOLDIER
 
+### LORE
+Professional soldiers of Thaldros are disciplined, well-equipped, and indoctrinated into loyalty to the empire. Unlike conscripts, they're career soldiers who believe in Thaldros's vision of order and stability.
+
+### TACTICS
+- Fight in formation (shield wall)
+- Support allies
+- Follow orders strictly
+- Retreat only when commanded
+
+::
+ 
 {{monster,frame,wide
 ## THALDROS SOLDIER
 *Medium humanoid (any race), lawful neutral*
@@ -527,18 +590,23 @@ ___
 ### REACTIONS
 **Shield Wall.** When an ally within 5 feet is hit by an attack, the soldier can grant them +2 to AC against that attack.
 
-### LORE
-Professional soldiers of Thaldros are disciplined, well-equipped, and indoctrinated into loyalty to the empire. Unlike conscripts, they're career soldiers who believe in Thaldros's vision of order and stability.
-### TACTICS
-- Fight in formation (shield wall)
-- Support allies
-- Follow orders strictly
-- Retreat only when commanded
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
+## IRON LEGION ENFORCER
 
+### LORE
+The Iron Legion are Thaldros's internal security force—brutal enforcers who maintain order through fear and violence. They're called when the regular army isn't cruel enough. Hated by commoners and feared even by soldiers.
+
+### TACTICS
+- Use intimidation liberally
+- Beat down resisters
+- Work in pairs or groups
+- Make examples of defiers
+
+ ::
+ 
 {{monster,frame,wide
 ## IRON LEGION ENFORCER
 *Medium humanoid (any race), lawful evil*
@@ -568,18 +636,23 @@ ___
 
 **Intimidate.** The enforcer targets one creature it can see within 30 feet. The target must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A frightened target can repeat the save at the end of each of its turns, ending the effect on a success.
 
-### LORE
-The Iron Legion are Thaldros's internal security force—brutal enforcers who maintain order through fear and violence. They're called when the regular army isn't cruel enough. Hated by commoners and feared even by soldiers.
-### TACTICS
-- Use intimidation liberally
-- Beat down resisters
-- Work in pairs or groups
-- Make examples of defiers
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
+## ROYAL GUARD ELITE
 
+### LORE
+The Royal Guard are the elite soldiers of Thaldros, sworn to protect nobility and enforce the king's will. They're highly trained, well-equipped, and fanatically loyal. Unlike Iron Legion thugs, Royal Guards are respected even by their enemies.
+
+### TACTICS
+- Protect VIPs at all costs
+- Use Leadership to buff allies
+- Fight honorably but effectively
+- Coordinate attacks
+
+ ::
+ 
 {{monster,frame,wide
 ## ROYAL GUARD ELITE
 *Medium humanoid (any race), lawful neutral*
@@ -614,19 +687,23 @@ ___
 
 ### REACTIONS
 **Parry.** The guard adds 2 to their AC against one melee attack that would hit them.
-
-### LORE
-The Royal Guard are the elite soldiers of Thaldros, sworn to protect nobility and enforce the king's will. They're highly trained, well-equipped, and fanatically loyal. Unlike Iron Legion thugs, Royal Guards are respected even by their enemies.
-### TACTICS
-- Protect VIPs at all costs
-- Use Leadership to buff allies
-- Fight honorably but effectively
-- Coordinate attacks
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
+## STATE INQUISITOR
 
+### LORE
+State Inquisitors are Thaldros's secret police—spies, assassins, and interrogators who root out dissent and eliminate threats to the empire. They're feared throughout Tirvandor and operate with complete authority.
+
+### TACTICS
+- Gather intelligence first
+- Poisoned weapons on priority targets
+- Use Interrogate to extract info
+- Escape if discovered
+
+ ::
+ 
 {{monster,frame,wide
 ## STATE INQUISITOR
 *Medium humanoid (any race), lawful evil*
@@ -634,6 +711,7 @@ ___
 **Armor Class** :: 15 (studded leather)
 **Hit Points** :: 78 (12d8 + 24)
 **Speed** :: 30 ft.![state inquisitor](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-state-inquisitor.jpg) {width:325px,mix-blend-mode:multiply}
+\column
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -667,19 +745,24 @@ ___
 
 ### REACTIONS
 **Uncanny Dodge.** When an attacker the inquisitor can see hits them with an attack, they can halve the attack's damage.
-
-### LORE
-State Inquisitors are Thaldros's secret police—spies, assassins, and interrogators who root out dissent and eliminate threats to the empire. They're feared throughout Tirvandor and operate with complete authority.
-### TACTICS
-- Gather intelligence first
-- Poisoned weapons on priority targets
-- Use Interrogate to extract info
-- Escape if discovered
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
+## WAR MAGE OF THALDROS
 
+### LORE
+Thaldros trains battle mages specifically for military operations. Unlike academic wizards, War Mages focus on destructive evocation magic and battlefield control. They're attached to military units and respected (and feared) by soldiers.
+
+### TACTICS
+- Stay behind front line
+- Use *fireball* and *lightning bolt* on groups
+- *Counterspell* enemy magic
+- *Misty step* away from danger
+- Conserve 5th level slot for emergency
+
+ ::
+ 
 {{monster,frame,wide
 ## WAR MAGE OF THALDROS
 *Medium humanoid (any race), lawful neutral*
@@ -705,20 +788,23 @@ ___
 ___
 ### ACTIONS
 **Quarterstaff.** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) if used with two hands.
-
-### LORE
-Thaldros trains battle mages specifically for military operations. Unlike academic wizards, War Mages focus on destructive evocation magic and battlefield control. They're attached to military units and respected (and feared) by soldiers.
-### TACTICS
-- Stay behind front line
-- Use *fireball* and *lightning bolt* on groups
-- *Counterspell* enemy magic
-- *Misty step* away from danger
-- Conserve 5th level slot for emergency
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
+## SIEGE GOLEM
 
+### LORE
+Thaldros's military mages have created these massive constructs for sieges and large battles. They're slow but nearly unstoppable, designed to break through fortifications and scatter enemy formations.
+
+### TACTICS
+- Advance slowly and steadily
+- Focus on structures in Siege Mode
+- Target clustered enemies with Boulder Launch
+- Ignore distractions
+
+ ::
+ 
 {{monster,frame,wide
 ## SIEGE GOLEM
 *Large construct, unaligned*
@@ -754,19 +840,22 @@ ___
 **Boulder Launch (Recharge 5-6).** *Ranged Weapon Attack:* +10 to hit, range 60/240 ft., one target. *Hit:* 32 (4d12 + 6) bludgeoning damage. If the target is a structure, it takes double damage.
 
 **Siege Mode (1/Day).** For 1 minute, the golem becomes rooted in place (speed 0) but gains advantage on attack rolls and its attacks deal maximum damage to structures.
-
-### LORE
-Thaldros's military mages have created these massive constructs for sieges and large battles. They're slow but nearly unstoppable, designed to break through fortifications and scatter enemy formations.
-### TACTICS
-- Advance slowly and steadily
-- Focus on structures in Siege Mode
-- Target clustered enemies with Boulder Launch
-- Ignore distractions
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
+## GENERAL'S CHAMPION
 
+### LORE
+Thaldros generals sometimes send their personal champions to deal with important threats or lead special missions. These warriors are the best of the best—veterans of countless battles, master tacticians, and nearly unbeatable in single combat.
+### TACTICS
+- Challenge the strongest enemy
+- Use Rally to support troops
+- Fight honorably but ruthlessly
+- Never surrender
+
+ ::
+ 
 {{monster,frame,wide
 ## GENERAL'S CHAMPION
 *Medium humanoid (any race), lawful neutral*
@@ -801,19 +890,23 @@ ___
 
 ### REACTIONS
 **Parry.** The champion adds 4 to their AC against one melee attack that would hit them.
-
-### LORE
-Thaldros generals sometimes send their personal champions to deal with important threats or lead special missions. These warriors are the best of the best—veterans of countless battles, master tacticians, and nearly unbeatable in single combat.
-### TACTICS
-- Challenge the strongest enemy
-- Use Rally to support troops
-- Fight honorably but ruthlessly
-- Never surrender
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
+## IRON CROWN KNIGHT
 
+### LORE
+The Iron Crown Knights are Thaldros's holy warriors, fanatically devoted to the concept of ordered civilization through strength. They're paladins who've sworn the Oath of the Iron Crown and serve as both warriors and enforcers of imperial law.
+
+### TACTICS
+- Use Aura of Tyranny to buff allies
+- Command the battlefield
+- Iron Command at start of combat
+- Protect important allies
+
+ ::
+ 
 {{monster,frame,wide
 ## IRON CROWN KNIGHT
 *Medium humanoid (any race), lawful evil*
@@ -850,19 +943,24 @@ ___
 
 ### REACTIONS
 **Oath of Protection.** When a creature within 5 feet is hit by an attack, the knight can make that attack target them instead.
-
-### LORE
-The Iron Crown Knights are Thaldros's holy warriors, fanatically devoted to the concept of ordered civilization through strength. They're paladins who've sworn the Oath of the Iron Crown and serve as both warriors and enforcers of imperial law.
-### TACTICS
-- Use Aura of Tyranny to buff allies
-- Command the battlefield
-- Iron Command at start of combat
-- Protect important allies
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
+## LORD COMMANDER VARIUS
 
+### LORE
+Lord Commander Varius is Thaldros's supreme military leader—a brilliant tactician, legendary warrior, and unshakeable loyalist. He's not evil, but he genuinely believes in Thaldros's vision of ordered civilization. Many soldiers would die for him, and even his enemies respect him.
+
+### TACTICS
+- Command the battlefield
+- Use Tactical Genius and Legendary Actions to control action economy
+- Rally troops when needed
+- Lead from the front but strategically
+- Respect worthy opponents
+
+ ::
+ 
 {{monster,frame,wide
 ## LORD COMMANDER VARIUS
 *Medium humanoid (human), lawful neutral*
@@ -870,6 +968,7 @@ ___
 **Armor Class** :: 21 (plate armor +3, shield +1)
 **Hit Points** :: 187 (22d8 + 88)
 **Speed** :: 30 ft.![lord commander varius](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-lord-commander-varius-military-leader.jpg) {width:325px,mix-blend-mode:multiply}
+\column
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -909,18 +1008,6 @@ ___
 **Rally (Costs 2 Actions).** Each ally within 30 feet regains 15 hit points and gains advantage on their next attack roll.
 
 **Tactical Reposition (Costs 3 Actions).** Varius and up to four allies within 60 feet can move up to their speed without provoking opportunity attacks.
-
-### LORE
-Lord Commander Varius is Thaldros's supreme military leader—a brilliant tactician, legendary warrior, and unshakeable loyalist. He's not evil, but he genuinely believes in Thaldros's vision of ordered civilization. Many soldiers would die for him, and even his enemies respect him.
-
-In **Blood & Coin**, he may hire the party for missions or become an honorable foe.  
-In **Shattered Oaths**, he's a major antagonist—the final military obstacle before the true villain.
-### TACTICS
-- Command the battlefield
-- Use Tactical Genius and Legendary Actions to control action economy
-- Rally troops when needed
-- Lead from the front but strategically
-- Respect worthy opponents
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
@@ -929,12 +1016,22 @@ In **Shattered Oaths**, he's a major antagonist—the final military obstacle be
 # Aethoria & Iron Guild
 
 Freedom fighters struggling against tyranny and professional mercenaries who serve only coin.
-\column
+
 ## Aethoria Resistance
 
 Brave souls fighting for liberation from Thaldros rule.
-::::::
 
+ ::
+ 
+\column
+
+## AETHORIAN MILITIA
+
+### LORE
+Untrained civilians who took up arms. Brave but inexperienced.
+
+ ::
+ 
 {{monster,frame,wide
 ## AETHORIAN MILITIA
 *Medium humanoid, any alignment*
@@ -958,14 +1055,16 @@ ___
 **Spear.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1d6+2 piercing damage
 
 **Sling.** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 1d4+2 bludgeoning damage
-
-### LORE
-Untrained civilians who took up arms. Brave but inexperienced.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
+## RESISTANCE FIGHTER
+\column
+### LORE
+More experienced than militia. Fighting for families and freedom.
 
+ 
 {{monster,frame,wide
 ## RESISTANCE FIGHTER
 *Medium humanoid, any good alignment*
@@ -992,13 +1091,18 @@ ___
 
 **Inspiring Cry (Recharge 5-6).** Allies within 30 ft gain advantage on next attack.
 
-### LORE
-More experienced than militia. Fighting for families and freedom.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
+## PEOPLE'S CHAMPION
 
+\column
+ 
+### LORE
+Local heroes who stood up to tyranny. Inspirational leaders.
+
+ 
 {{monster,frame,wide
 ## PEOPLE'S CHAMPION
 *Medium humanoid, chaotic good*
@@ -1025,14 +1129,15 @@ ___
 **Longsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1d8+3 slashing damage
 
 **Rally the People (1/Day).** All allies within 30 ft gain 10 temp HP and advantage on saves vs fear.
-
-### LORE
-Local heroes who stood up to tyranny. Inspirational leaders.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-
+## REVOLUTIONARY MAGE
+\column
+### LORE
+Aethorian mages who use magic to free the oppressed.
+ ::
 {{monster,frame,wide
 ## REVOLUTIONARY MAGE
 *Medium humanoid, chaotic good*
@@ -1050,13 +1155,18 @@ ___
 **Languages** Common +2 others
 **Challenge** 5 (1,800 XP)
 ___
-### LORE
-Aethorian mages who use magic to free the oppressed.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
+## CHAIN BREAKER MONK
+\column
+### LORE
+Former slaves who mastered martial arts. Dedicated to freeing others.
 
+ ::
+ 
 {{monster,frame,wide
 ## CHAIN BREAKER MONK
 *Medium humanoid, lawful good*
@@ -1090,13 +1200,15 @@ ___
 
 **Stunning Strike (1 ki).** DC 15 Constitution save or stunned until end of your next turn.
 
-### LORE
-Former slaves who mastered martial arts. Dedicated to freeing others.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-
+## GUERRILLA COMMANDER
+\column
+### LORE
+Brilliant guerrilla leader. Master of ambush and hit-and-run tactics.
+ ::
 {{monster,frame,wide
 ## GUERRILLA COMMANDER
 *Medium humanoid, chaotic good*
@@ -1126,13 +1238,16 @@ ___
 
 **Strategic Command (Recharge 5-6).** All allies within 60 ft can move half speed and make one attack as reaction.
 
-### LORE
-Brilliant guerrilla leader. Master of ambush and hit-and-run tactics.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-
+## THE LIBERATOR
+\column
+### LORE
+Legendary resistance leader. Symbol of hope for all oppressed people.
+ ::
 {{monster,frame,wide
 ## THE LIBERATOR
 *Medium humanoid, chaotic good*
@@ -1170,13 +1285,16 @@ ___
 
 **Inspire (2 actions).** One ally makes attack or spell as reaction
 
-### LORE
-Legendary resistance leader. Symbol of hope for all oppressed people.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-
+## PROPHESIED HERO
+\column
+### LORE
+One of "the Seven" from prophecy. Destined hero.
+ ::
 {{monster,frame,wide
 ## PROPHESIED HERO
 *Medium humanoid, any good*
@@ -1205,8 +1323,7 @@ ___
 
 **Channel Divinity: Smite the Tyrant (3/Day).** Next attack deals +50 radiant damage vs evil targets.
 
-### LORE
-One of "the Seven" from prophecy. Destined hero.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
@@ -1215,8 +1332,11 @@ One of "the Seven" from prophecy. Destined hero.
 ## Iron Guild Mercenaries
 
 Professional soldiers for hire—loyal only to the contract.
-::::::
-
+\column
+## GUILD RECRUIT
+### LORE
+New mercenaries learning the trade. Disciplined and eager to prove themselves.
+ ::
 {{monster,frame,wide
 ## GUILD RECRUIT
 *Medium humanoid, any*
@@ -1241,13 +1361,16 @@ ___
 
 **Crossbow.** *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 1d8+1 piercing damage
 
-### LORE
-New mercenaries learning the trade. Disciplined and eager to prove themselves.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-
+## VETERAN MERCENARY
+\column
+### LORE
+Experienced fighters who've survived many contracts.
+ ::
 {{monster,frame,wide
 ## VETERAN MERCENARY
 *Medium humanoid, any*
@@ -1274,13 +1397,16 @@ ___
 
 **Tactical Retreat.** Disengage as bonus action.
 
-### LORE
-Experienced fighters who've survived many contracts.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-
+## GUILD ENFORCER
+\column
+### LORE
+Enforce Guild rules and handle troublemakers.
+ ::
 {{monster,frame,wide
 ## GUILD ENFORCER
 *Medium humanoid, any*
@@ -1307,13 +1433,16 @@ ___
 
 **Intimidating Presence (Recharge 5-6).** DC 13 Wisdom save or frightened 1 min.
 
-### LORE
-Enforce Guild rules and handle troublemakers.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-
+## CONTRACT KILLER
+\column
+### LORE
+Guild assassins for special contracts. Professional and ruthless.
+ ::
 {{monster,frame,wide
 ## CONTRACT KILLER
 *Medium humanoid, any*
@@ -1343,13 +1472,16 @@ ___
 
 **Poisoned Dart.** *Ranged Weapon Attack:* +6 to hit, range 20/60 ft., one target. *Hit:* 1d4+3 piercing damage + DC 14 Constitution save or 3d6 poison damage
 
-### LORE
-Guild assassins for special contracts. Professional and ruthless.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-
+## IRON GUILD CAPTAIN
+\column
+### LORE
+Lead mercenary squads. Respected tacticians and fighters.
+ ::
 {{monster,frame,wide
 ## IRON GUILD CAPTAIN
 *Medium humanoid, any*
@@ -1379,15 +1511,18 @@ ___
 
 **Command Squad (Recharge 5-6).** All allies within 60 ft can attack as reaction.
 
-### LORE
-Lead mercenary squads. Respected tacticians and fighters.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-
-{{monster,frame,wide
 ## GUILDMASTER'S ELITE
+\column
+### LORE
+The Guildmaster's personal guard. Legendary mercenaries.
+ ::
+{{monster,frame,wide
+
 *Medium humanoid, any*
 ___
 **Armor Class** :: 19 (plate +1)
@@ -1415,13 +1550,16 @@ ___
 
 **Commanding Strike (Recharge 5-6).** One ally makes attack with advantage.
 
-### LORE
-The Guildmaster's personal guard. Legendary mercenaries.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-
+## GARRICK IRONHEART
+\column
+### LORE
+Founded Iron Guild. Legendary warrior and fair leader. Respected even by enemies.
+ ::
 {{monster,frame,wide
 ## GARRICK IRONHEART
 *Medium humanoid (dwarf), lawful neutral*
@@ -1457,8 +1595,7 @@ ___
 
 **Iron Defense (2 actions).** +5 AC until next turn
 
-### LORE
-Founded Iron Guild. Legendary warrior and fair leader. Respected even by enemies.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
@@ -1467,11 +1604,16 @@ Founded Iron Guild. Legendary warrior and fair leader. Respected even by enemies
 # Ascended & Ancient
 
 Divine champions blessed by the Seven Ascended, ancient guardians from ages past, and corrupted creatures twisted by dark magic.
-\column
+ ::
+ ::
 ## Ascended-Touched
 
 Champions blessed by the gods.
-:::::
+\column
+## BLESSED PALADIN
+### LORE
+Paladins blessed by the Seven Ascended. Champions of good.
+ ::
 {{monster,frame,wide
 ## BLESSED PALADIN
 *Medium humanoid, lawful good*
@@ -1497,13 +1639,16 @@ ___
 
 **Divine Smite (3/Day).** Add 2d8 radiant to hit.
 
-### LORE
-Paladins blessed by the Seven Ascended. Champions of good.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## THANDROS'S JUSTICAR
+\column
+### LORE
+Chosen enforcers of Thandros, god of law. Hunt criminals and maintain order.
+ ::
 {{monster,frame,wide
 ## THANDROS'S JUSTICAR
 *Medium humanoid, lawful neutral*
@@ -1528,13 +1673,16 @@ ___
 
 **Gavel Strike (Recharge 5-6).** DC 14 Wisdom save or stunned 1 round (symbol of law striking).
 
-### LORE
-Chosen enforcers of Thandros, god of law. Hunt criminals and maintain order.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## AETHOR'S LIBERATOR
+\column
+### LORE
+Divine servants of Aethor sent to break chains and free the oppressed.
+ ::
 {{monster,frame,wide
 ## AETHOR'S LIBERATOR
 *Medium celestial, chaotic good*
@@ -1564,13 +1712,16 @@ ___
 
 **Change Shape.** Can polymorph into humanoid or Medium beast.
 
-### LORE
-Divine servants of Aethor sent to break chains and free the oppressed.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## MOIRA'S SEER
+\column
+### LORE
+Priests of Moira who see threads of fate. Cryptic but helpful.
+ ::
 {{monster,frame,wide
 ## MOIRA'S SEER
 *Medium humanoid, any*
@@ -1595,13 +1746,16 @@ ___
 
 **Weaver's Warning (1/Day).** Grant one creature reroll on any d20 within next hour.
 
-### LORE
-Priests of Moira who see threads of fate. Cryptic but helpful.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## SYLVARA'S WILD HUNTER
+\column
+### LORE
+Sylvara's chosen hunters. Defend wilderness, punish those who harm nature.
+ ::
 {{monster,frame,wide
 ## SYLVARA'S WILD HUNTER
 *Medium fey, chaotic neutral*
@@ -1632,13 +1786,16 @@ ___
 
 **Lightning Leap.** Teleport up to 60 ft as bonus action, leaving lightning in space (5d6 lightning, DC 15 Dexterity).
 
-### LORE
-Sylvara's chosen hunters. Defend wilderness, punish those who harm nature.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## SERA'S MERCY
+\column
+### LORE
+Sera's divine messengers. Heal wounded and offer mercy to repentant.
+ ::
 {{monster,frame,wide
 ## SERA'S MERCY
 *Small celestial, neutral good*
@@ -1665,13 +1822,16 @@ ___
 
 **Peaceful Presence (Recharge 6).** All creatures within 30 ft make DC 14 Wisdom save or can't attack for 1 minute (charmed effect).
 
-### LORE
-Sera's divine messengers. Heal wounded and offer mercy to repentant.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## MORDAIN'S SENTINEL
+\column
+### LORE
+Mordain's chosen guardians. Protect sacred sites and honor the dead.
+ ::
 {{monster,frame,wide
 ## MORDAIN'S SENTINEL
 *Medium undead, lawful neutral*
@@ -1700,13 +1860,16 @@ ___
 
 **Honor the Fallen (1/Day).** All dead within 30 ft rise as shadows under sentinel's control for 1 hour.
 
-### LORE
-Mordain's chosen guardians. Protect sacred sites and honor the dead.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## FALLEN CHAMPION
+\column
+### LORE
+Heroes who broke their oaths or fell to corruption. Tragic enemies.
+ ::
 {{monster,frame,wide
 ## FALLEN CHAMPION
 *Medium undead, any evil*
@@ -1735,8 +1898,7 @@ ___
 
 **Corrupted Smite (3/Day).** Add 4d8 necrotic to attack.
 
-### LORE
-Heroes who broke their oaths or fell to corruption. Tragic enemies.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
@@ -1745,7 +1907,11 @@ Heroes who broke their oaths or fell to corruption. Tragic enemies.
 ## Ancient & Prophecy
 
 Timeless guardians and prophetic beings.
-::::::
+\column
+## ANCIENT GUARDIAN
+### LORE
+Ancient constructs guarding prophetic sites. Test those who seek knowledge.
+ ::
 {{monster,frame,wide
 ## ANCIENT GUARDIAN
 *Large construct, neutral*
@@ -1771,13 +1937,16 @@ ___
 
 **Time Ripple (Recharge 5-6).** All creatures in 20 ft radius make DC 16 Wisdom save. Failed save: sent forward in time 1 round (miss turn, reappear in same space). Success: take 4d10 psychic damage.
 
-### LORE
-Ancient constructs guarding prophetic sites. Test those who seek knowledge.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## PROPHECY KEEPER
+\column
+### LORE
+Cosmic entities who record prophecies. Neutral—they just observe and remember.
+ ::
 {{monster,frame,wide
 ## PROPHECY KEEPER
 *Medium aberration, lawful neutral*
@@ -1806,13 +1975,16 @@ ___
 
 **Alter Memory (3/Day).** As *modify memory* spell.
 
-### LORE
-Cosmic entities who record prophecies. Neutral—they just observe and remember.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## FORGOTTEN KING
+\column
+### LORE
+Ancient king whose dynasty fell. Part of the original "Seven" who failed. His throne is prophesied to be reclaimed.
+ ::
 {{monster,frame,wide
 ## FORGOTTEN KING
 *Medium undead, neutral evil*
@@ -1847,13 +2019,16 @@ ___
 
 **Summon Undead (3 actions).** 1d6 wraiths appear
 
-### LORE
-Ancient king whose dynasty fell. Part of the original "Seven" who failed. His throne is prophesied to be reclaimed.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## HERALD OF THE SEVEN
+\column
+### LORE
+Direct messenger of the Seven Ascended. Appears during pivotal moments.
+ ::
 {{monster,frame,wide
 ## HERALD OF THE SEVEN
 *Large celestial, lawful good*
@@ -1883,8 +2058,7 @@ ___
 
 **Healing Touch (4/Day).** Touch heals 6d8+7 HP and removes all conditions.
 
-### LORE
-Direct messenger of the Seven Ascended. Appears during pivotal moments.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
@@ -1894,8 +2068,11 @@ Direct messenger of the Seven Ascended. Appears during pivotal moments.
 
 Twisted by war and dark magic.
 
-::::
-
+\column
+## CORRUPTION SPAWN
+### LORE
+Spawn of war magic gone wrong. Corrupted by dark energies. Mindless and hungry.
+ ::
 {{monster,frame,wide
 ## CORRUPTION SPAWN
 *Small aberration, chaotic evil*
@@ -1922,13 +2099,16 @@ ___
 
 **Blinding Spittle (Recharge 5-6).** Spit at point within 15 ft. 5-ft radius, DC 13 Dexterity save or blinded 1 min.
 
-### LORE
-Spawn of war magic gone wrong. Corrupted by dark energies. Mindless and hungry.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## WAR-TWISTED SOLDIER
+\column
+### LORE
+Soldiers who died violently and rose as undead, twisted by rage and trauma.
+ ::
 {{monster,frame,wide
 ## WAR-TWISTED SOLDIER
 *Medium undead, neutral evil*
@@ -1959,13 +2139,16 @@ ___
 
 **Battle Cry (Recharge 6).** All war-twisted soldiers within 30 ft can attack as reaction.
 
-### LORE
-Soldiers who died violently and rose as undead, twisted by rage and trauma.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-
+## CURSE BEARER
+\column
+### LORE
+Result of powerful curses or exposure to corrupted magic. Was once human or beast.
+ ::
 {{monster,frame,wide
 ## CURSE BEARER
 *Large monstrosity, chaotic evil*
@@ -1996,13 +2179,12 @@ ___
 
 **Terrifying Howl (1/Day).** All creatures within 60 ft make DC 15 Wisdom save or frightened 1 min. Can repeat save each turn.
 
-### LORE
-Result of powerful curses or exposure to corrupted magic. Was once human or beast.
+
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 
-::::::::::::
+:::::::::::
 
 {{homebreweryCredits
 Made With
