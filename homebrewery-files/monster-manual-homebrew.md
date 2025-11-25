@@ -47,20 +47,20 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0)|
 ___
-**Skills** Stealth +4, Deception +2
-**Senses** passive Perception 10
-**Languages** Common
-**Challenge** 1/2 (100 XP)
+**Skills** :: Stealth +4, Deception +2
+**Senses** :: passive Perception 10
+**Languages** :: Common
+**Challenge** :: 1/2 (100 XP)
 ___
-**Border Cunning.** The bandit has advantage on Stealth checks in the Border region's ruins and wilderness.
+**Border Cunning.** :: The bandit has advantage on Stealth checks in the Border region's ruins and wilderness.
 
-**Desperate Fighter.** When reduced to half hit points or less, the bandit's next attack deals an extra 1d6 damage.
+**Desperate Fighter.** :: When reduced to half hit points or less, the bandit's next attack deals an extra 1d6 damage.
 
 ___
 ### ACTIONS
-**Scimitar.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
+**Scimitar.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
 
-**Light Crossbow.** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+**Light Crossbow.** :: *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
 }}
 
@@ -95,30 +95,30 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |12 (+1) | 16 (+3) | 14 (+2) | 14 (+2) | 12 (+1) | 14 (+2)|
 ___
-**Saving Throws** Dexterity +5, Intelligence +4
-**Skills** Deception +6, Insight +3, Persuasion +6, Stealth +5
-**Senses** passive Perception 11
-**Languages** Common, Thieves' Cant, plus two others
-**Challenge** 3 (700 XP)
+**Saving Throws** :: Dexterity +5, Intelligence +4
+**Skills** :: Deception +6, Insight +3, Persuasion +6, Stealth +5
+**Senses** :: passive Perception 11
+**Languages** :: Common, Thieves' Cant, plus two others
+**Challenge** :: 3 (700 XP)
 ___
-**Cunning Action.** On each of its turns, the captain can use a bonus action to take the Dash, Disengage, or Hide action.
+**Cunning Action.** :: On each of its turns, the captain can use a bonus action to take the Dash, Disengage, or Hide action.
 
-**Border Network.** The captain knows safe routes through the Border and has contacts in most settlements. Can call for reinforcements (1d4 border bandits arrive in 1d4 rounds).
+**Border Network.** :: The captain knows safe routes through the Border and has contacts in most settlements. Can call for reinforcements (1d4 border bandits arrive in 1d4 rounds).
 
-**Sneak Attack (1/Turn).** The captain deals an extra 10 (3d6) damage when hitting with a weapon attack and has advantage on the attack roll.
+**Sneak Attack (1/Turn).** :: The captain deals an extra 10 (3d6) damage when hitting with a weapon attack and has advantage on the attack roll.
 
 ___
 ### ACTIONS
-**Multiattack.** The captain makes two attacks with their rapier.
+**Multiattack.** :: The captain makes two attacks with their rapier.
 
-**Rapier.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
+**Rapier.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
 
-**Hand Crossbow.** *Ranged Weapon Attack:* +5 to hit, range 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+**Hand Crossbow.** :: *Ranged Weapon Attack:* +5 to hit, range 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
 
-**Contract Offer (Recharge 5-6).** The captain offers a bargain. One humanoid within 30 feet that can hear the captain must make a DC 14 Wisdom saving throw. On a failure, the target is charmed for 1 minute or until the captain or their allies harm it. While charmed, the target is inclined to accept reasonable deals.
+**Contract Offer (Recharge 5-6).** :: The captain offers a bargain. One humanoid within 30 feet that can hear the captain must make a DC 14 Wisdom saving throw. On a failure, the target is charmed for 1 minute or until the captain or their allies harm it. While charmed, the target is inclined to accept reasonable deals.
 
 ### REACTIONS
-**Parry.** The captain adds 2 to their AC against one melee attack that would hit them. To do so, the captain must see the attacker and be wielding a melee weapon.
+**Parry.** :: The captain adds 2 to their AC against one melee attack that would hit them. To do so, the captain must see the attacker and be wielding a melee weapon.
 }}
 
 
@@ -150,27 +150,27 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |16 (+3) | 13 (+1) | 18 (+4) | 10 (+0) | 12 (+1) | 10 (+0)|
 ___
-**Saving Throws** Strength +5, Constitution +6
-**Skills** Athletics +5, Intimidation +2, Survival +3
-**Senses** passive Perception 11
-**Languages** Common
-**Challenge** 4 (1,100 XP)
+**Saving Throws** :: Strength +5, Constitution +6
+**Skills** :: Athletics +5, Intimidation +2, Survival +3
+**Senses** :: passive Perception 11
+**Languages** :: Common
+**Challenge** :: 4 (1,100 XP)
 ___
-**Survivor.** The veteran has advantage on death saving throws.
+**Survivor.** :: The veteran has advantage on death saving throws.
 
-**Seen It All.** The veteran is immune to being frightened and has advantage on saving throws against being charmed.
+**Seen It All.** :: The veteran is immune to being frightened and has advantage on saving throws against being charmed.
 
-**Battle Scarred.** When the veteran takes damage that would reduce them to 0 hit points, they can make a DC 10 Constitution saving throw. On a success, they drop to 1 hit point instead. This DC increases by 5 each time this feature is used and resets after a long rest.
+**Battle Scarred.** :: When the veteran takes damage that would reduce them to 0 hit points, they can make a DC 10 Constitution saving throw. On a success, they drop to 1 hit point instead. This DC increases by 5 each time this feature is used and resets after a long rest.
 
 ___
 ### ACTIONS
-**Multiattack.** The veteran makes two longsword attacks or two longbow attacks.
+**Multiattack.** :: The veteran makes two longsword attacks or two longbow attacks.
 
-**Longsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+**Longsword.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-**Longbow.** *Ranged Weapon Attack:* +3 to hit, range 150/600 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+**Longbow.** :: *Ranged Weapon Attack:* +3 to hit, range 150/600 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
 
-**Intimidating Presence (Recharge 5-6).** The veteran roars a challenge. Each enemy within 30 feet that can see or hear the veteran must make a DC 13 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on a success.
+**Intimidating Presence (Recharge 5-6).** :: The veteran roars a challenge. Each enemy within 30 feet that can see or hear the veteran must make a DC 13 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on a success.
 }}
 
 
@@ -201,23 +201,23 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |6 (-2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2)|
 ___
-**Senses** darkvision 60 ft., passive Perception 12
-**Languages** the languages it knew in life
-**Challenge** 5 (1,800 XP)
+**Senses** :: darkvision 60 ft., passive Perception 12
+**Languages** :: the languages it knew in life
+**Challenge** :: 5 (1,800 XP)
 ___
-**Incorporeal Movement.** The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+**Incorporeal Movement.** :: The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-**Sunlight Sensitivity.** While in sunlight, the wraith has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
+**Sunlight Sensitivity.** :: While in sunlight, the wraith has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
 
-**Border-Bound.** The wraith is bound to the Border region where it died. If forced outside the Border, it takes 10 (3d6) psychic damage at the start of each of its turns.
+**Border-Bound.** :: The wraith is bound to the Border region where it died. If forced outside the Border, it takes 10 (3d6) psychic damage at the start of each of its turns.
 
-**Echoes of War.** When the wraith first appears, each creature within 30 feet hears a snippet of the battle where it died (screams, clashing steel, etc.). The wraith can speak one phrase from its final moments.
+**Echoes of War.** :: When the wraith first appears, each creature within 30 feet hears a snippet of the battle where it died (screams, clashing steel, etc.). The wraith can speak one phrase from its final moments.
 
 ___
 ### ACTIONS
-**Life Drain.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+**Life Drain.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-**Create Specter.** The wraith targets a humanoid within 10 feet of it that died violently in the last minute. The target's spirit rises as a specter under the wraith's control. The wraith can have no more than three specters under its control at one time.
+**Create Specter.** :: The wraith targets a humanoid within 10 feet of it that died violently in the last minute. The target's spirit rises as a specter under the wraith's control. The wraith can have no more than three specters under its control at one time.
 
 }}
 <div class='pageNumber auto'></div>
@@ -247,25 +247,25 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |20 (+5) | 8 (-1) | 20 (+5) | 5 (-3) | 10 (+0) | 5 (-3)|
 ___
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
-**Languages** Terran
-**Challenge** 6 (2,300 XP)
+**Senses** :: darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+**Languages** :: Terran
+**Challenge** :: 6 (2,300 XP)
 ___
-**Earth Glide.** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, it doesn't disturb the material it moves through.
+**Earth Glide.** :: The elemental can burrow through nonmagical, unworked earth and stone. While doing so, it doesn't disturb the material it moves through.
 
-**Siege Monster.** The elemental deals double damage to objects and structures.
+**Siege Monster.** :: The elemental deals double damage to objects and structures.
 
-**Mixed Form.** The elemental's body contains earth from both Thaldros and Aethoria, making it unstable. When the elemental takes damage, roll 1d6. On a 5-6, it erupts, dealing 7 (2d6) bludgeoning damage to all creatures within 5 feet.
+**Mixed Form.** :: The elemental's body contains earth from both Thaldros and Aethoria, making it unstable. When the elemental takes damage, roll 1d6. On a 5-6, it erupts, dealing 7 (2d6) bludgeoning damage to all creatures within 5 feet.
 
-**Territorial Fury.** The elemental has advantage on attack rolls against creatures that have dealt damage to structures or the earth in the last minute.
+**Territorial Fury.** :: The elemental has advantage on attack rolls against creatures that have dealt damage to structures or the earth in the last minute.
 
 ___
 ### ACTIONS
-**Multiattack.** The elemental makes two slam attacks.
+**Multiattack.** :: The elemental makes two slam attacks.
 
-**Slam.** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
+**Slam.** :: *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 
-**Border Quake (Recharge 5-6).** The elemental strikes the ground, creating a localized earthquake. Each creature on the ground within 20 feet must make a DC 15 Strength saving throw. On a failure, a creature takes 18 (4d8) bludgeoning damage and is knocked prone. On a success, the creature takes half damage and isn't knocked prone. Additionally, the ground in that area becomes difficult terrain until cleared.
+**Border Quake (Recharge 5-6).** :: The elemental strikes the ground, creating a localized earthquake. Each creature on the ground within 20 feet must make a DC 15 Strength saving throw. On a failure, a creature takes 18 (4d8) bludgeoning damage and is knocked prone. On a success, the creature takes half damage and isn't knocked prone. Additionally, the ground in that area becomes difficult terrain until cleared.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
@@ -295,22 +295,22 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |10 (+0) | 10 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 8 (-1)|
 ___
-**Senses** passive Perception 10
-**Languages** Common
-**Challenge** 1 (200 XP)
+**Senses** :: passive Perception 10
+**Languages** :: Common
+**Challenge** :: 1 (200 XP)
 ___
-**Swarm.** The mob can occupy another creature's space and vice versa, and the mob can move through any opening large enough for a Medium humanoid. The mob can't regain hit points or gain temporary hit points.
+**Swarm.** :: The mob can occupy another creature's space and vice versa, and the mob can move through any opening large enough for a Medium humanoid. The mob can't regain hit points or gain temporary hit points.
 
-**Desperate Horde.** The mob has advantage on attack rolls if it has half its hit points or more.
+**Desperate Horde.** :: The mob has advantage on attack rolls if it has half its hit points or more.
 
-**Panicked.** The mob has disadvantage on Wisdom saving throws while below half hit points.
+**Panicked.** :: The mob has disadvantage on Wisdom saving throws while below half hit points.
 
 ___
 ### ACTIONS
-**Mob Violence.** *Melee Weapon Attack:* +2 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) bludgeoning damage, or 7 (2d6) bludgeoning damage if the swarm has half its hit points or fewer.
+**Mob Violence.** :: *Melee Weapon Attack:* +2 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) bludgeoning damage, or 7 (2d6) bludgeoning damage if the swarm has half its hit points or fewer.
 
 ### REACTIONS
-**Stampede.** When the mob takes damage from an area effect, it can move up to its speed away from the source of danger. This movement doesn't provoke opportunity attacks.
+**Stampede.** :: When the mob takes damage from an area effect, it can move up to its speed away from the source of danger. This movement doesn't provoke opportunity attacks.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
@@ -339,21 +339,21 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |13 (+1) | 15 (+2) | 10 (+0) | 7 (-2) | 10 (+0) | 6 (-2)|
 ___
-**Senses** darkvision 60 ft., passive Perception 10
-**Languages** Common
-**Challenge** 1 (200 XP)
+**Senses** :: darkvision 60 ft., passive Perception 10
+**Languages** :: Common
+**Challenge** :: 1 (200 XP)
 ___
-**Battlefield Scavenger.** The ghoul has advantage on Wisdom (Perception) checks to find corpses or wounded creatures.
+**Battlefield Scavenger.** :: The ghoul has advantage on Wisdom (Perception) checks to find corpses or wounded creatures.
 
-**Pack Tactics.** The ghoul has advantage on attack rolls against a creature if at least one of the ghoul's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Pack Tactics.** :: The ghoul has advantage on attack rolls against a creature if at least one of the ghoul's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ___
 ### ACTIONS
-**Bite.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6 + 2) piercing damage.
+**Bite.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6 + 2) piercing damage.
 
-**Claws.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Claws.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Corpse Feast (Recharge 5-6).** If the ghoul is adjacent to a corpse or unconscious creature, it can spend its action feeding. It regains 10 (3d6) hit points.
+**Corpse Feast (Recharge 5-6).** :: If the ghoul is adjacent to a corpse or unconscious creature, it can spend its action feeding. It regains 10 (3d6) hit points.
 
 
 }}
@@ -385,24 +385,24 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |16 (+3) | 11 (+0) | 14 (+2) | 4 (-3) | 10 (+0) | 7 (-2)|
 ___
-**Skills** Perception +2, Stealth +2
-**Senses** darkvision 60 ft., passive Perception 12
-**Languages** understands Draconic but can't speak
-**Challenge** 2 (450 XP)
+**Skills** :: Perception +2, Stealth +2
+**Senses** :: darkvision 60 ft., passive Perception 12
+**Languages** :: understands Draconic but can't speak
+**Challenge** :: 2 (450 XP)
 ___
-**Border Camouflage.** The drake has advantage on Dexterity (Stealth) checks in rocky or ruined terrain.
+**Border Camouflage.** :: The drake has advantage on Dexterity (Stealth) checks in rocky or ruined terrain.
 
-**Pack Tactics.** The drake has advantage on attack rolls against a creature if at least one of the drake's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Pack Tactics.** :: The drake has advantage on attack rolls against a creature if at least one of the drake's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ___
 ### ACTIONS
-**Multiattack.** The drake makes one bite attack and one tail attack.
+**Multiattack.** :: The drake makes one bite attack and one tail attack.
 
-**Bite.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
+**Bite.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
 
-**Tail.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage, and the target must succeed on a DC 13 Strength saving throw or be knocked prone.
+**Tail.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage, and the target must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-**Warning Roar (Recharge 5-6).** The drake roars, alerting other drakes in a 1-mile radius. Allied drakes within 60 feet gain advantage on their next attack roll.
+**Warning Roar (Recharge 5-6).** :: The drake roars, alerting other drakes in a 1-mile radius. Allied drakes within 60 feet gain advantage on their next attack roll.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
@@ -431,24 +431,24 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |17 (+3) | 15 (+2) | 15 (+2) | 3 (-4) | 12 (+1) | 7 (-2)|
 ___
-**Skills** Perception +3, Stealth +4
-**Senses** passive Perception 13
-**Languages** —
-**Challenge** 3 (700 XP)
+**Skills** :: Perception +3, Stealth +4
+**Senses** :: passive Perception 13
+**Languages** :: —
+**Challenge** :: 3 (700 XP)
 ___
-**Keen Hearing and Smell.** The beast has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+**Keen Hearing and Smell.** :: The beast has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-**Pack Tactics.** The beast has advantage on attack rolls against a creature if at least one of the beast's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Pack Tactics.** :: The beast has advantage on attack rolls against a creature if at least one of the beast's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-**Trained Killer.** The beast was trained for war. It has advantage on attack rolls against frightened creatures.
+**Trained Killer.** :: The beast was trained for war. It has advantage on attack rolls against frightened creatures.
 
 ___
 ### ACTIONS
-**Bite.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+**Bite.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-**Pounce.** If the beast moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the beast can make one bite attack against it as a bonus action.
+**Pounce.** :: If the beast moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the beast can make one bite attack against it as a bonus action.
 
-**Intimidating Howl (Recharge 5-6).** The beast howls. Each enemy within 30 feet that can hear it must succeed on a DC 11 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on a success.
+**Intimidating Howl (Recharge 5-6).** :: The beast howls. Each enemy within 30 feet that can hear it must succeed on a DC 11 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the save at the end of each of its turns, ending the effect on a success.
 
 }}
 <div class='pageNumber auto'></div>
@@ -480,21 +480,21 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |1 (-5) | 20 (+5) | 14 (+2) | 10 (+0) | 14 (+2) | 16 (+3)|
 ___
-**Senses** blindsight 120 ft., passive Perception 12
-**Languages** understands all languages but can't speak
-**Challenge** 7 (2,900 XP)
+**Senses** :: blindsight 120 ft., passive Perception 12
+**Languages** :: understands all languages but can't speak
+**Challenge** :: 7 (2,900 XP)
 ___
-**Immobile Hazard.** The battlefield doesn't move. It exists as a 120-foot radius area of lingering death magic and tortured spirits.
+**Immobile Hazard.** :: The battlefield doesn't move. It exists as a 120-foot radius area of lingering death magic and tortured spirits.
 
-**Echo of Battle.** Any creature that enters the area for the first time on a turn or starts its turn there must make a DC 15 Wisdom saving throw or take 14 (4d6) psychic damage and have disadvantage on attack rolls until the start of its next turn as ghostly weapons strike and spectral screams assault it.
+**Echo of Battle.** :: Any creature that enters the area for the first time on a turn or starts its turn there must make a DC 15 Wisdom saving throw or take 14 (4d6) psychic damage and have disadvantage on attack rolls until the start of its next turn as ghostly weapons strike and spectral screams assault it.
 
-**Restless Dead.** At the start of each round, 1d4 spectral soldiers (use specter statblock) manifest within the area. They attack the nearest living creatures and disappear after 1 minute or when reduced to 0 hit points.
+**Restless Dead.** :: At the start of each round, 1d4 spectral soldiers (use specter statblock) manifest within the area. They attack the nearest living creatures and disappear after 1 minute or when reduced to 0 hit points.
 
-**Consecration Vulnerable.** If a cleric or paladin spends 10 minutes performing funeral rites within the area, the battlefield's power is suppressed for 24 hours in a 30-foot radius around the ritual site.
+**Consecration Vulnerable.** :: If a cleric or paladin spends 10 minutes performing funeral rites within the area, the battlefield's power is suppressed for 24 hours in a 30-foot radius around the ritual site.
 
 ___
 ### ACTIONS
-**Phantom Army (Recharge 5-6).** At initiative count 20, the battlefield can summon a phantom army. All creatures in the area see ghostly soldiers fighting and dying around them. Each creature must make a DC 15 Wisdom saving throw. On a failure, a creature takes 22 (4d10) psychic damage and is frightened until the end of its next turn. On a success, the creature takes half damage and isn't frightened.
+**Phantom Army (Recharge 5-6).** :: At initiative count 20, the battlefield can summon a phantom army. All creatures in the area see ghostly soldiers fighting and dying around them. Each creature must make a DC 15 Wisdom saving throw. On a failure, a creature takes 22 (4d10) psychic damage and is frightened until the end of its next turn. On a success, the creature takes half damage and isn't frightened.
 
 
 }}
@@ -532,17 +532,17 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |10 (+0) | 10 (+0) | 10 (+0) | 9 (-1) | 10 (+0) | 9 (-1)|
 ___
-**Senses** passive Perception 10
-**Languages** Common
-**Challenge** 1/8 (25 XP)
+**Senses** :: passive Perception 10
+**Languages** :: Common
+**Challenge** :: 1/8 (25 XP)
 ___
-**Poorly Trained.** The conscript has disadvantage on attack rolls if an ally within 5 feet is reduced to 0 hit points since the end of the conscript's last turn.
+**Poorly Trained.** :: The conscript has disadvantage on attack rolls if an ally within 5 feet is reduced to 0 hit points since the end of the conscript's last turn.
 
-**Reluctant Fighter.** The conscript has disadvantage on death saving throws.
+**Reluctant Fighter.** :: The conscript has disadvantage on death saving throws.
 
 ___
 ### ACTIONS
-**Spear.** *Melee or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands for a melee attack.
+**Spear.** :: *Melee or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands for a melee attack.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
@@ -572,23 +572,23 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0)|
 ___
-**Skills** Athletics +3, Perception +2
-**Senses** passive Perception 12
-**Languages** Common
-**Challenge** 1/2 (100 XP)
+**Skills** :: Athletics +3, Perception +2
+**Senses** :: passive Perception 12
+**Languages** :: Common
+**Challenge** :: 1/2 (100 XP)
 ___
-**Formation Fighter.** The soldier has advantage on saving throws against being frightened while within 5 feet of an ally.
+**Formation Fighter.** :: The soldier has advantage on saving throws against being frightened while within 5 feet of an ally.
 
-**Imperial Discipline.** The soldier can reroll a failed saving throw once per short rest.
+**Imperial Discipline.** :: The soldier can reroll a failed saving throw once per short rest.
 
 ___
 ### ACTIONS
-**Longsword.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
+**Longsword.** :: *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 
-**Crossbow.** *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+**Crossbow.** :: *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
 
 ### REACTIONS
-**Shield Wall.** When an ally within 5 feet is hit by an attack, the soldier can grant them +2 to AC against that attack.
+**Shield Wall.** :: When an ally within 5 feet is hit by an attack, the soldier can grant them +2 to AC against that attack.
 
 }}
 <div class='pageNumber auto'></div>
@@ -619,22 +619,22 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 12 (+1) | 14 (+2)|
 ___
-**Skills** Intimidation +4, Perception +3
-**Senses** passive Perception 13
-**Languages** Common
-**Challenge** 2 (450 XP)
+**Skills** :: Intimidation +4, Perception +3
+**Senses** :: passive Perception 13
+**Languages** :: Common
+**Challenge** :: 2 (450 XP)
 ___
-**Brutal.** The enforcer's melee weapon attacks deal one extra die of damage (included in the attacks).
+**Brutal.** :: The enforcer's melee weapon attacks deal one extra die of damage (included in the attacks).
 
-**Pack Tactics.** The enforcer has advantage on attack rolls against a creature if at least one of the enforcer's allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Pack Tactics.** :: The enforcer has advantage on attack rolls against a creature if at least one of the enforcer's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ___
 ### ACTIONS
-**Multiattack.** The enforcer makes two attacks with its mace.
+**Multiattack.** :: The enforcer makes two attacks with its mace.
 
-**Mace.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) bludgeoning damage.
+**Mace.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) bludgeoning damage.
 
-**Intimidate.** The enforcer targets one creature it can see within 30 feet. The target must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A frightened target can repeat the save at the end of each of its turns, ending the effect on a success.
+**Intimidate.** :: The enforcer targets one creature it can see within 30 feet. The target must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A frightened target can repeat the save at the end of each of its turns, ending the effect on a success.
 
 }}
 <div class='pageNumber auto'></div>
@@ -665,28 +665,28 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 11 (+0) | 15 (+2)|
 ___
-**Saving Throws** Constitution +4, Wisdom +2
-**Skills** Athletics +5, Intimidation +4, Perception +2
-**Senses** passive Perception 12
-**Languages** Common
-**Challenge** 5 (1,800 XP)
+**Saving Throws** :: Constitution +4, Wisdom +2
+**Skills** :: Athletics +5, Intimidation +4, Perception +2
+**Senses** :: passive Perception 12
+**Languages** :: Common
+**Challenge** :: 5 (1,800 XP)
 ___
-**Brave.** The guard has advantage on saving throws against being frightened.
+**Brave.** :: The guard has advantage on saving throws against being frightened.
 
-**Royal Authority.** Allied creatures within 10 feet gain advantage on saving throws against being frightened.
+**Royal Authority.** :: Allied creatures within 10 feet gain advantage on saving throws against being frightened.
 
 ___
 ### ACTIONS
-**Multiattack.** The guard makes two greatsword attacks.
+**Multiattack.** :: The guard makes two greatsword attacks.
 
-**Greatsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+**Greatsword.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
 
-**Heavy Crossbow.** *Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:* 5 (1d10) piercing damage.
+**Heavy Crossbow.** :: *Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:* 5 (1d10) piercing damage.
 
-**Leadership (Recharges after a Short or Long Rest).** For 1 minute, the guard can utter a command or warning whenever a nonhostile creature within 30 feet makes an attack roll or saving throw. That creature can add a d4 to its roll. A creature can benefit from only one Leadership die at a time.
+**Leadership (Recharges after a Short or Long Rest).** :: For 1 minute, the guard can utter a command or warning whenever a nonhostile creature within 30 feet makes an attack roll or saving throw. That creature can add a d4 to its roll. A creature can benefit from only one Leadership die at a time.
 
 ### REACTIONS
-**Parry.** The guard adds 2 to their AC against one melee attack that would hit them.
+**Parry.** :: The guard adds 2 to their AC against one melee attack that would hit them.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
@@ -717,34 +717,34 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |11 (+0) | 16 (+3) | 14 (+2) | 16 (+3) | 14 (+2) | 16 (+3)|
 ___
-**Saving Throws** Dexterity +6, Intelligence +6, Wisdom +5
-**Skills** Deception +6, Insight +5, Investigation +9, Perception +5, Stealth +6
-**Senses** passive Perception 15
-**Languages** Common, plus three others
-**Challenge** 6 (2,300 XP)
+**Saving Throws** :: Dexterity +6, Intelligence +6, Wisdom +5
+**Skills** :: Deception +6, Insight +5, Investigation +9, Perception +5, Stealth +6
+**Senses** :: passive Perception 15
+**Languages** :: Common, plus three others
+**Challenge** :: 6 (2,300 XP)
 ___
-**Cunning Action.** On each turn, the inquisitor can use a bonus action to Dash, Disengage, or Hide.
+**Cunning Action.** :: On each turn, the inquisitor can use a bonus action to Dash, Disengage, or Hide.
 
-**Evasion.** If the inquisitor is subjected to an effect that allows them to make a Dexterity saving throw to take only half damage, they take no damage on a success and half damage on a failure.
+**Evasion.** :: If the inquisitor is subjected to an effect that allows them to make a Dexterity saving throw to take only half damage, they take no damage on a success and half damage on a failure.
 
-**Sneak Attack (1/Turn).** The inquisitor deals an extra 14 (4d6) damage when hitting with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally.
+**Sneak Attack (1/Turn).** :: The inquisitor deals an extra 14 (4d6) damage when hitting with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally.
 
-**Information Network.** The inquisitor can spend 1 hour in a settlement to learn one piece of useful information about a specific person or event.
+**Information Network.** :: The inquisitor can spend 1 hour in a settlement to learn one piece of useful information about a specific person or event.
 
 ___
 ### ACTIONS
-**Multiattack.** The inquisitor makes two shortsword attacks.
+**Multiattack.** :: The inquisitor makes two shortsword attacks.
 
-**Shortsword.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, plus poison (see Poisoned Blade).
+**Shortsword.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, plus poison (see Poisoned Blade).
 
-**Hand Crossbow.** *Ranged Weapon Attack:* +6 to hit, range 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, plus poison (see Poisoned Blade).
+**Hand Crossbow.** :: *Ranged Weapon Attack:* +6 to hit, range 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, plus poison (see Poisoned Blade).
 
-**Poisoned Blade.** The inquisitor's weapon is coated in a special poison. The target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much on a success.
+**Poisoned Blade.** :: The inquisitor's weapon is coated in a special poison. The target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much on a success.
 
-**Interrogate (3/Day).** The inquisitor targets one creature within 30 feet that can hear them. The target must make a DC 14 Wisdom saving throw. On a failure, the target is compelled to answer one question truthfully. This is a magical compulsion effect.
+**Interrogate (3/Day).** :: The inquisitor targets one creature within 30 feet that can hear them. The target must make a DC 14 Wisdom saving throw. On a failure, the target is compelled to answer one question truthfully. This is a magical compulsion effect.
 
 ### REACTIONS
-**Uncanny Dodge.** When an attacker the inquisitor can see hits them with an attack, they can halve the attack's damage.
+**Uncanny Dodge.** :: When an attacker the inquisitor can see hits them with an attack, they can halve the attack's damage.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
@@ -775,19 +775,19 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |9 (-1) | 14 (+2) | 12 (+1) | 17 (+3) | 12 (+1) | 11 (+0)|
 ___
-**Saving Throws** Intelligence +6, Wisdom +4
-**Skills** Arcana +6, History +6
-**Senses** passive Perception 11
-**Languages** Common, plus three others
-**Challenge** 7 (2,900 XP)
+**Saving Throws** :: Intelligence +6, Wisdom +4
+**Skills** :: Arcana +6, History +6
+**Senses** :: passive Perception 11
+**Languages** :: Common, plus three others
+**Challenge** :: 7 (2,900 XP)
 ___
-**Spellcasting.** The mage is a 9th-level spellcaster. Spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
+**Spellcasting.** :: The mage is a 9th-level spellcaster. Spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
-**War Caster.** The mage has advantage on Constitution saving throws to maintain concentration on spells. When a hostile creature's movement provokes an opportunity attack, the mage can cast a spell at the creature rather than making an opportunity attack.
+**War Caster.** :: The mage has advantage on Constitution saving throws to maintain concentration on spells. When a hostile creature's movement provokes an opportunity attack, the mage can cast a spell at the creature rather than making an opportunity attack.
 
 ___
 ### ACTIONS
-**Quarterstaff.** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) if used with two hands.
+**Quarterstaff.** :: *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) if used with two hands.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
@@ -819,27 +819,27 @@ ___
 ___
 **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-**Senses** darkvision 120 ft., passive Perception 10
-**Languages** understands the languages of its creator but can't speak
-**Challenge** 8 (3,900 XP)
+**Senses** :: darkvision 120 ft., passive Perception 10
+**Languages** :: understands the languages of its creator but can't speak
+**Challenge** :: 8 (3,900 XP)
 ___
-**Immutable Form.** The golem is immune to any spell or effect that would alter its form.
+**Immutable Form.** :: The golem is immune to any spell or effect that would alter its form.
 
-**Magic Resistance.** The golem has advantage on saving throws against spells and other magical effects.
+**Magic Resistance.** :: The golem has advantage on saving throws against spells and other magical effects.
 
-**Siege Monster.** The golem deals double damage to objects and structures.
+**Siege Monster.** :: The golem deals double damage to objects and structures.
 
-**Military Programming.** The golem follows tactical commands perfectly and can execute complex battle plans.
+**Military Programming.** :: The golem follows tactical commands perfectly and can execute complex battle plans.
 
 ___
 ### ACTIONS
-**Multiattack.** The golem makes two slam attacks.
+**Multiattack.** :: The golem makes two slam attacks.
 
-**Slam.** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19 (3d8 + 6) bludgeoning damage.
+**Slam.** :: *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19 (3d8 + 6) bludgeoning damage.
 
-**Boulder Launch (Recharge 5-6).** *Ranged Weapon Attack:* +10 to hit, range 60/240 ft., one target. *Hit:* 32 (4d12 + 6) bludgeoning damage. If the target is a structure, it takes double damage.
+**Boulder Launch (Recharge 5-6).** :: *Ranged Weapon Attack:* +10 to hit, range 60/240 ft., one target. *Hit:* 32 (4d12 + 6) bludgeoning damage. If the target is a structure, it takes double damage.
 
-**Siege Mode (1/Day).** For 1 minute, the golem becomes rooted in place (speed 0) but gains advantage on attack rolls and its attacks deal maximum damage to structures.
+**Siege Mode (1/Day).** :: For 1 minute, the golem becomes rooted in place (speed 0) but gains advantage on attack rolls and its attacks deal maximum damage to structures.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
@@ -868,28 +868,28 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |20 (+5) | 15 (+2) | 14 (+2) | 10 (+0) | 14 (+2) | 12 (+1)|
 ___
-**Saving Throws** Strength +9, Constitution +6
-**Skills** Athletics +9, Intimidation +5, Perception +6
-**Senses** passive Perception 16
-**Languages** Common
-**Challenge** 9 (5,000 XP)
+**Saving Throws** :: Strength +9, Constitution +6
+**Skills** :: Athletics +9, Intimidation +5, Perception +6
+**Senses** :: passive Perception 16
+**Languages** :: Common
+**Challenge** :: 9 (5,000 XP)
 ___
-**Indomitable (2/Day).** The champion can reroll a saving throw. They must use the new roll.
+**Indomitable (2/Day).** :: The champion can reroll a saving throw. They must use the new roll.
 
-**Second Wind (Recharges after a Short or Long Rest).** As a bonus action, the champion can regain 20 hit points.
+**Second Wind (Recharges after a Short or Long Rest).** :: As a bonus action, the champion can regain 20 hit points.
 
 ___
 ### ACTIONS
-**Multiattack.** The champion makes three attacks with their greatsword or longbow.
+**Multiattack.** :: The champion makes three attacks with their greatsword or longbow.
 
-**Greatsword.** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
+**Greatsword.** :: *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
 
-**Longbow.** *Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+**Longbow.** :: *Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
-**Rally (Recharges after a Short or Long Rest).** The champion rallies their allies. Each ally within 30 feet regains 10 hit points and gains advantage on their next attack roll or saving throw.
+**Rally (Recharges after a Short or Long Rest).** :: The champion rallies their allies. Each ally within 30 feet regains 10 hit points and gains advantage on their next attack roll or saving throw.
 
 ### REACTIONS
-**Parry.** The champion adds 4 to their AC against one melee attack that would hit them.
+**Parry.** :: The champion adds 4 to their AC against one melee attack that would hit them.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
@@ -919,30 +919,30 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |19 (+4) | 11 (+0) | 18 (+4) | 12 (+1) | 14 (+2) | 16 (+3)|
 ___
-**Saving Throws** Constitution +8, Wisdom +6, Charisma +7
-**Skills** Athletics +8, Intimidation +7, Religion +5
+**Saving Throws** :: Constitution +8, Wisdom +6, Charisma +7
+**Skills** :: Athletics +8, Intimidation +7, Religion +5
 **Damage Resistances** necrotic
 **Condition Immunities** frightened
-**Senses** passive Perception 12
-**Languages** Common
-**Challenge** 10 (5,900 XP)
+**Senses** :: passive Perception 12
+**Languages** :: Common
+**Challenge** :: 10 (5,900 XP)
 ___
-**Aura of Tyranny (10 ft.).** Allied creatures within 10 feet deal an extra 1d4 damage on weapon attacks. Enemy creatures have disadvantage on saving throws against being frightened.
+**Aura of Tyranny (10 ft.).** :: Allied creatures within 10 feet deal an extra 1d4 damage on weapon attacks. Enemy creatures have disadvantage on saving throws against being frightened.
 
-**Iron Will.** The knight has advantage on saving throws against being charmed or frightened.
+**Iron Will.** :: The knight has advantage on saving throws against being charmed or frightened.
 
-**Spellcasting.** The knight is a 12th-level spellcaster (Oath of the Iron Crown subclass). Spellcasting ability is Charisma (spell save DC 15, +7 to hit). Prepared spells:
+**Spellcasting.** :: The knight is a 12th-level spellcaster (Oath of the Iron Crown subclass). Spellcasting ability is Charisma (spell save DC 15, +7 to hit). Prepared spells:
 
 ___
 ### ACTIONS
-**Multiattack.** The knight makes two longsword attacks.
+**Multiattack.** :: The knight makes two longsword attacks.
 
-**Longsword +2.** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 6) slashing damage, or 11 (1d10 + 6) slashing damage if used with two hands.
+**Longsword +2.** :: *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 6) slashing damage, or 11 (1d10 + 6) slashing damage if used with two hands.
 
-**Channel Divinity: Iron Command (1/Day).** Each hostile creature within 30 feet must make a DC 15 Wisdom saving throw. On a failure, the creature is paralyzed until the end of the knight's next turn.
+**Channel Divinity: Iron Command (1/Day).** :: Each hostile creature within 30 feet must make a DC 15 Wisdom saving throw. On a failure, the creature is paralyzed until the end of the knight's next turn.
 
 ### REACTIONS
-**Oath of Protection.** When a creature within 5 feet is hit by an attack, the knight can make that attack target them instead.
+**Oath of Protection.** :: When a creature within 5 feet is hit by an attack, the knight can make that attack target them instead.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
@@ -974,40 +974,40 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |20 (+5) | 14 (+2) | 18 (+4) | 16 (+3) | 16 (+3) | 18 (+4)|
 ___
-**Saving Throws** Strength +10, Constitution +9, Wisdom +8, Charisma +9
-**Skills** Athletics +10, History +8, Insight +8, Intimidation +9, Perception +8
+**Saving Throws** :: Strength +10, Constitution +9, Wisdom +8, Charisma +9
+**Skills** :: Athletics +10, History +8, Insight +8, Intimidation +9, Perception +8
 **Damage Resistances** all damage from spells
 **Condition Immunities** frightened
-**Senses** passive Perception 18
-**Languages** Common, plus four others
-**Challenge** 13 (10,000 XP)
+**Senses** :: passive Perception 18
+**Languages** :: Common, plus four others
+**Challenge** :: 13 (10,000 XP)
 ___
-**Legendary Resistance (3/Day).** If Varius fails a saving throw, he can choose to succeed instead.
+**Legendary Resistance (3/Day).** :: If Varius fails a saving throw, he can choose to succeed instead.
 
-**Supreme Commander.** Allied creatures within 60 feet have advantage on saving throws against being frightened and add 1d6 to damage rolls.
+**Supreme Commander.** :: Allied creatures within 60 feet have advantage on saving throws against being frightened and add 1d6 to damage rolls.
 
-**Tactical Genius.** Varius can take a special reaction at initiative count 20 (losing ties) to command an ally within 60 feet to immediately take an action.
+**Tactical Genius.** :: Varius can take a special reaction at initiative count 20 (losing ties) to command an ally within 60 feet to immediately take an action.
 
-**Magic Resistance.** Varius has advantage on saving throws against spells and other magical effects.
+**Magic Resistance.** :: Varius has advantage on saving throws against spells and other magical effects.
 
 ___
 ### ACTIONS
-**Multiattack.** Varius makes three longsword attacks.
+**Multiattack.** :: Varius makes three longsword attacks.
 
-**Longsword of Command +3.** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 12 (1d8 + 8) slashing damage, or 13 (1d10 + 8) slashing damage if used with two hands, plus 9 (2d8) radiant damage.
+**Longsword of Command +3.** :: *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 12 (1d8 + 8) slashing damage, or 13 (1d10 + 8) slashing damage if used with two hands, plus 9 (2d8) radiant damage.
 
-**Javelin of Lightning +2.** *Ranged Weapon Attack:* +9 to hit, range 30/120 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage plus 9 (2d8) lightning damage.
+**Javelin of Lightning +2.** :: *Ranged Weapon Attack:* +9 to hit, range 30/120 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage plus 9 (2d8) lightning damage.
 
-**Commanding Shout (Recharge 5-6).** Varius issues a tactical command. Each ally within 60 feet can immediately move up to half their speed and make one weapon attack as a reaction.
+**Commanding Shout (Recharge 5-6).** :: Varius issues a tactical command. Each ally within 60 feet can immediately move up to half their speed and make one weapon attack as a reaction.
 
 ### LEGENDARY ACTIONS
-**Move.** Varius moves up to half his speed.
+**Move.** :: Varius moves up to half his speed.
 
-**Attack.** Varius makes one longsword attack.
+**Attack.** :: Varius makes one longsword attack.
 
-**Rally (Costs 2 Actions).** Each ally within 30 feet regains 15 hit points and gains advantage on their next attack roll.
+**Rally (Costs 2 Actions).** :: Each ally within 30 feet regains 15 hit points and gains advantage on their next attack roll.
 
-**Tactical Reposition (Costs 3 Actions).** Varius and up to four allies within 60 feet can move up to their speed without provoking opportunity attacks.
+**Tactical Reposition (Costs 3 Actions).** :: Varius and up to four allies within 60 feet can move up to their speed without provoking opportunity attacks.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
@@ -1044,17 +1044,17 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 12 (+1) | 11 (+0)|
 ___
-**Skills** Stealth +4, Survival +3
-**Languages** Common
-**Challenge** 1/4 (50 XP)
+**Skills** :: Stealth +4, Survival +3
+**Languages** :: Common
+**Challenge** :: 1/4 (50 XP)
 ___
-**Guerrilla Fighter.** Advantage on attacks when hidden or unseen by target.
+**Guerrilla Fighter.** :: Advantage on attacks when hidden or unseen by target.
 
 ___
 ### ACTIONS
-**Spear.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1d6+2 piercing damage
+**Spear.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1d6+2 piercing damage
 
-**Sling.** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 1d4+2 bludgeoning damage
+**Sling.** :: *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 1d4+2 bludgeoning damage
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
@@ -1077,19 +1077,19 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |12 (+1) | 15 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 12 (+1)|
 ___
-**Skills** Stealth +4, Survival +3
-**Languages** Common
-**Challenge** 1 (200 XP)
+**Skills** :: Stealth +4, Survival +3
+**Languages** :: Common
+**Challenge** :: 1 (200 XP)
 ___
-**Freedom's Fury.** Extra 1d6 damage against Thaldros forces.
+**Freedom's Fury.** :: Extra 1d6 damage against Thaldros forces.
 
 ___
 ### ACTIONS
-**Shortsword.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1d6+2 piercing damage
+**Shortsword.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1d6+2 piercing damage
 
-**Shortbow.** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 1d6+2 piercing damage
+**Shortbow.** :: *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 1d6+2 piercing damage
 
-**Inspiring Cry (Recharge 5-6).** Allies within 30 ft gain advantage on next attack.
+**Inspiring Cry (Recharge 5-6).** :: Allies within 30 ft gain advantage on next attack.
 
 }}
 <div class='pageNumber auto'></div>
@@ -1115,20 +1115,20 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 12 (+1) | 15 (+2)|
 ___
-**Saving Throws** Strength +5, Constitution +4
-**Skills** Athletics +5, Persuasion +4
-**Languages** Common
-**Challenge** 3 (700 XP)
+**Saving Throws** :: Strength +5, Constitution +4
+**Skills** :: Athletics +5, Persuasion +4
+**Languages** :: Common
+**Challenge** :: 3 (700 XP)
 ___
-**Defender of the Weak.** Advantage on attacks against enemies threatening civilians.
+**Defender of the Weak.** :: Advantage on attacks against enemies threatening civilians.
 
 ___
 ### ACTIONS
-**Multiattack.** Two longsword attacks.
+**Multiattack.** :: Two longsword attacks.
 
-**Longsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1d8+3 slashing damage
+**Longsword.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1d8+3 slashing damage
 
-**Rally the People (1/Day).** All allies within 30 ft gain 10 temp HP and advantage on saves vs fear.
+**Rally the People (1/Day).** :: All allies within 30 ft gain 10 temp HP and advantage on saves vs fear.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
@@ -1150,10 +1150,10 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |9 (-1) | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0)|
 ___
-**Saving Throws** Intelligence +6, Wisdom +4
-**Skills** Arcana +6, History +6
-**Languages** Common +2 others
-**Challenge** 5 (1,800 XP)
+**Saving Throws** :: Intelligence +6, Wisdom +4
+**Skills** :: Arcana +6, History +6
+**Languages** :: Common +2 others
+**Challenge** :: 5 (1,800 XP)
 ___
 
 }}
@@ -1179,26 +1179,26 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |11 (+0) | 18 (+4) | 14 (+2) | 13 (+1) | 17 (+3) | 12 (+1)|
 ___
-**Saving Throws** Strength +3, Dexterity +7
-**Skills** Acrobatics +7, Stealth +7
-**Languages** Common
-**Challenge** 6 (2,300 XP)
+**Saving Throws** :: Strength +3, Dexterity +7
+**Skills** :: Acrobatics +7, Stealth +7
+**Languages** :: Common
+**Challenge** :: 6 (2,300 XP)
 ___
-**Unarmored Defense.** AC = 10 + Dexterity + Wisdom
+**Unarmored Defense.** :: AC = 10 + Dexterity + Wisdom
 
-**Unarmored Movement.** +20 ft speed
+**Unarmored Movement.** :: +20 ft speed
 
-**Ki (11 points).** Regain on short rest.
+**Ki (11 points).** :: Regain on short rest.
 
 ___
 ### ACTIONS
-**Multiattack.** Four unarmed strikes.
+**Multiattack.** :: Four unarmed strikes.
 
-**Unarmed Strike.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d8+4 bludgeoning damage
+**Unarmed Strike.** :: *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d8+4 bludgeoning damage
 
-**Shatter Bonds (3 ki).** Automatically break all restraints on touched creature. Can use on self.
+**Shatter Bonds (3 ki).** :: Automatically break all restraints on touched creature. Can use on self.
 
-**Stunning Strike (1 ki).** DC 15 Constitution save or stunned until end of your next turn.
+**Stunning Strike (1 ki).** :: DC 15 Constitution save or stunned until end of your next turn.
 
 }}
 <div class='pageNumber auto'></div>
@@ -1221,22 +1221,22 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |14 (+2) | 18 (+4) | 14 (+2) | 15 (+2) | 16 (+3) | 17 (+3)|
 ___
-**Saving Throws** Dexterity +7, Wisdom +6
-**Skills** Stealth +10, Survival +6, Persuasion +6
-**Languages** Common +2 others
-**Challenge** 7 (2,900 XP)
+**Saving Throws** :: Dexterity +7, Wisdom +6
+**Skills** :: Stealth +10, Survival +6, Persuasion +6
+**Languages** :: Common +2 others
+**Challenge** :: 7 (2,900 XP)
 ___
-**Tactical Mind.** Allies within 60 ft add +2 to initiative.
+**Tactical Mind.** :: Allies within 60 ft add +2 to initiative.
 
-**Sneak Attack (1/turn).** +4d6 damage with advantage.
+**Sneak Attack (1/turn).** :: +4d6 damage with advantage.
 
 ___
 ### ACTIONS
-**Multiattack.** Three shortsword or shortbow attacks.
+**Multiattack.** :: Three shortsword or shortbow attacks.
 
-**Shortsword +2.** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 1d6+6 piercing damage
+**Shortsword +2.** :: *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 1d6+6 piercing damage
 
-**Strategic Command (Recharge 5-6).** All allies within 60 ft can move half speed and make one attack as reaction.
+**Strategic Command (Recharge 5-6).** :: All allies within 60 ft can move half speed and make one attack as reaction.
 
 
 }}
@@ -1260,30 +1260,30 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |16 (+3) | 20 (+5) | 18 (+4) | 14 (+2) | 16 (+3) | 20 (+5)|
 ___
-**Saving Throws** Dexterity +10, Wisdom +8, Charisma +10
-**Skills** All +9 or higher
-**Languages** All common
-**Challenge** 11 (7,200 XP)
+**Saving Throws** :: Dexterity +10, Wisdom +8, Charisma +10
+**Skills** :: All +9 or higher
+**Languages** :: All common
+**Challenge** :: 11 (7,200 XP)
 ___
-**Legendary Resistance (2/Day).** Can choose to succeed on failed save.
+**Legendary Resistance (2/Day).** :: Can choose to succeed on failed save.
 
-**Aura of Freedom (30 ft).** Allies have advantage vs charmed/frightened.
+**Aura of Freedom (30 ft).** :: Allies have advantage vs charmed/frightened.
 
-**Sneak Attack (1/turn).** +6d6 damage
+**Sneak Attack (1/turn).** :: +6d6 damage
 
 ___
 ### ACTIONS
-**Multiattack.** Four rapier attacks.
+**Multiattack.** :: Four rapier attacks.
 
-**Freedom's Blade +3.** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 1d8+8 piercing damage + 2d8 radiant damage
+**Freedom's Blade +3.** :: *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 1d8+8 piercing damage + 2d8 radiant damage
 
-**Break All Chains (1/Day).** All restraints/prisons within 60 ft shatter. All allies gain 30 temp HP.
+**Break All Chains (1/Day).** :: All restraints/prisons within 60 ft shatter. All allies gain 30 temp HP.
 
-**Move.** Half speed
+**Move.** :: Half speed
 
-**Attack.** One rapier attack
+**Attack.** :: One rapier attack
 
-**Inspire (2 actions).** One ally makes attack or spell as reaction
+**Inspire (2 actions).** :: One ally makes attack or spell as reaction
 
 
 }}
@@ -1307,21 +1307,21 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |20 (+5) | 14 (+2) | 22 (+6) | 12 (+1) | 18 (+4) | 20 (+5)|
 ___
-**Saving Throws** Strength +10, Constitution +11, Wisdom +9, Charisma +10 | **Condition Immunities** frightened
-**Languages** Common +3 others
-**Challenge** 12 (8,400 XP)
+**Saving Throws** :: Strength +10, Constitution +11, Wisdom +9, Charisma +10 | **Condition Immunities** frightened
+**Languages** :: Common +3 others
+**Challenge** :: 12 (8,400 XP)
 ___
-**Destiny's Chosen.** Advantage on all saves. Crits on 19-20.
+**Destiny's Chosen.** :: Advantage on all saves. Crits on 19-20.
 
-**Aura of Destiny (30 ft).** Allies add +3 to all saves.
+**Aura of Destiny (30 ft).** :: Allies add +3 to all saves.
 
 ___
 ### ACTIONS
-**Multiattack.** Three longsword attacks.
+**Multiattack.** :: Three longsword attacks.
 
-**Destiny's Blade +2.** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 1d8+7 slashing damage + 3d8 radiant damage
+**Destiny's Blade +2.** :: *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 1d8+7 slashing damage + 3d8 radiant damage
 
-**Channel Divinity: Smite the Tyrant (3/Day).** Next attack deals +50 radiant damage vs evil targets.
+**Channel Divinity: Smite the Tyrant (3/Day).** :: Next attack deals +50 radiant damage vs evil targets.
 
 
 }}
@@ -1349,17 +1349,17 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0)|
 ___
-**Skills** Athletics +3
-**Languages** Common
-**Challenge** 1/2 (100 XP)
+**Skills** :: Athletics +3
+**Languages** :: Common
+**Challenge** :: 1/2 (100 XP)
 ___
-**Professional Training.** Advantage on saves vs fear while within 10 ft of ally.
+**Professional Training.** :: Advantage on saves vs fear while within 10 ft of ally.
 
 ___
 ### ACTIONS
-**Longsword.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1d8+1 slashing damage
+**Longsword.** :: *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1d8+1 slashing damage
 
-**Crossbow.** *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 1d8+1 piercing damage
+**Crossbow.** :: *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 1d8+1 piercing damage
 
 
 }}
@@ -1383,19 +1383,19 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |15 (+2) | 13 (+1) | 14 (+2) | 11 (+0) | 12 (+1) | 11 (+0)|
 ___
-**Skills** Athletics +4, Survival +3
-**Languages** Common
-**Challenge** 2 (450 XP)
+**Skills** :: Athletics +4, Survival +3
+**Languages** :: Common
+**Challenge** :: 2 (450 XP)
 ___
-**Combat Veteran.** Advantage on saves vs poison and disease.
+**Combat Veteran.** :: Advantage on saves vs poison and disease.
 
 ___
 ### ACTIONS
-**Multiattack.** Two longsword attacks.
+**Multiattack.** :: Two longsword attacks.
 
-**Longsword.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1d8+2 slashing damage
+**Longsword.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1d8+2 slashing damage
 
-**Tactical Retreat.** Disengage as bonus action.
+**Tactical Retreat.** :: Disengage as bonus action.
 
 
 }}
@@ -1419,19 +1419,19 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |17 (+3) | 14 (+2) | 18 (+4) | 11 (+0) | 13 (+1) | 12 (+1)|
 ___
-**Skills** Athletics +5, Intimidation +3 | **Languages** Common
-**Languages** Common
-**Challenge** 4 (1,100 XP)
+**Skills** :: Athletics +5, Intimidation +3 | **Languages** :: Common
+**Languages** :: Common
+**Challenge** :: 4 (1,100 XP)
 ___
-**Guild Authority.** Can call for backup (1d4 recruits arrive in 1d4 rounds).
+**Guild Authority.** :: Can call for backup (1d4 recruits arrive in 1d4 rounds).
 
 ___
 ### ACTIONS
-**Multiattack.** Two greatsword attacks.
+**Multiattack.** :: Two greatsword attacks.
 
-**Greatsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2d6+3 slashing damage
+**Greatsword.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2d6+3 slashing damage
 
-**Intimidating Presence (Recharge 5-6).** DC 13 Wisdom save or frightened 1 min.
+**Intimidating Presence (Recharge 5-6).** :: DC 13 Wisdom save or frightened 1 min.
 
 
 }}
@@ -1455,22 +1455,22 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0)|
 ___
-**Saving Throws** Dexterity +6
-**Skills** Stealth +9, Perception +3
-**Languages** Common, Thieves' Cant
-**Challenge** 5 (1,800 XP)
+**Saving Throws** :: Dexterity +6
+**Skills** :: Stealth +9, Perception +3
+**Languages** :: Common, Thieves' Cant
+**Challenge** :: 5 (1,800 XP)
 ___
-**Assassinate.** Advantage vs creatures that haven't acted. Crits on surprise hits.
+**Assassinate.** :: Advantage vs creatures that haven't acted. Crits on surprise hits.
 
-**Sneak Attack (1/turn).** +3d6 damage with advantage.
+**Sneak Attack (1/turn).** :: +3d6 damage with advantage.
 
 ___
 ### ACTIONS
-**Multiattack.** Two shortsword attacks.
+**Multiattack.** :: Two shortsword attacks.
 
-**Shortsword.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 1d6+3 piercing damage
+**Shortsword.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 1d6+3 piercing damage
 
-**Poisoned Dart.** *Ranged Weapon Attack:* +6 to hit, range 20/60 ft., one target. *Hit:* 1d4+3 piercing damage + DC 14 Constitution save or 3d6 poison damage
+**Poisoned Dart.** :: *Ranged Weapon Attack:* +6 to hit, range 20/60 ft., one target. *Hit:* 1d4+3 piercing damage + DC 14 Constitution save or 3d6 poison damage
 
 
 }}
@@ -1494,22 +1494,22 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |18 (+4) | 12 (+1) | 16 (+3) | 14 (+2) | 15 (+2) | 16 (+3)|
 ___
-**Saving Throws** Strength +7, Constitution +6, Wisdom +5
-**Skills** Athletics +7, Persuasion +6
-**Languages** Common +2 others
-**Challenge** 7 (2,900 XP)
+**Saving Throws** :: Strength +7, Constitution +6, Wisdom +5
+**Skills** :: Athletics +7, Persuasion +6
+**Languages** :: Common +2 others
+**Challenge** :: 7 (2,900 XP)
 ___
-**Tactical Leader.** Allies within 30 ft add +2 to attack rolls.
+**Tactical Leader.** :: Allies within 30 ft add +2 to attack rolls.
 
-**Second Wind (1/Short Rest).** Bonus action to heal 20 HP.
+**Second Wind (1/Short Rest).** :: Bonus action to heal 20 HP.
 
 ___
 ### ACTIONS
-**Multiattack.** Three longsword attacks.
+**Multiattack.** :: Three longsword attacks.
 
-**Longsword +1.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 1d8+5 slashing damage
+**Longsword +1.** :: *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 1d8+5 slashing damage
 
-**Command Squad (Recharge 5-6).** All allies within 60 ft can attack as reaction.
+**Command Squad (Recharge 5-6).** :: All allies within 60 ft can attack as reaction.
 
 
 }}
@@ -1533,22 +1533,22 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |20 (+5) | 14 (+2) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2)|
 ___
-**Saving Throws** Strength +9, Constitution +7
-**Skills** Athletics +9, Intimidation +6
-**Languages** Common +2 others
-**Challenge** 9 (5,000 XP)
+**Saving Throws** :: Strength +9, Constitution +7
+**Skills** :: Athletics +9, Intimidation +6
+**Languages** :: Common +2 others
+**Challenge** :: 9 (5,000 XP)
 ___
-**Indomitable (2/Day).** Reroll failed save.
+**Indomitable (2/Day).** :: Reroll failed save.
 
-**Mercenary's Pride.** Advantage vs fear and charm.
+**Mercenary's Pride.** :: Advantage vs fear and charm.
 
 ___
 ### ACTIONS
-**Multiattack.** Three greatsword attacks.
+**Multiattack.** :: Three greatsword attacks.
 
-**Greatsword +2.** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 2d6+7 slashing damage
+**Greatsword +2.** :: *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 2d6+7 slashing damage
 
-**Commanding Strike (Recharge 5-6).** One ally makes attack with advantage.
+**Commanding Strike (Recharge 5-6).** :: One ally makes attack with advantage.
 
 
 }}
@@ -1572,28 +1572,28 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |20 (+5) | 12 (+1) | 18 (+4) | 16 (+3) | 16 (+3) | 18 (+4)|
 ___
-**Saving Throws** All +7 or higher
-**Skills** Insight +11, Persuasion +12
-**Languages** Common, Dwarvish +3
-**Challenge** 11 (7,200 XP)
+**Saving Throws** :: All +7 or higher
+**Skills** :: Insight +11, Persuasion +12
+**Languages** :: Common, Dwarvish +3
+**Challenge** :: 11 (7,200 XP)
 ___
-**Legendary Resistance (2/Day).** Choose to succeed on failed save.
+**Legendary Resistance (2/Day).** :: Choose to succeed on failed save.
 
-**Guildmaster's Authority.** All Iron Guild members within 60 ft gain +3 to all rolls.
+**Guildmaster's Authority.** :: All Iron Guild members within 60 ft gain +3 to all rolls.
 
 ___
 ### ACTIONS
-**Multiattack.** Three warhammer attacks.
+**Multiattack.** :: Three warhammer attacks.
 
-**Iron Will +3.** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 1d8+8 bludgeoning damage + 2d8 force damage
+**Iron Will +3.** :: *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 1d8+8 bludgeoning damage + 2d8 force damage
 
-**Honor Duel (1/Day).** Challenge one creature. Both have advantage vs each other, disadvantage vs others. Lasts 1 min.
+**Honor Duel (1/Day).** :: Challenge one creature. Both have advantage vs each other, disadvantage vs others. Lasts 1 min.
 
-**Attack.** One warhammer attack
+**Attack.** :: One warhammer attack
 
-**Tactical Order (2 actions).** One ally acts immediately
+**Tactical Order (2 actions).** :: One ally acts immediately
 
-**Iron Defense (2 actions).** +5 AC until next turn
+**Iron Defense (2 actions).** :: +5 AC until next turn
 
 
 }}
@@ -1626,18 +1626,18 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 14 (+2) | 16 (+3)|
 ___
-**Saving Throws** Wisdom +4, Charisma +5
-**Skills** Religion +2
-**Senses** passive Perception 12
-**Languages** Common
-**Challenge** 4 (1,100 XP)
+**Saving Throws** :: Wisdom +4, Charisma +5
+**Skills** :: Religion +2
+**Senses** :: passive Perception 12
+**Languages** :: Common
+**Challenge** :: 4 (1,100 XP)
 ___
 ### ACTIONS
-**Multiattack.** Two longsword attacks.
+**Multiattack.** :: Two longsword attacks.
 
-**Longsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1d8+3 slashing damage
+**Longsword.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1d8+3 slashing damage
 
-**Divine Smite (3/Day).** Add 2d8 radiant to hit.
+**Divine Smite (3/Day).** :: Add 2d8 radiant to hit.
 
 
 }}
@@ -1661,17 +1661,17 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |16 (+3) | 10 (+0) | 14 (+2) | 14 (+2) | 16 (+3) | 14 (+2)|
 ___
-**Saving Throws** Wisdom +6, Charisma +5
-**Skills** Insight +6, Persuasion +5
-**Languages** Common
-**Challenge** 6 (2,300 XP)
+**Saving Throws** :: Wisdom +6, Charisma +5
+**Skills** :: Insight +6, Persuasion +5
+**Languages** :: Common
+**Challenge** :: 6 (2,300 XP)
 ___
 ### ACTIONS
-**Multiattack.** Two mace attacks.
+**Multiattack.** :: Two mace attacks.
 
-**Mace of Justice.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 1d6+3 bludgeoning damage + 2d8 radiant damage vs evil
+**Mace of Justice.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 1d6+3 bludgeoning damage + 2d8 radiant damage vs evil
 
-**Gavel Strike (Recharge 5-6).** DC 14 Wisdom save or stunned 1 round (symbol of law striking).
+**Gavel Strike (Recharge 5-6).** :: DC 14 Wisdom save or stunned 1 round (symbol of law striking).
 
 
 }}
@@ -1695,22 +1695,22 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 20 (+5) | 20 (+5)|
 ___
-**Saving Throws** Wisdom +8, Charisma +8
-**Skills** Insight +8, Perception +8
+**Saving Throws** :: Wisdom +8, Charisma +8
+**Skills** :: Insight +8, Perception +8
 **Damage Resistances** radiant; bludgeoning, piercing, slashing from nonmagical
-**Condition Immunities** charmed, frightened | **Senses** darkvision 120 ft.
-**Senses** darkvision 120 ft.
-**Languages** all, telepathy 120 ft.
-**Challenge** 7 (2,900 XP)
+**Condition Immunities** charmed, frightened | **Senses** :: darkvision 120 ft.
+**Senses** :: darkvision 120 ft.
+**Languages** :: all, telepathy 120 ft.
+**Challenge** :: 7 (2,900 XP)
 ___
 ### ACTIONS
-**Multiattack.** Two mace attacks.
+**Multiattack.** :: Two mace attacks.
 
-**Freedom's Mace.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d6+4 bludgeoning damage + 4d8 radiant damage
+**Freedom's Mace.** :: *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d6+4 bludgeoning damage + 4d8 radiant damage
 
-**Break All Bonds.** All restrained/paralyzed creatures within 30 ft freed automatically.
+**Break All Bonds.** :: All restrained/paralyzed creatures within 30 ft freed automatically.
 
-**Change Shape.** Can polymorph into humanoid or Medium beast.
+**Change Shape.** :: Can polymorph into humanoid or Medium beast.
 
 
 }}
@@ -1734,17 +1734,17 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |9 (-1) | 14 (+2) | 12 (+1) | 18 (+4) | 20 (+5) | 14 (+2)|
 ___
-**Saving Throws** Intelligence +7, Wisdom +8
-**Skills** Arcana +7, History +7, Insight +11
-**Languages** Common +4 others
-**Challenge** 5 (1,800 XP)
+**Saving Throws** :: Intelligence +7, Wisdom +8
+**Skills** :: Arcana +7, History +7, Insight +11
+**Languages** :: Common +4 others
+**Challenge** :: 5 (1,800 XP)
 ___
 ### ACTIONS
-**Quarterstaff.** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1d6-1 bludgeoning
+**Quarterstaff.** :: *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1d6-1 bludgeoning
 
-**Prophetic Vision (Recharge 5-6).** One creature within 60 ft sees possible futures. DC 16 Wisdom save or incapacitated 1 round (overwhelmed by visions).
+**Prophetic Vision (Recharge 5-6).** :: One creature within 60 ft sees possible futures. DC 16 Wisdom save or incapacitated 1 round (overwhelmed by visions).
 
-**Weaver's Warning (1/Day).** Grant one creature reroll on any d20 within next hour.
+**Weaver's Warning (1/Day).** :: Grant one creature reroll on any d20 within next hour.
 
 
 }}
@@ -1768,23 +1768,23 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |18 (+4) | 19 (+4) | 18 (+4) | 14 (+2) | 17 (+3) | 16 (+3)|
 ___
-**Saving Throws** Dexterity +7, Wisdom +6
-**Skills** Nature +5, Perception +9, Stealth +10
-**Damage Resistances** lightning, thunder | **Senses** darkvision 120 ft.
-**Senses** darkvision 120 ft.
-**Languages** Sylvan, Common
-**Challenge** 8 (3,900 XP)
+**Saving Throws** :: Dexterity +7, Wisdom +6
+**Skills** :: Nature +5, Perception +9, Stealth +10
+**Damage Resistances** lightning, thunder | **Senses** :: darkvision 120 ft.
+**Senses** :: darkvision 120 ft.
+**Languages** :: Sylvan, Common
+**Challenge** :: 8 (3,900 XP)
 ___
 ### ACTIONS
-**Multiattack.** Three longbow attacks or two spear attacks.
+**Multiattack.** :: Three longbow attacks or two spear attacks.
 
-**Spear.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d6+4 piercing damage + 2d6 lightning damage
+**Spear.** :: *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d6+4 piercing damage + 2d6 lightning damage
 
-**Storm Bow.** *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 1d8+4 piercing damage + 2d6 lightning damage
+**Storm Bow.** :: *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 1d8+4 piercing damage + 2d6 lightning damage
 
-**Call the Wild (Recharge 5-6).** Summon 2d4 wolves (arrive next round, last 1 hour).
+**Call the Wild (Recharge 5-6).** :: Summon 2d4 wolves (arrive next round, last 1 hour).
 
-**Lightning Leap.** Teleport up to 60 ft as bonus action, leaving lightning in space (5d6 lightning, DC 15 Dexterity).
+**Lightning Leap.** :: Teleport up to 60 ft as bonus action, leaving lightning in space (5d6 lightning, DC 15 Dexterity).
 
 
 }}
@@ -1808,19 +1808,19 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |10 (+0) | 18 (+4) | 12 (+1) | 14 (+2) | 18 (+4) | 16 (+3)|
 ___
-**Skills** Medicine +8, Insight +6
+**Skills** :: Medicine +8, Insight +6
 **Damage Resistances** radiant
-**Condition Immunities** charmed, frightened | **Senses** darkvision 60 ft.
-**Senses** darkvision 60 ft.
-**Languages** all, telepathy 60 ft.
-**Challenge** 3 (700 XP)
+**Condition Immunities** charmed, frightened | **Senses** :: darkvision 60 ft.
+**Senses** :: darkvision 60 ft.
+**Languages** :: all, telepathy 60 ft.
+**Challenge** :: 3 (700 XP)
 ___
 ### ACTIONS
-**Touch of Mercy.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* target healed for 2d8+4 HP or takes 2d8+4 radiant (undead only).
+**Touch of Mercy.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* target healed for 2d8+4 HP or takes 2d8+4 radiant (undead only).
 
-**Shield of Compassion (3/Day).** Grant one creature within 60 ft resistance to all damage until end of its next turn.
+**Shield of Compassion (3/Day).** :: Grant one creature within 60 ft resistance to all damage until end of its next turn.
 
-**Peaceful Presence (Recharge 6).** All creatures within 30 ft make DC 14 Wisdom save or can't attack for 1 minute (charmed effect).
+**Peaceful Presence (Recharge 6).** :: All creatures within 30 ft make DC 14 Wisdom save or can't attack for 1 minute (charmed effect).
 
 
 }}
@@ -1844,21 +1844,21 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |20 (+5) | 11 (+0) | 20 (+5) | 12 (+1) | 16 (+3) | 18 (+4)|
 ___
-**Saving Throws** Strength +9, Constitution +9, Wisdom +7 | **Damage Immunities** necrotic, poison
+**Saving Throws** :: Strength +9, Constitution +9, Wisdom +7 | **Damage Immunities** necrotic, poison
 **Damage Immunities** necrotic, poison
-**Condition Immunities** exhaustion, frightened, poisoned | **Senses** darkvision 120 ft.
-**Senses** darkvision 120 ft.
-**Languages** Common
-**Challenge** 10 (5,900 XP)
+**Condition Immunities** exhaustion, frightened, poisoned | **Senses** :: darkvision 120 ft.
+**Senses** :: darkvision 120 ft.
+**Languages** :: Common
+**Challenge** :: 10 (5,900 XP)
 ___
 ### ACTIONS
-**Multiattack.** Three longsword attacks.
+**Multiattack.** :: Three longsword attacks.
 
-**Longsword of Vigil.** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 1d8+5 slashing damage + 3d8 necrotic damage
+**Longsword of Vigil.** :: *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 1d8+5 slashing damage + 3d8 necrotic damage
 
-**Sentinel's Command (Recharge 5-6).** All undead within 60 ft gain +2 AC and advantage on attacks for 1 min.
+**Sentinel's Command (Recharge 5-6).** :: All undead within 60 ft gain +2 AC and advantage on attacks for 1 min.
 
-**Honor the Fallen (1/Day).** All dead within 30 ft rise as shadows under sentinel's control for 1 hour.
+**Honor the Fallen (1/Day).** :: All dead within 30 ft rise as shadows under sentinel's control for 1 hour.
 
 
 }}
@@ -1882,21 +1882,21 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |18 (+4) | 12 (+1) | 16 (+3) | 11 (+0) | 12 (+1) | 14 (+2)|
 ___
-**Saving Throws** Strength +8, Constitution +7 | **Damage Immunities** poison
+**Saving Throws** :: Strength +8, Constitution +7 | **Damage Immunities** poison
 **Damage Immunities** poison
-**Condition Immunities** exhaustion, poisoned | **Senses** darkvision 60 ft.
-**Senses** darkvision 60 ft.
-**Languages** Common
-**Challenge** 9 (5,000 XP)
+**Condition Immunities** exhaustion, poisoned | **Senses** :: darkvision 60 ft.
+**Senses** :: darkvision 60 ft.
+**Languages** :: Common
+**Challenge** :: 9 (5,000 XP)
 ___
 ### ACTIONS
-**Multiattack.** Three greatsword attacks.
+**Multiattack.** :: Three greatsword attacks.
 
-**Cursed Greatsword.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 2d6+4 slashing damage + 2d8 necrotic damage
+**Cursed Greatsword.** :: *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 2d6+4 slashing damage + 2d8 necrotic damage
 
-**Aura of Despair (Recharge 5-6).** All creatures within 30 ft make DC 15 Wisdom save or frightened 1 min. Frightened creatures have speed 0.
+**Aura of Despair (Recharge 5-6).** :: All creatures within 30 ft make DC 15 Wisdom save or frightened 1 min. Frightened creatures have speed 0.
 
-**Corrupted Smite (3/Day).** Add 4d8 necrotic to attack.
+**Corrupted Smite (3/Day).** :: Add 4d8 necrotic to attack.
 
 
 }}
@@ -1926,16 +1926,16 @@ ___
 ___
 **Damage Immunities** poison, psychic; nonmagical weapons
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-**Senses** darkvision 120 ft., truesight 30 ft.
-**Languages** understands Ancient tongue
-**Challenge** 8 (3,900 XP)
+**Senses** :: darkvision 120 ft., truesight 30 ft.
+**Languages** :: understands Ancient tongue
+**Challenge** :: 8 (3,900 XP)
 ___
 ### ACTIONS
-**Multiattack.** Two slam attacks.
+**Multiattack.** :: Two slam attacks.
 
-**Slam.** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 3d8+6 bludgeoning damage
+**Slam.** :: *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 3d8+6 bludgeoning damage
 
-**Time Ripple (Recharge 5-6).** All creatures in 20 ft radius make DC 16 Wisdom save. Failed save: sent forward in time 1 round (miss turn, reappear in same space). Success: take 4d10 psychic damage.
+**Time Ripple (Recharge 5-6).** :: All creatures in 20 ft radius make DC 16 Wisdom save. Failed save: sent forward in time 1 round (miss turn, reappear in same space). Success: take 4d10 psychic damage.
 
 
 }}
@@ -1959,21 +1959,21 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |10 (+0) | 20 (+5) | 20 (+5) | 22 (+6) | 22 (+6) | 18 (+4)|
 ___
-**Saving Throws** Intelligence +10, Wisdom +10, Charisma +8
-**Skills** Arcana +14, History +14
-**Damage Resistances** psychic | **Senses** truesight 120 ft., passive Perception 16
-**Senses** truesight 120 ft., passive Perception 16
-**Languages** all, telepathy 120 ft.
-**Challenge** 10 (5,900 XP)
+**Saving Throws** :: Intelligence +10, Wisdom +10, Charisma +8
+**Skills** :: Arcana +14, History +14
+**Damage Resistances** psychic | **Senses** :: truesight 120 ft., passive Perception 16
+**Senses** :: truesight 120 ft., passive Perception 16
+**Languages** :: all, telepathy 120 ft.
+**Challenge** :: 10 (5,900 XP)
 ___
 ### ACTIONS
-**Multiattack.** Three psychic lance attacks.
+**Multiattack.** :: Three psychic lance attacks.
 
-**Psychic Lance.** *Ranged Weapon Attack:* +10 to hit, range 120 ft., one target. *Hit:* 3d10+5 psychic damage
+**Psychic Lance.** :: *Ranged Weapon Attack:* +10 to hit, range 120 ft., one target. *Hit:* 3d10+5 psychic damage
 
-**Reveal Fate (Recharge 5-6).** Show one creature their destined future. DC 18 Wisdom save or stunned 1d4 rounds (overwhelming vision). On success, gain advantage on next d20 roll.
+**Reveal Fate (Recharge 5-6).** :: Show one creature their destined future. DC 18 Wisdom save or stunned 1d4 rounds (overwhelming vision). On success, gain advantage on next d20 roll.
 
-**Alter Memory (3/Day).** As *modify memory* spell.
+**Alter Memory (3/Day).** :: As *modify memory* spell.
 
 
 }}
@@ -1997,27 +1997,27 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |11 (+0) | 16 (+3) | 16 (+3) | 20 (+5) | 14 (+2) | 16 (+3)|
 ___
-**Saving Throws** Constitution +9, Intelligence +11, Wisdom +8
-**Skills** Arcana +17, History +17
+**Saving Throws** :: Constitution +9, Intelligence +11, Wisdom +8
+**Skills** :: Arcana +17, History +17
 **Damage Resistances** cold, lightning, necrotic
 **Damage Immunities** poison; nonmagical weapons
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-**Senses** truesight 120 ft.
-**Languages** Common +10 others
-**Challenge** 15 (13,000 XP)
+**Senses** :: truesight 120 ft.
+**Languages** :: Common +10 others
+**Challenge** :: 15 (13,000 XP)
 ___
 ### ACTIONS
-**Touch of Death.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 3d6 cold damage + 3d6 necrotic damage. DC 17 Constitution save or paralyzed 1 min.
+**Touch of Death.** :: *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 3d6 cold damage + 3d6 necrotic damage. DC 17 Constitution save or paralyzed 1 min.
 
-**Crown of Forgotten Kings (Recharge 5-6).** All creatures within 60 ft make DC 19 Wisdom save or forget their purpose (confusion effect) for 1 min.
+**Crown of Forgotten Kings (Recharge 5-6).** :: All creatures within 60 ft make DC 19 Wisdom save or forget their purpose (confusion effect) for 1 min.
 
-**Cantrip.** Cast a cantrip
+**Cantrip.** :: Cast a cantrip
 
-**Move.** Fly up to half speed
+**Move.** :: Fly up to half speed
 
-**Cast Spell (2 actions).** Cast spell of 1st-3rd level
+**Cast Spell (2 actions).** :: Cast spell of 1st-3rd level
 
-**Summon Undead (3 actions).** 1d6 wraiths appear
+**Summon Undead (3 actions).** :: 1d6 wraiths appear
 
 
 }}
@@ -2041,22 +2041,22 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |24 (+7) | 20 (+5) | 24 (+7) | 19 (+4) | 22 (+6) | 25 (+7)|
 ___
-**Saving Throws** Constitution +12, Wisdom +11, Charisma +12
-**Skills** Insight +11, Perception +11
+**Saving Throws** :: Constitution +12, Wisdom +11, Charisma +12
+**Skills** :: Insight +11, Perception +11
 **Damage Resistances** radiant; nonmagical weapons
-**Condition Immunities** charmed, exhaustion, frightened | **Senses** truesight 120 ft.
-**Senses** truesight 120 ft.
-**Languages** all, telepathy 120 ft.
-**Challenge** 12 (8,400 XP)
+**Condition Immunities** charmed, exhaustion, frightened | **Senses** :: truesight 120 ft.
+**Senses** :: truesight 120 ft.
+**Languages** :: all, telepathy 120 ft.
+**Challenge** :: 12 (8,400 XP)
 ___
 ### ACTIONS
-**Multiattack.** Two greatsword attacks.
+**Multiattack.** :: Two greatsword attacks.
 
-**Greatsword of the Seven.** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 4d6+7 slashing damage + 5d8 radiant damage
+**Greatsword of the Seven.** :: *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 4d6+7 slashing damage + 5d8 radiant damage
 
-**Ascended's Command (Recharge 5-6).** Issue divine command. All creatures within 60 ft must obey one-word command (as *command* spell) if they fail DC 20 Wisdom save.
+**Ascended's Command (Recharge 5-6).** :: Issue divine command. All creatures within 60 ft must obey one-word command (as *command* spell) if they fail DC 20 Wisdom save.
 
-**Healing Touch (4/Day).** Touch heals 6d8+7 HP and removes all conditions.
+**Healing Touch (4/Day).** :: Touch heals 6d8+7 HP and removes all conditions.
 
 
 }}
@@ -2085,19 +2085,19 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |10 (+0) | 8 (-1) | 18 (+4) | 3 (-4) | 10 (+0) | 6 (-2)|
 ___
-**Condition Immunities** prone | **Senses** darkvision 60 ft.
-**Senses** darkvision 60 ft.
-**Languages** —
-**Challenge** 4 (1,100 XP)
+**Condition Immunities** prone | **Senses** :: darkvision 60 ft.
+**Senses** :: darkvision 60 ft.
+**Languages** :: —
+**Challenge** :: 4 (1,100 XP)
 ___
 ### ACTIONS
-**Multiattack.** One bite, one spitting attack.
+**Multiattack.** :: One bite, one spitting attack.
 
-**Bites.** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 5d6 piercing damage
+**Bites.** :: *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 5d6 piercing damage
 
-**Spit Corruption.** *Ranged Weapon Attack:* +2 to hit, range 15/30 ft., one target. *Hit:* 3d6 acid damage
+**Spit Corruption.** :: *Ranged Weapon Attack:* +2 to hit, range 15/30 ft., one target. *Hit:* 3d6 acid damage
 
-**Blinding Spittle (Recharge 5-6).** Spit at point within 15 ft. 5-ft radius, DC 13 Dexterity save or blinded 1 min.
+**Blinding Spittle (Recharge 5-6).** :: Spit at point within 15 ft. 5-ft radius, DC 13 Dexterity save or blinded 1 min.
 
 
 }}
@@ -2121,23 +2121,23 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |18 (+4) | 14 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 9 (-1)|
 ___
-**Saving Throws** Constitution +6
-**Skills** Perception +4, Stealth +5
+**Saving Throws** :: Constitution +6
+**Skills** :: Perception +4, Stealth +5
 **Damage Resistances** necrotic; bludgeoning, piercing, slashing from nonmagical
 **Damage Immunities** poison | **Condition Immunities** exhaustion, poisoned
 **Condition Immunities** exhaustion, poisoned
-**Senses** darkvision 60 ft.
-**Languages** Common
-**Challenge** 6 (2,300 XP)
+**Senses** :: darkvision 60 ft.
+**Languages** :: Common
+**Challenge** :: 6 (2,300 XP)
 ___
 ### ACTIONS
-**Multiattack.** Two longsword attacks and one life drain.
+**Multiattack.** :: Two longsword attacks and one life drain.
 
-**Longsword.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d8+4 slashing damage
+**Longsword.** :: *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d8+4 slashing damage
 
-**Life Drain.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 2d6+4 necrotic. Target max HP reduced by amount (until long rest). Dies if max HP reaches 0.
+**Life Drain.** :: *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 2d6+4 necrotic. Target max HP reduced by amount (until long rest). Dies if max HP reaches 0.
 
-**Battle Cry (Recharge 6).** All war-twisted soldiers within 30 ft can attack as reaction.
+**Battle Cry (Recharge 6).** :: All war-twisted soldiers within 30 ft can attack as reaction.
 
 
 }}
@@ -2161,23 +2161,23 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |19 (+4) | 16 (+3) | 20 (+5) | 8 (-1) | 14 (+2) | 10 (+0)|
 ___
-**Saving Throws** Constitution +8, Wisdom +5
-**Skills** Perception +5, Stealth +6
-**Damage Resistances** necrotic | **Senses** darkvision 120 ft., blindsight 30 ft.
-**Senses** darkvision 120 ft., blindsight 30 ft.
-**Languages** understands Common but can't speak
-**Challenge** 8 (3,900 XP)
+**Saving Throws** :: Constitution +8, Wisdom +5
+**Skills** :: Perception +5, Stealth +6
+**Damage Resistances** necrotic | **Senses** :: darkvision 120 ft., blindsight 30 ft.
+**Senses** :: darkvision 120 ft., blindsight 30 ft.
+**Languages** :: understands Common but can't speak
+**Challenge** :: 8 (3,900 XP)
 ___
 ### ACTIONS
-**Multiattack.** Two claw attacks and one bite.
+**Multiattack.** :: Two claw attacks and one bite.
 
-**Claw.** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 2d6+4 slashing damage
+**Claw.** :: *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 2d6+4 slashing damage
 
-**Bite.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 2d8+4 piercing damage + 2d8 necrotic damage
+**Bite.** :: *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 2d8+4 piercing damage + 2d8 necrotic damage
 
-**Curse Touch (Recharge 5-6).** One creature within 5 ft makes DC 15 Wisdom save or cursed. Cursed creature has disadvantage on all d20 rolls for 1 hour. *Remove curse* ends it.
+**Curse Touch (Recharge 5-6).** :: One creature within 5 ft makes DC 15 Wisdom save or cursed. Cursed creature has disadvantage on all d20 rolls for 1 hour. *Remove curse* ends it.
 
-**Terrifying Howl (1/Day).** All creatures within 60 ft make DC 15 Wisdom save or frightened 1 min. Can repeat save each turn.
+**Terrifying Howl (1/Day).** :: All creatures within 60 ft make DC 15 Wisdom save or frightened 1 min. Can repeat save each turn.
 
 
 }}
