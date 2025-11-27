@@ -558,7 +558,7 @@
 - **Summer:** Warm with gentle breezes, magical auroras at night
 - **Autumn:** Golden leaves, mild and pleasant
 - **Winter:** Light snow, rarely harsh, magical warmth in cities
-
+\column
 ### Sundara (Desert Nation)
 - **Spring/Autumn:** Comfortable days (70-85°F), cool nights
 - **Summer:** Extreme heat (100-120°F), survival challenges
@@ -645,7 +645,7 @@
 
 **Want:**
 1-5: Money | 6-10: Safety | 11-15: Revenge | 16-18: Power | 19-20: Love
-
+\column
 ### Quick Plot Hooks (d10)
 1. Someone's been murdered - whodunit?
 2. Precious item stolen - track the thief
@@ -731,11 +731,6 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - **Don't roll** if success is guaranteed
 - **Roll** when both success and failure are interesting
 
----
-
-**Print Page 1 & 2 | Laminate | Keep at Table | Never Lose This Again!** 📖⚔️
-
-
 {{pageNumber,auto}}
 {{footnote 01 DM QUICK REFERENCE}}
 \page
@@ -782,8 +777,8 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - **Sounds:** Marching boots, clanging steel, military horns
 - **Smells:** Forge smoke, leather, stone dust
 - **Mood:** Orderly, martial, proud but tense
-
-### Travel Times FROM Kaer Thandros
+\column
+### Travel Times From Kaer Thandros
 - To Goldreach: 3 days (road)
 - To Aethermere: 12 days (mountain pass)
 - To Ironhold: 6 days (hills)
@@ -826,7 +821,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - **Smells:** Spices, sea salt, perfumes, wealth
 - **Mood:** Greedy, opportunistic, cosmopolitan, vibrant
 
-### Travel Times FROM Goldreach
+### Travel Times From Goldreach
 - To Kaer Thandros: 3 days (road)
 - To Silverpine: 4 days (road)
 - To Aethermere: 10 days (forest road)
@@ -2108,8 +2103,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - Outside threat emerges
 - Past grievance dredged up
 
----
-
+\column
 ## Wilderness Survival / Travel
 
 ### Cross the Ashmar Wastes
@@ -2948,22 +2942,7 @@ Copy templates to your preferred digital tool!
 \page
 
 # Timeline Visual
-## History of Tirvandor at a Glance
-
-**Current Year:** 1247 CR (Common Reckoning)  
-**The Sundering:** Year 0 (3,000 years ago)
-
-::
-
-## Calendar System
-
-**Before Sundering (BS)** → Years before the catastrophe  
-**Common Reckoning (CR)** → Years after the catastrophe
-
-**Current Date:** 1247 CR = 3,000 years after the world split
-
----
-
+{{wide
 ## Visual Timeline
 
 ```
@@ -2983,6 +2962,22 @@ AGE OF MYTH          AGE OF DAWN         AGE OF STRIFE        AGE OF KINGDOMS
      DRAGONS         ELVES        UNITED      SUNDERING    STABILIZE   CURRENT
       RULE           RISE         WORLD        SPLITS      KINGDOMS      ERA
 ```
+}}
+## History of Tirvandor at a Glance
+
+**Current Year:** 1247 CR (Common Reckoning)  
+**The Sundering:** Year 0 (3,000 years ago)
+
+::
+
+## Calendar System
+
+**Before Sundering (BS)** → Years before the catastrophe  
+**Common Reckoning (CR)** → Years after the catastrophe
+
+**Current Date:** 1247 CR = 3,000 years after the world split
+
+---
 
  ::
 
@@ -3049,7 +3044,10 @@ Golden age of knowledge and culture
 **Event:** Massive arcane catastrophe  
 **Result:** Single continent split into two landmasses  
 **Cause:** [Multiple theories, no confirmed truth]
+{{pageNumber,auto}}
+{{footnote 07 TIMELINE VISUAL}}
 
+\page
 
 ### Theories About the Cause
 
@@ -3057,10 +3055,7 @@ Golden age of knowledge and culture
 - Archmages attempting world-changing ritual
 - Spell backlash shattered reality
 - Most commonly believed in Thaldros
-{{pageNumber,auto}}
-{{footnote 07 TIMELINE VISUAL}}
 
-\page
 **Theory 2: Divine Punishment**
 - Gods punished mortal hubris
 - World split as cosmic judgment
@@ -3153,7 +3148,7 @@ Wild magic surges for decades
 - Trade networks expand
 - Factions emerge (Iron Council, Merchant League, etc.)
 
- 
+
  
 ## Age of Kingdoms (600-1247 CR)
 
@@ -3167,17 +3162,16 @@ Wild magic surges for decades
 - Knowledge recovery (libraries, archives)
 - Cultural renaissance
 - Economy flourishes
+{{pageNumber,auto}}
+{{footnote 07 TIMELINE VISUAL}}
 
+\page
 **800-1000 CR: The Golden Age**
 - Peak of modern civilization
 - Great works constructed
 - Arts and sciences advance
 - Diplomatic relations (tense but functional)
 
-{{pageNumber,auto}}
-{{footnote 07 TIMELINE VISUAL}}
-
-\page
 
 **1000-1200 CR: Rising Tensions**
 - Border skirmishes increase
@@ -3219,7 +3213,7 @@ Wild magic surges for decades
 
 **1247 CR** - **CURRENT YEAR** ← YOU ARE HERE
 
- ::
+\column
 
 ## Campaign Start Points
 
