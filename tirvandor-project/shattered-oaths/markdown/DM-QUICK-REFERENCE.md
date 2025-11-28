@@ -8,8 +8,8 @@
 **Act I: Shadows in Silverpine** (Levels 1-5)
 - Quest 1.1: Gathering the Heroes - Party formation, cult investigation
 - Quest 1.2: The Shadowmark Conspiracy - Uncover Unbound recruitment
-- Quest 1.3: Journey to Raven's Rest - Travel and discover Blackwood connection
-- Quest 1.4: Raven's Rest Assault - Assault on Unbound fortress, find first component
+- Quest 1.3: Journey to Raven's Keep - Travel and discover Blackwood connection
+- Quest 1.4: Raven's Keep Assault - Assault on Unbound fortress, find first component
 
 **Act II: The Conspiracy Unveiled** (Levels 6-10)
 - Quest 2.1: The Black Archive - Research the truth about House Blackwood
@@ -17,12 +17,12 @@
 - Quest 2.3: Into the Dragon's Maw - Stop dragon awakening, learn more truth
 - Quest 2.4: The Truth Revealed - Discover full conspiracy, confront Lord Shadows
 
-**Act III: The Second Sundering** (Levels 11-15)
+**Act III: The Second Worldrend** (Levels 11-15)
 - Quest 3.1: The Depths Below - Pursue Unbound into underground stronghold
 - Quest 3.2: Goldshore Manor - Political intrigue, expose conspiracy to nobles
 - Quest 3.3: The Assembly - Unite kingdoms against Lord Shadows
 - Quest 3.4: The Primordial Rift - Confront reality-warping magic
-- Quest 3.5: The Final Battle - Stop Second Sundering, defeat Lord Shadows
+- Quest 3.5: The Final Battle - Stop Second Worldrend, defeat Lord Shadows
 
 ---
 
@@ -39,17 +39,17 @@
 **Goal:** Infiltrate Unbound recruitment meeting, capture recruiter
 **Key NPCs:** Garrett the Mason (turned cultist, CR 2), Captain Roderic (CR 5)
 **Encounters:** Unbound recruiters (CR 2), guards (CR 1)
-**Rewards:** 300-500 gp, Garrett's testimony, map to Raven's Rest
+**Rewards:** 300-500 gp, Garrett's testimony, map to Raven's Keep
 **Key Decision:** Spare or execute Garrett (affects Act II)
 
-### Quest 1.3: Journey to Raven's Rest (Level 3, 2-3 sessions)
+### Quest 1.3: Journey to Raven's Keep (Level 3, 2-3 sessions)
 **Goal:** Travel 75 miles through wilderness, survive ambush
 **Key NPCs:** Alden Swiftfoot (merchant, CR 1/4), Unbound scouts (CR 3)
 **Encounters:** Dire wolves (CR 1), Unbound ambush (CR 4-5)
 **Rewards:** 500-800 gp, supplies, combat experience
 **Key Decision:** Accept or decline Alden's business proposal
 
-### Quest 1.4: Raven's Rest Assault (Level 3-4, 3-4 sessions)
+### Quest 1.4: Raven's Keep Assault (Level 3-4, 3-4 sessions)
 **Goal:** Assault Unbound fortress, recover World-Splitter component
 **Key NPCs:** Unbound Commander (CR 5), Vault Guardian (CR 6)
 **Encounters:** Fortress assault (CR 4-6 per area), final vault battle
@@ -92,7 +92,7 @@
 **Goal:** Pursue Unbound into underground stronghold, prevent component assembly
 **Key NPCs:** Unbound Lieutenants (CR 11-12), deep earth horrors
 **Encounters:** Underground battles (CR 11-12), environmental hazards
-**Rewards:** 10,000-15,000 gp, information about Sundering Vault location
+**Rewards:** 10,000-15,000 gp, information about Worldrend Vault location
 **Key Decision:** Pursue Lord Shadows or warn kingdoms
 
 ### Quest 3.2: Goldshore Manor (Level 11-12, 2-3 sessions)
@@ -114,10 +114,10 @@
 **Key NPCs:** Reality-warped creatures (CR 14-15), Unbound elite (CR 14)
 **Encounters:** Planar battles, reality-bending encounters, time manipulation
 **Rewards:** 18,000-25,000 gp, legendary items
-**Key Decision:** Seal rifts permanently (prevents future Sunderings) or leave escape route
+**Key Decision:** Seal rifts permanently (prevents future Worldrends) or leave escape route
 
 ### Quest 3.5: The Final Battle (Level 14-15, 3-4 sessions)
-**Goal:** Stop Second Sundering, defeat/redeem Lord Shadows
+**Goal:** Stop Second Worldrend, defeat/redeem Lord Shadows
 **Key NPCs:** Lord Shadows Blackwood (CR 15-17 multi-phase), allied NPCs
 **Encounters:** Epic three-phase battle, kingdom-scale conflict
 **Rewards:** 30,000+ gp, legendary items, world-shaping epilogue
@@ -192,14 +192,14 @@
 ### Arcana & Religion (Cult/Artifact Knowledge)
 - Arcana DC 13-15: Understanding basic cult symbols
 - Arcana DC 16-18: Identifying World-Splitter components
-- Arcana DC 19-21: Comprehending Sundering mechanics
+- Arcana DC 19-21: Comprehending Worldrend mechanics
 - Arcana DC 22-24: Understanding reality manipulation
 - Arcana DC 25+: Grasping time/space distortion magic
 
 - Religion DC 14-16: Recognizing Unbound beliefs
-- Religion DC 17-19: Understanding Pre-Sundering theology
-- Religion DC 20-22: Comprehending divine involvement in First Sundering
-- Religion DC 23+: Grasping gods' role in preventing/causing Sunderings
+- Religion DC 17-19: Understanding Pre-Worldrend theology
+- Religion DC 20-22: Comprehending divine involvement in First Worldrend
+- Religion DC 23+: Grasping gods' role in preventing/causing Worldrends
 
 ---
 
@@ -234,12 +234,12 @@
 - **Values:** Truth, justice for House Blackwood, radical change
 - **Conflicts with:** Current kingdom governments, conspirators
 - **Allies:** Disaffected citizens, some historians, victims of injustice
-- **Methods:** Recruitment, gathering World-Splitter, preparing Second Sundering
+- **Methods:** Recruitment, gathering World-Splitter, preparing Second Worldrend
 
 ### House Blackwood (Historical)
 - **Status:** Falsely accused traitors, extinct except Corvus
 - **Values:** Honor, loyalty, duty to kingdom
-- **Legacy:** Scapegoated for First Sundering conspiracy
+- **Legacy:** Scapegoated for First Worldrend conspiracy
 - **Current:** Only Corvus remains, seeking vindication
 
 ### Kingdom of Thaldros
@@ -249,7 +249,7 @@
 - **Secret:** Some nobles knew truth about Blackwood conspiracy
 - **Current Crisis:** Dealing with Unbound threat, internal corruption
 
-### Republic of Aethoria
+### Aetheran Council
 - **Status:** Newer republic, also complicit
 - **Values:** Freedom, progress, democratic ideals
 - **Conflicts with:** Thaldros, traditionalists, The Unbound
@@ -445,7 +445,7 @@
 5. Planar creature breach (CR 13-14)
 6. Noble house courier with vital intelligence
 7. Lord Shadows personal message or parley request
-8. Ancient guardian awakened by Sundering energy (CR 13)
+8. Ancient guardian awakened by Worldrend energy (CR 13)
 9. Collapsing reality - environmental hazard challenge
 10. Ally NPC in mortal danger - rescue mission
 
@@ -517,10 +517,10 @@
 ## KEY ITEM QUICK REFERENCE
 
 ### World-Splitter Components
-- **Crown Fragment:** Found in Raven's Rest (Quest 1.4), ancient golden crown piece, radiates power
+- **Crown Fragment:** Found in Raven's Keep (Quest 1.4), ancient golden crown piece, radiates power
 - **Mirror Fragment:** Found in dragon's lair (Quest 2.3), silvered glass shard, shows past events
 - **Scepter Fragment:** Obtained from Lord Shadows (Quest 2.4), obsidian rod top, controls reality
-- **Combined:** Creates World-Splitter, capable of triggering Second Sundering
+- **Combined:** Creates World-Splitter, capable of triggering Second Worldrend
 
 ### Common Quest Rewards
 - **Healing Potion** (50 gp) - 2d4+2 HP
@@ -550,7 +550,7 @@
 
 ### Legendary Items (Quest 3.5)
 - **Blackwood Family Sword** - Adaptive weapon, +3, extra radiant damage vs evil
-- **Crown of the Sundering** - Control over reality rifts, prevent future Sunderings
+- **Crown of the Worldrend** - Control over reality rifts, prevent future Worldrends
 - **Mirror of Truth** - See through any deception, including historical lies
 
 ---
@@ -569,7 +569,7 @@
 **Attacks:** Shortsword +4 (1d6+2), Light Crossbow +4 (1d8+2)
 **Special:** Sneak Attack 1d6, Can provide testimony if captured
 **Tactics:** Flee if possible, surrender if cornered
-**Key Info:** Knows recruitment methods, Raven's Rest location
+**Key Info:** Knows recruitment methods, Raven's Keep location
 
 ### Captain Roderic Ironfist (CR 5)
 **HP:** 58 | **AC:** 18 (plate) | **Speed:** 25 ft (dwarf)
@@ -699,7 +699,7 @@
 ### Between Quests (1-7 days)
 - **Training:** Learn tool, language, or skill (250 days total, 1 gp/day minimum)
 - **Crafting:** Create magic items or equipment (progress varies by rarity)
-- **Research:** Learn about Blackwood history, Sundering mechanics, Lord Shadows (100 gp per week, INT check)
+- **Research:** Learn about Blackwood history, Worldrend mechanics, Lord Shadows (100 gp per week, INT check)
 - **Carousing:** Make contacts in settlements (25 gp per week, potential complications)
 - **Crime:** Risky income (25-50 gp per week, risk of arrest/combat)
 - **Work:** Safe income (1-5 gp per day for skilled labor)
@@ -779,7 +779,7 @@
 
 **High Mage Arcturus**
 - Motivation: Mentor heroes, ensure world survives
-- Secret: Knows more about First Sundering than he admits
+- Secret: Knows more about First Worldrend than he admits
 - Will Sacrifice: His life to save heroes or world
 - Won't Sacrifice: The truth or his principles
 
@@ -808,7 +808,7 @@
 **DM Tip:** Players should feel weight of "when to reveal truth" not "whether to reveal."
 
 ### Quest 2.4 Dilemma: Lord Shadows' Offer
-**Situation:** Lord Shadows offers alliance - "Help me get justice, then we stop Sundering together"
+**Situation:** Lord Shadows offers alliance - "Help me get justice, then we stop Worldrend together"
 **Choice 1:** Accept alliance - Grey path, possible best ending, morally complex
 **Choice 2:** Refuse and fight - Traditional heroic path, but truth may stay buried
 **Choice 3:** Fake alliance, betray later - Tactical, but dishonorable
@@ -872,13 +872,13 @@
 ## ALTERNATE ENDINGS OVERVIEW
 
 ### Ending 1: The Pure Victory
-**Requirements:** Defeat Lord Shadows without alliance, prevent Second Sundering
+**Requirements:** Defeat Lord Shadows without alliance, prevent Second Worldrend
 **Outcome:** World saved, but truth about Blackwoods may remain buried
 **Epilogue:** Traditional victory, heroes celebrated, status quo maintained
 **Player Reward:** Gold, magic items, hero status, but moral ambiguity remains
 
 ### Ending 2: The Redemption
-**Requirements:** Redeem Lord Shadows, expose conspiracy, prevent Second Sundering
+**Requirements:** Redeem Lord Shadows, expose conspiracy, prevent Second Worldrend
 **Outcome:** Best possible ending - truth revealed, justice served, no catastrophe
 **Epilogue:** Blackwood name cleared, political reforms, age of truth begins
 **Player Reward:** Maximum rewards, legendary status, fundamental world improvement
@@ -886,25 +886,25 @@
 
 ### Ending 3: The Compromise
 **Requirements:** Partial alliance with Lord Shadows, selective conspiracy exposure
-**Outcome:** Second Sundering prevented, some truth revealed, some justice served
+**Outcome:** Second Worldrend prevented, some truth revealed, some justice served
 **Epilogue:** Mixed outcome - stability maintained but incomplete justice
 **Player Reward:** Good rewards, but sense of incompleteness, world improves moderately
 
 ### Ending 4: The Partial Success
-**Requirements:** Stop Second Sundering but Lord Shadows escapes or dies unredeem
+**Requirements:** Stop Second Worldrend but Lord Shadows escapes or dies unredeem
 **Outcome:** World saved but at great cost, truth may die with Lord Shadows
 **Epilogue:** Pyrrhic victory, reforms minor, heroes haunted by moral questions
 **Player Reward:** Standard rewards, but bittersweet victory
 
 ### Ending 5: The Tragedy
-**Requirements:** Fail to stop Second Sundering
-**Outcome:** Second Sundering occurs, continents begin separating again, mass casualties
+**Requirements:** Fail to stop Second Worldrend
+**Outcome:** Second Worldrend occurs, continents begin separating again, mass casualties
 **Epilogue:** World enters new dark age, civilizations collapse, heroes blamed or celebrated depending on why they failed
 **Player Reward:** Survival itself, artifacts of old world, responsibility to rebuild
 **Note:** Only occurs if players truly fail or intentionally join Lord Shadows
 
 ### Ending 6: The Dark Path
-**Requirements:** Actively assist Lord Shadows in Second Sundering
+**Requirements:** Actively assist Lord Shadows in Second Worldrend
 **Outcome:** World fundamentally reshaped, kingdoms destroyed, Lord Shadows' vision achieved
 **Epilogue:** New world order, heroes become legends (heroes or villains depending on perspective)
 **Player Reward:** Dark power, position in new order, dramatic world change
@@ -960,7 +960,7 @@
 - First encounter with shadow creatures (supernatural horror)
 - Garrett's testimony (moral complexity introduced)
 - Journey through wilderness (adventure bonding)
-- Raven's Rest fortress assault (epic dungeon crawl)
+- Raven's Keep fortress assault (epic dungeon crawl)
 - Finding Crown Fragment (major artifact discovery)
 - Realizing scale of Unbound operation
 
@@ -1019,7 +1019,7 @@
 
 **Official History (Kingdom Version):**
 - Ancient noble house, served kingdom for 400+ years
-- 40 years ago: Accused of conspiracy to trigger Second Sundering
+- over a century ago: Accused of conspiracy to trigger Second Worldrend
 - Evidence: Found with World-Splitter components
 - Trial: Convicted of high treason
 - Punishment: Entire house executed, lands seized, name cursed
@@ -1027,7 +1027,7 @@
 
 **Newly Discovered Truth (Black Archive Documents):**
 - House Blackwood was investigating corruption in noble houses
-- They discovered conspiracy to hide First Sundering's true cause
+- They discovered conspiracy to hide First Worldrend's true cause
 - World-Splitter components were planted as evidence
 - Trial was rigged - key witnesses intimidated or killed
 - Real conspirators: Coalition of noble houses covering up their ancestors' crimes
@@ -1037,7 +1037,7 @@
 **Implications:**
 - Current kingdom leadership built on lie
 - Unbound leader has legitimate grievance
-- Stopping Second Sundering may perpetuate injustice
+- Stopping Second Worldrend may perpetuate injustice
 - Heroes must choose between stability and truth
 
 ---
@@ -1059,7 +1059,7 @@
 
 **Activation Progress:** ____% 
 
-⚠ **WARNING:** At 100%, Lord Shadows triggers Second Sundering!
+⚠ **WARNING:** At 100%, Lord Shadows triggers Second Worldrend!
 
 **Time Until Activation:** _______ sessions (estimated)
 
@@ -1095,21 +1095,21 @@
 
 **Political Balance:** □Thaldros □Aethoria □Balanced □Chaos
 
-### The Sundering Investigation
+### The Worldrend Investigation
 
-**Clues About Original Sundering:** ___/15
+**Clues About Original Worldrend:** ___/15
 
 - □ It was not natural
 - □ Weapon of mass destruction existed
 - □ Cover-up by current rulers
 - □ Could happen again
-- □ Gods were involved in First Sundering
+- □ Gods were involved in First Worldrend
 - □ World is still breaking
 - □ Bloodlines matter
 - □ Choice: Save world or get justice?
 - □ Royal family knows truth
 - □ Blackwoods were framed
-- □ Someone activated it deliberately 40 years ago
+- □ Someone activated it deliberately over a century ago
 - □ Other continents may exist
 - □ Can be prevented this time
 - □ True villains still alive (or descendants)
@@ -1122,7 +1122,7 @@
 **Party Leaning Towards:**
 
 - □ Stop Lord Shadows at all costs (Traditional hero ending)
-- □ Help Lord Shadows get justice, then stop Sundering (Grey ending)
+- □ Help Lord Shadows get justice, then stop Worldrend (Grey ending)
 - □ Let him succeed - world deserves to burn (Dark ending)
 - □ Find third option - save both Corvus and the world (Best ending)
 
@@ -1158,10 +1158,10 @@
 
 **Secret Knowledge (Party Knows):**
 - □ Full list of conspirator families
-- □ Mechanism of First Sundering
-- □ Location of Sundering Vault
+- □ Mechanism of First Worldrend
+- □ Location of Worldrend Vault
 - □ Lord Shadows' true identity
-- □ How to stop Second Sundering without killing
+- □ How to stop Second Worldrend without killing
 
 ### Session Tracker
 

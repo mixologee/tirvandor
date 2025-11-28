@@ -69,7 +69,7 @@
 
 ### Quest 2.1: The Recruiters (Level 6, 2-3 sessions)
 **Goal:** Meet three faction recruiters, choose allegiance
-**Key NPCs:** Commander Dawnblade (CR 12), Senator Valen (CR 10), Corvus Blackwood (CR 15)
+**Key NPCs:** Commander Dawnblade (CR 12), Envoy Valen (CR 10), Corvus Blackwood (CR 15)
 **Encounters:** Investigation, no combat unless provoked
 **Rewards:** 1,000-2,500 gp upfront + faction benefits
 **Key Decision:** Which faction to join (affects entire Act II)
@@ -156,7 +156,7 @@
 
 ### Act II - Faction Leaders
 - **Commander Helena Dawnblade** (Human, CR 12) - Thaldros military, lawful
-- **Senator Marcus Valen** (Human, CR 10) - Aethoria politician, pragmatic
+- **Envoy Marcus Valen** (Human, CR 10) - Aethoria politician, pragmatic
 - **Corvus Blackwood** (Human, CR 15) - Mysterious third option, secretly evil
 - **Elara Corvus** (Half-elf, CR 14) - Corvus's lieutenant, conflicted
 - **Razor** (Tiefling, CR 12) - Master thief, heist rival
@@ -225,13 +225,13 @@
 ### Thaldros (Kingdom)
 - **Leader:** Commander Helena Dawnblade
 - **Values:** Order, military strength, tradition
-- **Conflicts with:** Aethoria Republic, Thornwood Syndicate
+- **Conflicts with:** Frontier territories, Thornwood Syndicate
 - **Allies:** Iron Guild, rural settlements
 
 ### Aethoria (Republic)
-- **Leader:** Senator Marcus Valen
+- **Leader:** Envoy Marcus Valen
 - **Values:** Freedom, democracy, progress
-- **Conflicts with:** Thaldros Kingdom, traditionalists
+- **Conflicts with:** Crown loyalists, traditionalists
 - **Allies:** Urban merchants, scholars
 
 ### Thornwood Syndicate
@@ -629,7 +629,7 @@
 - Will Betray: If kingdom commits atrocities
 - Won't Betray: Unless absolutely necessary for greater good
 
-**Senator Marcus Valen**
+**Envoy Marcus Valen**
 - Motivation: Preserve Aethoria's freedom and democracy
 - Secret: Willing to use undemocratic means to protect democracy
 - Will Betray: If party becomes liability to Aethoria

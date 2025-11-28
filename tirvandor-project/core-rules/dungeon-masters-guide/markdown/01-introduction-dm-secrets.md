@@ -106,7 +106,7 @@ Rise of Empires (1,500-1,000 BS):
 
 ---
 
-### Pre-Sundering Era (1,000-2,400 BS)
+### Pre-Worldrend Era (1,000-2,400 BS)
 
 Leading to the catastrophe.
 
@@ -167,7 +167,7 @@ Leading to the catastrophe.
 
 ---
 
-### The Sundering (Year 0 / 2,400 BS)
+### The Worldrend (Year 0 / 2,400 BS)
 
 Day 1 - Dawn:
 - Circle of Seven begins ritual
@@ -272,7 +272,7 @@ Final Toll:
 - War continues but both sides weakening
 - Primordial prisons critically compromised
 - Corruption spreading
-- Window to prevent second Sundering closing
+- Window to prevent second Worldrend closing
 
 ---
 
@@ -281,7 +281,7 @@ Final Toll:
 ### 1. The Devourer (Under Ironvault)
 - Domain: Hunger, Consumption, Void
 - Prison Status: Weakening (20-30 years until breach)
-- Seal reinforced in Sundering (only one reinforced)
+- Seal reinforced in Worldrend (only one reinforced)
 - Corruption: Insatiable hunger, victims consume themselves
 
 ### 2. The Dreamer (Under Cloudspire)
@@ -318,4 +318,4 @@ Final Toll:
 
 ## Campaign Use
 
-The Primordial threat is the ultimate story backbone. Everything connects to the approaching crisis and the need to prevent a second Sundering.
+The Primordial threat is the ultimate story backbone. Everything connects to the approaching crisis and the need to prevent a second Worldrend.

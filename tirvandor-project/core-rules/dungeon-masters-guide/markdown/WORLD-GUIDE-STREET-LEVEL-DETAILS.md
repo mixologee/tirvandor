@@ -168,7 +168,7 @@ The entrance is a tunnel thirty feet wide, twenty feet high, carved perfectly sm
 
 The tunnel slopes downward at a gentle angle. Every hundred feet, alcoves hold statues of dwarven ancestors—founders of clans, legendary kings, master craftsmen. Dwarves touch certain statues as they pass (prayer or respect, unclear which).
 
-The walls are carved with reliefs showing dwarven history: the first delving, wars with underground creatures, great works of craftsmanship. Some carvings are ancient—pre-Sundering, impossibly old.
+The walls are carved with reliefs showing dwarven history: the first delving, wars with underground creatures, great works of craftsmanship. Some carvings are ancient—pre-Worldrend, impossibly old.
 
 After several hundred feet, the tunnel opens into a vast cavern—the First Deep Hall.
 
@@ -244,7 +244,7 @@ Bird calls echo. Wind through leaves sounds almost musical. Light filters green 
 Elven ranger outposts watch from the trees. You won't see them unless they want to be seen. But you feel watched.
 
 2 Miles Out:
-The silver birch trees appear. Their bark literally gleams like polished silver. These are OLD—pre-Sundering, possibly older. They're massive—trunks twenty feet across, rising three hundred feet.
+The silver birch trees appear. Their bark literally gleams like polished silver. These are OLD—pre-Worldrend, possibly older. They're massive—trunks twenty feet across, rising three hundred feet.
 
 The road narrows. Trees grow close. Their branches form a natural arch overhead. Light comes in dapples—silver-green. The air smells of pine sap, flowers, old magic.
 

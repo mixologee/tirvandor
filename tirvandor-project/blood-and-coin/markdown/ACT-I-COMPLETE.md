@@ -14,7 +14,7 @@
 
 ### **The Premise**
 
-You're not heroes. You're professionals. Sellswords. Problem-solvers for hire. You've come to **Crossroads**, a lawless mercenary town on the border between Thaldros Kingdom and Aethoria Republic, where the only laws are:
+You're not heroes. You're professionals. Sellswords. Problem-solvers for hire. You've come to **Crossroads**, a lawless mercenary town in the frontier regions of Thaldros, where the Crown's authority barely reaches, where the only laws are:
 
 1. **Contracts are sacred** - Break your word, die
 2. **Don't kill clients before they pay** - Bad for business
@@ -45,7 +45,7 @@ By the end of Act I, players will understand:
 
 ### **Overview**
 
-Crossroads sits at the intersection of three trade routes and two nations. No official government—the **Iron Guild** runs things through contracts and reputation. Violence is common but regulated. Murder is allowed if you have a contract. Theft is punishable by death (bad for business). Lying is expected, getting caught is fatal.
+Crossroads sits at the intersection of three trade routes, far from royal oversight. No official government—the **Iron Guild** runs things through contracts and reputation. Violence is common but regulated. Murder is allowed if you have a contract. Theft is punishable by death (bad for business). Lying is expected, getting caught is fatal.
 
 **Population:** ~2,400 (fluctuates with seasonal campaigns)  
 **Demographics:** 60% human, 15% dwarf, 10% half-orc, 10% halfling, 5% other  
@@ -1003,7 +1003,7 @@ Both clients present their case. Let them argue, interrupt each other, appeal to
 >
 > *She's not a child—she's nineteen, an adult. This is her choice. But I know the Baron. He'll send mercenaries. He'll send assassins. He'll never stop until he gets her back.*
 >
-> *I'm offering 150 gold—everything I have saved—to protect us. To protect her. Just for a few weeks until we can reach Aethoria Republic where the Baron has no legal authority. Then we can start a new life.*
+> *I'm offering 150 gold—everything I have saved—to protect us. To protect her. Just for a few weeks until we can reach the free territories where the Baron has no legal authority. Then we can start a new life.*
 >
 > *Please. Don't let him take her back. She'll be trapped in a gilded cage for the rest of her life."*
 
@@ -1297,7 +1297,7 @@ Thomas pays 75gp upfront (half), keeps 75gp for supplies.
 His plan:
 - Hide at cottage for 2 weeks
 - Save enough gold to bribe border guards
-- Flee to Aethoria Republic where Baron has no authority
+- Flee to the free territories where Baron has no authority
 - Start new life under assumed names
 
 **PCs must:**

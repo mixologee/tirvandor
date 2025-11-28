@@ -9,7 +9,7 @@ Locations players won't find in the World Guide.
 Location: Beneath Silverpine University
 Secret Level: Tier 3 (Faculty only)
 
-Description: A forbidden library containing pre-Sundering texts. Access requires 3 faculty keys.
+Description: A forbidden library containing pre-Worldrend texts. Access requires 3 faculty keys.
 
 Contents:
 - True history of the Primordials
@@ -55,7 +55,7 @@ Hazards:
 
 Reward: Access to *The Seal Chamber*—can repair seal or drain power (dangerous).
 
-Campaign Use: Final arc location for preventing second Sundering.
+Campaign Use: Final arc location for preventing second Worldrend.
 
 ---
 
@@ -83,7 +83,7 @@ Information: Complete history, ritual to reinforce seals (requires legendary que
 Location: Beneath Ashgate
 Secret Level: Tier 1 (Local rumor)
 
-Description: Pre-Sundering ruins beneath the city. Government denies existence.
+Description: Pre-Worldrend ruins beneath the city. Government denies existence.
 
 Levels:
 - Basement Level: Smuggler tunnels, black market
@@ -122,10 +122,10 @@ Bargain: PCs can use stones if they complete quest for druids (usually ecologica
 ---
 
 ## The Obsidian Spire
-Location: Border between Thaldros and Aethoria
+Location: Contested frontier territories
 Secret Level: Tier 4 (Legend)
 
-Description: Tower of pure obsidian that appeared after the Sundering. No entrance visible.
+Description: Tower of pure obsidian that appeared after the Worldrend. No entrance visible.
 
 Truth: Prison for The Devourer (Primordial of entropy). The spire IS the prison.
 

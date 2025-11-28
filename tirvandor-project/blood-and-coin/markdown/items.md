@@ -246,7 +246,7 @@
 
 **Lore:** Gift from Aethoria's founders. Worn by all Senate leaders. Symbol of democratic ideals.
 
-**Location:** Worn by Senator Valen
+**Location:** Worn by Envoy Valen
 
 **Value:** 3,000gp
 

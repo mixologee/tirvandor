@@ -4,7 +4,7 @@
 **Level:** 6  
 **Duration:** 2-3 sessions  
 **Objective:** Meet three faction recruiters, investigate them, choose allegiance  
-**Key NPCs:** Commander Dawnblade, Senator Valen, Corvus Blackwood  
+**Key NPCs:** Commander Dawnblade, Envoy Valen, Corvus Blackwood  
 **Rewards:** 1,000-2,500gp upfront + faction access  
 **Theme:** "The Interview"
 
@@ -17,7 +17,7 @@
 **What's Changed:**
 - Your reputation has spread across both kingdoms
 - Regional tensions escalating toward war
-- Border skirmishes increasing
+- Naval skirmishes increasing
 - Trade routes disrupted
 - Everyone choosing sides
 
@@ -25,7 +25,7 @@
 
 > *Six months have passed since [reference their Act I ending]. Life in Crossroads continued—contracts, gold, survival. But the world beyond hasn't been idle.*
 >
-> *Rumors of war spread like wildfire. The Kingdom of Thaldros and the Republic of Aethoria—cold rivals for decades—are now at each other's throats. Border conflicts. Assassinations. Embargo threats. Everyone sees it coming.*
+> *Rumors of war spread like wildfire. The Crown and the frontier territories—in tension for decades—are now at each other's throats. Trade conflicts. Assassinations. Embargo threats. Everyone sees it coming.*
 >
 > *And everyone wants mercenaries.*
 >
@@ -61,13 +61,13 @@
 
 > **"Friends:**
 >
-> The Republic of Aethoria needs capable individuals who understand that freedom is worth fighting for. Senator Marcus Valen wishes to discuss an opportunity that serves both your interests and the cause of democracy.
+> The Aetheran Council needs capable individuals who understand that freedom is worth fighting for. Envoy Marcus Valen wishes to discuss an opportunity that serves both your interests and the cause of their alliance.
 >
 > Wayward Inn, private room, today at 2pm.
 >
 > Come if you believe people deserve to choose their own destiny.
 >
-> **—Senator M. Valen, Aethoria Senate, Committee on External Affairs"**
+> **—Senator M. Valen, Aetheran Council, Committee on External Affairs"**
 
 ---
 
@@ -271,7 +271,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 
 ---
 
-## Meeting 2: Senator Marcus Valen (2pm)
+## Meeting 2: Envoy Marcus Valen (2pm)
 
 ### **The Setting**
 
@@ -279,13 +279,13 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 
 > *Same inn, different room. This one is simpler—wooden table, local wine, no extravagance. A statement.*
 >
-> *Senator Marcus Valen stands as you enter. He's in his 50s, wearing republican robes (no finery), grey beard, warm eyes, genuine smile. He looks tired but hopeful.*
+> *Envoy Marcus Valen stands as you enter. He's in his 50s, wearing republican robes (no finery), grey beard, warm eyes, genuine smile. He looks tired but hopeful.*
 >
 > *"Welcome, friends." His voice is warm, practiced. "Thank you for coming. Please, sit. I know Commander Dawnblade made her pitch this morning. Now hear ours."*
 
 ---
 
-## Npc: Senator Marcus Valen
+## Npc: Envoy Marcus Valen
 
 *Medium humanoid (human), chaotic good*
 
@@ -365,7 +365,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 >
 > *"Commander Dawnblade offered you gold and glory serving a king. I offer you a chance to serve something greater: freedom.*
 >
-> *Thaldros is a relic. Monarchy is a failed system where one family decides the fate of millions. The Republic of Aethoria is humanity's future—government by the people, for the people.*
+> *Thaldros is a relic. Monarchy is a failed system where one family decides the fate of millions. The Aetheran Council is humanity's future—government by the people, for the people.*
 >
 > *Yes, we're messy. Democracy is loud, chaotic, inefficient. But it's OURS. We choose our leaders. We write our laws. We own our destiny.*
 >
@@ -733,7 +733,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 
 **Immediate Effect:**
 - Commander Dawnblade pleased
-- Senator Valen disappointed
+- Envoy Valen disappointed
 - Corvus marks you as enemy
 - Quest 2.2-T begins (Thaldros mission)
 
@@ -756,7 +756,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 - But you're fighting for ideals
 
 **Immediate Effect:**
-- Senator Valen grateful
+- Envoy Valen grateful
 - Commander Dawnblade disappointed but respectful
 - Corvus sees potential allies
 - Quest 2.2-A begins (Aethoria mission)
@@ -927,7 +927,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 **Add these three major NPCs:**
 
 1. **Commander Helena Dawnblade** (Thaldros Paladin, CR 10)
-2. **Senator Marcus Valen** (Aethoria Diplomat/Wizard, CR 6)
+2. **Envoy Marcus Valen** (Aethoria Diplomat/Wizard, CR 6)
 3. **Corvus Blackwood** (Unbound Wizard/Prophet, CR 9)
 
 All have complete stat blocks, personalities, motivations, and secrets.

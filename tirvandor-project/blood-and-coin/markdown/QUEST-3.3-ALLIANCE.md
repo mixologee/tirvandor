@@ -18,7 +18,7 @@
 
 > *Emergency session. Neutral diplomatic hall. You're summoned urgently.*
 >
-> *Commander Dawnblade and Senator Valen sit at same table—first time they've cooperated willingly since the treaty. Both look shaken.*
+> *Commander Dawnblade and Envoy Valen sit at same table—first time they've cooperated willingly since the treaty. Both look shaken.*
 >
 > *Dawnblade speaks first: "We have reports. Northern border. Unknown force. Not Thaldros. Not Aethoria. Not Unbound."*
 >

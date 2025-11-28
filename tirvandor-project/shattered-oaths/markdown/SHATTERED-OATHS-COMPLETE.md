@@ -6,9 +6,9 @@
 **Tone:** Heroic fantasy with moral complexity  
 **Primary Antagonist:** Lord Shadows Blackwood (CR 15)  
 **Faction:** The Unbound  
-**Stakes:** Prevent the Second Sundering and save both continents  
+**Stakes:** Prevent the Second Worldrend and save both continents  
 **Starting Location:** Silverpine, Thaldros  
-**Ending Location:** Raven's Keep & The Sundering Vault
+**Ending Location:** Raven's Keep & The Worldrend Vault
 
 ---
 
@@ -18,7 +18,7 @@
 
 For generations, House Blackwood was branded as traitors who sought to overthrow the kingdom and shatter the world itself. They were hunted to extinction, their lands seized, their name cursed. But the truth was far darker—they were scapegoats for a conspiracy that reached to the highest levels of power.
 
-Now, the last heir of House Blackwood has returned. Lord Shadows Blackwood, wielding dark pacts and commanding the fanatic faction called **The Unbound**, seeks to vindicate his family's name by finishing what they supposedly started: triggering the **Second Sundering**, a cataclysm that will reshape the world and destroy the kingdoms that betrayed his bloodline.
+Now, the last heir of House Blackwood has returned. Lord Shadows Blackwood, wielding dark pacts and commanding the fanatic faction called **The Unbound**, seeks to vindicate his family's name by finishing what they supposedly started: triggering the **Second Worldrend**, a cataclysm that will reshape the world and destroy the kingdoms that betrayed his bloodline.
 
 The heroes begin as simple adventurers drawn into local troubles, but they soon uncover a conspiracy spanning centuries. They must race against time to stop Lord Shadows from assembling the **World-Splitter**, an ancient artifact capable of tearing continents apart, while navigating the moral gray areas of a conflict where the villain might have legitimate grievances.
 
@@ -36,7 +36,7 @@ The heroes begin as simple adventurers drawn into local troubles, but they soon 
 - **For Justice:** Uncover the truth about House Blackwood
 - **For Duty:** Defend the kingdoms from the Unbound
 - **For Treasure:** Ancient artifacts and dragon hoards await
-- **For Knowledge:** Discover Pre-Sundering secrets
+- **For Knowledge:** Discover Pre-Worldrend secrets
 
 ---
 
@@ -60,12 +60,12 @@ Heroes follow the trail of World-Splitter components, uncover the lies about Hou
 
 **Major Milestone:** Prevent Lord Shadows from awakening Dragon Infernalix
 
-### Act III: The Second Sundering (Levels 11-15)
+### Act III: The Second Worldrend (Levels 11-15)
 **Theme:** Race against apocalypse  
-**Location:** Raven's Keep, The Sundering Vault, locations of power  
+**Location:** Raven's Keep, The Worldrend Vault, locations of power  
 **Duration:** ~15-20 sessions  
 
-Final confrontation with Lord Shadows and the Unbound. Heroes must stop the Second Sundering while deciding whether to help vindicate House Blackwood or simply prevent catastrophe.
+Final confrontation with Lord Shadows and the Unbound. Heroes must stop the Second Worldrend while deciding whether to help vindicate House Blackwood or simply prevent catastrophe.
 
 **Major Milestone:** Defeat Lord Shadows and choose the fate of the kingdoms
 
@@ -75,7 +75,7 @@ Final confrontation with Lord Shadows and the Unbound. Heroes must stop the Seco
 
 ### Act I Overview
 
-The campaign begins in **Silverpine**, a prosperous timber town in central Thaldros. The heroes are brought together by rumors of disappearances, strange cult activity, and bandit raids that seem too organized to be random. As they investigate, they uncover that a group called **The Unbound** is actively recruiting disaffected people and gathering ancient texts.
+The campaign begins in **Silverpine**, a prosperous university city in central Thaldros. The heroes are brought together by rumors of disappearances, strange cult activity, and bandit raids that seem too organized to be random. As they investigate, they uncover that a group called **The Unbound** is actively recruiting disaffected people and gathering ancient texts.
 
 By the end of Act I, the heroes will have:
 - Formed their party and established their heroic reputations
@@ -397,11 +397,11 @@ Reveals:
 **Insight DC 16:** He genuinely believes what he's saying. This isn't madness—he's a true believer in a cause.
 
 **Persuasion DC 20 or Intimidation DC 22 (Very Hard):**
-> *"Fine! FINE! Lord Shadows commands we gather those with strong spirits. The ritual requires willing participants—or those broken to our cause. When the First Component is secured from Raven's Rest, we move to phase two. The kingdoms will fall, and the Blackwood name will be vindicated! That's all I know! Now kill me and make me a martyr!"*
+> *"Fine! FINE! Lord Shadows commands we gather those with strong spirits. The ritual requires willing participants—or those broken to our cause. When the First Component is secured from Raven's Keep, we move to phase two. The kingdoms will fall, and the Blackwood name will be vindicated! That's all I know! Now kill me and make me a martyr!"*
 
 Reveals:
 - Need participants for some greater ritual
-- "First Component" at Raven's Rest
+- "First Component" at Raven's Keep
 - Multi-phase plan to "destroy kingdoms"
 - Vindicating House Blackwood is the goal
 
@@ -624,13 +624,13 @@ Heroes must use social skills to investigate Silverpine's merchants and citizens
 > *"Alright! I'll talk! But you don't understand—I'm not the enemy! The KINGDOMS are the enemy! House Blackwood was destroyed because they tried to help people like us! The nobles rewrote history to cover their own crimes! The Unbound showed me the truth!"*
 
 **If PCs Show Sympathy (Persuasion DC 13):**
-> *"You... you don't think I'm evil?"* *(breaks down)* *"I never wanted to hurt anyone. They said the ritual at the shrine was just... just symbolic. When I heard you rescued those people, I realized what I'd gotten into. I wanted out, but they said traitors die. The meeting tonight—they're planning something at Raven's Rest. Some kind of operation. That's all I know, I swear!"*
+> *"You... you don't think I'm evil?"* *(breaks down)* *"I never wanted to hurt anyone. They said the ritual at the shrine was just... just symbolic. When I heard you rescued those people, I realized what I'd gotten into. I wanted out, but they said traitors die. The meeting tonight—they're planning something at Raven's Keep. Some kind of operation. That's all I know, I swear!"*
 
 **Information Garrett Reveals (If Convinced):**
 - Meeting tonight at old mill, midnight
 - At least 10 cultists will be there
 - Leader is called "Brother Malachi" - an Unbound Recruiter
-- Main operation planned at Raven's Rest (location he doesn't know exactly)
+- Main operation planned at Raven's Keep (location he doesn't know exactly)
 - He joined because of grief and anger at the nobility
 - He's willing to turn himself in if PCs promise leniency
 
@@ -684,7 +684,7 @@ Heroes must use social skills to investigate Silverpine's merchants and citizens
 **OVERHEARD CONVERSATION (If Stealthy/Waiting):**
 
 **Unbound Recruiter (Brother Malachi):**
-> *"...and tomorrow night, Lord Shadows himself leads the operation at Raven's Rest. We're to provide weapons, gold, and information on guard movements. The First Component must be recovered. The Blackwood legacy depends on it."*
+> *"...and tomorrow night, Lord Shadows himself leads the operation at Raven's Keep. We're to provide weapons, gold, and information on guard movements. The First Component must be recovered. The Blackwood legacy depends on it."*
 
 **Thug Leader:**
 > *"And our payment? You promised gold for this."*
@@ -699,7 +699,7 @@ Heroes must use social skills to investigate Silverpine's merchants and citizens
 > *"Silence! Question Lord Shadows again and you'll join the sacrifices. Now, is everyone clear on their assignments?"*
 
 **Knowledge Gained from Eavesdropping:**
-- Raven's Rest operation tomorrow night
+- Raven's Keep operation tomorrow night
 - Lord Shadows personally leading it
 - "First Component" is the target
 - Threats keep members in line through fear
@@ -821,23 +821,23 @@ If Malachi is captured alive (reduced to 0 HP non-lethally or restrained):
 > *"You can torture me, but I'll never betray Lord Shadows! He showed us the TRUTH! House Blackwood protected the realm, and the kingdoms destroyed them for it!"*
 
 **Intimidation DC 13:**
-> *"Alright! We're gathering resources for the Raven's Rest operation tomorrow night. Lord Shadows himself will lead it. We're recovering the First Component—some ancient artifact the Blackwoods guarded. That's all I know about it!"*
+> *"Alright! We're gathering resources for the Raven's Keep operation tomorrow night. Lord Shadows himself will lead it. We're recovering the First Component—some ancient artifact the Blackwoods guarded. That's all I know about it!"*
 
 Reveals:
-- Raven's Rest operation (tomorrow night)
+- Raven's Keep operation (tomorrow night)
 - Lord Shadows personally leading
 - Target: "First Component" artifact
 - Don't know what Component does
 
 **Intimidation DC 16 or Persuasion DC 15:**
-> *"The First Component is one part of the World-Splitter—a Pre-Sundering artifact. Lord Shadows says it can prove House Blackwood's innocence. He plans to expose the truth about the kingdoms' corruption. There are multiple components hidden across the realm. Raven's Rest holds the first. Captain Voidcaller commands the operation. I don't know more—I'm just a recruiter!"*
+> *"The First Component is one part of the World-Splitter—a Pre-Worldrend artifact. Lord Shadows says it can prove House Blackwood's innocence. He plans to expose the truth about the kingdoms' corruption. There are multiple components hidden across the realm. Raven's Keep holds the first. Captain Voidcaller commands the operation. I don't know more—I'm just a recruiter!"*
 
 Reveals:
 - "World-Splitter" artifact name
 - Multiple components exist
 - Purpose: Prove Blackwood innocence
 - Captain Voidcaller is field commander
-- Raven's Rest is old Blackwood fortress
+- Raven's Keep is old Blackwood fortress
 
 **Insight DC 15 (Reading Malachi):**
 - He genuinely believes he's fighting for justice
@@ -848,7 +848,7 @@ Reveals:
 ---
 
 **LOOT:**
-- **Map** showing route to Raven's Rest (3 days northwest)
+- **Map** showing route to Raven's Keep (3 days northwest)
 - **Potion of Healing x3**
 - **+1 Morningstar** (carried by Brother Malachi)
 - 80 gold pieces
@@ -858,7 +858,7 @@ Reveals:
 **Unbound Orders (Sealed Letter):**
 > *"Brother Malachi,*
 > 
-> *You have done well. Continue recruitment until the new moon. Then report to Raven's Rest with all able bodies and the gathered supplies. The First Component has been located in the deep vaults. Lord Shadows will lead the retrieval personally.*
+> *You have done well. Continue recruitment until the new moon. Then report to Raven's Keep with all able bodies and the gathered supplies. The First Component has been located in the deep vaults. Lord Shadows will lead the retrieval personally.*
 > 
 > *Remember: The Blackwood legacy shall be restored. Justice delayed is not justice denied.*
 > 
@@ -902,18 +902,18 @@ Whisper of Betrayal (Recharge 5-6): One creature within 30 ft. must make DC 13 W
 
 **Tactics:** Recruiter tries to charm a PC, thugs protect him. If captured, Recruiter reveals:
 - They're gathering resources for "Lord Shadows"
-- A major operation is planned at **Raven's Rest**, old Blackwood ruins
+- A major operation is planned at **Raven's Keep**, old Blackwood ruins
 - He doesn't know details, just follows orders
 
 **Loot:**
-- **Map** showing route to Raven's Rest
+- **Map** showing route to Raven's Keep
 - **Potion of Healing x3**
 - **+1 Morningstar** (carried by Recruiter)
 - 80 gold pieces
 - **Unbound Orders** (sealed letter)
 
 **Unbound Orders Text:**
-*"Brother Malachi, you have done well. Continue recruitment until the new moon. Then report to Raven's Rest with all able bodies. The first component has been located. Lord Shadows will lead the retrieval personally. The Blackwood legacy shall be restored. - Captain Voidcaller"*
+*"Brother Malachi, you have done well. Continue recruitment until the new moon. Then report to Raven's Keep with all able bodies. The first component has been located. Lord Shadows will lead the retrieval personally. The Blackwood legacy shall be restored. - Captain Voidcaller"*
 
 **XP:** 1,100 XP total
 
@@ -924,15 +924,15 @@ If captured alive, Garrett breaks under questioning:
 - Blames the kingdom for not protecting people
 - The Unbound promised vengeance against the nobles
 - He doesn't know what the "component" is
-- Raven's Rest is 3 days' ride northwest
+- Raven's Keep is 3 days' ride northwest
 
-**Quest Complete:** Heroes have exposed the conspiracy and learned of Raven's Rest.
+**Quest Complete:** Heroes have exposed the conspiracy and learned of Raven's Keep.
 
 ---
 
-### QUEST 1.3: JOURNEY TO RAVEN'S REST (Level 3)
+### QUEST 1.3: JOURNEY TO RAVEN'S KEEP (Level 3)
 
-**Hook:** After exposing the conspiracy, Captain Roderic asks heroes to investigate Raven's Rest before the Unbound operation. Time is critical.
+**Hook:** After exposing the conspiracy, Captain Roderic asks heroes to investigate Raven's Keep before the Unbound operation. Time is critical.
 
 ---
 
@@ -944,7 +944,7 @@ If captured alive, Garrett breaks under questioning:
 > *Dawn breaks over Silverpine, painting the sky in shades of gold and crimson. The town square bustles with activity as word of last night's victory spreads. Captain Roderic awaits you at the stables, standing beside four sturdy horses laden with supplies. Behind him, a small crowd has gathered—Elder Thom, Marta, Torin the blacksmith, even Velana from her shop. They've come to see you off.*
 
 **Captain Roderic's Briefing:**
-> *"You've done good work here, better than I could've hoped. But this isn't over—not by a long shot. That letter mentioned Raven's Rest, three days northwest in the Shadowpeak Hills. Old Blackwood fortress, destroyed forty-three years back when the house fell. Now the Unbound's using it as a staging ground."*
+> *"You've done good work here, better than I could've hoped. But this isn't over—not by a long shot. That letter mentioned Raven's Keep, three days northwest in the Shadowpeak Hills. Old Blackwood fortress, destroyed forty-three years back when the house fell. Now the Unbound's using it as a staging ground."*
 > 
 > *(He hands over a map)* *"This shows the main road, but it's not safe. Word is the Unbound's been watching the highways. You'll need to be careful. I can spare these horses and provisions for a week. After that..."* *(trails off)* *"Well, let's hope you're back before then, one way or another."*
 
@@ -963,7 +963,7 @@ If captured alive, Garrett breaks under questioning:
 - 50 feet of rope
 - Bedrolls and camping gear
 - Healer's kit
-- Map to Raven's Rest
+- Map to Raven's Keep
 - 50 gp emergency funds
 
 **TOWNSFOLK FAREWELLS:**
@@ -1046,7 +1046,7 @@ If captured alive, Garrett breaks under questioning:
 > *A twig snaps in the darkness. Footsteps approach—hesitant, cautious. A familiar voice calls out: "Don't shoot! It's Garrett! I... I need to talk to you."*
 
 **Garrett's Plea:**
-> *"I couldn't stay in Silverpine. Captain Roderic would've arrested me eventually, and the Unbound... they have eyes everywhere. If they think I betrayed them, my family's in danger. I know Raven's Rest. I've been there twice for meetings. Let me help—let me make this right. I'm not asking for forgiveness, just... a chance to do something good before it's too late."*
+> *"I couldn't stay in Silverpine. Captain Roderic would've arrested me eventually, and the Unbound... they have eyes everywhere. If they think I betrayed them, my family's in danger. I know Raven's Keep. I've been there twice for meetings. Let me help—let me make this right. I'm not asking for forgiveness, just... a chance to do something good before it's too late."*
 
 **Insight DC 13:**
 - He's genuinely remorseful and terrified
@@ -1055,7 +1055,7 @@ If captured alive, Garrett breaks under questioning:
 - Could be valuable ally or liability
 
 **PCs Can Choose:**
-- Accept him (gain advantage on Raven's Rest infiltration)
+- Accept him (gain advantage on Raven's Keep infiltration)
 - Send him away (Persuasion DC 14 or he follows at distance anyway)
 - Restrain/arrest him (returns to Silverpine, possible Unbound revenge)
 
@@ -1166,7 +1166,7 @@ If captured alive, Garrett breaks under questioning:
 **Persuasion DC 16:**
 > *"We're hunting the Unbound. Help us and there's reward in it."*
 - Success: Bandits reveal they've seen Unbound patrols heading north
-- Give info about Raven's Rest guard patterns
+- Give info about Raven's Keep guard patterns
 - Let party pass
 
 **Option - Bribery:**
@@ -1253,12 +1253,12 @@ If captured alive, Garrett breaks under questioning:
 
 ---
 
-#### DAY 3: APPROACHING RAVEN'S REST
+#### DAY 3: APPROACHING RAVEN'S KEEP
 
 **READ ALOUD:**
-> *The third morning dawns gray and cold. The forest thins as you climb into rocky hills. Ahead, dark peaks rise against an overcast sky—the Shadowpeak Hills. The very air feels heavier here, as if the land itself remembers old tragedies. In the distance, perched on a crag like a crouching vulture, you glimpse the silhouette of Raven's Rest.*
+> *The third morning dawns gray and cold. The forest thins as you climb into rocky hills. Ahead, dark peaks rise against an overcast sky—the Shadowpeak Hills. The very air feels heavier here, as if the land itself remembers old tragedies. In the distance, perched on a crag like a crouching vulture, you glimpse the silhouette of Raven's Keep.*
 
-**Perception DC 13 (Observing Raven's Rest):**
+**Perception DC 13 (Observing Raven's Keep):**
 - See torches and campfires around ruins
 - Estimate 20-30 people present (much more than expected)
 - Banners flying (black raven on silver field—Blackwood colors)
@@ -1270,8 +1270,8 @@ If captured alive, Garrett breaks under questioning:
 - Notice one tower still intact (possible lookout post)
 - Spot what looks like excavation site (digging in the ruins)
 
-**History DC 15 (Knowledge of Raven's Rest):**
-> *"Raven's Rest was the primary Blackwood fortress. When House Blackwood fell 43 years ago, King Thandris III ordered it destroyed—pulled down stone by stone. But the vaults beneath were rumored to be impregnable. If the First Component is anywhere, it's down there."*
+**History DC 15 (Knowledge of Raven's Keep):**
+> *"Raven's Keep was the primary Blackwood fortress. When House Blackwood fell 43 years ago, King Thandris III ordered it destroyed—pulled down stone by stone. But the vaults beneath were rumored to be impregnable. If the First Component is anywhere, it's down there."*
 
 **APPROACHING THE BRIDGE:**
 
@@ -1405,7 +1405,7 @@ As party nears the final mile, they must cross a ravine spanned by an ancient st
 - Bridge can support weight for 5 more rounds before partial collapse
 
 **Round 4 - Reinforcements Possible:**
-- If combat lasts 4+ rounds, **Perception DC 14** to hear horns from Raven's Rest
+- If combat lasts 4+ rounds, **Perception DC 14** to hear horns from Raven's Keep
 - 1d3+1 additional scouts arrive in 3 rounds
 - Party should consider fleeing or finishing fight quickly
 
@@ -1422,23 +1422,23 @@ As party nears the final mile, they must cross a ravine spanned by an ancient st
 Kaelen is fanatical but can be broken.
 
 **Intimidation DC 14:**
-> *"Fine! Lord Shadows is at Raven's Rest RIGHT NOW! He's opening the vault tonight during the new moon. The First Component will be his, and there's nothing you can do to stop it!"*
+> *"Fine! Lord Shadows is at Raven's Keep RIGHT NOW! He's opening the vault tonight during the new moon. The First Component will be his, and there's nothing you can do to stop it!"*
 
 **Reveals:**
-- Lord Shadows is personally at Raven's Rest
+- Lord Shadows is personally at Raven's Keep
 - Vault opening requires specific lunar alignment (tonight)
 - First Component is definitely there
 - Heavy guard presence (30+ cultists)
 
 **Intimidation DC 17 or Persuasion DC 16:**
-> *"The vault requires Blackwood blood to open—that's why only Lord Shadows can enter. He's the last of his line. Once he has the First Component, he'll move to the next phase: awakening Dragon Infernalix beneath Kaer Thandros. The World-Splitter needs all three components to trigger the Second Sundering, but even one component grants immense power!"*
+> *"The vault requires Blackwood blood to open—that's why only Lord Shadows can enter. He's the last of his line. Once he has the First Component, he'll move to the next phase: awakening Dragon Infernalix beneath Kaer Thandros. The World-Splitter needs all three components to trigger the Second Worldrend, but even one component grants immense power!"*
 
 **Reveals:**
 - Vault needs Blackwood bloodline to open
 - Lord Shadows is last Blackwood heir (confirms his identity)
 - Three total components exist
 - Next target: Dragon Infernalix in Kaer Thandros
-- World-Splitter's purpose: trigger Second Sundering
+- World-Splitter's purpose: trigger Second Worldrend
 
 **Insight DC 15 (Reading Kaelen):**
 - He genuinely believes Lord Shadows will "restore justice"
@@ -1449,7 +1449,7 @@ Kaelen is fanatical but can be broken.
 **If Shown Mercy:**
 > *"You're... letting me go? Why? We tried to kill you!"* *(Confused and shaken)* *"I... maybe you're not the monsters they said. Maybe... maybe I've been the monster."*
 - Can become informant later in campaign
-- Provides **Map of Raven's Rest** (detailed interior layout)
+- Provides **Map of Raven's Keep** (detailed interior layout)
 - Warns: *"Lord Shadows wears a mask, always. No one's seen his face. They say it's scarred beyond recognition—burned in the fires that destroyed his family."*
 
 ---
@@ -1488,14 +1488,14 @@ After combat, party must still cross.
 **Option D - Alternative Route:**
 - Backtrack 2 hours to find another crossing
 - Lose time but remain safe
-- May miss optimal approach window to Raven's Rest
+- May miss optimal approach window to Raven's Keep
 
 ---
 
-**AFTERMATH - Sighting Raven's Rest:**
+**AFTERMATH - Sighting Raven's Keep:**
 
 **READ ALOUD:**
-> *With the ambush behind you, you press forward. As the trail climbs higher, the ruins of Raven's Rest loom before you. What was once a proud fortress is now a broken skeleton—walls collapsed, towers toppled, stones blackened by ancient fires. Yet torches burn throughout the ruins, and figures move with purpose. Tents cluster in the courtyard. Smoke rises from makeshift forges. This is no mere camp—it's a military operation.*
+> *With the ambush behind you, you press forward. As the trail climbs higher, the ruins of Raven's Keep loom before you. What was once a proud fortress is now a broken skeleton—walls collapsed, towers toppled, stones blackened by ancient fires. Yet torches burn throughout the ruins, and figures move with purpose. Tents cluster in the courtyard. Smoke rises from makeshift forges. This is no mere camp—it's a military operation.*
 >
 > *And somewhere in those depths, Lord Shadows Blackwood awaits, seeking to reclaim what was stolen from his family 43 years ago.*
 
@@ -1511,7 +1511,7 @@ After combat, party must still cross.
 - **Reconnaissance:** Scout thoroughly before deciding approach
 - **Seek Help:** Backtrack to get reinforcements (lose time, mission may fail)
 
-**Quest 1.3 Complete:** Party has reached Raven's Rest. Quest 1.4 begins.
+**Quest 1.3 Complete:** Party has reached Raven's Keep. Quest 1.4 begins.
 
 **Total Quest 1.3 XP:** 1,100 base + random encounters
 
@@ -1551,7 +1551,7 @@ Spellcasting: Casts spell.
 **Tactics:** Mage casts *Darkness* on bridge, becomes invisible, casts *Fireball* from safety. Scouts attack in melee.
 
 **Special:** If Mage is captured/interrogated:
-- Confirms Unbound operation at Raven's Rest tomorrow night
+- Confirms Unbound operation at Raven's Keep tomorrow night
 - Lord Shadows himself will be there
 - They're retrieving something from deep vaults
 - Doesn't know what, only that it's crucial to "the Awakening"
@@ -1568,18 +1568,18 @@ Spellcasting: Casts spell.
 
 ---
 
-### QUEST 1.4: RAVEN'S REST ASSAULT (Level 3-4)
+### QUEST 1.4: RAVEN'S KEEP ASSAULT (Level 3-4)
 
-**Location:** Raven's Rest ruins (old Blackwood family castle)  
+**Location:** Raven's Keep ruins (old Blackwood family castle)  
 **Difficulty:** Hard (CR 2 per PC)  
 **This is Act I's climactic dungeon**
 
 ---
 
-#### Approaching Raven's Rest
+#### Approaching Raven's Keep
 
 **READ ALOUD:**
-> *Raven's Rest rises before you like a monument to tragedy. Once-proud towers stand as blackened stumps, their stone still scorched from fires four decades old. Walls lie tumbled, yet the bones of the fortress remain—enough to shelter the Unbound's operations. Torches flicker in glassless windows. Campfires dot the courtyard. Voices echo from within, chanting in languages that predate the kingdoms.*
+> *Raven's Keep rises before you like a monument to tragedy. Once-proud towers stand as blackened stumps, their stone still scorched from fires four decades old. Walls lie tumbled, yet the bones of the fortress remain—enough to shelter the Unbound's operations. Torches flicker in glassless windows. Campfires dot the courtyard. Voices echo from within, chanting in languages that predate the kingdoms.*
 >
 > *This was a home once. A place where a family believed they served the greater good. Now it's a tomb, and the dead have returned to reclaim it.*
 
@@ -1660,7 +1660,7 @@ Before entering, smart parties will scout.
 - **Atmosphere:** Cold, oppressive, whispers echo (ghosts of Blackwood dead)
 - **Lingering Magic:** DC 14 Arcana detects strong necromantic and abjuration auras
 
-**RAVEN'S REST MAP NOTE:**
+**RAVEN'S KEEP MAP NOTE:**
 *DM should sketch simple map: Courtyard (center), Gates (west), Barracks (north), Grand Hall (center-east), Library (south), Descending Stairs (southeast), Vault (below)*
 
 ---
@@ -2165,15 +2165,15 @@ Arcanus is **non-hostile** unless attacked. He believes the party is new Unbound
 
 **Arcanus's Lecture (If Playing Along):**
 
-> *"Sit, sit! You must understand what we're fighting for. For forty-three years, the kingdoms have perpetuated a monstrous lie. They say House Blackwood attempted to trigger the Second Sundering—to shatter the continents and plunge the world into chaos. But I've found the truth in these texts!"*
+> *"Sit, sit! You must understand what we're fighting for. For forty-three years, the kingdoms have perpetuated a monstrous lie. They say House Blackwood attempted to trigger the Second Worldrend—to shatter the continents and plunge the world into chaos. But I've found the truth in these texts!"*
 >
-> *(He taps ancient tome)* *"House Blackwood wasn't trying to destroy the world—they were PROTECTING it! The World-Splitter, that ancient artifact, was split into three components after the First Sundering. Seven noble houses were entrusted to guard these pieces, ensuring they'd never be reunited. The Blackwoods held the First Component here, in these vaults."*
+> *(He taps ancient tome)* *"House Blackwood wasn't trying to destroy the world—they were PROTECTING it! The World-Splitter, that ancient artifact, was split into three components after the First Worldrend. Seven noble houses were entrusted to guard these pieces, ensuring they'd never be reunited. The Blackwoods held the First Component here, in these vaults."*
 >
 > *"But King Thandris III's son—the current king's uncle—discovered the Component. He tried to sell it to dragon cults for personal power. When his treachery was revealed, Thandris III blamed the Blackwoods instead. He destroyed an entire noble house to cover his own family's corruption!"*
 
 **History DC 13 (Confirming Details):**
-- Seven noble houses did exist in Pre-Sundering era
-- Many disappeared during/after the First Sundering
+- Seven noble houses did exist in Pre-Worldrend era
+- Many disappeared during/after the First Worldrend
 - House Blackwood was one of the oldest, most respected families
 - Their fall was sudden and complete—unusual for noble politics
 
@@ -2206,7 +2206,7 @@ Arcanus is **non-hostile** unless attacked. He believes the party is new Unbound
 - Someone seeking vengeance with that power? Recipe for disaster
 
 **"Where are the other Components?"**
-> *"Ah, that's the challenge. The Second Component was entrusted to House Goldshore—their line ended in the War of Three Crowns, fifty years ago. The vault location died with them. The Third... the Third was entrusted to an aquatic house, possibly the Deepwaters, but they sank beneath the waves during the Sundering. Lost forever, most likely. So you see? Even if Lord Shadows wanted to trigger the Second Sundering—which he doesn't—he couldn't. Two Components are likely gone forever."*
+> *"Ah, that's the challenge. The Second Component was entrusted to House Goldshore—their line ended in the War of Three Crowns, fifty years ago. The vault location died with them. The Third... the Third was entrusted to an aquatic house, possibly the Deepwaters, but they sank beneath the waves during the Worldrend. Lost forever, most likely. So you see? Even if Lord Shadows wanted to trigger the Second Worldrend—which he doesn't—he couldn't. Two Components are likely gone forever."*
 
 **Insight DC 16:**
 - He's trying to convince HIMSELF as much as you
@@ -2425,14 +2425,14 @@ Protection: If ally within 5 ft. is attacked, impose disadvantage on attack roll
 
 **Revelation:** Malthus carries the **First Component** - a crystalline shard humming with ancient power.
 
-**If Malthus Escapes:** He shouts: *"You're too late! Lord Shadows has two components already! The Sundering comes!"* (This is a lie - he only has this one)
+**If Malthus Escapes:** He shouts: *"You're too late! Lord Shadows has two components already! The Worldrend comes!"* (This is a lie - he only has this one)
 
 **If Malthus Captured:** He reveals:
 - This is the first of three World-Splitter components
 - Lord Shadows plans to gather them all
 - Second component is with a dragon named Infernalix (sleeping under Kaer Thandros)
 - Third component's location is unknown
-- Once assembled, they can "wake the Primordial" and cause Second Sundering
+- Once assembled, they can "wake the Primordial" and cause Second Worldrend
 - House Blackwood was innocent - framed because they tried to hide these components
 
 **Loot:**
@@ -2446,7 +2446,7 @@ Protection: If ally within 5 ft. is attacked, impose disadvantage on attack roll
 - 300 gp worth of gems
 
 **Letter from Lord Shadows:**
-*"Captain Voidcaller, you have served me well. Retrieve the First Component from Raven's Rest and bring it to our stronghold. With this piece, we prove the Blackwoods were guardians, not traitors. But proof means nothing without power. We shall remake this corrupt world. The kingdoms will fall. The Sundering will come. And my family will be vindicated. - C.B."*
+*"Captain Voidcaller, you have served me well. Retrieve the First Component from Raven's Keep and bring it to our stronghold. With this piece, we prove the Blackwoods were guardians, not traitors. But proof means nothing without power. We shall remake this corrupt world. The kingdoms will fall. The Worldrend will come. And my family will be vindicated. - C.B."*
 
 **XP:** 3,700 XP total
 
@@ -2521,11 +2521,11 @@ The stakes escalate. Armed with the First Component and knowledge of the Second'
 
 ### QUEST 2.1: THE BLACK ARCHIVE (Level 6)
 
-**Hook:** After surviving Raven's Rest, heroes receive a mysterious message: *"If you seek truth about House Blackwood, come to Kaer Thandros. Midnight, three days hence. Come alone. Bring the Component. Trust no one. - A Friend in the Shadows"*
+**Hook:** After surviving Raven's Keep, heroes receive a mysterious message: *"If you seek truth about House Blackwood, come to Kaer Thandros. Midnight, three days hence. Come alone. Bring the Component. Trust no one. - A Friend in the Shadows"*
 
 ---
 
-#### TRANSITION FROM RAVEN'S REST
+#### TRANSITION FROM RAVEN'S KEEP
 
 **AFTERMATH OF QUEST 1.4:**
 
@@ -2536,16 +2536,16 @@ Depending on how Quest 1.4 ended, the party may have:
 - Discovered the full conspiracy from Arcanus
 
 **READ ALOUD (Victory Ending):**
-> *You escape Raven's Rest as dawn breaks, the First Component clutched tightly in your pack. Behind you, the ruins burn—Unbound camps abandoned in the chaos of your assault. Lord Shadows himself escaped in the confusion, disappearing into shadow with his most loyal followers. Captain Roderic will be pleased with your success, but you know this is just the beginning. The Unbound won't stop. Neither can you.*
+> *You escape Raven's Keep as dawn breaks, the First Component clutched tightly in your pack. Behind you, the ruins burn—Unbound camps abandoned in the chaos of your assault. Lord Shadows himself escaped in the confusion, disappearing into shadow with his most loyal followers. Captain Roderic will be pleased with your success, but you know this is just the beginning. The Unbound won't stop. Neither can you.*
 
 **READ ALOUD (Alternate - Lord Shadows Escaped with Component):**
-> *You flee Raven's Rest with your lives, but Lord Shadows Blackwood escaped into the vault with the First Component. You heard his triumphant laughter echoing from the depths as the fortress collapsed behind you. Whatever he plans next, you're now racing against time to stop it.*
+> *You flee Raven's Keep with your lives, but Lord Shadows Blackwood escaped into the vault with the First Component. You heard his triumphant laughter echoing from the depths as the fortress collapsed behind you. Whatever he plans next, you're now racing against time to stop it.*
 
 ---
 
 #### THE MYSTERIOUS MESSAGE
 
-**24 Hours After Raven's Rest:**
+**24 Hours After Raven's Keep:**
 
 Party is resting at an inn (Silverpine, Crossvale, or wherever they fled to).
 
@@ -2569,10 +2569,10 @@ Party is resting at an inn (Silverpine, Crossvale, or wherever they fled to).
 - Paper is noble-quality parchment (very expensive)
 - Ink contains traces of silver (used by wizards for important documents)
 - Wax seal is recent (less than 6 hours old)
-- Symbol is pre-Sundering academic order insignia (very old knowledge)
+- Symbol is pre-Worldrend academic order insignia (very old knowledge)
 
 **Arcana DC 16 (Analyzing Seal):**
-> *"This symbol belonged to the Order of the Unveiled Truth—a pre-Sundering organization of scholars dedicated to preserving hidden knowledge. They were supposedly disbanded after the Sundering, but this suggests they may still exist in secret."*
+> *"This symbol belonged to the Order of the Unveiled Truth—a pre-Worldrend organization of scholars dedicated to preserving hidden knowledge. They were supposedly disbanded after the Worldrend, but this suggests they may still exist in secret."*
 
 **History DC 17 (Recognizing Significance):**
 > *"The Order of the Unveiled Truth was legendary for preserving forbidden histories. They maintained the Black Archives—secret libraries containing knowledge deemed 'too dangerous' for the public. If this writer has access to a Black Archive, they could show you things the kingdoms have tried to erase."*
@@ -2622,7 +2622,7 @@ Do they trust this mysterious invitation?
 - Guard checkpoint on capital approach
 - **Deception DC 14 or Persuasion DC 13:** Pass as merchants/adventurers
 - Guards are looking for "Unbound sympathizers" (heightened tensions)
-- If asked about Raven's Rest: Rumors have spread, heroes are wanted for questioning
+- If asked about Raven's Keep: Rumors have spread, heroes are wanted for questioning
 
 **Day 3: Approaching Capital**
 - First sight of Kaer Thandros (magnificent and imposing)
@@ -2890,7 +2890,7 @@ Party has until midnight to explore, prepare, and gather information.
 **Appearance:**
 - Ghostly figure, translucent but detailed
 - Tall, gaunt, with sharp intelligent features
-- Robes of pre-Sundering style (scholar's insignia)
+- Robes of pre-Worldrend style (scholar's insignia)
 - Eyes that have seen empires rise and fall
 - Age: Indeterminate (died 3,000+ years ago)
 
@@ -2909,7 +2909,7 @@ Party has until midnight to explore, prepare, and gather information.
 >
 > *(He drifts closer, studying you with ancient eyes)*
 >
-> *"I am Arcturus, High Mage of the Order of the Unveiled Truth. I died three thousand years ago in the First Sundering, binding my spirit to this archive so that forbidden knowledge would not be lost when civilizations fell. Since then, I have watched seven kingdoms rise, corrupt, and collapse on this very spot. I have seen history rewritten by victors, truth buried beneath lies, and the same mistakes repeated across millennia. I am very, very tired."*
+> *"I am Arcturus, High Mage of the Order of the Unveiled Truth. I died three thousand years ago in the First Worldrend, binding my spirit to this archive so that forbidden knowledge would not be lost when civilizations fell. Since then, I have watched seven kingdoms rise, corrupt, and collapse on this very spot. I have seen history rewritten by victors, truth buried beneath lies, and the same mistakes repeated across millennia. I am very, very tired."*
 
 **If Party Asks Why They're Here:**
 
@@ -2918,7 +2918,7 @@ Party has until midnight to explore, prepare, and gather information.
 **Insight DC 14:**
 - He's been watching the party since Quest 1.1
 - He orchestrated the invitation and guide
-- He's desperate—this is his last chance to prevent Second Sundering
+- He's desperate—this is his last chance to prevent Second Worldrend
 - He genuinely doesn't know if heroes will help or hinder
 
 ---
@@ -2933,7 +2933,7 @@ Party has until midnight to explore, prepare, and gather information.
 
 **Images shift: Seven families kneeling before divine avatars, swearing oaths:**
 
-> *"For three thousand years, these families kept faith. The Blackwoods held the First Component here, beneath their fortress at Raven's Rest. The Goldshores held the Second beneath Kaer Thandros. The Deepwaters held the Third in oceanic vaults. Four other families held knowledge, insurance, backup measures.*
+> *"For three thousand years, these families kept faith. The Blackwoods held the First Component here, beneath their fortress at Raven's Keep. The Goldshores held the Second beneath Kaer Thandros. The Deepwaters held the Third in oceanic vaults. Four other families held knowledge, insurance, backup measures.*
 >
 > *But humanity has short memory. The oaths weakened across generations. Families intermarried, scattered, forgot why they guarded dusty vaults. Until forty-three years ago."*
 
@@ -2944,7 +2944,7 @@ Party has until midnight to explore, prepare, and gather information.
 > *He tried to sell it to dragon cults. Promised to wake Dragon Infernalix in exchange for gold, power, alliance. House Goldshore discovered his treachery, confronted him. Prince Aldric murdered them—every last Goldshore, down to the children. Made it look like Unbound attack. Stole the Component."*
 
 **Insight DC 13:**
-- This matches what Arcanus claimed at Raven's Rest
+- This matches what Arcanus claimed at Raven's Keep
 - The conspiracy theory appears to be TRUE
 - Current nobility are covering up royal murder
 
@@ -2957,9 +2957,9 @@ Party has until midnight to explore, prepare, and gather information.
 
 **Image: A terrified 12-year-old boy fleeing through flames:**
 
-> *"Corvus Blackwood, age twelve, escaped. Watched his parents die. Heard them scream their innocence as they burned. Spent forty-three years in exile, planning, gathering followers, seeking proof. And then he learned about the Components. Understood that only a Blackwood could open the vault at Raven's Rest. Realized he could prove his family's innocence by demonstrating they were guardians, not thieves.*
+> *"Corvus Blackwood, age twelve, escaped. Watched his parents die. Heard them scream their innocence as they burned. Spent forty-three years in exile, planning, gathering followers, seeking proof. And then he learned about the Components. Understood that only a Blackwood could open the vault at Raven's Keep. Realized he could prove his family's innocence by demonstrating they were guardians, not thieves.*
 >
-> *But forty-three years of pain twisted his righteous cause into dangerous obsession. He doesn't just want vindication—he wants revenge. He'll expose the truth by assembling the World-Splitter, proving only guardian bloodlines can command it. And then? Then he'll give the corrupt kingdoms a choice: confess their crimes, or he triggers the Second Sundering and destroys everyone."*
+> *But forty-three years of pain twisted his righteous cause into dangerous obsession. He doesn't just want vindication—he wants revenge. He'll expose the truth by assembling the World-Splitter, proving only guardian bloodlines can command it. And then? Then he'll give the corrupt kingdoms a choice: confess their crimes, or he triggers the Second Worldrend and destroys everyone."*
 
 ---
 
@@ -2976,7 +2976,7 @@ Party has until midnight to explore, prepare, and gather information.
 - Combining them requires specific ritual (he doesn't know details)
 - Once united, Components can't be easily separated again
 
-**"Does King Thandris VII know the truth?"**
+**"Does King Aldric IV know the truth?"**
 > *"No. His father kept the secret. Thandris VII believes the official story—that Blackwoods were traitors. He's a decent man ruling from ignorance. When the truth emerges, it will destroy his legitimacy. The nobility knows this. They'll kill anyone who threatens to expose it. Including you."*
 
 **"Can we stop Lord Shadows without violence?"**
@@ -2989,7 +2989,7 @@ Party has until midnight to explore, prepare, and gather information.
 - That's not the current mission though
 
 **"What should we do?"**
-> *"That's your choice. I can only show you truth. I cannot make your decisions. But know this: The Unbound plan to wake Dragon Infernalix within seven days. They've recruited fire cultists who can survive dragonfire. They'll take the Second Component by force. Once Lord Shadows has two Components, finding the third becomes his obsession. The odds of Second Sundering increase exponentially."*
+> *"That's your choice. I can only show you truth. I cannot make your decisions. But know this: The Unbound plan to wake Dragon Infernalix within seven days. They've recruited fire cultists who can survive dragonfire. They'll take the Second Component by force. Once Lord Shadows has two Components, finding the third becomes his obsession. The odds of Second Worldrend increase exponentially."*
 
 ---
 
@@ -3006,7 +3006,7 @@ Party has until midnight to explore, prepare, and gather information.
    > *"Use this to understand what you find. The Components have histories. Learn them."*
 
 3. **Map of Undercity**
-   > *"Dragon Infernalix sleeps in ancient Pre-Sundering ruins beneath this palace. These passages were built three thousand years ago. I remember them. This map shows the way."*
+   > *"Dragon Infernalix sleeps in ancient Pre-Worldrend ruins beneath this palace. These passages were built three thousand years ago. I remember them. This map shows the way."*
 
 4. **Letter of Introduction** (to Professor Miranda Questseeker)
    > *"Miranda studies at Aethermere University in Aethoria. She's brilliant, curious, and discretely opposed to current power structures. She'll help you understand the Components' mechanics. Tell her Arcturus sent you. She'll know what that means."*
@@ -3033,14 +3033,14 @@ Party has until midnight to explore, prepare, and gather information.
 **Party must decide:**
 
 **Option 1 - Stop Lord Shadows by Any Means:**
-- Prevent Second Sundering
+- Prevent Second Worldrend
 - Protect the corrupt system
 - Kill Corvus if necessary
 - Truth remains buried
 
 **Option 2 - Help Lord Shadows Expose Truth:**
 - Support his vindication attempt
-- Risk Second Sundering
+- Risk Second Worldrend
 - Destabilize current kingdoms
 - Justice for Blackwood family
 
@@ -3066,11 +3066,11 @@ Party has until midnight to explore, prepare, and gather information.
 **QUEST COMPLETE:**
 
 **Knowledge Gained:**
-- Full World-Splitter history (Pre-Sundering origins)
+- Full World-Splitter history (Pre-Worldrend origins)
 - House Blackwood's innocence CONFIRMED
 - Prince Aldric's betrayal and murder of Goldshores
 - King Thandris III's cover-up
-- Current King Thandris VII is ignorant of truth
+- Current King Aldric IV is ignorant of truth
 - Dragon Infernalix sleeps beneath Royal Palace
 - Unbound plan to wake dragon within 7 days
 - Second Component location: With dragon
@@ -3190,7 +3190,7 @@ Party needs access to teleportation circle. Options:
 > *You find her exactly where predicted: The Forbidden Stacks, a section of the library sealed by three separate magical locks. She's somehow bypassed all of them and is currently balanced on a stepladder, pulling books from a shelf while muttering calculations to herself. She's younger than you expected—maybe thirty-five—with wild auburn hair tied back with what appears to be a quill, spectacles perched crookedly on her nose, and ink stains on every finger.*
 
 **Miranda's First Words (Without Looking):**
-> *"If you're campus security, I have permission. If you're not campus security, tell them I have permission. Either way, I'm busy discovering whether Pre-Sundering artificers understood quantum magical matrices, which is VASTLY more important than arbitrary rules about 'forbidden' knowledge..."*
+> *"If you're campus security, I have permission. If you're not campus security, tell them I have permission. Either way, I'm busy discovering whether Pre-Worldrend artificers understood quantum magical matrices, which is VASTLY more important than arbitrary rules about 'forbidden' knowledge..."*
 
 **When She Finally Looks:**
 > *"Oh. You're not security. You're... armed. Heavily armed. In an academic library. That's either wonderfully bold or spectacularly stupid. I'm Professor Miranda Questseeker, Department of Ancient Mysteriesand Probably-Shouldn't-Touch-This. You're clearly here about something dangerous. Tell me it's something dangerous. I haven't had proper excitement since that lich incident last year!"*
@@ -3216,7 +3216,7 @@ Party needs access to teleportation circle. Options:
 >
 > *(Reads letter, eyes widening with each line)*
 >
-> *"World-Splitter Components... Dragon Infernalix... Second Sundering... Oh, this is AMAZING. I mean, terrible, obviously, but academically FASCINATING! You need me to help prevent apocalypse? OF COURSE I'll help! When do we leave? Can I bring books? Please say I can bring books."*
+> *"World-Splitter Components... Dragon Infernalix... Second Worldrend... Oh, this is AMAZING. I mean, terrible, obviously, but academically FASCINATING! You need me to help prevent apocalypse? OF COURSE I'll help! When do we leave? Can I bring books? Please say I can bring books."*
 
 **If Not Showing Letter (Persuasion DC 14):**
 > *"Ancient artifacts? Primordial weapons? DRAGON heist? You had me at 'ancient.' I'll help. But in exchange, I need detailed documentation. Sketches, rubbings, magical resonance readings—the WORKS. Academic paper on this will make my career!"*
@@ -3228,7 +3228,7 @@ Party needs access to teleportation circle. Options:
 **Immediate Analysis:**
 If party has First Component, she examines it:
 
-> *"Oh my gods, this is REAL. Look at these rune patterns—Pre-Sundering syntax, but the underlying matrix suggests Primordial craftsmanship. No wonder it's indestructible. The gods didn't MAKE it, they STOLE it from beings that predate divine existence. This thing is OLDER than theology!"*
+> *"Oh my gods, this is REAL. Look at these rune patterns—Pre-Worldrend syntax, but the underlying matrix suggests Primordial craftsmanship. No wonder it's indestructible. The gods didn't MAKE it, they STOLE it from beings that predate divine existence. This thing is OLDER than theology!"*
 
 **Arcana DC 16 (Understanding Her):**
 - She's correct about Component origins
@@ -3259,7 +3259,7 @@ If party has First Component, she examines it:
 
 **MIRANDA'S COST:**
 
-> *"I'll help for free—this is too important. But professionally? I need documentation. Sketches of the Components, rubbings of runes, magical resonance data. This could revolutionize our understanding of Pre-Sundering artifice. Academic immortality! Also, if we survive, I'm writing a book about this. You'll all be famous. Or infamous. Depending on the ending."*
+> *"I'll help for free—this is too important. But professionally? I need documentation. Sketches of the Components, rubbings of runes, magical resonance data. This could revolutionize our understanding of Pre-Worldrend artifice. Academic immortality! Also, if we survive, I'm writing a book about this. You'll all be famous. Or infamous. Depending on the ending."*
 
 **Party Must Promise:**
 - Document findings (Miranda takes notes throughout adventure)
@@ -3345,7 +3345,7 @@ Party can ride (3 days) or teleport (if guild circle connects).
 Party must convince Kael this is worth risking death.
 
 **Persuasion DC 14 (Threat to World):**
-> *"If we don't stop the Unbound, they'll unite the World-Splitter Components and trigger the Second Sundering. Millions will die."*
+> *"If we don't stop the Unbound, they'll unite the World-Splitter Components and trigger the Second Worldrend. Millions will die."*
 
 **Kael's Response:**
 > *"So we're preventing apocalypse. That's... adequate motivation. Alright. But I want my share of the hoard. Not greed—practicality. Dragon hunting is expensive. Gear breaks, potions cost, resurrection magic doesn't come cheap. I've died twice fighting dragons. Got better, obviously, but it hurt."*
@@ -3456,7 +3456,7 @@ Party must convince Kael this is worth risking death.
 > *She's in her late thirties, scars on her face and hands telling stories of battles won. When she notices you approaching, she calls a halt to the drill and approaches with the economical movements of a career warrior.*
 
 **Thalia's Greeting (Direct, Professional):**
-> *"You're the heroes from Silverpine. I've heard reports. Stopped a cult, exposed an Unbound operation, survived Raven's Rest. Impressive. I'm Captain Thalia Lightbringer, Fourth Company of the Iron Council, sworn to Auriel. If you're here for blessings, the clerics are inside. If you're here for soldiers, you've found the right person. Speak plainly—what do you need?"*
+> *"You're the heroes from Silverpine. I've heard reports. Stopped a cult, exposed an Unbound operation, survived Raven's Keep. Impressive. I'm Captain Thalia Lightbringer, Fourth Company of the Iron Council, sworn to Auriel. If you're here for blessings, the clerics are inside. If you're here for soldiers, you've found the right person. Speak plainly—what do you need?"*
 
 ---
 
@@ -3611,7 +3611,7 @@ If party has been particularly honorable and impressed her:
 > *The Academic Quarter smells of old paper, candle wax, and decades of accumulated dust. Here, scholars and scribes maintain the royal archives, copying documents, cataloging histories, and occasionally uncovering truths better left buried. It's quieter than the rest of the city—buildings lean against each other like tired old men, and the only sounds are turning pages and scratching quills.*
 
 **Investigation DC 10 (Finding Cornelius):**
-- Ask local scholars: *"Cornelius? Oh, the old tunnel-rat? Check the Royal Archive's basement. He's always down there, muttering about 'Pre-Sundering architectural anomalies' and 'proof of ancient passages.' Sweet old man, bit mad."*
+- Ask local scholars: *"Cornelius? Oh, the old tunnel-rat? Check the Royal Archive's basement. He's always down there, muttering about 'Pre-Worldrend architectural anomalies' and 'proof of ancient passages.' Sweet old man, bit mad."*
 
 ---
 
@@ -3648,11 +3648,11 @@ If party has been particularly honorable and impressed her:
 **Cornelius's Response:**
 > *(Eyes light up like a child given candy)*
 >
-> *"DEEP PLACES! Oh, you're talking about the Pre-Sundering foundations! Yes, yes, YESSS! I KNEW they were real! Everyone said I was mad! 'Cornelius, you're obsessed.' 'Cornelius, those passages were filled in centuries ago.' BUT I KNEW!"*
+> *"DEEP PLACES! Oh, you're talking about the Pre-Worldrend foundations! Yes, yes, YESSS! I KNEW they were real! Everyone said I was mad! 'Cornelius, you're obsessed.' 'Cornelius, those passages were filled in centuries ago.' BUT I KNEW!"*
 >
 > *(Starts frantically pulling out maps)*
 >
-> *"The palace is built on ruins, you see. Three thousand years ago, this was a Primordial temple complex. After the Sundering, survivors built on top of it. Then THAT city collapsed, and the current palace was built on THOSE ruins. It's ruins all the way down! And beneath EVERYTHING... there are passages. Old places. Dangerous places. Places where things LIVE."*
+> *"The palace is built on ruins, you see. Three thousand years ago, this was a Primordial temple complex. After the Worldrend, survivors built on top of it. Then THAT city collapsed, and the current palace was built on THOSE ruins. It's ruins all the way down! And beneath EVERYTHING... there are passages. Old places. Dangerous places. Places where things LIVE."*
 
 **Insight DC 12:**
 - He's genuinely excited, not suspicious
@@ -3675,7 +3675,7 @@ If party has been particularly honorable and impressed her:
 > *"Why do you need to reach it? And please, PLEASE tell me you're not trying to wake it. Waking an ancient dragon beneath a city of twenty-eight thousand people would be... apocalyptic."*
 
 **If Party Explains (Honest):**
-> *"Unbound cult, World-Splitter Components, preventing Second Sundering... Yes. Yes, that tracks. That explains SO MUCH. The historical patterns, the guard activity, the sealed passages reopened recently... Someone IS going down there."*
+> *"Unbound cult, World-Splitter Components, preventing Second Worldrend... Yes. Yes, that tracks. That explains SO MUCH. The historical patterns, the guard activity, the sealed passages reopened recently... Someone IS going down there."*
 >
 > *(Nods decisively)*
 >
@@ -3685,7 +3685,7 @@ If party has been particularly honorable and impressed her:
 
 **CORNELIUS'S REQUEST:**
 
-> *"In the dragon's hoard—if you survive to see it—there's a book. 'The Accord of Seven Houses.' Original copy, Pre-Sundering, bound in dragonhide. It contains the actual text of the guardian oaths, proof of the covenant. It's the ONLY surviving copy. If you find it, bring it back. Let me study it. Let me PROVE I was right all these years."*
+> *"In the dragon's hoard—if you survive to see it—there's a book. 'The Accord of Seven Houses.' Original copy, Pre-Worldrend, bound in dragonhide. It contains the actual text of the guardian oaths, proof of the covenant. It's the ONLY surviving copy. If you find it, bring it back. Let me study it. Let me PROVE I was right all these years."*
 >
 > *(Voice gets emotional)*
 >
@@ -3729,7 +3729,7 @@ If party has been particularly honorable and impressed her:
 - Damaging the wards would be VERY bad
 
 **Architectural Weak Points:**
-> *"If you MUST fight down there—gods forbid—there are structural weaknesses. Support columns in Chamber Two are cracked. Lava flow in Chamber Three can be redirected with right leverage. Not that I'm advocating destruction of priceless Pre-Sundering architecture, but... survival is important."*
+> *"If you MUST fight down there—gods forbid—there are structural weaknesses. Support columns in Chamber Two are cracked. Lava flow in Chamber Three can be redirected with right leverage. Not that I'm advocating destruction of priceless Pre-Worldrend architecture, but... survival is important."*
 
 **Bonus Gifts:**
 > *(Produces two scrolls)*
@@ -4202,7 +4202,7 @@ On a stone pedestal (somehow not melting):
 **SPECIAL: FORGE CATALYST**
 
 If Silvaris is with party and needs "fire that burned for thousand years":
-> *"Perfect. This forge has burned since before the Sundering—for over three thousand years. A coal from this fire will complete my ritual."*
+> *"Perfect. This forge has burned since before the Worldrend—for over three thousand years. A coal from this fire will complete my ritual."*
 - Silvaris carefully extracts glowing ember
 - Places it in protective crystal container
 - Can now perform Ritual of Eternal Dreaming
@@ -4702,7 +4702,7 @@ Dragon's thrashing causes structural damage:
 **Immediate Consequences:**
 - 200+ civilian casualties (collapsed buildings)
 - Royal Palace partially destroyed
-- King Thandris VII declares state of emergency
+- King Aldric IV declares state of emergency
 - City-wide manhunt for:
   - The Unbound (blamed for disaster)
   - The party (witnesses saw them fleeing)
@@ -4790,7 +4790,7 @@ Just as heroes are retrieving component (or right after), the **UNBOUND ASSAULT*
 - Infernalix bursts into capital city
 - Destroys 3 city blocks before flying away
 - 200+ civilian casualties
-- King Thandris VII declares state of emergency
+- King Aldric IV declares state of emergency
 - Heroes are blamed OR celebrated depending on how they handled it
 
 **XP:** 15,000+ XP (for surviving, not fighting)
@@ -4810,7 +4810,7 @@ Just as heroes are retrieving component (or right after), the **UNBOUND ASSAULT*
 **24 Hours After Quest 2.3:**
 
 **READ ALOUD:**
-> *The capital is in chaos. Three city blocks lie in ruins. Funeral pyres burn day and night for the 200+ dead. King Thandris VII has declared martial law. The Royal Guard hunts for "terrorists who woke the dragon"—which includes both the Unbound AND you. Wanted posters bear your likenesses. The reward: 10,000 gold pieces, dead or alive.*
+> *The capital is in chaos. Three city blocks lie in ruins. Funeral pyres burn day and night for the 200+ dead. King Aldric IV has declared martial law. The Royal Guard hunts for "terrorists who woke the dragon"—which includes both the Unbound AND you. Wanted posters bear your likenesses. The reward: 10,000 gold pieces, dead or alive.*
 >
 > *You've taken refuge in a safe house, provided by allies (Captain Roderic, Captain Thalia, or underground contacts). The Second Component sits heavy in your pack, pulsing with power. You've achieved your objective, but at what cost?*
 
@@ -4874,7 +4874,7 @@ Do they go to Raven's Keep?
 **Arguments FOR:**
 - Final confrontation is inevitable
 - Chance to reason with him
-- Might prevent Second Sundering
+- Might prevent Second Worldrend
 - Opportunity to understand his full plan
 
 **Arguments AGAINST:**
@@ -4976,7 +4976,7 @@ Do they go to Raven's Keep?
 **Day 3, Evening:**
 
 **READ ALOUD:**
-> *Raven's Keep reveals itself as you round a mountain spur. It's not ruined like Raven's Rest—it's FUNCTIONAL. A fortress carved into the living rock, walls black stone, towers flying Blackwood banners. You see guards on parapets, lights in windows, smoke from forges. This isn't a hideout. This is a STRONGHOLD. Hundreds of Unbound call this home.*
+> *Raven's Keep reveals itself as you round a mountain spur. It's not ruined like Raven's Keep—it's FUNCTIONAL. A fortress carved into the living rock, walls black stone, towers flying Blackwood banners. You see guards on parapets, lights in windows, smoke from forges. This isn't a hideout. This is a STRONGHOLD. Hundreds of Unbound call this home.*
 >
 > *And they're watching you approach. Not with hostility—with curiosity. As if you're celebrities. Some point, whisper. A few wave hesitantly. Children peek from behind barrels. These aren't monsters. They're people. Families. Believers in a cause they think is just.*
 
@@ -5017,7 +5017,7 @@ As Aldric escorts party to Great Hall:
 > *"She's here, the woman with the child? Her farm was seized by a duke who wanted the land. No compensation. No justice. That man? His brother was executed for 'treason'—he questioned a noble's tax increase. These people haven't come to destroy the world. They've come because the world destroyed them first."*
 
 **Persuasion DC 14 (Engaging in Discussion):**
-> *"Corvus gave us hope. Not vengeance—HOPE. The hope that truth matters. That the powerful can be held accountable. Is triggering the Sundering the right method? I... I don't know anymore. That's why he wants to talk to you. You've seen both sides. Maybe you can show him a path we haven't seen."*
+> *"Corvus gave us hope. Not vengeance—HOPE. The hope that truth matters. That the powerful can be held accountable. Is triggering the Worldrend the right method? I... I don't know anymore. That's why he wants to talk to you. You've seen both sides. Maybe you can show him a path we haven't seen."*
 
 **Insight DC 15:**
 - Aldric has doubts about Corvus's plan
@@ -5066,7 +5066,7 @@ As Aldric escorts party to Great Hall:
 >
 > *"Then King Thandris III's son—Prince Aldric, uncle to the current king—discovered the Goldshore vaults beneath the palace. Found the SECOND Component. He wanted it. Wanted to sell it to dragon cults, trade it for power. House Goldshore refused. So he murdered them. Every last one. Men, women, children. CHILDREN. Slaughtered in their beds."*
 >
-> *"But he couldn't hide the Component afterward. Too much magic, too noticeable. He needed a scapegoat. So King Thandris III—to save his son from execution—framed MY family instead. Declared US traitors. Declared we'd tried to trigger the Second Sundering. Lies. ALL LIES."*
+> *"But he couldn't hide the Component afterward. Too much magic, too noticeable. He needed a scapegoat. So King Thandris III—to save his son from execution—framed MY family instead. Declared US traitors. Declared we'd tried to trigger the Second Worldrend. Lies. ALL LIES."*
 >
 > *(Slams fist on table)*
 >
@@ -5128,7 +5128,7 @@ The party can:
 >
 > *(Stands, energized)*
 >
-> *"Together, we'll find the Third Component. It's beneath the ocean, in the ruins of House Deepwater's sanctuary. Difficult, but not impossible. Once we have all three, we'll demand an audience with King Thandris VII. Give him one chance—just ONE—to confess his grandfather's crimes and reform the system. If he refuses... we activate the World-Splitter. Reshape the world by force."*
+> *"Together, we'll find the Third Component. It's beneath the ocean, in the ruins of House Deepwater's sanctuary. Difficult, but not impossible. Once we have all three, we'll demand an audience with King Aldric IV. Give him one chance—just ONE—to confess his grandfather's crimes and reform the system. If he refuses... we activate the World-Splitter. Reshape the world by force."*
 
 **Consequences:**
 - Party becomes Unbound allies
@@ -5149,7 +5149,7 @@ The party can:
 **Act III Setup:**
 - Quest 3.1: Journey to underwater ruins
 - Quest 3.2: Retrieve Third Component
-- Quest 3.3: Confront King Thandris VII
+- Quest 3.3: Confront King Aldric IV
 - Quest 3.4: Activate World-Splitter (or find alternative)
 - Darker tone, party questions if they're doing right thing
 
@@ -5163,7 +5163,7 @@ The party can:
 >
 > *(Stands, drawing sword)*
 >
-> *"Then we're enemies. I'll take the Components by force. I'll assemble the World-Splitter. And I'll trigger the Second Sundering whether the kingdoms consent or not. If I can't have justice, I'll have vengeance. At least that's honest."*
+> *"Then we're enemies. I'll take the Components by force. I'll assemble the World-Splitter. And I'll trigger the Second Worldrend whether the kingdoms consent or not. If I can't have justice, I'll have vengeance. At least that's honest."*
 
 **BOSS FIGHT: Corvus Blackwood**
 
@@ -5216,18 +5216,18 @@ This becomes a full combat encounter:
 Party must present actual plan:
 - How to expose truth without catastrophe
 - How to get justice for Blackwood family
-- How to reform kingdoms without triggering Sundering
+- How to reform kingdoms without triggering Worldrend
 - How to honor the dead without killing the living
 
 **Example Arguments:**
 - *"We have Arcturus's testimony. A 3,000-year-old witness. The truth CAN come out."*
-- *"Use the Components as LEVERAGE, not weapons. Threaten the Sundering to force confessions."*
+- *"Use the Components as LEVERAGE, not weapons. Threaten the Worldrend to force confessions."*
 - *"Work with reformist nobles (like Captain Thalia). Change from within."*
 - *"Public trial. Present evidence. Make kings choose: confess or be exposed as liars."*
 
 **If Successful:**
 
-> *(Corvus stops, considers)* *"You're... you're right. If I trigger the Sundering, I become the monster they said my family was. I prove the kingdoms RIGHT to fear us. That's not justice—that's revenge wearing justice's mask."*
+> *(Corvus stops, considers)* *"You're... you're right. If I trigger the Worldrend, I become the monster they said my family was. I prove the kingdoms RIGHT to fear us. That's not justice—that's revenge wearing justice's mask."*
 >
 > *(Sits heavily)*
 >
@@ -5237,7 +5237,7 @@ Party must present actual plan:
 - Keep Components safe (don't assemble)
 - Use threat of assembly as diplomatic leverage
 - Work with Arcturus to present testimony
-- Approach King Thandris VII with evidence
+- Approach King Aldric IV with evidence
 - Demand public inquiry into Blackwood case
 - If king refuses: THEN consider extreme measures
 
@@ -5253,7 +5253,7 @@ Party must present actual plan:
 
 **Act III Setup (Middle Path):**
 - Quest 3.1: Gather evidence and allies
-- Quest 3.2: Approach King Thandris VII
+- Quest 3.2: Approach King Aldric IV
 - Quest 3.3: Public trial/inquiry
 - Quest 3.4: Deal with nobles who oppose truth
 - Quest 3.5: Final choice—if diplomacy fails, assemble Splitter or walk away
@@ -5269,7 +5269,7 @@ Party must present actual plan:
 > *You leave Raven's Keep as allies of the Unbound. The path ahead is dark, uncertain, and you'll be branded terrorists by every kingdom. But you've seen the truth. Sometimes revolution is the only answer to entrenched injustice. The Third Component awaits beneath the ocean. Your journey continues.*
 
 **If Opposed Corvus:**
-> *Corvus Blackwood is defeated—dead or captured. The immediate threat ends. You carry two Components and the weight of wondering if you did the right thing. The kingdoms are safe from the Sundering. But they're still corrupt, still lying, still oppressing. You've protected the status quo. Only time will tell if that was heroic or tragic.*
+> *Corvus Blackwood is defeated—dead or captured. The immediate threat ends. You carry two Components and the weight of wondering if you did the right thing. The kingdoms are safe from the Worldrend. But they're still corrupt, still lying, still oppressing. You've protected the status quo. Only time will tell if that was heroic or tragic.*
 
 **If Middle Path:**
 > *You leave Raven's Keep with a fragile alliance. Corvus Blackwood—no longer Lord Shadows—walks beside you, not as enemy but as reluctant ally. Together, you'll attempt the impossible: justice through truth, reform through evidence, change through courage. It might not work. But it's worth trying. The Third Component can wait. First, you'll try to save the world without destroying it.*
@@ -5320,7 +5320,7 @@ Party must present actual plan:
 **Well done! Act II is table-ready!** 🎉
 - Campaign becomes morally grey/dark
 - Heroes help assemble World-Splitter
-- Final act is about CONTROLLING the Sundering, not stopping it
+- Final act is about CONTROLLING the Worldrend, not stopping it
 - Epilogue involves overthrowing kingdoms
 
 **OPTION B: Refuse Lord Shadows**
@@ -5331,7 +5331,7 @@ Party must present actual plan:
 
 **OPTION C: Negotiate Middle Ground (DC 18 Persuasion)**
 - Convince Lord Shadows there's another way
-- Propose exposing truth WITHOUT Sundering
+- Propose exposing truth WITHOUT Worldrend
 - He agrees to temporary truce
 - Campaign shifts to "expose conspiracy" path
 - Final act becomes convincing kingdoms to admit truth
@@ -5365,7 +5365,7 @@ Party must present actual plan:
 
 **If Captured/Defeated:**
 - Reveals Third Component location: *"With the Goldshore family... at the bottom of the Sundering Sea"*
-- Warns: *"You've doomed us all. When the Primordials wake, you'll beg for the Sundering I offered."*
+- Warns: *"You've doomed us all. When the Primordials wake, you'll beg for the Worldrend I offered."*
 - Can be imprisoned or killed (moral choice)
 
 **If Escapes:**
@@ -5392,7 +5392,7 @@ Party must present actual plan:
 **If Lord Shadows Defeated:**
 - Unbound scatters but doesn't dissolve
 - Heroes are celebrated as saviors
-- King Thandris VII summons them for audience
+- King Aldric IV summons them for audience
 - Rewards and titles offered
 
 **If Lord Shadows Escaped:**
@@ -5401,7 +5401,7 @@ Party must present actual plan:
 - Heroes must find way to reach ocean floor
 
 **King's Audience:**
-- King Thandris VII is grateful but suspicious
+- King Aldric IV is grateful but suspicious
 - Asks heroes to surrender both Components "for safety"
 - If heroes reveal truth about Thandris III, king is shocked
 - Political crisis ensues - some nobles want cover-up, others want truth
@@ -5429,12 +5429,12 @@ But reaching it requires:
 
 ### Act III Overview
 
-The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter and triggering the Second Sundering. But they face moral complexities: Lord Shadows isn't wrong about the corruption, the Components might be safer assembled (so they can be destroyed), and some allies want to use the World-Splitter for their own purposes.
+The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter and triggering the Second Worldrend. But they face moral complexities: Lord Shadows isn't wrong about the corruption, the Components might be safer assembled (so they can be destroyed), and some allies want to use the World-Splitter for their own purposes.
 
 **Key Locations:**
 - The Sundering Sea (underwater adventure)
 - Goldshore Manor (sunken dungeon)
-- The Primordial Rift (where Sundering will occur)
+- The Primordial Rift (where Worldrend will occur)
 - Raven's Keep (final showdown)
 
 **Major Goals:**
@@ -5442,7 +5442,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Decide fate of World-Splitter (destroy, hide, or use?)
 - Final confrontation with Lord Shadows
 - Resolve political crisis in kingdoms
-- Prevent (or control) Second Sundering
+- Prevent (or control) Second Worldrend
 
 **Epic Stakes:**
 - Continental destruction possible
@@ -5464,7 +5464,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 #### PREPARATION - CHOOSING YOUR APPROACH
 
 **READ ALOUD:**
-> *The Sundering Sea earned its name during the First Sundering when continents split and oceans were born. It's deep, cold, and filled with things that predate civilization. And 300 feet beneath its waves lies Goldshore Manor—a magnificent estate built by masters of water magic, now claimed by the sea. That's where the Third Component rests. All you need to do is survive the descent, navigate a haunted underwater ruin, beat the Unbound to the prize, and surface alive. Simple.*
+> *The Sundering Sea earned its name during the First Worldrend when continents split and oceans were born. It's deep, cold, and filled with things that predate civilization. And 300 feet beneath its waves lies Goldshore Manor—a magnificent estate built by masters of water magic, now claimed by the sea. That's where the Third Component rests. All you need to do is survive the descent, navigate a haunted underwater ruin, beat the Unbound to the prize, and surface alive. Simple.*
 
 ---
 
@@ -6436,7 +6436,7 @@ Explain purpose honestly:
 > *"Lady Goldshore, we seek to honor your sacrifice. Your family died protecting this Component from those who'd misuse it. We're trying to prevent the World-Splitter's assembly, or if it must be assembled, ensure it's used justly. We're not thieves—we're finishing what you started."*
 
 **If Successful:**
-> *"You speak with conviction. I... I've waited so long for someone worthy. My family died screaming. Prince Aldric murdered us all. We knew he'd come for the Component eventually, so we hid it. Died protecting it. And for forty years, I've guarded it alone. Tell me: what will you do with it?"*
+> *"You speak with conviction. I... I've waited so long for someone worthy. My family died screaming. Prince Aldric murdered us all. We knew he'd come for the Component eventually, so we hid it. Died protecting it. And for over a century, I've guarded it alone. Tell me: what will you do with it?"*
 
 **Party Must Answer:**
 - **Destroy it:** *"Wise, but can you? These are Primordial artifacts."*
@@ -6619,7 +6619,7 @@ Each round, roll 1d6:
 >
 > *(Pause)*
 >
-> *But assembled? Together? They form a complete artifact. And complete artifacts CAN be destroyed—from within. You'd have to activate the World-Splitter, then overload it before it triggers the Sundering. A one-second window. Miss it, and you crack the continent. No pressure.*
+> *But assembled? Together? They form a complete artifact. And complete artifacts CAN be destroyed—from within. You'd have to activate the World-Splitter, then overload it before it triggers the Worldrend. A one-second window. Miss it, and you crack the continent. No pressure.*
 >
 > *(Looks at you seriously)*
 >
@@ -6698,7 +6698,7 @@ Each round, roll 1d6:
 
 ---
 
-**ALLY D: KING THANDRIS VII (Royal Summons)**
+**ALLY D: KING ALDRIC IV (Royal Summons)**
 
 **Location:** Throne Room, Royal Palace
 
@@ -6820,7 +6820,7 @@ Each round, roll 1d6:
 
 **Consequences:**
 - Supports existing order
-- King Thandris VII trustworthy (for now)
+- King Aldric IV trustworthy (for now)
 - **But:** Future kings might not be
 - **And:** Royal vaults failed before
 
@@ -6877,7 +6877,7 @@ Each round, roll 1d6:
 **Consequences:**
 - Sides with Corvus completely
 - Enables his plan to reshape world
-- High risk of Second Sundering
+- High risk of Second Worldrend
 - **But:** Might achieve actual justice
 - **And:** Exposes historical truth
 
@@ -6926,7 +6926,7 @@ Each round, roll 1d6:
 #### QUEST 3.3 CONCLUSION
 
 **READ ALOUD:**
-> *You've made your choice. The Components are secured, your course is set. Word reaches you that Corvus Blackwood has summoned his full forces to the Primordial Rift—the site of the First Sundering 3,000 years ago. There, he'll make his final stand. And there, you'll meet him. One last time. For truth, for justice, for the future of Tirvandor. Ready your weapons, prepare your spells, steel your hearts. The end approaches.*
+> *You've made your choice. The Components are secured, your course is set. Word reaches you that Corvus Blackwood has summoned his full forces to the Primordial Rift—the site of the First Worldrend 3,000 years ago. There, he'll make his final stand. And there, you'll meet him. One last time. For truth, for justice, for the future of Tirvandor. Ready your weapons, prepare your spells, steel your hearts. The end approaches.*
 
 **XP:** 5,000 XP (major strategic decision)
 
@@ -6949,14 +6949,14 @@ Regardless of decision, party learns:
 
 ### QUEST 3.4: THE PRIMORDIAL RIFT (Level 14)
 
-**Hook:** Lord Shadows has revealed his final plan: assemble the World-Splitter at the **Primordial Rift**—the location of the First Sundering 3,000 years ago. There, the artifact will have maximum power. Intelligence reports indicate he's gathered his full army and will complete the ritual in three days. The heroes must march north immediately.
+**Hook:** Lord Shadows has revealed his final plan: assemble the World-Splitter at the **Primordial Rift**—the location of the First Worldrend 3,000 years ago. There, the artifact will have maximum power. Intelligence reports indicate he's gathered his full army and will complete the ritual in three days. The heroes must march north immediately.
 
 **Location:** The Primordial Rift (Northern Thaldros Mountains, 2 days from Kaer Thandros)
 
 **Objective:** 
 - Reach the Primordial Rift before Lord Shadows completes the ritual
 - Confront him at the Assembly Site
-- Stop the Second Sundering or choose to support it
+- Stop the Second Worldrend or choose to support it
 
 **Duration:** 2-3 sessions
 
@@ -6965,7 +6965,7 @@ Regardless of decision, party learns:
 #### QUEST START: PREPARATION IN KAER THANDROS
 
 **READ ALOUD:**
-> *The command tent is crowded with maps, messengers, and nervous officials. King Thandris VII stands at the head table, looking older than his years. "The Primordial Rift," he says, voice heavy. "Three thousand years ago, that's where it nearly ended. Where the First Sundering almost tore Tirvandor apart. And now Corvus Blackwood wants to finish what his ancestors supposedly started."*
+> *The command tent is crowded with maps, messengers, and nervous officials. King Aldric IV stands at the head table, looking older than his years. "The Primordial Rift," he says, voice heavy. "Three thousand years ago, that's where it nearly ended. Where the First Worldrend almost tore Tirvandor apart. And now Corvus Blackwood wants to finish what his ancestors supposedly started."*
 > 
 > *He looks at you. "You've stopped him twice. Retrieved the Components. Exposed the truth. But this is the end. One way or another, it ends at the Rift. We can give you soldiers, mages, supplies—whatever you need. But ultimately, it will come down to you and him, standing at the place where worlds break."*
 
@@ -7077,7 +7077,7 @@ Roll random encounter (20% chance):
 **NIGHT ENCOUNTER: PRIMORDIAL ECHO**
 
 **Perception DC 16 during watch:**
-> *You see something that shouldn't exist: a figure walking through camp, translucent, flickering. It's wearing armor from 3,000 years ago—Pre-Sundering style. The figure is YOU, or rather, an echo of you from another time. It walks past, unseeing, and where its feet touch ground, grass ages and dies instantly.*
+> *You see something that shouldn't exist: a figure walking through camp, translucent, flickering. It's wearing armor from 3,000 years ago—Pre-Worldrend style. The figure is YOU, or rather, an echo of you from another time. It walks past, unseeing, and where its feet touch ground, grass ages and dies instantly.*
 
 **Arcana DC 18:**
 > *This is a temporal echo—a person displaced from their own timeline. The Rift's influence is reaching this far. If you touch it, you might swap places with your past/future self.*
@@ -7095,7 +7095,7 @@ Roll random encounter (20% chance):
 > 
 > *By noon, you reach the last overlook before the Rift valley. And what you see steals your breath.*
 > 
-> *A massive canyon, easily a mile across, carved into the mountains. The First Sundering tore reality HERE, and the scar never fully healed. The sky above the canyon swirls with impossible colors—reality bleeding through from other planes. You can SEE time moving wrong: waterfalls flowing upward, stones falling slowly, birds frozen mid-flight then suddenly jerking forward.*
+> *A massive canyon, easily a mile across, carved into the mountains. The First Worldrend tore reality HERE, and the scar never fully healed. The sky above the canyon swirls with impossible colors—reality bleeding through from other planes. You can SEE time moving wrong: waterfalls flowing upward, stones falling slowly, birds frozen mid-flight then suddenly jerking forward.*
 > 
 > *And at the canyon's heart, carved into ancient stone: the Assembly Site. A perfect circle of standing stones, each inscribed with Primordial runes that glow with sickly light. You can see figures moving—hundreds of them. The Unbound army, preparing for their leader's final ritual.*
 > 
@@ -7171,7 +7171,7 @@ If successful, heroes learn:
 **Ritual Timeline:**
 - Lord Shadows plans to begin assembly at sunset (4 hours)
 - Ritual takes 30 minutes once started
-- If not stopped, Second Sundering begins
+- If not stopped, Second Worldrend begins
 
 **Weaknesses:**
 - Many soldiers doubtful, low morale (can be turned)
@@ -7359,7 +7359,7 @@ Lord Shadows stands, unarmed but for his shadow magic, flanked by the Lich.
 - **Arguments that work:**
   - "Your family wanted peace, not more destruction"
   - "You'll prove the kings RIGHT about Blackwoods if you do this"
-  - "We'll expose the truth without the Sundering—we HAVE the evidence"
+  - "We'll expose the truth without the Worldrend—we HAVE the evidence"
   - "Your mother's message: don't let hate consume you"
 
 **If Successful:**
@@ -7376,7 +7376,7 @@ Lord Shadows stands, unarmed but for his shadow magic, flanked by the Lich.
 - "One month—if nothing changes, we won't stop you"
 
 **If Successful:**
-> *"One month. You have ONE MONTH to prove that justice can exist without catastrophe. If you fail... I finish this." He withdraws Components from pedestals. "But know this: I'll be watching. And if you betray me, if you hide the truth again, I'll make the Second Sundering look merciful."*
+> *"One month. You have ONE MONTH to prove that justice can exist without catastrophe. If you fail... I finish this." He withdraws Components from pedestals. "But know this: I'll be watching. And if you betray me, if you hide the truth again, I'll make the Second Worldrend look merciful."*
 
 - **Temporary truce**
 - **Campaign continues into political intrigue arc**
@@ -7542,7 +7542,7 @@ Regardless of approach, heroes eventually reach Assembly Site. Before final conf
 > 
 > *"But something else happened that day. In the chaos, in the aftermath, powerful people saw an opportunity. The Seven Kingdoms formed. And they needed scapegoats—families to blame for the near-catastrophe. Someone to make villains so they could be heroes.*
 > 
-> *"House Blackwood. House Goldshore. Accused of trying to cause the Sundering. Accused of dark pacts. Lies. ALL LIES. But convenient lies. Lies that let kings seize power, seize lands, build kingdoms on blood and murder.*
+> *"House Blackwood. House Goldshore. Accused of trying to cause the Worldrend. Accused of dark pacts. Lies. ALL LIES. But convenient lies. Lies that let kings seize power, seize lands, build kingdoms on blood and murder.*
 > 
 > *"My family were GUARDIANS. We protected the World-Splitter Components, kept them SEPARATE so they couldn't be misused. We died protecting them. And for that, history calls us traitors.*
 > 
@@ -7660,11 +7660,11 @@ Enemies:
 **World-Splitter Charging:**
 - Each round, Components pulse with power (roll 1d6)
 - On 5-6: Reality tear opens, summons 1d4 elementals or demons
-- After 10 rounds: World-Splitter fully charges, Lord Shadows can trigger Sundering
+- After 10 rounds: World-Splitter fully charges, Lord Shadows can trigger Worldrend
 
 **Primordial Echoes:**
 - Each round, 1d3 creatures from other times phase in
-- These are echoes of Pre-Sundering era heroes/monsters
+- These are echoes of Pre-Worldrend era heroes/monsters
 - They attack everyone (treat as random encounters)
 
 **Gravity Shifts:**
@@ -7757,7 +7757,7 @@ Can provide **Blackwood Bloodline Power** (action to give one hero advantage on 
 - Ground splits apart
 - Mountains fall
 - Earthquakes across continent
-- **Campaign becomes "surviving the Sundering"**
+- **Campaign becomes "surviving the Worldrend"**
 - Very different ending
 
 #### Epilogue Scenes (If Heroes Win)
@@ -7791,7 +7791,7 @@ The following epilogue variants depend on how the campaign concluded. Choose the
 
 ## EPILOGUE 1: HEROIC VICTORY (Traditional Ending)
 
-*If heroes defeated Lord Shadows and stopped the Second Sundering*
+*If heroes defeated Lord Shadows and stopped the Second Worldrend*
 
 ---
 
@@ -7839,7 +7839,7 @@ If heroes approach him:
 ### THE THRONE ROOM (Two Weeks Later)
 
 **READ ALOUD:**
-> *King Thandris VII sits on his throne, looking ten years older. The entire court is assembled—nobles, generals, priests, merchants. You stand before them, the three Components on a velvet cushion, Corvus's journal in hand. The king's voice is quiet, almost broken: "Show us. Show us the truth."*
+> *King Aldric IV sits on his throne, looking ten years older. The entire court is assembled—nobles, generals, priests, merchants. You stand before them, the three Components on a velvet cushion, Corvus's journal in hand. The king's voice is quiet, almost broken: "Show us. Show us the truth."*
 
 **The Revelation:**
 
@@ -7889,7 +7889,7 @@ Heroes demand complete public disclosure. The truth will be proclaimed from ever
 > *The kingdom teeters on the edge of chaos. Three noble houses have declared independence. But something else is happening too: people are talking. Questioning. Demanding accountability from their rulers. The old order is dying, painful and messy, but a new one is being born. One built on truth, not convenient lies.*
 
 **One Year Later:**
-> *The Kingdom of Thaldros has transformed. King Thandris VII rules, but the nobles no longer own their positions by birthright alone. A Parliament has formed—common folk, merchants, even former Unbound members, sitting alongside nobility. It's imperfect, messy, full of corruption still... but it's better. And it's getting better.*
+> *The Kingdom of Thaldros has transformed. King Aldric IV rules, but the nobles no longer own their positions by birthright alone. A Parliament has formed—common folk, merchants, even former Unbound members, sitting alongside nobility. It's imperfect, messy, full of corruption still... but it's better. And it's getting better.*
 
 **Ten Years Later:**
 > *Historians call it "The Reckoning"—the decade when Tirvandor confronted its lies and emerged stronger. The Blackwood Memorial stands in Kaer Thandros's central square: a mother, father, sister, and son, carved from black marble. Corvus's name is listed not as "Lord Shadows," but as "Corvus Blackwood, Guardian of Truth." Thousands visit yearly. Some leave flowers. Others leave apologies.*
@@ -7919,7 +7919,7 @@ Heroes negotiate quiet reform. Truth is acknowledged privately but not publicize
 > *The changes are subtle. New laws protecting "historical guardians." Tax reforms favoring commoners. Fewer abuses of power. Most citizens don't know why things are improving. They just know they are. Is hidden justice still justice? You debate this among yourselves often.*
 
 **Ten Years Later:**
-> *A small memorial stands in Raven's Rest—the ruins of the Blackwood estate. Few know what it represents. Those who do make pilgrimages quietly. King Thandris the Reformer, history will call him. And in private rooms, in hushed voices, people tell the true story. Truth, it seems, cannot be fully buried. It seeps out, slowly, like water through stone.*
+> *A small memorial stands in Raven's Keep—the ruins of the Blackwood estate. Few know what it represents. Those who do make pilgrimages quietly. King Thandris the Reformer, history will call him. And in private rooms, in hushed voices, people tell the true story. Truth, it seems, cannot be fully buried. It seeps out, slowly, like water through stone.*
 
 ---
 
@@ -8077,7 +8077,7 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 **SAGE CORNELIUS**
 
 *If Given His Book:*
-> *Publishes definitive history of Pre-Sundering era. Finally gets the recognition he deserved. Spends final years content, knowing he was right all along. Leaves massive donation to libraries. His funeral is attended by hundreds of scholars. They all say: "He was right. We should have listened."*
+> *Publishes definitive history of Pre-Worldrend era. Finally gets the recognition he deserved. Spends final years content, knowing he was right all along. Leaves massive donation to libraries. His funeral is attended by hundreds of scholars. They all say: "He was right. We should have listened."*
 
 *If Never Given Book:*
 > *Dies shortly after campaign, still dismissed as senile. His unpublished research is found after death—proves he was right about everything. Tragic waste. Heroes feel guilt for not helping him.*
@@ -8134,7 +8134,7 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 
 ---
 
-**KING THANDRIS VII**
+**KING ALDRIC IV**
 
 *If Remains King:*
 > *Known as Thandris the Reformer. Spends reign making amends for grandfather's crimes. Never fully escapes guilt. Dies believing he failed to make enough change. History judges him kindly—he tried.*
@@ -8224,7 +8224,7 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 
 **Who Attends:**
 - Surviving NPCs (Miranda, Kael, Thalia, whoever lived)
-- King Thandris VII (or successor if abdicated)
+- King Aldric IV (or successor if abdicated)
 - Reformed Unbound members
 - Families of fallen soldiers
 - The heroes
@@ -8389,7 +8389,7 @@ May your next adventure be equally memorable.
 ### TWENTY YEARS LATER: LEGACY OF REVOLUTION
 
 **READ ALOUD:**
-> *Twenty years since the Controlled Sundering. History's judgment is... mixed. The New Tirvandor is undeniably better for common people. But you wonder sometimes: could you have achieved this without magic? Through gradual reform, persuasion, example? You'll never know.*
+> *Twenty years since the Controlled Worldrend. History's judgment is... mixed. The New Tirvandor is undeniably better for common people. But you wonder sometimes: could you have achieved this without magic? Through gradual reform, persuasion, example? You'll never know.*
 
 **The New Tirvandor:**
 - Democratic councils govern
@@ -8453,7 +8453,7 @@ May your next adventure be equally memorable.
 ### THE RECONCILIATION (One Month Later)
 
 **READ ALOUD:**
-> *Kaer Thandros's throne room. But it's different. King Thandris VII has abdicated—not forced, but voluntarily. "I don't deserve this crown," he said. "Let someone worthy lead." A temporary council governs now. And standing before them: Corvus Blackwood, unarmed, unmasked, ready to face judgment.*
+> *Kaer Thandros's throne room. But it's different. King Aldric IV has abdicated—not forced, but voluntarily. "I don't deserve this crown," he said. "Let someone worthy lead." A temporary council governs now. And standing before them: Corvus Blackwood, unarmed, unmasked, ready to face judgment.*
 
 **The Trial:**
 
@@ -8542,11 +8542,11 @@ May your next adventure be equally memorable.
 
 **The Final Reflection:**
 
-> *"We saved the world twice," you realize. "Once from the Second Sundering. Again from the revenge cycle. We showed Corvus mercy. He showed the world redemption. Together, we proved that broken systems can be fixed without breaking everything else."*
+> *"We saved the world twice," you realize. "Once from the Second Worldrend. Again from the revenge cycle. We showed Corvus mercy. He showed the world redemption. Together, we proved that broken systems can be fixed without breaking everything else."*
 
 ---
 
-## EPILOGUE 4: TRAGIC ENDING (If Second Sundering Succeeded)
+## EPILOGUE 4: TRAGIC ENDING (If Second Worldrend Succeeded)
 
 *If heroes failed to stop the World-Splitter in time*
 
@@ -8577,7 +8577,7 @@ May your next adventure be equally memorable.
 
 **Survival Campaign:**
 
-> *The campaign doesn't end. It transforms. From "save the world" to "survive the broken world." The Sundering continues—slower now, but unstoppable. Reality tears open randomly. Primordial entities wander through rifts. Geography changes monthly. Nothing is stable.*
+> *The campaign doesn't end. It transforms. From "save the world" to "survive the broken world." The Worldrend continues—slower now, but unstoppable. Reality tears open randomly. Primordial entities wander through rifts. Geography changes monthly. Nothing is stable.*
 
 **Your New Quest:**
 
@@ -8594,7 +8594,7 @@ May your next adventure be equally memorable.
 **Corvus's Fate:**
 
 *If survived:*
-> *He dedicates remaining life to finding solution. Eventually discovers way to create "stable zones"—areas where reality is reinforced, protected from the Sundering. Dies creating the first one, sacrificing himself to power the ward. His last words: "I broke the world. Let me fix one piece of it."*
+> *He dedicates remaining life to finding solution. Eventually discovers way to create "stable zones"—areas where reality is reinforced, protected from the Worldrend. Dies creating the first one, sacrificing himself to power the ward. His last words: "I broke the world. Let me fix one piece of it."*
 
 ---
 
@@ -8602,14 +8602,14 @@ May your next adventure be equally memorable.
 
 **The New Normal:**
 
-> *The Sundering has stopped expanding. Primordial entity defeated or sealed. But damage is permanent. The world is... different. Shattered. Tirvandor is now dozens of island-realities, connected by dangerous "between-spaces" where physics doesn't work.*
+> *The Worldrend has stopped expanding. Primordial entity defeated or sealed. But damage is permanent. The world is... different. Shattered. Tirvandor is now dozens of island-realities, connected by dangerous "between-spaces" where physics doesn't work.*
 
 **What Remains:**
 
 - Kaer Thandros (protected by massive magical wards)
 - Aethermere (sunk partially, now amphibious city)
 - Scattered settlements in stable zones
-- Perhaps 40% of pre-Sundering population
+- Perhaps 40% of pre-Worldrend population
 - New species entering through permanent rifts
 
 **Your Role:**
@@ -8731,7 +8731,7 @@ May your next adventure be equally memorable.
 - **Start:** Level 1
 - **After Quest 1.1:** Level 2
 - **After Quest 1.2:** Level 3
-- **After Quest 1.4 (Raven's Rest):** Level 4
+- **After Quest 1.4 (Raven's Keep):** Level 4
 - **End of Act I:** Level 5
 - **After Quest 2.1 (Black Archive):** Level 6
 - **After Quest 2.3 (Dragon Lair):** Level 7-8
@@ -8763,7 +8763,7 @@ May your next adventure be equally memorable.
 - Heroes celebrated as legends
 
 **Ending 2: Pyrrhic Victory**
-- Sundering partially triggered
+- Worldrend partially triggered
 - Thousands dead, continent damaged
 - Heroes succeeded but at terrible cost
 
@@ -8773,7 +8773,7 @@ May your next adventure be equally memorable.
 - Morally ambiguous "victory"
 
 **Ending 4: Tragic Defeat**
-- Second Sundering occurs
+- Second Worldrend occurs
 - Campaign becomes "survival in broken world"
 - Long-term campaign continues in post-apocalypse
 
@@ -8807,7 +8807,7 @@ May your next adventure be equally memorable.
 - Lord Shadows (make him sympathetic but dangerous)
 - Arcturus (neutral guide)
 - Professor Miranda (comic relief + lore)
-- King Thandris VII (conflicted ruler)
+- King Aldric IV (conflicted ruler)
 
 **Treasure:**
 - Generous magic items to prepare for epic battles
@@ -8826,7 +8826,7 @@ May your next adventure be equally memorable.
 **Total Content:**
 - 15 Major Quests
 - 30+ Combat Encounters
-- 3 Major Dungeons (Raven's Rest, Dragon Lair, Goldshore Manor)
+- 3 Major Dungeons (Raven's Keep, Dragon Lair, Goldshore Manor)
 - 1 Epic Final Battle
 - 7 New Monsters
 - 7 New Magic Items

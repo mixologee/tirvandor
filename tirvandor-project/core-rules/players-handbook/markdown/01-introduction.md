@@ -88,7 +88,7 @@ Your Dungeon Master will let you know which tools your group uses.
 
 ## ABOUT TIRVANDOR
 
-Tirvandor is a world divided by history, politics, and magic. A catastrophic event known as **The Sundering** tore the world in two, creating the **Sundering Sea** between two great continents.
+Tirvandor is a world divided by history, politics, and magic. A catastrophic event known as **The Worldrend** tore the world in two, creating the **Sundering Sea** between two great continents.
 
 **Thaldros** - An authoritarian empire ruled by the Iron Crown, where order and control reign supreme. Military discipline, strict laws, and centralized power define daily life.
 

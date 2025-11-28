@@ -13,7 +13,7 @@
 
 **Activation Progress:** ____% 
 
-⚠ **WARNING:** At 100%, Lord Shadows triggers Second Sundering!
+⚠ **WARNING:** At 100%, Lord Shadows triggers Second Worldrend!
 
 **Time Until Activation:** _______ sessions (estimated)
 
@@ -49,9 +49,9 @@
 
 **Political Balance:** □Thaldros □Aethoria □Balanced □Chaos
 
-### The Sundering Investigation
+### The Worldrend Investigation
 
-**Clues About Original Sundering:** ___/15
+**Clues About Original Worldrend:** ___/15
 
 - □ It was not natural
 - □ Weapon of mass destruction
@@ -76,7 +76,7 @@
 **Party Leaning Towards:**
 
 - □ Stop Lord Shadows at all costs (Traditional hero ending)
-- □ Help Lord Shadows get justice, then stop the Sundering (Grey ending)
+- □ Help Lord Shadows get justice, then stop the Worldrend (Grey ending)
 - □ Let him succeed - world deserves to burn (Dark ending)
 - □ Find third option - save both Corvus and the world (Best ending)
 

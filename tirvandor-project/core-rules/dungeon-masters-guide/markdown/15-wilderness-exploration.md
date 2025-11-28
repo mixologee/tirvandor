@@ -239,7 +239,7 @@ Ley Line Nexus:
 - Concentration: Disadvantage on checks
 - Duration: Until leave area (100 feet radius)
 
-Sundering Scar:
+Worldrend Scar:
 - Reality tears: Random planar effects
 - Warped gravity: Difficult terrain, random direction changes
 - Time distortion: 1 hour inside = 1d4 hours outside

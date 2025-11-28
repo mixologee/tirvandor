@@ -60,7 +60,7 @@
 ## 4. ANCIENT PRECURSOR RUINS (INTERIOR)
 **File:** ancient-precursor-ruins-interior.png  
 **Type:** High-tech ancient structure  
-**Use:** Act 3 - Discovering Sundering secrets  
+**Use:** Act 3 - Discovering Worldrend secrets  
 **Features:**
 - Glowing cyan runes and ley line channels
 - Four symmetrical chambers
@@ -72,7 +72,7 @@
 - Ancient Guardian (CR 8)
 - Prophecy Keeper (CR 6)
 - Environmental puzzles
-- Lore revelations about the Sundering
+- Lore revelations about the Worldrend
 
 ---
 

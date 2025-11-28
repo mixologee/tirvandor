@@ -75,13 +75,13 @@
 
 ### **Message From Aethoria**
 
-**Senator Valen (if still alive/employed):**
+**Envoy Valen (if still alive/employed):**
 
 **Read Aloud:**
 
 > *A republican messenger brings folded note:*
 >
-> *"Tomorrow, freedom fights tyranny. We're outmatched. We need every sword. Join Republican forces. Defend democracy. Payment: 3,000 gold plus eternal gratitude of free people. Stand with us. Stand for what's right. —Senator Valen"*
+> *"Tomorrow, freedom fights tyranny. We're outmatched. We need every sword. Join Republican forces. Defend democracy. Payment: 3,000 gold plus eternal gratitude of free people. Stand with us. Stand for what's right. —Envoy Valen"*
 
 ---
 
@@ -184,9 +184,9 @@
 
 **Boss Fight:**
 
-**Senator Valen (if alive) + Republican Champions:**
+**Envoy Valen (if alive) + Republican Champions:**
 
-**Senator Valen** (CR 6, as previous stats)  
+**Envoy Valen** (CR 6, as previous stats)  
 **4 Republican Champions** (Veteran stats, CR 3 each)
 
 **Read Aloud:**
@@ -239,7 +239,7 @@
 
 **Read Aloud:**
 
-> *You stand with Aethoria defenders—outnumbered, outmatched, but not outspirited. Senator Valen addresses troops:*
+> *You stand with Aethoria defenders—outnumbered, outmatched, but not outspirited. Envoy Valen addresses troops:*
 >
 > *"They have more soldiers. Better armor. Royal gold. We have something they don't: we're fighting for our freedom. Today, we prove democracy is worth dying for. For the Republic!"*
 >
@@ -379,7 +379,7 @@
 
 **Read Aloud:**
 
-> *"While they slaughter each other, we steal what matters. King Thandris VII carries Component #4 as protective talisman. General Marcus Vale (Aethoria) has Component #5. They don't know what they carry.*
+> *"While they slaughter each other, we steal what matters. King Aldric IV carries Component #4 as protective talisman. General Marcus Vale (Aethoria) has Component #5. They don't know what they carry.*
 >
 > *You infiltrate both sides during battle chaos. Steal both Components. Bring them to me. I'll perform the ritual.*
 >
@@ -403,7 +403,7 @@
 
 **Encounter:**
 
-**King Thandris VII** (CR 9, uses Archmage stats with protection spells)
+**King Aldric IV** (CR 9, uses Archmage stats with protection spells)
 
 **PCs can:**
 - **Stealth steal:** Pickpocket during battle chaos
@@ -633,7 +633,7 @@
 
 **Attendees:**
 - Commander Dawnblade (Thaldros)
-- Senator Valen (Aethoria)
+- Envoy Valen (Aethoria)
 - PCs (mediators)
 - Witnesses
 

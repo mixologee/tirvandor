@@ -639,7 +639,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 *Military clerics who serve as battlefield healers, morale officers, and spiritual guardians of armies*
 
-War Chaplains are combat clerics attached to military units. Found in both Thaldros and Aethoria (and as mercenaries in the Border), they bless troops before battle, heal the wounded in the thick of combat, and provide spiritual strength to soldiers facing death.
+War Chaplains are combat clerics attached to military units. Found in both Thaldros and Aethoria (and as mercenaries in the frontier), they bless troops before battle, heal the wounded in the thick of combat, and provide spiritual strength to soldiers facing death.
 
 ### **DOMAIN SPELLS**
 
@@ -1424,7 +1424,7 @@ These oaths represent the ideological conflict at the heart of Tirvandor!
 
 *Neutral scouts who patrol the contested frontier between nations*
 
-Border Wardens are the eyes and ears of the contested lands, patrolling the dangerous frontier between Thaldros and Aethoria. They're neutral by necessity—attacking any army that threatens the Border's fragile ecosystem.
+Border Wardens are the eyes and ears of the contested lands, patrolling the dangerous contested frontier. They're neutral by necessity—attacking any army that threatens the Border's fragile ecosystem.
 
 ### **WARDEN MAGIC (3RD LEVEL)**
 

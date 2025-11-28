@@ -34,8 +34,8 @@
 
 **From Government:**
 - Commander Helena Dawnblade
-- Senator Marcus Valen
-- King Thandris VII (if alive)
+- Envoy Marcus Valen
+- King Aldric IV (if alive)
 - Various nobles and politicians
 
 **From Your Past:**

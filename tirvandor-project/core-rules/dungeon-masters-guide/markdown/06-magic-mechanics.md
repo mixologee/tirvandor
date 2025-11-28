@@ -229,11 +229,11 @@ Cooperation:
 
 ### Example Artifacts
 
-The Sundering Blade (Legendary longsword)
+The Worldrend Blade (Legendary longsword)
 - +3 weapon, 3d8 extra force damage
 - Once per day: Cast *disintegrate* (DC 19)
 - Sentience: Int 16, Wis 14, Cha 18, LN alignment
-- Goal: Prevent second Sundering
+- Goal: Prevent second Worldrend
 - Personality: Stoic, values order and sacrifice
 
 The Forgotten Crown (Legendary artifact)

@@ -203,11 +203,11 @@
 #### **Option 2: SWITCH TO AETHORIA**
 
 **Actions:**
-- Contact Senator Valen
+- Contact Envoy Valen
 - Offer to defect with intelligence
 - Join Aethoria cause
 
-**Senator Valen's Response:**
+**Envoy Valen's Response:**
 > *"Thaldros betrayed you? I'm not surprised. They devour their own. Join us. We'll protect you. Plus, your intelligence on Thaldros operations is invaluable. Welcome to the Republic."*
 
 **Consequences:**
@@ -287,7 +287,7 @@
 **Senate Internal Memo (appears authentic):**
 
 > **FROM:** Senator Council Leadership  
-> **TO:** Senator Valen  
+> **TO:** Envoy Valen  
 > **RE:** Post-War Governance Structure  
 >
 > *Once victory secured, initiate Phase Two: Democratic Consolidation.*

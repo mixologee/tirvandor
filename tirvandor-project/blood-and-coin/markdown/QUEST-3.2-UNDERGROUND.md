@@ -612,7 +612,7 @@ PCs become Unbound leadership. Help execute Operation Collapse. Enable tyranny. 
 **Investigation DC 14:**
 > *10 coordinated attacks:*
 > - *Thaldros Royal Palace*
-> - *Aethoria Senate Building*  
+> - *Aetheran Council Building*  
 > - *5 major trade hubs*
 > - *3 military installations*
 >

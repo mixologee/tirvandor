@@ -83,7 +83,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 
 ### **If Working For Aethoria:**
 
-**Senator Valen (if still employed):**
+**Envoy Valen (if still employed):**
 > *"Thaldros keeps evidence of their crimes in the vault—including proof of manufactured atrocities. We need those documents to turn public opinion. Also, military intelligence. Payment: 3,000 gold plus whatever you find."*
 
 ### **If Working For Unbound:**
@@ -668,7 +668,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 >
 > *You read with growing horror:*
 >
-> *"Agreed. Border skirmishes will justify military buildup. Casualties acceptable. Public opinion will demand action."*
+> *"Agreed. Naval skirmishes will justify military buildup. Casualties acceptable. Public opinion will demand action."*
 >
 > *"Confirmed. Assassination attempt staged. Blame enemy. This should suffice for war declaration."*
 >

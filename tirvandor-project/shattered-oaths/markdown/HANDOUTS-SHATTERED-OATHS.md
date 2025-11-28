@@ -12,7 +12,7 @@
 When shadows rise where light once stood,
 When noble blood turns dark for good,
 When two made one are torn apart,
-The Sundering's child will claim his heart.
+The Worldrend's child will claim his heart.
 
 Three fragments whole, three truths revealed,
 Three paths to walk, three fates are sealed.
@@ -26,7 +26,7 @@ Unless the oath is spoken twice.
 
 [Ancient elven runes below, untranslatable]
 [Weathered stone, cracked down the middle]
-[Dated: Pre-Sundering Era]
+[Dated: Pre-Worldrend Era]
 
 ═══════════════════════════════════════════
 ```
@@ -182,7 +182,7 @@ CURRENT EVENTS:
 • Trade wars and political intrigue
 • Rumors of dark magic rising
 • Ancient evils awakening
-• Prophecies of a Second Sundering
+• Prophecies of a Second Worldrend
 
 Your adventure begins NOW.
 

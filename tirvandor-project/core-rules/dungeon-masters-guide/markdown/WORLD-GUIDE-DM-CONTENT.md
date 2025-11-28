@@ -35,7 +35,7 @@ All adventure hooks reference specific locations, NPCs, and local details.
 
 2. **Blackwood Heir Discovery** - A refugee in the Outer Ring has the Blackwood family crest tattooed on their shoulder. They don't know their heritage. House Silverleaf (rivals) learns this. Protect the heir? Let them die? Help them reclaim their destroyed estate in the Ruined Quarter?
 
-3. **Great Library Theft** - A tome containing pre-Sundering ritual magic was stolen from the Restricted Section. Library Director Valandril is frantic. The thief left notes: "The truth about the Circle of Seven must be known." Chase leads through Scholar's District to smugglers in the Port Quarter.
+3. **Great Library Theft** - A tome containing pre-Worldrend ritual magic was stolen from the Restricted Section. Library Director Valandril is frantic. The thief left notes: "The truth about the Circle of Seven must be known." Chase leads through Scholar's District to smugglers in the Port Quarter.
 
 4. **Fey Court Summons** - A portal opens in the Moonwell Garden. Fey emissaries demand House Silverleaf fulfill an ancient pact: Return the Singing Grove to Feywild or face consequences. The Grove is where half the population lives. Negotiate, fight, or find the original pact terms.
 
@@ -67,7 +67,7 @@ All adventure hooks reference specific locations, NPCs, and local details.
 
 **Adventure Hooks:**
 
-1. **The Salvage War** - Both Goldreach and Crystalbrook hired salvage teams for pre-Sundering vaults beneath Sundering Sea. Now both cities claim ownership. Ships clash in neutral waters. Harbor Master Tobias desperately needs diplomatic solution before full naval war.
+1. **The Salvage War** - Both Goldreach and Crystalbrook hired salvage teams for pre-Worldrend vaults beneath Sundering Sea. Now both cities claim ownership. Ships clash in neutral waters. Harbor Master Tobias desperately needs diplomatic solution before full naval war.
 
 2. **Kraken Attack Pattern** - Seven ships sunk in two weeks near the Harbor District. Sailors report: Kraken attacks only Goldshore-owned vessels. Investigation reveals: Lady Serina Goldshore's rival cousin hired a kraken cult in the Slums to ruin her shipping business.
 

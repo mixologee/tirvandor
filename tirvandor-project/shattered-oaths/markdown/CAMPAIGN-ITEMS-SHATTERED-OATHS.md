@@ -39,7 +39,7 @@ Crafted by Corvus Blackwood when he made his pact with a Primordial entity of de
 The amulet whispers to its wearer during long rests, showing visions of injustice and corruption. Make a DC 15 Wisdom saving throw after each long rest. On a failure, you become convinced that systematic change requires drastic action. The curse can be removed by *Remove Curse* cast at 7th level or higher.
 
 **Destruction:**  
-The amulet can only be destroyed by exposing it to divine radiant energy from three different gods simultaneously, or by submerging it in Primordial essence at the exact location of a Sundering event.
+The amulet can only be destroyed by exposing it to divine radiant energy from three different gods simultaneously, or by submerging it in Primordial essence at the exact location of a Worldrend event.
 
 ---
 

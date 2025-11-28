@@ -24,7 +24,7 @@ But peace is fragile. Daily.
 
 > *One year has passed since you prevented the war. The Treaty of Judgment Border holds—barely.*
 >
-> *Thaldros and Aethoria coexist along an uneasy border. Trade resumed. Prisoners exchanged. Diplomatic relations established. From the outside, it looks like peace.*
+> *The frontier territories exist in uneasy peace with the Crown. Trade resumed. Prisoners exchanged. Diplomatic relations established. From the outside, it looks like peace.*
 >
 > *From the inside? You know better. You're the official Peacekeepers—neutral mediators appointed by both kingdoms. Every week brings new crises. Border disputes. Trade disagreements. Assassination attempts. Diplomatic incidents.*
 >
@@ -281,13 +281,13 @@ Aethoria merchant ship seized by Thaldros navy for "illegal goods." Aethoria dem
 
 **What Happened:**
 
-Someone tried to assassinate Senator Valen during peace summit. Aethoria blames Thaldros. Thaldros denies it. Summit collapsing.
+Someone tried to assassinate Envoy Valen during peace summit. Aethoria blames Thaldros. Thaldros denies it. Summit collapsing.
 
 ### **The SCENE**
 
 **Read Aloud:**
 
-> *You arrive at the summit building to chaos. Senator Valen is alive—barely. Crossbow bolt missed his heart by inches. He's conscious, bleeding, furious.*
+> *You arrive at the summit building to chaos. Envoy Valen is alive—barely. Crossbow bolt missed his heart by inches. He's conscious, bleeding, furious.*
 >
 > *Valen: "Thaldros tried to kill me! So much for peace!"*
 >
@@ -463,7 +463,7 @@ This quest establishes Act III pattern: constant crisis management.
 **Add these:**
 
 1. **Thaldros Border Captain Marcus Stone** (Knight, CR 3) - nervous, hiding guilt
-2. **Aethoria Border Lieutenant Sara Brightwind** (Veteran, CR 3) - righteous anger
+2. **Frontier Lieutenant Sara Brightwind** (Veteran, CR 3) - righteous anger
 3. **Thaldros Admiral Viktor Seaworth** (Knight, CR 5) - rigid, lawful
 4. **Aethoria Diplomat Chen Aldermist** (Noble, CR 2) - idealist
 5. **Brother Ash** (Unbound Agitator, Priest, CR 7) - if captured

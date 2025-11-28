@@ -50,7 +50,7 @@ The following are designated as Product Identity under the Open Game License v1.
 - All deity names, domains, and mythologies specific to Tirvandor
 
 ### Historical Events
-- The Sundering
+- The Worldrend
 - The Age of Chains
 - All timeline events and historical narratives specific to Tirvandor
 

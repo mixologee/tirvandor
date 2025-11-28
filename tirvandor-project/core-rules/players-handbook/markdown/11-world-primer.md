@@ -36,7 +36,7 @@ The lawless region between Thaldros and Aethoria where neither side holds contro
 
 ### THE SUNDERING SEA
 
-The magical sea that separates the two continents, created by the catastrophic Sundering event 800 years ago. Difficult to cross, full of magical anomalies.
+The magical sea that separates the two continents, created by the catastrophic Worldrend event 800 years ago. Difficult to cross, full of magical anomalies.
 
 ---
 
@@ -44,7 +44,7 @@ The magical sea that separates the two continents, created by the catastrophic S
 
 ### THE AGE OF UNITY (Ancient Past)
 
-Before the Sundering, Tirvandor was one unified land. The details are lost to time, but legends speak of a golden age.
+Before the Worldrend, Tirvandor was one unified land. The details are lost to time, but legends speak of a golden age.
 
 ### THE SUNDERING (800 Years Ago)
 
@@ -52,7 +52,7 @@ A catastrophic magical event tore the world in two, creating the Sundering Sea. 
 
 ### THE AGE OF CHAINS (700-400 Years Ago)
 
-Following the Sundering, warlords and tyrants rose to power. Might made right, and common folk suffered under brutal rule.
+Following the Worldrend, warlords and tyrants rose to power. Might made right, and common folk suffered under brutal rule.
 
 ### THE LIBERATION (400 Years Ago)
 
@@ -76,7 +76,7 @@ Magic in Tirvandor flows through **ley lines** - natural channels of magical ene
 
 - Visible to those trained to see them
 - Enhance spellcasting when tapped into
-- Connect to the world's creation and the Sundering
+- Connect to the world's creation and the Worldrend
 - Converge at nexus points of immense power
 - Unstable in the Contested Lands
 
@@ -200,7 +200,7 @@ Rare languages:
 
 As a resident of Tirvandor, your character would know:
 - Basic geography and city names
-- The Sundering happened 800 years ago
+- The Worldrend happened 800 years ago
 - Thaldros vs Aethoria political tension
 - Ley lines are sources of magic
 - The Seven Primordials are the gods
@@ -210,7 +210,7 @@ As a resident of Tirvandor, your character would know:
 Your character might NOT know:
 - Detailed ancient history
 - Inner workings of governments
-- Secrets of the Sundering
+- Secrets of the Worldrend
 - Hidden locations or conspiracies
 - Advanced ley line theory
 - Faction secrets

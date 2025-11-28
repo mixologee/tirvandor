@@ -411,7 +411,7 @@
 
 ---
 
-### **Senator Marcus Valen**
+### **Envoy Marcus Valen**
 *Medium humanoid (human), neutral good*
 
 **Role:** Aethoria political leader, faction leader  
@@ -734,7 +734,7 @@
 ### **Lieutenant Sara Brightwind**
 *Medium humanoid (human), lawful good*
 
-**Role:** Aethoria border officer  
+**Role:** Frontier border officer  
 **Challenge:** 3 (700 XP)  
 **Location:** Judgment Border
 
@@ -988,7 +988,7 @@
 **CR 3:** Elise Consortium, Marcus Blackwood, Captain Sarah Vale, Lt Sara Brightwind, Captain Stone  
 **CR 4:** Lord Pembroke, Prosecutor Brand, Elara Corvus (base)  
 **CR 5:** Varak Ironfist, Captain Aldric Thorne, Master Thief Whisper, Magistrate Ravens, Admiral Viktor  
-**CR 6:** Kael Shadowbane, Senator Marcus Valen  
+**CR 6:** Kael Shadowbane, Envoy Marcus Valen  
 **CR 7:** Red Wolf, General Marcus Thorne, Brother Ash  
 **CR 8:** Razor  
 **CR 9:** Elise "The Reaper" Thornwood  

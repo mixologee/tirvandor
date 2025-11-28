@@ -77,7 +77,7 @@ DON'T:
 
 ### THE BORDER REGION
 Where You Operate:
-The Border is a 50-mile-wide strip of contested land between the Thaldros Kingdom's central authority and the independent frontier territories. Neither side fully controls it, making it a haven for:
+The Border is a 50-mile-wide strip of frontier land where the Thaldros Crown's authority fades and independent settlements govern themselves. Neither side fully controls it, making it a haven for:
 Mercenaries (like you)
 Smugglers and traders
 Refugees from both Kingdom and frontier
@@ -86,7 +86,7 @@ Independent settlements
 The Conflict:
 The Thaldros Kingdom wants to bring the frontier under royal control, while the frontier territories fight to remain independent. Neither can afford full-scale war, so they use mercenaries, economic pressure, and political maneuvering. The Border is where this cold war plays out.
 The International Angle:
-Across the Sundering Sea, the Republic of Aethoria watches this internal conflict with great interest. Some frontier leaders have ties to Aethoria and look to them as a model of independence from monarchy. Meanwhile, rising tensions between Thaldros Kingdom and Aethoria over trade routes and old grudges mean both nations may soon recruit heavily from the Border's experienced mercenaries. You're caught in the middle of both an internal and international conflict.
+The frontier territories watch this conflict carefully, weighing their options. Some leaders dream of true independence, others seek better terms with the Crown. Rumors say Aethoria across the Sundering Sea watches with interest, perhaps seeing opportunity in Thaldros divided against itself.
 Major Border Towns:
 Crossroads (Population: 3,000)
 Largest Border settlement
