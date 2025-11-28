@@ -256,7 +256,7 @@
   - #### [{{ Age of Dawn (6,000-3,000 BS)}}{{ 32}}](#p33)
     - [{{ Timeline}}{{ 32}}](#p33)
     - [{{ Key Developments}}{{ 32}}](#p33)
-  - #### [{{ The Sundering (3,000 BS / Year 0)}}{{ 32}}](#p33)
+  - #### [{{ The Worldrend (3,000 BS / Year 0)}}{{ 32}}](#p33)
     - [{{ What Happened}}{{ 32}}](#p33)
     - [{{ Theories About the Cause}}{{ 32}}](#p33)
     - [{{ Immediate Effects}}{{ 33}}](#p34)
@@ -2950,7 +2950,7 @@ AGE OF MYTH          AGE OF DAWN         AGE OF STRIFE        AGE OF KINGDOMS
 (Pre-history)        (6000-3000 BS)      (0-600 CR)          (600-1247 CR)
      |                     |                    |                    |
      ↓                     ↓                    ↓                    ↓
-  ????????           United World         THE SUNDERING        Modern Era
+  ????????           United World         THE WORLDREND        Modern Era
    Dragons            Elf/Dwarf            World Splits       Two Kingdoms
    Giants             Rise of Humans       3000 Years Ago      Cold War
 
@@ -2959,20 +2959,20 @@ AGE OF MYTH          AGE OF DAWN         AGE OF STRIFE        AGE OF KINGDOMS
      -15,000 BS      -6000 BS    -3000 BS        0          +600 CR    +1247 CR
         |               |            |            |             |           |
         |               |            |            |             |          NOW
-     DRAGONS         ELVES        UNITED      SUNDERING    STABILIZE   CURRENT
+     DRAGONS         ELVES        UNITED      WORLDREND    STABILIZE   CURRENT
       RULE           RISE         WORLD        SPLITS      KINGDOMS      ERA
 ```
 }}
 ## History of Tirvandor at a Glance
 
 **Current Year:** 1247 CR (Common Reckoning)  
-**The Sundering:** Year 0 (3,000 years ago)
+**The Worldrend:** Year 0 (3,000 years ago)
 
 ::
 
 ## Calendar System
 
-**Before Sundering (BS)** → Years before the catastrophe  
+**Before Worldrend (BS)** → Years before the catastrophe  
 **Common Reckoning (CR)** → Years after the catastrophe
 
 **Current Date:** 1247 CR = 3,000 years after the world split
@@ -3034,7 +3034,7 @@ Golden age of knowledge and culture
 
  ::
 
-## The Sundering (3,000 BS / Year 0)
+## The Worldrend (3,000 BS / Year 0)
 
 **The Catastrophe That Split the World**
 
@@ -3110,7 +3110,7 @@ Wild magic surges for decades
 - Continuous aftershocks and eruptions
 - Famine and plague
 - Civilization near-collapse
-- More deaths from aftermath than Sundering itself
+- More deaths from aftermath than Worldrend itself
 
 **51-100 CR: Survival Mode**
 - Refugees everywhere
@@ -3158,7 +3158,7 @@ Wild magic surges for decades
 ### Major Periods
 
 **600-800 CR: The Recovery**
-- Cities rebuilt to pre-Sundering levels
+- Cities rebuilt to pre-Worldrend levels
 - Knowledge recovery (libraries, archives)
 - Cultural renaissance
 - Economy flourishes
@@ -3235,7 +3235,7 @@ Wild magic surges for decades
 
 ## Important Dates to Remember
 
-**3,000 Years Ago (Year 0):** THE SUNDERING  
+**3,000 Years Ago (Year 0):** THE WORLDREND  
 - World split in two
 - Millions died
 - Everything changed
@@ -3260,12 +3260,12 @@ Wild magic surges for decades
 
 ## Generational Perspective
 
-**How long ago was the Sundering?**
+**How long ago was the Worldrend?**
 
 **In Elf Years:**
 - About 6-7 elf lifespans
 - Some elves alive remember great-grandparents who survived it
-- High Queen Aelindra: born 760 years AFTER Sundering
+- High Queen Aelindra: born 760 years AFTER Worldrend
 
 **In Human Years:**
 - About 30-40 generations
@@ -3300,7 +3300,7 @@ Wild magic surges for decades
 
 **Historical Hooks:**
 - Ancient ruins from Age of Dawn
-- Artifacts from before the Sundering
+- Artifacts from before the Worldrend
 - Family grudges from Age of Strife
 - Prophecies about reunification
 
@@ -3312,7 +3312,7 @@ Wild magic surges for decades
 |-----|-------|--------|-------------|
 | **Age of Myth** | Pre-history | Legendary | Dragons & Giants rule |
 | **Age of Dawn** | 6000-3000 BS | United | Mortal races rise |
-| **THE SUNDERING** | Year 0 | CATASTROPHE | World splits in two |
+| **THE Worldrend** | Year 0 | CATASTROPHE | World splits in two |
 | **Age of Strife** | 0-600 CR | Chaos | War and survival |
 | **Age of Kingdoms** | 600-1247 CR | Stable | Modern era |
 | **NOW** | 1247 CR | Tense | Cold war |
@@ -3538,7 +3538,7 @@ The Campaign Dashboard is your **mission control** for running Tirvandor campaig
 
  Activation: [░░░░░░░░░░] ____%                      Party Knows ID: □ Yes   □ No          
 
- ⚠ At 100% = Second Sundering!                      Sympathy: □ Villain □ Tragic □ Just
+ ⚠ At 100% = Second Worldrend!                      Sympathy: □ Villain □ Tragic □ Just
 
  Time Remaining: _____ sessions                      He Knows Party Goal: □ Yes   □ No     
 
@@ -3556,7 +3556,7 @@ The Campaign Dashboard is your **mission control** for running Tirvandor campaig
                                                         Silverpine:  □ A  □ N  □ E  __/10   
 
 ═════════════════════════════════════════════════════════════════════════════════════════
- SUNDERING INVESTIGATION - Clues: ___/15              ENDGAME CHOICE                         
+ WORLDREND INVESTIGATION - Clues: ___/15              ENDGAME CHOICE                         
 
  □ Not Natural   □ Royal Knows   □ Blackwoods Framed  □ Stop Shadows at all costs (Hero)    
 
@@ -3821,7 +3821,7 @@ The Campaign Dashboard is your **mission control** for running Tirvandor campaig
 
 **What is Tirvandor?**
 
-Tirvandor is a world where magic flows through ancient ley lines like rivers beneath the earth, where two great continents were once joined until a catastrophic event known as the Sundering split them apart. Three thousand years later, the kingdoms of Thaldros and Aethoria remain divided—not by distance, but by pride, philosophy, and old wounds that refuse to heal.
+Tirvandor is a world where magic flows through ancient ley lines like rivers beneath the earth, where two great continents were once joined until a catastrophic event known as the Worldrend split them apart. Three thousand years later, the kingdoms of Thaldros and Aethoria remain divided—not by distance, but by pride, philosophy, and old wounds that refuse to heal.
 
 ---
 
@@ -3846,7 +3846,7 @@ Tirvandor is a world where magic flows through ancient ley lines like rivers ben
 
 **The Great Divide:**
 
-The kingdoms were once united under a single banner. Then came the Sundering—an arcane catastrophe that literally split the landmass in two. Each side blames the other. Each side has legitimate grievances. Both want reunification, but on their terms.
+The kingdoms were once united under a single banner. Then came the Worldrend—an arcane catastrophe that literally split the landmass in two. Each side blames the other. Each side has legitimate grievances. Both want reunification, but on their terms.
 
 **Thaldros Kingdom** (West - Humans)
 - **Ruler:** King Aldric IV Thandris
@@ -3921,7 +3921,7 @@ You don't have to join a faction, but understanding them helps navigate the worl
 
 **Personal Stakes:**
 - Your backstory can tie into world events
-- Family histories may span the Sundering
+- Family histories may span the Worldrend
 - Old grudges and ancient oaths drive conflicts
 
 ---
@@ -4008,7 +4008,7 @@ You don't have to join a faction, but understanding them helps navigate the worl
 **Consider these questions:**
 
 **Family & History:**
-- Does your family remember the Sundering?
+- Does your family remember the Worldrend?
 - Do you have relatives on the "other side"?
 - Were ancestors involved in the catastrophe?
 
@@ -5299,7 +5299,7 @@ Encounter Frequency:
 - Activation = world ends
 - CAMPAIGN MACGUFFIN
 
-"The Sundering made real.
+"The Worldrend made real.
 
 *Campaign: Shattered Oaths*
 
@@ -5705,7 +5705,7 @@ These are unique items from Tirvandor lore:
 2. Amulet of the Black Raven (Lord Shadows' focus)
 3. Crown of the Depths (Goldshore heirloom)
 4. Obsidian Keystone (controls volcanic seals)
-5. Fragments of the Sundering (reality-breaking shards)
+5. Fragments of the Worldrend (reality-breaking shards)
 
 {{pageNumber,auto}}
 {{footnote MAGIC ITEMS}}
