@@ -11552,6 +11552,9 @@ ___
 
 ### Physical Description
 Average height (5'10", 180 lbs) but powerfully built from years of hauling grain sacks and working machinery. Flour dust permanently stains his clothes and hair white, making him look older. Practical brown work clothes always covered in flour. Strong hands with blacksmith-like grip strength. Brown eyes that constantly assess mechanical workings. Short practical hair usually white with flour. Clean-shaven face dusted with flour. Smells of fresh flour, water, and machine oil. Moves with efficiency of someone used to dangerous machinery.
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 ### Equipment
 - **Armor:** Padded Leather Apron (AC 11, protects against flour dust, sparks)
@@ -11594,7 +11597,7 @@ Traits
 - Distrusts magic (prefers mechanical solutions)
 - Sometimes ignores family for mill work
 - Paranoid about sabotage after previous incident
-
+\column
 ### Background & History
 The Waterwheel mill has ground grain for the village of Millbrook for two hundred years. Tobias is the fifth generation to run it, and possibly the last—his sons have left for city trades, and his daughter shows no interest in flour-dusted labor.
 
@@ -11609,9 +11612,6 @@ But lately, something is wrong with the river. Fish are dying, the water tastes 
 - **Friend:** Forester Galen Sustainharvest (shares concerns about the land)
 - **Worry:** Whatever is poisoning the river
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -11628,6 +11628,9 @@ But lately, something is wrong with the river. Fish are dying, the water tastes 
 3. **The Secret Keeper:** Has information the party needs. Might share if asked right.
 4. **The Daughter's Trouble:** Sarah is in some kind of difficulty. Needs discrete help.
 5. **The Mill Defense:** Something is threatening the mill. Needs capable fighters.
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 ### Roleplaying Notes
 - Constantly wipes flour from hands
@@ -11694,6 +11697,9 @@ ___
 
 ### Physical Description
 Elegant and commanding presence (5'8", 145 lbs) with the poise of generations of nobility. Auburn hair worn in practical noble style, sometimes covered with silk scarf. Striking green eyes that assess people instantly. Fair skin despite outdoor work managing estates. Wears practical but expensive clothing—reinforced silk that looks decorative but allows movement. Always carries rapier at hip, though she makes it look decorative. Moves with fencer's grace. Smells of rose water and parchment. Hands show evidence of both sword practice and ledger work.
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 ### Equipment
 - **Armor:** Fine Studded Leather (AC 14, disguised as fashionable clothing)
@@ -11753,9 +11759,6 @@ She's transformed her domain into a model of efficient governance: roads maintai
 - **Ally:** Various reform-minded nobles
 - **Goal:** The High Council seat
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -11772,6 +11775,9 @@ She's transformed her domain into a model of efficient governance: roads maintai
 3. **The Heir Search:** Looking for the right person to adopt. Might test party members.
 4. **The Reform Proposal:** Working on major governance reform. Needs allies to push it through.
 5. **The Intelligence Trade:** Has information the party needs. Willing to trade.
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 ### Roleplaying Notes
 - Stands straight, shoulders back, even when tired
@@ -11850,6 +11856,9 @@ ___
 *"I protect this frontier from monsters. The irony isn't lost on me."*
 }}
 
+{{pageNumber,auto}}
+\page
+
 ### Physical Description
 (Human Form)
 Rugged and battle-hardened (6'1", 200 lbs) with the weathered look of frontier life. Dark brown hair kept military short. Intense gray eyes that sometimes flash amber in moonlight. Strong jawline with short beard showing early gray. Multiple scars across face and arms from frontier combat. Moves with controlled power, like a caged wolf. Wears half-plate that's seen heavy use but is meticulously maintained. Smells of leather, steel, and wild places. Carries himself with authority but growing weariness.
@@ -11911,6 +11920,9 @@ Marcus was a promising young captain in the border guard when the werewolf pack 
 Twenty years later, he's done the impossible—maintained his humanity while using his lycanthropy to protect the frontier. The wild lands are full of creatures that normal soldiers can't fight; Marcus can. He operates alone, reporting to commanders who officially don't know what he is.
 
 He's not cured—there's no cure. But he's found equilibrium: running wild during full moons in unpopulated areas, taking wolfsbane to maintain control, and channeling the predator inside toward protecting the helpless. It costs him everything else. He has no family, few friends, and no hope of a normal life.
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 ### Connections
 - **Chain of Command:** Reports to Commander Kael Stormwatcher (knows the truth)
@@ -11918,10 +11930,6 @@ He's not cured—there's no cure. But he's found equilibrium: running wild durin
 - **Ally:** Hermit Sage Morganna Whisperwind (provides wolfsbane)
 - **Enemy:** The werewolf pack that turned him (still hunting them)
 - **Self:** The beast within
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -11970,7 +11978,7 @@ ___
 **Armor Class** :: 18 (natural armor in hybrid form)
 **Hit Points** :: 142 (17d10 + 51)
 **Speed** :: 40 ft. (50 ft. in hybrid or wolf form)
-![The Silver Wolf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/core-rules/dungeon-masters-guide/images/npcs/tirvandor-npc-the-silver-wolf.jpg){width:325px,mix-blend-mode:multiply}
+![The Silver Wolf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/core-rules/dungeon-masters-guide/images/npcs/tirvandor-npc-the-silver-wolf.jpg){width:255px,mix-blend-mode:multiply}
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -11983,6 +11991,7 @@ ___
 **Languages** :: Common, Sylvan, understands Druidic
 **Challenge** :: 10 (5,900 XP)
 ___
+### Actions
 ***Shapechanger (Master).*** :: Can transform between human, hybrid, and wolf forms as a bonus action. Can maintain hybrid form indefinitely. Has complete control during all moon phases.
 ***Perfect Control.*** :: Immune to forced transformations. Never loses control to beast instincts. Can voluntarily fail saves to resist transformation if desired.
 ***Keen Senses (All Forms).*** :: Advantage on Perception checks using hearing or smell. Can track by scent alone, identifying individual scents up to 24 hours old.
@@ -12012,10 +12021,6 @@ ___
 ***Hit.*** :: 3d8+5 piercing damage. Target must succeed DC 16 Constitution save or be cursed with werewolf lycanthropy (only if Aldren wishes).
 ***Pounce.*** :: If moves 30 ft. toward target and hits with bite, target must succeed DC 17 Strength save or be knocked prone. Can make another bite as bonus action.
 ***Pack Leader's Call (1/Day).*** :: Summons 2d4 wolves (CR 1/4 each) that arrive in 1d4 rounds and obey his commands for 1 hour.
-### Actions
-***Uncanny Dodge.*** :: When attacker he can see hits him with attack, can halve the damage.
-***Savage Riposte.*** :: When creature misses him with melee attack, can immediately make claw attack against them.
-***Protective Pounce.*** :: When ally within 30 ft. is attacked, can move up to half speed and impose disadvantage on attack roll.
 ### Reactions
 ***Uncanny Dodge.*** :: When attacker he can see hits him with attack, can halve the damage.
 ***Savage Riposte.*** :: When creature misses him with melee attack, can immediately make claw attack against them.
@@ -12029,6 +12034,9 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 **Transform (Costs 1).** :: Changes between forms.
 *"The curse is not evil. The man makes that choice, not the beast."*
 }}
+
+{{pageNumber,auto}}
+\page
 
 ### Physical Description
 **(Human Form - Rarely Seen):**
@@ -12522,7 +12530,7 @@ ___
 *"Every tale deserves to be told, every song to be sung. Even the sad ones. Especially the sad ones."*
 }}
 {{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
+
 \page
 
 ### Physical Description
@@ -12685,6 +12693,9 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 **Scrying Glimpse (Costs 2).** :: Uses scrying to observe a distant location for 1 minute (must have been there before).
 *"I have read every book worth reading twice. Some truths are found only in silence."*
 }}
+
+{{pageNumber,auto}}
+\page
 
 ### Physical Description
 Ancient and frail appearance (5'5", 110 lbs) despite magical longevity. Impossibly old for a human—312 years through magic and fey bargains. Hair is pure white, long and wild, often escapes from loose bun. Pale, paper-thin skin with age spots and wrinkles mapping centuries of study. Eyes are milky white (blind) but "see" through magical sight. Moves slowly, leaning on quarterstaff. Wears dusty gray robes covered in pockets containing scrolls, herbs, and oddities. Thick spectacles for reading (purely aesthetic, she "sees" magically). Smells of old parchment, dried lavender, and ancient dust. Trembling hands from age but mind is sharp as ever.
@@ -12850,6 +12861,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Magic is not power. It is responsibility. Those who forget this truth become tyrants or corpses."*
 }}
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 ### Physical Description
 Tall and slender (6'1", 145 lbs) with the timeless grace of high elves. Silver-white hair worn long and loose, often floating slightly as if in an invisible breeze. Eyes shift color with his mood - blue when calm, violet when using divination, gold when angry. Pale, ageless features marked with faint runic tattoos along his temples (warding glyphs). Wears flowing robes of deep midnight blue with silver star patterns that actually twinkle. The Starlight Staff pulses with gentle light and is never far from his hand.
 
@@ -12927,6 +12942,10 @@ Traits
 - **Allied** (after 5+ quests): Shares critical information, major support
 - **Confidant** (late campaign): Reveals full knowledge of Unbound, recruits party for final missions
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 **Secrets He Can Reveal:**
 - Lord Shadows Blackwood's true identity and motivations
 - Location of pre-Worldrend artifacts
@@ -12959,10 +12978,6 @@ Despite his power, Veridian is approachable and patient with students. He rememb
 - **The Circle of Eight:** Rumored member, though he neither confirms nor denies
 - **High Diviner Celestia Starborn:** His successor as head of Divination, though they disagree on methodology
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **Circle Membership:** He is indeed one of the Circle of Eight, though the organization operates more loosely than legends suggest.
@@ -12981,7 +12996,6 @@ Despite his power, Veridian is approachable and patient with students. He rememb
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
 {{monster,frame,wide
@@ -13029,6 +13043,11 @@ ___
 
 ### Physical Description
 Average height (5'6", 135 lbs) with an energetic, purposeful demeanor. Brown hair usually tied back in a practical bun, often with a quill stuck through it. Sharp hazel eyes behind round spectacles that seem to analyze everything. Wears practical scholar's robes in university colors (deep green and gold) with many pockets for note-taking supplies. Always has ink stains on her fingers. Carries a worn leather satchel full of books and papers. Moves with nervous energy, often gesturing enthusiastically when explaining discoveries.
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 
 ### Equipment
 - **Armor:** Bracers of Defense (AC 13 + Dex)
@@ -13087,10 +13106,6 @@ Her methodology is controversial in academic circles. She believes in getting he
 - **Tomb Raiders Guild:** Complicated relationship—she buys from them while publicly condemning them
 - **Research Assistants:** A rotating cast of graduate students who emerge from her expeditions either traumatized or transformed
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Forbidden Dig:** Found a pre-Worldrend site five years ago that she's kept secret because what's there is too dangerous to excavate.
@@ -13099,6 +13114,10 @@ Her methodology is controversial in academic circles. She believes in getting he
 4. **The Artifact Collection:** Has a private collection of artifacts too dangerous or valuable to document publicly.
 5. **Worldrend Knowledge:** Believes she knows what caused the Worldrend, but the implications are so disturbing she's never published her findings.
 }}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 ### Plot Hooks
 1. **The Forbidden Site:** She's finally ready to excavate, but needs a capable team to handle what's down there.
@@ -13230,6 +13249,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 **Exploit Weakness (Costs 2).** :: One ally gains advantage on their next attack against Kael's marked target.
 *"Dragons aren't evil. They're territorial, predatory, and incredibly dangerous. Rather like humans, honestly."*
 }}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 ### Physical Description
 Weathered and scarred (6'2", 210 lbs of muscle), every inch the veteran monster hunter. Left eye covered by dark leather eye patch with brass fittings, lost to dragon acid. Face marked with three parallel scars across right cheek (dragon claw). Short brown hair going gray at temples, kept practical. Wears dragon scale armor that's clearly seen heavy use, polished but dented. Moves with economy of motion - no wasted movement. His one remaining eye is steel-gray and misses nothing. Dragonpiercer sword always at his hip, dragonbone bow across his back. Smells faintly of dragon musk and woodsmoke.
@@ -13444,22 +13467,11 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 **Healing Touch (Costs 2).** :: Uses Lay on Hands to heal an ally within touch range (up to 20 HP).
 **Divine Command (Costs 2).** :: Casts Command without expending a spell slot.
 **Inspire (Costs 3).** :: All allies within 30 ft. gain temporary HP equal to her Charisma modifier + paladin level (10 temp HP) and advantage on their next attack roll or saving throw.
-**ACTIONS.** :: 
-**Multiattack.** :: Makes two attacks with Dawnbreaker.
-**Dawnbreaker (Longsword +2).** :: Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
-**Hit.** :: 1d8+6 slashing damage (1d10+6 versatile) plus 2d6 radiant damage.
-**Special.** :: This legendary holy sword (formerly Paladin Radiant's) glows near betrayers and oathbreakers. Once per day can cast Daylight. Deals extra 2d6 radiant damage to undead and fiends (total 4d6).
-**Shield Bash.** :: Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
-**Hit.** :: 1d4+4 bludgeoning damage, target must succeed DC 16 Strength save or be knocked prone.
-**Javelin.** :: Ranged Weapon Attack: +8 to hit, range 30/120 ft.
-**Hit.** :: 1d6+4 piercing damage.
-**Cast a Spell.** :: Casts a prepared paladin spell.
-**REACTIONS.** :: 
-**Shield of Faith.** :: When an ally within 5 ft. is hit, can use reaction to impose disadvantage on attack roll or grant +2 AC against that attack (3/day).
-**Divine Retribution.** :: When hit by a melee attack, attacker takes 2d8 radiant damage (Charisma modifier/day, 5 uses).
 *"Justice without mercy is tyranny. Mercy without justice is weakness. We must be both."*
 }}
 
+{{pageNumber,auto}}
+\page
 ### Physical Description
 Tall and athletic (5'10", 165 lbs) with a commanding presence. Long auburn hair usually worn in a practical braid. Bright green eyes that shine with conviction. Wears gleaming silvered plate armor that's clearly well-maintained. A faint golden radiance surrounds her, especially noticeable in dim light. Dawnbreaker sword is always at her side, the blade catching light even in shadow. Moves with grace despite heavy armor. Has a small scar on her chin from training accident. Stands straight with natural authority - clearly someone used to being obeyed.
 
@@ -13595,7 +13607,6 @@ At forty-two, she's considered a rising star in the order—young enough to have
 - Knows Saint Celestine can manifest through her
 - Works with Admiral Marcus Truewind
 
----
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -13652,6 +13663,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 
 ### Physical Description
 Extremely old and frail (5'8", 120 lbs), appears ancient but eyes are sharp and clear. Long white hair and beard, both neatly trimmed. Deeply wrinkled face marked by decades of study. Wears simple brown robes covered in ink stains and aged parchment dust. Thick spectacles magnify intelligent hazel eyes. Moves slowly with walking staff, but mind is lightning-quick. Hands shake slightly but writing is still precise. Smells of old books, candle wax, and parchment.
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 ### Equipment
 - **Robes:** Simple scholar's robes (worn, ink-stained)
@@ -13710,10 +13725,6 @@ His current residence is a cluttered tower on the outskirts of Silverpine, fille
 - **The Circle of Eight:** Denies any connection but seems suspiciously well-informed about their activities
 - **Nobody knows his family:** He deflects all personal questions with practiced ease
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **True Age:** He is over eight hundred years old, sustained by a combination of elven blood (he's one-quarter elf), alchemical treatments, and a binding to a genius loci that anchors his life force.
@@ -13722,6 +13733,10 @@ His current residence is a cluttered tower on the outskirts of Silverpine, fille
 4. **Multiple Identities:** Has lived under dozens of names throughout history, each with its own documented life and death.
 5. **The Anchor's Price:** His life-sustaining connection requires a yearly ritual that he finds increasingly distasteful.
 }}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 ### Plot Hooks
 1. **The Critical History:** Something from his knowledge is suddenly relevant. He needs help acting on information he's kept secret for centuries.
@@ -13844,6 +13859,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 **Rally (Costs 3).** :: Uses Rallying Cry (if available) or all allies within 30 ft. can make a DC 10 Wisdom save to end one condition affecting them.
 *"The sea unites what politics divides. My ships sail for all people, not one crown."*
 }}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 ### Physical Description
 Tall and powerfully built (6'3", 220 lbs) with the weathered look of a lifelong sailor. Short dark hair graying at temples, kept neat despite sea spray. Piercing blue eyes that have seen both calm and storm. Weathered, tanned face with wind-carved lines. Neat beard trimmed to naval regulations. Wears a distinctive blue and gold naval officer's uniform (combines both kingdoms' colors). Stands with natural authority and perfect balance despite ship motion. Truewind's Cutlass always at his side. Smells of sea salt and tar.
@@ -14005,7 +14024,6 @@ His sailors worship him—he's fair, shares their hardships, and has pulled drow
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
 {{monster,frame,wide
@@ -14064,6 +14082,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Nature remembers all debts. All promises. All violations. Balance will be restored."*
 }}
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 ### Physical Description
 Massive firbolg (8'2", 380 lbs) covered in living moss and bark-like skin. Long hair and beard made of hanging vines and moss. Eyes are ancient, deep green like forest depths. Wears simple robes of woven grass that grow as he moves. Living wood staff is never put down. Smells of rich earth and pine. Moves with surprising grace for his size.
 
@@ -14091,10 +14113,6 @@ Age has slowed her—she walks with a staff now, and her transformations are les
 - **Mayor Elisandra Brightblade:** Political contact in Silverpine who respects the Green Pact
 - **Fey Contacts:** Various entities in the Feywild who share information and occasionally requests
 - **Professor Elara Moonwhisper:** Scholarly contact at the Arcanum who consults on celestial matters
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -14177,6 +14195,10 @@ Tobias grew up in Crossvale among mechanics, tinkers, and inventors—the kind o
 
 He studied briefly at the Arcanum but found their approach too theoretical. Magic should do things, he argued, not just explain things. He returned to Crossvale and established his workshop, where he combines arcane principles with mechanical engineering to create marvels.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 His inventions range from practical (better locks, more efficient mills, weapons that anyone can use) to ambitious (constructs that can think, vehicles that don't need horses, communication devices that work across distances). Not all of them work, but enough do to make him wealthy and famous.
 
 At forty-five, he runs a workshop with twelve apprentices and a waiting list of commissions stretching two years forward. He's known for delivering exactly what clients request—which sometimes teaches them to be more careful what they ask for.
@@ -14188,10 +14210,6 @@ At forty-five, he runs a workshop with twelve apprentices and a waiting list of 
 - **Burgher-Master Wilhelm Von Handel:** Commissioner of several city improvement projects
 - **Various Nobles:** A waiting list of commissions from powerful clients
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Forbidden Project:** Has been secretly working on a fully autonomous construct—essentially artificial life. It's nearly complete.
@@ -14200,7 +14218,7 @@ At forty-five, he runs a workshop with twelve apprentices and a waiting list of 
 4. **Military Interest:** Multiple kingdoms want him to work exclusively for them. He's been resisting, but the pressure is increasing.
 5. **Health Concerns:** Exposure to various materials over the years has affected his lungs. He hides it but it's getting worse.
 }}
-
+\column
 ### Plot Hooks
 1. **Autonomous Life:** His construct achieves consciousness. Now what? Is it a person? Does it have rights?
 2. **The Weapons Trail:** Those weapons he built are being used again. This time, he wants to stop them.
@@ -14270,7 +14288,11 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **Tools:** Disguise kit, thieves' tools, forgery kit
 - **Documents:** Dossiers on all Unbound members
 
----
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 
 ### Background & History
 Kaelen doesn't officially exist. No records document his birth, no institutions acknowledge his employment, and no treasury lists his salary. He is the Free Cities Alliance's most closely guarded secret: their intelligence coordinator.
@@ -14288,10 +14310,6 @@ He's sixty-two, looks fifty, and moves like a man half his age. The gray at his 
 - **Trade Prince Lucian:** A subject of extensive surveillance who has no idea
 - **Archmage Veridian Starweaver:** The only non-mayor who knows Kaelen's true role
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **Double Agent History:** Was actually a double agent in his guild days, working for multiple factions. No one has ever discovered this.
@@ -14300,7 +14318,7 @@ He's sixty-two, looks fifty, and moves like a man half his age. The gray at his 
 4. **The Mole:** Has identified a mole in his own network but is feeding them false information rather than eliminating them. Learning who they report to.
 5. **Retirement Planning:** Building an exit strategy. The job is getting too dangerous for his age. But the timing has to be perfect.
 }}
-
+\column
 ### Plot Hooks
 1. **The Mole's Handler:** Finally has a lead on who's running his compromised agent. Time to act.
 2. **Wife's Killer:** New information about the assassination that killed his wife. This time it's actionable.
@@ -14363,60 +14381,15 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **Appearance:** Pure white robes with silver constellations
 - **No material needs:** Celestial being
 
-
-- Commands all druid circles in region
-- Can summon nature spirits and elementals
-- Animals, plants, and some monsters obey him
-- Weather responds to his requests
-- Can call upon ancient treants
-
-**Support Provided:**
-- Natural healing and restoration
-- Safe passage through wilderness
-- Intelligence from animal spies
-- Weather manipulation support
-- Awakened tree allies
-- Sanctuary in hidden groves
-
-**Rewards:**
-- Druidic blessings (nature-themed benefits)
-- Rare natural components
-- Friendship with nature spirits
-- Safe havens across wilderness
-- Training in natural magic
-- Animal companions
-
-**Character Arc:**
-- Initially neutral, watching events
-- Party's treatment of nature determines relationship
-- May side with or against party based on actions
-- Could be crucial ally if nature threatened
-- Or antagonist if party causes ecological harm
-
-**Secrets:**
-1. Knows exact location of Arch-Druid Thornbark
-2. Aware of what Heart Oak truly imprisons
-3. Monitors Unbound's impact on nature
-4. Has treaties with intelligent monsters
-5. Knows Second Worldrend will devastate ecosystems
-
-**Connections:**
-- Contemporary of Arch-Druid Thornbark (student relationship)
-- Knows Elder Thalindra well
-- Oversees Druid Thornwood's development
-- Has met The Ice Witch
-- Aware of all major druid NPCs
-
----
-
-
-# Villains and Additional NPCs
----
-
 ### Background & History
 The Guardian has no name that mortal tongues can speak. It exists at the intersection of the material world and the planes beyond—a sentinel that watches the places where reality grows thin. It has stood guard since before the Worldrend, perhaps since before recorded history.
 
 Its appearance varies depending on the viewer and the situation. Some see a towering figure of light, others a swirling mass of shadows, others something geometric and impossible. It communicates through impressions and visions rather than words, making conversations challenging but memorable.
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 
 The Guardian's purpose is simple: prevent unauthorized passage between planes and eliminate threats that slip through. It doesn't care about mortal politics, doesn't distinguish between good and evil, only between authorized and unauthorized, stable and unstable, safe and dangerous.
 
@@ -14429,10 +14402,6 @@ It can be bargained with, though the currency it accepts is unusual—memories, 
 - **Planar Scholars:** Various researchers who've attempted to study it with mixed results
 - **Something on the Other Side:** The Guardian reports to something greater, but no one knows what
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **True Purpose:** Created by the Primordials as part of a greater pattern. The Worldrend damaged that pattern; the Guardian is improvising.
@@ -14441,7 +14410,7 @@ It can be bargained with, though the currency it accepts is unusual—memories, 
 4. **Mortality:** Technically, it can be destroyed. The method is known only to the Circle of Eight, held as insurance.
 5. **The Pattern:** Serves a greater design that even it doesn't fully understand. Follows instructions from before the Worldrend.
 }}
-
+\column
 ### Plot Hooks
 1. **Threshold Breach:** Something unauthorized is trying to cross. The Guardian needs mortal assistance.
 2. **The Bargain:** Offers something the party desperately needs in exchange for a service only mortals can perform.
@@ -14451,11 +14420,10 @@ It can be bargained with, though the currency it accepts is unusual—memories, 
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
 {{monster,frame,wide
-## Colony-Mind K'Thrax (Mind Flayer Elder Brain)
+## Colony-Mind K'Thrax
 *Large aberration, lawful evil*
 ___
 **Armor Class** :: 17 (natural armor)
@@ -14500,16 +14468,16 @@ Its current territory spans a network of caverns connected to ancient dwarven de
 
 The elder brain's ultimate goal is transcendence: to become a god-brain capable of touching all minds on Thaldros simultaneously. The chaos of the coming years may provide the psychic energy it needs.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 ### Connections
 - **The Deep Dwarves:** Ancient enemies who sealed the passages; K'Thrax probes their defenses constantly
 - **Surface Thralls:** Dozens of individuals whose dreams K'Thrax has touched, unaware they serve it
 - **Rival Colonies:** Other mind flayer enclaves that resist absorption; potential threats or meals
 - **The Sealed Ones:** Something older and stranger sleeps even deeper; K'Thrax fears it
 - **Dragon Infernalix:** Aware of the sleeping dragon; considers it a potential rival or tool
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -14581,16 +14549,17 @@ Unlike Infernalix, Morveth remains active. She polymorphs into human form regula
 
 Her current interest is Lady Morgana Blackwater. The noblewoman's undead experiments amuse Morveth, and she's been secretly encouraging them—and waiting for Morgana to create something that will cause maximum suffering when it inevitably escapes control.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+
 ### Connections
 - **Lady Morgana Blackwater:** Unaware patron; Morveth has been subtly guiding her research
 - **Dragon Infernalix:** Ancient rival; they've fought twice, with no clear victor
 - **The Thornmire:** Her domain; the land itself bends to her corrupting influence
 - **Swamp Guide Grizelda:** Has noticed something wrong in the swamp but doesn't know what
 - **Captain Vex Darkwater:** Entertains her; she's protected his operations for amusement
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -14600,7 +14569,7 @@ Her current interest is Lady Morgana Blackwater. The noblewoman's undead experim
 4. **The Infernalix Standoff:** Made a pact with Infernalix centuries ago—neither interferes with the other's domain. But if he threatens her swamp, the pact ends.
 5. **The True Goal:** Wants to corrupt the ley line network itself, spreading Thornmire's taint across Thaldros. She's patient; it might take centuries.
 }}
-
+\column
 ### Plot Hooks
 1. **The Healer's Curse:** "Mother Marsh's" patients are getting sicker. Investigation reveals something wrong with the healer.
 2. **The Swamp's Heart:** Druids sense a corruption at Thornmire's center. Reaching it means crossing dragon territory.
@@ -14623,7 +14592,7 @@ ___
 **Armor Class** :: 20 (plate armor, shield)
 **Hit Points** :: 180 (19d10 + 76)
 **Speed** :: 30 ft.
-![Paladin Radiant Dawnbringer (First Paladin)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/core-rules/dungeon-masters-guide/images/npcs/tirvandor-npc-paladin-radiant-dawnbringer.jpg){width:325px,mix-blend-mode:multiply}
+![Paladin Radiant Dawnbringer (First Paladin)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/core-rules/dungeon-masters-guide/images/npcs/tirvandor-npc-paladin-radiant-dawnbringer.jpg){width:315px,mix-blend-mode:multiply}
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -14681,7 +14650,7 @@ Her armor and sword were preserved as holy relics, and her spirit is said to wat
 4. **The Armor's Power:** Her armor isn't just a relic—it's a vessel for a portion of her power. Wearing it confers her abilities but also her duties.
 5. **The Return Prophecy:** There's a prediction that Radiant will physically return when the Lightbringers face extinction. The conditions are approaching.
 }}
-
+\column
 ### Plot Hooks
 1. **The Vision Quest:** Radiant appears to a Lightbringer with a cryptic warning. Interpreting it requires investigation.
 2. **The Armor's Call:** Her relics have begun glowing. They want to be wielded—but by whom?
@@ -14756,7 +14725,7 @@ Those who find the library can access knowledge lost for millennia—but Merrick
 4. **The Visitor List:** Over the centuries, he's allowed certain individuals access. Their identities and what they learned are recorded.
 5. **The Worldrend Cause:** He knows exactly what caused the cataclysm—and destroyed most evidence to prevent repetition.
 }}
-
+\column
 ### Plot Hooks
 1. **The Library Search:** Finding the Grand Library could change everything. Multiple parties are racing to locate it.
 2. **The Crystal Hunt:** Gathering Merrick's knowledge crystals provides fragments of lost history.
@@ -14831,7 +14800,7 @@ But hunters die hard. Rumors persist of a scarred figure stalking vampire territ
 4. **The Coalition's Fear:** The vampire lords who "destroyed" him know he's still out there. Their alliance persists solely to oppose him.
 5. **The Final Hunt:** He's planning something big—a strike against the vampires' hidden stronghold. He needs allies.
 }}
-
+\column
 ### Plot Hooks
 1. **The Living Legend:** Evidence suggests Silvanus survived. Finding him could provide crucial allies—or a dangerous obligation.
 2. **The Vampire Coalition:** The elder vampires are making moves. Understanding their alliance requires knowing their shared enemy.
@@ -14853,7 +14822,7 @@ ___
 **Armor Class** :: 20 (Unarmored Defense)
 **Hit Points** :: 120 (16d8 + 48)
 **Speed** :: 60 ft.
-![Monk Serenity (The Enlightened One)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/core-rules/dungeon-masters-guide/images/npcs/tirvandor-npc-monk-serenity.jpg){width:325px,mix-blend-mode:multiply}
+![Monk Serenity (The Enlightened One)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/core-rules/dungeon-masters-guide/images/npcs/tirvandor-npc-monk-serenity.jpg){width:305px,mix-blend-mode:multiply}
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -14911,7 +14880,7 @@ She spent her remaining years teaching, establishing monasteries, and occasional
 4. **The Balance Role:** As an ascended being, she actively works to maintain cosmic balance—sometimes in ways mortals wouldn't approve.
 5. **The Return Possibility:** Under specific circumstances, she could physically manifest again. The ritual requires extreme conditions.
 }}
-
+\column
 ### Plot Hooks
 1. **The Spiritual Contact:** Serenity's ascended form reaches out with guidance—or a warning.
 2. **The Hidden Teaching:** Her forbidden technique is discovered. Should it be used, preserved, or destroyed?
@@ -14975,16 +14944,17 @@ The First Paladin faced him in single combat, and though she died in the battle,
 
 His influence never fully left the mortal world. Cults worship him in secret, preparing for his return. Demons loyal to him slip through weak points in reality. And Maltharok himself watches, waits, and plans. When he returns, it won't be through a random tear in reality—it will be through a gate his followers have prepared, at a time of his choosing.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+
 ### Connections
 - **Paladin Radiant Dawnbringer:** His killer, whom he hates beyond all measure
 - **The Lightbringers:** The order that continues Radiant's work; his primary enemies
 - **The Burning Cult:** Secret worshippers preparing for his return
 - **Other Demon Princes:** Rivals in the Abyss; some might ally against him
 - **The Abyss Itself:** His domain, where he plots and rebuilds
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -14994,7 +14964,7 @@ His influence never fully left the mortal world. Cults worship him in secret, pr
 4. **The True Plan:** He doesn't just want conquest—he wants to merge his Abyssal domain with the material world, creating a hellscape where he rules as god.
 5. **The Allies' Price:** Other demon lords might oppose him if properly motivated. They have their own prices.
 }}
-
+\column
 ### Plot Hooks
 1. **The Cult Hunt:** Evidence of Maltharok worship surfaces. Tracing the network leads to disturbing conclusions.
 2. **The Gate Location:** The return portal is nearly finished. Finding and destroying it is critical.
@@ -15075,7 +15045,7 @@ She can manifest physically, though it costs her greatly. She reserves such appe
 4. **The Corruption's Growth:** Something is spreading taint faster than she can purify. She needs mortal allies to address the source.
 5. **The Sacrifice Question:** To truly stop the corruption, she might need to sacrifice her celestial existence. She's contemplating it.
 }}
-
+\column
 ### Plot Hooks
 1. **The Saint's Call:** Celestine reaches out to healers with an urgent request. The corruption is spreading.
 2. **The Corrupted Realm:** She needs mortals to enter where she cannot go and address the plague's source.
@@ -15151,7 +15121,7 @@ He died wealthy, powerful, and utterly alone. His children feared him too much f
 4. **The Unfinished Deal:** Garrett promised his patron something he never delivered. The debt passed to his heirs.
 5. **The Breaking Point:** There's a ritual to end the curse, recorded in the journals. It requires sacrificing every living Blackwood.
 }}
-
+\column
 ### Plot Hooks
 1. **The Journal Hunt:** The Blackwood journals could prove useful—or dangerous. Finding them means exploring haunted Raven's Keep.
 2. **The Curse Investigation:** Understanding the Blackwood curse might help with Lord Shadows—or might make things worse.
@@ -15229,7 +15199,7 @@ Caspian died at sea, as he always said he would—but not from storm or battle. 
 4. **The Final Voyage:** Caspian didn't die—he transformed, becoming something that lives in the deep waters and watches over his descendants.
 5. **The True Map:** The complete charts to his third voyage's destination still exist, hidden in the family vault. Following them would be extraordinarily dangerous.
 }}
-
+\column
 ### Plot Hooks
 1. **The Vault's Contents:** Lord Aldris IV wants to open the sealed section of the family vault. What's inside?
 2. **The Skipped Generation:** Someone in House Goldshore hasn't paid the blood price. Something is coming to collect.
@@ -15308,7 +15278,7 @@ What no one knows is that Celestine isn't dead. In the Feywild, time moves stran
 4. **The Immortality Seekers:** The mages who caused the Worldrend weren't destroyed—some of them survived in forms twisted by their failed ritual.
 5. **The Return Prophecy:** Celestine foresaw that she'd need to return when "shadows rise and dragons wake." That time approaches.
 }}
-
+\column
 ### Plot Hooks
 1. **The Feywild Message:** Celestine is trying to contact her descendants. Her warnings are fragmented but urgent.
 2. **The Founder's Return:** She's coming back. Preparing for what that means—politically and magically—falls to the party.
@@ -15384,7 +15354,7 @@ Age has diminished her in some ways—she sleeps more, moves slower, and sometim
 4. **Her Own Death:** Has foreseen when and how she'll die. It's soon. She's made peace with it but has preparations to complete.
 5. **The Warning:** Knows that the current generation faces a crisis comparable to the Worldrend. Has been subtly positioning her house to survive it.
 }}
-
+\column
 ### Plot Hooks
 1. **The Living History:** Seraphina agrees to share pre-Worldrend knowledge—but wants something in return.
 2. **The Preparation:** She's making final arrangements before her death. Some tasks require outside help.
@@ -15464,7 +15434,7 @@ But there are rumors that Durgan didn't truly die. Some say his spirit guards th
 4. **The Hidden Armory:** His personal weapons and armor are interred with him, including items of legendary power.
 5. **The Awakening Condition:** Durgan can be truly summoned in times of desperate need—but the ritual requires a living Ironforge to sacrifice their own life.
 }}
-
+\column
 ### Plot Hooks
 1. **The Ghost Sighting:** Reports of Durgan's ghost are increasing. Is the seal weakening?
 2. **The Tomb Expedition:** The Ironforge need someone to check on Durgan's resting place. What they find will be troubling.
@@ -15540,7 +15510,7 @@ He escaped and spent years building a network dedicated to destroying House Blac
 4. **His Children:** Aldric's children were raised by distant relatives. They don't know their true heritage—or their father's sacrifice.
 5. **The Unfinished Work:** His final plan to destroy House Blackwood was never completed. The components are still in place.
 }}
-
+\column
 ### Plot Hooks
 1. **The Network Contact:** Aldric's old organization reaches out to the party. They have resources and information.
 2. **The Journal Hunt:** Finding Aldric's copies of the family journals could expose Lord Shadows.
@@ -15616,7 +15586,7 @@ She carries her uncle Aldric's legacy: his copies of the journals, his network c
 4. **The Patron's Offer:** The Whispering Patron has offered her power repeatedly. Each refusal makes the next harder.
 5. **The Mercy Killings:** She's "arranged accidents" for several people Lord Shadows wanted tortured. Quicker deaths than they would have received.
 }}
-
+\column
 ### Plot Hooks
 1. **The Inside Contact:** Corvina reaches out to the party. She has information—but the risks of contact are extreme.
 2. **The Extraction:** She's decided the time has come to flee. Getting her out safely won't be easy.
@@ -15695,7 +15665,7 @@ But the bargain had a timeline, and that timeline runs out in 1250 CR—less tha
 4. **The Warning System:** Left signs that would activate as the deadline approached. Those signs are beginning to appear.
 5. **The Secret Heir:** Fathered a child with a commoner and hid that lineage. If the main line fails, this bloodline might be immune to the bargain—or might still be bound.
 }}
-
+\column
 ### Plot Hooks
 1. **The Journal Decoding:** Thandris's private journals contain warnings and possibly solutions. Interpreting them requires expertise.
 2. **The Contingency Hunt:** His failsafe weapon is hidden somewhere. Finding it before the deadline is critical.
@@ -15771,7 +15741,7 @@ What history doesn't record is that Emberthorn had help. Someone provided intell
 4. **The Final Message:** He left a coded message before his death, identifying his allies and Blackwood's weaknesses. It was never found.
 5. **The Spirit's Watch:** Some say Emberthorn's spirit still guards the gate he died defending, appearing when Kaer Thandros is threatened.
 }}
-
+\column
 ### Plot Hooks
 1. **The Banner Quest:** Finding Emberthorn's standard could unite resistance against Lord Shadows.
 2. **The Hidden Descendants:** His family line survives. Finding them—and proving their identity—could matter politically.
@@ -15853,7 +15823,7 @@ He found what he sought. Now he sleeps beneath Kaer Thandros itself, in caverns 
 4. **The Dream Network:** While sleeping, he's been psychically influencing certain individuals, preparing agents for his awakening.
 5. **The Reunification Plan:** Doesn't want to destroy civilization—wants to reunite Thaldros and Aethoria, with himself as god-emperor of the restored world.
 }}
-
+\column
 ### Plot Hooks
 1. **The Awakening Signs:** Strange heat, tremors, and dragon-dreams are increasing near Kaer Thandros. Someone needs to investigate—quietly.
 2. **The Bargain's Terms:** The exact terms of the Thandris deal have been lost. Finding them might reveal a loophole.
@@ -17605,7 +17575,8 @@ The Homebrewery
 [Homebrewery.Naturalcrit.com](https://homebrewery.naturalcrit.com)
 }}
 
-
+{{pageNumber,auto}}
+{{footnote Part VI: Appendices}}
 \page
 
 {{license,wide
@@ -17635,6 +17606,8 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 8. **Identification:** If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
 
 }}
+
+{{pageNumber,auto}}
 \page
 
 {{license,wide
