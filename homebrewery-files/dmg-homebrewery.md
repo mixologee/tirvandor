@@ -15415,6 +15415,10 @@ He died in battle against a demon incursion from the deep roads—not from the d
 
 But there are rumors that Durgan didn't truly die. Some say his spirit guards the deep roads still. Others whisper that he made a pact with the mountain itself, becoming one with the stone. Whatever the truth, miners occasionally report seeing a spectral dwarf in ancient armor patrolling the deepest tunnels.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 ### Connections
 - **House Ironforge:** His descendants, including the current Thane Durin
 - **The Ironforge Compact:** The political structure he created still governs
@@ -15422,9 +15426,7 @@ But there are rumors that Durgan didn't truly die. Some say his spirit guards th
 - **The Mountain Spirit:** Whatever entity he may have bargained with
 - **Colony-Mind K'Thrax:** The threat he dedicated his final years to containing
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+
 
 {{descriptive
 #### Secrets (DM Only)
@@ -15804,16 +15806,16 @@ His forty-five year campaign against Thaldros (1156-1201 CR) was never about ter
 
 He found what he sought. Now he sleeps beneath Kaer Thandros itself, in caverns no dwarf has mapped, waiting for his bargain to come due in 1250 CR. When he wakes, he won't want gold or conquest. He'll want to reshape the world.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 ### Connections
 - **King Thandris V:** Made the original bargain; Thandris's descendants inherit the debt
 - **Lord Shadows (Corvus Blackwood):** Knows where Infernalix sleeps; plans to use him
 - **Master Hunter Kael Dragonsbane:** Has studied Infernalix for decades; may know weaknesses
 - **The Worldrend Artifact:** Possesses a fragment; seeks the others
 - **Other Ancient Dragons:** Rivals and occasional allies from before the Worldrend
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
