@@ -6750,7 +6750,7 @@ ___
 **Armor Class** :: 19 (studded leather +3, dex, defensive)
 **Hit Points** :: 125 (15d8 + 3d10 + 54)
 **Speed** :: 40 ft.
-![Lady Shadowleaf (True Name: Niriel)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/core-rules/dungeon-masters-guide/images/npcs/tirvandor-npc-lady-shadowleaf.jpg){width:325px,mix-blend-mode:multiply}
+![Lady Shadowleaf (True Name: Niriel)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/core-rules/dungeon-masters-guide/images/npcs/tirvandor-npc-lady-shadowleaf-niriel.jpg){width:325px,mix-blend-mode:multiply}
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -15809,7 +15809,6 @@ He found what he sought. Now he sleeps beneath Kaer Thandros itself, in caverns 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
 ### Connections
 - **King Thandris V:** Made the original bargain; Thandris's descendants inherit the debt
 - **Lord Shadows (Corvus Blackwood):** Knows where Infernalix sleeps; plans to use him
