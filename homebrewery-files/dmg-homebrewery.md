@@ -25,48 +25,47 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 {{footnote DUNGEON MASTER'S GUIDE}}
 
 \page
-
 {{toc,wide
-# Table of Contents
+# Contents
 
-- ### [{{ Part I: The World}}{{ 4}}](#p4)
-  - [{{ Introduction: Complete History}}{{ 4}}](#p4)
-  - [{{ The Seven Primordials}}{{ 15}}](#p15)
-
-- ### [{{ Part II: Running the Game}}{{ 20}}](#p20)
-  - [{{ Chapter 1: Running the Game}}{{ 20}}](#p20)
-  - [{{ Chapter 2: Adventure Creation}}{{ 30}}](#p30)
-  - [{{ Chapter 3: Campaign Creation}}{{ 38}}](#p38)
-  - [{{ Chapter 4: Secret Locations}}{{ 46}}](#p46)
-  - [{{ Chapter 5: Magic Mechanics}}{{ 52}}](#p52)
-
-- ### [{{ Part III: Treasure}}{{ 58}}](#p58)
-  - [{{ Chapter 6: Magic Items (43 items)}}{{ 58}}](#p58)
-
-- ### [{{ Part IV: NPCs}}{{ 80}}](#p80)
-  - [{{ Chapter 7: NPCs of Tirvandor (133 complete)}}{{ 80}}](#p80)
-  - [{{ Chapter 8: NPC Creation Guide}}{{ 200}}](#p200)
-
-- ### [{{ Part V: DM Tools}}{{ 210}}](#p210)
-  - [{{ Chapter 9: DM Toolbox}}{{ 210}}](#p210)
-  - [{{ Chapter 10: Faction Strongholds}}{{ 220}}](#p220)
-  - [{{ Chapter 11: Encounter Building}}{{ 228}}](#p228)
-  - [{{ Chapter 12: Wilderness Exploration}}{{ 236}}](#p236)
-
-- ### [{{ Part VI: Appendices}}{{ 244}}](#p244)
-  - [{{ Appendix A: Tables & Charts}}{{ 244}}](#p244)
-  - [{{ Appendix B: Adventure Hooks}}{{ 252}}](#p252)
-  - [{{ Appendix C: Street-Level Details}}{{ 260}}](#p260)
+- ### [{{ Part I: The World}}{{ 2}}](#p4)
+  - [{{ Chapter 1: Using This Guide}}{{ 2}}](#p4)
+- ### [{{ Part II: Running the Game}}{{ 6}}](#p8)
+  - [{{ Chapter 2: Core Mechanics and Adjudication}}{{ 6}}](#p8)
+  - [{{ Chapter 3: Creating Adventures}}{{ 12}}](#p14)
+  - [{{ Chapter 4: Creating Campaigns}}{{ 17}}](#p19)
+  - [{{ Chapter 5: Magic Mechanics Deep Dive: How Magic Really Works in Tirvandor}}{{ 25}}](#p27)
+- ### [{{ Part III: Treasure}}{{ 28}}](#p30)
+  - [{{ Chapter 6: Treasure & Magic Items}}{{ 28}}](#p30)
+  - [{{ Part IV: NPCs}}{{ 34}}](#p36)
+  - [{{ Chapter 7: NPCs of Tirvandor}}{{ 34}}](#p36)
+- ### [{{ Part V: DM Tools}}{{ 303}}](#p305)
+  - [{{ Chapter 9: Creating Custom Content}}{{ 303}}](#p305)
+  - [{{ Chapter 10. Faction Strongholds}}{{ 306}}](#p308)
+  - [{{ Chapter 11. Encounter Building: Creating Balanced, Memorable Encounters}}{{ 308}}](#p310)
+  - [{{ Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor’s Wild Lands}}{{ 312}}](#p314)
+- ### [{{ Part VI: Appendices}}{{ 317}}](#p319)
+  - [{{ Appendix A: Weather Tables}}{{ 317}}](#p319)
+  - [{{ Appendix B: Random Encounters by Region}}{{ 317}}](#p319)
+  - [{{ Appendix C: Treasure Tables}}{{ 318}}](#p320)
+  - [{{ Appendix D: Settlement Generation}}{{ 318}}](#p320)
+  - [{{ Appendix E: NPC Generation}}{{ 318}}](#p320)
+  - [{{ Appendix F: Travel and Navigation}}{{ 319}}](#p321)
+  - [{{ Appendix G: Difficulty Classes}}{{ 319}}](#p321)
+  - [{{ Appendix H: Condition Reference}}{{ 319}}](#p321)
+  - [{{ Appendix I: Faction Influence Scale}}{{ 319}}](#p321)
+  - [{{ Appendix J: Primordial Corruption Stages}}{{ 320}}](#p322)
+  - [{{ Appendix K: Ley Line Proximity Effects}}{{ 320}}](#p322)
+  - [{{ Appendix L: Quick Loot Generator}}{{ 320}}](#p322)
 }}
+
+
 
 {{skipCounting}}
 \page
-# Dungeon Master's Guide to Tirvandor
-## Part I: The World
-
+# Part I: The World
  ::
-
-## Using This Guide
+## Chapter 1: Using This Guide
 
 This guide contains information only for Dungeon Masters. It reveals secrets players should not know.
 
@@ -390,7 +389,7 @@ Final Toll:
 The Primordial threat is the ultimate story backbone. Everything connects to the approaching crisis and the need to prevent a second Worldrend.
 \page
 # Part II: Running the Game
-# Chapter 1: Core Mechanics and Adjudication
+# Chapter 2: Core Mechanics and Adjudication
 ## Ability Checks
 ### When to Call for Checks
 
@@ -17222,7 +17221,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 \page
 # Part VI: Appendices
 
-## APPENDIX A: Weather Tables
+## Appendix A: Weather Tables
 
 ### Daily Weather
 
@@ -17247,7 +17246,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 
 ---
 
-## APPENDIX B: Random Encounters by Region
+## Appendix B: Random Encounters by Region
 
 ### Thaldros Mainland
 
@@ -17304,7 +17303,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 {{footnote Part VI: Appendices}}
 \page
 
-## APPENDIX C: Treasure Tables
+## Appendix C: Treasure Tables
 
 ### Treasure Hoard by CR
 
@@ -17334,7 +17333,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 
 ---
 
-## APPENDIX D: Settlement Generation
+## Appendix D: Settlement Generation
 
 ### Settlement Size
 
@@ -17383,7 +17382,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 
 ---
 
-## APPENDIX E: NPC Generation
+## Appendix E: NPC Generation
 
 ### Quick NPC Generator
 
@@ -17414,7 +17413,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 {{footnote Part VI: Appendices}}
 \page
 
-## APPENDIX F: Travel and Navigation
+## Appendix F: Travel and Navigation
 
 ### Travel Distances
 
@@ -17441,7 +17440,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 
 ---
 
-## APPENDIX G: Difficulty Classes
+## Appendix G: Difficulty Classes
 
 ### Standard DCs
 
@@ -17467,7 +17466,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 
 ---
 
-## APPENDIX H: Condition Reference
+## Appendix H: Condition Reference
 
 | Condition | Effect |
 |-----------|--------|
@@ -17488,7 +17487,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 
 ---
 
-## APPENDIX I: Faction Influence Scale
+## Appendix I: Faction Influence Scale
 
 | Points | Relationship | Benefits | Complications |
 |--------|--------------|----------|---------------|
@@ -17521,7 +17520,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 
 ---
 
-## APPENDIX J: Primordial Corruption Stages
+## Appendix J: Primordial Corruption Stages
 
 | Stage | HP Bonus | Physical Changes | Mental Effects | Save DC | Cure |
 |-------|----------|------------------|----------------|---------|------|
@@ -17531,7 +17530,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 
 ---
 
-## APPENDIX K: Ley Line Proximity Effects
+## Appendix K: Ley Line Proximity Effects
 
 | Distance from Nexus | Effects |
 |---------------------|---------|
@@ -17542,7 +17541,7 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 
 ---
 
-## APPENDIX L: Quick Loot Generator
+## Appendix L: Quick Loot Generator
 
 ### Coin Loot by CR
 
