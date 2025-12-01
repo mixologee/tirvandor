@@ -1,16 +1,6 @@
-{{frontCover}}
 
-# Tirvandor
-## The Realm of Deep Magic
-___
 
-{{banner WORLD GUIDE}}
-
-{{footnote
-A comprehensive campaign setting for D&D 5th Edition
-}}
-
-![cover image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-pre-worldrend-unity.jpg){position:absolute,top:0,left:0,width:100%}
+![cover image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-guide-cover-converted.png){position:absolute,top:0,left:0,width:100%}
 
 {{/frontCover}}
 
@@ -23,36 +13,20 @@ A comprehensive campaign setting for D&D 5th Edition
 
 Written by Jason "Mixologee" Scheponik
 
-Version 2.0 | November 2025
+1st Edition | November 2025
 
-*For use with the fifth edition of the world's greatest roleplaying game*
+*For use with the fifth edition of the world's greatest roleplaying game (D&D).*
 
 {{/insideCover}}
 
 \page
 
-{{toc,wide
-# Table of Contents
 
-- ### [{{ Introduction}}{{ 3}}](#p3)
-- ### [{{ Geography}}{{ 6}}](#p6)
-- ### [{{ Timeline}}{{ 20}}](#p20)
-- ### [{{ Pantheon}}{{ 35}}](#p35)
-- ### [{{ Factions}}{{ 45}}](#p45)
-- ### [{{ Noble Houses}}{{ 55}}](#p55)
-- ### [{{ Settlement Registry}}{{ 80}}](#p80)
-- ### [{{ Settlement Histories}}{{ 95}}](#p95)
-- ### [{{ Locations}}{{ 120}}](#p120)
-- ### [{{ Regional Lore}}{{ 150}}](#p150)
-- ### [{{ Street-Level Details}}{{ 170}}](#p170)
-}}
 
 \page
 
-
 # Introduction to Tirvandor
 
-![introduction](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-pre-worldrend-unity.jpg){width:100%}
 
 Welcome to **Tirvandor: The Realm of Deep Magic**, a comprehensive campaign setting for Dungeons & Dragons 5th Edition. This world combines the mythic grandeur of Tolkien's legendarium with the grounded realism of political intrigue and moral complexity.
 
@@ -66,12 +40,15 @@ Between them stretch the **Contested Lands**, a war-torn frontier where neither 
 
 ### Grounded Realism
 While magic exists and shapes the world, Tirvandor emphasizes realistic consequences, political complexity, and morally gray choices. Heroes are not always virtuous, villains may have legitimate grievances, and every decision carries weight.
+::
+![geography](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-spellcasting-with-ley-lines.jpg){height:300px}
 
 ### Natural Magic
 Magic flows through **ley lines**—ancient channels of power crisscrossing the world. Spellcasters who understand these currents can amplify their abilities, but the lines also create nodes of wild magic and unpredictable effects.
 
 ### Political Intrigue
 The great powers of Tirvandor—kingdoms, noble houses, guilds, and secret societies—all pursue their own agendas. Players will navigate webs of alliance and betrayal as they shape the world's future.
+
 
 ### Historical Depth
 Tirvandor has a rich history spanning thousands of years, from the Age of Precursors through the devastating Worldrend to the present day. Ancient ruins, lost civilizations, and lingering curses all tie back to this deep past.
@@ -82,7 +59,7 @@ This World Guide is organized into chapters covering different aspects of Tirvan
 
 - **Geography**: The physical world, continents, regions, and major features
 - **Timeline**: History from ancient times to the present
-- **Pantheon**: The Seven Gods and their followers
+- **Pantheon**: The Seven Ascended and their followers
 - **Factions**: Major organizations and power groups
 - **Noble Houses**: The dynasties that rule kingdoms and territories
 - **Settlements**: Cities, towns, and important locations
@@ -101,6 +78,10 @@ Tirvandor supports multiple campaign styles:
 - **War Stories**: Large-scale conflicts and military campaigns
 
 The two complete campaigns provided—**Blood & Coin** and **Shattered Oaths**—showcase different approaches to adventuring in this world.
+
+{{pageNumber,auto}}
+{{footnote Introduction to Tirvandor}}
+\page
 
 ## About This World
 
@@ -123,21 +104,17 @@ If you're a **Dungeon Master**, read everything, then consult the Dungeon Master
 Welcome to Tirvandor. Your legend begins now.
 
 
-
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote Introduction to Tirvandor}}
 \page
 
+{{wide
+![geography](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-geography-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:400px}
+}}
 
-# Geography of Tirvandor
-
-![geography](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-geography-chapter-opener.jpg){width:100%}
-
-**The Realm of Deep Magic**
-
----
-
+{{padding-top:300px
+# Geography of Tirvandor: The Realm of Deep Magic
+:
 ## Overview
 
 Tirvandor is a world where natural magic flows through the very fabric of reality—coursing through ley lines beneath mountains, pooling in ancient forests, and whispering in the depths of forgotten swamps. The realm consists of two major continents separated by a vast ocean, connected by trade routes that thread through archipelagos and island chains. This is a world of grounded realism layered with mythic wonder, where geography shapes culture, magic influences terrain, and the land itself remembers.
@@ -153,11 +130,20 @@ Tirvandor is a world where natural magic flows through the very fabric of realit
 - 125 Villages
 - 24 Hamlets
 
+}}
 
----
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
 
+
+{{wide
+![The Sundering Sea](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-sundering-sea.jpg){position:absolute,top:0,left:0,width:100%,height:500px}
+}}
+
+{{padding-top:450px
 ## The Sundering Sea
-
+}}
 The vast ocean that separates the two continents of Tirvandor, the Sundering Sea is both highway and barrier. Ancient mariners claim it was created in a cataclysm millennia ago when the continents were torn apart by warring primordial forces. The waters are deep, storm-prone, and unpredictable—respected by sailors and feared by the superstitious.
 
 **Notable Features:**
@@ -166,8 +152,69 @@ The vast ocean that separates the two continents of Tirvandor, the Sundering Sea
 - **Singing Waters:** Certain areas where the waves produce haunting melodies, said to be the songs of drowned civilizations
 - **Trade Winds:** Reliable currents that have enabled commerce between continents for centuries
 
----
+## The Island Chains
 
+Between and around the two great continents lie numerous islands and archipelagos. These serve as stepping stones for trade, havens for pirates and outcasts, and homes to unique cultures that blend influences from both continents.
+\column
+{{padding-top:450px
+### The Splintered Isles (Western Islands)
+}}
+**Major Islands:**
+- **Stormwatch Isle:** Home to the Stormwatchers, weather-mages who predict storms
+- **Saltmere:** Tropical island known for salt flats and pearl diving
+- **Western Haven:** Pirate haven and smuggler's port
+
+Located off the western coast of Thaldros, these islands bear the brunt of storms coming off the Sundering Sea. Despite the harsh conditions, they're strategically valuable for trade and military purposes.
+
+### The Drifting Chain (Central Archipelago)
+
+The islands between Thaldros and Aethoria are crucial for maritime trade and have developed their own distinct culture—a blend of eastern and western influences.
+
+**Major Islands:**
+
+**Isla Myrthen:**
+  - **Port Myrthen:** The largest settlement in the archipelago (pop. ~9,000), a cosmopolitan trading port where goods from both continents exchange hands. Known for its relaxed attitude toward laws and neutral political stance. Home to the Merchant's Guild headquarters.
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
+**Minor Island Settlements:**
+- Midway (village) - Halfway point for continental crossing
+- Coral Bay (village) - Pearl diving community
+- Trader's Rest (hamlet) - Resupply station
+- Several unnamed islets used as navigation markers
+
+### The Shattered Arc (Eastern Islands)
+
+**Major Islands:**
+- **Thornhaven:** Mysterious island shrouded in perpetual mist (pop. ~1,800), home to a reclusive order of monks who study the boundary between life and death
+- **Emerald Isle:** Lush tropical paradise; sacred druidic site
+- **Serpent's Tooth:** Rocky island; lighthouse and naval outpost
+
+Located near Aethoria's fractured coast, these islands share the mystical character of the eastern continent. Many are sacred sites or home to isolated communities seeking spiritual enlightenment.
+
+### The Northern Islands
+
+**Frostwatch:**
+- Small settlements providing harbor services in the harsh northern seas
+- Primarily inhabited by humans and half-orcs
+- Fishing, seal hunting, and strategic naval positioning
+
+### The Southern Islands
+
+Scattered tropical islands south of both continents, many remain unmapped or unexplored. Rumors persist of lost civilizations, hidden treasures, and dangerous creatures lurking in these warm waters.
+
+### Other Notable Islands
+
+Many smaller islands remain unnamed on common maps, ranging from lifeless rocks used as navigation markers to hidden refuges for various groups—pirates, exiled nobles, escaped criminals, or those simply seeking solitude. The total number of islands in the archipelagos is estimated at over 100, though fewer than 20 have permanent settlements.
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
+
+{{wide
+![Thaldros Locations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-thaldros-military-borderlands.jpg){position:absolute,top:0,left:0,width:100%,height:500px}
+}}
+
+{{padding-top:450px
 ## Thaldros (Western Continent)
 
 The Western Continent, called Thaldros by its inhabitants, is a land of dramatic contrasts—snow-capped mountains give way to arid deserts, which transition into temperate woodlands. The continent bears scars of ancient conflicts, with ruins dotting the landscape and ley lines running through its heart.
@@ -191,10 +238,9 @@ The frozen northern reaches of Thaldros, where winter reigns for nine months of 
 - Frostholm (town) - Ice fishing, seal hunting
 - Northwatch (town) - Mountain pass guard post
 - Iceridge (town) - High-altitude ice crystal mining
-
+}}
+{{padding-top:450px
 **Minor Settlements:** Frostwatch, Icegate, Snowmelt, Coldpeak, Winterhold (villages)
-
-#### The Ironspine Holds (Mountains)
 
 #### The Ironspine Holds (Mountains)
 
@@ -210,13 +256,12 @@ A formidable mountain range dominating the northern reaches of Thaldros, the Iro
 - **Deepforge:** Deep mining town with volcanic forges (pop. ~3,500)
 - **Stonehaven:** Quarry town; ancient ruins nearby (pop. ~2,800)
 
+**Minor Settlements:** Highpeak, Crystalmine, Stonegard (villages) and Coldwater, Longridge (hamlets)
+}}
 
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote Geography of Tirvandor}}
 \page
-
-**Minor Settlements:** Highpeak, Crystalmine, Stonegard (villages) and Coldwater, Longridge (hamlets)
 
 **Notable Locations:**
 - The Crown Forge (in Kaer Thandros) - Can create permanent magical items
@@ -233,8 +278,6 @@ The northeastern coast is a jagged, broken shoreline of cliffs, rocky beaches, a
 **Population:** Low; fishing communities, sailor outposts
 
 **Minor Settlements:** Scattered fishing villages and watch posts along the coast
-
-#### The Silverwood (Central Forest)
 
 #### The Silverwood (Central Forest)
 
@@ -256,9 +299,7 @@ The Silverwood is an ancient forest of silver birch and oak trees, where dappled
 **Notable Locations:**
 - Silverpine University - Famous magical and mundane learning center
 - The Old Oak Circle - Ancient druid site with stone circle
-
-#### The Heartlands (Central Plains)
-
+\
 #### The Heartlands (Central Plains)
 
 The Heartlands are the agricultural engine of Thaldros—endless fields of grain, pastures with livestock, and prosperous farming communities. This is the most "civilized" part of the continent, crisscrossed by well-maintained roads and dotted with market towns.
@@ -296,15 +337,11 @@ The western coast of Thaldros is blessed with natural harbors and a climate mode
 - **Harborview:** Harbor town; shipbuilding; naval supplies (pop. ~2,800)
 - **Westport:** Small port; unofficial smuggler haven (pop. ~1,500)
 
-
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote Geography of Tirvandor}}
 \page
 
 **Minor Settlements:** Shellcove, Tidepool, Seaview, Dockside, Lastpost, Westridge, Southpoint, Endwatch, Borderwood (villages) and Driftwood (hamlet)
-
-#### The Sundaran Expanse (Desert)
 
 #### The Sundaran Expanse (Desert)
 
@@ -365,10 +402,17 @@ A transitional badlands region between the Heartlands and Ashfall Barrens. Named
 
 Thaldros experiences distinct seasonal changes, with the Ironspine Mountains creating a rain shadow effect that contributes to the Sundaran Expanse's aridity. The Heartlands receive moderate rainfall year-round, supporting agricultural productivity.
 
----
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
 
+{{wide
+![Aethoria Locations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-aethorias-free-lands.jpg){position:absolute,top:0,left:0,width:100%,height:500px}
+}}
+
+{{padding-top:450px
 ## Aethoria (Eastern Continent)
-
+}}
 The Eastern Continent, known as Aethoria, is a land of deep magic and ancient growth. Where Thaldros is marked by human ambition and dramatic geography, Aethoria is characterized by primordial forests, mysterious swamps, and a profound connection to the natural world. The very air feels thicker here, saturated with magical energy that has shaped evolution and culture alike.
 
 **Capital:** Aethermere (pop. ~38,000)
@@ -386,18 +430,15 @@ Ancient forests of tremendous age where massive star-trees grow so tall their ca
 **Resources:** Starwood timber, astral herbs, star iron
 
 
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Major Settlements:**
+\column
+{{padding-top:450px
 - **Starfall:** Observatory city; meteors fall here (pop. ~6,500)
 - **Moonwatch:** Elven settlement; moon druids (pop. ~4,200)
 - **Shimmerleaf:** Fey-touched village (pop. ~2,800)
 
 **Minor Settlements:** Glowgrove, Nightshade, Twilightwatch, Celestialvale (villages) and Starglimmer, Moonglow (hamlets)
-
+}}
 #### The Crystalvale (North-Central)
 
 A network of pristine lakes and rivers with crystalline waters. The largest freshwater lake system on Aethoria, known for its clarity and magical properties.
@@ -411,7 +452,9 @@ A network of pristine lakes and rivers with crystalline waters. The largest fres
 - **Clearwater:** Fishing and boat-building (pop. ~3,800)
 
 **Minor Settlements:** Lakehaven, Deepwater, Mistshore, Purewater, Silverstream, Shimmerspring, Glasspool (villages) and Crystallake, Clearspring (hamlets)
-
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
 #### The Fractured Coast (Northwest Shore)
 
 The western shore of Aethoria is a broken coastline of islands, coves, and hidden bays. The region bears the scars of the Worldrend most clearly.
@@ -474,12 +517,6 @@ Vast wetlands where water and land blur together. A maze of swamps, bogs, and ba
 **Dangers:** Venomous creatures, disease, quicksand, hostile denizens, toxic plants
 **Resources:** Rare poisons, medicinal plants, exotic leathers, swamp gas
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Major Settlements:**
 - **Marshaven:** Fortified stilt-city; alchemical trade (pop. ~8,000)
 - **Bogrest:** Swamp village (pop. ~2,200)
@@ -512,6 +549,10 @@ A mountain range covered in jungle growth. Unlike the barren peaks of Thaldros, 
 
 **Minor Settlements:** Cliffbloom, Junglepeak, Canopyrest, Vinespur, Summitleaf (villages) and Stonegreen (hamlet)
 
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
+
 #### The Split Peninsula (Southwest)
 
 The southwestern peninsula that appears torn from Thaldros's Reaching Claws. Dramatic cliffs, hidden coves, and a wild frontier feeling.
@@ -530,67 +571,9 @@ The southwestern peninsula that appears torn from Thaldros's Reaching Claws. Dra
 
 Aethoria experiences less seasonal variation than Thaldros, with the climate generally warmer and wetter. The continent's forests create their own weather patterns, and some areas experience localized magical climate effects. The Verdant Wall mountains trap moisture, creating the ultra-humid environment of the western forests while leaving the Brightwater Valley relatively mild.
 
----
-
-## The Island Chains
-
-Between and around the two great continents lie numerous islands and archipelagos. These serve as stepping stones for trade, havens for pirates and outcasts, and homes to unique cultures that blend influences from both continents.
-
-### The Splintered Isles (Western Islands)
-
-**Major Islands:**
-- **Stormwatch Isle:** Home to the Stormwatchers, weather-mages who predict storms
-- **Saltmere:** Tropical island known for salt flats and pearl diving
-- **Western Haven:** Pirate haven and smuggler's port
-
-Located off the western coast of Thaldros, these islands bear the brunt of storms coming off the Sundering Sea. Despite the harsh conditions, they're strategically valuable for trade and military purposes.
-
-### The Drifting Chain (Central Archipelago)
-
-The islands between Thaldros and Aethoria are crucial for maritime trade and have developed their own distinct culture—a blend of eastern and western influences.
-
-**Major Islands:**
-
-**Isla Myrthen:**
-- **Port Myrthen:** The largest settlement in the archipelago (pop. ~9,000), a cosmopolitan trading port where goods from both continents exchange hands. Known for its relaxed attitude toward laws and neutral political stance. Home to the Merchant's Guild headquarters.
-
-**Minor Island Settlements:**
-- Midway (village) - Halfway point for continental crossing
-- Coral Bay (village) - Pearl diving community
-- Trader's Rest (hamlet) - Resupply station
-- Several unnamed islets used as navigation markers
-
-
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote Geography of Tirvandor}}
 \page
-
-### The Shattered Arc (Eastern Islands)
-
-**Major Islands:**
-- **Thornhaven:** Mysterious island shrouded in perpetual mist (pop. ~1,800), home to a reclusive order of monks who study the boundary between life and death
-- **Emerald Isle:** Lush tropical paradise; sacred druidic site
-- **Serpent's Tooth:** Rocky island; lighthouse and naval outpost
-
-Located near Aethoria's fractured coast, these islands share the mystical character of the eastern continent. Many are sacred sites or home to isolated communities seeking spiritual enlightenment.
-
-### The Northern Islands
-
-**Frostwatch:**
-- Small settlements providing harbor services in the harsh northern seas
-- Primarily inhabited by humans and half-orcs
-- Fishing, seal hunting, and strategic naval positioning
-
-### The Southern Islands
-
-Scattered tropical islands south of both continents, many remain unmapped or unexplored. Rumors persist of lost civilizations, hidden treasures, and dangerous creatures lurking in these warm waters.
-
-### Other Notable Islands
-
-Many smaller islands remain unnamed on common maps, ranging from lifeless rocks used as navigation markers to hidden refuges for various groups—pirates, exiled nobles, escaped criminals, or those simply seeking solitude. The total number of islands in the archipelagos is estimated at over 100, though fewer than 20 have permanent settlements.
-
----
 
 ## Roads and Trade Routes
 
@@ -646,12 +629,6 @@ The major settlements of Tirvandor are connected by an extensive road network. R
 - Sundara → Oasis Rest → Dustkeep
 - Caravan route through the expanse
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **The Volcanic Highway**
 - Ashgate → Cinderfall → Flamekeep
 - Specially constructed for volcanic terrain
@@ -671,6 +648,14 @@ The major settlements of Tirvandor are connected by an extensive road network. R
 **The Claw Peninsula Road**
 - Ashgate → Southpoint
 - Southern frontier route
+
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
+
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
 
 ### Major Roads of Aethoria (10 Named Routes)
 
@@ -801,6 +786,12 @@ Numerous minor trails connect smaller villages and hamlets. These are often seas
 
 ## Natural Magic and Ley Lines
 
+![Ley Line Network](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_ley_lines.jpg){width:100%}
+
+![Ley Line Nexus](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ley-line-nexus.jpg){width:325px}
+
+![Ley Line Network Diagram](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ley-line-network-diagram.jpg){width:325px}
+
 Tirvandor's geography is intricately tied to the flow of natural magic through the world. Ley lines—invisible rivers of magical energy—run beneath the surface, intersecting at nodes of particular power.
 
 ### Known Ley Line Nexuses
@@ -891,6 +882,8 @@ These regions hold secrets, ancient ruins, lost civilizations, and dangers unkno
 
 ## The Contested Lands (Frontier Territories)
 
+![The Contested Lands](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-contested-lands-no-mans-land.jpg){width:325px}
+
 While technically part of Thaldros, several regions exist where Crown authority is nominal at best. These "Contested Lands" or frontier territories operate semi-independently, governed by local strongmen, merchant councils, or guild law rather than royal decree.
 
 **Characteristics:**
@@ -903,6 +896,8 @@ While technically part of Thaldros, several regions exist where Crown authority 
 **Primary Contested Regions:**
 
 ### The Reaching Claws
+
+![Thaldros Military Borderlands](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-thaldros-military-borderlands.jpg){width:325px}
 The southwestern badlands peninsula, where volcanic terrain and distance from Kaer Thandros make royal control impractical. Settlements here answer to whoever can enforce their will.
 
 ### The Deep Frontier
@@ -930,7 +925,7 @@ The Crown periodically attempts to bring these regions under control, while fron
 
 # Timeline of Tirvandor - Part 1: Ancient History
 
-![timeline](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-history-timeline-chapter-opener.jpg){width:100%}
+![timeline](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-history-timeline-chapter-opener.jpg){width:100%}
 
 **Ages of Myth, Dawn, Strife, and The Worldrend**
 
@@ -949,6 +944,10 @@ Tirvandor uses the **Common Reckoning (CR)** calendar, established after the Wor
 ---
 
 ## Age of Myth (??-15,000 BS)
+
+![Ancient Precursor Ruins](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ancient-precursor-ruins.jpg){width:325px}
+
+![Precursor Architecture Detail](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ancient-precursor-architecture-detail.jpg){width:325px}
 
 The earliest age, shrouded in legend and oral tradition. Few reliable records exist, and most knowledge comes from ancient ruins, prophetic visions, and the fragmented memories of immortal beings.
 
@@ -1118,6 +1117,8 @@ As civilizations slowly recovered, tensions grew between those who wanted to res
 
 ## The Worldrend (Year 0)
 
+![The Worldrend Scar](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-worldrend-scar.jpg){width:325px}
+
 The cataclysmic event that defines Tirvandor's modern history. The exact causes remain debated, but the consequences were unmistakable—the continent was torn in two, creating the Sundering Sea and reshaping reality itself.
 
 ### The Event
@@ -1214,6 +1215,8 @@ The truth may involve elements of multiple theories, or none at all.
 ---
 
 ## Age of Recovery (0 CR - 400 CR)
+
+![Healing of the Rift](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-healing-of-the-rift.jpg){width:325px}
 
 The first four centuries after the Worldrend were marked by survival, adaptation, and the slow rebuilding of civilization on two now-separate continents.
 
@@ -1679,9 +1682,9 @@ These mysteries drive many adventures and scholarly pursuits in the current age.
 
 # The Pantheon of Tirvandor
 
-![pantheon](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-seven-gods-council.jpg){width:100%}
+![pantheon](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-seven-gods-council.jpg){width:100%}
 
-**Divine Powers and Sacred Mysteries**
+**The Seven Ascended and Sacred Mysteries**
 
 ---
 
@@ -1690,7 +1693,7 @@ These mysteries drive many adventures and scholarly pursuits in the current age.
 The gods of Tirvandor are real, present forces that grant power to their faithful and occasionally manifest in the world. However, they are not all-knowing or all-powerful—they have limitations, conflicts, and mysteries of their own. The relationship between mortals and the divine is complex, shaped by the Divine Silence and the Worldrend, events that changed how gods and mortals interact.
 
 **Divine Classification:**
-- **The Prime Deities:** Major gods worshipped across cultures
+- **The Seven Ascended:** The primary gods worshipped across both continents
 - **The Regional Powers:** Gods prominent in specific geographic or cultural areas
 - **The Ancient Primordials:** Elemental entities predating the current gods
 - **The Forgotten Ones:** Deities whose worship has faded or been forbidden
@@ -1700,63 +1703,55 @@ Most mortals recognize the existence of all gods but actively worship 1-3 that a
 
 ---
 
-## The Prime Deities
+## The Seven Ascended
 
-These gods are widely worshipped across both continents, though interpretations of their nature may vary between cultures.
+These seven gods are universally worshipped across both continents, though interpretations of their nature may vary between cultures. They are called "The Ascended" because ancient texts suggest they were once mortal heroes who transcended to divinity during the Age of Dawn.
 
-### Aethros, The Lightbringer
+### Thandros, The Lawbringer
 
-**Domain:** Sun, Truth, Justice, Healing
-**Symbol:** Golden sun with seven rays
-**Alignment:** Lawful Good
-**Sacred Day:** Summer Solstice
-**Clergy:** Sunguard (paladins), Lightbearers (clerics)
+![Thandros](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-thandros-law-justice.jpg){width:280px}
 
-Aethros represents the ideal of lawful righteousness. His followers believe truth and justice will triumph over lies and tyranny. During the Divine Silence, Aethros was the first god to return, earning him great devotion but also questions about where he had been.
-
-**Teachings:**
-- Truth spoken aloud has power over lies
-- Justice must be tempered with mercy
-- Protect the innocent and weak
-- Light drives away darkness, literally and metaphorically
-
-**Worship:** Grand temples with open roofs to let in sunlight, services at dawn, healing of the sick as holy duty
-
-**Following:** Strong in cities with established legal systems, among paladins, healers, and those seeking justice. Primary deity in Silverpine and Kaer Thandros.
-
----
-
-### Nythara, The Moonwatcher
-
-**Domain:** Moon, Secrets, Travel, Prophecy
-**Symbol:** Crescent moon with a single star
-**Alignment:** Neutral Good
-**Sacred Day:** New Moon
-**Clergy:** Moon Seers (clerics), Star Readers (diviners)
-
-Nythara is the keeper of secrets and the patron of those who travel in darkness—both literal night travelers and those who walk hidden paths. She knows what others hide and sees what is yet to come, though her prophecies are notoriously cryptic.
-
-**Teachings:**
-- Not all truths are meant to be revealed
-- The path forward is shown to those who watch patiently
-- Protect travelers, especially in darkness
-- Mystery has its place in the world
-
-**Worship:** Temples open to the night sky, services under the new moon, pilgrimages between sacred sites
-
-**Following:** Common among travelers, rogues, diviners, and those seeking hidden knowledge. Particularly strong in Starfall and port cities.
-
----
-
-### Gorath, The Forgemaster
-
-**Domain:** Crafting, Mountains, Law, Protection
-**Symbol:** Anvil with crossed hammers
+**Domain:** Law, Justice, Order, Civilization
+**Symbol:** Golden scales balanced on a sword
 **Alignment:** Lawful Neutral
-**Sacred Day:** Midwinter (when the forge is most important for survival)
-**Clergy:** Forgewardens (clerics), Runepriests (specialized clergy)
+**Sacred Day:** First day of each season (marking orderly transitions)
+**Clergy:** Justicars (paladins), Lawkeepers (clerics)
 
-Gorath teaches that through skill, patience, and hard work, mortals can create things of lasting value. He is the god of dwarves first and foremost, but any craftsman may honor him. He values contracts, oaths, and the rule of law.
+Thandros represents the ideal of lawful civilization. His followers believe that order and structure are necessary for society to flourish. The western continent bears his name—Thaldros—testament to his influence on that empire's founding. He is not cruel, but he is unyielding: the law must be upheld, even when mercy might seem kinder.
+
+**Teachings:**
+- Law is the foundation of civilization
+- Justice must be impartial and fair
+- Oaths and contracts are sacred
+- Order protects the weak from chaos
+
+**Worship:** Courthouse-temples with strict hierarchies, trials conducted as religious ceremonies, oath-swearing rituals
+
+**Following:** Dominant in Thaldros, especially Kaer Thandros. Judges, guards, bureaucrats, and those who value stability. Primary deity of the Kingdom of Thaldros.
+
+---
+
+### Aethor, The Liberator
+
+![Aethor](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-aethor-liberation.jpg){width:280px}
+
+**Domain:** Freedom, Light, Hope, Revolution
+**Symbol:** Broken chain wreathed in sunlight
+**Alignment:** Chaotic Good
+**Sacred Day:** Summer Solstice (longest day, most light)
+**Clergy:** Lightbringers (clerics), Chain-Breakers (paladins)
+
+Aethor stands in philosophical opposition to Thandros—where the Lawbringer values order, the Liberator champions freedom. His followers fight against tyranny, slavery, and oppression. The tension between Aethor and Thandros worship mirrors the political divide between Thaldros and Aethoria.
+
+**Teachings:**
+- Freedom is the highest virtue
+- Tyranny must be opposed wherever it rises
+- Light reveals truth and drives away shadows of oppression
+- Hope sustains those who fight for justice
+
+**Worship:** Open-air temples, sunrise services, liberation of the enslaved as holy duty, celebrations of freedom
+
+**Following:** Dominant in Aethoria. Revolutionaries, freedom fighters, escaped slaves, and those who oppose tyranny. The eastern continent's name echoes his influence.
 
 
 {{pageNumber,auto}}
@@ -1764,139 +1759,137 @@ Gorath teaches that through skill, patience, and hard work, mortals can create t
 
 \page
 
+### Moira, The Weaver
+
+![Moira](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-moira-weaver-fate.jpg){width:280px}
+
+**Domain:** Fate, Knowledge, Magic, Prophecy
+**Symbol:** A spindle with three threads (past, present, future)
+**Alignment:** Neutral
+**Sacred Day:** Night of the Seven Stars (rare celestial alignment)
+**Clergy:** Seers (clerics), Fate-Weavers (specialized oracles)
+
+Moira sees the threads of fate that bind all things. She grants visions to her faithful but never reveals the full tapestry—mortals must find their own way. Her temples are centers of learning and prophecy, and her priests are sought for guidance on important decisions.
+
 **Teachings:**
-- Quality work honors the divine
-- An oath once given is sacred
-- Protect what you have built
-- Progress comes through mastery of craft
+- Fate is woven but not immutable
+- Knowledge is power—seek it always
+- The future is not set; choices matter
+- Magic is a gift to be used wisely
 
-**Worship:** Underground temples near forges, blessings of new works, apprenticeship ceremonies
+**Worship:** Libraries converted to temples, divination rituals, preservation of knowledge, ceremonies during meteor showers
 
-**Following:** Dominant among dwarves, strong among blacksmiths, masons, and craftspeople of all races. Ironhold is effectively a theocracy of Gorath.
+**Following:** Wizards, scholars, diviners, and those seeking hidden knowledge. Major temples in Silverpine, Aethermere, and Starfall.
 
 ---
 
-### Sylvara, The Wildmother
+### Kael, The Wanderer
 
-**Domain:** Nature, Growth, Weather, Beasts
-**Symbol:** Oak tree with roots and branches intertwined
+![Kael](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-kael-wanderer.jpg){width:280px}
+
+**Domain:** Travel, Trade, Luck, Trickery
+**Symbol:** A compass rose with a winding road
+**Alignment:** Chaotic Neutral
+**Sacred Day:** First day of Spring (beginning of travel season)
+**Clergy:** Wayfarers (clerics), Road Wardens (rangers who serve)
+
+Kael is the patron of travelers, merchants, and anyone who lives by their wits. He values cleverness over brute force and believes the journey matters more than the destination. His shrines dot every major road, and travelers leave offerings for safe passage.
+
+**Teachings:**
+- The road is home to those who wander
+- Fortune favors the clever and the bold
+- Trade binds people across distances
+- Never trust the same path twice
+
+**Worship:** Roadside shrines, blessing of caravans, offerings at crossroads, pilgrimages to distant temples
+
+**Following:** Travelers, merchants, rogues, and adventurers. Universal in trading cities and along major roads. Particularly strong in Goldreach and port cities.
+
+---
+
+### Sera, The Healer
+
+![Sera](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-sera-the-healer.jpg){width:280px}
+
+**Domain:** Life, Healing, Mercy, Compassion
+**Symbol:** A golden chalice overflowing with water
+**Alignment:** Neutral Good
+**Sacred Day:** Spring Equinox (when life returns)
+**Clergy:** Mercybringers (clerics), Lifeguards (paladins who protect the innocent)
+
+Sera is the most universally beloved of the Seven. Her temples serve as hospitals, her clergy as healers. She teaches that all life is sacred and that mercy is strength, not weakness. Even soldiers pray to Sera before battle—not for victory, but that they might survive to see their families again.
+
+**Teachings:**
+- All life is sacred
+- Healing is the highest calling
+- Mercy is strength, not weakness
+- Protect the vulnerable and ease suffering
+
+**Worship:** Temple-hospitals, healing of the sick as holy duty, comfort of the dying, blessing of births
+
+**Following:** Universal. Healers, midwives, the sick and injured, parents, soldiers. Every major city has a Temple of Sera. The most common deity for Life domain clerics.
+
+
+{{pageNumber,auto}}
+{{footnote TIRVANDOR WORLD GUIDE}}
+
+\page
+
+### Mordain, The Sentinel
+
+![Mordain](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-mordain-sentinel-death.jpg){width:280px}
+
+**Domain:** Death, Protection, Judgment, Memory
+**Symbol:** A shield bearing a closed eye
+**Alignment:** Lawful Neutral
+**Sacred Day:** Autumn Equinox (when the world dies back)
+**Clergy:** Grave Wardens (clerics), Silent Sentinels (paladins who destroy undead)
+
+Mordain guides souls to their proper rest and stands eternal guard against those who would disturb the dead. He is not evil—he is necessary. His clergy conduct funerals, comfort the bereaved, and most importantly, hunt and destroy the undead, which they consider the greatest blasphemy against the natural order.
+
+**Teachings:**
+- Death is natural and not to be feared
+- The dead must be honored and allowed to rest
+- Undeath is an abomination to be destroyed
+- Everyone faces judgment eventually
+
+**Worship:** Austere temples near graveyards, funeral rites, memorial services, cremation or ritual burial
+
+**Following:** Every culture acknowledges Mordain. Grave wardens, those who hunt undead, the bereaved seeking comfort. Major temples in all large cities.
+
+---
+
+### Sylvara, The Wild
+
+![Sylvara](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-sylvara-nature-wild.jpg){width:280px}
+
+**Domain:** Nature, Growth, Storms, Beasts
+**Symbol:** An oak tree struck by lightning, still growing
 **Alignment:** Neutral
-**Sacred Day:** Spring Equinox
-**Clergy:** Druids (her primary servants), Nature Clerics
+**Sacred Day:** Both Equinoxes (balance of seasons)
+**Clergy:** Druids (her primary servants), Storm Priests (clerics)
 
-Sylvara embodies the natural world in all its beauty and brutality. She represents the cycle of life, death, and rebirth. Her worship predates many of the other gods, with some believing she is actually a mortal's understanding of a primal force rather than a traditional deity.
+Sylvara embodies the natural world in all its beauty and brutality. She represents the cycle of life, death, and rebirth—the storm that destroys and the rain that nourishes. Her worship predates written history, and some believe she is not a god at all but the world itself given voice.
 
 **Teachings:**
 - Nature must maintain balance
 - Death feeds life, life returns to death
 - Civilization and wilderness can coexist with respect
-- The strong survive, but the strong also protect the future
+- The strong survive, but the strong also protect
 
-**Worship:** Sacred groves, stone circles, open-air ceremonies, animal sacrifices (returned to the wild), seasonal festivals
+**Worship:** Sacred groves, stone circles, open-air ceremonies, seasonal festivals, offerings returned to the wild
 
-**Following:** Dominant in Aethoria, especially the Emerald Depths and Wildgrove. Druids of Sylvara form powerful councils in eastern politics.
-
----
-
-### Mortas, The Silent Judge
-
-**Domain:** Death, Transition, Judgment, Memory
-**Symbol:** Balanced scales with a raven perched atop
-**Alignment:** Lawful Neutral
-**Sacred Day:** Autumn Equinox (when the world dies back)
-**Clergy:** Death Speakers (clerics), Grave Wardens (paladins who destroy undead)
-
-Mortas guides souls to their proper afterlife and judges the dead. He is not evil—he is necessary. His clergy comfort the bereaved, conduct funerals, and most importantly, prevent and destroy undeath, which they consider the greatest blasphemy.
-
-**Teachings:**
-- Death is natural and not to be feared
-- The dead must be honored but allowed to rest
-- Undeath is a perversion of the natural order
-- Everyone faces the Silent Judge eventually
-
-**Worship:** Austere temples near graveyards, memorial services, cremation or ritual burial
-
-**Following:** Every culture acknowledges Mortas, though some with more fear than others. His clergy are respected everywhere. Major temples in all large cities.
-
----
-
-### Veyrith, The Merchant Prince
-
-**Domain:** Commerce, Travel, Communication, Cunning
-**Symbol:** Gold coin showing a road on one side, a ship on the other
-**Alignment:** Neutral
-**Sacred Day:** First day of Spring (beginning of trade season)
-**Clergy:** Coin Priests (clerics), Trade Factors (business-focused worshippers)
-
-Veyrith teaches that commerce brings prosperity and that prosperity brings peace. He is the god of merchants, traders, and anyone making a deal. He values cunning and success, but deals made under his auspices are binding—breaking a Veyrith-sworn contract brings his curse.
-
-**Teachings:**
-- Prosperity is virtue
-- An honest deal benefits all parties
-- Communication binds people across distances
-- Cleverness is rewarded, stupidity punished
-
-**Worship:** Temples that double as trading halls, blessing of caravans, contract witnessing
-
-**Following:** Universal in cities, especially trading hubs like Port Myrthen, Goldreach, and Crystalbrook. Merchants' guilds are often also religious organizations.
-
----
-
-### Kalythra, The Stormmother
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
-**Domain:** Sea, Storms, Chaos, Freedom
-**Symbol:** Crashing wave with lightning bolt
-**Alignment:** Chaotic Neutral
-**Sacred Day:** Unpredictable—when major storms occur
-**Clergy:** Storm Callers (clerics), Tide Readers (sailors who can predict weather)
-
-Kalythra embodies the raw power and unpredictability of the ocean and storms. She is neither good nor evil—she simply is, like the weather itself. Sailors pray to her for safe passage and fear her wrath. Her moods are as changeable as the sea.
-
-**Teachings:**
-- Freedom is more valuable than safety
-- Respect the power of nature
-- Adapt or be destroyed
-- The storm passes, but the sea remains
-
-**Worship:** Coastal shrines, ship blessings, offerings thrown into the sea, storm dances
-
-**Following:** Dominant in coastal communities and among sailors. Major temples in Goldreach, Marshaven, and all port cities. Feared as much as worshipped.
-
----
-
-### Zarathos, The Archmage
-
-**Domain:** Magic, Knowledge, Innovation, Ambition
-**Symbol:** Spiral of seven colors (the magical spectrum)
-**Alignment:** Neutral
-**Sacred Day:** Night of the Seven Stars (a rare celestial alignment)
-**Clergy:** Lorekeepers (clerics), Arcane Apostles (wizard-priests)
-
-Zarathos is the youngest of the Prime Deities, having ascended from mortal wizard to divinity during the Age of Dawn. He teaches that through magical knowledge, mortals can transcend their limitations. His worship is controversial—some see him as inspiration, others as a dangerous example of hubris.
-
-**Teachings:**
-- Magic is the path to understanding reality
-- Knowledge should be sought, preserved, and advanced
-- Ambition drives progress
-- The unknown should be studied, not feared
-
-**Worship:** Libraries converted to temples, universities, magical academies, ceremonies during meteor showers
-
-**Following:** Strong among wizards and scholars. Major temples in Silverpine, Aethermere, and Starfall. Controversial among more conservative faiths.
+**Following:** Dominant in Aethoria, especially the Emerald Depths and Wildgrove. Druids, rangers, farmers, and those who live close to the land.
 
 ---
 
 ## Regional Powers
 
-These deities are significant in specific regions or to particular cultures, but lack the universal reach of the Prime Deities.
+These deities are significant in specific regions or to particular cultures, but lack the universal reach of the Seven Ascended.
 
 ### Thaldros (Western Continent)
+
+![Thaldros Locations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_thaldros.jpg){width:100%}
 
 **Korak the Ironbound**
 - Domain: War, Strength, Honor in Battle
@@ -1912,14 +1905,22 @@ These deities are significant in specific regions or to particular cultures, but
 - Following: Farmers, parents, community leaders. Dominant in rural areas.
 - Teaching: A strong home is the foundation of society, protect family above all
 
-**Thane Brightgold**
-- Domain: Wealth, Mining, Underground
-- Symbol: Gold nugget
+**Gorath the Forgemaster**
+- Domain: Crafting, Mountains, Law, Protection
+- Symbol: Anvil with crossed hammers
 - Alignment: Lawful Neutral
-- Following: Miners, treasure seekers, dwarven merchants
-- Teaching: Wealth honestly earned is blessed, what's buried should be found
+- Following: Dominant among dwarves, strong among blacksmiths and craftspeople.
+- Teaching: Quality work honors the divine, an oath once given is sacred
+
+
+{{pageNumber,auto}}
+{{footnote TIRVANDOR WORLD GUIDE}}
+
+\page
 
 ### Aethoria (Eastern Continent)
+
+![Aethoria Locations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_aethoria.jpg){width:100%}
 
 **Ealasaïd the Dreamweaver**
 - Domain: Dreams, Illusion, Art, Inspiration
@@ -1935,12 +1936,6 @@ These deities are significant in specific regions or to particular cultures, but
 - Following: Rangers, hunters, barbarians, beast-folk tribes
 - Teaching: The strong survive, hunt with honor, respect the prey
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Merenth the Lifegiver**
 - Domain: Healing, Life, Growth, Fertility
 - Symbol: Green leaf with a water drop
@@ -1948,7 +1943,14 @@ These deities are significant in specific regions or to particular cultures, but
 - Following: Healers, midwives, agricultural communities
 - Teaching: Life is sacred, healing is holy duty, growth should be nurtured
 
-### The Islands
+### The Islands & Seas
+
+**Kalythra the Stormmother**
+- Domain: Sea, Storms, Chaos, Freedom
+- Symbol: Crashing wave with lightning bolt
+- Alignment: Chaotic Neutral
+- Following: Sailors, coastal communities, those who live by the sea
+- Teaching: Respect the power of nature, adapt or be destroyed
 
 **Tharivol the Many-Faced**
 - Domain: Change, Luck, Trickery, Adaptation
@@ -1958,6 +1960,11 @@ These deities are significant in specific regions or to particular cultures, but
 - Teaching: Change is inevitable, luck favors the bold, adapt or die
 
 ---
+
+## The Ancient Primordials
+
+These are not gods in the traditional sense but elemental forces that predate the current pantheon. They are not worshipped through temples but through primal magic and druidic rites.
+
 
 ## The Ancient Primordials
 
@@ -2016,7 +2023,7 @@ These deities were once worshipped but their followings have faded or been activ
 **Morthax the Ever-Dying**
 - Former Domain: Undeath, Decay, Entropy
 - Symbol: Skull with green flames
-- Status: Actively hunted by Mortas's clergy
+- Status: Actively hunted by Mordain's clergy
 - Necromancers may secretly serve him
 
 **The Bound God**
@@ -2041,13 +2048,13 @@ A gathering of high priests from the Prime Deities that meets every seven years 
 
 ### The Order of the Threefold Path
 
-Paladins and clerics who serve Aethros, Nythara, and Mortas together, believing these three form a complete cycle of light, shadow, and ending. Elite monster hunters and protectors of the innocent.
+Paladins and clerics who serve Aethor, Moira, and Mordain together, believing these three form a complete cycle of light, shadow, and ending. Elite monster hunters and protectors of the innocent.
 
 ### The Green Faith
 
 A druidic organization spanning both continents, dedicated to Sylvara and the Primordials. They maintain the sacred groves and regulate who may learn primal magic.
 
-### The Academies of Zarathos
+### The Academies of Moira
 
 Institutions of magical learning that combine religious devotion with arcane study. They sometimes clash with traditional religious authorities over the role of magic in society.
 
@@ -2129,7 +2136,7 @@ Some mortals worship or serve these beings instead of or in addition to the gods
 
 # Factions of Tirvandor
 
-![factions](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-factions-chapter-opener.jpg){width:100%}
+![factions](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-factions-chapter-opener.jpg){width:100%}
 
 **Powers, Politics, and Secret Societies**
 
@@ -2181,7 +2188,7 @@ A loose alliance of mountain and foothills kingdoms that maintain independence w
 **Notable Leaders:**
 - **Lord Commander Thrain Ironoak:** Dwarf representing the united holds
 - **Duke Aldric Stormwind:** Human lord of the largest surface kingdom
-- **High Priestess Elara Dawnbringer:** Religious representative (Aethros)
+- **High Priestess Elara Dawnbringer:** Religious representative (Aethor)
 
 ---
 
@@ -2265,7 +2272,7 @@ Nomadic and semi-nomadic clans that control the desert regions. They have a comp
 
 ---
 
-### The Aetherian Harmony (Northern Aethoria)
+### The Aethorian Harmony (Northern Aethoria)
 
 **Type:** Elven-dominated council system
 **Capital:** Aethermere
@@ -2493,26 +2500,26 @@ Not technically a single organization but a network of criminal groups that coop
 
 ## Religious Orders
 
-### The Lightbringers (Order of Aethros)
+### The Lightbringers (Order of Aethor)
 
 **Type:** Paladin/cleric order
 **Headquarters:** Silverpine Cathedral
 **Membership:** ~5,000 paladins and clerics
 **Influence:** Strong in lawful good regions
 
-Militant arm of Aethros's church, dedicated to fighting evil and protecting the innocent. They are paragons of lawful good ideals—inspiring to some, insufferable to others.
+Militant arm of Aethor's church, dedicated to fighting evil and protecting the innocent. They are paragons of lawful good ideals—inspiring to some, insufferable to others.
 
 **Structure:**
 - Hierarchical, military-style organization
 - Ranks from initiate to Lord Commander
-- Report to the High Priestess of Aethros
+- Report to the High Priestess of Aethor
 - Divided into regional chapters
 
 **Interests:**
 - Destroying undead and fiends
 - Protecting the innocent
 - Upholding justice and law
-- Spreading worship of Aethros
+- Spreading worship of Aethor
 - Guarding against planar incursions
 
 **Operations:**
@@ -2571,14 +2578,14 @@ Most powerful druidic organization, maintaining balance between civilization and
 
 ---
 
-### The Grave Wardens (Order of Mortas)
+### The Grave Wardens (Order of Mordain)
 
 **Type:** Death clerics and undead hunters
 **Headquarters:** Multiple temples in major cities
 **Membership:** ~3,000 clerics and paladins
 **Influence:** Universal respect/fear
 
-Dedicated to Mortas, they ensure proper burial rites, comfort the bereaved, and most importantly, destroy undead wherever found. Grim but necessary.
+Dedicated to Mordain, they ensure proper burial rites, comfort the bereaved, and most importantly, destroy undead wherever found. Grim but necessary.
 
 **Structure:**
 - Semi-autonomous temples
@@ -2863,7 +2870,7 @@ Practitioners of blood magic, considered dark but not inherently evil. They stud
 **Allies:**
 - Lightbringers ↔ Grave Wardens (against undead)
 - Merchant League ↔ Free Cities Alliance (mutual prosperity)
-- Green Circle ↔ Aetherian Harmony (shared values)
+- Green Circle ↔ Aethorian Harmony (shared values)
 - Arcanum ↔ Artificers' Consortium (knowledge sharing)
 
 **Rivals:**
@@ -2885,7 +2892,9 @@ Practitioners of blood magic, considered dark but not inherently evil. They stud
 
 ## Campaign-Specific Factions
 
-### The Iron Guild
+### ![Iron Guild](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-iron-guild-emblem.jpg){width:180px}
+
+The Iron Guild
 
 **Type:** Regional mercenary guild
 **Headquarters:** Frontier settlements (notably the Reaching Claws region)
@@ -2992,7 +3001,7 @@ Once a minor noble house controlling valuable timberlands in the Silverwood regi
 
 # Noble Houses & Dynasties of Tirvandor
 
-![noble-houses](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-noble-houses-chapter-opener.jpg){width:100%}
+![noble-houses](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-noble-houses-chapter-opener.jpg){width:100%}
 
 **The Great Families: Their Rise, Glory, and Fall**
 
@@ -3753,6 +3762,8 @@ Once the most powerful house in the Silverwood, House Blackwood was ancient even
 
 During the Unification Wars, they sided with Thandris but always maintained independence. As the Thandris kings centralized power, Blackwood chafed under increasing royal authority. The tension exploded in 1089 CR.
 
+![House Blackwood's Fall](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-house-blackwoods-execution.jpg){width:325px}
+
 **The Blackwood Rebellion (1089-1092 CR):**
 - Lord Aldric Blackwood claimed the throne through his grandmother's royal blood
 - Civil war split Thaldros; half the nobility backed Blackwood
@@ -4341,6 +4352,8 @@ Founded as military house to defend against coastal raids, House Seawatch once c
 \page
 
 # Aethoria - Eastern Continent
+
+![Aethoria's Free Lands](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-aethorias-free-lands.jpg){width:325px}
 
 ## House Starweaver (Dominant - Celestial Dynasty)
 
@@ -5282,7 +5295,7 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 
 # Settlement Registry of Tirvandor
 
-![settlement-registry](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-goldreach.jpg){width:100%}
+![settlement-registry](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-goldreach.jpg){width:100%}
 
 **Complete Catalog of All Known Settlements**
 
@@ -5904,7 +5917,7 @@ This registry is maintained by the **Cartographer's Guild** with contributions f
 
 # Settlement Histories of Tirvandor
 
-![settlement-histories](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-kaer-thandros.jpg){width:100%}
+![settlement-histories](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-kaer-thandros.jpg){width:100%}
 
 **Noble Houses, Power Struggles, and Centuries of Drama**
 
@@ -5987,6 +6000,8 @@ Kaer Thandros was not built—it was claimed. When King Thorin I Thandris united
 {{footnote TIRVANDOR WORLD GUIDE}}
 
 \page
+
+![House Blackwood's Fall](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-house-blackwoods-execution.jpg){width:325px}
 
 **The Blackwood Rebellion (1089-1092 CR):**
 - Civil war tested city's loyalty
@@ -6496,6 +6511,8 @@ Unlike ancient cities, Crossvale's founding is well-documented. It was deliberat
 - City population reached 12,000
 
 ### The Troubled Period (1089-1200 CR)
+
+![House Blackwood's Fall](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-house-blackwoods-execution.jpg){width:325px}
 
 **The Blackwood Rebellion (1089-1092 CR):**
 - Crossvale changed hands SEVEN TIMES
@@ -7939,7 +7956,7 @@ Built by House Emberthorn around volcanic forges using natural lava heat for sup
 
 # Location Descriptions of Tirvandor
 
-![locations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-silverpine-university-city.jpg){width:100%}
+![locations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-silverpine-university-city.jpg){width:100%}
 
 **Comprehensive Guide to Settlements, Districts, and Points of Interest**
 
@@ -9587,7 +9604,7 @@ Recently a buried temple entrance was discovered during a storm. Sandstone's eld
 
 # Regional Lore & Adventure Hooks
 
-![regional-lore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-adventure-hooks-chapter-opener.jpg){width:100%}
+![regional-lore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-adventure-hooks-chapter-opener.jpg){width:100%}
 
 **A Dungeon Master's Guide to Tirvandor's Regions**
 
@@ -9707,6 +9724,8 @@ Dwarven culture dominates the Ironspine. Ancient clan holds delve deep into the 
 
 ## The Shattered Shore
 
+![The Shattered Coast](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-shattered-coast.jpg){width:325px}
+
 **Climate:** Temperate coastal; frequent storms  
 **Terrain:** Rocky coastline, sea cliffs, small beaches  
 **Population:** Low; fishing communities, sailor outposts  
@@ -9749,6 +9768,8 @@ Fishing communities dominate the Shattered Shore. Life is hard but profitable—
 ---
 
 ## The Silverwood
+
+![Silverpine Ancient Forest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-silverpine-ancient-forest.jpg){width:325px}
 
 **Climate:** Temperate; four distinct seasons  
 **Terrain:** Ancient forest, rolling hills, meandering streams  
@@ -10052,6 +10073,8 @@ Those who dwell in the Ashfall Barrens are tough, independent, and often eccentr
 ---
 
 ## The Reaching Claws
+
+![Thaldros Military Borderlands](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-thaldros-military-borderlands.jpg){width:325px}
 
 **Climate:** Varied; transitions between regions  
 **Terrain:** Rocky badlands, scrubland, volcanic edges  
@@ -10661,7 +10684,7 @@ Peninsula culture is notably different from mainland Aethoria—slower-paced, mo
 
 # Street-Level Location Details for DMs
 
-![street-level](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-goldreach-docks-at-dawn.jpg){width:100%}
+![street-level](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-goldreach-docks-at-dawn.jpg){width:100%}
 
 **Immersive Descriptions for Running Sessions**
 
@@ -10697,6 +10720,8 @@ This document provides **street-level detail** for describing locations during g
 # Major Cities - Detailed Walkthroughs
 
 ## Kaer Thandros - The Mountain Fortress
+
+![Kaer Thandros Throne Room](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-kaer-thandros-throne-room.jpg){width:325px}
 
 ### Approaching from the South Road
 
@@ -11050,6 +11075,10 @@ Standing here at night, wind in your hair, stars overhead, forest below, you und
 ---
 
 ## Goldreach - Maritime Majesty
+
+![Goldreach Skyline](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-goldreach-skyline.jpg){width:325px}
+
+![Goldreach City Council](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-goldreach-city-council.jpg){width:325px}
 
 ### Approaching from the Land Road
 
@@ -11727,6 +11756,10 @@ Let players ask questions. Answer what they'd notice. Don't volunteer everything
 
 ## Ironhold - The Northern Guardian
 
+![Ironhold Mountain City](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ironhold-dwarven-mountain-city.jpg){width:325px}
+
+![Ironhold Mountain Range](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ironhold-mountain-range.jpg){width:325px}
+
 **Population:** ~8,000 (60% human, 25% dwarf, 15% other)
 
 ### Approaching from the South
@@ -12156,6 +12189,8 @@ The prices range from affordable (simple tools) to astronomical (masterwork weap
 # Aethoria Cities - Detailed Walkthroughs
 
 ## Aethermere - The Starlight Capital
+
+![Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-aethermere.jpg){width:325px}
 
 **Population:** ~42,000 (60% elf, 20% half-elf, 10% human, 10% other)
 
@@ -12946,6 +12981,8 @@ Roll d6:
 
 ## Westmarch - The Frontier Outpost
 
+![Border Town](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-border-town-contested-lands.jpg){width:325px}
+
 **Population:** ~1,600 (70% human, 20% half-elf, 10% other)
 **Location:** Western wilderness, last settlement before untamed lands
 
@@ -13157,6 +13194,6 @@ ___
 
 *A campaign setting for the fifth edition of the world's greatest roleplaying game*
 
-![background image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-images/tirvandor-world-the-worldrend.jpg){position:absolute,top:0,left:0,height:100%}
+![background image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-worldrend.jpg){position:absolute,top:0,left:0,height:100%}
 
 {{/backCover}}
