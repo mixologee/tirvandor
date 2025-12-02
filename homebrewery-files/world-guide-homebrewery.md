@@ -15,9 +15,35 @@ Written by Jason "Mixologee" Scheponik
 *For use with the fifth edition of the world's greatest roleplaying game (D&D).*
 
 {{/insideCover}}
-
 \page
 
+{{toc,wide
+# Contents
+
+- #### [{{ Introduction to Tirvandor}}{{ 4}}](#p4)
+- #### [{{ Geography of Tirvandor: The Realm of Deep Magic}}{{ 6}}](#p6)
+- #### [{{ Timeline of Tirvandor - Ancient History}}{{ 22}}](#p22)
+- #### [{{ Timeline of Tirvandor - Recovery & Nations}}{{ 27}}](#p27)
+- #### [{{ Timeline of Tirvandor - Age of Ambition}}{{ 31}}](#p31)
+- #### [{{ The Pantheon of Tirvandor}}{{ 34}}](#p34)
+- #### [{{ Factions of Tirvandor}}{{ 42}}](#p42)
+- #### [{{ Noble Houses & Dynasties of Tirvandor}}{{ 50}}](#p50)
+- #### [{{ Pre-Worldrend Conflicts}}{{ 51}}](#p51)
+- #### [{{ Thaldros - Western Continent}}{{ 57}}](#p57)
+- #### [{{ Aethoria - Eastern Continent}}{{ 66}}](#p66)
+- #### [{{ Settlement Registry of Tirvandor}}{{ 76}}](#p76)
+- #### [{{ Thaldros (Western Continent)}}{{ 77}}](#p77)
+- #### [{{ Aethoria (Eastern Continent)}}{{ 84}}](#p84)
+- #### [{{ Settlement Histories of Tirvandor}}{{ 88}}](#p88)
+- #### [{{ Thaldros - Western Continent}}{{ 89}}](#p89)
+- #### [{{ Aethoria - Eastern Continent}}{{ 98}}](#p98)
+- #### [{{ Islands & Neutral Territories}}{{ 104}}](#p104)
+- #### [{{ Location Descriptions of Tirvandor}}{{ 108}}](#p108)
+- #### [{{ Thaldros - Western Continent}}{{ 109}}](#p109)
+- #### [{{ Aethoria - Eastern Continent}}{{ 120}}](#p120)
+- #### [{{ Selected Towns}}{{ 127}}](#p127)
+- #### [{{ Regional Lore}}{{ 130}}](#p130)
+}}
 
 
 \page
@@ -917,7 +943,7 @@ The Crown periodically attempts to bring these regions under control, while fron
 ![timeline](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-history-timeline-chapter-opener.jpg){position:absolute,top:0,left:0,height:450px,width:100%}
 }}
 {{padding-top:400px
-# Timeline of Tirvandor - Part 1: Ancient History
+# Timeline of Tirvandor - Ancient History
 }}
 
 
@@ -1198,7 +1224,7 @@ The truth may involve elements of multiple theories, or none at all.
 }}
 
 {{padding-top:450px
-# Timeline of Tirvandor - Part 2: Recovery & Nations
+# Timeline of Tirvandor - Recovery & Nations
 }}
 **Age of Recovery (0-400 CR) and Age of Nations (400-900 CR)**
 
@@ -1407,12 +1433,14 @@ Civilizations matured into recognizable modern forms. Kingdoms, city-states, and
 - **900 CR: House Seawatch at height of power** defending coasts
 - Lost ruins discovered and plundered for ancient treasures
 - Beginning of new age of discovery and ambition
-
+{{wide
+![Healing of the Rift](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-thornwood-syndicate-emblem.jpg){position:absolute,bottom:0,left:0,height:800px,width:100%}
+}}
 {{pageNumber,auto}}
 {{footnote Timeline of Tirvandor}}
 \page
 
-# Timeline of Tirvandor - Part 3: Age of Ambition
+# Timeline of Tirvandor - Age of Ambition
 
 **Age of Ambition (900 CR - Present, 1247 CR)**
 
@@ -10264,4 +10292,3 @@ ___
 *A campaign setting for the fifth edition of the world's greatest roleplaying game*
 
 {{/backCover}}
-
