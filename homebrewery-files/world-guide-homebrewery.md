@@ -3417,12 +3417,6 @@ The house consolidated power through:
 - **The Crown Forge:** Possessed the secret to creating artifacts
 - **Royal Legitimacy:** Claimed descent from Pre-Worldrend High Kings
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Major Events:**
 - 612 CR: Thorin I Thandris claims kingship after Battle of Three Peaks
 - 698 CR: King Aldric Thandris expands realm to the Heartlands
@@ -3458,6 +3452,11 @@ The house consolidated power through:
 - House Ironmark (sworn vassals, manage eastern mines)
 - House Silverleaf (marriage alliance)
 - The Forgemaster's Guild (economic partners)
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
 
 **Rivals:**
 - House Ashborne (dispute over southern territories)
@@ -3504,11 +3503,6 @@ No one knows. All direct witnesses died 1,247 years ago. The dispute is now abou
 **Sigil:** Black hammer striking red anvil
 
 
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 ### History
 
 Originally a minor dwarven clan, House Ironmark rose to prominence during the Unification Wars by providing superior weapons to Thorin Thandris. Granted eastern mining territories as reward, they transformed from craftsmen to nobility through shrewd management and mining expertise.
@@ -3552,8 +3546,17 @@ Originally a minor dwarven clan, House Ironmark rose to prominence during the Un
 - House Goldshore (competing for shipping contracts)
 - Underground duergar clans (territorial conflicts in deep mines)
 
-## House Blackwood (Extinct/Fallen - Lost Claimant)
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
+{{wide
+![House Blackwood's Fall](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-house-blackwoods-execution.jpg){position:absolute,top:0,left:0,height:500px,width:100%}
+}}
+
+{{padding-top:450px
+## House Blackwood (Extinct/Fallen - Lost Claimant)
+}}
 **Region:** The Silverwood (formerly)  
 **Seat:** Raven's Keep (ruins)  
 **Rise:** 587-1089 CR  
@@ -3566,8 +3569,8 @@ Once the most powerful house in the Silverwood, House Blackwood was ancient even
 
 During the Unification Wars, they sided with Thandris but always maintained independence. As the Thandris kings centralized power, Blackwood chafed under increasing royal authority. The tension exploded in 1089 CR.
 
-![House Blackwood's Fall](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-house-blackwoods-execution.jpg){width:325px}
-
+\column
+{{padding-top:450px
 **The Blackwood Rebellion (1089-1092 CR):**
 - Lord Aldric Blackwood claimed the throne through his grandmother's royal blood
 - Civil war split Thaldros; half the nobility backed Blackwood
@@ -3576,12 +3579,16 @@ During the Unification Wars, they sided with Thandris but always maintained inde
 - Lord Aldric and all known heirs executed for treason
 - Raven's Keep burned, lands distributed to loyalist houses
 - Blackwood name forbidden; family line declared extinct
-
+}}
 **Post-Rebellion:**
 - 1092-1150 CR: Remaining Blackwood sympathizers hunted down
 - Family vaults plundered, histories destroyed, lands renamed
 - Any Blackwood descendant found was "disappeared"
 - The Silverwood never fully recovered from the civil war's devastation
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 ### Current Status (1247 CR)
 
@@ -3591,12 +3598,6 @@ During the Unification Wars, they sided with Thandris but always maintained inde
 **Legacy:** Name still whispered in Silverwood; some consider them heroes
 
 ### The Lost Heir
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 Persistent rumors claim:
 - Lady Elara Blackwood was pregnant when captured; child born in secret before her execution
@@ -3666,6 +3667,10 @@ Unlike most elven houses that shun human politics, Silverleaf pragmatically alli
 - 1105 CR: Married into House Thandris to repair reputation
 - 1200s: Increasingly concerned about deforestation and human expansion
 
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
 ### Current Status (1247 CR)
 
 **Ruler:** Lord Elenion Silverleaf (age 487, elf)
@@ -3680,12 +3685,6 @@ Unlike most elven houses that shun human politics, Silverleaf pragmatically alli
 - Leads the Forest Guard
 - Distrusts humans despite political necessities
 - Angry at Starweaver "abandonment" of forest traditions
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 **Heir:** Lady Elara Silverleaf-Thandris (age 22, half-elf)
 - Daughter of Lord Elenion and Princess Elara Thandris (King's daughter)
@@ -3761,6 +3760,12 @@ Unlike northern houses built on ancient bloodlines, Ashborne's power comes from:
 - 920 CR: Malik Ashborne unites three largest nomad clans through marriage
 - 967 CR: Founds Sundara as permanent trade city
 - 1050 CR: Granted nobility by King Thandris in exchange for tax revenues
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
+
 - 1156 CR: Profited enormously from dragon crisis by providing war supplies
 - 1200s: Expanding influence into Heartlands and challenging royal authority
 
@@ -3771,11 +3776,6 @@ Unlike northern houses built on ancient bloodlines, Ashborne's power comes from:
 - Third-generation noble but acts like ancient dynasty
 - Seven children from three wives (succession unclear)
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 **Holdings:**
 - Sundara (major city, population ~18,000)
@@ -3856,15 +3856,15 @@ Founded by a half-elf merchant captain (descendant of Aldris the Younger) who ma
 - 834 CR: Financed defense against orc invasions (bought nobility)
 - 920-1000 CR: Dominated all western maritime trade
 - 1156 CR: Loaned massive sums for dragon defense (king heavily indebted)
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
+
 - 1230 CR: Kraken incident (Crystalborn refused to help)
 - 1246 CR: Ancient map stolen (blames Crystalborn)
 - 1200s: Now among kingdom's most powerful houses through debt control
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 ### Current Status (1247 CR)
 
@@ -3947,12 +3947,6 @@ Ancient dwarven clan that ruled eastern Ironspine before the Unification. Initia
 
 ### Conflicts & Alliances
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Allies:**
 - Other declining/minor houses (shared grievances)
 - Mercenary guilds
@@ -3962,6 +3956,10 @@ Ancient dwarven clan that ruled eastern Ironspine before the Unification. Initia
 - House Ironmark (hatred burns eternal)
 - House Thandris (for backing Ironmark)
 - Successful merchant houses (jealousy)
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 **Internal Tensions:**
 - Daughters fighting over succession (one wants peace with Ironmark, one wants war)
@@ -4033,12 +4031,6 @@ The Heartlands were fractured among dozens of small landholders until the great 
 
 ## House Emberthorn (Fallen - Volcanic Lords)
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Region:** The Ashfall Barrens  
 **Seat:** Ashgate (formerly)  
 **Rise:** 920-1156 CR  
@@ -4056,6 +4048,10 @@ House Emberthorn rose to power during the volcanic settlement period, mastering 
 - Dragon destroyed half their holdings in a single day
 - Family fortunes destroyed, fortress burned
 - Surviving Emberthorns scattered or enslaved to dragon
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 **Aftermath:**
 - 1156-1200 CR: Dragon ruled region directly
@@ -4122,12 +4118,6 @@ Founded as military house to defend against coastal raids, House Seawatch once c
 - Refuses to adapt to merchant-dominated world
 - Two sons (both competent sailors, both broke)
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Holdings:**
 - Stormhaven (fortified town)
 - Three coastal fortresses (understaffed)
@@ -4152,12 +4142,11 @@ Founded as military house to defend against coastal raids, House Seawatch once c
 - Pirates (constantly raiding)
 - Merchant houses (don't need military protection anymore)
 
-
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
 \page
 
 # Aethoria - Eastern Continent
-
-![Aethoria's Free Lands](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-aethorias-free-lands.jpg){width:325px}
 
 ## House Starweaver (Dominant - Celestial Dynasty)
 
@@ -4210,12 +4199,6 @@ Unlike western houses focused on military power or wealth, Starweavers accumulat
 - Predicted every major Aehorian war (after it was too late to prevent)
 - Preserved the Star Staff and Stellar Crown
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 ### Current Status (1247 CR)
 
 **Ruler:** Archmagister Elaris Starweaver (age 612, elf)
@@ -4247,6 +4230,10 @@ Unlike western houses focused on military power or wealth, Starweavers accumulat
 - Predicts events (sometimes)
 - Controls access to ancient knowledge
 - Pre-Worldrend legitimacy
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 ### Conflicts & Alliances
 
@@ -4297,12 +4284,6 @@ Unlike western houses focused on military power or wealth, Starweavers accumulat
 - Neither house will negotiate
 - Some say the staves WANT to be reunited
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 *The Greenstar Codex:*
 - Spell book combining star and forest magic
 - Written by the original Starleaf founders
@@ -4341,6 +4322,11 @@ House Aethermere claims descent from the eastern bloodline of the Pre-Worldrend 
 - Descended from Prince Aethos, younger son of King Aldric the Wise
 - Scholar, druid, and mystic who studied with eastern sages
 - Father's favorite (according to Aethermere history)
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
 - Wiser and more suited to rule than warlike brother Theron
 - When Worldrend struck, claimed throne from eastern lands
 
@@ -4384,12 +4370,6 @@ The royal house of Aethoria rules differently than western kings:
 - 1089-1092 CR: House Splittide rebellion (fey war)
 - 1205 CR: Rejected Thandris marriage proposal (succession implications)
 - 1247 CR: Current queen childless; chosen heir is half-elf (controversial)
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 ### Current Status (1247 CR)
 
@@ -4439,6 +4419,11 @@ The royal house of Aethoria rules differently than western kings:
 - Some say world-trees are dying (heresy?)
 - Western expansion threatening forests
 - Theron's youth and half-elf status controversial
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
 - **The western royals refuse to acknowledge eastern legitimacy**
 
 ### The Royal Claim
@@ -4475,11 +4460,6 @@ No one knows. All direct witnesses died 1,247 years ago. The dispute is now abou
 - Symbolically crucial (whoever holds it looks legitimate)
 - Thandris demands return; Aethermere refuses
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 ### Pre-Worldrend Legacy
 
@@ -4540,6 +4520,10 @@ House Crystalborn is the eastern remnant of the legendary House Deepwater, the g
 - Western branch (Aldris the Younger) also survived
 - Both branches claimed to be legitimate heirs
 
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
 **Transformation Period (0-450 CR):**
 Unlike western Goldshore which remained merchants, eastern branch underwent dramatic transformation:
 
@@ -4567,12 +4551,6 @@ Over generations, the eastern bloodline developed rare magical talent:
 - Purify or taint water
 - Command water elementals
 - Navigate perfectly by "listening" to currents
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 **Why the Gift Emerged:**
 - Proximity to magical Crystalvale lakes?
@@ -4644,6 +4622,10 @@ Two heirs died "accidentally" (actually murdered by siblings)
 - Merchant guilds
 - Fishing communities
 
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
 **Rivals:**
 - Overland traders (resent tariffs)
 - Houses wanting water access
@@ -4657,12 +4639,6 @@ Two heirs died "accidentally" (actually murdered by siblings)
 - Something at bottom of deepest lake awakening
 - **Goldshore's water-thievery accusations**
 - **Naval confrontation imminent**
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 ### The Deepwater Legacy
 
@@ -4747,10 +4723,8 @@ A relatively young house by elven standards, House Thornveil rose from swamp-dwe
 - Swamp navigation monopoly
 - Growing spy network
 
-
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote Noble Houses of Tirvandor}}
 \page
 
 **Power Base:**
@@ -4839,11 +4813,6 @@ Reclusive house dwelling in perpetual mist of the highlands, House Windwhisper a
 - The mists are spreading
 
 
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 ## House Verdantheart (Dominant - Mountain Druids)
 
 **Region:** The Verdant Wall  
@@ -4855,6 +4824,10 @@ Reclusive house dwelling in perpetual mist of the highlands, House Windwhisper a
 ### History
 
 Druidic house ruling the jungle-covered southern mountains, House Verdantheart maintains ancient traditions of nature worship and guardian oaths. They believe the Verdant Wall protects Aethoria from something to the south—what, they won't say.
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 **Philosophy:**
 - The mountains are a wall for a reason
@@ -4931,12 +4904,6 @@ House Splittide ruled the peninsula before the Worldrend Echoes War (1089-1092 C
 - Territory given to druid circles
 - House name forbidden
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Aftermath:**
 - Lands became Wildgrove (druidic sanctuary)
 - Splittide sympathizers persecuted
@@ -4963,6 +4930,10 @@ Rumors persist:
 - Druidic training
 - Legal claim (disputed)
 - Dangerous mission
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 ## House Brightwater (Ascendant - River Lords)
 
@@ -5021,12 +4992,6 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 - House Crystalborn (water rights disputes)
 - Conservative druids (dislike engineering approach)
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Tensions:**
 - Old houses resent new money influence
 - Rapid growth creating problems
@@ -5061,8 +5026,6 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 - House Windwhisper (Isolationist, fading relevance)
 - House Verdantheart (Guardian tradition, elder dying)
 
----
-
 ## Cross-Continental Patterns
 
 ### The Twin Rebellions (1089-1092 CR)
@@ -5071,6 +5034,10 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 - Both crushed by royal houses
 - Both have rumored survivors
 - Coincidence or coordination?
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 ### Rising vs. Falling
 - Old houses (ancient bloodlines) slowly declining
@@ -5089,18 +5056,17 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 *This document provides the foundation for settlement histories, timeline expansion, and campaign development. These families' conflicts, alliances, and secrets drive the political landscape of Tirvandor.*
 
 
-
-
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote Noble Houses of Tirvandor}}
 \page
 
+{{wide
+![settlement-registry](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-culture-and-society-chapter-opener.jpg){position:absolute,top:0,left:0,height:700px,width:100%}
+}}
 
+{{padding-top:650px
 # Settlement Registry of Tirvandor
-
-![settlement-registry](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-goldreach.jpg){width:100%}
-
+}}
 **Complete Catalog of All Known Settlements**
 
 *Last Updated: Year 1247 of the Third Age*
@@ -5110,17 +5076,16 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 ## Overview
 
 This registry catalogs all known permanent settlements in Tirvandor, from the great capital cities to remote hamlets. Each entry includes the settlement's type, location, approximate population, primary industry, and notable features.
+\column
+{{padding-top:650px
 
 **Total Settlements:** 204
 - **Major Cities:** 13 (2 capitals)
 - **Towns:** 42
 - **Villages:** 125
 - **Hamlets:** 24
-
----
-
 ## Classification System
-
+}}
 **Major Cities:** Population 10,000-50,000+. Significant political, economic, or cultural centers.
 
 **Towns:** Population 1,000-10,000. Regional trade hubs with diverse industries.
@@ -5129,9 +5094,8 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 
 **Hamlets:** Population 10-100. Small homesteads, waystations, or remote outposts.
 
----
-
-
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
 \page
 
 # Thaldros (Western Continent)
