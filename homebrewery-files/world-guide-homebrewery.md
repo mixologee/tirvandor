@@ -1,8 +1,5 @@
-
-
 ![cover image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-guide-cover-converted.png){position:absolute,top:0,left:0,width:100%}
 
-{{/frontCover}}
 
 \page
 
@@ -653,8 +650,9 @@ The major settlements of Tirvandor are connected by an extensive road network. R
 {{footnote Geography of Tirvandor}}
 \page
 
+![cover image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_thaldros.jpg){position:absolute,top:0,left:0,height:100%,width:100%}
+
 {{pageNumber,auto}}
-{{footnote Geography of Tirvandor}}
 \page
 
 ### Major Roads of Aethoria (10 Named Routes)
@@ -698,7 +696,13 @@ The major settlements of Tirvandor are connected by an extensive road network. R
 **The Peninsula Path**
 - Wildgrove → Thornhaven (ferry) → Splitcove
 - Southwest coastal route
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
 
+![cover image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_aethoria.jpg){position:absolute,top:0,left:0,height:100%,width:100%}
+{{pageNumber,auto}}
+\page
 ### Secondary Roads (23 Named Routes)
 
 **Thaldros Secondary Roads (14):**
@@ -716,12 +720,6 @@ The major settlements of Tirvandor are connected by an extensive road network. R
 - Desert Oasis Circuit (Connects desert towns)
 - Southern Peninsula Track (Reaching Claws region)
 - The Crossroads Network (Connects major junctions)
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 **Aethoria Secondary Roads (9):**
 - Fernwatch Connection (Aethermere to Fernwatch)
@@ -782,17 +780,21 @@ Numerous minor trails connect smaller villages and hamlets. These are often seas
 - Winter conditions can double or triple journey lengths
 - Mounts and wagons affect speed based on road quality
 
----
 
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
+
+
+{{wide
+![Ley Line Network](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_ley_lines.jpg){position:absolute,top:0,left:0,width:100%}
+}}
+
+{{padding-top:500px
 ## Natural Magic and Ley Lines
-
-![Ley Line Network](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_ley_lines.jpg){width:100%}
-
-![Ley Line Nexus](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ley-line-nexus.jpg){width:325px}
-
-![Ley Line Network Diagram](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ley-line-network-diagram.jpg){width:325px}
-
+}}
 Tirvandor's geography is intricately tied to the flow of natural magic through the world. Ley lines—invisible rivers of magical energy—run beneath the surface, intersecting at nodes of particular power.
+
 
 ### Known Ley Line Nexuses
 
@@ -806,19 +808,14 @@ Tirvandor's geography is intricately tied to the flow of natural magic through t
 ## Travel Hazards and Considerations
 
 Traveling in Tirvandor requires preparation and respect for the land:
-
+\column
+{{padding-top:500px
 **Thaldros:**
 - Mountain passes close in winter
 - Desert crossings require experienced guides
 - Bandits along less-traveled routes
 - Occasional monster incursions from wilderness areas
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
+}}
 **Aethoria:**
 - Forest paths require rangers or druids to navigate safely
 - Swamp regions are nearly impassable without local guides
@@ -831,7 +828,9 @@ Traveling in Tirvandor requires preparation and respect for the land:
 - Sea monsters in deep waters
 - Navigation requires skilled sailors
 
----
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
 
 ## Cultural Geography
 
@@ -878,11 +877,11 @@ These regions hold secrets, ancient ruins, lost civilizations, and dangers unkno
 
 *This geography serves as the foundation for understanding Tirvandor's cultures, conflicts, and stories. The land is not merely a backdrop but an active participant in the realm's history—shaping those who live upon it and being shaped in turn by their actions.*
 
----
-
-## The Contested Lands (Frontier Territories)
+\column
 
 ![The Contested Lands](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-contested-lands-no-mans-land.jpg){width:325px}
+
+## The Contested Lands (Frontier Territories)
 
 While technically part of Thaldros, several regions exist where Crown authority is nominal at best. These "Contested Lands" or frontier territories operate semi-independently, governed by local strongmen, merchant councils, or guild law rather than royal decree.
 
@@ -896,18 +895,13 @@ While technically part of Thaldros, several regions exist where Crown authority 
 **Primary Contested Regions:**
 
 ### The Reaching Claws
-
-![Thaldros Military Borderlands](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-thaldros-military-borderlands.jpg){width:325px}
 The southwestern badlands peninsula, where volcanic terrain and distance from Kaer Thandros make royal control impractical. Settlements here answer to whoever can enforce their will.
+
+
 
 ### The Deep Frontier
 Remote settlements in the Silverwood's western reaches, where logging camps and mining outposts operate under guild law rather than Crown law.
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 ### The Border Marches
 The transitional zone between the Heartlands and the Reaching Claws, where "frontier justice" is the norm and mercenary towns have sprung up to service those operating outside normal society.
@@ -915,22 +909,19 @@ The transitional zone between the Heartlands and the Reaching Claws, where "fron
 **Political Significance:**
 The Crown periodically attempts to bring these regions under control, while frontier leaders resist centralization. This ongoing tension creates opportunities for mercenaries, adventurers, and those seeking to profit from instability.
 
-
-
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote Geography of Tirvandor}}
 \page
 
-
+{{wide
+![timeline](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-history-timeline-chapter-opener.jpg){position:absolute,top:0,left:0,height:450px,width:100%}
+}}
+{{padding-top:400px
 # Timeline of Tirvandor - Part 1: Ancient History
+}}
 
-![timeline](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-history-timeline-chapter-opener.jpg){width:100%}
 
 **Ages of Myth, Dawn, Strife, and The Worldrend**
-
-
----
 
 ## The Calendar
 
@@ -945,14 +936,10 @@ Tirvandor uses the **Common Reckoning (CR)** calendar, established after the Wor
 
 ## Age of Myth (??-15,000 BS)
 
-![Ancient Precursor Ruins](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ancient-precursor-ruins.jpg){width:325px}
-
-![Precursor Architecture Detail](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ancient-precursor-architecture-detail.jpg){width:325px}
-
 The earliest age, shrouded in legend and oral tradition. Few reliable records exist, and most knowledge comes from ancient ruins, prophetic visions, and the fragmented memories of immortal beings.
-
+{{padding-top:400px
 ### The First Creation
-
+}}
 According to myth, Tirvandor was once a single landmass, a perfect world where the **Primordials**—entities of pure elemental power—walked alongside the **First Gods**. The land was raw and wild, magic flowing without restraint. The Primordials shaped the terrain through their very existence: volcanoes rose where fire walked, oceans formed from the tears of water, forests grew in the footsteps of life.
 
 **Key Concepts:**
@@ -965,6 +952,10 @@ According to myth, Tirvandor was once a single landmass, a perfect world where t
 ### The Dragon Hegemony (~12,000-8,000 BS)
 
 The great dragons rose to dominance, establishing vast territories and amassing knowledge. This was the age of dragon-lords, when mortals were few and scattered. The dragons created the first written languages, established the foundations of arcane magic, and built monuments that would endure for millennia.
+
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
+\page
 
 **Major Events:**
 - The Chromatic Conclave: Five great wyrms divided the world into color-coded domains
@@ -1008,12 +999,6 @@ The dwarves discovered the Ironspine Mountains and began their great delving int
 - Development of runic forging techniques
 - First conflicts with underground horrors (aberrations, mind flayers)
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 ### The Human Emergence (~5,000-3,500 BS)
 
 Humans, shorter-lived but adaptable, spread rapidly across both continents. They learned from elves and dwarves but developed their own distinct cultures and approaches to magic.
@@ -1043,6 +1028,9 @@ The longest and darkest age in recorded history. Wars, plagues, and supernatural
 ### The First Planar Incursions (~3,000-2,800 BS)
 
 Portals to other planes began opening spontaneously across Tirvandor. Demons, devils, and aberrations spilled into the world. The causes remain debated—some blame reckless magical experimentation, others believe the planes themselves were shifting.
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
+\page
 
 **Major Events:**
 - The Demon Wars: Centuries-long conflict against extraplanar invaders
@@ -1097,12 +1085,6 @@ A plague unlike any before swept across both continents. Neither magical nor ent
 - Breakdown of trade networks
 - Forests reclaimed agricultural land
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 ### Precursors to the Worldrend (~1,200-1,000 BS)
 
 As civilizations slowly recovered, tensions grew between those who wanted to restore the old ways and those who sought to forge something new. Philosophical and political differences escalated into conflict.
@@ -1113,11 +1095,18 @@ As civilizations slowly recovered, tensions grew between those who wanted to res
 - Religious disagreements about the nature of the Divine Silence
 - Control of ley line nexuses became a strategic goal
 
----
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
+\page
 
+{{wide
+![The Worldrend Scar](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-sundering-scar.jpg){position:absolute,top:0,left:0,width:100%}
+}}
+
+{{padding-top:500px
 ## The Worldrend (Year 0)
+}}
 
-![The Worldrend Scar](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-worldrend-scar.jpg){width:325px}
 
 The cataclysmic event that defines Tirvandor's modern history. The exact causes remain debated, but the consequences were unmistakable—the continent was torn in two, creating the Sundering Sea and reshaping reality itself.
 
@@ -1130,23 +1119,26 @@ The Worldrend occurred over the course of three days, each more catastrophic tha
 - Buildings collapsed, mountains shifted
 - Ley lines began to destabilize
 
+
+
 **Second Day - The Breaking (Year 0 CR):**
 - The ground began to split
 - Massive fissures opened across the central regions
 - Reality itself seemed to crack—planar boundaries weakened
-
+}}
 **Third Day - The Separation (Year 0 CR):**
 - The two halves of the continent completed their separation
 - The Sundering Sea rushed in to fill the gap
 - Magical storms raged for weeks
 - Thousands of refugees sought safety
-
+\column
+{{padding-top:500px
 **Immediate Aftermath:**
 - Estimated death toll: 30-40% of the surviving population
 - Complete disruption of civilization
 - Loss of central regions that now form the seafloor
 - Creation of new coastlines and the island chains
-
+}}
 ### Specific Losses and Survivors (Year 0 CR)
 
 **Royal Lines Sundered:**
@@ -1155,7 +1147,9 @@ The Worldrend occurred over the course of three days, each more catastrophic tha
 - **Prince Theron (West)** survives in western territories, claims throne as High King
 - **Prince Aethos (East)** survives in eastern lands, establishes eastern throne
 - Beginning of 1,247-year succession dispute that continues to present day
-
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
+\page
 **House Deepwater Shattered:**
 - **Palace Port** (greatest trading city in world, House Deepwater HQ) **sinks beneath waves**
 - **Lord Aldris Deepwater and main family line** lost with the city
@@ -1178,18 +1172,12 @@ The Worldrend occurred over the course of three days, each more catastrophic tha
 - New jagged coastlines created on both continents
 - Mountain peaks become island chains and archipelagos
 - Ley line network permanently disrupted
-
+\column
 ### Theories on the Cause
 
 Scholars and mages have debated for over a thousand years what caused the Worldrend:
 
 **The Weapon Theory:** The most popular belief—that a magical weapon of unprecedented power was detonated, intentionally or accidentally, as a final act in an escalating war.
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 **The Divine Intervention Theory:** That the gods themselves sundered the continents to separate warring factions and prevent total annihilation.
 
@@ -1201,22 +1189,20 @@ Scholars and mages have debated for over a thousand years what caused the Worldr
 
 The truth may involve elements of multiple theories, or none at all.
 
----
-
-**Continue to Part 2: Age of Recovery (0-900 CR)**
-
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
 \page
 
-# Timeline of Tirvandor - Part 2: Recovery & Nations
+{{wide
+![Healing of the Rift](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-healing-of-the-rift.jpg){position:absolute,top:0,left:0,width:100%}
+}}
 
+{{padding-top:450px
+# Timeline of Tirvandor - Part 2: Recovery & Nations
+}}
 **Age of Recovery (0-400 CR) and Age of Nations (400-900 CR)**
 
-
----
-
 ## Age of Recovery (0 CR - 400 CR)
-
-![Healing of the Rift](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-healing-of-the-rift.jpg){width:325px}
 
 The first four centuries after the Worldrend were marked by survival, adaptation, and the slow rebuilding of civilization on two now-separate continents.
 
@@ -1230,7 +1216,9 @@ The first four centuries after the Worldrend were marked by survival, adaptation
 - First tentative attempts to understand what happened
 - Desperate search for lost family members across the new sea
 
+{{padding-top:490px
 ### The Founding Era (10-100 CR)
+}}
 
 **Early Reconstruction (10-50 CR):**
 - Communities struggling to maintain civilization
@@ -1250,6 +1238,11 @@ The first four centuries after the Worldrend were marked by survival, adaptation
 **Major Cities Refounded:**
 - **110 CR: Proto-Kaer Thandros** established at ancient dwarven fortress site
 - **125 CR: Proto-Aethermere** founded in Emerald Depths
+
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
+\page
+
 - **150 CR: Trade routes slowly reestablished** within each continent
 - **175 CR: The Great Libraries founded** to preserve pre-Worldrend knowledge
 
@@ -1275,12 +1268,6 @@ The first four centuries after the Worldrend were marked by survival, adaptation
 - **237 CR: Salvage Fleet Battle** - Crystalborn vs Goldshore navies clash over salvage rights
 - **250 CR: Different approaches to magic and government** solidify on each continent
 - **275 CR: Archipelagos serve as neutral ground** for rare diplomatic meetings
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 **The Failed Reunion (327 CR):**
 - **327 CR: Silverleaf heir visits Starfall** seeking to reunite family knowledge
@@ -1308,8 +1295,6 @@ The first four centuries after the Worldrend were marked by survival, adaptation
 - **500 CR: Cultural exchange resumes** between continents
 - **550 CR: Tensions over old conflicts emerge** despite renewed contact
 
----
-
 ## Age of Nations (400 CR - 900 CR)
 
 Civilizations matured into recognizable modern forms. Kingdoms, city-states, and other political entities solidified their borders and identities.
@@ -1327,6 +1312,10 @@ Civilizations matured into recognizable modern forms. Kingdoms, city-states, and
 - **600 CR: Water-speaking abilities manifesting** in Crystalborn bloodline
 - Magical talents growing with each generation
 - Shift from merchants to mystical water-speakers complete
+
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
+\page
 
 **The Unification Wars Begin (612 CR):**
 - **612 CR: Thorin I Thandris claims kingship** after Battle of Three Peaks
@@ -1361,12 +1350,6 @@ Civilizations matured into recognizable modern forms. Kingdoms, city-states, and
 - **698 CR: Captain Aldris Goldshore** (named for ancestor) given Goldreach charter
 - Formally abandoned "Deepwater" name while honoring heritage
 - Granted nobility by King Thandris in exchange for financing wars
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 ### The Eastern Harmony (400-700 CR)
 
@@ -1406,13 +1389,17 @@ Civilizations matured into recognizable modern forms. Kingdoms, city-states, and
 - Made fortune supplying armies, granted official nobility
 - **834 CR: Crossvale withstands orc siege** through unified defense
 
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
+\page
+
 **Aftermath and Consolidation (834-893 CR):**
 - **850 CR: House Heartwood founded** by merger of three farming families
 - **850 CR: Many frontier settlements abandoned** to monster threats
 - **860 CR: Increased demand** for magic items and armed forces
 - **870 CR: Theories about monster resurgence** extensively debated
 - **893 CR: House Silverleaf remains neutral** during orc invasions (controversial decision)
-
+\column
 ### The Second Exploration Era Begins (900 CR)
 
 - **900 CR: Adventurers push into unexplored regions**
@@ -1421,18 +1408,13 @@ Civilizations matured into recognizable modern forms. Kingdoms, city-states, and
 - Lost ruins discovered and plundered for ancient treasures
 - Beginning of new age of discovery and ambition
 
----
-
-**Continue to Part 3: Age of Ambition (900-1247 CR)**
-
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
 \page
 
 # Timeline of Tirvandor - Part 3: Age of Ambition
 
 **Age of Ambition (900 CR - Present, 1247 CR)**
-
-
----
 
 ## Age of Ambition (900 CR - Present, 1247 CR)
 
@@ -1451,12 +1433,6 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **967 CR: Sundara founded** by Malik Ashborne as "City of the Sun"
 - Permanent city built at largest oasis cluster in desert
 - **975 CR: Territories significantly expanded** through exploration
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 **End of Exploration Era (975-1000 CR):**
 - **1000 CR: House Heartwood granted nobility** for feeding kingdom during famines
@@ -1501,6 +1477,10 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1092 CR: House Blackwood officially declared extinct**
 - **1092 CR: House Splittide crushed** in Aethoria, leaders executed
 - **1092 CR: Blackwood sympathizers begin being hunted** systematically
+
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
+\page
 
 **Aftermath (1092-1150 CR):**
 - **1092-1150 CR: Remaining Blackwood sympathizers hunted down** across decades
@@ -1551,12 +1531,6 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1201 CR: Survivors begin returning** to Ashfall Barrens
 - **1210 CR: House Ironmark recovery complete**
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 ### The Current Era (1125-1247 CR)
 
 **Major Developments (1185-1220 CR):**
@@ -1579,6 +1553,11 @@ The current age, marked by renewed exploration, magical innovation, political in
 
 **Recent Events (1235-1247 CR):**
 - **1235 CR: Thornhaven Phenomenon** - island experiences reality distortions for three months, still being studied
+
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
+\page
+
 - **1240 CR: Increased planar instability** reported across both continents
 - **1242 CR: Discovery of ancient prophecies** in various ruins
 - **1243 CR: Diving expedition finds ancient royal seal** near Sundering Sea floor
@@ -1591,8 +1570,6 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1246 CR: Cold war threatens to turn hot** between merchant houses
 
 **Current Year: 1247 CR**
-
----
 
 ## Patterns and Cycles
 
@@ -1610,8 +1587,6 @@ Some scholars believe Tirvandor is approaching another significant change, point
 - Signs and portents reported by seers
 - The 1,250th anniversary of the Worldrend approaching (in 3 years)
 
----
-
 ## Lost History
 
 Much knowledge was lost in the Worldrend and previous catastrophes:
@@ -1626,8 +1601,6 @@ Much knowledge was lost in the Worldrend and previous catastrophes:
 
 These mysteries drive many adventures and scholarly pursuits in the current age.
 
----
-
 ## Notable Historical Mysteries
 
 **The Worldrend's True Cause:**
@@ -1639,12 +1612,6 @@ These mysteries drive many adventures and scholarly pursuits in the current age.
 - How did the dragon attack on Kaer Thandros end so suddenly?
 - What did King Thandris promise Infernalix?
 - Is payment still owed? Will the dragon return?
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 **The Lost Heirs:**
 - Did any Blackwood heirs survive the purges?
@@ -1662,31 +1629,26 @@ These mysteries drive many adventures and scholarly pursuits in the current age.
 - Can House Starweaver and Silverleaf ever reconcile?
 - Will Thandris and Aethermere ever resolve their succession dispute?
 
----
 
 *This timeline is understood differently by different cultures. Elves remember more of the ancient history firsthand, while human accounts rely more on written records. Dwarven histories focus on their mountain kingdoms, while coastal peoples emphasize maritime developments. No single perspective captures the entire truth of Tirvandor's past.*
-
-**Total Historical Events Integrated: 189 events from Houses & Dynasties and Settlement Histories documents**
-
----
 
 *Current Year: 1247 CR*
 
 
 
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
 
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
 \page
 
-
+{{wide
+![pantheon](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-seven-gods-council.jpg){position:absolute,top:0,left:0,width:100%}
+}}
+{{padding-top:490px
 # The Pantheon of Tirvandor
-
-![pantheon](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-seven-gods-council.jpg){width:100%}
+}}
 
 **The Seven Ascended and Sacred Mysteries**
-
----
 
 ## Overview
 
@@ -1697,15 +1659,20 @@ The gods of Tirvandor are real, present forces that grant power to their faithfu
 - **The Regional Powers:** Gods prominent in specific geographic or cultural areas
 - **The Ancient Primordials:** Elemental entities predating the current gods
 - **The Forgotten Ones:** Deities whose worship has faded or been forbidden
-
+\column
+{{padding-top:490px
 **Philosophy of Worship:**
 Most mortals recognize the existence of all gods but actively worship 1-3 that align with their values, profession, or circumstances. Temples often house shrines to multiple deities. Clerics typically serve one god exclusively, while paladins swear oaths to principles that may be aligned with but not bound to a single deity.
-
+}}
 ---
 
 ## The Seven Ascended
 
 These seven gods are universally worshipped across both continents, though interpretations of their nature may vary between cultures. They are called "The Ascended" because ancient texts suggest they were once mortal heroes who transcended to divinity during the Age of Dawn.
+
+{{pageNumber,auto}}
+{{footnote The Pantheon of Tirvandor}}
+\page
 
 ### Thandros, The Lawbringer
 
@@ -1729,7 +1696,7 @@ Thandros represents the ideal of lawful civilization. His followers believe that
 
 **Following:** Dominant in Thaldros, especially Kaer Thandros. Judges, guards, bureaucrats, and those who value stability. Primary deity of the Kingdom of Thaldros.
 
----
+\column
 
 ### Aethor, The Liberator
 
@@ -1753,10 +1720,8 @@ Aethor stands in philosophical opposition to Thandros—where the Lawbringer val
 
 **Following:** Dominant in Aethoria. Revolutionaries, freedom fighters, escaped slaves, and those who oppose tyranny. The eastern continent's name echoes his influence.
 
-
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote The Pantheon of Tirvandor}}
 \page
 
 ### Moira, The Weaver
@@ -1781,7 +1746,7 @@ Moira sees the threads of fate that bind all things. She grants visions to her f
 
 **Following:** Wizards, scholars, diviners, and those seeking hidden knowledge. Major temples in Silverpine, Aethermere, and Starfall.
 
----
+\column
 
 ### Kael, The Wanderer
 
@@ -1805,7 +1770,9 @@ Kael is the patron of travelers, merchants, and anyone who lives by their wits. 
 
 **Following:** Travelers, merchants, rogues, and adventurers. Universal in trading cities and along major roads. Particularly strong in Goldreach and port cities.
 
----
+{{pageNumber,auto}}
+{{footnote The Pantheon of Tirvandor}}
+\page
 
 ### Sera, The Healer
 
@@ -1829,11 +1796,7 @@ Sera is the most universally beloved of the Seven. Her temples serve as hospital
 
 **Following:** Universal. Healers, midwives, the sick and injured, parents, soldiers. Every major city has a Temple of Sera. The most common deity for Life domain clerics.
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
+\column
 
 ### Mordain, The Sentinel
 
@@ -1857,7 +1820,9 @@ Mordain guides souls to their proper rest and stands eternal guard against those
 
 **Following:** Every culture acknowledges Mordain. Grave wardens, those who hunt undead, the bereaved seeking comfort. Major temples in all large cities.
 
----
+{{pageNumber,auto}}
+{{footnote The Pantheon of Tirvandor}}
+\page
 
 ### Sylvara, The Wild
 
@@ -1881,15 +1846,13 @@ Sylvara embodies the natural world in all its beauty and brutality. She represen
 
 **Following:** Dominant in Aethoria, especially the Emerald Depths and Wildgrove. Druids, rangers, farmers, and those who live close to the land.
 
----
+\column
 
 ## Regional Powers
 
 These deities are significant in specific regions or to particular cultures, but lack the universal reach of the Seven Ascended.
 
 ### Thaldros (Western Continent)
-
-![Thaldros Locations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_thaldros.jpg){width:100%}
 
 **Korak the Ironbound**
 - Domain: War, Strength, Honor in Battle
@@ -1912,15 +1875,7 @@ These deities are significant in specific regions or to particular cultures, but
 - Following: Dominant among dwarves, strong among blacksmiths and craftspeople.
 - Teaching: Quality work honors the divine, an oath once given is sacred
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 ### Aethoria (Eastern Continent)
-
-![Aethoria Locations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_aethoria.jpg){width:100%}
 
 **Ealasaïd the Dreamweaver**
 - Domain: Dreams, Illusion, Art, Inspiration
@@ -1935,6 +1890,10 @@ These deities are significant in specific regions or to particular cultures, but
 - Alignment: Chaotic Neutral
 - Following: Rangers, hunters, barbarians, beast-folk tribes
 - Teaching: The strong survive, hunt with honor, respect the prey
+
+{{pageNumber,auto}}
+{{footnote The Pantheon of Tirvandor}}
+\page
 
 **Merenth the Lifegiver**
 - Domain: Healing, Life, Growth, Fertility
@@ -1958,9 +1917,7 @@ These deities are significant in specific regions or to particular cultures, but
 - Alignment: Chaotic Neutral
 - Following: Gamblers, pirates, adventurers, those in transition
 - Teaching: Change is inevitable, luck favors the bold, adapt or die
-
----
-
+\column
 ## The Ancient Primordials
 
 These are not gods in the traditional sense but elemental forces that predate the current pantheon. They are not worshipped through temples but through primal magic and druidic rites.
@@ -1985,6 +1942,15 @@ These are not gods in the traditional sense but elemental forces that predate th
 - Nature: The bones of the world, eternal and patient
 - Current State: Ever-present in the deep places
 
+{{wide
+![Primordial Ruins](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ancient-precursor-ruins.jpg){position:absolute,bottom:0,left:0,height:500px,width:100%}
+}}
+
+{{pageNumber,auto}}
+{{footnote The Pantheon of Tirvandor}}
+\page
+
+
 **Zephyros, the Breath of Freedom**
 - Element: Air
 - Nature: Wind, sky, and space itself
@@ -2002,7 +1968,6 @@ These are not gods in the traditional sense but elemental forces that predate th
 
 Druids and some primal magic users draw power directly from these Primordials rather than from the gods. The relationship between Primordials and gods is unclear—some scholars believe the gods emerged from the Primordials, others that they coexist in different ways.
 
----
 
 ## The Forgotten Ones
 
@@ -2032,13 +1997,7 @@ These deities were once worshipped but their followings have faded or been activ
 - Status: Imprisoned before the Worldrend by the other gods
 - Speaking its true name is taboo
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
----
+\column
 
 ## Religious Structures and Orders
 
@@ -2078,7 +2037,10 @@ The period when the gods stopped answering prayers (2,400-2,200 BS) fundamentall
 
 **Diverse Interpretations:** Different faiths explain the Silence differently, leading to theological disputes.
 
----
+{{pageNumber,auto}}
+{{footnote The Pantheon of Tirvandor}}
+\page
+
 
 ## Divine Magic in Practice
 
@@ -2102,7 +2064,7 @@ The period when the gods stopped answering prayers (2,400-2,200 BS) fundamentall
 
 **Philosophical Differences:** Does divine power prove divine wisdom? Should mortals obey gods or simply acknowledge them? Is worship transactional or devotional? These debates continue.
 
----
+\column
 
 ## Interaction with Other Planes
 
@@ -2116,31 +2078,24 @@ The gods reside in the **Celestial Realms**—planes of existence adjacent to th
 
 Some mortals worship or serve these beings instead of or in addition to the gods, making Tirvandor's religious landscape complex and sometimes dangerous.
 
----
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 *The gods of Tirvandor are real but not omnipotent. They have agendas, make mistakes, and compete with each other—sometimes subtly, sometimes openly. Mortals must navigate these divine politics while maintaining their own agency and pursuing their own goals.*
 
 
+{{wide
+![Divine Magic](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ley-line-nexus.jpg){position:absolute,bottom:0,left:0,height:500px,width:100%}
+}}
 
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote The Pantheon of Tirvandor}}
 \page
 
-
+{{wide
+![factions](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-factions-chapter-opener.jpg){position:absolute,top:0,left:0,height:400px,width:100%}
+}}
+{{padding-top:375px
 # Factions of Tirvandor
-
-![factions](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-factions-chapter-opener.jpg){width:100%}
-
+}}
 **Powers, Politics, and Secret Societies**
-
----
 
 ## Overview
 
@@ -2155,10 +2110,10 @@ Power in Tirvandor is distributed among various factions—political nations, ec
 - **Secret Societies:** Hidden groups with mysterious agendas
 - **Racial/Cultural Groups:** Organizations focused on specific peoples or traditions
 
----
-
+\column
+{{padding-top:375px
 ## Political Powers
-
+}}
 ### The Northern Kingdoms (Thaldros)
 
 **Type:** Feudal confederation
@@ -2184,6 +2139,10 @@ A loose alliance of mountain and foothills kingdoms that maintain independence w
 - Succession disputes among human lords
 - Tension between surface kingdoms and dwarven holds
 - Debates over how centralized the confederation should become
+
+{{pageNumber,auto}}
+{{footnote Factions of Tirvandor}}
+\page
 
 **Notable Leaders:**
 - **Lord Commander Thrain Ironoak:** Dwarf representing the united holds
@@ -2214,12 +2173,6 @@ Independent cities that formed an alliance for mutual defense and trade benefits
 - Elected representatives serve 5-year terms
 - Requires 2/3 majority for military action
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Interests:**
 - Promoting free trade
 - Advancing education and magical research
@@ -2236,7 +2189,7 @@ Independent cities that formed an alliance for mutual defense and trade benefits
 - **Guildmaster Marcus Goldhand:** Economic power in Goldreach
 - **Archmage Severus Thornwhisper:** Heads Silverpine's Magical Academy
 
----
+\column
 
 ### The Sundaran Clans (Southern Thaldros)
 
@@ -2270,8 +2223,6 @@ Nomadic and semi-nomadic clans that control the desert regions. They have a comp
 - **Elder Rashid the Twice-Blessed:** Traditionalist spiritual leader
 - **Zara Flameheart:** Dragonborn warrior leading rising clan
 
----
-
 ### The Aethorian Harmony (Northern Aethoria)
 
 **Type:** Elven-dominated council system
@@ -2281,6 +2232,10 @@ Nomadic and semi-nomadic clans that control the desert regions. They have a comp
 **Resources:** Magical knowledge, rare woods, enchanted items, natural medicines
 
 The closest thing to a unified government in Aethoria. Elven traditions of consensus and long-term thinking shape its politics, sometimes frustrating shorter-lived races.
+
+{{pageNumber,auto}}
+{{footnote Factions of Tirvandor}}
+\page
 
 **Structure:**
 - Circle of Seven Speakers elected by regional councils
@@ -2300,18 +2255,10 @@ The closest thing to a unified government in Aethoria. Elven traditions of conse
 - Tension between druids and arcane practitioners
 - Generational differences in outlook
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Notable Leaders:**
 - **Speaker Ellandris Starweaver:** High elf, 400+ years old, traditionalist
 - **Speaker Arien Swiftbrook:** Half-elf, advocates for change
 - **Archdruid Thornbark:** Not officially in government but extremely influential
-
----
 
 ### The Crystalbrook Compact (Central Aethoria)
 
@@ -2378,7 +2325,9 @@ Communities that have adapted to swamp life, developing unique cultures and expe
 - **Sage-Speaker Sss'rith:** Lizardfolk spiritual leader
 - **Master Alchemist Varek:** Half-orc who controls poison trade
 
----
+{{pageNumber,auto}}
+{{footnote Factions of Tirvandor}}
+\page
 
 ## Economic Organizations
 
@@ -2388,12 +2337,6 @@ Communities that have adapted to swamp life, developing unique cultures and expe
 **Headquarters:** Port Myrthen (neutral ground)
 **Membership:** Open to licensed merchants
 **Influence:** Continental scale
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 The most powerful economic organization in Tirvandor, controlling the majority of inter-continental trade and setting standards for commerce.
 
@@ -2478,12 +2421,6 @@ Not technically a single organization but a network of criminal groups that coop
 - Gathering information for sale
 - Eliminating amateur criminals who threaten the system
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Operations:**
 - Smuggling (contraband, people, information)
 - Theft and burglary
@@ -2496,10 +2433,10 @@ Not technically a single organization but a network of criminal groups that coop
 - **Red Mask:** Leader of largest thief guild
 - **Captain Blackheart:** Pirate lord who cooperates with Syndicate
 
----
-
+{{pageNumber,auto}}
+{{footnote Factions of Tirvandor}}
+\page
 ## Religious Orders
-
 ### The Lightbringers (Order of Aethor)
 
 **Type:** Paladin/cleric order
@@ -2534,8 +2471,6 @@ Militant arm of Aethor's church, dedicated to fighting evil and protecting the i
 - **Paladin-Captain Seraphina:** Commands elite strike force
 - **High Inquisitor Marcus:** Investigates heresy and corruption
 
----
-
 ### The Green Circle (Druids of Sylvara)
 
 **Type:** Druidic council
@@ -2565,18 +2500,10 @@ Most powerful druidic organization, maintaining balance between civilization and
 - Training new druids
 - Sometimes opposing development projects
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Notable Members:**
 - **Archdruid Thornbark:** Elder oak treant, 800+ years old
 - **Circle Keeper Lunara:** Elf druid, moderates between factions
 - **Warden Grimjaw:** Half-orc druid of beasts, aggressive protector
-
----
 
 ### The Grave Wardens (Order of Mordain)
 
@@ -2607,12 +2534,15 @@ Dedicated to Mordain, they ensure proper burial rites, comfort the bereaved, and
 - Necromancer elimination
 - Helping ghosts pass on
 
+{{pageNumber,auto}}
+{{footnote Factions of Tirvandor}}
+\page
+
+
 **Notable Members:**
 - **High Death Speaker Morticia Ravenholt:** Human, unnervingly calm
 - **Grave Warden Commander Thorne:** Half-elf hunter of liches
 - **Death Speaker Ezra:** Dwarf, expert on funeral rites
-
----
 
 ## Magical Societies
 
@@ -2630,7 +2560,7 @@ Premier institution for arcane learning. Combines university, research center, a
 - Ranks: Student, Graduate, Scholar, Professor, Archmage
 - Governed by Council of Archmages
 - Branch campuses in major cities
-
+\column
 **Interests:**
 - Advancing magical knowledge
 - Training new wizards
@@ -2650,13 +2580,13 @@ Premier institution for arcane learning. Combines university, research center, a
 - **Professor Elira Starfall:** Expert on planar magic
 - **Sage Cornelius:** Researcher of ancient civilizations
 
----
+{{wide
+![Divine Magic](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-magic-and-ley-lines-chapter-opener.jpg){position:absolute,bottom:0,left:0,height:550px,width:100%}
+}}
 
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote Factions of Tirvandor}}
 \page
-
 
 ### The Circle of Eight
 
@@ -2719,8 +2649,6 @@ Those who have made pacts with the fey or bear fey blood organize to navigate tw
 - **Lord Frost:** Winter Court warlock, mysterious and dangerous
 - **The Green Man:** Ancient fey creature, rarely seen
 
----
-
 ## Military Forces
 
 ### The Iron Legion
@@ -2737,12 +2665,6 @@ Most professional and disciplined mercenary company. Expensive but worth it—th
 - Organized into companies of 100
 - Strict code of conduct
 - Well-equipped and trained
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 **Services:**
 - Military contracts (defense, offense, escort)
@@ -2778,6 +2700,10 @@ Dedicated to protecting civilization from dangerous monsters. Not glory-seekers 
 - Share information about monster sightings
 - Train and equip hunters
 
+{{pageNumber,auto}}
+{{footnote Factions of Tirvandor}}
+\page
+
 **Operations:**
 - Monster elimination
 - Wilderness patrol
@@ -2788,8 +2714,6 @@ Dedicated to protecting civilization from dangerous monsters. Not glory-seekers 
 - **Warden Commander Thalia Moonbow:** Elf ranger, 200+ year veteran
 - **Master Hunter Kael:** Expert on dragons
 - **Scout Captain Finn:** Halfling, tracks monsters others miss
-
----
 
 ## Secret Societies
 
@@ -2823,14 +2747,6 @@ Alleged secret society that supposedly manipulates events from the shadows. Evid
 - Patterns in historical events
 
 Many believe the Unseen Hand is just conspiracy theory. Others are less certain.
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
----
 
 ### The Crimson Order
 
@@ -2888,120 +2804,17 @@ Practitioners of blood magic, considered dark but not inherently evil. They stud
 
 *These factions are living organizations that grow, change, and respond to events. Player actions can shift balances of power, forge new alliances, or spark conflicts. No faction is monolithic—individuals within each organization may have different priorities and methods.*
 
----
-
-## Campaign-Specific Factions
-
-### ![Iron Guild](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-iron-guild-emblem.jpg){width:180px}
-
-The Iron Guild
-
-**Type:** Regional mercenary guild
-**Headquarters:** Frontier settlements (notably the Reaching Claws region)
-**Membership:** ~500 active members
-**Influence:** Regional (frontier territories)
-
-A smaller, more localized mercenary organization operating in areas where the Crown's authority is weak. Unlike the continental-scale Iron Legion, the Iron Guild focuses on local contracts and maintains order in lawless frontier towns through a strict code.
-
-**Structure:**
-- Guildmaster and regional captains
-- Contract board system (public and private jobs)
-- Membership dues (10% of earnings)
-- Strict rules: contracts are sacred, theft is death, lying gets you killed
-
-**Services:**
-- Protection contracts
-- Debt collection
-- Escort services
-- "Problem solving"
-
-
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote Factions of Tirvandor}}
 \page
 
-**Notable Figures:**
-- Various regional guildmasters
+{{wide
+![noble-houses](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-noble-houses-chapter-opener.jpg){position:absolute,top:0,left:0,height:475px,width:100%}
+}}
 
-**Relationships:**
-- Iron Legion (larger competitor, mutual respect)
-- Merchant League (frequent employers)
-- Local authorities (uneasy tolerance)
-
----
-
-### The Unbound
-
-**Type:** Secret society / Revolutionary movement
-**Headquarters:** Hidden cells across Thaldros
-**Membership:** Unknown (estimated 200-500)
-**Influence:** Growing in shadows
-
-A clandestine organization founded by descendants and sympathizers of fallen noble houses, particularly House Blackwood. They seek to expose historical injustices and corruption among the current nobility, believing the official histories are lies that cover up crimes.
-
-**Structure:**
-- Cell-based organization (members know only their cell)
-- "Lord Shadows" - mysterious leader
-- Recruiters who identify disaffected individuals
-- Scholars who research hidden truths
-
-**Goals:**
-- Expose the truth about the Blackwood Rebellion
-- Reveal nobility's historical crimes
-- Reform or overthrow the corrupt system
-- Vindicate the names of destroyed houses
-
-**Methods:**
-- Recruitment of the wronged and disaffected
-- Gathering historical evidence and artifacts
-- Building network of informants
-- Preparing for "the reckoning"
-
-**Relationships:**
-- Crown and nobility (enemies)
-- Common folk (potential allies)
-- Other secret societies (complicated)
-
----
-
-### House Thornwood (Fallen)
-
-**Type:** Fallen noble house
-**Former Seat:** Thornwood Manor (now seized)
-**Status:** Dispossessed, scattered
-
-Once a minor noble house controlling valuable timberlands in the Silverwood region. Ten years ago, the house fell victim to what many believe was a coordinated attack by merchant interests.
-
-**The Fall:**
-- Lord Thornwood died unexpectedly
-- Massive debts were suddenly called in
-- Courts ruled against the heir (Lady Elara Thornwood)
-- Merchant Consortium bought lands at auction
-- Peasants claim the debts were forged, judges bribed
-
-**Current Status:**
-- Lady Elara Thornwood disappeared after losing everything
-- Former Thornwood peasants displaced or impoverished
-- Rumors of a "Red Wolf" bandit targeting Consortium caravans
-- Some believe Lady Elara leads the bandits
-
-**Campaign Hooks:**
-- Was House Thornwood's fall orchestrated?
-- What really happened to the Thornwood heir?
-- Do the peasants' claims of forged debts have merit?
-
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
-
+{{padding-top:420px
 # Noble Houses & Dynasties of Tirvandor
-
-![noble-houses](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-noble-houses-chapter-opener.jpg){width:100%}
+}}
 
 **The Great Families: Their Rise, Glory, and Fall**
 
@@ -3012,11 +2825,12 @@ Once a minor noble house controlling valuable timberlands in the Silverwood regi
 ## Overview
 
 This document chronicles the major noble houses, merchant dynasties, and prominent families that have shaped Tirvandor's history. Some remain powerful today, controlling vast territories and wealth. Others have fallen into obscurity, their names whispered only in ancient texts. And some are thought extinct—though rumors persist of hidden heirs waiting to reclaim their birthright.
-
+\column
+{{padding-top:475px
 **Total Houses Documented:** 18
 - **Thaldros:** 10 houses
 - **Aethoria:** 8 houses
-
+}}
 **Status Categories:**
 - **Ascendant:** Rising in power and influence
 - **Dominant:** Currently controls significant territory/wealth
@@ -3024,13 +2838,15 @@ This document chronicles the major noble houses, merchant dynasties, and promine
 - **Fallen:** Lost power but family survives
 - **Extinct:** Officially ended (but rumors persist)
 
----
-
-
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
 \page
-
+{{wide
+![pre-worldrend-conflicts](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-pre-sundering-unity.jpg){position:absolute,top:0,left:0,height:550px,width:100%}
+}}
+{{padding-top:500px
 # Pre-Worldrend Conflicts
-
+}}
 ## The Ancient Grudges That Survived Continental Separation
 
 When the Worldrend tore the world apart 1,247 years ago (Year 0 CR), it didn't just split land—it split families, broke alliances, scattered artifacts, and created conflicts that echo to this day. Several noble houses have roots reaching back before the cataclysm, and their ancient grievances have festered across the Sundering Sea for over a millennium.
@@ -3042,10 +2858,9 @@ These conflicts are particularly dangerous because:
 - **Pride and honor:** Backing down means admitting ancestors lied for 1,200 years
 - **Actual stakes:** Lands, artifacts, titles really do matter
 
----
-
+{{padding-top:500px
 ## Conflict 1: The Sundered Bloodline
-
+}}
 ### House Starweaver (Aethoria) vs House Silverleaf (Thaldros)
 
 **Original House:** House Starleaf (Pre-Worldrend, unified realm)  
@@ -3063,6 +2878,10 @@ Before the Worldrend, House Starleaf was among the most powerful noble families 
 - The Observatory Citadel (destroyed in Worldrend)
 - Unified magical traditions spanning both disciplines
 
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
 **The Family Structure:**
 - Two branches: The Star Wardens (astronomers) and Leaf Keepers (forest wardens)
 - Brothers ruled jointly: one from observatory, one from forest
@@ -3078,12 +2897,6 @@ When the cataclysm struck, the family was literally torn apart:
 - Cut off from western forests immediately
 - Library survived but forest knowledge lost
 - Evolved into pure astronomical magic focus
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 **Western Branch (Became Silverleaf):**
 - Controlled the sacred forests and nature artifacts
@@ -3119,7 +2932,7 @@ As centuries passed, the houses grew more different:
 A pivotal moment when Silverleaf heir visited Starfall seeking to reunite knowledge. The Starweavers refused, claiming Silverleaf had "abandoned true magic for politics." Silverleaf returned west insulted, claiming Starweaver had "lost touch with living magic."
 
 After 327 CR, houses stopped acknowledging kinship entirely.
-
+\column
 #### Current Conflict (1247 CR)
 
 **House Starweaver's Claims:**
@@ -3168,10 +2981,8 @@ Personal:
 - Elders forbid contact ("they are not true kin")
 - A forbidden romance would cause massive scandal
 
-
 {{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
+{{footnote Noble Houses of Tirvandor}}
 \page
 
 Magical:
@@ -3258,12 +3069,6 @@ Prince Aethos (Eastern Son):
 - Eastern noble testimony supporting Aethos's claim
 - Records of Theron's "reckless" military campaigns
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **Problem:** Both sets could be authentic OR forged; no way to verify after 1,247 years
 
 **The Crown Jewels - Split Between Houses:**
@@ -3280,6 +3085,12 @@ Prince Aethos (Eastern Son):
 - Whoever wields it has symbolic legitimacy
 - Supposedly at bottom of Sundering Sea
 - Both houses sponsor diving expeditions
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
+
 - May not even exist anymore
 
 *The Royal Scepter* - Held by Aethermere
@@ -3349,12 +3160,6 @@ The wealthiest merchant house in the unified realm, House Deepwater controlled a
 - Banking houses in every major city
 - Immense wealth (most at Palace Port)
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **The Family:**
 - Patriarch: Lord Aldris Deepwater
 - Eastern branch: Managed eastern trade (became Crystalborn)
@@ -3385,6 +3190,11 @@ The wealthiest merchant house in the unified realm, House Deepwater controlled a
 - Access to western trade networks
 - Some ships and goods
 - Branch office records
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
 
 **Both claimed to be the legitimate heirs to House Deepwater.**
 
@@ -3435,12 +3245,6 @@ For 300 years, both houses sponsored diving expeditions:
 - Port Myrthen got rich selling supplies to both sides
 
 **Major Incidents:**
-
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
 
 237 CR: The Salvage Fleet Battle
 - Crystalborn and Goldshore fleets met at dive site
@@ -3500,6 +3304,11 @@ Lady Aria Crystalborn (234, half-elf):
 
 **They're on collision course.**
 
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
+
 #### The Deepwater Legacy
 
 What's actually down there?
@@ -3527,18 +3336,12 @@ But what if she survived? What if there's a hidden lineage with legitimate claim
 - Used to guide kingdom's decisions
 - "Points toward the right choice"
 
-
-{{pageNumber,auto}}
-{{footnote TIRVANDOR WORLD GUIDE}}
-
-\page
-
 **The Worldrend:**
 - Compass survived somehow
 - Ended up in eastern hands (Starweaver)
 - Western houses claim it was stolen during chaos
 - Eastern houses claim it came east legitimately
-
+\column
 **Current Claimants:**
 - House Starweaver (current holder) - "Found" it; finders keepers
 - House Thandris (Thaldros) - "Royal property; return it"
@@ -3565,7 +3368,8 @@ Should the continents reunite? And if so, who should rule?
 
 ---
 
-
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
 \page
 
 # Thaldros - Western Continent
