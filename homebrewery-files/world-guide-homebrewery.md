@@ -5039,7 +5039,7 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 *This document provides the foundation for settlement histories, timeline expansion, and campaign development. These families' conflicts, alliances, and secrets drive the political landscape of Tirvandor.*
 
 {{wide
-![twin-rebellion](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-twin-rebellion.jpg){position:absolute,bottom:0,left:0,height:650px,width:100%}
+![twin-rebellion](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-twin-rebellion.jpg){position:absolute,bottom:0,left:0,height:500px,width:100%}
 }}
 {{pageNumber,auto}}
 {{footnote Noble Houses of Tirvandor}}
@@ -10185,7 +10185,9 @@ Peninsula culture is notably different from mainland Aethoria—slower-paced, mo
 :
 *"The land itself tells stories. Listen carefully." - Tirvandor Proverb*
 
-
+{{wide
+![regional-lore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-last-page.jpg){position:absolute,bottom:0,left:0,height:560px,width:100%}
+}}
 {{pageNumber,auto}}
 {{footnote Tirvandor Regional Lore}}
 \page
@@ -10221,4 +10223,3 @@ ___
 *A campaign setting for the fifth edition of the world's greatest roleplaying game*
 
 {{/backCover}}
-
