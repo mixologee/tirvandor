@@ -36,7 +36,7 @@ The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International
 
 #### Product Identity
 
-The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Primordials concept; all original magic items; the Worldrend event and timeline; all campaign content.
+The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Ascended concept; all original magic items; the Worldrend event and timeline; all campaign content.
 
 {{skipCounting}}
 \page
@@ -56,9 +56,11 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ College of Shadows (Bard)}}{{ 30}}](#p30)
   - [{{ And more...}}{{ }}](#p30)
 - ### [{{ Chapter 7: Custom Spells}}{{ 60}}](#p60)
-- ### [{{ Chapter 8: Conditions Reference}}{{ 70}}](#p70)
-- ### [{{ Chapter 9: World Primer}}{{ 72}}](#p72)
-- ### [{{ Appendix: Legal Information}}{{ 78}}](#p78)
+- ### [{{ Appendix A: Conditions Reference}}{{ 70}}](#p70)
+- ### [{{ Appendix B: World Primer}}{{ 72}}](#p72)
+- ### [{{ Appendix C: The Pantheon}}{{ 80}}](#p80)
+- ### [{{ Appendix D: Beasts of Tirvandor}}{{ 84}}](#p84)
+- ### [{{ Legal Information}}{{ 92}}](#p92)
 }}
 
 
@@ -67,10 +69,9 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 \page
 
 
-# INTRODUCTION
+# Introduction
 
-
-## ABOUT THIS HANDBOOK
+## About This Handbook
 
 Welcome to **Tirvandor**, a world of political intrigue, moral complexity, and meaningful choices. This Player's Handbook contains everything you need to create and play a character in this rich campaign setting.
 
@@ -95,7 +96,7 @@ Welcome to **Tirvandor**, a world of political intrigue, moral complexity, and m
 This book provides the character creation rules. For the complete D&D 5e gameplay rules, refer to the official D&D Basic Rules (available free online) or the official Player's Handbook.
 
 
-## HOW TO USE THIS BOOK
+## How to Use This Book
 
 **If you're new to D&D:**
 
@@ -121,7 +122,7 @@ This book provides the character creation rules. For the complete D&D 5e gamepla
 
 ---
 
-## WHAT YOU NEED TO PLAY
+## What You Need to Play
 
 **Essential Materials:**
 
@@ -156,7 +157,7 @@ Your Dungeon Master will let you know which tools your group uses.
 \page
 
 
-## ABOUT TIRVANDOR
+## About Tirvandor
 
 Tirvandor is a world divided by history, politics, and magic. A catastrophic event known as **The Worldrend** tore the world in two, creating the **Sundering Sea** between two great continents.
 
@@ -172,7 +173,7 @@ The choices you make in Tirvandor matter. This is not a world of clear heroes an
 
 ---
 
-## A NOTE ON MORALITY
+## A Note on Morality
 
 Tirvandor campaigns explore moral complexity and meaningful choice. You may face situations where:
 
@@ -189,7 +190,7 @@ Talk with your DM and fellow players about the tone and themes of your campaign.
 
 ---
 
-## HOW TO CREATE A CHARACTER
+## How to Create a Character
 
 Character creation in Tirvandor follows the standard D&D 5e process with some Tirvandor-specific flavor added. The full step-by-step process is covered in Chapter 2, but here's the quick overview:
 
@@ -215,7 +216,7 @@ Once your character is created, you're ready to play!
 
 ---
 
-## GETTING STARTED
+## Getting Started
 
 Ready to create your character? Turn to Chapter 2 for the complete step-by-step process.
 
@@ -230,11 +231,11 @@ Welcome to Tirvandor. Your choices matter. Your story begins now.
 \page
 
 {{wide
-# CHAPTER 1: STEP-BY-STEP CHARACTERS
+# Chapter 1: Step-by-step Characters
 }}
 
 
-## CHARACTER CREATION OVERVIEW
+## Character Creation Overview
 
 Your first step in playing an adventurer in Tirvandor is to imagine and create a character of your own. Your character is a combination of game statistics, roleplaying hooks, and your imagination.
 
@@ -251,7 +252,7 @@ Your first step in playing an adventurer in Tirvandor is to imagine and create a
 
 ---
 
-## STEP 1: CHOOSE A RACE
+## Step 1: Choose a Race
 
 Every character belongs to a race, one of the many intelligent humanoid species in Tirvandor. The most common races are humans, dwarves, elves, and halflings. Some races have subraces, such as mountain dwarf or wood elf.
 
@@ -277,7 +278,7 @@ Your race also determines how NPCs may react to you. See Chapter 2 for cultural 
 
 ---
 
-## STEP 2: CHOOSE A CLASS
+## Step 2: Choose a Class
 
 Every adventurer is a member of a class. Class broadly describes a character's vocation, special talents, and tactics.
 
@@ -305,7 +306,7 @@ Every adventurer is a member of a class. Class broadly describes a character's v
 
 ---
 
-## STEP 3: DETERMINE ABILITY SCORES
+## Step 3: Determine Ability Scores
 
 Much of what your character does depends on six abilities:
 
@@ -337,7 +338,7 @@ Much of what your character does depends on six abilities:
 | 20-21 | +5 | Legendary |
 
 
-#### METHOD 1: STANDARD ARRAY
+#### Method 1: Standard Array
 
 **Most balanced and fair method.**
 
@@ -358,7 +359,7 @@ Then apply racial bonuses (Step 1).
 ---
 
 
-#### METHOD 2: POINT BUY
+#### Method 2: Point Buy
 
 **Customizable method for optimization.**
 
@@ -394,7 +395,7 @@ Then apply racial bonuses (Step 1).
 Then apply racial bonuses.
 
 
-#### METHOD 3: ROLLING
+#### Method 3: Rolling
 
 **Random and exciting method. DM must approve.**
 
@@ -422,7 +423,7 @@ Then apply racial bonuses.
 ---
 
 
-#### VARIANT: CUSTOMIZING ABILITY SCORES (OPTIONAL)
+#### Variant: Customizing Ability Scores (Optional)
 
 **Tasha's Cauldron of Everything optional rule:**
 
@@ -441,7 +442,7 @@ Your DM may allow you to reassign racial ability score increases.
 ---
 
 
-#### APPLYING RACIAL BONUSES
+#### Applying Racial Bonuses
 
 After determining base scores, add racial bonuses from your chosen race (Chapter 2).
 
@@ -459,7 +460,7 @@ After determining base scores, add racial bonuses from your chosen race (Chapter
 {{footnote Character Creation}}
 \page
 
-#### CALCULATING MODIFIERS
+#### Calculating Modifiers
 
 Once you have final ability scores, determine modifiers:
 
@@ -482,10 +483,10 @@ Once you have final ability scores, determine modifiers:
 
 ---
 
-## STEP 4: DESCRIBE YOUR CHARACTER
+## Step 4: Describe Your Character
 
 
-#### PHYSICAL APPEARANCE
+#### Physical Appearance
 
 **Choose or roll:**
 - **Height and Weight:** See racial descriptions (Chapter 2)
@@ -494,7 +495,7 @@ Once you have final ability scores, determine modifiers:
 - **Distinguishing Features:** Scars, tattoos, distinctive clothing
 
 
-#### ALIGNMENT
+#### Alignment
 
 **Alignment is a general description of moral and ethical attitudes.**
 
@@ -528,7 +529,7 @@ Once you have final ability scores, determine modifiers:
 **Evil alignments are generally not recommended for player characters unless your DM approves.**
 
 
-#### PERSONALITY
+#### Personality
 
 **See Chapter 4 for personality traits, ideals, bonds, and flaws tables.**
 
@@ -547,10 +548,10 @@ Choose or roll:
 
 ---
 
-## STEP 5: CHOOSE EQUIPMENT
+## Step 5: Choose Equipment
 
 
-#### STARTING EQUIPMENT BY CLASS
+#### Starting Equipment by Class
 
 Each class (Chapter 3) provides starting equipment options.
 
@@ -574,7 +575,7 @@ Each class (Chapter 3) provides starting equipment options.
 {{footnote Character Creation}}
 \page
 
-#### ARMOR CLASS (AC)
+#### Armor Class (AC)
 
 Your Armor Class represents how hard you are to hit in combat.
 
@@ -589,7 +590,7 @@ Your Armor Class represents how hard you are to hit in combat.
 - Plate armor (18, no Dex): Paladin = AC 18
 
 
-#### WEAPONS
+#### Weapons
 
 Choose weapons from Chapter 5.
 
@@ -604,10 +605,10 @@ Choose weapons from Chapter 5.
 
 ---
 
-## STEP 6: COME TOGETHER
+## Step 6: Come Together
 
 
-#### PARTY CONNECTIONS
+#### Party Connections
 
 **Discuss with your group:**
 
@@ -635,7 +636,7 @@ Choose weapons from Chapter 5.
 **Don't start as strangers who distrust each other. Start as a functional team, even if recently formed.**
 
 
-#### CAMPAIGN-SPECIFIC CONSIDERATIONS
+#### Campaign-specific Considerations
 
 **For Blood & Coin (Mercenary Campaign):**
 - Why mercenary work?
@@ -651,10 +652,10 @@ Choose weapons from Chapter 5.
 
 ---
 
-## BEYOND 1ST LEVEL
+## Beyond 1st Level
 
 
-#### EXPERIENCE POINTS (XP)
+#### Experience Points (XP)
 
 Your DM awards experience points for overcoming challenges.
 
@@ -684,7 +685,7 @@ Your DM awards experience points for overcoming challenges.
 | 20 | 355,000 | +6 |
 
 
-#### LEVELING UP
+#### Leveling Up
 
 When you gain a level:
 
@@ -700,11 +701,11 @@ When you gain a level:
 \page
 
 {{wide
-# CHAPTER 2: RACES
+# Chapter 2: Races
 }}
 
 
-## CHOOSING A RACE
+## Choosing a Race
 
 Your character's race determines certain physical characteristics and natural abilities.
 
@@ -723,12 +724,12 @@ Each race also includes cultural notes about how they fit Tirvandor society. Thi
 
 :
 
-## HUMAN
+## Human
 
 *"Humans are the most adaptable and ambitious people among the common races. Whatever drives them, humans are the innovators, the achievers, and the pioneers of Tirvandor."*
 
 
-#### HUMAN TRAITS
+#### Human Traits
 
 **Ability Score Increase:** Your ability scores each increase by 1. 
 
@@ -743,7 +744,7 @@ Each race also includes cultural notes about how they fit Tirvandor society. Thi
 **Languages:** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects.
 
 
-#### VARIANT HUMAN (OPTIONAL)
+#### Variant Human (Optional)
 
 If your DM allows, you can use the following traits instead:
 
@@ -754,7 +755,7 @@ If your DM allows, you can use the following traits instead:
 **Feat:** You gain one feat of your choice (see Chapter 6).
 
 
-#### HUMANS IN TIRVANDOR
+#### Humans in Tirvandor
 
 **Population:** Majority (~60%)  
 **Nations:** Dominate both Thaldros and Aethoria  
@@ -779,12 +780,12 @@ If your DM allows, you can use the following traits instead:
 \page
 
 
-## DWARF
+## Dwarf
 
 *"Bold and hardy, dwarves are known as skilled warriors, miners, and workers of stone and metal. Though they stand well under 5 feet tall, dwarves are so broad and compact that they can weigh as much as a human."*
 
 
-#### DWARF TRAITS
+#### Dwarf Traits
 
 **Ability Score Increase:** Your Constitution score increases by 2.
 
@@ -811,21 +812,21 @@ If your DM allows, you can use the following traits instead:
 **Subraces:** Two main subraces exist: hill dwarves and mountain dwarves.
 
 
-#### HILL DWARF
+#### Hill Dwarf
 
 **Ability Score Increase:** Your Wisdom score increases by 1.
 
 **Dwarven Toughness:** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
 
-#### MOUNTAIN DWARF
+#### Mountain Dwarf
 
 **Ability Score Increase:** Your Strength score increases by 2.
 
 **Dwarven Armor Training:** You have proficiency with light and medium armor.
 
 
-#### DWARVES IN TIRVANDOR
+#### Dwarves in Tirvandor
 
 **Population:** Common (~15%)  
 **Nations:** Respected in both, mountain clans independent  
@@ -850,12 +851,12 @@ If your DM allows, you can use the following traits instead:
 \page
 
 
-## ELF
+## Elf
 
 *"Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light."*
 
 
-#### ELF TRAITS
+#### Elf Traits
 
 **Ability Score Increase:** Your Dexterity score increases by 2.
 
@@ -880,7 +881,7 @@ If your DM allows, you can use the following traits instead:
 **Subraces:** Ancient divides among the elven people resulted in three main subraces: high elves, wood elves, and dark elves (drow).
 
 
-#### HIGH ELF
+#### High Elf
 
 **Ability Score Increase:** Your Intelligence score increases by 1.
 
@@ -891,7 +892,7 @@ If your DM allows, you can use the following traits instead:
 **Extra Language:** You can speak, read, and write one extra language of your choice.
 
 
-#### WOOD ELF
+#### Wood Elf
 
 **Ability Score Increase:** Your Wisdom score increases by 1.
 
@@ -902,7 +903,7 @@ If your DM allows, you can use the following traits instead:
 **Mask of the Wild:** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
 
-#### DARK ELF (DROW)
+#### Dark Elf (Drow)
 
 **Ability Score Increase:** Your Charisma score increases by 1.
 
@@ -915,7 +916,7 @@ If your DM allows, you can use the following traits instead:
 **Drow Weapon Training:** You have proficiency with rapiers, shortswords, and hand crossbows.
 
 
-#### ELVES IN TIRVANDOR
+#### Elves in Tirvandor
 
 **Population:** Uncommon (~10%)  
 **Nations:** High elves in cities/academies, wood elves in forests  
@@ -939,12 +940,12 @@ If your DM allows, you can use the following traits instead:
 \page
 
 
-## HALFLING
+## Halfling
 
 *"The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. They appear relatively harmless, which has helped them survive for centuries in the shadow of empires and on the edges of wars."*
 
 
-#### HALFLING TRAITS
+#### Halfling Traits
 
 **Ability Score Increase:** Your Dexterity score increases by 2.
 
@@ -967,21 +968,21 @@ If your DM allows, you can use the following traits instead:
 **Subraces:** The two main kinds of halflings are lightfoot and stout.
 
 
-#### LIGHTFOOT HALFLING
+#### Lightfoot Halfling
 
 **Ability Score Increase:** Your Charisma score increases by 1.
 
 **Naturally Stealthy:** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
 
-#### STOUT HALFLING
+#### Stout Halfling
 
 **Ability Score Increase:** Your Constitution score increases by 1.
 
 **Stout Resilience:** You have advantage on saving throws against poison, and you have resistance against poison damage.
 
 
-#### HALFLINGS IN TIRVANDOR
+#### Halflings in Tirvandor
 
 **Population:** Common (~8%)  
 **Nations:** Everywhere, especially trade towns and Border  
@@ -1004,12 +1005,12 @@ If your DM allows, you can use the following traits instead:
 {{footnote Races}}
 \page
 
-## DRAGONBORN
+## Dragonborn
 
 *"Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race."*
 
 
-#### DRAGONBORN TRAITS
+#### Dragonborn Traits
 
 **Ability Score Increase:** Your Strength score increases by 2, and your Charisma score increases by 1.
 
@@ -1030,7 +1031,7 @@ If your DM allows, you can use the following traits instead:
 **Languages:** You can speak, read, and write Common and Draconic.
 
 
-#### DRACONIC ANCESTRY TABLE
+#### Draconic Ancestry Table
 
 | Dragon | Damage Type | Breath Weapon |
 |--------|-------------|---------------|
@@ -1046,7 +1047,7 @@ If your DM allows, you can use the following traits instead:
 | White | Cold | 15 ft. cone (Con. save) |
 
 
-#### DRAGONBORN IN TIRVANDOR
+#### Dragonborn in Tirvandor
 
 **Population:** Rare (~2%)  
 **Nations:** Scattered individuals, no dragonborn homeland  
@@ -1069,12 +1070,12 @@ If your DM allows, you can use the following traits instead:
 \page
 
 
-## GNOME
+## Gnome
 
 *"A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter."*
 
 
-#### GNOME TRAITS
+#### Gnome Traits
 
 **Ability Score Increase:** Your Intelligence score increases by 2.
 
@@ -1095,7 +1096,7 @@ If your DM allows, you can use the following traits instead:
 **Subraces:** Two subraces of gnomes are found in Tirvandor: forest gnomes and rock gnomes.
 
 
-#### FOREST GNOME
+#### Forest Gnome
 
 **Ability Score Increase:** Your Dexterity score increases by 1.
 
@@ -1104,7 +1105,7 @@ If your DM allows, you can use the following traits instead:
 **Speak with Small Beasts:** Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts.
 
 
-#### ROCK GNOME
+#### Rock Gnome
 
 **Ability Score Increase:** Your Constitution score increases by 1.
 
@@ -1117,7 +1118,7 @@ If your DM allows, you can use the following traits instead:
 - **Music Box:** Plays a single song at a moderate volume, opens when used as an action.
 
 
-#### GNOMES IN TIRVANDOR
+#### Gnomes in Tirvandor
 
 **Population:** Uncommon (~3%)  
 **Nations:** Rock gnomes in cities, forest gnomes in wilderness  
@@ -1139,12 +1140,12 @@ If your DM allows, you can use the following traits instead:
 {{footnote Races}}
 \page
 
-## HALF-ELF
+## Half-elf
 
 *"Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf and human parents."*
 
 
-#### HALF-ELF TRAITS
+#### Half-elf Traits
 
 **Ability Score Increase:** Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.
 
@@ -1165,7 +1166,7 @@ If your DM allows, you can use the following traits instead:
 **Languages:** You can speak, read, and write Common, Elvish, and one extra language of your choice.
 
 
-#### HALF-ELVES IN TIRVANDOR
+#### Half-elves in Tirvandor
 
 **Population:** Uncommon (~7%)  
 **Nations:** Everywhere, especially cosmopolitan cities  
@@ -1187,12 +1188,12 @@ If your DM allows, you can use the following traits instead:
 {{footnote Races}}
 \page
 
-## HALF-ORC
+## Half-orc
 
 *"Whether united under the leadership of a mighty warlock or fought to simple survival, half-orcs and orcs gather in tribes that strive to survive. Their rage flows freely. They value strength above all."*
 
 
-#### HALF-ORC TRAITS
+#### Half-orc Traits
 
 **Ability Score Increase:** Your Strength score increases by 2, and your Constitution score increases by 1.
 
@@ -1215,7 +1216,7 @@ If your DM allows, you can use the following traits instead:
 **Languages:** You can speak, read, and write Common and Orc.
 
 
-#### HALF-ORCS IN TIRVANDOR
+#### Half-orcs in Tirvandor
 
 **Population:** Rare (~2%)  
 **Nations:** Military and mercenary ranks, often outcasts  
@@ -1237,12 +1238,12 @@ If your DM allows, you can use the following traits instead:
 {{footnote Races}}
 \page
 
-## TIEFLING
+## Tiefling
 
 *"To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling."*
 
 
-#### TIEFLING TRAITS
+#### Tiefling Traits
 
 **Ability Score Increase:** Your Charisma score increases by 2, and your Intelligence score increases by 1.
 
@@ -1263,7 +1264,7 @@ If your DM allows, you can use the following traits instead:
 **Languages:** You can speak, read, and write Common and Infernal.
 
 
-#### TIEFLINGS IN TIRVANDOR
+#### Tieflings in Tirvandor
 
 **Population:** Rare (~1%)  
 **Nations:** Distrusted in Thaldros, more accepted in Aethoria  
@@ -1288,9 +1289,9 @@ If your DM allows, you can use the following traits instead:
 {{footnote Races}}
 \page
 
-# CHAPTER 3: CLASSES
+# Chapter 3: Classes
 
-## CHOOSING A CLASS
+## Choosing a Class
 
 Your class is the most important decision you make about your character, defining your capabilities and role in the party.
 
@@ -1310,7 +1311,7 @@ Your class is the most important decision you make about your character, definin
 
 ---
 
-## CLASS SUMMARY TABLE
+## Class Summary Table
 
 | Class | Primary Ability | Saves | Hit Die |
 |-------|----------------|-------|---------|
@@ -1332,11 +1333,11 @@ Your class is the most important decision you make about your character, definin
 \page
 
 
-## BARBARIAN
+## Barbarian
 
 *A fierce warrior of primitive background who can enter a battle rage*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a barbarian, you gain the following class features.
 
@@ -1361,7 +1362,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 **Alternative:** Roll 2d4 × 10 gp and purchase starting equipment.
 {{wide
-### **THE BARBARIAN TABLE**
+### **The Barbarian Table**
 
 | Level | Proficiency Bonus | Features | Rages | Rage Damage |
 |-------|-------------------|----------|-------|-------------|
@@ -1386,7 +1387,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th | +6 | Ability Score Improvement | 6 | +4 |
 | 20th | +6 | Primal Champion | Unlimited | +4 |
 }}
-### **RAGE**
+### **Rage**
 
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
 
@@ -1401,7 +1402,7 @@ Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if
 
 Once you have raged the number of times shown for your barbarian level in the Rages column, you must finish a long rest before you can rage again.
 
-### **UNARMORED DEFENSE**
+### **Unarmored Defense**
 
 While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
 
@@ -1409,67 +1410,67 @@ While you are not wearing any armor, your Armor Class equals 10 + your Dexterity
 {{footnote Classes}}
 \page
 
-### **RECKLESS ATTACK (2ND LEVEL)**
+### **Reckless Attack (2nd Level)**
 
 Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
 
-### **DANGER SENSE (2ND LEVEL)**
+### **Danger Sense (2nd Level)**
 
 At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
 
 You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
 
-### **PRIMAL PATH (3RD LEVEL)**
+### **Primal Path (3rd Level)**
 
 At 3rd level, you choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior (both detailed at the end of the class description). Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 
-### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH)**
+### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 Alternatively, you can take a feat (see Chapter 6) if your DM allows.
 
-### **EXTRA ATTACK (5TH LEVEL)**
+### **Extra Attack (5th Level)**
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-### **FAST MOVEMENT (5TH LEVEL)**
+### **Fast Movement (5th Level)**
 
 Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.
 
-### **FERAL INSTINCT (7TH LEVEL)**
+### **Feral Instinct (7th Level)**
 
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
 Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
-### **BRUTAL CRITICAL (9TH, 13TH, 17TH)**
+### **Brutal Critical (9th, 13th, 17th)**
 
 Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 
 This increases to two additional dice at 13th level and three additional dice at 17th level.
 
-### **RELENTLESS RAGE (11TH LEVEL)**
+### **Relentless Rage (11th Level)**
 
 Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
 
-### **PERSISTENT RAGE (15TH LEVEL)**
+### **Persistent Rage (15th Level)**
 
 Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
 
-### **INDOMITABLE MIGHT (18TH LEVEL)**
+### **Indomitable Might (18th Level)**
 
 Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.
 
-### **PRIMAL CHAMPION (20TH LEVEL)**
+### **Primal Champion (20th Level)**
 
 At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
-### **PRIMAL PATHS**
+### **Primal Paths**
 
-#### **PATH OF THE BERSERKER**
+#### **Path of the Berserker**
 
 For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood.
 
@@ -1495,7 +1496,7 @@ If the creature succeeds on its saving throw, you can't use this feature on that
 
 Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
 
-#### **PATH OF THE TOTEM WARRIOR**
+#### **Path of the Totem Warrior**
 
 The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration.
 
@@ -1533,7 +1534,7 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 - **Eagle:** While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.
 - **Wolf:** While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.
 
-### **BARBARIANS IN TIRVANDOR**
+### **Barbarians in Tirvandor**
 
 **Origin:** Northern tribes, frontier clans, gladiators
 
@@ -1550,11 +1551,11 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 {{pageNumber,auto}}
 {{footnote Classes}}
 \page
-## FIGHTER
+## Fighter
 
 *A master of martial combat, skilled with a variety of weapons and armor*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a fighter, you gain the following class features.
 
@@ -1580,7 +1581,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
 {{wide
-### **THE FIGHTER TABLE**
+### **The Fighter Table**
 
 | Level | Proficiency Bonus | Features |
 |-------|-------------------|----------|
@@ -1606,7 +1607,7 @@ You start with the following equipment:
 | 20th | +6 | Extra Attack (3) |
 }}
 
-### **FIGHTING STYLE (1ST LEVEL)**
+### **Fighting Style (1st Level)**
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
@@ -1622,7 +1623,7 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 
 **Two-Weapon Fighting:** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-### **SECOND WIND (1ST LEVEL)**
+### **Second Wind (1st Level)**
 
 You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
 
@@ -1632,35 +1633,35 @@ Once you use this feature, you must finish a short or long rest before you can u
 {{footnote Classes}}
 \page
 
-### **ACTION SURGE (2ND LEVEL)**
+### **Action Surge (2nd Level)**
 
 Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 
-### **MARTIAL ARCHETYPE (3RD LEVEL)**
+### **Martial Archetype (3rd Level)**
 
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight (all detailed at the end of the class description). The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
-### **ABILITY SCORE IMPROVEMENT (4TH, 6TH, 8TH, 12TH, 14TH, 16TH, 19TH)**
+### **Ability Score Improvement (4th, 6th, 8th, 12th, 14th, 16th, 19th)**
 
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### **EXTRA ATTACK (5TH, 11TH, 20TH)**
+### **Extra Attack (5th, 11th, 20th)**
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
-### **INDOMITABLE (9TH, 13TH, 17TH)**
+### **Indomitable (9th, 13th, 17th)**
 
 Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 
-### **MARTIAL ARCHETYPES**
+### **Martial Archetypes**
 
-#### **CHAMPION**
+#### **Champion**
 
 The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
 
@@ -1686,7 +1687,7 @@ Starting at 15th level, your weapon attacks score a critical hit on a roll of 18
 
 At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
 
-#### **BATTLE MASTER**
+#### **Battle Master**
 
 Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.
 
@@ -1767,7 +1768,7 @@ The maneuvers are presented in alphabetical order.
 
 **Trip Attack:** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
 
-#### **ELDRITCH KNIGHT**
+#### **Eldritch Knight**
 
 The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic.
 
@@ -1810,7 +1811,7 @@ At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied s
 
 Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
 
-### **FIGHTERS IN TIRVANDOR**
+### **Fighters in Tirvandor**
 
 **Origin:** Soldiers, guards, mercenaries, professional warriors
 
@@ -1833,11 +1834,11 @@ Starting at 18th level, when you use your action to cast a spell, you can make o
 {{footnote Classes}}
 \page
 
-## ROGUE
+## Rogue
 
 *A scoundrel who uses stealth and trickery to overcome obstacles and enemies*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a rogue, you gain the following class features.
 
@@ -1863,7 +1864,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 4d4 × 10 gp and purchase starting equipment.
 {{wide
-### **THE ROGUE TABLE**
+### **The Rogue Table**
 
 | Level | Proficiency Bonus | Sneak Attack | Features |
 |-------|-------------------|--------------|----------|
@@ -1889,13 +1890,13 @@ You start with the following equipment:
 | 20th | +6 | 10d6 | Stroke of Luck |
 }}
 
-### **EXPERTISE**
+### **Expertise**
 
 At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
 
-### **SNEAK ATTACK**
+### **Sneak Attack**
 
 Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
@@ -1907,57 +1908,57 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 {{footnote Classes}}
 \page
 
-### **THIEVES' CANT**
+### **Thieves' Cant**
 
 During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
-### **CUNNING ACTION (2ND LEVEL)**
+### **Cunning Action (2nd Level)**
 
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
 
-### **ROGUISH ARCHETYPE (3RD LEVEL)**
+### **Roguish Archetype (3rd Level)**
 
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities: Thief, Assassin, or Arcane Trickster (all detailed at the end of the class description). Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
-### **ABILITY SCORE IMPROVEMENT**
+### **Ability Score Improvement**
 
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### **UNCANNY DODGE (5TH LEVEL)**
+### **Uncanny Dodge (5th Level)**
 
 Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
-### **EVASION (7TH LEVEL)**
+### **Evasion (7th Level)**
 
 Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-### **RELIABLE TALENT (11TH LEVEL)**
+### **Reliable Talent (11th Level)**
 
 By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
-### **BLINDSENSE (14TH LEVEL)**
+### **Blindsense (14th Level)**
 
 Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
 
-### **SLIPPERY MIND (15TH LEVEL)**
+### **Slippery Mind (15th Level)**
 
 By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
 
-### **ELUSIVE (18TH LEVEL)**
+### **Elusive (18th Level)**
 
 Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
 
-### **STROKE OF LUCK (20TH LEVEL)**
+### **Stroke of Luck (20th Level)**
 
 At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
-### **ROGUISH ARCHETYPES**
+### **Roguish Archetypes**
 
-#### **THIEF**
+#### **Thief**
 
 You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype.
 
@@ -1987,7 +1988,7 @@ By 13th level, you have learned enough about the workings of magic that you can 
 
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
 
-#### **ASSASSIN**
+#### **Assassin**
 
 You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity.
 
@@ -2013,7 +2014,7 @@ Your ruse is indiscernible to the casual observer. If a wary creature suspects s
 
 Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.
 
-#### **ARCANE TRICKSTER**
+#### **Arcane Trickster**
 
 Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion.
 
@@ -2063,7 +2064,7 @@ Immediately after a creature casts a spell that targets you or includes you in i
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-### **ROGUES IN TIRVANDOR**
+### **Rogues in Tirvandor**
 
 **Origin:** Thieves' guilds, spy networks, investigators
 
@@ -2092,11 +2093,11 @@ The following classes are presented with full SRD mechanics. All mechanics are f
 
 ---
 
-## BARD
+## Bard
 
 *An inspiring magician whose power echoes the music of creation*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a bard, you gain the following class features.
 
@@ -2122,7 +2123,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
 {{wide
-### **THE BARD TABLE**
+### **The Bard Table**
 
 | Level | Proficiency | Features | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------|----------|----------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -2147,7 +2148,7 @@ You start with the following equipment:
 | 19th | +6 | Ability Score Improvement | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Superior Inspiration | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
-### **SPELLCASTING**
+### **Spellcasting**
 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. See chapter 7 for the general rules of spellcasting and chapter 8 for the bard spell list.
 
@@ -2189,7 +2190,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 You can use a musical instrument as a spellcasting focus for your bard spells.
 
-### **BARDIC INSPIRATION**
+### **Bardic Inspiration**
 
 You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
 
@@ -2199,39 +2200,39 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 
 Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
-### **JACK OF ALL TRADES (2ND LEVEL)**
+### **Jack of All Trades (2nd Level)**
 
 Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
-### **SONG OF REST (2ND LEVEL)**
+### **Song of Rest (2nd Level)**
 
 Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
 
 The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
 
-### **BARD COLLEGE (3RD LEVEL)**
+### **Bard College (3rd Level)**
 
 At 3rd level, you delve into the advanced techniques of a bard college of your choice, such as the College of Lore. Your choice grants you features at 3rd level and again at 6th and 14th level.
 
-### **EXPERTISE (3RD LEVEL)**
+### **Expertise (3rd Level)**
 
 At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 10th level, you can choose another two skill proficiencies to gain this benefit.
 
-### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
+### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Level)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### **FONT OF INSPIRATION (5TH LEVEL)**
+### **Font of Inspiration (5th Level)**
 
 Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
 
-### **COUNTERCHARM (6TH LEVEL)**
+### **Countercharm (6th Level)**
 
 At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
 
-### **MAGICAL SECRETS (10TH, 14TH, 18TH LEVEL)**
+### **Magical Secrets (10th, 14th, 18th Level)**
 
 By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
 
@@ -2243,11 +2244,11 @@ You learn two additional spells from any class at 14th level and again at 18th l
 {{footnote Classes}}
 \page
 
-### **SUPERIOR INSPIRATION (20TH LEVEL)**
+### **Superior Inspiration (20th Level)**
 
 At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
 
-### **COLLEGE OF LORE**
+### **College of Lore**
 
 Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound.
 
@@ -2267,7 +2268,7 @@ At 6th level, you learn two spells of your choice from any class. A spell you ch
 
 Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the DM tells you whether you succeed or fail.
 
-### **BARDS IN TIRVANDOR**
+### **Bards in Tirvandor**
 
 **Origin:** Colleges of music, traveling performers, spies
 
@@ -2290,11 +2291,11 @@ Starting at 14th level, when you make an ability check, you can expend one use o
 {{footnote Classes}}
 \page
 
-## CLERIC
+## Cleric
 
 *A priestly champion who wields divine magic in service of a higher power*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a cleric, you gain the following class features.
 
@@ -2321,7 +2322,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
 {{wide
-### **THE CLERIC TABLE**
+### **The Cleric Table**
 
 | Level | Proficiency | Features | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -2346,7 +2347,7 @@ You start with the following equipment:
 | 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Divine Intervention improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
-### **SPELLCASTING**
+### **Spellcasting**
 
 As a conduit for divine power, you can cast cleric spells. See chapter 7 for the general rules of spellcasting and chapter 8 for the cleric spell list.
 
@@ -2384,7 +2385,7 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 You can use a holy symbol as a spellcasting focus for your cleric spells.
 
-### **DIVINE DOMAIN**
+### **Divine Domain**
 
 Choose one domain related to your deity: Life domain (detailed below) or others. Each domain provides examples of the gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
@@ -2394,7 +2395,7 @@ Each domain has a list of spells—its domain spells—that you gain at the cler
 
 If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
-### **CHANNEL DIVINITY (2ND LEVEL)**
+### **Channel Divinity (2nd Level)**
 
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 
@@ -2410,11 +2411,11 @@ As an action, you present your holy symbol and speak a prayer censuring the unde
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
-### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
+### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Level)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### **DESTROY UNDEAD (5TH LEVEL)**
+### **Destroy Undead (5th Level)**
 
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
 
@@ -2428,7 +2429,7 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 | 14th | 3 or lower |
 | 17th | 4 or lower |
 
-### **DIVINE INTERVENTION (10TH LEVEL)**
+### **Divine Intervention (10th Level)**
 
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
 
@@ -2442,7 +2443,7 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 {{footnote Classes}}
 \page
 
-### **LIFE DOMAIN**
+### **Life Domain**
 
 The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.
 
@@ -2482,13 +2483,13 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
 
-### **CLERICS IN TIRVANDOR**
+### **Clerics in Tirvandor**
 
 **Origin:** Temples of the Ascended Pantheon
 
 **Divine Domains & The Ascended:**
 
-In Tirvandor, clerics serve one of the Seven Ascended (see Appendix A):
+In Tirvandor, clerics serve one of the Seven Ascended (see Appendix C):
 
 - **Thandros the Lawbringer** → Knowledge or Order domain
 - **Aethor the Liberator** → Light or War domain
@@ -2517,11 +2518,11 @@ In Tirvandor, clerics serve one of the Seven Ascended (see Appendix A):
 {{footnote Classes}}
 \page
 
-## DRUID
+## Druid
 
 *A priest of nature who wields primal magic and can take the form of beasts*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a druid, you gain the following class features.
 
@@ -2546,7 +2547,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 2d4 × 10 gp and purchase starting equipment.
 {{wide
-### **THE DRUID TABLE**
+### **The Druid Table**
 
 | Level | Proficiency | Features | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -2571,11 +2572,11 @@ You start with the following equipment:
 | 19th | +6 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Archdruid | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
-### **DRUIDIC**
+### **Druidic**
 
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
 
-### **SPELLCASTING**
+### **Spellcasting**
 
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See chapter 7 for the general rules of spellcasting and chapter 8 for the druid spell list.
 
@@ -2613,7 +2614,7 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 You can use a druidic focus as a spellcasting focus for your druid spells.
 
-### **WILD SHAPE (2ND LEVEL)**
+### **Wild Shape (2nd Level)**
 
 Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
@@ -2637,7 +2638,7 @@ While you are transformed, the following rules apply:
 - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
-### **DRUID CIRCLE (2ND LEVEL)**
+### **Druid Circle (2nd Level)**
 
 At 2nd level, you choose to identify with a circle of druids, such as the Circle of the Land. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
@@ -2645,25 +2646,25 @@ At 2nd level, you choose to identify with a circle of druids, such as the Circle
 {{footnote Classes}}
 \page
 
-### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
+### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Level)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### **TIMELESS BODY (18TH LEVEL)**
+### **Timeless Body (18th Level)**
 
 Starting at 18th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
 
-### **BEAST SPELLS (18TH LEVEL)**
+### **Beast Spells (18th Level)**
 
 Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.
 
-### **ARCHDRUID (20TH LEVEL)**
+### **Archdruid (20th Level)**
 
 At 20th level, you can use your Wild Shape an unlimited number of times.
 
 Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
 
-### **CIRCLE OF THE LAND**
+### **Circle of the Land**
 
 The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic.
 
@@ -2759,7 +2760,7 @@ When you reach 14th level, creatures of the natural world sense your connection 
 
 The creature is aware of this effect before it makes its attack against you.
 
-### **DRUIDS IN TIRVANDOR**
+### **Druids in Tirvandor**
 
 **Origin:** Forest circles, nature guardians, isolated groves
 
@@ -2788,11 +2789,11 @@ The creature is aware of this effect before it makes its attack against you.
 {{pageNumber,auto}}
 {{footnote Classes}}
 \page
-## MONK
+## Monk
 
 *A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a monk, you gain the following class features.
 
@@ -2817,7 +2818,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 5d4 gp and purchase starting equipment.
 {{wide
-### **THE MONK TABLE**
+### **The Monk Table**
 
 | Level | Proficiency | Martial Arts | Ki Points | Unarmored Movement | Features |
 |-------|-------------|--------------|-----------|---------------------|----------|
@@ -2843,11 +2844,11 @@ You start with the following equipment:
 | 20th | +6 | 1d10 | 20 | +30 ft. | Perfect Self |
 }}
 
-### **UNARMORED DEFENSE**
+### **Unarmored Defense**
 
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
 
-### **MARTIAL ARTS**
+### **Martial Arts**
 
 At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.
 
@@ -2861,7 +2862,7 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 {{footnote Classes}}
 \page
 
-### **KI (2ND LEVEL)**
+### **Ki (2nd Level)**
 
 Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.
 
@@ -2885,43 +2886,43 @@ You can spend 1 ki point to take the Dodge action as a bonus action on your turn
 
 You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
-### **UNARMORED MOVEMENT (2ND LEVEL)**
+### **Unarmored Movement (2nd Level)**
 
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
 
 At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
 
-### **MONASTIC TRADITION (3RD LEVEL)**
+### **Monastic Tradition (3rd Level)**
 
 When you reach 3rd level, you commit yourself to a monastic tradition, such as the Way of the Open Hand. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
 
-### **DEFLECT MISSILES (3RD LEVEL)**
+### **Deflect Missiles (3rd Level)**
 
 Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
 
 If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
 
-### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
+### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Level)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### **SLOW FALL (4TH LEVEL)**
+### **Slow Fall (4th Level)**
 
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
 
-### **EXTRA ATTACK (5TH LEVEL)**
+### **Extra Attack (5th Level)**
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-### **STUNNING STRIKE (5TH LEVEL)**
+### **Stunning Strike (5th Level)**
 
 Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
 
-### **KI-EMPOWERED STRIKES (6TH LEVEL)**
+### **Ki-empowered Strikes (6th Level)**
 
 Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
-### **EVASION (7TH LEVEL)**
+### **Evasion (7th Level)**
 
 At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a *fireball* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
@@ -2929,39 +2930,39 @@ At 7th level, your instinctive agility lets you dodge out of the way of certain 
 {{footnote Classes}}
 \page
 
-### **STILLNESS OF MIND (7TH LEVEL)**
+### **Stillness of Mind (7th Level)**
 
 Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
-### **PURITY OF BODY (10TH LEVEL)**
+### **Purity of Body (10th Level)**
 
 At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison.
 
-### **TONGUE OF THE SUN AND MOON (13TH LEVEL)**
+### **Tongue of the Sun and Moon (13th Level)**
 
 Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
 
-### **DIAMOND SOUL (14TH LEVEL)**
+### **Diamond Soul (14th Level)**
 
 Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.
 
 Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.
 
-### **TIMELESS BODY (15TH LEVEL)**
+### **Timeless Body (15th Level)**
 
 At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water.
 
-### **EMPTY BODY (18TH LEVEL)**
+### **Empty Body (18th Level)**
 
 Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
 
 Additionally, you can spend 8 ki points to cast the *astral projection* spell, without needing material components. When you do so, you can't take any other creatures with you.
 
-### **PERFECT SELF (20TH LEVEL)**
+### **Perfect Self (20th Level)**
 
 At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.
 
-### **WAY OF THE OPEN HAND**
+### **Way of the Open Hand**
 
 Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
 
@@ -2987,7 +2988,7 @@ At 17th level, you gain the ability to set up lethal vibrations in someone's bod
 
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
-### **MONKS IN TIRVANDOR**
+### **Monks in Tirvandor**
 
 **Origin:** Mountain monasteries, isolated training grounds
 
@@ -3022,11 +3023,11 @@ You can have only one creature under the effect of this feature at a time. You c
 {{footnote Classes}}
 \page
 
-## PALADIN
+## Paladin
 
 *A holy warrior bound to a sacred oath*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a paladin, you gain the following class features.
 
@@ -3052,7 +3053,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
 {{wide
-### **THE PALADIN TABLE**
+### **The Paladin Table**
 
 | Level | Proficiency | Features | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------|----------|-----|-----|-----|-----|-----|
@@ -3078,13 +3079,13 @@ You start with the following equipment:
 | 20th | +6 | Sacred Oath feature | 4 | 3 | 3 | 3 | 2 |
 }}
 
-### **DIVINE SENSE**
+### **Divine Sense**
 
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 \column
-### **LAY ON HANDS**
+### **Lay on Hands**
 
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
 
@@ -3098,7 +3099,7 @@ This feature has no effect on undead and constructs.
 {{footnote Classes}}
 \page
 
-### **FIGHTING STYLE (2ND LEVEL)**
+### **Fighting Style (2nd Level)**
 
 At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
@@ -3110,7 +3111,7 @@ At 2nd level, you adopt a style of fighting as your specialty. Choose one of the
 
 **Protection:** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
-### **SPELLCASTING (2ND LEVEL)**
+### **Spellcasting (2nd Level)**
 
 By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See chapter 7 for the general rules of spellcasting and chapter 8 for the paladin spell list.
 
@@ -3136,15 +3137,15 @@ Charisma is your spellcasting ability for your paladin spells, since their power
 
 You can use a holy symbol as a spellcasting focus for your paladin spells.
 
-### **DIVINE SMITE (2ND LEVEL)**
+### **Divine Smite (2nd Level)**
 
 Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
 
-### **DIVINE HEALTH (3RD LEVEL)**
+### **Divine Health (3rd Level)**
 
 By 3rd level, the divine magic flowing through you makes you immune to disease.
 
-### **SACRED OATH (3RD LEVEL)**
+### **Sacred Oath (3rd Level)**
 
 When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion or another oath (detailed at the end of the class description).
 
@@ -3168,37 +3169,37 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 {{footnote Classes}}
 \page
 
-### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
+### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Level)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### **EXTRA ATTACK (5TH LEVEL)**
+### **Extra Attack (5th Level)**
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-### **AURA OF PROTECTION (6TH LEVEL)**
+### **Aura of Protection (6th Level)**
 
 Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
 
 At 18th level, the range of this aura increases to 30 feet.
 
-### **AURA OF COURAGE (10TH LEVEL)**
+### **Aura of Courage (10th Level)**
 
 Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
-### **IMPROVED DIVINE SMITE (11TH LEVEL)**
+### **Improved Divine Smite (11th Level)**
 
 By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.
 
-### **CLEANSING TOUCH (14TH LEVEL)**
+### **Cleansing Touch (14th Level)**
 
 Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
-### **OATH OF DEVOTION**
+### **Oath of Devotion**
 
 The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards.
 
@@ -3264,7 +3265,7 @@ In addition, for the duration, you have advantage on saving throws against spell
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-### **PALADINS IN TIRVANDOR**
+### **Paladins in Tirvandor**
 
 **Origin:** Sacred oaths, knightly orders, divine calling
 
@@ -3297,11 +3298,11 @@ Paladins in Tirvandor swear oaths inspired by (but not directly to) the Ascended
 {{footnote Classes}}
 \page
 
-## RANGER
+## Ranger
 
 *A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a ranger, you gain the following class features.
 
@@ -3327,7 +3328,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
 {{wide
-### **THE RANGER TABLE**
+### **The Ranger Table**
 
 | Level | Proficiency | Features | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------|----------|--------------|-----|-----|-----|-----|-----|
@@ -3352,7 +3353,7 @@ You start with the following equipment:
 | 19th | +6 | Ability Score Improvement | 11 | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Foe Slayer | 11 | 4 | 3 | 3 | 3 | 2 |
 }}
-### **FAVORED ENEMY**
+### **Favored Enemy**
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
@@ -3364,7 +3365,7 @@ When you gain this feature, you also learn one language of your choice that is s
 
 You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
 
-### **NATURAL EXPLORER**
+### **Natural Explorer**
 
 You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.
 
@@ -3383,7 +3384,7 @@ While traveling for an hour or more in your favored terrain, you gain the follow
 
 You choose additional favored terrain types at 6th and 10th level.
 
-### **FIGHTING STYLE (2ND LEVEL)**
+### **Fighting Style (2nd Level)**
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
@@ -3395,7 +3396,7 @@ At 2nd level, you adopt a particular style of fighting as your specialty. Choose
 
 **Two-Weapon Fighting:** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-### **SPELLCASTING (2ND LEVEL)**
+### **Spellcasting (2nd Level)**
 
 By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 7 for the general rules of spellcasting and chapter 8 for the ranger spell list.
 
@@ -3421,19 +3422,19 @@ Wisdom is your spellcasting ability for your ranger spells, since your magic dra
 
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
-### **RANGER ARCHETYPE (3RD LEVEL)**
+### **Ranger Archetype (3rd Level)**
 
 At 3rd level, you choose an archetype that you strive to emulate: Hunter. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
-### **PRIMEVAL AWARENESS (3RD LEVEL)**
+### **Primeval Awareness (3rd Level)**
 
 Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
 
-### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
+### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Level)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### **EXTRA ATTACK (5TH LEVEL)**
+### **Extra Attack (5th Level)**
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
@@ -3441,33 +3442,33 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 {{footnote Classes}}
 \page
 
-### **LAND'S STRIDE (8TH LEVEL)**
+### **Land's Stride (8th Level)**
 
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the *entangle* spell.
 
-### **HIDE IN PLAIN SIGHT (10TH LEVEL)**
+### **Hide in Plain Sight (10th Level)**
 
 Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
 
 Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
 
-### **VANISH (14TH LEVEL)**
+### **Vanish (14th Level)**
 
 Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
 
-### **FERAL SENSES (18TH LEVEL)**
+### **Feral Senses (18th Level)**
 
 At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
 
 You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
 
-### **FOE SLAYER (20TH LEVEL)**
+### **Foe Slayer (20th Level)**
 
 At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
 
-### **HUNTER**
+### **Hunter**
 
 Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
 
@@ -3513,7 +3514,7 @@ At 15th level, you gain one of the following features of your choice.
 {{footnote Classes}}
 \page
 
-### **RANGERS IN TIRVANDOR**
+### **Rangers in Tirvandor**
 
 **Origin:** Wilderness scouts, border patrol, trackers, bounty hunters
 
@@ -3549,11 +3550,11 @@ At 15th level, you gain one of the following features of your choice.
 {{footnote Classes}}
 \page
 
-## SORCERER
+## Sorcerer
 
 *A spellcaster who draws on inherent magic from a gift or bloodline*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a sorcerer, you gain the following class features.
 
@@ -3579,7 +3580,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 3d4 × 10 gp and purchase starting equipment.
 {{wide
-### **THE SORCERER TABLE**
+### **The Sorcerer Table**
 
 | Level | Proficiency | Sorcery Points | Features | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------|----------------|----------|----------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -3605,7 +3606,7 @@ You start with the following equipment:
 | 20th | +6 | 20 | Sorcerous Restoration | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
 
-### **SPELLCASTING**
+### **Spellcasting**
 
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See chapter 7 for the general rules of spellcasting and chapter 8 for the sorcerer spell list.
 
@@ -3641,13 +3642,13 @@ Charisma is your spellcasting ability for your sorcerer spells. You use your Cha
 
 You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 
-### **SORCEROUS ORIGIN**
+### **Sorcerous Origin**
 
 Choose a sorcerous origin, which describes the source of your innate magical power, such as Draconic Bloodline.
 
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
-### **FONT OF MAGIC (2ND LEVEL)**
+### **Font of Magic (2nd Level)**
 
 At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
@@ -3675,7 +3676,7 @@ Any spell slot you create with this feature vanishes when you finish a long rest
 
 **Converting a Spell Slot to Sorcery Points:** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
-### **METAMAGIC (3RD LEVEL)**
+### **Metamagic (3rd Level)**
 
 At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
 
@@ -3723,15 +3724,15 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 {{footnote Classes}}
 \page
 
-### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
+### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Level)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### **SORCEROUS RESTORATION (20TH LEVEL)**
+### **Sorcerous Restoration (20th Level)**
 
 At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
 
-### **DRACONIC BLOODLINE**
+### **Draconic Bloodline**
 
 Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
@@ -3774,7 +3775,7 @@ You can't manifest your wings while wearing armor unless the armor is made to ac
 
 Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
-### **SORCERERS IN TIRVANDOR**
+### **Sorcerers in Tirvandor**
 
 **Origin:** Born with magic, magical accidents, bloodlines
 
@@ -3805,11 +3806,11 @@ Beginning at 18th level, you can channel the dread presence of your dragon ances
 {{footnote Classes}}
 \page
 
-## WARLOCK
+## Warlock
 
 *A wielder of magic that is derived from a bargain with an extraplanar entity*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a warlock, you gain the following class features.
 
@@ -3835,7 +3836,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 4d4 × 10 gp and purchase starting equipment.
 {{wide
-### **THE WARLOCK TABLE**
+### **The Warlock Table**
 
 | Level | Proficiency | Features | Cantrips | Spells Known | Spell Slots | Slot Level | Invocations Known |
 |-------|-------------|----------|----------|--------------|-------------|------------|-------------------|
@@ -3861,11 +3862,11 @@ You start with the following equipment:
 | 20th | +6 | Eldritch Master | 4 | 15 | 4 | 5th | 8 |
 }}
 
-### **OTHERWORLDLY PATRON**
+### **Otherworldly Patron**
 
 At 1st level, you have struck a bargain with an otherworldly being of your choice, such as The Fiend. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
 
-### **PACT MAGIC**
+### **Pact Magic**
 
 Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See chapter 7 for the general rules of spellcasting and chapter 8 for the warlock spell list.
 
@@ -3901,7 +3902,7 @@ Charisma is your spellcasting ability for your warlock spells.
 
 You can use an arcane focus as a spellcasting focus for your warlock spells.
 
-### **ELDRITCH INVOCATIONS (2ND LEVEL)**
+### **Eldritch Invocations (2nd Level)**
 
 At 2nd level, you gain two eldritch invocations of your choice. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
 
@@ -3922,7 +3923,7 @@ At 2nd level, you gain two eldritch invocations of your choice. When you gain ce
 
 *(For complete invocation list, see SRD)*
 
-### **PACT BOON (3RD LEVEL)**
+### **Pact Boon (3rd Level)**
 
 At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service.
 
@@ -3938,11 +3939,11 @@ You can create a pact weapon in your empty hand as an action. You choose its for
 
 Your patron gives you a grimoire called a Book of Shadows. Choose three cantrips from any class's spell list. While the book is on your person, you can cast those cantrips at will. They're warlock cantrips for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement.
 
-### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
+### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Level)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score by 2, or two ability scores by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### **MYSTIC ARCANUM (11TH LEVEL)**
+### **Mystic Arcanum (11th Level)**
 
 At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.
 
@@ -3950,11 +3951,11 @@ You can cast your arcanum spell once without expending a spell slot. You must fi
 
 At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
 
-### **ELDRITCH MASTER (20TH LEVEL)**
+### **Eldritch Master (20th Level)**
 
 At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
 
-### **THE FIEND PATRON**
+### **The Fiend Patron**
 
 You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you.
 
@@ -3996,7 +3997,7 @@ At the end of your next turn, the target returns to the space it previously occu
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-### **WARLOCKS IN TIRVANDOR**
+### **Warlocks in Tirvandor**
 
 **Origin:** Pacts with otherworldly entities, forbidden bargains
 
@@ -4030,11 +4031,11 @@ All patron types exist but are controversial:
 {{footnote Classes}}
 \page
 
-## WIZARD
+## Wizard
 
 *A scholarly magic-user capable of manipulating the structures of reality*
 
-### **CLASS FEATURES**
+### **Class Features**
 
 As a wizard, you gain the following class features.
 
@@ -4060,7 +4061,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 4d4 × 10 gp and purchase starting equipment.
 {{wide
-### **THE WIZARD TABLE**
+### **The Wizard Table**
 
 | Level | Proficiency | Features | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -4086,7 +4087,7 @@ You start with the following equipment:
 | 20th | +6 | Signature Spells | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
 
-### **SPELLCASTING**
+### **Spellcasting**
 
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See chapter 7 for the general rules of spellcasting and chapter 8 for the wizard spell list.
 
@@ -4148,13 +4149,13 @@ If you lose your spellbook, you can use the same procedure to transcribe the spe
 
 **The Book's Appearance.** Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
 
-### **ARCANE RECOVERY (1ST LEVEL)**
+### **Arcane Recovery (1st Level)**
 
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
 For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
-### **ARCANE TRADITION (2ND LEVEL)**
+### **Arcane Tradition (2nd Level)**
 
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools, such as Evocation.
 
@@ -4164,23 +4165,23 @@ Your choice grants you features at 2nd level and again at 6th, 10th, and 14th le
 {{footnote Classes}}
 \page
 
-### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
+### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Level)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### **SPELL MASTERY (18TH LEVEL)**
+### **Spell Mastery (18th Level)**
 
 At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
-### **SIGNATURE SPELLS (20TH LEVEL)**
+### **Signature Spells (20th Level)**
 
 When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
-### **SCHOOL OF EVOCATION**
+### **School of Evocation**
 
 You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
 
@@ -4206,7 +4207,7 @@ Starting at 14th level, you can increase the power of your simpler spells. When 
 
 The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.
 
-### **WIZARDS IN TIRVANDOR**
+### **Wizards in Tirvandor**
 
 **Origin:** Magical academies, years of study, scholarly pursuit
 
@@ -4269,15 +4270,15 @@ All eight schools exist in Tirvandor academies:
 {{footnote Classes}}
 \page
 
-# CHAPTER 4: PERSONALITY & BACKGROUND
+# Chapter 4: Personality & Background
 
 
 
-## CHARACTER DETAILS
+## Character Details
 
 Every character has unique personality traits, ideals, bonds, and flaws that define who they are beyond their race and class.
 
-### ALIGNMENT
+### Alignment
 
 A typical creature in Tirvandor has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral).
 
@@ -4293,27 +4294,27 @@ A typical creature in Tirvandor has an alignment, which broadly describes its mo
 
 For player characters in Tirvandor, discuss alignment choices with your DM as they relate to campaign themes.
 
-### PERSONALITY TRAITS
+### Personality Traits
 
 Choose or roll for two personality traits that define your character's behavior.
 
-### IDEALS
+### Ideals
 
 Choose one ideal that drives your character's goals and morality.
 
-### BONDS
+### Bonds
 
 Choose one bond that connects your character to people, places, or events.
 
-### FLAWS
+### Flaws
 
 Choose one flaw that adds complexity to your character.
 
-## BACKGROUNDS
+## Backgrounds
 
 Your background represents your character's life before becoming an adventurer. Each background provides proficiencies, equipment, and a special feature.
 
-### STANDARD BACKGROUNDS
+### Standard Backgrounds
 
 **Acolyte:** Religious service background  
 **Criminal:** Life of crime or underworld connections  
@@ -4324,7 +4325,7 @@ Your background represents your character's life before becoming an adventurer. 
 
 (Refer to D&D 5e SRD or Player's Handbook for full background details)
 
-### TIRVANDOR BACKGROUNDS
+### Tirvandor Backgrounds
 
 **Iron Guild Mercenary:** Veteran of the free companies  
 **Border Refugee:** Survivor of the Contested Lands  
@@ -4333,7 +4334,7 @@ Your background represents your character's life before becoming an adventurer. 
 
 (See campaign-specific player's guides for full details)
 
-## LANGUAGES
+## Languages
 
 Standard languages in Tirvandor:
 - Common (universal trade language)
@@ -4355,7 +4356,7 @@ Exotic languages:
 - Sylvan
 - Undercommon
 
-## INSPIRATION
+## Inspiration
 
 Inspiration is a rule your DM can use to reward you for playing your character in compelling ways. Your DM can award inspiration when you:
 
@@ -4370,9 +4371,9 @@ When you have inspiration, you can spend it to gain advantage on one ability che
 {{footnote Backgrounds}}
 \page
 
-# CHAPTER 5: EQUIPMENT
+# Chapter 5: Equipment
 
-## STARTING EQUIPMENT
+## Starting Equipment
 
 Your class and background determine your starting equipment. Alternatively, you can start with a number of gold pieces based on your class and purchase your starting equipment from the lists in this chapter.
 
@@ -4391,7 +4392,7 @@ Your class and background determine your starting equipment. Alternatively, you 
 | Warlock | 4d4 × 10 gp |
 | Wizard | 4d4 × 10 gp |
 
-## WEALTH
+## Wealth
 
 Coins come in different denominations:
 
@@ -4401,53 +4402,53 @@ Coins come in different denominations:
 - **Gold pieces (gp)** = 10 sp
 - **Platinum pieces (pp)** = 10 gp
 
-## ARMOR
+## Armor
 
-### LIGHT ARMOR
+### Light Armor
 - Padded: 5 gp, AC 11 + Dex
 - Leather: 10 gp, AC 11 + Dex
 - Studded Leather: 45 gp, AC 12 + Dex
 
-### MEDIUM ARMOR
+### Medium Armor
 - Hide: 10 gp, AC 12 + Dex (max 2)
 - Chain Shirt: 50 gp, AC 13 + Dex (max 2)
 - Scale Mail: 50 gp, AC 14 + Dex (max 2)
 - Breastplate: 400 gp, AC 14 + Dex (max 2)
 - Half Plate: 750 gp, AC 15 + Dex (max 2)
 
-### HEAVY ARMOR
+### Heavy Armor
 - Ring Mail: 30 gp, AC 14
 - Chain Mail: 75 gp, AC 16, Str 13
 - Splint: 200 gp, AC 17, Str 15
 - Plate: 1,500 gp, AC 18, Str 15
 
-### SHIELDS
+### Shields
 - Shield: 10 gp, +2 AC
 
-## WEAPONS
+## Weapons
 
-### SIMPLE MELEE WEAPONS
+### Simple Melee Weapons
 - Club: 1 sp, 1d4 bludgeoning
 - Dagger: 2 gp, 1d4 piercing, finesse, light, thrown
 - Mace: 5 gp, 1d6 bludgeoning
 - Quarterstaff: 2 sp, 1d6 bludgeoning, versatile (1d8)
 - Spear: 1 gp, 1d6 piercing, thrown, versatile (1d8)
 
-### SIMPLE RANGED WEAPONS
+### Simple Ranged Weapons
 - Light Crossbow: 25 gp, 1d8 piercing, range 80/320
 - Shortbow: 25 gp, 1d6 piercing, range 80/320
 
-### MARTIAL MELEE WEAPONS
+### Martial Melee Weapons
 - Longsword: 15 gp, 1d8 slashing, versatile (1d10)
 - Greatsword: 50 gp, 2d6 slashing, heavy, two-handed
 - Rapier: 25 gp, 1d8 piercing, finesse
 
-### MARTIAL RANGED WEAPONS
+### Martial Ranged Weapons
 - Longbow: 50 gp, 1d8 piercing, heavy, range 150/600
 
 (Refer to D&D 5e SRD for complete equipment lists)
 
-## ADVENTURING GEAR
+## Adventuring Gear
 
 Common adventuring gear includes:
 - Backpack: 2 gp
@@ -4458,7 +4459,7 @@ Common adventuring gear includes:
 - Waterskin: 2 sp
 - Healer's Kit: 5 gp
 
-## TOOLS
+## Tools
 
 Tool proficiencies allow you to add your proficiency bonus to ability checks made using those tools.
 
@@ -4471,7 +4472,7 @@ Tool proficiencies allow you to add your proficiency bonus to ability checks mad
 **Gaming Sets:**
 - Dice, playing cards: 5 sp-1 gp
 
-## MOUNTS AND VEHICLES
+## Mounts and Vehicles
 
 - **Riding Horse:** 75 gp
 - **Warhorse:** 400 gp
@@ -4483,15 +4484,15 @@ Tool proficiencies allow you to add your proficiency bonus to ability checks mad
 \page
 
 {{wide
-# CHAPTER 6: CUSTOMIZATION OPTIONS
+# Chapter 6: Customization Options
 }}
 
 
-## MULTICLASSING
+## Multiclassing
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
 
-### PREREQUISITES
+### Prerequisites
 
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one.
 
@@ -4510,43 +4511,43 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 | Warlock | Charisma 13 |
 | Wizard | Intelligence 13 |
 
-### EXPERIENCE POINTS
+### Experience Points
 
 The experience point cost to gain a level is always based on your total character level, not your level in a particular class.
 
-### HIT POINTS AND HIT DICE
+### Hit Points and Hit Dice
 
 You gain the hit points from your new class as described for levels after 1st. You gain the 1st-level hit points for a class only when you are a 1st-level character.
 
-### PROFICIENCY BONUS
+### Proficiency Bonus
 
 Your proficiency bonus is always based on your total character level, not your level in a particular class.
 
-### PROFICIENCIES
+### Proficiencies
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table in the D&D 5e rules.
 
-### CLASS FEATURES
+### Class Features
 
 You get all the class features of all your classes, but you must meet level requirements individually for each class.
 
-### SPELLCASTING
+### Spellcasting
 
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. (Refer to D&D 5e rules for multiclass spellcasting details)
 
-## FEATS
+## Feats
 
 A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
 
-### GAINING FEATS
+### Gaining Feats
 
 At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can't take a feat more than once, unless the feat's description says otherwise.
 
-### FEAT PREREQUISITES
+### Feat Prerequisites
 
 Some feats have prerequisites. You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite.
 
-### SAMPLE FEATS
+### Sample Feats
 
 Common feats include (refer to D&D 5e SRD for full details):
 
@@ -4560,7 +4561,7 @@ Common feats include (refer to D&D 5e SRD for full details):
 
 (Refer to D&D 5e SRD or Player's Handbook for complete feat list)
 
-### TIRVANDOR FEATS
+### Tirvandor Feats
 
 Your DM may allow campaign-specific feats:
 
@@ -4575,21 +4576,21 @@ Your DM may allow campaign-specific feats:
 \page
 
 {{wide
-# CHAPTER 7: TIRVANDOR CUSTOM SUBCLASSES
+# Chapter 7: Tirvandor Custom Subclasses
 }}
 
 
 This chapter contains custom subclasses for each of the twelve core classes, designed specifically for the Tirvandor campaign setting.
 
 
-## PATH OF THE BORDER REAVER (Barbarian)
+## Path of the Border Reaver (Barbarian)
 
 *Mercenary raiders from the lawless Border regions who have mastered brutal, adaptable combat*
 
 The Border is a harsh place where only the strong survive. Border Reavers are barbarians who have learned to channel their rage into calculated violence, fighting dirty when needed and adapting to any battlefield. They're professional survivors who turn their fury into a weapon for hire.
 
 
-#### REAVER'S INSTINCT (3RD LEVEL)
+#### Reaver's Instinct (3rd Level)
 
 When you choose this path at 3rd level, your survival instincts become supernaturally sharp. You gain the following benefits:
 
@@ -4600,7 +4601,7 @@ When you choose this path at 3rd level, your survival instincts become supernatu
 - **Adaptable Combatant:** When you finish a short or long rest, choose one damage type: acid, cold, fire, lightning, or thunder. While raging, you have resistance to that damage type. You can change your choice when you finish another short or long rest.
 
 
-#### DIRTY FIGHTING (6TH LEVEL)
+#### Dirty Fighting (6th Level)
 
 Starting at 6th level, you've learned that honor means nothing in a real fight. When you hit a creature with a melee weapon attack while raging, you can choose to fight dirty. The target must succeed on a Strength saving throw (DC = 8 + your proficiency bonus + your Strength modifier) or suffer one of the following effects of your choice:
 
@@ -4611,7 +4612,7 @@ Starting at 6th level, you've learned that honor means nothing in a real fight. 
 You can use this feature a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 
-#### REAVER'S ENDURANCE (10TH LEVEL)
+#### Reaver's Endurance (10th Level)
 
 At 10th level, your time surviving in the brutal Border has made you incredibly resilient. You gain the following benefits:
 
@@ -4622,7 +4623,7 @@ At 10th level, your time surviving in the brutal Border has made you incredibly 
 - **Survivor's Stamina:** You can add your Constitution modifier to death saving throws.
 
 
-#### CALCULATED FURY (14TH LEVEL)
+#### Calculated Fury (14th Level)
 
 Beginning at 14th level, you've learned to channel your rage with deadly precision. While raging, you gain the following benefits:
 
@@ -4633,7 +4634,7 @@ Beginning at 14th level, you've learned to channel your rage with deadly precisi
 - **Professional's Instinct:** You have advantage on Wisdom (Perception) checks and initiative rolls.
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Border regions between Thaldros and Aethoria
 
@@ -4643,7 +4644,7 @@ Beginning at 14th level, you've learned to channel your rage with deadly precisi
 - **Blood & Coin:** PERFECT - quintessential mercenary barbarian
 - **Shattered Oaths:** Good - former reaver turned hero or antagonist
 
-## PATH OF REVOLUTIONARY FURY (Barbarian)
+## Path of Revolutionary Fury (Barbarian)
 
 *Aethorian freedom fighters who channel righteous rage against oppression and tyranny*
 
@@ -4654,7 +4655,7 @@ Beginning at 14th level, you've learned to channel your rage with deadly precisi
 Some barbarians don't rage from bloodlust or primal fury—they rage from injustice. Revolutionary Fury barbarians are freedom fighters whose anger at tyranny and oppression fuels superhuman strength. They break chains, shatter walls, and inspire hope in the oppressed with their unstoppable wrath.
 
 
-#### FURY OF THE OPPRESSED (3RD LEVEL)
+#### Fury of the Oppressed (3rd Level)
 
 When you choose this path at 3rd level, your rage becomes a weapon against tyranny. You gain the following benefits:
 
@@ -4665,14 +4666,14 @@ When you choose this path at 3rd level, your rage becomes a weapon against tyran
 - **Righteous Fury:** When you enter your rage, choose one creature you can see within 60 feet. Until your rage ends, you deal an extra 1d6 damage to that creature whenever you hit it with a weapon attack. This extra damage increases to 2d6 at 10th level and 3d6 at 14th level. The target should be one you perceive as an oppressor, authority figure, or enemy of freedom (DM's discretion).
 
 
-#### INSPIRE RESISTANCE (6TH LEVEL)
+#### Inspire Resistance (6th Level)
 
 Starting at 6th level, your fury inspires others to resist. When you rage, you can choose a number of allies equal to your Charisma modifier (minimum of 1) within 30 feet of you who can see or hear you. Each chosen ally gains temporary hit points equal to your barbarian level and has advantage on saving throws against being frightened or charmed for the duration of your rage.
 
 Once a creature gains temporary hit points from this feature, it can't gain them again until it finishes a short or long rest.
 
 
-#### UNBREAKABLE WILL (10TH LEVEL)
+#### Unbreakable Will (10th Level)
 
 At 10th level, your commitment to freedom makes your spirit unbreakable. You gain the following benefits:
 
@@ -4681,7 +4682,7 @@ At 10th level, your commitment to freedom makes your spirit unbreakable. You gai
 - **Liberator:** You can use an action to attempt to free a willing creature within 5 feet of you from restraints, grapples, or magical effects that restrain or paralyze. Make a Strength check with a DC determined by the DM (typically DC 15 for mundane restraints, DC 20 for magical effects). On a success, the target is freed. While raging, you have advantage on this check.
 
 
-#### REVOLUTION'S CHAMPION (14TH LEVEL)
+#### Revolution's Champion (14th Level)
 
 Beginning at 14th level, you become an avatar of revolutionary fury. You gain the following benefits:
 
@@ -4694,7 +4695,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 - **Voice of Freedom:** You can use your action to rally allies. Each friendly creature within 30 feet of you that can hear you gains advantage on their next attack roll, saving throw, or ability check. Once you use this ability, you can't use it again until you finish a short or long rest.
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Aethoria (primarily), or former Thaldros slaves
 
@@ -4706,7 +4707,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 - **Blood & Coin:** Good - revolutionary turned mercenary, or hired to fight oppressors
 - **Shattered Oaths:** EXCELLENT - perfect heroic revolutionary archetype
 
-## DESIGN NOTES
+## Design Notes
 
 **Balance Considerations:**
 
@@ -4730,21 +4731,21 @@ Both feel distinct from each other and from official barbarian paths!
 
 \page
 
-## COLLEGE OF PROPAGANDA (Bard)
+## College of Propaganda (Bard)
 
 *Masters of information warfare who wield words as weapons to shape public opinion and control narratives*
 
 Whether serving a state or a revolution, bards of the College of Propaganda understand that controlling information is as powerful as any spell. They are masters of spin, manipulation, and mass persuasion, capable of turning friend to foe and hero to villain with carefully chosen words.
 
 
-#### BONUS PROFICIENCIES (3RD LEVEL)
+#### Bonus Proficiencies (3rd Level)
 
 When you join the College of Propaganda at 3rd level, you gain proficiency in Deception and Persuasion. If you are already proficient in either skill, you gain proficiency in another skill of your choice from the bard skill list.
 
 You also learn Thieves' Cant, the secret language used to embed hidden messages in seemingly innocent conversation.
 
 
-#### SPIN DOCTOR (3RD LEVEL)
+#### Spin Doctor (3rd Level)
 
 Also at 3rd level, you learn to reshape narratives and manipulate perception. You gain the following abilities:
 
@@ -4755,7 +4756,7 @@ Also at 3rd level, you learn to reshape narratives and manipulate perception. Yo
 - **Plant the Seed:** When you successfully deceive or persuade a creature, you can implant a false belief in their mind. The creature believes your lie or accepts your argument as unquestionable truth for 1 hour. If presented with obvious evidence contradicting the belief, they may question it (DM's discretion). Once you use this feature, you can't use it again until you finish a short or long rest.
 
 
-#### PROPAGANDA CAMPAIGN (6TH LEVEL)
+#### Propaganda Campaign (6th Level)
 
 Starting at 6th level, you can launch coordinated information campaigns. Over the course of 1 hour (which can be during a rest), you can spread rumors, plant false information, or shape public opinion about a specific person, organization, or event.
 
@@ -4770,7 +4771,7 @@ Choose one of the following effects:
 Once you use this feature, you can't use it again until you finish a long rest. The effects end early if you are revealed as the source of the propaganda.
 
 
-#### INFECTIOUS RHETORIC (14TH LEVEL)
+#### Infectious Rhetoric (14th Level)
 
 At 14th level, your words can spread like wildfire through a population. You gain the following abilities:
 
@@ -4781,7 +4782,7 @@ At 14th level, your words can spread like wildfire through a population. You gai
 - **Control the Narrative:** You can cast *modify memory* once without expending a spell slot. Once you use this feature, you can't use it again until you finish a long rest.
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Can serve either Thaldros (state propaganda) or Aethoria (revolutionary messaging)
 
@@ -4803,21 +4804,21 @@ At 14th level, your words can spread like wildfire through a population. You gai
 - **Blood & Coin:** EXCELLENT - hired to manage a client's reputation or spread disinformation
 - **Shattered Oaths:** Good - revolutionary propagandist or antagonist state agent
 
-## COLLEGE OF THE IRON TONGUE (Bard)
+## College of the Iron Tongue (Bard)
 
 *Border diplomats and contract specialists who broker deals and enforce agreements with magic*
 
 The Iron Tongue bards are mercenary mediators affiliated with the Iron Guild. They are masters of negotiation, contract law, and deal-making who use magic to ensure agreements are honored. In the cutthroat world of Border mercenary work, their services are invaluable.
 
 
-#### BONUS PROFICIENCIES (3RD LEVEL)
+#### Bonus Proficiencies (3rd Level)
 
 When you join the College of the Iron Tongue at 3rd level, you gain proficiency in Insight and Persuasion. If you are already proficient in either skill, you gain proficiency in another skill of your choice from the bard skill list.
 
 You also gain proficiency with calligrapher's supplies and learn to read and write legal contracts in multiple languages.
 
 
-#### SILVER TONGUE (3RD LEVEL)
+#### Silver Tongue (3rd Level)
 
 Also at 3rd level, you become a master negotiator. You gain the following abilities:
 
@@ -4828,7 +4829,7 @@ Also at 3rd level, you become a master negotiator. You gain the following abilit
 - **Detect Deception:** You have advantage on Wisdom (Insight) checks made to determine if someone is lying during a negotiation.
 
 
-#### BINDING CONTRACT (6TH LEVEL)
+#### Binding Contract (6th Level)
 
 Starting at 6th level, you can create magically enforced contracts. When two or more willing creatures agree to terms you've negotiated, you can use an action to create a binding magical contract. The contract must be written down, and all parties must sign it (or make their mark).
 
@@ -4843,7 +4844,7 @@ The contract has the following properties:
 - **Witness Protection:** You can sense the general direction and condition (alive, dead, healthy, wounded) of all creatures bound by your contracts within 1 mile of you.
 
 
-#### IRON GUILD CONNECTIONS (6TH LEVEL)
+#### Iron Guild Connections (6th Level)
 
 Also at 6th level, your affiliation with the Iron Guild grants you special privileges:
 
@@ -4853,7 +4854,7 @@ Also at 6th level, your affiliation with the Iron Guild grants you special privi
 - You gain a +2 bonus to your Iron Guild reputation score (if using the reputation system from Blood & Coin campaign).
 
 
-#### MASTER MEDIATOR (14TH LEVEL)
+#### Master Mediator (14th Level)
 
 At 14th level, you become legendary in the world of negotiation and deal-making. You gain the following abilities:
 
@@ -4871,7 +4872,7 @@ At 14th level, you become legendary in the world of negotiation and deal-making.
 - **Arbitrator's Authority:** You can cast *geas* once without expending a spell slot, but only as part of a negotiated agreement where all parties consent. Once you use this feature, you can't use it again until you finish a long rest.
 
 
-#### NEW SPELL: IRON WORD
+#### New Spell: Iron Word
 *3rd-level enchantment*
 - **Casting Time:** 1 action
 - **Range:** 60 feet
@@ -4883,7 +4884,7 @@ You speak a binding word of enforcement. Choose one creature within range that y
 **Bards of the College of the Iron Tongue learn this spell automatically at 3rd level, and it doesn't count against their spells known.**
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Border regions, affiliated with the Iron Guild
 
@@ -4899,7 +4900,7 @@ You speak a binding word of enforcement. Choose one creature within range that y
 
 ---
 
-## DESIGN NOTES
+## Design Notes
 
 **Balance Considerations:**
 
@@ -4922,7 +4923,7 @@ You speak a binding word of enforcement. Choose one creature within range that y
 Both provide strong social/utility options while remaining balanced for combat!
 
 :
-## ASCENDED CHAMPION DOMAIN (Cleric)
+## Ascended Champion Domain (Cleric)
 
 *Elite warrior-priests who embody their chosen Ascended deity's ideals in battle*
 
@@ -4932,12 +4933,12 @@ The Ascended Champion domain represents the most devout combat clerics in Tirvan
 
 ---
 
-### ASCENDED CHAMPION: GENERAL FEATURES
+### Ascended Champion: General Features
 
 The following features apply to all Ascended Champions, regardless of which god they serve:
 
 
-#### BONUS PROFICIENCIES (1ST LEVEL)
+#### Bonus Proficiencies (1st Level)
 
 When you choose this domain at 1st level, you gain proficiency with martial weapons and heavy armor.
 
@@ -4945,35 +4946,35 @@ When you choose this domain at 1st level, you gain proficiency with martial weap
 {{footnote Custom SubClasses}}
 \page
 
-#### CHAMPION'S STRIKE (1ST LEVEL)
+#### Champion's Strike (1st Level)
 
 Also at 1st level, you gain the ability to infuse your weapon strikes with divine power. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of a type determined by your chosen Ascended (see individual entries below). When you reach 14th level, the extra damage increases to 2d8.
 
 
-#### CHANNEL DIVINITY: ASCENDED MANIFESTATION (2ND LEVEL)
+#### Channel Divinity: Ascended Manifestation (2nd Level)
 
 At 2nd level, you gain a unique Channel Divinity option determined by your chosen Ascended (see individual entries below).
 
 
-#### DIVINE WARRIOR (6TH LEVEL)
+#### Divine Warrior (6th Level)
 
 Starting at 6th level, you gain a feature specific to your chosen Ascended (see individual entries below).
 
 
-#### POTENT SPELLCASTING (8TH LEVEL)
+#### Potent Spellcasting (8th Level)
 
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 
-#### ASCENDED AVATAR (17TH LEVEL)
+#### Ascended Avatar (17th Level)
 
 At 17th level, you gain a powerful capstone ability specific to your chosen Ascended (see individual entries below).
 
 :
 
-## THE SEVEN VARIANTS
+## The Seven Variants
 
-### **1. THANDROS THE LAWBRINGER** (Law, Order, Justice)
+### **1. Thandros the Lawbringer** (Law, Order, Justice)
 
 **Domain Spells:**
 | Cleric Level | Spells |
@@ -5003,7 +5004,7 @@ As an action, you can embody Thandros's absolute justice. For 1 minute, you gain
 
 Once you use this feature, you can't use it again until you finish a long rest.
 :
-### **2. AETHOR THE LIBERATOR** (Freedom, Revolution, Light)
+### **2. Aethor the Liberator** (Freedom, Revolution, Light)
 
 **Domain Spells:**
 | Cleric Level | Spells |
@@ -5041,7 +5042,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 ---
 
-### **3. MOIRA THE WEAVER** (Fate, Magic, Secrets)
+### **3. Moira the Weaver** (Fate, Magic, Secrets)
 
 **Domain Spells:**
 | Cleric Level | Spells |
@@ -5076,7 +5077,7 @@ As an action, you can grasp the threads of fate itself. For 1 minute, you gain t
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-### **4. KAEL THE WANDERER** (Travel, Trade, Luck)
+### **4. Kael the Wanderer** (Travel, Trade, Luck)
 
 **Domain Spells:**
 | Cleric Level | Spells |
@@ -5115,7 +5116,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 {{footnote Custom SubClasses}}
 \page
 
-### **5. SERA THE HEALER** (Life, Healing, Mercy)
+### **5. Sera the Healer** (Life, Healing, Mercy)
 
 **Domain Spells:**
 | Cleric Level | Spells |
@@ -5148,7 +5149,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 ---
 
-### **6. MORDAIN THE SENTINEL** (Death, Honor, Duty)
+### **6. Mordain the Sentinel** (Death, Honor, Duty)
 
 **Domain Spells:**
 | Cleric Level | Spells |
@@ -5183,7 +5184,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 ---
 
-### **7. SYLVARA THE WILD** (Nature, Beasts, Storms)
+### **7. Sylvara the Wild** (Nature, Beasts, Storms)
 
 **Domain Spells:**
 | Cleric Level | Spells |
@@ -5225,7 +5226,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 ---
 
-## TIRVANDOR CONTEXT
+## Tirvandor Context
 
 **Origin:** Temples throughout Tirvandor, serving the Seven Ascended
 
@@ -5239,14 +5240,14 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 ---
 
-## WAR CHAPLAIN DOMAIN (Cleric)
+## War Chaplain Domain (Cleric)
 
 *Military clerics who serve as battlefield healers, morale officers, and spiritual guardians of armies*
 
 War Chaplains are combat clerics attached to military units. Found in both Thaldros and Aethoria (and as mercenaries in the frontier), they bless troops before battle, heal the wounded in the thick of combat, and provide spiritual strength to soldiers facing death.
 
 
-#### DOMAIN SPELLS
+#### Domain Spells
 
 | Cleric Level | Spells |
 |--------------|--------|
@@ -5257,27 +5258,27 @@ War Chaplains are combat clerics attached to military units. Found in both Thald
 | 9th | *mass cure wounds*, *flame strike* |
 
 
-#### BONUS PROFICIENCIES (1ST LEVEL)
+#### Bonus Proficiencies (1st Level)
 
 When you choose this domain at 1st level, you gain proficiency with martial weapons and heavy armor.
 
 
-#### BATTLEFIELD BLESSING (1ST LEVEL)
+#### Battlefield Blessing (1st Level)
 
 Also at 1st level, you can bless your squad before battle. When you cast a spell that restores hit points or grants temporary hit points to one creature, you can target one additional creature within 30 feet with the same spell (without expending an additional spell slot). You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 
-#### CHANNEL DIVINITY: RALLY THE TROOPS (2ND LEVEL)
+#### Channel Divinity: Rally the Troops (2nd Level)
 
 Starting at 2nd level, you can use your Channel Divinity to bolster your allies' spirits. As an action, you present your holy symbol and speak a prayer of encouragement. Each friendly creature within 30 feet of you that can see or hear you gains temporary hit points equal to your cleric level + your Wisdom modifier and has advantage on their next attack roll or saving throw.
 
 
-#### CHANNEL DIVINITY: GUARDIAN'S SACRIFICE (6TH LEVEL)
+#### Channel Divinity: Guardian's Sacrifice (6th Level)
 
 Starting at 6th level, you can use your Channel Divinity to protect your squad at great personal cost. When a creature you can see within 30 feet of you takes damage, you can use your reaction to take that damage instead. This damage can't be reduced or prevented in any way.
 
 
-#### DIVINE STRIKE (8TH LEVEL)
+#### Divine Strike (8th Level)
 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage. When you reach 14th level, the extra damage increases to 2d8.
 
@@ -5285,7 +5286,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 {{footnote Custom SubClasses}}
 \page
 
-#### UNYIELDING FAITH (17TH LEVEL)
+#### Unyielding Faith (17th Level)
 
 At 17th level, your faith becomes an unbreakable shield for your allies. You gain the following benefits:
 
@@ -5296,7 +5297,7 @@ At 17th level, your faith becomes an unbreakable shield for your allies. You gai
 - **Chaplain's Presence:** Allies within 30 feet of you add your Wisdom modifier to death saving throws.
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Military units in both Thaldros and Aethoria, mercenary companies
 
@@ -5316,7 +5317,7 @@ At 17th level, your faith becomes an unbreakable shield for your allies. You gai
 
 ---
 
-## DESIGN NOTES
+## Design Notes
 
 **Balance Considerations:**
 
@@ -5335,14 +5336,14 @@ At 17th level, your faith becomes an unbreakable shield for your allies. You gai
 
 Both domains provide strong martial + divine options for clerics!
 
-## CIRCLE OF THE CONTESTED LANDS (Druid)
+## Circle of the Contested Lands (Druid)
 
 *Druids who protect the war-torn wilderness of the Border, adapting to any terrain and battlefield*
 
 The lands between Thaldros and Aethoria have become a scarred, contested wilderness where armies march and nature suffers. Druids of this circle are neutral guardians who protect what remains of the wild, adapting to any terrain and using the very tools of war against those who would destroy nature.
 
 
-#### CIRCLE SPELLS
+#### Circle Spells
 
 Your mystical connection to contested lands grants you access to certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells.
 
@@ -5356,7 +5357,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th | *freedom of movement*, *stoneskin* |
 
 
-#### BATTLEFIELD ADAPTATION (2ND LEVEL)
+#### Battlefield Adaptation (2nd Level)
 
 When you choose this circle at 2nd level, you can adapt to any battlefield. You gain the following benefits:
 
@@ -5373,7 +5374,7 @@ When you choose this circle at 2nd level, you can adapt to any battlefield. You 
 {{footnote Custom SubClasses}}
 \page
 
-#### WAR-TOUCHED MAGIC (6TH LEVEL)
+#### War-touched Magic (6th Level)
 
 Starting at 6th level, you can channel the harsh magic of contested lands. You gain the following abilities:
 
@@ -5382,7 +5383,7 @@ Starting at 6th level, you can channel the harsh magic of contested lands. You g
 - **Battlefield Harvest:** When you finish a short or long rest in a contested or war-torn area, you find useful materials. Roll 1d6: 1-2 (nothing), 3-4 (1d4 × 10 gp worth of supplies), 5-6 (one uncommon consumable magic item or component worth up to 100 gp).
 
 
-#### CONTESTED GROUND (10TH LEVEL)
+#### Contested Ground (10th Level)
 
 At 10th level, you can transform an area into treacherous contested terrain. As an action, you cause a 30-foot radius area within 120 feet to become hostile terrain for 10 minutes. Choose one effect:
 
@@ -5395,7 +5396,7 @@ At 10th level, you can transform an area into treacherous contested terrain. As 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 
-#### GUARDIAN OF THE BORDER (14TH LEVEL)
+#### Guardian of the Border (14th Level)
 
 At 14th level, you become the ultimate defender of contested lands. You gain the following benefits:
 
@@ -5406,7 +5407,7 @@ At 14th level, you become the ultimate defender of contested lands. You gain the
 - **War's End:** When you drop to 0 hit points in Wild Shape form, you can choose to have the beast form explode in a burst of primal fury. Each creature within 10 feet must make a Dexterity saving throw, taking 4d10 force damage on a failed save or half as much on a success. You then revert to your normal form.
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Border wilderness, contested zones
 
@@ -5418,14 +5419,14 @@ At 14th level, you become the ultimate defender of contested lands. You gain the
 - **Blood & Coin:** Good - neutral wilderness guide, hired protector
 - **Shattered Oaths:** Good - protector of sacred groves in war zones
 
-## CIRCLE OF THE ASCENDED WILD (Druid)
+## Circle of the Ascended Wild (Druid)
 
 *Druids who serve Sylvara the Wild, embodying the primal fury and beauty of untamed nature*
 
 While most druids honor nature generally, some dedicate themselves specifically to Sylvara the Wild, the most primal of the Seven Ascended. These druids embody her storm-touched fury and wild beauty, becoming avatars of nature's raw power.
 
 
-#### CIRCLE SPELLS
+#### Circle Spells
 
 Your connection to Sylvara grants you access to certain spells.
 
@@ -5437,7 +5438,7 @@ Your connection to Sylvara grants you access to certain spells.
 | 9th | *commune with nature*, *wrath of nature* |
 
 
-#### SYLVARA'S BLESSING (2ND LEVEL)
+#### Sylvara's Blessing (2nd Level)
 
 When you choose this circle at 2nd level, Sylvara grants you her wild blessing. You gain the following benefits:
 
@@ -5454,7 +5455,7 @@ When you choose this circle at 2nd level, Sylvara grants you her wild blessing. 
 {{footnote Custom SubClasses}}
 \page
 
-#### CHANNEL SYLVARA (2ND LEVEL)
+#### Channel Sylvara (2nd Level)
 
 Also at 2nd level, you can channel Sylvara's power. You gain two Channel Divinity options:
 
@@ -5465,7 +5466,7 @@ Also at 2nd level, you can channel Sylvara's power. You gain two Channel Divinit
 You can use Channel Divinity twice between rests. You regain expended uses when you finish a short or long rest.
 
 
-#### STORM WALKER (6TH LEVEL)
+#### Storm Walker (6th Level)
 
 Starting at 6th level, you embody Sylvara's storm-nature. You gain the following benefits:
 
@@ -5474,7 +5475,7 @@ Starting at 6th level, you embody Sylvara's storm-nature. You gain the following
 - **Weather Sense:** You always know what the weather will be for the next 24 hours. You can cast *fog cloud* and *gust of wind* at will without expending spell slots.
 
 
-#### SYLVARA'S AVATAR (10TH LEVEL)
+#### Sylvara's Avatar (10th Level)
 
 At 10th level, you can briefly become an avatar of the Wild. As an action, you transform for 1 minute, gaining the following benefits:
 
@@ -5486,7 +5487,7 @@ At 10th level, you can briefly become an avatar of the Wild. As an action, you t
 Once you use this feature, you can't use it again until you finish a long rest.
 
 
-#### PRIMAL EMBODIMENT (14TH LEVEL)
+#### Primal Embodiment (14th Level)
 
 At 14th level, you become the ultimate servant of Sylvara. You gain the following benefits:
 
@@ -5497,7 +5498,7 @@ At 14th level, you become the ultimate servant of Sylvara. You gain the followin
 - **Sylvara's Champion:** You have advantage on saving throws against spells and magical effects. Beasts never willingly attack you.
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Sacred groves dedicated to Sylvara, wild places
 
@@ -5511,7 +5512,7 @@ At 14th level, you become the ultimate servant of Sylvara. You gain the followin
 
 ---
 
-## DESIGN NOTES
+## Design Notes
 
 **Balance:**
 
@@ -5529,14 +5530,14 @@ At 14th level, you become the ultimate servant of Sylvara. You gain the followin
 
 Both provide unique druid experiences tied to Tirvandor!
 
-## IRON GUILD VETERAN (Fighter)
+## Iron Guild Veteran (Fighter)
 
 *Professional mercenary specialists who excel at adaptable, contract-based combat*
 
 Iron Guild Veterans are the elite professional soldiers of the mercenary world. They've survived countless contracts, mastered multiple fighting styles, and built reputations that command premium rates. They embody the Border's pragmatic approach to warfare—skilled, adaptable, and always professional.
 
 
-#### MERCENARY PROFICIENCIES (3RD LEVEL)
+#### Mercenary Proficiencies (3rd Level)
 
 When you choose this archetype at 3rd level, you gain proficiency in two of the following skills: Insight, Intimidation, Perception, or Survival. You also gain proficiency with one type of artisan's tools or vehicles.
 
@@ -5544,7 +5545,7 @@ When you choose this archetype at 3rd level, you gain proficiency in two of the 
 {{footnote Custom SubClasses}}
 \page
 
-#### PROFESSIONAL'S VERSATILITY (3RD LEVEL)
+#### Professional's Versatility (3rd Level)
 
 Also at 3rd level, you've learned to adapt to any contract. You gain the following benefits:
 
@@ -5553,7 +5554,7 @@ Also at 3rd level, you've learned to adapt to any contract. You gain the followi
 - **Contract Focus:** When you begin a combat encounter, you can designate one creature you can see as your contract target. You have advantage on attack rolls against that creature, and you deal an extra 1d6 damage on a hit. This effect lasts until the target dies or combat ends. You can use this feature a number of times equal to your proficiency bonus, regaining expended uses on a long rest.
 
 
-#### VETERAN'S EXPERTISE (7TH LEVEL)
+#### Veteran's Expertise (7th Level)
 
 Starting at 7th level, your experience makes you hard to kill. You gain the following benefits:
 
@@ -5562,7 +5563,7 @@ Starting at 7th level, your experience makes you hard to kill. You gain the foll
 - **Professional's Resilience:** When you take damage that would reduce you to 0 hit points, you can use your reaction to instead drop to 1 hit point. Once you use this feature, you can't use it again until you finish a long rest.
 
 
-#### IRON GUILD REPUTATION (10TH LEVEL)
+#### Iron Guild Reputation (10th Level)
 
 At 10th level, your reputation precedes you. You gain the following benefits:
 
@@ -5573,7 +5574,7 @@ At 10th level, your reputation precedes you. You gain the following benefits:
 - **Hardened Veteran:** You gain proficiency in Wisdom saving throws. If you're already proficient, you gain proficiency in Intelligence or Charisma saving throws instead.
 
 
-#### MASTER MERCENARY (15TH LEVEL)
+#### Master Mercenary (15th Level)
 
 At 15th level, you've become a legendary mercenary. You gain the following benefits:
 
@@ -5584,7 +5585,7 @@ At 15th level, you've become a legendary mercenary. You gain the following benef
 - **Never Outnumbered:** When you're surrounded by enemies (at least 3 hostile creatures within 5 feet), you have advantage on attack rolls and add +2 to AC.
 
 
-#### IRON GUILD TECHNIQUES (18TH LEVEL)
+#### Iron Guild Techniques (18th Level)
 
 At 18th level, you've mastered the Iron Guild's advanced techniques:
 
@@ -5593,7 +5594,7 @@ At 18th level, you've mastered the Iron Guild's advanced techniques:
 - **Professional's Endurance:** You regain 5 hit points at the start of your turn if you have no more than half your hit points remaining.
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Iron Guild (Border mercenary organization)
 
@@ -5603,19 +5604,19 @@ At 18th level, you've mastered the Iron Guild's advanced techniques:
 - **Blood & Coin:** PERFECT - THE quintessential mercenary fighter
 - **Shattered Oaths:** Good - mercenary turned hero
 
-## ROYAL GUARD (Fighter)
+## Royal Guard (Fighter)
 
 *Elite Thaldros soldiers trained in protection, formation fighting, and unwavering discipline*
 
 The Royal Guard are Thaldros's finest warriors—disciplined, tactical, and absolutely loyal to the crown. They master formation fighting, protective techniques, and unwavering duty. They represent everything Thaldros values: order, discipline, and strength through unity.
 
 
-#### ROYAL TRAINING (3RD LEVEL)
+#### Royal Training (3rd Level)
 
 When you choose this archetype at 3rd level, you receive elite military training. You gain proficiency in two of the following skills: History, Insight, Intimidation, or Persuasion.
 
 
-#### GUARDIAN'S STANCE (3RD LEVEL)
+#### Guardian's Stance (3rd Level)
 
 Also at 3rd level, you can protect allies with your presence. As a bonus action, you can enter a Guardian's Stance for 1 minute. While in this stance:
 
@@ -5631,7 +5632,7 @@ Also at 3rd level, you can protect allies with your presence. As a bonus action,
 You can use this feature a number of times equal to your proficiency bonus, regaining expended uses on a long rest.
 
 
-#### FORMATION FIGHTER (7TH LEVEL)
+#### Formation Fighter (7th Level)
 
 Starting at 7th level, you excel at coordinated combat:
 
@@ -5642,7 +5643,7 @@ Starting at 7th level, you excel at coordinated combat:
 - **Unbreakable Formation:** While within 5 feet of two or more allies, you have advantage on saving throws and resistance to all damage.
 
 
-#### ROYAL COMMANDER (10TH LEVEL)
+#### Royal Commander (10th Level)
 
 At 10th level, you can command the battlefield:
 
@@ -5656,7 +5657,7 @@ You can use this feature a number of times equal to your Intelligence modifier (
 - **Inspiring Presence:** Allies within 10 feet of you add your Charisma modifier (minimum +1) to saving throws against being frightened.
 
 
-#### ELITE GUARDIAN (15TH LEVEL)
+#### Elite Guardian (15th Level)
 
 At 15th level, you become the ultimate protector:
 
@@ -5665,7 +5666,7 @@ At 15th level, you become the ultimate protector:
 - **Guardian's Resolve:** You have advantage on death saving throws. When you're reduced to 0 hit points, you can choose to remain conscious and continue fighting. You automatically fail death saving throws but can still take actions normally. At the start of your turn, you take 1d10 necrotic damage. This effect ends when you regain any hit points. Once you use this feature, you can't use it again until you finish a long rest.
 
 
-#### CHAMPION OF THALDROS (18TH LEVEL)
+#### Champion of Thaldros (18th Level)
 
 At 18th level, you become a legendary guardian:
 
@@ -5676,7 +5677,7 @@ At 18th level, you become a legendary guardian:
 - **Royal Authority:** As an action, you can issue a royal command. Each creature of your choice within 30 feet that can hear you must succeed on a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier) or be charmed by you for 1 minute or until you or your allies harm it. While charmed, it regards you as a legitimate authority figure. Once you use this feature, you can't use it again until you finish a long rest.
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Thaldros Royal Military Academy
 
@@ -5692,7 +5693,7 @@ At 18th level, you become a legendary guardian:
 
 ---
 
-## DESIGN NOTES
+## Design Notes
 
 **Balance:**
 
@@ -5714,14 +5715,14 @@ Both offer distinct tactical styles—adaptable mercenary vs protective guardian
 {{footnote Custom SubClasses}}
 \page
 
-## WAY OF THE BROKEN CHAIN (Monk)
+## Way of the Broken Chain (Monk)
 
 *Monks who escaped slavery or imprisonment, using martial discipline to resist oppression*
 
 Monks of the Broken Chain learned their discipline in the worst circumstances—as slaves, prisoners, or captives. They use their ki to break bonds, resist control, and free others. Many come from Thaldros's prisons or labor camps, making them champions of freedom in Aethoria.
 
 
-#### UNBOUND SPIRIT (3RD LEVEL)
+#### Unbound Spirit (3rd Level)
 
 When you choose this tradition at 3rd level, your experience with bondage makes you impossible to hold. You gain the following benefits:
 
@@ -5732,7 +5733,7 @@ When you choose this tradition at 3rd level, your experience with bondage makes 
 - **Liberator's Strike:** When you hit a creature with an unarmed strike, you can spend 1 ki point to attempt to free a grappled or restrained creature within 5 feet. The target automatically escapes the condition.
 
 
-#### RESISTANCE TO CONTROL (6TH LEVEL)
+#### Resistance to Control (6th Level)
 
 Starting at 6th level, your will cannot be broken. You gain the following benefits:
 
@@ -5741,14 +5742,14 @@ Starting at 6th level, your will cannot be broken. You gain the following benefi
 - **Freedom's Defiance:** When you fail a saving throw, you can spend 1 ki point to reroll it. You must use the new roll.
 
 
-#### CHAINS OF RETRIBUTION (11TH LEVEL)
+#### Chains of Retribution (11th Level)
 
 At 11th level, you can turn your oppressor's weapons against them. When you hit a creature with an unarmed strike, you can spend 2 ki points to attempt to bind them. The target must succeed on a Strength saving throw or be restrained by spectral chains for 1 minute. While restrained, the target takes 2d8 force damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
 Additionally, you can spend 2 ki points to cast *dispel magic*.
 
 
-#### AVATAR OF FREEDOM (17TH LEVEL)
+#### Avatar of Freedom (17th Level)
 
 At 17th level, you become the ultimate liberator. You gain the following benefits:
 
@@ -5759,7 +5760,7 @@ At 17th level, you become the ultimate liberator. You gain the following benefit
 - **Freedom's Champion:** Once per turn when you hit with an unarmed strike, you deal an extra 1d10 force damage if the target is an authority figure, slaver, jailer, or tyrant (DM's discretion).
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Former slaves, escaped prisoners, freed captives (primarily from Thaldros)
 
@@ -5771,14 +5772,14 @@ At 17th level, you become the ultimate liberator. You gain the following benefit
 - **Blood & Coin:** Good - hired to free captives, break into prisons
 - **Shattered Oaths:** EXCELLENT - perfect freedom fighter archetype
 
-## WAY OF THE COIN (Monk)
+## Way of the Coin (Monk)
 
 *Mercenary martial artists who blend ki mastery with calculated violence for profit*
 
 Not all monks seek enlightenment—some seek gold. Monks of the Coin are pragmatic warriors who use their ki for mercenary work. They're professional fighters who've turned their martial discipline into a lucrative career, common in the Border's mercenary companies.
 
 
-#### MERCENARY ARTS (3RD LEVEL)
+#### Mercenary Arts (3rd Level)
 
 When you choose this tradition at 3rd level, you learn to blend commerce with combat. You gain the following benefits:
 
@@ -5793,7 +5794,7 @@ When you choose this tradition at 3rd level, you learn to blend commerce with co
 - **Calculated Strike:** When you hit with a Flurry of Blows attack, you can forgo one attack to study your opponent. You learn one of the following: their AC, their remaining hit points (approximate), one damage resistance, or one damage vulnerability.
 
 
-#### BOUNTY HUNTER'S TECHNIQUE (6TH LEVEL)
+#### Bounty Hunter's Technique (6th Level)
 
 Starting at 6th level, you've mastered techniques for capturing and eliminating targets:
 
@@ -5804,7 +5805,7 @@ Starting at 6th level, you've mastered techniques for capturing and eliminating 
 - **Mercenary's Speed:** You can spend 1 ki point as a bonus action to double your speed until the end of your turn, and opportunity attacks against you have disadvantage.
 
 
-#### COIN'S BLESSING (11TH LEVEL)
+#### Coin's Blessing (11th Level)
 
 At 11th level, your mercenary success brings supernatural luck:
 
@@ -5813,7 +5814,7 @@ At 11th level, your mercenary success brings supernatural luck:
 - **Efficient Killer:** When you hit your contract target (from Professional's Focus), you can spend 2 ki points to force it to make a Constitution saving throw. On a failed save, it's stunned until the end of your next turn.
 
 
-#### MASTER MERCENARY (17TH LEVEL)
+#### Master Mercenary (17th Level)
 
 At 17th level, you become a legendary mercenary monk:
 
@@ -5826,7 +5827,7 @@ At 17th level, you become a legendary mercenary monk:
 - **Payment in Blood:** Once per turn, when you reduce a creature to 0 hit points, you gain 2 ki points (maximum 5 extra ki points per long rest from this feature).
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Border mercenary companies, Iron Guild monasteries
 
@@ -5840,7 +5841,7 @@ At 17th level, you become a legendary mercenary monk:
 
 ---
 
-## DESIGN NOTES
+## Design Notes
 
 **Balance:**
 
@@ -5858,7 +5859,7 @@ At 17th level, you become a legendary mercenary monk:
 
 Both provide unique monk experiences tied to Tirvandor!
 
-## OATH OF THE IRON CROWN (Paladin)
+## Oath of the Iron Crown (Paladin)
 
 *Paladins who serve Thaldros, enforcing law, order, and the king's will through strength*
 
@@ -5868,7 +5869,7 @@ Paladins of the Iron Crown are the armored fist of Thaldros. They swear to uphol
 {{footnote Custom SubClasses}}
 \page
 
-#### TENETS OF THE IRON CROWN
+#### Tenets of the Iron Crown
 
 The tenets of the Oath of the Iron Crown bind a paladin to the principles of law, order, and authority.
 
@@ -5881,7 +5882,7 @@ The tenets of the Oath of the Iron Crown bind a paladin to the principles of law
 **Punish the Lawless.** Those who break the law must face justice swiftly and without mercy.
 
 
-#### OATH SPELLS
+#### Oath Spells
 
 You gain oath spells at the paladin levels listed.
 
@@ -5894,7 +5895,7 @@ You gain oath spells at the paladin levels listed.
 | 17th | *dominate person*, *hold monster* |
 
 
-#### CHANNEL DIVINITY: VOICE OF AUTHORITY (3RD LEVEL)
+#### Channel Divinity: Voice of Authority (3rd Level)
 
 When you take this oath at 3rd level, you gain the following Channel Divinity options:
 
@@ -5903,14 +5904,14 @@ When you take this oath at 3rd level, you gain the following Channel Divinity op
 **Enforce the Law:** As a bonus action, you can use your Channel Divinity to mark a lawbreaker. Choose one creature within 60 feet that has broken a law you're aware of. For 1 minute, you have advantage on attack rolls against the target, and it has disadvantage on saves against your spells.
 
 
-#### AURA OF ORDER (7TH LEVEL)
+#### Aura of Order (7th Level)
 
 Starting at 7th level, you emanate an aura of absolute discipline. You and friendly creatures within 10 feet of you can't be charmed or frightened, and have advantage on saves to maintain concentration.
 
 At 18th level, the range increases to 30 feet.
 
 
-#### IRON JUDGMENT (15TH LEVEL)
+#### Iron Judgment (15th Level)
 
 At 15th level, your strikes enforce the law itself. When you hit a creature with a melee weapon attack, you can force it to make a Wisdom saving throw. On a failed save, choose one:
 
@@ -5921,7 +5922,7 @@ At 15th level, your strikes enforce the law itself. When you hit a creature with
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 
-#### AVATAR OF AUTHORITY (20TH LEVEL)
+#### Avatar of Authority (20th Level)
 
 At 20th level, you can assume the mantle of ultimate authority. As an action, you transform for 1 minute, gaining the following benefits:
 
@@ -5933,7 +5934,7 @@ At 20th level, you can assume the mantle of ultimate authority. As an action, yo
 Once you use this feature, you can't use it again until you finish a long rest.
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Thaldros royal paladins, trained in the capital
 
@@ -5951,7 +5952,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 - **Blood & Coin:** Complex - former Iron Crown turned mercenary, questioning their oath
 - **Shattered Oaths:** EXCELLENT - perfect antagonist OR defector seeking redemption
 
-## OATH OF LIBERTY (Paladin)
+## Oath of Liberty (Paladin)
 
 *Paladins who champion freedom, break chains, and fight tyranny with righteous fury*
 
@@ -5961,7 +5962,7 @@ Paladins of Liberty are champions of the oppressed, breakers of chains, and livi
 {{footnote Custom SubClasses}}
 \page
 
-#### TENETS OF LIBERTY
+#### Tenets of Liberty
 
 The tenets of the Oath of Liberty guide a paladin to fight for freedom and justice.
 
@@ -5974,7 +5975,7 @@ The tenets of the Oath of Liberty guide a paladin to fight for freedom and justi
 **Break the Chains.** Free those in bondage, whether physical, mental, or spiritual.
 
 
-#### OATH SPELLS
+#### Oath Spells
 
 You gain oath spells at the paladin levels listed.
 
@@ -5987,7 +5988,7 @@ You gain oath spells at the paladin levels listed.
 | 17th | *greater restoration*, *dispel evil and good* |
 
 
-#### CHANNEL DIVINITY: LIBERATOR'S BLESSING (3RD LEVEL)
+#### Channel Divinity: Liberator's Blessing (3rd Level)
 
 When you take this oath at 3rd level, you gain the following Channel Divinity options:
 
@@ -5996,21 +5997,21 @@ When you take this oath at 3rd level, you gain the following Channel Divinity op
 **Champion of the Oppressed:** As a bonus action, you can use your Channel Divinity to become a beacon of hope. For 1 minute, you and allies within 10 feet have advantage on saves against being charmed or frightened, and you all gain temporary hit points equal to your Charisma modifier + your paladin level (minimum 1) at the start of your turn.
 
 
-#### AURA OF FREEDOM (7TH LEVEL)
+#### Aura of Freedom (7th Level)
 
 Starting at 7th level, you and friendly creatures within 10 feet of you can't be grappled or restrained, and your movement speed can't be reduced by magical means. Additionally, difficult terrain doesn't cost extra movement.
 
 At 18th level, the range increases to 30 feet.
 
 
-#### SMITE THE OPPRESSOR (15TH LEVEL)
+#### Smite the Oppressor (15th Level)
 
 At 15th level, your divine strikes punish tyrants. When you hit a creature with a melee weapon attack, you can expend a spell slot to deal additional radiant damage as per Divine Smite. If the target is an authority figure who oppresses others (slavers, tyrants, corrupt officials, etc.—DM's discretion), you deal the maximum damage for the Divine Smite instead of rolling.
 
 Additionally, once per turn when you hit a creature that has another creature grappled or restrained, you deal an extra 1d8 radiant damage and can free the grappled/restrained creature.
 
 
-#### REVOLUTIONARY ASCENDANCE (20TH LEVEL)
+#### Revolutionary Ascendance (20th Level)
 
 At 20th level, you become the ultimate symbol of freedom. As an action, you transform for 1 minute, gaining the following benefits:
 
@@ -6023,7 +6024,7 @@ At 20th level, you become the ultimate symbol of freedom. As an action, you tran
 Once you use this feature, you can't use it again until you finish a long rest.
 
 
-#### TIRVANDOR CONTEXT
+#### Tirvandor Context
 
 **Origin:** Aethoria (primarily), escaped slaves, revolutionary groups
 
@@ -6039,7 +6040,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 ---
 
-## DESIGN NOTES
+## Design Notes
 
 **Balance:**
 
@@ -6066,14 +6067,14 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 These oaths represent the ideological conflict at the heart of Tirvandor!
 
-## BORDER WARDEN (Ranger)
+## Border Warden (Ranger)
 
 *Neutral scouts who patrol the contested frontier between nations*
 
 Border Wardens are the eyes and ears of the contested lands, patrolling the dangerous contested frontier. They're neutral by necessity—attacking any army that threatens the Border's fragile ecosystem.
 
 
-#### WARDEN MAGIC (3RD LEVEL)
+#### Warden Magic (3rd Level)
 
 | Ranger Level | Spells |
 |--------------|--------|
@@ -6084,41 +6085,41 @@ Border Wardens are the eyes and ears of the contested lands, patrolling the dang
 | 17th | *commune with nature*, *tree stride* |
 
 
-#### FRONTIER EXPERTISE (3RD LEVEL)
+#### Frontier Expertise (3rd Level)
 
 At 3rd level, you gain proficiency in Perception and Survival. Your proficiency bonus is doubled for these skills. You can detect military movements (10+ creatures) within 1 mile.
 
 **Neutral Ground:** You have advantage on Stealth and Survival checks in the Border region. You can move through difficult terrain without penalty.
 
 
-#### WARDEN'S WARNING (3RD LEVEL)
+#### Warden's Warning (3rd Level)
 
 Also at 3rd level, you can sense threats to the Border. As an action, you can spend a spell slot to sense armies, large groups, or magical threats within a radius (1st level: 1 mile, higher levels: +1 mile per level). You learn their approximate size, direction, and hostility.
 
 
-#### AMBUSH TACTICS (7TH LEVEL)
+#### Ambush Tactics (7th Level)
 
 At 7th level, you excel at hit-and-run warfare. You have advantage on initiative. On your first turn in combat, you have advantage on attacks against creatures that haven't acted yet. When you hit with an attack on your first turn, you deal an extra 2d6 damage.
 
 
-#### GUARDIAN OF THE WILD (11TH LEVEL)
+#### Guardian of the Wild (11th Level)
 
 At 11th level, the Border's wilderness protects you. While in natural terrain, you can't be tracked except by magical means, and you have advantage on saves against spells. You can cast *pass without trace* at will without expending a spell slot.
 
 \column
 
-#### MASTER WARDEN (15TH LEVEL)
+#### Master Warden (15th Level)
 
 At 15th level, you become the ultimate Border guardian. You can cast *commune with nature* at will. Once per long rest, you can summon the Border's fury—all hostile creatures within 60 feet take 4d10 force damage and must succeed on a Strength save or be knocked prone.
 
-## PEOPLE'S SCOUT (Ranger)
+## People's Scout (Ranger)
 
 *Aethorian guerrilla fighters using wilderness tactics for freedom*
 
 People's Scouts are guerrilla rangers fighting for Aethoria's freedom. They use hit-and-run tactics, sabotage, and wilderness expertise to harry Thaldros forces.
 
 
-#### SCOUT MAGIC (3RD LEVEL)
+#### Scout Magic (3rd Level)
 
 | Ranger Level | Spells |
 |--------------|--------|
@@ -6129,27 +6130,27 @@ People's Scouts are guerrilla rangers fighting for Aethoria's freedom. They use 
 | 17th | *mislead*, *modify memory* |
 
 
-#### GUERRILLA TACTICS (3RD LEVEL)
+#### Guerrilla Tactics (3rd Level)
 
 At 3rd level, you master hit-and-run warfare. You gain proficiency in Stealth and Survival. After making an attack, you can use your bonus action to Disengage or Hide. You have advantage on attacks against creatures that haven't acted yet in combat.
 
 
-#### SABOTEUR (3RD LEVEL)
+#### Saboteur (3rd Level)
 
 Also at 3rd level, you learn to sabotage enemy operations. You gain proficiency with tinker's tools and can spend 10 minutes to create traps (DC 15 Perception to detect, DC 15 Dexterity to disarm, 2d10 damage). You can have up to 3 active traps at once.
 
 
-#### VANISH (7TH LEVEL)
+#### Vanish (7th Level)
 
 At 7th level, you can disappear when danger strikes. As a bonus action, you become invisible until the start of your next turn or until you attack. You can use this feature a number of times equal to your Wisdom modifier, regaining uses on a long rest.
 
 
-#### FREEDOM FIGHTER (11TH LEVEL)
+#### Freedom Fighter (11th Level)
 
 At 11th level, you inspire resistance. Allies within 30 feet have advantage on saves against being frightened. As a bonus action, you can grant one ally advantage on their next attack roll or save.
 
 
-#### MASTER SABOTEUR (15TH LEVEL)
+#### Master Saboteur (15th Level)
 
 At 15th level, your sabotage becomes devastating. Your traps deal 4d10 damage. Once per long rest, you can spend 1 hour to sabotage a structure or vehicle—it collapses or breaks within 1d4 hours. You have advantage on all Dexterity (Stealth) checks.
 
@@ -6157,84 +6158,84 @@ At 15th level, your sabotage becomes devastating. Your traps deal 4d10 damage. O
 {{footnote Custom SubClasses}}
 \page
 
-## STATE INQUISITOR (Rogue)
+## State Inquisitor (Rogue)
 *Thaldros secret police and ruthless investigators*
 
 State Inquisitors are Thaldros's intelligence agents—investigators, interrogators, and secret police who root out enemies of the state.
 
 
-#### INQUISITOR'S EXPERTISE (3RD LEVEL)
+#### Inquisitor's Expertise (3rd Level)
 
 At 3rd level, you gain proficiency in Insight and Intimidation. Your proficiency bonus is doubled for these skills. You can use Sneak Attack with melee attacks against frightened or restrained creatures.
 
 **Extract Information:** You have advantage on Charisma (Intimidation) checks during interrogations. You automatically detect when someone tells an obvious lie.
 
 
-#### FEARSOME PRESENCE (3RD LEVEL)
+#### Fearsome Presence (3rd Level)
 
 Also at 3rd level, you can terrify with a look. As an action, choose one creature within 30 feet. It must succeed on a Wisdom save (DC = 8 + proficiency + Charisma) or be frightened of you for 1 minute. You can use this a number of times equal to your Charisma modifier, regaining uses on a long rest.
 
 
-#### INTERROGATOR (9TH LEVEL)
+#### Interrogator (9th Level)
 
 At 9th level, you're a master investigator. You can cast *detect thoughts* at will without components. When you deal Sneak Attack damage to a frightened creature, you can force it to answer one question truthfully.
 
 
-#### UNCANNY INSIGHT (13TH LEVEL)
+#### Uncanny Insight (13th Level)
 
 At 13th level, you read people instantly. You have advantage on Insight checks. You can spend 1 minute observing someone to learn their surface emotions, intentions, and one secret (DM's choice).
 
 
-#### MASTER INQUISITOR (17TH LEVEL)
+#### Master Inquisitor (17th Level)
 
 At 17th level, you become legendary. You can cast *modify memory* once per long rest. Your Sneak Attack damage increases by 2d6 against frightened creatures. You have advantage on all Charisma checks against law enforcement and government officials.
 
-## SHADOW BROKER (Rogue)
+## Shadow Broker (Rogue)
 
 *Border information dealers who trade in secrets*
 
 Shadow Brokers are intelligence traders in the Border—neutral spies who sell secrets to the highest bidder.
 
 
-#### INFORMATION NETWORK (3RD LEVEL)
+#### Information Network (3rd Level)
 
 At 3rd level, you have contacts everywhere. In any settlement, you can spend 1 hour and 50 gp to establish a contact who provides local information, rumors, or introductions. You have advantage on Intelligence checks to gather information.
 
 **Read the Room:** You have proficiency in Insight. You can spend 1 minute observing a social situation to learn everyone's relationships, tensions, and power dynamics (DM provides summary).
 
 
-#### BLACKMAIL (3RD LEVEL)
+#### Blackmail (3rd Level)
 
 Also at 3rd level, information is leverage. When you learn a secret about a creature, you can use it for blackmail. The creature has disadvantage on Charisma checks against you and must succeed on a Wisdom save (DC = 8 + proficiency + Charisma) to refuse reasonable requests from you.
 
 
-#### INFORMATION BROKER (9TH LEVEL)
+#### Information Broker (9th Level)
 
 At 9th level, you can sell secrets for profit. Once per long rest, you can sell valuable information you've learned for 1d6 × 100 gp (requires settlement and DM approval). You can cast *clairvoyance* once per long rest.
 
 
-#### MASTER OF SECRETS (13TH LEVEL)
+#### Master of Secrets (13th Level)
 
 At 13th level, you control information flow. You can cast *scrying* once per long rest. When you spend 10 minutes in conversation with someone, you learn one secret about them (DM's choice). You have advantage on all Deception checks.
 
 
-#### ULTIMATE BROKER (17TH LEVEL)
+#### Ultimate Broker (17th Level)
 
 At 17th level, you know everything. You can cast *legend lore* once per long rest without components. Your information network is legendary—in any settlement, you can contact your network to learn almost any information (DM discretion). Your Sneak Attack deals an extra 2d6 damage when you have information about your target.
 
 
-## WARBORN BLOODLINE (Sorcerer)
+## Warborn Bloodline (Sorcerer)
 *Sorcerers born from magical warfare, wielding chaotic combat magic*
 
 Warborn sorcerers were born during magical catastrophes or near battle-sites where raw magic erupted. Their power is volatile but devastating in combat.
 
 
-#### BONUS PROFICIENCIES (1ST LEVEL)
+#### Bonus Proficiencies (1st Level)
 
 You gain proficiency with medium armor and martial weapons.
 
 
-#### COMBAT SURGE (1ST LEVEL)
+#### Combat Surge (1st Level)
 
 At 1st level, violence fuels your magic. When you reduce a creature to 0 hit points, you regain 1 sorcery point (maximum 3 regained per long rest). When you enter combat, roll 1d4—on a 4, you gain 1 sorcery point.
 
@@ -6244,7 +6245,7 @@ At 1st level, violence fuels your magic. When you reduce a creature to 0 hit poi
 {{footnote Custom SubClasses}}
 \page
 
-#### CHAOTIC MAGIC (6TH LEVEL)
+#### Chaotic Magic (6th Level)
 
 At 6th level, your magic is unpredictable. When you cast a spell of 1st level or higher, roll 1d20. On a 20, choose one:
 - Regain the spell slot
@@ -6252,12 +6253,12 @@ At 6th level, your magic is unpredictable. When you cast a spell of 1st level or
 - Target one additional creature within range
 
 
-#### ARCANE RESILIENCE (14TH LEVEL)
+#### Arcane Resilience (14th Level)
 
 At 14th level, magic protects you in battle. When you cast a spell, you gain temporary hit points equal to the spell's level. You have resistance to damage from spells.
 
 
-#### AVATAR OF WAR (18TH LEVEL)
+#### Avatar of War (18th Level)
 
 At 18th level, you become a magical weapon. Once per long rest, transform for 1 minute:
 - Fly speed equal to walking speed
@@ -6267,31 +6268,31 @@ At 18th level, you become a magical weapon. Once per long rest, transform for 1 
 
 ---
 
-## ASCENDED-TOUCHED (Sorcerer)
+## Ascended-touched (Sorcerer)
 
 *Sorcerers blessed (or cursed) by one of the Seven Ascended*
 
 These sorcerers have been touched by divine power, blending sorcery with divine magic.
 
 
-#### DIVINE ANCESTRY (1ST LEVEL)
+#### Divine Ancestry (1st Level)
 
 Choose one of the Seven Ascended. You learn one cleric cantrip and gain resistance to one damage type based on your Ascended (DM determines thematically).
 
 **Divine Magic:** You can learn cleric spells as sorcerer spells (they count as sorcerer spells for you).
 
 
-#### ASCENDED BLESSING (6TH LEVEL)
+#### Ascended Blessing (6th Level)
 
 At 6th level, your Ascended grants power. You can spend 2 sorcery points to cast a cleric spell of 3rd level or lower without expending a spell slot. You add your Charisma modifier to one damage roll of cleric spells you cast.
 
 
-#### DIVINE PROTECTION (14TH LEVEL)
+#### Divine Protection (14th Level)
 
 At 14th level, divine power shields you. You have advantage on death saving throws. When you drop to 0 hit points, you can use your reaction and spend 5 sorcery points to instead drop to 1 hit point. Once you use this, you can't use it again until you finish a long rest.
 
 
-#### ASCENDED AVATAR (18TH LEVEL)
+#### Ascended Avatar (18th Level)
 
 At 18th level, you channel your Ascended. Once per long rest, for 1 minute:
 - Gain benefits themed to your Ascended (flight, aura, divine strikes, etc.—DM determines)
@@ -6299,13 +6300,13 @@ At 18th level, you channel your Ascended. Once per long rest, for 1 minute:
 - Gain resistance to all damage
 - Your spells heal allies for half the damage dealt (your choice of target)
 
-## PACT OF THE FORGOTTEN THRONE (Warlock)
+## Pact of the Forgotten Throne (Warlock)
 *Warlocks who made pacts with ancient fallen royalty of Tirvandor*
 
 Your patron is an ancient ruler from before Thaldros and Aethoria—a forgotten dynasty that once ruled Tirvandor. They offer power in exchange for restoring their legacy.
 
 
-#### EXPANDED SPELL LIST
+#### Expanded Spell List
 
 | Spell Level | Spells |
 |-------------|--------|
@@ -6316,24 +6317,24 @@ Your patron is an ancient ruler from before Thaldros and Aethoria—a forgotten 
 | 5th | *dominate person*, *legend lore* |
 
 
-#### ROYAL PRESENCE (1ST LEVEL)
+#### Royal Presence (1st Level)
 
 You gain proficiency in History and Persuasion. You can add your Charisma modifier twice to Persuasion checks when claiming authority or noble status.
 
 **Crown's Command:** You can cast *command* at will without expending a spell slot.
 
 
-#### ANCIENT KNOWLEDGE (6TH LEVEL)
+#### Ancient Knowledge (6th Level)
 
 At 6th level, your patron shares lost knowledge. You can cast *speak with dead* at will. You can spend 10 minutes communing with your patron to learn one historical fact about a location, object, or person.
 
 
-#### GHOSTLY COURT (10TH LEVEL)
+#### Ghostly Court (10th Level)
 
 At 10th level, you can summon spectral courtiers. As an action, summon 1d4+1 ghosts of ancient nobles. They have ghost statistics but serve you for 1 hour. Once per long rest.
 
 
-#### THRONE OF AGES (14TH LEVEL)
+#### Throne of Ages (14th Level)
 
 At 14th level, you can claim authority. Once per long rest, for 1 minute you gain:
 - Immunity to being charmed or frightened
@@ -6341,7 +6342,7 @@ At 14th level, you can claim authority. Once per long rest, for 1 minute you gai
 - Creatures of your choice within 30 feet must succeed on a Wisdom save or kneel (prone, speed 0)
 - You can cast *command* as a bonus action
 
-## PACT OF THE WAR PROFITEER (Warlock)
+## Pact of the War Profiteer (Warlock)
 
 *Warlocks whose patrons feed on conflict and war itself*
 
@@ -6351,7 +6352,7 @@ Your patron is an entity that grows stronger from violence—a demon of war, a s
 {{footnote Custom SubClasses}}
 \page
 
-#### EXPANDED SPELL LIST
+#### Expanded Spell List
 
 | Spell Level | Spells |
 |-------------|--------|
@@ -6362,24 +6363,24 @@ Your patron is an entity that grows stronger from violence—a demon of war, a s
 | 5th | *cone of cold*, *destructive wave* |
 
 
-#### CONFLICT'S BLESSING (1ST LEVEL)
+#### Conflict's Blessing (1st Level)
 
 You gain proficiency in Intimidation and medium armor. When you enter combat, gain temporary hit points equal to your warlock level.
 
 **Feed on Violence:** When you see a creature drop to 0 hit points within 60 feet, you gain 1d6 temporary hit points.
 
 
-#### WAR SIGHT (6TH LEVEL)
+#### War Sight (6th Level)
 
 At 6th level, you sense conflict. You have advantage on initiative. As an action, you can sense all combat within 1 mile (direction and intensity). You have advantage on attack rolls against creatures at half HP or less.
 
 
-#### PROFITEER'S SHIELD (10TH LEVEL)
+#### Profiteer's Shield (10th Level)
 
 At 10th level, violence protects you. When you take damage, you gain resistance to that damage type until your next turn. When you deal damage to a creature, you gain +1 AC until your next turn (stacks up to +5).
 
 
-#### AVATAR OF WAR (14TH LEVEL)
+#### Avatar of War (14th Level)
 
 At 14th level, you thrive in battle. Once per long rest, for 1 minute:
 - Gain temporary HP equal to warlock level at start of each turn
@@ -6387,45 +6388,45 @@ At 14th level, you thrive in battle. Once per long rest, for 1 minute:
 - Extra attack (cast a spell as bonus action or make one weapon attack)
 - Your spells deal maximum damage
 
-## SCHOOL OF WAR MAGIC (Wizard)
+## School of War Magic (Wizard)
 
 *Thaldros military battle mages specializing in tactical magic*
 
 War mages are trained by Thaldros to serve in military units, combining protective magic with tactical spellcasting.
 
 
-#### ARCANE DEFLECTION (2ND LEVEL)
+#### Arcane Deflection (2nd Level)
 
 You gain +2 AC and +4 to saves while concentrating on a spell. As a reaction when hit by an attack, you can gain +4 AC against that attack. If it misses, you can make one weapon attack as part of the reaction.
 
 
-#### TACTICAL WIT (2ND LEVEL)
+#### Tactical Wit (2nd Level)
 
 You add your Intelligence modifier to initiative rolls. You gain proficiency in medium armor, shields, and martial weapons.
 
 
-#### DURABLE MAGIC (6TH LEVEL)
+#### Durable Magic (6th Level)
 
 At 6th level, magic shields you. While concentrating, you have resistance to all damage. When you cast a spell, gain temporary HP equal to 2× spell level.
 
 
-#### POWER SURGE (10TH LEVEL)
+#### Power Surge (10th Level)
 
 At 10th level, store magical energy. When you finish a long rest, gain "surge charges" equal to Intelligence modifier. Spend 1 charge to deal extra force damage with a spell equal to half your wizard level.
 
 
-#### DEFLECTING SHROUD (14TH LEVEL)
+#### Deflecting Shroud (14th Level)
 
 At 14th level, your deflections strike back. When you use Arcane Deflection, 3 targets within 60 feet take force damage equal to half your wizard level.
 
-## SCHOOL OF INNOVATION (Wizard)
+## School of Innovation (Wizard)
 
 *Aethorian experimental mages pushing magical boundaries*
 
 Innovation wizards experiment with magic, creating new effects and modifying spells on the fly.
 
 
-#### EXPERIMENTAL MAGIC (2ND LEVEL)
+#### Experimental Magic (2nd Level)
 
 You can modify spells as you cast them. Spend one spell slot to:
 - Increase a spell's range by 50%
@@ -6436,22 +6437,22 @@ You can modify spells as you cast them. Spend one spell slot to:
 You can experiment a number of times equal to Intelligence modifier per long rest.
 
 
-#### INNOVATIVE MIND (2ND LEVEL)
+#### Innovative Mind (2nd Level)
 
 You can prepare one additional spell per level. You have advantage on Intelligence (Arcana) checks.
 
 
-#### SPELL RESEARCH (6TH LEVEL)
+#### Spell Research (6th Level)
 
 At 6th level, create temporary spells. During a long rest, create one custom spell (work with DM on effects, level, and balance). The spell lasts until you create a new one.
 
 
-#### ARCANE BREAKTHROUGH (10TH LEVEL)
+#### Arcane Breakthrough (10th Level)
 
 At 10th level, your innovations become powerful. When you use Experimental Magic, you can choose two modifications instead of one.
 
 
-#### MASTER INNOVATOR (14TH LEVEL)
+#### Master Innovator (14th Level)
 
 At 14th level, you break magical limits. Once per long rest, cast a spell and:
 - Ignore spell components
@@ -6463,14 +6464,14 @@ At 14th level, you break magical limits. Once per long rest, cast a spell and:
 {{footnote Custom SubClasses}}
 \page
 
-# CHAPTER 8: TIRVANDOR CUSTOM SPELLS
+# Chapter 8: Tirvandor Custom Spells
 
 :
 These spells are available to specific classes and subclasses as noted. All are balanced for D&D 5e gameplay.
 
-## PROPAGANDA & MANIPULATION SPELLS
+## Propaganda & Manipulation Spells
 
-### 1. PROPAGANDIST'S WHISPER
+### 1. Propagandist's Whisper
 *1st-level enchantment*
 
 **Casting Time:** 1 action  
@@ -6485,7 +6486,7 @@ If the target succeeds on the save, it doesn't believe the rumor but isn't aware
 
 **At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-### 2. MASS HYSTERIA
+### 2. Mass Hysteria
 *3rd-level enchantment*
 
 **Casting Time:** 1 action  
@@ -6502,7 +6503,7 @@ A frightened creature can repeat the saving throw at the end of each of its turn
 
 **At Higher Levels:** When you cast this spell using a spell slot of 4th level or higher, the radius increases by 10 feet for each slot level above 3rd.
 \
-### 3. REWRITE MEMORY
+### 3. Rewrite Memory
 *5th-level enchantment*
 
 **Casting Time:** 1 minute  
@@ -6515,7 +6516,7 @@ You touch a willing creature or one that is incapacitated and rewrite one of its
 
 The target believes the altered memory to be true. The effect is permanent but can be ended by *greater restoration*, *heal*, *wish*, or similar magic. A creature that witnesses evidence strongly contradicting the false memory can make a Wisdom saving throw to realize the memory is false.
 
-### 4. VOICE OF AUTHORITY
+### 4. Voice of Authority
 *2nd-level enchantment*
 
 **Casting Time:** 1 action  
@@ -6530,9 +6531,9 @@ Examples: "Drop your weapon and surrender," "Tell me where the artifact is hidde
 
 The target understands the command even if it doesn't share a language with you.
 
-## WARLOCK PATRON SPELLS
+## Warlock Patron Spells
 
-### 5. CROWN OF THE FALLEN KING
+### 5. Crown of the Fallen King
 *3rd-level illusion*
 
 **Casting Time:** 1 action  
@@ -6552,7 +6553,7 @@ A spectral crown appears on your head, marking you as royalty. For the duration,
 - You can cast *command* at will without expending a spell slot.
 - Once during the spell's duration, you can use a bonus action to force one creature within 30 feet to kneel (fall prone, speed 0 until end of its next turn) if it fails a Wisdom saving throw.
 
-### 6. BLOOD PRICE
+### 6. Blood Price
 *2nd-level necromancy*
 
 **Casting Time:** 1 action  
@@ -6569,7 +6570,7 @@ You offer your own blood to fuel your magic. When you cast this spell, you take 
 
 **At Higher Levels:** When you cast this spell using a spell slot of 3rd level or higher, you take an additional 1d6 necrotic damage and the extra spell damage increases by 1d6 for each slot level above 2nd.
 
-### 7. SUMMON ANCIENT COURTIER
+### 7. Summon Ancient Courtier
 *4th-level conjuration*
 
 **Casting Time:** 1 action  
@@ -6586,7 +6587,7 @@ In combat, the spirit acts on your turn and uses its ghostly abilities to aid yo
 
 **At Higher Levels:** When you cast this spell using a spell slot of 5th level or higher, you can summon one additional spirit for each slot level above 4th.
 \column
-### 8. PROFITEER'S SHIELD
+### 8. Profiteer's Shield
 *1st-level abjuration*
 
 **Casting Time:** 1 reaction, which you take when you see violence occur within 60 feet  
@@ -6599,9 +6600,9 @@ When violence erupts nearby, your patron's power shields you. You gain a number 
 
 **At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, the temporary hit points increase by 1d10 for each slot level above 1st.
 
-## WAR & CONFLICT SPELLS
+## War & Conflict Spells
 
-### 9. BATTLEFIELD AWARENESS
+### 9. Battlefield Awareness
 *2nd-level divination (ritual)*
 
 **Casting Time:** 1 action  
@@ -6618,7 +6619,7 @@ You attune yourself to the chaos of battle. For the duration, you gain the follo
 - You can sense the general tactics and strategy of enemy forces within 60 feet (aggressive, defensive, flanking, retreating, etc.).
 - You have advantage on Wisdom (Perception) checks related to combat situations.
 
-### 10. IRON GUILD CONTRACT
+### 10. Iron Guild Contract
 *3rd-level enchantment (ritual)*
 
 **Casting Time:** 10 minutes  
@@ -6646,7 +6647,7 @@ The contract ends when its terms are fulfilled, all parties agree to void it, or
 
 **At Higher Levels:** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 30 days for each slot level above 3rd.
 
-### 11. TACTICAL STRIKE
+### 11. Tactical Strike
 *1st-level divination*
 
 **Casting Time:** 1 bonus action  
@@ -6659,9 +6660,9 @@ You analyze your enemy's weaknesses. Choose one creature you can see. For the du
 
 **At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-## ASCENDED-THEMED SPELLS
+## Ascended-themed Spells
 
-### 12. BLESSING OF THE ASCENDED
+### 12. Blessing of the Ascended
 *2nd-level abjuration*
 
 **Casting Time:** 1 action  
@@ -6680,7 +6681,7 @@ You invoke the blessing of one of the Seven Ascended on a willing creature. Choo
 - **Mordain:** Advantage on death saving throws, and has advantage on attacks against undead
 - **Sylvara:** Resistance to lightning and thunder damage, and can speak with beasts
 
-### 13. WRATH OF THE WILD
+### 13. Wrath of the Wild
 *4th-level evocation*
 
 **Casting Time:** 1 action  
@@ -6699,7 +6700,7 @@ You call upon Sylvara's primal fury. Choose one effect:
 
 **At Higher Levels:** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
-### 14. CHAIN BREAKER
+### 14. Chain Breaker
 *3rd-level abjuration*
 
 **Casting Time:** 1 action  
@@ -6723,7 +6724,7 @@ Additionally, all restraining objects within range (manacles, cages, chains, etc
 
 **At Higher Levels:** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
-### 15. WARBORN SURGE
+### 15. Warborn Surge
 *2nd-level transmutation*
 
 **Casting Time:** 1 bonus action  
@@ -6743,7 +6744,7 @@ Additionally, you have advantage on Constitution saving throws to maintain conce
 
 **At Higher Levels:** When you cast this spell using a spell slot of 3rd level or higher, the extra damage on rolls of 3-5 increases by 1d6 for each slot level above 2nd.
 
-## SPELL AVAILABILITY BY SUBCLASS
+## Spell Availability by Subclass
 
 ### College of Propaganda (Bard)
 - Propagandist's Whisper (1st)
@@ -6820,7 +6821,7 @@ Additionally, you have advantage on Constitution saving throws to maintain conce
 - Battlefield Awareness (2nd)
 - Warborn Surge (2nd)
 
-## DESIGN NOTES
+## Design Notes
 
 **Balance Considerations:**
 
@@ -6848,7 +6849,7 @@ All spells are designed to be:
 **Integration:**
 These spells should be automatically added to the spell lists of the subclasses noted above. Players don't need to choose them—they're part of the subclass features or expanded spell lists.
 
-## HOW TO USE THESE SPELLS
+## How to Use These Spells
 
 ### For Subclasses with "Expanded Spell Lists"
 (Warlock, some Clerics, some Sorcerers)
@@ -6877,7 +6878,7 @@ These spells should be automatically added to the spell lists of the subclasses 
 {{footnote Custom Spells}}
 \page
 
-# APPENDIX A: CONDITIONS
+# Appendix A: Conditions
 
 :
 Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
@@ -6886,49 +6887,49 @@ A condition lasts either until it is countered (the prone condition is countered
 
 If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
 
-## BLINDED
+## Blinded
 
 - A blinded creature can't see and automatically fails any ability check that requires sight
 - Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage
 
-## CHARMED
+## Charmed
 
 - A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects
 - The charmer has advantage on any ability check to interact socially with the creature
 
-## DEAFENED
+## Deafened
 
 - A deafened creature can't hear and automatically fails any ability check that requires hearing
 
-## FRIGHTENED
+## Frightened
 
 - A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight
 - The creature can't willingly move closer to the source of its fear
 
-## GRAPPLED
+## Grappled
 
 - A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed
 - The condition ends if the grappler is incapacitated
 - The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect
 
-## INCAPACITATED
+## Incapacitated
 
 - An incapacitated creature can't take actions or reactions
 
-## INVISIBLE
+## Invisible
 
 - An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured
 - The creature's location can be detected by any noise it makes or any tracks it leaves
 - Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage
 
-## PARALYZED
+## Paralyzed
 
 - A paralyzed creature is incapacitated and can't move or speak
 - The creature automatically fails Strength and Dexterity saving throws
 - Attack rolls against the creature have advantage
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature
 
-## PETRIFIED
+## Petrified
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone)
 - Its weight increases by a factor of ten, and it ceases aging
@@ -6938,27 +6939,28 @@ If multiple effects impose the same condition on a creature, each instance of th
 - The creature has resistance to all damage
 - The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized
 
-## POISONED
+## Poisoned
 
 - A poisoned creature has disadvantage on attack rolls and ability checks
 
-## PRONE
+## Prone
 
 - A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition
 - The creature has disadvantage on attack rolls
 - An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage
 
-## RESTRAINED
+## Restrained
 
 - A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed
 - Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage
 - The creature has disadvantage on Dexterity saving throws
 
 {{pageNumber,auto}}
-{{footnote Appendices}}
+{{footnote Appendix A: Conditions}}
 \page
 
-## STUNNED
+
+## Stunned
 
 - A stunned creature is incapacitated, can't move, and can speak only falteringly
 - The creature automatically fails Strength and Dexterity saving throws
@@ -6966,7 +6968,7 @@ If multiple effects impose the same condition on a creature, each instance of th
 
 ---
 
-## UNCONSCIOUS
+## Unconscious
 
 - An unconscious creature is incapacitated, can't move or speak, and is unaware of its surroundings
 - The creature drops whatever it's holding and falls prone
@@ -6975,18 +6977,18 @@ If multiple effects impose the same condition on a creature, each instance of th
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature
 
 {{pageNumber,auto}}
-{{footnote Appendices}}
+{{footnote Appendix A: Conditions}}
 \page
 
-# APPENDIX B: TIRVANDOR WORLD PRIMER 
+# Appendix B: World Primer
 :
 This appendix contains player-safe information about the world of Tirvandor. Your character would know most of this information as common knowledge.
 
-## GEOGRAPHY
+## Geography
 
 Tirvandor consists of two great continents separated by the Sundering Sea.
 
-### THALDROS (THE WESTERN CONTINENT)
+### Thaldros (the Western Continent)
 
 An authoritarian empire ruled by the Iron Crown from the capital city of Kaer Thandros. The land is organized, efficient, and tightly controlled.
 
@@ -6997,7 +6999,7 @@ An authoritarian empire ruled by the Iron Crown from the capital city of Kaer Th
 
 **Government:** Centralized monarchy with military enforcement
 
-### AETHORIA (THE EASTERN CONTINENT)
+### Aethoria (the Eastern Continent)
 
 A collection of democratic free states where personal liberty and self-governance reign. Less unified but more free than Thaldros.
 
@@ -7008,45 +7010,45 @@ A collection of democratic free states where personal liberty and self-governanc
 
 **Government:** Democratic councils and elected leaders
 
-### THE CONTESTED LANDS (THE BORDER)
+### The Contested Lands (the Border)
 
 The lawless region between Thaldros and Aethoria where neither side holds control. Home to refugees, mercenaries, bandits, and those who've chosen freedom over allegiance to either side.
 
-### THE SUNDERING SEA
+### The Sundering Sea
 
 The magical sea that separates the two continents, created by the catastrophic Worldrend event 800 years ago. Difficult to cross, full of magical anomalies.
 
-## HISTORY
+## History
 
-### THE AGE OF UNITY (Ancient Past)
+### The Age of Unity (Ancient Past)
 
 Before the Worldrend, Tirvandor was one unified land. The details are lost to time, but legends speak of a golden age.
 
-### THE SUNDERING (800 Years Ago)
+### The Sundering (800 Years Ago)
 
 A catastrophic magical event tore the world in two, creating the Sundering Sea. The cause is debated - some blame hubris, others blame the gods. What's certain is that millions died and civilization collapsed.
 
-### THE AGE OF CHAINS (700-400 Years Ago)
+### The Age of Chains (700-400 Years Ago)
 
 Following the Worldrend, warlords and tyrants rose to power. Might made right, and common folk suffered under brutal rule.
 
-### THE LIBERATION (400 Years Ago)
+### The Liberation (400 Years Ago)
 
 In Aethoria, a revolutionary movement overthrew the tyrants and established democratic governance. This event is celebrated as the founding of free Aethoria.
 
-### THE IRON CROWN ERA (200 Years Ago - Present)
+### The Iron Crown Era (200 Years Ago - Present)
 
 In Thaldros, the Iron Crown consolidated power and established the current empire. Thaldros claims to bring order and stability; Aethoria calls it tyranny.
 
-### THE PRESENT DAY
+### The Present Day
 
 Tensions between Thaldros and Aethoria remain high. The Contested Lands grow more dangerous. Strange magical phenomena increase near ley lines. Your adventure begins in this uncertain time.
 
-## MAGIC
+## Magic
 
 Magic in Tirvandor flows through **ley lines** - natural channels of magical energy that crisscross the world.
 
-### LEY LINES
+### Ley Lines
 
 - Visible to those trained to see them
 - Enhance spellcasting when tapped into
@@ -7054,7 +7056,7 @@ Magic in Tirvandor flows through **ley lines** - natural channels of magical ene
 - Converge at nexus points of immense power
 - Unstable in the Contested Lands
 
-### MAGIC USERS
+### Magic Users
 
 - **Wizards:** Study ley line theory and manipulation
 - **Sorcerers:** Born with natural attunement to ley lines
@@ -7063,52 +7065,52 @@ Magic in Tirvandor flows through **ley lines** - natural channels of magical ene
 - **Warlocks:** Patrons grant access to forbidden ley energies
 
 {{pageNumber,auto}}
-{{footnote Appendices}}
+{{footnote Appendix B: World Primer}}
 \page
 
-### THE SILVER CIRCLE
+### The Silver Circle
 
 An organization of mages dedicated to studying and protecting ley lines. Politically neutral, they maintain a presence in both Thaldros and Aethoria.
 
-## THE SEVEN PRIMORDIALS (GODS)
+## The Seven Ascended (Gods)
 
-The gods of Tirvandor are called the Seven Primordials - ancient beings who shaped the world.
+The gods of Tirvandor are called the Seven Ascended—ancient heroes who transcended to divinity. They are real, present forces that grant power to the faithful.
 
-1. **Aethor** - Liberation, freedom, revolution (Good)
-2. **Sylvara** - Nature, wilderness, growth (Neutral)
-3. **Volcanus** - Forge, craft, creation (Neutral Good)
-4. **Mordain** - Law, order, justice (Lawful Neutral)
-5. **Corvus** - Knowledge, secrets, death (Neutral)
-6. **Glacius** - Preservation, endurance (Neutral)
-7. **Teraxis** - Change, ambition, progress (Chaotic Neutral)
+1. **Thandros the Lawbringer** — Law, Justice, Order (Lawful Neutral)
+2. **Aethor the Liberator** — Freedom, Light, Hope (Chaotic Good)
+3. **Moira the Weaver** — Fate, Knowledge, Magic (Neutral)
+4. **Kael the Wanderer** — Travel, Trade, Luck (Chaotic Neutral)
+5. **Sera the Healer** — Life, Healing, Mercy (Neutral Good)
+6. **Mordain the Sentinel** — Death, Protection, Judgment (Lawful Neutral)
+7. **Sylvara the Wild** — Nature, Growth, Storms (Neutral)
 
-Most people in Tirvandor worship all Seven depending on need, though individuals may favor one over others.
+Most people worship all Seven depending on need, though individuals may favor one or two that align with their values. See **Appendix C: The Pantheon** for more details.
 
-## FACTIONS
+## Factions
 
-### THE IRON GUILD
+### The Iron Guild
 
 A massive mercenary organization operating in the Contested Lands. Politically neutral, they provide military services to anyone who can pay. Led by Garrick Ironheart from Goldreach.
 
-### THE THORNWOOD SYNDICATE
+### The Thornwood Syndicate
 
 Criminal network operating across both continents. Smuggling, information brokering, and "off the books" services. Led by Lyanna Thornwood (The Red Wolf).
 
-### THE SILVER CIRCLE
+### The Silver Circle
 
 Mage organization protecting ley lines and studying magic. Neutral in politics, essential for magical research.
 
-### THE IRON LEGION
+### The Iron Legion
 
 Military force of Thaldros. Disciplined, well-equipped, and loyal to the Iron Crown.
 
-### THE PEOPLE'S COUNCILS
+### The People's Councils
 
 Democratic governing bodies of Aethoria. Each city has its own council elected by citizens.
 
 \column
 
-## CURRENCY AND ECONOMY
+## Currency and Economy
 
 Standard D&D currency applies:
 - **Copper pieces (cp)**
@@ -7122,7 +7124,7 @@ Standard D&D currency applies:
 - The Contested Lands use barter and mixed currency
 - The Iron Guild mints its own trade coins
 
-## LANGUAGES
+## Languages
 
 Common languages:
 - **Common:** Universal trade language
@@ -7135,9 +7137,9 @@ Rare languages:
 - **Primordial:** Language of elementals
 - **Celestial/Infernal:** Languages of higher planes
 
-## LIFE IN TIRVANDOR
+## Life in Tirvandor
 
-### IN THALDROS
+### In Thaldros
 
 - Life is orderly and predictable
 - Laws are strictly enforced
@@ -7146,7 +7148,7 @@ Rare languages:
 - Safety and stability are prioritized
 - Dissent is not tolerated
 
-### IN AETHORIA
+### In Aethoria
 
 - Life is freer but less predictable
 - Laws vary by city
@@ -7155,7 +7157,7 @@ Rare languages:
 - Protection is less centralized
 - Debate and argument are common
 
-### IN THE CONTESTED LANDS
+### In the Contested Lands
 
 - Lawless and dangerous
 - Mercenaries and refugees dominate
@@ -7165,17 +7167,17 @@ Rare languages:
 - Community bonds are vital
 
 {{pageNumber,auto}}
-{{footnote Appendices}}
+{{footnote Appendix B: World Primer}}
 \page
 
-## WHAT YOUR CHARACTER KNOWS
+## What Your Character Knows
 
 As a resident of Tirvandor, your character would know:
 - Basic geography and city names
 - The Worldrend happened 800 years ago
 - Thaldros vs Aethoria political tension
 - Ley lines are sources of magic
-- The Seven Primordials are the gods
+- The Seven Ascended are the gods
 - The Iron Guild and Thornwood Syndicate exist
 - Common cultural expectations
 
@@ -7192,7 +7194,7 @@ Your character might NOT know:
 
 ---
 
-## STARTING YOUR ADVENTURE
+## Starting Your Adventure
 
 You're ready to begin! Your DM will guide you through your first session and help you understand how your character fits into Tirvandor.
 
@@ -7207,14 +7209,671 @@ Remember:
 Welcome to Tirvandor. Your story begins now.
 
 {{pageNumber,auto}}
-{{footnote Appendices}}
+{{footnote Appendix B: World Primer}}
 \page
 
-# LEGAL NOTICES AND LICENSES
+# Appendix C: The Pantheon of Tirvandor
+
+The gods of Tirvandor are real, present forces that grant power to their faithful. They are called **The Seven Ascended** because ancient texts suggest they were once mortal heroes who transcended to divinity during the Age of Dawn.
+
+Most mortals recognize the existence of all gods but actively worship one to three that align with their values, profession, or circumstances. Temples often house shrines to multiple deities.
 
 ---
 
-## COPYRIGHT NOTICE
+## The Seven Ascended
+
+### Thandros, the Lawbringer
+
+**Domains:** Law, Justice, Order, Civilization
+**Symbol:** Golden scales balanced on a sword
+**Alignment:** Lawful Neutral
+**Sacred Day:** First day of each season
+
+Thandros represents the ideal of lawful civilization. The western continent bears his name—Thaldros—testament to his influence on that empire's founding. He is not cruel, but he is unyielding: the law must be upheld.
+
+**Teachings:**
+- Law is the foundation of civilization
+- Justice must be impartial and fair
+- Oaths and contracts are sacred
+- Order protects the weak from chaos
+
+**Followers:** Judges, guards, bureaucrats, and those who value stability. Primary deity of the Kingdom of Thaldros.
+
+### Aethor, the Liberator
+
+**Domains:** Freedom, Light, Hope, Revolution
+**Symbol:** Broken chain wreathed in sunlight
+**Alignment:** Chaotic Good
+**Sacred Day:** Summer Solstice
+
+Aethor stands in philosophical opposition to Thandros—where the Lawbringer values order, the Liberator champions freedom. His followers fight against tyranny, slavery, and oppression.
+
+**Teachings:**
+- Freedom is the highest virtue
+- Tyranny must be opposed wherever it rises
+- Light reveals truth and drives away shadows
+- Hope sustains those who fight for justice
+
+**Followers:** Revolutionaries, freedom fighters, escaped slaves, and those who oppose tyranny. Dominant in Aethoria.
+\column
+### Moira, the Weaver
+
+**Domains:** Fate, Knowledge, Magic, Prophecy
+**Symbol:** A spindle with three threads
+**Alignment:** Neutral
+**Sacred Day:** Night of the Seven Stars
+
+Moira sees the threads of fate that bind all things. She grants visions to her faithful but never reveals the full tapestry—mortals must find their own way. Her temples are centers of learning and prophecy.
+
+**Teachings:**
+- Fate is woven but not immutable
+- Knowledge is power—seek it always
+- The future is not set; choices matter
+- Magic is a gift to be used wisely
+
+**Followers:** Wizards, scholars, diviners, and those seeking hidden knowledge.
+
+
+### Kael, the Wanderer
+
+**Domains:** Travel, Trade, Luck, Trickery
+**Symbol:** A compass rose with a winding road
+**Alignment:** Chaotic Neutral
+**Sacred Day:** First day of Spring
+
+Kael is the patron of travelers, merchants, and anyone who lives by their wits. He values cleverness over brute force and believes the journey matters more than the destination.
+
+**Teachings:**
+- The road is home to those who wander
+- Fortune favors the clever and the bold
+- Trade binds people across distances
+- Never trust the same path twice
+
+**Followers:** Travelers, merchants, rogues, and adventurers. Universal in trading cities.
+
+### Sera, the Healer
+
+**Domains:** Life, Healing, Mercy, Compassion
+**Symbol:** A golden chalice overflowing with water
+**Alignment:** Neutral Good
+**Sacred Day:** Spring Equinox
+
+Sera is the most universally beloved of the Seven. Her temples serve as hospitals, her clergy as healers. She teaches that all life is sacred and that mercy is strength, not weakness.
+
+**Teachings:**
+- All life is sacred
+- Healing is the highest calling
+- Mercy is strength, not weakness
+- Protect the vulnerable and ease suffering
+
+**Followers:** Healers, midwives, the sick and injured, parents, soldiers. Every major city has a Temple of Sera.
+
+{{pageNumber,auto}}
+{{footnote Appendix C: The Pantheon}}
+\page
+
+### Mordain, the Sentinel
+
+**Domains:** Death, Protection, Judgment, Memory
+**Symbol:** A shield bearing a closed eye
+**Alignment:** Lawful Neutral
+**Sacred Day:** Autumn Equinox
+
+Mordain guides souls to their proper rest and stands eternal guard against those who would disturb the dead. His clergy conduct funerals, comfort the bereaved, and hunt the undead.
+
+**Teachings:**
+- Death is natural and not to be feared
+- The dead must be honored and allowed to rest
+- Undeath is an abomination to be destroyed
+- Everyone faces judgment eventually
+
+**Followers:** Grave wardens, those who hunt undead, the bereaved seeking comfort.
+
+
+### Sylvara, the Wild
+
+**Domains:** Nature, Growth, Storms, Beasts
+**Symbol:** An oak tree struck by lightning, still growing
+**Alignment:** Neutral
+**Sacred Day:** Both Equinoxes
+
+Sylvara embodies the natural world in all its beauty and brutality. She represents the cycle of life, death, and rebirth—the storm that destroys and the rain that nourishes. Some believe she is not a god at all but the world itself given voice.
+
+**Teachings:**
+- Nature must maintain balance
+- Death feeds life, life returns to death
+- Civilization and wilderness can coexist with respect
+- The strong survive, but the strong also protect
+
+**Followers:** Druids, rangers, farmers, and those who live close to the land. Dominant in Aethoria's wild regions.
+
+## Regional Powers
+
+Beyond the Seven Ascended, regional deities are worshipped in specific areas:
+
+**Thaldros Region:**
+- **Korak the Ironbound** — War, Strength, Honor in Battle
+- **Lyssandra the Hearthkeeper** — Home, Family, Peace
+- **Gorath the Forgemaster** — Crafting, Mountains, Protection
+
+**Aethoria Region:**
+- **Ealasaïd the Dreamweaver** — Dreams, Art, Inspiration
+- **Vorath the Primal** — Beasts, Hunt, Survival
+- **Merenth the Lifegiver** — Healing, Growth, Fertility
+
+**The Seas:**
+- **Kalythra the Stormmother** — Sea, Storms, Freedom
+- **Tharivol the Many-Faced** — Change, Luck, Adaptation
+
+## The Ancient Primordials
+
+Predating the Ascended are the **Primordials**—elemental forces rather than gods. They are not worshipped through temples but through primal magic and druidic rites.
+
+- **Ignar, the First Flame** — Fire, creation and destruction
+- **Thalassia, the Endless Depth** — Water, the primal ocean
+- **Terrax, the Stone That Dreams** — Earth, the bones of the world
+- **Zephyros, the Breath of Freedom** — Air, wind and sky
+- **Verdania, the Ever-Growing** — Life, growth and vitality
+- **Noctis, the Void Between** — Shadow, potential and mystery
+
+Druids and primal magic users often draw power from the Primordials rather than the gods.
+
+---
+
+## Choosing a Deity
+
+When creating a character, consider:
+
+**Clerics** typically serve one deity exclusively. Your domain should match your god's portfolio.
+
+**Paladins** swear oaths to principles that may align with but aren't bound to a single deity.
+
+**Druids** may serve Sylvara or draw power directly from the Primordials.
+
+**Other Classes** may worship casually or devoutly, as fits their character.
+
+Most adventurers acknowledge all the gods and pray to whichever suits their current need—Kael before a journey, Sera when wounded, Mordain when facing undead.
+
+{{pageNumber,auto}}
+{{footnote Appendix C: The Pantheon}}
+\page
+
+# Appendix D: Beasts of Tirvandor
+
+The following creatures are unique to Tirvandor or have adapted to the world's specific environments. They are suitable for Wild Shape, *polymorph*, *conjure animals*, and as animal companions for rangers and other classes.
+
+---
+
+## CR 0 Beasts
+
+### Ley Moth
+*Tiny beast, unaligned*
+___
+**Armor Class** :: 12
+**Hit Points** :: 1 (1d4 - 1)
+**Speed** :: 5 ft., fly 30 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 1 (-5)| 14 (+2)| 8 (-1)| 1 (-5)| 12 (+1)| 4 (-3)|
+___
+**Senses** :: passive Perception 11
+**Languages** :: —
+**Challenge** :: 0 (10 XP)
+___
+**Ley Sense.** The moth can sense the presence and direction of ley lines within 1 mile.
+
+**Luminescence.** The moth sheds dim light in a 5-foot radius. The color shifts based on nearby magical energy.
+___
+
+*These delicate insects are attracted to ley line energy, their wings shimmering with faint magical light. Scholars and mages sometimes keep them to detect magical fluctuations.*
+
+### Sundering Crab
+*Tiny beast, unaligned*
+___
+**Armor Class** :: 13 (natural armor)
+**Hit Points** :: 2 (1d4)
+**Speed** :: 20 ft., swim 20 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 2 (-4)| 11 (+0)| 10 (+0)| 1 (-5)| 8 (-1)| 2 (-4)|
+___
+**Senses** :: blindsight 30 ft., passive Perception 9
+**Languages** :: —
+**Challenge** :: 0 (10 XP)
+___
+**Amphibious.** The crab can breathe air and water.
+
+**Salvager.** The crab has advantage on Wisdom (Perception) checks to find small objects buried in sand or mud.
+___
+### Actions
+**Claw.** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage.
+___
+
+*Found along the shores of the Sundering Sea, these small crabs are known for collecting shiny objects in their burrows—sometimes including coins from shipwrecks.*
+
+\column
+
+## CR 1/8 Beasts
+
+### Contested Hare
+*Small beast, unaligned*
+___
+**Armor Class** :: 13
+**Hit Points** :: 4 (1d6 + 1)
+**Speed** :: 50 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 3 (-4)| 16 (+3)| 12 (+1)| 2 (-4)| 14 (+2)| 4 (-3)|
+___
+**Skills** :: Perception +4, Stealth +5
+**Senses** :: passive Perception 14
+**Languages** :: —
+**Challenge** :: 1/8 (25 XP)
+___
+**Keen Hearing.** The hare has advantage on Wisdom (Perception) checks that rely on hearing.
+
+**Evasive.** When the hare is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage on a success.
+
+**Standing Leap.** The hare's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+___
+
+*These swift hares have survived in the Contested Lands by being faster than anything that hunts them. Their large ears can detect approaching threats from remarkable distances.*
+
+### Emerald Depths Treefrog
+*Tiny beast, unaligned*
+___
+**Armor Class** :: 12
+**Hit Points** :: 3 (1d4 + 1)
+**Speed** :: 20 ft., climb 20 ft., swim 20 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 1 (-5)| 15 (+2)| 12 (+1)| 1 (-5)| 10 (+0)| 3 (-4)|
+___
+**Skills** :: Stealth +4
+**Senses** :: passive Perception 10
+**Languages** :: —
+**Challenge** :: 1/8 (25 XP)
+___
+**Amphibious.** The frog can breathe air and water.
+
+**Standing Leap.** The frog's long jump is up to 10 feet and its high jump is up to 5 feet.
+
+**Poison Skin.** A creature that touches the frog or hits it with a melee attack while within 5 feet of it takes 2 (1d4) poison damage.
+___
+
+*Found in the Emerald Depths rainforest of Aethoria, these brilliantly colored frogs advertise their toxicity with vivid patterns. Hunters use their secretions to poison arrows.*
+
+{{pageNumber,auto}}
+{{footnote Appendix D: Beasts of Tirvandor}}
+\page
+
+## CR 1/4 Beasts
+
+### Border Hound
+*Medium beast, unaligned*
+___
+**Armor Class** :: 12
+**Hit Points** :: 11 (2d8 + 2)
+**Speed** :: 40 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|13 (+1)| 14 (+2)| 12 (+1)| 3 (-4)| 12 (+1)| 6 (-2)|
+___
+**Skills** :: Perception +3, Survival +3
+**Senses** :: passive Perception 13
+**Languages** :: —
+**Challenge** :: 1/4 (50 XP)
+___
+**Keen Hearing and Smell.** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+**Tracker.** The hound has advantage on Wisdom (Survival) checks to track creatures.
+___
+### Actions
+**Bite.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
+___
+
+*Bred from war hounds that escaped or were abandoned in the Contested Lands, Border Hounds have become skilled survivors. Many mercenary companies keep them as scouts and trackers.*
+
+### Ironhold Mountain Goat
+*Medium beast, unaligned*
+___
+**Armor Class** :: 11
+**Hit Points** :: 13 (2d8 + 4)
+**Speed** :: 40 ft., climb 30 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)| 12 (+1)| 14 (+2)| 2 (-4)| 10 (+0)| 5 (-3)|
+___
+**Senses** :: passive Perception 10
+**Languages** :: —
+**Challenge** :: 1/4 (50 XP)
+___
+**Charge.** If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 3 (1d6) bludgeoning damage.
+
+**Sure-Footed.** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+___
+### Actions
+**Ram.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage.
+___
+
+*The hardy mountain goats of Ironhold's peaks have adapted to treacherous terrain and harsh winters. Their wool is prized for its warmth, and dwarven shepherds tend large herds.*
+
+\column
+## CR 1/2 Beasts
+
+### Sundering Seal
+*Medium beast, unaligned*
+___
+**Armor Class** :: 12
+**Hit Points** :: 22 (4d8 + 4)
+**Speed** :: 20 ft., swim 40 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)| 14 (+2)| 13 (+1)| 4 (-3)| 12 (+1)| 7 (-2)|
+___
+**Skills** :: Perception +3
+**Senses** :: passive Perception 13
+**Languages** :: —
+**Challenge** :: 1/2 (100 XP)
+___
+**Hold Breath.** The seal can hold its breath for 30 minutes.
+
+**Keen Smell.** The seal has advantage on Wisdom (Perception) checks that rely on smell.
+___
+### Actions
+**Bite.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage.
+___
+
+*These large seals inhabit the rocky coastlines of the Sundering Sea. They're hunted for their oil and pelts, though some coastal communities have learned to fish alongside them.*
+
+### Contested Plains Raptor
+*Small beast, unaligned*
+___
+**Armor Class** :: 13
+**Hit Points** :: 13 (3d6 + 3)
+**Speed** :: 10 ft., fly 60 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 6 (-2)| 16 (+3)| 12 (+1)| 2 (-4)| 14 (+2)| 5 (-3)|
+___
+**Skills** :: Perception +4
+**Senses** :: passive Perception 14
+**Languages** :: —
+**Challenge** :: 1/2 (100 XP)
+___
+**Keen Sight.** The raptor has advantage on Wisdom (Perception) checks that rely on sight.
+
+**Dive Attack.** If the raptor is flying and dives at least 30 feet straight toward a target and then hits it with a talon attack, the attack deals an extra 3 (1d6) damage to the target.
+___
+### Actions
+**Talons.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
+___
+
+*These fierce hawks patrol the skies above the Contested Lands, hunting the abundant hares and rodents. Falconers prize them for their speed and aggression.*
+
+{{pageNumber,auto}}
+{{footnote Appendix D: Beasts of Tirvandor}}
+\page
+
+## CR 1 Beasts
+
+### Thornwood Stalker
+*Medium beast, unaligned*
+___
+**Armor Class** :: 13
+**Hit Points** :: 27 (5d8 + 5)
+**Speed** :: 40 ft., climb 30 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)| 16 (+3)| 12 (+1)| 3 (-4)| 14 (+2)| 6 (-2)|
+___
+**Skills** :: Perception +4, Stealth +7
+**Senses** :: darkvision 60 ft., passive Perception 14
+**Languages** :: —
+**Challenge** :: 1 (200 XP)
+___
+**Keen Smell.** The stalker has advantage on Wisdom (Perception) checks that rely on smell.
+
+**Pounce.** If the stalker moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone.
+
+**Woodland Camouflage.** The stalker has advantage on Dexterity (Stealth) checks made to hide in forested terrain.
+___
+### Actions
+**Bite.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
+
+**Claw.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
+___
+
+*A large feline predator native to the forests near the Contested Lands. They're named for the Thornwood Syndicate, whose scouts first reported them—and who use them as a symbol of their stealthy operations.*
+
+### Aethorian River Otter
+*Medium beast, unaligned*
+___
+**Armor Class** :: 12
+**Hit Points** :: 22 (4d8 + 4)
+**Speed** :: 30 ft., swim 40 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|12 (+1)| 15 (+2)| 13 (+1)| 4 (-3)| 12 (+1)| 10 (+0)|
+___
+**Skills** :: Perception +3, Stealth +4
+**Senses** :: passive Perception 13
+**Languages** :: —
+**Challenge** :: 1 (200 XP)
+___
+**Hold Breath.** The otter can hold its breath for 15 minutes.
+
+**Keen Smell.** The otter has advantage on Wisdom (Perception) checks that rely on smell.
+
+**Slippery.** The otter has advantage on ability checks and saving throws made to escape a grapple.
+___
+### Actions
+**Bite.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+___
+
+*These intelligent, playful creatures are found throughout Aethoria's rivers. Some communities have semi-domesticated them to help with fishing, and they're considered good luck by sailors.*
+
+## CR 2 Beasts
+
+### Ironwood Boar
+*Large beast, unaligned*
+___
+**Armor Class** :: 14 (natural armor)
+**Hit Points** :: 52 (7d10 + 14)
+**Speed** :: 40 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)| 10 (+0)| 14 (+2)| 2 (-4)| 12 (+1)| 5 (-3)|
+___
+**Senses** :: passive Perception 11
+**Languages** :: —
+**Challenge** :: 2 (450 XP)
+___
+**Charge.** If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+
+**Relentless (Recharges after Short or Long Rest).** If the boar takes 15 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+
+**Thick Hide.** The boar has resistance to bludgeoning damage from nonmagical attacks.
+___
+### Actions
+**Tusk.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+___
+
+*Named for their incredibly tough hides, these massive boars inhabit the borderlands between Thaldros and Aethoria. Hunting one is considered a rite of passage among many Border communities.*
+
+### Sundering Sea Serpent (Juvenile)
+*Large beast, unaligned*
+___
+**Armor Class** :: 13 (natural armor)
+**Hit Points** :: 45 (6d10 + 12)
+**Speed** :: 10 ft., swim 50 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)| 14 (+2)| 14 (+2)| 2 (-4)| 10 (+0)| 4 (-3)|
+___
+**Skills** :: Stealth +4
+**Senses** :: darkvision 60 ft., passive Perception 10
+**Languages** :: —
+**Challenge** :: 2 (450 XP)
+___
+**Hold Breath.** The serpent can hold its breath for 1 hour.
+
+**Water Camouflage.** The serpent has advantage on Dexterity (Stealth) checks made while underwater.
+___
+### Actions
+**Bite.** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage.
+
+{{pageNumber,auto}}
+{{footnote Appendix D: Beasts of Tirvandor}}
+\page
+
+**Constrict.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the creature is restrained, and the serpent can't constrict another target.
+___
+
+*Young specimens of the legendary sea serpents that inhabit the Sundering Sea. Adults grow to truly massive size, but juveniles are occasionally spotted near coastlines hunting fish and seals.*
+
+## CR 3 Beasts
+
+### Goldreach Warhorse
+*Large beast, unaligned*
+___
+**Armor Class** :: 13 (barding available)
+**Hit Points** :: 52 (7d10 + 14)
+**Speed** :: 60 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)| 14 (+2)| 14 (+2)| 3 (-4)| 12 (+1)| 8 (-1)|
+___
+**Senses** :: passive Perception 11
+**Languages** :: —
+**Challenge** :: 3 (700 XP)
+___
+**Charge.** If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone.
+
+**Bred for War.** The horse has advantage on saving throws against being frightened.
+
+**Trained Mount.** The horse has been trained for combat. While mounted by a rider, it acts on the rider's initiative and the rider can use a bonus action to command it to Dash, Disengage, or Dodge.
+___
+### Actions
+**Hooves.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
+___
+
+*The famous warhorses bred in Goldreach are prized across both continents. Larger and braver than common horses, they're trained from birth for the chaos of battle.*
+
+### Emerald Depths Constrictor
+*Large beast, unaligned*
+___
+**Armor Class** :: 12
+**Hit Points** :: 60 (8d10 + 16)
+**Speed** :: 30 ft., climb 30 ft., swim 30 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)| 14 (+2)| 14 (+2)| 1 (-5)| 10 (+0)| 3 (-4)|
+___
+**Skills** :: Stealth +4
+**Senses** :: blindsight 10 ft., passive Perception 10
+**Languages** :: —
+**Challenge** :: 3 (700 XP)
+___
+**Ambusher.** In the first round of combat, the snake has advantage on attack rolls against any creature it has surprised.
+
+**Arboreal.** The snake has advantage on Dexterity (Stealth) checks made to hide in forested terrain.
+___
+### Actions
+**Bite.** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage.
+
+**Constrict.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
+___
+
+*These massive constrictors inhabit the canopy of the Emerald Depths rainforest. They drop from above onto unsuspecting prey and squeeze the life from them before swallowing them whole.*
+
+## Beast Summary Table
+
+The following table summarizes all beasts in this appendix for quick reference during character creation and gameplay.
+
+| Beast | CR | Size | Environment |
+|:------|:--:|:----:|:------------|
+| Ley Moth | 0 | Tiny | Any (near ley lines) |
+| Sundering Crab | 0 | Tiny | Coastal |
+| Contested Hare | 1/8 | Small | Plains, grasslands |
+| Emerald Depths Treefrog | 1/8 | Tiny | Rainforest |
+| Border Hound | 1/4 | Medium | Any (Contested Lands) |
+| Ironhold Mountain Goat | 1/4 | Medium | Mountains |
+| Sundering Seal | 1/2 | Medium | Coastal, arctic |
+| Contested Plains Raptor | 1/2 | Small | Plains, grasslands |
+| Thornwood Stalker | 1 | Medium | Forest |
+| Aethorian River Otter | 1 | Medium | Rivers, coast |
+| Ironwood Boar | 2 | Large | Forest, plains |
+| Sundering Sea Serpent (Juv.) | 2 | Large | Ocean, coast |
+| Goldreach Warhorse | 3 | Large | Any (domestic) |
+| Emerald Depths Constrictor | 3 | Large | Rainforest |
+
+---
+
+## Using These Beasts
+
+**Wild Shape:** Druids can use these forms according to the normal Wild Shape rules. The CR and movement type restrictions apply.
+
+**Polymorph & Similar Spells:** These beasts can be used as valid targets for *polymorph*, *true polymorph*, and similar spells.
+
+**Animal Companions:** Rangers with the Beast Master archetype may select region-appropriate beasts as companions, subject to DM approval.
+
+**Conjure Animals:** When casting *conjure animals*, you may request Tirvandor-specific beasts if they fit the CR requirements.
+
+**Familiars:** The Ley Moth makes an excellent familiar choice for characters with the Find Familiar spell, especially those interested in detecting magical phenomena.
+
+{{pageNumber,auto}}
+{{footnote Appendix D: Beasts of Tirvandor}}
+\page
+
+## Regional Distribution
+
+**The Contested Lands:**
+Border Hound, Contested Hare, Contested Plains Raptor, Ironwood Boar, Thornwood Stalker
+
+**Thaldros (West):**
+Ironhold Mountain Goat, Goldreach Warhorse, Border Hound
+
+**Aethoria (East):**
+Emerald Depths Treefrog, Emerald Depths Constrictor, Aethorian River Otter, Thornwood Stalker
+
+**The Sundering Sea:**
+Sundering Crab, Sundering Seal, Sundering Sea Serpent
+
+**Universal (Any Region):**
+Ley Moth (wherever ley lines are present)
+
+\column
+
+## Notes for DMs
+
+These beasts are designed to reflect Tirvandor's unique geography and magical nature. Feel free to adjust statistics or create variants as needed for your campaign.
+
+The Ley Moth in particular offers interesting roleplaying opportunities, as it can help characters locate areas of magical significance—or warn them when magical energy is fluctuating dangerously.
+
+{{pageNumber,auto}}
+{{footnote Appendix D: Beasts of Tirvandor}}
+\page
+
+# Legal Notices and Licenses
+
+---
+
+## Copyright Notice
 
 **TIRVANDOR: PLAYER'S Guide**
 
@@ -7224,7 +7883,7 @@ This work contains original content created for the Tirvandor campaign setting. 
 
 ---
 
-## SYSTEM REFERENCE DOCUMENT ATTRIBUTION
+## System Reference Document Attribution
 
 This work includes material taken from the **System Reference Document 5.1 ("SRD 5.1")** by Wizards of the Coast LLC, which is available at https://dnd.wizards.com/resources/systems-reference-document.
 
@@ -7234,13 +7893,13 @@ Portions of this work that are derived from the SRD 5.1 are used under the terms
 
 ---
 
-## TRADEMARK NOTICE
+## Trademark Notice
 
 Dungeons & Dragons, D&D, Wizards of the Coast, and their respective logos are trademarks of Wizards of the Coast LLC in the United States and other countries, and are used with permission. This work is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC.
 
 ---
 
-## PRODUCT IDENTITY
+## Product Identity
 
 The following are designated as Product Identity under the Open Game License v1.0a and are not Open Game Content:
 
@@ -7260,7 +7919,7 @@ The following are designated as Product Identity under the Open Game License v1.
 
 ### Characters & Deities
 - All character names appearing in this work, including NPCs and example characters
-- The Seven Primordials (Aethor, Sylvara, Volcanus, Mordain, Corvus, Glacius, and Teraxis)
+- The Seven Ascended (Thandros, Aethor, Moira, Kael, Sera, Mordain, and Sylvara)
 - All deity names, domains, and mythologies specific to Tirvandor
 
 ### Historical Events
@@ -7282,7 +7941,7 @@ The following are designated as Product Identity under the Open Game License v1.
 {{pageNumber,auto}}
 \page
 
-## OPEN GAME CONTENT
+## Open Game Content
 
 All game mechanics derived from the SRD 5.1, including but not limited to:
 - Core character creation rules
@@ -7374,13 +8033,13 @@ This License will terminate automatically if You fail to comply with all terms h
 
 If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 
-### 15. COPYRIGHT NOTICE
+### 15. Copyright Notice
 
 **Open Game License v 1.0a** © 2000, Wizards of the Coast, Inc.
 
 **System Reference Document 5.1** © 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
 
-## END OF LICENSE
+## End of License
 
 {{padding-top:750px}}
 {{homebreweryCredits
