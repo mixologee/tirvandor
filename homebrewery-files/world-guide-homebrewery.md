@@ -1,7 +1,17 @@
-![cover image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-guide-cover-converted.png){position:absolute,top:0,left:0,width:100%}
+{{frontCover}}
 
+
+
+:::::::::::::
+___
+
+{{banner D&D 5e Homebrew}}
+
+
+![background image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-guide-cover-converted.png){position:absolute,top:0,left:0,width:100%}
 
 \page
+
 
 {{insideCover}}
 
@@ -10193,33 +10203,23 @@ Peninsula culture is notably different from mainland Aethoria—slower-paced, mo
 \page
 
 {{backCover}}
+# Tirvandor: The Realm of Deep Magic
 
-# Tirvandor
-## The Realm of Deep Magic
+Tirvandor is a world divided—two great continents separated by the Sundering Sea, each shaped by different philosophies of civilization and magic.
+In the west lies Thaldros, a feudal kingdom built on military tradition and noble houses vying for influence beneath a central crown. In the east sprawls Aethoria, a realm where ancient forests hold power, world-trees choose rulers, and nature magic flows through the land itself.
+But beneath the political tensions lies something older and more dangerous: the scars of the Worldrend, a cataclysm that tore the world apart over a thousand years ago. Now, ancient powers stir, forgotten artifacts resurface, and the choices of a few heroes may determine whether history repeats itself.
 
-___
-
-Tirvandor is a world divided—two great continents separated by the Sundering Sea, each representing different philosophies of civilization and magic. 
-
-In the west lies **Thaldros**, a militaristic empire built on order and central authority. In the east sprawls **Aethoria**, a confederation of free cities valuing independence and democratic ideals.
-
-But beneath the political tensions lies something older and more dangerous: the scars of the **Worldrend**, a cataclysm that tore the world apart three thousand years ago. Now, ancient powers stir, forgotten artifacts resurface, and the choices of a few heroes may determine whether history repeats itself.
-
-___
-
-**This World Guide contains:**
+:
+This World Guide contains:
 
 - Complete geography of both continents
-- 3,000 years of history and timeline
-- The full pantheon of gods
+- Over 16,000 years of history and timeline
+- The Seven Ascended—the pantheon of gods
 - Major factions and secret societies
 - 18 noble houses with full genealogies
-- 200+ detailed settlements
-- Regional lore and adventure hooks
-- Street-level descriptions for immersive play
+- 204 detailed settlements across 19 regions
+- Complete regional lore
 
-___
-
-*A campaign setting for the fifth edition of the world's greatest roleplaying game*
-
+A campaign setting for the fifth edition of the world's greatest roleplaying game
 {{/backCover}}
+
