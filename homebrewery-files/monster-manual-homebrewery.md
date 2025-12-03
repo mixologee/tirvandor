@@ -1,8 +1,44 @@
+{{frontCover}}
 
+::::::::::::::::::
+
+___
+
+{{banner D&D 5e Homebrew}}
 
 ![monster_manual_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/monster-manual-cover.png) {position:absolute,top:0px,left:0px,width:820px}
 \page
+{{insideCover}}
 
+# Tirvandor
+## Monster Manual
+___
+
+#### Creatures of the Sundered Realms
+
+{{padding-top:450px}}
+#### Copyright & Attribution
+
+**Tirvandor Monster Manual** ::
+
+Copyright © 2025 Jason "Mixologee" Scheponik. All rights reserved.
+
+All original content including world lore, characters, locations, storylines, and artwork are the exclusive property of the author.
+
+#### Attribution
+
+This work includes material taken from the System Reference Document 5.1 (SRD 5.1) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document.
+
+The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
+
+#### Product Identity
+
+The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Primordials concept; all original magic items; the Worldrend event and timeline; all campaign content.
+
+{{skipCounting}}
+
+\page
+\page
 {{toc,wide
 # Table of Contents
 
@@ -2254,3 +2290,28 @@ System Reference Document Copyright 2000-2003, Wizards of the Coast, Inc.; Autho
 END OF LICENSE
 }}
 
+\page
+{{backCover}}
+Monster Manual: Creatures of Tirvandor
+
+:
+The world of Tirvandor is home to creatures shaped by war, magic, and the lingering scars of the Worldrend. From battle-hardened soldiers to divine champions, from corrupted spawn to ancient guardians—every monster tells a story of this divided land.
+This compendium presents 50 creatures designed specifically for Tirvandor campaigns, organized by faction and origin for easy reference during play.
+
+:
+This Monster Manual contains:
+
+- 50 unique creatures with full stat blocks
+- CR range from 1/8 to 15 for all tiers of play
+- Border Creatures—bandits, smugglers, wraiths, and war-born horrors
+- Thaldros Military—conscripts to elite Royal Guards and Inquisitors
+- Aethorian Forces—militia, revolutionaries, and freedom fighters
+- Iron Guild operatives and mercenary companies
+- Ascended-touched champions of the Seven Gods
+- Ancient beings and Worldrend-scarred entities
+- Habitat maps showing typical lairs and encounter locations
+- Tactical notes for running each creature effectively
+
+:
+Populate your world with creatures that belong there.
+{{/backCover}}

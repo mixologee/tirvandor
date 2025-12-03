@@ -8,8 +8,36 @@ ___
 
 ![dm_toolkit_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/dm-toolkit-reference/images/tirvandor-cover-dm-toolkit-converted.png) {position:absolute,top:0px,left:0px,width:820px}
 
-
 \page
+{{insideCover}}
+
+# Tirvandor
+## Dungeon Master's Toolkit 
+___
+### Quick Reference for Tirvandor
+
+{{padding-top:450px}}
+#### Copyright & Attribution
+
+**Tirvandor Dungeon Master's Toolkit** ::
+
+Copyright © 2025 Jason "Mixologee" Scheponik. All rights reserved.
+
+All original content including world lore, characters, locations, storylines, and artwork are the exclusive property of the author.
+
+#### Attribution
+
+This work includes material taken from the System Reference Document 5.1 (SRD 5.1) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document.
+
+The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
+
+#### Product Identity
+
+The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Primordials concept; all original magic items; the Worldrend event and timeline; all campaign content.
+
+{{skipCounting}}
+\page
+
 {{toc,wide
 # Contents
 
@@ -7075,7 +7103,7 @@ END OF LICENSE
 
 \page
 {{backCover}}
-DM Toolkit: Quick Reference for Tirvandor
+Tirvandor Dungeon Master's Toolkit: Quick Reference for Tirvandor
 
 :
 Everything a Dungeon Master needs at their fingertips. No more flipping through multiple books mid-session—this toolkit puts Tirvandor's essential information in one place, organized for fast reference during play.

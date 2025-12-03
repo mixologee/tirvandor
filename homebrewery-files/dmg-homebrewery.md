@@ -1,65 +1,413 @@
+{{frontCover}}
+
+
+
+:::::::::::::
+___
+
+{{banner D&D 5e Homebrew}}
+
 
 ![DMG-cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/tirvandor-cover-dungeon-masters-guide.png){position:absolute,top:0px,left:0px,width:820px}
 
 \page
+{{insideCover}}
 
-# Copyright & Attribution
+# Tirvandor
+## Dungeon Master's Guide
+___
+### Secrets of the Sundered World
 
-**TIRVANDOR: Dungeon Master's Guide**
+{{padding-top:450px}}
+#### Copyright & Attribution
 
-Copyright © 2025 Mixologee. All rights reserved.
+**Tirvandor Dungeon Master's Guide** ::
+
+Copyright © 2025 Jason "Mixologee" Scheponik. All rights reserved.
 
 All original content including world lore, characters, locations, storylines, and artwork are the exclusive property of the author.
 
-## Attribution
+#### Attribution
 
 This work includes material taken from the System Reference Document 5.1 (SRD 5.1) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document.
 
 The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
 
-## Product Identity
+#### Product Identity
 
 The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Primordials concept; all original magic items; the Worldrend event and timeline; all campaign content.
 
 {{skipCounting}}
 {{footnote DUNGEON MASTER'S GUIDE}}
-
 \page
 {{toc,wide
 # Contents
 
-- ### [{{ Part I: The World}}{{ 2}}](#p4)
-  - [{{ Chapter 1. Complete Timeline of Tirvandor}}{{ 2}}](#p4)  
+- ### [{{ Dungeon Master’s Guide to Tirvandor}}{{ 2}}](#p4)
+  - #### [{{ Part I: The World}}{{ 2}}](#p4)
+  - #### [{{ Using This Guide}}{{ 2}}](#p4)
+  - #### [{{ Chapter 1. Complete Timeline of Tirvandor}}{{ 2}}](#p4)
+    - [{{ Age of Myth (??-15,000 BS)}}{{ 2}}](#p4)
+    - [{{ Age of Dawn (6,000-3,000 BS)}}{{ 2}}](#p4)
+    - [{{ Age of Strife (3,000-1,000 BS)}}{{ 2}}](#p4)
+    - [{{ Pre-Worldrend Era (1,000-2,400 BS)}}{{ 3}}](#p5)
+    - [{{ The Worldrend (Year 0 / 2,400 BS)}}{{ 3}}](#p5)
+    - [{{ Recovery Era (1-1000 CR)}}{{ 4}}](#p6)
+    - [{{ Current Era (1000-1247 CR)}}{{ 4}}](#p6)
+  - #### [{{ The Seven Primordials (DM Secret)}}{{ 4}}](#p6)
+    - [{{ 1. The Devourer (Under Ironvault)}}{{ 4}}](#p6)
+    - [{{ 2. The Dreamer (Under Cloudspire)}}{{ 4}}](#p6)
+    - [{{ 3. The Weaver (Under Silverpeak Mountains)}}{{ 4}}](#p6)
+    - [{{ 4. The Tyrant (Under Highcrown Ruins)}}{{ 4}}](#p6)
+    - [{{ 5. The Corruptor (Under Border Wastes)}}{{ 4}}](#p6)
+    - [{{ 6. The Hunter (Deep Wilderness, Unknown)}}{{ 4}}](#p6)
+    - [{{ 7. The Oracle (Lost Temple, Unknown)}}{{ 4}}](#p6)
+  - #### [{{ Campaign Use}}{{ 5}}](#p7)
 - ### [{{ Part II: Running the Game}}{{ 6}}](#p8)
-  - [{{ Chapter 2: Core Mechanics and Adjudication}}{{ 6}}](#p8)
-  - [{{ Chapter 3: Creating Adventures}}{{ 12}}](#p14)
-  - [{{ Chapter 4: Creating Campaigns}}{{ 17}}](#p19)
-  - [{{ Chapter 5: Secret Locations}}{{ 23}}](#p25)
-  - [{{ Chapter 6: Magic Mechanics Deep Dive: How Magic Really Works in Tirvandor}}{{ 25}}](#p27)  
-- ### [{{ Part III: Treasure}}{{ 28}}](#p30)
-  - [{{ Chapter 7: Treasure & Magic Items}}{{ 28}}](#p30)  
-- ### [{{ Part IV: NPCs}}{{ 34}}](#p36)
-  - [{{ Chapter 8: NPCs of Tirvandor}}{{ 34}}](#p36)
-- ### [{{ Part V: DM Tools}}{{ 370}}](#p372)
-  - [{{ Chapter 9: Creating Custom Content}}{{ 370}}](#p372)
-  - [{{ Chapter 10. Faction Strongholds}}{{ 373}}](#p375)
-  - [{{ Chapter 11. Encounter Building: Creating Balanced, Memorable Encounters}}{{ 375}}](#p377)
-  - [{{ Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor’s Wild Lands}}{{ 379}}](#p381)
-- ### [{{ Part VI: Appendices}}{{ 384}}](#p386)
-  - [{{ Appendix A: Weather Tables}}{{ 384}}](#p386)
-  - [{{ Appendix B: Random Encounters by Region}}{{ 384}}](#p386)
-  - [{{ Appendix C: Treasure Tables}}{{ 385}}](#p387)
-  - [{{ Appendix D: Settlement Generation}}{{ 385}}](#p387)
-  - [{{ Appendix E: NPC Generation}}{{ 385}}](#p387)
-  - [{{ Appendix F: Travel and Navigation}}{{ 386}}](#p388)
-  - [{{ Appendix G: Difficulty Classes}}{{ 386}}](#p388)
-  - [{{ Appendix H: Condition Reference}}{{ 386}}](#p388)
-  - [{{ Appendix I: Faction Influence Scale}}{{ 386}}](#p388)
-  - [{{ Appendix J: Primordial Corruption Stages}}{{ 387}}](#p389)
-  - [{{ Appendix K: Ley Line Proximity Effects}}{{ 387}}](#p389)
-  - [{{ Appendix L: Quick Loot Generator}}{{ 387}}](#p389)
+- ### [{{ Chapter 2: Core Mechanics and Adjudication}}{{ 6}}](#p8)
+  - #### [{{ Ability Checks}}{{ 6}}](#p8)
+    - [{{ When to Call for Checks}}{{ 6}}](#p8)
+    - [{{ Setting Difficulty Classes}}{{ 6}}](#p8)
+    - [{{ Multiple Ability Options}}{{ 6}}](#p8)
+    - [{{ Group Checks}}{{ 6}}](#p8)
+    - [{{ Contests}}{{ 6}}](#p8)
+  - #### [{{ Advantage and Disadvantage}}{{ 6}}](#p8)
+    - [{{ When to Grant Advantage}}{{ 6}}](#p8)
+    - [{{ When to Impose Disadvantage}}{{ 7}}](#p9)
+    - [{{ Advantage/Disadvantage Cancel}}{{ 7}}](#p9)
+  - #### [{{ Combat}}{{ 7}}](#p9)
+    - [{{ Initiative}}{{ 7}}](#p9)
+    - [{{ Actions in Combat}}{{ 7}}](#p9)
+    - [{{ Movement}}{{ 7}}](#p9)
+    - [{{ Attacking}}{{ 7}}](#p9)
+    - [{{ Damage and Healing}}{{ 8}}](#p10)
+    - [{{ Conditions Reference}}{{ 8}}](#p10)
+  - #### [{{ Exploration}}{{ 9}}](#p11)
+    - [{{ Tracking Time}}{{ 9}}](#p11)
+    - [{{ Travel Pace}}{{ 9}}](#p11)
+    - [{{ Foraging and Hunting}}{{ 9}}](#p11)
+    - [{{ Getting Lost}}{{ 9}}](#p11)
+    - [{{ Resting}}{{ 9}}](#p11)
+  - #### [{{ Social Interaction}}{{ 9}}](#p11)
+    - [{{ NPC Attitudes}}{{ 9}}](#p11)
+    - [{{ Changing Attitudes}}{{ 9}}](#p11)
+    - [{{ Persuasion, Deception, Intimidation}}{{ 10}}](#p12)
+    - [{{ Information Gathering}}{{ 10}}](#p12)
+\column
+  - #### [{{ Improvisation}}{{ 10}}](#p12)
+    - [{{ When Players Surprise You}}{{ 10}}](#p12)
+    - [{{ Quick NPC Creation}}{{ 10}}](#p12)
+    - [{{ Quick Room Description}}{{ 10}}](#p12)
+    - [{{ Saying “No” Gracefully}}{{ 10}}](#p12)
+  - #### [{{ Pacing}}{{ 11}}](#p13)
+    - [{{ Recognizing Pacing Problems}}{{ 11}}](#p13)
+    - [{{ Speeding Things Up}}{{ 11}}](#p13)
+    - [{{ Slowing Things Down}}{{ 11}}](#p13)
+    - [{{ Scene Transitions}}{{ 11}}](#p13)
+  - #### [{{ Rulings Over Rules}}{{ 11}}](#p13)
+    - [{{ Making Fair Rulings}}{{ 11}}](#p13)
+    - [{{ When to Look Up Rules}}{{ 11}}](#p13)
+    - [{{ Admitting Mistakes}}{{ 11}}](#p13)
+  - #### [{{ Using This Chapter}}{{ 11}}](#p13)
+- ### [{{ Chapter 3: Creating Adventures}}{{ 12}}](#p14)
+  - #### [{{ Step-by-Step Adventure Design}}{{ 12}}](#p14)
+  - #### [{{ What Makes a Good Adventure}}{{ 12}}](#p14)
+  - #### [{{ Step-by-Step Process}}{{ 12}}](#p14)
+    - [{{ Step 1: Establish the Premise (One Sentence)}}{{ 12}}](#p14)
+    - [{{ Step 2: Identify the Villain or Threat}}{{ 12}}](#p14)
+    - [{{ Step 3: Design Key Locations}}{{ 12}}](#p14)
+    - [{{ Step 4: Create Major NPCs}}{{ 12}}](#p14)
+    - [{{ Step 5: Build Encounters}}{{ 13}}](#p15)
+    - [{{ Step 6: Plan Rewards}}{{ 13}}](#p15)
+    - [{{ Step 7: Prepare for Player Choices}}{{ 13}}](#p15)
+  - #### [{{ Adventure Structures}}{{ 13}}](#p15)
+    - [{{ Location-Based Adventures}}{{ 13}}](#p15)
+    - [{{ Event-Based Adventures}}{{ 13}}](#p15)
+    - [{{ Mystery Adventures}}{{ 14}}](#p16)
+  - #### [{{ Pacing and Tension}}{{ 14}}](#p16)
+    - [{{ Five-Act Structure}}{{ 14}}](#p16)
+    - [{{ Building Tension}}{{ 14}}](#p16)
+    - [{{ Using Time Pressure}}{{ 14}}](#p16)
+  - #### [{{ Encounters by Party Level}}{{ 14}}](#p16)
+    - [{{ Levels 1-4: Local Threats}}{{ 14}}](#p16)
+    - [{{ Levels 5-10: Regional Problems}}{{ 15}}](#p17)
+    - [{{ Levels 11-16: Continental Crises}}{{ 15}}](#p17)
+    - [{{ Levels 17-20: World-Ending Threats}}{{ 15}}](#p17)
+  - #### [{{ Common Mistakes}}{{ 15}}](#p17)
+    - [{{ Railroad Adventures}}{{ 15}}](#p17)
+    - [{{ Killer DM}}{{ 15}}](#p17)
+    - [{{ No Stakes}}{{ 15}}](#p17)
+    - [{{ Too Many NPCs}}{{ 15}}](#p17)
+    - [{{ Info Dump}}{{ 15}}](#p17)
+    - [{{ Ignoring Player Choices}}{{ 15}}](#p17)
+  - #### [{{ Adventure Templates}}{{ 16}}](#p18)
+    - [{{ Template 1: The Heist}}{{ 16}}](#p18)
+    - [{{ Template 2: The Rescue}}{{ 16}}](#p18)
+    - [{{ Template 3: The Mystery}}{{ 16}}](#p18)
+    - [{{ Template 4: The Hunt}}{{ 16}}](#p18)
+  - #### [{{ Using This Chapter}}{{ 16}}](#p18)
 }}
+{{skipCounting}}
+\page
+{{toc,wide
+# Contents
+- ### [{{ Chapter 4: Creating Campaigns}}{{ 17}}](#p19)
+  - #### [{{ Long-Term Play and Story Arcs}}{{ 17}}](#p19)
+  - #### [{{ Campaign vs Adventure}}{{ 17}}](#p19)
+  - #### [{{ Tirvandor Campaign Themes}}{{ 17}}](#p19)
+    - [{{ The War}}{{ 17}}](#p19)
+    - [{{ The Primordial Threat}}{{ 17}}](#p19)
+    - [{{ Faction Intrigue}}{{ 17}}](#p19)
+    - [{{ Personal Quests}}{{ 17}}](#p19)
+  - #### [{{ Campaign Structure}}{{ 17}}](#p19)
+    - [{{ Episodic Campaigns}}{{ 17}}](#p19)
+    - [{{ Serialized Campaigns}}{{ 18}}](#p20)
+    - [{{ Hybrid Structure (Recommended)}}{{ 18}}](#p20)
+  - #### [{{ Campaign Phases}}{{ 18}}](#p20)
+    - [{{ Levels 1-4: Local Heroes}}{{ 18}}](#p20)
+    - [{{ Levels 5-10: Regional Agents}}{{ 18}}](#p20)
+    - [{{ Levels 11-16: Continental Players}}{{ 18}}](#p20)
+    - [{{ Levels 17-20: World-Shapers}}{{ 19}}](#p21)
+  - #### [{{ Campaign Planning}}{{ 19}}](#p21)
+    - [{{ Before Session Zero}}{{ 19}}](#p21)
+    - [{{ Session Zero}}{{ 19}}](#p21)
+    - [{{ Campaign Journal}}{{ 19}}](#p21)
+  - #### [{{ Tying Player Backstories}}{{ 20}}](#p22)
+    - [{{ Incorporating Backstories}}{{ 20}}](#p22)
+    - [{{ When to Focus on Each Character}}{{ 20}}](#p22)
+  - #### [{{ Pacing the Campaign}}{{ 20}}](#p22)
+    - [{{ Session Pacing}}{{ 20}}](#p22)
+    - [{{ Arc Pacing}}{{ 20}}](#p22)
+    - [{{ Campaign Pacing}}{{ 20}}](#p22)
+  - #### [{{ Ending the Campaign}}{{ 20}}](#p22)
+    - [{{ Planning the Ending}}{{ 20}}](#p22)
+    - [{{ The Final Arc (Last 5-8 Sessions)}}{{ 21}}](#p23)
+    - [{{ Satisfying Endings}}{{ 21}}](#p23)
+    - [{{ Epilogue Session}}{{ 21}}](#p23)
+  - #### [{{ Common Campaign Problems}}{{ 21}}](#p23)
+    - [{{ Problem: Players Not Engaged with Plot}}{{ 21}}](#p23)
+    - [{{ Problem: Pacing Issues}}{{ 21}}](#p23)
+    - [{{ Problem: Power Imbalance}}{{ 21}}](#p23)
+    - [{{ Problem: Party Conflict}}{{ 22}}](#p24)
+    - [{{ Problem: Lost the Thread}}{{ 22}}](#p24)
+  - #### [{{ Using This Chapter}}{{ 22}}](#p24)
+- ### [{{ Chapter 5: Secret Locations}}{{ 23}}](#p25)
+  - #### [{{ Hidden Places of Power}}{{ 23}}](#p25)
+  - #### [{{ The Black Archive}}{{ 23}}](#p25)
+  - #### [{{ The Forgotten Monastery}}{{ 23}}](#p25)
+  - #### [{{ Nexus of Seven Sorrows}}{{ 23}}](#p25)
+  - #### [{{ The Wandering Tower}}{{ 23}}](#p25)
+  - #### [{{ Ashgate Undercity}}{{ 23}}](#p25)
+  - #### [{{ The Singing Stones}}{{ 23}}](#p25)
+  - #### [{{ The Obsidian Spire}}{{ 24}}](#p26)
 
+  - #### [{{ Goldreach Vault 13}}{{ 24}}](#p26)
+  - #### [{{ Temple of the Void Saints}}{{ 24}}](#p26)
+  - #### [{{ The Riftmaw}}{{ 24}}](#p26)
+  - #### [{{ Using Secret Locations}}{{ 24}}](#p26)
+- ### [{{ Chapter 6: Magic Mechanics Deep Dive: How Magic Really Works in Tirvandor}}{{ 25}}](#p27)
+  - #### [{{ Ley Line System}}{{ 25}}](#p27)
+    - [{{ Basic Mechanics}}{{ 25}}](#p27)
+    - [{{ Ley Line Map (DM Reference)}}{{ 25}}](#p27)
+  - #### [{{ Spell Creation Rules}}{{ 25}}](#p27)
+    - [{{ Requirements}}{{ 25}}](#p27)
+    - [{{ Process}}{{ 25}}](#p27)
+    - [{{ Flawed Spells}}{{ 25}}](#p27)
+    - [{{ Example Spells PCs Might Create}}{{ 25}}](#p27)
+  - #### [{{ Magic Item Creation}}{{ 26}}](#p28)
+    - [{{ Minor Items (Uncommon/Rare)}}{{ 26}}](#p28)
+    - [{{ Major Items (Very Rare/Legendary)}}{{ 26}}](#p28)
+  - #### [{{ Ritual Casting}}{{ 26}}](#p28)
+    - [{{ Standard Rituals}}{{ 26}}](#p28)
+    - [{{ Tirvandor Ritual Sites}}{{ 26}}](#p28)
+    - [{{ Custom Rituals (DM Tool)}}{{ 26}}](#p28)
+  - #### [{{ Wild Magic}}{{ 26}}](#p28)
+    - [{{ Trigger Conditions}}{{ 26}}](#p28)
+    - [{{ Tirvandor Wild Magic Effects (d12)}}{{ 27}}](#p29)
+  - #### [{{ Artifact Rules}}{{ 27}}](#p29)
+    - [{{ Attunement}}{{ 27}}](#p29)
+    - [{{ Sentient Artifacts}}{{ 27}}](#p29)
+    - [{{ Example Artifacts}}{{ 27}}](#p29)
+  - #### [{{ Planar Travel}}{{ 27}}](#p29)
+    - [{{ Permanent Portals}}{{ 27}}](#p29)
+    - [{{ Creating Portals}}{{ 27}}](#p29)
+  - #### [{{ Using Magic Mechanics}}{{ 27}}](#p29)
+}}
+{{skipCounting}}
+\page
+{{toc,wide
+# Contents 
+- ### [{{ Part III: Treasure}}{{ 28}}](#p30)
+- ### [{{ Chapter 7: Treasure & Magic Items}}{{ 28}}](#p30)
+  - #### [{{ Comprehensive Catalog with Images}}{{ 28}}](#p30)
+  - #### [{{ Using Treasure in Tirvandor}}{{ 28}}](#p30)
+    - [{{ 1: BORDER CAPTAIN’S BADGE}}{{ 28}}](#p30)
+    - [{{ 2: POTION OF FIRE RESISTANCE}}{{ 28}}](#p30)
+    - [{{ 3: POTION OF GREATER HEALING}}{{ 28}}](#p30)
+    - [{{ 4: WAND OF MAGIC MISSILES}}{{ 29}}](#p31)
+    - [{{ 5: AMULET OF HEALTH}}{{ 29}}](#p31)
+    - [{{ 6: DRAGON SLAYING ARROWS (SET OF 3)}}{{ 29}}](#p31)
+    - [{{ 7: DRAGON WARDING AMULETS (SET OF 4)}}{{ 29}}](#p31)
+    - [{{ 8: FLAMING LONGSWORD - PHOENIX VARIANT}}{{ 30}}](#p32)
+    - [{{ 9: MORNINGSTAR - HOLY RADIANT}}{{ 30}}](#p32)
+    - [{{ 10: RING OF SPELL STORING}}{{ 30}}](#p32)
+    - [{{ 11: BELT OF GIANT STRENGTH (FROST GIANT)}}{{ 30}}](#p32)
+    - [{{ 12: ETERNAL WINTER SHARD}}{{ 31}}](#p33)
+    - [{{ 13: STAFF OF DYNASTIES}}{{ 31}}](#p33)
+    - [{{ 14: STAFF OF POWER}}{{ 31}}](#p33)
+    - [{{ 15: VOIDBLADE LONGSWORD}}{{ 31}}](#p33)
+    - [{{ 16: ARMOR OF THE UNBREAKABLE}}{{ 32}}](#p34)
+    - [{{ 17: CLOAK OF INVISIBILITY}}{{ 32}}](#p34)
+    - [{{ 18: NECROMANCER LORD’S PHYLACTERY}}{{ 32}}](#p34)
+  - #### [{{ Treasure Tables by CR}}{{ 32}}](#p34)
+  - #### [{{ Item Distribution Guidelines}}{{ 33}}](#p35)
+- ### [{{ Part IV: NPCs}}{{ 34}}](#p36)
+- ### [{{ Chapter 8: NPCs of Tirvandor}}{{ 34}}](#p36)
+  - #### [{{ Major NPCs}}{{ 39}}](#p39)
+  - #### [{{ Additional Kaer Thandros Officials}}{{ 303}}](#p305)
+  - #### [{{ Silverpine Officials}}{{ 324}}](#p326)
+  - #### [{{ Faction Leaders}}{{ 330}}](#p332)
+  - #### [{{ Goldreach Figures}}{{ 336}}](#p338)
+  - #### [{{ Historical & Legendary Figures}}{{ 338}}](#p340)
+  - #### [{{ Miscellaneous NPCs}}{{ 344}}](#p346)
+- ### [{{ Part V: DM Tools}}{{ 370}}](#p372)
+- ### [{{ Chapter 9: Creating Custom Content}}{{ 370}}](#p372)
+  - #### [{{ Creating Creatures}}{{ 370}}](#p372)
+    - [{{ Step-by-Step}}{{ 370}}](#p372)
+    - [{{ Challenge Rating Guidelines}}{{ 370}}](#p372)
+  - #### [{{ Creating Spells}}{{ 370}}](#p372)
+    - [{{ Spell Balance}}{{ 370}}](#p372)
+    - [{{ Custom Spell Template}}{{ 370}}](#p372)
+\column
+  - #### [{{ Creating Magic Items}}{{ 370}}](#p372)
+    - [{{ Rarity Guidelines}}{{ 370}}](#p372)
+    - [{{ Magic Item Template}}{{ 371}}](#p373)
+  - #### [{{ Environmental Hazards}}{{ 371}}](#p373)
+    - [{{ Extreme Cold}}{{ 371}}](#p373)
+    - [{{ Extreme Heat}}{{ 371}}](#p373)
+    - [{{ Falling}}{{ 371}}](#p373)
+    - [{{ Drowning}}{{ 371}}](#p373)
+    - [{{ Poison and Disease}}{{ 371}}](#p373)
+  - #### [{{ Primordial Corruption (Detailed)}}{{ 371}}](#p373)
+    - [{{ Corruption Stages}}{{ 371}}](#p373)
+    - [{{ Proximity Effects}}{{ 371}}](#p373)
+  - #### [{{ Traps}}{{ 372}}](#p374)
+    - [{{ Simple Traps (CR 1-4)}}{{ 372}}](#p374)
+    - [{{ Complex Traps (CR 5-10)}}{{ 372}}](#p374)
+    - [{{ Deadly Traps (CR 11+)}}{{ 372}}](#p374)
+  - #### [{{ Using This Chapter}}{{ 372}}](#p374)
+- ### [{{ Chapter 10. Faction Strongholds}}{{ 373}}](#p375)
+  - #### [{{ Gaining a Stronghold}}{{ 373}}](#p375)
+  - #### [{{ Stronghold Types}}{{ 373}}](#p375)
+    - [{{ Military Fort (Thaldros Empire)}}{{ 373}}](#p375)
+    - [{{ Resistance Safehouse (Aethoria Resistance)}}{{ 373}}](#p375)
+    - [{{ Guild Hall (Iron Guild)}}{{ 373}}](#p375)
+    - [{{ Church Chapter House}}{{ 374}}](#p376)
+    - [{{ Noble Estate}}{{ 374}}](#p376)
+- ### [{{ Chapter 11. Encounter Building: Creating Balanced, Memorable Encounters}}{{ 375}}](#p377)
+  - #### [{{ Encounter Basics}}{{ 375}}](#p377)
+  - #### [{{ Combat Encounters}}{{ 375}}](#p377)
+    - [{{ Calculating Difficulty}}{{ 375}}](#p377)
+    - [{{ Action Economy}}{{ 375}}](#p377)
+  - #### [{{ Using Terrain}}{{ 375}}](#p377)
+    - [{{ Terrain Types}}{{ 375}}](#p377)
+    - [{{ Battlefield Zones}}{{ 375}}](#p377)
+  - #### [{{ Monster Tactics}}{{ 376}}](#p378)
+  - #### [{{ Encounter Pacing}}{{ 376}}](#p378)
+    - [{{ Combat Length}}{{ 376}}](#p378)
+  - #### [{{ Social Encounters}}{{ 376}}](#p378)
+    - [{{ Structure}}{{ 376}}](#p378)
+    - [{{ Setting DCs}}{{ 376}}](#p378)
+    - [{{ Success Levels}}{{ 376}}](#p378)
+    - [{{ Multiple Participants}}{{ 376}}](#p378)
+  - #### [{{ Exploration Encounters}}{{ 376}}](#p378)
+    - [{{ Puzzles}}{{ 376}}](#p378)
+    - [{{ Traps}}{{ 377}}](#p379)
+  - #### [{{ Mixed Encounters}}{{ 377}}](#p379)
+}}
+{{skipCounting}}
+\page
+{{toc,wide
+# Contents 
+  - #### [{{ Dynamic Encounters}}{{ 377}}](#p379)
+  - #### [{{ Encounter Variety}}{{ 377}}](#p379)
+  - #### [{{ Special Encounter Types}}{{ 377}}](#p379)
+    - [{{ Chase}}{{ 377}}](#p379)
+    - [{{ Stealth Mission}}{{ 377}}](#p379)
+    - [{{ Siege}}{{ 377}}](#p379)
+    - [{{ Primordial Corruption Event}}{{ 378}}](#p380)
+  - #### [{{ Balancing for Party Size}}{{ 378}}](#p380)
+  - #### [{{ Example Encounters}}{{ 378}}](#p380)
+    - [{{ Level 3 Party (4 PCs) - Medium Combat}}{{ 378}}](#p380)
+    - [{{ Level 7 Party (4 PCs) - Hard Combat}}{{ 378}}](#p380)
+    - [{{ Level 12 Party (5 PCs) - Social Encounter}}{{ 378}}](#p380)
+- ### [{{ Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor’s Wild Lands}}{{ 379}}](#p381)
+  - #### [{{ Travel Pacing}}{{ 379}}](#p381)
+    - [{{ Overland Movement}}{{ 379}}](#p381)
+    - [{{ Time Tracking}}{{ 379}}](#p381)
+  - #### [{{ Navigation}}{{ 379}}](#p381)
+    - [{{ Getting Lost}}{{ 379}}](#p381)
+    - [{{ Mapping}}{{ 379}}](#p381)
+  - #### [{{ Foraging and Hunting}}{{ 379}}](#p381)
+    - [{{ Foraging}}{{ 379}}](#p381)
+    - [{{ Hunting}}{{ 379}}](#p381)
+    - [{{ Water}}{{ 380}}](#p382)
+  - #### [{{ Weather}}{{ 380}}](#p382)
+    - [{{ Daily Weather}}{{ 380}}](#p382)
+    - [{{ Extreme Weather (d10)}}{{ 380}}](#p382)
+    - [{{ Temperature Effects}}{{ 380}}](#p382)
+    - [{{ Weather and Travel}}{{ 380}}](#p382)
+  - #### [{{ Hazards}}{{ 380}}](#p382)
+    - [{{ Natural Hazards}}{{ 380}}](#p382)
+    - [{{ Environmental Hazards (Tirvandor-Specific)}}{{ 381}}](#p383)
+  - #### [{{ Random Encounters}}{{ 381}}](#p383)
+    - [{{ Frequency}}{{ 381}}](#p383)
+    - [{{ Encounter Types (d6)}}{{ 381}}](#p383)
+    - [{{ Encounter Tables by Region}}{{ 381}}](#p383)
+  - #### [{{ Camping}}{{ 381}}](#p383)
+    - [{{ Making Camp}}{{ 381}}](#p383)
+    - [{{ Watch Schedule}}{{ 382}}](#p384)
+    - [{{ Camp Security}}{{ 382}}](#p384)
+    - [{{ Interrupted Rest}}{{ 382}}](#p384)
+  - #### [{{ Survival Challenges}}{{ 382}}](#p384)
+    - [{{ Starvation}}{{ 382}}](#p384)
+    - [{{ Dehydration}}{{ 382}}](#p384)
+    - [{{ Exhaustion}}{{ 382}}](#p384)
+    - [{{ Disease and Infection}}{{ 382}}](#p384)
+  - #### [{{ Wilderness Survival Tips for DMs}}{{ 383}}](#p385)
+- ### [{{ Part VI: Appendices}}{{ 384}}](#p386)
+  - #### [{{ Appendix A: Weather Tables}}{{ 384}}](#p386)
+    - [{{ Daily Weather}}{{ 384}}](#p386)
+    - [{{ Extreme Weather}}{{ 384}}](#p386)
+  - #### [{{ Appendix B: Random Encounters by Region}}{{ 384}}](#p386)
+    - [{{ Thaldros Mainland}}{{ 384}}](#p386)
+    - [{{ Aethoria Territories}}{{ 384}}](#p386)
+    - [{{ The Border}}{{ 384}}](#p386)
+  - #### [{{ Appendix C: Treasure Tables}}{{ 385}}](#p387)
+    - [{{ Treasure Hoard by CR}}{{ 385}}](#p387)
+    - [{{ Individual Treasure}}{{ 385}}](#p387)
+  - #### [{{ Appendix D: Settlement Generation}}{{ 385}}](#p387)
+    - [{{ Settlement Size}}{{ 385}}](#p387)
+    - [{{ Settlement Attitude Toward Strangers}}{{ 385}}](#p387)
+    - [{{ Settlement Problem}}{{ 385}}](#p387)
+  - #### [{{ Appendix E: NPC Generation}}{{ 385}}](#p387)
+    - [{{ Quick NPC Generator}}{{ 385}}](#p387)
+  - #### [{{ Appendix F: Travel and Navigation}}{{ 386}}](#p388)
+    - [{{ Travel Distances}}{{ 386}}](#p388)
+    - [{{ Getting Lost (Navigation DC)}}{{ 386}}](#p388)
+  - #### [{{ Appendix G: Difficulty Classes}}{{ 386}}](#p388)
+    - [{{ Standard DCs}}{{ 386}}](#p388)
+    - [{{ Contested Actions}}{{ 386}}](#p388)
+  - #### [{{ Appendix H: Condition Reference}}{{ 386}}](#p388)
+  - #### [{{ Appendix I: Faction Influence Scale}}{{ 386}}](#p388)
+    - [{{ Earning Faction Influence}}{{ 387}}](#p389)
+  - #### [{{ Appendix J: Primordial Corruption Stages}}{{ 387}}](#p389)
+  - #### [{{ APPENDIX K: Ley Line Proximity Effects}}{{ 387}}](#p389)
+  - #### [{{ Appendix L: Quick Loot Generator}}{{ 387}}](#p389)
+    - [{{ Coin Loot by CR}}{{ 387}}](#p389)
+    - [{{ Gemstone Values}}{{ 387}}](#p389)
+    - [{{ OPEN GAME LICENSE Version 1.0a}}{{ 388}}](#p390)
+}}
 
 {{skipCounting}}
 \page
@@ -3128,8 +3476,10 @@ Use these tables to generate appropriate treasure for encounters.
 # Part IV: NPCs
 # Chapter 8: NPCs of Tirvandor
 
-This chapter contains complete information for all major NPCs in Tirvandor, including their full stat blocks, backgrounds, connections, secrets, and plot hooks for DMs.
-::::::::::
+This chapter contains complete information for all major NPCs in Tirvandor, including their full stat blocks, backgrounds, connections, secrets, and plot hooks for DMs. 
+\column
+## Major NPCs
+:: 
 {{monster,frame,wide
 ## King Aldric IV Thandris
 *Medium humanoid (human), lawful neutral*
@@ -20934,3 +21284,31 @@ END OF LICENSE
 }}
 {{pageNumber,auto}}
 {{footnote Part VI: Appendices}}
+
+\page
+{{backCover}}
+Tirvandor Dungeon Master's Guide: Secrets of the Sundered World
+
+:
+Behind every great campaign lies a wealth of secrets—hidden histories, shadowy factions, and truths the players must discover for themselves. This guide gives you everything you need to bring Tirvandor to life at your table.
+:
+From the political machinations of noble houses to the cosmic mysteries of the Worldrend, from street-level intrigue to world-shaking revelations—it's all here, organized for the Dungeon Master's eyes only.
+:
+This Guide contains:
+
+- DM secrets and hidden lore players should never see
+- 162 fully detailed NPCs with stat blocks, secrets, and plot hooks
+- Complete magic item compendium with artwork
+- Ley line mechanics and deep magic systems
+- Secret locations and forbidden knowledge
+- Faction strongholds and power structures
+- Adventure creation guidelines for Tirvandor
+- Campaign frameworks from levels 1-20
+- Encounter building tools and balance guidelines
+- Wilderness exploration and survival rules
+- Random generation tables for improvisation
+- Custom content creation guidelines
+
+:
+The world has secrets. Now you know them all.
+{{/backCover}}
