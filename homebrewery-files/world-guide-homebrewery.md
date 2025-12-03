@@ -157,10 +157,10 @@ Welcome to Tirvandor. Your legend begins now.
 \page
 
 {{wide
-![geography](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-geography-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:400px}
+![geography](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-geography-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:600px}
 }}
 
-{{padding-top:350px}}
+{{padding-top:550px}}
 # Geography of Tirvandor: The Realm of Deep Magic
 :
 ## Overview
