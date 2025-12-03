@@ -7072,3 +7072,29 @@ System Reference Document Copyright 2000-2003, Wizards of the Coast, Inc.; Autho
 
 END OF LICENSE
 }}
+
+\page
+{{backCover}}
+DM Toolkit: Quick Reference for Tirvandor
+
+:
+Everything a Dungeon Master needs at their fingertips. No more flipping through multiple books mid-session—this toolkit puts Tirvandor's essential information in one place, organized for fast reference during play.
+Whether you're running a tense negotiation in Kaer Thandros, a desperate chase through Goldreach's streets, or an ambush in the Ashmar Wastes, this book has you covered.
+
+This Toolkit contains: ::
+
+- Quick reference sheets for DCs, travel times, prices, and weather
+- Complete faction relationship maps and politics
+- 20 condensed monster stat blocks ready for combat
+- Skill challenge templates for chases, heists, and negotiations
+- Session tracking sheets and planning templates
+- Visual timeline spanning 16,000 years of history
+- Campaign dashboard for tracking party progress
+- Session zero materials for new campaigns
+- Random encounter tables for every terrain type
+- Loot tables organized by level and hoard size
+- 50+ essential NPCs with quick-reference stats
+
+:
+Run better sessions. Spend less time searching, more time playing.
+{{/backCover}}
