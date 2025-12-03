@@ -1,5 +1,13 @@
+{{frontCover}}
+
+::::::::::::::::
+
+___
+
+{{banner D&D 5e Homebrew}}
 
 ![dm_toolkit_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/dm-toolkit-reference/images/tirvandor-cover-dm-toolkit-converted.png) {position:absolute,top:0px,left:0px,width:820px}
+
 
 \page
 {{toc,wide
@@ -6932,14 +6940,14 @@ Cantrips: *friends, message, minor illusion, vicious mockery*
 
 ## By Role
 
-**Rulers (Cards 1-3)**
+**Rulers (Cards 1-3)** ::
 | NPC | CR | Role |
 |:----|:--:|:-----|
 | King Aldric IV | 12 | High King of Thaldros |
 | High Queen Aelindra | 14 | High Queen of Aethoria |
 | Sultan Rashid | 11 | Sultan of Sundara |
 
-**Faction Leaders (Cards 4-11)**
+**Faction Leaders (Cards 4-11)** ::
 | NPC | CR | Faction |
 |:----|:--:|:--------|
 | Lord Commander Gareth | 12 | Iron Council |
@@ -6951,13 +6959,13 @@ Cantrips: *friends, message, minor illusion, vicious mockery*
 | Forge-Master Rurik | 8 | Forgebound Guild |
 | Archdruid Silvaris | 12 | Druidic Circle |
 
-**Royal Heirs (Cards 12-13)**
+**Royal Heirs (Cards 12-13)** ::
 | NPC | CR | Role |
 |:----|:--:|:-----|
 | Prince Aldric | 5 | Crown Prince of Thaldros |
 | Princess Elanil | 6 | Princess of Aethoria |
 
-**Specialists (Cards 14-20)**
+**Specialists (Cards 14-20)** ::
 | NPC | CR | Role |
 |:----|:--:|:-----|
 | Davos Goldshore | 10 | Villain - Blood & Coin |
@@ -6968,12 +6976,9 @@ Cantrips: *friends, message, minor illusion, vicious mockery*
 | Master Smith Durgan | 7 | Legendary Smith |
 | Council Mistress Elara | 7 | House Silverleaf |
 
-{{pageNumber,auto}}
-{{footnote NPC CARDS}}
+\column
 
-\page
-
-# Using These NPC Cards
+## Using These NPC Cards
 
 ## At the Table
 - Keep printed copies in your DM binder
@@ -6997,9 +7002,7 @@ Focus on: King Aldric IV, High Queen Aelindra, Lady Shadowleaf, Prince Aldric
 ### Universal
 All faction leaders and specialists work in any campaign
 
-{{pageNumber,auto}}
-{{footnote NPC CARDS}}
-::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::
 
 {{homebreweryCredits
 Made With
@@ -7010,7 +7013,8 @@ The Homebrewery
 [Homebrewery.Naturalcrit.com](https://homebrewery.naturalcrit.com)
 }}
 
-
+{{pageNumber,auto}}
+{{footnote NPC CARDS}}
 \page
 
 {{license,wide

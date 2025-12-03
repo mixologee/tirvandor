@@ -12,12 +12,12 @@ ___
 
 \page
 
-
 {{insideCover}}
 
 # Tirvandor
-## World Guide
-
+## The Realm of Deep Magic
+### World Guide
+{{padding-top:700px}}
 Written by Jason "Mixologee" Scheponik
 
 1st Edition | November 2025
@@ -10222,4 +10222,3 @@ This World Guide contains:
 
 A campaign setting for the fifth edition of the world's greatest roleplaying game
 {{/backCover}}
-
