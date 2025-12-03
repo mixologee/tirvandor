@@ -1,37 +1,44 @@
 {{frontCover}}
 
-{{logo
-![](/assets/naturalCrit/phb_stuff/phb_logo.png)
-}}
 
-# Tirvandor
-# Player's Handbook
+
+:::::::::::::::
 ___
 
-{{banner UNIVERSAL EDITION}}
+{{banner D&D 5e Homebrew}}
 
-{{footnote
-A complete guide to character creation for the realm of deep magic
-}}
 
-![background](/assets/naturalCrit/phb_stuff/phb_cover.jpg){position:absolute,bottom:0,left:0,height:100%}
+![DMG-cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/tirvandor-cover-players-guide.png){position:absolute,top:0px,left:0px,width:820px}
 
 \page
 
 {{insideCover}}
 
 # Tirvandor
-# Player's Handbook
+## Player's Guide
 ___
+### Adventuring in the Sundered Realms
 
-**A D&D 5th Edition Character Creation Guide**
+{{padding-top:450px}}
+#### Copyright & Attribution
 
-*For use with Blood & Coin, Shattered Oaths, and all Tirvandor campaigns*
+**Tirvandor Player's Guide** ::
 
-{{footnote
-Version 2.0 | November 2025
-}}
+Copyright © 2025 Jason "Mixologee" Scheponik. All rights reserved.
 
+All original content including world lore, characters, locations, storylines, and artwork are the exclusive property of the author.
+
+#### Attribution
+
+This work includes material taken from the System Reference Document 5.1 (SRD 5.1) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document.
+
+The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
+
+#### Product Identity
+
+The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Primordials concept; all original magic items; the Worldrend event and timeline; all campaign content.
+
+{{skipCounting}}
 \page
 
 {{toc,wide
@@ -54,20 +61,14 @@ Version 2.0 | November 2025
 - ### [{{ Appendix: Legal Information}}{{ 78}}](#p78)
 }}
 
+
+{{skipCounting}}
+{{footnote Tirvandor Player's Guide}}
 \page
 
 
-\page
-
-
-\page
-
-{{wide
 # INTRODUCTION
-}}
 
-
----
 
 ## ABOUT THIS HANDBOOK
 
@@ -93,7 +94,6 @@ Welcome to **Tirvandor**, a world of political intrigue, moral complexity, and m
 
 This book provides the character creation rules. For the complete D&D 5e gameplay rules, refer to the official D&D Basic Rules (available free online) or the official Player's Handbook.
 
----
 
 ## HOW TO USE THIS BOOK
 
@@ -151,7 +151,10 @@ Many players prefer digital character sheets and dice rollers. Popular options i
 
 Your Dungeon Master will let you know which tools your group uses.
 
----
+{{pageNumber,auto}}
+{{footnote Introduction}}
+\page
+
 
 ## ABOUT TIRVANDOR
 
@@ -222,11 +225,8 @@ Need world context first? Skip to Chapter 11 (World Primer) to learn about Tirva
 
 Welcome to Tirvandor. Your choices matter. Your story begins now.
 
----
--e 
-\page
-
-
+{{pageNumber,auto}}
+{{footnote Introduction}}
 \page
 
 {{wide
@@ -316,6 +316,10 @@ Much of what your character does depends on six abilities:
 **Wisdom (WIS):** Awareness and intuition  
 **Charisma (CHA):** Force of personality  
 
+{{pageNumber,auto}}
+{{footnote Character Creation}}
+\page
+
 **Ability Score Summary:**
 
 | Score | Modifier | Description |
@@ -389,8 +393,6 @@ Then apply racial bonuses (Step 1).
 
 Then apply racial bonuses.
 
----
-
 
 #### METHOD 3: ROLLING
 
@@ -453,8 +455,9 @@ After determining base scores, add racial bonuses from your chosen race (Chapter
 - Dwarf bonus: +2 CON, +2 STR
 - Final: STR 17, DEX 12, CON 16, INT 8, WIS 13, CHA 10
 
----
-
+{{pageNumber,auto}}
+{{footnote Character Creation}}
+\page
 
 #### CALCULATING MODIFIERS
 
@@ -567,6 +570,9 @@ Each class (Chapter 3) provides starting equipment options.
 - 5d4 × 10 gp (average: 125 gp)
 - Buy equipment from Chapter 5
 
+{{pageNumber,auto}}
+{{footnote Character Creation}}
+\page
 
 #### ARMOR CLASS (AC)
 
@@ -689,12 +695,8 @@ When you gain a level:
    - Increase one ability by +2, or two abilities by +1 each
    - Or take a feat (Chapter 6, if DM allows)
 
----
-
--e 
-\page
-
-
+{{pageNumber,auto}}
+{{footnote Character Creation}}
 \page
 
 {{wide
@@ -719,7 +721,7 @@ Your character's race determines certain physical characteristics and natural ab
 **IN TIRVANDOR CONTEXT:**
 Each race also includes cultural notes about how they fit Tirvandor society. This affects roleplay but not mechanics.
 
----
+:
 
 ## HUMAN
 
@@ -728,7 +730,7 @@ Each race also includes cultural notes about how they fit Tirvandor society. Thi
 
 #### HUMAN TRAITS
 
-**Ability Score Increase:** Your ability scores each increase by 1.
+**Ability Score Increase:** Your ability scores each increase by 1. 
 
 **Age:** Humans reach adulthood in their late teens and live less than a century.
 
@@ -771,7 +773,11 @@ If your DM allows, you can use the following traits instead:
 - Define yourself by choices, not race
 - Most versatile option
 
----
+
+{{pageNumber,auto}}
+{{footnote Races}}
+\page
+
 
 ## DWARF
 
@@ -838,7 +844,11 @@ If your DM allows, you can use the following traits instead:
 - Cultural expectation of honor and craftsmanship
 - Value strength, skill, and gold
 
----
+
+{{pageNumber,auto}}
+{{footnote Races}}
+\page
+
 
 ## ELF
 
@@ -923,7 +933,11 @@ If your DM allows, you can use the following traits instead:
 - Rare in mercenary work (unusual career choice)
 - Magical aptitude respected in both nations
 
----
+
+{{pageNumber,auto}}
+{{footnote Races}}
+\page
+
 
 ## HALFLING
 
@@ -985,7 +999,10 @@ If your DM allows, you can use the following traits instead:
 - Friendly and disarming personality helps
 - Perfect for rogues, bards, and sneaky types
 
----
+
+{{pageNumber,auto}}
+{{footnote Races}}
+\page
 
 ## DRAGONBORN
 
@@ -1047,7 +1064,10 @@ If your DM allows, you can use the following traits instead:
 - Respected warriors in both Thaldros and Aethoria
 - Natural fit for paladins, fighters, sorcerers
 
----
+{{pageNumber,auto}}
+{{footnote Races}}
+\page
+
 
 ## GNOME
 
@@ -1115,7 +1135,9 @@ If your DM allows, you can use the following traits instead:
 - Gnome cunning makes you hard to magically manipulate
 - Perfect for wizards, artificers, rogues
 
----
+{{pageNumber,auto}}
+{{footnote Races}}
+\page
 
 ## HALF-ELF
 
@@ -1161,7 +1183,9 @@ If your DM allows, you can use the following traits instead:
 - Perfect for bards, paladins, sorcerers, warlocks
 - Great "face" characters
 
----
+{{pageNumber,auto}}
+{{footnote Races}}
+\page
 
 ## HALF-ORC
 
@@ -1209,7 +1233,9 @@ If your DM allows, you can use the following traits instead:
 - Excellent combat abilities (relentless endurance, savage attacks)
 - Perfect for barbarians, fighters, any strength build
 
----
+{{pageNumber,auto}}
+{{footnote Races}}
+\page
 
 ## TIEFLING
 
@@ -1258,22 +1284,8 @@ If your DM allows, you can use the following traits instead:
 - Perfect for warlocks, sorcerers, rogues
 - Great for "outsider" characters in Blood & Coin
 
----
-
-## RACIAL FEAT PREREQUISITES
-
-Some feats (Chapter 6) require specific races. This is noted in the feat description.
-
----
-
--e 
-\page
-
-
-\page
-
-{{wide
-
+{{pageNumber,auto}}
+{{footnote Races}}
 \page
 
 # CHAPTER 3: CLASSES
@@ -1315,7 +1327,10 @@ Your class is the most important decision you make about your character, definin
 | **Warlock** | Charisma | Wis & Cha | d8 |
 | **Wizard** | Intelligence | Int & Wis | d6 |
 
----
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 
 ## BARBARIAN
 
@@ -1345,7 +1360,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - An explorer's pack and four javelins
 
 **Alternative:** Roll 2d4 × 10 gp and purchase starting equipment.
-
+{{wide
 ### **THE BARBARIAN TABLE**
 
 | Level | Proficiency Bonus | Features | Rages | Rage Damage |
@@ -1370,7 +1385,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th | +6 | Indomitable Might | 6 | +4 |
 | 19th | +6 | Ability Score Improvement | 6 | +4 |
 | 20th | +6 | Primal Champion | Unlimited | +4 |
-
+}}
 ### **RAGE**
 
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
@@ -1389,6 +1404,10 @@ Once you have raged the number of times shown for your barbarian level in the Ra
 ### **UNARMORED DEFENSE**
 
 While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **RECKLESS ATTACK (2ND LEVEL)**
 
@@ -1454,13 +1473,17 @@ At 20th level, you embody the power of the wilds. Your Strength and Constitution
 
 For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood.
 
-**Frenzy (3rd Level)**
+**Frenzy (3rd Level)** 
 
 Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion.
 
 **Mindless Rage (6th Level)**
 
 Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Intimidating Presence (10th Level)**
 
@@ -1524,8 +1547,9 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 - **Blood & Coin:** Intimidating mercenary, enforcer
 - **Shattered Oaths:** Mighty warrior defending homeland
 
----
-
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 ## FIGHTER
 
 *A master of martial combat, skilled with a variety of weapons and armor*
@@ -1555,7 +1579,7 @@ You start with the following equipment:
 - (a) a dungeoneer's pack or (b) an explorer's pack
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
-
+{{wide
 ### **THE FIGHTER TABLE**
 
 | Level | Proficiency Bonus | Features |
@@ -1580,6 +1604,7 @@ You start with the following equipment:
 | 18th | +6 | Martial Archetype feature |
 | 19th | +6 | Ability Score Improvement |
 | 20th | +6 | Extra Attack (3) |
+}}
 
 ### **FIGHTING STYLE (1ST LEVEL)**
 
@@ -1602,6 +1627,10 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **ACTION SURGE (2ND LEVEL)**
 
@@ -1677,6 +1706,10 @@ When you choose this archetype at 3rd level, you learn maneuvers that are fueled
 
 At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Know Your Enemy (7th Level)**
 
 Starting at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
@@ -1727,6 +1760,10 @@ The maneuvers are presented in alphabetical order.
 **Riposte:** When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
 
 **Sweeping Attack:** When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Trip Attack:** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
 
@@ -1792,7 +1829,9 @@ Starting at 18th level, when you use your action to cast a spell, you can make o
 - **Blood & Coin:** Excellent (professional mercenary archetype)
 - **Shattered Oaths:** Excellent (skilled warrior hero)
 
----
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ## ROGUE
 
@@ -1823,7 +1862,7 @@ You start with the following equipment:
 - Leather armor, two daggers, and thieves' tools
 
 **Alternative:** Roll 4d4 × 10 gp and purchase starting equipment.
-
+{{wide
 ### **THE ROGUE TABLE**
 
 | Level | Proficiency Bonus | Sneak Attack | Features |
@@ -1848,6 +1887,7 @@ You start with the following equipment:
 | 18th | +6 | 9d6 | Elusive |
 | 19th | +6 | 10d6 | Ability Score Improvement |
 | 20th | +6 | 10d6 | Stroke of Luck |
+}}
 
 ### **EXPERTISE**
 
@@ -1862,6 +1902,10 @@ Beginning at 1st level, you know how to strike subtly and exploit a foe's distra
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **THIEVES' CANT**
 
@@ -1935,6 +1979,10 @@ Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you 
 
 By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Thief's Reflexes (17th Level)**
 
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
@@ -2003,6 +2051,10 @@ Starting at 9th level, if you are hidden from a creature when you cast a spell o
 
 At 13th level, you gain the ability to distract targets with your *mage hand*. As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Spell Thief (17th Level)**
 
 At 17th level, you gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
@@ -2030,12 +2082,9 @@ Once you use this feature, you can't use it again until you finish a long rest.
 - **Blood & Coin:** Excellent (infiltration, investigation, espionage)
 - **Shattered Oaths:** Good (scout, spy for heroic cause)
 
----
-
-
-
----
-
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 The following classes are presented with full SRD mechanics. All mechanics are from the D&D 5e System Reference Document under the Open Game License.
 
@@ -2072,7 +2121,7 @@ You start with the following equipment:
 - Leather armor and a dagger
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
-
+{{wide
 ### **THE BARD TABLE**
 
 | Level | Proficiency | Features | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -2097,7 +2146,7 @@ You start with the following equipment:
 | 18th | +6 | Magical Secrets | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Superior Inspiration | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-
+}}
 ### **SPELLCASTING**
 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. See chapter 7 for the general rules of spellcasting and chapter 8 for the bard spell list.
@@ -2119,6 +2168,10 @@ You know four 1st-level spells of your choice from the bard spell list.
 The Spells Known column of the Bard table shows when you learn more bard spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
 Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Spellcasting Ability**
 
@@ -2186,6 +2239,10 @@ The chosen spells count as bard spells for you and are included in the number in
 
 You learn two additional spells from any class at 14th level and again at 18th level.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### **SUPERIOR INSPIRATION (20TH LEVEL)**
 
 At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
@@ -2229,7 +2286,9 @@ Starting at 14th level, when you make an ability check, you can expend one use o
 - **Blood & Coin:** Excellent (social manipulation, intel gathering, versatility)
 - **Shattered Oaths:** Excellent (inspiring heroes, rallying troops)
 
----
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ## CLERIC
 
@@ -2261,7 +2320,7 @@ You start with the following equipment:
 - A shield and a holy symbol
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
-
+{{wide
 ### **THE CLERIC TABLE**
 
 | Level | Proficiency | Features | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -2286,7 +2345,7 @@ You start with the following equipment:
 | 18th | +6 | Channel Divinity (3/rest) | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Divine Intervention improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-
+}}
 ### **SPELLCASTING**
 
 As a conduit for divine power, you can cast cleric spells. See chapter 7 for the general rules of spellcasting and chapter 8 for the cleric spell list.
@@ -2302,6 +2361,10 @@ The Cleric table shows how many spell slots you have to cast your spells of 1st 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
 For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -2375,6 +2438,10 @@ If your deity intervenes, you can't use this feature again for 7 days. Otherwise
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### **LIFE DOMAIN**
 
 The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.
@@ -2446,7 +2513,9 @@ In Tirvandor, clerics serve one of the Seven Ascended (see Appendix A):
 - **Blood & Coin:** Good (healer, moral compass in grey world)
 - **Shattered Oaths:** Excellent (divine champion, crusader)
 
----
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ## DRUID
 
@@ -2476,7 +2545,7 @@ You start with the following equipment:
 - Leather armor, an explorer's pack, and a druidic focus
 
 **Alternative:** Roll 2d4 × 10 gp and purchase starting equipment.
-
+{{wide
 ### **THE DRUID TABLE**
 
 | Level | Proficiency | Features | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -2501,7 +2570,7 @@ You start with the following equipment:
 | 18th | +6 | Timeless Body, Beast Spells | 4 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Archdruid | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-
+}}
 ### **DRUIDIC**
 
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
@@ -2519,6 +2588,10 @@ At 1st level, you know two cantrips of your choice from the druid spell list. Yo
 The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
@@ -2567,6 +2640,10 @@ While you are transformed, the following rules apply:
 ### **DRUID CIRCLE (2ND LEVEL)**
 
 At 2nd level, you choose to identify with a circle of druids, such as the Circle of the Land. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
 
@@ -2662,6 +2739,10 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th | *freedom of movement*, *locate creature* |
 | 9th | *insect plague*, *scrying* |
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Land's Stride (6th Level)**
 
 Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
@@ -2704,8 +2785,9 @@ The creature is aware of this effect before it makes its attack against you.
 - **Blood & Coin:** Challenging (nature vs urban political intrigue)
 - **Shattered Oaths:** Good (nature defender, protector of wild places)
 
----
-
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 ## MONK
 
 *A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection*
@@ -2734,7 +2816,7 @@ You start with the following equipment:
 - 10 darts
 
 **Alternative:** Roll 5d4 gp and purchase starting equipment.
-
+{{wide
 ### **THE MONK TABLE**
 
 | Level | Proficiency | Martial Arts | Ki Points | Unarmored Movement | Features |
@@ -2759,6 +2841,7 @@ You start with the following equipment:
 | 18th | +6 | 1d10 | 18 | +30 ft. | Empty Body |
 | 19th | +6 | 1d10 | 19 | +30 ft. | Ability Score Improvement |
 | 20th | +6 | 1d10 | 20 | +30 ft. | Perfect Self |
+}}
 
 ### **UNARMORED DEFENSE**
 
@@ -2773,6 +2856,10 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
 - You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
 - When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **KI (2ND LEVEL)**
 
@@ -2837,6 +2924,10 @@ Starting at 6th level, your unarmed strikes count as magical for the purpose of 
 ### **EVASION (7TH LEVEL)**
 
 At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a *fireball* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **STILLNESS OF MIND (7TH LEVEL)**
 
@@ -2914,6 +3005,10 @@ You can have only one creature under the effect of this feature at a time. You c
 - Located in northern mountain ranges
 - Accept students rarely and only after trials
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **In Tirvandor:**
 - **Thaldros:** Rare, viewed with suspicion (foreign martial arts)
 - **Aethoria:** Rare, respected as philosophers and warriors
@@ -2923,7 +3018,9 @@ You can have only one creature under the effect of this feature at a time. You c
 - **Blood & Coin:** Challenging (discipline vs grey morality, but can work as bodyguard)
 - **Shattered Oaths:** Good (disciplined hero, martial arts master)
 
----
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ## PALADIN
 
@@ -2954,7 +3051,7 @@ You start with the following equipment:
 - Chain mail and a holy symbol
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
-
+{{wide
 ### **THE PALADIN TABLE**
 
 | Level | Proficiency | Features | 1st | 2nd | 3rd | 4th | 5th |
@@ -2979,13 +3076,14 @@ You start with the following equipment:
 | 18th | +6 | Aura improvements | 4 | 3 | 3 | 3 | 1 |
 | 19th | +6 | Ability Score Improvement | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Sacred Oath feature | 4 | 3 | 3 | 3 | 2 |
+}}
 
 ### **DIVINE SENSE**
 
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
-
+\column
 ### **LAY ON HANDS**
 
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
@@ -2995,6 +3093,10 @@ As an action, you can touch a creature and draw power from the pool to restore a
 Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
 
 This feature has no effect on undead and constructs.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **FIGHTING STYLE (2ND LEVEL)**
 
@@ -3061,6 +3163,10 @@ Your oath allows you to channel divine energy to fuel magical effects. Each Chan
 When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.
 
 Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
 
@@ -3134,6 +3240,10 @@ You can end this effect on your turn as part of any other action. If you are no 
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Aura of Devotion (7th Level)**
 
 Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious.
@@ -3183,7 +3293,9 @@ Paladins in Tirvandor swear oaths inspired by (but not directly to) the Ascended
 - **Blood & Coin:** Challenging but very rewarding (oath vs grey reality creates drama)
 - **Shattered Oaths:** Excellent (classic holy warrior, oath tested by darkness)
 
----
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ## RANGER
 
@@ -3214,7 +3326,7 @@ You start with the following equipment:
 - A longbow and a quiver of 20 arrows
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
-
+{{wide
 ### **THE RANGER TABLE**
 
 | Level | Proficiency | Features | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
@@ -3239,7 +3351,7 @@ You start with the following equipment:
 | 18th | +6 | Feral Senses | 10 | 4 | 3 | 3 | 3 | 1 |
 | 19th | +6 | Ability Score Improvement | 11 | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Foe Slayer | 11 | 4 | 3 | 3 | 3 | 2 |
-
+}}
 ### **FAVORED ENEMY**
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
@@ -3255,6 +3367,10 @@ You choose one additional favored enemy, as well as an associated language, at 6
 ### **NATURAL EXPLORER**
 
 You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
 
@@ -3320,6 +3436,10 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 ### **EXTRA ATTACK (5TH LEVEL)**
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **LAND'S STRIDE (8TH LEVEL)**
 
@@ -3389,6 +3509,10 @@ At 15th level, you gain one of the following features of your choice.
 
 **Uncanny Dodge.** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### **RANGERS IN TIRVANDOR**
 
 **Origin:** Wilderness scouts, border patrol, trackers, bounty hunters
@@ -3421,7 +3545,9 @@ At 15th level, you gain one of the following features of your choice.
 - **Blood & Coin:** Excellent (tracker, bounty hunter, scout for hire)
 - **Shattered Oaths:** Excellent (wilderness defender, guerrilla fighter)
 
----
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ## SORCERER
 
@@ -3452,7 +3578,7 @@ You start with the following equipment:
 - Two daggers
 
 **Alternative:** Roll 3d4 × 10 gp and purchase starting equipment.
-
+{{wide
 ### **THE SORCERER TABLE**
 
 | Level | Proficiency | Sorcery Points | Features | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -3477,6 +3603,7 @@ You start with the following equipment:
 | 18th | +6 | 18 | Sorcerous Origin feature | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | 19 | Ability Score Improvement | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | 20 | Sorcerous Restoration | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+}}
 
 ### **SPELLCASTING**
 
@@ -3497,6 +3624,10 @@ You know two 1st-level spells of your choice from the sorcerer spell list.
 The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots.
 
 Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Spellcasting Ability**
 
@@ -3588,6 +3719,10 @@ When you cast a spell that targets only one creature and doesn't have a range of
 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -3666,7 +3801,9 @@ Beginning at 18th level, you can channel the dread presence of your dragon ances
 - **Blood & Coin:** Excellent (raw magical power, flexible spellcasting, dramatic)
 - **Shattered Oaths:** Excellent (chosen one potential, destiny themes)
 
----
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ## WARLOCK
 
@@ -3697,7 +3834,7 @@ You start with the following equipment:
 - Leather armor, any simple weapon, and two daggers
 
 **Alternative:** Roll 4d4 × 10 gp and purchase starting equipment.
-
+{{wide
 ### **THE WARLOCK TABLE**
 
 | Level | Proficiency | Features | Cantrips | Spells Known | Spell Slots | Slot Level | Invocations Known |
@@ -3722,6 +3859,7 @@ You start with the following equipment:
 | 18th | +6 | — | 4 | 14 | 4 | 5th | 8 |
 | 19th | +6 | Ability Score Improvement | 4 | 15 | 4 | 5th | 8 |
 | 20th | +6 | Eldritch Master | 4 | 15 | 4 | 5th | 8 |
+}}
 
 ### **OTHERWORLDLY PATRON**
 
@@ -3746,6 +3884,10 @@ At 1st level, you know two 1st-level spells of your choice from the warlock spel
 The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher.
 
 Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Spellcasting Ability**
 
@@ -3828,6 +3970,10 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 | 4th | *fire shield*, *wall of fire* |
 | 5th | *flame strike*, *hallow* |
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Dark One's Blessing (1st Level)**
 
 Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).
@@ -3880,7 +4026,9 @@ All patron types exist but are controversial:
 - **Blood & Coin:** Excellent (morally grey power, flexible, pact creates drama)
 - **Shattered Oaths:** Good (requires explanation of pact, oath vs pact tension)
 
----
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ## WIZARD
 
@@ -3911,7 +4059,7 @@ You start with the following equipment:
 - A spellbook
 
 **Alternative:** Roll 4d4 × 10 gp and purchase starting equipment.
-
+{{wide
 ### **THE WIZARD TABLE**
 
 | Level | Proficiency | Features | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -3936,6 +4084,7 @@ You start with the following equipment:
 | 18th | +6 | Spell Mastery | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Signature Spells | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+}}
 
 ### **SPELLCASTING**
 
@@ -3954,6 +4103,10 @@ At 1st level, you have a spellbook containing six 1st-level wizard spells of you
 The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell *magic missile*, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
@@ -4006,6 +4159,10 @@ For example, if you're a 4th-level wizard, you can recover up to two levels wort
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools, such as Evocation.
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **ABILITY SCORE IMPROVEMENT (4TH, 8TH, 12TH, 16TH, 19TH LEVEL)**
 
@@ -4075,6 +4232,10 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
   - Traveling scholars
   - No formal regulation
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **The Eight Schools of Magic:**
 
 All eight schools exist in Tirvandor academies:
@@ -4104,13 +4265,12 @@ All eight schools exist in Tirvandor academies:
 - **Blood & Coin:** Excellent (knowledge, planning, research, versatility)
 - **Shattered Oaths:** Excellent (classic archmage, scholarly hero)
 
----
-
-
+{{pageNumber,auto}}
+{{footnote Classes}}
 \page
 
 # CHAPTER 4: PERSONALITY & BACKGROUND
-}}
+
 
 
 ## CHARACTER DETAILS
@@ -7402,15 +7562,14 @@ If any provision of this License is held to be unenforceable, such provision sha
 \page
 
 {{backCover,wide}}
+Tirvandor Player's Guide: Adventuring in the Sundered Realms
 
-# Tirvandor Player's Handbook
-
+:
 Create heroes for a world where every choice matters.
-
 ___
-
+:
 **Tirvandor** is a realm where magic flows through ancient ley lines, political intrigue shapes nations, and moral complexity defines every conflict. This handbook provides everything you need to create characters for campaigns in this rich setting.
-
+:
 **Inside you'll find:**
 - Complete character creation rules
 - All races adapted for Tirvandor's cultures
@@ -7418,6 +7577,6 @@ ___
 - New spells drawing on ley line magic
 - Player-safe world information
 
+:
 Whether you're joining the morally grey mercenary world of **Blood & Coin** or the heroic struggle of **Shattered Oaths**, this handbook has the tools you need.
-
-![background](/assets/naturalCrit/phb_stuff/phb_back_cover.jpg){position:absolute,bottom:0,left:0,height:100%}
+{{/backCover}}
