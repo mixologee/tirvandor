@@ -4368,7 +4368,1149 @@ Inspiration is a rule your DM can use to reward you for playing your character i
 When you have inspiration, you can spend it to gain advantage on one ability check, attack roll, or saving throw. You either have inspiration or you don't - you can't stockpile multiple inspirations.
 
 {{pageNumber,auto}}
-{{footnote Backgrounds}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+## Tirvandor Custom Backgrounds
+
+The following backgrounds are designed specifically for the world of Tirvandor. They reflect the ongoing conflict between Thaldros and Aethoria, the lawless Contested Lands, and the unique magical and political landscape of this world.
+
+Each background includes skill proficiencies, tool proficiencies or languages, starting equipment, a special feature, and personality tables to help bring your character to life.
+
+
+## Mercenary Veteran
+
+You are a professional soldier for hire. War is your business, and business has been good—or at least it used to be. Whether you fought in national armies before going freelance or have always sold your sword to the highest bidder, you know combat and contracts intimately.
+
+**Skill Proficiencies:** Athletics, Intimidation
+**Tool Proficiencies:** One type of gaming set, vehicles (land)
+**Equipment:** An expired or completed mercenary contract, a gaming set of your choice, a set of common clothes, an insignia from a former company, and a belt pouch containing 10 gp
+
+### Feature: Mercenary Network
+
+You know how to find mercenary work wherever you go. You can locate mercenary companies, bounty boards, and people hiring fighters in any settlement of reasonable size. You recognize mercenary company insignias and understand their reputations. In the Border regions, you know how the Iron Guild reputation system works and can estimate someone's standing within it. Additionally, veterans of your former company will provide you with lodging and food if they're able.
+
+### Former Company
+
+| d8 | Former Company |
+|:--:|:---------------|
+| 1 | Iron Guild (prestigious, professional) |
+| 2 | Black Chains Company (corrupt, but well-paid) |
+| 3 | Thaldros Military (discharged or deserted) |
+| 4 | Aethoria Militia (fought for freedom) |
+| 5 | Border Patrol (neutral peacekeepers) |
+| 6 | Noble's House Guard (sworn to a lord) |
+| 7 | Small independent company (now disbanded) |
+| 8 | Naval or pirate crew (seafaring sellsword) |
+
+\column
+
+### Suggested Characteristics
+
+Mercenary veterans are shaped by years of warfare and the pragmatic realities of selling their skills to survive.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I'm haunted by memories of war. I can't get the images out of my mind. |
+| 2 | I've lost too many friends, and I'm slow to make new ones. |
+| 3 | I'm full of inspiring and cautionary tales from my military experience. |
+| 4 | I can stare down a hell hound without flinching. |
+| 5 | I enjoy being strong and like breaking things. |
+| 6 | I have a crude sense of humor that helps me cope. |
+| 7 | I face problems head-on. A simple, direct solution is the best path forward. |
+| 8 | I always assess escape routes and defensive positions when entering a room. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Honor.** I never break a contract once I've given my word. (Lawful) |
+| 2 | **Freedom.** I sold my sword so I'd never have to take orders again. (Chaotic) |
+| 3 | **Pragmatism.** Gold is gold. I don't judge where it comes from. (Neutral) |
+| 4 | **Protection.** I fight so others don't have to. (Good) |
+| 5 | **Power.** In war, the strong survive. I intend to be strong. (Evil) |
+| 6 | **Professionalism.** I do the job right, every time, no excuses. (Any) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I would still lay down my life for my former squadmates. |
+| 2 | Someone saved my life on the battlefield. I owe them everything. |
+| 3 | My honor is my life—I'll never betray a contract. |
+| 4 | I fight for those who cannot fight for themselves. |
+| 5 | The company I served with was more family than my blood relatives. |
+| 6 | I'm searching for a comrade who went missing after our last battle. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I have little respect for anyone who hasn't proven themselves in combat. |
+| 2 | I made a terrible mistake in battle that cost many lives—I'd do anything to keep it secret. |
+| 3 | I'd rather eat my armor than admit when I'm wrong. |
+| 4 | I solve too many problems with violence when other solutions exist. |
+| 5 | I'm addicted to the thrill of combat and feel restless without it. |
+| 6 | I trust no one who hasn't bled beside me. |
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+## War Refugee
+
+The endless conflict between Thaldros and Aethoria has displaced you from your home. You've lost everything—family, livelihood, security—and are trying to rebuild your life in a world that often sees you as a burden or a threat. Survival is your constant priority.
+
+**Skill Proficiencies:** Survival, Stealth
+**Tool Proficiencies:** One type of artisan's tools
+**Languages:** One of your choice
+**Equipment:** Tattered clothes, a family heirloom (trinket), a worn blanket, and a belt pouch containing 5 gp
+
+### Feature: Sympathetic Ear
+
+Common folk relate to your suffering and are often willing to help. You can usually find temporary shelter and food from civilians who pity refugees, provided it doesn't put them in significant danger. However, authorities and nobles may view you with suspicion as a potential spy, criminal, or troublemaker.
+
+### What Did You Lose?
+
+| d8 | Loss |
+|:--:|:-----|
+| 1 | My entire family was killed in the war. |
+| 2 | My home and livelihood were destroyed in a raid. |
+| 3 | I was separated from my family. I don't know if they're alive. |
+| 4 | I was forced to fight for one side against my will. |
+| 5 | My village was caught in the crossfire between both armies. |
+| 6 | I fled persecution from one of the nations. |
+| 7 | I was enslaved or imprisoned and managed to escape. |
+| 8 | I witnessed atrocities that haunt my every waking moment. |
+
+### Suggested Characteristics
+
+War refugees are survivors shaped by loss and hardship, often displaying remarkable resilience alongside deep trauma.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I never waste anything—food, supplies, opportunities. |
+| 2 | I'm always watching for danger, even in safe places. |
+| 3 | I share what little I have with others who are suffering. |
+| 4 | I don't talk about my past unless absolutely necessary. |
+| 5 | I've learned to read people quickly—it's kept me alive. |
+| 6 | I find comfort in small routines and rituals from my old life. |
+| 7 | I'm fiercely protective of anyone I consider family now. |
+| 8 | I've developed a dark sense of humor about my situation. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Survival.** I'll do whatever it takes to see another sunrise. (Any) |
+| 2 | **Hope.** Things will get better. They have to. (Good) |
+| 3 | **Justice.** Those who caused this suffering must be held accountable. (Lawful) |
+| 4 | **Freedom.** No one will ever control my fate again. (Chaotic) |
+| 5 | **Community.** We refugees must look out for each other. (Good) |
+| 6 | **Vengeance.** I will make those who destroyed my life pay. (Evil) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I'm searching for family members who were separated from me. |
+| 2 | I carry a keepsake that's all I have left of my old life. |
+| 3 | I owe my life to the strangers who helped me escape. |
+| 4 | I've sworn to rebuild my home someday, no matter how long it takes. |
+| 5 | I've found a new family among fellow refugees. |
+| 6 | I know the location of something valuable hidden in my former home. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I steal from those who have plenty. They owe me. |
+| 2 | I don't trust anyone who hasn't suffered as I have. |
+| 3 | I'm ashamed of what I had to do to survive. |
+| 4 | I blame myself for not saving those I lost. |
+| 5 | I'm willing to betray anyone to ensure my own survival. |
+| 6 | I freeze up when reminded of my traumatic experiences. |
+
+## Border Trader
+
+You make your living in the neutral zones between nations, buying and selling goods that flow between Thaldros, Aethoria, and the Contested Lands. You know how to navigate the gray areas of commerce—legal, illegal, and everything in between.
+
+**Skill Proficiencies:** Persuasion, Insight
+**Tool Proficiencies:** One type of gaming set
+**Languages:** One of your choice
+**Equipment:** A merchant's scale, trade goods worth 15 gp, a set of common clothes, and a belt pouch containing 10 gp
+
+### Feature: Black Market Contacts
+
+You know how to find smugglers, fences, and gray market traders in most settlements. Given time (usually a day or two), you can locate sources for illegal or restricted goods, though acquiring them will cost more than legitimate merchandise. You also know the going rates for most goods and can tell when you're being cheated.
+
+### Trade Specialty
+
+| d6 | Specialty |
+|:--:|:----------|
+| 1 | Weapons and armor (always in demand during wartime) |
+| 2 | Medicine and alchemical supplies |
+| 3 | Information and secrets |
+| 4 | Luxury goods and contraband |
+| 5 | People (refugees, escaped prisoners, wanted criminals) |
+| 6 | Magical components and minor artifacts |
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+### Suggested Characteristics
+
+Border traders are shrewd, adaptable, and often morally flexible—qualities necessary for survival in their profession.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I always know the value of everything in a room. |
+| 2 | I never make a deal without knowing what the other party really wants. |
+| 3 | I keep my word in business—reputation is everything. |
+| 4 | I tell people what they want to hear to close the deal. |
+| 5 | I'm always looking for the next opportunity. |
+| 6 | I treat everyone as a potential customer or contact. |
+| 7 | I've learned that smiling costs nothing but pays dividends. |
+| 8 | I never discuss my own affairs, but I'm always interested in yours. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Profit.** Everything has a price, and I intend to profit. (Neutral) |
+| 2 | **Fairness.** A good deal benefits both parties equally. (Lawful) |
+| 3 | **Freedom.** Borders and laws are obstacles to opportunity. (Chaotic) |
+| 4 | **Community.** Trade connects people and builds prosperity. (Good) |
+| 5 | **Greed.** I'll take every advantage I can get. (Evil) |
+| 6 | **Independence.** I answer to no nation, no lord, only myself. (Any) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I'm building wealth to secure my family's future. |
+| 2 | A rival trader ruined me once. I'll return the favor. |
+| 3 | I owe a significant debt to a dangerous creditor. |
+| 4 | I discovered something during my travels that powerful people want. |
+| 5 | My trade network is my family—I protect my contacts. |
+| 6 | I'm searching for a legendary trade good said to be priceless. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I can't resist a deal, even when it's clearly too good to be true. |
+| 2 | I'll sell almost anything to the right buyer. |
+| 3 | I've made enemies by cheating the wrong people. |
+| 4 | I trust money more than people. |
+| 5 | I hoard wealth obsessively, even when I don't need to. |
+| 6 | I assume everyone is trying to swindle me. |
+
+## Political Exile
+
+You once held a position of influence or were connected to those who did, but political upheaval forced you to flee your homeland. Whether you were on the wrong side of a coup, spoke against tyranny, or simply knew too much, returning home means imprisonment or death.
+
+**Skill Proficiencies:** History, Persuasion
+**Tool Proficiencies:** Calligrapher's supplies
+**Languages:** Two of your choice
+**Equipment:** Forged identity papers, a set of fine clothes, a signet ring from your former life, and a belt pouch containing 15 gp
+
+### Feature: Political Knowledge
+
+You understand how governments work from the inside. You can navigate bureaucracy efficiently, know who to bribe and how much, and recognize political symbols, factions, and allegiances. You can usually identify who holds real power in a given situation, even when it's not the person with the official title.
+
+### Reason for Exile
+
+| d6 | Reason |
+|:--:|:-------|
+| 1 | I opposed the ruling regime too vocally. |
+| 2 | I was framed for a crime I didn't commit. |
+| 3 | My family fell from grace in a political purge. |
+| 4 | I know secrets that powerful people want buried. |
+| 5 | I supported the losing side in a power struggle. |
+| 6 | I fled rather than carry out an unconscionable order. |
+
+### Suggested Characteristics
+
+Political exiles are often educated and sophisticated, but carry the weight of lost status and the constant fear of discovery.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I speak carefully, always aware my words could be reported. |
+| 2 | I unconsciously expect deference that I no longer deserve. |
+| 3 | I analyze every situation for political implications. |
+| 4 | I'm fascinated by how different societies govern themselves. |
+| 5 | I keep my true opinions hidden behind a pleasant mask. |
+| 6 | I can't help but try to improve inefficient systems. |
+| 7 | I'm drawn to others who've lost everything, like me. |
+| 8 | I maintain the manners and habits of my former station. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Justice.** Those who abuse power must be held accountable. (Good) |
+| 2 | **Restoration.** I will reclaim what was taken from me. (Any) |
+| 3 | **Reform.** Systems can be changed from within. (Lawful) |
+| 4 | **Revolution.** Corrupt institutions must be torn down. (Chaotic) |
+| 5 | **Survival.** Principles are luxuries I can no longer afford. (Neutral) |
+| 6 | **Revenge.** My enemies will suffer as I have suffered. (Evil) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I left family behind who are now hostages to my good behavior. |
+| 2 | I carry documents that could change the political landscape. |
+| 3 | Fellow exiles are the only people I can truly trust. |
+| 4 | I'm secretly working with resistance movements back home. |
+| 5 | Someone helped me escape, and I owe them my life. |
+| 6 | I know the location of my family's hidden wealth. |
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I'm bitter about my fall from grace and it shows. |
+| 2 | I trust no one with my true identity. |
+| 3 | I look down on those I consider beneath my former station. |
+| 4 | I'm paralyzed by fear of being discovered. |
+| 5 | I can't let go of grudges, no matter how petty. |
+| 6 | I'll do almost anything to regain my former status. |
+
+## Spy
+
+You served—or perhaps still serve—as an intelligence operative for a nation, faction, or private interest. You learned to gather information, maintain cover identities, and operate in the shadows. Whether you're retired, burned, or still active, the skills remain.
+
+**Skill Proficiencies:** Deception, Stealth
+**Tool Proficiencies:** Disguise kit, one type of gaming set
+**Equipment:** A disguise kit, two sets of identity papers (one real, one forged), a set of common clothes, and a belt pouch containing 15 gp
+
+### Feature: Cover Identity
+
+You have an established cover identity, complete with documentation, a fabricated history, and contacts who believe that identity is real. Changing to a new cover identity requires approximately one week of preparation and appropriate resources. You also know how to make contact with other intelligence operatives, though they may not be friendly.
+
+### Former Employer
+
+| d6 | Employer |
+|:--:|:---------|
+| 1 | Thaldros State Inquisition |
+| 2 | Aethoria Resistance Intelligence |
+| 3 | Iron Guild Information Network |
+| 4 | Thornwood Syndicate |
+| 5 | A noble house's private intelligence service |
+| 6 | The Silver Circle (monitoring magical threats) |
+
+### Suggested Characteristics
+
+Spies are masters of deception who often struggle to remember who they truly are beneath all the masks they wear.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I automatically memorize exits, guard positions, and escape routes. |
+| 2 | I have a different personality for every cover identity. |
+| 3 | I never sit with my back to a door. |
+| 4 | I reveal personal information only when it serves a purpose. |
+| 5 | I study everyone I meet, cataloging their weaknesses. |
+| 6 | I'm genuinely interested in people—they're endlessly fascinating. |
+| 7 | I lie so naturally that I sometimes forget I'm doing it. |
+| 8 | I test people constantly to see if they can be trusted. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Loyalty.** I serve my cause faithfully, whatever the cost. (Lawful) |
+| 2 | **Independence.** I work for myself now—no more masters. (Chaotic) |
+| 3 | **Greater Good.** The information I gather saves lives. (Good) |
+| 4 | **Professionalism.** The mission is all that matters. (Neutral) |
+| 5 | **Power.** Information is power, and I intend to have plenty. (Evil) |
+| 6 | **Truth.** Lies are tools, but truth is the goal. (Any) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I'm still loyal to my original handler or agency. |
+| 2 | I discovered something during a mission that I can't let go. |
+| 3 | A fellow operative saved my life; I'd do anything for them. |
+| 4 | I'm hunted by a former employer who considers me a liability. |
+| 5 | I fell in love with someone while undercover. It complicated everything. |
+| 6 | I know the identity of a highly placed mole or traitor. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I trust no one completely—not even myself. |
+| 2 | I've worn so many masks I've lost track of who I really am. |
+| 3 | I see conspiracies and hidden agendas everywhere. |
+| 4 | I can't stop gathering information, even when it's dangerous. |
+| 5 | I've done terrible things in service to my mission. |
+| 6 | I'm addicted to the thrill of deception and manipulation. |
+
+## Ley Line Scholar
+
+You have devoted your life to studying the magical ley lines that crisscross Tirvandor. Whether through formal education at an academy or years of independent research, you understand these rivers of arcane energy better than most—and you've seen hints of their true power and danger.
+
+**Skill Proficiencies:** Arcana, Investigation
+**Tool Proficiencies:** Cartographer's tools
+**Languages:** One of your choice (often Draconic or Primordial)
+**Equipment:** A journal filled with ley line observations, cartographer's tools, a small piece of crystal that glows faintly near ley lines, a set of scholar's robes, and a belt pouch containing 10 gp
+
+### Feature: Ley Line Sensitivity
+
+You can sense when you're near a ley line or ley node, and you can identify areas where magical energy has been disturbed or corrupted. Given time to study an area (about an hour), you can map the approximate flow of ley energy and identify any unusual concentrations or anomalies.
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+### Research Focus
+
+| d6 | Focus |
+|:--:|:------|
+| 1 | The relationship between ley lines and the Worldrend |
+| 2 | How to safely tap ley line energy for spellcasting |
+| 3 | Ancient structures built on ley nodes |
+| 4 | Corruption and disease in ley lines |
+| 5 | The origin of ley lines and their connection to the Primordials |
+| 6 | Predicting magical phenomena based on ley line fluctuations |
+
+### Suggested Characteristics
+
+Ley line scholars are driven by curiosity about the fundamental nature of magic, often to the exclusion of more practical concerns.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I get distracted whenever I sense magical energy nearby. |
+| 2 | I explain complex magical theory to anyone who'll listen. |
+| 3 | I take detailed notes on everything—you never know what's important. |
+| 4 | I'm convinced that ley lines hold the answers to great mysteries. |
+| 5 | I'm more comfortable with books and theories than with people. |
+| 6 | I have strong opinions about other scholars' inferior methodologies. |
+| 7 | I collect samples, readings, and data obsessively. |
+| 8 | I speak about ley lines as if they were living things. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Knowledge.** Understanding ley lines will unlock magical secrets. (Neutral) |
+| 2 | **Protection.** This power must be safeguarded from misuse. (Good) |
+| 3 | **Discovery.** There's so much we don't know—I must learn more. (Any) |
+| 4 | **Power.** Whoever controls the ley lines controls magic itself. (Evil) |
+| 5 | **Order.** Ley line magic must be regulated and standardized. (Lawful) |
+| 6 | **Freedom.** Knowledge should be shared, not hoarded. (Chaotic) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | My mentor disappeared while researching a dangerous ley node. |
+| 2 | I discovered something about the ley lines that frightens me. |
+| 3 | I'm searching for a legendary ley nexus said to grant immense power. |
+| 4 | The Silver Circle has taken interest in my research. |
+| 5 | I accidentally caused a ley line disruption that hurt people. |
+| 6 | My research notes were stolen, and I must recover them. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I value knowledge over people's safety, including my own. |
+| 2 | I dismiss any theory that contradicts my research. |
+| 3 | I'm so focused on ley lines that I neglect other responsibilities. |
+| 4 | I've experimented with dangerous ley line magic. |
+| 5 | I look down on those who don't understand magical theory. |
+| 6 | I'm obsessed with a discovery that might not even be possible. |
+
+## Thaldros Deserter
+
+You served in the military forces of Thaldros—perhaps the regular army, the Iron Legion, or even the dreaded State Inquisition. But something happened that made you abandon your post. Now you're a wanted criminal in your homeland, hunted by the regime you once served.
+
+**Skill Proficiencies:** Athletics, Survival
+**Tool Proficiencies:** Vehicles (land), one type of gaming set
+**Equipment:** A Thaldros military uniform (hidden), a forged travel pass, a set of common clothes, and a belt pouch containing 10 gp
+
+### Feature: Military Training
+
+You know Thaldros military protocols, command structures, and tactics. You can identify Thaldros military units by their insignias and estimate their capabilities. You also know how Thaldros military checkpoints and patrols operate, giving you advantage on attempts to avoid or deceive them.
+
+### Reason for Desertion
+
+| d6 | Reason |
+|:--:|:-------|
+| 1 | I refused to carry out an order that violated my conscience. |
+| 2 | I witnessed war crimes and knew I'd be silenced if I reported them. |
+| 3 | I was going to be executed for a crime I didn't commit. |
+| 4 | I fell in love with someone on the "wrong" side. |
+| 5 | I learned a terrible truth about the regime I served. |
+| 6 | I simply couldn't kill anymore. |
+
+### Suggested Characteristics
+
+Deserters are haunted by their past and constantly looking over their shoulders, but many have found a moral clarity they lacked while in service.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I wake at the slightest sound—old habits die hard. |
+| 2 | I avoid talking about my past in Thaldros. |
+| 3 | I'm uncomfortable around authority figures. |
+| 4 | I still maintain military discipline in my personal habits. |
+| 5 | I'm drawn to helping others escape oppressive situations. |
+| 6 | I struggle with guilt over things I did while serving. |
+| 7 | I use dark humor to cope with my experiences. |
+| 8 | I'm always planning my next escape route. |
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Redemption.** I must atone for what I did in Thaldros's name. (Good) |
+| 2 | **Freedom.** I'll never take orders from tyrants again. (Chaotic) |
+| 3 | **Justice.** The Thaldros regime must answer for its crimes. (Lawful) |
+| 4 | **Survival.** I did what I had to do, and I'll keep doing it. (Neutral) |
+| 5 | **Revenge.** The officers who wronged me will pay. (Evil) |
+| 6 | **Protection.** I'll defend others from what I once inflicted. (Good) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I left comrades behind who might still be saved. |
+| 2 | I carry evidence of Thaldros war crimes. |
+| 3 | Someone in Thaldros is protecting my family, and I can't endanger them. |
+| 4 | A fellow deserter and I look out for each other. |
+| 5 | I'm searching for a superior officer who ordered atrocities. |
+| 6 | I know the location of a hidden Thaldros supply cache. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I flinch when I see Thaldros uniforms. |
+| 2 | I'm paranoid that Thaldros agents are always watching. |
+| 3 | I sometimes fall back on brutal military solutions. |
+| 4 | I don't trust anyone from Thaldros, even other deserters. |
+| 5 | I hate myself for the things I did while serving. |
+| 6 | I'm reckless because part of me thinks I deserve to be caught. |
+
+## Aethorian Revolutionary
+
+You fought for Aethoria's ideals of freedom and democracy—perhaps in the resistance against Thaldros occupation, or in the ongoing political struggles within Aethoria itself. You believe in the cause, even when the reality of revolution proves messier than the ideals.
+
+**Skill Proficiencies:** Persuasion, Stealth
+**Tool Proficiencies:** Disguise kit
+**Languages:** One of your choice
+**Equipment:** A pamphlet or manifesto you helped write or distribute, a disguise kit, a set of common clothes, a symbol of your revolutionary cell, and a belt pouch containing 10 gp
+
+### Feature: Revolutionary Network
+
+You have contacts within Aethoria's resistance movements and democratic activists. You can usually find safe houses, sympathizers, and resources in areas where revolutionary sentiment exists. Fellow revolutionaries will help you if they can, though they may ask for help in return.
+\column
+### Revolutionary Role
+
+| d6 | Role |
+|:--:|:-----|
+| 1 | Propagandist (writer, speaker, pamphleteer) |
+| 2 | Saboteur (disrupting enemy operations) |
+| 3 | Smuggler (moving people and supplies) |
+| 4 | Fighter (direct action and combat) |
+| 5 | Spy (infiltrating enemy organizations) |
+| 6 | Organizer (building networks and cells) |
+
+### Suggested Characteristics
+
+Revolutionaries are passionate believers in their cause, though they often struggle with the moral compromises that political violence requires.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I can turn any conversation toward politics and injustice. |
+| 2 | I judge people by their commitment to freedom and equality. |
+| 3 | I see oppression everywhere—because it is everywhere. |
+| 4 | I inspire others with my passion for the cause. |
+| 5 | I'm suspicious of anyone with too much power or wealth. |
+| 6 | I've learned to live simply and share what I have. |
+| 7 | I use revolutionary slogans and rhetoric constantly. |
+| 8 | I remember every comrade who fell for the cause. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Freedom.** All people deserve to live free from tyranny. (Chaotic) |
+| 2 | **Equality.** No one should be above or below another. (Good) |
+| 3 | **Justice.** The oppressors must face consequences. (Lawful) |
+| 4 | **Victory.** The cause justifies whatever methods are necessary. (Neutral) |
+| 5 | **Power.** Once we win, I'll make sure we stay in charge. (Evil) |
+| 6 | **Democracy.** The people must decide their own fate. (Any) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I lost someone I loved to Thaldros oppression. |
+| 2 | My revolutionary cell is my family now. |
+| 3 | I'm searching for a legendary revolutionary leader. |
+| 4 | I promised a dying comrade I'd see the revolution succeed. |
+| 5 | I know the identity of a traitor in our movement. |
+| 6 | There's a particular Thaldros official I've sworn to bring down. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I see enemies of the revolution everywhere—including among allies. |
+| 2 | I've done terrible things in the name of the cause. |
+| 3 | I can't compromise, even when it would help our goals. |
+| 4 | I prioritize the cause over individual people, including friends. |
+| 5 | I'm addicted to the camaraderie and excitement of revolutionary life. |
+| 6 | I've become what I hate—ruthless and uncompromising. |
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+## Thornwood Syndicate Operative
+
+The Thornwood Syndicate is the largest criminal organization operating in Tirvandor's underworld, with roots in the Contested Lands and branches in every major city. You worked for them—perhaps willingly, perhaps not—and learned the ways of organized crime.
+
+**Skill Proficiencies:** Deception, Intimidation
+**Tool Proficiencies:** Thieves' tools, one type of gaming set
+**Equipment:** A set of dark common clothes, thieves' tools, a Syndicate token (for identifying yourself to other members), and a belt pouch containing 15 gp
+
+### Feature: Criminal Connections
+
+You know how to contact the Thornwood Syndicate in most major settlements, and they'll deal with you as a professional (though not necessarily as a friend). You can fence stolen goods, acquire illegal items, and find black market services. However, the Syndicate has a long memory—they remember both favors and debts.
+
+### Syndicate Role
+
+| d6 | Role |
+|:--:|:-----|
+| 1 | Enforcer (debt collection and intimidation) |
+| 2 | Smuggler (moving goods across borders) |
+| 3 | Fence (buying and selling stolen property) |
+| 4 | Burglar (breaking and entering) |
+| 5 | Con artist (elaborate schemes and fraud) |
+| 6 | Information broker (gathering and selling secrets) |
+
+### Suggested Characteristics
+
+Syndicate operatives are pragmatic criminals who understand that crime is a business—one with its own rules, hierarchies, and codes of conduct.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I always assess the value of everything around me. |
+| 2 | I speak in euphemisms—"business," "arrangements," "complications." |
+| 3 | I'm unfailingly polite, even when threatening someone. |
+| 4 | I never forget a slight or a debt. |
+| 5 | I'm always looking for leverage over others. |
+| 6 | I respect professionalism, even in enemies. |
+| 7 | I treat everything as a negotiation. |
+| 8 | I'm paranoid about being watched or followed. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Loyalty.** The Syndicate takes care of its own. (Lawful) |
+| 2 | **Greed.** Money is the only thing that matters. (Evil) |
+| 3 | **Freedom.** Crime lets me live outside society's rules. (Chaotic) |
+| 4 | **Professionalism.** Crime is business—keep it clean. (Neutral) |
+| 5 | **Family.** My crew comes first, always. (Any) |
+| 6 | **Power.** I'll climb the ranks until I'm running things. (Evil) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I owe the Syndicate a significant debt—in gold or favors. |
+| 2 | Someone in the Syndicate betrayed me, and I want answers. |
+| 3 | I'm protecting someone who doesn't know about my criminal life. |
+| 4 | I have a mentor in the organization who's watched out for me. |
+| 5 | I know where bodies are buried—literally and figuratively. |
+| 6 | I'm trying to get out, but the Syndicate doesn't let people leave easily. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I can't resist a lucrative opportunity, even a risky one. |
+| 2 | I automatically lie, even when the truth would serve me better. |
+| 3 | I'm cruel to those I consider beneath me. |
+| 4 | I trust no one outside my immediate crew. |
+| 5 | I've made enemies in the Syndicate who want me dead. |
+| 6 | I'm in too deep—I can't see a way out of this life. |
+
+## Silver Circle Initiate
+
+The Silver Circle is an organization of mages dedicated to studying and protecting Tirvandor's ley lines. You began training with them, learning both magical theory and the Circle's philosophy of political neutrality. Whether you completed your training or left before taking full vows, you carry their teachings with you.
+
+**Skill Proficiencies:** Arcana, History
+**Languages:** Two of your choice (typically including Draconic or Primordial)
+**Equipment:** A Silver Circle initiate's robe, a small silver pendant (the Circle's symbol), a journal of magical theory, a set of common clothes, and a belt pouch containing 10 gp
+
+### Feature: Circle Hospitality
+
+Silver Circle chapterhouses exist in most major cities and near significant ley nodes. As a former initiate, you can request shelter and basic assistance from the Circle, though full members may view you with anything from respect to pity to suspicion, depending on why you left. You also have access to basic magical libraries and research facilities at chapterhouses.
+
+### Circle Specialty
+
+| d6 | Specialty |
+|:--:|:----------|
+| 1 | Ley line cartography and detection |
+| 2 | Magical theory and spell research |
+| 3 | Artifact identification and preservation |
+| 4 | Magical threat assessment |
+| 5 | Inter-planar studies |
+| 6 | Historical magical events (including the Worldrend) |
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+### Suggested Characteristics
+
+Silver Circle initiates balance scholarly curiosity with a disciplined approach to magic, though their commitment to neutrality is often tested by the world's conflicts.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I approach problems analytically, seeking logical solutions. |
+| 2 | I'm fascinated by magical phenomena of all kinds. |
+| 3 | I try to see all sides of political conflicts without taking sides. |
+| 4 | I quote Circle teachings and ancient texts constantly. |
+| 5 | I'm uncomfortable with violence and prefer magical solutions. |
+| 6 | I treat other spellcasters as colleagues, regardless of affiliation. |
+| 7 | I'm driven to document and preserve knowledge. |
+| 8 | I meditate daily to maintain mental discipline. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Knowledge.** Understanding magic is the highest calling. (Neutral) |
+| 2 | **Neutrality.** The Circle serves magic, not nations or factions. (Lawful) |
+| 3 | **Protection.** Magic must be safeguarded from misuse. (Good) |
+| 4 | **Freedom.** The Circle's neutrality is just another cage. (Chaotic) |
+| 5 | **Power.** The Circle's knowledge could make me powerful. (Evil) |
+| 6 | **Balance.** Magic and the ley lines must be kept in harmony. (Neutral) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | My mentor in the Circle means everything to me. |
+| 2 | I left the Circle to pursue a mystery they forbade me to investigate. |
+| 3 | I discovered corruption within the Circle and don't know who to trust. |
+| 4 | I'm searching for a lost artifact the Circle has sought for generations. |
+| 5 | I failed a crucial test and must prove my worth. |
+| 6 | The Circle is my family—I'd do anything to protect it. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I'm arrogant about my magical knowledge. |
+| 2 | I struggle to take sides even when neutrality is cowardice. |
+| 3 | I'm more interested in theories than in helping people. |
+| 4 | I broke Circle rules and fear discovery. |
+| 5 | I look down on those without magical training. |
+| 6 | I'm so used to the Circle's politics that I trust no one completely. |
+
+## Caravan Guard
+
+The roads between settlements—and especially through the Contested Lands—are dangerous. Bandits, monsters, and worse prey on travelers. You made your living protecting those who had to travel, escorting merchant caravans, refugee columns, or wealthy individuals from point A to point B alive.
+
+**Skill Proficiencies:** Perception, Survival
+**Tool Proficiencies:** Vehicles (land)
+**Languages:** One of your choice
+**Equipment:** A traveler's outfit suitable for your usual routes, a signal whistle, a bedroll, 50 feet of hempen rope, and a belt pouch containing 10 gp
+
+### Feature: Well-Traveled
+
+You know the major trade routes and roads throughout the region, including which are safest, where to find supplies, and where danger typically lurks. You can usually find reputable caravan companies or travelers looking for guards. Other caravan guards recognize you as a fellow professional and are generally willing to share information about road conditions and threats.
+
+### Usual Route
+
+| d6 | Route |
+|:--:|:------|
+| 1 | The Contested Lands (dangerous, high pay) |
+| 2 | Thaldros internal routes (regulated, steady work) |
+| 3 | Aethoria trade roads (varied, good tips) |
+| 4 | Coastal shipping routes (sea and land) |
+| 5 | Mountain passes (seasonal, harsh conditions) |
+| 6 | Multiple routes (jack of all trades) |
+
+### Suggested Characteristics
+
+Caravan guards are practical, alert, and accustomed to long stretches of boredom punctuated by moments of extreme danger.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I'm always scanning the horizon and checking our flanks. |
+| 2 | I've got a story for every landmark and stretch of road. |
+| 3 | I prefer the company of animals to most people. |
+| 4 | I sleep lightly and wake at the slightest unusual sound. |
+| 5 | I take my professional reputation very seriously. |
+| 6 | I'm most comfortable when I'm moving, not staying put. |
+| 7 | I've learned patience from countless long, boring journeys. |
+| 8 | I form quick judgments about whether someone's trustworthy. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Duty.** I'm responsible for the people in my care. (Lawful) |
+| 2 | **Freedom.** The open road is the only life for me. (Chaotic) |
+| 3 | **Protection.** Everyone deserves to travel safely. (Good) |
+| 4 | **Profit.** The job's the job—I go where the money is. (Neutral) |
+| 5 | **Power.** Out here, I'm the law. (Evil) |
+| 6 | **Reliability.** I deliver what I promise, every time. (Any) |
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I failed to protect a caravan once. I'll never let it happen again. |
+| 2 | I'm searching for a merchant who cheated me out of payment. |
+| 3 | The roads are my home—I know them better than any building. |
+| 4 | I have a network of friends in inns and waypoints along my routes. |
+| 5 | Something I saw on the road haunts me—I need to know more. |
+| 6 | I'm saving money to buy my own wagon and become a merchant. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I'm suspicious of anyone I don't know on the road. |
+| 2 | I've been alone so long I'm awkward in social situations. |
+| 3 | I'm too quick to resort to violence when I feel threatened. |
+| 4 | I've smuggled things I shouldn't have for extra coin. |
+| 5 | I'm addicted to the gambling and drinking that happen at waypoints. |
+| 6 | I abandoned a caravan in danger once. No one knows but me. |
+
+## Temple Warden
+
+You served as a guardian and protector of a temple dedicated to one of the Seven Ascended. Your duties included protecting sacred sites, safeguarding relics, and defending pilgrims and clergy from those who would do them harm. You may still serve, or your temple may have been destroyed, or you may have been called to a different path.
+
+**Skill Proficiencies:** Religion, Athletics
+**Tool Proficiencies:** One type of gaming set
+**Languages:** One of your choice (often Celestial)
+**Equipment:** A holy symbol of your deity, a set of common clothes, a set of traveler's clothes suitable for guard duty, temple insignia, and a belt pouch containing 10 gp
+
+### Feature: Temple Shelter
+
+Temples and shrines dedicated to your deity will offer you shelter, food, and basic healing. You can also request temporary sanctuary from the faithful, and clergy will generally vouch for your good character. Other temple wardens recognize you as a colleague and will share information about threats to the faith.
+
+### Deity Served
+
+| d8 | Deity |
+|:--:|:------|
+| 1 | Thandros the Lawbringer (justice, order) |
+| 2 | Aethor the Liberator (freedom, hope) |
+| 3 | Moira the Weaver (fate, knowledge) |
+| 4 | Kael the Wanderer (travel, luck) |
+| 5 | Sera the Healer (life, mercy) |
+| 6 | Mordain the Sentinel (death, protection) |
+| 7 | Sylvara the Wild (nature, storms) |
+| 8 | A regional deity or the Primordials |
+
+\column
+
+### Suggested Characteristics
+
+Temple wardens combine martial skill with religious devotion, serving as the shield that protects the faithful from harm.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I see my combat training as a sacred trust. |
+| 2 | I'm most at peace in temples and holy places. |
+| 3 | I believe my deity guides my blade in righteous combat. |
+| 4 | I treat all of the Ascended with respect, not just my patron. |
+| 5 | I'm protective of anyone who can't defend themselves. |
+| 6 | I pray before every battle and give thanks after. |
+| 7 | I struggle with the violence my duties sometimes require. |
+| 8 | I see omens and signs from my deity in everyday events. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Faith.** My deity's will guides everything I do. (Lawful) |
+| 2 | **Protection.** I shield the innocent from harm. (Good) |
+| 3 | **Duty.** I serve the temple without question. (Lawful) |
+| 4 | **Balance.** All the Ascended deserve honor. (Neutral) |
+| 5 | **Zeal.** Those who threaten the faith must be destroyed. (Any) |
+| 6 | **Growth.** My service helps me become who I'm meant to be. (Any) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | My temple was attacked, and I've sworn to find those responsible. |
+| 2 | I'm searching for a stolen relic of great importance. |
+| 3 | A priest or priestess at my temple is like a parent to me. |
+| 4 | I received a vision that sent me on this path. |
+| 5 | I failed to protect someone and carry that guilt with me. |
+| 6 | I'm looking for a worthy place to establish a new shrine. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I'm judgmental of those who don't share my faith. |
+| 2 | I struggle with doubts about my deity's will. |
+| 3 | I'm too rigid in my interpretation of religious doctrine. |
+| 4 | I sometimes enjoy violence more than a servant of the gods should. |
+| 5 | I put my temple's interests above the greater good. |
+| 6 | I broke a sacred vow and fear discovery. |
+
+## Worldrend Historian
+
+The Worldrend—the cataclysm that separated Thaldros and Aethoria 800 years ago—remains one of history's greatest mysteries. You have dedicated your life to studying this catastrophic event, poring over ancient texts, interviewing elders, and seeking out the ruins and artifacts that might reveal what truly happened.
+
+**Skill Proficiencies:** History, Investigation 
+**Tool Proficiencies:** Cartographer's tools or Calligrapher's supplies
+**Languages:** One ancient language (often Old Thaldric or Ancient Aethorian)
+**Equipment:** A collection of copied historical documents, a journal filled with notes and theories, cartographer's tools or calligrapher's supplies, a set of scholar's robes, and a belt pouch containing 10 gp
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+### Feature: Historical Expert
+
+You are recognized as an authority on the Worldrend and ancient Tirvandor history. Scholars, nobles, and other educated people will often seek your opinion or allow you access to private libraries and collections. You can usually identify artifacts and ruins from the pre-Worldrend era and know where to find historical records and experts.
+
+### Research Theory
+
+| d6 | Theory |
+|:--:|:-------|
+| 1 | The Worldrend was caused by a magical war between nations |
+| 2 | The Worldrend was divine punishment from the Ascended |
+| 3 | The Worldrend was caused by ley line manipulation |
+| 4 | The Worldrend was the result of summoning or releasing something terrible |
+| 5 | The Worldrend was deliberately caused to stop something worse |
+| 6 | The Worldrend was a natural catastrophe with no sentient cause |
+
+### Suggested Characteristics
+
+Worldrend historians are driven by the need to understand the past, believing that the truth about the cataclysm holds important lessons—or warnings—for the present.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I relate everything to historical events and patterns. |
+| 2 | I get excited when I find new primary sources or artifacts. |
+| 3 | I correct people's historical misconceptions, even when unwelcome. |
+| 4 | I'm haunted by the scale of destruction the Worldrend caused. |
+| 5 | I treat ancient sites and artifacts with reverent care. |
+| 6 | I'm suspicious of "official" historical narratives. |
+| 7 | I believe understanding the past is the key to saving the future. |
+| 8 | I collect trinkets and fragments that others would consider worthless. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Truth.** The real story of the Worldrend must be uncovered. (Any) |
+| 2 | **Preservation.** Historical knowledge must be protected. (Lawful) |
+| 3 | **Warning.** We must learn from the past to avoid repeating it. (Good) |
+| 4 | **Power.** Whoever understands the Worldrend's cause could wield that power. (Evil) |
+| 5 | **Knowledge.** Understanding is valuable for its own sake. (Neutral) |
+| 6 | **Justice.** Those responsible for the Worldrend should be remembered. (Lawful) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I'm searching for a legendary pre-Worldrend library or archive. |
+| 2 | My mentor disappeared while investigating a dangerous theory. |
+| 3 | I discovered evidence that contradicts everything we thought we knew. |
+| 4 | I'm from a family that has preserved Worldrend knowledge for generations. |
+| 5 | I found something in the ruins that powerful people want. |
+| 6 | I believe my ancestors were involved in causing or preventing the Worldrend. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I'm obsessed with my research to the exclusion of everything else. |
+| 2 | I dismiss any theory that contradicts my own. |
+| 3 | I take dangerous risks to acquire historical artifacts. |
+| 4 | I hoard knowledge instead of sharing it with other scholars. |
+| 5 | I've been wrong before and covered it up to protect my reputation. |
+| 6 | I'm so focused on the past that I neglect the present. |
+
+## Gladiator
+
+In the great arenas of Tirvandor—from Thaldros's state-sponsored blood sports to Aethoria's athletic competitions to the anything-goes fighting pits of the Contested Lands—you made your living as a professional combatant. You fought for glory, for gold, or simply for survival.
+
+**Skill Proficiencies:** Performance, Athletics
+**Tool Proficiencies:** One type of gaming set, disguise kit
+**Languages:** None
+**Equipment:** A costume or uniform from your fighting days, a gaming set, a token or trophy from a memorable victory, a set of common clothes, and a belt pouch containing 15 gp
+
+### Feature: Arena Fame
+
+You are known in the world of professional fighting. You can usually find work at fighting pits, gain entry to gladiatorial events, and earn money through exhibition matches or personal appearances. Former opponents, fans, and other fighters recognize you and may react with admiration, jealousy, or a desire for revenge.
+
+### Arena Background
+
+| d6 | Background |
+|:--:|:-----------|
+| 1 | Thaldros Imperial Arena (state-sanctioned, prestigious) |
+| 2 | Aethoria Athletic Games (competitive, honorable) |
+| 3 | Border fighting pits (brutal, no rules) |
+| 4 | Noble's private games (entertainment for the wealthy) |
+| 5 | Prison fights (survival combat) |
+| 6 | Traveling fight circuit (barnstorming performer) |
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+### Suggested Characteristics
+
+Gladiators are performers as much as fighters, accustomed to the roar of the crowd and the pressure of single combat with all eyes watching.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I play to the crowd, even in life-or-death situations. |
+| 2 | I respect any worthy opponent and despise cowards. |
+| 3 | I'm always conscious of how I look and move. |
+| 4 | I boast about my victories and minimize my defeats. |
+| 5 | I treat combat as an art form to be perfected. |
+| 6 | I'm uncomfortable when people aren't paying attention to me. |
+| 7 | I size up everyone I meet as a potential opponent. |
+| 8 | I form deep bonds with fellow fighters who've shared the arena. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Glory.** I fight to be remembered forever. (Any) |
+| 2 | **Honor.** I follow the rules of fair combat. (Lawful) |
+| 3 | **Freedom.** The arena was my cage—I'll never be caged again. (Chaotic) |
+| 4 | **Excellence.** I must be the best fighter I can possibly be. (Any) |
+| 5 | **Survival.** I do what I must to keep breathing. (Neutral) |
+| 6 | **Power.** Victory means everything. Defeat means death. (Evil) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I still have friends (or enemies) from my arena days. |
+| 2 | I owe my survival to a trainer or mentor who believed in me. |
+| 3 | I killed someone in the arena who didn't deserve to die. |
+| 4 | I'm searching for an opponent who defeated and humiliated me. |
+| 5 | I carry a token from a fan who supported me when no one else did. |
+| 6 | I'm still technically owned by my former arena master. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I crave applause and admiration—I'm miserable without an audience. |
+| 2 | I hold grudges against anyone who's bested me in combat. |
+| 3 | I'm arrogant about my fighting abilities. |
+| 4 | I take unnecessary risks to look impressive. |
+| 5 | I struggle with life outside the arena's simple clarity. |
+| 6 | I still have nightmares about the people I killed. |
+
+## Shipwreck Survivor
+
+You survived the sinking of a ship in the treacherous Sundering Sea. Whether from storm, pirates, sea monsters, or mysterious circumstances, you lost everything when your vessel went down—except your life. The experience changed you forever.
+
+**Skill Proficiencies:** Survival, Athletics
+**Tool Proficiencies:** Navigator's tools, vehicles (water)
+**Equipment:** A piece of driftwood or wreckage you cling to as a memento, a waterproof pouch, a set of common clothes, and a belt pouch containing 5 gp
+
+### Feature: Survivor's Luck
+
+You've already beaten death once—you have an instinctive sense for danger. You can often predict when weather will turn dangerous, sense when something is wrong with a vessel, and find resources in survival situations that others might miss. Other sailors treat you with a mixture of respect (you survived) and unease (you might be cursed).
+
+### The Shipwreck
+
+| d6 | Cause |
+|:--:|:------|
+| 1 | A terrible storm that came from nowhere |
+| 2 | Pirates or raiders attacked the vessel |
+| 3 | A sea monster attacked from the depths |
+| 4 | Sabotage or mutiny aboard the ship |
+| 5 | The ship struck hidden rocks or reefs |
+| 6 | Something strange and unexplainable |
+
+### Suggested Characteristics
+
+Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how fragile life can be—but also with a hard-won appreciation for being alive.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I never take survival for granted—every day is a gift. |
+| 2 | I'm haunted by those who didn't make it. |
+| 3 | I've learned to stay calm in crises when others panic. |
+| 4 | I keep emergency supplies hidden on my person at all times. |
+| 5 | I have an irrational fear of deep water now. |
+| 6 | I tell my survival story to anyone who'll listen. |
+| 7 | I form intense connections quickly—life is too short. |
+| 8 | I'm fatalistic about death—it'll come when it comes. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Life.** Every life is precious and worth protecting. (Good) |
+| 2 | **Fate.** I survived for a reason—I must find out why. (Any) |
+| 3 | **Freedom.** I've faced death and lived—I'm not afraid of anything. (Chaotic) |
+| 4 | **Preparedness.** I'll never be caught unprepared again. (Lawful) |
+| 5 | **Revenge.** Someone is responsible for that wreck, and they'll pay. (Evil) |
+| 6 | **Acceptance.** I've made peace with death. (Neutral) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I'm searching for other survivors from my ship. |
+| 2 | I made a promise to someone who didn't survive. |
+| 3 | Something valuable went down with the ship—I want to recover it. |
+| 4 | The person who rescued me deserves more than I can ever repay. |
+| 5 | I saw something in the water that I can't explain. |
+| 6 | I'm trying to find the family of someone who died saving me. |
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I have panic attacks around open water. |
+| 2 | I blame myself for surviving when others didn't. |
+| 3 | I'm reckless because I don't believe I'll die—I've already cheated death. |
+| 4 | I can't form lasting connections; everyone leaves eventually. |
+| 5 | I obsess over the shipwreck, trying to understand what happened. |
+| 6 | I abandoned someone to save myself. I've never told anyone. |
+
+## Failed Apprentice
+
+You studied under a master—perhaps a wizard, artisan, scholar, or other expert—but your apprenticeship ended badly. Maybe you lacked talent, made a critical mistake, or simply couldn't meet your master's standards. Now you carry both the partial knowledge you gained and the shame of your failure.
+
+**Skill Proficiencies:** One skill related to your field of study, plus Investigation
+**Tool Proficiencies:** One artisan's tool or one additional skill
+**Languages:** One of your choice
+**Equipment:** A journeyman's tools or incomplete spellbook from your studies, a letter of incomplete apprenticeship, a set of common clothes, and a belt pouch containing 10 gp
+
+### Feature: Partial Training
+
+You have incomplete but real training in your former field. You can speak knowledgeably about your area of study (even if you can't practice it at full competence), identify genuine work from fakes, and recognize others with similar training. Other practitioners in your field may view you with sympathy, contempt, or occasionally as a useful (cheap) assistant.
+
+### Failed Field
+
+| d6 | Field |
+|:--:|:------|
+| 1 | Arcane magic (wizard's apprentice) |
+| 2 | Divine service (temple acolyte) |
+| 3 | Craftsmanship (artisan's apprentice) |
+| 4 | Scholarship (academic institution) |
+| 5 | Medicine (healer's student) |
+| 6 | Combat training (military or martial arts) |
+
+### Suggested Characteristics
+
+Failed apprentices often struggle with feelings of inadequacy while trying to prove their worth through other means.
+
+| d8 | Personality Trait |
+|:--:|:------------------|
+| 1 | I have something to prove—I'm not a failure. |
+| 2 | I'm defensive about my incomplete training. |
+| 3 | I study constantly, trying to complete my education on my own. |
+| 4 | I resent those who succeeded where I failed. |
+| 5 | I've developed skills in other areas to compensate. |
+| 6 | I'm surprisingly knowledgeable, just not qualified. |
+| 7 | I second-guess myself constantly. |
+| 8 | I've learned that formal training isn't everything. |
+
+| d6 | Ideal |
+|:--:|:------|
+| 1 | **Determination.** I'll succeed through effort, not talent. (Any) |
+| 2 | **Humility.** Failure taught me I'm not as special as I thought. (Neutral) |
+| 3 | **Revenge.** I'll prove my master wrong by succeeding anyway. (Any) |
+| 4 | **Growth.** Every failure is a lesson if you're willing to learn. (Good) |
+| 5 | **Ambition.** I'll find another path to power and recognition. (Evil) |
+| 6 | **Acceptance.** My failure set me on a different, better path. (Any) |
+
+| d6 | Bond |
+|:--:|:-----|
+| 1 | I want to prove myself to my former master. |
+| 2 | A fellow apprentice helped me when I was struggling. |
+| 3 | I still have my incomplete training materials—maybe I can finish. |
+| 4 | My family sacrificed to pay for my apprenticeship. I owe them. |
+| 5 | Someone in my former field treats me as an equal despite my failure. |
+| 6 | I discovered something during my training that others missed. |
+
+| d6 | Flaw |
+|:--:|:-----|
+| 1 | I can't admit when I don't know something. |
+| 2 | I'm bitter about my failure and take it out on others. |
+| 3 | I give up too easily when things get hard. |
+| 4 | I pretend to more expertise than I actually have. |
+| 5 | I blame everyone but myself for my failure. |
+| 6 | I'm terrified of failing again. |
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
+## Summary: Tirvandor Backgrounds
+{{wide
+| Background | Skills | Tools/Languages | Feature |
+|:-----------|:-------|:----------------|:--------|
+| Mercenary Veteran | Athletics, Intimidation | Gaming set, vehicles (land) | Mercenary Network |
+| War Refugee | Survival, Stealth | Artisan's tools, one language | Sympathetic Ear |
+| Border Trader | Persuasion, Insight | Gaming set, one language | Black Market Contacts |
+| Political Exile | History, Persuasion | Calligrapher's supplies, two languages | Political Knowledge |
+| Spy | Deception, Stealth | Disguise kit, gaming set | Cover Identity |
+| Ley Line Scholar | Arcana, Investigation | Cartographer's tools, one language | Ley Line Sensitivity |
+| Thaldros Deserter | Athletics, Survival | Vehicles (land), gaming set | Military Training |
+| Aethorian Revolutionary | Persuasion, Stealth | Disguise kit, one language | Revolutionary Network |
+| Thornwood Syndicate Operative | Deception, Intimidation | Thieves' tools, gaming set | Criminal Connections |
+| Silver Circle Initiate | Arcana, History | Two languages | Circle Hospitality |
+| Caravan Guard | Perception, Survival | Vehicles (land), one language | Well-Traveled |
+| Temple Warden | Religion, Athletics | Gaming set, one language | Temple Shelter |
+| Worldrend Historian | History, Investigation | Cartographer's or calligrapher's, ancient language | Historical Expert |
+| Gladiator | Performance, Athletics | Gaming set, disguise kit | Arena Fame |
+| Shipwreck Survivor | Survival, Athletics | Navigator's tools, vehicles (water) | Survivor's Luck |
+| Failed Apprentice | One skill (field), Investigation | Artisan's tools or skill, one language | Partial Training |
+}}
+
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
 \page
 
 # Chapter 5: Equipment
@@ -4424,7 +5566,7 @@ Coins come in different denominations:
 
 ### Shields
 - Shield: 10 gp, +2 AC
-
+\column
 ## Weapons
 
 ### Simple Melee Weapons
@@ -7397,16 +8539,14 @@ Most adventurers acknowledge all the gods and pray to whichever suits their curr
 {{pageNumber,auto}}
 {{footnote Appendix C: The Pantheon}}
 \page
-
 # Appendix D: Beasts of Tirvandor
-
+:
 The following creatures are unique to Tirvandor or have adapted to the world's specific environments. They are suitable for Wild Shape, *polymorph*, *conjure animals*, and as animal companions for rangers and other classes.
 
----
-
 ## CR 0 Beasts
-
-### Ley Moth
+:
+{{monster,frame,wide
+## Ley Moth
 *Tiny beast, unaligned*
 ___
 **Armor Class** :: 12
@@ -7421,14 +8561,15 @@ ___
 **Languages** :: —
 **Challenge** :: 0 (10 XP)
 ___
-**Ley Sense.** The moth can sense the presence and direction of ley lines within 1 mile.
+**Ley Sense.** :: The moth can sense the presence and direction of ley lines within 1 mile.
 
-**Luminescence.** The moth sheds dim light in a 5-foot radius. The color shifts based on nearby magical energy.
-___
+**Luminescence.** :: The moth sheds dim light in a 5-foot radius. The color shifts based on nearby magical energy.
 
 *These delicate insects are attracted to ley line energy, their wings shimmering with faint magical light. Scholars and mages sometimes keep them to detect magical fluctuations.*
+}}
 
-### Sundering Crab
+{{monster,frame,wide
+## Sundering Crab
 *Tiny beast, unaligned*
 ___
 **Armor Class** :: 13 (natural armor)
@@ -7443,21 +8584,20 @@ ___
 **Languages** :: —
 **Challenge** :: 0 (10 XP)
 ___
-**Amphibious.** The crab can breathe air and water.
+**Amphibious.** :: The crab can breathe air and water.
 
-**Salvager.** The crab has advantage on Wisdom (Perception) checks to find small objects buried in sand or mud.
+**Salvager.** :: The crab has advantage on Wisdom (Perception) checks to find small objects buried in sand or mud.
 ___
 ### Actions
-**Claw.** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage.
-___
+**Claw.** :: *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage.
 
 *Found along the shores of the Sundering Sea, these small crabs are known for collecting shiny objects in their burrows—sometimes including coins from shipwrecks.*
-
-\column
-
+}}
+:
 ## CR 1/8 Beasts
 
-### Contested Hare
+{{monster,frame,wide
+## Contested Hare
 *Small beast, unaligned*
 ___
 **Armor Class** :: 13
@@ -7473,16 +8613,21 @@ ___
 **Languages** :: —
 **Challenge** :: 1/8 (25 XP)
 ___
-**Keen Hearing.** The hare has advantage on Wisdom (Perception) checks that rely on hearing.
+**Keen Hearing.** :: The hare has advantage on Wisdom (Perception) checks that rely on hearing.
 
-**Evasive.** When the hare is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage on a success.
+**Evasive.** :: When the hare is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage on a success.
 
-**Standing Leap.** The hare's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
-___
+**Standing Leap.** :: The hare's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
 *These swift hares have survived in the Contested Lands by being faster than anything that hunts them. Their large ears can detect approaching threats from remarkable distances.*
+}}
 
-### Emerald Depths Treefrog
+{{pageNumber,auto}}
+{{footnote Appendix D: Beasts of Tirvandor}}
+\page
+
+{{monster,frame,wide
+## Emerald Depths Treefrog
 *Tiny beast, unaligned*
 ___
 **Armor Class** :: 12
@@ -7498,22 +8643,20 @@ ___
 **Languages** :: —
 **Challenge** :: 1/8 (25 XP)
 ___
-**Amphibious.** The frog can breathe air and water.
+**Amphibious.** :: The frog can breathe air and water.
 
-**Standing Leap.** The frog's long jump is up to 10 feet and its high jump is up to 5 feet.
+**Standing Leap.** :: The frog's long jump is up to 10 feet and its high jump is up to 5 feet.
 
-**Poison Skin.** A creature that touches the frog or hits it with a melee attack while within 5 feet of it takes 2 (1d4) poison damage.
-___
+**Poison Skin.** :: A creature that touches the frog or hits it with a melee attack while within 5 feet of it takes 2 (1d4) poison damage.
 
 *Found in the Emerald Depths rainforest of Aethoria, these brilliantly colored frogs advertise their toxicity with vivid patterns. Hunters use their secretions to poison arrows.*
+}}
 
-{{pageNumber,auto}}
-{{footnote Appendix D: Beasts of Tirvandor}}
-\page
 
 ## CR 1/4 Beasts
 
-### Border Hound
+{{monster,frame,wide
+## Border Hound
 *Medium beast, unaligned*
 ___
 **Armor Class** :: 12
@@ -7529,17 +8672,18 @@ ___
 **Languages** :: —
 **Challenge** :: 1/4 (50 XP)
 ___
-**Keen Hearing and Smell.** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+**Keen Hearing and Smell.** :: The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-**Tracker.** The hound has advantage on Wisdom (Survival) checks to track creatures.
+**Tracker.** :: The hound has advantage on Wisdom (Survival) checks to track creatures.
 ___
 ### Actions
-**Bite.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
-___
+**Bite.** :: *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
 
 *Bred from war hounds that escaped or were abandoned in the Contested Lands, Border Hounds have become skilled survivors. Many mercenary companies keep them as scouts and trackers.*
+}}
 
-### Ironhold Mountain Goat
+{{monster,frame,wide
+## Ironhold Mountain Goat
 *Medium beast, unaligned*
 ___
 **Armor Class** :: 11
@@ -7554,20 +8698,24 @@ ___
 **Languages** :: —
 **Challenge** :: 1/4 (50 XP)
 ___
-**Charge.** If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 3 (1d6) bludgeoning damage.
+**Charge.** :: If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 3 (1d6) bludgeoning damage.
 
-**Sure-Footed.** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+**Sure-Footed.** :: The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 ___
 ### Actions
-**Ram.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage.
-___
+**Ram.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage.
 
 *The hardy mountain goats of Ironhold's peaks have adapted to treacherous terrain and harsh winters. Their wool is prized for its warmth, and dwarven shepherds tend large herds.*
+}}
 
-\column
+{{pageNumber,auto}}
+{{footnote Appendix D: Beasts of Tirvandor}}
+\page
+
 ## CR 1/2 Beasts
 
-### Sundering Seal
+{{monster,frame,wide
+## Sundering Seal
 *Medium beast, unaligned*
 ___
 **Armor Class** :: 12
@@ -7583,17 +8731,18 @@ ___
 **Languages** :: —
 **Challenge** :: 1/2 (100 XP)
 ___
-**Hold Breath.** The seal can hold its breath for 30 minutes.
+**Hold Breath.** :: The seal can hold its breath for 30 minutes.
 
-**Keen Smell.** The seal has advantage on Wisdom (Perception) checks that rely on smell.
+**Keen Smell.** :: The seal has advantage on Wisdom (Perception) checks that rely on smell.
 ___
 ### Actions
-**Bite.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage.
-___
+**Bite.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage.
 
 *These large seals inhabit the rocky coastlines of the Sundering Sea. They're hunted for their oil and pelts, though some coastal communities have learned to fish alongside them.*
+}}
 
-### Contested Plains Raptor
+{{monster,frame,wide
+## Contested Plains Raptor
 *Small beast, unaligned*
 ___
 **Armor Class** :: 13
@@ -7609,23 +8758,20 @@ ___
 **Languages** :: —
 **Challenge** :: 1/2 (100 XP)
 ___
-**Keen Sight.** The raptor has advantage on Wisdom (Perception) checks that rely on sight.
+**Keen Sight.** :: The raptor has advantage on Wisdom (Perception) checks that rely on sight.
 
-**Dive Attack.** If the raptor is flying and dives at least 30 feet straight toward a target and then hits it with a talon attack, the attack deals an extra 3 (1d6) damage to the target.
+**Dive Attack.** :: If the raptor is flying and dives at least 30 feet straight toward a target and then hits it with a talon attack, the attack deals an extra 3 (1d6) damage to the target.
 ___
 ### Actions
-**Talons.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
-___
+**Talons.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 
 *These fierce hawks patrol the skies above the Contested Lands, hunting the abundant hares and rodents. Falconers prize them for their speed and aggression.*
-
-{{pageNumber,auto}}
-{{footnote Appendix D: Beasts of Tirvandor}}
-\page
+}}
 
 ## CR 1 Beasts
 
-### Thornwood Stalker
+{{monster,frame,wide
+## Thornwood Stalker
 *Medium beast, unaligned*
 ___
 **Armor Class** :: 13
@@ -7641,21 +8787,26 @@ ___
 **Languages** :: —
 **Challenge** :: 1 (200 XP)
 ___
-**Keen Smell.** The stalker has advantage on Wisdom (Perception) checks that rely on smell.
+**Keen Smell.** :: The stalker has advantage on Wisdom (Perception) checks that rely on smell.
 
-**Pounce.** If the stalker moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone.
+**Pounce.** :: If the stalker moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone.
 
-**Woodland Camouflage.** The stalker has advantage on Dexterity (Stealth) checks made to hide in forested terrain.
+**Woodland Camouflage.** :: The stalker has advantage on Dexterity (Stealth) checks made to hide in forested terrain.
 ___
 ### Actions
-**Bite.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
+**Bite.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
 
-**Claw.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
-___
+**Claw.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 
 *A large feline predator native to the forests near the Contested Lands. They're named for the Thornwood Syndicate, whose scouts first reported them—and who use them as a symbol of their stealthy operations.*
+}}
 
-### Aethorian River Otter
+{{pageNumber,auto}}
+{{footnote Appendix D: Beasts of Tirvandor}}
+\page
+
+{{monster,frame,wide
+## Aethorian River Otter
 *Medium beast, unaligned*
 ___
 **Armor Class** :: 12
@@ -7671,21 +8822,22 @@ ___
 **Languages** :: —
 **Challenge** :: 1 (200 XP)
 ___
-**Hold Breath.** The otter can hold its breath for 15 minutes.
+**Hold Breath.** :: The otter can hold its breath for 15 minutes.
 
-**Keen Smell.** The otter has advantage on Wisdom (Perception) checks that rely on smell.
+**Keen Smell.** :: The otter has advantage on Wisdom (Perception) checks that rely on smell.
 
-**Slippery.** The otter has advantage on ability checks and saving throws made to escape a grapple.
+**Slippery.** :: The otter has advantage on ability checks and saving throws made to escape a grapple.
 ___
 ### Actions
-**Bite.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
-___
+**Bite.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
 
 *These intelligent, playful creatures are found throughout Aethoria's rivers. Some communities have semi-domesticated them to help with fishing, and they're considered good luck by sailors.*
+}}
 
 ## CR 2 Beasts
 
-### Ironwood Boar
+{{monster,frame,wide
+## Ironwood Boar
 *Large beast, unaligned*
 ___
 **Armor Class** :: 14 (natural armor)
@@ -7700,19 +8852,20 @@ ___
 **Languages** :: —
 **Challenge** :: 2 (450 XP)
 ___
-**Charge.** If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+**Charge.** :: If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
-**Relentless (Recharges after Short or Long Rest).** If the boar takes 15 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+**Relentless (Recharges after Short or Long Rest).** :: If the boar takes 15 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-**Thick Hide.** The boar has resistance to bludgeoning damage from nonmagical attacks.
+**Thick Hide.** :: The boar has resistance to bludgeoning damage from nonmagical attacks.
 ___
 ### Actions
-**Tusk.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
-___
+**Tusk.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
 
 *Named for their incredibly tough hides, these massive boars inhabit the borderlands between Thaldros and Aethoria. Hunting one is considered a rite of passage among many Border communities.*
+}}
 
-### Sundering Sea Serpent (Juvenile)
+{{monster,frame,wide
+## Sundering Sea Serpent (Juvenile)
 *Large beast, unaligned*
 ___
 **Armor Class** :: 13 (natural armor)
@@ -7728,25 +8881,26 @@ ___
 **Languages** :: —
 **Challenge** :: 2 (450 XP)
 ___
-**Hold Breath.** The serpent can hold its breath for 1 hour.
+**Hold Breath.** :: The serpent can hold its breath for 1 hour.
 
-**Water Camouflage.** The serpent has advantage on Dexterity (Stealth) checks made while underwater.
+**Water Camouflage.** :: The serpent has advantage on Dexterity (Stealth) checks made while underwater.
 ___
 ### Actions
-**Bite.** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage.
+**Bite.** :: *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage.
+
+**Constrict.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the creature is restrained, and the serpent can't constrict another target.
+
+*Young specimens of the legendary sea serpents that inhabit the Sundering Sea. Adults grow to truly massive size, but juveniles are occasionally spotted near coastlines hunting fish and seals.*
+}}
 
 {{pageNumber,auto}}
 {{footnote Appendix D: Beasts of Tirvandor}}
 \page
 
-**Constrict.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the creature is restrained, and the serpent can't constrict another target.
-___
-
-*Young specimens of the legendary sea serpents that inhabit the Sundering Sea. Adults grow to truly massive size, but juveniles are occasionally spotted near coastlines hunting fish and seals.*
-
 ## CR 3 Beasts
 
-### Goldreach Warhorse
+{{monster,frame,wide
+## Goldreach Warhorse
 *Large beast, unaligned*
 ___
 **Armor Class** :: 13 (barding available)
@@ -7761,19 +8915,21 @@ ___
 **Languages** :: —
 **Challenge** :: 3 (700 XP)
 ___
-**Charge.** If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone.
+**Charge.** :: If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone.
 
-**Bred for War.** The horse has advantage on saving throws against being frightened.
+**Bred for War.** :: The horse has advantage on saving throws against being frightened.
 
-**Trained Mount.** The horse has been trained for combat. While mounted by a rider, it acts on the rider's initiative and the rider can use a bonus action to command it to Dash, Disengage, or Dodge.
+**Trained Mount.** :: The horse has been trained for combat. While mounted by a rider, it acts on the rider's initiative and the rider can use a bonus action to command it to Dash, Disengage, or Dodge.
 ___
 ### Actions
-**Hooves.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
-___
+**Hooves.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
+
 
 *The famous warhorses bred in Goldreach are prized across both continents. Larger and braver than common horses, they're trained from birth for the chaos of battle.*
+}}
 
-### Emerald Depths Constrictor
+{{monster,frame,wide
+## Emerald Depths Constrictor
 *Large beast, unaligned*
 ___
 **Armor Class** :: 12
@@ -7789,18 +8945,19 @@ ___
 **Languages** :: —
 **Challenge** :: 3 (700 XP)
 ___
-**Ambusher.** In the first round of combat, the snake has advantage on attack rolls against any creature it has surprised.
+**Ambusher.** :: In the first round of combat, the snake has advantage on attack rolls against any creature it has surprised.
 
-**Arboreal.** The snake has advantage on Dexterity (Stealth) checks made to hide in forested terrain.
+**Arboreal.** :: The snake has advantage on Dexterity (Stealth) checks made to hide in forested terrain.
 ___
 ### Actions
-**Bite.** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage.
+**Bite.** :: *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage.
 
-**Constrict.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
-___
+**Constrict.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 
 *These massive constrictors inhabit the canopy of the Emerald Depths rainforest. They drop from above onto unsuspecting prey and squeeze the life from them before swallowing them whole.*
+}}
 
+{{wide
 ## Beast Summary Table
 
 The following table summarizes all beasts in this appendix for quick reference during character creation and gameplay.
@@ -7822,7 +8979,11 @@ The following table summarizes all beasts in this appendix for quick reference d
 | Goldreach Warhorse | 3 | Large | Any (domestic) |
 | Emerald Depths Constrictor | 3 | Large | Rainforest |
 
----
+}}
+
+{{pageNumber,auto}}
+{{footnote Appendix D: Beasts of Tirvandor}}
+\page
 
 ## Using These Beasts
 
@@ -7836,9 +8997,7 @@ The following table summarizes all beasts in this appendix for quick reference d
 
 **Familiars:** The Ley Moth makes an excellent familiar choice for characters with the Find Familiar spell, especially those interested in detecting magical phenomena.
 
-{{pageNumber,auto}}
-{{footnote Appendix D: Beasts of Tirvandor}}
-\page
+\column
 
 ## Regional Distribution
 
@@ -7857,7 +9016,6 @@ Sundering Crab, Sundering Seal, Sundering Sea Serpent
 **Universal (Any Region):**
 Ley Moth (wherever ley lines are present)
 
-\column
 
 ## Notes for DMs
 
