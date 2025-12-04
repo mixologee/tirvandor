@@ -68,6 +68,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 {{footnote Tirvandor Player's Guide}}
 \page
 
+![Introduction Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-introduction.png){position:absolute,top:20px,right:-50px,width:43%,mix-blend-mode:multiply}
 
 # Introduction
 
@@ -95,7 +96,6 @@ Welcome to **Tirvandor**, a world of political intrigue, moral complexity, and m
 
 This book provides the character creation rules. For the complete D&D 5e gameplay rules, refer to the official D&D Basic Rules (available free online) or the official Player's Handbook.
 
-
 ## How to Use This Book
 
 **If you're new to D&D:**
@@ -114,12 +114,22 @@ This book provides the character creation rules. For the complete D&D 5e gamepla
 4. Review the World Primer (Chapter 11) for setting context
 5. Use this book as your reference during play
 
+\column
+
+<div style="width:40%">
+
 **For campaign-specific rules:**
-
-- See *Blood & Coin Player's Guide* for the mercenary campaign
 - See *Shattered Oaths Player's Guide* for the heroic campaign
-- Ask your DM about house rules or table-specific adjustments
+- See *Blood & Coin Player's Guide* for the mercenary campaign
 
+</div>
+<div style="width:50%">
+
+- See *Shattered Oaths Player's Guide* for the heroic campaign
+
+</div>
+
+- Ask your DM about house rules or table-specific adjustments
 ---
 
 ## What You Need to Play
@@ -145,6 +155,7 @@ This book provides the character creation rules. For the complete D&D 5e gamepla
 **Digital Options:**
 
 Many players prefer digital character sheets and dice rollers. Popular options include:
+
 - D&D Beyond (official digital toolset)
 - Roll20 (virtual tabletop)
 - Foundry Virtual Tabletop
@@ -155,8 +166,6 @@ Your Dungeon Master will let you know which tools your group uses.
 {{pageNumber,auto}}
 {{footnote Introduction}}
 \page
-
-
 ## About Tirvandor
 
 Tirvandor is a world divided by history, politics, and magic. A catastrophic event known as **The Worldrend** tore the world in two, creating the **Sundering Sea** between two great continents.
@@ -229,6 +238,8 @@ Welcome to Tirvandor. Your choices matter. Your story begins now.
 {{pageNumber,auto}}
 {{footnote Introduction}}
 \page
+
+![Character Creation Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-character-creation.png){position:absolute,top:700px,right:-40px,width:380px,width:40%,mix-blend-mode:multiply}
 
 {{wide
 # Chapter 1: Step-by-step Characters
@@ -310,12 +321,17 @@ Every adventurer is a member of a class. Class broadly describes a character's v
 
 Much of what your character does depends on six abilities:
 
-**Strength (STR):** Physical power  
-**Dexterity (DEX):** Agility and reflexes  
-**Constitution (CON):** Endurance  
-**Intelligence (INT):** Reasoning and memory  
-**Wisdom (WIS):** Awareness and intuition  
-**Charisma (CHA):** Force of personality  
+**Strength (STR):** Physical power ::
+**Dexterity (DEX):** Agility and reflexes   ::
+**Constitution (CON):** Endurance   ::
+**Intelligence (INT):** Reasoning and memory   ::
+
+<div style="width:60%">
+
+**Wisdom (WIS):** Awareness and intuition   ::
+**Charisma (CHA):** Force of personality   ::
+
+</div>
 
 {{pageNumber,auto}}
 {{footnote Character Creation}}
@@ -700,6 +716,8 @@ When you gain a level:
 {{footnote Character Creation}}
 \page
 
+![Races Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-races.png){position:absolute,top:0,right:0,width:400px,mix-blend-mode:multiply}
+
 {{wide
 # Chapter 2: Races
 }}
@@ -725,6 +743,8 @@ Each race also includes cultural notes about how they fit Tirvandor society. Thi
 :
 
 ## Human
+
+![Human Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-human.png){position:absolute,top:510px,right:-30px,width:50%,mix-blend-mode:multiply}
 
 *"Humans are the most adaptable and ambitious people among the common races. Whatever drives them, humans are the innovators, the achievers, and the pioneers of Tirvandor."*
 
@@ -760,7 +780,8 @@ If your DM allows, you can use the following traits instead:
 **Population:** Majority (~60%)  
 **Nations:** Dominate both Thaldros and Aethoria  
 **Stereotypes:** Ambitious, short-lived, adaptable
-
+\column
+{{padding-top:230px}}
 **Cultural Context:**
 - Most common race in both nations
 - No single human culture (varies by region)
@@ -779,8 +800,9 @@ If your DM allows, you can use the following traits instead:
 {{footnote Races}}
 \page
 
-
 ## Dwarf
+
+![Dwarf Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-dwarf.png){position:absolute,top:-50px,right:-50px,width:60%,mix-blend-mode:multiply}
 
 *"Bold and hardy, dwarves are known as skilled warriors, miners, and workers of stone and metal. Though they stand well under 5 feet tall, dwarves are so broad and compact that they can weigh as much as a human."*
 
@@ -796,10 +818,12 @@ If your DM allows, you can use the following traits instead:
 **Size:** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 
 **Speed:** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+<div style="width:90%">
 
 **Darkvision:** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
 **Dwarven Resilience:** You have advantage on saving throws against poison, and you have resistance against poison damage.
+</div>
 
 **Dwarven Combat Training:** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
 
@@ -818,14 +842,14 @@ If your DM allows, you can use the following traits instead:
 
 **Dwarven Toughness:** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
-
 #### Mountain Dwarf
 
 **Ability Score Increase:** Your Strength score increases by 2.
 
 **Dwarven Armor Training:** You have proficiency with light and medium armor.
 
-
+\column
+{{padding-top:585px}}
 #### Dwarves in Tirvandor
 
 **Population:** Common (~15%)  
@@ -850,21 +874,34 @@ If your DM allows, you can use the following traits instead:
 {{footnote Races}}
 \page
 
-
 ## Elf
+
+![Elf Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-elf.png){position:absolute,top:120px,left:215px,width:35%,mix-blend-mode:multiply}
 
 *"Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light."*
 
 
 #### Elf Traits
+<div style="width:75%">
 
 **Ability Score Increase:** Your Dexterity score increases by 2.
 
+</div>
+<div style="width:65%">
+
 **Age:** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
+
+</div>
+<div style="width:50%">
 
 **Alignment:** Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.
 
+</div>
+<div style="width:60%">
+
 **Size:** Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
+
+</div>
 
 **Speed:** Your base walking speed is 30 feet.
 
@@ -894,11 +931,19 @@ If your DM allows, you can use the following traits instead:
 
 #### Wood Elf
 
+<div style="margin-left:10px">
+
 **Ability Score Increase:** Your Wisdom score increases by 1.
 
 **Elf Weapon Training:** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
+</div>
+<div style="margin-left:30px">
+
 **Fleet of Foot:** Your base walking speed increases to 35 feet.
+
+</div>
+<div style="margin-left:80px">
 
 **Mask of the Wild:** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
@@ -910,6 +955,8 @@ If your DM allows, you can use the following traits instead:
 **Superior Darkvision:** Your darkvision has a radius of 120 feet.
 
 **Sunlight Sensitivity:** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+</div>
+
 
 **Drow Magic:** You know the *dancing lights* cantrip. When you reach 3rd level, you can cast the *faerie fire* spell once per day. When you reach 5th level, you can also cast the *darkness* spell once per day. Charisma is your spellcasting ability for these spells.
 
@@ -939,8 +986,9 @@ If your DM allows, you can use the following traits instead:
 {{footnote Races}}
 \page
 
-
 ## Halfling
+
+![Halfling Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-halfling.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *"The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. They appear relatively harmless, which has helped them survive for centuries in the shadow of empires and on the edges of wars."*
 
@@ -1007,6 +1055,8 @@ If your DM allows, you can use the following traits instead:
 
 ## Dragonborn
 
+![Dragonborn Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-dragonborn.png){position:absolute,top:400px,left:-100px,width:75%,mix-blend-mode:multiply}
+
 *"Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race."*
 
 
@@ -1019,7 +1069,7 @@ If your DM allows, you can use the following traits instead:
 **Alignment:** Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.
 
 **Size:** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
-
+\column
 **Speed:** Your base walking speed is 30 feet.
 
 **Draconic Ancestry:** You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type.
@@ -1069,8 +1119,9 @@ If your DM allows, you can use the following traits instead:
 {{footnote Races}}
 \page
 
-
 ## Gnome
+
+![Gnome Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-gnome.png){position:absolute,top:525px,right:-95px,width:55%,mix-blend-mode:multiply}
 
 *"A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter."*
 
@@ -1132,15 +1183,22 @@ If your DM allows, you can use the following traits instead:
 
 **Roleplaying Notes:**
 - Small but clever
+
+<div style="width:40%">
+
 - Can hide easily due to size
 - Gnome cunning makes you hard to magically manipulate
 - Perfect for wizards, artificers, rogues
+
+</div>
 
 {{pageNumber,auto}}
 {{footnote Races}}
 \page
 
 ## Half-elf
+
+![Half-elf Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-half-elf.png){position:absolute,top:110px,right:-100px,width:75%,mix-blend-mode:multiply}
 
 *"Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf and human parents."*
 
@@ -1190,9 +1248,11 @@ If your DM allows, you can use the following traits instead:
 
 ## Half-orc
 
+![Half-orc Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-half-orc.png){position:absolute,top:110px,left:-140px,width:75%,mix-blend-mode:multiply}
+
 *"Whether united under the leadership of a mighty warlock or fought to simple survival, half-orcs and orcs gather in tribes that strive to survive. Their rage flows freely. They value strength above all."*
 
-
+\column
 #### Half-orc Traits
 
 **Ability Score Increase:** Your Strength score increases by 2, and your Constitution score increases by 1.
@@ -1218,6 +1278,8 @@ If your DM allows, you can use the following traits instead:
 
 #### Half-orcs in Tirvandor
 
+<div style="margin-left:50px">
+
 **Population:** Rare (~2%)  
 **Nations:** Military and mercenary ranks, often outcasts  
 **Stereotypes:** Brutal, strong, angry, dangerous
@@ -1234,11 +1296,15 @@ If your DM allows, you can use the following traits instead:
 - Excellent combat abilities (relentless endurance, savage attacks)
 - Perfect for barbarians, fighters, any strength build
 
+</div>
+
 {{pageNumber,auto}}
 {{footnote Races}}
 \page
 
 ## Tiefling
+
+![Tiefling Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-tiefling.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *"To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling."*
 
@@ -1277,17 +1343,23 @@ If your DM allows, you can use the following traits instead:
 - **Thaldros:** Actively distrusted, some hide their horns
 - **Aethoria:** More tolerant but still feared
 - **Border:** Judged by actions not appearance
-
+\column
 **Roleplaying Notes:**
 - Face constant prejudice (especially in Thaldros)
 - Can't hide appearance (horns, tail, unusual skin)
+<div style="width:40%">
+
 - Assumed evil until proven otherwise
 - Perfect for warlocks, sorcerers, rogues
 - Great for "outsider" characters in Blood & Coin
 
+</div>
+
 {{pageNumber,auto}}
 {{footnote Races}}
 \page
+
+![Classes Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-classes.png){position:absolute,top:0,right:0,width:380px,mix-blend-mode:multiply}
 
 # Chapter 3: Classes
 
@@ -1332,8 +1404,9 @@ Your class is the most important decision you make about your character, definin
 {{footnote Classes}}
 \page
 
-
 ## Barbarian
+
+![Barbarian Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-barbarian.png){position:absolute,bottom:10px,left:-75px,width:65%,mix-blend-mode:multiply}
 
 *A fierce warrior of primitive background who can enter a battle rage*
 
@@ -1344,6 +1417,7 @@ As a barbarian, you gain the following class features.
 **Hit Points**
 - **Hit Dice:** 1d12 per barbarian level
 - **Hit Points at 1st Level:** 12 + your Constitution modifier
+\column
 - **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
 
 **Proficiencies**
@@ -1361,7 +1435,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - An explorer's pack and four javelins
 
 **Alternative:** Roll 2d4 × 10 gp and purchase starting equipment.
-{{wide
+
 ### **The Barbarian Table**
 
 | Level | Proficiency Bonus | Features | Rages | Rage Damage |
@@ -1386,7 +1460,11 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th | +6 | Indomitable Might | 6 | +4 |
 | 19th | +6 | Ability Score Improvement | 6 | +4 |
 | 20th | +6 | Primal Champion | Unlimited | +4 |
-}}
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### **Rage**
 
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
@@ -1405,10 +1483,6 @@ Once you have raged the number of times shown for your barbarian level in the Ra
 ### **Unarmored Defense**
 
 While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### **Reckless Attack (2nd Level)**
 
@@ -1468,6 +1542,10 @@ Beginning at 18th level, if your total for a Strength check is less than your St
 
 At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### **Primal Paths**
 
 #### **Path of the Berserker**
@@ -1481,10 +1559,6 @@ Starting when you choose this path at 3rd level, you can go into a frenzy when y
 **Mindless Rage (6th Level)**
 
 Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 **Intimidating Presence (10th Level)**
 
@@ -1534,6 +1608,10 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 - **Eagle:** While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.
 - **Wolf:** While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### **Barbarians in Tirvandor**
 
 **Origin:** Northern tribes, frontier clans, gladiators
@@ -1548,10 +1626,9 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 - **Blood & Coin:** Intimidating mercenary, enforcer
 - **Shattered Oaths:** Mighty warrior defending homeland
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 ## Fighter
+
+![Fighter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-fighter.png){position:absolute,top:400px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *A master of martial combat, skilled with a variety of weapons and armor*
 
@@ -1571,6 +1648,8 @@ As a fighter, you gain the following class features.
 - **Saving Throws:** Strength, Constitution
 - **Skills:** Choose two from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
+<div style="width:91%">
+
 **Equipment**
 
 You start with the following equipment:
@@ -1580,7 +1659,10 @@ You start with the following equipment:
 - (a) a dungeoneer's pack or (b) an explorer's pack
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
-{{wide
+
+</div>
+
+\column
 ### **The Fighter Table**
 
 | Level | Proficiency Bonus | Features |
@@ -1605,7 +1687,10 @@ You start with the following equipment:
 | 18th | +6 | Martial Archetype feature |
 | 19th | +6 | Ability Score Improvement |
 | 20th | +6 | Extra Attack (3) |
-}}
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **Fighting Style (1st Level)**
 
@@ -1628,10 +1713,6 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### **Action Surge (2nd Level)**
 
@@ -1687,6 +1768,10 @@ Starting at 15th level, your weapon attacks score a critical hit on a roll of 18
 
 At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 #### **Battle Master**
 
 Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.
@@ -1706,10 +1791,6 @@ When you choose this archetype at 3rd level, you learn maneuvers that are fueled
 **Student of War (3rd Level)**
 
 At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 **Know Your Enemy (7th Level)**
 
@@ -1752,6 +1833,10 @@ The maneuvers are presented in alphabetical order.
 
 **Parry:** When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Precision Attack:** When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.
 
 **Pushing Attack:** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.
@@ -1761,10 +1846,6 @@ The maneuvers are presented in alphabetical order.
 **Riposte:** When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
 
 **Sweeping Attack:** When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 **Trip Attack:** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
 
@@ -1836,6 +1917,8 @@ Starting at 18th level, when you use your action to cast a spell, you can make o
 
 ## Rogue
 
+![Rogue Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-rogue.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
+
 *A scoundrel who uses stealth and trickery to overcome obstacles and enemies*
 
 ### **Class Features**
@@ -1857,13 +1940,20 @@ As a rogue, you gain the following class features.
 **Equipment**
 
 You start with the following equipment:
+<div style="width:45%">
+
 - (a) a rapier or (b) a shortsword
 - (a) a shortbow and quiver of 20 arrows or (b) a shortsword
 - (a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack
 - Leather armor, two daggers, and thieves' tools
 
 **Alternative:** Roll 4d4 × 10 gp and purchase starting equipment.
+
+</div>
+
 {{wide
+<div style="width:45%">
+
 ### **The Rogue Table**
 
 | Level | Proficiency Bonus | Sneak Attack | Features |
@@ -1888,6 +1978,8 @@ You start with the following equipment:
 | 18th | +6 | 9d6 | Elusive |
 | 19th | +6 | 10d6 | Ability Score Improvement |
 | 20th | +6 | 10d6 | Stroke of Luck |
+
+</div>
 }}
 
 ### **Expertise**
@@ -1895,6 +1987,9 @@ You start with the following equipment:
 At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **Sneak Attack**
 
@@ -1903,10 +1998,6 @@ Beginning at 1st level, you know how to strike subtly and exploit a foe's distra
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### **Thieves' Cant**
 
@@ -1929,7 +2020,7 @@ When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, yo
 ### **Uncanny Dodge (5th Level)**
 
 Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
-
+\column
 ### **Evasion (7th Level)**
 
 Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
@@ -1972,6 +2063,10 @@ When you choose this archetype at 3rd level, you gain the ability to climb faste
 
 In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Supreme Sneak (9th Level)**
 
 Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
@@ -1979,10 +2074,6 @@ Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you 
 **Use Magic Device (13th Level)**
 
 By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 **Thief's Reflexes (17th Level)**
 
@@ -2087,13 +2178,9 @@ Once you use this feature, you can't use it again until you finish a long rest.
 {{footnote Classes}}
 \page
 
-The following classes are presented with full SRD mechanics. All mechanics are from the D&D 5e System Reference Document under the Open Game License.
-
----
-
----
-
 ## Bard
+
+![Bard Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-bard.png){position:absolute,bottom:-130px,left:-260px,width:75%,mix-blend-mode:multiply}
 
 *An inspiring magician whose power echoes the music of creation*
 
@@ -2107,6 +2194,7 @@ As a bard, you gain the following class features.
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
 
 **Proficiencies**
+\column
 - **Armor:** Light armor
 - **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 - **Tools:** Three musical instruments of your choice
@@ -2122,7 +2210,10 @@ You start with the following equipment:
 - Leather armor and a dagger
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
+
 {{wide
+<div style="margin-left:225px">
+
 ### **The Bard Table**
 
 | Level | Proficiency | Features | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -2147,7 +2238,13 @@ You start with the following equipment:
 | 18th | +6 | Magical Secrets | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Superior Inspiration | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+</div>
 }}
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### **Spellcasting**
 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. See chapter 7 for the general rules of spellcasting and chapter 8 for the bard spell list.
@@ -2169,10 +2266,6 @@ You know four 1st-level spells of your choice from the bard spell list.
 The Spells Known column of the Bard table shows when you learn more bard spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
 Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 **Spellcasting Ability**
 
@@ -2228,6 +2321,10 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### **Countercharm (6th Level)**
 
 At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
@@ -2239,10 +2336,6 @@ By 10th level, you have plundered magical knowledge from a wide spectrum of disc
 The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
 
 You learn two additional spells from any class at 14th level and again at 18th level.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### **Superior Inspiration (20th Level)**
 
@@ -2292,6 +2385,8 @@ Starting at 14th level, when you make an ability check, you can expend one use o
 \page
 
 ## Cleric
+
+![Cleric Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-cleric.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *A priestly champion who wields divine magic in service of a higher power*
 
@@ -2519,6 +2614,8 @@ In Tirvandor, clerics serve one of the Seven Ascended (see Appendix C):
 \page
 
 ## Druid
+
+![Druid Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-druid.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *A priest of nature who wields primal magic and can take the form of beasts*
 
@@ -2789,7 +2886,10 @@ The creature is aware of this effect before it makes its attack against you.
 {{pageNumber,auto}}
 {{footnote Classes}}
 \page
+
 ## Monk
+
+![Monk Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-monk.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection*
 
@@ -3024,6 +3124,8 @@ You can have only one creature under the effect of this feature at a time. You c
 \page
 
 ## Paladin
+
+![Paladin Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-paladin.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *A holy warrior bound to a sacred oath*
 
@@ -3300,6 +3402,8 @@ Paladins in Tirvandor swear oaths inspired by (but not directly to) the Ascended
 
 ## Ranger
 
+![Ranger Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-ranger.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
+
 *A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization*
 
 ### **Class Features**
@@ -3551,6 +3655,8 @@ At 15th level, you gain one of the following features of your choice.
 \page
 
 ## Sorcerer
+
+![Sorcerer Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-sorcerer.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *A spellcaster who draws on inherent magic from a gift or bloodline*
 
@@ -3808,6 +3914,8 @@ Beginning at 18th level, you can channel the dread presence of your dragon ances
 
 ## Warlock
 
+![Warlock Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-warlock.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
+
 *A wielder of magic that is derived from a bargain with an extraplanar entity*
 
 ### **Class Features**
@@ -4032,6 +4140,8 @@ All patron types exist but are controversial:
 \page
 
 ## Wizard
+
+![Wizard Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-wizard.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *A scholarly magic-user capable of manipulating the structures of reality*
 
@@ -4269,6 +4379,8 @@ All eight schools exist in Tirvandor academies:
 {{pageNumber,auto}}
 {{footnote Classes}}
 \page
+
+![Backgrounds Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-backgrounds.png){position:absolute,top:0,right:0,width:380px,mix-blend-mode:multiply}
 
 # Chapter 4: Personality & Background
 
@@ -5513,6 +5625,8 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 {{footnote Chapter 4: Backgrounds}}
 \page
 
+![Equipment Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-equipment.png){position:absolute,top:0,right:0,width:380px,mix-blend-mode:multiply}
+
 # Chapter 5: Equipment
 
 ## Starting Equipment
@@ -5625,6 +5739,8 @@ Tool proficiencies allow you to add your proficiency bonus to ability checks mad
 {{footnote Equipment}}
 \page
 
+![Customization Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-customization.png){position:absolute,top:0,right:0,width:380px,mix-blend-mode:multiply}
+
 {{wide
 # Chapter 6: Customization Options
 }}
@@ -5716,6 +5832,8 @@ Your DM may allow campaign-specific feats:
 {{pageNumber,auto}}
 {{footnote Classes}}
 \page
+
+![Subclasses Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-subclasses.png){position:absolute,top:0,right:0,width:380px,mix-blend-mode:multiply}
 
 {{wide
 # Chapter 7: Tirvandor Custom Subclasses
@@ -7606,6 +7724,8 @@ At 14th level, you break magical limits. Once per long rest, cast a spell and:
 {{footnote Custom SubClasses}}
 \page
 
+![Spells Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-spells.png){position:absolute,top:0,right:0,width:380px,mix-blend-mode:multiply}
+
 # Chapter 8: Tirvandor Custom Spells
 
 :
@@ -8020,6 +8140,8 @@ These spells should be automatically added to the spell lists of the subclasses 
 {{footnote Custom Spells}}
 \page
 
+![Conditions Appendix Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-appendix-conditions.png){position:absolute,top:0,right:0,width:350px,mix-blend-mode:multiply}
+
 # Appendix A: Conditions
 
 :
@@ -8121,6 +8243,8 @@ If multiple effects impose the same condition on a creature, each instance of th
 {{pageNumber,auto}}
 {{footnote Appendix A: Conditions}}
 \page
+
+![World Primer Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-appendix-world-primer.png){position:absolute,top:0,right:0,width:380px,mix-blend-mode:multiply}
 
 # Appendix B: World Primer
 :
@@ -8354,6 +8478,8 @@ Welcome to Tirvandor. Your story begins now.
 {{footnote Appendix B: World Primer}}
 \page
 
+![Pantheon Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-appendix-pantheon.png){position:absolute,top:0,right:0,width:380px,mix-blend-mode:multiply}
+
 # Appendix C: The Pantheon of Tirvandor
 
 The gods of Tirvandor are real, present forces that grant power to their faithful. They are called **The Seven Ascended** because ancient texts suggest they were once mortal heroes who transcended to divinity during the Age of Dawn.
@@ -8539,6 +8665,9 @@ Most adventurers acknowledge all the gods and pray to whichever suits their curr
 {{pageNumber,auto}}
 {{footnote Appendix C: The Pantheon}}
 \page
+
+![Beasts Appendix Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-appendix-beasts.png){position:absolute,top:0,right:0,width:380px,mix-blend-mode:multiply}
+
 # Appendix D: Beasts of Tirvandor
 :
 The following creatures are unique to Tirvandor or have adapted to the world's specific environments. They are suitable for Wild Shape, *polymorph*, *conjure animals*, and as animal companions for rangers and other classes.
