@@ -2174,13 +2174,9 @@ Once you use this feature, you can't use it again until you finish a long rest.
 - **Blood & Coin:** Excellent (infiltration, investigation, espionage)
 - **Shattered Oaths:** Good (scout, spy for heroic cause)
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ## Bard
 
-![Bard Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-bard.png){position:absolute,bottom:-130px,left:-260px,width:75%,mix-blend-mode:multiply}
+![Bard Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-bard.png){position:absolute,bottom:-130px,right:-100px,width:75%,mix-blend-mode:multiply}
 
 *An inspiring magician whose power echoes the music of creation*
 
@@ -2211,9 +2207,11 @@ You start with the following equipment:
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
 
-{{wide
-<div style="margin-left:225px">
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
+{{wide
 ### **The Bard Table**
 
 | Level | Proficiency | Features | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -2238,12 +2236,7 @@ You start with the following equipment:
 | 18th | +6 | Magical Secrets | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Superior Inspiration | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-</div>
 }}
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### **Spellcasting**
 
@@ -2293,6 +2286,10 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 
 Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### **Jack of All Trades (2nd Level)**
 
 Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
@@ -2321,14 +2318,10 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ### **Countercharm (6th Level)**
 
 At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
-
+\column
 ### **Magical Secrets (10th, 14th, 18th Level)**
 
 By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
@@ -2361,6 +2354,10 @@ At 6th level, you learn two spells of your choice from any class. A spell you ch
 
 Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the DM tells you whether you succeed or fail.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### **Bards in Tirvandor**
 
 **Origin:** Colleges of music, traveling performers, spies
@@ -2377,16 +2374,16 @@ Starting at 14th level, when you make an ability check, you can expend one use o
 - **Border:** Information brokers, diplomats, neutral mediators
 
 **In Campaigns:**
+<div style="width:90%">
+
 - **Blood & Coin:** Excellent (social manipulation, intel gathering, versatility)
+
+</div>
+
 - **Shattered Oaths:** Excellent (inspiring heroes, rallying troops)
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
+![Cleric Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-cleric.png){position:absolute,top:110px,right:-100px,width:75%,mix-blend-mode:multiply}
 ## Cleric
-
-![Cleric Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-cleric.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *A priestly champion who wields divine magic in service of a higher power*
 
@@ -2414,8 +2411,14 @@ You start with the following equipment:
 - (a) a light crossbow and 20 bolts or (b) any simple weapon
 - (a) a priest's pack or (b) an explorer's pack
 - A shield and a holy symbol
-
+\column
+{{padding-top:30px}}
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 {{wide
 ### **The Cleric Table**
 
@@ -2458,10 +2461,6 @@ You prepare the list of cleric spells that are available for you to cast, choosi
 
 For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 **Spellcasting Ability**
@@ -2482,11 +2481,15 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 
 ### **Divine Domain**
 
-Choose one domain related to your deity: Life domain (detailed below) or others. Each domain provides examples of the gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+Choose one domain related to your deity: Life domain (detailed below) or others. Each domain provides examples of the gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you
+additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 **Domain Spells**
 
 Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
@@ -2497,6 +2500,7 @@ At 2nd level, you gain the ability to channel divine energy directly from your d
 When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
 
 Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
+
 
 Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
@@ -2534,10 +2538,6 @@ If your deity intervenes, you can't use this feature again for 7 days. Otherwise
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ### **Life Domain**
 
 The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.
@@ -2569,6 +2569,10 @@ As an action, you present your holy symbol and evoke healing energy that can res
 **Blessed Healer (6th Level)**
 
 Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Divine Strike (8th Level)**
 
@@ -2609,13 +2613,9 @@ In Tirvandor, clerics serve one of the Seven Ascended (see Appendix C):
 - **Blood & Coin:** Good (healer, moral compass in grey world)
 - **Shattered Oaths:** Excellent (divine champion, crusader)
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ## Druid
 
-![Druid Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-druid.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
+![Druid Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-druid.png){position:absolute,top:130px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *A priest of nature who wields primal magic and can take the form of beasts*
 
@@ -2627,6 +2627,10 @@ As a druid, you gain the following class features.
 - **Hit Dice:** 1d8 per druid level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Proficiencies**
 - **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
@@ -2643,6 +2647,7 @@ You start with the following equipment:
 - Leather armor, an explorer's pack, and a druidic focus
 
 **Alternative:** Roll 2d4 × 10 gp and purchase starting equipment.
+
 {{wide
 ### **The Druid Table**
 
@@ -2687,13 +2692,13 @@ The Druid table shows how many spell slots you have to cast your spells of 1st l
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Spellcasting Ability**
 
@@ -2739,10 +2744,6 @@ While you are transformed, the following rules apply:
 
 At 2nd level, you choose to identify with a circle of druids, such as the Circle of the Land. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Level)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -2750,6 +2751,10 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 ### **Timeless Body (18th Level)**
 
 Starting at 18th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **Beast Spells (18th Level)**
 
@@ -2837,9 +2842,6 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th | *freedom of movement*, *locate creature* |
 | 9th | *insect plague*, *scrying* |
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 **Land's Stride (6th Level)**
 
@@ -2851,6 +2853,10 @@ In addition, you have advantage on saving throws against plants that are magical
 
 When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Nature's Sanctuary (14th Level)**
 
 When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.
@@ -2860,7 +2866,7 @@ The creature is aware of this effect before it makes its attack against you.
 ### **Druids in Tirvandor**
 
 **Origin:** Forest circles, nature guardians, isolated groves
-
+\column
 **Cultural Context:**
 - Protect wilderness from civilization's expansion
 - Mostly wood elves and humans
@@ -2879,17 +2885,16 @@ The creature is aware of this effect before it makes its attack against you.
 - **Aethoria:** More tolerated but still outsiders
 - **Border:** Protect wilderness areas between nations
 
+
 **In Campaigns:**
 - **Blood & Coin:** Challenging (nature vs urban political intrigue)
 - **Shattered Oaths:** Good (nature defender, protector of wild places)
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ## Monk
 
-![Monk Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-monk.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
+<div style="margin-left:25px">
+
+![Monk Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-monk.png){position:absolute,top:255px,left:-100px,width:70%,mix-blend-mode:multiply}
 
 *A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection*
 
@@ -2917,6 +2922,13 @@ You start with the following equipment:
 - 10 darts
 
 **Alternative:** Roll 5d4 gp and purchase starting equipment.
+
+</div>
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 {{wide
 ### **The Monk Table**
 
@@ -2958,10 +2970,6 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 - You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
 - When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ### **Ki (2nd Level)**
 
 Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.
@@ -2991,6 +2999,10 @@ You can spend 1 ki point to take the Disengage or Dash action as a bonus action 
 Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
 
 At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **Monastic Tradition (3rd Level)**
 
@@ -3025,10 +3037,6 @@ Starting at 6th level, your unarmed strikes count as magical for the purpose of 
 ### **Evasion (7th Level)**
 
 At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a *fireball* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### **Stillness of Mind (7th Level)**
 
@@ -3065,6 +3073,10 @@ At 20th level, when you roll for initiative and have no ki points remaining, you
 ### **Way of the Open Hand**
 
 Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Open Hand Technique (3rd Level)**
 
@@ -3106,10 +3118,6 @@ You can have only one creature under the effect of this feature at a time. You c
 - Located in northern mountain ranges
 - Accept students rarely and only after trials
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 **In Tirvandor:**
 - **Thaldros:** Rare, viewed with suspicion (foreign martial arts)
 - **Aethoria:** Rare, respected as philosophers and warriors
@@ -3119,13 +3127,7 @@ You can have only one creature under the effect of this feature at a time. You c
 - **Blood & Coin:** Challenging (discipline vs grey morality, but can work as bodyguard)
 - **Shattered Oaths:** Good (disciplined hero, martial arts master)
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ## Paladin
-
-![Paladin Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-paladin.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *A holy warrior bound to a sacred oath*
 
@@ -3154,7 +3156,15 @@ You start with the following equipment:
 - Chain mail and a holy symbol
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
-{{wide
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
+
+![Paladin Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-paladin.png){position:absolute,top:160px,right:-160px,width:75%,mix-blend-mode:multiply}
+
+
 ### **The Paladin Table**
 
 | Level | Proficiency | Features | 1st | 2nd | 3rd | 4th | 5th |
@@ -3179,14 +3189,13 @@ You start with the following equipment:
 | 18th | +6 | Aura improvements | 4 | 3 | 3 | 3 | 1 |
 | 19th | +6 | Ability Score Improvement | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Sacred Oath feature | 4 | 3 | 3 | 3 | 2 |
-}}
 
 ### **Divine Sense**
 
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
-\column
+
 ### **Lay on Hands**
 
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
@@ -3343,10 +3352,6 @@ You can end this effect on your turn as part of any other action. If you are no 
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 **Aura of Devotion (7th Level)**
 
 Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious.
@@ -3356,6 +3361,10 @@ At 18th level, the range of this aura increases to 30 feet.
 **Purity of Spirit (15th Level)**
 
 Beginning at 15th level, you are always under the effects of a *protection from evil and good* spell.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Holy Nimbus (20th Level)**
 
@@ -3396,13 +3405,9 @@ Paladins in Tirvandor swear oaths inspired by (but not directly to) the Ascended
 - **Blood & Coin:** Challenging but very rewarding (oath vs grey reality creates drama)
 - **Shattered Oaths:** Excellent (classic holy warrior, oath tested by darkness)
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ## Ranger
 
-![Ranger Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-ranger.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
+![Ranger Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-ranger.png){position:absolute,bottom:0px,right:-100px,width:55%,mix-blend-mode:multiply}
 
 *A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization*
 
@@ -3430,7 +3435,16 @@ You start with the following equipment:
 - (a) a dungeoneer's pack or (b) an explorer's pack
 - A longbow and a quiver of 20 arrows
 
+<div style="width:75%">
+
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
+
+</div>
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 {{wide
 ### **The Ranger Table**
 
@@ -3473,10 +3487,6 @@ You choose one additional favored enemy, as well as an associated language, at 6
 
 You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
 
 - Difficult terrain doesn't slow your group's travel.
@@ -3503,6 +3513,10 @@ At 2nd level, you adopt a particular style of fighting as your specialty. Choose
 ### **Spellcasting (2nd Level)**
 
 By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 7 for the general rules of spellcasting and chapter 8 for the ranger spell list.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Spell Slots**
 
@@ -3542,10 +3556,6 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ### **Land's Stride (8th Level)**
 
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
@@ -3571,6 +3581,10 @@ You are also aware of the location of any invisible creature within 30 feet of y
 ### **Foe Slayer (20th Level)**
 
 At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **Hunter**
 
@@ -3614,10 +3628,6 @@ At 15th level, you gain one of the following features of your choice.
 
 **Uncanny Dodge.** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ### **Rangers in Tirvandor**
 
 **Origin:** Wilderness scouts, border patrol, trackers, bounty hunters
@@ -3656,7 +3666,7 @@ At 15th level, you gain one of the following features of your choice.
 
 ## Sorcerer
 
-![Sorcerer Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-sorcerer.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
+![Sorcerer Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-sorcerer.png){position:absolute,top:10px,right:-10px,width:55%,mix-blend-mode:multiply}
 
 *A spellcaster who draws on inherent magic from a gift or bloodline*
 
@@ -3685,6 +3695,45 @@ You start with the following equipment:
 - Two daggers
 
 **Alternative:** Roll 3d4 × 10 gp and purchase starting equipment.
+
+### **Spellcasting**
+
+An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See chapter 7 for the general rules of spellcasting and chapter 8 for the sorcerer spell list.
+
+**Cantrips**
+
+At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table.
+
+**Spell Slots**
+
+The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+**Spells Known of 1st Level and Higher**
+
+You know two 1st-level spells of your choice from the sorcerer spell list.
+\column
+{{padding-top:630px}}
+The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots.
+
+Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+
+
+**Spellcasting Ability**
+
+Charisma is your spellcasting ability for your sorcerer spells. You use your Charisma whenever a spell refers to your spellcasting ability.
+
+**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+
+**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+
+**Spellcasting Focus**
+
+You can use an arcane focus as a spellcasting focus for your sorcerer spells.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 {{wide
 ### **The Sorcerer Table**
 
@@ -3711,42 +3760,6 @@ You start with the following equipment:
 | 19th | +6 | 19 | Ability Score Improvement | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | 20 | Sorcerous Restoration | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
-
-### **Spellcasting**
-
-An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See chapter 7 for the general rules of spellcasting and chapter 8 for the sorcerer spell list.
-
-**Cantrips**
-
-At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table.
-
-**Spell Slots**
-
-The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-
-**Spells Known of 1st Level and Higher**
-
-You know two 1st-level spells of your choice from the sorcerer spell list.
-
-The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots.
-
-Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
-**Spellcasting Ability**
-
-Charisma is your spellcasting ability for your sorcerer spells. You use your Charisma whenever a spell refers to your spellcasting ability.
-
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
-
-**Spell attack modifier** = your proficiency bonus + your Charisma modifier
-
-**Spellcasting Focus**
-
-You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 
 ### **Sorcerous Origin**
 
@@ -3798,6 +3811,10 @@ When you cast a spell that has a range of 5 feet or greater, you can spend 1 sor
 
 When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Empowered Spell**
 
 When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
@@ -3825,10 +3842,6 @@ When you cast a spell, you can spend 1 sorcery point to cast it without any soma
 When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* and *chromatic orb* are.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th Level)**
 
@@ -3879,7 +3892,13 @@ You can't manifest your wings while wearing armor unless the armor is made to ac
 
 **Draconic Presence (18th Level)**
 
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
+awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
 ### **Sorcerers in Tirvandor**
 
@@ -3899,6 +3918,8 @@ Beginning at 18th level, you can channel the dread presence of your dragon ances
 - Can be unstable and unpredictable
 - Some fear sorcerers, others revere them
 
+{{padding-top:340px}}
+
 **In Tirvandor:**
 - **Thaldros:** Must register with authorities, closely monitored (fear of uncontrolled power)
 - **Aethoria:** Free to practice, celebrated as natural talent
@@ -3908,13 +3929,9 @@ Beginning at 18th level, you can channel the dread presence of your dragon ances
 - **Blood & Coin:** Excellent (raw magical power, flexible spellcasting, dramatic)
 - **Shattered Oaths:** Excellent (chosen one potential, destiny themes)
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 ## Warlock
 
-![Warlock Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-warlock.png){position:absolute,top:110px,right:-150px,width:75%,mix-blend-mode:multiply}
+![Warlock Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-warlock.png){position:absolute,top:400px,right:50px,width:75%,mix-blend-mode:multiply}
 
 *A wielder of magic that is derived from a bargain with an extraplanar entity*
 
@@ -3934,6 +3951,8 @@ As a warlock, you gain the following class features.
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
+{{padding-top:400px}}
+
 **Equipment**
 
 You start with the following equipment:
@@ -3943,6 +3962,11 @@ You start with the following equipment:
 - Leather armor, any simple weapon, and two daggers
 
 **Alternative:** Roll 4d4 × 10 gp and purchase starting equipment.
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 {{wide
 ### **The Warlock Table**
 
@@ -3994,10 +4018,6 @@ The Spells Known column of the Warlock table shows when you learn more warlock s
 
 Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 **Spellcasting Ability**
 
 Charisma is your spellcasting ability for your warlock spells.
@@ -4030,6 +4050,10 @@ At 2nd level, you gain two eldritch invocations of your choice. When you gain ce
 - **Repelling Blast:** Push creatures 10 feet with *eldritch blast*
 
 *(For complete invocation list, see SRD)*
+
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 ### **Pact Boon (3rd Level)**
 
@@ -4079,10 +4103,6 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 | 4th | *fire shield*, *wall of fire* |
 | 5th | *flame strike*, *hallow* |
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 **Dark One's Blessing (1st Level)**
 
 Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).
@@ -4118,6 +4138,10 @@ All patron types exist but are controversial:
 - **The Archfey:** Pacts with powerful fey lords (less distrusted than fiends)
 - **The Celestial:** Pacts with angelic beings (more accepted)
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Cultural Context:**
 - Pact magic from otherworldly entities
 - "Sold soul for power" reputation
@@ -4134,10 +4158,6 @@ All patron types exist but are controversial:
 **In Campaigns:**
 - **Blood & Coin:** Excellent (morally grey power, flexible, pact creates drama)
 - **Shattered Oaths:** Good (requires explanation of pact, oath vs pact tension)
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ## Wizard
 
