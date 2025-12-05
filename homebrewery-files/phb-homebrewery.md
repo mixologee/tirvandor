@@ -167,7 +167,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 
 Welcome to **Tirvandor**, a world of political intrigue, moral complexity, and meaningful choices. This Player's Handbook contains everything you need to create and play a character in this rich campaign setting.
 
-**This handbook includes:**
+**This handbook includes:** ::
 
 - Complete character creation rules for D&D 5th Edition
 - All standard races and classes with full mechanics
@@ -177,7 +177,7 @@ Welcome to **Tirvandor**, a world of political intrigue, moral complexity, and m
 - Background generators with personality tables
 - Player-safe world information about Tirvandor
 
-**This handbook does NOT include:**
+**This handbook does NOT include:** ::
 
 - Combat and general gameplay rules (see D&D 5e Basic Rules or Player's Handbook)
 - Magic item descriptions (see campaign-specific guides)
@@ -189,7 +189,7 @@ This book provides the character creation rules. For the complete D&D 5e gamepla
 
 ## How to Use This Book
 
-**If you're new to D&D:**
+**If you're new to D&D:** ::
 
 1. Read Chapter 1 (Step-by-Step Characters) to understand the process
 2. Follow along to create your first character
@@ -197,7 +197,7 @@ This book provides the character creation rules. For the complete D&D 5e gamepla
 4. Ask your Dungeon Master questions about Tirvandor
 5. Use the World Primer (Chapter 11) to learn about the setting
 
-**If you're experienced with D&D 5e:**
+**If you're experienced with D&D 5e:** ::
 
 1. Skim Chapter 1 for any Tirvandor-specific differences
 2. Jump directly to races (Chapter 3) and classes (Chapter 4)
@@ -209,23 +209,20 @@ This book provides the character creation rules. For the complete D&D 5e gamepla
 
 <div style="width:40%">
 
-**For campaign-specific rules:**
+**For campaign-specific rules:** ::
 - See *Shattered Oaths Player's Guide* for the heroic campaign
 - See *Blood & Coin Player's Guide* for the mercenary campaign
 
 </div>
 <div style="width:50%">
 
-- See *Shattered Oaths Player's Guide* for the heroic campaign
+- Ask your DM about house rules or table-specific adjustments
 
 </div>
 
-- Ask your DM about house rules or table-specific adjustments
----
-
 ## What You Need to Play
 
-**Essential Materials:**
+**Essential Materials:** ::
 
 - This Player's Handbook
 - A character sheet (blank template in Appendix C, or use digital tools)
@@ -234,7 +231,7 @@ This book provides the character creation rules. For the complete D&D 5e gamepla
 - Friends to play with
 - A Dungeon Master to run the game
 
-**Optional But Helpful:**
+**Optional But Helpful:** ::
 
 - Miniatures or tokens to represent your character
 - Grid mat or battle map for tactical combat
@@ -243,7 +240,7 @@ This book provides the character creation rules. For the complete D&D 5e gamepla
 - Snacks (always a good idea)
 - Note-taking supplies for tracking quests and NPCs
 
-**Digital Options:**
+**Digital Options:** ::
 
 Many players prefer digital character sheets and dice rollers. Popular options include:
 
@@ -288,28 +285,28 @@ This doesn't mean anything goes - heroism, compassion, and standing up for what'
 
 Talk with your DM and fellow players about the tone and themes of your campaign. Make sure everyone at the table is comfortable with the level of moral complexity in the game.
 
----
+\column
 
 ## How to Create a Character
 
 Character creation in Tirvandor follows the standard D&D 5e process with some Tirvandor-specific flavor added. The full step-by-step process is covered in Chapter 2, but here's the quick overview:
 
-**Step 1: Choose a Race**  
+**Step 1: Choose a Race**   ::
 Select from nine standard fantasy races (Chapter 3), each with cultural context for how they fit into Tirvandor society.
 
-**Step 2: Choose a Class**  
+**Step 2: Choose a Class**   ::
 Pick one of twelve adventuring classes (Chapter 4) that defines your character's abilities and role in combat.
 
-**Step 3: Determine Ability Scores**  
+**Step 3: Determine Ability Scores**   ::
 Roll or assign scores to your six core abilities: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
 
-**Step 4: Describe Your Character**  
+**Step 4: Describe Your Character**   ::
 Choose a background (Chapter 5), personality traits, and physical appearance. Give your character depth and history.
 
-**Step 5: Choose Equipment**  
+**Step 5: Choose Equipment**   ::
 Select starting gear and weapons (Chapter 6) based on your class and background.
 
-**Step 6: Come Together**  
+**Step 6: Come Together**   ::
 Work with your party to establish relationships and shared goals. Decide why you're adventuring together.
 
 Once your character is created, you're ready to play!
@@ -330,7 +327,7 @@ Welcome to Tirvandor. Your choices matter. Your story begins now.
 {{footnote Introduction}}
 \page
 
-![Character Creation Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-character-creation.png){position:absolute,top:700px,right:-40px,width:380px,width:40%,mix-blend-mode:multiply}
+![Character Creation Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-character-creation.png){position:absolute,top:700px,right:-43px,width:380px,width:40%,mix-blend-mode:multiply}
 
 {{wide
 # Chapter 1: Step-by-step Characters
@@ -341,7 +338,7 @@ Welcome to Tirvandor. Your choices matter. Your story begins now.
 
 Your first step in playing an adventurer in Tirvandor is to imagine and create a character of your own. Your character is a combination of game statistics, roleplaying hooks, and your imagination.
 
-**The process has six steps:**
+**The process has six steps:** ::
 
 1. **Choose a Race:** Human, dwarf, elf, or another fantasy species
 2. **Choose a Class:** Fighter, wizard, cleric, or another adventuring profession
@@ -358,7 +355,7 @@ Your first step in playing an adventurer in Tirvandor is to imagine and create a
 
 Every character belongs to a race, one of the many intelligent humanoid species in Tirvandor. The most common races are humans, dwarves, elves, and halflings. Some races have subraces, such as mountain dwarf or wood elf.
 
-**Chapter 2 provides detailed information on these races:**
+**Chapter 2 provides detailed information on these races:** ::
 - Humans
 - Dwarves (Hill, Mountain)
 - Elves (High, Wood, Dark)
@@ -375,16 +372,16 @@ Every character belongs to a race, one of the many intelligent humanoid species 
 - **Speed:** How far you move in a round
 - **Special Traits:** Darkvision, skill proficiencies, resistances, etc.
 
-**In Tirvandor context:**
+**In Tirvandor context:** :: 
 Your race also determines how NPCs may react to you. See Chapter 2 for cultural notes on each race in Tirvandor society.
 
----
+\column
 
 ## Step 2: Choose a Class
 
 Every adventurer is a member of a class. Class broadly describes a character's vocation, special talents, and tactics.
 
-**Chapter 3 provides detailed information on these classes:**
+**Chapter 3 provides detailed information on these classes:** ::
 - Barbarian (Primal warrior)
 - Bard (Inspiring musician and jack-of-all-trades)
 - Cleric (Priestly divine caster)
@@ -398,7 +395,7 @@ Every adventurer is a member of a class. Class broadly describes a character's v
 - Warlock (Pact magic from otherworldly patron)
 - Wizard (Scholarly magic)
 
-**Your class gives you:**
+**Your class gives you:** ::
 - **Hit Points:** How much damage you can take
 - **Proficiencies:** Armor, weapons, saves, skills, tools
 - **Equipment:** Starting gear
@@ -415,11 +412,14 @@ Much of what your character does depends on six abilities:
 **Strength (STR):** Physical power ::
 **Dexterity (DEX):** Agility and reflexes   ::
 **Constitution (CON):** Endurance   ::
+
+<div style="width:50%">
+
 **Intelligence (INT):** Reasoning and memory   ::
-
-<div style="width:60%">
-
 **Wisdom (WIS):** Awareness and intuition   ::
+</div>
+<div style="width:45%">
+
 **Charisma (CHA):** Force of personality   ::
 
 </div>
@@ -532,16 +532,14 @@ Then apply racial bonuses.
 
 #### Variant: Customizing Ability Scores (Optional)
 
-**Tasha's Cauldron of Everything optional rule:**
-
 Your DM may allow you to reassign racial ability score increases.
 
-**Instead of fixed racial bonuses:**
+**Instead of fixed racial bonuses:** ::
 - Assign +2 to one ability
 - Assign +1 to another ability
 - Or three +1 bonuses
 
-**Example:** Dragonborn traditionally gets +2 STR, +1 CHA
+**Example:** Dragonborn traditionally gets +2 STR, +1 CHA ::
 - Could instead take +2 INT, +1 WIS for wizard concept
 
 **Check with your DM before using this variant.**
@@ -553,12 +551,12 @@ Your DM may allow you to reassign racial ability score increases.
 
 After determining base scores, add racial bonuses from your chosen race (Chapter 2).
 
-**Example:** Human Fighter using Standard Array
+**Example:** Human Fighter using Standard Array ::
 - Base: STR 15, DEX 13, CON 14, INT 8, WIS 10, CHA 12
 - Human bonus: +1 to all abilities
 - Final: STR 16, DEX 14, CON 15, INT 9, WIS 11, CHA 13
 
-**Example:** Mountain Dwarf Fighter using Standard Array
+**Example:** Mountain Dwarf Fighter using Standard Array ::
 - Base: STR 15, DEX 12, CON 14, INT 8, WIS 13, CHA 10
 - Dwarf bonus: +2 CON, +2 STR
 - Final: STR 17, DEX 12, CON 16, INT 8, WIS 13, CHA 10
@@ -571,7 +569,7 @@ After determining base scores, add racial bonuses from your chosen race (Chapter
 
 Once you have final ability scores, determine modifiers:
 
-**Formula:** (Ability Score - 10) ÷ 2, rounded down
+**Formula:** (Ability Score - 10) ÷ 2, rounded down ::
 
 **Or use this table:**
 
@@ -606,19 +604,19 @@ Once you have final ability scores, determine modifiers:
 
 **Alignment is a general description of moral and ethical attitudes.**
 
-**Two Axes:**
+**Two Axes:** ::
 
-**Law vs Chaos:**
+**Law vs Chaos:** ::
 - **Lawful:** Respects rules, order, tradition
 - **Neutral:** Pragmatic, situational
 - **Chaotic:** Values freedom, flexibility, spontaneity
 
-**Good vs Evil:**
+**Good vs Evil:** ::
 - **Good:** Compassionate, altruistic, helps others
 - **Neutral:** Pragmatic, self-interested but not cruel
 - **Evil:** Selfish, cruel, harms others for gain
 
-**Nine Alignments:**
+**Nine Alignments:** ::
 
 | | Lawful | Neutral | Chaotic |
 |---------|---------|---------|---------|
@@ -626,7 +624,7 @@ Once you have final ability scores, determine modifiers:
 | **Neutral** | LN | N | CN |
 | **Evil** | LE | NE | CE |
 
-**Common Alignments for Tirvandor:**
+**Common Alignments for Tirvandor:** ::
 - **Chaotic Good:** Freedom fighters, rebels with hearts
 - **Neutral Good:** Pragmatic heroes
 - **Lawful Neutral:** Professional soldiers, mercenaries
@@ -646,7 +644,7 @@ Choose or roll:
 - **1 Bond:** Connection to person, place, or thing
 - **1 Flaw:** Weakness or vice
 
-**Example:**
+**Example:** ::
 - **Trait:** "I always have a plan for when things go wrong."
 - **Trait:** "I'm always calm, no matter the situation."
 - **Ideal:** "Freedom. Everyone deserves to live free."
@@ -662,19 +660,19 @@ Choose or roll:
 
 Each class (Chapter 3) provides starting equipment options.
 
-**You choose between:**
+**You choose between:** ::
 - **Option A:** Specific equipment package (simple, ready to go)
 - **Option B:** Starting gold to buy equipment (flexible, customizable)
 
-**Example: Fighter Starting Equipment**
+**Example: Fighter Starting Equipment** ::
 
-**Option A (Equipment Package):**
+**Option A (Equipment Package):** ::
 - (a) Chain mail or (b) leather armor, longbow, and 20 arrows
 - (a) A martial weapon and a shield or (b) two martial weapons
 - (a) A light crossbow and 20 bolts or (b) two handaxes
 - (a) A dungeoneer's pack or (b) an explorer's pack
 
-**Option B (Starting Gold):**
+**Option B (Starting Gold):** ::
 - 5d4 × 10 gp (average: 125 gp)
 - Buy equipment from Chapter 5
 
@@ -686,11 +684,10 @@ Each class (Chapter 3) provides starting equipment options.
 
 Your Armor Class represents how hard you are to hit in combat.
 
-**Base AC = 10 + Dexterity modifier**
+**Base AC = 10 + Dexterity modifier** ::
+**With armor:** Use armor's AC (+ Dex modifier if allowed) ::
 
-**With armor:** Use armor's AC (+ Dex modifier if allowed)
-
-**Examples:**
+**Examples:** ::
 - Unarmored (10 + Dex): Wizard with 14 Dex = AC 12
 - Leather armor (11 + Dex): Rogue with 16 Dex = AC 14
 - Chain mail (16, no Dex): Fighter = AC 16
@@ -701,12 +698,12 @@ Your Armor Class represents how hard you are to hit in combat.
 
 Choose weapons from Chapter 5.
 
-**Record on character sheet:**
+**Record on character sheet:** ::
 - Weapon name
 - Attack bonus (proficiency bonus + ability modifier)
 - Damage (weapon die + ability modifier)
 
-**Example:** Fighter with Longsword
+**Example:** Fighter with Longsword ::
 - **Attack:** +5 to hit (proficiency +2, STR modifier +3)
 - **Damage:** 1d8+3 slashing (or 1d10+3 versatile two-handed)
 
@@ -717,23 +714,23 @@ Choose weapons from Chapter 5.
 
 #### Party Connections
 
-**Discuss with your group:**
+**Discuss with your group:** ::
 
-**Why are you together?**
+**Why are you together?** ::
 - Met on same job/quest
 - Old friends or family
 - Brought together by patron
 - Coincidence turned partnership
 - Shared goal or enemy
 
-**What keeps you together?**
+**What keeps you together?** ::
 - Mutual profit
 - Friendship and trust
 - Shared ideals
 - Complementary skills
 - Nowhere else to go
 
-**Group dynamics:**
+**Group dynamics:** ::
 - Who's the face (talks to NPCs)?
 - Who's the planner?
 - Who's the muscle?
@@ -742,16 +739,17 @@ Choose weapons from Chapter 5.
 
 **Don't start as strangers who distrust each other. Start as a functional team, even if recently formed.**
 
+\column
 
 #### Campaign-specific Considerations
 
-**For Blood & Coin (Mercenary Campaign):**
+**For Blood & Coin (Mercenary Campaign):** ::
 - Why mercenary work?
 - What's your reputation goal?
 - What won't you do (your line)?
 - Why trust this party?
 
-**For Shattered Oaths (Heroic Campaign):**
+**For Shattered Oaths (Heroic Campaign):** ::
 - What makes you a hero?
 - What do you fight for?
 - Why answer the call?
@@ -766,7 +764,7 @@ Choose weapons from Chapter 5.
 
 Your DM awards experience points for overcoming challenges.
 
-**Advancement Table:**
+**Advancement Table:** ::
 
 | Level | XP Required | Proficiency Bonus |
 |-------|-------------|-------------------|
@@ -818,7 +816,7 @@ When you gain a level:
 
 Your character's race determines certain physical characteristics and natural abilities.
 
-**Each racial description includes:**
+**Each racial description includes:** ::
 - **Ability Score Increase:** Bonus to one or more abilities
 - **Age:** Typical lifespan
 - **Alignment:** Common tendencies (not required)
@@ -828,7 +826,7 @@ Your character's race determines certain physical characteristics and natural ab
 - **Languages:** Languages you can speak
 - **Subraces:** Variants within the race (if applicable)
 
-**IN TIRVANDOR CONTEXT:**
+**In Tirvandor Context:**
 Each race also includes cultural notes about how they fit Tirvandor society. This affects roleplay but not mechanics.
 
 :
@@ -840,7 +838,7 @@ Each race also includes cultural notes about how they fit Tirvandor society. Thi
 *"Humans are the most adaptable and ambitious people among the common races. Whatever drives them, humans are the innovators, the achievers, and the pioneers of Tirvandor."*
 
 
-#### Human Traits
+#### Human Traits 
 
 **Ability Score Increase:** Your ability scores each increase by 1. 
 
@@ -873,14 +871,14 @@ If your DM allows, you can use the following traits instead:
 **Stereotypes:** Ambitious, short-lived, adaptable
 \column
 {{padding-top:230px}}
-**Cultural Context:**
+**Cultural Context:** ::
 - Most common race in both nations
 - No single human culture (varies by region)
 - Thaldros humans tend toward law and order
 - Aethoria humans tend toward freedom and democracy
 - Border humans are pragmatic survivors
 
-**Roleplaying Notes:**
+**Roleplaying Notes:** ::
 - Fit anywhere without standing out
 - No inherent cultural baggage
 - Define yourself by choices, not race
@@ -947,14 +945,14 @@ If your DM allows, you can use the following traits instead:
 **Nations:** Respected in both, mountain clans independent  
 **Stereotypes:** Stubborn, skilled craftsmen, honor-bound
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Mountain clans maintain independence in northern ranges
 - Hill dwarves integrated into both nations
 - Master craftsmen, especially smiths and brewers
 - Long memories (never forget grudge or favor)
 - **Iron Guild** led by dwarf Varak Ironfist (mercenary hub)
 
-**Roleplaying Notes:**
+**Roleplaying Notes:** ::
 - Respected professionals in both nations
 - Natural fit for military or mercenary work
 - Cultural expectation of honor and craftsmanship
@@ -1060,13 +1058,13 @@ If your DM allows, you can use the following traits instead:
 **Nations:** High elves in cities/academies, wood elves in forests  
 **Stereotypes:** Aloof, long-lived, magically gifted
 
-**Cultural Context:**
+**Cultural Context:** ::
 - High elves: Aristocratic nobles and court mages in Thaldros
 - Wood elves: Free forest enclaves, mostly in Aethoria territory
 - Dark elves: Rare and deeply distrusted, usually outcasts
 - Long lifespan makes them seem detached from "mortal concerns"
 
-**Roleplaying Notes:**
+**Roleplaying Notes:** ::
 - Seen as aloof or arrogant (whether true or not)
 - 100+ years of experience colors perspective
 - Rare in mercenary work (unusual career choice)
@@ -1127,13 +1125,13 @@ If your DM allows, you can use the following traits instead:
 **Nations:** Everywhere, especially trade towns and Border  
 **Stereotypes:** Lucky, cheerful, sneaky, underestimated
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Most adaptable race after humans
 - Excellent merchants, traders, and innkeepers
 - Underestimated (which they use to advantage)
 - "Halfling luck" is genuinely real
 
-**Roleplaying Notes:**
+**Roleplaying Notes:** ::
 - Can blend in anywhere
 - Not taken seriously initially (prove them wrong)
 - Friendly and disarming personality helps
@@ -1212,7 +1210,7 @@ If your DM allows, you can use the following traits instead:
 
 ## Gnome
 
-![Gnome Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-gnome.png){position:absolute,top:525px,right:-95px,width:55%,mix-blend-mode:multiply}
+![Gnome Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-gnome.png){position:absolute,top:550px,right:-95px,width:55%,mix-blend-mode:multiply}
 
 *"A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter."*
 
@@ -1266,13 +1264,13 @@ If your DM allows, you can use the following traits instead:
 **Nations:** Rock gnomes in cities, forest gnomes in wilderness  
 **Stereotypes:** Curious, inventive, chatty, clever
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Rock gnomes: Engineers and inventors in both nations
 - Forest gnomes: Rare hermits and illusionists in forests
 - Master tinkerers (artificer class popular)
 - Innately magical and experimental
 
-**Roleplaying Notes:**
+**Roleplaying Notes:** ::
 - Small but clever
 
 <div style="width:40%">
@@ -1321,13 +1319,13 @@ If your DM allows, you can use the following traits instead:
 **Nations:** Everywhere, especially cosmopolitan cities  
 **Stereotypes:** Caught between two worlds, adaptable
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Result of human-elf relationships (increasingly common)
 - Don't fully belong to either parent culture
 - Often become adventurers, diplomats, or wanderers
 - Excellent at bridging cultural divides
 
-**Roleplaying Notes:**
+**Roleplaying Notes:** ::
 - Flexible ability scores (+2 CHA, +1 to two others)
 - Two free skill proficiencies (very versatile)
 - Perfect for bards, paladins, sorcerers, warlocks
@@ -1375,13 +1373,13 @@ If your DM allows, you can use the following traits instead:
 **Nations:** Military and mercenary ranks, often outcasts  
 **Stereotypes:** Brutal, strong, angry, dangerous
 
-**Cultural Context:**
+**Cultural Context:** ::
 - No nearby orc nations (orcs are uncommon in Tirvandor)
 - Often result of violence or conflict (social stigma)
 - Must prove worth through strength and action
 - Relentless endurance highly valued in combat
 
-**Roleplaying Notes:**
+**Roleplaying Notes:** ::
 - Face prejudice (seen as monsters by some)
 - Must prove yourself repeatedly
 - Excellent combat abilities (relentless endurance, savage attacks)
@@ -1427,7 +1425,7 @@ If your DM allows, you can use the following traits instead:
 **Nations:** Distrusted in Thaldros, more accepted in Aethoria  
 **Stereotypes:** Cursed, demonic, untrustworthy, dangerous
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Infernal heritage from ancient curse (not personal fault)
 - Not inherently evil (but heavy prejudice exists)
 - Often become outcasts or work to prove themselves
@@ -1435,7 +1433,7 @@ If your DM allows, you can use the following traits instead:
 - **Aethoria:** More tolerant but still feared
 - **Border:** Judged by actions not appearance
 \column
-**Roleplaying Notes:**
+**Roleplaying Notes:** ::
 - Face constant prejudice (especially in Thaldros)
 - Can't hide appearance (horns, tail, unusual skin)
 <div style="width:40%">
@@ -1458,13 +1456,13 @@ If your DM allows, you can use the following traits instead:
 
 Your class is the most important decision you make about your character, defining your capabilities and role in the party.
 
-**This chapter provides:**
+**This chapter provides:** ::
 - Quick reference table for all classes
 - Full class descriptions with features
 - Level progression tables
 - Spellcasting rules (where applicable)
 
-**Each class description includes:**
+**Each class description includes:** ::
 - **Class Features:** Abilities gained at each level
 - **Hit Dice:** For determining hit points
 - **Proficiencies:** Armor, weapons, saves, skills
@@ -1505,20 +1503,20 @@ Your class is the most important decision you make about your character, definin
 
 As a barbarian, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d12 per barbarian level
 - **Hit Points at 1st Level:** 12 + your Constitution modifier
 \column
 - **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
 
-**Proficiencies**
+**Proficiencies** ::
 - **Armor:** Light armor, medium armor, shields
 - **Weapons:** Simple weapons, martial weapons
 - **Tools:** None
 - **Saving Throws:** Strength, Constitution
 - **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment, in addition to the equipment granted by your background:
 - (a) a greataxe or (b) any martial melee weapon
@@ -1707,13 +1705,13 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 
 **Origin:** Northern tribes, frontier clans, gladiators
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Less common in civilized areas
 - Tribal warriors from beyond the Border
 - Sometimes pit fighters or shock troops
 - Rage is real battle frenzy, not just anger
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Intimidating mercenary, enforcer
 - **Shattered Oaths:** Mighty warrior defending homeland
 
@@ -1727,12 +1725,12 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 
 As a fighter, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d10 per fighter level
 - **Hit Points at 1st Level:** 10 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 
-**Proficiencies**
+**Proficiencies** ::
 - **Armor:** All armor, shields
 - **Weapons:** Simple weapons, martial weapons
 - **Tools:** None
@@ -1741,7 +1739,7 @@ As a fighter, you gain the following class features.
 
 <div style="width:91%">
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment:
 - (a) chain mail or (b) leather armor, longbow, and 20 arrows
@@ -1989,18 +1987,18 @@ Starting at 18th level, when you use your action to cast a spell, you can make o
 
 **Origin:** Soldiers, guards, mercenaries, professional warriors
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Most common martial class in both nations
 - Professional military backbone of both armies
 - Mercenaries are typically fighters
 - Master tacticians and weapon specialists
 
-**In Tirvandor:**
+**In Tirvandor:** ::
 - **Thaldros:** Royal military officers, disciplined soldiers
 - **Aethoria:** Militia captains, people's defenders
 - **Border:** Quintessential mercenary professionals
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Excellent (professional mercenary archetype)
 - **Shattered Oaths:** Excellent (skilled warrior hero)
 
@@ -2018,19 +2016,19 @@ Starting at 18th level, when you use your action to cast a spell, you can make o
 
 As a rogue, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d8 per rogue level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
 
-**Proficiencies**
+**Proficiencies** ::
 - **Armor:** Light armor
 - **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 - **Tools:** Thieves' tools
 - **Saving Throws:** Dexterity, Intelligence
 - **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment:
 <div style="width:45%">
@@ -2252,24 +2250,24 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Origin:** Thieves' guilds, spy networks, investigators
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Thieves' guilds in every major city
 - Spies employed by all factions (both nations)
 - Investigation and infiltration highly valued
 - Sneaking and lockpicking common skills
 
-**In Tirvandor:**
+**In Tirvandor:** ::
 - **Thaldros:** Secret police, state spies, investigators
 - **Aethoria:** Intelligence operatives, freedom fighters
 - **Border:** Information brokers, thieves, smugglers
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Excellent (infiltration, investigation, espionage)
 - **Shattered Oaths:** Good (scout, spy for heroic cause)
 
 ## Bard
 
-![Bard Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-bard.png){position:absolute,bottom:-130px,right:-100px,width:75%,mix-blend-mode:multiply}
+![Bard Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-bard.png){position:absolute,bottom:-135px,right:-120px,width:75%,mix-blend-mode:multiply}
 
 *An inspiring magician whose power echoes the music of creation*
 
@@ -2277,12 +2275,12 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 As a bard, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d8 per bard level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
 
-**Proficiencies**
+**Proficiencies** ::
 \column
 - **Armor:** Light armor
 - **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
@@ -2290,7 +2288,7 @@ As a bard, you gain the following class features.
 - **Saving Throws:** Dexterity, Charisma
 - **Skills:** Choose any three
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment:
 - (a) a rapier, (b) a longsword, or (c) any simple weapon
@@ -2455,18 +2453,18 @@ Starting at 14th level, when you make an ability check, you can expend one use o
 
 **Origin:** Colleges of music, traveling performers, spies
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Respected entertainers and storytellers
 - Often work as information gatherers and spies
 - Music and oral tradition highly valued
 - Bardic colleges exist in both nations
 
-**In Tirvandor:**
+**In Tirvandor:** ::
 - **Thaldros:** Court entertainers, propagandists, state-approved colleges
 - **Aethoria:** Free artists, political speakers, multiple competing schools
 - **Border:** Information brokers, diplomats, neutral mediators
 
-**In Campaigns:**
+**In Campaigns:** ::
 <div style="width:90%">
 
 - **Blood & Coin:** Excellent (social manipulation, intel gathering, versatility)
@@ -2484,19 +2482,19 @@ Starting at 14th level, when you make an ability check, you can expend one use o
 
 As a cleric, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d8 per cleric level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
-**Proficiencies**
+**Proficiencies** ::
 - **Armor:** Light armor, medium armor, shields
 - **Weapons:** Simple weapons
 - **Tools:** None
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment:
 - (a) a mace or (b) a warhammer (if proficient)
@@ -2679,7 +2677,7 @@ Starting at 17th level, when you would normally roll one or more dice to restore
 
 **Origin:** Temples of the Ascended Pantheon
 
-**Divine Domains & The Ascended:**
+**Divine Domains & The Ascended:** ::
 
 In Tirvandor, clerics serve one of the Seven Ascended (see Appendix C):
 
@@ -2691,18 +2689,18 @@ In Tirvandor, clerics serve one of the Seven Ascended (see Appendix C):
 - **Mordain the Sentinel** → Death, War, or Grave domain
 - **Sylvara the Wild** → Nature or Tempest domain
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Temples in every major city
 - Healing magic common and respected
 - Religious authority varies by nation
 - Divine power comes from devotion to the Ascended
 
-**In Tirvandor:**
+**In Tirvandor:** ::
 - **Thaldros:** State church hierarchy (regulated worship)
 - **Aethoria:** Independent temples (religious freedom)
 - **Border:** Wandering priests and small shrines
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Good (healer, moral compass in grey world)
 - **Shattered Oaths:** Excellent (divine champion, crusader)
 
@@ -2716,7 +2714,7 @@ In Tirvandor, clerics serve one of the Seven Ascended (see Appendix C):
 
 As a druid, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d8 per druid level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
@@ -2725,14 +2723,14 @@ As a druid, you gain the following class features.
 {{footnote Classes}}
 \page
 
-**Proficiencies**
+**Proficiencies** ::
 - **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
 - **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
 - **Tools:** Herbalism kit
 - **Saving Throws:** Intelligence, Wisdom
 - **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment:
 - (a) a wooden shield or (b) any simple weapon
@@ -2815,7 +2813,7 @@ Starting at 2nd level, you can use your action to magically assume the shape of 
 
 Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
 
-**Beast Shapes Table**
+**Beast Shapes Table** ::
 
 | Level | Max CR | Limitations | Example |
 |-------|--------|-------------|---------|
@@ -2879,15 +2877,15 @@ Your mystical connection to the land infuses you with the ability to cast certai
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-**Arctic**
+**Arctic** ::
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | *hold person*, *spike growth* |
 | 5th | *sleet storm*, *slow* |
 | 7th | *freedom of movement*, *ice storm* |
 | 9th | *commune with nature*, *cone of cold* |
-
-**Coast**
+\column
+**Coast** ::
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | *mirror image*, *misty step* |
@@ -2895,7 +2893,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th | *control water*, *freedom of movement* |
 | 9th | *conjure elemental*, *scrying* |
 
-**Desert**
+**Desert** ::
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | *blur*, *silence* |
@@ -2903,7 +2901,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th | *blight*, *hallucinatory terrain* |
 | 9th | *insect plague*, *wall of stone* |
 
-**Forest**
+**Forest** ::
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | *barkskin*, *spider climb* |
@@ -2911,7 +2909,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th | *divination*, *freedom of movement* |
 | 9th | *commune with nature*, *tree stride* |
 
-**Grassland**
+**Grassland** ::
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | *invisibility*, *pass without trace* |
@@ -2919,7 +2917,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th | *divination*, *freedom of movement* |
 | 9th | *dream*, *insect plague* |
 
-**Mountain**
+**Mountain** ::
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | *spider climb*, *spike growth* |
@@ -2927,7 +2925,7 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th | *stone shape*, *stoneskin* |
 | 9th | *passwall*, *wall of stone* |
 
-**Swamp**
+**Swamp** ::
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | *darkness*, *acid arrow* |
@@ -2960,26 +2958,25 @@ The creature is aware of this effect before it makes its attack against you.
 
 **Origin:** Forest circles, nature guardians, isolated groves
 \column
-**Cultural Context:**
+**Cultural Context:** ::
 - Protect wilderness from civilization's expansion
 - Mostly wood elves and humans
 - Neutral in nation conflicts
 - Wild Shape feared and misunderstood by common folk
 - Speak Druidic (secret language)
 
-**Circles in Tirvandor:**
+**Circles in Tirvandor:** ::
 - **Forest circles** (most common) - Protect woodlands
 - **Mountain circles** - Guard high peaks
 - **Swamp circles** - Defend wetlands
 - **Coastal circles** - Protect shorelines
 
-**In Tirvandor:**
+**In Tirvandor:** ::
 - **Thaldros:** Often enemies (resist expansion and deforestation)
 - **Aethoria:** More tolerated but still outsiders
 - **Border:** Protect wilderness areas between nations
 
-
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Challenging (nature vs urban political intrigue)
 - **Shattered Oaths:** Good (nature defender, protector of wild places)
 
@@ -2995,19 +2992,19 @@ The creature is aware of this effect before it makes its attack against you.
 
 As a monk, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d8 per monk level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
 
-**Proficiencies**
+**Proficiencies** ::
 - **Armor:** None
 - **Weapons:** Simple weapons, shortswords
 - **Tools:** Choose one type of artisan's tools or one musical instrument
 - **Saving Throws:** Strength, Dexterity
 - **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment:
 - (a) a shortsword or (b) any simple weapon
@@ -3197,26 +3194,26 @@ You can have only one creature under the effect of this feature at a time. You c
 
 **Origin:** Mountain monasteries, isolated training grounds
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Rare and exotic class in Tirvandor
 - Monasteries hidden in northern mountain ranges
 - Discipline and meditation highly valued
 - Ki is mystical martial art poorly understood
 - Isolated from political conflicts
 
-**Monasteries in Tirvandor:**
+**Monasteries in Tirvandor:** ::
 - **Peak of Clarity** - Highest monastery, most prestigious
 - **Stone Fist Sanctuary** - Combat-focused monks
 - **Silent Waters** - Meditation and philosophy focus
 - Located in northern mountain ranges
 - Accept students rarely and only after trials
 
-**In Tirvandor:**
+**In Tirvandor:** ::
 - **Thaldros:** Rare, viewed with suspicion (foreign martial arts)
 - **Aethoria:** Rare, respected as philosophers and warriors
 - **Border:** Wandering martial artists, bodyguards
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Challenging (discipline vs grey morality, but can work as bodyguard)
 - **Shattered Oaths:** Good (disciplined hero, martial arts master)
 
@@ -3228,19 +3225,19 @@ You can have only one creature under the effect of this feature at a time. You c
 
 As a paladin, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d10 per paladin level
 - **Hit Points at 1st Level:** 10 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per paladin level after 1st
 
-**Proficiencies**
+**Proficiencies** ::
 - **Armor:** All armor, shields
 - **Weapons:** Simple weapons, martial weapons
 - **Tools:** None
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment:
 - (a) a martial weapon and a shield or (b) two martial weapons
@@ -3473,7 +3470,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Origin:** Sacred oaths, knightly orders, divine calling
 
-**Oaths & The Ascended:**
+**Oaths & The Ascended:** ::
 
 Paladins in Tirvandor swear oaths inspired by (but not directly to) the Ascended:
 
@@ -3482,19 +3479,19 @@ Paladins in Tirvandor swear oaths inspired by (but not directly to) the Ascended
 - **Oath of Vengeance** → Inspired by Mordain the Sentinel
 - **Oath of Conquest** → Inspired by Thandros the Lawbringer
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Holy warriors bound by sacred oaths
 - Respected as champions of causes
 - Divine power comes from strength of conviction (not gods directly)
 - Knights, crusaders, and champions
 - Code of conduct essential to powers
 
-**In Tirvandor:**
+**In Tirvandor:** ::
 - **Thaldros:** Royal Paladins (Order enforcers, Conquest oaths common)
 - **Aethoria:** Freedom Paladins (Justice champions, Devotion and Ancients common)
 - **Border:** Rare but respected (oath-bound mercenaries, any oath)
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Challenging but very rewarding (oath vs grey reality creates drama)
 - **Shattered Oaths:** Excellent (classic holy warrior, oath tested by darkness)
 
@@ -3508,19 +3505,19 @@ Paladins in Tirvandor swear oaths inspired by (but not directly to) the Ascended
 
 As a ranger, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d10 per ranger level
 - **Hit Points at 1st Level:** 10 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st
 
-**Proficiencies**
+**Proficiencies** ::
 - **Armor:** Light armor, medium armor, shields
 - **Weapons:** Simple weapons, martial weapons
 - **Tools:** None
 - **Saving Throws:** Strength, Dexterity
 - **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment:
 - (a) scale mail or (b) leather armor
@@ -3725,31 +3722,31 @@ At 15th level, you gain one of the following features of your choice.
 
 **Origin:** Wilderness scouts, border patrol, trackers, bounty hunters
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Wilderness scouts and trackers for both nations
 - Border patrol and frontier defense
 - Natural explorers and guides to dangerous lands
 - Common on frontiers and in contested territories
 - Often work as guides, hunters, or bounty trackers
 
-**In Tirvandor:**
+**In Tirvandor:** ::
 - **Thaldros:** Border scouts, royal rangers, military trackers
 - **Aethoria:** Wilderness militia, forest defenders, guerrilla fighters
 - **Border:** Trackers, guides, hunters, independent scouts
 
-**Favored Enemy Choices:**
+**Favored Enemy Choices:** ::
 - **Humanoids** most common (relevant to war - soldiers, spies, enemy combatants)
 - **Beasts** for hunters and wilderness guides
 - **Undead** for those who've faced dark magic
 - Choose based on campaign and character background
 
-**Favored Terrain:**
+**Favored Terrain:** ::
 - **Forest** (most common in Tirvandor)
 - **Grassland** (plains and farmlands)
 - **Mountain** (northern ranges)
 - **Swamp** (southern wetlands)
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Excellent (tracker, bounty hunter, scout for hire)
 - **Shattered Oaths:** Excellent (wilderness defender, guerrilla fighter)
 
@@ -3767,19 +3764,19 @@ At 15th level, you gain one of the following features of your choice.
 
 As a sorcerer, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d6 per sorcerer level
 - **Hit Points at 1st Level:** 6 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
 
-**Proficiencies**
+**Proficiencies** ::
 - **Armor:** None
 - **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 - **Tools:** None
 - **Saving Throws:** Constitution, Charisma
 - **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment:
 - (a) a light crossbow and 20 bolts or (b) any simple weapon
@@ -3997,14 +3994,14 @@ awe) or frightened (if you chose fear) until the aura ends. A creature that succ
 
 **Origin:** Born with magic, magical accidents, bloodlines
 
-**Sorcerous Origins in Tirvandor:**
+**Sorcerous Origins in Tirvandor:** ::
 
 - **Draconic Bloodline:** Ancient dragons once ruled parts of Tirvandor - some bloodlines remain
 - **Wild Magic:** Magical experiments gone wrong, exposure to raw magic
 - **Divine Soul:** Touched by one of the Seven Ascended (rare blessing or curse)
 - **Shadow Magic:** Exposure to dark magic or shadow realms
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Born with innate magic (not learned like wizards)
 - Less common than wizards
 - Innate power viewed as rare gift or dangerous curse
@@ -4013,12 +4010,12 @@ awe) or frightened (if you chose fear) until the aura ends. A creature that succ
 
 {{padding-top:340px}}
 
-**In Tirvandor:**
+**In Tirvandor:** ::
 - **Thaldros:** Must register with authorities, closely monitored (fear of uncontrolled power)
 - **Aethoria:** Free to practice, celebrated as natural talent
 - **Border:** Unregulated, valuable for raw magical power
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Excellent (raw magical power, flexible spellcasting, dramatic)
 - **Shattered Oaths:** Excellent (chosen one potential, destiny themes)
 
@@ -4032,12 +4029,12 @@ awe) or frightened (if you chose fear) until the aura ends. A creature that succ
 
 As a warlock, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d8 per warlock level
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per warlock level after 1st
 
-**Proficiencies**
+**Proficiencies** ::
 - **Armor:** Light armor
 - **Weapons:** Simple weapons
 - **Tools:** None
@@ -4046,7 +4043,7 @@ As a warlock, you gain the following class features.
 
 {{padding-top:400px}}
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment:
 - (a) a light crossbow and 20 bolts or (b) any simple weapon
@@ -4235,7 +4232,7 @@ All patron types exist but are controversial:
 {{footnote Classes}}
 \page
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Pact magic from otherworldly entities
 - "Sold soul for power" reputation
 - Controversial and distrusted by most
@@ -4243,12 +4240,12 @@ All patron types exist but are controversial:
 - Power comes at a price (the pact)
 - Short rest recovery makes them versatile
 
-**In Tirvandor:**
+**In Tirvandor:** ::
 - **Thaldros:** Actively hunted as heretics and demon-worshippers (illegal)
 - **Aethoria:** Tolerated but watched carefully (legal but suspicious)
 - **Border:** Must keep pact secret, valued for power if discreet
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Excellent (morally grey power, flexible, pact creates drama)
 - **Shattered Oaths:** Good (requires explanation of pact, oath vs pact tension)
 
@@ -4262,19 +4259,19 @@ All patron types exist but are controversial:
 
 As a wizard, you gain the following class features.
 
-**Hit Points**
+**Hit Points** ::
 - **Hit Dice:** 1d6 per wizard level
 - **Hit Points at 1st Level:** 6 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per wizard level after 1st
 
-**Proficiencies**
+**Proficiencies** ::
 - **Armor:** None
 - **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 - **Tools:** None
 - **Saving Throws:** Intelligence, Wisdom
 - **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
-**Equipment**
+**Equipment** ::
 
 You start with the following equipment:
 - (a) a quarterstaff or (b) a dagger
@@ -4439,7 +4436,7 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
 
 **Origin:** Magical academies, years of study, scholarly pursuit
 
-**Magical Academies:**
+**Magical Academies:** ::
 
 - **Thaldros:**
   - **Royal Academy of Magic** - State-controlled institution
@@ -4461,7 +4458,7 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
   - Traveling scholars
   - No formal regulation
 
-**The Eight Schools of Magic:**
+**The Eight Schools of Magic:** ::
 
 All eight schools exist in Tirvandor academies:
 - Abjuration (protection magic)
@@ -4473,7 +4470,7 @@ All eight schools exist in Tirvandor academies:
 - Necromancy (life and death - controversial)
 - Transmutation (transformation)
 
-**Cultural Context:**
+**Cultural Context:** ::
 - Most common arcane spellcasters
 - Years of dedicated study required
 - Respected as scholars and researchers
@@ -4481,12 +4478,12 @@ All eight schools exist in Tirvandor academies:
 - Spellbook is precious possession
 - Knowledge is power
 
-**In Tirvandor:**
+**In Tirvandor:** ::
 - **Thaldros:** State wizards, military mages, court advisors (registered, controlled)
 - **Aethoria:** Independent researchers, innovative experimenters (free, unregulated)
 - **Border:** Mercenary mages, hired spellcasters, tutors
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Excellent (knowledge, planning, research, versatility)
 - **Shattered Oaths:** Excellent (classic archmage, scholarly hero)
 
@@ -4745,10 +4742,10 @@ War refugees are survivors shaped by loss and hardship, often displaying remarka
 
 You make your living in the neutral zones between nations, buying and selling goods that flow between Thaldros, Aethoria, and the Contested Lands. You know how to navigate the gray areas of commerce—legal, illegal, and everything in between.
 
-**Skill Proficiencies:** Persuasion, Insight
-**Tool Proficiencies:** One type of gaming set
-**Languages:** One of your choice
-**Equipment:** A merchant's scale, trade goods worth 15 gp, a set of common clothes, and a belt pouch containing 10 gp
+**Skill Proficiencies:** Persuasion, Insight ::
+**Tool Proficiencies:** One type of gaming set ::
+**Languages:** One of your choice ::
+**Equipment:** A merchant's scale, trade goods worth 15 gp, a set of common clothes, and a belt pouch containing 10 gp ::
 
 ### Feature: Black Market Contacts
 
@@ -4811,14 +4808,16 @@ Border traders are shrewd, adaptable, and often morally flexible—qualities nec
 | 5 | I hoard wealth obsessively, even when I don't need to. |
 | 6 | I assume everyone is trying to swindle me. |
 
+\column
+
 ## Political Exile
 
 You once held a position of influence or were connected to those who did, but political upheaval forced you to flee your homeland. Whether you were on the wrong side of a coup, spoke against tyranny, or simply knew too much, returning home means imprisonment or death.
 
-**Skill Proficiencies:** History, Persuasion
-**Tool Proficiencies:** Calligrapher's supplies
-**Languages:** Two of your choice
-**Equipment:** Forged identity papers, a set of fine clothes, a signet ring from your former life, and a belt pouch containing 15 gp
+**Skill Proficiencies:** History, Persuasion ::
+**Tool Proficiencies:** Calligrapher's supplies ::
+**Languages:** Two of your choice ::
+**Equipment:** Forged identity papers, a set of fine clothes, a signet ring from your former life, and a belt pouch containing 15 gp ::
 
 ### Feature: Political Knowledge
 
@@ -4885,9 +4884,9 @@ Political exiles are often educated and sophisticated, but carry the weight of l
 
 You served—or perhaps still serve—as an intelligence operative for a nation, faction, or private interest. You learned to gather information, maintain cover identities, and operate in the shadows. Whether you're retired, burned, or still active, the skills remain.
 
-**Skill Proficiencies:** Deception, Stealth
-**Tool Proficiencies:** Disguise kit, one type of gaming set
-**Equipment:** A disguise kit, two sets of identity papers (one real, one forged), a set of common clothes, and a belt pouch containing 15 gp
+**Skill Proficiencies:** Deception, Stealth ::
+**Tool Proficiencies:** Disguise kit, one type of gaming set ::
+**Equipment:** A disguise kit, two sets of identity papers (one real, one forged), a set of common clothes, and a belt pouch containing 15 gp ::
 
 ### Feature: Cover Identity
 
@@ -4950,10 +4949,10 @@ Spies are masters of deception who often struggle to remember who they truly are
 
 You have devoted your life to studying the magical ley lines that crisscross Tirvandor. Whether through formal education at an academy or years of independent research, you understand these rivers of arcane energy better than most—and you've seen hints of their true power and danger.
 
-**Skill Proficiencies:** Arcana, Investigation
-**Tool Proficiencies:** Cartographer's tools
-**Languages:** One of your choice (often Draconic or Primordial)
-**Equipment:** A journal filled with ley line observations, cartographer's tools, a small piece of crystal that glows faintly near ley lines, a set of scholar's robes, and a belt pouch containing 10 gp
+**Skill Proficiencies:** Arcana, Investigation ::
+**Tool Proficiencies:** Cartographer's tools ::
+**Languages:** One of your choice (often Draconic or Primordial) ::
+**Equipment:** A journal filled with ley line observations, cartographer's tools, a small piece of crystal that glows faintly near ley lines, a set of scholar's robes, and a belt pouch containing 10 gp ::
 
 {{pageNumber,auto}}
 {{footnote Classes}}
@@ -5020,9 +5019,9 @@ Ley line scholars are driven by curiosity about the fundamental nature of magic,
 
 You served in the military forces of Thaldros—perhaps the regular army, the Iron Legion, or even the dreaded State Inquisition. But something happened that made you abandon your post. Now you're a wanted criminal in your homeland, hunted by the regime you once served.
 
-**Skill Proficiencies:** Athletics, Survival
-**Tool Proficiencies:** Vehicles (land), one type of gaming set
-**Equipment:** A Thaldros military uniform (hidden), a forged travel pass, a set of common clothes, and a belt pouch containing 10 gp
+**Skill Proficiencies:** Athletics, Survival ::
+**Tool Proficiencies:** Vehicles (land), one type of gaming set ::
+**Equipment:** A Thaldros military uniform (hidden), a forged travel pass, a set of common clothes, and a belt pouch containing 10 gp ::
 
 ### Feature: Military Training
 
@@ -5089,10 +5088,10 @@ Deserters are haunted by their past and constantly looking over their shoulders,
 
 You fought for Aethoria's ideals of freedom and democracy—perhaps in the resistance against Thaldros occupation, or in the ongoing political struggles within Aethoria itself. You believe in the cause, even when the reality of revolution proves messier than the ideals.
 
-**Skill Proficiencies:** Persuasion, Stealth
-**Tool Proficiencies:** Disguise kit
-**Languages:** One of your choice
-**Equipment:** A pamphlet or manifesto you helped write or distribute, a disguise kit, a set of common clothes, a symbol of your revolutionary cell, and a belt pouch containing 10 gp
+**Skill Proficiencies:** Persuasion, Stealth ::
+**Tool Proficiencies:** Disguise kit ::
+**Languages:** One of your choice ::
+**Equipment:** A pamphlet or manifesto you helped write or distribute, a disguise kit, a set of common clothes, a symbol of your revolutionary cell, and a belt pouch containing 10 gp ::
 \column
 ### Feature: Revolutionary Network
 
@@ -5159,9 +5158,9 @@ Revolutionaries are passionate believers in their cause, though they often strug
 
 The Thornwood Syndicate is the largest criminal organization operating in Tirvandor's underworld, with roots in the Contested Lands and branches in every major city. You worked for them—perhaps willingly, perhaps not—and learned the ways of organized crime.
 
-**Skill Proficiencies:** Deception, Intimidation
-**Tool Proficiencies:** Thieves' tools, one type of gaming set
-**Equipment:** A set of dark common clothes, thieves' tools, a Syndicate token (for identifying yourself to other members), and a belt pouch containing 15 gp
+**Skill Proficiencies:** Deception, Intimidation ::
+**Tool Proficiencies:** Thieves' tools, one type of gaming set ::
+**Equipment:** A set of dark common clothes, thieves' tools, a Syndicate token (for identifying yourself to other members), and a belt pouch containing 15 gp ::
 
 ### Feature: Criminal Connections
 
@@ -5224,9 +5223,9 @@ Syndicate operatives are pragmatic criminals who understand that crime is a busi
 
 The Silver Circle is an organization of mages dedicated to studying and protecting Tirvandor's ley lines. You began training with them, learning both magical theory and the Circle's philosophy of political neutrality. Whether you completed your training or left before taking full vows, you carry their teachings with you.
 
-**Skill Proficiencies:** Arcana, History
-**Languages:** Two of your choice (typically including Draconic or Primordial)
-**Equipment:** A Silver Circle initiate's robe, a small silver pendant (the Circle's symbol), a journal of magical theory, a set of common clothes, and a belt pouch containing 10 gp
+**Skill Proficiencies:** Arcana, History ::
+**Languages:** Two of your choice (typically including Draconic or Primordial) ::
+**Equipment:** A Silver Circle initiate's robe, a small silver pendant (the Circle's symbol), a journal of magical theory, a set of common clothes, and a belt pouch containing 10 gp ::
 
 ### Feature: Circle Hospitality
 
@@ -5293,10 +5292,10 @@ Silver Circle initiates balance scholarly curiosity with a disciplined approach 
 
 The roads between settlements—and especially through the Contested Lands—are dangerous. Bandits, monsters, and worse prey on travelers. You made your living protecting those who had to travel, escorting merchant caravans, refugee columns, or wealthy individuals from point A to point B alive.
 
-**Skill Proficiencies:** Perception, Survival
-**Tool Proficiencies:** Vehicles (land)
-**Languages:** One of your choice
-**Equipment:** A traveler's outfit suitable for your usual routes, a signal whistle, a bedroll, 50 feet of hempen rope, and a belt pouch containing 10 gp
+**Skill Proficiencies:** Perception, Survival ::
+**Tool Proficiencies:** Vehicles (land) ::
+**Languages:** One of your choice ::
+**Equipment:** A traveler's outfit suitable for your usual routes, a signal whistle, a bedroll, 50 feet of hempen rope, and a belt pouch containing 10 gp ::
 
 ### Feature: Well-Traveled
 
@@ -5363,10 +5362,10 @@ Caravan guards are practical, alert, and accustomed to long stretches of boredom
 
 You served as a guardian and protector of a temple dedicated to one of the Seven Ascended. Your duties included protecting sacred sites, safeguarding relics, and defending pilgrims and clergy from those who would do them harm. You may still serve, or your temple may have been destroyed, or you may have been called to a different path.
 
-**Skill Proficiencies:** Religion, Athletics
-**Tool Proficiencies:** One type of gaming set
-**Languages:** One of your choice (often Celestial)
-**Equipment:** A holy symbol of your deity, a set of common clothes, a set of traveler's clothes suitable for guard duty, temple insignia, and a belt pouch containing 10 gp
+**Skill Proficiencies:** Religion, Athletics ::
+**Tool Proficiencies:** One type of gaming set ::
+**Languages:** One of your choice (often Celestial) ::
+**Equipment:** A holy symbol of your deity, a set of common clothes, a set of traveler's clothes suitable for guard duty, temple insignia, and a belt pouch containing 10 gp ::
 
 ### Feature: Temple Shelter
 
@@ -5437,9 +5436,9 @@ Temple wardens combine martial skill with religious devotion, serving as the shi
 
 The Worldrend—the cataclysm that separated Thaldros and Aethoria 800 years ago—remains one of history's greatest mysteries. You have dedicated your life to studying this catastrophic event, poring over ancient texts, interviewing elders, and seeking out the ruins and artifacts that might reveal what truly happened.
 
-**Skill Proficiencies:** History, Investigation 
-**Tool Proficiencies:** Cartographer's tools or Calligrapher's supplies
-**Languages:** One ancient language (often Old Thaldric or Ancient Aethorian)
+**Skill Proficiencies:** History, Investigation  ::
+**Tool Proficiencies:** Cartographer's tools or Calligrapher's supplies ::
+**Languages:** One ancient language (often Old Thaldric or Ancient Aethorian) ::
 **Equipment:** A collection of copied historical documents, a journal filled with notes and theories, cartographer's tools or calligrapher's supplies, a set of scholar's robes, and a belt pouch containing 10 gp
 
 ### Feature: Historical Expert
@@ -5503,18 +5502,19 @@ Worldrend historians are driven by the need to understand the past, believing th
 
 In the great arenas of Tirvandor—from Thaldros's state-sponsored blood sports to Aethoria's athletic competitions to the anything-goes fighting pits of the Contested Lands—you made your living as a professional combatant. You fought for glory, for gold, or simply for survival.
 
-**Skill Proficiencies:** Performance, Athletics
-**Tool Proficiencies:** One type of gaming set, disguise kit
-**Languages:** None
-**Equipment:** A costume or uniform from your fighting days, a gaming set, a token or trophy from a memorable victory, a set of common clothes, and a belt pouch containing 15 gp
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
+**Skill Proficiencies:** Performance, Athletics ::
+**Tool Proficiencies:** One type of gaming set, disguise kit ::
+**Languages:** None ::
+**Equipment:** A costume or uniform from your fighting days, a gaming set, a token or trophy from a memorable victory, a set of common clothes, and a belt pouch containing 15 gp ::
 
 ### Feature: Arena Fame
 
 You are known in the world of professional fighting. You can usually find work at fighting pits, gain entry to gladiatorial events, and earn money through exhibition matches or personal appearances. Former opponents, fans, and other fighters recognize you and may react with admiration, jealousy, or a desire for revenge.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### Arena Background
 
@@ -5573,9 +5573,9 @@ Gladiators are performers as much as fighters, accustomed to the roar of the cro
 
 You survived the sinking of a ship in the treacherous Sundering Sea. Whether from storm, pirates, sea monsters, or mysterious circumstances, you lost everything when your vessel went down—except your life. The experience changed you forever.
 
-**Skill Proficiencies:** Survival, Athletics
-**Tool Proficiencies:** Navigator's tools, vehicles (water)
-**Equipment:** A piece of driftwood or wreckage you cling to as a memento, a waterproof pouch, a set of common clothes, and a belt pouch containing 5 gp
+**Skill Proficiencies:** Survival, Athletics ::
+**Tool Proficiencies:** Navigator's tools, vehicles (water) ::
+**Equipment:** A piece of driftwood or wreckage you cling to as a memento, a waterproof pouch, a set of common clothes, and a belt pouch containing 5 gp ::
 
 ### Feature: Survivor's Luck
 
@@ -5596,6 +5596,10 @@ You've already beaten death once—you have an instinctive sense for danger. You
 
 Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how fragile life can be—but also with a hard-won appreciation for being alive.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 | d8 | Personality Trait |
 |:--:|:------------------|
 | 1 | I never take survival for granted—every day is a gift. |
@@ -5615,10 +5619,6 @@ Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how 
 | 4 | **Preparedness.** I'll never be caught unprepared again. (Lawful) |
 | 5 | **Revenge.** Someone is responsible for that wreck, and they'll pay. (Evil) |
 | 6 | **Acceptance.** I've made peace with death. (Neutral) |
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 | d6 | Bond |
 |:--:|:-----|
@@ -5642,10 +5642,10 @@ Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how 
 
 You studied under a master—perhaps a wizard, artisan, scholar, or other expert—but your apprenticeship ended badly. Maybe you lacked talent, made a critical mistake, or simply couldn't meet your master's standards. Now you carry both the partial knowledge you gained and the shame of your failure.
 
-**Skill Proficiencies:** One skill related to your field of study, plus Investigation
-**Tool Proficiencies:** One artisan's tool or one additional skill
-**Languages:** One of your choice
-**Equipment:** A journeyman's tools or incomplete spellbook from your studies, a letter of incomplete apprenticeship, a set of common clothes, and a belt pouch containing 10 gp
+**Skill Proficiencies:** One skill related to your field of study, plus Investigation ::
+**Tool Proficiencies:** One artisan's tool or one additional skill ::
+**Languages:** One of your choice ::
+**Equipment:** A journeyman's tools or incomplete spellbook from your studies, a letter of incomplete apprenticeship, a set of common clothes, and a belt pouch containing 10 gp ::
 
 ### Feature: Partial Training
 
@@ -5661,8 +5661,6 @@ You have incomplete but real training in your former field. You can speak knowle
 | 4 | Scholarship (academic institution) |
 | 5 | Medicine (healer's student) |
 | 6 | Combat training (military or martial arts) |
-
-\column
 
 ### Suggested Characteristics
 
@@ -5688,6 +5686,10 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 | 5 | **Ambition.** I'll find another path to power and recognition. (Evil) |
 | 6 | **Acceptance.** My failure set me on a different, better path. (Any) |
 
+{{pageNumber,auto}}
+{{footnote Chapter 4: Backgrounds}}
+\page
+
 | d6 | Bond |
 |:--:|:-----|
 | 1 | I want to prove myself to my former master. |
@@ -5696,7 +5698,7 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 | 4 | My family sacrificed to pay for my apprenticeship. I owe them. |
 | 5 | Someone in my former field treats me as an equal despite my failure. |
 | 6 | I discovered something during my training that others missed. |
-
+\column
 | d6 | Flaw |
 |:--:|:-----|
 | 1 | I can't admit when I don't know something. |
@@ -5706,16 +5708,9 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 | 5 | I blame everyone but myself for my failure. |
 | 6 | I'm terrified of failing again. |
 
-{{pageNumber,auto}}
-{{footnote Chapter 4: Backgrounds}}
-\page
-
-## Summary: Tirvandor Backgrounds
-
-  ::
-
 {{wide
-
+## Summary: Tirvandor Backgrounds
+:
 | Background | Skills | Tools/Languages | Feature |
 |:-----------|:-------|:----------------|:--------|
 | Mercenary Veteran | Athletics, Intimidation | Gaming set, vehicles (land) | Mercenary Network |
@@ -5737,7 +5732,7 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 
 }}
 
-![end-classes-chapter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-backgrounds-end.png){position:absolute,bottom:0,left:0,width:100%,mix-blend-mode:multiply}
+![end-classes-chapter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-backgrounds-end.png){position:absolute,bottom:0,left:0,height:41%,width:100%,mix-blend-mode:multiply}
 
 {{pageNumber,auto}}
 {{footnote Chapter 4: Backgrounds}}
@@ -5838,11 +5833,11 @@ Common adventuring gear includes:
 
 Tool proficiencies allow you to add your proficiency bonus to ability checks made using those tools.
 
-**Artisan's Tools:**
+**Artisan's Tools:** ::
 - Smith's tools, Carpenter's tools, Brewer's supplies, etc.: 5-50 gp 
-**Musical Instruments:**
+**Musical Instruments:** ::
 - Varies: 2-35 gp
-**Gaming Sets:** 
+**Gaming Sets:** :: 
 - Dice, playing cards: 5 sp-1 gp
 
 ## Mounts and Vehicles
@@ -6017,9 +6012,9 @@ Beginning at 14th level, you've learned to channel your rage with deadly precisi
 
 </div>
 
-::
+{{padding-top:35px}}
 
-<div style="margin-left:75px">
+<div style="margin-left:80px">
 
 #### Tirvandor Context
 
@@ -6034,7 +6029,7 @@ Beginning at 14th level, you've learned to channel your rage with deadly precisi
 
 They're respected in the Border towns for their effectiveness but feared for their brutality. Many are Iron Guild members.
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** PERFECT - quintessential mercenary barbarian
 - **Shattered Oaths:** Good - former reaver turned hero or antagonist
 
@@ -6093,7 +6088,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Philosophical Note:** These barbarians believe freedom is worth any price. Their rage isn't mindless—it's the righteous anger of those who refuse to live in chains.
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Good - revolutionary turned mercenary, or hired to fight oppressors
 - **Shattered Oaths:** EXCELLENT - perfect heroic revolutionary archetype
 
@@ -6103,21 +6098,21 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 ## Design Notes
 
-**Balance Considerations:**
+**Balance Considerations:** ::
 
-**Border Reaver:**
+**Border Reaver:** ::
 - Comparable to Berserker/Totem Warrior in power
 - Scavenger feature is utility/flavor, not combat power
 - Dirty Fighting is limited use but strong control
 - Never Stay Down comparable to Relentless Rage (but different trigger)
 
-**Revolutionary Fury:**
+**Revolutionary Fury:** ::
 - Breaker of Chains is utility focused
 - Righteous Fury comparable to Zealot's Divine Fury
 - Inspire Resistance is support-focused (barbarian rarely does this)
 - Shatter Oppression once per long rest keeps it balanced
 
-**Flavor vs Mechanics:**
+**Flavor vs Mechanics:** ::
 - Border Reaver: Practical, adaptable, professional
 - Revolutionary Fury: Inspiring, freedom-focused, heroic
 
@@ -6182,17 +6177,14 @@ At 14th level, your words can spread like wildfire through a population. You gai
 
 **Origin:** Can serve either Thaldros (state propaganda) or Aethoria (revolutionary messaging)
 
-**Culture:** 
+**Culture:**  ::
 
-**In Thaldros:** Propaganda bards are state-sponsored agents who control official narratives, suppress dissent, and shape public opinion in favor of the crown. They're well-paid but closely watched.
+**In Thaldros:** Propaganda bards are state-sponsored agents who control official narratives, suppress dissent, and shape public opinion in favor of the crown. They're well-paid but closely watched. ::
+**In Aethoria:** Propaganda bards are revolutionary orators who spread messages of freedom, counter Thaldros propaganda, and inspire resistance. They're celebrated as heroes of the people. ::
+**In the Border:** Some propaganda bards work as freelance spin doctors, selling their services to whoever pays. ::
+**Moral Ambiguity:** This college is morally neutral—it's a tool that can be used for good (inspiring freedom) or evil (justifying tyranny). The bard's alignment matters more than the college itself. ::
 
-**In Aethoria:** Propaganda bards are revolutionary orators who spread messages of freedom, counter Thaldros propaganda, and inspire resistance. They're celebrated as heroes of the people.
-
-**In the Border:** Some propaganda bards work as freelance spin doctors, selling their services to whoever pays.
-
-**Moral Ambiguity:** This college is morally neutral—it's a tool that can be used for good (inspiring freedom) or evil (justifying tyranny). The bard's alignment matters more than the college itself.
-
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** EXCELLENT - hired to manage a client's reputation or spread disinformation
 - **Shattered Oaths:** Good - revolutionary propagandist or antagonist state agent
 
@@ -6277,15 +6269,11 @@ You speak a binding word of enforcement. Choose one creature within range that y
 
 #### Tirvandor Context
 
-**Origin:** Border regions, affiliated with the Iron Guild
-
-**Culture:** Iron Tongue bards are respected neutral parties in the mercenary world. They broker contracts between mercenaries and clients, mediate disputes between rival companies, and ensure deals are honored. Their magical enforcement makes them invaluable—and wealthy.
-
-**Reputation:** In the Border, an Iron Tongue bard's word is gold. They're trusted because breaking their contracts has severe magical consequences. Both Thaldros and Aethoria hire them for diplomatic missions when they need a guaranteed neutral party.
-
-**Philosophy:** "Every person has a price, and every problem has a solution—if the terms are right."
-
-**In Campaigns:**
+**Origin:** Border regions, affiliated with the Iron Guild ::
+**Culture:** Iron Tongue bards are respected neutral parties in the mercenary world. They broker contracts between mercenaries and clients, mediate disputes between rival companies, and ensure deals are honored. Their magical enforcement makes them invaluable—and wealthy. ::
+**Reputation:** In the Border, an Iron Tongue bard's word is gold. They're trusted because breaking their contracts has severe magical consequences. Both Thaldros and Aethoria hire them for diplomatic missions when they need a guaranteed neutral party. ::
+**Philosophy:** "Every person has a price, and every problem has a solution—if the terms are right." ::
+**In Campaigns:** ::
 - **Blood & Coin:** PERFECT - THE mercenary support class, contract specialist
 - **Shattered Oaths:** Challenging but possible - neutral mediator in a world at war
 
@@ -6293,21 +6281,21 @@ You speak a binding word of enforcement. Choose one creature within range that y
 
 ## Design Notes
 
-**Balance Considerations:**
+**Balance Considerations:** ::
 
-**College of Propaganda:**
+**College of Propaganda:** ::
 - Spin Doctor is powerful for social encounters but situational
 - Propaganda Campaign is once per long rest and requires time
 - Infectious Rhetoric is very strong but limited to charm spells
 - Comparable power to College of Eloquence but with manipulation focus
 
-**College of the Iron Tongue:**
+**College of the Iron Tongue:** ::
 - Silver Tongue is utility-focused, good for skill checks
 - Binding Contract is powerful but requires willing participants
 - Unbreakable Terms damage is comparable to other 14th level features
 - Iron Word is a new spell but limited in scope
 
-**Flavor vs Mechanics:**
+**Flavor vs Mechanics:** ::
 - Propaganda: Mass manipulation, narrative control, psychological warfare
 - Iron Tongue: Contracts, negotiation, magical enforcement, mercenary culture
 
@@ -6623,7 +6611,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Selection:** Not every cleric of the Ascended becomes a Champion—it requires dedication to martial prowess as well as spiritual devotion. Many are former soldiers or paladins who took up the cloth.
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Good - mercenary priest, former chaplain, or hired divine warrior
 - **Shattered Oaths:** Excellent - chosen champion for heroic deeds
 
@@ -6699,7 +6687,7 @@ At 17th level, your faith becomes an unbreakable shield for your allies. You gai
 
 **Philosophy:** War Chaplains believe that faith and fellowship in battle create unbreakable bonds. They're not pacifists—they understand that sometimes violence is necessary—but they honor the sacrifice of soldiers and try to minimize suffering.
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Excellent - mercenary chaplain, hired to keep soldiers alive
 - **Shattered Oaths:** Excellent - military chaplain for heroic army
 
@@ -6803,7 +6791,7 @@ At 14th level, you become the ultimate defender of contested lands. You gain the
 
 **Philosophy:** "Nature endures. Empires fall. We remain."
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Good - neutral wilderness guide, hired protector
 - **Shattered Oaths:** Good - protector of sacred groves in war zones
 
@@ -6894,7 +6882,7 @@ At 14th level, you become the ultimate servant of Sylvara. You gain the followin
 
 **Philosophy:** "The Wild is not gentle. Sylvara is not kind. We are her storm."
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Challenging - anti-civilization can conflict with urban jobs
 - **Shattered Oaths:** Good - primal champion against corrupting forces
 
@@ -6988,7 +6976,7 @@ At 18th level, you've mastered the Iron Guild's advanced techniques:
 
 **Culture:** Iron Guild Veterans are elite soldiers-for-hire, commanding top rates and loyalty to contracts above all else. They're respected professionals in the Border, feared combatants in both nations.
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** PERFECT - THE quintessential mercenary fighter
 - **Shattered Oaths:** Good - mercenary turned hero
 
@@ -7073,7 +7061,7 @@ At 18th level, you become a legendary guardian:
 
 **Moral Complexity:** Royal Guards can be heroic defenders or tools of tyranny—it depends on who they serve and what they're ordered to do.
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Good - former Royal Guard turned mercenary
 - **Shattered Oaths:** Complex - could be antagonist or defector seeking redemption
 
@@ -7153,7 +7141,7 @@ At 17th level, you become the ultimate liberator. You gain the following benefit
 
 **Philosophy:** "No chains can hold the determined spirit. Freedom is won, never given."
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Good - hired to free captives, break into prisons
 - **Shattered Oaths:** EXCELLENT - perfect freedom fighter archetype
 
@@ -7220,7 +7208,7 @@ At 17th level, you become a legendary mercenary monk:
 
 **Philosophy:** "Enlightenment doesn't pay the bills. Excellence does."
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** PERFECT - quintessential mercenary monk
 - **Shattered Oaths:** Challenging - requires character growth from mercenary to hero
 
@@ -7333,7 +7321,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **The oath doesn't fall for enforcing unjust laws—it's about order vs chaos, not good vs evil.**
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Complex - former Iron Crown turned mercenary, questioning their oath
 - **Shattered Oaths:** EXCELLENT - perfect antagonist OR defector seeking redemption
 
@@ -7419,7 +7407,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Philosophy:** "Every chain broken is a victory. Every freed soul is sacred. Every tyrant defeated is justice."
 
-**In Campaigns:**
+**In Campaigns:** ::
 - **Blood & Coin:** Good - mercenary who fights for freedom (conflicted about payment)
 - **Shattered Oaths:** PERFECT - THE heroic paladin archetype for this campaign
 
@@ -8207,7 +8195,7 @@ Additionally, you have advantage on Constitution saving throws to maintain conce
 
 ## Design Notes
 
-**Balance Considerations:**
+**Balance Considerations:** ::
 
 All spells are designed to be:
 - **Comparable in power** to official spells of the same level
@@ -8215,7 +8203,7 @@ All spells are designed to be:
 - **Mechanically sound** within 5e rules
 - **Flavorful** without being overpowered
 
-**Spell Schools:**
+**Spell Schools:** ::
 - Enchantment: 6 spells (manipulation, control)
 - Abjuration: 3 spells (protection, freedom)
 - Evocation: 1 spell (damage)
@@ -8224,7 +8212,7 @@ All spells are designed to be:
 - Necromancy: 1 spell (life force)
 - Transmutation: 1 spell (chaos magic)
 
-**Power Level:**
+**Power Level:** ::
 - Slightly stronger than baseline for signature subclass spells
 - Balanced by specificity (only certain subclasses get them)
 - Most have drawbacks or limitations
@@ -8572,7 +8560,7 @@ As a resident of Tirvandor, your character would know:
 - The Seven Ascended are the gods
 - The Iron Guild and Thornwood Syndicate exist
 - Common cultural expectations
-
+\column
 Your character might NOT know:
 - Detailed ancient history
 - Inner workings of governments
@@ -8584,7 +8572,7 @@ Your character might NOT know:
 
 **Work with your DM to determine what your character knows based on their background and intelligence.**
 
----
+
 
 ## Starting Your Adventure
 
@@ -8598,7 +8586,7 @@ Remember:
 - Magic is tied to ley lines
 - Your actions have consequences
 
-Welcome to Tirvandor. Your story begins now.
+*Welcome to Tirvandor. Your story begins now.*
 
 {{pageNumber,auto}}
 {{footnote Appendix B: World Primer}}
@@ -8623,7 +8611,7 @@ Most mortals recognize the existence of all gods but actively worship one to thr
 
 Thandros represents the ideal of lawful civilization. The western continent bears his name—Thaldros—testament to his influence on that empire's founding. He is not cruel, but he is unyielding: the law must be upheld.
 
-**Teachings:**
+**Teachings:** ::
 - Law is the foundation of civilization
 - Justice must be impartial and fair
 - Oaths and contracts are sacred
@@ -8657,7 +8645,7 @@ Aethor stands in philosophical opposition to Thandros—where the Lawbringer val
 
 Moira sees the threads of fate that bind all things. She grants visions to her faithful but never reveals the full tapestry—mortals must find their own way. Her temples are centers of learning and prophecy.
 
-**Teachings:**
+**Teachings:** ::
 - Fate is woven but not immutable
 - Knowledge is power—seek it always
 - The future is not set; choices matter
@@ -8675,7 +8663,7 @@ Moira sees the threads of fate that bind all things. She grants visions to her f
 
 Kael is the patron of travelers, merchants, and anyone who lives by their wits. He values cleverness over brute force and believes the journey matters more than the destination.
 
-**Teachings:**
+**Teachings:** ::
 - The road is home to those who wander
 - Fortune favors the clever and the bold
 - Trade binds people across distances
@@ -8692,7 +8680,7 @@ Kael is the patron of travelers, merchants, and anyone who lives by their wits. 
 
 Sera is the most universally beloved of the Seven. Her temples serve as hospitals, her clergy as healers. She teaches that all life is sacred and that mercy is strength, not weakness.
 
-**Teachings:**
+**Teachings:** ::
 - All life is sacred
 - Healing is the highest calling
 - Mercy is strength, not weakness
@@ -8713,7 +8701,7 @@ Sera is the most universally beloved of the Seven. Her temples serve as hospital
 
 Mordain guides souls to their proper rest and stands eternal guard against those who would disturb the dead. His clergy conduct funerals, comfort the bereaved, and hunt the undead.
 
-**Teachings:**
+**Teachings:** ::
 - Death is natural and not to be feared
 - The dead must be honored and allowed to rest
 - Undeath is an abomination to be destroyed
@@ -8731,7 +8719,7 @@ Mordain guides souls to their proper rest and stands eternal guard against those
 
 Sylvara embodies the natural world in all its beauty and brutality. She represents the cycle of life, death, and rebirth—the storm that destroys and the rain that nourishes. Some believe she is not a god at all but the world itself given voice.
 
-**Teachings:**
+**Teachings:** ::
 - Nature must maintain balance
 - Death feeds life, life returns to death
 - Civilization and wilderness can coexist with respect
@@ -8743,17 +8731,17 @@ Sylvara embodies the natural world in all its beauty and brutality. She represen
 
 Beyond the Seven Ascended, regional deities are worshipped in specific areas:
 
-**Thaldros Region:**
+**Thaldros Region:** ::
 - **Korak the Ironbound** — War, Strength, Honor in Battle
 - **Lyssandra the Hearthkeeper** — Home, Family, Peace
 - **Gorath the Forgemaster** — Crafting, Mountains, Protection
 
-**Aethoria Region:**
+**Aethoria Region:** ::
 - **Ealasaïd the Dreamweaver** — Dreams, Art, Inspiration
 - **Vorath the Primal** — Beasts, Hunt, Survival
 - **Merenth the Lifegiver** — Healing, Growth, Fertility
 
-**The Seas:**
+**The Seas:** ::
 - **Kalythra the Stormmother** — Sea, Storms, Freedom
 - **Tharivol the Many-Faced** — Change, Luck, Adaptation
 
@@ -8794,8 +8782,10 @@ Most adventurers acknowledge all the gods and pray to whichever suits their curr
 :
 The following creatures are unique to Tirvandor or have adapted to the world's specific environments. They are suitable for Wild Shape, *polymorph*, *conjure animals*, and as animal companions for rangers and other classes.
 
+{{wide
 ## CR 0 Beasts
-:
+}}
+
 {{monster,frame,wide
 ## Ley Moth
 *Tiny beast, unaligned*
@@ -8846,8 +8836,9 @@ ___
 }}
 
 :
+{{wide
 ## CR 1/8 Beasts
-
+}}
 {{monster,frame,wide
 ## Contested Hare
 *Small beast, unaligned*
