@@ -8404,7 +8404,7 @@ The magical sea that separates the two continents, created by the catastrophic W
 
 Before the Worldrend, Tirvandor was one unified land. The details are lost to time, but legends speak of a golden age.
 
-### The Sundering (800 Years Ago)
+### The Worldrend (Year 0)
 
 A catastrophic magical event tore the world in two, creating the Sundering Sea. The cause is debated - some blame hubris, others blame the gods. What's certain is that millions died and civilization collapsed.
 
@@ -8554,7 +8554,7 @@ Rare languages:
 
 As a resident of Tirvandor, your character would know:
 - Basic geography and city names
-- The Worldrend happened 800 years ago
+- The Worldrend happened 1247 years ago
 - Thaldros vs Aethoria political tension
 - Ley lines are sources of magic
 - The Seven Ascended are the gods

@@ -80,7 +80,7 @@ Welcome to **Tirvandor: The Realm of Deep Magic**, a comprehensive campaign sett
 
 ## What is Tirvandor?
 
-Tirvandor is a world divided—two great continents separated by the Sundering Sea, each representing different philosophies of civilization and magic. In the east lies **Thaldros**, a militaristic empire built on order and central authority. In the west sprawls **Aethoria**, a confederation of free cities valuing independence and democratic ideals.
+Tirvandor is a world divided—two great continents separated by the Sundering Sea, each representing different philosophies of civilization and magic. In the west lies **Thaldros**, a militaristic empire built on order and central authority. In the east sprawls **Aethoria**, a confederation of free cities valuing independence and democratic ideals.
 
 Between them stretch the **Contested Lands**, a war-torn frontier where neither power holds sway, and adventurers find both opportunity and danger.
 
