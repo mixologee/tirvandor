@@ -40,7 +40,7 @@ Version 2.0 | November 2025
 - ### [{{ Introduction}}{{ 3}}](#p3)
 - ### [{{ Act I: Blood for Coin}}{{ 5}}](#p5)
   - [{{ Quest 1.1: Welcome to Crossroads}}{{ 8}}](#p8)
-  - [{{ Quest 1.2: Trial by Fire}}{{ 15}}](#p15)
+  - [{{ Quest 1.2: The Price of Loyalty}}{{ 15}}](#p15)
   - [{{ Quest 1.3: Reputation}}{{ 22}}](#p22)
   - [{{ Quest 1.4: The Black Ledger}}{{ 30}}](#p30)
   - [{{ Quest 1.5: The Trial}}{{ 38}}](#p38)
@@ -13918,6 +13918,317 @@ Many "enemies" aren't evil:
 8. Corrupted area (environmental hazard)
 9. Resistance fighters with intel
 10. Corvus's lieutenant (major NPC encounter)
+
+---
+
+## DETAILED CROSSROADS ENCOUNTERS
+
+Use these when you want richer interactions in Crossroads. Each includes full dialogue, multiple resolution paths, and consequences.
+
+---
+
+### 1. THE CONTRACT DISPUTE
+
+**READ ALOUD:**
+> *The Broken Blade tavern erupts in shouting. Two mercenary crews face off—four rough-looking fighters against three scarred veterans. Between them, a bloodied man in merchant clothes cowers.*
+>
+> *"We killed the target! That's OUR bounty!"*
+>
+> *"You killed his BROTHER. We killed the actual mark. Check the poster again, idiots!"*
+>
+> *Hands move toward weapons. The barkeep—a one-armed woman—reaches for a crossbow under the bar.*
+
+**THE SITUATION:**
+- Black Wolves crew killed wrong man (mistaken identity)
+- Red Talons killed actual bounty target
+- Both want full 200 gold payment
+- Merchant caught in middle knows the truth
+
+**RESOLUTION OPTIONS:**
+
+**Mediate (Persuasion DC 14):**
+> *"Look—the Black Wolves did half the work. They flushed the target, caused chaos. Split the bounty 60-40."*
+- Success: Both crews grudgingly accept, owe party minor favor
+- Failure: One crew storms off angry, remembers party
+
+**Investigate (Investigation DC 12):**
+- Examine bodies/evidence proves Red Talons right
+- Black Wolves forced to back down (humiliated, may seek revenge)
+
+**Take Sides:**
+- Support Black Wolves: Red Talons become enemies
+- Support Red Talons: Black Wolves become enemies
+- Winner pays party 20 gold "consultation fee"
+
+**Let It Play Out:**
+- Bar brawl erupts (use Thug stats, 7 combatants)
+- Barkeep fires crossbow at ceiling: "TAKE IT OUTSIDE!"
+- Fight moves to street, city watch arrives in 5 rounds
+
+**CONSEQUENCES:**
+- Whoever party helped remembers: +1 or -1 faction reputation
+- Merchant offers information later if party helped him escape
+- Word spreads about party's mediation (or fighting) skills
+
+---
+
+### 2. THE DESPERATE VETERAN
+
+**READ ALOUD:**
+> *A grizzled dwarf in battered armor blocks your path. His left hand is missing—replaced by a crude hook. His eyes are wild, desperate.*
+>
+> *"You. You look capable. I need work. Anything. I can still fight—lost the hand, not my skill. Please. Three weeks without a contract. I've got a daughter..."*
+>
+> *His voice cracks. Behind him, you notice a young dwarven girl, maybe eight years old, watching from an alley. She's thin. Too thin.*
+
+**THE SITUATION:**
+- Torvin Ironhand (no relation to Varak) lost his hand on last job
+- Guild won't hire him—liability concern
+- Daughter Mira hasn't eaten properly in days
+- He's not begging—he's asking for honest work
+
+**RESOLUTION OPTIONS:**
+
+**Hire Him (Any Amount):**
+- He's genuinely capable (use Veteran stat block, -2 to attacks)
+- Fiercely loyal if treated with dignity
+- Daughter stays at Widow Marta's boarding house
+
+**Offer Charity:**
+> *"I don't want charity. I want WORK. But... for Mira..."*
+- He accepts for daughter's sake
+- Ashamed, but grateful
+- Will seek party out later to repay debt
+
+**Help Find Work (Persuasion DC 13):**
+- Convince guild to give him light duty (guard work, training new recruits)
+- Torvin becomes contact within guild
+- Mira draws party a thank-you picture (kept as treasure)
+
+**Refuse Coldly:**
+> *"Then you're no better than the rest. Come, Mira."*
+- Party sees them later begging
+- Possible encounter: Torvin caught stealing bread, about to lose remaining hand
+- How party responds defines their reputation
+
+**IF HIRED - TORVIN'S STATS:**
+- **Veteran** (MM p. 350) with following modifications:
+- -2 to attack rolls (missing hand)
+- Can use hook as improvised weapon (1d4 piercing)
+- Speaks Dwarvish, Common
+- Knows Crossroads intimately—advantage on local knowledge checks
+
+**CONSEQUENCES:**
+- Torvin becomes recurring NPC (ally or tragic figure)
+- Guild notices party's character (compassion or coldness noted)
+- Mira's fate weighs on party if abandoned
+
+---
+
+### 3. THE POISONED DRINK
+
+**READ ALOUD:**
+> *You're enjoying a quiet drink when a serving girl stumbles against your table, spilling ale across your lap. As she apologizes profusely, cleaning the mess, her eyes flick to your mug—just for an instant.*
+>
+> *"So sorry! Let me get you a fresh one, on the house!"*
+>
+> *She hurries away before you can respond.*
+
+**PERCEPTION DC 15 (Or Passive):**
+- Notice her hand passed over your drink during the "accident"
+- Slight discoloration in ale (barely visible)
+- She's watching from across room
+
+**THE SITUATION:**
+- Serving girl (Nessa) was paid to poison party member
+- Poison: Assassin's Blood (DC 15 CON or 1d12 poison + poisoned 24 hrs)
+- She doesn't know who hired her—dead drop payment
+- She's terrified, not malicious
+
+**IF PARTY DRINKS:**
+- Poison effect triggers
+- Nessa looks horrified, then flees
+- Investigation can still proceed
+
+**RESOLUTION OPTIONS:**
+
+**Confront Quietly (Intimidation DC 12):**
+> *"I saw what you did. Talk, or I go to the Iron Guild."*
+- Nessa breaks down crying
+- Reveals: 50 gold left at her door, note said "poison the newcomers or your brother dies"
+- Brother is held somewhere in town
+
+**Confront Publicly:**
+- Nessa tries to flee (Athletics DC 14 to catch)
+- If caught publicly, she's taken by guild for "questioning"
+- Party may never learn the truth
+
+**Switch Drinks (Sleight of Hand DC 13):**
+- Give poisoned drink to someone else (ethical implications)
+- Or pour it out discretely, pretend to be affected
+- Draw out whoever's watching
+
+**Investigate the Dead Drop:**
+- Nessa shows location (alley behind the Rusty Nail)
+- Stake out reveals: Syndicate operative checking drop
+- Leads to larger Syndicate subplot
+
+**CONSEQUENCES:**
+- Syndicate now knows party is alert (if operative spotted)
+- Nessa's brother subplot (optional rescue mission)
+- Party reputation: "Hard to kill" or "Showed mercy"
+- Foreshadows larger conspiracy if Syndicate involvement revealed
+
+---
+
+### 4. THE ARENA INVITATION
+
+**READ ALOUD:**
+> *A massive half-orc in fighting leathers approaches your table. Scars crisscross his green skin. He drops a bronze token in front of you—it bears an image of crossed swords over a pit.*
+>
+> *"You fight good. I seen you work." His voice is gravel. "Bloodpit needs fresh meat. Legal fights, good gold. You interested, come tonight. Warehouse by the south gate. Show the token."*
+>
+> *He leaves without waiting for an answer.*
+
+**THE SITUATION:**
+- The Bloodpit: Semi-legal underground fighting ring
+- Run by Sera "Bonecrusher" Vance (retired gladiator)
+- Iron Guild tolerates it (good for morale, controlled violence)
+- Good money, but injuries are real
+
+**IF PARTY ATTENDS:**
+
+**READ ALOUD:**
+> *The warehouse basement is packed. A sand-floored pit, twenty feet across, surrounded by shouting spectators. Blood stains the sand. A woman built like a siege engine raises her arms for silence.*
+>
+> *"Fresh blood tonight! Who wants to earn their scars?"*
+
+**FIGHT OPTIONS:**
+
+**Rookie Match (50 gold prize):**
+- Opponent: Thug (CR 1/2)
+- Single combat, non-lethal (unconscious at 0 HP)
+- Crowd bets heavily
+
+**Veteran Match (150 gold prize):**
+- Opponent: Gladiator (CR 5)
+- Brutal but honorable fighter
+- Knocking out Gladiator earns serious respect
+
+**Team Match (200 gold split):**
+- 2-3 party members vs equal number of fighters
+- Mix of Thugs and Berserkers
+- Teamwork allowed, encouraged
+
+**BETTING:**
+- Party can bet on themselves (2:1 odds for newcomers)
+- Betting against themselves then throwing fight = discovered, banned, enemies made
+
+**CONSEQUENCES:**
+- Winners earn reputation: "Bloodpit Champion"
+- Sera offers ongoing work (bouncer, enforcer, trainer)
+- Losers still earn respect for fighting
+- Contacts made: criminals, mercenaries, information brokers all attend
+
+---
+
+### 5. THE GUILD SHAKEDOWN
+
+**READ ALOUD:**
+> *Three Iron Guild enforcers block your path as you leave your lodgings. The leader—a scarred woman with sergeant's marks—steps forward.*
+>
+> *"Word is you've been taking jobs without guild registration. That's a problem. Guild takes 15% of all contracts in Crossroads. You owe us back-dues. Let's call it... 100 gold. Pay now, or we have a different conversation."*
+
+**THE SITUATION:**
+- This is NOT official guild policy
+- Sergeant Kira and her crew are running a scam
+- They target newcomers who don't know better
+- Real guild dues are 10%, only on guild-posted contracts
+
+**RESOLUTION OPTIONS:**
+
+**Pay Up:**
+- Lose 100 gold
+- They'll be back for more later
+- Marks party as easy targets
+
+**Intimidation DC 16:**
+> *"We've worked with Varak directly. Want me to ask him about this 'policy'?"*
+- Kira's crew backs off immediately
+- They'll avoid party in future (grudge held)
+
+**Insight DC 14:**
+- Realize this isn't legitimate
+- Can call bluff: "Let's go talk to Varak right now."
+- Kira makes excuses and leaves
+
+**Fight (3 Veterans):**
+- Winnable but draws attention
+- Kira's crew are actual guild members (complication)
+- Killing them = murder charges
+- Beating them = assault charges OR respect if no witnesses
+
+**Report to Varak:**
+- Varak furious—this damages guild reputation
+- Kira's crew disciplined (demoted or expelled)
+- Party earns Varak's respect: "You handled that right."
+- Possible reward: First contract fee waived
+
+**CONSEQUENCES:**
+- How party handles this defines relationship with guild
+- Kira becomes enemy or non-issue depending on resolution
+- Other newcomers may ask party for advice on "guild dues"
+
+---
+
+### 6. THE MIDNIGHT MESSAGE
+
+**READ ALOUD:**
+> *You wake to find a dagger pinning a note to your door frame. The dagger is expensive—silver handle, razor edge. The note reads:*
+>
+> *"You've been noticed. The Syndicate extends professional courtesy—one time only. Walk away from the Thornwood contract. Compensation for your trouble will be left at the Dead Dog tavern, under the third floorboard from the bar. This offer expires at dawn. There will not be a second message."*
+
+**THE SITUATION:**
+- The Syndicate wants party off a specific contract
+- They're offering 200 gold to walk away
+- The "courtesy" is genuine—they prefer bribery to bloodshed
+- If party refuses, Syndicate becomes active enemy
+
+**RESOLUTION OPTIONS:**
+
+**Take the Money:**
+- 200 gold, no questions asked
+- Must actually abandon the contract
+- Syndicate views party as "reasonable professionals"
+- Reputation: "Can be bought" (mixed blessing)
+
+**Refuse (Keep the Dagger):**
+- Dagger worth 50 gold
+- Syndicate sends warning: Dead rat left at lodging
+- Then escalates: Ambush (4 Assassins) if party continues
+
+**Set a Trap:**
+- Stake out Dead Dog tavern
+- Syndicate operative (Spy stat block) checks if gold is taken
+- Can follow back to Syndicate safehouse
+- Dangerous—they're professionals too
+
+**Report to Client:**
+- Client appreciates warning
+- May increase payment for increased danger
+- Or client gets scared, cancels contract (party loses job anyway)
+
+**Investigate the Contract:**
+- Why does Syndicate care about this job?
+- Hidden stakes: Target has Syndicate connections
+- Or: Target has something Syndicate wants
+- Leads to larger conspiracy
+
+**CONSEQUENCES:**
+- Establishes party's relationship with Syndicate
+- Taking money = future "offers" from Syndicate
+- Refusing = Syndicate as recurring antagonist
+- Either path creates ongoing subplot
 
 ---
 

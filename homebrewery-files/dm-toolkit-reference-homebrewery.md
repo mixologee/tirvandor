@@ -3236,16 +3236,18 @@ Wild magic surges for decades
 **789 CR** - Forgebound Guild chartered (master craftsmen)  
 **812 CR** - House Goldshore founded (merchant nobles)  
 **845 CR** - Silverpine settlement established  
-**1204 CR** - Second Blackwood Purge, Corvus (age 12) survives (future Lord Shadows)  
 **923 CR** - Kaer Thandros expanded (modern fortress-city)  
 **967 CR** - Aethoria University founded (magical university)  
 **1001 CR** - First contact with Sundara (desert nation)  
-**1089 CR** - Volcanic crisis in Ashfall (seal weakening)  
-**1230 CR** - King Aldric IV crowned (current king)  
+**1089 CR** - Blackwood Rebellion begins (civil war, 1089-1092 CR)  
+**1156 CR** - Dragon Crisis (Infernalix attacks Kaer Thandros, devastates region)  
 **1180 CR** - High Queen Aelindra ascends (current queen)  
+**1201 CR** - Dragon Infernalix withdraws (sleeps beneath Kaer Thandros)  
 **1203 CR** - Border skirmish kills 200 soldiers (tensions rise)  
+**1204 CR** - Second Blackwood Purge, Corvus (age 12) survives (future Lord Shadows)  
 **1228 CR** - Merchant League scandal (corruption exposed)  
-**1235 CR** - House Goldshore massacre begins (Blood & Coin premise)  
+**1230 CR** - King Aldric IV crowned (current king)  
+**1235 CR** - Regional tensions escalate between Thaldros and Aethoria (Blood & Coin backdrop)  
 **1239 CR** - Lord Shadows Blackwood begins vendetta (Shattered Oaths premise)  
 **1245 CR** - Volcanic activity increases (Ashfall warning signs)
 
@@ -3257,7 +3259,7 @@ Wild magic surges for decades
 
 ### Blood & Coin Campaign
 **Starts:** 1247 CR  
-**Premise:** House Goldshore being systematically destroyed  
+**Premise:** Mercenaries navigate escalating regional conflict  
 **Timeframe:** Takes place "now"
 
 ### Shattered Oaths Campaign
@@ -4435,6 +4437,62 @@ d20 Roll | Encounter
 18 | Planar rift briefly opens, glimpse of Feywild, attracts attention
 19 | Assassination attempt on council member in public
 20 | Archmage's tower experiment causes magical anomaly affecting whole district
+
+{{pageNumber,auto}}
+{{footnote RANDOM ENCOUNTERS}}
+\page
+
+### Crossroads (Mercenary Town - Iron Guild Territory)
+
+d20 Roll | Encounter
+-------------|---------------
+1 | Mercenary recruiters competing loudly for fresh blood
+2 | Two contract holders arguing over kill claim
+3 | Drunk veteran tells war stories, some actually useful intel
+4 | Iron Guild posting new contracts on board, crowd gathering
+5 | Street vendor selling "guaranteed authentic" battlefield relics
+6 | Arm wrestling contest with significant betting, invitation to join
+7 | Messenger seeking mercenaries for urgent job (leaves in 1 hour)
+8 | Pickpocket (Rogue 3) working the contract board crowd
+9 | Bar brawl spills into street, 6 thugs vs 4 mercenaries
+10 | Rival mercenary company (Black Wolves) sizing up party
+11 | Bounty hunter asking about specific target, shows wanted poster
+12 | Wounded mercenary limps in, warns about ambush on north road
+13 | Loan shark's enforcers (4 thugs) collecting debt publicly
+14 | Guild arbitrator settling contract dispute, needs witnesses
+15 | Deserter from Thaldros army hiding, guards searching
+16 | Poison dealer offering "professional supplies" discreetly
+17 | Mercenary captain recruiting for suicide mission, huge pay
+18 | Assassin (Assassin stat block) watching mark at tavern
+19 | Iron Guild internal dispute—two captains draw weapons
+20 | Varak Ironhand personally seeking capable team for sensitive job
+
+\column
+
+### Silverpine (Magical Academy Town)
+
+d20 Roll | Encounter
+-------------|---------------
+1 | Student practicing cantrips, minor magical mishap (harmless sparks)
+2 | Enchanted broom sweeping street autonomously, bumps into party
+3 | Scroll merchant hawking "discount spells" (50% are duds)
+4 | Two wizards debating magical theory, crowd taking sides
+5 | Lost familiar (cat/owl/rat) seeks help finding master
+6 | Academy tour group blocks street, guide explains local history
+7 | Alchemist's cart spills, creates colorful but harmless smoke
+8 | Street illusionist performing, hat collecting coins
+9 | Magical item appraiser offers free evaluation (actually fair)
+10 | Student protest against academy tuition increases
+11 | Wizard's experiment escapes lab—animated objects causing chaos
+12 | Rare book dealer has "forbidden" tome, very expensive
+13 | Academy guard asking about stolen component (valuable reagent)
+14 | Fortune teller with genuine minor divination, cryptic warnings
+15 | Construct (animated armor) malfunctioning, attacks randomly | CR 1
+16 | Magical duel in designated area, crowd watching, bets placed
+17 | Cult recruiter targeting disillusioned students
+18 | Professor seeks adventurers to retrieve item from dangerous ruin
+19 | Wild magic surge from academy—random magical effect hits street
+20 | Archmage Veridian's simulacrum delivering urgent summons
 
 {{pageNumber,auto}}
 {{footnote RANDOM ENCOUNTERS}}
@@ -6058,7 +6116,7 @@ ___
 ___
 **Armor Class** :: 18 (unarmored defense)
 **Hit Points** :: 126 (16d8 + 48)
-**Speed** :: 40 ft.![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/dm-toolkit-npc-cards/images/tirvandor-npc-sultan-rashid-al-sahir.jpg){width:325px,mix-blend-mode:multiply}
+**Speed** :: 40 ft.![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/dm-toolkit-npc-cards/images/tirvandor-npc-high-priest-rashid-al-sahir.jpg){width:325px,mix-blend-mode:multiply}
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|

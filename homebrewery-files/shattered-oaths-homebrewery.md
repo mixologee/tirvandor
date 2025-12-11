@@ -11297,6 +11297,370 @@ Unlike Blood & Coin, enemies are more clearly defined:
 
 ---
 
+## DETAILED SILVERPINE ENCOUNTERS
+
+Use these for richer interactions in Silverpine and academy-adjacent areas. Each includes full dialogue, multiple resolution paths, and consequences.
+
+---
+
+### 1. THE FAILED EXPERIMENT
+
+**READ ALOUD:**
+> *Screams echo from a side street. You round the corner to find chaos—a young woman in academy robes backs against a wall while three animated suits of armor advance on her, swords raised. Sparks of wild magic crackle around her hands.*
+>
+> *"I didn't mean to! The binding was supposed to be TEMPORARY!"*
+>
+> *The constructs show no mercy. One raises its blade for a killing blow.*
+
+**THE SITUATION:**
+- Apprentice Lydia Thornweave's animation experiment went wrong
+- Three Animated Armors (CR 1 each) are now hostile
+- Her control amulet shattered—she can't dismiss them
+- Academy guards are 3 rounds away
+
+**RESOLUTION OPTIONS:**
+
+**Combat (Direct):**
+- 3 Animated Armors (MM p. 19)
+- Lydia cowers, useless in fight
+- Destroying them = problem solved, evidence destroyed
+
+**Arcana DC 15:**
+- Identify the binding weakness
+- Can disrupt animation with targeted *dispel magic* or similar
+- Or: Find remains of control amulet, DC 18 Arcana to jury-rig dismissal
+
+**Protect and Delay:**
+- Keep Lydia alive until guards arrive
+- Guards have *dispel magic* scroll
+- Lydia faces academy discipline either way
+
+**IF LYDIA SURVIVES:**
+> *"Thank you! I... I'm going to be expelled for this. Unless... could you say you found them already rampaging? That I was trying to STOP them?"*
+
+**Lie for Her (Deception DC 13):**
+- Guards believe story
+- Lydia owes party significant favor
+- She has access to academy library, restricted sections
+
+**Tell Truth:**
+- Lydia expelled, bitter
+- Academy offers party 50 gold "hazard compensation"
+- May encounter angry Lydia later (joined Unbound? Became hedge witch?)
+
+**CONSEQUENCES:**
+- Lydia as contact OR enemy depending on choice
+- Academy reputation: "Helped with magical incident"
+- Lying successfully = minor corruption (party covered up negligence)
+
+---
+
+### 2. THE FORBIDDEN BOOK
+
+**READ ALOUD:**
+> *An elderly man in threadbare robes intercepts you outside the Dusty Tome bookshop. His eyes dart nervously.*
+>
+> *"You're adventurers, yes? I need... discretion. I have a book. A genuine pre-Worldrend text on House Blackwood. The academy would confiscate it. The Crown would burn it. But the TRUTH deserves to survive."*
+>
+> *He clutches a leather-wrapped bundle to his chest.*
+>
+> *"500 gold. And you never saw me."*
+
+**THE SITUATION:**
+- Old Brennan is a former academy archivist
+- Book is genuine: "The Blackwood Legacy: A True History"
+- Contains evidence supporting Blackwood innocence
+- Also contains dangerous magical theory (World-Splitter hints)
+
+**RESOLUTION OPTIONS:**
+
+**Buy the Book (500 gold):**
+- Genuine historical document
+- Reading takes 8 hours, grants advantage on History checks about Blackwoods
+- Contains clue about Raven's Keep location
+- Dangerous to possess—Crown agents hunt these texts
+
+**Haggle (Persuasion DC 14):**
+- Price drops to 300 gold
+- Brennan is desperate, needs money to flee city
+
+**Report to Academy:**
+- 100 gold reward
+- Brennan arrested (executed within week—treason)
+- Book "lost" in academy vaults
+- Party never learns its contents
+
+**Report to Crown Agents:**
+- 150 gold reward
+- Same outcome as academy, but party flagged as "loyalists"
+- Crown may approach for future work
+
+**Take by Force:**
+- Brennan is Commoner, no fight
+- But he screams—city watch arrives in 2 rounds
+- Murder charges if he dies
+
+**Let Him Go:**
+- Brennan disappears
+- Book potentially surfaces later (Unbound have it?)
+- Missed opportunity for crucial information
+
+**IF PARTY READS THE BOOK:**
+> *"House Blackwood served as guardians of the Worldrend Vault for generations. Their 'treason' was refusing to surrender its location to King Aldric III, who sought the World-Splitter Components for 'safekeeping.' The Purge was not justice—it was theft, and murder to cover the theft..."*
+
+**CONSEQUENCES:**
+- Major plot advancement if book obtained
+- Moral weight of Brennan's fate
+- Crown becomes suspicious if party seen with forbidden texts
+
+---
+
+### 3. THE UNBOUND RECRUITER
+
+**READ ALOUD:**
+> *The Silver Harp tavern is quiet this evening. A hooded figure slides into the seat across from you, uninvited. When they lower their hood, you see a middle-aged woman with kind eyes and a gentle smile.*
+>
+> *"Please, don't be alarmed. I only want to talk. You've been asking questions about the old nobility, the Blackwoods. So have I. Perhaps we seek the same truth?"*
+>
+> *She places her hands flat on the table—no weapons, no threat.*
+>
+> *"My name is Sister Mercy. And I believe you've been lied to your whole life."*
+
+**THE SITUATION:**
+- Sister Mercy is an Unbound recruiter (Spy stat block)
+- She's genuinely sympathetic to Blackwood cause
+- Her information is mostly accurate
+- She's testing party for potential recruitment
+
+**HER PITCH:**
+> *"House Blackwood protected something dangerous. The Crown wanted it. When the Blackwoods refused, they were branded traitors and slaughtered. Children, servants, everyone. The 'official history' is written by murderers."*
+>
+> *"We call ourselves the Unbound. We seek justice for the murdered, truth for the deceived. Lord Shadows leads us—the last Blackwood, seeking to clear his family's name."*
+>
+> *"I'm not asking you to join. I'm asking you to listen. To question. Is that so dangerous?"*
+
+**RESOLUTION OPTIONS:**
+
+**Listen Sympathetically:**
+- Gain significant backstory information
+- Sister Mercy provides contact method for future
+- NOT recruitment—just opens dialogue
+- Insight DC 16: She believes what she says (she's a true believer, not manipulating)
+
+**Reject Firmly:**
+> *"Whatever your cause, we want no part of it."*
+- Sister Mercy nods sadly, leaves peacefully
+- "If you change your mind, leave a white ribbon on the Merchant's Gate."
+- No immediate consequences
+
+**Threaten/Attack:**
+- Sister Mercy flees (Spy stat block, excellent at escape)
+- Unbound now view party as hostile
+- Escalates future encounters
+
+**Pretend Interest, Then Report:**
+- Deception DC 14 to fool her
+- Can report to Captain Roderic or academy
+- Sister Mercy arrested if description good enough
+- But: Her network warns other Unbound, party marked as threats
+
+**Actually Consider Joining:**
+- Sister Mercy provides further contact (Quest 1.2 hook)
+- Meeting with higher Unbound member arranged
+- Party can infiltrate OR genuinely explore Unbound path
+
+**CONSEQUENCES:**
+- Major plot fork—relationship with Unbound established
+- Information gained is genuine (confirms Blackwood innocence claims)
+- How party treats Sister Mercy reflects their moral compass
+
+---
+
+### 4. THE ACCUSATION
+
+**READ ALOUD:**
+> *"MURDERERS!"*
+>
+> *An elderly woman points at your party, her face twisted with grief and rage. A crowd gathers.*
+>
+> *"My son went adventuring with people like YOU! He never came back! You probably left him to die for his share of the treasure! GUARDS! ARREST THEM!"*
+
+**THE SITUATION:**
+- Widow Maren believes adventurers killed her son
+- Her son Tomas actually died in Thornwood (unrelated to party)
+- She's grief-mad, not rational
+- Crowd is uncertain—adventurers have mixed reputation
+
+**RESOLUTION OPTIONS:**
+
+**Calm Her Down (Persuasion DC 16):**
+> *"Ma'am, we've never met your son. When did he disappear? We might be able to help find out what happened."*
+- High DC because she's irrational with grief
+- Success: She breaks down crying, crowd disperses
+- Opportunity to actually investigate Tomas's fate
+
+**Let Guards Handle It:**
+- Guards (Veterans) arrive, recognize party isn't guilty
+- Widow taken home by neighbors
+- Incident recorded but no charges
+- Reputation: "Handled professionally"
+
+**Flee:**
+- Looks guilty, pursued
+- Can escape (various skill checks)
+- Wanted posters go up (mistaken identity subplot)
+
+**Investigate Tomas (Later):**
+- Tomas was killed by Unbound during recruitment gone wrong
+- Finding evidence exonerates party AND exposes Unbound presence
+- Widow Maren becomes grateful ally (apologizes profusely)
+- Provides lodging, local knowledge, emotional support
+
+**Ignore/Be Cruel:**
+> *"Your son's death isn't our problem, woman."*
+- Crowd turns hostile
+- Reputation destroyed in Silverpine
+- May face vigilante justice later
+
+**CONSEQUENCES:**
+- Tests party's patience and compassion
+- Investigation subplot available
+- Widow Maren as contact OR enemy
+- Crowd's memory shapes local reputation
+
+---
+
+### 5. THE MAGICAL MALFUNCTION
+
+**READ ALOUD:**
+> *The air shimmers. Reality TWISTS. Suddenly you're standing in the same street, but everything is wrong—buildings are different colors, the sun is green, and a three-headed cat is discussing philosophy with a floating teapot.*
+>
+> *"Ah, visitors!" the teapot says. "Splendid! We were just debating whether existence precedes essence, or vice versa. Your thoughts?"*
+>
+> *Around you, other pedestrians seem frozen mid-step.*
+
+**THE SITUATION:**
+- Wild magic surge from academy experiment
+- Party is trapped in pocket reality
+- Lasts 1d10 minutes (or until resolved)
+- Not dangerous, but VERY weird
+
+**THE POCKET REALITY:**
+- Physics works differently (can walk on walls, gravity optional)
+- Creatures are fragments of imagination given form
+- Time moves strangely (feels like hours, actually minutes)
+- Way out: Find the "seam" in reality (Investigation DC 15)
+
+**STRANGE ENCOUNTERS INSIDE:**
+
+**The Philosophical Teapot:**
+- Asks genuinely interesting questions
+- Correct philosophical answer (DM's choice) = advantage on next INT check
+- Wrong answer = teapot is disappointed but not hostile
+
+**The Three-Headed Cat:**
+- Each head has different personality (grumpy, cheerful, paranoid)
+- Knows where the "seam" is, but speaks in riddles
+- Or: Just pet it. It purrs and points the way.
+
+**The Memory Fragment:**
+- Ghostly image of young boy crying
+- "They killed my family. They called us traitors. But we weren't. We WEREN'T."
+- Glimpse of young Corvus Blackwood (foreshadowing)
+
+**FINDING THE EXIT:**
+
+**Investigation DC 15:**
+- Notice wall where colors don't quite match
+- Push through = return to normal reality
+
+**Arcana DC 13:**
+- Recognize wild magic signature
+- Can will yourself back (concentration check DC 10)
+
+**Wait It Out:**
+- Surge ends naturally in 1d10 minutes
+- Party returns with strange memories
+- Possible lingering effect: Dreams of pocket reality for 1d4 nights
+
+**CONSEQUENCES:**
+- Memorable, weird encounter (players will talk about this)
+- Memory Fragment foreshadows Lord Shadows's trauma
+- Academy may approach party about what they experienced
+- Minor fame: "Survived a wild magic surge"
+
+---
+
+### 6. THE DYING MESSENGER
+
+**READ ALOUD:**
+> *A young man staggers out of an alley, clutching his stomach. Blood streams between his fingers. He sees you and his eyes go wide with desperate hope.*
+>
+> *"Please... the message... must reach... Elder Thom... in Millbrook..."*
+>
+> *He presses a blood-stained scroll case into your hands.*
+>
+> *"Unbound... they're coming... warn them..."*
+>
+> *He collapses.*
+
+**THE SITUATION:**
+- Messenger Daven was carrying warning about Unbound attack
+- Unbound assassins caught him, thought he was dead
+- Millbrook village is in danger (Quest 1.1 hook)
+- Assassins may still be nearby
+
+**IMMEDIATE OPTIONS:**
+
+**Heal Him (DC 15 Medicine or Healing Magic):**
+- Stabilized but unconscious
+- Can answer questions when he wakes (1 hour)
+- Knows: Unbound planning to raid Millbrook for "recruits"
+
+**Let Him Die:**
+- He dies with message delivered
+- Scroll contains same information (coded, DC 14 INT to decipher)
+- Party must decide what to do with knowledge
+
+**Search the Area (Investigation DC 13):**
+- Find assassin's trail (two sets of boots)
+- Can track them (Survival DC 14) to Unbound safe house
+- Or: Assassins track party (noticed them helping Daven)
+
+**THE MESSAGE (Decoded):**
+> *"Elder Thom—Unbound moving on Millbrook. Three days. They want the Miller boy—he has the Gift. Get him out or prepare to fight. Sera protect you. —Brother Marcus"*
+
+**RESOLUTION OPTIONS:**
+
+**Rush to Millbrook:**
+- 2 days travel
+- Arrive in time to warn/prepare
+- Directly into Quest 1.1 with advance knowledge
+
+**Report to Authorities:**
+- Captain Roderic mobilizes patrol
+- Party may or may not be included
+- Lose opportunity for personal involvement
+
+**Investigate Safe House:**
+- Side mission before main quest
+- Find Unbound intelligence
+- Risk: Alert Unbound to party's involvement
+
+**Ignore:**
+- Millbrook raided as planned
+- Miller boy taken
+- Party hears about it later (guilt?)
+- Harder Quest 1.1 (must rescue instead of prevent)
+
+**CONSEQUENCES:**
+- Direct hook into main campaign
+- Party's choice affects Millbrook's fate
+- Establishes Unbound as active threat
+- Daven's survival creates grateful NPC contact
+
+---
+
 ## COMBAT TACTICS BY ENEMY TYPE
 
 ### Unbound Cultists (CR 1/8-2)
