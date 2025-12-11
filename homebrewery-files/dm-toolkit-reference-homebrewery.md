@@ -33,7 +33,7 @@ The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International
 
 #### Product Identity
 
-The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Primordials concept; all original magic items; the Worldrend event and timeline; all campaign content.
+The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Ascended concept; the Seven Bound Ancients concept; all original magic items; the Worldrend event and timeline; all campaign content.
 
 {{skipCounting}}
 \page
@@ -60,7 +60,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Thaldros (Temperate Kingdom)}}{{ 3}}](#p4)
     - [{{ Aethoria (Forested Republic)}}{{ 3}}](#p4)
     - [{{ Sundara (Desert Nation)}}{{ 3}}](#p4)
-    - [{{ Ashmar Wastes (Volcanic Region)}}{{ 3}}](#p4)
+    - [{{ Ashfall Barrens (Volcanic Region)}}{{ 3}}](#p4)
   - #### [{{ NPC Name Pronunciation}}{{ 3}}](#p4)
     - [{{ Common Names (Easy)}}{{ 3}}](#p4)
     - [{{ Elven Names (Medium)}}{{ 3}}](#p4)
@@ -123,13 +123,13 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Adventure Hooks}}{{ 8}}](#p9)
     - [{{ Atmosphere Notes}}{{ 8}}](#p9)
     - [{{ Travel Times FROM Silverpine}}{{ 8}}](#p9)
-  - #### [{{ Seahaven (Major Port City)}}{{ 8}}](#p9)
+  - #### [{{ Port Myrthen (Major Port City)}}{{ 8}}](#p9)
     - [{{ At a Glance}}{{ 8}}](#p9)
     - [{{ Key Locations}}{{ 8}}](#p9)
     - [{{ Key NPCs}}{{ 8}}](#p9)
     - [{{ Adventure Hooks}}{{ 8}}](#p9)
     - [{{ Atmosphere Notes}}{{ 8}}](#p9)
-    - [{{ Travel Times FROM Seahaven}}{{ 8}}](#p9)
+    - [{{ Travel Times FROM Port Myrthen}}{{ 8}}](#p9)
   - #### [{{ Sundara (Desert City-State)}}{{ 8}}](#p9)
     - [{{ At a Glance}}{{ 8}}](#p9)
     - [{{ Key Locations}}{{ 8}}](#p9)
@@ -137,13 +137,13 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Adventure Hooks}}{{ 9}}](#p10)
     - [{{ Atmosphere Notes}}{{ 9}}](#p10)
     - [{{ Travel Times FROM Sundara}}{{ 9}}](#p10)
-  - #### [{{ Ashmar (Volcanic Fortress)}}{{ 9}}](#p10)
+  - #### [{{ Ashfall (Volcanic Fortress)}}{{ 9}}](#p10)
     - [{{ At a Glance}}{{ 9}}](#p10)
     - [{{ Key Locations}}{{ 9}}](#p10)
     - [{{ Key NPCs}}{{ 9}}](#p10)
     - [{{ Adventure Hooks}}{{ 9}}](#p10)
     - [{{ Atmosphere Notes}}{{ 9}}](#p10)
-    - [{{ Travel Times FROM Ashmar}}{{ 9}}](#p10)
+    - [{{ Travel Times FROM Ashfall}}{{ 9}}](#p10)
   - #### [{{ Quick Distance Chart}}{{ 10}}](#p11)
   - #### [{{ Region-Specific Challenges}}{{ 10}}](#p11)
 }}
@@ -226,7 +226,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Ironhold (Underground)}}{{ 18}}](#p19)
     - [{{ Wilderness}}{{ 18}}](#p19)
     - [{{ Mountains}}{{ 18}}](#p19)
-    - [{{ Volcanic (Ashmar)}}{{ 18}}](#p19)
+    - [{{ Volcanic (Ashfall)}}{{ 18}}](#p19)
     - [{{ Dragons}}{{ 18}}](#p19)
   - #### [{{ Quick Combat Tips}}{{ 18}}](#p19)
 - ### [{{ Skill Challenge Templates}}{{ 19}}](#p20)
@@ -239,7 +239,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Negotiation / Diplomacy}}{{ 20}}](#p21)
     - [{{ Broker Peace Between Factions}}{{ 20}}](#p21)
   - #### [{{ Wilderness Survival / Travel}}{{ 20}}](#p21)
-    - [{{ Cross the Ashmar Wastes}}{{ 20}}](#p21)
+    - [{{ Cross the Ashfall Barrens}}{{ 20}}](#p21)
   - #### [{{ Puzzle / Ritual Solving}}{{ 20}}](#p21)
     - [{{ Decipher Ancient Elven Ritual}}{{ 20}}](#p21)
   - #### [{{ Investigation / Mystery}}{{ 21}}](#p22)
@@ -287,12 +287,12 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ History of Tirvandor at a Glance}}{{ 32}}](#p33)
   - #### [{{ Calendar System}}{{ 32}}](#p33)
   - #### [{{ Visual Timeline}}{{ 32}}](#p33)
-  - #### [{{ Age of Myth (??-15,000 BS)}}{{ 32}}](#p33)
+  - #### [{{ Age of Myth (??-15,000 BW)}}{{ 32}}](#p33)
     - [{{ Major Periods}}{{ 32}}](#p33)
-  - #### [{{ Age of Dawn (6,000-3,000 BS)}}{{ 32}}](#p33)
+  - #### [{{ Age of Dawn (6,000-3,000 BW)}}{{ 32}}](#p33)
     - [{{ Timeline}}{{ 32}}](#p33)
     - [{{ Key Developments}}{{ 32}}](#p33)
-  - #### [{{ The Worldrend (3,000 BS / Year 0)}}{{ 32}}](#p33)
+  - #### [{{ The Worldrend (Year 0 CR)}}{{ 32}}](#p33)
     - [{{ What Happened}}{{ 32}}](#p33)
     - [{{ Theories About the Cause}}{{ 32}}](#p33)
     - [{{ Immediate Effects}}{{ 33}}](#p34)
@@ -499,7 +499,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 | **Silverpine → Ironhold** | 5 | Hills (medium) |
 | **Ironhold → Aethermere** | 8 | Forest (medium) |
 | **Aethermere → Sundara** | 20 | Desert (very hard) |
-| **Kaer Thandros → Ashmar** | 15 | Swamp border (hard) |
+| **Kaer Thandros → Ashfall** | 15 | Swamp border (hard) |
 
 ### Travel Pace (Per Day)
 - **Fast (30 miles/day):** -5 to passive Perception, arrive exhausted
@@ -601,7 +601,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 - **Winter:** Mild days (60-75°F), cold nights (35-45°F)
 - **Sandstorms:** 20% chance any day in summer
 
-### Ashmar Wastes (Volcanic Region)
+### Ashfall Barrens (Volcanic Region)
 - **All Year:** Hot and smoky, ash falls regularly
 - **Eruption Season (Summer):** Extreme danger, evacuations common
 - **Safe Season (Winter):** Still hot but more stable
@@ -779,7 +779,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Kaer Thandros (Capital of Thaldros)
 
-**Population:** 85,000 | **Type:** Fortress-City | **Ruler:** King Aldric IV Thandris
+**Population:** 45,000 | **Type:** Fortress-City | **Ruler:** King Aldric IV Thandris
 
 ### At a Glance
 - **Atmosphere:** Military, disciplined, stone and iron
@@ -796,7 +796,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ### Key NPCs
 - King Aldric IV Thandris (ruler)
-- Prince Aldric Thandris (heir)
+- Crown Prince Thorin Thandris (heir)
 - Lord Commander Thrain Ironoak (military commander)
 - General Marthos Thandris (prince's uncle)
 - Watch Captain Gregor Ironhand (city guard)
@@ -818,11 +818,11 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - To Goldreach: 3 days (road)
 - To Aethermere: 12 days (mountain pass)
 - To Ironhold: 6 days (hills)
-- To Ashmar: 15 days (swamp border)
+- To Ashfall: 15 days (swamp border)
 
 ## Goldreach (Merchant League Capital)
 
-**Population:** 62,000 | **Type:** Trade Hub | **Leader:** Trade Prince Lucian Goldfingers
+**Population:** 28,000 | **Type:** Trade Hub | **Leader:** Trade Prince Lucian Goldfingers
 
 ### At a Glance
 - **Atmosphere:** Wealthy, bustling, cosmopolitan
@@ -869,7 +869,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 \page
 ## Aethermere (Elven Capital)
 
-**Population:** 48,000 | **Type:** Magical City-State | **Ruler:** High Queen Aelindra Aethermere
+**Population:** 38,000 | **Type:** Magical City-State | **Ruler:** High Queen Aelindra Aethermere
 
 ### At a Glance
 - **Atmosphere:** Otherworldly, serene, magical
@@ -886,8 +886,9 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ### Key NPCs
 - High Queen Aelindra Aethermere (ruler)
-- Princess Elanil Aethermere (daughter, curious)
-- Archmage Eldrin Aethermere (royal mage)
+- Theron Aethermere (Chosen Heir, half-elf, selected by world-trees)
+- Princess Elanil Aethermere (daughter, diplomat, not heir)
+- Archmage Eldrin Aethermere (son, royal mage, not heir)
 - Archmage Veridian Starweaver (academy head)
 - Council Speaker Aquila Clearwater (political leader)
 - Lady Shadowleaf Niriel (spymaster)
@@ -915,7 +916,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Ironhold (Dwarven Stronghold)
 
-**Population:** 35,000 (mostly underground) | **Type:** Mountain Fortress-City | **Leader:** Thane Durin Ironforge
+**Population:** 8,000 | **Type:** Mountain Fortress-City | **Leader:** Thane Durin Ironforge
 
 ### At a Glance
 - **Atmosphere:** Industrial, traditional, honorable
@@ -960,7 +961,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Silverpine (Forest Settlement)
 
-**Population:** 22,000 | **Type:** Forest Town | **Leader:** Lady Seraphine Silverleaf
+**Population:** 32,000 | **Type:** Forest Town | **Leader:** Lady Seraphine Silverleaf
 
 ### At a Glance
 - **Atmosphere:** Natural, rustic, integrated with forest
@@ -1007,9 +1008,9 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ---
 
-## Seahaven (Major Port City)
+## Port Myrthen (Major Port City)
 
-**Population:** 44,000 | **Type:** Port City | **Leader:** Harbor Master Tobias Saltwind
+**Population:** 9,000 | **Type:** Port City | **Leader:** Merchant Council (Harbor Master Tobias Saltwind manages port operations)
 
 ### At a Glance
 - **Atmosphere:** Rough, cosmopolitan, seafaring
@@ -1025,7 +1026,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 5. **Fish Market** - Chaotic morning auctions
 
 ### Key NPCs
-- Harbor Master Tobias Saltwind (port authority)
+- Harbor Master Tobias Saltwind (port operations)
 - Captain Mira Wavecrest (naval officer)
 - Admiral Theron Stormcrest (fleet commander)
 - Captain Vex Darkwater (pirate/privateer)
@@ -1044,7 +1045,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - **Smells:** Fish, salt, tar, seaweed
 - **Mood:** Rough, adventurous, lawless, exciting
 
-### Travel Times FROM Seahaven
+### Travel Times FROM Port Myrthen
 - To Goldreach: 1 day (ship), 3 days (road)
 - To any coastal city: 2-5 days (ship)
 - To islands: Varies (ship only)
@@ -1054,7 +1055,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Sundara (Desert City-State)
 
-**Population:** 38,000 | **Type:** Oasis City | **Leader:** Sultan Rashid Al-Sahir
+**Population:** 18,000 | **Type:** Oasis City | **Leader:** Sultan Rashid Ashborne
 
 ### At a Glance
 - **Atmosphere:** Exotic, spiritual, hot
@@ -1070,7 +1071,8 @@ When players try creative solutions, say "yes, and..." instead of "no"
 5. **The Underground Springs** - Sacred water source
 
 ### Key NPCs
-- Sultan Rashid Al-Sahir (ruler, spiritual leader)
+- Sultan Rashid Ashborne (political ruler)
+- High Priest Rashid Al-Sahir (spiritual leader)
 - Master Glasswright Zara (artisan)
 - Desert Ranger Khalid (guide)
 - Merchant Princess Yasmin (trader)
@@ -1102,7 +1104,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ---
 
-## Ashmar (Volcanic Fortress)
+## Ashfall (Volcanic Fortress)
 
 **Population:** 8,000 (mostly Ashwardens) | **Type:** Fortress City | **Leader:** Grand Warden Volcanus Rex
 
@@ -1138,7 +1140,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - **Smells:** Sulfur, ash, smoke, burning
 - **Mood:** Tense, hot, exhausting, heroic duty
 
-### Travel Times FROM Ashmar
+### Travel Times FROM Ashfall
 - To Kaer Thandros: 15 days (through swamps)
 - To safe lands: 10+ days (volcanic region exit)
 - Within volcanic region: 1-3 days
@@ -1151,16 +1153,16 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Quick Distance Chart
 
-|  | Kaer T. | Goldreach | Aethermere | Ironhold | Silverpine | Seahaven | Sundara | Ashmar |
+|  | Kaer T. | Goldreach | Aethermere | Ironhold | Silverpine | Port Myrthen | Sundara | Ashfall |
 |--|---------|-----------|------------|----------|------------|----------|---------|--------|
 | **Kaer Thandros** | - | 3d | 12d | 6d | 7d | 8d | 25d | 15d |
 | **Goldreach** | 3d | - | 10d | 9d | 4d | 1d(ship) | 20d | 18d |
 | **Aethermere** | 12d | 10d | - | 8d | 5d | 12d | 20d | 22d |
 | **Ironhold** | 6d | 9d | 8d | - | 5d | 10d | 25d | 20d |
 | **Silverpine** | 7d | 4d | 5d | 5d | - | 6d | 22d | 20d |
-| **Seahaven** | 8d | 1d | 12d | 10d | 6d | - | 15d(ship) | 20d |
+| **Port Myrthen** | 8d | 1d | 12d | 10d | 6d | - | 15d(ship) | 20d |
 | **Sundara** | 25d | 20d | 20d | 25d | 22d | 15d | - | 30d |
-| **Ashmar** | 15d | 18d | 22d | 20d | 20d | 20d | 30d | - |
+| **Ashfall** | 15d | 18d | 22d | 20d | 20d | 20d | 30d | - |
 
 *d = days by horse, road conditions vary*
 
@@ -1173,9 +1175,9 @@ When players try creative solutions, say "yes, and..." instead of "no"
 **Aethermere:** Cultural barriers, magical accidents  
 **Ironhold:** Clan politics, underground dangers  
 **Silverpine:** Wilderness threats, ranger suspicion  
-**Seahaven:** Pirates, storms, rough crowds  
+**Port Myrthen:** Pirates, storms, rough crowds  
 **Sundara:** Extreme heat, sandstorms, water scarcity  
-**Ashmar:** Volcanic eruptions, fire damage, isolation
+**Ashfall:** Volcanic eruptions, fire damage, isolation
 
 
 {{pageNumber,auto}}
@@ -1439,7 +1441,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 | Faction | Leader | Second-in-Command | Wildcard |
 |---------|--------|-------------------|----------|
-| **Iron Council** | Lord Commander Gareth Lightbane | General Thrain Ironoak | Prince Aldric (impatient heir) |
+| **Iron Council** | Lord Commander Gareth Lightbane | General Thrain Ironoak | Crown Prince Thorin (impatient heir) |
 | **Merchant League** | Trade Prince Lucian Goldfingers | Merchant Lord Cornelius | Davos Goldshore (villain) |
 | **Aethorian Council** | Council Speaker Aquila Clearwater | High Diviner Celestia | Lady Shadowleaf (spymaster) |
 | **The Syndicate** | Master Crimson (unknown) | The Scarlet Knife | Network of spies |
@@ -1467,7 +1469,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
    - **Parties:** Thaldros vs Aethoria
    - **Issue:** Disputed territory along mountain pass
    - **Risk:** Escalation to war
-   - **Catalyst:** Prince Aldric wants to prove himself
+   - **Catalyst:** Crown Prince Thorin wants to prove himself
 
 3. **Syndicate Exposure** 
    - **Parties:** Syndicate vs Aethorian Spymaster
@@ -1934,7 +1936,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - Frost Giant (CR 8)
 - Behir (CR 11)
 
-### Volcanic (Ashmar)
+### Volcanic (Ashfall)
 - Efreeti (CR 11)
 - Fire Elementals
 - Magma creatures
@@ -2142,7 +2144,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 \column
 ## Wilderness Survival / Travel
 
-### Cross the Ashmar Wastes
+### Cross the Ashfall Barrens
 
 **Goal:** Travel through volcanic wasteland without dying
 
@@ -2983,7 +2985,7 @@ Copy templates to your preferred digital tool!
 
 ```
 AGE OF MYTH          AGE OF DAWN         AGE OF STRIFE        AGE OF KINGDOMS
-(Pre-history)        (6000-3000 BS)      (0-600 CR)          (600-1247 CR)
+(Pre-history)        (6000-3000 BW)      (0-600 CR)          (600-1247 CR)
      |                     |                    |                    |
      ↓                     ↓                    ↓                    ↓
   ????????           United World         THE WORLDREND        Modern Era
@@ -2992,7 +2994,7 @@ AGE OF MYTH          AGE OF DAWN         AGE OF STRIFE        AGE OF KINGDOMS
 
 ════════════════════════════════════════════════════════════════════════════
 
-     -15,000 BS      -6000 BS    -3000 BS        0          +600 CR    +1247 CR
+     -15,000 BW      -6000 BW    -3000 BW        0          +600 CR    +1247 CR
         |               |            |            |             |           |
         |               |            |            |             |          NOW
      DRAGONS         ELVES        UNITED      WORLDREND    STABILIZE   CURRENT
@@ -3002,41 +3004,41 @@ AGE OF MYTH          AGE OF DAWN         AGE OF STRIFE        AGE OF KINGDOMS
 ## History of Tirvandor at a Glance
 
 **Current Year:** 1247 CR (Common Reckoning)  
-**The Worldrend:** Year 0 (3,000 years ago)
+**The Worldrend:** Year 0 (1,247 years ago)
 
 ::
 
 ## Calendar System
 
-**Before Worldrend (BS)** → Years before the catastrophe  
+**Before Worldrend (BW)** → Years before the catastrophe  
 **Common Reckoning (CR)** → Years after the catastrophe
 
-**Current Date:** 1247 CR = 3,000 years after the world split
+**Current Date:** 1247 CR = 1,247 years after the Worldrend
 
 ---
 
  ::
 
-## Age of Myth (??-15,000 BS)
+## Age of Myth (??-15,000 BW)
 
 **Era:** The world before mortals  
 **Key Figures:** Primordials, Dragons, Giants
 
 ### Major Periods
 
-**~15,000-12,000 BS: The First Creation**
+**~15,000-12,000 BW: The First Creation**
 - World is single landmass
 - Primordials shape reality
 - Dragons born from earth's blood
 - Magic flows freely
 
-**~12,000-8,000 BS: Dragon Hegemony**
+**~12,000-8,000 BW: Dragon Hegemony**
 - Dragons rule the world
 - First written languages created
 - Dragon Libraries built
 - First Dragon War (chromatic vs metallic)
 
-**~8,000-6,000 BS: Giant Kingdoms**
+**~8,000-6,000 BW: Giant Kingdoms**
 - Giants build massive stone cities
 - Runic magic developed
 - Giant-Dragon Pact ends wars
@@ -3044,22 +3046,22 @@ AGE OF MYTH          AGE OF DAWN         AGE OF STRIFE        AGE OF KINGDOMS
 
 ---
 
-## Age of Dawn (6,000-3,000 BS)
+## Age of Dawn (6,000-3,000 BW)
 
 **Era:** Rise of mortal civilizations  
 **Status:** World still united, peaceful cooperation
 
 ### Timeline
 
-**6,000 BS** - First Elven Kingdom founded (Lothlindor)  
-**5,500 BS** - Dwarves discover Ironspine Mountains, begin delving  
-**5,000 BS** - Humans emerge as significant civilization  
-**4,500 BS** - Elven high magic reaches peak  
-**4,000 BS** - Dwarves establish First Deep Kingdom (Khaz-Durath)  
-**3,500 BS** - **Age of Accord begins** (peace and cooperation)  
-**3,200 BS** - Mixed-race cities founded  
-**3,100 BS** - Great Library of Silverpine established  
-**3,050 BS** - Trade networks connect all major civilizations
+**6,000 BW** - First Elven Kingdom founded (Lothlindor)  
+**5,500 BW** - Dwarves discover Ironspine Mountains, begin delving  
+**5,000 BW** - Humans emerge as significant civilization  
+**4,500 BW** - Elven high magic reaches peak  
+**4,000 BW** - Dwarves establish First Deep Kingdom (Khaz-Durath)  
+**3,500 BW** - **Age of Accord begins** (peace and cooperation)  
+**3,200 BW** - Mixed-race cities founded  
+**3,100 BW** - Great Library of Silverpine established  
+**3,050 BW** - Trade networks connect all major civilizations
 
 ### Key Developments
 Elves master natural magic  
@@ -3070,13 +3072,13 @@ Golden age of knowledge and culture
 
  ::
 
-## The Worldrend (3,000 BS / Year 0)
+## The Worldrend (Year 0 CR)
 
 **The Catastrophe That Split the World**
 
 ### What Happened
 
-**Date:** Exactly 3,000 years ago (Year 0)  
+**Date:** Exactly 1,247 years ago (Year 0)  
 **Event:** Massive arcane catastrophe  
 **Result:** Single continent split into two landmasses  
 **Cause:** [Multiple theories, no confirmed truth]
@@ -3234,18 +3236,18 @@ Wild magic surges for decades
 **789 CR** - Forgebound Guild chartered (master craftsmen)  
 **812 CR** - House Goldshore founded (merchant nobles)  
 **845 CR** - Silverpine settlement established  
-**891 CR** - House Blackwood destroyed, Corvus survives (future Lord Shadows)  
+**1204 CR** - Second Blackwood Purge, Corvus (age 12) survives (future Lord Shadows)  
 **923 CR** - Kaer Thandros expanded (modern fortress-city)  
-**967 CR** - Aethermere Academy founded (magical university)  
+**967 CR** - Aethoria University founded (magical university)  
 **1001 CR** - First contact with Sundara (desert nation)  
-**1089 CR** - Volcanic crisis in Ashmar (seal weakening)  
-**1124 CR** - King Aldric IV crowned (current king)  
-**1156 CR** - High Queen Aelindra ascends (current queen)  
+**1089 CR** - Volcanic crisis in Ashfall (seal weakening)  
+**1230 CR** - King Aldric IV crowned (current king)  
+**1180 CR** - High Queen Aelindra ascends (current queen)  
 **1203 CR** - Border skirmish kills 200 soldiers (tensions rise)  
 **1228 CR** - Merchant League scandal (corruption exposed)  
 **1235 CR** - House Goldshore massacre begins (Blood & Coin premise)  
 **1239 CR** - Lord Shadows Blackwood begins vendetta (Shattered Oaths premise)  
-**1245 CR** - Volcanic activity increases (Ashmar warning signs)
+**1245 CR** - Volcanic activity increases (Ashfall warning signs)
 
 **1247 CR** - **CURRENT YEAR** ← YOU ARE HERE
 
@@ -3301,7 +3303,7 @@ Wild magic surges for decades
 **In Elf Years:**
 - About 6-7 elf lifespans
 - Some elves alive remember great-grandparents who survived it
-- High Queen Aelindra: born 760 years AFTER Worldrend
+- High Queen Aelindra: born 247 years BEFORE Worldrend (witnessed it, age 1,494)
 
 **In Human Years:**
 - About 30-40 generations
@@ -3347,7 +3349,7 @@ Wild magic surges for decades
 | Era | Years | Status | Key Feature |
 |-----|-------|--------|-------------|
 | **Age of Myth** | Pre-history | Legendary | Dragons & Giants rule |
-| **Age of Dawn** | 6000-3000 BS | United | Mortal races rise |
+| **Age of Dawn** | 6000-3000 BW | United | Mortal races rise |
 | **THE Worldrend** | Year 0 | CATASTROPHE | World splits in two |
 | **Age of Strife** | 0-600 CR | Chaos | War and survival |
 | **Age of Kingdoms** | 600-1247 CR | Stable | Modern era |
@@ -3873,7 +3875,7 @@ Tirvandor is a world where magic flows through ancient ley lines like rivers ben
 **Key Regions:**
 - **Ironspine Mountains** - Natural border, dwarf strongholds, rich mines
 - **Thornwood Forest** - Ancient woods, ranger territory, druidic circles
-- **Ashmar Wastes** - Volcanic badlands, fire magic, dangerous seals
+- **Ashfall Barrens** - Volcanic badlands, fire magic, dangerous seals
 - **Sundara Desert** - Oasis city-states, desert nomads, ancient mysteries
 
 ---
@@ -4024,7 +4026,7 @@ You don't have to join a faction, but understanding them helps navigate the worl
 - Good for: Rangers, Druids, nature characters
 - Tone: Peaceful, protective, rustic
 
-**6. Seahaven (Port City)**
+**6. Port Myrthen (Port City)**
 - Rough sailor town, pirates, adventure
 - Good for: Anyone seeking excitement
 - Tone: Lawless, exciting, dangerous
@@ -5820,7 +5822,7 @@ These are unique items from Tirvandor lore:
 - Clan tokens and heirlooms (worthless to outsiders, priceless to clan)
 - Uncut gemstones (50-500 gp each)
 
-**From Ashmar (Volcanic):**
+**From Ashfall (Volcanic):**
 - Volcanic glass weapons (50 gp, +1 fire damage)
 - Fire opals and obsidian (100-500 gp)
 - Elemental binding scrolls (rare)
@@ -6001,7 +6003,57 @@ Cantrips: *mage hand, prestidigitation, light, message*
 \page
 
 {{monster,frame,wide
-## Sultan Rashid al-Sahir
+## Sultan Rashid Ashborne
+*Medium humanoid (human), lawful neutral*
+___
+**Armor Class** :: 18 (breastplate +1, Dex, ring of protection)
+**Hit Points** :: 136 (16d8 + 64)
+**Speed** :: 30 ft.![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/dm-toolkit-npc-cards/images/tirvandor-npc-sultan-rashid-ashborne.jpg){width:325px,mix-blend-mode:multiply}
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|16 (+3)|18 (+4)|18 (+4)|14 (+2)|20 (+5)|
+___
+**Saving Throws** :: Dex +8, Int +9, Cha +10
+**Skills** :: Deception +15, Insight +12, Intimidation +10, Persuasion +15
+**Senses** :: passive Perception 17
+**Languages** :: Common, Elvish, Dwarvish, Primordial
+**Challenge** :: 12 (8,400 XP)
+___
+
+
+***Master Manipulator.*** Advantage on Insight checks to read people and Deception checks to conceal intentions.
+
+***Silver Tongue (1/Short Rest).*** Cast *Suggestion* (DC 18) without components. Target doesn't realize magical influence.
+
+***Sneak Attack (6d6).*** Once per turn, extra damage with advantage or ally within 5 ft. of target.
+
+### Roleplaying Notes
+**Title:** Sultan of Sundara, Head of House Ashborne
+**Personality:** Calculating, patient, always negotiating. Never raises voice.
+**Voice:** Smooth, measured. Strokes beard when thinking. Intense eye contact.
+**Wants:** Expand House Ashborne into desert empire, secure succession, outmaneuver rivals
+**Knows:** Trade routes, political secrets, who can be bought and for how much
+
+### Actions
+***Multiattack.*** Two scimitar attacks or Silver Tongue and one attack.
+
+***Scimitar +2 "Desert Fang".*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 8 (1d6 + 5) slashing plus 7 (2d6) poison (DC 15 Con half).
+
+***Call Guards (1/Day).*** Summons 4 veteran guards within 1 minute.
+ ::
+*"In the desert, the patient vulture eats well. I am very patient."*
+}}
+
+
+
+{{pageNumber,auto}}
+{{footnote NPC CARDS}}
+
+\page
+
+{{monster,frame,wide
+## High Priest Rashid Al-Sahir
 *Medium humanoid (human), lawful good*
 ___
 **Armor Class** :: 18 (unarmored defense)
@@ -6036,11 +6088,11 @@ Cantrips: *guidance, light, sacred flame, spare the dying, thaumaturgy*
 7th (1 slot): *regenerate*
 
 ### Roleplaying Notes
-**Title:** Sultan of Sundara, "The Twice-Blessed"
+**Title:** High Priest of Sundara, "The Twice-Blessed"
 **Personality:** Wise spiritual leader, grandfatherly, deeply compassionate
 **Voice:** Warm, gentle. Moves gracefully despite age. White braided beard.
-**Wants:** Peace and prosperity, balance between tradition and progress
-**Knows:** Desert secrets, religious prophecies, trade routes
+**Wants:** Peace and prosperity, spiritual guidance for Sultan Ashborne, balance between tradition and progress
+**Knows:** Desert secrets, religious prophecies, the souls of his people
  ::
 *"The desert teaches patience. Water comes to those who wait, death to those who rush."*
 }}
@@ -6484,7 +6536,7 @@ Cantrips: *druidcraft, guidance, produce flame, shillelagh*
 \page
 
 {{monster,frame,wide
-## Prince Aldric Thandris
+## Crown Prince Thorin Thandris
 *Medium humanoid (human), chaotic good*
 ___
 **Armor Class** :: 19 (plate armor)
@@ -6503,9 +6555,9 @@ ___
 ___
 
 
-***Second Wind (1/Short Rest).*** Prince Aldric can regain 1d10 + 8 HP as a bonus action.
+***Second Wind (1/Short Rest).*** Crown Prince Thorin can regain 1d10 + 8 HP as a bonus action.
 
-***Action Surge (1/Short Rest).*** Prince Aldric can take one additional action.
+***Action Surge (1/Short Rest).*** Crown Prince Thorin can take one additional action.
 
 ***Inspiring Athlete.*** When Aldric makes an Athletics or Acrobatics check, allies within 30 ft. can use his result instead of their own if they make the same check within 1 minute.
 
@@ -6517,7 +6569,7 @@ ___
 **Knows:** Military training (less experienced), court politics, secret desire for adventure
 
 ### Actions
-***Multiattack.*** Prince Aldric makes two longsword attacks.
+***Multiattack.*** Crown Prince Thorin makes two longsword attacks.
 
 ***Longsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) if wielded two-handed.
 
@@ -6968,14 +7020,15 @@ Cantrips: *friends, message, minor illusion, vicious mockery*
 
 ## By Role
 
-**Rulers (Cards 1-3)** ::
+**Rulers (Cards 1-4)** ::
 | NPC | CR | Role |
 |:----|:--:|:-----|
 | King Aldric IV | 12 | High King of Thaldros |
 | High Queen Aelindra | 14 | High Queen of Aethoria |
-| Sultan Rashid | 11 | Sultan of Sundara |
+| Sultan Rashid Ashborne | 12 | Sultan of Sundara |
+| High Priest Al-Sahir | 11 | Spiritual Leader of Sundara |
 
-**Faction Leaders (Cards 4-11)** ::
+**Faction Leaders (Cards 5-12)** ::
 | NPC | CR | Faction |
 |:----|:--:|:--------|
 | Lord Commander Gareth | 12 | Iron Council |
@@ -6987,13 +7040,13 @@ Cantrips: *friends, message, minor illusion, vicious mockery*
 | Forge-Master Rurik | 8 | Forgebound Guild |
 | Archdruid Silvaris | 12 | Druidic Circle |
 
-**Royal Heirs (Cards 12-13)** ::
+**Royal Heirs (Cards 13-14)** ::
 | NPC | CR | Role |
 |:----|:--:|:-----|
-| Prince Aldric | 5 | Crown Prince of Thaldros |
+| Crown Prince Thorin | 5 | Crown Prince of Thaldros |
 | Princess Elanil | 6 | Princess of Aethoria |
 
-**Specialists (Cards 14-20)** ::
+**Specialists (Cards 15-21)** ::
 | NPC | CR | Role |
 |:----|:--:|:-----|
 | Davos Goldshore | 10 | Villain - Blood & Coin |
@@ -7025,7 +7078,7 @@ Cantrips: *friends, message, minor illusion, vicious mockery*
 Focus on: Davos Goldshore, Lucian Goldfingers, Master Crimson, The Scarlet Knife
 
 ### Shattered Oaths
-Focus on: King Aldric IV, High Queen Aelindra, Lady Shadowleaf, Prince Aldric
+Focus on: King Aldric IV, High Queen Aelindra, Lady Shadowleaf, Crown Prince Thorin
 
 ### Universal
 All faction leaders and specialists work in any campaign
@@ -7107,7 +7160,7 @@ Tirvandor Dungeon Master's Toolkit: Quick Reference for Tirvandor
 
 :
 Everything a Dungeon Master needs at their fingertips. No more flipping through multiple books mid-session—this toolkit puts Tirvandor's essential information in one place, organized for fast reference during play.
-Whether you're running a tense negotiation in Kaer Thandros, a desperate chase through Goldreach's streets, or an ambush in the Ashmar Wastes, this book has you covered.
+Whether you're running a tense negotiation in Kaer Thandros, a desperate chase through Goldreach's streets, or an ambush in the Ashfall Barrens, this book has you covered.
 
 This Toolkit contains: ::
 

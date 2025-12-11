@@ -196,7 +196,7 @@ By the end of Act I, the heroes will have:
 - Following rumors of ancient ruins
 - Fleeing trouble elsewhere
 
-**Location:** Silverpine (Population 4,200)
+**Location:** Silverpine (Population 32,000)
 
 #### Opening Scene: The Broken Wheel Inn
 
@@ -719,7 +719,7 @@ Heroes must use social skills to investigate Silverpine's merchants and citizens
 - There's deep pain in his eyes
 
 **Persuasion DC 16 (Gentle Approach):**
-> *"You want to know why? WHY?"* *(voice rising)* *"Because the kingdom failed us! Five years ago, my wife Elena died in the Dragon Crisis. The nobles were too busy squabbling to send help. She died because THEY didn't care about common folk! The Unbound? They promised justice. They promised the corrupt would pay. And I... I believed them."*
+> *"You want to know why? WHY?"* *(voice rising)* *"Because the kingdom failed us! Five years ago, my wife Elena died when border raiders attacked our village. The nobles were too busy squabbling to send help. She died because THEY didn't care about common folk! The Unbound? They promised justice. They promised the corrupt would pay. And I... I believed them."*
 
 **Intimidation DC 14 (Aggressive Approach):**
 > *"Alright! I'll talk! But you don't understand—I'm not the enemy! The KINGDOMS are the enemy! House Blackwood was destroyed because they tried to help people like us! The nobles rewrote history to cover their own crimes! The Unbound showed me the truth!"*
@@ -1021,7 +1021,7 @@ Whisper of Betrayal (Recharge 5-6): One creature within 30 ft. must make DC 13 W
 #### Aftermath & Garrett's Testimony
 
 If captured alive, Garrett breaks under questioning:
-- His son died in the Dragon Crisis (1156 CR)
+- His son died in a border skirmish (1242 CR)
 - Blames the kingdom for not protecting people
 - The Unbound promised vengeance against the nobles
 - He doesn't know what the "component" is
@@ -1045,7 +1045,7 @@ If captured alive, Garrett breaks under questioning:
 > *Dawn breaks over Silverpine, painting the sky in shades of gold and crimson. The town square bustles with activity as word of last night's victory spreads. Captain Roderic awaits you at the stables, standing beside four sturdy horses laden with supplies. Behind him, a small crowd has gathered—Elder Thom, Marta, Torin the blacksmith, even Velana from her shop. They've come to see you off.*
 
 **Captain Roderic's Briefing:**
-> *"You've done good work here, better than I could've hoped. But this isn't over—not by a long shot. That letter mentioned Raven's Keep, three days northwest in the Shadowpeak Hills. Old Blackwood fortress, destroyed forty-three years back when the house fell. Now the Unbound's using it as a staging ground."*
+> *"You've done good work here, better than I could've hoped. But this isn't over—not by a long shot. That letter mentioned Raven's Keep, three days northwest in the Shadowpeak Hills. Old Blackwood fortress, destroyed over a century and a half ago during the Blackwood Rebellion. The surviving Blackwoods hid for generations until they were found and eliminated forty-three years back. Now the Unbound's using the ruins as a staging ground."*
 > 
 > *(He hands over a map)* *"This shows the main road, but it's not safe. Word is the Unbound's been watching the highways. You'll need to be careful. I can spare these horses and provisions for a week. After that..."* *(trails off)* *"Well, let's hope you're back before then, one way or another."*
 
@@ -1372,7 +1372,7 @@ If captured alive, Garrett breaks under questioning:
 - Spot what looks like excavation site (digging in the ruins)
 
 **History DC 15 (Knowledge of Raven's Keep):**
-> *"Raven's Keep was the primary Blackwood fortress. When House Blackwood fell 43 years ago, King Thandris III ordered it destroyed—pulled down stone by stone. But the vaults beneath were rumored to be impregnable. If the First Component is anywhere, it's down there."*
+> *"Raven's Keep was the primary Blackwood fortress. When House Blackwood rebelled 155 years ago, the King ordered it destroyed—pulled down stone by stone. The surviving Blackwoods lived in hiding until the Second Purge 43 years ago found and eliminated them. But the vaults beneath were rumored to be impregnable. If the First Component is anywhere, it's down there."*
 
 **APPROACHING THE BRIDGE:**
 
@@ -1532,12 +1532,12 @@ Kaelen is fanatical but can be broken.
 - Heavy guard presence (30+ cultists)
 
 **Intimidation DC 17 or Persuasion DC 16:**
-> *"The vault requires Blackwood blood to open—that's why only Lord Shadows can enter. He's the last of his line. Once he has the First Component, he'll move to the next phase: awakening Dragon Infernalix beneath Kaer Thandros. The World-Splitter needs all three components to trigger the Second Worldrend, but even one component grants immense power!"*
+> *"The vault requires Blackwood blood to open—that's why only Lord Shadows can enter. He's the last of his line. Once he has the First Component, he'll move to the next phase: awakening Dragon Infernalix beneath Kaer Thandros. The World-Splitter needs all five components to trigger the Second Worldrend, but even one component grants immense power!"*
 
 **Reveals:**
 - Vault needs Blackwood bloodline to open
 - Lord Shadows is last Blackwood heir (confirms his identity)
-- Three total components exist
+- Five total components exist (Shadow Shard, Flame Heart, Void Fragment, Stone Crown, Storm Eye)
 - Next target: Dragon Infernalix in Kaer Thandros
 - World-Splitter's purpose: trigger Second Worldrend
 
@@ -1923,7 +1923,7 @@ If horn is blown:
 > *"The Blackwoods honored ravens as symbols of wisdom and truth. They believed ravens carried messages between the living and the dead. This courtyard was where they'd hold court—dispensing justice in the open, for all to see. They wanted transparency in their rule."*
 
 **Religion DC 16:**
-> *"This courtyard is consecrated ground, blessed by priests of Auriel, goddess of truth. The blessing may still linger—dark magic would be weakened here."*
+> *"This courtyard is consecrated ground, blessed by priests of Aethor, god of light. The blessing may still linger—dark magic would be weakened here."*
 - **Mechanical Benefit:** Undead have disadvantage on attacks in this courtyard
 - Healing spells cast here restore +1d4 additional HP
 
@@ -2266,11 +2266,11 @@ Arcanus is **non-hostile** unless attacked. He believes the party is new Unbound
 
 **Arcanus's Lecture (If Playing Along):**
 
-> *"Sit, sit! You must understand what we're fighting for. For forty-three years, the kingdoms have perpetuated a monstrous lie. They say House Blackwood attempted to trigger the Second Worldrend—to shatter the continents and plunge the world into chaos. But I've found the truth in these texts!"*
+> *"Sit, sit! You must understand what we're fighting for. For over a century and a half, the kingdoms have perpetuated a monstrous lie—reinforced forty-three years ago when they hunted down the last survivors. They say House Blackwood attempted to trigger the Second Worldrend—to shatter the continents and plunge the world into chaos. But I've found the truth in these texts!"*
 >
-> *(He taps ancient tome)* *"House Blackwood wasn't trying to destroy the world—they were PROTECTING it! The World-Splitter, that ancient artifact, was split into three components after the First Worldrend. Seven noble houses were entrusted to guard these pieces, ensuring they'd never be reunited. The Blackwoods held the First Component here, in these vaults."*
+> *(He taps ancient tome)* *"House Blackwood wasn't trying to destroy the world—they were PROTECTING it! The World-Splitter, that ancient artifact, was split into five components after the First Worldrend. Five noble houses and institutions were entrusted to guard these pieces, ensuring they'd never be reunited. The Blackwoods held the First Component here, in these vaults."*
 >
-> *"But King Thandris III's son—the current king's uncle—discovered the Component. He tried to sell it to dragon cults for personal power. When his treachery was revealed, Thandris III blamed the Blackwoods instead. He destroyed an entire noble house to cover his own family's corruption!"*
+> *"But King Aldric III's son—the current king's older brother—discovered the Component. He tried to sell it to dragon cults for personal power. When his treachery was revealed, King Aldric III blamed the Blackwoods instead. He destroyed an entire noble house to cover his own family's corruption!"*
 
 **History DC 13 (Confirming Details):**
 - Seven noble houses did exist in Pre-Worldrend era
@@ -2280,7 +2280,7 @@ Arcanus is **non-hostile** unless attacked. He believes the party is new Unbound
 
 **History DC 17 (Detailed Knowledge):**
 - Official records DO have inconsistencies about Blackwood fall
-- King Thandris III's son died mysteriously around that time
+- King Aldric III's son died mysteriously around that time
 - Other noble houses that guarded "Components" also fell to mysterious circumstances
 - There might be truth to this conspiracy theory
 
@@ -2298,7 +2298,7 @@ Arcanus is **non-hostile** unless attacked. He believes the party is new Unbound
 > *"Vindication! He'll use the First Component to prove the Blackwoods were framed. The Component has unique magical signatures that can only be wielded by its original guardian family. If Lord Shadows can command it, that proves Blackwood legitimacy! Then he'll demand the kingdoms acknowledge their crime and restore his house's honor."*
 
 **"What does the First Component do?"**
-> *"In isolation? It grants dominion over shadows—control of darkness, ability to see through shadows, summon shadow creatures. Dangerous, yes, but not world-ending. Only when reunited with the Second and Third Components does the World-Splitter become capable of, well, splitting worlds. And Lord Shadows has no intention of doing that! He's not a madman, he's a righteous man seeking justice!"*
+> *"In isolation? It grants dominion over shadows—control of darkness, ability to see through shadows, summon shadow creatures. Dangerous, yes, but not world-ending. Only when reunited with all five Components does the World-Splitter become capable of, well, splitting worlds. And Lord Shadows has no intention of doing that! He's not a madman, he's a righteous man seeking justice!"*
 
 **Arcana DC 15 (Analyzing This):**
 - He's correct about the basic mechanics
@@ -2307,7 +2307,7 @@ Arcanus is **non-hostile** unless attacked. He believes the party is new Unbound
 - Someone seeking vengeance with that power? Recipe for disaster
 
 **"Where are the other Components?"**
-> *"Ah, that's the challenge. The Second Component was entrusted to House Goldshore—their line ended in the War of Three Crowns, fifty years ago. The vault location died with them. The Third... the Third was entrusted to an aquatic house, possibly the Deepwaters, but they sank beneath the waves during the Worldrend. Lost forever, most likely. So you see? Even if Lord Shadows wanted to trigger the Second Worldrend—which he doesn't—he couldn't. Two Components are likely gone forever."*
+> *"Ah, that's the challenge. There are five Components total. The Second—the Flame Heart—was entrusted to a secret branch of House Goldshore called the Keepers. They were murdered forty-three years ago; the vault location died with them. The main Goldshore line still thrives in Goldreach, but they never knew about the Component. The Third—the Void Fragment—sank with House Deepwater during the Worldrend. The Fourth—the Stone Crown—remains with the Crown of Thaldros, though its location is closely guarded. The Fifth—the Storm Eye—is held by the Aethorian Harmony across the sea. So you see? Even if Lord Shadows wanted to trigger the Second Worldrend—which he doesn't—assembling all five would be nearly impossible."*
 
 **Insight DC 16:**
 - He's trying to convince HIMSELF as much as you
@@ -2404,7 +2404,7 @@ Arcanus fights defensively, using magic to escape rather than kill.
 
 **KNOWLEDGE GAINED:**
 - Full context of Blackwood tragedy
-- World-Splitter mechanics (three components)
+- World-Splitter mechanics (five components)
 - Lord Shadows's (Corvus's) true motivations
 - Vault access requirements
 - Locations of other Components (Second unknown, Third underwater)
@@ -2529,12 +2529,14 @@ Protection: If ally within 5 ft. is attacked, impose disadvantage on attack roll
 **If Malthus Escapes:** He shouts: *"You're too late! Lord Shadows has two components already! The Worldrend comes!"* (This is a lie - he only has this one)
 
 **If Malthus Captured:** He reveals:
-- This is the first of three World-Splitter components
+- This is the first of five World-Splitter components (the Shadow Shard)
 - Lord Shadows plans to gather them all
-- Second component is with a dragon named Infernalix (sleeping under Kaer Thandros)
-- Third component's location is unknown
+- Second component (Flame Heart) is in the Goldshore Keeper vaults beneath Kaer Thandros, near where Dragon Infernalix sleeps
+- Third component (Void Fragment) sank with House Deepwater during the Worldrend
+- Fourth component (Stone Crown) remains with the Crown of Thaldros
+- Fifth component (Storm Eye) is held by the Aethorian Harmony
 - Once assembled, they can "wake the Primordial" and cause Second Worldrend
-- House Blackwood was innocent - framed because they tried to hide these components
+- House Blackwood was innocent - framed because they tried to protect these components
 
 **Loot:**
 - **First Component** (crystalline shard - plot item, cannot be destroyed by normal means)
@@ -2579,13 +2581,13 @@ Protection: If ally within 5 ft. is attacked, impose disadvantage on attack roll
 
 Several factions reach out to heroes:
 
-**1. Professor Miranda Questseeker** (from Aethermere University) - Seeks to study the Component and offers help researching World-Splitter lore
+**1. Professor Miranda Questseeker** (from Aethoria University) - Seeks to study the Component and offers help researching World-Splitter lore
 
 **2. Captain Roderic Ironfist** - Promotes heroes to "Special Investigators" with authority to pursue Unbound across Thaldros
 
 **3. Mysterious Message** - Anonymous note delivered by raven: *"You meddle in affairs you don't understand. Meet me in Kaer Thandros if you seek the truth. Come alone to the Black Archive at midnight three days hence. - A Friend of the Blackwoods"*
 
-**Hook to Act II:** The Second Component is under Kaer Thandros with a sleeping ancient red dragon. The Unbound will attempt to retrieve it soon. Heroes must decide:
+**Hook to Act II:** The Second Component is in the Goldshore Keeper vaults beneath Kaer Thandros, dangerously close to where an ancient red dragon sleeps. The Unbound will attempt to retrieve it soon. Heroes must decide:
 - Race the Unbound to the dragon
 - Find allies who can help stop Lord Shadows
 - Learn the full truth about House Blackwood
@@ -2734,7 +2736,7 @@ Do they trust this mysterious invitation?
 #### ARRIVAL IN KAER THANDROS
 
 **READ ALOUD:**
-> *Kaer Thandros rises before you like a crown of stone and ambition. Built on seven hills, the capital sprawls across the landscape—a city of 28,000 souls, the beating heart of the kingdom. White marble towers catch the afternoon sun. The Royal Palace dominates the highest hill, a fortress-castle that has weathered three thousand years of history. But beneath its beauty lies tension. Armed guards patrol every corner. Wanted posters flutter on walls. The air tastes of smoke and suspicion.*
+> *Kaer Thandros rises before you like a crown of stone and ambition. Built on seven hills, the capital sprawls across the landscape—a city of 45,000 souls, the beating heart of the kingdom. White marble towers catch the afternoon sun. The Royal Palace dominates the highest hill, a fortress-castle that has weathered three thousand years of history. But beneath its beauty lies tension. Armed guards patrol every corner. Wanted posters flutter on walls. The air tastes of smoke and suspicion.*
 
 **FIRST IMPRESSIONS:**
 
@@ -2751,7 +2753,7 @@ Do they trust this mysterious invitation?
 - Citizens are scared, not reassured by guards
 
 **History DC 14:**
-> *"Kaer Thandros has stood for three millennia, capital of seven kingdoms that rose and fell. The current dynasty, House Thandris, has ruled for 400 years—but their legitimacy has always been questioned. Some say they seized power through treachery. The destruction of House Blackwood was one of King Thandris III's most controversial acts."*
+> *"Kaer Thandros has stood for three millennia, capital of seven kingdoms that rose and fell. The current dynasty, House Thandris, has ruled for 400 years—but their legitimacy has always been questioned. Some say they seized power through treachery. The destruction of House Blackwood was one of King Aldric III's most controversial acts."*
 
 ---
 
@@ -3010,7 +3012,9 @@ Party has until midnight to explore, prepare, and gather information.
 >
 > *(He drifts closer, studying you with ancient eyes)*
 >
-> *"I am Arcturus, High Mage of the Order of the Unveiled Truth. I died three thousand years ago in the First Worldrend, binding my spirit to this archive so that forbidden knowledge would not be lost when civilizations fell. Since then, I have watched seven kingdoms rise, corrupt, and collapse on this very spot. I have seen history rewritten by victors, truth buried beneath lies, and the same mistakes repeated across millennia. I am very, very tired."*
+> *"I am Arcturus, High Mage of the Order of the Unveiled Truth. I died..."* *(He pauses, translucent brow furrowing)* *"...three thousand years ago? No, that's not right. Twelve hundred? The centuries blur together when you're dead. Time becomes... unreliable. I bound my spirit to this archive during the Worldrend so that forbidden knowledge would not be lost when civilizations fell. Since then, I have watched kingdoms rise, corrupt, and collapse on this very spot. I have seen history rewritten by victors, truth buried beneath lies, and the same mistakes repeated across millennia. I am very, very tired."*
+
+**DM Note:** Arcturus frequently confuses timelines after 1,247 years as a ghost. He sometimes says "three thousand years" or "centuries" interchangeably. This is intentional character flavor—his grasp on linear time has eroded.
 
 **If Party Asks Why They're Here:**
 
@@ -3028,21 +3032,21 @@ Party has until midnight to explore, prepare, and gather information.
 
 **Arcturus gestures, and the archive responds. Books fly from shelves, pages turning themselves. Images appear in the air—historical scenes playing out like memory:**
 
-> *"Let me tell you a story. Three thousand years ago, the world was whole—one massive supercontinent. Then the Primordials, beings of elemental chaos who predated gods themselves, forged a weapon: the World-Splitter. They intended to crack the world open, remake it in their image. But the gods intervened. The War of Shattering raged for a century.*
+> *"Let me tell you a story. Long ago—thousands of years, I think, or perhaps only twelve hundred... forgive me, the numbers slip away—the world was whole. One massive supercontinent. Then the Primordials, beings of elemental chaos who predated gods themselves, forged a weapon: the World-Splitter. They intended to crack the world open, remake it in their image. But the gods intervened. The War of Shattering raged for a century.*
 >
-> *When it ended, the world WAS broken—split into continents, oceans born from cracks. But the World-Splitter remained. The gods couldn't destroy it—Primordial craftsmanship transcends divine power. So they shattered it into three components and entrusted seven noble houses to guard them. Each house swore oaths: NEVER reunite the components. NEVER use them. NEVER speak of them."*
+> *When it ended, the world WAS broken—split into continents, oceans born from cracks. But the World-Splitter remained. The gods couldn't destroy it—Primordial craftsmanship transcends divine power. So they shattered it into five components and entrusted five noble houses and institutions to guard them. Each house swore oaths: NEVER reunite the components. NEVER use them. NEVER speak of them."*
 
 **Images shift: Seven families kneeling before divine avatars, swearing oaths:**
 
 > *"For three thousand years, these families kept faith. The Blackwoods held the First Component here, beneath their fortress at Raven's Keep. The Goldshores held the Second beneath Kaer Thandros. The Deepwaters held the Third in oceanic vaults. Four other families held knowledge, insurance, backup measures.*
 >
-> *But humanity has short memory. The oaths weakened across generations. Families intermarried, scattered, forgot why they guarded dusty vaults. Until forty-three years ago."*
+> *But humanity has short memory. The oaths weakened across generations. Families intermarried, scattered, forgot why they guarded dusty vaults. House Blackwood was branded traitors over a century and a half ago—falsely accused of attempting to use the World-Splitter. But there were survivors who hid in secret. Until forty-three years ago, when the Second Purge eliminated them."*
 
 **Images darken: A young prince discovering a glowing artifact:**
 
-> *"King Thandris III had a problem. His eldest son—Prince Aldric, uncle to the current king—was ambitious, brilliant, and utterly amoral. Prince Aldric discovered the Goldshore vaults beneath this very palace. Found the Second Component. Understood its power.*
+> *"King Aldric III had a problem. His eldest son—Prince Aldric, older brother to the current king—was ambitious, brilliant, and utterly amoral. Prince Aldric discovered the Goldshore Keeper vaults beneath this very palace. Found the Second Component. Understood its power.*
 >
-> *He tried to sell it to dragon cults. Promised to wake Dragon Infernalix in exchange for gold, power, alliance. House Goldshore discovered his treachery, confronted him. Prince Aldric murdered them—every last Goldshore, down to the children. Made it look like Unbound attack. Stole the Component."*
+> *He tried to sell it to dragon cults. Promised to wake Dragon Infernalix in exchange for gold, power, alliance. The Goldshore Keepers—the secret branch who guarded the Component—discovered his treachery, confronted him. Prince Aldric murdered them all—every last member of the Keeper bloodline, down to the children. Made it look like plague. Stole the Component. The main House Goldshore survived, never knowing their cousins' true purpose."*
 
 **Insight DC 13:**
 - This matches what Arcanus claimed at Raven's Keep
@@ -3050,11 +3054,11 @@ Party has until midnight to explore, prepare, and gather information.
 - Current nobility are covering up royal murder
 
 **History DC 15:**
-- House Goldshore DID disappear mysteriously 43 years ago
+- The Goldshore Keeper branch DID disappear mysteriously 43 years ago
 - Official story was "plague"
 - Now revealed as massacre
 
-> *"King Thandris III faced a choice: Execute his own son for genocide and dragon-cult conspiracy, or... find a scapegoat. He chose cowardice over justice. House Blackwood, oldest of the guardian families, was targeted. They were framed, destroyed, estates burned, every member hunted down and killed. All except one."*
+> *"King Aldric III faced a choice: Execute his own son for genocide and dragon-cult conspiracy, or... find a scapegoat. He chose cowardice over justice. The hidden Blackwood survivors, oldest of the guardian families, were targeted. They were hunted down, framed anew, burned alive where they hid. Every member executed. All except one."*
 
 **Image: A terrified 12-year-old boy fleeing through flames:**
 
@@ -3067,10 +3071,10 @@ Party has until midnight to explore, prepare, and gather information.
 **PARTY QUESTIONS (Arcturus will answer):**
 
 **"Where is Prince Aldric now?"**
-> *"Dead. King Thandris III quietly executed him in secret, twenty years ago. Made it look like hunting accident. The secret died with him—or so the King thought. But I saw. I remember. And now Lord Shadows knows too."*
+> *"Dead. King Aldric III quietly executed him in secret, twenty years ago. Made it look like hunting accident. The secret died with him—or so the King thought. But I saw. I remember. And now Lord Shadows knows too."*
 
 **"What do the Components do individually?"**
-> *"The First grants dominion over shadows—control of darkness, summoning shadow creatures, seeing through any shadow anywhere. Dangerous, yes, but not world-ending. The Second, which sleeps with Dragon Infernalix beneath our feet, grants dominion over fire and awakening—can command dragons, ignite volcanoes, wake ancient things that sleep. The Third, lost beneath the ocean, grants dominion over water and depths. Separated, they're weapons of war. United, they can shatter continents."*
+> *"The First grants dominion over shadows—control of darkness, summoning shadow creatures, seeing through any shadow anywhere. Dangerous, yes, but not world-ending. The Second, hidden in the Keeper vaults near where Dragon Infernalix sleeps beneath our feet, grants dominion over fire and awakening—can command dragons, ignite volcanoes, wake ancient things that sleep. The Third, lost beneath the ocean, grants dominion over water and depths. Separated, they're weapons of war. United, they can shatter continents."*
 
 **Arcana DC 16:**
 - Each Component is artifact-level powerful
@@ -3078,7 +3082,7 @@ Party has until midnight to explore, prepare, and gather information.
 - Once united, Components can't be easily separated again
 
 **"Does King Aldric IV know the truth?"**
-> *"No. His father kept the secret. Thandris VII believes the official story—that Blackwoods were traitors. He's a decent man ruling from ignorance. When the truth emerges, it will destroy his legitimacy. The nobility knows this. They'll kill anyone who threatens to expose it. Including you."*
+> *"No. His father kept the secret. Aldric IV believes the official story—that Blackwoods were traitors. He's a decent man ruling from ignorance. When the truth emerges, it will destroy his legitimacy. The nobility knows this. They'll kill anyone who threatens to expose it. Including you."*
 
 **"Can we stop Lord Shadows without violence?"**
 > *"Perhaps. Corvus Blackwood is driven by pain, not evil. If you could offer him justice—real acknowledgment of his family's innocence, punishment for those who destroyed them, restoration of the Blackwood name—he might stand down. But who can offer that? The King doesn't know the truth. The nobility won't confess. The only witnesses are dead... except me."*
@@ -3110,7 +3114,7 @@ Party has until midnight to explore, prepare, and gather information.
    > *"Dragon Infernalix sleeps in ancient Pre-Worldrend ruins beneath this palace. These passages were built three thousand years ago. I remember them. This map shows the way."*
 
 4. **Letter of Introduction** (to Professor Miranda Questseeker)
-   > *"Miranda studies at Aethermere University in Aethoria. She's brilliant, curious, and discretely opposed to current power structures. She'll help you understand the Components' mechanics. Tell her Arcturus sent you. She'll know what that means."*
+   > *"Miranda studies at Aethoria University in Aethermere. She's brilliant, curious, and discretely opposed to current power structures. She'll help you understand the Components' mechanics. Tell her Arcturus sent you. She'll know what that means."*
 
 5. **Blackwood Sigil Ring** (if party has First Component)
    > *"This belonged to Lord Aldric Blackwood. It bears his blood—literally. The Component vaults respond to Blackwood bloodline. This ring can fool the wards. Use it to enter places forbidden to others."*
@@ -3170,11 +3174,11 @@ Party has until midnight to explore, prepare, and gather information.
 - Full World-Splitter history (Pre-Worldrend origins)
 - House Blackwood's innocence CONFIRMED
 - Prince Aldric's betrayal and murder of Goldshores
-- King Thandris III's cover-up
+- King Aldric III's cover-up
 - Current King Aldric IV is ignorant of truth
 - Dragon Infernalix sleeps beneath Royal Palace
 - Unbound plan to wake dragon within 7 days
-- Second Component location: With dragon
+- Second Component location: In Keeper vaults, near dragon's lair
 - Third Component location: Unknown (underwater, Deepwater family)
 
 **Items Gained:**
@@ -3231,7 +3235,7 @@ Party must choose wisely. They can't recruit everyone.
 > *Dawn breaks over Kaer Thandros. You sit in your inn room, Arcturus's gifts spread before you: a map of ancient tunnels, a letter of introduction, an amulet that hums with protective magic. Outside, the city wakes to business as usual, unaware that beneath their feet, an ancient dragon sleeps—and a fanatic cult plans to wake it. You have six days. Choose your allies carefully.*
 
 **Available Allies (5 Options):**
-1. **Professor Miranda Questseeker** (Aethermere University - 1 day by teleport, 5 days by ship)
+1. **Professor Miranda Questseeker** (Aethoria University - 1 day by teleport, 5 days by ship)
 2. **Master Hunter Kael Dragonsbane** (Silverpine - 3 days travel)
 3. **Captain Thalia Lightbringer** (Kaer Thandros - Local, immediate)
 4. **Sage Cornelius the Elder** (Kaer Thandros - Local, immediate)
@@ -3247,7 +3251,7 @@ Party must choose wisely. They can't recruit everyone.
 
 ### ALLY OPTION A: PROFESSOR MIRANDA QUESTSEEKER
 
-**Location:** Aethermere University, Aethoria (eastern continent)  
+**Location:** Aethoria University, Aethoria (eastern continent)  
 **Travel:** 1 day by teleportation circle, 5 days by ship  
 **Specialty:** Ancient artifacts, Primordial magic theory, Component mechanics  
 **Personality:** Enthusiastic, brilliant, slightly chaotic academic  
@@ -3273,7 +3277,7 @@ Party needs access to teleportation circle. Options:
 **ARRIVAL AT AETHERMERE:**
 
 **READ ALOUD:**
-> *The teleportation circle deposits you in Aethermere—a city that makes Kaer Thandros look like a military camp. Here, magic and nature intertwine: Living trees form buildings, crystal spires catch sunlight, and floating gardens drift overhead. Aethermere University dominates the skyline—an impossible structure of ivory towers, suspended libraries, and enchanted halls where the brightest minds of the age study mysteries mortal and arcane.*
+> *The teleportation circle deposits you in Aethermere—a city that makes Kaer Thandros look like a military camp. Here, magic and nature intertwine: Living trees form buildings, crystal spires catch sunlight, and floating gardens drift overhead. Aethoria University dominates the skyline—an impossible structure of ivory towers, suspended libraries, and enchanted halls where the brightest minds of the age study mysteries mortal and arcane.*
 
 **Perception DC 13:**
 - City is peaceful (Aethoria has less tension than Thaldros)
@@ -3294,7 +3298,7 @@ Party needs access to teleportation circle. Options:
 > *"If you're campus security, I have permission. If you're not campus security, tell them I have permission. Either way, I'm busy discovering whether Pre-Worldrend artificers understood quantum magical matrices, which is VASTLY more important than arbitrary rules about 'forbidden' knowledge..."*
 
 **When She Finally Looks:**
-> *"Oh. You're not security. You're... armed. Heavily armed. In an academic library. That's either wonderfully bold or spectacularly stupid. I'm Professor Miranda Questseeker, Department of Ancient Mysteriesand Probably-Shouldn't-Touch-This. You're clearly here about something dangerous. Tell me it's something dangerous. I haven't had proper excitement since that lich incident last year!"*
+> *"Oh. You're not security. You're... armed. Heavily armed. In an academic library. That's either wonderfully bold or spectacularly stupid. I'm Professor Miranda Questseeker, Department of Ancient Mysteries and Probably-Shouldn't-Touch-This. You're clearly here about something dangerous. Tell me it's something dangerous. I haven't had proper excitement since that lich incident last year!"*
 
 ---
 
@@ -3540,7 +3544,7 @@ Party must convince Kael this is worth risking death.
 **THE TEMPLE DISTRICT:**
 
 **READ ALOUD:**
-> *The Temple District rises in terraced marble—a holy quarter where the faithful come to worship, the sick come to heal, and the just come to find purpose. The Grand Cathedral of Auriel dominates the skyline, its crystal spire catching sunlight like a beacon. Around it, smaller temples honor other gods: Toren the Forge-Father, Selvara the Wild Mother, even dark shrines to Umbros the Shadow. Here, at least, all faiths find acknowledgment.*
+> *The Temple District rises in terraced marble—a holy quarter where the faithful come to worship, the sick come to heal, and the just come to find purpose. The Grand Cathedral of Aethor dominates the skyline, its crystal spire catching sunlight like a beacon. Around it, smaller temples honor other gods: Toren the Forge-Father, Sylvara the Wild, even dark shrines to Umbros the Shadow. Here, at least, all faiths find acknowledgment.*
 
 **Investigation DC 10 (Finding Thalia):**
 - Ask temple guards: *"Captain Lightbringer? Training yard, east wing. Always is at dawn. Woman never rests."*
@@ -3557,7 +3561,7 @@ Party must convince Kael this is worth risking death.
 > *She's in her late thirties, scars on her face and hands telling stories of battles won. When she notices you approaching, she calls a halt to the drill and approaches with the economical movements of a career warrior.*
 
 **Thalia's Greeting (Direct, Professional):**
-> *"You're the heroes from Silverpine. I've heard reports. Stopped a cult, exposed an Unbound operation, survived Raven's Keep. Impressive. I'm Captain Thalia Lightbringer, Fourth Company of the Iron Council, sworn to Auriel. If you're here for blessings, the clerics are inside. If you're here for soldiers, you've found the right person. Speak plainly—what do you need?"*
+> *"You're the heroes from Silverpine. I've heard reports. Stopped a cult, exposed an Unbound operation, survived Raven's Keep. Impressive. I'm Captain Thalia Lightbringer, Fourth Company of the Iron Council, sworn to Aethor. If you're here for blessings, the clerics are inside. If you're here for soldiers, you've found the right person. Speak plainly—what do you need?"*
 
 ---
 
@@ -3675,7 +3679,7 @@ Party must convince Kael this is worth risking death.
 - Protect her knights if possible
 
 **If Party Agrees:**
-> *"Good. Honor means something. I'll have my knights ready within the hour. And heroes? Thank you. It's rare to meet people willing to risk everything for others. Auriel's light guide you."*
+> *"Good. Honor means something. I'll have my knights ready within the hour. And heroes? Thank you. It's rare to meet people willing to risk everything for others. Aethor's light guide you."*
 
 ---
 
@@ -3683,7 +3687,7 @@ Party must convince Kael this is worth risking death.
 
 If party has been particularly honorable and impressed her:
 
-> *(Removes a silver pendant)* *"This belonged to my mentor. She died defending innocents from a lich. Blessed by Auriel herself. It offers protection against fear and darkness. Take it. You'll need it facing a dragon."*
+> *(Removes a silver pendant)* *"This belonged to my mentor. She died defending innocents from a lich. Blessed by Aethor herself. It offers protection against fear and darkness. Take it. You'll need it facing a dragon."*
 
 **Gift:** **Amulet of Protection from Evil** (advantage on saves vs fiends and undead, they have disadvantage on attacks against wearer)
 
@@ -4104,7 +4108,7 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 **PREPARATION NIGHT (Before the Heist):**
 
 **READ ALOUD:**
-> *The night before you descend, Kaer Thandros sleeps uneasily. You stand on a balcony overlooking the capital—28,000 souls unaware that beneath their feet, an ancient dragon dreams, and tomorrow you'll walk into its lair. Your allies prepare in their own ways. Kael sharpens his axe with methodical precision. Miranda frantically copies notes. Thalia prays to Auriel. Cornelius studies his maps one last time. And you? You wonder if you'll see another sunrise.*
+> *The night before you descend, Kaer Thandros sleeps uneasily. You stand on a balcony overlooking the capital—45,000 souls unaware that beneath their feet, an ancient dragon dreams, and tomorrow you'll walk into its lair. Your allies prepare in their own ways. Kael sharpens his axe with methodical precision. Miranda frantically copies notes. Thalia prays to Aethor. Cornelius studies his maps one last time. And you? You wonder if you'll see another sunrise.*
 
 **Optional RP Scene:** Each PC can describe their preparation/last ritual before potential death.
 
@@ -4853,6 +4857,16 @@ Just as heroes are retrieving component (or right after), the **UNBOUND ASSAULT*
 - 6 **Fire Cultists** (CR 3 each - immune to fire damage)
 - 4 **Unbound Champions** (CR 3 each)
 
+{{note
+**DM Note: Sister Mortua's Deception**
+
+Sister Mortua is not evil—she's been deceived. She believes The Unbound are recovering dangerous artifacts to PREVENT their misuse by corrupt governments. She doesn't know about Lord Shadows's true apocalyptic goals or that they plan to wake the dragon.
+
+**Roleplay Opportunity:** If players reveal the truth mid-battle (DC 18 Persuasion or presenting evidence), Mortua may hesitate, switch sides, or simply flee. She's lawful neutral, not a fanatic. Use her crisis of faith for dramatic effect.
+
+**If Mortua Survives:** She becomes either a recurring enemy (in denial), a reluctant ally (accepting the truth), or a witness who can expose The Unbound (if captured).
+}}
+
 **THIS WAKES THE DRAGON**
 
 **Three-Way Battle:**
@@ -5077,7 +5091,7 @@ Do they go to Raven's Keep?
 **Day 3, Evening:**
 
 **READ ALOUD:**
-> *Raven's Keep reveals itself as you round a mountain spur. It's not ruined like Raven's Keep—it's FUNCTIONAL. A fortress carved into the living rock, walls black stone, towers flying Blackwood banners. You see guards on parapets, lights in windows, smoke from forges. This isn't a hideout. This is a STRONGHOLD. Hundreds of Unbound call this home.*
+> *Raven's Keep reveals itself as you round a mountain spur. It's not the broken shell you saw weeks ago—it's FUNCTIONAL. A fortress carved into the living rock, walls black stone, towers flying Blackwood banners. You see guards on parapets, lights in windows, smoke from forges. This isn't a hideout. This is a STRONGHOLD. Hundreds of Unbound call this home.*
 >
 > *And they're watching you approach. Not with hostility—with curiosity. As if you're celebrities. Some point, whisper. A few wave hesitantly. Children peek from behind barrels. These aren't monsters. They're people. Families. Believers in a cause they think is just.*
 
@@ -5149,7 +5163,7 @@ As Aldric escorts party to Great Hall:
 >
 > *(Deep breath)*
 >
-> *"Let me tell you a story. My name is Corvus Blackwood. I was twelve years old when King Thandris III murdered my family."*
+> *"Let me tell you a story. My name is Corvus Blackwood. I was twelve years old when King Aldric III murdered my family."*
 
 ---
 
@@ -5165,9 +5179,9 @@ As Aldric escorts party to Great Hall:
 >
 > *(Anger rising)*
 >
-> *"Then King Thandris III's son—Prince Aldric, uncle to the current king—discovered the Goldshore vaults beneath the palace. Found the SECOND Component. He wanted it. Wanted to sell it to dragon cults, trade it for power. House Goldshore refused. So he murdered them. Every last one. Men, women, children. CHILDREN. Slaughtered in their beds."*
+> *"Then King Aldric III's son—Prince Aldric, the current king's older brother—discovered the Goldshore Keeper vaults beneath the palace. Found the SECOND Component. He wanted it. Wanted to sell it to dragon cults, trade it for power. The Keepers refused. So he murdered them. Every last one of the secret branch. Men, women, children. CHILDREN. Slaughtered in their beds. The main House Goldshore never even knew their cousins died."*
 >
-> *"But he couldn't hide the Component afterward. Too much magic, too noticeable. He needed a scapegoat. So King Thandris III—to save his son from execution—framed MY family instead. Declared US traitors. Declared we'd tried to trigger the Second Worldrend. Lies. ALL LIES."*
+> *"But he couldn't hide the Component afterward. Too much magic, too noticeable. He needed a scapegoat. So King Aldric III—to save his son from execution—framed MY family instead. Declared US traitors. Declared we'd tried to trigger the Second Worldrend. Lies. ALL LIES."*
 >
 > *(Slams fist on table)*
 >
@@ -5229,7 +5243,7 @@ The party can:
 >
 > *(Stands, energized)*
 >
-> *"Together, we'll find the Third Component. It's beneath the ocean, in the ruins of House Deepwater's sanctuary. Difficult, but not impossible. Once we have all three, we'll demand an audience with King Aldric IV. Give him one chance—just ONE—to confess his grandfather's crimes and reform the system. If he refuses... we activate the World-Splitter. Reshape the world by force."*
+> *"Together, we'll find the remaining Components. The Third is beneath the ocean, in the ruins of House Deepwater's sanctuary. Difficult, but not impossible. Once we have enough power, we'll demand an audience with King Aldric IV. Give him one chance—just ONE—to confess his father's crimes and reform the system. If he refuses... we activate the World-Splitter. Reshape the world by force."*
 
 **Consequences:**
 - Party becomes Unbound allies
@@ -5504,7 +5518,7 @@ Party must present actual plan:
 **King's Audience:**
 - King Aldric IV is grateful but suspicious
 - Asks heroes to surrender both Components "for safety"
-- If heroes reveal truth about Thandris III, king is shocked
+- If heroes reveal truth about Aldric III, king is shocked
 - Political crisis ensues - some nobles want cover-up, others want truth
 
 **New Allies:**
@@ -5514,7 +5528,7 @@ Party must present actual plan:
 
 **Transition to Act III:**
 
-Heroes learn Third Component location: **Goldshore Manor** - sunken estate of House Goldshore, 300 feet underwater in the Sundering Sea.
+Heroes learn Third Component location: **Goldshore Manor** - sunken estate of the Goldshore Keepers (the secret branch that guarded the Component), 300 feet underwater in the Sundering Sea.
 
 But reaching it requires:
 1. **Submarine or water-breathing magic**
@@ -5987,7 +6001,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 
 #### DUNGEON OVERVIEW
 
-**History:** Built 200 years ago by House Goldshore, masters of water magic. The estate was designed to exist underwater—showcasing their power and wealth. When Prince Aldric betrayed them 43 years ago, he murdered the entire family here. Their ghosts remain, trapped by unfinished duty: protecting the Third Component.
+**History:** Built 200 years ago by the Goldshore Keepers—a secret branch of House Goldshore charged with guarding the Second Component. The estate was designed to exist underwater, hidden from the world. When Prince Aldric discovered their secret 43 years ago, he murdered the entire Keeper branch here. The main House Goldshore in Goldreach never knew their cousins existed. The Keepers' ghosts remain, trapped by unfinished duty: protecting the Second Component.
 
 **Current Status:**
 - Unbound arrived 2 days ago
@@ -6199,10 +6213,10 @@ Before disturbing them:
 > *"Ah. Visitors. Living visitors, how unusual. Have you come for the truth? Or for the treasure? Most come for treasure. They die for it. But you... you have the look of truth-seekers. Perhaps I'll help you. Perhaps."*
 
 **Persuasion DC 14 (Asking for Help):**
-> *"The Component? Yes, I know where it is. But first, answer my question: WHO killed House Goldshore? If you know the truth, I'll guide you. If you lie, I'll drain your souls."*
+> *"The Component? Yes, I know where it is. But first, answer my question: WHO killed the Goldshore Keepers? If you know the truth, I'll guide you. If you lie, I'll drain your souls."*
 
 **Correct Answer:**
-- "Prince Aldric, son of King Thandris III"
+- "Prince Aldric, son of King Aldric III"
 - Must also mention: "He framed House Blackwood"
 - **If correct:** Marcus weeps translucent tears, then helps
 
@@ -6685,7 +6699,7 @@ Each round, roll 1d6:
 
 ### QUEST 3.3: THE ASSEMBLY (Level 13)
 
-**Hook:** With all three Components secured, heroes face the weight of impossible choices. The World-Splitter pieces pulse with power. Everyone wants them—kings, gods, rebels, scholars. What will the heroes do?
+**Hook:** With all five Components secured, heroes face the weight of impossible choices. The World-Splitter pieces pulse with power. Everyone wants them—kings, gods, rebels, scholars. What will the heroes do?
 
 **Location:** Various (Consultation Phase) → Kaer Thandros (Decision Point)
 
@@ -6706,7 +6720,7 @@ Each round, roll 1d6:
 
 **ALLY A: PROFESSOR MIRANDA QUESTSEEKER**
 
-**Location:** Aethermere University
+**Location:** Aethoria University
 
 **READ ALOUD:**
 > *Miranda's laboratory is chaos—every surface covered in notes, diagrams, arcane formulas. She's been studying the Components obsessively since you retrieved them. Coffee-stained research papers flutter in magical wind. She looks up as you enter, eyes wild with discovery and terror.*
@@ -6768,19 +6782,19 @@ Each round, roll 1d6:
 
 ---
 
-**ALLY C: HIGH PRIESTESS SERAPHINA (Temple of Auriel)**
+**ALLY C: HIGH PRIESTESS SERAPHINA (Temple of Aethor)**
 
 **Location:** Grand Cathedral, Kaer Thandros
 
 **READ ALOUD:**
-> *The High Priestess receives you in the cathedral's inner sanctum—a chamber of gold and crystal where divine presence feels palpable. She's ancient, ageless, wreathed in light that might be holy or might be magical. Her eyes see into souls. When she speaks, you're unsure if it's her voice or Auriel's.*
+> *The High Priestess receives you in the cathedral's inner sanctum—a chamber of gold and crystal where divine presence feels palpable. She's ancient, ageless, wreathed in light that might be holy or might be magical. Her eyes see into souls. When she speaks, you're unsure if it's her voice or Aethor's.*
 
 **Priestess's Decree:**
 > *"The gods have spoken. They remember the War of Shattering—how Primordial artifacts nearly unmade reality itself. The World-Splitter Components are ANATHEMA to divine order. They predate gods, challenge gods, threaten gods.*
 >
 > *(Light intensifies)*
 >
-> *Bring them to us. We will seal them in the Divine Vault, beneath the Temple of Auriel, where 1,000 layers of holy wards will contain them for eternity. No mortal, no demon, no dragon can breach divine sanctity. They will be safe. The world will be safe.*
+> *Bring them to us. We will seal them in the Divine Vault, beneath the Temple of Aethor, where 1,000 layers of holy wards will contain them for eternity. No mortal, no demon, no dragon can breach divine sanctity. They will be safe. The world will be safe.*
 >
 > *(Looks at you)*
 >
@@ -6815,11 +6829,11 @@ Each round, roll 1d6:
 >
 > *(Pause)*
 >
-> *But you've shown me who my grandfather was. What the Crown DID. How kingdoms lie, murder innocents, bury truth. So I'll ask, not command: What should be done with them?*
+> *But you've shown me who my father was. What the Crown DID. How kingdoms lie, murder innocents, bury truth. So I'll ask, not command: What should be done with them?*
 >
 > *(Looks at you directly)*
 >
-> *I could lock them in the royal vaults. But those vaults failed before—Goldshores murdered, Blackwoods framed. I could hide them again. But hiding failed once, it'll fail again. I could assemble them under royal control. But that terrifies me—that much power in any king's hands is tyranny waiting to happen.*
+> *I could lock them in the royal vaults. But those vaults failed before—Goldshore Keepers murdered, Blackwoods framed. I could hide them again. But hiding failed once, it'll fail again. I could assemble them under royal control. But that terrifies me—that much power in any king's hands is tyranny waiting to happen.*
 >
 > *(Leans back)*
 >
@@ -6828,7 +6842,7 @@ Each round, roll 1d6:
 **Insight DC 14:**
 - He's genuinely uncertain
 - He trusts party more than himself
-- He's trying to be better than his grandfather
+- He's trying to be better than his father
 - He'll defer to heroes' judgment
 
 ---
@@ -6860,7 +6874,7 @@ Each round, roll 1d6:
 
 **How:**
 - Petition gods to manifest physically
-- Requires 3 temples (Auriel, Toren, Selvara)
+- Requires 3 temples (Aethor, Toren, Sylvara)
 - Combined divine power can unmake Primordial artifacts
 - Cost: 10,000 gp in offerings, 1 week ritual preparation
 
@@ -6896,7 +6910,7 @@ Each round, roll 1d6:
 **C. GIVE TO DIVINE VAULT (Trust the Gods)**
 
 **How:**
-- Surrender to Temple of Auriel
+- Surrender to Temple of Aethor
 - 1,000 holy wards seal them
 - Guarded by celestials and paladins
 - Theoretically eternal protection
@@ -7351,7 +7365,7 @@ Heroes must choose how to reach the Assembly Site. Each approach has different e
 **PHASE 3: THE FINAL APPROACH**
 
 **READ ALOUD:**
-> *The path is clear. Bodies litter the field—yours and theirs. Your army is bloodied but unbroken. Ahead, the Assembly Site beckons. Lord Shadows stands at its center, watching you approach. The Lich hovers beside him. And the three Components of the World-Splitter rest on pedestals, waiting. He's not running. He's been waiting for you.*
+> *The path is clear. Bodies litter the field—yours and theirs. Your army is bloodied but unbroken. Ahead, the Assembly Site beckons. Lord Shadows stands at its center, watching you approach. The Lich hovers beside him. And the five Components of the World-Splitter rest on pedestals, waiting. He's not running. He's been waiting for you.*
 
 **Transition to Final Confrontation**
 
@@ -7624,7 +7638,7 @@ Roll 1d6 to determine what emerges:
 Regardless of approach, heroes eventually reach Assembly Site. Before final confrontation:
 
 **READ ALOUD:**
-> *You stand at the edge of the Assembly Site. The ancient stone circle hums with power. The three Components rest on pedestals, glowing, pulsing, CALLING to each other. They WANT to be united. And in the center, Lord Shadows Blackwood turns to face you.*
+> *You stand at the edge of the Assembly Site. The ancient stone circle hums with power. The five Components rest on pedestals, glowing, pulsing, CALLING to each other. They WANT to be united. And in the center, Lord Shadows Blackwood turns to face you.*
 > 
 > *He's removed his mask. No more Lord Shadows. Just Corvus. Just a man—tired, scarred, hair gone gray from stress though he's barely past forty. His eyes meet yours. Human eyes. Desperate eyes.*
 > 
@@ -7647,7 +7661,7 @@ Regardless of approach, heroes eventually reach Assembly Site. Before final conf
 > 
 > *"My family were GUARDIANS. We protected the World-Splitter Components, kept them SEPARATE so they couldn't be misused. We died protecting them. And for that, history calls us traitors.*
 > 
-> *(He picks up First Component)* *"I was twelve years old when they came. King Thandris III—grandfather of your current king—sent Prince Aldric to 'secure the dangerous artifacts.' My father refused. We'd taken oaths. Sworn to protect them.*
+> *(He picks up First Component)* *"I was twelve years old when they came. King Aldric III—father of your current king—sent Prince Aldric to 'secure the dangerous artifacts.' My father refused. We'd taken oaths. Sworn to protect them.*
 > 
 > *"So they killed us. Burned us. I watched my mother die screaming. Watched my father's throat cut. Watched my sister—she was six—trampled by horses. And I hid. Coward that I was, I HID while my family died.*
 > 
@@ -7655,7 +7669,7 @@ Regardless of approach, heroes eventually reach Assembly Site. Before final conf
 > 
 > *(Touches Second Component)* *"The World-Splitter can do that. Not destroy—I don't want to kill millions. But REMAKE. Reshape. Tear down corrupt systems and build better ones. Make nobility SERVE instead of rule. Make truth MATTER. Make my family's sacrifice MEAN SOMETHING.*
 > 
-> *(Looks at heroes)* *"You've seen it. You KNOW I'm right. The kingdoms ARE corrupt. The systems ARE broken. Justice doesn't exist for people like me, like the Goldshores, like the countless others crushed by power.*
+> *(Looks at heroes)* *"You've seen it. You KNOW I'm right. The kingdoms ARE corrupt. The systems ARE broken. Justice doesn't exist for people like me, like the Goldshore Keepers, like the countless others crushed by power.*
 > 
 > *"I'm going to change that. With your help or without it. But I'm asking—BEGGING—join me. Help me do this RIGHT. Help me build something better from the ashes of something rotten.*
 > 
@@ -7700,7 +7714,7 @@ This is the ULTIMATE moral choice. There's no clear "right" answer. Options:
 - **Best ending unlocked**
 
 **If Refused/Attacked:**
-> *(Hardens)* *"Then we're done talking. I gave you a chance. I tried. But you chose them over me. Over truth. Over justice." (Touches all three Components—they begin merging) "Then watch. Watch as I tear down everything you're trying to protect. LICH! CHAMPIONS! TO ME!"*
+> *(Hardens)* *"Then we're done talking. I gave you a chance. I tried. But you chose them over me. Over truth. Over justice." (Touches all five Components—they begin merging) "Then watch. Watch as I tear down everything you're trying to protect. LICH! CHAMPIONS! TO ME!"*
 
 - **Boss battle begins**
 - **Transition to Quest 3.5**
@@ -7834,7 +7848,7 @@ LEGENDARY ACTIONS (3/Turn):
 
 Heroes must either:
 1. **Defeat the Avatar** (extremely difficult)
-2. **Deactivate World-Splitter** (requires touching all three Components simultaneously while Avatar is active - DC 18 Arcana check)
+2. **Deactivate World-Splitter** (requires touching all five Components simultaneously while Avatar is active - DC 18 Arcana check)
 3. **Banish the Avatar** (*Banishment* spell at 9th level, or similar)
 
 **Lord Shadows During Phase 2:**
@@ -7867,14 +7881,14 @@ Can provide **Blackwood Bloodline Power** (action to give one hero advantage on 
 
 - Lord Shadows dying or unconscious
 - Unbound forces scatter
-- Heroes have all three Components
+- Heroes have all five Components
 - Rift closing but stabilized
 
 **Lord Shadows' Final Words (if dying):**
 
 *"Tell them... tell them we were innocent. That's all I wanted. Just... the truth."*
 
-**He hands heroes his journal - complete proof of House Blackwood's innocence and King Thandris III's betrayal.**
+**He hands heroes his journal - complete proof of House Blackwood's innocence and King Aldric III's betrayal.**
 
 **Heroes Must Decide Component Fate:**
 - Destroy them (requires divine intervention - can arrange with gods)
@@ -7920,7 +7934,7 @@ If heroes approach him:
 ### THE JOURNEY HOME (One Week Later)
 
 **READ ALOUD:**
-> *The march back to Kaer Thandros is slower than your departure. Your allied army is battered but victorious. Soldiers sing songs of the battle—already embellished, already becoming legend. You carry the three Components of the World-Splitter, carefully separated, wrapped in cloth blessed by priests. And you carry Corvus's journal.*
+> *The march back to Kaer Thandros is slower than your departure. Your allied army is battered but victorious. Soldiers sing songs of the battle—already embellished, already becoming legend. You carry the five Components of the World-Splitter, carefully separated, wrapped in cloth blessed by priests. And you carry Corvus's journal.*
 > 
 > *Word spreads ahead of you. By the time you reach the capital, the entire city has turned out. Thousands line the streets. Some cheer. Others weep—for those who didn't return, for the truth you carry, for the end of an age and the beginning of another.*
 
@@ -7940,7 +7954,7 @@ If heroes approach him:
 ### THE THRONE ROOM (Two Weeks Later)
 
 **READ ALOUD:**
-> *King Aldric IV sits on his throne, looking ten years older. The entire court is assembled—nobles, generals, priests, merchants. You stand before them, the three Components on a velvet cushion, Corvus's journal in hand. The king's voice is quiet, almost broken: "Show us. Show us the truth."*
+> *King Aldric IV sits on his throne, looking ten years older. The entire court is assembled—nobles, generals, priests, merchants. You stand before them, the five Components on a velvet cushion, Corvus's journal in hand. The king's voice is quiet, almost broken: "Show us. Show us the truth."*
 
 **The Revelation:**
 
@@ -7955,7 +7969,7 @@ You present Corvus's evidence. As you speak, reactions ripple through the court:
 
 **King Thandris's Reaction:**
 
-> *He reads silently, face growing paler. Finally, he looks up, voice shaking: "My grandfather... King Thandris III... was a murderer. Prince Aldric was an assassin. Everything our kingdom was built on..." (He struggles to continue) "A lie. All of it. A lie."*
+> *He reads silently, face growing paler. Finally, he looks up, voice shaking: "My father... King Aldric III... was a murderer. Prince Aldric—my own brother—was an assassin. Everything our kingdom was built on..." (He struggles to continue) "A lie. All of it. A lie."*
 > 
 > *(He stands, removes his crown, sets it on the throne)* *"I am unworthy to wear this. My family's legitimacy... it's built on the ashes of innocents."*
 > 
@@ -7975,7 +7989,7 @@ Heroes demand complete public disclosure. The truth will be proclaimed from ever
 
 **Immediate Consequences:**
 - Political crisis erupts
-- Noble houses aligned with Thandris III panic
+- Noble houses aligned with Aldric III panic
 - Some provinces threaten succession
 - Riots in major cities
 - Blackwood/Goldshore families officially exonerated
@@ -8063,7 +8077,7 @@ Heroes choose to bury the truth again. Stability matters more than justice.
 - Heroes become complicit in the lie
 
 **King Thandris's Reaction:**
-> *He stares at you, horrified. "You would have me do what my grandfather did? Bury truth to preserve power?" But he's also... relieved. The kingdom is saved from chaos. He takes the journal from you, hands shaking, and throws it into the fire. You watch forty-three years of research burn. Corvus's life's work. Gone. "May the gods forgive us," the king whispers. "I never will."*
+> *He stares at you, horrified. "You would have me do what my father did? Bury truth to preserve power?" But he's also... relieved. The kingdom is saved from chaos. He takes the journal from you, hands shaking, and throws it into the fire. You watch forty-three years of research burn. Corvus's life's work. Gone. "May the gods forgive us," the king whispers. "I never will."*
 
 **Moral Weight:**
 > *This choice will haunt you. You saved thousands of lives by preventing civil war. But at what cost? You've become what Corvus fought against. Sometimes, in dreams, you see him—not Lord Shadows, but twelve-year-old Corvus, watching his family burn, asking you: "Why? Why did you let them win?"*
@@ -8238,7 +8252,7 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 **KING ALDRIC IV**
 
 *If Remains King:*
-> *Known as Thandris the Reformer. Spends reign making amends for grandfather's crimes. Never fully escapes guilt. Dies believing he failed to make enough change. History judges him kindly—he tried.*
+> *Known as Aldric the Reformer. Spends reign making amends for father's crimes. Never fully escapes guilt. Dies believing he failed to make enough change. History judges him kindly—he tried.*
 
 *If Abdicates:*
 > *Enters monastery. Spends life in service, prayer, and charity. Anonymous monk who was once king. Finds peace he never had on throne. Dies believing he did right thing.*
@@ -8407,7 +8421,7 @@ May your next adventure be equally memorable.
 ### THE CONTROLLED SUNDERING
 
 **READ ALOUD:**
-> *The World-Splitter activates. But this time, it's controlled. Precise. Corvus stands at the center, hands on all three Components, you beside him. Power flows—reality-bending, world-shaping power. But you're guiding it. Together.*
+> *The World-Splitter activates. But this time, it's controlled. Precise. Corvus stands at the center, hands on all five Components, you beside him. Power flows—reality-bending, world-shaping power. But you're guiding it. Together.*
 > 
 > *The Primordial Rift doesn't tear open. Instead, it becomes a lens, focusing the World-Splitter's power on specific targets: the corrupt noble holdings, the unjust laws carved into reality itself, the systems built on lies. And they... unmake. Carefully. Surgically.*
 > 
@@ -8993,7 +9007,7 @@ These NPCs belong in the Shattered Oaths campaign file.
 
 ### Basic Information
 - **Race:** Human
-- **Age:** 42
+- **Age:** 55
 - **Location:** Unknown (moves constantly, rarely in same place twice)
 - **Role:** Exiled Lord of House Blackwood, Rebel Leader
 - **Alignment:** Chaotic Neutral (leaning Good)
@@ -9091,51 +9105,51 @@ LEGENDARY ACTIONS (2/Turn):
 - Willing to sacrifice almost anything to restore his house
 
 ### Background & History
-Lord Shadows Blackwood was born Aldric Blackwood in 1205 CR to a powerful noble house. He had everything - wealth, title, family, future. Then, in 1228 CR (when he was 23), it ended.
+Lord Shadows Blackwood was born Corvus Blackwood in 1192 CR to a family living in hiding. His parents were descendants of House Blackwood survivors who had escaped the original rebellion's aftermath (1089-1092 CR) and lived for over a century under assumed names in the remote Silverwood.
 
-House Blackwood was accused of treason - conspiracy against King Aldric III Thandris. The charges were serious: attempting to assassinate the king, plotting to seize the throne, working with foreign enemies. House Thandris moved swiftly.
+In 1204 CR, when Corvus was twelve years old, Crown intelligence discovered his family's true identity. King Aldric III Thandris ordered the Second Blackwood Purge—the elimination of any remaining Blackwood bloodline. Soldiers came in the night. His parents were executed. Their hidden home was burned.
 
-The trial was quick. His parents were executed. The estates were seized. The family name was declared forfeit. Young Aldric barely escaped with his life and his 5-year-old sibling. He gave his sibling to trusted friends to hide, then fled into exile.
+Young Corvus escaped through a secret passage his father had prepared for exactly this moment. He watched from the shadows as his family died, hearing them proclaim their innocence even as the flames consumed them. He fled into the wilderness with nothing but his name and his grief.
 
-For 19 years, he's lived as a ghost. "Lord Shadows" is what survivors call him - the shadow of House Blackwood, refusing to die. He's learned skills no noble should know - assassination, theft, forgery, poison. He's built a network of those wronged by the powerful.
+For 43 years, he's lived as a ghost. "Lord Shadows" is what his followers call him—the shadow of House Blackwood, refusing to die. He's learned skills no noble should know: assassination, theft, forgery, dark magic. He's built a network of those wronged by the powerful, calling themselves "The Unbound."
 
-He's investigated his family's fall obsessively. He's uncovered inconsistencies, contradictions, evidence of framing. He's become convinced his parents were innocent - or at least, that the trial was a sham. House Thandris wanted their lands and power.
+His investigation into his family's fall revealed a terrible truth: House Blackwood wasn't destroyed for treason. They were destroyed because they were guardians of the First Component of the World-Splitter—and the Crown wanted it. The original rebellion of 1089 CR was manufactured. The Second Purge of 1204 CR was murder to tie up loose ends.
 
-Now, at 42, he's preparing his revenge. He's gathered allies, resources, evidence. Soon, he'll act. Either House Blackwood rises from ashes, or he dies trying.
+Now, at 55, he's preparing not just revenge but vindication. He seeks to recover the World-Splitter components, prove his family's innocence, and expose the Thandris dynasty's centuries of lies. If the world won't give him justice, he'll remake the world itself.
 
 ### Connections
-- **The Lost Heir:** His younger sibling (gender undetermined, now 24), hidden with false identity
-- **Enemy:** House Thandris (especially King Aldric IV, who he blames for perpetuating injustice)
-- **Ally:** Lady Morgana Blackwater (provides intelligence, resources, for price)
+- **The Lost Legacy:** Seeks proof of his family's role as Component guardians
+- **Enemy:** House Thandris (especially King Aldric IV, who perpetuates the injustice)
+- **Ally:** Lady Morgana Blackwater (provides intelligence, resources, for a price)
 - **Contact:** Master Crimson (The Syndicate) - uneasy alliance
-- **Friend:** Those he's saved from similar injustices (growing network)
+- **Followers:** The Unbound - those he's saved from similar injustices (growing network)
 - **Mentor:** An old assassin who taught him survival (deceased, but legacy remains)
 
 ### Secrets
-1. **The Heir's Location:** The Lost Heir is hidden in Silverpine as a scholar named "Elowen Gray." They have no memory of being Blackwood - Shadows used magic to suppress it for their protection. Restoring memory is possible but dangerous.
+1. **The Component Location:** He knows where the First Component is hidden—in the deep vaults beneath Raven's Keep. Only Blackwood blood can open the final door.
 
-2. **The Evidence:** Shadows has proof House Blackwood was framed - forged documents, false witnesses, planted evidence. But the proof also shows who really did what his family was accused of. The real conspirator is someone currently in power.
+2. **The Evidence:** Shadows has proof House Blackwood was framed—forged documents, false witnesses, planted evidence. But the proof also shows who really orchestrated both the original rebellion accusations AND the Second Purge.
 
-3. **The Assassination List:** He's compiled a list of 12 people who must die to restore House Blackwood. King Aldric IV is on it, along with judges, witnesses, and conspirators. He's crossed off three names already. No one suspects they're connected.
+3. **The True Conspiracy:** Through his investigations, Shadows discovered that Prince Aldric (eldest son of King Aldric III) murdered the Goldshore Keepers to steal the Second Component and blamed the Blackwoods. King Aldric III covered up his son's crimes by ordering the Second Purge, then secretly executed Prince Aldric twenty years ago. The middle son Marcus briefly inherited but died of fever as an infant-king. The current king, Aldric IV, is the third son—he knows nothing of his family's crimes.
 
-4. **The Thandris Secret:** Through his investigations, Shadows discovered a dark secret about House Thandris - evidence of a crime that would destroy them politically. He's keeping it as leverage or weapon, depending on circumstances.
+4. **The Thandris Secret:** The Crown of Thaldros holds the Fourth Component as a royal heirloom. Few know its true nature—including the current king.
 
-5. **The True Motivation:** Despite revenge talk, Shadows doesn't actually want his house restored through violence. He wants justice - the truth exposed, his family exonerated, those responsible punished. But he'll accept revenge if justice is impossible.
+5. **The True Motivation:** Despite his talk of the Second Worldrend, Shadows doesn't actually want to destroy the world. He wants justice—the truth exposed, his family exonerated, those responsible punished. The World-Splitter threat is leverage. But desperation might change that.
 
-6. **The Vulnerability:** Shadows is dying. Slow-acting poison (side effect of his work) is killing him. He has maybe 5 years. This desperation drives his timeline. He needs to act soon or die knowing he failed.
+6. **The Vulnerability:** Shadows is dying. A curse placed on him during his escape (triggered by Blackwood blood leaving Raven's Keep without permission) is slowly killing him. He has maybe 5 years. This desperation drives his timeline.
 
 ### Plot Hooks
-1. **The Recruitment:** Shadows approaches the party with a job - infiltrate a noble estate and steal evidence. Good pay, simple work. But the evidence relates to House Blackwood's fall, and the party must decide whose side they're on.
+1. **The Recruitment:** Shadows approaches the party with a job—infiltrate a noble estate and steal evidence. Good pay, simple work. But the evidence relates to House Blackwood's fall and the Component conspiracy, and the party must decide whose side they're on.
 
-2. **The Assassination:** An assassination occurs - a noble involved in House Blackwood's trial. Evidence points to Shadows. The party must find him before authorities do. When they catch him, he reveals he didn't do it - someone's framing him again.
+2. **The Component Race:** Someone else is hunting for World-Splitter Components. Shadows needs the party to reach one before his rivals do. But retrieving it means confronting the terrible power these artifacts hold.
 
-3. **The Heir's Discovery:** The party encounters Elowen Gray in Silverpine. Through investigation, they realize this is the Lost Heir. Do they tell Shadows? Tell Elowen? Keep the secret? Each choice has consequences.
+3. **The Truth Revealed:** The party discovers evidence proving House Blackwood's innocence—and the Crown's guilt. Do they expose it publicly, use it as leverage, or bury it to maintain stability?
 
-4. **The Evidence Exchange:** Shadows offers the party his proof of House Blackwood's innocence and House Thandris's dark secret - in exchange for help with revenge. They must choose between justice, revenge, or maintaining stability.
+4. **The Evidence Exchange:** Shadows offers the party his proof of House Blackwood's innocence and the Thandris conspiracy—in exchange for help recovering a Component. They must choose between justice, stability, or preventing catastrophe.
 
-5. **The Dying Request:** Shadows is captured and mortally wounded. With his dying breath, he asks the party to find his sibling, reveal the truth, and restore House Blackwood. They inherit his evidence, his contacts, and his quest.
+5. **The Dying Request:** Shadows is captured and mortally wounded. With his dying breath, he asks the party to find the truth, expose the conspiracy, and clear the Blackwood name. They inherit his evidence, his contacts, and his quest.
 
-6. **The Alliance:** King Aldric IV secretly approaches the party - he knows Shadows is targeting him. He offers to help prove House Blackwood's innocence if they stop Shadows's assassination attempts. Is this genuine or manipulation?
+6. **The Alliance:** King Aldric IV secretly approaches the party—he's learned of the Component conspiracy and his family's dark history. He offers to help prove House Blackwood's innocence if they stop Shadows's more destructive plans. Is this genuine redemption or manipulation?
 
 ### Roleplaying Notes
 - **Voice:** Quiet, controlled, rarely raised but commanding attention
@@ -9152,12 +9166,13 @@ Now, at 42, he's preparing his revenge. He's gathered allies, resources, evidenc
 - *When questioned:* "You want truth? Truth is dangerous. Sure you can handle it?"*
 
 ### Notes for DMs
-- Shadows is designed as morally complex NPC - victim seeking justice/revenge
-- He's the "fallen noble turned assassin" archetype
+- Shadows is designed as morally complex NPC—victim seeking justice/vindication
+- He's the "fallen noble turned avenger" archetype with legitimate grievances
 - Can serve as quest-giver, ally, antagonist, or tragic figure
 - His secrets provide major political intrigue hooks for levels 10-18
-- Works for campaigns exploring justice vs. revenge themes
+- Works for campaigns exploring justice vs. catastrophe themes
 - The dying timeline adds urgency to his plots
+- His connection to the World-Splitter Components ties him to cosmic-level threats
 - Perfect for political intrigue and moral gray area campaigns
 - Can be sympathetic villain or antihero depending on party alignment
 - His relationship with the Lost Heir creates emotional stakes
@@ -9293,7 +9308,66 @@ LEGENDARY ACTIONS (2):
 - Tactical Move: Move ally 15 ft. without provoking opportunity attacks.
 ```
 
-**Background:** Lost family in Dragon Crisis. Military genius. Treats Unbound like professional army.
+**Background:** Lost family in border conflicts. Military genius. Treats Unbound like professional army.
+
+### Expanded Background & History
+Born Marcus Thornwood to a minor noble family in the borderlands, Malthus served as a decorated captain in King Aldric III's royal guard. His military career was exemplary—strategic mind, beloved by his troops, unwavering loyalty to the Crown.
+
+Everything changed when he was assigned to the Second Blackwood Purge in 1204 CR. What he witnessed that night—the slaughter of families, the screaming children, the priests blessing the massacre as "justice"—broke something in him. He saw Prince Aldric (the king's eldest son) personally order the murders. He watched "heroes" become butchers.
+
+He disappeared from military service, presumed dead. For fifteen years he wandered, drinking, fighting, dying by inches in border towns. Then Lord Shadows found him in a gutter in Crossvale and showed him the truth: every document, every forged testimony, every lie that had condemned the Blackwoods.
+
+Lord Shadows offered him something the bottle never could: purpose. A chance to make the murderers pay. A cause worth dying for.
+
+Now he serves as the Unbound's primary military commander, running field operations, training soldiers, and planning assaults. He believes absolutely in the cause—not because he blindly serves Shadows, but because he was there. He saw the "heroes" of the kingdom murder innocents. He will not let that stand.
+
+### Connections
+- **Commander:** Lord Shadows Blackwood (absolute loyalty—Shadows saved him from himself)
+- **Peer:** Sister Mortua (respects her devotion, concerned about her methods)
+- **Former Life:** Commander Thrain Ironoak (served together in the royal guard, now enemies)
+- **Target:** Captain Thalia Lightbringer (represents everything he once believed in—and hates himself for)
+- **Secret:** Has a daughter he's never met (see Secrets below)
+
+### Secrets (DM Only)
+1. **The Witness:** He personally witnessed Prince Aldric ordering the Blackwood murders. He has names, dates, methods memorized. If he ever testified publicly, the royal family's legitimacy would be destroyed.
+
+2. **The List:** Keeps a list of every soldier who participated in the Purge. Has been systematically hunting them down for twenty years. Fourteen names crossed off. Eight remain. One is now a respected general in Kaer Thandros.
+
+3. **The Doubt:** Sometimes wonders if Lord Shadows's methods have gone too far. The cause is just, but innocent people have died in Unbound operations. He suppresses these thoughts, but they're growing stronger with each civilian casualty.
+
+4. **The Daughter:** Has a daughter he's never met—now 19 years old. Her mother fled when she discovered what Marcus had become. The daughter, Sera Thornwood, is now a paladin of Aethor actively hunting the Unbound. Malthus has been secretly protecting her from a distance, redirecting Unbound operations away from her assignments.
+
+5. **The Exit Strategy:** If Lord Shadows ever orders intentional targeting of civilians, Malthus has a plan to assassinate him and take command of the Unbound—redirecting them toward legitimate military targets only. He hopes it never comes to that.
+
+### Plot Hooks
+1. **The Confrontation:** Party captures Malthus. He offers information about Crown crimes in exchange for promise to investigate. Will they believe an Unbound commander?
+
+2. **The Daughter:** The party encounters Sera Thornwood, a zealous young paladin hunting the Unbound. They discover her father leads the very organization she hunts. Does the party tell her? Use her? Protect her?
+
+3. **The List:** Party discovers Malthus's kill list. Some names are people they know—a kindly innkeeper, a retired guardsman, a beloved teacher. Do they warn the targets or let justice play out?
+
+4. **The Defection:** If shown proof that Shadows plans mass civilian casualties, Malthus may switch sides—bringing troops, intelligence, and legitimacy to the party's cause.
+
+5. **The Testimony:** He's willing to testify about the Purge publicly—but only if guaranteed safety. Who can protect someone from a king's assassins?
+
+### Combat Tactics
+- Opens with Command Troops to buff allies
+- Uses Action Surge early for devastating burst damage
+- Casts Spirit Guardians then wades into melee
+- Legendary actions to reposition allies tactically
+- Fights to protect his soldiers first, himself second
+- Will retreat only to preserve valuable intelligence or protect key personnel
+
+### Roleplaying Notes
+**Voice:** Quiet, measured, tired. Speaks like someone who's seen too much but keeps going anyway. Military precision in every word. Never wastes syllables.
+
+**Mannerisms:**
+- Touches old scar on palm (from blood oath when he joined Unbound)
+- Eyes always scanning—exits, threats, tactical positions
+- Stands at parade rest even in casual conversation
+- Calls Unbound soldiers "my people," never "cultists" or "followers"
+
+**Quote:** *"I was a 'hero' once. Decorated. Praised. I know exactly what heroes are capable of in the dark."*
 
 ---
 
@@ -10002,7 +10076,7 @@ The sword chooses its wielder. To attune, you must immerse the blade in salt wat
 A longsword with a matte black blade that seems to devour light. Runes of death glow faintly purple along the fuller. The crossguard is wrapped in void-silk, and the pommel is carved from dark crystal. Whispers emanate from the blade in combat.
 
 **Lore:**  
-Captain Malthus Voidcaller commissioned this blade after losing his family in the Dragon Crisis. He made a pact with a death god's herald, channeling his grief into the weapon. Each soul it takes feeds the void within.
+Captain Malthus Voidcaller commissioned this blade after losing his family in the border conflicts. He made a pact with a death god's herald, channeling his grief into the weapon. Each soul it takes feeds the void within.
 
 **Mechanical Properties:**
 
@@ -10125,7 +10199,7 @@ Created by Silverleaf rangers for covert missions. The original was a gift to a 
 **Value:** 3,000 gp
 
 **Description:**  
-A platinum ring set with a small diamond that sparkles with inner light. Inscribed inside the band is a prayer to Seraphis, God of Light. Warm to the touch.
+A platinum ring set with a small diamond that sparkles with inner light. Inscribed inside the band is a prayer to Aethor, The Liberator. Warm to the touch.
 
 **Lore:**  
 Originally worn by a Goldshore family priest who drowned defending the manor. His spirit wore it as a wraith until defeated. The ring retains his protective blessing.
@@ -10839,7 +10913,7 @@ Unlike Blood & Coin, enemies are more clearly defined:
 
 ### Quest 2.2: Counsel of Allies (Level 6, 1-2 sessions)
 **Goal:** Recruit powerful allies for coming battles
-**Key NPCs:** Prof. Miranda Questseeker (CR 7), Kael Dragonsbane (CR 7), Captain Thalia Lightbringer (CR 8), Sage Cornelius (CR 6), Druid Silvaris (CR 8)
+**Key NPCs:** Prof. Miranda Questseeker (CR 9), Kael Dragonsbane (CR 7), Captain Thalia Lightbringer (CR 8), Sage Cornelius (CR 6), Druid Silvaris (CR 8)
 **Encounters:** Persuasion challenges, favor quests for each ally
 **Rewards:** 1,000-2,000 gp per ally, permanent NPC allies
 **Key Decision:** Which 2-3 allies to prioritize (can't recruit all immediately)
@@ -10907,7 +10981,7 @@ Unlike Blood & Coin, enemies are more clearly defined:
 - **Garrett the Mason** (Human, CR 2) - Turned cultist, provides testimony if spared
 
 ### Act II - Allies & Truth
-- **Professor Miranda Questseeker** (Half-elf, CR 7) - Scholar, provides historical context
+- **Professor Miranda Questseeker** (Human, CR 9) - Scholar, provides historical context
 - **Kael Dragonsbane** (Human, CR 7) - Hunter, combat ally, dragon expert
 - **Captain Thalia Lightbringer** (Human, CR 8) - Paladin, moral compass
 - **Sage Cornelius** (Human, CR 6) - Elderly wizard, magical support
@@ -11329,6 +11403,8 @@ Unlike Blood & Coin, enemies are more clearly defined:
 
 ## NPC STAT BLOCK QUICK REFERENCE
 
+> **Note:** These are simplified "ally support" stat blocks optimized for quick reference during play. For full stat blocks with complete abilities, backgrounds, and plot hooks, see the Dungeon Master's Guide. Some NPCs (like Kael Dragonsbane, Captain Thalia, and Sage Cornelius) have higher CR versions in the DMG representing their full power; the CRs here reflect their effectiveness as party allies.
+
 ### Elder Thom Oakheart (CR 1/4)
 **HP:** 16 | **AC:** 10 | **Speed:** 30 ft
 **Attacks:** Club +2 (1d4)
@@ -11357,13 +11433,13 @@ Unlike Blood & Coin, enemies are more clearly defined:
 **Tactics:** Commands troops, focuses party spellcasters
 **Key Loot:** Orders from Lord Shadows, component location
 
-### Professor Miranda Questseeker (CR 7)
-**HP:** 40 | **AC:** 12 (15 with *mage armor*) | **Speed:** 30 ft
-**Attacks:** Dagger +2 (1d4), Spells +7 to hit
-**Spells:** Scholar focus - divination and utility
-**Special:** Historical Expert (+10 to History checks)
-**Tactics:** Support caster, stays at range, provides information
-**Ally Benefit:** Research assistance, decodes ancient texts
+### Professor Miranda Questseeker (CR 9)
+**HP:** 78 | **AC:** 13 (16 with *mage armor*) | **Speed:** 30 ft
+**Attacks:** Dagger +7 (1d4+3), Spells +9 to hit
+**Spells:** 9th-level Divination wizard - divination and utility focus
+**Special:** Historical Expert (+13 to History/Arcana/Investigation checks), Encyclopedic Memory
+**Tactics:** Support caster, stays at range, provides crucial information
+**Ally Benefit:** Research assistance, decodes ancient texts, network of student contacts
 
 ### Kael Dragonsbane (Hunter Ally) (CR 7)
 **HP:** 88 | **AC:** 16 (studded leather) | **Speed:** 30 ft
@@ -11804,7 +11880,7 @@ Unlike Blood & Coin, enemies are more clearly defined:
 - Trial was rigged - key witnesses intimidated or killed
 - Real conspirators: Coalition of noble houses covering up their ancestors' crimes
 - House Blackwood was scapegoated to protect the guilty
-- Only one survivor: Young Corvus Blackwood, now Lord Shadows
+- Only one known survivor: Young Corvus Blackwood, now Lord Shadows (the Crown believes they eliminated everyone else; they were wrong)
 
 **Implications:**
 - Current kingdom leadership built on lie
@@ -12104,7 +12180,7 @@ THE BASICS:
 
 Tirvandor was once a single continent, ruled
 by a unified kingdom. 1,247 years ago, a
-catastrophic event called THE SUNDERING split
+catastrophic event called THE WORLDREND split
 the world in two.
 
 Now there are two continents:
@@ -12116,7 +12192,7 @@ THALDROS (Western Continent)
 
 AETHORIA (Eastern Continent)
 • Magical and mercantile
-• Capital: Goldreach
+• Capital: Aethermere
 • Known for: Trade, magic, culture
 
 Between them: THE SUNDERING SEA
@@ -12125,15 +12201,15 @@ Most who sail it don't return.
 
 ─────────────────────────────────────────
 
-THE SEVEN GODS:
+THE SEVEN ASCENDED:
 
-1. Solaris - God of the Sun (Light, Truth)
-2. Lunara - Goddess of the Moon (Mystery, Dreams)
-3. Ignis - God of Fire (Passion, Destruction)
-4. Verdanna - Goddess of Nature (Growth, Life)
-5. Mortis - God of Death (Endings, Peace)
-6. Arcanos - God of Magic (Knowledge, Power)
-7. Fortuna - Goddess of Luck (Fate, Chaos)
+1. Thandros - The Lawbringer (Law, Justice, Order)
+2. Aethor - The Liberator (Freedom, Light, Hope)
+3. Moira - The Weaver (Fate, Knowledge, Magic)
+4. Kael - The Wanderer (Travel, Trade, Luck)
+5. Sera - The Healer (Life, Healing, Mercy)
+6. Mordain - The Sentinel (Death, Protection, Judgment)
+7. Sylvara - The Wild (Nature, Growth, Storms)
 
 ─────────────────────────────────────────
 
@@ -12536,6 +12612,343 @@ Result: Looks 100+ years old!
 
 \page
 
+
+
+\page
+
+# Appendix: Campaign-Specific NPCs
+
+The following NPCs have deep ties to the Shattered Oaths campaign storyline and are presented here for easy reference.
+
+# Campaign-Specific NPCs - Moved from DMG
+# These NPCs are specific to the Shattered Oaths campaign
+
+\page
+
+## The Lost Heir (Elowen Gray)
+*Medium humanoid (human), neutral good*
+___
+**Armor Class** :: 15 (Mage Armor, Dex)
+**Hit Points** :: 56 (10d6 + 10)
+**Speed** :: 30 ft.
+![The Lost Heir (Elowen Gray)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-lost-heir-elowen-gray.jpg){width:325px,mix-blend-mode:multiply}
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 16 (+3) | 12 (+1) | 20 (+5) | 16 (+3) | 14 (+2) |
+___
+**Saving Throws** :: Intelligence +8, Wisdom +6
+**Skills** :: Arcana +11 (expertise), History +11 (expertise), Insight +6, Investigation +8, Perception +6, Sleight of Hand +6, Stealth +6
+**Senses** :: Passive Perception 16
+**Languages** :: Common, Elvish, Dwarvish, Draconic, Celestial, Ancient Blackwood Dialect (doesn't realize this is unusual)
+**Challenge** :: 8 (3,900 XP)
+___
+***Portent (2/Day).*** :: After long rest, rolls 2d20. Can replace any attack roll, save, or ability check with these rolls.
+***Expert Divination.*** :: When casting divination spell of 2nd+, regains one spell slot (up to 5th level).
+***The Third Eye (1/Rest).*** :: Can gain darkvision, see invisible, read all languages, or see into Ethereal Plane for 10 minutes.
+***Cunning Action.*** :: Bonus action to Dash, Disengage, or Hide.
+***Sneak Attack.*** :: Once per turn, 1d6 extra damage with advantage.
+***Suppressed Memories.*** :: Has vague feelings of "knowing" things but can't remember why. DC 25 Wisdom save to recall fragments (usually fails). Strong emotional triggers might lower DC.
+***Spell Save DC.*** :: 16, Spell Attack Bonus: +8
+***Cantrips.*** :: Fire Bolt, Mage Hand, Message, Prestidigitation, Minor Illusion
+***1st Level (4 slots).*** :: Detect Magic, Identify, Mage Armor, Shield, Alarm
+***2nd Level (3 slots).*** :: Detect Thoughts, Locate Object, See Invisibility, Misty Step
+***3rd Level (3 slots).*** :: Clairvoyance, Counterspell, Dispel Magic
+***4th Level (2 slots).*** :: Arcane Eye, Divination, Greater Invisibility
+### Actions
+***Quarterstaff.*** :: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. ***Hit.*** 1d6 bludgeoning damage (rarely uses - prefers magic).::
+***Dagger.*** :: Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft. ***Hit.*** 1d4+3 piercing damage.::
+***Spellcasting.*** :: Casts one of her prepared spells.
+### Reactions
+***Shield.*** :: +5 AC until start of next turn as reaction.
+***Counterspell.*** :: Counter enemy spell (auto-success up to 3rd level).
+***Portent.*** :: Replace any d20 roll with portent die.
+*"Every book I read feels like remembering something I forgot. Why?"*
+}}
+
+#### Basic Information
+- **Race:** Human
+- **Age:** 24
+- **Location:** Silverpine (University District, lives in small apartment near library)
+- **Role:** Scholar/Librarian (true identity: Heir to House Blackwood, identity magically suppressed)
+- **Alignment:** Neutral Good
+- **Class:** Wizard 8 (School of Divination) / Rogue 2
+
+### Physical Description
+Slight and bookish (5'7", 130 lbs) with the kind of beauty that goes unnoticed behind spectacles and simple clothing. Dark brown hair usually in messy bun, often has ink stains on fingers. Warm brown eyes that light up when discussing books or history. Wears practical scholar's robes - blues and grays. Has a birthmark on left shoulder blade - the Blackwood family sigil, but doesn't know its significance.
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+### Equipment
+- **Robes:** Scholar's Robes (plain, practical)
+- **Staff:** Quarterstaff (doubles as walking stick and focus)
+- **Dagger:** Small utility knife (for cutting pages, not combat)
+- **Spectacles:** Actually magical - Goggles of Night (darkvision 60 ft., disguised as reading glasses)
+- **Satchel:** Contains spellbook, research notes, historical texts she's "borrowing"
+- **Amulet:** Hidden under clothing - Blackwood family heirloom (doesn't know what it is, just feels drawn to it, found it in a market years ago)
+- **Other:** Scholar's supplies, ink and quill, too many books
+
+### Personality
+**Traits:**
+- Curious and inquisitive, always asking "why"
+- Empathetic and kind, helps others naturally
+- Socially awkward but genuinely tries to connect
+- Surprisingly brave when defending knowledge or people she cares about
+
+**Ideals:**
+- **Truth:** "Knowledge should be shared, not hoarded."
+- **Justice:** "History shows us patterns. We can learn from past mistakes."
+- **Kindness:** "Everyone has a story. Everyone deserves to be heard."
+
+**Bonds:**
+- The University library (her sanctuary)
+- Historical research (feels compelled to study nobility and treason trials, doesn't know why)
+- Her few close friends (small circle, fiercely loyal)
+- A mysterious feeling that she's missing something important
+
+**Flaws:**
+- Naive about danger - lives in world of books, not reality
+- Trusts too easily - believes people are fundamentally good
+- Obsessive about research - loses track of time, forgets to eat
+- Haunted by dreams and feelings she doesn't understand
+
+### Background & History
+Elowen Gray remembers her life starting at age 5. She was found wandering near Silverpine, no memory of before, taken in by kindly scholar couple (actually Shadows's contacts). They raised her, discovered her intelligence, encouraged her education.
+
+**The Hidden Survivor:** During the 1204 purge, young Corvus (age 12) made a desperate choice. He couldn't protect his 5-year-old sister in flight, so he entrusted her to a Blackwood loyalist mage who performed a deep memory suppression ritual. The child's identity was completely erased—she didn't know she was a Blackwood, so she couldn't reveal it under questioning or torture. The Crown's agents found no record of a daughter; their intelligence was incomplete. Corvus escaped openly and became "the only known survivor." Elowen vanished into anonymity, her existence unknown to anyone hunting Blackwood blood.
+
+She excelled at University - particularly history and magic. She became fascinated with political intrigue, nobility, and particularly with cases of supposed treason. She doesn't know why these topics draw her so strongly.
+
+She's had recurring dreams all her life - fire, shouting, people being taken away, a older boy telling her everything will be okay. She thinks they're nightmares. They're memories trying to surface.
+
+Recently, the dreams have intensified. She's discovered gaps in historical records about House Blackwood. The more she researches, the more she feels she's on edge of remembering something crucial. She's experiencing déjà vu constantly around nobility and heraldry.
+
+She's also noticed she's being watched. Someone's been following her. She doesn't know it's Shadows, checking on her from distance, making sure she's safe.
+
+### Connections
+- **Brother:** Lord Shadows Blackwood (doesn't remember him, might feel inexplicable connection if they meet)
+- **Guardians:** The scholar couple who raised her (dead now, deaths seemed natural but may have been silenced)
+- **Mentor:** Archmage Veridian Starweaver (University, sees potential, suspects something unusual about her)
+- **Friend:** Professor Elara Moonwhisper (Divination professor, notices her natural prophetic gifts)
+- **Admirer:** A student who has crush on her (she's oblivious)
+- **Watcher:** Shadows (she doesn't know she's being watched over)
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The True Identity:** She is the lost heir to House Blackwood, sister to Shadows. Her memories were magically suppressed at age 5 for her protection. The suppression is slowly failing - hence the dreams and feelings. Full restoration is possible but traumatic.
+
+2. **The Hidden Talent:** Her divination magic is unusually powerful because it's partly trying to divine her own past. If her memories restore, her prophetic abilities might explode in power - or disappear entirely.
+
+3. **The Bloodline Power:** As true Blackwood heir, she has latent noble bloodline magic - currently dormant. If activated (by memory restoration or crisis), she'd gain significant powers tied to House Blackwood's legacy.
+
+4. **The Research Discovery:** Her historical research has actually uncovered evidence of her family's innocence. She doesn't realize it relates to her, thinking it's just academic work. She has puzzle pieces but doesn't see the picture.
+
+5. **The Artifact:** The "random amulet" she found is actually a Blackwood family heirloom that only responds to family bloodline. It's been subtly protecting her, influencing divination magic, and trying to restore her memories. If someone identifies it, her identity is exposed.
+
+6. **The Guardian Network:** Unknown to her, she's been protected by a network of people loyal to House Blackwood. Scholars, guards, merchants around her - many are actually agents ensuring her safety. She thinks she's lucky. She's actually heavily guarded.
+}}
+
+### Plot Hooks
+1. **The Memory Trigger:** Something breaks the suppression - a traumatic event, magical accident, or deliberate dispelling. Elowen remembers everything. Now what? Does she embrace her identity or reject it? Can she handle the truth?
+
+2. **The Research Discovery:** The party is hired to steal Elowen's research (by those who want House Blackwood's truth buried). They must decide whether to take it, warn her, or help her understand what she's found.
+
+3. **The Assassination Attempt:** Someone tries to kill Elowen (eliminating last Blackwood heir). The party intervenes. They must figure out who she really is and why she's targeted, possibly before she remembers.
+
+4. **The Brother's Return:** Shadows reveals himself to Elowen without restoring memories. He asks party to help him decide - tell her the truth and risk breaking her, or let her live in ignorance. What's more cruel?
+
+5. **The Heritage Claim:** House Blackwood's lands are being redistributed. If a heir came forward with proof, they'd have legal claim. Should the party find Elowen, restore her memories, and help her reclaim birthright? Even if she doesn't want it?
+
+6. **The Prophecy:** Elowen has a prophetic vision - about herself, though she doesn't realize it. She sees the Blackwood heir at crossroads, choosing between justice and peace. The party must help her interpret it - and maybe prevent it.
+
+### Roleplaying Notes
+- **Voice:** Soft, thoughtful, gets excited when discussing books
+- **Mannerisms:** Adjusts spectacles when thinking, fidgets with books, reads while walking
+- **Catchphrase:** "That's odd... why do I feel like I know this?"
+- **When stressed:** Retreats into books, researches obsessively
+- **If memories restore:** Personality shifts - becomes more serious, conflicted, questioning everything
+
+### Notes for DMs
+- Elowen is designed as innocent character thrust into complex situation
+- She's the "hidden royalty" trope with amnesia angle
+- Can be protected, revealed, or kept hidden depending on campaign
+- Her secrets provide major plot hooks for levels 5-15
+- Memory restoration is powerful emotional moment
+- Works as innocent bystander, quest object, or eventual ally
+- Perfect for political intrigue and identity/family themes
+- Her relationship with Shadows creates dramatic potential
+- Can remain scholar or become noble - player choice matters
+- Her research ties into larger House Blackwood plot
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+
+\page
+
+{{monster,frame,wide
+
+\page
+
+## Lord Aldric Blackwood (The Rebel)
+*Medium humanoid (human), chaotic neutral*
+___
+**Armor Class** :: 18 (half plate, shield)
+**Hit Points** :: 142 (15d10 + 60)
+**Speed** :: 30 ft.
+![Lord Aldric Blackwood (The Rebel)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-aldric-blackwood.jpg){width:325px,mix-blend-mode:multiply}
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 18 (+4) | 14 (+2) | 18 (+4) | 14 (+2) | 12 (+1) | 16 (+3) |
+___
+**Saving Throws** :: Strength +9, Constitution +9, Charisma +8
+**Skills** :: Athletics +9, Deception +8, History +7, Intimidation +8, Persuasion +8
+**Senses** :: Passive Perception 11
+**Languages** :: Common
+**Challenge** :: 12 (8,400 XP)
+___
+***Blackwood Curse.*** :: Hears whispers in moments of crisis. Can gain advantage on one roll per short rest, but takes 2d10 psychic damage.
+***Rebel Leader.*** :: Allies within 30 ft. have advantage on saves against being frightened.
+***Action Surge (1/Rest).*** :: Can take additional action.
+***Indomitable (2/Rest).*** :: Can reroll failed save.
+### Actions
+***Multiattack.*** :: Makes three attacks with longsword.
+***Longsword +2.*** :: Melee Weapon Attack: +11 to hit, reach 5 ft. ***Hit.*** 1d8+6 slashing plus 1d6 necrotic damage (cursed blade).::
+***Rallying Cry (Recharge 5-6).*** :: Each ally within 60 ft. regains 15 HP and can move up to half their speed without provoking.
+***Shadow Strike (3/Day).*** :: Teleports up to 30 ft. to target and makes attack with advantage. If hits, extra 4d6 necrotic damage.
+### Reactions
+***Parry.*** :: Adds +4 AC against one melee attack.
+*"Better to die free than live enslaved to tyrants."*
+}}
+
+### Background & History
+Aldric was born to privilege and raised to rule—the heir to House Blackwood at the height of its power. He had everything: wealth, influence, a beautiful wife, children who adored him. The Whispering Patron that plagued his ancestors barely touched him; he seemed blessed.
+
+Then he discovered the truth about his house's wealth. The journals, the murders, the pacts—everything his ancestors had done to build Blackwood's power. Most heirs accepted these revelations as the price of nobility. Aldric was disgusted.
+
+His rebellion began quietly—redirecting funds to victims' descendants, sabotaging family businesses built on blood money, working to undo centuries of harm. When his family discovered his betrayal, they acted swiftly. His wife was "tragically killed in an accident." His children were taken "for their protection." Aldric himself was declared mad and imprisoned.
+
+He escaped and spent years building a network dedicated to destroying House Blackwood from within. His work contributed to the house's eventual downfall, though he didn't live to see it. The Whispering Patron finally claimed him, driving him to suicide rather than let him complete his mission.
+
+### Connections
+- **House Blackwood:** The family he tried to destroy; they considered him their greatest shame
+- **Lord Shadows (Corvus):** His nephew, who inherited after Aldric's "madness"
+- **Lady Corvina:** His niece, the only family member who understood his motives
+- **The Resistance Network:** The organization he built to fight Blackwood; some members still operate
+- **The Whispering Patron:** The entity that ultimately destroyed him
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Network Survives:** Aldric's anti-Blackwood organization still exists, now dedicated to stopping Lord Shadows.
+2. **The True Journals:** He made copies of the family journals before his imprisonment. They're hidden somewhere.
+3. **The Patron's Weakness:** In fighting the Whispering Patron, Aldric learned things about it—weaknesses, limitations, perhaps how to destroy it.
+4. **His Children:** Aldric's children were raised by distant relatives. They don't know their true heritage—or their father's sacrifice.
+5. **The Unfinished Work:** His final plan to destroy House Blackwood was never completed. The components are still in place.
+}}
+\column
+### Plot Hooks
+1. **The Network Contact:** Aldric's old organization reaches out to the party. They have resources and information.
+2. **The Journal Hunt:** Finding Aldric's copies of the family journals could expose Lord Shadows.
+3. **The Patron's Secrets:** Aldric's research into the Whispering Patron might be the key to stopping it.
+4. **The Lost Children:** Aldric's descendants still live. Finding them—and deciding whether to tell them the truth—is complicated.
+5. **The Final Plan:** The components of Aldric's unfinished plan still exist. Completing it could end House Blackwood forever.
+
+---
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+
+\page
+
+{{monster,frame,wide
+
+\page
+
+## Lady Corvina Blackwood (The Survivor)
+*Medium humanoid (human), true neutral*
+___
+**Armor Class** :: 16 (studded leather +1)
+**Hit Points** :: 91 (14d8 + 28)
+**Speed** :: 30 ft.
+![Lady Corvina Blackwood (The Survivor)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-corvina-blackwood.jpg){width:325px,mix-blend-mode:multiply}
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 12 (+1) | 18 (+4) | 14 (+2) | 16 (+3) | 16 (+3) | 14 (+2) |
+___
+**Saving Throws** :: Dexterity +8, Intelligence +7, Wisdom +7
+**Skills** :: Deception +6, Insight +7, Perception +7, Stealth +12, Survival +7
+**Senses** :: Darkvision 60 ft. (curse-born), Passive Perception 17
+**Languages** :: Common, Thieves' Cant
+**Challenge** :: 9 (5,000 XP)
+___
+***Blackwood Curse (Controlled).*** :: Has learned to use whispers selectively. Can cast Detect Thoughts at will but must succeed DC 15 Wis save or take 1d10 psychic damage.
+***Survivor's Instinct.*** :: Can't be surprised. Has advantage on initiative rolls.
+***Evasion.*** :: No damage on successful Dex save, half on failure.
+***Sneak Attack (5d6).*** :: Extra damage with advantage or ally nearby.
+### Actions
+***Multiattack.*** :: Makes two attacks with dagger.
+***Dagger +2.*** :: Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60 ft. ***Hit.*** 1d4+6 piercing plus 2d6 poison damage.::
+***Vanish.*** :: Becomes invisible until end of next turn or until attacks.
+***Shadow Escape (Recharge 5-6).*** :: Teleports up to 60 ft. to any space in dim light or darkness she can see.
+### Reactions
+***Uncanny Dodge.*** :: Halves damage from one attack she can see.
+*"For my children, I will endure anything."*
+}}
+
+### Background & History
+Corvina watched her house tear itself apart and chose to survive by becoming invisible. When her uncle Aldric rebelled, she was young enough to be overlooked. When her father died mysteriously, she made herself useful to whoever held power. When her cousin Corvus became Lord Shadows, she became his most trusted advisor—and his most careful observer.
+
+She understood the Whispering Patron better than most Blackwoods because she listened without answering. The whispers told her secrets about everyone—family, rivals, potential threats. She used this knowledge not for power but for survival, always staying one step ahead of those who might eliminate her.
+
+Now she serves Lord Shadows as his spymaster and conscience. She's the one who reminds him of limits, who suggests mercy when expedient, who keeps his schemes from becoming too destructive. He thinks she's loyal. She's actually waiting—for him to go too far, for an opportunity to escape, for the right moment to destroy everything he's built.
+
+She carries her uncle Aldric's legacy: his copies of the journals, his network contacts, his hatred of what Blackwood has become. But unlike Aldric, she's patient. She'll wait decades if necessary.
+
+### Connections
+- **Lord Shadows (Corvus):** Her cousin, whom she serves and secretly opposes
+- **Lord Aldric's Memory:** Her uncle, whose mission she's inherited
+- **The Resistance Network:** She's their most valuable inside source
+- **The Whispering Patron:** She hears it but doesn't obey—a dangerous position
+- **House Blackwood:** The last legitimate member besides Corvus
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Double Agent:** She's been feeding information to Aldric's network for twenty years. Lord Shadows has no idea.
+2. **The Journal Copies:** She has the journals her uncle hid, plus her own additions documenting Corvus's crimes.
+3. **The Escape Plan:** Has multiple contingencies for when things fall apart—new identities, hidden resources, safe locations.
+4. **The Patron's Offer:** The Whispering Patron has offered her power repeatedly. Each refusal makes the next harder.
+5. **The Mercy Killings:** She's "arranged accidents" for several people Lord Shadows wanted tortured. Quicker deaths than they would have received.
+}}
+\column
+### Plot Hooks
+1. **The Inside Contact:** Corvina reaches out to the party. She has information—but the risks of contact are extreme.
+2. **The Extraction:** She's decided the time has come to flee. Getting her out safely won't be easy.
+3. **The Journal Transfer:** She wants to get the journals to someone who can use them before she's discovered.
+4. **The Patron's Pressure:** The Whispering Patron is getting more insistent. She needs help resisting—or escaping its reach.
+5. **The Final Betrayal:** Lord Shadows's next plan is too terrible. Corvina needs help stopping it from inside.
+
+---
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+
+\page
+
+{{monster,frame,wide
 {{backCover,wide}}
 
 # Shattered Oaths

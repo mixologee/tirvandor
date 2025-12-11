@@ -179,7 +179,7 @@ Crossroads sits at the intersection of three trade routes, far from royal oversi
 ### **Factions in Crossroads**
 
 **The Iron Guild** (Dominant)
-- Leader: Varak Ironhand (dwarf veteran)
+- Leader: Varak Ironfist (dwarf veteran)
 - Philosophy: Contracts sacred, honor in professionalism
 - Members: ~400 active mercenaries
 - Dues: 10% of contract earnings
@@ -211,7 +211,7 @@ Crossroads sits at the intersection of three trade routes, far from royal oversi
 **Level:** 1  
 **Duration:** 1-2 sessions  
 **Objective:** Complete first contract, gain Iron Guild membership  
-**Key NPCs:** Varak Ironhand, "Lucky" Finn, Mira Copperstone  
+**Key NPCs:** Varak Ironfist, "Lucky" Finn, Mira Copperstone  
 **Rewards:** 50-75gp, Iron Guild membership (if accepted)
 
 ### **Opening - Arrival at Crossroads**
@@ -304,7 +304,7 @@ PCs make their way to the Iron Guild Hall to find work.
 {{descriptive
 *Behind a heavy oak desk sits a dwarf in well-maintained chainmail. His beard is braided with iron rings. His eyes are hard, calculating, measuring. He doesn't smile.*
 
-**NPC: Varak Ironhand**
+**NPC: Varak Ironfist**
 
 *Medium humanoid (dwarf), lawful neutral*
 
@@ -1913,6 +1913,12 @@ PCs should reach **Level 3** after completing Quest 1.2.
 **Rewards:** 500gp (base), or 300gp + ally, or political power  
 **Theme:** "One person's terrorist is another's freedom fighter"
 
+{{note
+**DM Note: The Merchant Consortium**
+
+The Merchant Consortium is a regional chapter of the continental Merchant League, operating in the Silverpine-Thornwood region. While the Merchant League as a whole is a legitimate trade organization (see World Guide), individual consortiums sometimes engage in less ethical practices. The Silverpine Consortium includes merchants who participated in the fraudulent seizure of Thornwood lands—corruption that the larger League has either ignored or been unaware of. This subplot reflects how legitimate organizations can harbor corrupt elements.
+}}
+
 ### **Quest SETUP**
 
 A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak summons them with an unusual contract—high-paying, but there's something off about it.
@@ -2246,6 +2252,8 @@ Tracking Red Wolf requires Survival checks:
 - Will fight to death to protect her followers
 - Would prefer peaceful solution but expects violence
 
+**Secret:** Elara doesn't just command a band of loyal peasants—she leads the **Thornwood Syndicate**, the largest criminal network in Tirvandor. The Syndicate was built by loyalists after her family's fall, and now serves as her power base for reclaiming what was stolen. She has eyes and ears in every major city, access to smugglers, forgers, and information brokers across both continents. The "bandit" operation is merely the visible tip of a vast organization.
+
 **Stats:** Use **Knight** with modifications (CR 4)
 
 **Combat Stats:**
@@ -2371,7 +2379,7 @@ This becomes a legal, public duel:
 
 **Defenders:**
 
-**1x Lady Elara Thornwood** (Knight variant, CR 4)
+**1x Lady Elara Thornwood** (use Red Wolf stats, CR 7)
 - AC 18, HP 70
 - Longsword +1: +7 to hit, 1d8+5 damage
 - Leadership: Allies within 30 ft advantage on fear saves
@@ -2714,7 +2722,7 @@ PCs should reach **Level 4** after completing Quest 1.3.
 **NPCs to Add to Compendium:**
 - Castor Goldweave (Merchant Lord, Noble stats)
 - Captain Willem Hartstone (Veteran, has conscience)
-- Elara Thornwood / Red Wolf (Knight variant, CR 4)
+- Elara Thornwood / Red Wolf (CR 7)
 - Magistrate Aldric Reeve (Corrupt official)
 - Old Mira (Villager, information source)
 - Thornwood Fighters (Guards, loyal retainers)
@@ -3861,6 +3869,14 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 
 **This information revealed later in Quest 2.3 (The Double Cross)**
 
+{{note
+**DM Note: "Godsfall" Terminology**
+
+Throughout this campaign, characters refer to the ancient cataclysm as "the Godsfall"—a religious/colloquial term used by certain scholars, cultists, and those who believe gods directly caused the disaster. The World Guide refers to this same event as "the Worldrend" (the official historical name, Year 0 CR, 1,247 years ago).
+
+Both names refer to the same event. "Godsfall" emphasizes the divine conflict; "Worldrend" emphasizes the geographic result. Corvus Blackwood and The Unbound prefer "Godsfall" because it supports their narrative about divine artifacts. NPCs from academic or governmental backgrounds will typically say "Worldrend."
+}}
+
 ---
 
 ## Meeting 3: Corvus Blackwood (4pm)
@@ -3938,7 +3954,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 
 #### Personality & Motivation
 
-**Age:** 52  
+**Age:** 55  
 **Appearance:** Scholar's robes, grey hair, intense eyes, surrounded by books and maps, focused, intelligent
 
 **Personality:**
@@ -5795,7 +5811,7 @@ Everyone wants into the Royal Vault.
 *"There's one target everyone wants: The Royal Vault of Kaer Thandros. It contains:*
 >
 > - *Military plans for both kingdoms*
-> - *World-Splitter Component #3*
+> - *World-Splitter Component #4*
 > - *Historical documents proving conspiracies*
 > - *Enough gold to fund armies*
 >
@@ -5885,7 +5901,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
    - Supply routes
    - Diplomatic secrets
 
-2. **World-Splitter Component #3**
+2. **World-Splitter Component #4**
    - Third of five artifacts
    - Both Corvus and kingdoms want it
    - Worth more than gold
@@ -5929,7 +5945,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 
 **Corvus Blackwood (if still employed):**
 {{descriptive
-*"Component #3 is in the royal vault. I NEED it. Get it for me. I don't care what else you take. Just bring me the Component. Payment: 2,000 gold plus ancient artifacts."*
+*"Component #4 is in the royal vault. I NEED it. Get it for me. I don't care what else you take. Just bring me the Component. Payment: 2,000 gold plus ancient artifacts."*
 
 ### **IF INDEPENDENT:**
 
@@ -6057,7 +6073,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 - Hit vault at midnight (same as everyone)
 - Suicidal frontal assault
 - Don't care about stealth
-- Target: Component #3 only
+- Target: Component #4 only
 
 **Threat Level:** MEDIUM (reckless but dangerous)
 
@@ -6253,7 +6269,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 *You reach the bottom. The Inner Vault.*
 >
 {{descriptive
-*It's cathedral-sized. Shelves of gold. Display cases of artifacts. Document archives. At the far end: a pedestal with crystalline shard glowing with unnatural light—Component #3.*
+*It's cathedral-sized. Shelves of gold. Display cases of artifacts. Document archives. At the far end: a pedestal with crystalline shard glowing with unnatural light—Component #4.*
 >
 {{descriptive
 *It's beautiful. Overwhelming. This is the kingdom's heart. 500 years of accumulated wealth and power.*
@@ -6335,7 +6351,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 
 **6 Unbound Cultists** (Cultist stats, CR 1/8)
 
-**Their Goal:** Get Component #3, kill anyone who interferes
+**Their Goal:** Get Component #4, kill anyone who interferes
 
 ---
 
@@ -6448,7 +6464,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 
 ### **Primary Targets**
 
-**Component #3:**
+**Component #4:**
 - Size of football
 - 10 lb
 - Glows, obvious
@@ -6556,7 +6572,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 
 **What TO Take:**
 
-**Option 1: Component #3** (10 lb)
+**Option 1: Component #4** (10 lb)
 - Fulfill mission for Corvus
 - Or sell to highest bidder
 - Or destroy (prevent apocalypse)
@@ -6693,7 +6709,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 
 ---
 
-**Component #3:**
+**Component #4:**
 
 **Similar choices:**
 - Give to Corvus (enable apocalypse)
@@ -6716,7 +6732,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 - 5,000gp in gold
 - 2-3 magic items
 - War Conspiracy docs (priceless)
-- Component #3 (dangerous)
+- Component #4 (dangerous)
 
 **If exposed conspiracy:**
 - 0gp (no buyers)
@@ -8027,7 +8043,7 @@ Thaldros guards killed an Aethoria merchant they claim was smuggling weapons. Ae
 
 ## Crisis 2: The Trade Dispute
 
-**Location:** Port City of Seahaven (neutral ground)
+**Location:** Port City of Port Myrthen (neutral ground)
 
 **What Happened:**
 
@@ -8038,7 +8054,7 @@ Aethoria merchant ship seized by Thaldros navy for "illegal goods." Aethoria dem
 **Read Aloud:**
 
 {{descriptive
-*Seahaven Port. The merchant ship "Liberty's Call" sits anchored, Thaldros navy blockading it. Aethoria diplomats argue with Thaldros admirals on the dock. Merchants on both sides watching nervously—if trade stops, everyone loses money.*
+*Port Myrthen Port. The merchant ship "Liberty's Call" sits anchored, Thaldros navy blockading it. Aethoria diplomats argue with Thaldros admirals on the dock. Merchants on both sides watching nervously—if trade stops, everyone loses money.*
 >
 {{descriptive
 *Thaldros Admiral: "The ship carries Unbound propaganda. Books. Pamphlets. Cult materials. We can't allow that poison into our kingdom."*
@@ -8854,7 +8870,7 @@ This quest establishes Act III pattern: constant crisis management.
 **Read Aloud:**
 
 {{descriptive
-*You descend again into Old Kaer—the ruins where you found Component #3 in Act II. The sinkhole. The dead city. The vault.*
+*You descend again into Old Kaer—the ruins where you found Component #4 in Act II. The sinkhole. The dead city. The vault.*
 >
 {{descriptive
 *But now: Unbound presence. Torches light the streets. Cultists patrol. Magic wards erected. They've fortified the vault as headquarters.*
@@ -8927,7 +8943,7 @@ She took up her father's mantle. Believes in his vision. Completed Component tra
 **Languages:** All  
 **Challenge:** 12 (8,400 XP)
 
-**Component Fragment:** Possesses piece of Component #3 (not full power but significant)
+**Component Fragment:** Possesses piece of Component #4 (not full power but significant)
 
 **Reality Sense:** Detects magical deception within 120 ft.
 
@@ -9229,7 +9245,7 @@ PCs become Unbound leadership. Help execute Operation Collapse. Enable tyranny. 
 
 **Background:**
 
-400 years ago, during the Godsfall, an ambitious king tried to achieve immortality using forbidden necromancy. Succeeded—became lich. Kingdom fell, all citizens converted to undead. For centuries, isolated in frozen north.
+Over a thousand years ago, during the chaos of the Godsfall, an ambitious king in the far north tried to achieve immortality using forbidden necromancy. He succeeded—becoming a lich. His kingdom fell, all citizens converted to undead servants. For centuries, he's been isolated in the frozen wastes, building his forces.
 
 Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 
@@ -11296,7 +11312,7 @@ Thank you for running Blood & Coin.
 
 ## Quest 1.3: The Red Wolf
 
-### **Catherine "Red Wolf" Thornwood**
+### **Elara "Red Wolf" Thornwood**
 *Medium humanoid (human), chaotic good*
 
 **Role:** Revolutionary leader, potential ally/enemy  
@@ -11865,7 +11881,7 @@ Thank you for running Blood & Coin.
 
 **Role:** Thaldros naval commander  
 **Challenge:** 5 (1,800 XP)  
-**Location:** Seahaven Port
+**Location:** Port Myrthen Port
 
 **Stats:** Knight (MM p.347) with naval command abilities
 
@@ -11876,7 +11892,7 @@ Thank you for running Blood & Coin.
 
 **Role:** Aethoria diplomat  
 **Challenge:** 2 (450 XP)  
-**Location:** Seahaven Port
+**Location:** Port Myrthen Port
 
 **Stats:** Noble (MM p.348) with enhanced Persuasion
 
@@ -11942,7 +11958,7 @@ Thank you for running Blood & Coin.
 **Senses:** truesight 60 ft., passive Perception 13  
 **Languages:** All
 
-**Component Fragment:** Possesses piece of Component #3  
+**Component Fragment:** Possesses piece of Component #4  
 **Reality Sense:** Detects magical deception within 120 ft  
 **Legendary Resistance (2/Day):** Choose to succeed on failed save
 
@@ -12242,7 +12258,7 @@ Thank you for running Blood & Coin.
 
 **Swift Shot:** Can use bonus action to make additional longbow attack (3/day).
 
-**Lore:** Catherine "Red Wolf" Thornwood's signature weapon. Carved from ancient oak, blessed by forest spirits.
+**Lore:** Elara "Red Wolf" Thornwood's signature weapon. Carved from ancient oak, blessed by forest spirits.
 
 **Location:** Wielded by Red Wolf
 
@@ -12438,7 +12454,7 @@ Thank you for running Blood & Coin.
 
 ## Quest 2.4: The Heist
 
-### **World-Splitter Component #3**
+### **World-Splitter Component #4**
 *Artifact (fragment), artifact*
 
 **Properties:** Same as Component #1 but:
@@ -12612,7 +12628,7 @@ Thank you for running Blood & Coin.
 *Artifact fragment, legendary*
 
 **Properties:**
-- Piece of shattered Component #3
+- Piece of shattered Component #4
 - Grants +1 to Intelligence or Wisdom (choice)
 - Can cast *detect magic* at will
 - **Corruption:** DC 13 Wis save daily or gain paranoia
@@ -13585,8 +13601,8 @@ Many "enemies" aren't evil:
 **Key Decision:** Help refugees or follow guild orders
 
 ### Quest 1.3: The Red Wolf (Level 3, 2 sessions)
-**Goal:** Meet Catherine Thornwood, navigate crime world
-**Key NPCs:** Catherine "Red Wolf" Thornwood (CR 7), Captain Thorne (CR 5)
+**Goal:** Meet Elara "Red Wolf" Thornwood, navigate crime world
+**Key NPCs:** Elara "Red Wolf" Thornwood (CR 7), Captain Thorne (CR 5)
 **Encounters:** Warehouse ambush (CR 3-4)
 **Rewards:** 400-800 gp, Thornwood connection
 **Key Decision:** Work with or against Thornwood Syndicate
@@ -13599,8 +13615,8 @@ Many "enemies" aren't evil:
 **Key Decision:** Expose corruption or profit from silence
 
 ### Quest 1.5: The Trial (Level 5, 2-3 sessions)
-**Goal:** Defend Elara in trial, prevent execution
-**Key NPCs:** Elara (CR 5), Magistrate Ravens (CR 3), Prosecutor Brand (CR 4)
+**Goal:** Navigate trial for Elara "Red Wolf" Thornwood or Marcus Blackwood (varies by party choices)
+**Key NPCs:** Elara Thornwood (CR 7) or Marcus Blackwood (CR 3), Magistrate Ravens (CR 5), Prosecutor Brand (CR 4)
 **Encounters:** Courtroom battle (CR 5-6), rescue mission
 **Rewards:** 1,500-2,500 gp, major reputation shift
 **Key Decision:** Which faction to align with for Act II
@@ -13609,7 +13625,7 @@ Many "enemies" aren't evil:
 
 ### Quest 2.1: The Recruiters (Level 6, 2-3 sessions)
 **Goal:** Meet three faction recruiters, choose allegiance
-**Key NPCs:** Commander Dawnblade (CR 12), Envoy Valen (CR 10), Corvus Blackwood (CR 15)
+**Key NPCs:** Commander Dawnblade (CR 10), Envoy Valen (CR 6), Corvus Blackwood (CR 15)
 **Encounters:** Investigation, no combat unless provoked
 **Rewards:** 1,000-2,500 gp upfront + faction benefits
 **Key Decision:** Which faction to join (affects entire Act II)
@@ -13626,14 +13642,14 @@ Many "enemies" aren't evil:
 
 ### Quest 2.3: Double Cross (Level 8-9, 2-3 sessions)
 **Goal:** Discover faction's darker side, decide whether to stay
-**Key NPCs:** Elara Corvus (CR 14), faction leaders
+**Key NPCs:** Elara Corvus (CR 4), faction leaders
 **Encounters:** Assassination attempt (CR 9-10), faction conflict
 **Rewards:** 3,000-5,000 gp, possible faction switch
 **Key Decision:** Stay loyal, switch sides, or go independent
 
 ### Quest 2.4: The Heist (Level 10-11, 3-4 sessions)
 **Goal:** Steal artifact from vault, compete with other teams
-**Key NPCs:** Razor (CR 12), Brother Ash (CR 11), Faceless (CR 13)
+**Key NPCs:** Razor (CR 8), Brother Ash (CR 7), Faceless (CR 13)
 **Encounters:** Multiple heist teams, vault guardians (CR 10-12)
 **Rewards:** 5,000-10,000 gp, powerful artifact
 **Key Decision:** How to use the artifact (affects Act III)
@@ -13688,18 +13704,18 @@ Many "enemies" aren't evil:
 
 ### Act I - Crossroads
 - **Varak Ironfist** (Dwarf, CR 5) - Iron Guild leader, quest giver
-- **Lucky Finn** (Halfling, CR 1) - Informant, friendly guide
+- **Lucky Finn** (Human, CR 1) - Informant, friendly guide
 - **Kael Shadowbane** (Human, CR 4) - Guild enforcer, potential rival
-- **Catherine Thornwood** (Human, CR 7) - Crime boss, morally grey ally
-- **Elara** (Half-elf, CR 5) - Prophet, catalyst for Act I finale
+- **Elara "Red Wolf" Thornwood** (Human, CR 7) - Crime boss, morally grey ally
+- **Elara** (Human, CR 4) - Prophet, catalyst for Act I finale
 - **Marcus Blackwood** (Human, CR 3) - Refugee leader, moral choice
 
 ### Act II - Faction Leaders
-- **Commander Helena Dawnblade** (Human, CR 12) - Thaldros military, lawful
-- **Envoy Marcus Valen** (Human, CR 10) - Aethoria politician, pragmatic
+- **Commander Helena Dawnblade** (Human, CR 10) - Thaldros military, lawful
+- **Envoy Marcus Valen** (Human, CR 6) - Aethoria politician, pragmatic
 - **Corvus Blackwood** (Human, CR 15) - Mysterious third option, secretly evil
-- **Elara Corvus** (Half-elf, CR 14) - Corvus's lieutenant, conflicted
-- **Razor** (Tiefling, CR 12) - Master thief, heist rival
+- **Elara Corvus** (Human, CR 4; CR 12 as The Prophet) - Corvus's daughter, conflicted
+- **Razor** (Tiefling, CR 8) - Master thief, heist rival
 
 ### Act III - Final Conflict
 - **Corvus Blackwood - True Form** (CR 18-19) - Main antagonist, necromancer
@@ -13775,10 +13791,10 @@ Many "enemies" aren't evil:
 - **Allies:** Urban merchants, scholars
 
 ### Thornwood Syndicate
-- **Leader:** Corvus Blackwood (secretly) / Catherine Thornwood (publicly)
-- **Values:** Profit, independence, pragmatism
-- **Conflicts with:** Law enforcement, both kingdoms
-- **Allies:** Criminal networks, desperate refugees
+- **Leader:** Elara Thornwood / "Red Wolf"
+- **Values:** Justice for the dispossessed, independence, reclaiming stolen lands
+- **Conflicts with:** Merchant Consortium, corrupt nobility, law enforcement
+- **Allies:** Criminal networks, desperate refugees, those wronged by the powerful
 
 ### Iron Guild
 - **Leader:** Varak Ironfist
@@ -14045,16 +14061,16 @@ Many "enemies" aren't evil:
 **Special:** Sneak Attack (2d6), Cunning Action, Uncanny Dodge
 **Tactics:** Hit-and-run, targets weakest enemy, uses terrain
 
-### Catherine "Red Wolf" Thornwood (CR 7)
+### Elara "Red Wolf" Thornwood (CR 7)
 **HP:** 84 | **AC:** 16 | **Speed:** 40 ft
 **Attacks:** Longsword +8 (1d8+4), Longbow +7 (1d8+3)
 **Special:** Extra Attack, Action Surge, Second Wind, Pack Tactics
 **Tactics:** Aggressive fighter, leads from front, inspires followers
 
-### Commander Helena Dawnblade (CR 12)
-**HP:** 143 | **AC:** 20 | **Speed:** 30 ft
-**Attacks:** Longsword +11 (1d8+6 +2d8 radiant), Lance +11 (1d12+6)
-**Special:** Extra Attack (2), Divine Smite, Aura of Protection, Lay on Hands
+### Commander Helena Dawnblade (CR 10)
+**HP:** 143 | **AC:** 18 | **Speed:** 30 ft
+**Attacks:** Longsword +2 +10 (1d8+7 +1d8 radiant), Divine Smite (+2d8 to +5d8 radiant)
+**Special:** Extra Attack (2), Aura of Protection (+3 saves), Lay on Hands (50 HP)
 **Tactics:** Mounted combat preferred, protects allies, smites high-value targets
 
 ### Corvus Blackwood (CR 15-19)
@@ -14062,6 +14078,107 @@ Many "enemies" aren't evil:
 **Attacks:** Necrotic Touch +12 (4d8+5 necrotic), Staff +12 (1d8+5)
 **Special:** Legendary Actions, Lair Actions, Necromancy (9th level), Undead Army
 **Tactics:** Summons minions, controls battlefield, uses legendary actions for positioning
+
+### Arcanus the Undying (CR 17)
+*Medium Undead, Neutral Evil*
+
+**HP:** 199 (22d8 + 100) | **AC:** 18 (natural armor + *robe of the archmagi*) | **Speed:** 30 ft
+**Saves:** Con +12, Int +14, Wis +10
+**Skills:** Arcana +21, History +14, Insight +10, Perception +10
+**Damage Resistances:** Cold, Lightning, Necrotic
+**Damage Immunities:** Poison; Bludgeoning, Piercing, Slashing from nonmagical attacks
+**Condition Immunities:** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+**Senses:** Truesight 120 ft., Passive Perception 20
+**Languages:** Common, Abyssal, Draconic, Elvish, Infernal, Primordial
+**Challenge:** 17 (18,000 XP)
+
+**TRAITS:**
+***Legendary Resistance (3/Day).*** If Arcanus fails a saving throw, he can choose to succeed instead.
+
+***Rejuvenation.*** If destroyed, Arcanus's soul reforms at his phylactery in 1d10 days. The phylactery is hidden in a pocket dimension accessible only through specific ritual.
+
+***Turn Resistance.*** Advantage on saves against Turn Undead.
+
+***Master of the Dark Arts.*** Arcanus has advantage on saving throws against spells and magical effects.
+
+***Spellcasting.*** Arcanus is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 22, +14 to hit with spell attacks).
+- **Cantrips (at will):** *chill touch*, *mage hand*, *prestidigitation*, *ray of frost*
+- **1st level (4 slots):** *detect magic*, *magic missile*, *shield*, *thunderwave*
+- **2nd level (3 slots):** *darkness*, *detect thoughts*, *invisibility*, *mirror image*
+- **3rd level (3 slots):** *animate dead*, *counterspell*, *dispel magic*, *fireball*
+- **4th level (3 slots):** *blight*, *dimension door*, *phantasmal killer*
+- **5th level (3 slots):** *cloudkill*, *dominate person*, *scrying*
+- **6th level (1 slot):** *circle of death*, *create undead*, *disintegrate*
+- **7th level (1 slot):** *finger of death*, *forcecage*, *plane shift*
+- **8th level (1 slot):** *dominate monster*, *power word stun*
+- **9th level (1 slot):** *power word kill*, *time stop*
+
+**ACTIONS:**
+***Paralyzing Touch.*** Melee Spell Attack: +14 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) cold damage. Target must succeed DC 20 Constitution save or be paralyzed for 1 minute. Target can repeat save at end of each turn, ending effect on success.
+
+***Staff of the Void.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage plus 14 (4d6) necrotic damage.
+
+**LEGENDARY ACTIONS (3/round):**
+- **Cantrip.** Arcanus casts a cantrip.
+- **Paralyzing Touch (Costs 2).** Arcanus uses Paralyzing Touch.
+- **Frightening Gaze (Costs 2).** One creature within 10 feet must succeed DC 20 Wisdom save or be frightened for 1 minute. Repeat save each turn.
+- **Disrupt Life (Costs 3).** Each non-undead creature within 20 feet must make DC 20 Constitution save, taking 21 (6d6) necrotic damage on failure, half on success.
+
+**LAIR ACTIONS (Initiative 20):**
+When fighting in his sanctum, Arcanus can use lair actions:
+- Summon 2d4 Shadows from nearby darkness
+- One creature must succeed DC 18 Wisdom save or be *banished* to a demiplane until initiative 20 next round
+- Necrotic energy fills a 20-foot radius; living creatures take 10 (3d6) necrotic damage, undead heal that amount
+
+**Background:** Arcanus was once Magistar Corvellian, Court Wizard to the ancient Ashford dynasty three centuries ago. His experiments into immortality succeeded—at the cost of everything else. He's manipulated kingdoms, started wars, and cultivated promising necromancers for generations. Corvus Blackwood is merely his latest protégé—and potential replacement vessel.
+
+**Tactics:** Opens with *time stop* to buff and position. Uses *forcecage* to isolate threats. Maintains undead army as meat shields. Uses legendary actions to control action economy. Will *plane shift* to escape rather than risk true destruction.
+
+**Secret:** His phylactery requires souls to maintain—he needs Corvus to deliver sacrifices. If Corvus learned he was meant to become Arcanus's new body, the alliance would shatter.
+
+**Quote:** *"Three hundred years, child. I've manipulated a dozen 'chosen ones' like you. You're useful. Don't mistake that for valued."*
+
+### Envoy Marcus Valen (CR 6)
+*Medium Humanoid (Human), Neutral Good*
+
+**HP:** 78 (12d8 + 24) | **AC:** 15 (*bracers of defense*, *ring of protection*) | **Speed:** 30 ft
+**Saves:** Int +7, Wis +5, Cha +6
+**Skills:** Arcana +7, History +7, Insight +8, Persuasion +9, Deception +6
+**Senses:** Passive Perception 12
+**Languages:** Common, Elvish, Dwarvish, Draconic, Celestial
+**Challenge:** 6 (2,300 XP)
+
+**TRAITS:**
+***Diplomatic Immunity.*** Marcus carries credentials from the Aetheran Republic. Attacking him is an act of war. Intelligent enemies know this.
+
+***Silver Tongue.*** Advantage on Charisma (Persuasion) checks. Can cast *charm person* at will (DC 14).
+
+***Contingency Prepared.*** The first time Marcus drops to 0 HP, *dimension door* automatically triggers, teleporting him 500 feet in a random safe direction. (1/day)
+
+***Spellcasting.*** Marcus is a 9th-level wizard (Enchantment). His spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks).
+- **Cantrips (at will):** *friends*, *message*, *minor illusion*, *prestidigitation*
+- **1st level (4 slots):** *charm person*, *comprehend languages*, *disguise self*, *shield*
+- **2nd level (3 slots):** *detect thoughts*, *hold person*, *suggestion*
+- **3rd level (3 slots):** *counterspell*, *hypnotic pattern*, *sending*
+- **4th level (3 slots):** *charm monster*, *dimension door*, *greater invisibility*
+- **5th level (1 slot):** *dominate person*, *modify memory*
+
+**ACTIONS:**
+***Dagger +1.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
+
+***Hypnotic Rebuke (Recharge 5-6).*** When a creature within 30 feet attacks Marcus, he can force it to make a DC 15 Wisdom save. On failure, the attack misses and the creature is charmed until the end of its next turn.
+
+**Background:** Marcus Valen rose from a merchant family to become the Aetheran Republic's most skilled diplomat. He genuinely believes in democracy and freedom, but he's learned that idealism alone doesn't win wars. He'll use manipulation, blackmail, and enchantment magic to protect the Republic—hating himself for it afterward.
+
+**Personality:** Warm, genuine, exhausted. Speaks like someone who desperately wants to believe in people but has seen too much. Carries guilt for the compromises he's made.
+
+**Motivation:** Preserve Aetheran freedom and democracy at any cost. Prevent another tyrant from rising.
+
+**Secret:** He's willing to use deeply undemocratic means (mind control, assassination) to protect democracy. The cognitive dissonance is destroying him. He drinks too much.
+
+**Tactics:** Avoids direct combat entirely. Uses *greater invisibility* and *dimension door* to escape. If cornered, uses *dominate person* on the strongest enemy. Will surrender rather than die—too many secrets in his head.
+
+**Quote:** *"I believe in freedom. I believe in democracy. I believe in people. And sometimes protecting those beliefs requires... flexibility."*
 
 ---
 
@@ -14149,16 +14266,16 @@ Many "enemies" aren't evil:
 - Will Help: If paid or if he likes the party
 - Won't Help: If it endangers him personally
 
-**Catherine Thornwood**
-- Motivation: Protect family legacy, expand Thornwood power
-- Secret: Sister to Lyanna Thornwood (Act II faction leader)
-- Will Help: If aligned with her goals or useful to family
-- Won't Help: If party threatens Thornwood interests
+**Elara "Red Wolf" Thornwood**
+- Motivation: Reclaim family lands, protect her people
+- Secret: Knows the Merchant Consortium forged the debts that destroyed her family
+- Will Help: If aligned with her justice cause or fighting corruption
+- Won't Help: If party sides with the Consortium or threatens her followers
 
-**Elara**
-- Motivation: Prevent prophesied catastrophe
+**Elara Corvus (The Prophet)**
+- Motivation: Prevent prophesied catastrophe, stop her father's madness
 - Secret: Has genuine precognitive visions, touched by divine power
-- Will Help: Anyone trying to prevent war
+- Will Help: Anyone trying to prevent war or stop Corvus
 - Won't Help: Those who dismiss prophecy or serve dark powers
 
 ### Act II Faction Leaders

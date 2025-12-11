@@ -36,7 +36,7 @@ The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International
 
 #### Product Identity
 
-The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Ascended concept; all original magic items; the Worldrend event and timeline; all campaign content.
+The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Ascended concept; the Seven Bound Ancients concept; all original magic items; the Worldrend event and timeline; all campaign content.
 
 {{skipCounting}}
 \page
@@ -5156,7 +5156,7 @@ Revolutionaries are passionate believers in their cause, though they often strug
 
 ## Thornwood Syndicate Operative
 
-The Thornwood Syndicate is the largest criminal organization operating in Tirvandor's underworld, with roots in the Contested Lands and branches in every major city. You worked for them—perhaps willingly, perhaps not—and learned the ways of organized crime.
+The Thornwood Syndicate is the largest criminal organization operating in Tirvandor's underworld, with roots in the Contested Lands and branches in every major city. Founded by loyalists after House Thornwood's lands were stolen through judicial fraud, the Syndicate now serves as Lady Elara Thornwood's power base for reclaiming her birthright. You worked for them—perhaps willingly, perhaps not—and learned the ways of organized crime.
 
 **Skill Proficiencies:** Deception, Intimidation ::
 **Tool Proficiencies:** Thieves' tools, one type of gaming set ::
@@ -5434,7 +5434,7 @@ Temple wardens combine martial skill with religious devotion, serving as the shi
 
 ## Worldrend Historian
 
-The Worldrend—the cataclysm that separated Thaldros and Aethoria 800 years ago—remains one of history's greatest mysteries. You have dedicated your life to studying this catastrophic event, poring over ancient texts, interviewing elders, and seeking out the ruins and artifacts that might reveal what truly happened.
+The Worldrend—the cataclysm that separated Thaldros and Aethoria 1,247 years ago—remains one of history's greatest mysteries. You have dedicated your life to studying this catastrophic event, poring over ancient texts, interviewing elders, and seeking out the ruins and artifacts that might reveal what truly happened.
 
 **Skill Proficiencies:** History, Investigation  ::
 **Tool Proficiencies:** Cartographer's tools or Calligrapher's supplies ::
@@ -8396,7 +8396,7 @@ The lawless region between Thaldros and Aethoria where neither side holds contro
 
 ### The Sundering Sea
 
-The magical sea that separates the two continents, created by the catastrophic Worldrend event 800 years ago. Difficult to cross, full of magical anomalies.
+The magical sea that separates the two continents, created by the catastrophic Worldrend event 1,247 years ago. Difficult to cross, full of magical anomalies.
 \column
 ## History
 
@@ -8404,15 +8404,15 @@ The magical sea that separates the two continents, created by the catastrophic W
 
 Before the Worldrend, Tirvandor was one unified land. The details are lost to time, but legends speak of a golden age.
 
-### The Worldrend (Year 0)
+### The Worldrend (1,247 Years Ago)
 
 A catastrophic magical event tore the world in two, creating the Sundering Sea. The cause is debated - some blame hubris, others blame the gods. What's certain is that millions died and civilization collapsed.
 
-### The Age of Chains (700-400 Years Ago)
+### The Age of Chains (1,200-600 Years Ago)
 
 Following the Worldrend, warlords and tyrants rose to power. Might made right, and common folk suffered under brutal rule.
 
-### The Liberation (400 Years Ago)
+### The Liberation (~850 Years Ago)
 
 In Aethoria, a revolutionary movement overthrew the tyrants and established democratic governance. This event is celebrated as the founding of free Aethoria.
 
@@ -8474,7 +8474,7 @@ A massive mercenary organization operating in the Contested Lands. Politically n
 
 ### The Thornwood Syndicate
 
-Criminal network operating across both continents. Smuggling, information brokering, and "off the books" services. Led by Lyanna Thornwood (The Red Wolf).
+Criminal network operating across both continents. Smuggling, information brokering, and "off the books" services. Led by Elara Thornwood (The Red Wolf).
 
 ### The Silver Circle
 
@@ -8554,7 +8554,7 @@ Rare languages:
 
 As a resident of Tirvandor, your character would know:
 - Basic geography and city names
-- The Worldrend happened 1247 years ago
+- The Worldrend happened 1,247 years ago
 - Thaldros vs Aethoria political tension
 - Ley lines are sources of magic
 - The Seven Ascended are the gods
@@ -8870,7 +8870,7 @@ ___
 \page
 
 {{monster,frame,wide
-## Emerald Depths Treefrog
+## Emerald Deeps Treefrog
 *Tiny beast, unaligned*
 ___
 **Armor Class** :: 12
@@ -8892,7 +8892,7 @@ ___
 
 **Poison Skin.** :: A creature that touches the frog or hits it with a melee attack while within 5 feet of it takes 2 (1d4) poison damage.
 
-*Found in the Emerald Depths rainforest of Aethoria, these brilliantly colored frogs advertise their toxicity with vivid patterns. Hunters use their secretions to poison arrows.*
+*Found in the Emerald Deeps rainforest of Aethoria, these brilliantly colored frogs advertise their toxicity with vivid patterns. Hunters use their secretions to poison arrows.*
 }}
 
 
@@ -9172,7 +9172,7 @@ ___
 }}
 
 {{monster,frame,wide
-## Emerald Depths Constrictor
+## Emerald Deeps Constrictor
 *Large beast, unaligned*
 ___
 **Armor Class** :: 12
@@ -9197,7 +9197,7 @@ ___
 
 **Constrict.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 
-*These massive constrictors inhabit the canopy of the Emerald Depths rainforest. They drop from above onto unsuspecting prey and squeeze the life from them before swallowing them whole.*
+*These massive constrictors inhabit the canopy of the Emerald Deeps rainforest. They drop from above onto unsuspecting prey and squeeze the life from them before swallowing them whole.*
 }}
 
 {{wide
@@ -9210,7 +9210,7 @@ The following table summarizes all beasts in this appendix for quick reference d
 | Ley Moth | 0 | Tiny | Any (near ley lines) |
 | Sundering Crab | 0 | Tiny | Coastal |
 | Contested Hare | 1/8 | Small | Plains, grasslands |
-| Emerald Depths Treefrog | 1/8 | Tiny | Rainforest |
+| Emerald Deeps Treefrog | 1/8 | Tiny | Rainforest |
 | Border Hound | 1/4 | Medium | Any (Contested Lands) |
 | Ironhold Mountain Goat | 1/4 | Medium | Mountains |
 | Sundering Seal | 1/2 | Medium | Coastal, arctic |
@@ -9220,7 +9220,7 @@ The following table summarizes all beasts in this appendix for quick reference d
 | Ironwood Boar | 2 | Large | Forest, plains |
 | Sundering Sea Serpent (Juv.) | 2 | Large | Ocean, coast |
 | Goldreach Warhorse | 3 | Large | Any (domestic) |
-| Emerald Depths Constrictor | 3 | Large | Rainforest |
+| Emerald Deeps Constrictor | 3 | Large | Rainforest |
 
 }}
 
@@ -9251,7 +9251,7 @@ Border Hound, Contested Hare, Contested Plains Raptor, Ironwood Boar, Thornwood 
 Ironhold Mountain Goat, Goldreach Warhorse, Border Hound
 
 **Aethoria (East):**
-Emerald Depths Treefrog, Emerald Depths Constrictor, Aethorian River Otter, Thornwood Stalker
+Emerald Deeps Treefrog, Emerald Deeps Constrictor, Aethorian River Otter, Thornwood Stalker
 
 **The Sundering Sea:**
 Sundering Crab, Sundering Seal, Sundering Sea Serpent

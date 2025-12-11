@@ -569,7 +569,7 @@ Lots of frontier refugee work
 
 ### THE IRON GUILD
 Your Employer:
-Founded 50 years ago by veteran soldiers tired of war, the Iron Guild is the most respected mercenary organization in Tirvandor.
+Officially founded in 1197 CR by veteran soldiers tired of war, the Iron Guild evolved from loose mercenary alliances that began forming around 1100 CR during the escalating conflicts between Thaldros and Aethoria. Over nearly a century, these independent companies gradually organized into professional guilds, culminating in the formal establishment of the Iron Guild as the premier mercenary organization in Tirvandor.
 Guild Structure:
 Guildmaster: Oversees all operations
 Contract Brokers: Match mercenaries with clients

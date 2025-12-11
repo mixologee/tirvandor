@@ -36,7 +36,7 @@ The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International
 
 #### Product Identity
 
-The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Primordials concept; all original magic items; the Worldrend event and timeline; all campaign content.
+The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Ascended concept; the Seven Bound Ancients concept; all original magic items; the Worldrend event and timeline; all campaign content.
 {{/insideCover}}
 
 {{skipCounting}}
@@ -338,7 +338,7 @@ The Silverwood is an ancient forest of silver birch and oak trees, where dappled
 **Resources:** Timber (especially silver birch), wild herbs, mushrooms, venison
 
 **Major Settlements:**
-- **Silverpine:** A prosperous city built among ancient silver birch groves. Known for its University of Arcane Studies, artisan guilds, and as a center of trade (pop. ~32,000)
+- **Silverpine:** A prosperous city built among ancient silver birch groves. Known for its Magical Academy, artisan guilds, and as a center of trade (pop. ~32,000)
 - **Oakenheart:** Forest town; woodworking and druidic presence (pop. ~3,200)
 - **Willowbrook:** Riverside town; waterwheel mills; paper production (pop. ~2,600)
 - **Westmarch:** Frontier outpost; protects western settlements (pop. ~1,600)
@@ -347,7 +347,7 @@ The Silverwood is an ancient forest of silver birch and oak trees, where dappled
 **Minor Settlements:** Greenleaf, Mapleshire, Birchwood, Fernhaven, Pinegrove, Elmwood, Deepwood, Wildrun, Westreach (villages) and Pinerest (hamlet)
 
 **Notable Locations:**
-- Silverpine University - Famous magical and mundane learning center
+- Silverpine Magical Academy - Famous magical and mundane learning center
 - The Old Oak Circle - Ancient druid site with stone circle
 \
 #### The Heartlands (Central Plains)
@@ -402,7 +402,7 @@ The southern reaches of Thaldros transform into a vast desert—the Sundaran Exp
 **Resources:** Exotic spices, rare herbs, ancient artifacts, desert glass
 
 **Major Settlements:**
-- **Sundara:** The jewel of the desert, built around the Great Oasis. A center of trade in exotic goods (pop. ~15,000)
+- **Sundara:** The jewel of the desert, built around the Great Oasis. A center of trade in exotic goods (pop. ~18,000)
 - **Sandstone:** Desert town built from local sandstone; caravan stop (pop. ~2,600)
 - **Oasis Rest:** Vital oasis along trade route (pop. ~2,100)
 - **Southwatch:** Border fortress; desert trade checkpoint (pop. ~1,700)
@@ -914,7 +914,7 @@ Total estimated population of Tirvandor: 2-3 million sentient beings across all 
 Despite centuries of civilization, large portions of Tirvandor remain unexplored or poorly mapped:
 
 - The highest peaks of the Ironspine Mountains
-- The deepest parts of the Emerald Depths
+- The deepest parts of the Emerald Deeps
 - The heart of the Wildwood
 - The ocean floor of the Sundering Sea
 - Various small islands and uncharted waters
@@ -970,14 +970,14 @@ The Crown periodically attempts to bring these regions under control, while fron
 
 ## The Calendar
 
-Tirvandor uses the **Common Reckoning (CR)** calendar, established after the Worldrend. Years before this event are marked as **Before Worldrend (BS)**.
+Tirvandor uses the **Common Reckoning (CR)** calendar, established after the Worldrend. Years before this event are marked as **Before Worldrend (BW)**.
 
 - **Current Year:** 1247 CR
 - **Seasons:** Four distinct seasons in most regions
 - **Months:** 12 months of 30 days each, with 5-6 festival days between seasons
 - **Week:** 7-day cycles
 
-## Age of Myth (??-15,000 BS)
+## Age of Myth (??-15,000 BW)
 
 The earliest age, shrouded in legend and oral tradition. Few reliable records exist, and most knowledge comes from ancient ruins, prophetic visions, and the fragmented memories of immortal beings.
 {{padding-top:400px}}
@@ -992,7 +992,7 @@ According to myth, Tirvandor was once a single landmass, a perfect world where t
 - Giants were created to tend the world-trees
 - The first mortal races emerged from elemental unions
 
-### The Dragon Hegemony (~12,000-8,000 BS)
+### The Dragon Hegemony (~12,000-8,000 BW)
 
 The great dragons rose to dominance, establishing vast territories and amassing knowledge. This was the age of dragon-lords, when mortals were few and scattered. The dragons created the first written languages, established the foundations of arcane magic, and built monuments that would endure for millennia.
 
@@ -1006,7 +1006,7 @@ The great dragons rose to dominance, establishing vast territories and amassing 
 - The Dragon Libraries: Repositories of ancient knowledge, some still undiscovered
 - The First Dragon War: Chromatic and metallic dragons fought over philosophical differences, scarring the landscape
 
-### The Giant Kingdoms (~8,000-6,000 BS)
+### The Giant Kingdoms (~8,000-6,000 BW)
 
 As dragons retreated into seclusion, the giant-kin rose to prominence. They built massive cities of stone, established trade networks, and developed their own sophisticated culture. Many ruins in Tirvandor's mountains and deep forests are remnants of this era.
 
@@ -1018,13 +1018,13 @@ As dragons retreated into seclusion, the giant-kin rose to prominence. They buil
 
 ---
 
-## Age of Dawn (6,000-3,000 BS)
+## Age of Dawn (6,000-3,000 BW)
 
 The rise of the mortal races. Elves, dwarves, and the first humans emerged as significant civilizations, learning from the ruins of their predecessors and developing their own cultures.
 
-### The First Elven Kingdom (~6,000-4,500 BS)
+### The First Elven Kingdom (~6,000-4,500 BW)
 
-The elves of Aethoria discovered the ley line nexuses and learned to work with the natural magic of the world-trees. They established the first true elven kingdom, **Lothlindor**, which encompassed most of what is now the Emerald Depths.
+The elves of Aethoria discovered the ley line nexuses and learned to work with the natural magic of the world-trees. They established the first true elven kingdom, **Lothlindor**, which encompassed most of what is now the Emerald Deeps.
 
 **Major Developments:** ::
 - Elven high magic reaches its first flowering
@@ -1032,7 +1032,7 @@ The elves of Aethoria discovered the ley line nexuses and learned to work with t
 - First contact with the Feywild
 - Development of elven crafts (woodworking, poetry, star-reading)
 
-### The Dwarven Delving (~5,500-4,000 BS)
+### The Dwarven Delving (~5,500-4,000 BW)
 
 The dwarves discovered the Ironspine Mountains and began their great delving into the stone. They uncovered veins of magical ore and ancient giant ruins, claiming both as their own and establishing the underground kingdoms.
 
@@ -1042,7 +1042,7 @@ The dwarves discovered the Ironspine Mountains and began their great delving int
 - Development of runic forging techniques
 - First conflicts with underground horrors (aberrations, mind flayers)
 
-### The Human Emergence (~5,000-3,500 BS)
+### The Human Emergence (~5,000-3,500 BW)
 
 Humans, shorter-lived but adaptable, spread rapidly across both continents. They learned from elves and dwarves but developed their own distinct cultures and approaches to magic.
 
@@ -1052,7 +1052,7 @@ Humans, shorter-lived but adaptable, spread rapidly across both continents. They
 - First human kingdoms in central Thaldros
 - Cultural exchange between races
 
-### The Age of Accord (~3,500-3,000 BS)
+### The Age of Accord (~3,500-3,000 BW)
 
 A brief period of relative peace and cooperation between the major races. Trade flourished, knowledge was shared, and great works were accomplished through cooperation.
 
@@ -1064,11 +1064,11 @@ A brief period of relative peace and cooperation between the major races. Trade 
 
 ---
 
-## Age of Strife (3,000-1,000 BS)
+## Age of Strife (3,000-1,000 BW)
 
 The longest and darkest age in recorded history. Wars, plagues, and supernatural catastrophes plagued Tirvandor, culminating in the Worldrend itself.
 
-### The First Planar Incursions (~3,000-2,800 BS)
+### The First Planar Incursions (~3,000-2,800 BW)
 
 Portals to other planes began opening spontaneously across Tirvandor. Demons, devils, and aberrations spilled into the world. The causes remain debated—some blame reckless magical experimentation, others believe the planes themselves were shifting.
 {{pageNumber,auto}}
@@ -1081,7 +1081,7 @@ Portals to other planes began opening spontaneously across Tirvandor. Demons, de
 - Mass casualties across all civilizations
 - Permanent planar scars left in some regions
 
-### The Wizard Wars (~2,700-2,400 BS)
+### The Wizard Wars (~2,700-2,400 BW)
 
 In the aftermath of the planar incursions, mage-lords vied for power, each seeking to fill the void left by weakened kingdoms. They raised armies, twisted landscapes with wild magic, and created weapons of terrible power.
 
@@ -1091,7 +1091,7 @@ In the aftermath of the planar incursions, mage-lords vied for power, each seeki
 - The Spellplague: A magical disease that killed thousands of arcane practitioners
 - The First Warforged: Created as soldiers, they would later seek independence
 
-### The Divine Silence (~2,400-2,200 BS)
+### The Divine Silence (~2,400-2,200 BW)
 
 The gods stopped answering prayers. Divine magic waned, and priests lost their powers. Theories abound about the cause—some say the gods were fighting their own war, others that mortals had displeased them, still others that something was blocking the divine connection.
 
@@ -1101,7 +1101,7 @@ The gods stopped answering prayers. Divine magic waned, and priests lost their p
 - Social upheaval and loss of faith
 - When the gods returned, their messages had changed
 
-### The Age of Tyrants (~2,200-1,500 BS)
+### The Age of Tyrants (~2,200-1,500 BW)
 
 With divine magic weakened and societies fractured, powerful individuals seized control. Lich-kings, vampire lords, and mind flayer colonies established dominions over large regions.
 
@@ -1117,7 +1117,7 @@ With divine magic weakened and societies fractured, powerful individuals seized 
 - Secret orders preserved knowledge and trained warriors
 - Slow, costly reclamation of freedom
 
-### The Great Dying (~1,500-1,300 BS)
+### The Great Dying (~1,500-1,300 BW)
 
 A plague unlike any before swept across both continents. Neither magical nor entirely natural, it killed indiscriminately and left vast regions depopulated. This weakened the remaining tyrants but also civilization itself.
 
@@ -1128,7 +1128,7 @@ A plague unlike any before swept across both continents. Neither magical nor ent
 - Breakdown of trade networks
 - Forests reclaimed agricultural land
 
-### Precursors to the Worldrend (~1,200-1,000 BS)
+### Precursors to the Worldrend (~1,200-1,000 BW)
 
 As civilizations slowly recovered, tensions grew between those who wanted to restore the old ways and those who sought to forge something new. Philosophical and political differences escalated into conflict.
 
@@ -1226,6 +1226,34 @@ Scholars and mages have debated for over a thousand years what caused the Worldr
 **The Dragon Prophecy Theory:** That ancient dragons foresaw the Worldrend and actually facilitated it to preserve the world from a greater threat. ::
 The truth may involve elements of multiple theories, or none at all.
 
+### The World-Splitter Fragments
+
+The most substantiated theory involves an artifact of immense power: **The World-Splitter**. According to ancient texts recovered from pre-Worldrend ruins, this Primordial-crafted weapon was used in the final days before the cataclysm—whether intentionally or through catastrophic misuse remains debated.
+
+{{note
+**Scholarly Debate: The World-Splitter's Origin**
+
+Two primary theories exist regarding the artifact's creation:
+
+**The Primordial Theory** (academic consensus): The World-Splitter was forged by Primordials—elemental beings predating the gods—as a weapon to reshape reality. When the gods intervened, the resulting conflict shattered both the weapon and the world.
+
+**The Divine Fragments Theory** (religious/cult interpretation): The Components are fragments of divine power left behind when gods battled during the "Godsfall." Each Component contains a piece of actual godhood.
+
+Most scholars favor the Primordial theory based on textual evidence, but the Divine Fragments theory persists among certain religious sects and apocalyptic cults. The truth may never be known with certainty.
+}}
+
+The artifact survived the Worldrend but was shattered into **five components**, each retaining a fraction of its reality-altering power:
+
+- **The Shadow Shard (First Component):** Grants dominion over shadow and darkness. Entrusted to House Blackwood of Thaldros.
+- **The Flame Heart (Second Component):** Grants dominion over fire and destruction. Entrusted to House Goldshore of Thaldros.
+- **The Void Fragment (Third Component):** Grants dominion over space and reality. Entrusted to House Deepwater—lost beneath the Sundering Sea when that house fell.
+- **The Stone Crown (Fourth Component):** Grants dominion over earth and stability. Held by the Crown of Thaldros as a royal heirloom.
+- **The Storm Eye (Fifth Component):** Grants dominion over air and storms. Entrusted to the Aethorian Harmony for safekeeping.
+
+Each component alone grants significant but limited power. United, they could theoretically trigger another Worldrend. The guardian houses and institutions swore sacred oaths to keep the components separated forever—oaths that have held for over twelve centuries.
+
+*The location and status of several components remains uncertain in the present day.*
+
 {{pageNumber,auto}}
 {{footnote Timeline of Tirvandor}}
 \page
@@ -1274,7 +1302,7 @@ The first four centuries after the Worldrend were marked by survival, adaptation
 
 **Major Cities Refounded:** ::
 - **110 CR: Proto-Kaer Thandros** established at ancient dwarven fortress site
-- **125 CR: Proto-Aethermere** founded in Emerald Depths
+- **125 CR: Proto-Aethermere** founded in Emerald Deeps
 
 {{pageNumber,auto}}
 {{footnote Timeline of Tirvandor}}
@@ -1339,8 +1367,9 @@ Civilizations matured into recognizable modern forms. Kingdoms, city-states, and
 ### The Western Consolidation (400-600 CR)
 
 **Rise of House Blackwood (587-600 CR):** ::
-- **587 CR: Raven's Keep founded** by Lord Aldric Blackwood I
+- **587 CR: Raven's Keep founded** by Lord Aldric Blackwood I, formalizing the ancient Blackwood bloodline as a noble house
 - **587 CR: House Blackwood establishes power** in Silverwood region
+- *The Blackwood bloodline traces to 750 BW when Lord Garrett Blackwood first established the family's dark legacy through a pact with a shadow entity*
 - Built as fortress-city incorporating ancient fey architecture
 - Grew to 8,000 population, center of art and culture
 
@@ -1378,7 +1407,7 @@ Civilizations matured into recognizable modern forms. Kingdoms, city-states, and
 - **695 CR: Three merchant families plan** founding of Crossvale
 - Heartwood, Grainson, and Millford families identify strategic location
 - Where five major trade routes intersect, three rivers meet
-- **698 CR: King Aldric Thandris expands realm** to the Heartlands
+- **698 CR: King Aldric II Thandris expands realm** to the Heartlands
 - **698 CR: Crossvale officially founded** as planned city
 - Grid street pattern, designed specifically for commerce
 
@@ -1568,7 +1597,7 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1200 CR: Kaer Thandros rebuilding complete**
 - **1200 CR: Royal line secured** through careful marriages
 - **1200 CR: Unprecedented number of individuals** become adventurers
-- **1201 CR: Dragon Infernalix mysteriously vanishes** (killed? sleeping?)
+- **1201 CR: Dragon Infernalix withdraws** after secret bargain with King Thandris V; returns to ancient lair beneath Kaer Thandros to sleep
 - **1201 CR: Survivors begin returning** to Ashfall Barrens
 - **1210 CR: House Ironmark recovery complete**
 
@@ -1580,6 +1609,10 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1189 CR: Crystalborn gains ability** to dive deeper, communicate underwater better
 - **1189 CR: Goldshore accuses Crystalborn** of "cheating" with magic
 - **1203 CR: The Darkwood Incident** - entire forest in Aethoria corrupted by shadow magic
+- **1204 CR: Second Blackwood Purge** - Crown discovers hidden Blackwood survivors living under assumed identities in remote Silverwood
+- **1204 CR: King Aldric III orders elimination** of remaining Blackwood bloodline (Crown intelligence was incomplete—some Blackwoods escaped through magical concealment or distant family branches)
+- **1204 CR: Young Corvus Blackwood (age 12) escapes** the purge, only known survivor; his younger sister's existence was erased through memory suppression magic
+- **1204 CR: "The Shadow Hunt" begins** - bounty placed on any remaining Blackwood descendants
 - **1220 CR: Sundaran Excavations begin** in desert
 - **1225 CR: Major archaeological discoveries** in Sundaran desert uncovering pre-Worldrend artifacts
 
@@ -1886,7 +1919,7 @@ Sylvara embodies the natural world in all its beauty and brutality. She represen
 
 **Worship:** Sacred groves, stone circles, open-air ceremonies, seasonal festivals, offerings returned to the wild ::
 
-**Following:** Dominant in Aethoria, especially the Emerald Depths and Wildgrove. Druids, rangers, farmers, and those who live close to the land. ::
+**Following:** Dominant in Aethoria, especially the Emerald Deeps and Wildgrove. Druids, rangers, farmers, and those who live close to the land. ::
 
 \column
 
@@ -1964,10 +1997,6 @@ These deities are significant in specific regions or to particular cultures, but
 
 These are not gods in the traditional sense but elemental forces that predate the current pantheon. They are not worshipped through temples but through primal magic and druidic rites.
 
-
-## The Ancient Primordials
-
-These are not gods in the traditional sense but elemental forces that predate the current pantheon. They are not worshipped through temples but through primal magic and druidic rites.
 
 **Ignar, the First Flame** ::
 - Element: Fire
@@ -2067,7 +2096,7 @@ Many temples operate independently, focused on serving their community rather th
 
 ## The Divine Silence: Lasting Effects
 
-The period when the gods stopped answering prayers (2,400-2,200 BS) fundamentally changed divine-mortal relationships:
+The period when the gods stopped answering prayers (2,400-2,200 BW) fundamentally changed divine-mortal relationships:
 
 **Trust Issues:** Some mortals never fully trusted the gods again. When asked where they were, the gods provided no clear answer. ::
 **Rise of Arcane Magic:** When divine magic failed, arcane magic filled the void. The relationship was never the same. ::
@@ -2425,8 +2454,9 @@ Elite guild controlling production of magic items and high-quality mundane goods
 **Headquarters:** Unknown (rumored to be in multiple cities) ::
 **Membership:** Thieves, smugglers, information brokers ::
 **Influence:** Continental (operates in shadows) ::
+**Also Known As:** "The Syndicate" (common colloquial name) ::
 
-Not technically a single organization but a network of criminal groups that cooperate under certain rules. They maintain order in the underworld and sometimes provide services governments cannot or will not.
+Not technically a single organization but a network of criminal groups that cooperate under certain rules. They maintain order in the underworld and sometimes provide services governments cannot or will not. The formal name "Shadow Syndicate" is used in official documents and by law enforcement; most common folk simply call them "The Syndicate."
 
 **Structure:** ::
 - Cell-based organization for security
@@ -3390,6 +3420,8 @@ Should the continents reunite? And if so, who should rule?
 **Status:** Dominant (Royal House of Thaldros)  
 **Sigil:** Mountain crowned with iron circlet on black field
 
+> **Naming Convention:** Thandris monarchs are referred to by either their personal name or house name. Thus "King Aldric III" and "King Thandris III" refer to the same ruler—his full formal name being "King Aldric III Thandris." Historical documents and common speech may use either form interchangeably.
+
 ### History
 
 House Thandris claims descent from the western bloodline of the Pre-Worldrend High Kings. Whether this claim is legitimate remains one of the greatest controversies in Tirvandor's history.
@@ -3427,7 +3459,7 @@ The house consolidated power through:
 
 **Major Events:** ::
 - 612 CR: Thorin I Thandris claims kingship after Battle of Three Peaks
-- 698 CR: King Aldric Thandris expands realm to the Heartlands
+- 698 CR: King Aldric II Thandris expands realm to the Heartlands
 - 834 CR: Defended realm from massive orc invasion (The Red Winter)
 - 1089 CR: Civil war with House Blackwood over succession
 - 1156 CR: Dragon attack nearly destroys royal line; rebuilt stronger
@@ -3680,24 +3712,33 @@ Unlike most elven houses that shun human politics, Silverleaf pragmatically alli
 
 ### Current Status (1247 CR)
 
-**Ruler:** Lord Elenion Silverleaf (age 487, elf) ::
-- Ancient, wise, patient
-- Deeply troubled by forest health decline
-- Heir is half-elf daughter from marriage alliance
-- Knows family's pre-Worldrend history (one of few who does)
-- Conflicted about estranged eastern kin
+**Matriarch:** Lady Seraphine Silverleaf (age 1,394, wood elf) ::
+- Born before the Worldrend, remembers unified kingdoms
+- Current political leader of House Silverleaf since 1102 CR
+- Transformed Silverpine from small settlement to major city
+- Supports eventual reunification of the continents
+- Grooming son Arannis to inherit, worries he's too aggressive
 
-**Co-Ruler:** Lady Silvara Silverleaf (age 256, elf) ::
-- Elenion's wife, more militant than husband
-- Leads the Forest Guard
-- Distrusts humans despite political necessities
-- Angry at Starweaver "abandonment" of forest traditions
+**Military Leader:** Ranger-Lord Arannis Silverleaf (age 156, elf) ::
+- Seraphine's son, commands all House Silverleaf military forces
+- Leads the Forest Guard with fierce determination
+- More militant than his mother—prefers action over negotiation
+- Protective of the Silverwood to a fault
+- Rising political influence concerns traditionalists
 
-**Heir:** Lady Elara Silverleaf-Thandris (age 22, half-elf) ::
-- Daughter of Lord Elenion and Princess Elara Thandris (King's daughter)
-- Torn between elf and human heritage
-- Will eventually inherit both Silverwood and possibly throne
-- Curious about eastern cousins (forbidden topic)
+**Academic Leader:** Council Mistress Elara Silverleaf (age 342, high elf) ::
+- Former House Matriarch, now Rector of Silverpine University
+- Passed house duties to focus on academia
+- Most powerful wizard in western Tirvandor
+- Chairs the Silverpine Council (city government)
+- Maintains political connections across both continents
+
+**Ancient Advisor:** Matriarch Seraphina Silverleaf (age 2,000+, high elf) ::
+- Founder of House Silverleaf, among oldest living elves
+- Remembers the world before the Worldrend clearly
+- No longer leads directly but remains family conscience
+- Sought for counsel on decisions that will echo for centuries
+- Knows secrets of pre-Worldrend magic and history
 
 **Holdings:** ::
 - Silverpine (major city)
@@ -3878,10 +3919,16 @@ Founded by a half-elf merchant captain (descendant of Aldris the Younger) who ma
 **Ruler:** Lord Aldris III Goldshore (age 178, half-elf) ::
 - Brilliant merchant and ruthless negotiator
 - More interested in profit than politics (publicly)
-- Never married; succession unclear (multiple bastards)
+- Semi-retired patriarch; delegates daily operations to his son
 - **Obsessed with recovering Deepwater vaults**
 - Sees Crystalborn as thieves who stole family legacy
-- Never married; succession unclear (multiple bastards)
+
+**Heir & Acting Lord:** Lord Aldris IV Goldshore (age 45, human) ::
+- Son of Aldris III and his late human wife, Lady Mirella
+- Inherited his mother's human appearance despite half-elf father
+- Handles day-to-day operations of House Goldshore
+- More politically ambitious than his father
+- Runs the family's "grey market" operations personally
 
 **Holdings:** ::
 - Goldreach (major city)
@@ -4062,7 +4109,7 @@ House Emberthorn rose to power during the volcanic settlement period, mastering 
 
 **Aftermath:** ::
 - 1156-1200 CR: Dragon ruled region directly
-- 1201 CR: Dragon mysteriously vanished (killed? Sleeping?)
+- 1201 CR: Dragon withdrew to sleep beneath Kaer Thandros after secret bargain
 - Survivors began returning, trying to rebuild
 - Other houses moved into power vacuum
 - Emberthorn a shadow of former glory
@@ -4376,14 +4423,14 @@ The royal house of Aethoria rules differently than western kings:
 - 587 CR: First non-blood heir chosen by world-trees (controversial)
 - 1089-1092 CR: House Splittide rebellion (fey war)
 - 1205 CR: Rejected Thandris marriage proposal (succession implications)
-- 1247 CR: Current queen childless; chosen heir is half-elf (controversial)
+- 1247 CR: Current queen has no heirs since coronation; chosen heir is half-elf (controversial, bypasses her adult children)
 
 ### Current Status (1247 CR)
 
-**Ruler:** Queen Silviana Aethermere (age 543, elf) ::
+**Ruler:** High Queen Aelindra Aethermere (age 1,494, elf) ::
 - Powerful druid and statesperson
 - Beloved by forest, respected by nobles
-- Childless by choice (ritual prevents it)
+- No children since coronation (ritual prevents it); two adult children from before she took the throne
 - Chose her heir through world-tree ritual
 - Refuses to recognize Thandris royalty
 
@@ -4392,6 +4439,11 @@ The royal house of Aethoria rules differently than western kings:
 - Controversial choice (half-elf, not full elf, named after western prince!)
 - Brilliant but young and untested
 - Some question if forest really chose him or if queen manipulated ritual
+
+**Royal Children (Pre-Coronation):** ::
+- Archmage Eldrin Aethermere (age 158, elf) - eldest, royal mage and advisor
+- Princess Elanil Aethermere (age 142, elf) - diplomat and ambassador
+- *Neither child is heir; the Chosen Heir system supersedes blood succession*
 
 **Holdings:** ::
 - Aethermere (capital, population ~38,000)
@@ -5142,7 +5194,7 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 - **Population:** ~32,000
 - **Government:** Merchant council
 - **Primary Industries:** Education, artisan crafts, trade hub
-- **Notable Features:** University of Arcane Studies; Artisan Quarter famous for silver jewelry; ancient silver birch groves within city limits
+- **Notable Features:** Magical Academy; Artisan Quarter famous for silver jewelry; ancient silver birch groves within city limits
 - **Faction Presence:** Scholars' Collective, various guilds
 
 {{pageNumber,auto}}
@@ -5531,7 +5583,7 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 ### Far Northwest
 **Fogvale** (Pop: ~280) - Permanent fog; fog navigation experts ::
 **Northmist** (Pop: ~310) - Northern mist forests; mushroom trade ::
-**Silverleaf** (Pop: ~290) - Silver-leafed trees; rare wood ::
+**Silverleaf** (Pop: ~290) - Silverleaf trees; rare wood ::
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement Registry}}
@@ -5773,8 +5825,9 @@ Most devastating event in city's history:
 - Destroyed outer districts
 - Killed hundreds, including royal family members
 - City nearly fell
-- Mysterious end: dragon suddenly departed
-- Rumors of deal/treaty (never confirmed)
+- King Thandris V made secret bargain with dragon
+- Infernalix withdrew to sleep in ancient lair beneath the city itself
+- Few know the dragon slumbers directly below the Royal Palace
 - Rebuilding took decades
 
 **The Rebuilding (1160-1200 CR):** ::
@@ -5831,6 +5884,7 @@ Most devastating event in city's history:
 **Current Status:** Haunted ruins, officially forbidden
 
 ### Foundation (587 CR)
+*While the Blackwood bloodline traces to Lord Garrett Blackwood (750 BW), the formal noble house was established when Raven's Keep was built in 587 CR.*
 
 **The Blackwood Stronghold:** ::
 - Built by Lord Aldric Blackwood I (founder)
@@ -6000,7 +6054,7 @@ Silverpine wasn't founded—it grew. The elven settlement emerged organically fr
 **Modern Era (1200s):** ::
 - Increasing human encroachment
 - Forest health declining
-- Half-elf heir controversial
+- Succession concerns (Arannis seen as too militant by some)
 - Growing tension over logging rights
 - Still neutral but strained
 
@@ -6011,9 +6065,9 @@ Silverpine wasn't founded—it grew. The elven settlement emerged organically fr
 ### Current Status (1247 CR)
 
 **Rulers:** ::
-- Lord Elenion Silverleaf (age 487, ancient elf)
-- Lady Silvara Silverleaf (age 256, his wife, militant)
-- Heir: Lady Elara Silverleaf-Thandris (age 22, half-elf, controversial)
+- Lady Seraphine Silverleaf (age 1,394, wood elf, Matriarch)
+- Ranger-Lord Arannis Silverleaf (age 156, elf, Military Leader)
+- Council Mistress Elara Silverleaf (age 342, high elf, University Rector)
 
 **City Structure:** ::
 - No traditional streets—elevated walkways between trees
@@ -6038,9 +6092,9 @@ Silverpine wasn't founded—it grew. The elven settlement emerged organically fr
 - Various fey (uncounted, come and go)
 
 **Government:** ::
-- Council of Elders (Elenion presides)
+- Council of Elders (Lady Seraphine presides)
 - Fey Court representation
-- Forest Guard (militant druids and rangers)
+- Forest Guard (militant druids and rangers, led by Arannis)
 - Trade Guild (handles human relations)
 
 ## Goldreach (Major City)
@@ -6130,16 +6184,21 @@ Goldreach has existed longer than House Goldshore has ruled it. The natural harb
 - Largest private fleet (18 ships)
 - Information network
 - Political influence
-- Succession crisis brewing (bastards)
+- Aldris III married late (human wife Lady Mirella, died 1230 CR)
 
 ### Current Status (1247 CR)
 
 **Ruler:** Lord Aldris III Goldshore (age 178, half-elf) ::
+- Semi-retired patriarch, still makes major decisions
 - Brilliant merchant, ruthless negotiator
-- Never married (multiple bastards)
 - Obsessed with Deepwater legacy
 - Planning major salvage operation
 - Sees Crystalborn as enemies
+
+**Acting Lord:** Aldris IV Goldshore (age 45, human) ::
+- Son and heir, handles daily operations
+- Human appearance (inherited from mother)
+- More hands-on with smuggling operations
 
 **City Structure:** ::
 - Built in tiers rising from harbor
@@ -6679,7 +6738,7 @@ Unlike western hereditary rule, Aethermere developed unique system:
 - Silvara (187-412 CR): First chosen, priestess
 - Theron (412-689 CR): Warrior-druid, defended from raiders
 - Elaria (689-1043 CR): Longest reign, expanded city
-- Silviana (1043-Present): Current queen, childless
+- Aelindra (1043-Present): Current queen, two children from before coronation, no heirs since ritual
 
 ### Growth and Development (0-1247 CR)
 
@@ -6714,10 +6773,11 @@ Same period as western Blackwood Rebellion:
 
 ### Current Status (1247 CR)
 
-**Ruler:** Queen Silviana Aethermere (age 543, elf) ::
+**Ruler:** High Queen Aelindra Aethermere (age 1,494, elf) ::
 - Powerful druid, statesperson
 - Chosen heir 204 years ago
-- Childless by choice (ritual)
+- Childless since coronation (ritual prevents it)
+- Has two adult children from before taking throne: Eldrin (158) and Elanil (142)
 - Beloved but aging
 - Chose controversial heir
 
@@ -7614,8 +7674,8 @@ Built by House Emberthorn around volcanic forges using natural lava heat for sup
 |------------|--------|-------|------------|--------|-------------|
 | **Kaer Thandros** | Ironspine | Thandris | 45,000 | Capital | Crown Forge, Royal Seat |
 | **Raven's Keep** | Silverwood | Blackwood (fallen) | 0 | Ruins | Lost vaults, haunted |
-| **Silverpine** | Silverwood | Silverleaf | 14,000 | Forest Capital | World-tree city |
-| **Goldreach** | Goldcoast | Goldshore | 16,000 | Maritime Hub | Banking, fleet |
+| **Silverpine** | Silverwood | Silverleaf | 32,000 | Forest Capital | World-tree city |
+| **Goldreach** | Goldcoast | Goldshore | 28,000 | Maritime Hub | Banking, fleet |
 | **Crossvale** | Heartlands | Heartwood | 18,000 | Trade Junction | Five roads meet |
 | **Sundara** | Sundaran | Ashborne | 18,000 | Desert Capital | Oasis city |
 | **Ashgate** | Ashfall | (contested) | 9,000 | Gateway | Volcanic trade |
@@ -7735,13 +7795,13 @@ The city glows at night with forge-light, creating an orange haze visible for mi
 - *Atmosphere:* Energetic, diverse, opportunistic. Deals are struck, gossip spreads, fortunes are made and lost. Less formal than upper tiers.
 
 **THE TEMPLE DISTRICT** (Fourth Tier) ::
-- *Description:* Temples to various gods arranged around a central plaza. Each maintains its own architectural style—stone for Moradin, gardens for nature gods, scholarly halls for knowledge deities.
+- *Description:* Temples to the Seven Ascended and regional powers arranged around a central plaza. Each maintains its own architectural style—stone for Gorath, gardens for Sylvara, scholarly halls for Moira.
 - *Key Locations:*
-  - **Temple of Moradin:** Largest temple, carved directly from mountain stone
+  - **Temple of Gorath the Forgemaster:** Largest temple, carved directly from mountain stone. Dominant dwarven faith.
   - **Shrine to the Forge Gods:** Where smiths pray before important work
-  - **Temple of Tyr:** Where justice is administered by clerics
-  - **Garden of Silvanus:** Surprisingly lush greenery maintained by druids
-  - **Hall of Knowledge:** Library and temple to gods of wisdom
+  - **Temple of Thandros:** Where justice is administered by clerics of the Lawbringer
+  - **Garden of Sylvara:** Surprisingly lush greenery maintained by druids of the Wild
+  - **Hall of Moira:** Library and temple to the Weaver, goddess of knowledge and fate
 - *Atmosphere:* Solemn, diverse, respectful. Different faiths coexist peacefully here.
 
 **THE OUTER CITY** (Lowest/Outermost Tier) ::
@@ -7782,7 +7842,7 @@ The city glows at night with forge-light, creating an orange haze visible for mi
 
 **Population:** ~32,000 (40% human, 35% elf, 15% half-elf, 10% other)  
 **Region:** The Silverwood  
-**Rulers:** Lord Elenion Silverleaf (487, elf) and Lady Silvara Silverleaf (256, elf)
+**Rulers:** Lady Seraphine Silverleaf (1,394, wood elf) and Ranger-Lord Arannis Silverleaf (156, elf)
 
 #### Visual Overview
 
@@ -7850,9 +7910,10 @@ At the city's heart stands the **Heart Tree**, a world-tree so massive that twen
 
 #### Key NPCs
 
-- **Lord Elenion Silverleaf** (487, elf): Ancient, wise, troubled by forest decline, secretly corresponds with Starweaver kin
-- **Lady Silvara Silverleaf** (256, elf): Leads Forest Guard, distrusts humans, angry at Starweaver
-- **Lady Elara Silverleaf-Thandris** (22, half-elf): Heir, torn between cultures, curious about eastern cousins
+- **Lady Seraphine Silverleaf** (1,394, wood elf): Ancient Matriarch, born before Worldrend, remembers unified kingdoms, supports reunification
+- **Ranger-Lord Arannis Silverleaf** (156, elf): Seraphine's son, commands Forest Guard, more militant than mother
+- **Council Mistress Elara Silverleaf** (342, high elf): University Rector, former Matriarch, most powerful wizard in western Tirvandor
+- **Matriarch Seraphina Silverleaf** (2,000+, high elf): Ancient founder, rarely seen, sought for counsel on momentous decisions
 - **Master Trader Gareth Woodwise** (54, human): Manages human trade relations, respected by both sides
 - **Archdruid Thornbark** (unknown age, possibly treant): Rarely seen, communicates through proxies
 
@@ -7879,7 +7940,7 @@ At the city's heart stands the **Heart Tree**, a world-tree so massive that twen
 
 **Population:** ~28,000 (50% human, 18% half-elf, 15% dwarf, 12% halfling, 5% other)  
 **Region:** The Goldcoast  
-**Ruler:** Lord Aldris III Goldshore (178, half-elf)
+**Ruler:** Lord Aldris III Goldshore (178, half-elf), patriarch; Lord Aldris IV Goldshore (45, human), acting lord
 
 #### Visual Overview
 
@@ -8192,6 +8253,7 @@ There's an opportunistic energy—this is a young city (founded 967 CR, 280 year
 #### Key NPCs
 
 - **Sultan Rashid Ashborne** (41, human): Third-generation noble, ambitious, charismatic, calculating, seven children from three wives, succession unclear
+- **High Priest Rashid Al-Sahir** (68, human): Chief spiritual leader, "Twice-Blessed," beloved by the people, counterweight to Sultan's pragmatism
 - **Malik the Elder** (78, human): Eldest of founding clan leaders, remembers when Sundara was tents
 - **Glassmaster Kiral Brightfire** (112, dwarf): Master glassblower, created techniques that made Sundara famous
 - **High Priestess Zahara** (45, human): Maintains religious tolerance through diplomatic skill
@@ -8432,8 +8494,9 @@ Everything. This is designed for defense:
 ### Aethermere (Capital) ★★★★
 
 **Population:** ~38,000 (65% elf, 20% half-elf, 10% human, 5% other)  
-**Region:** The Emerald Depths  
-**Ruler:** Queen Silviana Aethermere (432, elf) and Chosen Heir Theron Aethermere (89, half-elf)
+**Region:** The Emerald Deeps  
+**Ruler:** High Queen Aelindra Aethermere (1,494, elf) and Chosen Heir Theron Aethermere (89, half-elf)  
+**Royal Family:** Archmage Eldrin Aethermere (158, son), Princess Elanil Aethermere (142, daughter)
 
 #### Visual Overview
 
@@ -8519,7 +8582,7 @@ From outside, you might not recognize it as a city. It looks like particularly d
 
 #### Key NPCs
 
-- **Queen Silviana Aethermere** (432, elf): Ancient, wise, deeply connected to forest, troubled by dying world-trees
+- **High Queen Aelindra Aethermere** (1,494, elf): Ancient, wise, deeply connected to forest, troubled by dying world-trees
 - **Chosen Heir Theron Aethermere** (89, half-elf): Controversial choice (half-elf, not blood relation), named after western prince (suspicious?)
 - **Archdruid Oakensoul** (age unknown, possibly tree ent): Rarely seen in humanoid form, leads druidic circles
 - **Lord Elenaris Starweaver** (589, elf): Elder noble, advisor to queen, astronomer and diviner
@@ -9385,7 +9448,7 @@ Human settlements within and around the Silverwood have a respectful relationshi
 
 ### Notable Locations
 
-**Silverpine University** - Center of magical and mundane learning ::
+**Silverpine Magical Academy** - Center of magical and mundane learning ::
 - Famous libraries; restrictions on dangerous books
 - Students practice minor magic; occasional mishaps
 - Secret society operates within faculty
