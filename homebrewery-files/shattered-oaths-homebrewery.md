@@ -11424,10 +11424,10 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 >
 > *She places her hands flat on the table—no weapons, no threat.*
 >
-> *"My name is Sister Mercy. And I believe you've been lied to your whole life."*
+> *"My name is Sister Solace. And I believe you've been lied to your whole life."*
 
 **THE SITUATION:**
-- Sister Mercy is an Unbound recruiter (Spy stat block)
+- Sister Solace is an Unbound recruiter (Spy stat block)
 - She's genuinely sympathetic to Blackwood cause
 - Her information is mostly accurate
 - She's testing party for potential recruitment
@@ -11443,36 +11443,36 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 
 **Listen Sympathetically:**
 - Gain significant backstory information
-- Sister Mercy provides contact method for future
+- Sister Solace provides contact method for future
 - NOT recruitment—just opens dialogue
 - Insight DC 16: She believes what she says (she's a true believer, not manipulating)
 
 **Reject Firmly:**
 > *"Whatever your cause, we want no part of it."*
-- Sister Mercy nods sadly, leaves peacefully
+- Sister Solace nods sadly, leaves peacefully
 - "If you change your mind, leave a white ribbon on the Merchant's Gate."
 - No immediate consequences
 
 **Threaten/Attack:**
-- Sister Mercy flees (Spy stat block, excellent at escape)
+- Sister Solace flees (Spy stat block, excellent at escape)
 - Unbound now view party as hostile
 - Escalates future encounters
 
 **Pretend Interest, Then Report:**
 - Deception DC 14 to fool her
 - Can report to Captain Roderic or academy
-- Sister Mercy arrested if description good enough
+- Sister Solace arrested if description good enough
 - But: Her network warns other Unbound, party marked as threats
 
 **Actually Consider Joining:**
-- Sister Mercy provides further contact (Quest 1.2 hook)
+- Sister Solace provides further contact (Quest 1.2 hook)
 - Meeting with higher Unbound member arranged
 - Party can infiltrate OR genuinely explore Unbound path
 
 **CONSEQUENCES:**
 - Major plot fork—relationship with Unbound established
 - Information gained is genuine (confirms Blackwood innocence claims)
-- How party treats Sister Mercy reflects their moral compass
+- How party treats Sister Solace reflects their moral compass
 
 ---
 
@@ -11487,7 +11487,7 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 
 **THE SITUATION:**
 - Widow Maren believes adventurers killed her son
-- Her son Tomas actually died in Thornwood (unrelated to party)
+- Her son Caden actually died in Thornwood (unrelated to party)
 - She's grief-mad, not rational
 - Crowd is uncertain—adventurers have mixed reputation
 
@@ -11497,7 +11497,7 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 > *"Ma'am, we've never met your son. When did he disappear? We might be able to help find out what happened."*
 - High DC because she's irrational with grief
 - Success: She breaks down crying, crowd disperses
-- Opportunity to actually investigate Tomas's fate
+- Opportunity to actually investigate Caden's fate
 
 **Let Guards Handle It:**
 - Guards (Veterans) arrive, recognize party isn't guilty
@@ -11510,8 +11510,8 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Can escape (various skill checks)
 - Wanted posters go up (mistaken identity subplot)
 
-**Investigate Tomas (Later):**
-- Tomas was killed by Unbound during recruitment gone wrong
+**Investigate Caden (Later):**
+- Caden was killed by Unbound during recruitment gone wrong
 - Finding evidence exonerates party AND exposes Unbound presence
 - Widow Maren becomes grateful ally (apologizes profusely)
 - Provides lodging, local knowledge, emotional support
@@ -11596,7 +11596,7 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 **READ ALOUD:**
 > *A young man staggers out of an alley, clutching his stomach. Blood streams between his fingers. He sees you and his eyes go wide with desperate hope.*
 >
-> *"Please... the message... must reach... Elder Thom... in Millbrook..."*
+> *"Please... the message... must reach... Elder Rowan... in Millbrook..."*
 >
 > *He presses a blood-stained scroll case into your hands.*
 >
@@ -11628,7 +11628,7 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Or: Assassins track party (noticed them helping Daven)
 
 **THE MESSAGE (Decoded):**
-> *"Elder Thom—Unbound moving on Millbrook. Three days. They want the Miller boy—he has the Gift. Get him out or prepare to fight. Sera protect you. —Brother Marcus"*
+> *"Elder Rowan—Unbound moving on Millbrook. Three days. They want the Miller boy—he has the Gift. Get him out or prepare to fight. Sera protect you. —Brother Aldwyn"*
 
 **RESOLUTION OPTIONS:**
 

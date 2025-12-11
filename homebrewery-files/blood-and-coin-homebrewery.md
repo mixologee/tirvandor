@@ -13982,7 +13982,7 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 > *His voice cracks. Behind him, you notice a young dwarven girl, maybe eight years old, watching from an alley. She's thin. Too thin.*
 
 **THE SITUATION:**
-- Torvin Ironhand (no relation to Varak) lost his hand on last job
+- Torvin Steelhammer lost his hand on last job
 - Guild won't hire him—liability concern
 - Daughter Mira hasn't eaten properly in days
 - He's not begging—he's asking for honest work
