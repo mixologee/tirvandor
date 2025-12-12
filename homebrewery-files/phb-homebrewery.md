@@ -1659,9 +1659,6 @@ If the creature succeeds on its saving throw, you can't use this feature on that
 
 Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### **Barbarians in Tirvandor**
 
@@ -1676,7 +1673,7 @@ Starting at 14th level, when you take damage from a creature that is within 5 fe
 **In Campaigns:** ::
 - **Blood & Coin:** Intimidating mercenary, enforcer
 - **Shattered Oaths:** Mighty warrior defending homeland
-
+\column
 ## Fighter
 
 ![Fighter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-fighter.png){position:absolute,top:400px,right:-150px,width:75%,mix-blend-mode:multiply}
@@ -1698,8 +1695,9 @@ As a fighter, you gain the following class features.
 - **Tools:** None
 - **Saving Throws:** Strength, Constitution
 - **Skills:** Choose two from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
-
-<div style="width:91%">
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 
 **Equipment** ::
 
@@ -1711,9 +1709,6 @@ You start with the following equipment:
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
 
-</div>
-
-\column
 ### **The Fighter Table**
 
 | Level | Proficiency Bonus | Features |
@@ -1738,10 +1733,6 @@ You start with the following equipment:
 | 18th | +6 | Martial Archetype feature |
 | 19th | +6 | Ability Score Improvement |
 | 20th | +6 | Extra Attack (3) |
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### **Fighting Style (1st Level)**
 
@@ -1790,6 +1781,10 @@ The number of attacks increases to three when you reach 11th level in this class
 Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 
 ### **Martial Archetypes**
 
@@ -1838,9 +1833,7 @@ At 18th level, you attain the pinnacle of resilience in battle. At the start of 
 - **Blood & Coin:** Excellent (professional mercenary archetype)
 - **Shattered Oaths:** Excellent (skilled warrior hero)
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
+\column
 
 ## Rogue
 
@@ -1857,6 +1850,10 @@ As a rogue, you gain the following class features.
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 **Proficiencies** ::
 - **Armor:** Light armor
 - **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
@@ -1867,7 +1864,7 @@ As a rogue, you gain the following class features.
 **Equipment** ::
 
 You start with the following equipment:
-<div style="width:45%">
+
 
 - (a) a rapier or (b) a shortsword
 - (a) a shortbow and quiver of 20 arrows or (b) a shortsword
@@ -1876,11 +1873,7 @@ You start with the following equipment:
 
 **Alternative:** Roll 4d4 × 10 gp and purchase starting equipment.
 
-</div>
-
 {{wide
-<div style="width:45%">
-
 ### **The Rogue Table**
 
 | Level | Proficiency Bonus | Sneak Attack | Features |
@@ -1905,18 +1898,12 @@ You start with the following equipment:
 | 18th | +6 | 9d6 | Elusive |
 | 19th | +6 | 10d6 | Ability Score Improvement |
 | 20th | +6 | 10d6 | Stroke of Luck |
-
-</div>
 }}
-
 ### **Expertise**
 
 At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### **Sneak Attack**
 
@@ -1935,7 +1922,9 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 ### **Cunning Action (2nd Level)**
 
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
-
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
 ### **Roguish Archetype (3rd Level)**
 
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. The Thief is detailed below. Additional roguish archetypes such as the Assassin and Arcane Trickster can be found in the *Player's Handbook*. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
@@ -1947,7 +1936,7 @@ When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, yo
 ### **Uncanny Dodge (5th Level)**
 
 Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
-\column
+
 ### **Evasion (7th Level)**
 
 Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an *ice storm* spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
@@ -1990,10 +1979,6 @@ When you choose this archetype at 3rd level, you gain the ability to climb faste
 
 In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
 **Supreme Sneak (9th Level)**
 
 Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
@@ -2025,11 +2010,24 @@ When you reach 17th level, you have become adept at laying ambushes and quickly 
 - **Blood & Coin:** Excellent (infiltration, investigation, espionage)
 - **Shattered Oaths:** Good (scout, spy for heroic cause)
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ## Bard
 
-![Bard Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-bard.png){position:absolute,bottom:-135px,right:-120px,width:75%,mix-blend-mode:multiply}
+![Bard Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-bard.png){position:absolute,bottom:0px,right:-100px,width:90%,mix-blend-mode:multiply}
+
+
+<div style="width:75%">
 
 *An inspiring magician whose power echoes the music of creation*
+
+</div>
+ 
+ ::
+ 
+<div style="width:50%">
 
 ### **Class Features**
 
@@ -2041,7 +2039,7 @@ As a bard, you gain the following class features.
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
 
 **Proficiencies** ::
-\column
+
 - **Armor:** Light armor
 - **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 - **Tools:** Three musical instruments of your choice
@@ -2057,6 +2055,8 @@ You start with the following equipment:
 - Leather armor and a dagger
 
 **Alternative:** Roll 5d4 × 10 gp and purchase starting equipment.
+
+</div>
 
 {{pageNumber,auto}}
 {{footnote Classes}}
@@ -4987,13 +4987,14 @@ The Silver Circle is an organization of mages dedicated to studying and protecti
 **Languages:** Two of your choice (typically including Draconic or Primordial) ::
 **Equipment:** A Silver Circle initiate's robe, a small silver pendant (the Circle's symbol), a journal of magical theory, a set of common clothes, and a belt pouch containing 10 gp ::
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 ### Feature: Circle Hospitality
 
 Silver Circle chapterhouses exist in most major cities and near significant ley nodes. As a former initiate, you can request shelter and basic assistance from the Circle, though full members may view you with anything from respect to pity to suspicion, depending on why you left. You also have access to basic magical libraries and research facilities at chapterhouses.
 
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ### Circle Specialty
 
@@ -5076,6 +5077,10 @@ You know the major trade routes and roads throughout the region, including which
 
 Caravan guards are practical, alert, and accustomed to long stretches of boredom punctuated by moments of extreme danger.
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 | d8 | Personality Trait |
 |:--:|:------------------|
 | 1 | I'm always scanning the horizon and checking our flanks. |
@@ -5086,10 +5091,6 @@ Caravan guards are practical, alert, and accustomed to long stretches of boredom
 | 6 | I'm most comfortable when I'm moving, not staying put. |
 | 7 | I've learned patience from countless long, boring journeys. |
 | 8 | I form quick judgments about whether someone's trustworthy. |
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 | d6 | Ideal |
 |:--:|:------|
@@ -5130,8 +5131,6 @@ You served as a guardian and protector of a temple dedicated to one of the Seven
 ### Feature: Temple Shelter
 
 Temples and shrines dedicated to your deity will offer you shelter, food, and basic healing. You can also request temporary sanctuary from the faithful, and clergy will generally vouch for your good character. Other temple wardens recognize you as a colleague and will share information about threats to the faith.
-
-\column
 
 ### Deity Served
 
@@ -5179,6 +5178,10 @@ Temple wardens combine martial skill with religious devotion, serving as the shi
 | 5 | I failed to protect someone and carry that guilt with me. |
 | 6 | I'm looking for a worthy place to establish a new shrine. |
 
+{{pageNumber,auto}}
+{{footnote Classes}}
+\page
+
 | d6 | Flaw |
 |:--:|:-----|
 | 1 | I'm judgmental of those who don't share my faith. |
@@ -5187,10 +5190,6 @@ Temple wardens combine martial skill with religious devotion, serving as the shi
 | 4 | I sometimes enjoy violence more than a servant of the gods should. |
 | 5 | I put my temple's interests above the greater good. |
 | 6 | I broke a sacred vow and fear discovery. |
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
 
 ## Worldrend Historian
 

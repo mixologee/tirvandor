@@ -64,6 +64,28 @@ Version 2.0 | November 2025
 
 \page
 
+{{note
+#### Copyright & Attribution
+
+**BLOOD & COIN: A Tirvandor Campaign**
+
+Copyright © 2025 Jason "Mixologee" Scheponik. All rights reserved.
+
+This product contains material from the System Reference Document 5.2 ("SRD 5.2") by Wizards of the Coast LLC.
+
+The SRD 5.2 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
+
+#### Product Identity
+
+The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Ascended concept; the Seven Bound Ancients concept; all original magic items; the Worldrend event and timeline; all campaign content.
+
+#### Open Game Content
+
+All content derived from the SRD 5.2 is Open Game Content.
+}}
+
+\page
+
 # Introduction
 
 ## Campaign Overview
@@ -14893,7 +14915,30 @@ If this goes bad, I don't know you.
 
 ---
 
+\page
 
+# 📜 CREDITS AND LEGAL
+
+## Map Assets
+Maps in this campaign include assets created by **DungeonQuill**.  
+**Credit:** Including assets created by DungeonQuill  
+**Link:** https://www.patreon.com/dungeonquill
+
+Maps created using **Dungeondraft** by Megasploot (https://dungeondraft.net/)
+
+## D&D Compatibility
+This product is compatible with the fifth edition of the world's greatest roleplaying game.
+
+This product is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. This product may use the fifth edition rules licensed under the Creative Commons Attribution 4.0 International License.
+
+## Acknowledgments
+- Playtesting by the Tirvandor Discord community
+- Special thanks to the Homebrewery team for their excellent tools
+- Art direction and campaign design by Jason "Mixologee" Scheponik
+
+**For complete legal information, see the main Tirvandor World Guide.**
+
+---
 
 \page
 

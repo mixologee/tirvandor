@@ -66,6 +66,28 @@ Version 2.0 | November 2025
 
 \page
 
+{{note
+#### Copyright & Attribution
+
+**SHATTERED OATHS: A Tirvandor Campaign**
+
+Copyright © 2025 Jason "Mixologee" Scheponik. All rights reserved.
+
+This product contains material from the System Reference Document 5.2 ("SRD 5.2") by Wizards of the Coast LLC.
+
+The SRD 5.2 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
+
+#### Product Identity
+
+The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Ascended concept; the Seven Bound Ancients concept; all original magic items; the Worldrend event and timeline; all campaign content.
+
+#### Open Game Content
+
+All content derived from the SRD 5.2 is Open Game Content.
+}}
+
+\page
+
 # Introduction
 
 ## Campaign Overview

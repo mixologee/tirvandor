@@ -736,3 +736,47 @@ All trademarked WotC content replaced with original terms for commercial release
 - Locations: Consistent
 - Factions: Consistent
 - Cross-references: Valid
+
+---
+
+## Additional Sweep (Session 4)
+
+### Copyright Fixes Applied
+| Issue | Location | Fix |
+|-------|----------|-----|
+| Image filename still had 'elminster' | DMG line 11256 | Changed to tirvandor-npc-sage-veridian-runereader.jpg |
+| Otiluke's Resilient Sphere (trademarked) | DMG line 4372 | Changed to Resilient Sphere (SRD name) |
+
+### Verified Clean
+- No remaining trademarked creature names
+- No remaining trademarked character names
+- No remaining trademarked spell names
+- Timeline fully consistent
+- NPC ages mathematically verified
+- Naming conventions consistent across all documents
+
+**Total Copyright Fixes This Session: 2**
+**Cumulative Copyright Fixes: 32**
+
+---
+
+## Commercial Viability Pass (Session 4 - Final)
+
+### Fixes Applied
+| Issue | Location | Fix |
+|-------|----------|-----|
+| Dev comment in code | DMG line 8045 | Removed HTML comment |
+| Outdated copyright year | Player guides | Changed 2024 → 2025 |
+| Missing copyright header | Blood & Coin | Added full legal section |
+| Missing copyright header | Shattered Oaths | Added full legal section |
+| Missing credits section | Blood & Coin | Added credits before back cover |
+
+### Verification Complete
+- ✅ All 9 documents have 2025 copyright
+- ✅ All 7 sourcebooks have Product Identity declarations
+- ✅ No placeholder/TODO content
+- ✅ No debug comments
+- ✅ All image paths consistent
+- ✅ Version numbers consistent (v2.0)
+
+**COMMERCIAL VIABILITY STATUS: ✅ APPROVED**

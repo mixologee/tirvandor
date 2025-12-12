@@ -55,7 +55,7 @@ Version 2.0 | November 2025
 
 ## Copyright Notice
 SHATTERED OATHS: PLAYER'S GUIDE
-Original content © 2024 Tirvandor Campaign Setting. All rights reserved.
+Original content © 2025 Tirvandor Campaign Setting. All rights reserved.
 
 TIRVANDOR
 

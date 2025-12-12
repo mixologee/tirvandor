@@ -4369,7 +4369,7 @@ ___
 ***1st level (4 slots).*** :: Alarm, Detect Magic, Mage Armor*, Shield
 ***2nd level (3 slots).*** :: Arcane Lock, Mirror Image, Misty Step
 ***3rd level (3 slots).*** :: Counterspell, Dispel Magic, Fireball
-***4th level (3 slots).*** :: Banishment, Greater Invisibility, Otiluke's Resilient Sphere
+***4th level (3 slots).*** :: Banishment, Greater Invisibility, Resilient Sphere
 ***5th level (2 slots).*** :: Cone of Cold, Wall of Force
 ***6th level (1 slot).*** :: Globe of Invulnerability, Disintegrate
 ***7th level (1 slot).*** :: Forcecage, Teleport
@@ -6748,7 +6748,7 @@ ___
 ***1st level (4 slots).*** :: *cause fear, false life, ray of sickness, shield*
 ***2nd level (3 slots).*** :: *blindness/deafness, gentle repose, ray of enfeeblement*
 ***3rd level (3 slots).*** :: *animate dead, bestow curse, vampiric touch*
-***4th level (3 slots).*** :: *blight, evard's black tentacles*
+***4th level (3 slots).*** :: *blight, black tentacles*
 ***5th level (2 slots).*** :: *cloudkill, danse macabre*
 ***6th level (1 slot).*** :: *create undead*
 ***7th level (1 slot).*** :: *finger of death*
@@ -8042,7 +8042,7 @@ ___
 **Hit Points** :: 126 (12d10 + 48)
 **Speed** :: 30 ft.
 ![Crown Prince Thorin Thandris](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-prince-aldric-thandris.jpg){width:315px,mix-blend-mode:multiply}
-<!-- NOTE: Image filename references "prince-aldric" but depicts Crown Prince Thorin. Consider renaming image file to tirvandor-npc-crown-prince-thorin-thandris.jpg for consistency -->
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -11064,7 +11064,7 @@ ___
 ***- Empowered Spell.*** :: Reroll damage dice
 ***Cantrips (at will).*** :: Frostbite, Mage Hand, Message, Ray of Frost
 ***1st level (4 slots).*** :: Mage Armor*, Shield, Ice Knife
-***2nd level (3 slots).*** :: Hold Person, Misty Step, Snilloc's Snowball Swarm
+***2nd level (3 slots).*** :: Hold Person, Misty Step, Ice Knife
 ***3rd level (3 slots).*** :: Sleet Storm, Counterspell, Fly
 ***4th level (3 slots).*** :: Ice Storm, Wall of Ice
 ***5th level (2 slots).*** :: Cone of Cold, Hold Monster
@@ -11247,13 +11247,13 @@ The Ashwardens are his primary clients, but anyone willing to pay his prices and
 \page
 
 {{monster,frame,wide
-## Sage Elminster Runereader
+## Sage Veridian Runereader
 *Medium humanoid (human), neutral good*
 ___
 **Armor Class** :: 12 (15 with mage armor)
 **Hit Points** :: 71 (13d8 + 13)
 **Speed** :: 30 ft.
-![Sage Elminster Runereader](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sage-elminster-runereader.jpg){width:325px,mix-blend-mode:multiply}
+![Sage Veridian Runereader](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sage-veridian-runereader.jpg){width:325px,mix-blend-mode:multiply}
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -11293,7 +11293,7 @@ ___
 - **Tools:** Runic transcription kit
 
 ### Background & History
-Elminster's name is a deliberate joke—his parents were adventurers who thought naming their son after a famous wizard would bring him luck. It worked; he's become one of the foremost scholars of runic magic in Thaldros, able to read inscriptions that have baffled others for centuries.
+Veridian's name honors Archmage Veridian Starweaver—his parents were scribes who hoped naming their son after the famous University wizard would bring him luck. It worked; he's become one of the foremost scholars of runic magic in Thaldros, able to read inscriptions that have baffled others for centuries.
 
 His specialty is pre-Worldrend text, the ancient scripts that were used before the world was torn apart. He's spent sixty years collecting rubbings, copying inscriptions, and developing translation methods. His crowning achievement is a partial dictionary of the Elder Script, the language used by the civilization that caused the Worldrend.
 
@@ -11567,7 +11567,7 @@ He's a patient negotiator, willing to wait years for the right deal. He's also u
 2. **Active Runes:** His quarrying disturbed ancient activation runes
 3. **Lost Workers:** Three workers killed by golems, he's covering it up
 4. **The Master Rune:** Found central control rune, afraid to touch it
-5. **Guilt:** Ignored warnings from Sage Elminster about quarry location
+5. **Guilt:** Ignored warnings from Sage Veridian about quarry location
 6. **Corporation Pressure:** Merchant League demanding he keep operating despite danger
 
 **Plot Hooks:**
@@ -11582,7 +11582,7 @@ He's a patient negotiator, willing to wait years for the right deal. He's also u
 - Trained Master Miner Grimnir decades ago
 - Cousin of Thane Durgan Ironforge (historical house founder)
 - Reports to Merchant League officials (who pressure him)
-- Dismisses Sage Elminster's warnings (huge mistake)
+- Dismisses Sage Veridian's warnings (huge mistake)
 - Knows Forge-Master Thordak from military engineering days
 
 **Combat Notes:**
@@ -12997,7 +12997,7 @@ Now sixty and slowing down, he's looking for a place to record his collection pr
 - **Network:** Performers, storytellers, and archivists across the region
 - **Patron:** Various nobles who fund his collection
 - **Rival:** Other storytellers with less concern for accuracy
-- **Friend:** Sage Elminster Runereader (scholarly collaboration)
+- **Friend:** Sage Veridian Runereader (scholarly collaboration)
 - **Treasure:** Forty years of stories in his memory
 
 {{pageNumber,auto}}
@@ -13589,7 +13589,7 @@ Her methodology is controversial in academic circles. She believes in getting he
 **Connections:**
 - Former colleague of Hermit Sage Morganna
 - Corresponds with Archmage Veridian
-- Knows Sage Elminster's research
+- Knows Sage Veridian's research
 - Has interviewed Captain Marcus about werewolves
 - Student of historical figures through texts
 
@@ -14205,7 +14205,7 @@ His current residence is a cluttered tower on the outskirts of Silverpine, fille
 - Former mentor to Professor Miranda
 - Corresponds with Hermit Sage Morganna
 - Knows Archmage Veridian (mutual respect)
-- Has read Sage Elminster's research
+- Has read Sage Veridian's research
 - Aware of Frost Seer's prophecies (confirms them)
 
 ---
@@ -14832,7 +14832,7 @@ ___
 **Armor Class** :: 17 (natural armor)
 **Hit Points** :: 210 (20d10 + 100)
 **Speed** :: 5 ft., swim 10 ft.
-![Colony-Mind K'Thrax (Mind Flayer Elder Brain)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-colony-mind-kthrax.jpg){width:325px,mix-blend-mode:multiply}
+![Colony-Mind K'Thrax (psionic horror hive mind)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-colony-mind-kthrax.jpg){width:325px,mix-blend-mode:multiply}
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -14863,13 +14863,13 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 }}
 
 ### Background & History
-K'Thrax has existed for over two thousand years—not as an individual, but as a collective consciousness housed in an elder brain deep beneath the Ironspine Mountains. It began as a single mind flayer colony that grew, absorbed others, and eventually achieved a form of immortality through the elder brain's preservation of all absorbed minds.
+K'Thrax has existed for over two thousand years—not as an individual, but as a collective consciousness housed in an hive mind deep beneath the Ironspine Mountains. It began as a single psionic horror colony that grew, absorbed others, and eventually achieved a form of immortality through the hive mind's preservation of all absorbed minds.
 
-The colony was driven underground during the Worldrend, when surface races united against the "mind plague." For centuries, K'Thrax rebuilt in the deep places, consuming minds and growing in power. It developed patience that individual mind flayers lack—the ability to plan across centuries.
+The colony was driven underground during the Worldrend, when surface races united against the "mind plague." For centuries, K'Thrax rebuilt in the deep places, consuming minds and growing in power. It developed patience that individual psionic horrors lack—the ability to plan across centuries.
 
 Its current territory spans a network of caverns connected to ancient dwarven deep roads. The dwarves know something terrible lurks below but have sealed those passages rather than confront it. K'Thrax is content with this arrangement—for now. It has agents on the surface, thralls whose minds it touches through dreams, and a growing interest in the political chaos above.
 
-The elder brain's ultimate goal is transcendence: to become a god-brain capable of touching all minds on Thaldros simultaneously. The chaos of the coming years may provide the psychic energy it needs.
+The hive mind's ultimate goal is transcendence: to become a god-brain capable of touching all minds on Thaldros simultaneously. The chaos of the coming years may provide the psychic energy it needs.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -14878,7 +14878,7 @@ The elder brain's ultimate goal is transcendence: to become a god-brain capable 
 ### Connections
 - **The Deep Dwarves:** Ancient enemies who sealed the passages; K'Thrax probes their defenses constantly
 - **Surface Thralls:** Dozens of individuals whose dreams K'Thrax has touched, unaware they serve it
-- **Rival Colonies:** Other mind flayer enclaves that resist absorption; potential threats or meals
+- **Rival Colonies:** Other psionic horror enclaves that resist absorption; potential threats or meals
 - **The Sealed Ones:** Something older and stranger sleeps even deeper; K'Thrax fears it
 - **Dragon Infernalix:** Aware of the sleeping dragon; considers it a potential rival or tool
 
@@ -14888,15 +14888,15 @@ The elder brain's ultimate goal is transcendence: to become a god-brain capable 
 2. **The Deep Roads Connection:** Can access passages that lead to every major dwarven city. The dwarves don't know all their seals have been bypassed.
 3. **The Transcendence Ritual:** Has developed a ritual that could expand its consciousness across the continent, but requires massive psychic trauma—like a war.
 4. **The Dragon Interest:** Has been trying to touch Infernalix's dreams. The dragon's mind is too alien, but K'Thrax has learned things.
-5. **The Deeper Fear:** Something in the deepest caverns predates even K'Thrax. The elder brain has spent centuries building barriers against it.
+5. **The Deeper Fear:** Something in the deepest caverns predates even K'Thrax. The hive mind has spent centuries building barriers against it.
 }}
 
 ### Plot Hooks
 1. **The Dream Plague:** People are having shared nightmares featuring tentacles and alien thoughts. Investigation leads underground.
 2. **The Compromised Noble:** A key political figure has been making strange decisions. Are they a thrall?
 3. **The Deep Roads:** The dwarves need help exploring sealed passages. What they find will be worse than expected.
-4. **The Rival Colony:** A mind flayer approaches the party seeking alliance against K'Thrax. Can they trust it?
-5. **The Transcendence Prevention:** K'Thrax's ritual is nearing completion. Stopping it requires confronting the elder brain directly.
+4. **The Rival Colony:** A psionic horror approaches the party seeking alliance against K'Thrax. Can they trust it?
+5. **The Transcendence Prevention:** K'Thrax's ritual is nearing completion. Stopping it requires confronting the hive mind directly.
 6. **The Deeper Problem:** K'Thrax's barriers are failing. Something worse is waking up. Enemy of my enemy?
 
 ---
