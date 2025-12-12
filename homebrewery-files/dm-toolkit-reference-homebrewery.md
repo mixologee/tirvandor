@@ -5046,12 +5046,12 @@ Encounter Frequency:
 
 ::
 
-#### Ring of Protection - Seven Gods Variant
+#### Ring of Protection - Seven Ascended Variant
 *Wondrous Item • Rare*
 :
 - +1 to AC and saving throws
 - Seven colored gemstones
-- Each = one of Seven Gods:
+- Each = one of Seven Ascended:
 - UNIQUE TIRVANDOR DESIGN
 
 *Campaign: Shattered Oaths*

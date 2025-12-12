@@ -2307,7 +2307,7 @@ This Monster Manual contains:
 - Thaldros Military—conscripts to elite Royal Guards and Inquisitors
 - Aethorian Forces—militia, revolutionaries, and freedom fighters
 - Iron Guild operatives and mercenary companies
-- Ascended-touched champions of the Seven Gods
+- Ascended-touched champions of the Seven Ascended
 - Ancient beings and Worldrend-scarred entities
 - Habitat maps showing typical lairs and encounter locations
 - Tactical notes for running each creature effectively

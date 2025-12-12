@@ -1393,12 +1393,12 @@ Civilizations matured into recognizable modern forms. Kingdoms, city-states, and
 - **625 CR: Human kingdoms of Thaldros** begin forming loose confederation
 - **650 CR: Crown Forge commissioned** in Kaer Thandros
 - Legendary forge capable of creating permanent magical items
-- Secret techniques known only to Thandris and Ironmark houses
+- Secret techniques known only to Thandris and Ironforge houses
 
 **Formal Recognition (670 CR):** ::
 - **670 CR: King Thorin II recognizes Silverleaf** as Lords of Silverwood
 - **670 CR: Unification Wars formally end** in Thaldros
-- **670 CR: House Ironmark granted eastern territories**
+- **670 CR: House Ironforge granted eastern territories**
 - Alliance secured Silverleaf autonomy through cooperation
 
 ### The Founding of Trade Centers (695-750 CR)
@@ -1531,7 +1531,7 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1089 CR: Blackwood Rebellion begins**, splitting Thaldros in civil war
 - **1089 CR: Civil war erupts** - half the nobility backs Blackwood claim
 - **1089 CR: House Silverleaf remains neutral** in Blackwood Rebellion (very controversial)
-- **1089 CR: House Ironmark stays loyal** to Thandris, rewarded later
+- **1089 CR: House Ironforge stays loyal** to Thandris, rewarded later
 - **1089 CR: Crossvale changes hands SEVEN TIMES** during civil war
 - City devastated by repeated sieges, population drops from 12,000 to 8,000
 
@@ -1578,7 +1578,7 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1156 CR: House Emberthorn refuses dragon tribute**
 - **1156 CR: Dragon destroys half of Emberthorn holdings** in single day
 - Family fortunes destroyed, fortress burned
-- **1156 CR: House Ironmark loses three mines** to dragon attack, bankrupted
+- **1156 CR: House Ironforge loses three mines** to dragon attack, bankrupted
 - **1156 CR: House Ashborne profits enormously** from dragon crisis, selling war supplies
 - **1156 CR: House Goldshore loans massive sums** for dragon defense
 - **1156 CR: King Thandris becomes heavily indebted** to House Goldshore
@@ -1591,7 +1591,7 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1160 CR: House Ashborne expands** into Heartlands trade
 - **1170 CR: Stronger fortifications built** at Kaer Thandros
 - **1175 CR: Deep vaults expanded** as dragon-proof refuges
-- **1180 CR: House Ironmark begins slow recovery** through careful management
+- **1180 CR: House Ironforge begins slow recovery** through careful management
 - **1190 CR: Population of Kaer Thandros recovered**
 - **1195 CR: Economy strengthened** through mining expansion
 - **1200 CR: Kaer Thandros rebuilding complete**
@@ -1599,7 +1599,7 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1200 CR: Unprecedented number of individuals** become adventurers
 - **1201 CR: Dragon Infernalix withdraws** after secret bargain with King Thandris V; returns to ancient lair beneath Kaer Thandros to sleep
 - **1201 CR: Survivors begin returning** to Ashfall Barrens
-- **1210 CR: House Ironmark recovery complete**
+- **1210 CR: House Ironforge recovery complete**
 
 ### The Current Era (1125-1247 CR)
 
@@ -3489,7 +3489,7 @@ The house consolidated power through:
 ### Conflicts & Alliances
 
 **Allies:** ::
-- House Ironmark (sworn vassals, manage eastern mines)
+- House Ironforge (sworn vassals, manage eastern mines)
 - House Silverleaf (marriage alliance)
 - The Forgemaster's Guild (economic partners)
 
@@ -3533,7 +3533,7 @@ No one knows. All direct witnesses died 1,247 years ago. The dispute is now abou
 - Trade negotiations complicated by protocol disputes
 - Each expects deference from the other
 
-## House Ironmark (Dominant - Vassal Lords)
+## House Ironforge (Dominant - Vassal Lords)
 
 **Region:** The Ironspine Holds  
 **Seat:** Deepforge  
@@ -3544,10 +3544,10 @@ No one knows. All direct witnesses died 1,247 years ago. The dispute is now abou
 
 ### History
 
-Originally a minor dwarven clan, House Ironmark rose to prominence during the Unification Wars by providing superior weapons to Thorin Thandris. Granted eastern mining territories as reward, they transformed from craftsmen to nobility through shrewd management and mining expertise.
+Originally a minor dwarven clan, House Ironforge rose to prominence during the Unification Wars by providing superior weapons to Thorin Thandris. Granted eastern mining territories as reward, they transformed from craftsmen to nobility through shrewd management and mining expertise.
 
 **Defining Moments:** ::
-- 780 CR: Thane Borin I Ironmark swears eternal oath to House Thandris
+- 780 CR: Thane Durgan Ironforge swears eternal oath to House Thandris
 - 893 CR: Discovers the Deepvein mythril deposit (largest known)
 - 1089 CR: Remained loyal during Blackwood Rebellion; rewarded with more lands
 - 1156 CR: Lost three mines to dragon attack; bankrupted
@@ -3556,7 +3556,7 @@ Originally a minor dwarven clan, House Ironmark rose to prominence during the Un
 
 ### Current Status (1247 CR)
 
-**Ruler:** Thane Borin VII Ironmark (age 287, dwarf) ::
+**Ruler:** Thane Durin Ironforge (age 245, dwarf) ::
 - Conservative, traditional, wealthy
 - Suspicious of surface-dwellers despite human allies
 - Three sons in line for succession (traditional dwarf rivalry)
@@ -3633,7 +3633,7 @@ During the Unification Wars, they sided with Thandris but always maintained inde
 
 **Official:** Extinct—no living members  
 **Rumored:** A hidden heir survived, protected by loyalist house  
-**Lands:** Distributed among houses Thandris, Ironmark, and Silverleaf  
+**Lands:** Distributed among houses Thandris, Ironforge, and Silverleaf  
 **Legacy:** Name still whispered in Silverwood; some consider them heroes
 
 ### The Lost Heir
@@ -3650,7 +3650,7 @@ The most credible rumor: A child was raised by woodsman family in deep Silverwoo
 
 **Living Enemies:** ::
 - House Thandris (executed their family)
-- House Ironmark (stayed loyal to Thandris)
+- House Ironforge (stayed loyal to Thandris)
 - Anyone who gained Blackwood lands
 
 **Potential Allies:** ::
@@ -3960,25 +3960,25 @@ Founded by a half-elf merchant captain (descendant of Aldris the Younger) who ma
 **Region:** The Ironspine Holds  
 **Seat:** Stonehaven  
 **Rise:** 612-Present  
-**Status:** Declining (Losing to House Ironmark)  
+**Status:** Declining (Losing to House Ironforge)  
 **Sigil:** Clenched stone fist on gray field
 
 ### History
 
-Ancient dwarven clan that ruled eastern Ironspine before the Unification. Initially more powerful than the minor Ironmark clan, they made a fatal mistake: sided with the wrong king during succession crisis in 780 CR.
+Ancient dwarven clan that ruled eastern Ironspine before the Unification. Initially more powerful than the minor Ironforge clan, they made a fatal mistake: sided with the wrong king during succession crisis in 780 CR.
 
 **The Fall:** ::
 - 780 CR: Backed losing claimant; punished with reduced territory
-- Rival clan Ironmark granted their best mines as reward for loyalty
-- 893 CR: Ironmark discovered huge mythril deposit in former Stonefist land
-- Began century-long decline as Ironmark prospered
+- Rival clan Ironforge granted their best mines as reward for loyalty
+- 893 CR: Ironforge discovered huge mythril deposit in former Stonefist land
+- Began century-long decline as Ironforge prospered
 - Forced to diversify into quarrying, stonework, mercenary services
 
 **Current Situation:** ::
 - Still noble but much reduced in power
-- Deep resentment of House Ironmark
+- Deep resentment of House Ironforge
 - Trying to rebuild through new ventures
-- 1243 CR: Discovered new mythril vein—disputed with Ironmark
+- 1243 CR: Discovered new mythril vein—disputed with Ironforge
 
 ### Current Status (1247 CR)
 
@@ -3990,7 +3990,7 @@ Ancient dwarven clan that ruled eastern Ironspine before the Unification. Initia
 **Holdings:** ::
 - Stonehaven (town, declining population)
 - Three quarries (profitable but not wealthy)
-- One disputed mine (Ironmark claims it)
+- One disputed mine (Ironforge claims it)
 - Mercenary company (120 dwarf warriors)
 
 **Power Base:** ::
@@ -4004,11 +4004,11 @@ Ancient dwarven clan that ruled eastern Ironspine before the Unification. Initia
 **Allies:** ::
 - Other declining/minor houses (shared grievances)
 - Mercenary guilds
-- Anyone who opposes Ironmark
+- Anyone who opposes Ironforge
 
 **Rivals:** ::
-- House Ironmark (hatred burns eternal)
-- House Thandris (for backing Ironmark)
+- House Ironforge (hatred burns eternal)
+- House Thandris (for backing Ironforge)
 - Successful merchant houses (jealousy)
 
 {{pageNumber,auto}}
@@ -4016,7 +4016,7 @@ Ancient dwarven clan that ruled eastern Ironspine before the Unification. Initia
 \page
 
 **Internal Tensions:** ::
-- Daughters fighting over succession (one wants peace with Ironmark, one wants war)
+- Daughters fighting over succession (one wants peace with Ironforge, one wants war)
 - Clan members divided on whether to merge with larger clan
 - Young dwarves leaving for better opportunities elsewhere
 
@@ -5064,7 +5064,7 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 ### Dominant/Royal (8)
 - House Thandris (Thaldros royal)
 - House Aethermere (Aethoria royal)
-- House Ironmark (Mining)
+- House Ironforge (Mining)
 - House Silverleaf (Forest)
 - House Goldshore (Maritime)
 - House Crystalborn (Water)
@@ -5797,14 +5797,14 @@ Kaer Thandros was not built—it was claimed. When King Thorin I Thandris united
 - Thorin I ruled from fortress keep
 - Expanded city into mountain
 - Forged alliances with dwarf clans
-- Granted House Ironmark eastern territories
+- Granted House Ironforge eastern territories
 - Built the Crown Forge (650 CR)
 
 **The Crown Forge (650 CR):** ::
 - Thorin I commissioned legendary forge
 - Can create permanent magical items
 - Requires master craftsman and cosmic alignments
-- Secret techniques known only to Thandris and Ironmark
+- Secret techniques known only to Thandris and Ironforge
 - Used to forge royal regalia and artifacts
 
 **The Expansion Era (700-900 CR):** ::
@@ -7149,14 +7149,14 @@ Founded simultaneously with Kaer Thandros as the northern fortress defending mou
 
 **Region:** The Ironspine Holds  
 **Current Population:** ~3,500  
-**Status:** Deep Mining Settlement, Seat of House Ironmark
+**Status:** Deep Mining Settlement, Seat of House Ironforge
 
 ### Foundation (780 CR)
 
-House Ironmark's primary holding, built around the richest mythril vein in Thaldros.
+House Ironforge's primary holding, built around the richest mythril vein in Thaldros.
 
 **The Deep Vein (893 CR):** ::
-- Discovered by House Ironmark
+- Discovered by House Ironforge
 - Largest mythril deposit known
 - Made family wealthy
 - Dug deep (miles down)
@@ -7164,7 +7164,7 @@ House Ironmark's primary holding, built around the richest mythril vein in Thald
 
 ### Current Status (1247 CR)
 
-**Ruler:** Thane Borin VII Ironmark ::
+**Ruler:** Thane Durin Ironforge ::
 - Conservative dwarf
 - Age 287
 - Three competing sons
@@ -7237,7 +7237,7 @@ Built by House Emberthorn around volcanic forges using natural lava heat for sup
 | **Sundara** | Sundaran | Ashborne | 18,000 | Desert Capital | Oasis city |
 | **Ashgate** | Ashfall | (contested) | 9,000 | Gateway | Volcanic trade |
 | **Ironhold** | Ironspine | Thandris | 8,000 | Fortress | Mountain pass |
-| **Deepforge** | Ironspine | Ironmark | 3,500 | Mining | Mythril veins |
+| **Deepforge** | Ironspine | Ironforge | 3,500 | Mining | Mythril veins |
 | **Emberforge** | Ashfall | (independent) | 2,400 | Forges | Volcanic heat |
 | **Aethermere** | Emerald Deeps | Aethermere | 38,000 | Capital | Five world-trees |
 | **Starfall** | Starwood | Starweaver | 6,500 | Observatory | Meteor strikes |
@@ -7374,7 +7374,7 @@ The city glows at night with forge-light, creating an orange haze visible for mi
 #### Key NPCs
 
 - **King Aldric IV Thandris** (52, human): Aging but strong ruler, three children securing succession
-- **High Forge Master Borin Ironmark** (238, dwarf): Controls the Crown Forge, keeper of ancient secrets
+- **High Forge Master Borin Ironforge** (238, dwarf): Controls the Crown Forge, keeper of ancient secrets
 - **General Marcus Stormheld** (45, human): Commands the Royal Army, hero of multiple campaigns
 - **Archbishop Morven** (67, human): Senior cleric, spiritual advisor to the king
 - **Spymaster Shadows** (unknown): No one knows who truly runs intelligence—that's the point
@@ -8625,7 +8625,7 @@ Everyone is from somewhere else. No one is "from" Port Myrthen originally (excep
 
 **Population:** ~3,500 (75% dwarf, 20% human, 5% other)  
 **Region:** Ironspine Holds  
-**Ruler:** Thane Borin Ironmark
+**Ruler:** Thane Durin Ironforge
 
 #### Description
 
@@ -8643,7 +8643,7 @@ This is a working town—every adult is involved in metalwork somehow. Children 
 - **The Quenching Pools:** Sacred springs for cooling blades
 
 **Notable NPCs:** ::
-- Thane Borin Ironmark: Controls town, recently very secretive
+- Thane Durin Ironforge: Controls town, recently very secretive
 - Master Smith Thunderhammer: Best smith, suspicious of thane's secrecy
 - The Deep Delver: Miner who broke into sealed chamber, won't talk about it
 

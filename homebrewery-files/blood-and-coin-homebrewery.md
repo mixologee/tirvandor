@@ -5369,7 +5369,7 @@ After 1-2 weeks, **Quest 2.3: The Double Cross** begins.
 **Appearance:** 20s, resembles Corvus, scholar's clothing, desperate eyes, frightened but determined
 
 **Who She Is:**
-- Corvus's daughter
+- Corvus's daughter (uses "Corvus" as surname rather than "Blackwood" to avoid the dangerous association with her father's outlawed house)
 - Former Unbound believer
 - Realized father is insane
 - Stole journal pages
