@@ -534,7 +534,7 @@ The heart of Aethoria's ancient rainforests. These primordial woods are so old a
 
 #### The Brightwater Valley (Central)
 
-A fertile river valley where the greatest concentration of Aehorian agriculture exists. The rivers here sparkle with natural magic, making crops grow larger and faster.
+A fertile river valley where the greatest concentration of Aethorian agriculture exists. The rivers here sparkle with natural magic, making crops grow larger and faster.
 
 **Climate:** Temperate, mild year-round ::
 **Dangers:** River pirates, bandits, occasional monsters from surrounding regions ::
@@ -4250,7 +4250,7 @@ Unlike western houses focused on military power or wealth, Starweavers accumulat
 - Maintain most complete pre-Worldrend library
 - Trained half of Aethoria's court wizards
 - Discovered three new planes of existence
-- Predicted every major Aehorian war (after it was too late to prevent)
+- Predicted every major Aethorian war (after it was too late to prevent)
 - Preserved the Star Staff and Stellar Crown
 
 ### Current Status (1247 CR)
@@ -4280,7 +4280,7 @@ Unlike western houses focused on military power or wealth, Starweavers accumulat
 
 **Power Base:** ::
 - Magical knowledge and expertise
-- Trains most Aehorian wizards
+- Trains most Aethorian wizards
 - Predicts events (sometimes)
 - Controls access to ancient knowledge
 - Pre-Worldrend legitimacy
@@ -4750,7 +4750,7 @@ Two heirs died "accidentally" (actually murdered by siblings)
 
 ### History
 
-A relatively young house by elven standards, House Thornveil rose from swamp-dwelling humans and half-elves who mastered the deadly Thornmire. While other Aehorian houses focused on forests and magic, Thornveil pursued wealth through alchemy, poisons, and forbidden knowledge.
+A relatively young house by elven standards, House Thornveil rose from swamp-dwelling humans and half-elves who mastered the deadly Thornmire. While other Aethorian houses focused on forests and magic, Thornveil pursued wealth through alchemy, poisons, and forbidden knowledge.
 
 **Rise Strategy:** ::
 - Monopoly on rare alchemical components
@@ -4832,7 +4832,7 @@ Reclusive house dwelling in perpetual mist of the highlands, House Windwhisper a
 **Influence:** ::
 - Other houses seek their counsel
 - Prophecies respected (and feared)
-- Trained most Aehorian seers
+- Trained most Aethorian seers
 - Neutral arbiters in disputes
 
 ### Current Status (1247 CR)
@@ -5009,7 +5009,7 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 **Rise:** ::
 - 1000-1050 CR: Drained swamps, built irrigation
 - Increased food production 400%
-- Fed growing Aehorian cities
+- Fed growing Aethorian cities
 - Granted nobility for essential services
 - Now indispensable to eastern economy
 
@@ -6473,7 +6473,7 @@ When the world tore itself apart and the Sundering Sea swallowed the central lan
 
 **Prince Aethos's Reign (0-187 CR)**
 
-Aethos established his royal line in the forest capital, claiming legitimate succession from the High Kings who had ruled before the Worldrend. Whether this claim was true or political convenience mattered less than the stability he provided. He built—or rather, grew—a palace among the world-trees that merged seamlessly with living wood. More controversially, he created the "chosen heir" succession system that would define Aehorian monarchy for over a millennium: heirs would be selected not by blood alone, but by communion with the world-trees themselves.
+Aethos established his royal line in the forest capital, claiming legitimate succession from the High Kings who had ruled before the Worldrend. Whether this claim was true or political convenience mattered less than the stability he provided. He built—or rather, grew—a palace among the world-trees that merged seamlessly with living wood. More controversially, he created the "chosen heir" succession system that would define Aethorian monarchy for over a millennium: heirs would be selected not by blood alone, but by communion with the world-trees themselves.
 
 **The Succession System**
 
@@ -6485,7 +6485,7 @@ When Aethos finally passed into the forest's embrace, his biological son expecte
 
 **Major Rulers**
 
-The dynasty has seen five major rulers across twelve centuries. Aethos (0-187 CR) founded both the kingdom and its unique succession system. Silvara (187-412 CR), the first chosen heir, proved the system's wisdom through centuries of just rule. Theron (412-689 CR) was a warrior-druid who defended the realm from raiders and expanded its borders. Elaria (689-1043 CR) enjoyed the longest reign in Aehorian history, expanding the city and establishing many of its current institutions. Aelindra (1043-Present) has ruled for over two centuries, guiding the kingdom through increasingly challenging times.
+The dynasty has seen five major rulers across twelve centuries. Aethos (0-187 CR) founded both the kingdom and its unique succession system. Silvara (187-412 CR), the first chosen heir, proved the system's wisdom through centuries of just rule. Theron (412-689 CR) was a warrior-druid who defended the realm from raiders and expanded its borders. Elaria (689-1110 CR) enjoyed the longest reign in Aethorian history, expanding the city and establishing many of its current institutions. Aelindra (1110-Present) has ruled for nearly a century and a half, guiding the kingdom through increasingly challenging times.
 
 ### Growth and Development (0-1247 CR)
 
@@ -6499,17 +6499,17 @@ Five centuries of peace allowed arts and magic to flourish. The population reach
 
 **The Splittide Rebellion (1089-1092 CR)**
 
-The same years that saw the Blackwood Rebellion in the west brought civil war to Aethoria. House Splittide, ruling the southwestern peninsula, sided with fey claims to territory they said had been stolen from the fey courts centuries earlier. Queen Aelindra crushed the rebellion with brutal efficiency. House Splittide was destroyed, their surviving members executed, their lands given to druid circles as neutral territory. It was a necessary act, most agreed, but it left a moral stain on the royal house that even two centuries have not entirely erased.
+The same years that saw the Blackwood Rebellion in the west brought civil war to Aethoria. House Splittide, ruling the southwestern peninsula, sided with fey claims to territory they said had been stolen from the fey courts centuries earlier. Queen Elaria crushed the rebellion with brutal efficiency. House Splittide was destroyed, their surviving members executed, their lands given to druid circles as neutral territory. It was a necessary act, most agreed, but it left a moral stain on the royal house that even a century and a half has not entirely erased.
 
 **Modern Era (1200-Present)**
 
-Today, Aethermere's population has stabilized at approximately 38,000. But stability masks growing concerns: the forest's health seems to be declining in ways even the most powerful druids struggle to understand, western expansion pushes ever closer to Aehorian borders, and—a secret known to only the innermost circle—one of the five world-trees that form the city's heart is slowly dying. Most controversial of all, Queen Aelindra's chosen heir is a half-elf, a choice that has divided the court between those who see it as progressive and those who view it as an insult to ancient traditions.
+Today, Aethermere's population has stabilized at approximately 38,000. But stability masks growing concerns: the forest's health seems to be declining in ways even the most powerful druids struggle to understand, western expansion pushes ever closer to Aethorian borders, and—a secret known to only the innermost circle—one of the five world-trees that form the city's heart is slowly dying. Most controversial of all, Queen Aelindra's chosen heir is a half-elf, a choice that has divided the court between those who see it as progressive and those who view it as an insult to ancient traditions.
 
 ### Current Status (1247 CR)
 
 **Ruler:** High Queen Aelindra Aethermere (age 1,494, elf)
 
-Queen Aelindra is both a powerful druid and an accomplished statesperson, chosen by the world-trees over two centuries ago after a ritual that some still whisper was not entirely above manipulation. Since her coronation, she has been rendered childless by the ritual's magic—a price all chosen rulers pay. She has two adult children from before taking the throne: Eldrin (158) and Elanil (142), neither of whom is eligible to inherit by tradition. Beloved by her people but visibly aging, she has already chosen her heir, triggering the controversy that now divides her court.
+Queen Aelindra is both a powerful druid and an accomplished statesperson, chosen by the world-trees over a century ago after a ritual that some still whisper was not entirely above manipulation. Since her coronation, she has been rendered childless by the ritual's magic—a price all chosen rulers pay. She has two adult children from before taking the throne: Eldrin (158) and Elanil (142), neither of whom is eligible to inherit by tradition. Beloved by her people but visibly aging, she has already chosen her heir, triggering the controversy that now divides her court.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
@@ -6517,7 +6517,7 @@ Queen Aelindra is both a powerful druid and an accomplished statesperson, chosen
 
 **Heir:** Theron Aethermere (age 89, half-elf)
 
-Theron is not a blood relative of the Queen—he was chosen, supposedly, by the world-trees themselves during the succession ritual. His half-elf status makes him the first non-pure-blooded heir in Aehorian history, and his name (the same as a legendary western prince) has raised suspicious eyebrows among those who question whether the ritual was truly unmanipulated. Some claim the Queen selected him herself and merely used the ritual to legitimize her choice. Others believe the world-trees chose deliberately, signaling that the old divisions between races must end if the forest is to survive.
+Theron is not a blood relative of the Queen—he was chosen, supposedly, by the world-trees themselves during the succession ritual. His half-elf status makes him the first non-pure-blooded heir in Aethorian history, and his name (the same as a legendary western prince) has raised suspicious eyebrows among those who question whether the ritual was truly unmanipulated. Some claim the Queen selected him herself and merely used the ritual to legitimize her choice. Others believe the world-trees chose deliberately, signaling that the old divisions between races must end if the forest is to survive.
 
 **City Structure**
 
@@ -6666,7 +6666,7 @@ With their water-speaking abilities, House Crystalborn claimed dominion over all
 
 **Official Recognition (1000 CR)**
 
-Queen Aelindra II Aethermere formalized Crystalborn control of the Crystalvale region in 1000 CR, granting them noble status. By this time, the house had expanded into banking, using their reputation for honesty (water-speakers could sense lies) to build trust among depositors. The population reached 8,000, and Crystalbrook established itself as the premier trade hub of eastern Aethoria.
+Queen Elaria Aethermere formalized Crystalborn control of the Crystalvale region in 1000 CR, granting them noble status. By this time, the house had expanded into banking, using their reputation for honesty (water-speakers could sense lies) to build trust among depositors. The population reached 8,000, and Crystalbrook established itself as the premier trade hub of eastern Aethoria.
 
 **The Modern Era (1189-Present)**
 
@@ -6759,7 +6759,7 @@ From its founding, House Thornveil embraced a gray morality that made their neig
 
 **Official Recognition (1000 CR)**
 
-Queen Aelindra II Aethermere faced an uncomfortable choice in 1000 CR. House Thornveil had become too wealthy, too powerful, and too useful to ignore. Their alchemical products saved lives across the continent, even as their methods violated every principle the crown claimed to uphold. In the end, pragmatism won. The Queen granted the Thornveils nobility—reluctantly, with visible moral disapproval, but granted nonetheless. By this time, Marshaven's population had reached 5,000, and the Thornveil economic empire was too entrenched to challenge.
+Queen Elaria Aethermere faced an uncomfortable choice in 1000 CR. House Thornveil had become too wealthy, too powerful, and too useful to ignore. Their alchemical products saved lives across the continent, even as their methods violated every principle the crown claimed to uphold. In the end, pragmatism won. The Queen granted the Thornveils nobility—reluctantly, with visible moral disapproval, but granted nonetheless. By this time, Marshaven's population had reached 5,000, and the Thornveil economic empire was too entrenched to challenge.
 
 ### Modern Era (1100-Present)
 
@@ -6848,7 +6848,7 @@ For nearly four centuries, House Splittide ruled the Split Peninsula while honor
 
 **The Crisis**
 
-While the Blackwood Rebellion tore apart western Thaldros, a parallel conflict erupted in Aethoria's southwest. The fey courts, growing increasingly bold, formally claimed the Split Peninsula as territory stolen from them centuries before the current treaties were signed. House Splittide, in a decision that shocked the royal court, agreed with the fey assessment. Lord Aldric Splittide offered to surrender the peninsula's governance to fey authority—a radical act that Queen Aelindra Aethermere considered nothing less than treason.
+While the Blackwood Rebellion tore apart western Thaldros, a parallel conflict erupted in Aethoria's southwest. The fey courts, growing increasingly bold, formally claimed the Split Peninsula as territory stolen from them centuries before the current treaties were signed. House Splittide, in a decision that shocked the royal court, agreed with the fey assessment. Lord Aldric Splittide offered to surrender the peninsula's governance to fey authority—a radical act that Queen Elaria Aethermere considered nothing less than treason.
 
 **The War**
 
@@ -8240,7 +8240,7 @@ Non-scholars feel unwelcome. This is not a city for common folk.
 #### Economy
 
 - **Primary:** Knowledge accumulation (not traditional economy)
-- **Secondary:** Training wizards (most Aehorian wizards studied here), astrological predictions (for fee)
+- **Secondary:** Training wizards (most Aethorian wizards studied here), astrological predictions (for fee)
 - **Trade:** Sell predictions, astronomical charts, magical training. Buy food, materials.
 - **Power:** Information is currency. They know things others don't.
 

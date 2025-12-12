@@ -6551,7 +6551,7 @@ Explain purpose honestly:
 > *"Lady Goldshore, we seek to honor your sacrifice. Your family died protecting this Component from those who'd misuse it. We're trying to prevent the World-Splitter's assembly, or if it must be assembled, ensure it's used justly. We're not thieves—we're finishing what you started."*
 
 **If Successful:**
-> *"You speak with conviction. I... I've waited so long for someone worthy. My family died screaming. Prince Aldric murdered us all. We knew he'd come for the Component eventually, so we hid it. Died protecting it. And for over a century, I've guarded it alone. Tell me: what will you do with it?"*
+> *"You speak with conviction. I... I've waited so long for someone worthy. My family died screaming. Prince Aldric murdered us all. We knew he'd come for the Component eventually, so we hid it. Died protecting it. And for over four decades, I've guarded it alone. Tell me: what will you do with it?"*
 
 **Party Must Answer:**
 - **Destroy it:** *"Wise, but can you? These are Primordial artifacts."*
@@ -12237,7 +12237,7 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 
 **Official History (Kingdom Version):**
 - Ancient noble house, served kingdom for 400+ years
-- over a century ago: Accused of conspiracy to trigger Second Worldrend
+- Over a century and a half ago: Accused of conspiracy to trigger Second Worldrend
 - Evidence: Found with World-Splitter components
 - Trial: Convicted of high treason
 - Punishment: Entire house executed, lands seized, name cursed

@@ -3751,13 +3751,13 @@ Graceful and ethereal (5'8", 120 lbs), with the timeless beauty of high elves. S
 ### Background & History
 Born in 247 BW, long before the Worldrend. Trained at the University of Arcane Studies in Silverpine (when it was one continent). Witnessed the Worldrend at age 247—one of the few elves alive who remembers the world before.
 
-Ascended to the throne in 1043 CR after being chosen by the world-trees. Her reign has been marked by wisdom, peace, and prosperity—but also by the shadow of the Worldrend and the question of succession.
+Ascended to the throne in 1110 CR after being chosen by the world-trees. Her reign has been marked by wisdom, peace, and prosperity—but also by the shadow of the Worldrend and the question of succession.
 
 Married Prince Consort Thaelon Starlight (another high elf, age 600+) before ascending to the throne. They have two children from before her coronation:
 - **Archmage Eldrin Aethermere** (age 158) - Royal Mage, wizard like his mother
 - **Princess Elanil Aethermere** (age 142) - Ambassador and diplomat
 
-*Note: Neither is heir. When Aelindra took the throne in 1043 CR, she underwent the coronation ritual that prevents further children. Succession follows the Chosen Heir system—currently Theron Aethermere (age 89, half-elf), selected by the world-trees.*
+*Note: Neither is heir. When Aelindra took the throne in 1110 CR, she underwent the coronation ritual that prevents further children. Succession follows the Chosen Heir system—currently Theron Aethermere (age 89, half-elf), selected by the world-trees.*
 
 She genuinely believes her claim to High Queen (of the unified realm) is legitimate. Unlike King Aldric IV, she doesn't seek reunification through force—she believes it will happen naturally when the time is right, guided by the stars.
 
@@ -18950,9 +18950,9 @@ ___
 **Role:** Iron Guild Leader, Mercenary Commander
 **Age:** 145 | **Alignment:** Lawful Neutral
 
-Varak founded the Iron Guild thirty years ago after leaving the Thaldros military. Under his leadership, it's become the premier mercenary organization in the realm—professional, well-equipped, and absolutely bound by contract. They've fought for kings and merchants, nobles and commoners. They don't ask why. They just deliver.
+Varak took over the Iron Guild fifty years ago after leaving the Thaldros military. Under his leadership, it's become the premier mercenary organization in the realm—professional, well-equipped, and absolutely bound by contract. They've fought for kings and merchants, nobles and commoners. They don't ask why. They just deliver.
 
-**Connections:** Employer to dozens of mercenaries. Respected by military commanders. Has contracts with noble houses across Thaldros. Distant cousin to Guildmaster Roderic of the Forgebound.
+**Connections:** Employer to dozens of mercenaries. Respected by military commanders. Has contracts with noble houses across Thaldros. Distant cousin to former Guildmaster Roderic Ironfist.
 
 **Secrets:** Lost his squad in an ambush 20 years ago—only survivor. The ambush was an inside job by a rival mercenary company. He knows who betrayed them and is slowly, methodically destroying their business. Also knows too much about various noble houses' dirty work.
 
