@@ -338,7 +338,7 @@ The Silverwood is an ancient forest of silver birch and oak trees, where dappled
 **Resources:** Timber (especially silver birch), wild herbs, mushrooms, venison
 
 **Major Settlements:**
-- **Silverpine:** A prosperous city built among ancient silver birch groves. Known for its Magical Academy, artisan guilds, and as a center of trade (Pop. ~32,000)
+- **Silverpine:** A prosperous city built among ancient silver birch groves. Known for its Magical Academy, artisan guilds, and as a center of trade (Pop. ~14,000)
 - **Oakenheart:** A forest town known for woodworking and druidic presence (Pop. ~3,200)
 - **Willowbrook:** A riverside town featuring waterwheel mills and paper production (Pop. ~2,600)
 - **Westmarch:** A frontier outpost that protects western settlements (Pop. ~1,600)
@@ -382,7 +382,7 @@ The western coast of Thaldros is blessed with natural harbors and a climate mode
 **Resources:** Trade goods from across world, ships, fish
 
 **Major Settlements:**
-- **Goldreach:** A wealthy coastal city serving as the primary port for western Thaldros and controlling ocean trade (Pop. ~28,000)
+- **Goldreach:** A wealthy coastal city serving as the primary port for western Thaldros and controlling ocean trade (Pop. ~16,000)
 - **Saltmere:** A coastal town known for salt harvesting and fish preservation (Pop. ~2,400)
 - **Harborview:** A harbor town specializing in shipbuilding and naval supplies (Pop. ~2,800)
 - **Westport:** A small port serving as an unofficial smuggler haven (Pop. ~1,500)
@@ -426,7 +426,7 @@ The southeastern region of Thaldros is a land of fire and ash—a volcanic waste
 \column
 
 **Major Settlements:** ::
-- **Ashgate:** Built on the edge of the volcanic region with black stone architecture and hot springs (Pop. ~12,000)
+- **Ashgate:** Built on the edge of the volcanic region with black stone architecture and hot springs (Pop. ~9,000)
 - **Cinderfall:** A town built on an old lava flow, known for obsidian mining (Pop. ~2,300)
 - **Emberforge:** A smithing town that uses volcanic heat (Pop. ~2,800)
 - **Eastmarch:** An eastern frontier town engaged in volcanic glass trade (Pop. ~2,500)
@@ -5994,73 +5994,47 @@ Lord Aldric Blackwood III claimed throne through grandmother's royal blood, trig
 
 ### Foundation (Ancient - Pre-Worldrend)
 
-Silverpine wasn't founded—it grew. The elven settlement emerged organically from the Silverwood forest itself over centuries, possibly millennia.
+Silverpine wasn't founded—it grew. The elven settlement emerged organically from the Silverwood forest itself over centuries, possibly millennia, its architecture so intertwined with the living trees that determining where nature ends and civilization begins is impossible.
 
-**Original Settlement (Pre-Worldrend):** ::
-- Ancient elven community
-- Part of original House Starleaf territory
-- Built among and within living trees
-- Architecture merged with nature
-- Population unknown (pre-Worldrend records lost)
+**Original Settlement (Pre-Worldrend)**
 
-**The Worldrend Impact (Year 0 CR):** ::
-- When continents split, Silverpine remained with western forests
-- Cut off from eastern kin (became Starweaver)
-- Magical disruption killed some world-trees
-- Population declined severely
-- Isolation for generations
+Before the cataclysm, Silverpine was an ancient elven community within the territory of the original House Starleaf—a great house that would later split into the western Silverleaf and eastern Starweaver branches. The elves built not upon the forest but within it, their homes grown from living wood, their walkways shaped from intertwining branches, their halls formed in the hearts of world-trees. Population records from this era were lost in the Worldrend, but the settlement was substantial enough to support a major branch of elven civilization.
+
+**The Worldrend Impact (Year 0 CR)**
+
+When the world tore itself apart and the continents split, Silverpine remained anchored in the western forests. The elves found themselves suddenly, permanently cut off from their eastern kin—those who would eventually become House Starweaver. The magical disruption that accompanied the cataclysm killed several world-trees, an event the elves still mourn twelve centuries later. The population declined severely as some perished in the chaos and others simply faded from grief. For generations afterward, Silverpine existed in isolation, its people focused on survival rather than expansion.
 
 ### The Western Branch Era (0-450 CR)
 
-**Rebuilding (0-200 CR):** ::
-- Surviving elves gathered at Silverpine
-- Became unofficial capital of Silverwood
-- Healing wounded forest
-- Re-establishing fey relationships
-- Mourning lost eastern kin
+**Rebuilding (0-200 CR)**
 
-**The Divergence (200-450 CR):** ::
-- Western branch evolving separately
-- Abandoning astronomy for forest focus
-- More contact with humans (necessity)
-- 327 CR: Attempted reunion with Starweaver rejected
-- 450 CR: Officially became "House Silverleaf"
+In the centuries following the Worldrend, surviving elves from across the wounded Silverwood gathered at Silverpine, transforming it from one community among many into the unofficial capital of the western forests. These were years of healing—healing the wounded trees, re-establishing relationships with the fey courts, and mourning the eastern kin they feared were lost forever. The elves turned inward, focusing on what remained rather than what was lost.
+
+**The Divergence (200-450 CR)**
+
+As generations passed, the western branch evolved separately from their eastern cousins. They gradually abandoned the astronomical pursuits that had defined House Starleaf, focusing instead on forest magic and nature communion. Necessity drove them into increasing contact with the human kingdoms rising in the lands beyond the Silverwood. In 327 CR, a diplomatic mission attempted to reunite with the Starweaver branch in the east—they were rejected. The eastern elves had evolved in their own direction, becoming focused purely on cosmic matters and viewing their forest-dwelling cousins as having lost their way. In 450 CR, the western branch formalized their separate identity, officially becoming House Silverleaf.
 
 ### House Silverleaf Rule (450 CR - Present)
 
-**Early Silverleaf Period (450-670 CR):** ::
-- Formalized rule over Silverwood
-- Built traditional structures alongside living wood
-- Population slowly recovered
-- Strategic alliances with emerging human kingdoms
+**Early Silverleaf Period (450-670 CR)**
 
-**The Thandris Alliance (670 CR):** ::
-- King Thorin II recognized Silverleaf as Lords of Silverwood
-- Alliance secured autonomy
-- Trade agreements established
-- Allowed Silverleaf to remain neutral power
-- Controversial among isolationist elves
+The newly named House Silverleaf formalized their rule over the Silverwood, establishing the governance structures that persist today. They built traditional structures alongside living wood architecture, creating spaces where non-elves could visit without disturbing the sacred upper canopy. Population slowly recovered as the forest healed and half-elven children—born of increasingly common unions with humans—swelled the community. Strategic alliances with emerging human kingdoms secured the forest's borders while preserving elven autonomy.
 
-**The Blackwood Era (587-1092 CR):** ::
-- Neighboring House Blackwood ruled much of Silverwood
-- Complex relationship: rivals and occasional allies
-- Both had fey connections
-- Blackwood rebellion put Silverleaf in difficult position
-- Silverleaf remained neutral (controversial decision)
+**The Thandris Alliance (670 CR)**
 
-**Post-Blackwood (1092-Present):** ::
-- Silverwood territories redistributed
-- Silverleaf gained some former Blackwood lands
-- Guilt over not helping Blackwood survivors
-- Secret: did help some escape
-- 1105 CR: Marriage alliance with Thandris (repair reputation)
+King Thorin II Thandris formally recognized House Silverleaf as Lords of the Silverwood in 670 CR, cementing an alliance that has lasted nearly six centuries. The agreement secured elven autonomy within their forest realm while establishing trade relationships that benefited both peoples. Silverleaf gained recognition and protection; Thandris gained access to elven craftsmanship and forest resources harvested sustainably under druidic supervision. The alliance proved controversial among isolationist elves who viewed any human entanglement as degradation of their ancient ways, but pragmatists recognized the necessity of securing their borders in a world increasingly dominated by shorter-lived races.
 
-**Modern Era (1200s):** ::
-- Increasing human encroachment
-- Forest health declining
-- Succession concerns (Arannis seen as too militant by some)
-- Growing tension over logging rights
-- Still neutral but strained
+**The Blackwood Era (587-1092 CR)**
+
+For five centuries, House Silverleaf shared the Silverwood with House Blackwood, a human noble family with unusually strong fey connections. The relationship was complex—rivals for forest resources, occasional allies against external threats, bound by ancient treaties with the fey courts that both houses honored. When the Blackwood Rebellion erupted in 1089 CR, House Silverleaf faced an impossible choice. The Blackwoods were neighbors, sometimes friends, fellow stewards of fey relationships. But they had also raised arms against the Crown. Lady Seraphine chose neutrality—a decision that saved Silverleaf from destruction but haunted the house ever after.
+
+**Post-Blackwood (1092-Present)**
+
+After the Rebellion's brutal suppression, Silverwood territories were redistributed. House Silverleaf received some former Blackwood lands, a reward that felt more like blood money. Officially, Silverleaf had remained neutral throughout the conflict. Unofficially—a secret known to few—Lady Seraphine had helped some Blackwood survivors escape the king's justice, spiriting them through secret forest paths to safety in the east. In 1105 CR, a marriage alliance with House Thandris helped repair Silverleaf's reputation and secure their position in the new political landscape.
+
+**Modern Era (1200s)**
+
+The past fifty years have brought increasing challenges. Human encroachment on the forest's edges accelerates despite treaties. Forest health declines in ways even druidic magic struggles to address. Succession concerns trouble the court—Lady Seraphine's chosen heir, Ranger-Lord Arannis, is seen by some as too militant, too quick to reach for violence against human loggers and settlers. Tensions over logging rights strain the ancient Thandris alliance. Silverleaf remains officially neutral in continental politics, but that neutrality grows harder to maintain as the world presses in on all sides.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
@@ -6068,38 +6042,29 @@ Silverpine wasn't founded—it grew. The elven settlement emerged organically fr
 
 ### Current Status (1247 CR)
 
-**Rulers:** ::
-- Lady Seraphine Silverleaf (age 1,394, wood elf, Matriarch)
-- Ranger-Lord Arannis Silverleaf (age 156, elf, Military Leader)
-- Council Mistress Elara Silverleaf (age 342, high elf, University Rector)
+**Rulers**
 
-**City Structure:** ::
-- No traditional streets—elevated walkways between trees
-- Living wood architecture (grown, not built)
-- Ground level: guest areas, human traders
-- Canopy level: elven residential, exclusive
-- Heart Tree: ancient world-tree, sacred
-- Hidden chambers in root systems
+Lady Seraphine Silverleaf (age 1,394, wood elf) serves as Matriarch and final authority on all matters of state. She has ruled for over eight centuries and shows no signs of fading, though she has withdrawn increasingly from daily governance. Ranger-Lord Arannis Silverleaf (age 156, elf), her chosen heir, commands the Forest Guard and handles military matters with an intensity that concerns moderates. Council Mistress Elara Silverleaf (age 342, high elf) serves as Rector of the university and represents the scholarly faction that still remembers the house's astronomical heritage.
+
+**City Structure**
+
+Silverpine has no traditional streets. Elevated walkways woven from living branches connect tree-homes throughout the canopy, a three-dimensional city that humans find disorienting. Living wood architecture dominates—structures grown rather than built, shaped by druidic magic over generations. Ground level hosts guest areas and human traders, the only part of the city where non-elves are freely welcomed. Canopy level remains exclusive to elves and honored guests, a realm of light and leaves that most humans never see. At the city's heart stands the Heart Tree, an ancient world-tree considered sacred, where the most important rituals occur. Hidden chambers in the root systems below contain secrets even most elves don't know exist.
 
 **Districts:** ::
-- **The Heart:** World-tree center, druidic rituals
-- **The Canopy:** Elven homes, council chambers
-- **The Market Ground:** Trade with humans, taverns
-- **The Groves:** Sacred gardens, meditation areas
-- **The Archive:** Pre-Worldrend texts, Starleaf history
-- **The Watch Posts:** Border monitoring, rangers
+- **The Heart:** The world-tree center, site of druidic rituals and council gatherings
+- **The Canopy:** Elven homes and council chambers in the upper branches
+- **The Market Ground:** Trade areas accessible to humans, with taverns and merchant stalls
+- **The Groves:** Sacred gardens and meditation areas for spiritual practice
+- **The Archive:** Repository of Pre-Worldrend texts and House Starleaf history
+- **The Watch Posts:** Border monitoring stations staffed by rangers
 
-**Population:** ::
-- ~10,000 elves (mostly wood elves)
-- ~3,000 half-elves (growing population)
-- ~1,000 human traders (temporary residents)
-- Various fey (uncounted, come and go)
+**Population Composition**
 
-**Government:** ::
-- Council of Elders (Lady Seraphine presides)
-- Fey Court representation
-- Forest Guard (militant druids and rangers, led by Arannis)
-- Trade Guild (handles human relations)
+Approximately 10,000 elves call Silverpine home, predominantly wood elves with smaller high elf and wild elf populations. The half-elven community has grown to roughly 3,000—a population increase that delights some elders and troubles others. Perhaps 1,000 human traders reside temporarily in the ground-level districts at any time, their numbers fluctuating with trade seasons. Various fey come and go uncounted, their presence felt more than seen.
+
+**Government**
+
+The Council of Elders governs Silverpine, with Lady Seraphine presiding over deliberations. The Fey Court maintains representation, their ambassadors attending council sessions and ensuring the ancient treaties are honored. The Forest Guard—a force of militant druids and rangers led by Arannis—handles defense and, increasingly, internal security. The Trade Guild manages all human relations, serving as intermediary between elven isolationists and human merchants.
 
 ## Goldreach (Major City)
 
@@ -6109,137 +6074,89 @@ Silverpine wasn't founded—it grew. The elven settlement emerged organically fr
 
 ### Foundation (Ancient - Pre-Worldrend Origins)
 
-Goldreach has existed longer than House Goldshore has ruled it. The natural harbor was used since before the Worldrend, serving as western terminus for the unified realm's maritime trade.
+Goldreach has existed longer than House Goldshore has ruled it. The natural harbor was used since before the Worldrend, serving as the western terminus for the unified realm's maritime trade.
 
-**Pre-Worldrend (Before Year 0):** ::
-- Major port of ancient House Deepwater
-- Western operations hub
-- Managed by Aldris Deepwater (third daughter)
-- Fleet of 40+ ships
-- Population estimated 5,000
+**Pre-Worldrend (Before Year 0)**
 
-**The Worldrend (Year 0 CR):** ::
-- Palace Port (headquarters) sank
-- Goldreach became primary surviving western port
-- Aldris the Younger took control
-- Fleet mostly survived (at sea during cataclysm)
-- Refugees flooded city
+Before the cataclysm tore the world apart, Goldreach was a major port belonging to the ancient House Deepwater, the great merchant dynasty that controlled maritime trade across what is now two continents. The western operations hub was managed by Aldris Deepwater, third daughter of the patriarch, commanding a fleet of over forty ships and a population estimated at 5,000. The harbor's natural advantages—deep water, sheltered anchorage, and favorable winds—made it indispensable to the Deepwater trading empire.
+
+**The Worldrend (Year 0 CR)**
+
+When the world split and the Sundering Sea swallowed the central lands, the Deepwater headquarters at Palace Port sank beneath the waves, taking the patriarch and most of the senior family with it. Goldreach suddenly became the primary surviving western port. Aldris the Younger—daughter of the local manager—took control of what remained. Most of the fleet survived, having been at sea during the cataclysm, but the city itself was overwhelmed as refugees from destroyed coastal settlements flooded in, desperate for any harbor that still stood.
 
 ### Post-Worldrend Chaos (0-200 CR)
 
-**The Survival Years (0-100 CR):** ::
-- Aldris the Younger proclaimed herself head of Deepwater (western)
-- Struggled to maintain merchant operations
-- Competition with eastern branch (Crystalborn)
-- Population fluctuated wildly
-- Pirates and chaos
+**The Survival Years (0-100 CR)**
 
-**The Salvage Wars Begin (100-400 CR):** ::
-- Expeditions to sunken Palace Port
-- Competing with Crystalborn for treasure
-- 237 CR: Naval battle with eastern fleet
-- 412 CR: Betrayal—stole maps from Crystalborn
-- Relations permanently soured
+In the desperate first century after the Worldrend, Aldris the Younger proclaimed herself head of House Deepwater's western branch—a claim her eastern cousins, who would become House Crystalborn, fiercely contested. She struggled to maintain merchant operations in a world where half the ports had vanished and trade routes no longer made sense. The population fluctuated wildly as refugees came seeking safety and left seeking opportunity. Pirates proliferated in the lawless waters. It was a time of mere survival, not prosperity.
 
-**The Merchant Rebuilding (200-600 CR):** ::
-- Gradual restoration of trade networks
-- New routes to eastern continent
-- Wealth slowly recovered
-- City expanded along coast
-- Still used Deepwater name
+**The Salvage Wars Begin (100-400 CR)**
+
+As chaos gave way to bitter competition, both branches of the shattered Deepwater dynasty launched expeditions to the sunken Palace Port, seeking to recover family treasures, trading records, and the legendary Deepwater archives. The western and eastern fleets competed ruthlessly for salvage rights. In 237 CR, competition turned to violence: a naval battle between Goldreach and Crystalborn ships left dozens dead and permanently soured relations. Then came the betrayal of 412 CR, when western agents stole maps to critical salvage sites from their eastern cousins—an act the Crystalborn have neither forgotten nor forgiven.
+
+**The Merchant Rebuilding (200-600 CR)**
+
+Through the centuries of chaos, Goldreach gradually restored its trade networks. New routes to the eastern continent replaced those lost in the cataclysm. Wealth slowly recovered as the city's merchants established themselves as essential intermediaries in cross-continental commerce. The city expanded along the coast, its warehouses multiplying, its harbor growing. Throughout this period, the ruling family still used the Deepwater name, clinging to a legacy that no longer fully belonged to them.
 
 ### House Goldshore Era (698 CR - Present)
 
-**The Transformation (698 CR):** ::
-- Captain Aldris Goldshore (descendant) given city charter
-- Formally abandoned "Deepwater" name
-- Became "Goldshore" (honoring heritage)
-- Granted nobility by King Thandris
-- Began banking operations
+**The Transformation (698 CR)**
 
+The formal transformation came in 698 CR, when Captain Aldris Goldshore—a descendant of the original Aldris the Younger—received a city charter from King Thandris. The family formally abandoned the contested "Deepwater" name, becoming "Goldshore" instead—a name that honored their heritage while distinguishing them from their eastern rivals. With the charter came official nobility and the beginning of banking operations that would eventually make them the wealthiest non-royal house in Thaldros.
 
-**The Rise (700-900 CR):** ::
-- Expanded shipping operations
-- Established Banking House of Goldshore
-- Bought partial ownership of Port Myrthen
-- Became wealthiest non-royal house
-- City grew to 10,000
+**The Rise (700-900 CR)**
 
-**The War Profiteer (834 CR):** ::
-- Orc invasions threatened Thaldros
-- Goldshore financed defense
-- Made fortune supplying armies
-- Granted nobility officially
-- King became indebted
+Over two centuries, House Goldshore expanded from merchants into merchant-princes. They built their shipping operations into a fleet that dominated western Thaldros, established the Banking House of Goldshore (which would become the kingdom's largest private financial institution), and bought partial ownership of Port Myrthen—the neutral island city that controlled much of the cross-continental trade. By 900 CR, the city had grown to 10,000 inhabitants, and no one doubted that Goldshore was the wealthiest non-royal house in the kingdom.
+
+**The War Profiteer (834 CR)**
+
+When orc invasions threatened Thaldros, House Goldshore saw opportunity in crisis. They financed the kingdom's defense, supplying armies and extending credit to a desperate crown. Their fortune multiplied while others suffered. In recognition of their "contributions," the king granted them full noble status—though cynics noted the grant came suspiciously close to the loan extensions. The king became indebted, and that debt gave Goldshore a kind of power that gold alone cannot buy.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
 \page
 
-**The Dragon Crisis (1156 CR):** ::
-- Loaned massive sums for dragon defense
-- King now owes 50,000 gold
-- Goldshore became kingdom's creditor
-- Political power through debt
-- Population reached 16,000
+**The Dragon Crisis (1156 CR)**
 
-**Modern Era (1200s):** ::
-- Banking empire across Thaldros
-- Largest private fleet (18 ships)
-- Information network
-- Political influence
-- Aldris III married late (human wife Lady Mirella, died 1230 CR)
+When the red dragon Infernalix emerged from the volcanic regions and demanded tribute, the kingdom turned again to Goldshore financing. The house loaned massive sums for dragon defense—sums the crown still hasn't repaid. Today, King Aldric IV owes approximately 50,000 gold to House Goldshore, making them not merely wealthy but the kingdom's primary creditor. Political power through debt has proven more durable than political power through force.
+
+**Modern Era (1200s)**
+
+Today, House Goldshore operates a banking empire that spans Thaldros. Their private fleet numbers eighteen merchant-warships, each capable of defending itself against pirates. Their information network reaches into every court and counting house. Lord Aldris III married late to a human woman, Lady Mirella, who died in 1230 CR—a loss that some say changed his temperament from merely ruthless to bitterly vindictive. The population has reached 16,000, making Goldreach the largest port in western Thaldros.
 
 ### Current Status (1247 CR)
 
-**Ruler:** Lord Aldris III Goldshore (age 178, half-elf) ::
-- Semi-retired patriarch, still makes major decisions
-- Brilliant merchant, ruthless negotiator
-- Obsessed with Deepwater legacy
-- Planning major salvage operation
-- Sees Crystalborn as enemies
+**Ruler:** Lord Aldris III Goldshore (age 178, half-elf)
 
-**Acting Lord:** Aldris IV Goldshore (age 45, human) ::
-- Son and heir, handles daily operations
-- Human appearance (inherited from mother)
-- More hands-on with smuggling operations
+Lord Aldris III has semi-retired from daily operations but still makes all major decisions. A brilliant merchant and ruthless negotiator, he has spent decades building his house's fortune while nursing an obsession with recovering the lost Deepwater legacy. He is currently planning a major salvage operation to the sunken Palace Port—one that will inevitably bring conflict with House Crystalborn, whom he views not as distant cousins but as enemies who stole what rightfully belonged to the western branch.
 
-**City Structure:** ::
-- Built in tiers rising from harbor
-- Lower District: docks, warehouses, poor
-- Middle District: markets, guilds, merchants
-- Upper District: banking houses, noble estates
-- The Heights: Goldshore palace, villas
-- Harbor: largest in western Thaldros
+**Acting Lord:** Aldris IV Goldshore (age 45, human)
+
+Lord Aldris IV, son and heir, handles daily operations with a more hands-on approach than his father. His human appearance—inherited from his mother—sometimes causes surprise among those expecting elven features, but his business acumen matches his father's. He is more directly involved in the house's less legitimate operations, including the smuggling networks that provide information and occasional off-the-books income.
+
+**City Structure**
+
+Goldreach rises in tiers from its magnificent harbor. The Lower District hugs the waterline with docks, warehouses, and the cramped housing of the poor. The Middle District climbs the slopes with markets, guildhalls, and merchant residences. The Upper District contains the banking houses and noble estates. The Heights crown the city with the Goldshore palace and aristocratic villas that look down upon the source of their wealth.
 
 **Districts:** ::
-- **The Docks:** Shipyards, warehouses, taverns
-- **Merchant's Row:** Trading houses, markets, guilds
-- **The Banking Quarter:** Financial institutions, vaults
-- **The Heights:** Noble estates, Goldshore palace
-- **The Fleet Yards:** Naval construction, repairs
-- **The Coin:** Financial district, money-changers
+- **The Docks:** Shipyards, warehouses, taverns, and dockworker housing
+- **Merchant's Row:** Trading houses, markets, and guild headquarters
+- **The Banking Quarter:** Financial institutions and secure vaults
+- **The Heights:** Noble estates and the Goldshore palace
+- **The Fleet Yards:** Naval construction and ship repairs
+- **The Coin:** Financial district and money-changers
 
-**Population:** ::
-- ~8,000 humans (majority)
-- ~3,000 half-elves (growing)
-- ~2,000 dwarves (craftsmen)
-- ~2,000 various (halflings, other traders)
-- ~1,000 transient (sailors, travelers)
+**Population Composition**
 
-**Economic Power:** ::
-- Controls 60% of western maritime trade
-- Largest private banking system
-- Employs 400+ merchants, sailors, guards
-- King owes massive debt
-- Partial ownership Port Myrthen
+Approximately 8,000 humans form the majority, with a growing community of 3,000 half-elves and 2,000 dwarven craftsmen. Another 2,000 residents of various races—halflings, other traders—call Goldreach home, along with roughly 1,000 transient sailors and travelers at any given time.
 
-**Military:** ::
-- Private navy: 18 merchant-warships
-- Harbor guard: 200 soldiers
-- Warehouse security: 100 guards
-- Bank guards: 50 (elite)
-- Spy network (size unknown)
+**Economic Power**
+
+House Goldshore controls approximately sixty percent of western maritime trade. Their banking system is the largest private financial network in Thaldros. They employ over 400 merchants, sailors, and guards directly, with thousands more dependent on their operations. The king's massive debt gives them political leverage that mere wealth alone could not provide. Their partial ownership of Port Myrthen gives them influence in cross-continental trade as well.
+
+**Military**
+
+The house maintains a private navy of eighteen merchant-warships, each armed for combat. The harbor guard numbers 200 soldiers, with another 100 guards securing warehouses and 50 elite guards protecting the banking vaults. The size of their spy network is unknown, but its reach extends across both continents.
 
 ## Crossvale (Major City)
 
@@ -6345,136 +6262,87 @@ Crossvale produces forty percent of Thaldros's grain and effectively controls gr
 
 Sundara was founded through vision and determination by Malik Ashborne, a merchant who unified the desert clans and built a permanent city where none had existed.
 
-**Before Sundara (Pre-967 CR):** ::
-- Desert was home to nomadic clans
-- No permanent settlements (too harsh)
-- Clans fought over oases
-- Trade caravans passed through quickly
-- Region considered worthless by northern kingdoms
+**Before Sundara (Pre-967 CR)**
 
-**Malik Ashborne (920-970 CR):** ::
-- Charismatic human trader
-- Discovered largest oasis cluster in desert
-- Realized permanent city was possible
-- Married into three major nomad clans
-- United them through combination of diplomacy and force
+Before Malik Ashborne's vision transformed the Sundaran Expanse, the desert was home only to nomadic clans who followed water and seasons in endless migration. No permanent settlements existed—the conditions were too harsh, the water sources too unreliable, the clan rivalries too violent. The nomads fought over oases with bloody regularity, temporary alliances forming and dissolving as necessity demanded. Trade caravans from the northern kingdoms passed through quickly, paying tribute to whichever clans controlled the route that season and counting themselves lucky to escape with their goods and lives. The northern kingdoms considered the region worthless—endless sand producing nothing they wanted.
 
-**The Founding (967 CR):** ::
-- Malik proclaimed Sundara at the oasis
-- "City of the Sun"
-- Built initial structures
-- Convinced clans to settle
-- Population: 500 initially
+**Malik Ashborne (920-970 CR)**
 
-**The Vision:** ::
-- Control trans-desert trade
-- Unite nomadic clans
-- Create permanent power base
-- Challenge northern kingdoms
-- Build wealth through commerce
+Malik Ashborne was a charismatic human trader who saw what others missed. During his decades of caravan work, he discovered the largest oasis cluster in the desert—a series of connected water sources that could support not just a camp but a city. He realized that whoever controlled those oases could control all desert trade. Rather than trying to conquer the nomads by force, he married into three major clans over fifteen years, binding their interests to his own through blood and kinship. Through a combination of diplomacy, strategic marriages, and occasional well-targeted violence, he united enough clans to make his vision reality.
+
+**The Founding (967 CR)**
+
+In 967 CR, Malik proclaimed the founding of Sundara—the "City of the Sun"—at the great oasis cluster. He built the initial structures himself alongside his followers, demonstrating through labor what words alone could not convey: that the desert could be home, not merely obstacle. Convincing nomads who had wandered for generations to settle permanently required more than architecture—it required a fundamental shift in identity. The initial population numbered perhaps 500, but Malik had planted a seed that would grow into an empire.
+
+**The Vision**
+
+Malik's vision extended far beyond a single city. He intended to control all trans-desert trade, unite the nomadic clans under permanent rule, create a power base that the northern kingdoms could not ignore, and build wealth through commerce rather than conquest. Everything that followed—the trade monopolies, the caravan networks, the eventual recognition by the crown—was implicit in that founding vision.
 
 ### The Rise (967-1050 CR)
 
-**Early Growth (967-1000 CR):** ::
-- Adobe and stone construction
-- Irrigation systems from oasis
-- Trade agreements with north and south
-- Clan integration (difficult)
-- Population reached 3,000
+**Early Growth (967-1000 CR)**
 
-**The Trade Monopoly (1000-1050 CR):** ::
-- Controlled all major desert routes
-- 12 oases under Ashborne control
-- Fortified trade posts
-- Caravan protection service
-- Became indispensable
+The first decades tested everything Malik had built. Adobe and stone construction rose around the oases, designed to reflect heat during blazing days and retain warmth during freezing nights. Irrigation systems channeled water from the oases to gardens and farms, making agriculture possible in the desert for the first time. Trade agreements with northern and southern merchants established Sundara as a waypoint rather than an obstacle. Integrating the clans proved difficult—old rivalries didn't vanish simply because a city rose around them—but by 1000 CR the population had reached 3,000 and the experiment had proven viable.
 
-**Royal Recognition (1050 CR):** ::
-- King Thandris granted Ashborne nobility
-- In exchange for tax revenue
-- Legitimized desert control
-- Sundara became official city
-- Population: 5,000
+**The Trade Monopoly (1000-1050 CR)**
+
+Over the next fifty years, House Ashborne systematically took control of desert commerce. They claimed twelve oases along major caravan routes, fortified them as trade posts, and offered caravan protection services that merchants could neither refuse nor replace. Anyone wanting to cross the desert needed Ashborne permission, Ashborne guides, Ashborne water. The monopoly made them indispensable—and wealthy beyond what any northern kingdom had thought possible from "worthless" desert.
+
+**Royal Recognition (1050 CR)**
+
+King Thandris III had little choice when he granted House Ashborne nobility in 1050 CR. The desert traders controlled resources and routes the kingdom needed; better to legitimize them and collect taxes than to fight a war across sand against enemies who knew every dune. Sundara became an official city, House Ashborne became official nobles, and the population reached 5,000. Malik Ashborne had died by then, but his descendants inherited exactly the empire he had envisioned.
 
 ### The Expansion (1050-1200 CR)
 
-**The Ambitious Era (1050-1156 CR):** ::
-- City expanded rapidly
-- Palace built
-- Market district established
-- Religious tolerance (revolutionary)
-- Population reached 10,000
+**The Ambitious Era (1050-1156 CR)**
 
-**The Dragon Crisis (1156 CR):** ::
-- Dragon devastated other regions
-- Sundara unaffected (too far south)
-- Ashborne sold war supplies at premium
-- Made enormous profit
-- Increased influence
-- "Profiteered from tragedy" (accusation)
+With legitimacy came expansion. The city grew rapidly as the Ashbornes invested their trade wealth in infrastructure: a palace worthy of kings, a market district that would become the largest in southern Thaldros, religious quarters for every faith (a revolutionary tolerance that attracted settlers from across the continent). The population reached 10,000, and Sundara transformed from oasis outpost to genuine city.
 
-**The Golden Age (1160-1200 CR):** ::
-- Wealthiest house in Thaldros (possibly)
-- Expanded into Heartlands trade
-- Merchant fleet at Goldreach
-- Political power growing
-- Population reached 15,000
+**The Dragon Crisis (1156 CR)**
+
+When the red dragon Infernalix devastated the volcanic regions in 1156 CR, Sundara was far enough south to escape the destruction. House Ashborne saw opportunity in others' tragedy. They sold war supplies at premium prices to a desperate kingdom, made enormous profits from the conflict, and increased their political influence while others suffered. Critics called them war profiteers; the Ashbornes called themselves pragmatists. Either way, they emerged from the crisis wealthier and more powerful than before.
+
+**The Golden Age (1160-1200 CR)**
+
+The decades following the Dragon Crisis marked House Ashborne's golden age. They became possibly the wealthiest house in Thaldros, expanding their operations beyond the desert into Heartlands trade and establishing a merchant fleet based at Goldreach. Political power grew alongside commercial success. By 1200 CR, the population had reached 15,000, and Sultan Ashborne commanded respect that gold alone could not have purchased.
 
 ### Current Status (1247 CR)
 
-**Ruler:** Sultan Rashid Ashborne (age 41, human) ::
-- Third generation noble
-- Ambitious, charismatic, calculating
-- Acts like ancient dynasty
-- Wants more than desert
-- Seven children (succession unclear)
+**Ruler:** Sultan Rashid Ashborne (age 41, human)
 
-**The Seven Children:** ::
-- From three wives (clan marriages)
-- Each child backed by different clan
-- Competing for succession
-- Oldest son died "accidentally" (1245 CR)
-- Rumors of poisoning
-- Succession crisis brewing
+Sultan Rashid is only the third generation of Ashborne nobility, but he acts as though his dynasty stretches back millennia. Ambitious, charismatic, and calculating, he has expanded his house's influence beyond the desert into continental politics. He wants more than the desert his grandfather built—he wants a seat at the table when kingdoms are made and unmade. His seven children, born to three wives from strategic clan marriages, compete openly for his favor, each backed by different faction interests.
 
-**City Structure:** ::
-- Built around oasis cluster
-- White adobe buildings (reflects heat)
-- Underground water channels
-- Massive covered market
-- Palace with gardens
+**The Seven Children**
+
+The succession crisis brewing in Sundara may prove the greatest threat the house has faced since Malik's death. Rashid's seven children—born to three wives from different clan marriages—have become pawns and players in a deadly game. Each child is backed by a different clan faction, and the competition for succession has turned violent. The oldest son died "accidentally" in 1245 CR; rumors of poisoning have never been proven or disproven. Rashid refuses to name a clear heir, either unable to choose or deliberately fostering competition. The result is a court of knives where siblings plot against siblings.
+
+**City Structure**
+
+Sundara is built around its life-giving oasis cluster, white adobe buildings designed to reflect brutal desert heat. Underground water channels carry life-giving water throughout the city, an engineering achievement that astonishes northern visitors. The massive covered market shields traders from the sun while they negotiate. The palace, surrounded by gardens that seem miraculous in the desert, dominates the skyline.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
 \page
 
 **Districts:** ::
-- **The Oasis:** Sacred center, water source
-- **The Palace District:** Sultan's complex, gardens
-- **The Great Bazaar:** Largest covered market in Thaldros
-- **The Clan Quarters:** Different clans have territories
-- **The Trade District:** Caravans, warehouses, stables
-- **The Foreign Quarter:** Northern traders, embassies
+- **The Oasis:** The sacred center and water source, restricted access
+- **The Palace District:** Sultan's complex with its famous gardens
+- **The Great Bazaar:** The largest covered market in Thaldros
+- **The Clan Quarters:** Different clans maintain their own territories
+- **The Trade District:** Caravans, warehouses, and stables
+- **The Foreign Quarter:** Northern traders and foreign embassies
 
-**Population:** ::
-- ~12,000 humans (mix of clans)
-- ~3,000 various races (traders)
-- ~2,000 slaves (controversial, nominally "servants")
-- ~1,000 transient (caravans)
+**Population Composition**
 
-**Economic Power:** ::
-- Controls all desert trade
-- Monopoly on desert resources
-- Water rights (twelve oases)
-- Private army (2,000 cavalry)
-- Wealthiest house (disputed)
+Approximately 12,000 humans from the various desert clans form the core population. Another 3,000 residents of various races have come as traders and settled. Perhaps 2,000 "servants"—the term slavery is officially forbidden though the practice continues under different names—labor in the markets and households. Around 1,000 transients pass through with caravans at any time.
 
-**Military:** ::
-- Desert Cavalry: 2,000 (elite)
-- City Guard: 500
-- Clan warriors: 3,000+ (when called)
-- Fortified oasis outposts
-- Strategic water control
+**Economic Power**
+
+House Ashborne controls all desert trade and maintains a monopoly on desert resources including rare spices, alchemical components, and the exotic goods that reach Sundara from southern lands. Their water rights extend to twelve oases, giving them life-or-death power over anyone crossing the desert. A private army of 2,000 elite cavalry enforces their will across the sands. Whether they are truly the wealthiest house in Thaldros is disputed; that they are among the top three is not.
+
+**Military**
+
+The Desert Cavalry numbers 2,000 elite warriors, mounted on horses bred for desert conditions and armed with curved blades and composite bows. A city guard of 500 maintains order within Sundara itself. When the clans are called, another 3,000 warriors can be mustered from the nomadic populations that still owe allegiance to the Ashborne name. Fortified outposts at the controlled oases provide strategic depth. Most importantly, House Ashborne controls water—and in the desert, controlling water means controlling everything.
 
 ## Ashgate (Major City)
 
@@ -6484,77 +6352,51 @@ Sundara was founded through vision and determination by Malik Ashborne, a mercha
 
 ### Foundation (920 CR)
 
-Ashgate was founded at the edge of the volcanic Ashfall Barrens as a gateway for volcanic resources—obsidian, fire opals, and volcanic iron.
+Ashgate was founded at the edge of the volcanic Ashfall Barrens as a gateway for volcanic resources—obsidian, fire opals, and volcanic iron. Its history is one of rise, catastrophic fall, and uneasy recovery.
 
-**The Founding (920 CR):** ::
-- Built by House Emberthorn
-- Named for "gate to the ash lands"
-- Strategic location: border between fertile lands and barrens
-- Fortified against volcanic hazards
-- Population: 1,000
+**The Founding (920 CR)**
 
-**Why This Location:** ::
-- Access to volcanic resources
-- Defensible position
-- Trade route junction
-- Last major settlement before barrens
-- Water source from underground springs
-\column
+House Emberthorn built Ashgate in 920 CR, naming it for its purpose: a gate to the ash lands, the volcanic wastes that others feared to enter. The location was strategic—at the border between fertile farmland and the deadly barrens, where trade routes converged before dissolving into lava fields and ash dunes. The Emberthorns fortified their new city against volcanic hazards, building with heat-resistant stone and channeling underground springs for water. The initial population numbered perhaps 1,000—adventurers, prospectors, and those willing to risk volcanic dangers for volcanic rewards.
+
+**Why This Location**
+
+The site offered everything House Emberthorn needed: access to resources found nowhere else in Thaldros, a naturally defensible position on volcanic highlands, a junction of trade routes that could funnel wealth through their hands, and the last reliable water source before the barrens began. It was dangerous, yes—eruptions, toxic gases, lava flows were constant threats—but danger meant others stayed away, leaving the Emberthorns with a monopoly on volcanic trade.
+
 ### House Emberthorn Rule (920-1156 CR)
 
-**The Glory Years (920-1100 CR):** ::
-- City prospered through volcanic trade
-- Obsidian quarries established
-- Volcanic forges (unique temperature)
-- Fire opal mines
-- Population reached 5,000
+**The Glory Years (920-1100 CR)**
 
-**The Emberthorn Fortress:** ::
-- Family castle built on volcanic rock outcrop
-- Lava moat (active channels)
-- Fire-resistant construction
-- Underground vaults
-- Impregnable (supposedly)
+For nearly two centuries, Ashgate prospered under Emberthorn rule. Obsidian quarries produced black glass prized across the continent for its sharpness and beauty. Volcanic forges, heated to temperatures no conventional furnace could match, produced steel of legendary quality. Fire opal mines yielded gems that adorned noble fingers from Kaer Thandros to Aethermere. By 1100 CR, the population had reached 5,000, and House Emberthorn ranked among the wealthiest minor houses in Thaldros.
 
-**The Wealth (1000-1156 CR):** ::
-- Controlled unique resources
-- Volcanic iron (premium quality)
-- Black glass exports
-- Fire-touched jewelry
-- Population reached 8,000
+**The Emberthorn Fortress**
+
+The family castle became legendary in its own right. Built on a volcanic rock outcrop, it featured an actual lava moat—active magma channels that made assault suicidal. Fire-resistant construction throughout used volcanic stone that could withstand dragonfire. Underground vaults protected the family treasures in chambers cooled by redirected underground streams. The fortress was called impregnable, and for two hundred years, nothing challenged that claim.
+
+**The Wealth (1000-1156 CR)**
+
+House Emberthorn's wealth derived from controlling resources found nowhere else. Volcanic iron—stronger and more heat-resistant than ordinary steel—commanded premium prices from smiths across the continent. Black glass exports decorated palaces and temples. Fire-touched jewelry, gems set in volcanic metal with flames eternally dancing within, became fashionable among the nobility. By 1156 CR, the population had reached 8,000, and Ashgate seemed destined for greatness.
 
 ### The Dragon Crisis (1156 CR)
 
-**Infernalix's Wrath:** ::
-Red dragon Infernalix emerged from volcanic chamber and claimed the barrens as her territory:
+**Infernalix's Wrath**
 
-**The Demands (1156 CR):** ::
-- Dragon demanded tribute
-- House Emberthorn refused
-- "We do not kneel to beasts"
-- Fatal mistake
+Everything changed when the red dragon Infernalix emerged from a volcanic chamber deep in the Ashfall Barrens. Ancient and terrible, she claimed the entire volcanic region as her territory—including Ashgate, which had been built, unknowingly, above her slumbering lair.
 
-**The Destruction:** ::
-- Dragon attacked in single day
-- Destroyed half the city
-- Burned Emberthorn fortress
-- Killed most of family
-- Enslaved survivors
-- Looted family vaults
+**The Demands (1156 CR)**
 
-**The Occupation (1156-1201 CR):** ::
-- Dragon ruled directly
-- Survivors paid tribute or fled
-- City population dropped to 2,000
-- Trade ceased
-- Darkness fell
+Infernalix demanded tribute: half of all volcanic resources, a portion of the city's wealth, and recognition of her sovereignty. House Emberthorn refused. "We do not kneel to beasts," Lord Marcus Emberthorn declared, confident in his impregnable fortress and his hired mercenaries. It was the last mistake his house would ever make.
 
-**The Mysterious End (1201 CR):** ::
-- Dragon suddenly vanished
-- No warning
-- Disappeared overnight
-- Never seen again (alive?)
-- Lair empty except bones and ash
+**The Destruction**
+
+The dragon attacked in a single day. Her flames burned hotter than the volcanic forges, reducing "fire-resistant" construction to slag. She destroyed half the city in hours, burned the "impregnable" Emberthorn fortress to a hollow shell, killed Lord Marcus and most of his family, enslaved those survivors who surrendered, and looted family vaults that had been called inviolable. By sunset, House Emberthorn existed only as refugees and corpses.
+
+**The Occupation (1156-1201 CR)**
+
+For forty-five years, Infernalix ruled Ashgate directly. Survivors who hadn't fled paid tribute or died. The population dropped to perhaps 2,000—those too poor to flee, those too stubborn to bow, and those the dragon found useful as slaves. Trade ceased entirely. The city that had been a gateway became a prison, and darkness fell over the Ashfall Barrens.
+
+**The Mysterious End (1201 CR)**
+
+And then, without warning, the dragon vanished. One night she ruled her domain of ash and fire; the next morning, she was gone. Her lair stood empty except for bones and ash—whether the bones of meals or the remains of Infernalix herself, no one has determined. She has never been seen again, alive or dead. Rumors persist: she was killed by a secret band of dragonslayers, she was summoned elsewhere by forces unknown, she sleeps still in some deeper chamber. The truth remains one of Tirvandor's enduring mysteries.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
@@ -6562,67 +6404,46 @@ Red dragon Infernalix emerged from volcanic chamber and claimed the barrens as h
 
 ### Post-Dragon Era (1201-Present)
 
-**The Power Vacuum (1201-1220 CR):** ::
-- Survivors cautiously returned
-- Multiple families claimed control
-- Chaos and fighting
-- No clear ruler
+**The Power Vacuum (1201-1220 CR)**
 
-**The Ashborne Expansion (1220-1247 CR):** ::
-- House Ashborne from south moved in
-- Claimed city through force
-- Restored some order
-- But distant rule (Sundara)
-- Population recovering: 9,000
+When news spread that the dragon had vanished, survivors cautiously returned to Ashgate. But there was no Emberthorn to restore order. Multiple merchant families claimed control, each backed by different outside interests. Chaos and fighting followed—a low-grade civil conflict that prevented recovery for nearly two decades. No clear ruler emerged.
 
-**Lady Sera Emberthorn:** ::
-- Last of main bloodline
-- Lives in ruins of family castle
-- Age 89, childless
-- Destitute but proud
-- Claims city should be returned
-- Current rulers ignore her
+**The Ashborne Expansion (1220-1247 CR)**
+
+House Ashborne, expanding from their desert power base in Sundara, saw opportunity in Ashgate's chaos. In 1220 CR, they moved in with mercenary forces, claimed the city through combination of gold and steel, and established at least nominal order. But their rule remains distant—Ashgate is governed from Sundara, hundreds of miles away, and real power rests with the merchant families who actually live there. Still, stability has allowed recovery: the population has grown to approximately 9,000.
+
+**Lady Sera Emberthorn**
+
+One reminder of the old order persists. Lady Sera Emberthorn, age 89, is the last survivor of the main bloodline. Childless and destitute, she lives in the ruins of the family castle that Infernalix destroyed, maintaining her dignity through poverty. She claims the city should be returned to Emberthorn rule—claims the current rulers pointedly ignore. Some say she's simply an old woman clinging to past glory. Others whisper that she knows secrets about the dragon's disappearance, secrets she'll take to her grave if no one asks the right questions.
 
 ### Current Status (1247 CR)
 
-**Rulers:** ::
-- Officially: House Ashborne (Sultan Rashid)
-- Actually: Council of merchant families
-- Governor: Appointed by Ashborne
-- Lady Sera: Claims legitimate rule (ignored)
-\column
-**Government:** ::
-- Merchant Council (five families)
-- Ashborne governor (nominal authority)
-- City guard (200 soldiers)
-- Trade guilds (real power)
+**Rulers**
 
-**City Structure:** ::
-- Built in tiers on volcanic slope
-- Upper City: ruined castle, wealthy district
-- Middle City: markets, guilds
-- Lower City: laborers, quarries
-- The Barrens: mining operations beyond
+Officially, House Ashborne rules Ashgate through Sultan Rashid's authority in Sundara. Actually, a council of merchant families makes most decisions, with an Ashborne-appointed governor providing nominal authority and occasional intervention. Lady Sera Emberthorn claims legitimate rule and is ignored. The result is a city with three competing power structures, none entirely in control.
+
+**Government**
+
+The Merchant Council comprises representatives of five major trading families who meet weekly to manage city affairs. The Ashborne governor attends meetings but rarely exercises authority. A city guard of 200 soldiers maintains order, answerable to whoever pays them most recently. The trade guilds hold the real power—they control the resources that give Ashgate its value.
+
+**City Structure**
+
+Ashgate rises in tiers up a volcanic slope. The Upper City contains the ruined Emberthorn castle and wealthy merchant estates built from its stones. The Middle City hosts markets and guild halls. The Lower City houses laborers and provides access to the quarries. Beyond the walls, mining operations extend into the Barrens themselves, staffed by those desperate enough to risk volcanic hazards for volcanic wages.
 
 **Districts:** ::
-- **The Ruins:** Emberthorn castle remains
-- **The Forge Quarter:** Volcanic smithies
-- **The Obsidian Market:** Black glass trade
-- **The Gateway:** Trade crossing, caravans
-- **The Crater District:** Near volcanic vents
+- **The Ruins:** What remains of Emberthorn castle, part home to Lady Sera, part monument
+- **The Forge Quarter:** Volcanic smithies still producing premium steel
+- **The Obsidian Market:** Center of black glass trade
+- **The Gateway:** Trade crossing where caravans gather
+- **The Crater District:** Near active volcanic vents, home to fire genasi and the very brave
 
-**Population:** ::
-- ~5,000 humans (mix)
-- ~2,000 dwarves (craftsmen, miners)
-- ~1,000 fire genasi (drawn to volcanoes)
-- ~1,000 various
+**Population Composition**
 
-**Economic Power:** ::
-- Obsidian monopoly
-- Volcanic iron trade
-- Fire opal exports
-- Gateway to barrens
-- Recovering but not wealthy
+Approximately 5,000 humans of various origins form the majority. Around 2,000 dwarves work as craftsmen and miners, drawn by volcanic forges and precious ores. About 1,000 fire genasi have gathered here, drawn by elemental affinity to volcanic energies. The remaining 1,000 residents come from various backgrounds.
+
+**Economic Power**
+
+Ashgate still holds monopolies on obsidian and volcanic iron, still exports fire opals and heat-resistant glass. But the dragon's occupation destroyed decades of accumulated wealth, and the city is still recovering. It serves as the gateway to the Barrens, controlling access to volcanic resources, but it is no longer wealthy—merely surviving, growing slowly, waiting perhaps for another disaster or perhaps for the recovery that each generation promises.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
@@ -6640,137 +6461,89 @@ Red dragon Infernalix emerged from volcanic chamber and claimed the barrens as h
 
 Aethermere predates the Worldrend by unknown centuries. The city wasn't founded—it evolved organically among the world-trees of the Emerald Deeps, growing from ancient druidic sanctuaries into the spiritual and political heart of eastern lands.
 
-**Pre-Worldrend Origins (Unknown - Year 0):** ::
-- Ancient druidic site of tremendous power
-- Built among world-trees (largest in world)
-- Architecture merged with living wood
-- Population unknown (records lost)
-- Capital of eastern territories before Worldrend
+**Pre-Worldrend Origins**
 
-**The Worldrend Impact (Year 0 CR):** ::
-- When continents split, Aethermere survived intact
-- Cut off from western territories
-- Prince Aethos claimed throne here
-- Became capital of new eastern kingdom
-- Refugees from sunken central lands
+Before the cataclysm, this site was already a place of tremendous druidic power. Ancient elves built their homes among the world-trees—the largest such trees known to exist anywhere in the world—their architecture merged so completely with living wood that the city seemed to breathe with the forest itself. Population records from this era were lost in the upheaval, but Aethermere served as the capital of the eastern territories even then, a center of nature magic and spiritual communion.
+
+**The Worldrend Impact (Year 0 CR)**
+
+When the world tore itself apart and the Sundering Sea swallowed the central lands, Aethermere survived intact. The great world-trees' roots ran too deep to be uprooted even by cataclysmic forces. But survival brought its own challenges: the eastern territories found themselves suddenly cut off from the western lands, their trade routes severed, their political connections dissolved. In the chaos that followed, Prince Aethos—a druid of the royal bloodline—claimed the throne in Aethermere, declaring it the capital of a new eastern kingdom. Refugees from the sunken central lands swelled the population, bringing grief, uncertainty, and the determination to build something new from the ashes of the old world.
 
 ### The Aethermere Dynasty (Year 0 - Present)
 
-**Prince Aethos's Reign (0-187 CR):** ::
-- Established royal line in forest capital
-- Claimed legitimate succession from High Kings
-- Built palace among world-trees (or grew it)
-- Created "chosen heir" succession system
-- Rules through wisdom and forest authority
+**Prince Aethos's Reign (0-187 CR)**
 
-**The Succession System:** ::
-Unlike western hereditary rule, Aethermere developed unique system:
-- Heir "chosen by the forest"
-- Not always blood relative
-- World-trees have final say
-- Ritual involves communion with trees
-- Controversial but maintained 1,200+ years
+Aethos established his royal line in the forest capital, claiming legitimate succession from the High Kings who had ruled before the Worldrend. Whether this claim was true or political convenience mattered less than the stability he provided. He built—or rather, grew—a palace among the world-trees that merged seamlessly with living wood. More controversially, he created the "chosen heir" succession system that would define Aehorian monarchy for over a millennium: heirs would be selected not by blood alone, but by communion with the world-trees themselves.
 
-**The First Chosen Heir (187 CR):** ::
-- Aethos's son rejected by forest
-- Instead, druid priestess chosen
-- Caused massive controversy
-- Son exiled (started minor war)
-- System proved itself (she ruled wisely)
+**The Succession System**
 
-**Major Rulers:** ::
-- Aethos (0-187 CR): Founder, druid-king
-- Silvara (187-412 CR): First chosen, priestess
-- Theron (412-689 CR): Warrior-druid, defended from raiders
-- Elaria (689-1043 CR): Longest reign, expanded city
-- Aelindra (1043-Present): Current queen, two children from before coronation, no heirs since ritual
+Unlike the hereditary rule practiced in western Thaldros, Aethermere's succession operates through ritual communion with the forest. When a ruler grows old or prepares to step down, the world-trees themselves choose the next monarch through an ancient ritual that no outsider has ever witnessed. The chosen heir need not be a blood relative—indeed, several queens and kings throughout history have been complete outsiders to the royal family. This system has remained controversial for over twelve hundred years: purists see it as sacred tradition, while skeptics whisper that the ritual can be manipulated by those who know its secrets.
+
+**The First Chosen Heir (187 CR)**
+
+When Aethos finally passed into the forest's embrace, his biological son expected to inherit. The world-trees rejected him. Instead, they chose Silvara, a druid priestess with no blood connection to the royal line. The controversy was immediate and violent—Aethos's son launched a minor rebellion that required years to suppress before accepting exile. But Silvara ruled wisely for over two centuries, proving that the forest's choice could be trusted. Her reign established the system's legitimacy, even if questions about its nature never entirely faded.
+
+**Major Rulers**
+
+The dynasty has seen five major rulers across twelve centuries. Aethos (0-187 CR) founded both the kingdom and its unique succession system. Silvara (187-412 CR), the first chosen heir, proved the system's wisdom through centuries of just rule. Theron (412-689 CR) was a warrior-druid who defended the realm from raiders and expanded its borders. Elaria (689-1043 CR) enjoyed the longest reign in Aehorian history, expanding the city and establishing many of its current institutions. Aelindra (1043-Present) has ruled for over two centuries, guiding the kingdom through increasingly challenging times.
 
 ### Growth and Development (0-1247 CR)
 
-**Early Period (0-400 CR):** ::
-- City expanded into canopy
-- Population: 5,000 to 15,000
-- Deep connection with forest solidified
-- Magic saturation increased
-- Became druidic pilgrimage site
+**Early Period (0-400 CR)**
 
-**The Golden Age (400-900 CR):** ::
-- Arts and magic flourished
-- Population reached 25,000
-- Multiple world-tree groves incorporated
-- Attracted scholars from across continent
-- Economic power through magical goods
+In the centuries following the Worldrend, Aethermere expanded upward into the canopy rather than outward across the forest floor. The population grew from an estimated 5,000 to 15,000 as refugees settled, families formed, and the city's reputation as a center of druidic learning spread. The deep connection between city and forest solidified until the two became inseparable—magic saturated every branch and root, making Aethermere not just a place where druids gathered but a pilgrimage site for nature worshippers across the eastern continent.
 
-**The Splittide Rebellion (1089-1092 CR):** ::
-Same period as western Blackwood Rebellion:
-- House Splittide sided with fey claims
-- Queen Aethermere (different queen then) crushed rebellion
-- Brutal suppression
-- Splittide lands given to druids
-- Moral stain on royal house
+**The Golden Age (400-900 CR)**
 
-**Modern Era (1200-Present):** ::
-- Population stabilized at 38,000
-- Increasing concerns about forest health
-- Western expansion encroaching
-- One world-tree dying (secret)
-- Current heir half-elf (controversial)
+Five centuries of peace allowed arts and magic to flourish. The population reached 25,000 as multiple world-tree groves were incorporated into the expanding city. Scholars from across the continent came to study at Aethermere's academies, and the city's reputation for magical goods brought wealth that funded further expansion. This era established Aethermere as the unquestioned center of eastern civilization—a position it has never entirely relinquished.
+
+**The Splittide Rebellion (1089-1092 CR)**
+
+The same years that saw the Blackwood Rebellion in the west brought civil war to Aethoria. House Splittide, ruling the southwestern peninsula, sided with fey claims to territory they said had been stolen from the fey courts centuries earlier. The then-Queen Aethermere—Aelindra's predecessor—crushed the rebellion with brutal efficiency. House Splittide was destroyed, their surviving members executed, their lands given to druid circles as neutral territory. It was a necessary act, most agreed, but it left a moral stain on the royal house that even two centuries have not entirely erased.
+
+**Modern Era (1200-Present)**
+
+Today, Aethermere's population has stabilized at approximately 38,000. But stability masks growing concerns: the forest's health seems to be declining in ways even the most powerful druids struggle to understand, western expansion pushes ever closer to Aehorian borders, and—a secret known to only the innermost circle—one of the five world-trees that form the city's heart is slowly dying. Most controversial of all, Queen Aelindra's chosen heir is a half-elf, a choice that has divided the court between those who see it as progressive and those who view it as an insult to ancient traditions.
 
 ### Current Status (1247 CR)
 
-**Ruler:** High Queen Aelindra Aethermere (age 1,494, elf) ::
-- Powerful druid, statesperson
-- Chosen heir 204 years ago
-- Childless since coronation (ritual prevents it)
-- Has two adult children from before taking throne: Eldrin (158) and Elanil (142)
-- Beloved but aging
-- Chose controversial heir
+**Ruler:** High Queen Aelindra Aethermere (age 1,494, elf)
+
+Queen Aelindra is both a powerful druid and an accomplished statesperson, chosen by the world-trees over two centuries ago after a ritual that some still whisper was not entirely above manipulation. Since her coronation, she has been rendered childless by the ritual's magic—a price all chosen rulers pay. She has two adult children from before taking the throne: Eldrin (158) and Elanil (142), neither of whom is eligible to inherit by tradition. Beloved by her people but visibly aging, she has already chosen her heir, triggering the controversy that now divides her court.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
 \page
 
-**Heir:** Theron Aethermere (age 89, half-elf) ::
-- Not blood relative
-- Chosen by world-trees (supposedly)
-- Named after western prince (suspicious)
-- Half-elf status controversial
-- Some claim queen manipulated ritual
+**Heir:** Theron Aethermere (age 89, half-elf)
 
-**City Structure:** ::
-- Built in/among five world-trees
-- Vertical city (ground to canopy)
-- Living wood architecture
-- No streets—walkways between trees
-- Constantly growing/changing
+Theron is not a blood relative of the Queen—he was chosen, supposedly, by the world-trees themselves during the succession ritual. His half-elf status makes him the first non-pure-blooded heir in Aehorian history, and his name (the same as a legendary western prince) has raised suspicious eyebrows among those who question whether the ritual was truly unmanipulated. Some claim the Queen selected him herself and merely used the ritual to legitimize her choice. Others believe the world-trees chose deliberately, signaling that the old divisions between races must end if the forest is to survive.
+
+**City Structure**
+
+Aethermere is built among and within five great world-trees, the largest living things in the known world. It is a vertical city that extends from root systems deep underground to canopy platforms hundreds of feet above the forest floor. Living wood architecture dominates—structures that are grown rather than built, shaped by druidic magic over generations. There are no streets in the conventional sense; instead, walkways woven from living branches connect different levels and trees. The city is constantly growing and changing, as new branches extend and old ones are absorbed back into the living structure.
 
 **The Five World-Trees:** ::
-1. **Heartwood:** Palace, throne room, royal quarters
-2. **The Archive:** Library, records, pre-Worldrend texts
-3. **The Sanctuary:** Druidic temple, rituals, healing
-4. **The Council:** Government chambers, courts
-5. **The Market:** Trade, workshops, visitors
+1. **Heartwood:** Houses the palace, throne room, and royal quarters
+2. **The Archive:** Contains the library, records, and pre-Worldrend texts
+3. **The Sanctuary:** The druidic temple, site of rituals and healing
+4. **The Council:** Government chambers and courts of law
+5. **The Market:** Trade areas, workshops, and visitor facilities
 
 **Districts:** ::
-- **The Roots:** Ground level, visitors, markets
-- **The Trunk:** Middle levels, residential, guilds
-- **The Canopy:** Upper levels, nobles, sacred areas
-- **The Heart:** Central space between five trees
-- **The Deep Roots:** Underground, vaults, secrets
+- **The Roots:** Ground level, where visitors and markets are found
+- **The Trunk:** Middle levels with residential areas and guild halls
+- **The Canopy:** Upper levels reserved for nobles and sacred areas
+- **The Heart:** Central space between the five trees, ceremonial
+- **The Deep Roots:** Underground levels containing vaults and secrets
 
-**Population:** ::
-- ~28,000 elves (wood elves mostly)
-- ~6,000 half-elves (increasing)
-- ~2,000 humans (scholars, traders)
-- ~1,000 fey (come and go)
-- ~1,000 various (druids from afar)
+**Population Composition**
 
-**Government:** ::
-- Queen (supreme authority)
-- Council of Druids (advisors)
-- Circle of Elders (noble houses)
-- Forest Guard (military/police)
-- Fey Court (consultative)
+Approximately 28,000 elves make their home in Aethermere, predominantly wood elves with significant high elf minorities. The half-elven population has grown to roughly 6,000—a demographic shift that delights progressives and troubles traditionalists. Perhaps 2,000 humans reside in the city as scholars and traders, welcomed in the lower levels but rarely permitted into the sacred canopy. Around 1,000 fey come and go according to their own unknowable schedules, while another 1,000 druids from distant lands study at the academies or make pilgrimage to the world-trees.
+
+**Government**
+
+The Queen holds supreme authority, advised by the Council of Druids and constrained by the Circle of Elders representing the noble houses. The Forest Guard serves as both military and police force, while the Fey Court maintains a consultative role in matters affecting the boundaries between mortal and fey realms.
 
 ## Starfall (Major City)
 
@@ -6780,121 +6553,78 @@ Same period as western Blackwood Rebellion:
 
 ### Foundation (Pre-Worldrend)
 
-Starfall's origins lie in a cosmic accident—an unusually high concentration of meteor strikes in one region, imbuing the area with celestial magic. Ancient scholars built the first observatory here to study the phenomenon.
+Starfall's origins lie in a cosmic accident—an unusually high concentration of meteor strikes in one region, imbuing the area with celestial magic. Ancient scholars built the first observatory here to study the phenomenon, and their descendants have watched the heavens ever since.
 
-**Pre-Worldrend (Unknown - Year 0):** ::
-- Part of House Starleaf territory (unified)
-- Eastern branch (Star Wardens) built Grand Observatory
-- Studied stars and cosmic forces
-- Population: estimated 2,000-3,000
-- Major astronomical research center
+**Pre-Worldrend (Unknown - Year 0)**
 
-**Why Meteors Fall Here:** ::
-- Ley line intersection
-- Thin barrier between planes
-- Cosmic alignment phenomenon
-- Or something attracting them?
-- Still not fully understood
+Before the Worldrend, this region was part of House Starleaf's unified territory—the same great house that would later split into Silverleaf in the west and Starweaver in the east. The eastern branch, calling themselves the Star Wardens, built the Grand Observatory here to study the celestial forces that seemed concentrated in this forest clearing. Population estimates suggest 2,000 to 3,000 elven scholars lived here, making it one of the major astronomical research centers of the ancient world.
 
-**The Worldrend Impact (Year 0):** ::
-- Observatory Citadel damaged but survived
-- Cut off from western kin (became Silverleaf)
-- Meteor activity actually increased post-Worldrend
-- Eastern branch became House Starweaver
-- Isolation intensified scholarly focus
+**Why Meteors Fall Here**
+
+Even after centuries of study, the Starweavers cannot fully explain why meteors strike this region with such unusual frequency. The most accepted theory involves the intersection of multiple ley lines, creating a focal point that draws celestial objects like a magical lodestone. Some scholars believe the barrier between material and astral planes is unusually thin here. Others point to cosmic alignments that repeat on thousand-year cycles. A minority faction—considered radical even by Starweaver standards—suggests something in the region is actively attracting the meteors, though they cannot agree on what or why. The truth remains one of Tirvandor's enduring mysteries.
+
+**The Worldrend Impact (Year 0)**
+
+When the world tore itself apart, the Observatory Citadel was damaged but survived—its enchanted foundations proving stronger than the cataclysmic forces that destroyed lesser structures. The Starweavers found themselves suddenly cut off from their western kin, who would eventually become House Silverleaf. Strangely, meteor activity actually increased following the Worldrend, as if the cataclysm had somehow enhanced whatever drew celestial objects to this place. Isolated and surrounded by a changed world, the eastern branch turned inward, intensifying their scholarly focus on the stars that had always defined them.
 
 ### House Starweaver Rule (Year 0 - Present)
 
-**The Separation (0-450 CR):** ::
-- Tried maintaining contact with west
-- Communication failed
-- Evolved pure astronomical focus
-- Abandoned forest magic entirely
-- 327 CR: Rejected western reunion
-- 450 CR: Officially "Starweaver"
+**The Separation (0-450 CR)**
 
-**The Building Era (450-800 CR):** ::
-- Reconstructed Grand Observatory
-- City expanded around it
-- Built collection platforms for meteors
-- Created Celestial Archives
-- Population reached 4,000
+For centuries, the eastern elves attempted to maintain contact with their western kin. Messages were sent across the Sundering Sea; none returned. Magical communication failed inexplicably. Gradually, hope gave way to acceptance. The eastern branch evolved in its own direction, pursuing pure astronomical focus while abandoning the forest magic their ancestors had practiced. In 327 CR, a diplomatic mission from the west finally arrived—and was rejected. The Starweavers had become something different from their forest-dwelling cousins, and they no longer wished to reunite. In 450 CR, they officially took the name "House Starweaver," severing the last symbolic connection to their shared past.
 
-**The Golden Age (800-1100 CR):** ::
-- Major astronomical discoveries
-- Trained most Aehorian wizards
-- Predicted several major events (after they happened)
-- Became prestigious magical academy
-- Population reached 7,000
+**The Building Era (450-800 CR)**
 
-**The Sealed Prophecy (1050s CR):** ::
-- Starweaver predicted something terrible
-- Sealed records, went silent for year
-- Refused to discuss
-- Other houses concerned
-- What did they see?
+With their identity settled, the Starweavers focused on construction. They reconstructed the Grand Observatory, making it larger and more powerful than the pre-Worldrend original. The city expanded around it in rings, each district dedicated to different aspects of celestial study. They built collection platforms for incoming meteors—dangerous work that claimed lives but yielded invaluable star-metal and celestial fragments. The Celestial Archives were established to preserve astronomical knowledge against future catastrophes. By 800 CR, the population had reached 4,000.
+
+**The Golden Age (800-1100 CR)**
+
+Three centuries of prosperity followed. Starweaver astronomers made discoveries that reshaped understanding of the cosmos—mapping distant stars, identifying planar conjunctions, developing prediction methods that bordered on prophecy. They trained most of Aethoria's wizards, their academy becoming the premier institution for magical education on the eastern continent. True, their predictions sometimes arrived after the events they foretold—but the knowledge gained from even late prophecy proved invaluable. The population peaked at 7,000, and House Starweaver's reputation for wisdom spread across both continents.
+
+**The Sealed Prophecy (1050s CR)**
+
+Then came the event that changed everything. In the 1050s, the Starweaver astronomers observed something in the heavens—something that terrified them into silence. Records were sealed. The Observatory went dark for an entire year. When the Starweavers emerged, they refused to discuss what they had seen. Other houses sent envoys demanding answers; all were turned away. What did they see? What do they know? Two centuries later, the Sealed Prophecy remains the most closely guarded secret in Aethoria.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
 \page
 
-**Modern Era (1200-Present):** ::
-- Still premier magical academy
-- Population stable at 6,500
-- Increasing isolation (pride?)
-- Heir questioning traditions
-- Stars showing strange patterns
+**Modern Era (1200-Present)**
+
+Today, Starfall remains the premier magical academy of Aethoria, though its population has declined slightly to 6,500. The house has grown increasingly isolated—whether from pride, fear, or simple preference for scholarly solitude, outsiders cannot determine. Archmagister Elaris, the current ruler, shows little interest in political affairs. His chosen heir, Lumina, questions this isolation, but her influence remains limited. Most troubling to those who pay attention: the stars are showing strange patterns again, patterns that senior Starweavers recognize but will not discuss.
 
 ### Current Status (1247 CR)
 
-**Ruler:** Archmagister Elaris Starweaver (age 612, elf) ::
-- Ancient, brilliant, cryptic
-- More interested in stars than politics
-- Considers events "brief fluctuations"
-- Terrified of something (hiding it)
-- Knows family's pre-Worldrend history
+**Ruler:** Archmagister Elaris Starweaver (age 612, elf)
 
-**Heir:** Lumina Starweaver (age 156, elf) ::
-- More politically engaged
-- Writing "accessible" spell book (radical)
-- Questions isolation from west
-- Secretly fascinated by forest magic
-- Contact with western cousin?
+Archmagister Elaris is ancient even by elven standards, brilliant beyond question, and deliberately cryptic in all communications. He cares more about stars than politics, dismissing continental conflicts as "brief fluctuations in the cosmic order." Yet those who know him well sense that something terrifies him—something he discovered long ago and has spent centuries trying to understand or prevent. He knows the family's pre-Worldrend history better than anyone alive, and he guards certain secrets with an intensity that suggests they matter more than he admits.
 
-**City Structure:** ::
-- Built in massive clearing
-- Central: Grand Observatory (tallest structure)
-- Radiates outward in astronomical pattern
-- Streets align with star positions
-- Roofs painted with constellations
+**Heir:** Lumina Starweaver (age 156, elf)
+
+Lumina represents everything her father is not: politically engaged, socially conscious, and willing to share knowledge beyond the Observatory's walls. Her project to write an "accessible" spell book—magical education for non-Starweavers—is considered radical, almost heretical, by conservative factions. She questions the house's isolation from the west, secretly fascinated by the forest magic her ancestors abandoned. Rumors suggest she has established covert contact with a western cousin in House Silverleaf, though neither house confirms this.
+
+**City Structure**
+
+Starfall occupies a massive forest clearing, its layout designed to reflect celestial patterns. The Grand Observatory rises at the center, the tallest structure for hundreds of miles, its great telescope pointed eternally skyward. Streets radiate outward in patterns that align with star positions on significant dates. Roofs throughout the city are painted with constellations, creating a map of the heavens that can be read from the Observatory's highest platforms.
 
 **Districts:** ::
-- **The Observatory:** Telescope, research, forbidden areas
-- **The Archives:** Library, pre-Worldrend texts, sealed prophecies
-- **The Academy:** Wizard training, student quarters
-- **The Star Market:** Magical components, astronomical tools
-- **The Meteor Fields:** Collection areas, dangerous
+- **The Observatory:** The great telescope, research facilities, and forbidden areas only senior astronomers may enter
+- **The Archives:** Library containing pre-Worldrend texts and the sealed prophecies no one discusses
+- **The Academy:** Wizard training facilities and student quarters
+- **The Star Market:** Magical components and astronomical tools for sale
+- **The Meteor Fields:** Dangerous collection areas where celestial debris is harvested
 
-**The Grand Observatory:** ::
-- Largest telescope in world
-- Can see neighboring planes
-- Requires multiple operators
-- Powered by meteor fragments
-- Access highly restricted
+**The Grand Observatory**
 
-**Population:** ::
-- ~4,000 elves (scholars, mages)
-- ~1,500 half-elves (students)
-- ~500 humans (visiting scholars)
-- ~300 various (apprentices)
-- ~200 constructs (research assistants)
+The largest telescope in the known world, the Grand Observatory can see not just distant stars but neighboring planes of existence. Operating it requires multiple astronomers working in concert, their magical abilities linked through complex rituals. The device is powered by fragments of meteors accumulated over centuries, their celestial energy channeled through crystalline lenses of Starweaver design. Access is highly restricted—only senior family members and their most trusted assistants may use the primary telescope.
 
-**Economic Power:** ::
-- Trains most Aehorian wizards
-- Sells predictions (when convenient)
-- Meteor material monopoly
-- Magical consulting
-- Knowledge as currency
+**Population Composition**
+
+Approximately 4,000 elves reside in Starfall, predominantly scholars and mages dedicated to astronomical research. Around 1,500 half-elves attend the Academy as students. Perhaps 500 humans visit as scholars seeking knowledge the Starweavers are willing to share. Another 300 residents of various races serve as apprentices and support staff. Uniquely, some 200 magical constructs assist with research—artificial beings created by Starweaver magic to perform tasks too dangerous or tedious for living assistants.
+
+**Economic Power**
+
+House Starweaver's wealth derives from knowledge rather than commerce. They train most of Aethoria's wizards, charging substantial tuition. They sell predictions when convenient—though never the important ones. Their monopoly on meteor materials, essential for certain magical applications, generates steady income. Magical consulting services for nobles and merchants add to their treasury. In Starfall, knowledge is the primary currency, and the Starweavers are very, very rich.
 
 ## Crystalbrook (Major City)
 
@@ -7180,93 +6910,62 @@ Approximately 2,000 druids make their permanent home in Wildgrove, joined by rou
 
 ### Foundation (Pre-Worldrend)
 
-Port Myrthen predates the Worldrend as a way-station between eastern and western lands. When the continents split, the island remained—perfectly positioned between the two new worlds.
+Port Myrthen predates the Worldrend as a way-station between eastern and western lands. When the continents split, the island remained—perfectly positioned between the two new worlds, and perfectly positioned to profit from both.
 
-**Pre-Worldrend (Unknown - Year 0):** ::
-- Trading post on central island
-- Neutral ground for merchants
-- Population: ~500
-- Managed by various powers
-- Minor but strategic
+**Pre-Worldrend (Unknown - Year 0)**
 
-**The Worldrend (Year 0 CR):** ::
-- Survived intact (island too small to split)
-- Refugees from Palace Port fled here
-- Became crucial link between continents
-- Multiple powers claimed it
-- Declared independence instead
+Before the cataclysm, the island that would become Port Myrthen served as a minor trading post in the central lands that once connected east and west. The natural harbor made it useful as a resupply point for long voyages, but the population never exceeded 500. Various powers managed it at different times—House Deepwater most recently—but no one considered it strategically vital. It was convenient, nothing more.
 
-**The Independence Declaration (3 CR):** ::
-- Refused all continental claims
-- "Neutral for all, owned by none"
-- Founded Merchant Council government
-- Population: 2,000 (refugees + original)
-- Risky but worked
+**The Worldrend (Year 0 CR)**
+
+When the world tore itself apart, the island survived intact—too small to be split by the forces that sundered continents. Refugees from the destroyed Palace Port fled here in whatever vessels remained seaworthy, transforming the minor trading post into a crowded refugee camp overnight. The island suddenly became crucial: the only significant landmass in the newly formed Sundering Sea, positioned almost exactly between the separated continents. Multiple powers immediately claimed it—western Thaldros, eastern Aethoria, the remnants of various destroyed factions—each insisting the island belonged to them.
+
+**The Independence Declaration (3 CR)**
+
+The refugees and original inhabitants, led by a merchant captain named Myrthen Seaborn, made an audacious choice. Rather than submit to any continental power, they declared independence. "Neutral for all, owned by none," became their motto. They founded a Merchant Council government where trade interests from both continents could participate without either dominating. The population had swelled to 2,000 with the influx of refugees. It was a risky gamble—a tiny island defying great powers—but the gamble paid off. Both continents needed a neutral port for cross-continental trade, and Port Myrthen was the only option.
 
 ### The Neutral Era (3 CR - Present)
 
-**Early Struggles (3-200 CR):** ::
-- Resisting conquest attempts
-- Building defenses
-- Establishing neutrality
-- Grew to 4,000
-- Became essential
+**Early Struggles (3-200 CR)**
 
-**The Golden Age (200-900 CR):** ::
-- Premier neutral port
-- Both continents accepted neutrality
-- Partial ownership by Goldshore/Crystalborn
-- Population: 6,000
-- Wealthy from tariffs
+The first two centuries tested Port Myrthen's resolve repeatedly. Western fleets attempted blockades; the island endured. Eastern armies threatened invasion; the island negotiated. Pirates saw opportunity; the island built defenses. Each challenge strengthened the port's position: the more essential it became to continental trade, the more costly any attack would be to the attacker. The population grew to 4,000 as merchants realized the profits available to those willing to deal with both continents.
 
-**The Modern Era (900-Present):** ::
-- Increasing tensions (house conflicts)
-- Pressure to choose sides
-- Maintains neutrality (barely)
-- Population: 9,000
-- Walking political tightrope
+**The Golden Age (200-900 CR)**
+
+For seven centuries, Port Myrthen flourished as the premier neutral port in the world. Both continents had formally accepted its independence, recognizing that the benefits of a neutral trading hub outweighed any advantage from conquest. House Goldshore from the west and House Crystalborn from the east each purchased partial ownership stakes—not enough to control the city, but enough to guarantee their interests were represented. The population reached 6,000, and wealth poured in from tariffs on every cargo that passed between continents.
+
+**The Modern Era (900-Present)**
+
+The past three centuries have brought increasing strain. The ancient conflict between Goldshore and Crystalborn has intensified, and Port Myrthen sits directly between them. Each house pressures the Merchant Council to favor their interests; each threatens consequences for favoring the other. The neutrality that once seemed unshakeable now feels fragile. The population has grown to 9,000, but many residents worry that the city is walking a political tightrope with no net below.
 
 ### Current Status (1247 CR)
 
-**Government:** Merchant Council ::
-- Seven merchant princes
-- Representatives from major trading houses
-- Elected by guild members
-- No hereditary rule
-- Balanced between continents
+**Government: The Merchant Council**
 
-**The Seven Princes:** ::
-- Three from western interests (including Goldshore rep)
-- Three from eastern interests (including Crystalborn rep)
-- One neutral (rotating)
-- Constant political maneuvering
-- Fragile balance
+Port Myrthen is governed by seven merchant princes, elected by guild members from across the city. The system is designed to prevent any single faction from dominating: three princes represent western interests (including a Goldshore representative), three represent eastern interests (including a Crystalborn representative), and one rotates among truly neutral merchants born on the island itself. No hereditary rule exists—princes serve terms, then return to private commerce. The balance is maintained through constant political maneuvering, deals within deals, and the shared understanding that destroying the balance would destroy the wealth it generates.
 
-**City Structure:** ::
-- Built on tiered hills
-- Harbor surrounds island
-- International quarter (neutral laws)
-- Each continental power has district
-- Central plaza (truly neutral)
+**The Seven Princes**
+
+The current council includes representatives from both Goldshore and Crystalborn banking operations, each watching the other for any sign of advantage-seeking. Western merchants control shipping, warehousing, and insurance. Eastern merchants dominate luxury goods, magical supplies, and information brokerage. The single neutral prince—currently a woman named Captain Sera Myrthen, descendant of the founder—casts the deciding vote on contested matters. The balance is fragile; every decision risks tilting it.
+
+**City Structure**
+
+Port Myrthen rises in tiered hills from a harbor that nearly surrounds the island. The international quarter at the city's heart operates under neutral laws that favor neither continent. Each continental power maintains its own district with its own laws and customs. The central plaza—site of the original independence declaration—remains truly neutral ground where disputes are mediated and treaties signed.
 
 **Districts:** ::
-- **The Western Quarter:** Thaldros merchants, laws
-- **The Eastern Quarter:** Aethoria merchants, laws
-- **The Neutral Zone:** City center, no favoritism
-- **The Harbor:** Docks, warehouses, mixed
-- **The Heights:** Merchant prince estates
+- **The Western Quarter:** Thaldros merchants operating under western laws
+- **The Eastern Quarter:** Aethoria merchants operating under eastern laws
+- **The Neutral Zone:** City center where no continental law applies
+- **The Harbor:** Docks and warehouses, mixed jurisdiction
+- **The Heights:** Estates of the merchant princes, overlooking all
 
-**Population:** ::
-- ~4,000 mixed western origin
-- ~4,000 mixed eastern origin
-- ~1,000 truly neutral (born here)
+**Population Composition**
 
-**Economic Power:** ::
-- Only major neutral port
-- 10% tariff on all goods
-- Information hub
-- Banking (Goldshore/Crystalborn offices)
-- Immense wealth from position
+The population divides almost perfectly between origins: approximately 4,000 residents trace ancestry to western Thaldros, 4,000 to eastern Aethoria, and 1,000 were born on the island itself—the only truly neutral citizens, and increasingly the most important. Children of mixed marriages often claim island identity regardless of parentage, slowly building a population with no continental loyalties.
+
+**Economic Power**
+
+Port Myrthen's wealth derives entirely from its position. As the only major neutral port between continents, it levies a ten percent tariff on all goods passing through—and virtually all cross-continental trade passes through. Both Goldshore and Crystalborn maintain banking offices here, using the neutral ground for transactions neither would trust to the other's territory. Information flows through the port as freely as cargo, making it an intelligence hub for anyone willing to pay. The immense wealth generated by this position funds the defenses that keep any single power from seizing control.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}

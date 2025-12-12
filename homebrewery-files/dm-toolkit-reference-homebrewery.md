@@ -822,7 +822,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Goldreach (Merchant League Capital)
 
-**Population:** ~28,000 | **Type:** Trade Hub | **Leader:** Trade Prince Lucian Goldfingers
+**Population:** ~16,000 | **Type:** Trade Hub | **Leader:** Trade Prince Lucian Goldfingers
 
 ### At a Glance
 - **Atmosphere:** Wealthy, bustling, cosmopolitan
@@ -961,7 +961,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Silverpine (Forest Settlement)
 
-**Population:** ~32,000 | **Type:** Forest Town | **Leader:** Lady Seraphine Silverleaf
+**Population:** ~14,000 | **Type:** Forest Town | **Leader:** Lady Seraphine Silverleaf
 
 ### At a Glance
 - **Atmosphere:** Natural, rustic, integrated with forest
