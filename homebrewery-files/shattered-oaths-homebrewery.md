@@ -366,7 +366,7 @@ Hit: 1d6+2 piercing damage.
 **IF A SCOUT IS CAPTURED/INTERROGATED:**
 
 **Intimidation DC 13:**
-> *"Alright, alright! We're with the Unbound! Lord Shadows recruited us—said the kingdoms are corrupt, said we'd be heroes for helping him! I don't know much, just... just that we're supposed to gather people for some kind of ritual."*
+> *"All right, all right! We're with the Unbound! Lord Shadows recruited us—said the kingdoms are corrupt, said we'd be heroes for helping him! I don't know much, just... just that we're supposed to gather people for some kind of ritual."*
 
 Reveals:
 - Working for "Lord Shadows" and "The Unbound"
@@ -601,7 +601,7 @@ As heroes rest at the inn, Captain Roderic Ironfist arrives urgently.
 - Suspects someone specific but has no proof
 
 **Persuasion DC 15 (Getting More Info):**
-> *"Alright, I'll be honest. I suspect it might be Garrett Stone, the mason. He's been acting strange—asking questions about old ruins, meeting with strangers. But I can't accuse a respected craftsman without evidence. His family's been here for generations. If I'm wrong, I destroy an innocent man. If I'm right and move too fast, he warns the others. That's why I need investigators, not guards."*
+> *"All right, I'll be honest. I suspect it might be Garrett Stone, the mason. He's been acting strange—asking questions about old ruins, meeting with strangers. But I can't accuse a respected craftsman without evidence. His family's been here for generations. If I'm wrong, I destroy an innocent man. If I'm right and move too fast, he warns the others. That's why I need investigators, not guards."*
 
 ---
 
@@ -649,7 +649,7 @@ Heroes must use social skills to investigate Silverpine's merchants and citizens
 > *"The letter came with this."* *(Produces a black raven token)* *"Same as what you found in the forest, I reckon. Someone's coordinating this. It's not random."*
 
 **If PCs Offer to Help:**
-> *"You'd do that? For a dwarf you just met?"* *(studies them carefully)* *"Alright. I respect that. Here's what I know—the letter said to leave the weapons at the old mill by the creek. Midnight, three days from now. They're planning a pickup."*
+> *"You'd do that? For a dwarf you just met?"* *(studies them carefully)* *"All right. I respect that. Here's what I know—the letter said to leave the weapons at the old mill by the creek. Midnight, three days from now. They're planning a pickup."*
 
 **Insight DC 15:**
 - Torin is genuinely frightened for his family
@@ -680,7 +680,7 @@ Heroes must use social skills to investigate Silverpine's merchants and citizens
 - She keeps glancing at a back room
 
 **Persuasion DC 14:**
-> *"Alright! Yes, I got a letter. But please, you have to understand—I can't refuse them. They said if I don't provide 200 gold pieces, they'll burn my shop. My LIVELIHOOD. Everything I've built!"* *(voice breaking)* *"And it's not just money they want. They want information. Guard patrol routes. Town council meeting schedules. I... I can't..."*
+> *"All right! Yes, I got a letter. But please, you have to understand—I can't refuse them. They said if I don't provide 200 gold pieces, they'll burn my shop. My LIVELIHOOD. Everything I've built!"* *(voice breaking)* *"And it's not just money they want. They want information. Guard patrol routes. Town council meeting schedules. I... I can't..."*
 
 **Insight DC 16:**
 - There's more she's not saying
@@ -722,7 +722,7 @@ Heroes must use social skills to investigate Silverpine's merchants and citizens
 > *"You want to know why? WHY?"* *(voice rising)* *"Because the kingdom failed us! Five years ago, my wife Elena died when border raiders attacked our village. The nobles were too busy squabbling to send help. She died because THEY didn't care about common folk! The Unbound? They promised justice. They promised the corrupt would pay. And I... I believed them."*
 
 **Intimidation DC 14 (Aggressive Approach):**
-> *"Alright! I'll talk! But you don't understand—I'm not the enemy! The KINGDOMS are the enemy! House Blackwood was destroyed because they tried to help people like us! The nobles rewrote history to cover their own crimes! The Unbound showed me the truth!"*
+> *"All right! I'll talk! But you don't understand—I'm not the enemy! The KINGDOMS are the enemy! House Blackwood was destroyed because they tried to help people like us! The nobles rewrote history to cover their own crimes! The Unbound showed me the truth!"*
 
 **If PCs Show Sympathy (Persuasion DC 13):**
 > *"You... you don't think I'm evil?"* *(breaks down)* *"I never wanted to hurt anyone. They said the ritual at the shrine was just... just symbolic. When I heard you rescued those people, I realized what I'd gotten into. I wanted out, but they said traitors die. The meeting tonight—they're planning something at Raven's Keep. Some kind of operation. That's all I know, I swear!"*
@@ -922,7 +922,7 @@ If Malachi is captured alive (reduced to 0 HP non-lethally or restrained):
 > *"You can torture me, but I'll never betray Lord Shadows! He showed us the TRUTH! House Blackwood protected the realm, and the kingdoms destroyed them for it!"*
 
 **Intimidation DC 13:**
-> *"Alright! We're gathering resources for the Raven's Keep operation tomorrow night. Lord Shadows himself will lead it. We're recovering the First Component—some ancient artifact the Blackwoods guarded. That's all I know about it!"*
+> *"All right! We're gathering resources for the Raven's Keep operation tomorrow night. Lord Shadows himself will lead it. We're recovering the First Component—some ancient artifact the Blackwoods guarded. That's all I know about it!"*
 
 Reveals:
 - Raven's Keep operation (tomorrow night)
@@ -3343,7 +3343,7 @@ If party has First Component, she examines it:
 
 **Dragon-Warding Preparations:**
 
-> *"Alright, dragon heist. Let's be scientific about this. Dragons have three primary defenses: frightful presence, breath weapon, and physical might. I can craft amulets to help with the first two. Give me six hours and 1,000 gold worth of components."*
+> *"All right, dragon heist. Let's be scientific about this. Dragons have three primary defenses: frightful presence, breath weapon, and physical might. I can craft amulets to help with the first two. Give me six hours and 1,000 gold worth of components."*
 
 **If Party Pays (1,000 gp):**
 - Creates 4 **Dragon-Warding Amulets**
@@ -3453,7 +3453,7 @@ Party must convince Kael this is worth risking death.
 > *"If we don't stop the Unbound, they'll unite the World-Splitter Components and trigger the Second Worldrend. Millions will die."*
 
 **Kael's Response:**
-> *"So we're preventing apocalypse. That's... adequate motivation. Alright. But I want my share of the hoard. Not greed—practicality. Dragon hunting is expensive. Gear breaks, potions cost, resurrection magic doesn't come cheap. I've died twice fighting dragons. Got better, obviously, but it hurt."*
+> *"So we're preventing apocalypse. That's... adequate motivation. All right. But I want my share of the hoard. Not greed—practicality. Dragon hunting is expensive. Gear breaks, potions cost, resurrection magic doesn't come cheap. I've died twice fighting dragons. Got better, obviously, but it hurt."*
 
 **Intimidation DC 16 (Demanding Help):**
 > *"You're Kael Dragonsbane. Prove you earned that name."*
@@ -3512,7 +3512,7 @@ Party must convince Kael this is worth risking death.
 > *"Equal share of the hoard. Not negotiable. I don't need wealth—I need resources to keep hunting. Every gold piece goes toward gear, potions, informants. This is my life's work. Either pay me fairly or find another dragon hunter."*
 
 **Persuasion DC 16 (Negotiate Lower):**
-> *"Alright. Half share. But if I die saving your lives, that share goes to the orphanage in Thornwatch. They take in kids whose families were killed by monsters. Make sure they get it."*
+> *"All right. Half share. But if I die saving your lives, that share goes to the orphanage in Thornwatch. They take in kids whose families were killed by monsters. Make sure they get it."*
 
 ---
 
@@ -3609,7 +3609,7 @@ Party must convince Kael this is worth risking death.
 >
 > *(Sits heavily on training bench)*
 >
-> *"Gods above. Alright. New terms. The Component, you keep—I trust you more than I trust current nobility. But any gold, gems, mundane treasure—that stays with the Crown. My knights need to be able to say we weren't looting. Acceptable?"*
+> *"Gods above. All right. New terms. The Component, you keep—I trust you more than I trust current nobility. But any gold, gems, mundane treasure—that stays with the Crown. My knights need to be able to say we weren't looting. Acceptable?"*
 
 **Intimidation DC 16 (Demanding Support):**
 > *"The fate of the world is at stake. Help us or get out of our way."*
@@ -5357,7 +5357,7 @@ Party must present actual plan:
 - If king refuses: THEN consider extreme measures
 
 **Corvus's Response:**
-> *"Alright. I'll try it your way. But if the kingdoms reject this—if they choose lies over truth—I WILL assemble the World-Splitter. That's my line. Justice or destruction. They choose."*
+> *"All right. I'll try it your way. But if the kingdoms reject this—if they choose lies over truth—I WILL assemble the World-Splitter. That's my line. Justice or destruction. They choose."*
 
 **Consequences:**
 - Temporary alliance with Corvus
@@ -5433,7 +5433,7 @@ Party must present actual plan:
 - Party's legacy
 
 **Well done! Act II is table-ready!** 🎉
-- Campaign becomes morally grey/dark
+- Campaign becomes morally gray/dark
 - Heroes help assemble World-Splitter
 - Final act is about CONTROLLING the Worldrend, not stopping it
 - Epilogue involves overthrowing kingdoms
@@ -10170,7 +10170,7 @@ Requires exposure to open flame during attunement. The blade must be held in fir
 **Value:** 3,000 gp
 
 **Description:**  
-A cloak of mottled greys and dark greens that seems to shift patterns to match surroundings. Woven from shadowsilk by elven artisans of the Silverleaf Enclaves. Nearly silent when moving.
+A cloak of mottled grays and dark greens that seems to shift patterns to match surroundings. Woven from shadowsilk by elven artisans of the Silverleaf Enclaves. Nearly silent when moving.
 
 **Lore:**  
 Created by Silverleaf rangers for covert missions. The original was a gift to a Goldshore spy 400 years ago, lost when Goldshore Manor sank. Recovered from the Shadow Vault.
@@ -11159,7 +11159,7 @@ Unlike Blood & Coin, enemies are more clearly defined:
 
 ### Quest 2.4: Lord Shadows Alliance
 **Impact:** Major campaign branching point
-- Join Lord Shadows → Alternative path, grey ending possible
+- Join Lord Shadows → Alternative path, gray ending possible
 - Oppose Lord Shadows → Traditional heroic path
 - Seek third option → Best ending possible, hardest path
 - This choice fundamentally changes Act III
@@ -11305,6 +11305,8 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 
 ### 1. THE FAILED EXPERIMENT
 
+![Lydia Thornweave](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lydia-thornweave.jpg){width:200px,float:right,margin-left:10px}
+
 **READ ALOUD:**
 > *Screams echo from a side street. You round the corner to find chaos—a young woman in academy robes backs against a wall while three animated suits of armor advance on her, swords raised. Sparks of wild magic crackle around her hands.*
 >
@@ -11417,6 +11419,8 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 
 ### 3. THE UNBOUND RECRUITER
 
+![Sister Solace](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sister-solace.jpg){width:200px,float:right,margin-left:10px}
+
 **READ ALOUD:**
 > *The Silver Harp tavern is quiet this evening. A hooded figure slides into the seat across from you, uninvited. When they lower their hood, you see a middle-aged woman with kind eyes and a gentle smile.*
 >
@@ -11477,6 +11481,8 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 ---
 
 ### 4. THE ACCUSATION
+
+![Widow Maren](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-widow-maren.jpg){width:200px,float:right,margin-left:10px}
 
 **READ ALOUD:**
 > *"MURDERERS!"*
@@ -12021,7 +12027,7 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 
 ### Quest 2.4 Dilemma: Lord Shadows' Offer
 **Situation:** Lord Shadows offers alliance - "Help me get justice, then we stop Worldrend together"
-**Choice 1:** Accept alliance - Grey path, possible best ending, morally complex
+**Choice 1:** Accept alliance - Gray path, possible best ending, morally complex
 **Choice 2:** Refuse and fight - Traditional heroic path, but truth may stay buried
 **Choice 3:** Fake alliance, betray later - Tactical, but dishonorable
 **DM Tip:** This should be agonizing choice. Lord Shadows is NOT lying about wanting justice.
@@ -12334,7 +12340,7 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 **Party Leaning Towards:**
 
 - □ Stop Lord Shadows at all costs (Traditional hero ending)
-- □ Help Lord Shadows get justice, then stop Worldrend (Grey ending)
+- □ Help Lord Shadows get justice, then stop Worldrend (Gray ending)
 - □ Let him succeed - world deserves to burn (Dark ending)
 - □ Find third option - save both Corvus and the world (Best ending)
 

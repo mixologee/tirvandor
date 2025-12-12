@@ -4005,7 +4005,7 @@ ___
 **Armor Class** :: 18 (Bracers of Defense, Wisdom modifier, no armor)
 **Hit Points** :: 126 (14d8 + 2d8 + 48)
 **Speed** :: 40 ft.
-![High Priest Rashid Al-Sahir](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sultan-rashid-al-sahir.jpg){width:325px,mix-blend-mode:multiply}
+![High Priest Rashid Al-Sahir](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-high-priest-rashid-al-sahir.jpg){width:325px,mix-blend-mode:multiply}
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -8797,7 +8797,7 @@ Born in 1202 CR to Lord Aldris Goldshore III (half-elf) and Lady Mirella Goldsho
 
 His father taught him business ruthlessly; the streets of Goldreach taught him cunning. At 20, he took control of a failing trade route and made it profitable through brilliant negotiation, strategic bribes, and eliminating competition (legally, mostly). By 25, he was running a quarter of House Goldshore's operations.
 
-As Lord Aldris III aged and his half-elven vitality finally began to wane in his 160s, Aldris IV gradually assumed more control. By 1235 CR, the transition was essentially complete—III remained the official patriarch and made major decisions, but IV handled day-to-day operations and the family's "grey market" enterprises.
+As Lord Aldris III aged and his half-elven vitality finally began to wane in his 160s, Aldris IV gradually assumed more control. By 1235 CR, the transition was essentially complete—III remained the official patriarch and made major decisions, but IV handled day-to-day operations and the family's "gray market" enterprises.
 
 Now at 45, Aldris IV is one of the wealthiest individuals in Tirvandor, controls a vast merchant fleet, and has influence in both kingdoms. His father, at 178, remains sharp but increasingly reclusive, focused on his obsession with recovering the Deepwater vaults. IV privately considers his father's fixation a waste of resources but indulges it for now.
 
@@ -11548,7 +11548,7 @@ He's a patient negotiator, willing to wait years for the right deal. He's also u
 **Key Details:**
 - Manages Stonehaven quarries for 60 years
 - Recent awakening of stone golems baffles him
-- Stocky, powerful, grey beard to his belt
+- Stocky, powerful, gray beard to his belt
 - Hands like granite from decades of stone work
 - Carries ancient stonecutter's hammer (family heirloom)
 - Deeply troubled by golem situation

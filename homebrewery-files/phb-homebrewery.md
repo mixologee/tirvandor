@@ -2701,7 +2701,7 @@ In Tirvandor, clerics serve one of the Seven Ascended (see Appendix C):
 - **Border:** Wandering priests and small shrines
 
 **In Campaigns:** ::
-- **Blood & Coin:** Good (healer, moral compass in grey world)
+- **Blood & Coin:** Good (healer, moral compass in gray world)
 - **Shattered Oaths:** Excellent (divine champion, crusader)
 
 ## Druid
@@ -3214,7 +3214,7 @@ You can have only one creature under the effect of this feature at a time. You c
 - **Border:** Wandering martial artists, bodyguards
 
 **In Campaigns:** ::
-- **Blood & Coin:** Challenging (discipline vs grey morality, but can work as bodyguard)
+- **Blood & Coin:** Challenging (discipline vs gray morality, but can work as bodyguard)
 - **Shattered Oaths:** Good (disciplined hero, martial arts master)
 
 ## Paladin
@@ -3492,7 +3492,7 @@ Paladins in Tirvandor swear oaths inspired by (but not directly to) the Ascended
 - **Border:** Rare but respected (oath-bound mercenaries, any oath)
 
 **In Campaigns:** ::
-- **Blood & Coin:** Challenging but very rewarding (oath vs grey reality creates drama)
+- **Blood & Coin:** Challenging but very rewarding (oath vs gray reality creates drama)
 - **Shattered Oaths:** Excellent (classic holy warrior, oath tested by darkness)
 
 ## Ranger
@@ -4246,7 +4246,7 @@ All patron types exist but are controversial:
 - **Border:** Must keep pact secret, valued for power if discreet
 
 **In Campaigns:** ::
-- **Blood & Coin:** Excellent (morally grey power, flexible, pact creates drama)
+- **Blood & Coin:** Excellent (morally gray power, flexible, pact creates drama)
 - **Shattered Oaths:** Good (requires explanation of pact, oath vs pact tension)
 
 ## Wizard
@@ -9472,5 +9472,5 @@ ___
 - Player-safe world information
 
 :
-Whether you're joining the morally grey mercenary world of **Blood & Coin** or the heroic struggle of **Shattered Oaths**, this handbook has the tools you need.
+Whether you're joining the morally gray mercenary world of **Blood & Coin** or the heroic struggle of **Shattered Oaths**, this handbook has the tools you need.
 {{/backCover}}

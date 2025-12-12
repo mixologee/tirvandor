@@ -3600,7 +3600,7 @@ The Campaign Dashboard is your **mission control** for running Tirvandor campaig
 
  □ Not Natural   □ Royal Knows   □ Blackwoods Framed  □ Stop Shadows at all costs (Hero)    
 
- □ Cover-up      □ Weapon        □ Could Repeat       □ Help then Stop (Grey)               
+ □ Cover-up      □ Weapon        □ Could Repeat       □ Help then Stop (Gray)               
 
  □ World Breaking   □ Bloodlines   □ Prophecy True    □ Let World Burn (Dark)               
 
@@ -4465,7 +4465,7 @@ d20 Roll | Encounter
 17 | Mercenary captain recruiting for suicide mission, huge pay
 18 | Assassin (Assassin stat block) watching mark at tavern
 19 | Iron Guild internal dispute—two captains draw weapons
-20 | Varak Ironhand personally seeking capable team for sensitive job
+20 | Varak Ironfist personally seeking capable team for sensitive job
 
 \column
 

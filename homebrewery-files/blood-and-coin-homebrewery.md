@@ -11,7 +11,7 @@ ___
 {{banner LEVELS 1-15}}
 
 {{footnote
-The Morally Grey Campaign | Everyone has a price
+The Morally Gray Campaign | Everyone has a price
 }}
 
 ![background](/assets/naturalCrit/adventure_cover.jpg){position:absolute,bottom:0,left:0,height:100%}
@@ -68,7 +68,7 @@ Version 2.0 | November 2025
 
 ## Campaign Overview
 
-**Blood & Coin** is a morally grey campaign where players take on the role of mercenaries navigating a world where everyone has a price and idealism gets you killed.
+**Blood & Coin** is a morally gray campaign where players take on the role of mercenaries navigating a world where everyone has a price and idealism gets you killed.
 
 ### **Campaign Themes**
 - **Moral Ambiguity:** No clear heroes or villains
@@ -88,13 +88,13 @@ Gritty, realistic, consequences-driven. Violence is common but meaningful. Death
 \page
 
 # Blood & Coin: Act I - Blood for Coin
-## The Morally Grey Campaign - Levels 1-5
+## The Morally Gray Campaign - Levels 1-5
 
 **Campaign:** Blood & Coin  
 **Act:** I - Blood for Coin  
 **Level Range:** 1-5  
 **Duration:** 15-20 sessions  
-**Tone:** Gritty, morally grey, mercenary survival  
+**Tone:** Gritty, morally gray, mercenary survival  
 **Theme:** "Everyone's got to start somewhere"
 
 ---
@@ -158,7 +158,7 @@ Crossroads sits at the intersection of three trade routes, far from royal oversi
 - Common room always busy
 - Best place for rumors
 
-**3. The Grey Market**
+**3. The Gray Market**
 - Open-air black market
 - Anything can be bought/sold (no questions)
 - Weapons, armor, poisons, information
@@ -192,7 +192,7 @@ Crossroads sits at the intersection of three trade routes, far from royal oversi
 - Dues: 15% but higher-paying contracts
 - Benefits: Better pay, fewer rules, more dangerous
 
-**The Grey Merchants** (Economic)
+**The Gray Merchants** (Economic)
 - Leader: Various merchants, no central authority
 - Philosophy: Profit above all
 - Control: Black market, trade, vice
@@ -249,7 +249,7 @@ After individual intros, PCs all end up at **The Copper Dragon** inn. This is wh
 *Behind the bar, a middle-aged halfling woman polishes a glass that will never be clean. Her eyes are sharp, calculating. She's seen a thousand sellswords walk through that door. She's wondering if you'll walk out.*
 >
 {{descriptive
-*A dwarf in battered plate armor sits alone in the corner, nursing an ale. His beard is iron-grey, his hands scarred. A veteran. He watches you with interest.*
+*A dwarf in battered plate armor sits alone in the corner, nursing an ale. His beard is iron-gray, his hands scarred. A veteran. He watches you with interest.*
 
 **NPCs Present:**
 
@@ -308,7 +308,7 @@ PCs make their way to the Iron Guild Hall to find work.
 
 *Medium humanoid (dwarf), lawful neutral*
 
-**Appearance:** 180 years old (middle-aged for a dwarf), grey-streaked brown beard in tight braids, iron rings woven throughout, chainmail always worn, massive warhammer propped against desk, scarred hands
+**Appearance:** 180 years old (middle-aged for a dwarf), gray-streaked brown beard in tight braids, iron rings woven throughout, chainmail always worn, massive warhammer propped against desk, scarred hands
 
 **Personality:**
 - Gruff, no-nonsense, business-first
@@ -452,7 +452,7 @@ Once rats are cleared (killed or driven off), PCs can investigate:
 - Take evidence to Cassia Valen
 - She rewards you 75gp for recovery
 - Oleg arrested, you make enemy of merchant network (they see you as rat)
-- **Consequence:** +1 Reputation with honest merchants, -1 Reputation with grey market
+- **Consequence:** +1 Reputation with honest merchants, -1 Reputation with gray market
 - **Alignment:** Lawful, "do the right thing"
 
 **Option 3: Blackmail Oleg**
@@ -464,7 +464,7 @@ Once rats are cleared (killed or driven off), PCs can investigate:
 - **Alignment:** Chaotic, opportunistic, "get paid twice"
 
 **Option 4: Fence the Goods Yourself**
-- Take the silk, sell it at Grey Market (DC 15 Persuasion, 400gp if successful)
+- Take the silk, sell it at Gray Market (DC 15 Persuasion, 400gp if successful)
 - Tell Oleg the rats ate everything, no evidence
 - Oleg suspects but can't prove anything
 - Tell Valen you found nothing
@@ -489,7 +489,7 @@ Regardless of choice, PCs return to guild with rat tails (proof of completion).
 
 **If you exposed Oleg:** *"Heard you turned in your client. Interesting choice. Merchants are gossiping about you—some love it, others won't work with a rat. Hope the righteousness was worth it. Still, you completed the contract technically. Membership approved."*
 
-**If you fenced the goods:** *"I'm hearing rumors about extra goods being sold at the Grey Market. Same goods your client was worried about. Interesting timing. I don't care—not my business—but be careful. People remember opportunists."*
+**If you fenced the goods:** *"I'm hearing rumors about extra goods being sold at the Gray Market. Same goods your client was worried about. Interesting timing. I don't care—not my business—but be careful. People remember opportunists."*
 
 **Outcome:**
 - ✅ Iron Guild membership granted
@@ -906,7 +906,7 @@ PCs can spend this time:
 - Higher pay (15% dues) but ruthless reputation
 
 **"Granny" Helga** (fence)
-- Runs stall at Grey Market
+- Runs stall at Gray Market
 - Buys stolen goods, no questions
 - Sells illegal items (poisons, etc.)
 
@@ -1686,7 +1686,7 @@ Plus both are grateful:
 - 📊 +3 Reputation: Mediator, Peacemaker, Wise
 - 📊 No enemies made
 - 🎭 Family healing begins
-- 🎭 Rare "good" ending in grey campaign
+- 🎭 Rare "good" ending in gray campaign
 - 🎭 PCs learn sometimes talking beats fighting
 
 ---
@@ -3465,7 +3465,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 *The first private room is tastefully appointed. A fire crackles. Wine and cheese set out. Military precision in every detail.*
 >
 {{descriptive
-*Commander Helena Dawnblade stands by the window, backlit by noon sun. She's imposing—six feet tall, silver armor polished to mirror sheen, holy symbol of Thaldros prominent on her chest. Late 40s, steel-grey hair in tight braid, face bearing scars from decades of service.*
+*Commander Helena Dawnblade stands by the window, backlit by noon sun. She's imposing—six feet tall, silver armor polished to mirror sheen, holy symbol of Thaldros prominent on her chest. Late 40s, steel-gray hair in tight braid, face bearing scars from decades of service.*
 >
 {{descriptive
 *She turns as you enter. Her eyes assess you with military efficiency.*
@@ -3475,7 +3475,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 
 ---
 
-## Npc: Commander Helena Dawnblade
+## NPC: Commander Helena Dawnblade
 
 *Medium humanoid (human), lawful neutral*
 
@@ -3522,7 +3522,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 #### Personality & Motivation
 
 **Age:** 48  
-**Appearance:** Imposing, armored, grey hair, battle-scarred, stern but not cruel
+**Appearance:** Imposing, armored, gray hair, battle-scarred, stern but not cruel
 
 **Personality:**
 - Career soldier who believes in order
@@ -3592,7 +3592,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 
 **"Why us specifically?"**
 {{descriptive
-*"Your work speaks for itself. [Reference Act I achievements]. You're competent. More importantly, you understand grey areas. Perfect soldiers follow orders without question. Perfect mercenaries complete contracts despite complications. I need the latter."*
+*"Your work speaks for itself. [Reference Act I achievements]. You're competent. More importantly, you understand gray areas. Perfect soldiers follow orders without question. Perfect mercenaries complete contracts despite complications. I need the latter."*
 
 **"What if we refuse?"**
 {{descriptive
@@ -3609,7 +3609,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 *"War has costs. I'll give you missions with... clear objectives. How you achieve them is your discretion. I need results, not reports on methods. Does that answer your question?"*
 
 **Insight DC 15:**
-- Dawnblade is sincere but knows she's hiring for morally grey work
+- Dawnblade is sincere but knows she's hiring for morally gray work
 - She's uncomfortable with some orders from above
 - Respects PCs enough to be honest about what's expected
 - Will follow orders even if they're war crimes
@@ -3648,14 +3648,14 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 *Same inn, different room. This one is simpler—wooden table, local wine, no extravagance. A statement.*
 >
 {{descriptive
-*Envoy Marcus Valen stands as you enter. He's in his 50s, wearing republican robes (no finery), grey beard, warm eyes, genuine smile. He looks tired but hopeful.*
+*Envoy Marcus Valen stands as you enter. He's in his 50s, wearing republican robes (no finery), gray beard, warm eyes, genuine smile. He looks tired but hopeful.*
 >
 {{descriptive
 *"Welcome, friends." His voice is warm, practiced. "Thank you for coming. Please, sit. I know Commander Dawnblade made her pitch this morning. Now hear ours."*
 
 ---
 
-## Npc: Envoy Marcus Valen
+## NPC: Envoy Marcus Valen
 
 *Medium humanoid (human), chaotic good*
 
@@ -3700,7 +3700,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 #### Personality & Motivation
 
 **Age:** 54  
-**Appearance:** Republican robes (simple), grey beard, warm eyes, tired but determined, genuine smile
+**Appearance:** Republican robes (simple), gray beard, warm eyes, tired but determined, genuine smile
 
 **Personality:**
 - True believer in democracy
@@ -3716,7 +3716,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 - Lost family to Thaldros royal decree (land seizure)
 - Believes democracy is humanity's future
 - Understands Aethoria is flawed but fixable
-- Willing to hire morally grey mercenaries
+- Willing to hire morally gray mercenaries
 
 **Motivation:**
 - Save democracy from monarchy
@@ -3836,7 +3836,7 @@ Both names refer to the same event. "Godsfall" emphasizes the divine conflict; "
 *The third room is different. No fire. Candles instead. Bookshelves lining walls. Maps of ancient ruins scattered on table. Occult symbols—not evil, just... old.*
 >
 {{descriptive
-*A man stands with his back to you, studying a map. He's in his 50s, wearing scholar's robes, grey hair tied back. When he turns, his eyes are intense—not mad, but focused with frightening clarity.*
+*A man stands with his back to you, studying a map. He's in his 50s, wearing scholar's robes, gray hair tied back. When he turns, his eyes are intense—not mad, but focused with frightening clarity.*
 >
 {{descriptive
 *"You came." His voice is measured, educated. "Good. That means you're thinking. Dawnblade offered order through oppression. Valen offered chaos through democracy. I offer a third option: burn it all down and build something better."*
@@ -3849,7 +3849,7 @@ Both names refer to the same event. "Godsfall" emphasizes the divine conflict; "
 
 ---
 
-## Npc: Corvus Blackwood
+## NPC: Corvus Blackwood
 
 *Medium humanoid (human), chaotic neutral*
 
@@ -3902,7 +3902,7 @@ Both names refer to the same event. "Godsfall" emphasizes the divine conflict; "
 #### Personality & Motivation
 
 **Age:** 55  
-**Appearance:** Scholar's robes, grey hair, intense eyes, surrounded by books and maps, focused, intelligent
+**Appearance:** Scholar's robes, gray hair, intense eyes, surrounded by books and maps, focused, intelligent
 
 **Personality:**
 - Brilliant scholar and historian
@@ -4326,7 +4326,7 @@ Both names refer to the same event. "Godsfall" emphasizes the divine conflict; "
 - Thaldros offers stability through oppression
 - Aethoria offers freedom through chaos
 - Unbound offers transformation through apocalypse
-- All are morally grey
+- All are morally gray
 - Let players decide what matters to them
 
 ---
@@ -4651,7 +4651,7 @@ If PCs are playing multiple sides, see "Multiple Factions" section at end.
 
 ### **No Right Answers**
 
-**All three missions are morally grey:**
+**All three missions are morally gray:**
 - Completing helps your faction but has moral cost
 - Refusing weakens faction but preserves conscience
 - Creative solutions are possible but risky
@@ -4900,7 +4900,7 @@ After 1-2 weeks, **Quest 2.3: The Double Cross** begins.
 
 ---
 
-## Npc: The Informant (Captain Sarah Vale)
+## NPC: The Informant (Captain Sarah Vale)
 
 *Medium humanoid (human), neutral good*
 
@@ -5360,9 +5360,9 @@ After 1-2 weeks, **Quest 2.3: The Double Cross** begins.
 
 **Old Mill, Midnight**
 
-**The Informant:** **elara corvus** (Corvus's daughter, estranged)
+**The Informant:** **Elara Corvus** (Corvus's daughter, estranged)
 
-## Npc: Elara Corvus
+## NPC: Elara Corvus
 
 *Medium humanoid (human), chaotic good*
 
@@ -5700,7 +5700,7 @@ After 1-2 weeks, **Quest 2.3: The Double Cross** begins.
 - Factions have logical reasons
 - Not "evil for evil's sake"
 - Pragmatic but wrong
-- Grey, not black
+- Gray, not black
 
 ### **The Confrontation Scene**
 
@@ -8639,7 +8639,7 @@ This quest establishes Act III pattern: constant crisis management.
 
 ---
 
-## Npc: Elise Thornwood (The Reaper)
+## NPC: Elise Thornwood (The Reaper)
 
 *Medium humanoid (human), chaotic evil (was neutral good)*
 
@@ -8868,7 +8868,7 @@ This quest establishes Act III pattern: constant crisis management.
 
 ---
 
-## Npc: The Prophet (Elara Corvus - Ascended)
+## NPC: The Prophet (Elara Corvus - Ascended)
 
 *Medium humanoid (human), chaotic neutral*
 
@@ -10672,7 +10672,7 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *Five years of work. You recruit, train, test hundreds of candidates. You select the best: Young, idealistic, skilled. You teach them everything you know.*
 >
 {{descriptive
-*Diplomacy. Combat. Investigation. Ethics. When to fight. When to talk. When to compromise. The grey wisdom you learned across 15 quests.*
+*Diplomacy. Combat. Investigation. Ethics. When to fight. When to talk. When to compromise. The gray wisdom you learned across 15 quests.*
 >
 {{descriptive
 *Eventually, the Academy is self-sustaining. 50 trained Peacekeepers. 200 in training. An institution. A legacy.*
@@ -10782,7 +10782,7 @@ Same options as Ending 2 - each PC retires how they wish.
 
 **Example 3: Cleric PC who struggled with faith**
 {{descriptive
-*You write theological treatise: "The Gods in Grey." Becomes foundational text for new religious philosophy embracing moral complexity. Start new religious order. Die peacefully, faith intact, having reconciled belief with reality.*
+*You write theological treatise: "The Gods in Gray." Becomes foundational text for new religious philosophy embracing moral complexity. Start new religious order. Die peacefully, faith intact, having reconciled belief with reality.*
 
 **Customize for each PC based on their journey.**
 
@@ -10801,7 +10801,7 @@ Same options as Ending 2 - each PC retires how they wish.
 *(PCs who died can appear as spirits for this scene)*
 >
 {{descriptive
-*You look at each other. Older. Grey. Scarred. But alive. You survived.*
+*You look at each other. Older. Gray. Scarred. But alive. You survived.*
 >
 {{descriptive
 *Someone raises toast: "To the Peacekeepers. To the impossible. To blood, coin, and everything between."*
@@ -10885,7 +10885,7 @@ Same options as Ending 2 - each PC retires how they wish.
 *But because you chose to. Every day. Every impossible choice. You chose to try.*
 >
 {{descriptive
-*And in the end, in the grey world of blood and coin, of moral compromise and necessary evil, of pragmatic heroism and earned peace...*
+*And in the end, in the gray world of blood and coin, of moral compromise and necessary evil, of pragmatic heroism and earned peace...*
 >
 {{descriptive
 *You chose RIGHT.*
@@ -10897,7 +10897,7 @@ Same options as Ending 2 - each PC retires how they wish.
 
 ## Campaign Complete
 
-**BLOOD & COIN: A Morally Grey Campaign**
+**BLOOD & COIN: A Morally Gray Campaign**
 
 **Acts I-III Complete**  
 **15 Quests**  
@@ -11004,7 +11004,7 @@ Same options as Ending 2 - each PC retires how they wish.
 2. **Moral complexity was consistent** - No easy answers
 3. **Consequences were real** - Actions had lasting impact
 4. **NPCs were memorable** - Recurring characters built investment
-5. **Tone was maintained** - Grey throughout, never black/white
+5. **Tone was maintained** - Gray throughout, never black/white
 
 **If players loved it:**
 - You succeeded in something rare
@@ -11015,7 +11015,7 @@ Same options as Ending 2 - each PC retires how they wish.
 **If players struggled with it:**
 - That's okay too
 - Some players prefer clear heroes/villains
-- Grey campaigns aren't for everyone
+- Gray campaigns aren't for everyone
 - At least you tried something bold
 
 **Either way:**
@@ -11030,7 +11030,7 @@ Same options as Ending 2 - each PC retires how they wish.
 
 **To the players who became Peacekeepers:**
 
-You navigated impossible choices. You found paths through moral mazes. You proved that heroism exists even in grey worlds.
+You navigated impossible choices. You found paths through moral mazes. You proved that heroism exists even in gray worlds.
 
 You weren't perfect heroes. You were REAL heroes. Flawed, struggling, compromising, but ultimately choosing right more often than wrong.
 
@@ -13653,7 +13653,7 @@ Many "enemies" aren't evil:
 - **Varak Ironfist** (Dwarf, CR 5) - Iron Guild leader, quest giver
 - **Lucky Finn** (Human, CR 1) - Informant, friendly guide
 - **Kael Shadowbane** (Human, CR 4) - Guild enforcer, potential rival
-- **Elara "Red Wolf" Thornwood** (Human, CR 7) - Crime boss, morally grey ally
+- **Elara "Red Wolf" Thornwood** (Human, CR 7) - Crime boss, morally gray ally
 - **Elara** (Human, CR 4) - Prophet, catalyst for Act I finale
 - **Marcus Blackwood** (Human, CR 3) - Refugee leader, moral choice
 
@@ -13798,7 +13798,7 @@ Many "enemies" aren't evil:
 **Impact:** Determines Act II questline
 - Join Thaldros → Military missions, honor-bound
 - Join Aethoria → Political intrigue, idealism tested
-- Join Thornwood → Criminal operations, moral grey area
+- Join Thornwood → Criminal operations, moral gray area
 
 ### Quest 2.5: Breaking Point
 **Impact:** Determines Act III difficulty and endings
@@ -13974,6 +13974,8 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 
 ### 2. THE DESPERATE VETERAN
 
+![Torvin Steelhammer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-torvin-steelhammer.jpg){width:200px,float:right,margin-left:10px}
+
 **READ ALOUD:**
 > *A grizzled dwarf in battered armor blocks your path. His left hand is missing—replaced by a crude hook. His eyes are wild, desperate.*
 >
@@ -14098,6 +14100,8 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 
 **IF PARTY ATTENDS:**
 
+![Sera Bonecrusher Vance](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sera-bonecrusher-vance.jpg){width:200px,float:right,margin-left:10px}
+
 **READ ALOUD:**
 > *The warehouse basement is packed. A sand-floored pit, twenty feet across, surrounded by shouting spectators. Blood stains the sand. A woman built like a siege engine raises her arms for silence.*
 >
@@ -14133,6 +14137,8 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 ---
 
 ### 5. THE GUILD SHAKEDOWN
+
+![Sergeant Kira](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sergeant-kira.jpg){width:200px,float:right,margin-left:10px}
 
 **READ ALOUD:**
 > *Three Iron Guild enforcers block your path as you leave your lodgings. The leader—a scarred woman with sergeant's marks—steps forward.*
@@ -14603,7 +14609,7 @@ When fighting in his sanctum, Arcanus can use lair actions:
 - Motivated by gold, survival, or pragmatic goals
 - Not zealots or absolute pacifists (campaign won't work)
 - Backstory connections to Crossroads encouraged
-- Consider: Why would your character take morally grey contracts?
+- Consider: Why would your character take morally gray contracts?
 
 ### Party Cohesion
 - Establish shared history or mutual need

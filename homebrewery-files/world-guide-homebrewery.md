@@ -557,7 +557,7 @@ Highlands covered in perpetual mist and ancient pines. The region has a haunting
 **Major Settlements:** ::
 - **Mistview:** Highland town (pop. ~3,500)
 
-**Minor Settlements:** Fogveil, Cloudrest, Shadowpine, Misthollow, Greymist, Palewatch (villages) and Ghostwood, Dimvale (hamlets) ::
+**Minor Settlements:** Fogveil, Cloudrest, Shadowpine, Misthollow, Graymist, Palewatch (villages) and Ghostwood, Dimvale (hamlets) ::
 
 #### The Thornmire Marches (South-Central)
 
@@ -1611,7 +1611,7 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1203 CR: The Darkwood Incident** - entire forest in Aethoria corrupted by shadow magic
 - **1204 CR: Second Blackwood Purge** - Crown discovers hidden Blackwood survivors living under assumed identities in remote Silverwood
 - **1204 CR: King Aldric III orders elimination** of remaining Blackwood bloodline (Crown intelligence was incomplete—some Blackwoods escaped through magical concealment or distant family branches)
-- **1204 CR: Young Corvus Blackwood (age 12) escapes** the purge, only known survivor; his younger sister's existence was erased through memory suppression magic
+- **1204 CR: Young Corvus Blackwood (age 12) escapes** the purge, only known survivor; rumors persist of other Blackwood descendants hidden by magic or living under assumed identities
 - **1204 CR: "The Shadow Hunt" begins** - bounty placed on any remaining Blackwood descendants
 - **1220 CR: Sundaran Excavations begin** in desert
 - **1225 CR: Major archaeological discoveries** in Sundaran desert uncovering pre-Worldrend artifacts
@@ -3928,7 +3928,7 @@ Founded by a half-elf merchant captain (descendant of Aldris the Younger) who ma
 - Inherited his mother's human appearance despite half-elf father
 - Handles day-to-day operations of House Goldshore
 - More politically ambitious than his father
-- Runs the family's "grey market" operations personally
+- Runs the family's "gray market" operations personally
 
 **Holdings:** ::
 - Goldreach (major city)
@@ -3961,7 +3961,7 @@ Founded by a half-elf merchant captain (descendant of Aldris the Younger) who ma
 **Seat:** Stonehaven  
 **Rise:** 612-Present  
 **Status:** Declining (Losing to House Ironmark)  
-**Sigil:** Clenched stone fist on grey field
+**Sigil:** Clenched stone fist on gray field
 
 ### History
 
@@ -4152,7 +4152,7 @@ House Emberthorn rose to power during the volcanic settlement period, mastering 
 **Seat:** Stormhaven  
 **Rise:** 780-Present  
 **Status:** Declining (Overshadowed by Goldshore)  
-**Status:** Sigil:** Grey tower on stormy sea
+**Status:** Sigil:** Gray tower on stormy sea
 
 ### History
 
@@ -4746,7 +4746,7 @@ Two heirs died "accidentally" (actually murdered by siblings)
 **Seat:** Marshaven (major city)  
 **Rise:** 850-Present  
 **Status:** Ascendant (Rising power)  
-**Sigil:** Black thorns on grey mist
+**Sigil:** Black thorns on gray mist
 
 ### History
 
@@ -4759,7 +4759,7 @@ A relatively young house by elven standards, House Thornveil rose from swamp-dwe
 - Embracing "dark" magic other houses avoid
 
 **Controversial Nature:** ::
-- Deal with things others won't (morally grey)
+- Deal with things others won't (morally gray)
 - Employ necromancers and dark druids
 - Trade with unsavory parties
 - Efficient and profitable governance
@@ -4817,7 +4817,7 @@ A relatively young house by elven standards, House Thornveil rose from swamp-dwe
 **Seat:** Mistview  
 **Rise:** Pre-Worldrend - Present  
 **Status:** Dominant (Mystical isolation)  
-**Sigil:** White owl in grey mist
+**Sigil:** White owl in gray mist
 
 ### History
 
@@ -8351,7 +8351,7 @@ Fire cults operate openly here (illegal most places). Tieflings are welcomed (th
 - *Key Locations:*
   - **The Ash Market:** Daily market, goods covered to protect from ash
   - **The Swept Streets:** Major thoroughfares cleaned daily
-  - **The Grey Tavern:** Most popular tavern, named for omnipresent ash
+  - **The Gray Tavern:** Most popular tavern, named for omnipresent ash
   - **Stonemason's District:** Where basalt is cut and shaped
   - **The Warden's Hall:** Where the ruling council meets
 - *Atmosphere:* Working-class, practical, ash-dusted. Everyone accepts the environment.
@@ -9900,7 +9900,7 @@ Communities here are insular and independent. Each island has its own culture, o
 **Captain Blackheart** - Pirate legend ::
 - Feared; respected; has code of honor; hates slavers
 
-**Miranda Greywater** - Smuggler Queen ::
+**Miranda Graywater** - Smuggler Queen ::
 - Runs information network; knows everyone's secrets
 
 ---
