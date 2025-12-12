@@ -30,9 +30,9 @@ All original content including world lore, characters, locations, storylines, an
 
 #### Attribution
 
-This work includes material taken from the System Reference Document 5.1 (SRD 5.1) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document.
+This work includes material from the System Reference Document 5.2 (SRD 5.2) by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd.
 
-The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
+The SRD 5.2 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
 
 #### Product Identity
 
@@ -1585,7 +1585,7 @@ You have advantage on Dexterity saving throws against effects that you can see, 
 
 ### **Primal Path (3rd Level)**
 
-At 3rd level, you choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior (both detailed at the end of the class description). Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
+At 3rd level, you choose a path that shapes the nature of your rage. The Path of the Berserker is detailed below. Additional primal paths such as the Path of the Totem Warrior can be found in the *Player's Handbook*. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 
 ### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th)**
 
@@ -1658,44 +1658,6 @@ If the creature succeeds on its saving throw, you can't use this feature on that
 **Retaliation (14th Level)**
 
 Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
-
-#### **Path of the Totem Warrior**
-
-The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration.
-
-**Spirit Seeker (3rd Level)**
-
-Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the *beast sense* and *speak with animals* spells, but only as rituals.
-
-**Totem Spirit (3rd Level)**
-
-At 3rd level, when you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object—an amulet or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit.
-
-Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle.
-
-- **Bear:** While raging, you have resistance to all damage except psychic damage.
-- **Eagle:** While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the Dash action as a bonus action on your turn.
-- **Wolf:** While you're raging, your friends have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you.
-
-**Aspect of the Beast (6th Level)**
-
-At 6th level, you gain a magical benefit based on the totem animal of your choice.
-
-- **Bear:** You gain the might of a bear. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks made to push, pull, lift, or break objects.
-- **Eagle:** You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.
-- **Wolf:** You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace.
-
-**Spirit Walker (10th Level)**
-
-At 10th level, you can cast the *commune with nature* spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
-
-**Totemic Attunement (14th Level)**
-
-At 14th level, you gain a magical benefit based on a totem animal of your choice.
-
-- **Bear:** While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be frightened.
-- **Eagle:** While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.
-- **Wolf:** While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.
 
 {{pageNumber,auto}}
 {{footnote Classes}}
@@ -1811,7 +1773,7 @@ Once you use this feature, you must finish a short or long rest before you can u
 
 ### **Martial Archetype (3rd Level)**
 
-At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight (all detailed at the end of the class description). The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
+At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The Champion is detailed below. Additional martial archetypes such as the Battle Master and Eldritch Knight can be found in the *Player's Handbook*. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
 ### **Ability Score Improvement (4th, 6th, 8th, 12th, 14th, 16th, 19th)**
 
@@ -1856,132 +1818,6 @@ Starting at 15th level, your weapon attacks score a critical hit on a roll of 18
 **Survivor (18th Level)**
 
 At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
-
-#### **Battle Master**
-
-Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
-who do are well-rounded fighters of great skill and knowledge.
-
-**Combat Superiority (3rd Level)**
-
-When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.
-
-**Maneuvers:** You learn three maneuvers of your choice (see "Maneuvers" below). Many maneuvers enhance an attack in some way. You can use only one maneuver per attack. You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
-
-**Superiority Dice:** You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest. You gain another superiority die at 7th level and one more at 15th level.
-
-**Saving Throws:** Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
-
-**Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
-
-**Student of War (3rd Level)**
-
-At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
-
-**Know Your Enemy (7th Level)**
-
-Starting at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
-- Strength score
-- Dexterity score
-- Constitution score
-- Armor Class
-- Current hit points
-- Total class levels (if any)
-- Fighter class levels (if any)
-
-**Improved Combat Superiority (10th Level)**
-
-At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.
-
-**Relentless (15th Level)**
-
-Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain one superiority die.
-
-**MANEUVERS**
-
-The maneuvers are presented in alphabetical order.
-
-**Commander's Strike:** When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
-
-**Disarming Attack:** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
-
-**Distracting Strike:** When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.
-
-**Feinting Attack:** You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack's damage roll.
-
-**Goading Attack:** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.
-
-**Lunging Attack:** When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.
-
-**Maneuvering Attack:** When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
-
-**Menacing Attack:** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
-
-**Parry:** When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.
-
-**Precision Attack:** When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
-**Pushing Attack:** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.
-
-**Rally:** On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.
-
-**Riposte:** When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
-
-**Sweeping Attack:** When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.
-
-**Trip Attack:** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
-
-#### **Eldritch Knight**
-
-The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic.
-
-**Spellcasting (3rd Level)**
-
-When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
-
-**Cantrips:** You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level.
-
-**Spell Slots:** The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-
-**Spells Known:** You know three 1st-level wizard spells of your choice, two of which you must choose from the abjuration and evocation schools.
-
-**Spellcasting Ability:** Intelligence is your spellcasting ability for your wizard spells. You use your Intelligence whenever a spell refers to your spellcasting ability. 
-
-**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
-**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
-
-**Weapon Bond (3rd Level)**
-
-At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.
-
-Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.
-
-You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
-
-**War Magic (7th Level)**
-
-Beginning at 7th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
-
-**Eldritch Strike (10th Level)**
-
-At 10th level, you learn how to make your weapon strikes undercut a creature's resistance to your spells. When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
-
-**Arcane Charge (15th Level)**
-
-At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied space you can see when you use your Action Surge. You can teleport before or after the additional action.
-
-**Improved War Magic (18th Level)**
-
-Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
 
 ### **Fighters in Tirvandor**
 
@@ -2102,7 +1938,7 @@ Starting at 2nd level, your quick thinking and agility allow you to move and act
 
 ### **Roguish Archetype (3rd Level)**
 
-At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities: Thief, Assassin, or Arcane Trickster (all detailed at the end of the class description). Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
+At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. The Thief is detailed below. Additional roguish archetypes such as the Assassin and Arcane Trickster can be found in the *Player's Handbook*. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
 ### **Ability Score Improvement**
 
@@ -2169,82 +2005,6 @@ By 13th level, you have learned enough about the workings of magic that you can 
 **Thief's Reflexes (17th Level)**
 
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
-
-#### **Assassin**
-
-You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity.
-
-**Bonus Proficiencies (3rd Level)**
-
-When you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.
-
-**Assassinate (3rd Level)**
-
-Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
-
-**Infiltration Expertise (9th Level)**
-
-Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can't establish an identity that belongs to someone else. Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.
-
-**Impostor (13th Level)**
-
-At 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior, listening to speech, examining handwriting, and observing mannerisms.
-
-Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.
-
-**Death Strike (17th Level)**
-
-Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.
-
-#### **Arcane Trickster**
-
-Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion.
-
-**Spellcasting (3rd Level)**
-
-When you reach 3rd level, you gain the ability to cast spells.
-
-**Cantrips:** You learn three cantrips: *mage hand* and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level.
-
-**Spell Slots:** The Arcane Trickster Spellcasting table shows how many spell slots you have. To cast one of your wizard spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-
-**Spells Known:** You know three 1st-level wizard spells of your choice, two of which you must choose from the enchantment and illusion schools.
-
-**Spellcasting Ability:** Intelligence is your spellcasting ability for your wizard spells. You use your Intelligence whenever a spell refers to your spellcasting ability.
-
-**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
-**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
-
-**Mage Hand Legerdemain (3rd Level)**
-
-Starting at 3rd level, when you cast *mage hand*, you can make the spectral hand invisible, and you can perform the following additional tasks with it:
-- You can stow one object the hand is holding in a container worn or carried by another creature.
-- You can retrieve an object in a container worn or carried by another creature.
-- You can use thieves' tools to pick locks and disarm traps at range.
-
-You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check.
-
-In addition, you can use the bonus action granted by your Cunning Action to control the hand.
-
-**Magical Ambush (9th Level)**
-
-Starting at 9th level, if you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.
-
-**Versatile Trickster (13th Level)**
-
-At 13th level, you gain the ability to distract targets with your *mage hand*. As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
-
-{{pageNumber,auto}}
-{{footnote Classes}}
-\page
-
-**Spell Thief (17th Level)**
-
-At 17th level, you gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
-
-Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its spellcasting ability modifier. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least 1st level and of a level you can cast (it doesn't need to be a wizard spell). For the next 8 hours, you know the spell and can cast it using your spell slots. The creature can't cast that spell until the 8 hours have passed.
-
-Once you use this feature, you can't use it again until you finish a long rest.
 
 ### **Rogues in Tirvandor**
 
@@ -9286,11 +9046,11 @@ This work contains original content created for the Tirvandor campaign setting. 
 
 ## System Reference Document Attribution
 
-This work includes material taken from the **System Reference Document 5.1 ("SRD 5.1")** by Wizards of the Coast LLC, which is available at https://dnd.wizards.com/resources/systems-reference-document.
+This work includes material from the **System Reference Document 5.2 ("SRD 5.2")** by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2 is licensed under the **Creative Commons Attribution 4.0 International License**, available at https://creativecommons.org/licenses/by/4.0/legalcode.
 
-The SRD 5.1 is licensed under the **Creative Commons Attribution 4.0 International License**, available at https://creativecommons.org/licenses/by/4.0/legalcode.
+This product is compatible with fifth edition.
 
-Portions of this work that are derived from the SRD 5.1 are used under the terms of that Creative Commons license.
+Portions of this work that are derived from the SRD 5.2 are used under the terms of that Creative Commons license.
 
 ---
 
@@ -9344,7 +9104,7 @@ The following are designated as Product Identity under the Open Game License v1.
 
 ## Open Game Content
 
-All game mechanics derived from the SRD 5.1, including but not limited to:
+All game mechanics derived from the SRD 5.2, including but not limited to:
 - Core character creation rules
 - Standard race mechanics (ability score increases, traits)
 - Standard class mechanics (hit points, proficiencies, class features)

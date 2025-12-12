@@ -14316,7 +14316,7 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 ### Varak Ironfist (CR 5)
 **HP:** 93 | **AC:** 18 | **Speed:** 25 ft
 **Attacks:** Warhammer +8 (2d8+5), Heavy Crossbow +3 (1d10+1)
-**Special:** Battle Master maneuvers, Dwarven resilience
+**Special:** Champion tactics, Dwarven resilience
 **Tactics:** Defensive fighter, protects allies, uses maneuvers strategically
 
 ### Kael Shadowbane (CR 4)

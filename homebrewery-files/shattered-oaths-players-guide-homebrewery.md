@@ -243,7 +243,7 @@ EXCELLENT CHOICES: ⭐⭐
 Paladin - Oath of Devotion - Classic good paladin
 Cleric - War Chaplain - Aethorian militiaman
 Bard - Any college - Inspire and lead
-Fighter - Champion or Battle Master - Heroic warrior
+Fighter - Champion - Heroic warrior
 Ranger - People's Scout - Guerrilla freedom fighter
 Wizard - School of Innovation - Aethorian mage
 Sorcerer - Ascended-Touched - Touched by prophecy

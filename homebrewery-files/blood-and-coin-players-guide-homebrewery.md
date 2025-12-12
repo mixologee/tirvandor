@@ -189,7 +189,7 @@ This subclass was designed for this campaign
 EXCELLENT CHOICES: ⭐⭐
 Barbarian – Path of the Border Reaver – Professional raider
 Cleric – War Chaplain – Military healer
-Fighter – Battle Master – Tactical expert
+Fighter – Champion – Tactical expert
 Monk – Way of the Coin – Martial artist for hire
 Ranger – Border Warden – Frontier scout
 Rogue – Assassin – Professional killer

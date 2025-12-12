@@ -29,9 +29,9 @@ All original content including world lore, characters, locations, storylines, an
 
 #### Attribution
 
-This work includes material taken from the System Reference Document 5.1 (SRD 5.1) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document.
+This work includes material taken from the System Reference Document 5.1 (SRD 5.2) by Wizards of the Coast LLC and available at https://www.dndbeyond.com/srd.
 
-The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
+The SRD 5.2 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
 
 #### Product Identity
 
@@ -8084,7 +8084,7 @@ ___
 - **Location:** Kaer Thandros, Royal Palace
 - **Role:** Crown Prince, Heir to the Throne of Thaldros
 - **Alignment:** Lawful Good
-- **Class:** Fighter 8 / Paladin 4 (Oath of the Crown)
+- **Class:** Fighter 8 / Paladin 4 (Oath of the Iron Crown)
 
 ### Physical Description
 Tall and athletic (6'2", 190 lbs) with the Thandris dark hair and strong features. Unlike his father's weathered appearance, Thorin has a youthful vigor tempered by the weight of future responsibility. Clean-shaven, with intense gray eyes that assess situations tactically. Wears practical armor even in court - always ready for action. Has a small scar on his left hand from a training accident at age 16.
@@ -8131,7 +8131,7 @@ Born in 1222 CR as the first child of King Aldric IV, Crown Prince Thorin has be
 
 At age 15, he insisted on joining a border patrol despite his father's objections. During an orc raid, he saved three soldiers' lives, earning their loyalty and a reputation for bravery. His father, both proud and terrified, agreed to let him train with the military but under close supervision.
 
-At 20, he was knighted and took his Oath of the Crown, swearing to protect the kingdom and uphold its laws. He spent two years rotating through different garrisons, learning from seasoned commanders and experiencing life beyond palace walls.
+At 20, he was knighted and took his Oath of the Iron Crown, swearing to protect the kingdom and uphold its laws. He spent two years rotating through different garrisons, learning from seasoned commanders and experiencing life beyond palace walls.
 
 Now at 25, he serves as his father's chief military advisor and ambassador. He's proven himself in border skirmishes, diplomatic negotiations, and crisis management. The nobility respects him. The common people love him. But he carries the weight of knowing that one day, he'll wear the Iron Crown - and the kingdom's fate will rest on his shoulders.
 
@@ -9799,7 +9799,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **Location:** Goldreach (Harbor District) / At sea (commands fleet)
 - **Role:** Admiral of House Stormcrest Fleet, Naval Commander
 - **Alignment:** Lawful Neutral
-- **Class:** Fighter 14 (Battle Master) / Rogue 2
+- **Class:** Fighter 14 (Champion) / Rogue 2
 
 ### Physical Description
 Weather-beaten and imposing (6'2", 210 lbs of muscle and scars). Sun-darkened skin, short salt-and-pepper hair, piercing blue eyes like the sea itself. Multiple scars - sword cuts, burns from naval battles, shark bite on left forearm. Walks with rolling gait of career sailor. Usually wears modified naval uniform - practical for combat but clearly marking rank. Smells of saltwater and gunpowder.
@@ -16277,7 +16277,7 @@ Can take 3 legendary actions, choosing from options below.
 - **Location:** Kaer Thandros, The Steel Garrison
 - **Role:** General of the Iron Legion, Commander of the Home Guard
 - **Alignment:** Lawful Neutral
-- **Class:** Fighter (Battle Master) 20 / Soldier Background
+- **Class:** Fighter (Royal Guard) 20 / Soldier Background
 
 ### Physical Description
 Athletic and imposing (5'10", 170 lbs), with the build of someone who trains daily. Short-cropped iron-gray hair, steely blue eyes that miss nothing. Face weathered by campaign after campaign, with a prominent scar running from her right temple to her jaw. Stands with perfect military posture. Never seen without her armor outside her private quarters.
@@ -16780,7 +16780,7 @@ ___
 - **Location:** Kaer Thandros, The Military Quarter
 - **Role:** Commander of the Elite Guard, King's Champion
 - **Alignment:** Lawful Neutral
-- **Class:** Fighter (Champion) 15
+- **Class:** Fighter (Royal Guard) 15
 
 ### Physical Description
 Powerfully built (6'2", 210 lbs), with arms like tree trunks and a chest that seems carved from stone. Black hair cropped military-short, with a thick beard kept neat. Multiple scars across face and arms—he never hides them. Dark brown eyes that assess everything as a potential threat. His greatsword "Blackblade" is always within reach.
@@ -16984,7 +16984,7 @@ ___
 - **Location:** Kaer Thandros / Eastern Border Fortresses
 - **Role:** General of the Eastern Armies, Master of Siege Warfare
 - **Alignment:** Lawful Neutral
-- **Class:** Fighter (Battle Master) 16
+- **Class:** Fighter (Royal Guard) 16
 
 ### Physical Description
 Broad and weathered (6'0", 200 lbs), built like a siege engine himself. Gray hair cropped short, with a thick mustache. Deep-set hazel eyes that have seen too many battles. Face is a map of scars—the largest running from his forehead across a milky blind eye. Moves with the measured pace of a man who's learned patience the hard way.
@@ -17515,7 +17515,7 @@ ___
 - **Location:** Silverpine, City Guard Headquarters
 - **Role:** Lieutenant of the City Guard, Future Captain
 - **Alignment:** Lawful Good
-- **Class:** Fighter (Champion) 8 / Paladin (Oath of Devotion) 4
+- **Class:** Fighter (Royal Guard) 8 / Paladin (Oath of the Iron Crown) 4
 
 ### Physical Description
 Athletic and alert (5'9", 155 lbs), with the bearing of someone who's earned every promotion. Sun-bleached brown hair kept in a practical braid. Clear blue eyes that seem to see through deception. Light scar across her chin from a training accident. Uniform always impeccable, armor always polished.
@@ -17623,7 +17623,7 @@ ___
 - **Location:** Goldreach, Iron Guild Headquarters
 - **Role:** Guildmaster of the Iron Guild, Master of Mercenary Contracts
 - **Alignment:** Lawful Neutral
-- **Class:** Fighter (Champion) 12 / Guild Artisan Background
+- **Class:** Fighter (Iron Guild Veteran) 12 / Guild Artisan Background
 
 ### Physical Description
 Stocky and powerful even by dwarven standards (4'6", 190 lbs). Iron-gray beard braided with guild tokens representing every rank he's held. Deep brown eyes that have appraised thousands of contracts and warriors. Face weathered like old leather, hands scarred from centuries of weapon work. Always wears his ceremonial armor with the Ironfist clan crest.
@@ -17726,7 +17726,7 @@ ___
 - **Location:** Kaer Thandros, Iron Legion Barracks
 - **Role:** Commander of the Iron Legion's Second Division, Warden of the Eastern Marches
 - **Alignment:** Lawful Neutral
-- **Class:** Fighter (Battle Master) 15
+- **Class:** Fighter (Iron Guild Veteran) 15
 
 ### Physical Description
 Tall and commanding (5'11", 170 lbs), with the weathered look of someone who's spent decades on campaign. Iron-gray hair cut short, sharp gray eyes that have seen too much death. A distinctive scar runs across her throat—a near-fatal wound that left her voice permanently hoarse. Always in armor, always armed.
