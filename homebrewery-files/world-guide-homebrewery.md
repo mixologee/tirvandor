@@ -6499,7 +6499,7 @@ Five centuries of peace allowed arts and magic to flourish. The population reach
 
 **The Splittide Rebellion (1089-1092 CR)**
 
-The same years that saw the Blackwood Rebellion in the west brought civil war to Aethoria. House Splittide, ruling the southwestern peninsula, sided with fey claims to territory they said had been stolen from the fey courts centuries earlier. The then-Queen Aethermere—Aelindra's predecessor—crushed the rebellion with brutal efficiency. House Splittide was destroyed, their surviving members executed, their lands given to druid circles as neutral territory. It was a necessary act, most agreed, but it left a moral stain on the royal house that even two centuries have not entirely erased.
+The same years that saw the Blackwood Rebellion in the west brought civil war to Aethoria. House Splittide, ruling the southwestern peninsula, sided with fey claims to territory they said had been stolen from the fey courts centuries earlier. Queen Aelindra crushed the rebellion with brutal efficiency. House Splittide was destroyed, their surviving members executed, their lands given to druid circles as neutral territory. It was a necessary act, most agreed, but it left a moral stain on the royal house that even two centuries have not entirely erased.
 
 **Modern Era (1200-Present)**
 

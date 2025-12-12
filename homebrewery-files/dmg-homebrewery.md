@@ -3751,13 +3751,13 @@ Graceful and ethereal (5'8", 120 lbs), with the timeless beauty of high elves. S
 ### Background & History
 Born in 247 BW, long before the Worldrend. Trained at the University of Arcane Studies in Silverpine (when it was one continent). Witnessed the Worldrend at age 247—one of the few elves alive who remembers the world before.
 
-Ascended to the throne in 1180 CR after her mother's death. Her reign has been marked by wisdom, peace, and prosperity—but also by the shadow of the Worldrend and the question of succession.
+Ascended to the throne in 1043 CR after being chosen by the world-trees. Her reign has been marked by wisdom, peace, and prosperity—but also by the shadow of the Worldrend and the question of succession.
 
 Married Prince Consort Thaelon Starlight (another high elf, age 600+) before ascending to the throne. They have two children from before her coronation:
 - **Archmage Eldrin Aethermere** (age 158) - Royal Mage, wizard like his mother
 - **Princess Elanil Aethermere** (age 142) - Ambassador and diplomat
 
-*Note: Neither is heir. When Aelindra took the throne in 1180 CR, she underwent the coronation ritual that prevents further children. Succession follows the Chosen Heir system—currently Theron Aethermere (age 89, half-elf), selected by the world-trees.*
+*Note: Neither is heir. When Aelindra took the throne in 1043 CR, she underwent the coronation ritual that prevents further children. Succession follows the Chosen Heir system—currently Theron Aethermere (age 89, half-elf), selected by the world-trees.*
 
 She genuinely believes her claim to High Queen (of the unified realm) is legitimate. Unlike King Aldric IV, she doesn't seek reunification through force—she believes it will happen naturally when the time is right, guided by the stars.
 
@@ -4651,7 +4651,7 @@ Now the undisputed master of the Crown Forge, he's created weapons for three gen
 
 ### Connections
 - **Patron:** King Aldric IV Thandris (primary client, respects his work)
-- **Peers:** High Forge Master Borin Ironmark (only dwarf who might rival him)
+- **Peers:** High Forge Master Borin Ironforge (only dwarf who might rival him)
 - **Rivals:** Forge-Master Rurik Ironanvil of the Forgebound Guild (bitter professional dispute)
 - **Apprentice:** Young Greta Ironhand (talented but impatient, reminds him of himself)
 - **Secret Contact:** A mysterious Aethorian elf who provides rare materials (identity unknown)

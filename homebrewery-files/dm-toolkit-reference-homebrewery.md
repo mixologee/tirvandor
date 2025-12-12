@@ -3241,7 +3241,7 @@ Wild magic surges for decades
 **1001 CR** - First contact with Sundara (desert nation)  
 **1089 CR** - Blackwood Rebellion begins (civil war, 1089-1092 CR)  
 **1156 CR** - Dragon Crisis (Infernalix attacks Kaer Thandros, devastates region)  
-**1180 CR** - High Queen Aelindra ascends (current queen)  
+**1043 CR** - High Queen Aelindra ascends (current queen)  
 **1201 CR** - Dragon Infernalix withdraws (sleeps beneath Kaer Thandros)  
 **1203 CR** - Border skirmish kills 200 soldiers (tensions rise)  
 **1204 CR** - Second Blackwood Purge, Corvus (age 12) survives (future Lord Shadows)  
