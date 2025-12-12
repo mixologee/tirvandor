@@ -132,6 +132,8 @@ By the end of Act I, players will understand:
 
 ## Crossroads - The Mercenary Town
 
+![Crossroads Town](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-crossroads-town.png){width:100%,mix-blend-mode:multiply}
+
 ### **Overview**
 
 Crossroads sits at the intersection of three trade routes, far from royal oversight. No official government—the **Iron Guild** runs things through contracts and reputation. Violence is common but regulated. Murder is allowed if you have a contract. Theft is punishable by death (bad for business). Lying is expected, getting caught is fatal.
@@ -143,6 +145,8 @@ Crossroads sits at the intersection of three trade routes, far from royal oversi
 **Alignment:** True Neutral (officially), Chaotic Neutral (practically)
 
 ### **Key Locations**
+
+![The Iron Guild Hall](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-iron-guild-hall.png){width:100%,mix-blend-mode:multiply}
 
 **1. The Iron Guild Hall**
 - Three-story stone building, fortified
@@ -305,6 +309,8 @@ PCs make their way to the Iron Guild Hall to find work.
 *Behind a heavy oak desk sits a dwarf in well-maintained chainmail. His beard is braided with iron rings. His eyes are hard, calculating, measuring. He doesn't smile.*
 
 **NPC: Varak Ironfist**
+
+![Varak Ironfist](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-varak-ironfist.jpg){width:200px,float:right,margin-left:10px}
 
 *Medium humanoid (dwarf), lawful neutral*
 
@@ -1073,6 +1079,8 @@ Both clients present their case. Let them argue, interrupt each other, appeal to
 
 **NPC: Baron Darius Thornhill**
 
+![Baron Darius Thornhill](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-baron-darius-thornhill.jpg){width:200px,float:right,margin-left:10px}
+
 *Medium humanoid (human), lawful neutral (thinks he's lawful good)*
 
 **Appearance:** Mid-40s, graying temples, expensive noble clothing, ornate longsword, military bearing, entitled but not cruel
@@ -1117,6 +1125,8 @@ Both clients present their case. Let them argue, interrupt each other, appeal to
 ### **Client B: THOMAS REDWOOD**
 
 **NPC: Thomas Redwood** (not the same Thomas from Quest 1.1)
+
+![Thomas Redwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-thomas-redwood.jpg){width:200px,float:right,margin-left:10px}
 
 *Medium humanoid (human), neutral good*
 
@@ -1231,6 +1241,8 @@ Both clients agree (reluctantly) to let PCs investigate before deciding.
 *"More mercenaries? Did my father send you? Tell him I'm not going back."*
 
 **NPC: Elara Thornhill**
+
+![Elara Thornhill](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elara-thornhill.jpg){width:200px,float:right,margin-left:10px}
 
 *Medium humanoid (human), neutral good*
 
@@ -1955,6 +1967,8 @@ A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak 
 
 **NPC: Merchant Lord Castor Goldweave**
 
+![Merchant Lord Castor Goldweave](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-castor-goldweave.jpg){width:200px,float:right,margin-left:10px}
+
 *Medium humanoid (human), lawful evil (thinks he's lawful neutral)*
 
 **Appearance:** 50s, overweight, gold rings, expensive silk clothing, oily smile, calculating eyes
@@ -2004,6 +2018,8 @@ A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak 
 ### **The Military Advisor**
 
 **NPC: Captain Willem Hartstone**
+
+![Captain Willem Hartstone](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-willem-hartstone.jpg){width:200px,float:right,margin-left:10px}
 
 *Medium humanoid (human), lawful neutral*
 
@@ -2152,6 +2168,8 @@ Visit the magistrate who ruled on the case.
 
 **NPC: Magistrate Aldric Reeve**
 
+![Magistrate Aldric Reeve](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-magistrate-aldric-reeve.jpg){width:200px,float:right,margin-left:10px}
+
 *Medium humanoid (human), neutral evil*
 
 **Appearance:** 60s, pompous, clearly well-paid by someone, nervous when questioned
@@ -2220,6 +2238,8 @@ Tracking Red Wolf requires Survival checks:
 
 **Read Aloud:**
 
+![The Thornwood Forest Camp](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-thornwood-camp.png){width:100%,mix-blend-mode:multiply}
+
 {{descriptive
 *Deep in Thornwood Forest, you find them. Not a bandit camp—a refugee settlement. Thirty people, mostly families. Children play near campfires. Women mend clothes. Men sharpen farming tools repurposed as weapons. This isn't a gang of criminals. It's a community in exile.*
 >
@@ -2239,6 +2259,8 @@ Tracking Red Wolf requires Survival checks:
 *Then she sees you. Her hand goes to her sword.*
 
 **NPC: Elara Thornwood / "RED WOLF"**
+
+![Elara Thornwood - The Red Wolf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elara-thornwood-red-wolf.jpg){width:200px,float:right,margin-left:10px}
 
 *Medium humanoid (human), chaotic good*
 
@@ -2885,6 +2907,8 @@ Technically yes, but requires army/resources PCs don't have at level 3.
 
 ## Blood & Coin Campaign - Act I Climax
 
+![The Black Ledger Discovery](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-black-ledger.png){width:100%,mix-blend-mode:multiply}
+
 **Level:** 4  
 **Duration:** 2-3 sessions  
 **Objective:** Infiltrate Lord Pembroke's estate and steal evidence of Consortium corruption  
@@ -3097,6 +3121,8 @@ Another party is after the same prize. Whisper is a legendary halfling thief hir
 }}
 
 ## Blood & Coin Campaign - Act I Finale
+
+![The Trial](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-trial.png){width:100%,mix-blend-mode:multiply}
 
 **Level:** 5  
 **Duration:** 2-3 sessions  
@@ -3335,6 +3361,8 @@ If PCs reveal everything—Black Ledger, Consortium crimes, all of it:
 }}
 
 ## Blood & Coin Campaign - Act II Opening
+
+![The Recruiters' Meeting](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-recruiters-meeting.png){width:100%,mix-blend-mode:multiply}
 
 **Level:** 6  
 **Duration:** 2-3 sessions  

@@ -143,6 +143,8 @@ The heroes begin as simple adventurers drawn into local troubles, but they soon 
 
 ## Three-Act Structure
 
+![The Prophecy Revealed](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-prophecy-revealed.png){width:100%,mix-blend-mode:multiply}
+
 ### Act I: Shadows in Silverpine (Levels 1-5)
 **Theme:** Local troubles hide a greater conspiracy  
 **Location:** Silverpine and surrounding Thaldros heartlands  
@@ -174,6 +176,8 @@ Final confrontation with Lord Shadows and the Unbound. Heroes must stop the Seco
 
 ## Act I: Shadows in Silverpine (Levels 1-5)
 
+![Silverpine Village Square](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-silverpine-village.png){width:100%,mix-blend-mode:multiply}
+
 ### Act I Overview
 
 The campaign begins in **Silverpine**, a prosperous university city in central Thaldros. The heroes are brought together by rumors of disappearances, strange cult activity, and bandit raids that seem too organized to be random. As they investigate, they uncover that a group called **The Unbound** is actively recruiting disaffected people and gathering ancient texts.
@@ -204,6 +208,9 @@ By the end of Act I, the heroes will have:
 > *The Broken Wheel Inn is warm and bustling despite the evening chill. The smell of roasted meat and fresh bread mingles with pipe smoke and ale. Local folk huddle over their drinks, speaking in hushed tones. A weathered sign above the bar shows a wagon wheel split in two. The innkeeper, a stout woman with flour-dusted hands, wipes down the bar while watching the room with practiced eyes.*
 
 **NPC: Marta Goodbarrel** (human commoner, friendly innkeeper)
+
+![Marta Goodbarrel](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-marta-goodbarrel.jpg){width:200px,float:right,margin-left:10px}
+
 - Greets new arrivals warmly: *"Welcome, travelers! Sit yourselves down. We've got hot stew, cold ale, and warm beds. You look like you've come a long way."*
 - **If asked about town:** *"Silverpine? Oh, it's a good town, usually. Timber trade keeps us comfortable. But... well, things haven't been right lately."* (trails off, wipes bar nervously)
 - **Insight DC 10:** She's genuinely worried, not just making conversation
@@ -409,6 +416,8 @@ Reveals:
 
 #### Encounter 1.1B: The Thornwood Shrine
 
+![The Abandoned Thornwood Shrine](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-thornwood-shrine.png){width:100%,mix-blend-mode:multiply}
+
 **Location:** Abandoned shrine 1 mile into forest  
 **Difficulty:** Medium (CR 1/2 per PC)
 
@@ -576,6 +585,9 @@ All five missing villagers are alive but drugged (unconscious).
 As heroes rest at the inn, Captain Roderic Ironfist arrives urgently.
 
 **NPC: Captain Roderic Ironfist** (Human Fighter 4, Town Guard Captain)
+
+![Captain Roderic Ironfist](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-roderic-ironfist.jpg){width:200px,float:right,margin-left:10px}
+
 - Weathered soldier in his 40s, practical and direct
 - Loyal to town but understaffed (only 8 guards total)
 - Respects competence over rank
@@ -2216,6 +2228,8 @@ This discovery should make the party question their mission. They're still stopp
 
 **NPC: ARCANUS THE ELDER** (Unbound Sage)
 
+![Arcanus the Elder](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-arcanus-the-elder.jpg){width:200px,float:right,margin-left:10px}
+
 **Age:** 67  
 **Personality:** Brilliant, obsessive, true believer in historical truth  
 **Motivation:** Uncovering "real history" suppressed by kingdoms  
@@ -2425,6 +2439,8 @@ Arcanus fights defensively, using magic to escape rather than kill.
 
 #### R7: The Vault Antechamber
 
+![The Unbound Vault](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-unbound-vault.png){width:100%,mix-blend-mode:multiply}
+
 **Description:** Large chamber with three sealed doors (North, East, West). Center has a stone pedestal with blood groove.
 
 **Puzzle:** Doors require "blood of Blackwood" to open. Any blood works but triggers different results:
@@ -2597,6 +2613,8 @@ Several factions reach out to heroes:
 ---
 
 ## ACT II: THE CONSPIRACY UNVEILED (LEVELS 6-10)
+
+![The Blackwood Conspiracy](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-blackwood-conspiracy.png){width:100%,mix-blend-mode:multiply}
 
 ### Act II Overview
 
@@ -5541,6 +5559,8 @@ But reaching it requires:
 ---
 
 ## ACT III: THE SECOND SUNDERING (LEVELS 11-15)
+
+![The Final Battle - Second Sundering](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-final-battle.png){width:100%,mix-blend-mode:multiply}
 
 ### Act III Overview
 

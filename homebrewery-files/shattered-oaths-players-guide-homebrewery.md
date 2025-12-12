@@ -18,6 +18,9 @@ A guide for those who would be heroes
 
 # Shattered Oaths
 ## Player's Guide
+
+![Shattered Oaths Banner](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/banners/tirvandor-banner-shattered-oaths.png){width:100%,mix-blend-mode:multiply}
+
 ___
 
 **A Player Handout for the Shattered Oaths Campaign**

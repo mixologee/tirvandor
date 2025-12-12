@@ -18,6 +18,9 @@ Everything you need to join the profession
 
 # Blood & Coin
 ## Player's Guide
+
+![Blood & Coin Banner](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/banners/tirvandor-banner-blood-and-coin.png){width:100%,mix-blend-mode:multiply}
+
 ___
 
 **A Player Handout for the Blood & Coin Campaign**
