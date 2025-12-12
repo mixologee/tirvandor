@@ -123,7 +123,7 @@ By the end of Act I, players will understand:
 
 ### **Starting Setup**
 
-**Location:** Crossroads (pop. 2,400) - neutral mercenary town  
+**Location:** Crossroads (Pop. ~2,400) - neutral mercenary town  
 **Starting Level:** 1  
 **Starting Gold:** 50gp each (more than standard - you're professionals)  
 **PC Backgrounds:** All should have reason to be mercenaries (exiled, desperate, pragmatic, etc.)

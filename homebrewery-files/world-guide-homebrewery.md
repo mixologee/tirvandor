@@ -223,7 +223,7 @@ The islands between Thaldros and Aethoria are crucial for maritime trade and hav
 **Major Islands:**
 
 **Isla Myrthen:**
-  - **Port Myrthen:** The largest settlement in the archipelago (pop. ~9,000), a cosmopolitan trading port where goods from both continents exchange hands. Known for its relaxed attitude toward laws and neutral political stance. Home to the Merchant's Guild headquarters.
+  - **Port Myrthen:** The largest settlement in the archipelago (Pop. ~9,000), a cosmopolitan trading port where goods from both continents exchange hands. Known for its relaxed attitude toward laws and neutral political stance. Home to the Merchant's Guild headquarters.
 {{pageNumber,auto}}
 {{footnote Geography of Tirvandor}}
 \page
@@ -236,7 +236,7 @@ The islands between Thaldros and Aethoria are crucial for maritime trade and hav
 ### The Shattered Arc (Eastern Islands)
 
 **Major Islands:**
-- **Thornhaven:** Mysterious island shrouded in perpetual mist (pop. ~1,800), home to a reclusive order of monks who study the boundary between life and death
+- **Thornhaven:** Mysterious island shrouded in perpetual mist (Pop. ~1,800), home to a reclusive order of monks who study the boundary between life and death
 - **Emerald Isle:** Lush tropical paradise; sacred druidic site
 - **Serpent's Tooth:** Rocky island; lighthouse and naval outpost
 
@@ -269,7 +269,7 @@ Many smaller islands remain unnamed on common maps, ranging from lifeless rocks 
 
 The Western Continent, called Thaldros by its inhabitants, is a land of dramatic contrasts—snow-capped mountains give way to arid deserts, which transition into temperate woodlands. The continent bears scars of ancient conflicts, with ruins dotting the landscape and ley lines running through its heart.
 
-**Capital:** Kaer Thandros (pop. ~45,000)
+**Capital:** Kaer Thandros (Pop. ~45,000)
 **Major Cities:** Ironhold, Silverpine, Goldreach, Crossvale, Sundara, Ashgate
 **Total Settlements:** ~120 (towns, villages, and hamlets)
 
@@ -301,10 +301,10 @@ A formidable mountain range dominating the northern reaches of Thaldros, the Iro
 **Resources:** Iron, silver, mythril ore, rare gemstones, crystal formations
 
 **Major Settlements:**
-- **Kaer Thandros:** The great mountain fortress-city, built into the living rock. Capital of Thaldros and center of metalcraft and runework (pop. ~45,000)
-- **Ironhold:** A heavily fortified town that guards the northern passes (pop. ~8,000)
-- **Deepforge:** Deep mining town with volcanic forges (pop. ~3,500)
-- **Stonehaven:** Quarry town; ancient ruins nearby (pop. ~2,800)
+- **Kaer Thandros:** The great mountain fortress-city, built into the living rock. Capital of Thaldros and center of metalcraft and runework (Pop. ~45,000)
+- **Ironhold:** A heavily fortified town that guards the northern passes (Pop. ~8,000)
+- **Deepforge:** Deep mining town with volcanic forges (Pop. ~3,500)
+- **Stonehaven:** A quarry town with ancient ruins nearby (Pop. ~2,800)
 
 **Minor Settlements:** Highpeak, Crystalmine, Stonegard (villages) and Coldwater, Longridge (hamlets)
 }}
@@ -338,11 +338,11 @@ The Silverwood is an ancient forest of silver birch and oak trees, where dappled
 **Resources:** Timber (especially silver birch), wild herbs, mushrooms, venison
 
 **Major Settlements:**
-- **Silverpine:** A prosperous city built among ancient silver birch groves. Known for its Magical Academy, artisan guilds, and as a center of trade (pop. ~32,000)
-- **Oakenheart:** Forest town; woodworking and druidic presence (pop. ~3,200)
-- **Willowbrook:** Riverside town; waterwheel mills; paper production (pop. ~2,600)
-- **Westmarch:** Frontier outpost; protects western settlements (pop. ~1,600)
-- **Timberfall:** Logging town with druid cooperation (pop. ~1,900)
+- **Silverpine:** A prosperous city built among ancient silver birch groves. Known for its Magical Academy, artisan guilds, and as a center of trade (Pop. ~32,000)
+- **Oakenheart:** A forest town known for woodworking and druidic presence (Pop. ~3,200)
+- **Willowbrook:** A riverside town featuring waterwheel mills and paper production (Pop. ~2,600)
+- **Westmarch:** A frontier outpost that protects western settlements (Pop. ~1,600)
+- **Timberfall:** A logging town operating with druid cooperation (Pop. ~1,900)
 
 **Minor Settlements:** Greenleaf, Mapleshire, Birchwood, Fernhaven, Pinegrove, Elmwood, Deepwood, Wildrun, Westreach (villages) and Pinerest (hamlet)
 
@@ -359,19 +359,19 @@ The Heartlands are the agricultural engine of Thaldros—endless fields of grain
 **Resources:** Grain, livestock, wool, leather, processed food
 
 **Major Settlements:**
-- **Crossvale:** Located at the junction of major trade routes; massive market district; heavily fortified (pop. ~18,000)
-- **Riverdale:** Agricultural hub; grain processing; river trade (pop. ~4,200)
-- **Grainhaven:** Farming community; wheat fields (pop. ~3,800)
-- **Millford:** Mill town; flour for entire region (pop. ~2,900)
-- **Fairhaven:** Market town; quarterly fair (pop. ~3,400)
-- **Highfield:** Elevated plateau town; sheep herding (pop. ~2,700)
+- **Crossvale:** Located at the junction of major trade routes with a massive market district; heavily fortified (Pop. ~18,000)
+- **Riverdale:** An agricultural hub for grain processing and river trade (Pop. ~4,200)
+- **Grainhaven:** A farming community surrounded by wheat fields (Pop. ~3,800)
+- **Millford:** A mill town producing flour for the entire region (Pop. ~2,900)
+- **Fairhaven:** A market town hosting a quarterly fair (Pop. ~3,400)
+- **Highfield:** An elevated plateau town known for sheep herding (Pop. ~2,700)
 
 **Minor Settlements:** Wheatfield, Copperhill, Brookside, Hayworth, Thornhill, Cornwell, Millstream, Barleydale, Harvest, Meadowbrook, Midvale, Crossway, Plainview, Hillcrest, Valleyford, Riverside, Eastridge, Highmeadow, Farview, Ridgetop, Clearspring, Northfield, Highvale, Skyridge, Cliffside (villages) and Sunnydale, Cloverfield, Hilltop, Waypost, Edgewatch, Northpost (hamlets)
 
 **Notable Locations:**
 - Crossvale Market Square - Largest market; everything available
 - The Standing Stones - Ancient monument of unknown origin
-- **Crossroads** (town, pop. ~2,400) - A frontier mercenary town at the junction of major routes; governed by the Iron Guild
+- **Crossroads** (town, Pop. ~2,400) - A frontier mercenary town at the junction of major routes; governed by the Iron Guild
 
 #### The Goldcoast (Western Shore)
 
@@ -382,10 +382,10 @@ The western coast of Thaldros is blessed with natural harbors and a climate mode
 **Resources:** Trade goods from across world, ships, fish
 
 **Major Settlements:**
-- **Goldreach:** A wealthy coastal city; primary port for western Thaldros; controls ocean trade (pop. ~28,000)
-- **Saltmere:** Coastal town; salt harvesting; fish preservation (pop. ~2,400)
-- **Harborview:** Harbor town; shipbuilding; naval supplies (pop. ~2,800)
-- **Westport:** Small port; unofficial smuggler haven (pop. ~1,500)
+- **Goldreach:** A wealthy coastal city serving as the primary port for western Thaldros and controlling ocean trade (Pop. ~28,000)
+- **Saltmere:** A coastal town known for salt harvesting and fish preservation (Pop. ~2,400)
+- **Harborview:** A harbor town specializing in shipbuilding and naval supplies (Pop. ~2,800)
+- **Westport:** A small port serving as an unofficial smuggler haven (Pop. ~1,500)
 
 {{pageNumber,auto}}
 {{footnote Geography of Tirvandor}}
@@ -402,11 +402,11 @@ The southern reaches of Thaldros transform into a vast desert—the Sundaran Exp
 **Resources:** Exotic spices, rare herbs, ancient artifacts, desert glass
 
 **Major Settlements:**
-- **Sundara:** The jewel of the desert, built around the Great Oasis. A center of trade in exotic goods (pop. ~18,000)
-- **Sandstone:** Desert town built from local sandstone; caravan stop (pop. ~2,600)
-- **Oasis Rest:** Vital oasis along trade route (pop. ~2,100)
-- **Southwatch:** Border fortress; desert trade checkpoint (pop. ~1,700)
-- **Borderkeep:** Southernmost fortification (pop. ~1,200)
+- **Sundara:** The jewel of the desert, built around the Great Oasis. A center of trade in exotic goods (Pop. ~18,000)
+- **Sandstone:** Desert town built from local sandstone; caravan stop (Pop. ~2,600)
+- **Oasis Rest:** Vital oasis along trade route (Pop. ~2,100)
+- **Southwatch:** Border fortress; desert trade checkpoint (Pop. ~1,700)
+- **Borderkeep:** Southernmost fortification (Pop. ~1,200)
 
 **Minor Settlements:** Dustkeep, Miragewell, Sunwell, Scorched, Dryrock, Sandrift (villages) and Sandypost, Southedge (hamlets)
 
@@ -426,12 +426,12 @@ The southeastern region of Thaldros is a land of fire and ash—a volcanic waste
 \column
 
 **Major Settlements:** ::
-- **Ashgate:** Built on edge of volcanic region; black stone architecture; hot springs (pop. ~12,000)
-- **Cinderfall:** Built on old lava flow; obsidian mining (pop. ~2,300)
-- **Emberforge:** Uses volcanic heat for smithing (pop. ~2,800)
-- **Eastmarch:** Eastern frontier town; volcanic glass trade (pop. ~2,500)
-- **Ashford:** Crossroads in volcanic region (pop. ~2,200)
-- **Flamekeep:** Fire temple complex; eternal flame (pop. ~1,900)
+- **Ashgate:** Built on the edge of the volcanic region with black stone architecture and hot springs (Pop. ~12,000)
+- **Cinderfall:** A town built on an old lava flow, known for obsidian mining (Pop. ~2,300)
+- **Emberforge:** A smithing town that uses volcanic heat (Pop. ~2,800)
+- **Eastmarch:** An eastern frontier town engaged in volcanic glass trade (Pop. ~2,500)
+- **Ashford:** A crossroads town in the volcanic region (Pop. ~2,200)
+- **Flamekeep:** A fire temple complex with an eternal flame (Pop. ~1,900)
 
 **Minor Settlements:** Smokehollow, Ashvale, Burnside, Cindervale, Emberfall, Firewatch, Lavabrook, Scorchdale, Hotspring (villages) and Hotash (hamlet)
 
@@ -466,7 +466,7 @@ Thaldros experiences distinct seasonal changes, with the Ironspine Mountains cre
 }}
 The Eastern Continent, known as Aethoria, is a land of deep magic and ancient growth. Where Thaldros is marked by human ambition and dramatic geography, Aethoria is characterized by primordial forests, mysterious swamps, and a profound connection to the natural world. The very air feels thicker here, saturated with magical energy that has shaped evolution and culture alike.
 
-**Capital:** Aethermere (pop. ~38,000)
+**Capital:** Aethermere (Pop. ~38,000)
 **Major Cities:** Starfall, Crystalbrook, Wildgrove, Marshaven, Thornhaven
 **Total Settlements:** ~84 (towns, villages, and hamlets)
 
@@ -483,9 +483,9 @@ Ancient forests of tremendous age where massive star-trees grow so tall their ca
 \column
 {{padding-top:450px}}
 **Major Settlements:** ::
-- **Starfall:** Observatory city; meteors fall here (pop. ~6,500)
-- **Moonwatch:** Elven settlement; moon druids (pop. ~4,200)
-- **Shimmerleaf:** Fey-touched village (pop. ~2,800)
+- **Starfall:** Observatory city; meteors fall here (Pop. ~6,500)
+- **Moonwatch:** Elven settlement; moon druids (Pop. ~4,200)
+- **Shimmerleaf:** Fey-touched village (Pop. ~2,800)
 
 **Minor Settlements:** Glowgrove, Nightshade, Twilightwatch, Celestialvale (villages) and Starglimmer, Moonglow (hamlets)
 
@@ -498,8 +498,8 @@ A network of pristine lakes and rivers with crystalline waters. The largest fres
 **Resources:** Freshwater fish, scrying-quality water, water crystals ::
 
 **Major Settlements:** ::
-- **Crystalbrook:** Trade hub on Great Crystal Lake (pop. ~12,000)
-- **Clearwater:** Fishing and boat-building (pop. ~3,800)
+- **Crystalbrook:** Trade hub on Great Crystal Lake (Pop. ~12,000)
+- **Clearwater:** Fishing and boat-building (Pop. ~3,800)
 
 **Minor Settlements:** Lakehaven, Deepwater, Mistshore, Purewater, Silverstream, Shimmerspring, Glasspool (villages) and Crystallake, Clearspring (hamlets) ::
 {{pageNumber,auto}}
@@ -514,7 +514,7 @@ The western shore of Aethoria is a broken coastline of islands, coves, and hidde
 **Resources:** Fish, salvage, sea-spray crystals ::
 
 **Major Settlements:** ::
-- **Haven's Rest:** Port city (pop. ~5,500)
+- **Haven's Rest:** Port city (Pop. ~5,500)
 
 **Minor Settlements:** Saltmist, Fogwatch, Tidebreak, Seaspray (villages) and Coralkeep (hamlet) ::
 
@@ -527,8 +527,8 @@ The heart of Aethoria's ancient rainforests. These primordial woods are so old a
 **Resources:** Rare herbs, sacred woods, magical plants, alchemical reagents ::
 
 **Major Settlements:** ::
-- **Aethermere:** Capital; built among world-trees (pop. ~38,000)
-- **Fernwatch:** Forest guardian outpost (pop. ~3,200)
+- **Aethermere:** Capital; built among world-trees (Pop. ~38,000)
+- **Fernwatch:** Forest guardian outpost (Pop. ~3,200)
 
 **Minor Settlements:** Rootdeep, Vineheart, Mosswood, Greenveil, Canopy (villages) and Deeepshade, Treehold (hamlets) ::
 
@@ -541,8 +541,8 @@ A fertile river valley where the greatest concentration of Aehorian agriculture 
 **Resources:** Grain, fruit, vegetables, magical produce ::
 
 **Major Settlements:** ::
-- **Riverrun:** Market town at river confluence (pop. ~4,500)
-- **Harvest Hall:** Agricultural center (pop. ~3,800)
+- **Riverrun:** Market town at river confluence (Pop. ~4,500)
+- **Harvest Hall:** Agricultural center (Pop. ~3,800)
 
 **Minor Settlements:** Goldfield, Brightshore, Sunnybrook, Greenvale, Meadowrun, Cropstone, Waterside (villages) and Wheathollow, Millcrest (hamlets) ::
 
@@ -555,7 +555,7 @@ Highlands covered in perpetual mist and ancient pines. The region has a haunting
 **Resources:** Rare fungi, ghost orchids, mist-touched timber ::
 
 **Major Settlements:** ::
-- **Mistview:** Highland town (pop. ~3,500)
+- **Mistview:** Highland town (Pop. ~3,500)
 
 **Minor Settlements:** Fogveil, Cloudrest, Shadowpine, Misthollow, Graymist, Palewatch (villages) and Ghostwood, Dimvale (hamlets) ::
 
@@ -568,8 +568,8 @@ Vast wetlands where water and land blur together. A maze of swamps, bogs, and ba
 **Resources:** Rare poisons, medicinal plants, exotic leathers, swamp gas ::
 
 **Major Settlements:** ::
-- **Marshaven:** Fortified stilt-city; alchemical trade (pop. ~8,000)
-- **Bogrest:** Swamp village (pop. ~2,200)
+- **Marshaven:** Fortified stilt-city; alchemical trade (Pop. ~8,000)
+- **Bogrest:** Swamp village (Pop. ~2,200)
 
 **Minor Settlements:** Mistfen, Sludgegate, Quickwater, Rotwood, Murkhollow, Slimebrook (villages) and Vine's End (hamlet) ::
 
@@ -582,7 +582,7 @@ Southern wetlands where unusual acoustic properties make the swamp "sing" with w
 **Resources:** Reed instruments, singing crystals, medicinal mud ::
 
 **Major Settlements:** ::
-- **Reedwatch:** Marsh town (pop. ~2,800)
+- **Reedwatch:** Marsh town (Pop. ~2,800)
 
 **Minor Settlements:** Songwater, Whistlebrook, Chimefen, Melodymarsh, Harpmire (villages) and Tunevale (hamlet) ::
 
@@ -595,7 +595,7 @@ A mountain range covered in jungle growth. Unlike the barren peaks of Thaldros, 
 **Resources:** Tropical hardwoods, rare orchids, mountain herbs ::
 
 **Major Settlements:** ::
-- **Highgrove:** Mountain settlement (pop. ~3,200)
+- **Highgrove:** Mountain settlement (Pop. ~3,200)
 
 **Minor Settlements:** Cliffbloom, Junglepeak, Canopyrest, Vinespur, Summitleaf (villages) and Stonegreen (hamlet) ::
 
@@ -612,8 +612,8 @@ The southwestern peninsula that appears torn from Thaldros's Reaching Claws. Dra
 **Resources:** Fish, rare shells, sea caves, pirate treasures ::
 
 **Major Settlements:** ::
-- **Wildgrove:** Druidic sanctuary (pop. ~5,000)
-- **Thornhaven:** Island monastery (pop. ~1,800)
+- **Wildgrove:** Druidic sanctuary (Pop. ~5,000)
+- **Thornhaven:** Island monastery (Pop. ~1,800)
 
 **Minor Settlements:** Splitcove, Jagged Bay, Cliffwatch, Searock, Tidemark (villages) and Wavebreak, Stormrest (hamlets) ::
 
@@ -3826,7 +3826,7 @@ Unlike northern houses built on ancient bloodlines, Ashborne's power comes from:
 
 
 **Holdings:** ::
-- Sundara (major city, population ~18,000)
+- Sundara (major city, Population: ~18,000)
 - Control of 12 major oases
 - Three fortified trade posts
 - Merchant fleet at Goldreach port
@@ -4270,7 +4270,7 @@ Unlike western houses focused on military power or wealth, Starweavers accumulat
 - Questions whether schism was necessary
 
 **Holdings:** ::
-- Starfall (major city, population ~6,500)
+- Starfall (major city, Population: ~6,500)
 - The Grand Observatory (largest telescope in world)
 - The Celestial Archives (forbidden library with pre-Worldrend texts)
 - Three wizard towers across Aethoria
@@ -4446,7 +4446,7 @@ The royal house of Aethoria rules differently than western kings:
 - *Neither child is heir; the Chosen Heir system supersedes blood succession*
 
 **Holdings:** ::
-- Aethermere (capital, population ~38,000)
+- Aethermere (capital, Population: ~38,000)
 - Direct authority over Emerald Deeps
 - Symbolic authority over all Aethoria
 - Sacred groves and world-tree network
@@ -5224,7 +5224,7 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 {{padding-top:400px}}
 ### **Sundara**
 - **Region:** The Sundaran Expanse
-- **Population:** ~15,000
+- **Population:** ~18,000
 - **Government:** Sultan's Council
 - **Primary Industries:** Oasis farming, exotic goods trade, glasswork
 - **Notable Features:** Built around the Great Oasis; famous glass bazaar; ancient buried ruins beneath the city
@@ -5252,27 +5252,32 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 
 ### Northern Region (Frostmarches)
 
-**Frostholm** :: (Pop: ~2,500)
-- Remote northern settlement; ice fishing; seal hunting; hardy folk ::
-**Northwatch** :: (Pop: ~2,200)
-- Mountain pass guardpost; warns of giant incursions; trade checkpoint ::
-**Iceridge** :: (Pop: ~1,800)
-- High-altitude mining town; ice crystals with magical properties ::
+**Frostholm** :: (Pop. ~2,500)
+- A remote northern settlement known for ice fishing, seal hunting, and its hardy folk ::
+**Northwatch** :: (Pop. ~2,200)
+- A mountain pass guardpost that warns of giant incursions and serves as a trade checkpoint ::
+**Iceridge** :: (Pop. ~1,800)
+- A high-altitude mining town known for ice crystals with magical properties ::
 \column
 {{padding-top:550px}}
 ### Mountain Region (Ironspine Holds)
 
-**Deepforge** :: (Pop: ~3,500)
-- Deep mining town; primarily dwarven; volcanic forges ::
-**Stonehaven** :: (Pop: ~2,800)
-- Quarry town; exports building stone; ancient ruins nearby ::
+**Deepforge** :: (Pop. ~3,500)
+- A deep mining town, primarily dwarven, featuring volcanic forges ::
+**Stonehaven** :: (Pop. ~2,800)
+- A quarry town that exports building stone, with ancient ruins nearby ::
 
 ### Western Region
 
-**Westmarch** (Pop: ~1,600) ::
-- Frontier outpost; protects western settlements; ranger base ::
-**Timberfall** (Pop: ~1,900) ::
-- Logging town; sustainable forestry; druid cooperation required ::
+**Westmarch** (Pop. ~1,600) ::
+- A frontier outpost that protects western settlements and serves as a ranger base ::
+**Timberfall** (Pop. ~1,900) ::
+- A logging town practicing sustainable forestry with required druid cooperation ::
+
+### Frontier Region (The Border)
+
+**Crossroads** (Pop. ~2,400) ::
+- A lawless mercenary town at the junction of three trade routes; governed by the Iron Guild rather than Crown authority; violence is common but regulated; home to the Iron Council and numerous mercenary companies ::
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement Registry}}
 \page
@@ -5284,60 +5289,60 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 {{padding-top:460px}}
 ### Central Forest (Silverwood)
 
-**Oakenheart** (Pop: ~3,200) ::
-- Forest town; woodworking; druid circle nearby ::
-**Willowbrook** (Pop: ~2,600) ::
-- Riverside town; waterwheel mills; paper production ::
+**Oakenheart** (Pop. ~3,200) ::
+- A forest town known for woodworking, with a druid circle nearby ::
+**Willowbrook** (Pop. ~2,600) ::
+- A riverside town featuring waterwheel mills and paper production ::
 
 ### Central Heartlands
 
-**Riverdale** (Pop: ~4,200) ::
-- Agricultural hub; grain processing; river trade ::
-**Grainhaven** (Pop: ~3,800) ::
-- Farming community; wheat fields as far as eye can see ::
-**Millford** (Pop: ~2,900) ::
-- Mill town; produces flour for entire region ::
-**Fairhaven** (Pop: ~3,400) ::
-- Market town; quarterly fair draws crowds ::
-**Highfield** (Pop: ~2,700) ::
-- Elevated plateau town; sheep herding; wool trade ::
+**Riverdale** (Pop. ~4,200) ::
+- An agricultural hub focused on grain processing and river trade ::
+**Grainhaven** (Pop. ~3,800) ::
+- A farming community surrounded by wheat fields as far as the eye can see ::
+**Millford** (Pop. ~2,900) ::
+- A mill town that produces flour for the entire region ::
+**Fairhaven** (Pop. ~3,400) ::
+- A market town where the quarterly fair draws crowds from across the region ::
+**Highfield** (Pop. ~2,700) ::
+- An elevated plateau town known for sheep herding and wool trade ::
 
 ### West Coast
 
-**Saltmere** (Pop: ~2,400) ::
-- Coastal town; salt harvesting; fish preservation ::
-**Harborview** (Pop: ~2,800) ::
-- Harbor town; shipbuilding; naval supplies ::
-**Westport** (Pop: ~1,500) ::
-- Small port; smuggler haven (unofficially); repairs ::
+**Saltmere** (Pop. ~2,400) ::
+- A coastal town known for salt harvesting and fish preservation ::
+**Harborview** (Pop. ~2,800) ::
+- A harbor town specializing in shipbuilding and naval supplies ::
+**Westport** (Pop. ~1,500) ::
+- A small port that serves as an unofficial smuggler haven and repair station ::
 \column
 {{padding-top:460px}}
 ### Southern Region
 
-**Southwatch** (Pop: ~1,700) ::
-- Border fortress; desert trade checkpoint ::
-**Borderkeep** (Pop: ~1,200) ::
-- Southernmost fortification; guards desert frontier ::
+**Southwatch** (Pop. ~1,700) ::
+- A border fortress serving as a desert trade checkpoint ::
+**Borderkeep** (Pop. ~1,200) ::
+- The southernmost fortification, guarding the desert frontier ::
 
 ### Desert (Sundaran Expanse)
 
-**Sandstone** (Pop: ~2,600) ::
-- Desert town; built from local sandstone; caravan stop ::
-**Oasis Rest** (Pop: ~2,100) ::
-- Vital oasis along trade route; water source ::
+**Sandstone** (Pop. ~2,600) ::
+- A desert town built from local sandstone, serving as a caravan stop ::
+**Oasis Rest** (Pop. ~2,100) ::
+- A vital oasis along the trade route, providing essential water ::
 
 ### Volcanic Region (Ashfall Barrens)
 
-**Cinderfall** :: (Pop: ~2,300)
-- Built on old lava flow; obsidian mining ::
-**Emberforge** :: (Pop: ~2,800)
-- Uses volcanic heat for smithing; fireproof architecture ::
-**Eastmarch** :: (Pop: ~2,500)
-- Eastern frontier town; volcanic glass trade
-**Ashford** :: (Pop: ~2,200)
-- Crossroads in volcanic region; ash-proof crops ::
-**Flamekeep** :: (Pop: ~1,900)
-- Fire temple complex; flame eternal guards town ::
+**Cinderfall** :: (Pop. ~2,300)
+- A town built on an old lava flow, known for obsidian mining ::
+**Emberforge** :: (Pop. ~2,800)
+- A smithing town that uses volcanic heat, featuring fireproof architecture ::
+**Eastmarch** :: (Pop. ~2,500)
+- An eastern frontier town engaged in volcanic glass trade ::
+**Ashford** :: (Pop. ~2,200)
+- A crossroads in the volcanic region, farming ash-proof crops ::
+**Flamekeep** :: (Pop. ~1,900)
+- A fire temple complex where an eternal flame guards the town ::
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement Registry}}
@@ -5346,116 +5351,115 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 ## Villages (Thaldros) - Selected Notable Examples
 
 ### Far North
-**Frostwatch** :: (Pop: ~350) - Ice watch towers; warns of blizzards 
-**Icegate** :: (Pop: ~280) - Mountain pass village; guides available
-**Snowmelt** :: (Pop: ~240) - Spring water source in frozen north
-**Coldpeak** :: (Pop: ~190) - Ice climbers' base camp
-**Winterhold** :: (Pop: ~220) - Winter storage facility for region
+**Frostwatch** :: (Pop. ~350) - A village with ice watch towers that warns of blizzards 
+**Icegate** :: (Pop. ~280) - A mountain pass village where guides are available
+**Snowmelt** :: (Pop. ~240) - A spring water source in the frozen north
+**Coldpeak** :: (Pop. ~190) - An ice climbers' base camp
+**Winterhold** :: (Pop. ~220) - A winter storage facility for the region
 
 ### Mountains
-**Highpeak** :: (Pop: ~300) - Highest permanent settlement
-**Crystalmine** :: (Pop: ~420) - Crystal mining; gems and minerals
-**Stonegard** :: (Pop: ~260) - Guards ancient dwarven gates
+**Highpeak** :: (Pop. ~300) - The highest permanent settlement in the region
+**Crystalmine** :: (Pop. ~420) - A crystal mining village producing gems and minerals
+**Stonegard** :: (Pop. ~260) - A village that guards ancient dwarven gates
 
 ### Western Wilderness
-**Deepwood** :: (Pop: ~180) - Deep forest settlement; hunters
-**Wildrun** :: (Pop: ~210) - Ranger outpost; wildlife tracking
-**Westreach** :: (Pop: ~240) - Westernmost settlement in Thaldros
+**Deepwood** :: (Pop. ~180) - A deep forest settlement inhabited by hunters
+**Wildrun** :: (Pop. ~210) - A ranger outpost for wildlife tracking
+**Westreach** :: (Pop. ~240) - The westernmost settlement in Thaldros
 
 ### Coastal Villages
-**Shellcove** :: (Pop: ~320) - Shell harvesting; pearl diving
-**Tidepool** :: (Pop: ~280) - Tide chart makers; navigation aid
-**Seaview** :: (Pop: ~260) - Clifftop village; lighthouse
-**Dockside** :: (Pop: ~240) - Fishing village; ship repairs
+**Shellcove** :: (Pop. ~320) - A coastal village known for shell harvesting and pearl diving
+**Tidepool** :: (Pop. ~280) - A village of tide chart makers providing navigation aid
+**Seaview** :: (Pop. ~260) - A clifftop village with a lighthouse
+**Dockside** :: (Pop. ~240) - A fishing village offering ship repairs
 
 ### Southwest
-**Lastpost** :: (Pop: ~160) - Last stop before deep desert
-**Westridge** :: (Pop: ~190) - Ridge settlement; lookout post
-**Southpoint** :: (Pop: ~140) - Southernmost Thaldros settlement
-**Endwatch** :: (Pop: ~120) - Coastal watch tower village
+**Lastpost** :: (Pop. ~160) - The last stop before the deep desert
+**Westridge** :: (Pop. ~190) - A ridge settlement serving as a lookout post
+**Southpoint** :: (Pop. ~140) - The southernmost Thaldros settlement
+**Endwatch** :: (Pop. ~120) - A coastal watch tower village
 
 ### Forest Communities
-**Greenleaf** (Pop: ~380) - Herbalist village; medicinal plants ::
-**Mapleshire** (Pop: ~340) - Maple syrup production ::
-**Birchwood** (Pop: ~300) - Birch bark paper production ::
-**Fernhaven** (Pop: ~290) - Fern harvesting; basket weaving ::
-**Pinegrove** (Pop: ~310) - Pine lumber; resin collection ::
-**Elmwood** (Pop: ~270) - Elm wood crafts; instrument makers ::
+**Greenleaf** (Pop. ~380) - An herbalist village specializing in medicinal plants ::
+**Mapleshire** (Pop. ~340) - A village known for maple syrup production ::
+**Birchwood** (Pop. ~300) - A village producing birch bark paper ::
+**Fernhaven** (Pop. ~290) - A village for fern harvesting and basket weaving ::
+**Pinegrove** (Pop. ~310) - A lumber village harvesting pine and collecting resin ::
+**Elmwood** (Pop. ~270) - A craftsman village making elm wood instruments ::
 \column
 ### Heartland Villages
-**Wheatfield** (Pop: ~450) - Wheat farming; breadbasket village ::
-**Copperhill** (Pop: ~380) - Copper mining; small mine ::
-**Brookside** (Pop: ~360) - Stream fishing; watercress farming ::
-**Hayworth** (Pop: ~400) - Hay production; livestock feed ::
-**Thornhill** (Pop: ~410) - Thornberry wine production ::
-**Cornwell** (Pop: ~390) - Corn farming; mill ::
-**Millstream** (Pop: ~320) - Water-powered mills ::
-**Barleydale** (Pop: ~370) - Barley farming; brewing ::
-**Harvest** (Pop: ~340) - Mixed farming; harvest festivals ::
-**Meadowbrook** (Pop: ~360) - Meadow honey; beekeeping ::
+**Wheatfield** (Pop. ~450) - A wheat farming village, part of the region's breadbasket ::
+**Copperhill** (Pop. ~380) - A small copper mining village ::
+**Brookside** (Pop. ~360) - A village known for stream fishing and watercress farming ::
+**Hayworth** (Pop. ~400) - A village producing hay for livestock feed ::
+**Thornhill** (Pop. ~410) - A village famous for thornberry wine production ::
+**Cornwell** (Pop. ~390) - A corn farming village with a mill ::
+**Millstream** (Pop. ~320) - A village with water-powered mills ::
+**Barleydale** (Pop. ~370) - A village for barley farming and brewing ::
+**Harvest** (Pop. ~340) - A mixed farming village known for its harvest festivals ::
+**Meadowbrook** (Pop. ~360) - A beekeeping village producing meadow honey ::
 
 ### Eastern Villages
-**Eastridge** (Pop: ~290) - Eastern frontier; sheep herding ::
-**Highmeadow** (Pop: ~310) - Highland pastures ::
-**Farview** (Pop: ~270) - Scenic overlook; artist colony ::
-**Ridgetop** (Pop: ~250) - Mountain ridge settlement ::
-**Clearspring** (Pop: ~280) - Natural spring water; bottling ::
+**Eastridge** (Pop. ~290) - An eastern frontier village with sheep herding ::
+**Highmeadow** (Pop. ~310) - A village in the highland pastures ::
+**Farview** (Pop. ~270) - A scenic overlook village with an artist colony ::
+**Ridgetop** (Pop. ~250) - A mountain ridge settlement ::
+**Clearspring** (Pop. ~280) - A village known for natural spring water bottling ::
 
 ### Desert Villages
-**Dustkeep** (Pop: ~230) - Desert fort; sandstorm shelter ::
-**Miragewell** (Pop: ~260) - Unreliable oasis; transient population ::
-**Sunwell** (Pop: ~240) - Reliable oasis; permanent settlement ::
-**Scorched** (Pop: ~180) - Desert edge settlement; harsh conditions ::
-**Dryrock** (Pop: ~210) - Rock quarry; building materials ::
-**Sandrift** (Pop: ~170) - Mobile settlement; follows water ::
+**Dustkeep** (Pop. ~230) - A desert fort providing sandstorm shelter ::
+**Miragewell** (Pop. ~260) - An unreliable oasis with a transient population ::
+**Sunwell** (Pop. ~240) - A reliable oasis with permanent settlement ::
+**Scorched** (Pop. ~180) - A desert edge settlement in harsh conditions ::
+**Dryrock** (Pop. ~210) - A rock quarry village providing building materials ::
+**Sandrift** (Pop. ~170) - A mobile settlement that follows water sources ::
 
 ### Volcanic Region
-**Smokehollow** (Pop: ~290) - Smoke-filled valley; sulfur mining ::
-**Ashvale** (Pop: ~310) - Ash farming for fertilizer ::
-**Burnside** (Pop: ~270) - Hot springs resort; healing waters ::
-**Cindervale** (Pop: ~250) - Cinder cone farming settlement ::
-**Emberfall** (Pop: ~220) - Ember crystal harvesting ::
-**Firewatch** (Pop: ~240) - Volcano monitoring station ::
-**Lavabrook** (Pop: ~280) - Cooled lava stream settlement ::
-**Scorchdale** (Pop: ~260) - Fire-resistant crop farming ::
-**Hotspring** (Pop: ~300) - Geothermal hot springs; tourism ::
+**Smokehollow** (Pop. ~290) - A smoke-filled valley village mining sulfur ::
+**Ashvale** (Pop. ~310) - A village farming ash for fertilizer ::
+**Burnside** (Pop. ~270) - A hot springs resort village with healing waters ::
+**Cindervale** (Pop. ~250) - A farming settlement on a cinder cone ::
+**Emberfall** (Pop. ~220) - A village harvesting ember crystals ::
+**Firewatch** (Pop. ~240) - A volcano monitoring station ::
+**Lavabrook** (Pop. ~280) - A settlement along a cooled lava stream ::
+**Scorchdale** (Pop. ~260) - A village farming fire-resistant crops ::
+**Hotspring** (Pop. ~300) - A geothermal hot springs village attracting tourists ::
 
 ### Northeast
-**Northfield** (Pop: ~320) - Northern farmland ::
-**Highvale** (Pop: ~290) - High valley settlement; goats ::
-**Skyridge** (Pop: ~270) - Mountain ridge trading post ::
-**Cliffside** (Pop: ~250) - Cliff dwelling settlement ::
+**Northfield** (Pop. ~320) - A village in the northern farmland ::
+**Highvale** (Pop. ~290) - A high valley settlement known for goat herding ::
+**Skyridge** (Pop. ~270) - A mountain ridge trading post ::
+**Cliffside** (Pop. ~250) - A cliff dwelling settlement ::
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement Registry}}
 \page
 
 ### Central South
-**Midvale** (Pop: ~330) - Central valley; crossroads ::
-**Crossway** (Pop: ~310) - Road junction; inn ::
-**Plainview** (Pop: ~290) - Open plains settlement ::
-**Hillcrest** (Pop: ~280) - Hill farming; terraces ::
-**Valleyford** (Pop: ~260) - River ford; toll bridge ::
-**Riverside** (Pop: ~300) - River fishing; ferry crossing ::
+**Midvale** (Pop. ~330) - A central valley crossroads village ::
+**Crossway** (Pop. ~310) - A road junction village with an inn ::
+**Plainview** (Pop. ~290) - An open plains settlement ::
+**Hillcrest** (Pop. ~280) - A hill farming village with terraces ::
+**Valleyford** (Pop. ~260) - A river ford village with a toll bridge ::
+**Riverside** (Pop. ~300) - A village for river fishing with ferry crossing ::
 
 ## Hamlets (Thaldros)
 
 :
  
-**Coldwater** (Pop: ~45) - Mountain spring hamlet ::
-**Sunnydale** (Pop: ~60) - Pleasant farming hamlet ::
-**Cloverfield** (Pop: ~55) - Clover farming; honey ::
-**Driftwood** (Pop: ~40) - Coastal driftwood collection ::
-**Hilltop** (Pop: ~50) - Hilltop inn and stables ::
-**Waypost** (Pop: ~48) - Waystation on trade road ::
-**Longridge** (Pop: ~42) - Long ridge settlement ::
-**Pinerest** (Pop: ~38) - Pine forest rest stop ::
-**Crossroads** (Pop: ~2,400) - **THE CROSSROADS** - A frontier town that grew from a simple road junction into a lawless mercenary haven; governed by the Iron Guild rather than Crown authority ::
-**Sandypost** (Pop: ~35) - Desert waystation ::
-**Hotash** (Pop: ~40) - Volcanic region outpost ::
-**Edgewatch** (Pop: ~52) - Eastern edge watchtower ::
-**Northpost** (Pop: ~47) - Northern waystation ::
-**Southedge** (Pop: ~38) - Southern boundary marker ::
+**Coldwater** (Pop. ~45) - A mountain spring hamlet ::
+**Sunnydale** (Pop. ~60) - A pleasant farming hamlet ::
+**Cloverfield** (Pop. ~55) - A hamlet for clover farming and honey production ::
+**Driftwood** (Pop. ~40) - A coastal hamlet for driftwood collection ::
+**Hilltop** (Pop. ~50) - A hilltop hamlet with an inn and stables ::
+**Waypost** (Pop. ~48) - A waystation hamlet on the trade road ::
+**Longridge** (Pop. ~42) - A hamlet along a long ridge ::
+**Pinerest** (Pop. ~38) - A pine forest rest stop ::
+**Sandypost** (Pop. ~35) - A desert waystation hamlet ::
+**Hotash** (Pop. ~40) - A volcanic region outpost ::
+**Edgewatch** (Pop. ~52) - An eastern edge watchtower hamlet ::
+**Northpost** (Pop. ~47) - A northern waystation hamlet ::
+**Southedge** (Pop. ~38) - A southern boundary marker hamlet ::
 
 
 {{pageNumber,auto}}
@@ -5481,7 +5485,7 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 {{padding-top:25px}}
 ### **Starfall**
 - **Region:** The Starwood
-- **Population:** ~14,000
+- **Population:** ~6,500
 - **Government:** Observatory Council
 - **Primary Industries:** Astronomy, divination, meteor metal crafting
 - **Notable Features:** Built in meteor impact clearing; frequent meteor falls; star charts guide continental navigation; cosmic magic concentration
@@ -5491,7 +5495,7 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 \page
 ### **Crystalbrook**
 - **Region:** The Crystalvale
-- **Population:** ~26,000
+- **Population:** ~12,000
 - **Government:** Council of Waves (elected)
 - **Primary Industries:** Crystal mining, water trade, fishing, scrying services
 - **Notable Features:** Crystal towers reflect sunlight for miles; pristine lake produces scrying crystals; underground crystal caves
@@ -5499,7 +5503,7 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 
 ### **Wildgrove**
 - **Region:** The Emerald Deeps
-- **Population:** ~8,000
+- **Population:** ~5,000
 - **Government:** Druidic hierarchy
 - **Primary Industries:** Sacred site; herbal medicine; beast companionship training
 - **Notable Features:** Druidic sanctuary; world-tree grove; speak with animals commonplace; wild beasts coexist with inhabitants
@@ -5507,7 +5511,7 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 
 ### **Marshaven**
 - **Region:** The Thornmire Marches
-- **Population:** ~11,000
+- **Population:** ~8,000
 - **Government:** Swamp Lords (oligarchy)
 - **Primary Industries:** Alchemy, poisons, exotic leather, swamp navigation
 - **Notable Features:** Built on stilts and platforms; floating districts; famous alchemy quarter; plague-resistant population
@@ -5515,7 +5519,7 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 
 ### **Port Myrthen** (Island City)
 - **Region:** The Sundering Sea (Central Archipelago)
-- **Population:** ~22,000
+- **Population:** ~9,000
 - **Government:** Merchant Prince
 - **Primary Industries:** Trade hub, ship repairs, smuggling, information brokerage
 - **Notable Features:** Neutral ground between continents; mix of all cultures; famous black market; no questions asked policy
@@ -5527,160 +5531,160 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 
 ### Northwest (Starwood)
 
-**Mistwood** (Pop: ~2,400) ::
-- Forest town perpetually shrouded in mist; mushroom farming ::
-**Moonwell** (Pop: ~2,800) ::
-- Built around lunar well that glows with moonlight; moon druids ::
+**Mistwood** (Pop. ~2,400) ::
+- A forest town perpetually shrouded in mist, known for mushroom farming ::
+**Moonwell** (Pop. ~2,800) ::
+- A town built around a lunar well that glows with moonlight, home to moon druids ::
 
 ### Lake Region (Crystalvale)
 
-**Lakeshire** (Pop: ~3,200) ::
-- Lakeside town; fishing; boat building; ferry service ::
-**Clearwater** (Pop: ~2,900) ::
-- Crystal-clear springs; bottled water trade; spa ::
+**Lakeshire** (Pop. ~3,200) ::
+- A lakeside town known for fishing, boat building, and ferry service ::
+**Clearwater** (Pop. ~2,900) ::
+- A town with crystal-clear springs, featuring bottled water trade and a spa ::
 
 ### Northeast
 
-**Easthaven** (Pop: ~2,600) ::
-- Eastern coastal town; ocean trade; lighthouse ::
-**Highgarden** (Pop: ~2,400) ::
-- Elevated gardens; terraced farming; exotic plants ::
+**Easthaven** (Pop. ~2,600) ::
+- An eastern coastal town engaged in ocean trade, featuring a lighthouse ::
+**Highgarden** (Pop. ~2,400) ::
+- A town with elevated gardens, terraced farming, and exotic plants ::
 
 ### Central Jungle
 
-**Vineheart** (Pop: ~2,700) ::
-- Jungle town; vine cultivation; rope making ::
-**Riverbend** (Pop: ~3,100) ::
-- River trading post; canoe builders; guides ::
-**Greenmeadow** (Pop: ~2,300) ::
-- Clearing in jungle; meadow flowers; perfume trade ::
-**Ferndale** (Pop: ~2,100) ::
-- Fern forest; medicinal ferns; herbalists ::
+**Vineheart** (Pop. ~2,700) ::
+- A jungle town specializing in vine cultivation and rope making ::
+**Riverbend** (Pop. ~3,100) ::
+- A river trading post with canoe builders and guides ::
+**Greenmeadow** (Pop. ~2,300) ::
+- A clearing in the jungle with meadow flowers and perfume trade ::
+**Ferndale** (Pop. ~2,100) ::
+- A fern forest town with medicinal ferns and herbalists ::
 
 ### East Coast
 
-**Tidemark** (Pop: ~2,800) ::
-- Coastal town; tide pools; shell trade; pearls ::
-**Dawnshore** (Pop: ~2,400) ::
-- Eastern shore; first sunrise; sun worshippers ::
+**Tidemark** (Pop. ~2,800) ::
+- A coastal town with tide pools, shell trade, and pearls ::
+**Dawnshore** (Pop. ~2,400) ::
+- An eastern shore town with the first sunrise, home to sun worshippers ::
 
 ### Swamps (Thornmire Marches)
 
-**Reedhaven** (Pop: ~2,200) ::
-- Reed harvesting; basket weaving; paper making ::
+**Reedhaven** (Pop. ~2,200) ::
+- A town for reed harvesting, basket weaving, and paper making ::
 
 ### Southern Region
 
-**Skyhaven** (Pop: ~2,500) ::
-- Mountain town; griffin riders; aerial scouts ::
-**Southvale** (Pop: ~1,900) ::
-- Southern valley; tropical fruits; trade ::
-**Mountainhome** (Pop: ~1,800) ::
-- Mountain settlement; stone quarry; climbing school ::
+**Skyhaven** (Pop. ~2,500) ::
+- A mountain town with griffin riders and aerial scouts ::
+**Southvale** (Pop. ~1,900) ::
+- A southern valley town with tropical fruits and trade ::
+**Mountainhome** (Pop. ~1,800) ::
+- A mountain settlement with a stone quarry and climbing school ::
 
 ## Villages (Aethoria) - Selected Notable Examples
 
 ### Far Northwest
-**Fogvale** (Pop: ~280) - Permanent fog; fog navigation experts ::
-**Northmist** (Pop: ~310) - Northern mist forests; mushroom trade ::
-**Silverleaf** (Pop: ~290) - Silverleaf trees; rare wood ::
+**Fogvale** (Pop. ~280) - A village in permanent fog with fog navigation experts ::
+**Northmist** (Pop. ~310) - A village in northern mist forests with mushroom trade ::
+**Silverleaf** (Pop. ~290) - A village known for silverleaf trees and rare wood ::
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement Registry}}
 \page
 
 ### Starwood
-**Nightshade** (Pop: ~320) - Nightshade harvesting; poison antidotes ::
-**Dawngrove** (Pop: ~340) - Dawn rituals; solar druids ::
-**Moonshade** (Pop: ~300) - Lunar druids; moon ceremonies ::
-**Starlight** (Pop: ~280) - Star gazing; astrology ::
+**Nightshade** (Pop. ~320) - A village for nightshade harvesting and poison antidotes ::
+**Dawngrove** (Pop. ~340) - A village known for dawn rituals and solar druids ::
+**Moonshade** (Pop. ~300) - A village of lunar druids with moon ceremonies ::
+**Starlight** (Pop. ~280) - A village for star gazing and astrology ::
 
 ### Lakes
-**Glasspool** (Pop: ~360) - Glass-smooth lake; mirror magic ::
-**Shimmershore** (Pop: ~340) - Shimmering water; water elementals ::
-**Pristine** (Pop: ~330) - Pristine waters; pure water trade ::
-**Deepwater** (Pop: ~320) - Deep lake; diving competitions ::
-**Quietshore** (Pop: ~310) - Peaceful retreat; meditation ::
+**Glasspool** (Pop. ~360) - A village on a glass-smooth lake with mirror magic ::
+**Shimmershore** (Pop. ~340) - A village with shimmering water and water elementals ::
+**Pristine** (Pop. ~330) - A village with pristine waters for pure water trade ::
+**Deepwater** (Pop. ~320) - A deep lake village with diving competitions ::
+**Quietshore** (Pop. ~310) - A peaceful retreat village for meditation ::
 
 ### Northeast
-**Cloudview** (Pop: ~290) - Mountain clouds; weather prediction ::
-**Windpeak** (Pop: ~270) - Windy peak; wind magic research ::
+**Cloudview** (Pop. ~290) - A mountain village in the clouds for weather prediction ::
+**Windpeak** (Pop. ~270) - A windy peak village for wind magic research ::
 
 ### East Coast
-**Eastwatch** (Pop: ~280) - Coastal watch; sea monster lookout ::
-**Sunrise Bay** (Pop: ~300) - Beautiful sunrises; artist colony ::
-**Dawn Coast** (Pop: ~270) - Coastal fishing; lighthouse ::
-**Seaforth** (Pop: ~280) - Fishing; ocean trade ::
+**Eastwatch** (Pop. ~280) - A coastal watch village with sea monster lookout ::
+**Sunrise Bay** (Pop. ~300) - A village with beautiful sunrises and an artist colony ::
+**Dawn Coast** (Pop. ~270) - A coastal village for fishing with a lighthouse ::
+**Seaforth** (Pop. ~280) - A fishing village engaged in ocean trade ::
 
 ### Central Jungle
-**Deepvine** (Pop: ~310) - Deep jungle; vine bridges ::
-**Thorntangle** (Pop: ~290) - Thorn bushes; protective barriers ::
-**Wildroots** (Pop: ~300) - Root vegetables; underground farming ::
-**Mistfall** (Pop: ~270) - Waterfall mist; rainbow magic ::
-**Coralrest** (Pop: ~260) - Jungle clearing; rest stop ::
-**Vinewall** (Pop: ~280) - Vine walls; natural fortification ::
-**Jungleheart** (Pop: ~290) - Deep jungle center; druid circle ::
+**Deepvine** (Pop. ~310) - A deep jungle village with vine bridges ::
+**Thorntangle** (Pop. ~290) - A village surrounded by thorn bushes forming protective barriers ::
+**Wildroots** (Pop. ~300) - A village known for root vegetables and underground farming ::
+**Mistfall** (Pop. ~270) - A village near a waterfall mist with rainbow magic ::
+**Coralrest** (Pop. ~260) - A jungle clearing serving as a rest stop ::
+**Vinewall** (Pop. ~280) - A village with vine walls providing natural fortification ::
+**Jungleheart** (Pop. ~290) - A village at the deep jungle center with a druid circle ::
 
 ### Central Valley
-**Canopy** (Pop: ~320) - Canopy dwellings; tree houses ::
-**Fernvalley** (Pop: ~340) - Fern valleys; green dyes ::
-**Greenheart** (Pop: ~350) - Green magic center; nature spells ::
-**Vinesong** (Pop: ~310) - Musical vines; bard college ::
-**Paddyfield** (Pop: ~360) - Rice paddies; rice trade ::
-**Watermill** (Pop: ~330) - Water wheels; grain processing ::
-**Ricebrook** (Pop: ~340) - Rice cultivation; sake brewing ::
+**Canopy** (Pop. ~320) - A village of canopy dwellings and tree houses ::
+**Fernvalley** (Pop. ~340) - A fern valley village producing green dyes ::
+**Greenheart** (Pop. ~350) - A green magic center for nature spells ::
+**Vinesong** (Pop. ~310) - A village with musical vines hosting a bard college ::
+**Paddyfield** (Pop. ~360) - A village of rice paddies engaged in rice trade ::
+**Watermill** (Pop. ~330) - A village with water wheels for grain processing ::
+**Ricebrook** (Pop. ~340) - A village for rice cultivation and sake brewing ::
 
 ### Central East
-**Greenvale** (Pop: ~310) - Green valley; pastoral ::
-**Oakmeadow** (Pop: ~320) - Oak trees; acorn flour ::
-**Brightwood** (Pop: ~290) - Luminescent trees; light wood ::
-**Sunnybrook** (Pop: ~300) - Sunny clearing; solar power ::
+**Greenvale** (Pop. ~310) - A green pastoral valley village ::
+**Oakmeadow** (Pop. ~320) - A village with oak trees producing acorn flour ::
+**Brightwood** (Pop. ~290) - A village of luminescent trees with light wood ::
+**Sunnybrook** (Pop. ~300) - A sunny clearing village harnessing solar power ::
 
 ### Swamps
-**Bogwallow** (Pop: ~250) - Bog dwelling; peat harvesting ::
-**Murkwater** (Pop: ~260) - Murky waters; swamp guides ::
-**Reedfenn** (Pop: ~270) - Reed marshes; thatching ::
-**Marshlight** (Pop: ~280) - Bioluminescent swamp; phosphorescence ::
+**Bogwallow** (Pop. ~250) - A bog dwelling village for peat harvesting ::
+**Murkwater** (Pop. ~260) - A murky waters village with swamp guides ::
+**Reedfenn** (Pop. ~270) - A reed marsh village for thatching ::
+**Marshlight** (Pop. ~280) - A bioluminescent swamp village with phosphorescence ::
 
 ### South
-**Bordermark** (Pop: ~290) - Southern border; checkpoint ::
-**Southshore** (Pop: ~270) - Southern coast; warm waters ::
-**Warmwater** (Pop: ~280) - Warm springs; spa ::
-**Sunvale** (Pop: ~300) - Sunny valley; tropical ::
+**Bordermark** (Pop. ~290) - A southern border checkpoint village ::
+**Southshore** (Pop. ~270) - A southern coast village with warm waters ::
+**Warmwater** (Pop. ~280) - A warm springs village with a spa ::
+**Sunvale** (Pop. ~300) - A sunny tropical valley village ::
 
 ### Southern Mountains
-**Cliffhome** (Pop: ~280) - Cliff dwellings; rock climbers ::
-**Highwatch** (Pop: ~290) - High mountain watch; lookout ::
-**Stonetop** (Pop: ~270) - Stone peak; quarry ::
-**Peakview** (Pop: ~280) - Mountain views; tourists ::
+**Cliffhome** (Pop. ~280) - A cliff dwelling village with rock climbers ::
+**Highwatch** (Pop. ~290) - A high mountain watch and lookout village ::
+**Stonetop** (Pop. ~270) - A stone peak village with a quarry ::
+**Peakview** (Pop. ~280) - A mountain views village attracting tourists ::
 
 ### Central/South
-**Heartwood** (Pop: ~310) - Heart of jungle; ancient trees ::
-**Deepvalley** (Pop: ~300) - Deep valley; hidden ::
-**Leafshade** (Pop: ~290) - Shaded groves; cool refuge ::
-**Streamside** (Pop: ~280) - Stream village; fresh water ::
-**Wildwood** (Pop: ~270) - Wild forest; untamed magic ::
-**Forestgate** (Pop: ~280) - Forest entrance; guides ::
+**Heartwood** (Pop. ~310) - A village at the heart of the jungle with ancient trees ::
+**Deepvalley** (Pop. ~300) - A hidden deep valley village ::
+**Leafshade** (Pop. ~290) - A shaded groves village offering cool refuge ::
+**Streamside** (Pop. ~280) - A stream village with fresh water ::
+**Wildwood** (Pop. ~270) - A wild forest village with untamed magic ::
+**Forestgate** (Pop. ~280) - A forest entrance village with guides ::
 
 ### Island Villages
-**Beacon** (Pop: ~180) - Frostpeak Isle; lighthouse ::
-**Anchorage** (Pop: ~420) - Port Myrthen Isle; harbor ::
-**Driftport** (Pop: ~290) - Coralkeep Isle; drifting port ::
-**Tidecrest** (Pop: ~240) - Deepholm Isle; tidal pools ::
-**Waverest** (Pop: ~260) - Seafoam Isle; wave watching ::
+**Beacon** (Pop. ~180) - A village on Frostpeak Isle with a lighthouse ::
+**Anchorage** (Pop. ~420) - A village on Port Myrthen Isle with a harbor ::
+**Driftport** (Pop. ~290) - A drifting port village on Coralkeep Isle ::
+**Tidecrest** (Pop. ~240) - A village on Deepholm Isle with tidal pools ::
+**Waverest** (Pop. ~260) - A wave watching village on Seafoam Isle ::
 
 ## Hamlets (Aethoria)
 
-**Quietglen** (Pop: ~48) - Quiet glen; meditation retreat ::
-**Softwater** (Pop: ~42) - Soft water spring; laundry ::
-**Dewmist** (Pop: ~40) - Morning dew collection; alchemy ::
-**Stillbrook** (Pop: ~45) - Still water; fishing ::
-**Leaffall** (Pop: ~38) - Autumn leaf collection; dyes ::
-**Trailend** (Pop: ~35) - Trail terminus; rest stop ::
-**Mosshollow** (Pop: ~40) - Moss harvesting; cushions ::
-**Brookbend** (Pop: ~44) - Brook bend; fishing spot ::
-**Ridgepost** (Pop: ~42) - Ridge waypost; mail station ::
-**Summitwatch** (Pop: ~38) - Summit watch; signal tower ::
+**Quietglen** (Pop. ~48) - A quiet glen hamlet for meditation retreat ::
+**Softwater** (Pop. ~42) - A soft water spring hamlet for laundry ::
+**Dewmist** (Pop. ~40) - A hamlet for morning dew collection and alchemy ::
+**Stillbrook** (Pop. ~45) - A still water hamlet for fishing ::
+**Leaffall** (Pop. ~38) - A hamlet for autumn leaf collection and dyes ::
+**Trailend** (Pop. ~35) - A trail terminus hamlet serving as a rest stop ::
+**Mosshollow** (Pop. ~40) - A hamlet for moss harvesting and cushions ::
+**Brookbend** (Pop. ~44) - A brook bend hamlet and fishing spot ::
+**Ridgepost** (Pop. ~42) - A ridge waypost hamlet with a mail station ::
+**Summitwatch** (Pop. ~38) - A summit watch hamlet with a signal tower ::
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement Registry}}
@@ -6245,146 +6249,87 @@ Goldreach has existed longer than House Goldshore has ruled it. The natural harb
 
 ### Foundation (698 CR)
 
-Unlike ancient cities, Crossvale's founding is well-documented. It was deliberately created as a trade crossroads during the expansion period.
+Unlike the ancient cities of Thaldros, whose origins are shrouded in myth and legend, Crossvale's founding is thoroughly documented. It was deliberately created as a trade crossroads during the expansion period—a city built not by conquerors or refugees, but by merchants with a vision.
 
-**The Planning (695-698 CR):** ::
-- Three merchant families identified strategic location
-- Where five major trade routes intersect
-- Equal distance between Silverpine, Goldreach, Sundara
-- Fertile heartland region
-- Fresh water from three rivers meeting
+**The Planning (695-698 CR)**
 
-**The Founding (698 CR):** ::
-- Three families: Heartwood, Grainson, Millford
-- Jointly invested in settlement
-- Built as planned city (rare in Thaldros)
-- Grid street pattern
-- Designed for commerce
+In 695 CR, three merchant families—the Heartwoods, Grainsons, and Millfords—identified a strategic location that seemed almost too perfect to be coincidental. Here, five major trade routes intersected at nearly equal distances from Silverpine, Goldreach, and Sundara. Three rivers met to provide water power for mills, the surrounding heartland soil was among the most fertile in the kingdom, and the location offered natural defensive advantages. The families spent three years planning before breaking ground.
 
-**Why This Location:** ::
-- Geographic center of western Thaldros
-- Five roads meet here
-- Three rivers (water power for mills)
-- Fertile farmland all around
-- Strategic military position
+**The Founding (698 CR)**
+
+When the three families jointly invested in the settlement, they made an unusual decision: they would build a planned city with a grid street pattern designed specifically for commerce. This was rare in Thaldros, where most cities grew organically around fortresses or temples. Crossvale was different from its first stone—a city built by merchants, for merchants.
 
 ### The Early Era (698-850 CR)
 
-**The Three Families Period:** ::
-- Heartwood, Grainson, Millford shared rule
-- Each controlled city section
-- Competition but cooperation
-- Rapid growth to 5,000
-- Became crucial trade hub
+**The Three Families Period**
 
-**The Agricultural Boom (750-850 CR):** ::
-- Heartwood family introduced crop improvements
-- Yields increased dramatically
-- Grain exports exploded
-- Millford built watermills
-- Grainson managed trade networks
+For the first century and a half, the Heartwood, Grainson, and Millford families shared rule of Crossvale, each controlling a section of the growing city. Competition between them drove innovation and efficiency, but cooperation on defense and trade policy kept the city united. Under their joint leadership, Crossvale grew rapidly to 5,000 residents and became a crucial trade hub for the entire heartland region.
+
+**The Agricultural Boom (750-850 CR)**
+
+The Heartwood family made their fortune—and began their rise to dominance—by introducing revolutionary crop improvements. Yields increased dramatically under their innovations, grain exports exploded, and the family's wealth grew accordingly. Meanwhile, the Millford family invested in building watermills along the three rivers, and the Grainsons managed the expanding trade networks that carried Crossvale's grain across the continent.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
 \page
 
-**The First Crisis (834 CR):** ::
-- Orc invasion threatened city
-- Three families pooled resources for defense
-- Hired mercenaries
-- Withstood siege
-- Victory strengthened unity
+**The First Crisis (834 CR)**
+
+When an orc invasion threatened the city, the three families faced their first true test. Pooling their resources for defense, they hired mercenaries from across the region and organized the city's craftsmen into a militia. The siege lasted six weeks, but Crossvale's walls held. The victory strengthened the bonds between the three families—for a time.
 
 ### The Consolidation (850-1000 CR)
 
-**House Heartwood's Rise:** ::
-- Through marriages and buyouts
-- Heartwood gained dominance
-- 900 CR: Controlled 60% of city
-- Other families declining
-- By 1000 CR: Heartwood clear leaders
+**House Heartwood's Rise**
 
-**The Grain Monopoly:** ::
-- Heartwood controlled most farmland
-- Millford family bankrupted (bought out)
-- Grainson moved to pure trade
-- Heartwood became indispensable
-- Fed cities and armies
+Through a combination of strategic marriages and shrewd buyouts, House Heartwood gradually consolidated control over Crossvale. By 900 CR, they controlled sixty percent of the city's commerce, while the other founding families found their influence steadily declining. The Heartwoods' success stemmed not from military might but from making themselves indispensable: they controlled the farmland, they fed the cities, they fed the armies. By 1000 CR, their dominance was beyond question.
 
-**Official Recognition (1000 CR):** ::
-- King granted Heartwood nobility
-- Control of Crossvale formalized
-- Other families remained but subordinate
-- City population reached 12,000
+**The Grain Monopoly**
+
+As the Heartwood family expanded their control of the surrounding farmland, the Millford family's finances collapsed. The Heartwoods bought them out, acquiring their mills and their debt. The Grainson family, seeing the writing on the wall, pivoted entirely to pure trade, becoming junior partners rather than rivals. The Heartwood grain monopoly was complete—and with it came power that even nobles envied.
+
+**Official Recognition (1000 CR)**
+
+In recognition of their contributions to the kingdom—most notably, feeding the royal army during the Western Campaigns—King Aldric II granted the Heartwood family nobility. Their control of Crossvale was formally recognized, and the other founding families, though they retained positions of honor, became clearly subordinate. By this time, the city's population had reached 12,000.
 
 ### The Troubled Period (1089-1200 CR)
 
-**The Blackwood Rebellion (1089-1092 CR):** ::
-- Crossvale changed hands SEVEN TIMES
-- Blackwood forces took it twice
-- Royal forces retook it three times
-- Neutral period twice (chaos)
-- Devastating to economy
-- Population dropped to 8,000
+**The Blackwood Rebellion (1089-1092 CR)**
 
-**The Border Wars (920-945 CR):** ::
-Earlier conflict also damaged city:
-- Fought over by regional kingdoms
-- Siege three times
-- Grain fields burned
-- Mills destroyed
-- Heartwood rebuilt each time
+The Blackwood Rebellion devastated Crossvale. During those three years of civil war, the city changed hands seven times—taken twice by Blackwood forces, retaken three times by royal armies, and twice descending into chaotic neutral periods when no one could claim control. The economy collapsed, granaries were looted, and the population dropped to 8,000 as refugees fled. It was the darkest chapter in Crossvale's history.
 
-**The Rebuilding (1095-1200 CR):** ::
-- Heartwood invested heavily
-- Restored mills and infrastructure
-- Attracted refugees with food/work
-- Population recovered to 15,000
-- Became stronger than before
+**The Border Wars (920-945 CR)**
+
+Even before the Rebellion, Crossvale had known war. During the Border Wars of 920-945 CR, regional kingdoms fought over this strategic crossroads. The city was besieged three times. Grain fields were burned. Mills were destroyed. Each time, the Heartwood family rebuilt—a pattern that would repeat.
+
+**The Rebuilding (1095-1200 CR)**
+
+After the Rebellion, Lord Garrett Heartwood (grandfather of the current lord) invested the family's remaining wealth in reconstruction. Mills were restored, infrastructure rebuilt, and refugees attracted with promises of food and work. By 1200 CR, Crossvale's population had recovered to 15,000, and the city emerged stronger than before—its people hardened by war, its defenses improved, its granaries better protected.
 
 ### Current Status (1247 CR)
 
-**Ruler:** Lord Gareth Heartwood (age 56, human) ::
-- Practical, no-nonsense farmer-king
-- Lives simply despite wealth
-- Five children (all trained in farming first)
-- Commands respect, not fear
+**Ruler:** Lord Gareth Heartwood (age 56, human)
 
-**Government Structure:** ::
-- The Council of Five (one per road/district)
-- Heartwood holds three of five seats
-- Grainson holds one
-- Merchant guild holds one
-- Weekly open councils (unusual democracy)
+Lord Gareth is a practical, no-nonsense ruler who lives simply despite his family's enormous wealth. He was trained in farming before politics—as were all five of his children—and he commands respect rather than fear. Those who meet him expecting a merchant prince find a farmer-king instead: calloused hands, plain speech, and unwavering commitment to his people's prosperity.
 
-**City Structure:** ::
-- Built on grid pattern (planned city)
-- Five major roads as main arteries
-- Rivers divide into three districts
-- Central market plaza (massive)
-- Granaries on outskirts
+**Government Structure**
+
+Crossvale is governed by the Council of Five, with one representative for each of the five roads that meet in the city. House Heartwood controls three of the five seats directly, House Grainson holds one, and the merchant guild holds the fifth. Weekly open councils—unusual for Thaldros—allow common citizens to bring grievances and proposals directly to their rulers.
+
+**City Structure**
+
+Crossvale remains unique among Thaldros cities for its planned grid layout. Five major roads serve as the main arteries, and three rivers divide the city into distinct districts. The central market plaza is massive—capable of hosting thousands of traders during the quarterly fairs—and granaries on the outskirts ensure the city can survive any siege.
 
 **Districts:** ::
-- **The Market:** Central plaza, merchant stalls, inns
-- **The Mill District:** Watermills, grain storage
-- **The Trade Quarter:** Warehouses, guild halls
-- **The Farm District:** Urban agriculture, silos
-- **The Heights:** Noble estates, Heartwood manor
-- **The Crossroads:** Five road junction, symbolic center
+- **The Market:** Central plaza, merchant stalls, inns, and taverns
+- **The Mill District:** Forty watermills line the rivers, processing grain
+- **The Trade Quarter:** Warehouses, guild halls, trading houses
+- **The Farm District:** Urban agriculture, grain silos, livestock markets
+- **The Heights:** Noble estates including Heartwood Manor
+- **The Crossroads:** The symbolic center where five roads meet
 
-**Economic Power:** ::
-- Produces 40% of Thaldros grain
-- Controls grain prices
-- Hub for all cross-continental trade
-- Wealthy but unpretentious
-- Economic leverage over kingdom
+**Economic Power**
 
-**Infrastructure:** ::
-- **Five Roads Meet:** North, South, East, West, Mountain
-- **Three Rivers:** Power 40+ watermills
-- **Grain Silos:** Store year's worth of food
-- **Market:** Largest in inland Thaldros
-- **Defensive Walls:** Rebuilt after wars, strong
+Crossvale produces forty percent of Thaldros's grain and effectively controls grain prices across the kingdom. As a hub for all cross-continental trade, its merchants have connections in every major city from Kaer Thandros to Aethermere. The Heartwoods are wealthy but unpretentious about it—their economic leverage over the kingdom speaks louder than any display of riches.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
@@ -6959,44 +6904,25 @@ Starfall's origins lie in a cosmic accident—an unusually high concentration of
 
 ### Foundation (Pre-Worldrend - Deepwater)
 
-Crystalbrook began as an eastern outpost of House Deepwater, the great merchant dynasty. After the Worldrend destroyed their headquarters, this outpost became the foundation of a transformed house.
+Crystalbrook began as an eastern outpost of House Deepwater, the great merchant dynasty that once controlled maritime trade across both continents. When the Worldrend destroyed their headquarters, this modest lakeside port became the foundation of a transformed house with abilities their ancestors never possessed.
 
-**Pre-Worldrend (Unknown - Year 0):** ::
-- Deepwater eastern operations center
-- Managed by Marius Deepwater (second son)
-- Port on Great Crystal Lake
-- Population: ~1,500
-- Trade between eastern territories
+**Pre-Worldrend (Unknown - Year 0)**
 
-**The Worldrend Impact (Year 0):** ::
-- Palace Port (headquarters) sank
-- Crystalbrook became primary eastern port
-- Marius claimed leadership of Deepwater (eastern)
-- Cut off from western branch
-- Refugees fled here
+Before the cataclysm, Crystalbrook served as the eastern operations center for the Deepwater trading empire. Managed by Marius Deepwater, the patriarch's second son, the port on Great Crystal Lake coordinated trade between the eastern territories of what is now Aethoria. Approximately 1,500 souls lived here—merchants, sailors, and the craftsmen who served them. It was prosperous but unremarkable, a branch office in an empire that spanned oceans.
+
+**The Worldrend Impact (Year 0)**
+
+When the Worldrend struck, the great Palace Port—headquarters of the Deepwater dynasty—sank beneath the newly formed Sundering Sea along with its patriarch and eldest son. In the chaos that followed, Crystalbrook suddenly became the primary eastern port of a shattered house. Marius Deepwater claimed leadership of the eastern branch, though cut off entirely from the western survivors who would eventually become House Goldshore. Refugees from destroyed coastal settlements swelled the population as people sought any safe harbor in a world torn apart.
 
 ### Post-Worldrend Transformation (0-450 CR)
 
-**The Salvage Wars Era (0-400 CR):** ::
-- Competed with western branch for treasure
-- Fleet based here for expeditions
-- 237 CR: Naval battle with Goldshore
-- 412 CR: Western betrayal (map theft)
-- Relations permanently soured
+**The Salvage Wars Era (0-400 CR)**
 
-**The Magical Awakening (200-450 CR):** ::
-- Water-speaking abilities manifesting
-- Children born with talent
-- Enhanced salvage operations
-- Shift from pure commerce to mysticism
-- 450 CR: Renamed to "Crystalborn"
+For four centuries, the eastern and western branches of House Deepwater competed bitterly for the treasures submerged by the cataclysm. Crystalbrook-based fleets mounted expedition after expedition into the Sundering Sea, seeking family vaults, lost cargo, and the legendary Deepwater archives. The competition turned violent in 237 CR when a naval battle with Goldshore ships left dozens dead. Then came the betrayal of 412 CR, when western agents stole maps to critical salvage sites—an act of treachery that permanently poisoned relations between the branches.
 
-**Why Water-Speaking Emerged:** ::
-- Proximity to magical lakes?
-- Desperation unlocked latent ability?
-- Gift from water entities?
-- Ancient Deepwater bloodline trait activated?
-- Mystery remains
+**The Magical Awakening (200-450 CR)**
+
+Something strange began happening to Crystalborn children around 200 CR. They were born with an affinity for water that bordered on the supernatural—an ability to communicate with water elementals, to sense what lay beneath the surface, to breathe in depths that should have killed them. Some attributed this to the magical properties of the Crystal Lakes. Others whispered of deals made with water entities during the desperate post-Worldrend years. Still others believed the trauma of the cataclysm had awakened latent abilities in the Deepwater bloodline. Whatever the cause, water-speaking became the house's defining trait. In 450 CR, they formally renamed themselves House Crystalborn to reflect their transformation.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
@@ -7004,35 +6930,23 @@ Crystalbrook began as an eastern outpost of House Deepwater, the great merchant 
 
 ### House Crystalborn Rule (450 CR - Present)
 
-**The Water Lords (450-800 CR):** ::
-- Claimed all major lakes
-- Developed water-speaking monopoly
-- Built fleet of 40+ ships
-- Population reached 5,000
-- Economic power through water control
+**The Water Lords (450-800 CR)**
 
-**Official Recognition (1000 CR):** ::
-- Queen Aethermere granted nobility
-- Control of Crystalvale formalized
-- Population reached 8,000
-- Banking operations started
-- Trade hub status
+With their water-speaking abilities, House Crystalborn claimed dominion over all major lakes in eastern Aethoria. They developed techniques for underwater exploration that no other house could match, building a fleet of forty ships designed specifically for salvage operations. By 800 CR, Crystalbrook's population had reached 5,000, and their economic power—built on water control, salvage monopolies, and unique services only water-speakers could provide—was unassailable in the east.
 
-**The Modern Era (1189-Present):** ::
-- Perfected water-speaking techniques
-- Population reached 12,000
-- Advanced diving capabilities
-- Planning major salvage operation
-- Collision course with Goldshore
+**Official Recognition (1000 CR)**
+
+Queen Aelindra II Aethermere formalized Crystalborn control of the Crystalvale region in 1000 CR, granting them noble status. By this time, the house had expanded into banking, using their reputation for honesty (water-speakers could sense lies) to build trust among depositors. The population reached 8,000, and Crystalbrook established itself as the premier trade hub of eastern Aethoria.
+
+**The Modern Era (1189-Present)**
+
+In recent decades, House Crystalborn has perfected their water-speaking techniques to levels their ancestors could not have imagined. Modern Crystalborn can dive deeper, stay submerged longer, and communicate with water entities more precisely than any previous generation. With the population now at 12,000, they are planning their most ambitious salvage operation yet: a return to the ruins of the original Palace Port, seeking the legendary Deepwater archives that sank with the Worldrend. This puts them on a collision course with House Goldshore, who claim the same legacy—and the same archives.
 
 ### Current Status (1247 CR)
 
-**Ruler:** Lady Aria Crystalborn (age 234, half-elf) ::
-- Powerful water-speaker
-- Shrewd businesswoman
-- Four children (succession unclear)
-- Obsessed with Deepwater legacy
-- Planning major salvage
+**Ruler:** Lady Aria Crystalborn (age 234, half-elf)
+
+Lady Aria is both a powerful water-speaker and a shrewd businesswoman, combining mystical ability with mercantile cunning. Her four children each show different aspects of the family talents, though which will inherit remains deliberately unclear—Aria believes competition makes them stronger. She is obsessed with the Deepwater legacy, spending considerable resources on genealogical research and historical recovery. The upcoming salvage operation to Palace Port is the culmination of decades of preparation.
 
 **The Succession Crisis:** ::
 Four children, two already dead:
@@ -7085,27 +6999,19 @@ Two died "accidentally" (murdered by siblings)
 
 ### Foundation (850 CR)
 
-Marshaven was founded through determination and dark knowledge—a city built on stilts in the deadly Thornmire where others said civilization was impossible.
+Marshaven was founded through determination and dark knowledge—a city built on stilts in the deadly Thornmire where others said civilization was impossible. Its very existence is a monument to what ambition and moral flexibility can achieve when conventional approaches fail.
 
-**The Challenge (Pre-850 CR):** ::
-- Thornmire considered uninhabitable
-- Deadly creatures, disease, toxic plants
-- But rich in alchemical components
-- Fortunes for those brave/mad enough
+**The Challenge (Pre-850 CR)**
 
-**House Thornveil Origins:** ::
-- Human family of alchemists
-- Discovered swamp's potential
-- Led by Maric Thornveil (ancestor)
-- Willing to deal with dark forces
-- 850 CR: Founded Marshaven
+Before Marshaven, the Thornmire Marches were considered uninhabitable by any standard of civilized life. The swamp teemed with deadly creatures, diseases that defied magical healing, and plants whose toxins could kill with a single touch. Yet those same poisons and venoms represented fortunes in alchemical components for anyone brave or mad enough to harvest them. Expeditions into the Thornmire returned rich—when they returned at all.
 
-**The Construction:** ::
-- Built entirely on elevated platforms
-- Interconnected by walkways
-- Foundations: ancient swamp trees
-- Treated wood (poison resistant)
-- Population: 200 initially (criminals, outcasts)
+**House Thornveil Origins**
+
+The Thornveil family began as wandering alchemists, their reputation shadowed by rumors of forbidden knowledge and darker dealings. When the family patriarch, Maric Thornveil the Elder, first explored the Thornmire's depths, he recognized what others had missed: the swamp wasn't merely dangerous, it was an alchemical garden of unparalleled wealth. Where others saw death, he saw opportunity. In 850 CR, he led a band of criminals, outcasts, and fellow alchemists into the marsh to found what would become Marshaven.
+
+**The Construction**
+
+Building a city in a swamp required solutions no architect had attempted before. Marshaven rose on elevated platforms supported by the massive trunks of ancient swamp trees, their wood treated with alchemical compounds to resist rot, poison, and the marsh's corrosive humidity. Interconnected walkways formed the city's streets, suspended above waters that never stopped trying to reclaim the wood. The initial population numbered perhaps 200—criminals seeking refuge, outcasts with nowhere else to go, and those desperate enough to risk the Thornmire's dangers for a chance at wealth.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
@@ -7113,43 +7019,27 @@ Marshaven was founded through determination and dark knowledge—a city built on
 
 ### The Rise (850-1100 CR)
 
-**The Alchemical Boom (850-1000 CR):** ::
-- Monopolized rare components
-- Poison craft mastery
-- Healing draughts (from poisons)
-- Became essential supplier
-- Population reached 3,000
+**The Alchemical Boom (850-1000 CR)**
 
-**The Dubious Methods:** ::
-From the start, Thornveil embraced gray morality:
-- Hired necromancers
-- Employed dark druids
-- Dealt with unsavory entities
-- Tested on prisoners/slaves
-- Results mattered more than methods
+House Thornveil built its fortune on monopoly. They alone knew how to safely harvest the Thornmire's treasures, and they guarded those secrets jealously. Their poison craft became legendary—not just for killing, but for the healing draughts derived from understanding toxins. The same knowledge that could create an undetectable poison could also produce antidotes and medicines beyond the capability of conventional alchemists. By 1000 CR, Marshaven had grown to 3,000 residents, and House Thornveil had become an essential supplier to apothecaries, assassins, and healers across both continents.
 
-**Official Recognition (1000 CR):** ::
-- Queen Aethermere granted nobility (reluctantly)
-- Too useful to ignore
-- But moral disapproval
-- Population reached 5,000
-- Economic power solidified
+**The Dubious Methods**
+
+From its founding, House Thornveil embraced a gray morality that made their neighbors uncomfortable. They hired necromancers to study the boundary between life and death. They employed dark druids who had been expelled from their circles for forbidden experiments. They dealt with entities that respectable houses refused to acknowledge existed. Most controversially, they tested new compounds on prisoners and slaves—a practice they neither confirmed nor denied. For the Thornveils, results mattered more than methods. Their critics called them monsters; their customers called them indispensable.
+
+**Official Recognition (1000 CR)**
+
+Queen Aelindra II Aethermere faced an uncomfortable choice in 1000 CR. House Thornveil had become too wealthy, too powerful, and too useful to ignore. Their alchemical products saved lives across the continent, even as their methods violated every principle the crown claimed to uphold. In the end, pragmatism won. The Queen granted the Thornveils nobility—reluctantly, with visible moral disapproval, but granted nonetheless. By this time, Marshaven's population had reached 5,000, and the Thornveil economic empire was too entrenched to challenge.
 
 ### Modern Era (1100-Present)
 
-**The Expansion (1100-1200 CR):** ::
-- Built upward and outward
-- Alchemical gardens (toxic)
-- Laboratory complex
-- Secret facilities
-- Population reached 7,000
+**The Expansion (1100-1200 CR)**
 
-**The Political Rise (1200-Present):** ::
-- House Thornveil increasingly ambitious
-- Building coalition of "progressive" houses
-- Challenging traditional power
-- Population stabilized at 8,000
-- Planning major moves
+With their position secured, House Thornveil invested in expanding Marshaven both upward and outward. New platforms rose above the original structures, connected by spiral staircases and rope bridges. Alchemical gardens bloomed on every available surface, cultivating the toxic plants that fueled their trade under controlled conditions. A sprawling laboratory complex grew at the city's heart, while secret facilities—their purposes known only to senior Thornveils—spread through the marsh in hidden locations. By 1200 CR, the population had reached 7,000.
+
+**The Political Rise (1200-Present)**
+
+In recent decades, House Thornveil has grown increasingly ambitious. No longer content with mere wealth, they are building a coalition of what they call "progressive" houses—those willing to embrace change, challenge traditional power structures, and question the old ways. Lord Maric Thornveil has positioned himself as a reformer, though his critics whisper that his real agenda is far darker. The population has stabilized at approximately 8,000, but the city's influence extends far beyond its platforms. Something is being planned in Marshaven's laboratories, and those who pay attention to such things grow increasingly uneasy.
 
 ### Current Status (1247 CR)
 
@@ -7204,102 +7094,70 @@ From the start, Thornveil embraced gray morality:
 
 ## Wildgrove (Sacred Site)
 
-**Region:** The Split Peninsula (The Verdant Wall)  ::
-**Current Population:** ~5,000  ::
-**Status:** Druidic Sanctuary, Former Splittide Seat ::
+**Region:** The Split Peninsula (The Verdant Wall)  
+**Current Population:** ~5,000  
+**Status:** Druidic Sanctuary, Former Splittide Seat
 
 ### Foundation (Ancient - Pre-Worldrend)
 
-Wildgrove is one of the oldest sacred sites in Aethoria—a grove of world-trees in the southern mountains where druids have gathered since before recorded history.
+Wildgrove is one of the oldest sacred sites in Aethoria—a grove of world-trees in the southern mountains where druids have gathered since before recorded history. Unlike the noble seats that dot the continent, Wildgrove was never built; it grew, and the people who came to tend it became its guardians rather than its rulers.
 
-**Pre-Worldrend Origins (Unknown):** ::
-- Sacred druidic site for millennia
-- Part of House Splittide territory
-- Balance between fey and mortal
-- Population: variable (pilgrims)
-- Not a city but a sanctuary
+**Pre-Worldrend Origins**
+
+The druids who first discovered this grove found world-trees already ancient beyond reckoning, their roots drinking deep from ley lines that pulse with the continent's magical heartbeat. For millennia before the Worldrend, this sacred site served as a meeting place between the mortal world and the fey courts, a neutral ground where the boundaries between realms grew thin. House Splittide, the noble family that eventually claimed the surrounding peninsula, understood they did not own Wildgrove—they merely shared in its guardianship.
+
+**House Splittide Era (700-1092 CR)**
+
+For nearly four centuries, House Splittide ruled the Split Peninsula while honoring their obligations to Wildgrove and its druidic caretakers. They maintained the ancient fey treaties, protected the sacred groves from exploitation, and governed with a light hand that earned them respect from both the mortal and fey populations. Under their stewardship, the permanent population around Wildgrove grew to approximately 2,000—druids, their acolytes, and those who served the pilgrims who came seeking wisdom or healing.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement History}}
 \page
 
-**House Splittide Era (700-1092 CR):** ::
-- Noble house ruled peninsula
-- Shared Wildgrove with druids
-- Honored fey treaties
-- Maintained sacred groves
-- Population: 2,000
-
 ### The Fey War (1089-1092 CR)
 
-**The Crisis:** ::
-Parallel to western Blackwood Rebellion:
-- Fey courts claimed peninsula
-- Said it was stolen centuries ago
-- House Splittide agreed (radical)
-- Offered to surrender territory to fey
-- Queen Aethermere considered it treason
+**The Crisis**
 
-**The War:** ::
-- Civil conflict across southwest
-- Splittide + fey vs. royal forces
-- Wildgrove became battlefield
-- Sacred trees damaged
-- 1092 CR: Splittide crushed
+While the Blackwood Rebellion tore apart western Thaldros, a parallel conflict erupted in Aethoria's southwest. The fey courts, growing increasingly bold, formally claimed the Split Peninsula as territory stolen from them centuries before the current treaties were signed. House Splittide, in a decision that shocked the royal court, agreed with the fey assessment. Lord Aldric Splittide offered to surrender the peninsula's governance to fey authority—a radical act that Queen Aelindra Aethermere considered nothing less than treason.
 
-**The Aftermath:** ::
-- Splittide family executed
-- Territory given to druid circles
-- Wildgrove became neutral sanctuary
-- Fey relations strained
-- Guilt haunts royal house
+**The War**
+
+Civil conflict swept across the southwest as Splittide forces allied with fey armies against the royal houses loyal to the Queen. Wildgrove itself became a battlefield, its sacred trees damaged by fire and magic as druid fought druid over questions of loyalty and ancient obligation. The conflict lasted three brutal years, ending only when combined royal forces crushed the Splittide-fey alliance in 1092 CR.
+
+**The Aftermath**
+
+The consequences were severe. House Splittide was formally dissolved, its surviving members executed for treason. The Split Peninsula, rather than falling under another noble house's control, was granted to the druid circles as neutral territory—a compromise that satisfied no one entirely. The fey courts retreated to their hidden realms, their relations with mortal Aethoria strained for generations. And those who fought for the Queen found their victory tasted of ash, for they had destroyed one of the oldest noble houses over a question that still haunted them: had the Splittides been traitors, or had they simply honored obligations older than the kingdom itself?
 
 ### The Druidic Era (1092-Present)
 
-**Reconstruction (1092-1150 CR):** ::
-- Druids healed damaged groves
-- Wildgrove declared neutral
-- No house rule allowed
-- Open to all nature worshippers
-- Population rebuilt: 3,000
+**Reconstruction (1092-1150 CR)**
 
-**Modern Period (1150-Present):** ::
-- Became major pilgrimage site
-- Druidic training center
-- Fey court location
-- No political authority
-- Population: 5,000
+After the war's end, the druid circles focused on healing the damage done to Wildgrove's sacred trees. It was painstaking work—some groves took decades to recover, and a few still bear scars from that conflict. Wildgrove was declared permanently neutral territory, forbidden to any noble house. Its governance fell to the druids themselves, who opened the sanctuary to all nature worshippers regardless of political allegiance. By 1150 CR, the population had rebuilt to approximately 3,000.
 
-\column
+**Modern Period (1150-Present)**
+
+In the century since, Wildgrove has become Aethoria's premier pilgrimage site for those seeking communion with nature, training in druidic arts, or audience with the fey courts that still occasionally hold council here. The settlement has no political authority and seeks none—it exists outside the normal structures of power, answerable only to the natural world it serves. Today, approximately 5,000 souls call Wildgrove home, though the population fluctuates with the seasons and the movements of the fey.
 
 ### Current Status (1247 CR)
 
-**Leadership:** Elder Council of Druids ::
-- No single ruler
-- Twelve elders (various races)
-- Eldest: Archdruid Sylvan (age unknown, treant)
-- Consensus governance
-- Fey court has voice
+**Leadership:** Elder Council of Druids
 
-**City Structure:** ::
-- Not a city—a grove complex
-- Living wood structures
-- Grown, not built
-- Organic, ever-changing
-- Visitors sleep in tree hollows
+Wildgrove has no single ruler. Instead, twelve elders drawn from various races govern by consensus. The eldest among them is Archdruid Sylvan, a treant whose age is measured in centuries rather than years. The fey courts maintain a voice in council decisions, though their representatives come and go according to their own inscrutable schedules.
+
+**City Structure**
+
+Calling Wildgrove a "city" misses its essential nature. It is a grove complex where structures are grown rather than built, shaped from living wood by druidic magic over generations. The organic architecture changes constantly as trees grow, branches interweave, and new spaces emerge while old ones close. Visitors sleep in hollows shaped within the world-trees themselves, surrounded by bark that has witnessed millennia of history.
 
 **The Sacred Groves:** ::
-- **Heartwood Grove:** Largest world-trees, rituals
-- **The Remembrance:** Memorial to Splittide
-- **Fey Court:** Where fey hold councils
-- **The Healing Circle:** Medical/spiritual care
-- **The Wild Heart:** Most sacred, restricted
+- **Heartwood Grove:** The largest world-trees, site of major rituals
+- **The Remembrance:** A memorial grove honoring House Splittide
+- **Fey Court:** Where the fey hold their councils during visits
+- **The Healing Circle:** A place of medical and spiritual care
+- **The Wild Heart:** The most sacred grove, restricted to elder druids
 
-**Population:** ::
-- ~2,000 druids (permanent)
-- ~1,500 fey (come and go)
-- ~1,000 pilgrims (temporary)
-- ~500 various (seekers, students)
+**Population Composition**
+
+Approximately 2,000 druids make their permanent home in Wildgrove, joined by roughly 1,500 fey who come and go according to their own patterns. Another 1,000 pilgrims pass through at any given time, and perhaps 500 others—seekers, students, those fleeing the outside world—find temporary refuge among the ancient trees.
 
 **Governance:** ::
 - Elder Council (druids)

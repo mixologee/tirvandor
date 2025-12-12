@@ -553,16 +553,16 @@ The Thaldros Kingdom wants to bring the frontier under royal control, while the 
 The International Angle:
 The frontier territories watch this conflict carefully, weighing their options. Some leaders dream of true independence, others seek better terms with the Crown. Rumors say Aethoria across the Sundering Sea watches with interest, perhaps seeing opportunity in Thaldros divided against itself.
 Major Border Towns:
-Crossroads (Population: 3,000)
+Crossroads (Population: ~2,400)
 Largest Border settlement
 Iron Guild headquarters
 Neutral ground for all factions
 Your home base
-Grimwatch (Population: 800)
+Grimwatch (Population: ~800)
 Fortified trading post
 Kingdom loyalist settlement
 Good for royal military contracts
-Freehold (Population: 1,200)
+Freehold (Population: ~1,200)
 Independent village
 Sympathetic to democratic ideals (Aethoria influence)
 Lots of frontier refugee work

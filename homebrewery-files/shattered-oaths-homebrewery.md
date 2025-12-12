@@ -196,7 +196,7 @@ By the end of Act I, the heroes will have:
 - Following rumors of ancient ruins
 - Fleeing trouble elsewhere
 
-**Location:** Silverpine (Population 32,000)
+**Location:** Silverpine (Population: ~32,000)
 
 #### Opening Scene: The Broken Wheel Inn
 

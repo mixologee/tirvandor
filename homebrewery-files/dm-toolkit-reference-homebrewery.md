@@ -779,7 +779,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Kaer Thandros (Capital of Thaldros)
 
-**Population:** 45,000 | **Type:** Fortress-City | **Ruler:** King Aldric IV Thandris
+**Population:** ~45,000 | **Type:** Fortress-City | **Ruler:** King Aldric IV Thandris
 
 ### At a Glance
 - **Atmosphere:** Military, disciplined, stone and iron
@@ -822,7 +822,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Goldreach (Merchant League Capital)
 
-**Population:** 28,000 | **Type:** Trade Hub | **Leader:** Trade Prince Lucian Goldfingers
+**Population:** ~28,000 | **Type:** Trade Hub | **Leader:** Trade Prince Lucian Goldfingers
 
 ### At a Glance
 - **Atmosphere:** Wealthy, bustling, cosmopolitan
@@ -869,7 +869,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 \page
 ## Aethermere (Elven Capital)
 
-**Population:** 38,000 | **Type:** Magical City-State | **Ruler:** High Queen Aelindra Aethermere
+**Population:** ~38,000 | **Type:** Magical City-State | **Ruler:** High Queen Aelindra Aethermere
 
 ### At a Glance
 - **Atmosphere:** Otherworldly, serene, magical
@@ -916,7 +916,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Ironhold (Dwarven Stronghold)
 
-**Population:** 8,000 | **Type:** Mountain Fortress-City | **Leader:** Thane Durin Ironforge
+**Population:** ~8,000 | **Type:** Mountain Fortress-City | **Leader:** Thane Durin Ironforge
 
 ### At a Glance
 - **Atmosphere:** Industrial, traditional, honorable
@@ -961,7 +961,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Silverpine (Forest Settlement)
 
-**Population:** 32,000 | **Type:** Forest Town | **Leader:** Lady Seraphine Silverleaf
+**Population:** ~32,000 | **Type:** Forest Town | **Leader:** Lady Seraphine Silverleaf
 
 ### At a Glance
 - **Atmosphere:** Natural, rustic, integrated with forest
@@ -1010,7 +1010,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Port Myrthen (Major Port City)
 
-**Population:** 9,000 | **Type:** Port City | **Leader:** Merchant Council (Harbor Master Tobias Saltwind manages port operations)
+**Population:** ~9,000 | **Type:** Port City | **Leader:** Merchant Council (Harbor Master Tobias Saltwind manages port operations)
 
 ### At a Glance
 - **Atmosphere:** Rough, cosmopolitan, seafaring
@@ -1055,7 +1055,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Sundara (Desert City-State)
 
-**Population:** 18,000 | **Type:** Oasis City | **Leader:** Sultan Rashid Ashborne
+**Population:** ~18,000 | **Type:** Oasis City | **Leader:** Sultan Rashid Ashborne
 
 ### At a Glance
 - **Atmosphere:** Exotic, spiritual, hot
@@ -1106,7 +1106,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ## Ashfall (Volcanic Fortress)
 
-**Population:** 8,000 (mostly Ashwardens) | **Type:** Fortress City | **Leader:** Grand Warden Volcanus Rex
+**Population:** ~8,000 (mostly Ashwardens) | **Type:** Fortress City | **Leader:** Grand Warden Volcanus Rex
 
 ### At a Glance
 - **Atmosphere:** Hot, dangerous, duty-focused
