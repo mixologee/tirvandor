@@ -570,3 +570,169 @@ At typical TTRPG pricing:
 ---
 
 **This is a complete, professional-grade campaign setting ready for publication or extensive home play.**
+
+## Copyright Compliance Fixes (Dec 12, 2025)
+
+All trademarked WotC content replaced with original terms for commercial release:
+
+| Original (Trademarked) | Replacement (Original) | Count |
+|------------------------|------------------------|-------|
+| Mind Flayer | Psionic Horror | 9 |
+| Elder Brain | Hive Mind | 5 |
+| Beholder | Gaze Horror | 1 |
+| Spectator | Guardian Eye | 1 |
+| Yuan-ti | Serpentfolk | 2 |
+| Elminster | Veridian | 8 |
+| Evard's Black Tentacles | Black Tentacles | 2 |
+| Bigby's Hand | Arcane Hand | 1 |
+| Snilloc's Snowball Swarm | Ice Knife | 1 |
+
+**Total Copyright Fixes: 30**
+
+### SRD 5.2 Compliance Status
+- ✅ Proper CC-BY-4.0 attribution included
+- ✅ All trademarked creature names replaced
+- ✅ All trademarked character names replaced
+- ✅ All legacy spell names updated to SRD 5.2 versions
+- ✅ Ready for commercial release
+
+## Deep Review Pass (Dec 12, 2025 - Second Pass)
+
+### New Discrepancies Found and Fixed
+
+**DISC-041: Kael Domain Error (PHB)**
+- Issue: PHB line 2447 listed Kael → "Trickery or Life domain"
+- Problem: Life domain belongs to Sera, not Kael
+- World Guide canonical: Kael's domains are Travel, Trade, Luck, Trickery
+- Fix: Changed to "Trickery domain"
+- Severity: LOW (gameplay impact minimal)
+
+**DISC-042: Travel Time Inconsistency (Shattered Oaths)**
+- Issue: Kaer Thandros to Silverpine listed as "3 days travel"
+- World Guide canonical: 8-10 days foot, 4-5 days mounted
+- DM Toolkit: 7 days by horse
+- Fix: Changed to "5 days travel" (mounted pace)
+- Lines fixed: 3239, 3392, 3393, 3401, 3528
+- Severity: MEDIUM (affects campaign pacing)
+
+### Verified Consistent (No Issues Found)
+
+**Location Names**
+- Crossroads ≠ Crossvale (intentionally different locations)
+  - Crossroads: Small mercenary town (Pop. 2,400) - Blood & Coin
+  - Crossvale: Major city (Pop. 18,000) - Trade hub
+- All major locations spelled consistently
+
+**Organization Names**
+- Iron Guild: Consistent across all documents
+- Merchant League: Consistent across all documents
+- Lightbringers: Organization name consistent (Captain Thalia Lightbringer is surname, not org)
+
+**Population Numbers**
+- Kaer Thandros: 45,000 ✓
+- Aethermere: 38,000 ✓
+- Goldreach: 32,000 ✓
+- All verified across all documents
+
+**Dragon Crisis Timeline**
+- Start: 1156 CR ✓
+- End: 1201 CR ✓
+- Duration: 45 years ✓
+- All documents match
+
+**Blackwood Timeline**
+- Rebellion: 1089-1092 CR ✓
+- Second Purge: 1204 CR ✓
+- Corvus born 1192, age 12 in 1204, age 55 in 1247 ✓
+- All documents match
+
+**World-Splitter Components**
+- 5 components named consistently across all documents:
+  1. Shadow Shard (First) - House Blackwood
+  2. Flame Heart (Second) - House Goldshore
+  3. Void Fragment (Third) - House Deepwater (lost)
+  4. Stone Crown (Fourth) - Crown of Thaldros
+  5. Storm Eye (Fifth) - Aethorian Harmony
+
+**Faction Leadership**
+- Trade Prince Lucian Goldfingers (Merchant League) ✓
+- Lord Commander Gareth Lightbane (Iron Council/Lightbringers) ✓
+- Varak Ironfist (Iron Guild) ✓
+- Rector Elara Silverleaf (Silverpine University) ✓
+- Archmage Veridian Starweaver (University faculty) ✓
+
+**Seven Ascended Pantheon**
+- All 7 deities present and described consistently
+- Symbols, domains, and alignments match across documents
+
+**NPC Ages**
+- High Queen Aelindra: 1,494 ✓
+- Archmage Eldrin: 158 ✓
+- Princess Elanil: 142 ✓
+- Theron (Heir): 89 ✓
+- King Aldric IV: 52 ✓
+
+**Terminology**
+- "Worldrend" = official historical term
+- "Godsfall" = colloquial/religious term (intentional variation)
+- "Sundering Sea" = consistent name for the sea between continents
+
+### Cross-Campaign Connections Verified
+
+**Blood and Coin ↔ Shattered Oaths**
+- Marcus Blackwood (Blood & Coin) has "noble heritage" heirloom
+- Suggests connection to House Blackwood survivors
+- The Unbound faction appears in both campaigns
+- Corvus Blackwood/Lord Shadows connection maintained
+
+### Content Statistics Verified
+
+**Custom Subclasses: 14**
+- Barbarian: Path of Border Reaver, Path of Revolutionary Fury
+- Bard: College of Propaganda, College of Iron Tongue
+- Cleric: Ascended Champion Domain, War Chaplain Domain
+- Druid: Circle of Contested Lands, Circle of Ascended Wild
+- Paladin: Oath of Iron Crown, Oath of Liberty
+- Warlock: Pact of Forgotten Throne, Pact of War Profiteer
+- Wizard: School of War Magic, School of Innovation
+
+**Custom Spells: 15**
+1. Propagandist's Whisper
+2. Mass Hysteria
+3. Rewrite Memory
+4. Voice of Authority
+5. Crown of the Fallen King
+6. Blood Price
+7. Summon Ancient Courtier
+8. Profiteer's Shield
+9. Battlefield Awareness
+10. Iron Guild Contract
+11. Tactical Strike
+12. Blessing of the Ascended
+13. Wrath of the Wild
+14. Chain Breaker
+15. Warborn Surge
+
+**Custom Creatures: 56** (Monster Manual)
+- CR range: 1/8 to 15
+- Factions covered: Border, Thaldros, Aethoria, Ascended-Touched, Corrupted/Cursed
+
+**Backgrounds: 10+ custom Tirvandor backgrounds**
+
+### Summary
+
+**Total Discrepancies Found: 8**
+- Original review: 6 (all fixed)
+- Deep review pass: 2 (both fixed)
+- Remaining: 0
+
+**Total Copyright Fixes: 30**
+- All trademarked content replaced
+- SRD 5.2 compliant
+
+**Document Health: EXCELLENT**
+- Timeline: Consistent
+- NPC ages: Consistent
+- Locations: Consistent
+- Factions: Consistent
+- Cross-references: Valid

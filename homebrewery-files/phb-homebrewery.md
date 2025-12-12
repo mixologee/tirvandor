@@ -2444,7 +2444,7 @@ In Tirvandor, clerics serve one of the Seven Ascended (see Appendix C):
 - **Thandros the Lawbringer** → Knowledge or Order domain
 - **Aethor the Liberator** → Light or War domain
 - **Moira the Weaver** → Knowledge or Arcana domain
-- **Kael the Wanderer** → Trickery or Life domain
+- **Kael the Wanderer** → Trickery domain
 - **Sera the Healer** → **Life domain** (most common)
 - **Mordain the Sentinel** → Death, War, or Grave domain
 - **Sylvara the Wild** → Nature or Tempest domain

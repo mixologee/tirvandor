@@ -3236,7 +3236,7 @@ Party must choose wisely. They can't recruit everyone.
 
 **Available Allies (5 Options):**
 1. **Professor Miranda Questseeker** (Aethoria University - 1 day by teleport, 5 days by ship)
-2. **Master Hunter Kael Dragonsbane** (Silverpine - 3 days travel)
+2. **Master Hunter Kael Dragonsbane** (Silverpine - 5 days travel)
 3. **Captain Thalia Lightbringer** (Kaer Thandros - Local, immediate)
 4. **Sage Cornelius the Elder** (Kaer Thandros - Local, immediate)
 5. **Druid Elder Silvaris** (Silverwood Forest - 2 days travel)
@@ -3389,8 +3389,8 @@ If party has First Component, she examines it:
 
 ### ALLY OPTION B: MASTER HUNTER KAEL DRAGONSBANE
 
-**Location:** Silverpine (3 days travel from Kaer Thandros)  
-**Travel:** 3 days journey (return trip: 3 more days, but can teleport)  
+**Location:** Silverpine (5 days travel from Kaer Thandros)  
+**Travel:** 5 days journey (return trip: 5 more days, but can teleport)  
 **Specialty:** Dragon hunting, tracking, tactical combat  
 **Personality:** Gruff, professional, haunted by past
 
@@ -3398,7 +3398,7 @@ If party has First Component, she examines it:
 
 **TRAVEL TO SILVERPINE:**
 
-Party can ride (3 days) or teleport (if guild circle connects).
+Party can ride (5 days) or teleport (if guild circle connects).
 
 **READ ALOUD (Arrival):**
 > *Silverpine feels different now. Last time you were here, you were unknown adventurers investigating disappearances. Now you're heroes who exposed a cult conspiracy. People recognize you. Elder Thom waves from his porch. Marta calls from The Broken Wheel Inn. Captain Roderic nods respectfully. This is what it means to have made a difference—people remember.*
@@ -3525,7 +3525,7 @@ Party must convince Kael this is worth risking death.
 ---
 
 **KAEL RECRUITED:**
-- **Time Spent:** 3 days (travel)
+- **Time Spent:** 5 days (travel)
 - **Cost:** Equal share of dragon hoard (or half with negotiation)
 - **Benefits:** Dragon Slaying Arrows (6x), Expert tactical advice, Veteran combat support (CR 8 NPC), Fire resistance potion, Willing sacrifice (will die to save party if needed)
 - **Drawback:** Haunted, pessimistic, has death wish
@@ -9753,7 +9753,7 @@ Saves: Wis +4, Cha +7 | Skills: Arcana +5, Deception +7, Intimidation +7
 CR 10 (5,900 XP)
 
 Pact Magic: 10th-level Great Old One warlock. DC 15, +7 to hit. 2 5th-level slots.
-Spells: Eldritch Blast (3 beams, +1d10+4 each), Armor of Agathys, Hunger of Hadar, Evard's Black Tentacles
+Spells: Eldritch Blast (3 beams, +1d10+4 each), Armor of Agathys, Hunger of Hadar, black tentacles
 
 ACTIONS:
 - Eldritch Blast: +7 to hit, range 120 ft., 3 beams, 1d10+4 force each
