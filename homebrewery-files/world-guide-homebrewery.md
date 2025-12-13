@@ -75,8 +75,8 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 
 # Introduction to Tirvandor
 
-
-Welcome to **Tirvandor: The Realm of Deep Magic**, a comprehensive campaign setting for Dungeons & Dragons 5th Edition. This world combines the mythic grandeur of Tolkien's legendarium with the grounded realism of political intrigue and moral complexity.
+:
+Welcome to **Tirvandor: The Realm of Deep Magic**, a comprehensive campaign setting for Dungeons & Dragons 5th Edition. This world combines the mythic grandeur of Tolkien's legendarium with the grounded realism of political intrigue and moral complexity. 
 
 ## What is Tirvandor?
 
@@ -349,7 +349,7 @@ The Silverwood is an ancient forest of silver birch and oak trees, where dappled
 **Notable Locations:**
 - Silverpine Magical Academy - Famous magical and mundane learning center
 - The Old Oak Circle - Ancient druid site with stone circle
-\
+\column
 #### The Heartlands (Central Plains)
 
 The Heartlands are the agricultural engine of Thaldros—endless fields of grain, pastures with livestock, and prosperous farming communities. This is the most "civilized" part of the continent, crisscrossed by well-maintained roads and dotted with market towns.
@@ -384,12 +384,13 @@ The western coast of Thaldros is blessed with natural harbors and a climate mode
 **Major Settlements:**
 - **Goldreach:** A wealthy coastal city serving as the primary port for western Thaldros and controlling ocean trade (Pop. ~16,000)
 - **Saltmere:** A coastal town known for salt harvesting and fish preservation (Pop. ~2,400)
-- **Harborview:** A harbor town specializing in shipbuilding and naval supplies (Pop. ~2,800)
-- **Westport:** A small port serving as an unofficial smuggler haven (Pop. ~1,500)
 
 {{pageNumber,auto}}
 {{footnote Geography of Tirvandor}}
 \page
+
+- **Harborview:** A harbor town specializing in shipbuilding and naval supplies (Pop. ~2,800)
+- **Westport:** A small port serving as an unofficial smuggler haven (Pop. ~1,500)
 
 **Minor Settlements:** Shellcove, Tidepool, Seaview, Dockside, Lastpost, Westridge, Southpoint, Endwatch, Borderwood (villages) and Driftwood (hamlet)
 
@@ -594,14 +595,14 @@ A mountain range covered in jungle growth. Unlike the barren peaks of Thaldros, 
 **Dangers:** Territorial apes, giant insects, landslides, hidden predators ::
 **Resources:** Tropical hardwoods, rare orchids, mountain herbs ::
 
+{{pageNumber,auto}}
+{{footnote Geography of Tirvandor}}
+\page
+
 **Major Settlements:** ::
 - **Highgrove:** Mountain settlement (Pop. ~3,200)
 
 **Minor Settlements:** Cliffbloom, Junglepeak, Canopyrest, Vinespur, Summitleaf (villages) and Stonegreen (hamlet) ::
-
-{{pageNumber,auto}}
-{{footnote Geography of Tirvandor}}
-\page
 
 #### The Split Peninsula (Southwest)
 
@@ -702,6 +703,9 @@ The major settlements of Tirvandor are connected by an extensive road network. R
 {{pageNumber,auto}}
 {{footnote Geography of Tirvandor}}
 \page
+<style>
+  .page:nth-of-type(16):after { display: none; }
+</style>
 
 ![cover image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_thaldros.jpg){position:absolute,top:0,left:0,height:100%,width:100%}
 
@@ -752,8 +756,14 @@ The major settlements of Tirvandor are connected by an extensive road network. R
 {{pageNumber,auto}}
 {{footnote Geography of Tirvandor}}
 \page
+<style>
+  .page:nth-of-type(18):after { display: none; }
+</style>
 
 ![cover image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_aethoria.jpg){position:absolute,top:0,left:0,height:100%,width:100%}
+
+
+
 {{pageNumber,auto}}
 \page
 ### Secondary Roads (23 Named Routes)
@@ -1214,7 +1224,7 @@ The Worldrend occurred over the course of three days, each more catastrophic tha
 - New jagged coastlines created on both continents
 - Mountain peaks become island chains and archipelagos
 - Ley line network permanently disrupted
-\column
+
 ### Theories on the Cause
 
 Scholars and mages have debated for over a thousand years what caused the Worldrend:
@@ -1548,22 +1558,23 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1092 CR: House Splittide crushed** in Aethoria, leaders executed
 - **1092 CR: Blackwood sympathizers begin being hunted** systematically
 
-{{pageNumber,auto}}
-{{footnote Timeline of Tirvandor}}
-\page
-
 **Aftermath (1092-1150 CR):** ::
 - **1092-1150 CR: Remaining Blackwood sympathizers hunted down** across decades
 - **1095 CR: Crossvale begins rebuilding** after devastating civil war
 - **1100 CR: House Seawatch loses ports** to Goldshore through economic pressure
+
+{{pageNumber,auto}}
+{{footnote Timeline of Tirvandor}}
+\page
+
 - **1105 CR: House Silverleaf marries into House Thandris** to repair reputation from neutrality
 - **1150 CR: Hunting of Blackwood sympathizers officially ends**
 
 ### The Years of Plague (1120-1125 CR)
 
 - **1120 CR: Griefshade plague begins** spreading through several regions
-- A disease known as Griefshade swept through several regions
-- Much less deadly than the Great Dying, but economically devastating
+  - A disease known as Griefshade swept through several regions
+  - Much less deadly than the Great Dying, but economically devastating
 - **1125 CR: Griefshade plague ends**
 - **1130 CR: Healers and clerics gain prominence** from successful plague response
 - **1135 CR: Advances in medicine** and healing magic result from crisis
@@ -1624,14 +1635,12 @@ The current age, marked by renewed exploration, magical innovation, political in
 - **1230 CR: House Crystalborn expedition arrives**, refuses to help Goldshore
 - **1230 CR: Goldshore loses three ships** to kraken attack
 - **1230 CR: Hatred between merchant houses intensifies** dramatically
-
-**Recent Events (1235-1247 CR):** ::
-- **1235 CR: Thornhaven Phenomenon** - island experiences reality distortions for three months, still being studied
-
 {{pageNumber,auto}}
 {{footnote Timeline of Tirvandor}}
 \page
 
+**Recent Events (1235-1247 CR):** ::
+- **1235 CR: Thornhaven Phenomenon** - island experiences reality distortions for three months, still being studied
 - **1240 CR: Increased planar instability** reported across both continents
 - **1242 CR: Discovery of ancient prophecies** in various ruins
 - **1243 CR: Diving expedition finds ancient royal seal** near Sundering Sea floor
@@ -2478,14 +2487,15 @@ Not technically a single organization but a network of criminal groups that coop
 - Information brokerage
 - Assassination (rarely, and expensive)
 
+{{pageNumber,auto}}
+{{footnote Factions of Tirvandor}}
+\page
+
 **Known Figures:** ::
 - **The Whisperer:** Mysterious information broker
 - **Red Mask:** Leader of largest thief guild
 - **Captain Blackheart:** Pirate lord who cooperates with Syndicate
 
-{{pageNumber,auto}}
-{{footnote Factions of Tirvandor}}
-\page
 ## Religious Orders
 ### The Lightbringers (Order of Aethor)
 
@@ -2577,16 +2587,16 @@ Dedicated to Mordain, they ensure proper burial rites, comfort the bereaved, and
 - Maintaining the boundary between life and death
 - Preparing souls for judgment
 
+{{pageNumber,auto}}
+{{footnote Factions of Tirvandor}}
+\page
+
 **Operations:** ::
 - Funeral services
 - Graveyard protection
 - Undead hunting
 - Necromancer elimination
 - Helping ghosts pass on
-
-{{pageNumber,auto}}
-{{footnote Factions of Tirvandor}}
-\page
 
 **Notable Members:** ::
 - **High Death Speaker Morticia Ravenholt:** Human, unnervingly calm
@@ -3412,7 +3422,7 @@ Should the continents reunite? And if so, who should rule?
 
 # Thaldros - Western Continent
 
-## House Thandris (Dominant - Royal)
+### House Thandris (Dominant - Royal)
 
 **Region:** The Ironspine Holds  
 **Seat:** Kaer Thandros (capital city)  
@@ -3533,7 +3543,7 @@ No one knows. All direct witnesses died 1,247 years ago. The dispute is now abou
 - Trade negotiations complicated by protocol disputes
 - Each expects deference from the other
 
-## House Ironforge (Dominant - Vassal Lords)
+### House Ironforge (Dominant - Vassal Lords)
 
 **Region:** The Ironspine Holds  
 **Seat:** Deepforge  
@@ -3541,7 +3551,7 @@ No one knows. All direct witnesses died 1,247 years ago. The dispute is now abou
 **Status:** Dominant (Sworn to Thandris)  
 **Sigil:** Black hammer striking red anvil
 
-
+\column
 ### History
 
 Originally a minor dwarven clan, House Ironforge rose to prominence during the Unification Wars by providing superior weapons to Thorin Thandris. Granted eastern mining territories as reward, they transformed from craftsmen to nobility through shrewd management and mining expertise.
@@ -3594,7 +3604,7 @@ Originally a minor dwarven clan, House Ironforge rose to prominence during the U
 }}
 
 {{padding-top:450px
-## House Blackwood (Extinct/Fallen - Lost Claimant)
+### House Blackwood (Extinct/Fallen - Lost Claimant)
 }}
 **Region:** The Silverwood (formerly)  
 **Seat:** Raven's Keep (ruins)  
@@ -3659,7 +3669,7 @@ The most credible rumor: A child was raised by woodsman family in deep Silverwoo
 - Houses that secretly resented Thandris centralization
 - The Fey of Silverwood (blood connection)
 
-## House Silverleaf (Dominant - Forest Lords)
+### House Silverleaf (Dominant - Forest Lords)
 
 **Region:** The Silverwood  
 **Seat:** Silverpine (major city)  
@@ -3706,16 +3716,17 @@ Unlike most elven houses that shun human politics, Silverleaf pragmatically alli
 - 1105 CR: Married into House Thandris to repair reputation
 - 1200s: Increasingly concerned about deforestation and human expansion
 
-{{pageNumber,auto}}
-{{footnote Noble Houses of Tirvandor}}
-\page
-
 ### Current Status (1247 CR)
 
 **Matriarch:** Lady Seraphine Silverleaf (age 1,394, wood elf) ::
 - Born before the Worldrend, remembers unified kingdoms
 - Current political leader of House Silverleaf since 1102 CR
 - Transformed Silverpine from small settlement to major city
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
 - Supports eventual reunification of the continents
 - Grooming son Arannis to inherit, worries he's too aggressive
 
@@ -3786,7 +3797,7 @@ Unlike most elven houses that shun human politics, Silverleaf pragmatically alli
 - Forbidden to make contact
 - Romance between heirs would cause crisis
 
-## House Ashborne (Ascendant - Desert Lords)
+### House Ashborne (Ascendant - Desert Lords)
 
 **Region:** The Sundaran Expanse  
 **Seat:** Sundara (major city)  
@@ -3804,16 +3815,14 @@ Unlike northern houses built on ancient bloodlines, Ashborne's power comes from:
 - **Desert Knowledge:** Hired the best guides, scouts, and explorers
 - **Pragmatic Governance:** Religious and ethnic tolerance rare in Thaldros
 
-**Major Milestones:** ::
-- 920 CR: Malik Ashborne unites three largest nomad clans through marriage
-- 967 CR: Founds Sundara as permanent trade city
-- 1050 CR: Granted nobility by King Thandris in exchange for tax revenues
-
 {{pageNumber,auto}}
 {{footnote Noble Houses of Tirvandor}}
 \page
 
-
+**Major Milestones:** ::
+- 920 CR: Malik Ashborne unites three largest nomad clans through marriage
+- 967 CR: Founds Sundara as permanent trade city
+- 1050 CR: Granted nobility by King Thandris in exchange for tax revenues
 - 1156 CR: Profited enormously from dragon crisis by providing war supplies
 - 1200s: Expanding influence into Heartlands and challenging royal authority
 
@@ -3855,7 +3864,7 @@ Unlike northern houses built on ancient bloodlines, Ashborne's power comes from:
 - Sultan's children positioning for succession (internal conflict brewing)
 - Religious tensions (Ashborne tolerates foreign faiths; north disapproves)
 
-## House Goldshore (Dominant - Merchant Princes)
+### House Goldshore (Dominant - Merchant Princes)
 
 **Region:** The Goldcoast  
 **Seat:** Goldreach (major city)  
@@ -3903,13 +3912,12 @@ Founded by a half-elf merchant captain (descendant of Aldris the Younger) who ma
 - 750 CR: Established Banking House of Goldshore
 - 834 CR: Financed defense against orc invasions (bought nobility)
 - 920-1000 CR: Dominated all western maritime trade
-- 1156 CR: Loaned massive sums for dragon defense (king heavily indebted)
 
 {{pageNumber,auto}}
 {{footnote Noble Houses of Tirvandor}}
 \page
 
-
+- 1156 CR: Loaned massive sums for dragon defense (king heavily indebted)
 - 1230 CR: Kraken incident (Crystalborn refused to help)
 - 1246 CR: Ancient map stolen (blames Crystalborn)
 - 1200s: Now among kingdom's most powerful houses through debt control
@@ -3955,7 +3963,7 @@ Founded by a half-elf merchant captain (descendant of Aldris the Younger) who ma
 - Pirates of Sundering Sea (constant threat)
 - Other merchant houses (economic competition)
 
-## House Stonefist (Declining - Mountain Clan)
+### House Stonefist (Declining - Mountain Clan)
 
 **Region:** The Ironspine Holds  
 **Seat:** Stonehaven  
@@ -4020,7 +4028,7 @@ Ancient dwarven clan that ruled eastern Ironspine before the Unification. Initia
 - Clan members divided on whether to merge with larger clan
 - Young dwarves leaving for better opportunities elsewhere
 
-## House Heartwood (Dominant - Agricultural Lords)
+### House Heartwood (Dominant - Agricultural Lords)
 
 **Region:** The Heartlands  
 **Seat:** Crossvale  
@@ -4083,7 +4091,7 @@ The Heartlands were fractured among dozens of small landholders until the great 
 - Droughts and crop failures devastating
 - Bandits and monsters increase as frontiers expand
 
-## House Emberthorn (Fallen - Volcanic Lords)
+### House Emberthorn (Fallen - Volcanic Lords)
 
 **Region:** The Ashfall Barrens  
 **Seat:** Ashgate (formerly)  
@@ -4103,16 +4111,16 @@ House Emberthorn rose to power during the volcanic settlement period, mastering 
 - Family fortunes destroyed, fortress burned
 - Surviving Emberthorns scattered or enslaved to dragon
 
-{{pageNumber,auto}}
-{{footnote Noble Houses of Tirvandor}}
-\page
-
 **Aftermath:** ::
 - 1156-1200 CR: Dragon ruled region directly
 - 1201 CR: Dragon withdrew to sleep beneath Kaer Thandros after secret bargain
 - Survivors began returning, trying to rebuild
 - Other houses moved into power vacuum
 - Emberthorn a shadow of former glory
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 ### Current Status (1247 CR)
 
@@ -4146,7 +4154,7 @@ House Emberthorn rose to power during the volcanic settlement period, mastering 
 - Current rulers of Ashgate
 - The dragon (if it returns)
 
-## House Seawatch (Declining - Coastal Guardians)
+### House Seawatch (Declining - Coastal Guardians)
 
 **Region:** The Shattered Shore  
 **Seat:** Stormhaven  
@@ -4157,6 +4165,8 @@ House Emberthorn rose to power during the volcanic settlement period, mastering 
 ### History
 
 Founded as military house to defend against coastal raids, House Seawatch once controlled the entire Shattered Shore. They built fortresses, maintained navy, and protected trade routes. But as threats decreased and trade increased, merchant houses (especially Goldshore) became more important.
+
+\column
 
 **The Decline:** ::
 - 780-900 CR: Height of power; pirates and raiders constant threat
@@ -4202,7 +4212,7 @@ Founded as military house to defend against coastal raids, House Seawatch once c
 
 # Aethoria - Eastern Continent
 
-## House Starweaver (Dominant - Celestial Dynasty)
+### House Starweaver (Dominant - Celestial Dynasty)
 
 **Region:** The Starwood  
 **Seat:** Starfall (major city)  
@@ -4285,16 +4295,16 @@ Unlike western houses focused on military power or wealth, Starweavers accumulat
 - Controls access to ancient knowledge
 - Pre-Worldrend legitimacy
 
-{{pageNumber,auto}}
-{{footnote Noble Houses of Tirvandor}}
-\page
-
 ### Conflicts & Alliances
 
 **Allies:** ::
 - House Aethermere (marriage alliance, shared magical interests)
 - The Arcane Colleges
 - Other scholarly houses
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 **Rivals:** ::
 - House Thornveil (believe knowledge should be free)
@@ -4360,7 +4370,7 @@ Unlike western houses focused on military power or wealth, Starweavers accumulat
 - Heir Lumina secretly fascinated by forest magic
 - Forbidden to make contact; doing so is exile-worthy offense
 
-## House Aethermere (Dominant - Forest Throne)
+### House Aethermere (Dominant - Forest Throne)
 
 **Region:** The Emerald Deeps  
 **Seat:** Aethermere (capital city)  
@@ -4376,11 +4386,6 @@ House Aethermere claims descent from the eastern bloodline of the Pre-Worldrend 
 - Descended from Prince Aethos, younger son of King Aldric the Wise
 - Scholar, druid, and mystic who studied with eastern sages
 - Father's favorite (according to Aethermere history)
-
-{{pageNumber,auto}}
-{{footnote Noble Houses of Tirvandor}}
-\page
-
 - Wiser and more suited to rule than warlike brother Theron
 - When Worldrend struck, claimed throne from eastern lands
 
@@ -4389,6 +4394,11 @@ According to Aethermere history:
 - Prince Aethos survived when Palace of Eternal Spring sank
 - Rallied eastern survivors and established rule
 - Claimed throne as rightful High King
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
+
 - Western nobles (led by Prince Theron) refused recognition
 - Continents too separated to resolve dispute by force
 
@@ -4553,7 +4563,7 @@ Some nobles on both continents think dispute is absurd:
 - These voices are minority but growing
 - Younger generation more open to compromise
 
-## House Crystalborn (Dominant - Lake Lords)
+### House Crystalborn (Dominant - Lake Lords)
 
 **Region:** The Crystalvale  
 **Seat:** Crystalbrook (major city)  
@@ -4740,7 +4750,7 @@ Two heirs died "accidentally" (actually murdered by siblings)
 - Both planning major expeditions (1247-1248 CR)
 - **Naval war likely**
 
-## House Thornveil (Ascendant - Shadow Court)
+### House Thornveil (Ascendant - Shadow Court)
 
 **Region:** The Thornmire Marches  
 **Seat:** Marshaven (major city)  
@@ -4782,15 +4792,15 @@ A relatively young house by elven standards, House Thornveil rose from swamp-dwe
 - Swamp navigation monopoly
 - Growing spy network
 
-{{pageNumber,auto}}
-{{footnote Noble Houses of Tirvandor}}
-\page
-
 **Power Base:** ::
 - Rare alchemical goods monopoly
 - Information network
 - Economic growth (fastest in Aethoria)
 - Alliance with practical-minded houses
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 ### Conflicts & Alliances
 
@@ -4811,7 +4821,7 @@ A relatively young house by elven standards, House Thornveil rose from swamp-dwe
 - Daughter more radical than father
 - Something in the swamp is awakening (Thornveil fault?)
 
-## House Windwhisper (Dominant - Highland Mystics)
+### House Windwhisper (Dominant - Highland Mystics)
 
 **Region:** The Mistwood Reaches  
 **Seat:** Mistview  
@@ -4872,7 +4882,7 @@ Reclusive house dwelling in perpetual mist of the highlands, House Windwhisper a
 - The mists are spreading
 
 
-## House Verdantheart (Dominant - Mountain Druids)
+### House Verdantheart (Dominant - Mountain Druids)
 
 **Region:** The Verdant Wall  
 **Seat:** Highgrove  
@@ -4884,9 +4894,6 @@ Reclusive house dwelling in perpetual mist of the highlands, House Windwhisper a
 
 Druidic house ruling the jungle-covered southern mountains, House Verdantheart maintains ancient traditions of nature worship and guardian oaths. They believe the Verdant Wall protects Aethoria from something to the south—what, they won't say.
 
-{{pageNumber,auto}}
-{{footnote Noble Houses of Tirvandor}}
-\page
 
 **Philosophy:** ::
 - The mountains are a wall for a reason
@@ -4899,6 +4906,10 @@ Druidic house ruling the jungle-covered southern mountains, House Verdantheart m
 - Trained ape companions
 - Jungle warfare specialists
 - Deadly reputation
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 ### Current Status (1247 CR)
 
@@ -4941,8 +4952,8 @@ Druidic house ruling the jungle-covered southern mountains, House Verdantheart m
 - Guardian purpose forgotten; becoming tradition without meaning
 - Something IS stirring to the south
 - Elder dying; succession uncertain
-\column
-## House Splittide (Fallen - Peninsula Lords)
+
+### House Splittide (Fallen - Peninsula Lords)
 
 **Region:** The Split Peninsula  
 **Seat:** Wildgrove (shared with druids)  
@@ -4990,11 +5001,7 @@ House Splittide ruled the peninsula before the Worldrend Echoes War (1089-1092 C
 - Legal claim (disputed)
 - Dangerous mission
 
-{{pageNumber,auto}}
-{{footnote Noble Houses of Tirvandor}}
-\page
-
-## House Brightwater (Ascendant - River Lords)
+### House Brightwater (Ascendant - River Lords)
 
 **Region:** The Brightwater Valley  
 **Seat:** Riverrun  
@@ -5012,6 +5019,10 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 - Fed growing Aethorian cities
 - Granted nobility for essential services
 - Now indispensable to eastern economy
+
+{{pageNumber,auto}}
+{{footnote Noble Houses of Tirvandor}}
+\page
 
 **Modern Status:** ::
 - Agricultural powerhouse
@@ -5038,7 +5049,6 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 - Economic growth
 - Support from common people
 
-\column
 
 ### Conflicts & Alliances
 
@@ -5059,7 +5069,9 @@ The newest noble house in Aethoria, granted nobility only 200 years ago for agri
 - Engineering vs. natural magic conflicts
 - Heir wants even more radical changes
 
-## Summary: Houses by Status
+\column
+
+### Summary: Houses by Status
 
 ### Dominant/Royal (8)
 - House Thandris (Thaldros royal)
@@ -5315,8 +5327,8 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 - A harbor town specializing in shipbuilding and naval supplies ::
 **Westport** (Pop. ~1,500) ::
 - A small port that serves as an unofficial smuggler haven and repair station ::
-\column
-{{padding-top:460px}}
+
+{{padding-top:360px}}
 ### Southern Region
 
 **Southwatch** (Pop. ~1,700) ::
@@ -5386,7 +5398,7 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 **Fernhaven** (Pop. ~290) - A village for fern harvesting and basket weaving ::
 **Pinegrove** (Pop. ~310) - A lumber village harvesting pine and collecting resin ::
 **Elmwood** (Pop. ~270) - A craftsman village making elm wood instruments ::
-\column
+
 ### Heartland Villages
 **Wheatfield** (Pop. ~450) - A wheat farming village, part of the region's breadbasket ::
 **Copperhill** (Pop. ~380) - A small copper mining village ::
@@ -5414,6 +5426,10 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 **Dryrock** (Pop. ~210) - A rock quarry village providing building materials ::
 **Sandrift** (Pop. ~170) - A mobile settlement that follows water sources ::
 
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
 ### Volcanic Region
 **Smokehollow** (Pop. ~290) - A smoke-filled valley village mining sulfur ::
 **Ashvale** (Pop. ~310) - A village farming ash for fertilizer ::
@@ -5431,10 +5447,6 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 **Skyridge** (Pop. ~270) - A mountain ridge trading post ::
 **Cliffside** (Pop. ~250) - A cliff dwelling settlement ::
 
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement Registry}}
-\page
-
 ### Central South
 **Midvale** (Pop. ~330) - A central valley crossroads village ::
 **Crossway** (Pop. ~310) - A road junction village with an inn ::
@@ -5442,8 +5454,8 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 **Hillcrest** (Pop. ~280) - A hill farming village with terraces ::
 **Valleyford** (Pop. ~260) - A river ford village with a toll bridge ::
 **Riverside** (Pop. ~300) - A village for river fishing with ferry crossing ::
-
-## Hamlets (Thaldros)
+\column
+### Hamlets (Thaldros)
 
 :
  
@@ -5465,6 +5477,7 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 {{pageNumber,auto}}
 {{footnote Tirvandor Settlement Registry}}
 \page
+
 {{wide
 ![settlement-registry-aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-aethermere.jpg){position:absolute,top:0,left:0,height:600px,width:100%}
 }}
@@ -5582,16 +5595,16 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 **Mountainhome** (Pop. ~1,800) ::
 - A mountain settlement with a stone quarry and climbing school ::
 
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
 ## Villages (Aethoria) - Selected Notable Examples
 
 ### Far Northwest
 **Fogvale** (Pop. ~280) - A village in permanent fog with fog navigation experts ::
 **Northmist** (Pop. ~310) - A village in northern mist forests with mushroom trade ::
 **Silverleaf** (Pop. ~290) - A village known for silverleaf trees and rare wood ::
-
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement Registry}}
-\page
 
 ### Starwood
 **Nightshade** (Pop. ~320) - A village for nightshade harvesting and poison antidotes ::
@@ -5652,6 +5665,10 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 **Warmwater** (Pop. ~280) - A warm springs village with a spa ::
 **Sunvale** (Pop. ~300) - A sunny tropical valley village ::
 
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
 ### Southern Mountains
 **Cliffhome** (Pop. ~280) - A cliff dwelling village with rock climbers ::
 **Highwatch** (Pop. ~290) - A high mountain watch and lookout village ::
@@ -5686,10 +5703,6 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 **Ridgepost** (Pop. ~42) - A ridge waypost hamlet with a mail station ::
 **Summitwatch** (Pop. ~38) - A summit watch hamlet with a signal tower ::
 
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement Registry}}
-\page
-
 ## Travel and Trade Notes
 
 **Estimated Travel Times Between Major Cities:**
@@ -5711,7 +5724,7 @@ This registry catalogs all known permanent settlements in Tirvandor, from the gr
 - Goldreach to Port Myrthen: 5-7 days by ship
 - Port Myrthen to Crystalbrook: 4-6 days by ship
 
-\column
+
 
 ## Registry Maintenance
 
@@ -6022,7 +6035,13 @@ The newly named House Silverleaf formalized their rule over the Silverwood, esta
 
 **The Thandris Alliance (670 CR)**
 
-King Thorin II Thandris formally recognized House Silverleaf as Lords of the Silverwood in 670 CR, cementing an alliance that has lasted nearly six centuries. The agreement secured elven autonomy within their forest realm while establishing trade relationships that benefited both peoples. Silverleaf gained recognition and protection; Thandris gained access to elven craftsmanship and forest resources harvested sustainably under druidic supervision. The alliance proved controversial among isolationist elves who viewed any human entanglement as degradation of their ancient ways, but pragmatists recognized the necessity of securing their borders in a world increasingly dominated by shorter-lived races.
+King Thorin II Thandris formally recognized House Silverleaf as Lords of the Silverwood in 670 CR, cementing an alliance that has lasted nearly six centuries. The agreement secured elven autonomy within their forest realm while establishing trade relationships that benefited both peoples. Silverleaf gained recognition and protection; Thandris gained access to elven craftsmanship and forest resources harvested sustainably under druidic supervision. The alliance proved controversial among isolationist elves who viewed any human entanglement as degradation of their ancient ways, but pragmatists recognized
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
+the necessity of securing their borders in a world increasingly dominated by shorter-lived races.
 
 **The Blackwood Era (587-1092 CR)**
 
@@ -6035,10 +6054,6 @@ After the Rebellion's brutal suppression, Silverwood territories were redistribu
 **Modern Era (1200s)**
 
 The past fifty years have brought increasing challenges. Human encroachment on the forest's edges accelerates despite treaties. Forest health declines in ways even druidic magic struggles to address. Succession concerns trouble the court—Lady Seraphine's chosen heir, Ranger-Lord Arannis, is seen by some as too militant, too quick to reach for violence against human loggers and settlers. Tensions over logging rights strain the ancient Thandris alliance. Silverleaf remains officially neutral in continental politics, but that neutrality grows harder to maintain as the world presses in on all sides.
-
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
 
 ### Current Status (1247 CR)
 
@@ -6076,6 +6091,10 @@ The Council of Elders governs Silverpine, with Lady Seraphine presiding over del
 
 Goldreach has existed longer than House Goldshore has ruled it. The natural harbor was used since before the Worldrend, serving as the western terminus for the unified realm's maritime trade.
 
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
 **Pre-Worldrend (Before Year 0)**
 
 Before the cataclysm tore the world apart, Goldreach was a major port belonging to the ancient House Deepwater, the great merchant dynasty that controlled maritime trade across what is now two continents. The western operations hub was managed by Aldris Deepwater, third daughter of the patriarch, commanding a fleet of over forty ships and a population estimated at 5,000. The harbor's natural advantages—deep water, sheltered anchorage, and favorable winds—made it indispensable to the Deepwater trading empire.
@@ -6112,17 +6131,19 @@ Over two centuries, House Goldshore expanded from merchants into merchant-prince
 
 When orc invasions threatened Thaldros, House Goldshore saw opportunity in crisis. They financed the kingdom's defense, supplying armies and extending credit to a desperate crown. Their fortune multiplied while others suffered. In recognition of their "contributions," the king granted them full noble status—though cynics noted the grant came suspiciously close to the loan extensions. The king became indebted, and that debt gave Goldshore a kind of power that gold alone cannot buy.
 
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
-
 **The Dragon Crisis (1156 CR)**
 
 When the red dragon Infernalix emerged from the volcanic regions and demanded tribute, the kingdom turned again to Goldshore financing. The house loaned massive sums for dragon defense—sums the crown still hasn't repaid. Today, King Aldric IV owes approximately 50,000 gold to House Goldshore, making them not merely wealthy but the kingdom's primary creditor. Political power through debt has proven more durable than political power through force.
 
 **Modern Era (1200s)**
 
-Today, House Goldshore operates a banking empire that spans Thaldros. Their private fleet numbers eighteen merchant-warships, each capable of defending itself against pirates. Their information network reaches into every court and counting house. Lord Aldris III married late to a human woman, Lady Mirella, who died in 1230 CR—a loss that some say changed his temperament from merely ruthless to bitterly vindictive. The population has reached 16,000, making Goldreach the largest port in western Thaldros.
+Today, House Goldshore operates a banking empire that spans Thaldros. Their private fleet numbers eighteen merchant-warships, each capable of defending itself against pirates. Their information network reaches into every court and counting house. Lord Aldris III married late to a human woman, Lady Mirella, who died in 1230 CR—a loss that some say changed his temperament from merely ruthless to bitterly vindictive.
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
+The population has reached 16,000, making Goldreach the largest port in western Thaldros.
 
 ### Current Status (1247 CR)
 
@@ -6182,13 +6203,13 @@ When the three families jointly invested in the settlement, they made an unusual
 
 For the first century and a half, the Heartwood, Grainson, and Millford families shared rule of Crossvale, each controlling a section of the growing city. Competition between them drove innovation and efficiency, but cooperation on defense and trade policy kept the city united. Under their joint leadership, Crossvale grew rapidly to 5,000 residents and became a crucial trade hub for the entire heartland region.
 
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
 **The Agricultural Boom (750-850 CR)**
 
 The Heartwood family made their fortune—and began their rise to dominance—by introducing revolutionary crop improvements. Yields increased dramatically under their innovations, grain exports exploded, and the family's wealth grew accordingly. Meanwhile, the Millford family invested in building watermills along the three rivers, and the Grainsons managed the expanding trade networks that carried Crossvale's grain across the continent.
-
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
 
 **The First Crisis (834 CR)**
 
@@ -6241,16 +6262,17 @@ Crossvale remains unique among Thaldros cities for its planned grid layout. Five
 - **The Mill District:** Forty watermills line the rivers, processing grain
 - **The Trade Quarter:** Warehouses, guild halls, trading houses
 - **The Farm District:** Urban agriculture, grain silos, livestock markets
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
 - **The Heights:** Noble estates including Heartwood Manor
 - **The Crossroads:** The symbolic center where five roads meet
 
 **Economic Power**
 
 Crossvale produces forty percent of Thaldros's grain and effectively controls grain prices across the kingdom. As a hub for all cross-continental trade, its merchants have connections in every major city from Kaer Thandros to Aethermere. The Heartwoods are wealthy but unpretentious about it—their economic leverage over the kingdom speaks louder than any display of riches.
-
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
 
 ## Sundara (Major City)
 
@@ -6292,6 +6314,10 @@ Over the next fifty years, House Ashborne systematically took control of desert 
 
 King Thandris III had little choice when he granted House Ashborne nobility in 1050 CR. The desert traders controlled resources and routes the kingdom needed; better to legitimize them and collect taxes than to fight a war across sand against enemies who knew every dune. Sundara became an official city, House Ashborne became official nobles, and the population reached 5,000. Malik Ashborne had died by then, but his descendants inherited exactly the empire he had envisioned.
 
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
 ### The Expansion (1050-1200 CR)
 
 **The Ambitious Era (1050-1156 CR)**
@@ -6320,10 +6346,6 @@ The succession crisis brewing in Sundara may prove the greatest threat the house
 
 Sundara is built around its life-giving oasis cluster, white adobe buildings designed to reflect brutal desert heat. Underground water channels carry life-giving water throughout the city, an engineering achievement that astonishes northern visitors. The massive covered market shields traders from the sun while they negotiate. The palace, surrounded by gardens that seem miraculous in the desert, dominates the skyline.
 
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
-
 **Districts:** ::
 - **The Oasis:** The sacred center and water source, restricted access
 - **The Palace District:** Sultan's complex with its famous gardens
@@ -6343,6 +6365,10 @@ House Ashborne controls all desert trade and maintains a monopoly on desert reso
 **Military**
 
 The Desert Cavalry numbers 2,000 elite warriors, mounted on horses bred for desert conditions and armed with curved blades and composite bows. A city guard of 500 maintains order within Sundara itself. When the clans are called, another 3,000 warriors can be mustered from the nomadic populations that still owe allegiance to the Ashborne name. Fortified outposts at the controlled oases provide strategic depth. Most importantly, House Ashborne controls water—and in the desert, controlling water means controlling everything.
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
 
 ## Ashgate (Major City)
 
@@ -6493,6 +6519,10 @@ The dynasty has seen five major rulers across twelve centuries. Aethos (0-187 CR
 
 In the centuries following the Worldrend, Aethermere expanded upward into the canopy rather than outward across the forest floor. The population grew from an estimated 5,000 to 15,000 as refugees settled, families formed, and the city's reputation as a center of druidic learning spread. The deep connection between city and forest solidified until the two became inseparable—magic saturated every branch and root, making Aethermere not just a place where druids gathered but a pilgrimage site for nature worshippers across the eastern continent.
 
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
 **The Golden Age (400-900 CR)**
 
 Five centuries of peace allowed arts and magic to flourish. The population reached 25,000 as multiple world-tree groves were incorporated into the expanding city. Scholars from across the continent came to study at Aethermere's academies, and the city's reputation for magical goods brought wealth that funded further expansion. This era established Aethermere as the unquestioned center of eastern civilization—a position it has never entirely relinquished.
@@ -6510,10 +6540,6 @@ Today, Aethermere's population has stabilized at approximately 38,000. But stabi
 **Ruler:** High Queen Aelindra Aethermere (age 1,494, elf)
 
 Queen Aelindra is both a powerful druid and an accomplished statesperson, chosen by the world-trees over a century ago after a ritual that some still whisper was not entirely above manipulation. Since her coronation, she has been rendered childless by the ritual's magic—a price all chosen rulers pay. She has two adult children from before taking the throne: Eldrin (158) and Elanil (142), neither of whom is eligible to inherit by tradition. Beloved by her people but visibly aging, she has already chosen her heir, triggering the controversy that now divides her court.
-
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
 
 **Heir:** Theron Aethermere (age 89, half-elf)
 
@@ -6544,6 +6570,10 @@ Approximately 28,000 elves make their home in Aethermere, predominantly wood elv
 **Government**
 
 The Queen holds supreme authority, advised by the Council of Druids and constrained by the Circle of Elders representing the noble houses. The Forest Guard serves as both military and police force, while the Fey Court maintains a consultative role in matters affecting the boundaries between mortal and fey realms.
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
 
 ## Starfall (Major City)
 
@@ -6585,13 +6615,15 @@ Three centuries of prosperity followed. Starweaver astronomers made discoveries 
 
 Then came the event that changed everything. In the 1050s, the Starweaver astronomers observed something in the heavens—something that terrified them into silence. Records were sealed. The Observatory went dark for an entire year. When the Starweavers emerged, they refused to discuss what they had seen. Other houses sent envoys demanding answers; all were turned away. What did they see? What do they know? Two centuries later, the Sealed Prophecy remains the most closely guarded secret in Aethoria.
 
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
-
 **Modern Era (1200-Present)**
 
-Today, Starfall remains the premier magical academy of Aethoria, though its population has declined slightly to 6,500. The house has grown increasingly isolated—whether from pride, fear, or simple preference for scholarly solitude, outsiders cannot determine. Archmagister Elaris, the current ruler, shows little interest in political affairs. His chosen heir, Lumina, questions this isolation, but her influence remains limited. Most troubling to those who pay attention: the stars are showing strange patterns again, patterns that senior Starweavers recognize but will not discuss.
+Today, Starfall remains the premier magical academy of Aethoria, though its population has declined slightly to 6,500. The house has grown increasingly isolated—whether from pride, fear, or simple preference for scholarly solitude, outsiders cannot determine. Archmagister Elaris, the current ruler, shows little interest in political affairs. His chosen heir, Lumina, questions this isolation, but her influence remains limited. Most troubling to those who pay attention:
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
+the stars are showing strange patterns again, patterns that senior Starweavers recognize but will not discuss.
 
 ### Current Status (1247 CR)
 
@@ -6642,7 +6674,13 @@ Before the cataclysm, Crystalbrook served as the eastern operations center for t
 
 **The Worldrend Impact (Year 0)**
 
-When the Worldrend struck, the great Palace Port—headquarters of the Deepwater dynasty—sank beneath the newly formed Sundering Sea along with its patriarch and eldest son. In the chaos that followed, Crystalbrook suddenly became the primary eastern port of a shattered house. Marius Deepwater claimed leadership of the eastern branch, though cut off entirely from the western survivors who would eventually become House Goldshore. Refugees from destroyed coastal settlements swelled the population as people sought any safe harbor in a world torn apart.
+When the Worldrend struck, the great Palace Port—headquarters of the Deepwater dynasty—sank beneath the newly formed Sundering Sea along with its patriarch and eldest son. In the chaos that followed, Crystalbrook suddenly became the primary eastern port of a shattered house.
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
+Marius Deepwater claimed leadership of the eastern branch, though cut off entirely from the western survivors who would eventually become House Goldshore. Refugees from destroyed coastal settlements swelled the population as people sought any safe harbor in a world torn apart.
 
 ### Post-Worldrend Transformation (0-450 CR)
 
@@ -6653,10 +6691,6 @@ For four centuries, the eastern and western branches of House Deepwater competed
 **The Magical Awakening (200-450 CR)**
 
 Something strange began happening to Crystalborn children around 200 CR. They were born with an affinity for water that bordered on the supernatural—an ability to communicate with water elementals, to sense what lay beneath the surface, to breathe in depths that should have killed them. Some attributed this to the magical properties of the Crystal Lakes. Others whispered of deals made with water entities during the desperate post-Worldrend years. Still others believed the trauma of the cataclysm had awakened latent abilities in the Deepwater bloodline. Whatever the cause, water-speaking became the house's defining trait. In 450 CR, they formally renamed themselves House Crystalborn to reflect their transformation.
-
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
 
 ### House Crystalborn Rule (450 CR - Present)
 
@@ -6708,6 +6742,10 @@ Two died "accidentally" (murdered by siblings)
 - Training areas
 - Hidden from surface dwellers
 
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
 **Population:** ::
 - ~7,000 humans (mostly water-speakers)
 - ~3,000 half-elves
@@ -6743,10 +6781,6 @@ The Thornveil family began as wandering alchemists, their reputation shadowed by
 
 Building a city in a swamp required solutions no architect had attempted before. Marshaven rose on elevated platforms supported by the massive trunks of ancient swamp trees, their wood treated with alchemical compounds to resist rot, poison, and the marsh's corrosive humidity. Interconnected walkways formed the city's streets, suspended above waters that never stopped trying to reclaim the wood. The initial population numbered perhaps 200—criminals seeking refuge, outcasts with nowhere else to go, and those desperate enough to risk the Thornmire's dangers for a chance at wealth.
 
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
-
 ### The Rise (850-1100 CR)
 
 **The Alchemical Boom (850-1000 CR)**
@@ -6766,6 +6800,10 @@ Queen Elaria Aethermere faced an uncomfortable choice in 1000 CR. House Thornvei
 **The Expansion (1100-1200 CR)**
 
 With their position secured, House Thornveil invested in expanding Marshaven both upward and outward. New platforms rose above the original structures, connected by spiral staircases and rope bridges. Alchemical gardens bloomed on every available surface, cultivating the toxic plants that fueled their trade under controlled conditions. A sprawling laboratory complex grew at the city's heart, while secret facilities—their purposes known only to senior Thornveils—spread through the marsh in hidden locations. By 1200 CR, the population had reached 7,000.
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
 
 **The Political Rise (1200-Present)**
 
@@ -6840,15 +6878,15 @@ The druids who first discovered this grove found world-trees already ancient bey
 
 For nearly four centuries, House Splittide ruled the Split Peninsula while honoring their obligations to Wildgrove and its druidic caretakers. They maintained the ancient fey treaties, protected the sacred groves from exploitation, and governed with a light hand that earned them respect from both the mortal and fey populations. Under their stewardship, the permanent population around Wildgrove grew to approximately 2,000—druids, their acolytes, and those who served the pilgrims who came seeking wisdom or healing.
 
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
-
 ### The Fey War (1089-1092 CR)
 
 **The Crisis**
 
 While the Blackwood Rebellion tore apart western Thaldros, a parallel conflict erupted in Aethoria's southwest. The fey courts, growing increasingly bold, formally claimed the Split Peninsula as territory stolen from them centuries before the current treaties were signed. House Splittide, in a decision that shocked the royal court, agreed with the fey assessment. Lord Aldric Splittide offered to surrender the peninsula's governance to fey authority—a radical act that Queen Elaria Aethermere considered nothing less than treason.
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
 
 **The War**
 
@@ -6946,7 +6984,13 @@ Port Myrthen is governed by seven merchant princes, elected by guild members fro
 
 **The Seven Princes**
 
-The current council includes representatives from both Goldshore and Crystalborn banking operations, each watching the other for any sign of advantage-seeking. Western merchants control shipping, warehousing, and insurance. Eastern merchants dominate luxury goods, magical supplies, and information brokerage. The single neutral prince—currently a woman named Captain Sera Myrthen, descendant of the founder—casts the deciding vote on contested matters. The balance is fragile; every decision risks tilting it.
+The current council includes representatives from both Goldshore and Crystalborn banking operations, each watching the other for any sign of advantage-seeking. Western merchants control shipping, warehousing, and insurance. Eastern merchants dominate luxury goods, magical supplies, and information brokerage. The single neutral prince—currently a woman named Captain Sera Myrthen, descendant of the founder—casts the deciding vote on
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
+contested matters. The balance is fragile; every decision risks tilting it.
 
 **City Structure**
 
@@ -6966,10 +7010,6 @@ The population divides almost perfectly between origins: approximately 4,000 res
 **Economic Power**
 
 Port Myrthen's wealth derives entirely from its position. As the only major neutral port between continents, it levies a ten percent tariff on all goods passing through—and virtually all cross-continental trade passes through. Both Goldshore and Crystalborn maintain banking offices here, using the neutral ground for transactions neither would trust to the other's territory. Information flows through the port as freely as cargo, making it an intelligence hub for anyone willing to pay. The immense wealth generated by this position funds the defenses that keep any single power from seizing control.
-
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
 
 ## Palace Port (Sunken City)
 
@@ -7035,6 +7075,10 @@ Palace Port was the crown jewel of the unified realm—the greatest trading city
 - Few who got warning
 - Total survivors: ~5,000
 
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
 ### The Salvage Wars (100-Present)
 
 **The Treasure Hunters (100-1247 CR):** ::
@@ -7076,10 +7120,6 @@ Over 1,100 years, countless expeditions:
 - Covered in coral and silt
 - Magical preservation in places
 - Deadly to approach
-
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
 
 **What Remains (Estimated):** ::
 - Palace ruins (Crystal Throne?)
@@ -7145,6 +7185,10 @@ Founded simultaneously with Kaer Thandros as the northern fortress defending mou
 - Population: 8,000
 - Completely loyal
 
+{{pageNumber,auto}}
+{{footnote Tirvandor Settlement Registry}}
+\page
+
 ## Deepforge (Mining Town)
 
 **Region:** The Ironspine Holds  
@@ -7189,9 +7233,6 @@ Built by House Emberthorn around volcanic forges using natural lava heat for sup
 - Still operational
 - Dangerous work
 
-{{pageNumber,auto}}
-{{footnote Tirvandor Settlement History}}
-\page
 
 ### Post-Dragon (1156-Present)
 
@@ -7210,7 +7251,7 @@ Built by House Emberthorn around volcanic forges using natural lava heat for sup
 - No nobility
 - Meritocracy
 - Produces finest weapons
-\column
+
 ## Summary: Settlement Types Covered
 
 **Major Capitals:** 2 (Kaer Thandros, Aethermere) ::
@@ -7337,12 +7378,13 @@ The city glows at night with forge-light, creating an orange haze visible for mi
   - **Dwarven Quarter:** Residential area with homes, shops, temples. Feels like a city unto itself.
 - *Atmosphere:* Ancient, secure, traditional. Dwarves greet humans cordially but this is *their* domain. Deeper you go, older it gets—and stranger.
 
+**THE TRADE QUARTER** (Third Tier) ::
+- *Description:* Bustling markets, merchant houses, caravansaries. This is where the city breathes—goods flow in and out constantly. Architecture is more varied, less martial than upper tiers.
+
 {{pageNumber,auto}}
 {{footnote Tirvandor Location Descriptions}}
 \page
 
-**THE TRADE QUARTER** (Third Tier) ::
-- *Description:* Bustling markets, merchant houses, caravansaries. This is where the city breathes—goods flow in and out constantly. Architecture is more varied, less martial than upper tiers.
 - *Key Locations:*
   - **Grand Bazaar:** Covered market selling everything from bread to battle-axes
   - **Caravan Rest:** Large inn complex where trade caravans stay and resupply
@@ -7407,11 +7449,11 @@ Silverpine doesn't stand apart from the forest—it grows from it. Ancient silve
 
 Sunlight filters through silver leaves, creating constantly shifting patterns of light. The air smells of pine sap, flowers, and old magic. Everything organic—buildings shaped from living wood, bridges that sway gently, stairs carved from bark that grows as you climb.
 
+At the city's heart stands the **Heart Tree**, a world-tree so massive that twenty people holding hands couldn't circle it. The entire city radiates from this ancient oak.
+
 {{pageNumber,auto}}
 {{footnote Tirvandor Location Descriptions}}
 \page
-
-At the city's heart stands the **Heart Tree**, a world-tree so massive that twenty people holding hands couldn't circle it. The entire city radiates from this ancient oak.
 
 #### Atmosphere
 
@@ -7472,11 +7514,12 @@ At the city's heart stands the **Heart Tree**, a world-tree so massive that twen
 - **Council Mistress Elara Silverleaf** (342, high elf): University Rector, former Matriarch, most powerful wizard in western Tirvandor
 - **Matriarch Seraphina Silverleaf** (2,000+, high elf): Ancient founder, rarely seen, sought for counsel on momentous decisions
 - **Master Trader Gareth Woodwise** (54, human): Manages human trade relations, respected by both sides
-- **Archdruid Thornbark** (unknown age, possibly treant): Rarely seen, communicates through proxies
 
 {{pageNumber,auto}}
 {{footnote Tirvandor Location Descriptions}}
 \page
+
+- **Archdruid Thornbark** (unknown age, possibly treant): Rarely seen, communicates through proxies
 
 #### Economy
 
@@ -7643,7 +7686,7 @@ There's a surprising democratic spirit—weekly open councils where any citizen 
   - **Festival Grounds:** Cleared for quarterly fairs (massive events)
   - **The Scales of Justice:** Public courts held in the open
 - *Atmosphere:* Bustling, loud, honest dealing. People drive hard bargains but keep their word. Reputation matters.
-
+\column
 **THE MILL DISTRICT** (Along Rivers) ::
 - *Description:* Forty watermills, each powered by the converging rivers. The grinding never stops. Wheat becomes flour that feeds the kingdom.
 - *Key Locations:*
@@ -7743,6 +7786,11 @@ There's an opportunistic energy—this is a young city (founded 967 CR, 280 year
 
 **THE GREAT OASIS** (Center) ::
 - *Description:* Natural spring that made the city possible. Crystal-clear water in a palm-ringed pool. Sacred to all clans. Public bathing areas separate from drinking water.
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Location Descriptions}}
+\page
+
 - *Key Locations:*
   - **The Oasis Heart:** Main spring, 50 feet across, incredibly deep
   - **The Palm Grove:** Twelve ancient palms representing the twelve subsidiary oases
@@ -7764,9 +7812,6 @@ There's an opportunistic energy—this is a young city (founded 967 CR, 280 year
 **THE GLASS BAZAAR** (East) ::
 - *Description:* Famous marketplace specializing in glass work. Sundaran glassblowers are renowned. Colored glass everywhere—windows, bottles, art, jewelry.
 
-{{pageNumber,auto}}
-{{footnote Tirvandor Location Descriptions}}
-\page
 
 - *Key Locations:*
   - **The Glass Quarter:** Dozens of glassblowing workshops
@@ -7810,6 +7855,11 @@ There's an opportunistic energy—this is a young city (founded 967 CR, 280 year
 #### Key NPCs
 
 - **Sultan Rashid Ashborne** (41, human): Third-generation noble, ambitious, charismatic, calculating, seven children from three wives, succession unclear
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Location Descriptions}}
+\page
+
 - **High Priest Rashid Al-Sahir** (68, human): Chief spiritual leader, "Twice-Blessed," beloved by the people, counterweight to Sultan's pragmatism
 - **Malik the Elder** (78, human): Eldest of founding clan leaders, remembers when Sundara was tents
 - **Glassmaster Kiral Brightfire** (112, dwarf): Master glassblower, created techniques that made Sundara famous
@@ -7837,10 +7887,6 @@ There's an opportunistic energy—this is a young city (founded 967 CR, 280 year
 **Population:** ~12,000 (55% human, 25% dwarf, 15% tiefling, 5% other)  
 **Region:** The Ashfall Barrens  
 **Ruler:** Warden Council (five members, rotating leadership)
-
-{{pageNumber,auto}}
-{{footnote Tirvandor Location Descriptions}}
-\page
 
 #### Visual Overview
 
@@ -7881,6 +7927,11 @@ Fire cults operate openly here (illegal most places). Tieflings are welcomed (th
 
 **THE OBSIDIAN QUARTER** (East) ::
 - *Description:* Where volcanic glass is mined, carved, and traded. Ashgate's primary export—obsidian blades, mirrors, jewelry, art.
+
+{{pageNumber,auto}}
+{{footnote Tirvandor Location Descriptions}}
+\page
+
 - *Key Locations:*
   - **The Glass Fields:** Old lava flows where obsidian is harvested
   - **Master Carver's Guild:** Where obsidian working is taught
@@ -7898,10 +7949,6 @@ Fire cults operate openly here (illegal most places). Tieflings are welcomed (th
   - **Fire Elemental Bindings:** Chambers where elementals are contained
   - **The Forge Temple:** Legitimate worship of smith gods blends with fire cult
 - *Atmosphere:* Hot, intense, slightly dangerous. Fire magic everywhere. Non-cultists nervous.
-
-{{pageNumber,auto}}
-{{footnote Tirvandor Location Descriptions}}
-\page
 
 **THE ASH QUARTER** (North) ::
 - *Description:* Residential and commercial area for common citizens. Buildings reinforced against ash fall. Streets regularly swept.
@@ -7953,6 +8000,9 @@ Fire cults operate openly here (illegal most places). Tieflings are welcomed (th
 **Region:** The Frostmarches  
 **Military Governor:** General Borin Stonefist (195, dwarf)
 
+{{pageNumber,auto}}
+{{footnote Tirvandor Location Descriptions}}
+\page
 
 #### Visual Overview
 
@@ -7976,10 +8026,6 @@ There's pride in duty. These soldiers chose the hardest post. They face frost gi
 - Heated guard towers (magical warmth)
 - Iron-reinforced gates can withstand giant hammers
 - Mechanism to collapse tunnel under gate if overrun
-
-{{pageNumber,auto}}
-{{footnote Tirvandor Location Descriptions}}
-\page
 
 **THE GARRISON** ::
 - Barracks for 3,000 soldiers
@@ -8014,7 +8060,7 @@ There's pride in duty. These soldiers chose the hardest post. They face frost gi
 - Memorials to fallen soldiers
 - Spartan but sincere
 - Officers read names of dead monthly
-\column
+
 #### Key NPCs
 
 - **General Borin Stonefist** (195, dwarf): Commands garrison, veteran of countless giant raids, scarred, respected
