@@ -37,425 +37,426 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 
 {{skipCounting}}
 \page
-
 {{toc,wide
 # Contents
 
-- ### [{{ DM Quick Reference Sheet}}{{ 2}}](#p3)
-  - #### [{{ Tirvandor Essentials at a Glance}}{{ 2}}](#p3)
-  - #### [{{ Common DCs}}{{ 2}}](#p3)
-    - [{{ Common Skill DCs by Type}}{{ 2}}](#p3)
-  - #### [{{ Travel Times}}{{ 2}}](#p3)
-    - [{{ Between Major Cities (By Horse)}}{{ 2}}](#p3)
-    - [{{ Travel Pace (Per Day)}}{{ 2}}](#p3)
-    - [{{ Movement Modifiers}}{{ 2}}](#p3)
-  - #### [{{ Common Prices}}{{ 2}}](#p3)
-    - [{{ Lodging & Food (Per Day)}}{{ 2}}](#p3)
-    - [{{ Common Services}}{{ 2}}](#p3)
-    - [{{ Transportation}}{{ 2}}](#p3)
-    - [{{ Common Gear}}{{ 2}}](#p3)
-  - #### [{{ Factions at a Glance}}{{ 3}}](#p4)
-    - [{{ Faction Relations Quick Guide}}{{ 3}}](#p4)
-  - #### [{{ Weather by Season}}{{ 3}}](#p4)
-    - [{{ Thaldros (Temperate Kingdom)}}{{ 3}}](#p4)
-    - [{{ Aethoria (Forested Republic)}}{{ 3}}](#p4)
-    - [{{ Sundara (Desert Nation)}}{{ 3}}](#p4)
-    - [{{ Ashfall Barrens (Volcanic Region)}}{{ 3}}](#p4)
-  - #### [{{ NPC Name Pronunciation}}{{ 3}}](#p4)
-    - [{{ Common Names (Easy)}}{{ 3}}](#p4)
-    - [{{ Elven Names (Medium)}}{{ 3}}](#p4)
-    - [{{ Exotic Names (Hard)}}{{ 3}}](#p4)
-    - [{{ Tips for Consistency}}{{ 3}}](#p4)
-  - #### [{{ Quick Combat Reference}}{{ 4}}](#p5)
-    - [{{ Action Economy}}{{ 4}}](#p5)
-    - [{{ Conditions Quick Reference}}{{ 4}}](#p5)
-    - [{{ Cover}}{{ 4}}](#p5)
-  - #### [{{ Improvisation Aids}}{{ 4}}](#p5)
-    - [{{ Quick NPC Generator (Roll d20 on each)}}{{ 4}}](#p5)
-    - [{{ Quick Plot Hooks (d10)}}{{ 4}}](#p5)
-    - [{{ Tavern Name Generator (d20)}}{{ 4}}](#p5)
-  - #### [{{ Calendar & Holidays}}{{ 4}}](#p5)
-    - [{{ Tirvandor Calendar (12 Months, 30 Days Each)}}{{ 4}}](#p5)
-    - [{{ Major Holidays}}{{ 4}}](#p5)
-  - #### [{{ Critical Success/Failure House Rules}}{{ 5}}](#p6)
-    - [{{ On Attack Rolls}}{{ 5}}](#p6)
-    - [{{ On Skill Checks}}{{ 5}}](#p6)
-    - [{{ On Saving Throws}}{{ 5}}](#p6)
-  - #### [{{ DM Tips for Smooth Sessions}}{{ 5}}](#p6)
-    - [{{ Rule of Cool}}{{ 5}}](#p6)
-    - [{{ The Three Clue Rule}}{{ 5}}](#p6)
-    - [{{ Yes, And…}}{{ 5}}](#p6)
-    - [{{ Pacing Tricks}}{{ 5}}](#p6)
-    - [{{ When to Call for Rolls}}{{ 5}}](#p6)
-  - #### [{{ Major Cities & Regions at a Glance}}{{ 6}}](#p7)
-  - #### [{{ Kaer Thandros (Capital of Thaldros)}}{{ 6}}](#p7)
-    - [{{ At a Glance}}{{ 6}}](#p7)
-    - [{{ Key Locations}}{{ 6}}](#p7)
-    - [{{ Key NPCs}}{{ 6}}](#p7)
-    - [{{ Adventure Hooks}}{{ 6}}](#p7)
-    - [{{ Atmosphere Notes}}{{ 6}}](#p7)
-    - [{{ Travel Times FROM Kaer Thandros}}{{ 6}}](#p7)
-  - #### [{{ Goldreach (Merchant League Capital)}}{{ 6}}](#p7)
-    - [{{ At a Glance}}{{ 6}}](#p7)
-    - [{{ Key Locations}}{{ 6}}](#p7)
-    - [{{ Key NPCs}}{{ 6}}](#p7)
-    - [{{ Adventure Hooks}}{{ 6}}](#p7)
-    - [{{ Atmosphere Notes}}{{ 6}}](#p7)
-    - [{{ Travel Times FROM Goldreach}}{{ 6}}](#p7)
-  - #### [{{ Aethermere (Elven Capital)}}{{ 7}}](#p8)
-    - [{{ At a Glance}}{{ 7}}](#p8)
-    - [{{ Key Locations}}{{ 7}}](#p8)
-    - [{{ Key NPCs}}{{ 7}}](#p8)
-    - [{{ Adventure Hooks}}{{ 7}}](#p8)
-    - [{{ Atmosphere Notes}}{{ 7}}](#p8)
-    - [{{ Travel Times FROM Aethermere}}{{ 7}}](#p8)
-  - #### [{{ Ironhold (Dwarven Stronghold)}}{{ 7}}](#p8)
-    - [{{ At a Glance}}{{ 7}}](#p8)
-    - [{{ Key Locations}}{{ 7}}](#p8)
-    - [{{ Key NPCs}}{{ 7}}](#p8)
-    - [{{ Adventure Hooks}}{{ 7}}](#p8)
-    - [{{ Atmosphere Notes}}{{ 7}}](#p8)
-    - [{{ Travel Times FROM Ironhold}}{{ 7}}](#p8)
-  - #### [{{ Silverpine (Forest Settlement)}}{{ 7}}](#p8)
-    - [{{ At a Glance}}{{ 7}}](#p8)
-    - [{{ Key Locations}}{{ 8}}](#p9)
-    - [{{ Key NPCs}}{{ 8}}](#p9)
-    - [{{ Adventure Hooks}}{{ 8}}](#p9)
-    - [{{ Atmosphere Notes}}{{ 8}}](#p9)
-    - [{{ Travel Times FROM Silverpine}}{{ 8}}](#p9)
-  - #### [{{ Port Myrthen (Major Port City)}}{{ 8}}](#p9)
-    - [{{ At a Glance}}{{ 8}}](#p9)
-    - [{{ Key Locations}}{{ 8}}](#p9)
-    - [{{ Key NPCs}}{{ 8}}](#p9)
-    - [{{ Adventure Hooks}}{{ 8}}](#p9)
-    - [{{ Atmosphere Notes}}{{ 8}}](#p9)
-    - [{{ Travel Times FROM Port Myrthen}}{{ 8}}](#p9)
-  - #### [{{ Sundara (Desert City-State)}}{{ 8}}](#p9)
-    - [{{ At a Glance}}{{ 8}}](#p9)
-    - [{{ Key Locations}}{{ 8}}](#p9)
-    - [{{ Key NPCs}}{{ 8}}](#p9)
-    - [{{ Adventure Hooks}}{{ 9}}](#p10)
-    - [{{ Atmosphere Notes}}{{ 9}}](#p10)
-    - [{{ Travel Times FROM Sundara}}{{ 9}}](#p10)
-  - #### [{{ Ashfall (Volcanic Fortress)}}{{ 9}}](#p10)
-    - [{{ At a Glance}}{{ 9}}](#p10)
-    - [{{ Key Locations}}{{ 9}}](#p10)
-    - [{{ Key NPCs}}{{ 9}}](#p10)
-    - [{{ Adventure Hooks}}{{ 9}}](#p10)
-    - [{{ Atmosphere Notes}}{{ 9}}](#p10)
-    - [{{ Travel Times FROM Ashfall}}{{ 9}}](#p10)
-  - #### [{{ Quick Distance Chart}}{{ 10}}](#p11)
-  - #### [{{ Region-Specific Challenges}}{{ 10}}](#p11)
+- ### [{{ DM Quick Reference Sheet}}{{ 2}}](#p8)
+  - #### [{{ Tirvandor Essentials at a Glance}}{{ 2}}](#p8)
+  - #### [{{ Common DCs}}{{ 2}}](#p8)
+    - [{{ Common Skill DCs by Type}}{{ 2}}](#p8)
+  - #### [{{ Travel Times}}{{ 2}}](#p8)
+    - [{{ Between Major Cities (By Horse)}}{{ 2}}](#p8)
+    - [{{ Travel Pace (Per Day)}}{{ 2}}](#p8)
+    - [{{ Movement Modifiers}}{{ 2}}](#p8)
+  - #### [{{ Common Prices}}{{ 2}}](#p8)
+    - [{{ Lodging & Food (Per Day)}}{{ 2}}](#p8)
+    - [{{ Common Services}}{{ 2}}](#p8)
+    - [{{ Transportation}}{{ 2}}](#p8)
+    - [{{ Common Gear}}{{ 2}}](#p8)
+  - #### [{{ Factions at a Glance}}{{ 3}}](#p9)
+    - [{{ Faction Relations Quick Guide}}{{ 3}}](#p9)
+  - #### [{{ Weather by Season}}{{ 3}}](#p9)
+    - [{{ Thaldros (Temperate Kingdom)}}{{ 3}}](#p9)
+    - [{{ Aethoria (Forested Republic)}}{{ 3}}](#p9)
+    - [{{ Sundara (Desert Nation)}}{{ 3}}](#p9)
+    - [{{ Ashfall Barrens (Volcanic Region)}}{{ 3}}](#p9)
+  - #### [{{ NPC Name Pronunciation}}{{ 3}}](#p9)
+    - [{{ Common Names (Easy)}}{{ 3}}](#p9)
+    - [{{ Elven Names (Medium)}}{{ 3}}](#p9)
+    - [{{ Exotic Names (Hard)}}{{ 3}}](#p9)
+    - [{{ Tips for Consistency}}{{ 3}}](#p9)
+  - #### [{{ Quick Combat Reference}}{{ 4}}](#p10)
+    - [{{ Action Economy}}{{ 4}}](#p10)
+    - [{{ Conditions Quick Reference}}{{ 4}}](#p10)
+    - [{{ Cover}}{{ 4}}](#p10)
+  - #### [{{ Improvisation Aids}}{{ 4}}](#p10)
+    - [{{ Quick NPC Generator (Roll d20 on each)}}{{ 4}}](#p10)
+    - [{{ Quick Plot Hooks (d10)}}{{ 4}}](#p10)
+    - [{{ Tavern Name Generator (d20)}}{{ 4}}](#p10)
+  - #### [{{ Calendar & Holidays}}{{ 4}}](#p10)
+    - [{{ Tirvandor Calendar (12 Months, 30 Days Each)}}{{ 4}}](#p10)
+    - [{{ Major Holidays}}{{ 4}}](#p10)
+  - #### [{{ Critical Success/Failure House Rules}}{{ 5}}](#p11)
+    - [{{ On Attack Rolls}}{{ 5}}](#p11)
+    - [{{ On Skill Checks}}{{ 5}}](#p11)
+    - [{{ On Saving Throws}}{{ 5}}](#p11)
+  - #### [{{ DM Tips for Smooth Sessions}}{{ 5}}](#p11)
+    - [{{ Rule of Cool}}{{ 5}}](#p11)
+    - [{{ The Three Clue Rule}}{{ 5}}](#p11)
+    - [{{ Yes, And…}}{{ 5}}](#p11)
+    - [{{ Pacing Tricks}}{{ 5}}](#p11)
+    - [{{ When to Call for Rolls}}{{ 5}}](#p11)
+  - #### [{{ Major Cities & Regions at a Glance}}{{ 6}}](#p12)
+  - #### [{{ Kaer Thandros (Capital of Thaldros)}}{{ 6}}](#p12)
+    - [{{ At a Glance}}{{ 6}}](#p12)
+    - [{{ Key Locations}}{{ 6}}](#p12)
+    - [{{ Key NPCs}}{{ 6}}](#p12)
+\column
+    - [{{ Adventure Hooks}}{{ 6}}](#p12)
+    - [{{ Atmosphere Notes}}{{ 6}}](#p12)
+    - [{{ Travel Times From Kaer Thandros}}{{ 6}}](#p12)
+  - #### [{{ Goldreach (Merchant League Capital)}}{{ 6}}](#p12)
+    - [{{ At a Glance}}{{ 6}}](#p12)
+    - [{{ Key Locations}}{{ 6}}](#p12)
+    - [{{ Key NPCs}}{{ 6}}](#p12)
+    - [{{ Adventure Hooks}}{{ 6}}](#p12)
+    - [{{ Atmosphere Notes}}{{ 6}}](#p12)
+    - [{{ Travel Times From Goldreach}}{{ 6}}](#p12)
+  - #### [{{ Aethermere (Elven Capital)}}{{ 7}}](#p13)
+    - [{{ At a Glance}}{{ 7}}](#p13)
+    - [{{ Key Locations}}{{ 7}}](#p13)
+    - [{{ Key NPCs}}{{ 7}}](#p13)
+    - [{{ Adventure Hooks}}{{ 7}}](#p13)
+    - [{{ Atmosphere Notes}}{{ 7}}](#p13)
+    - [{{ Travel Times FROM Aethermere}}{{ 7}}](#p13)
+  - #### [{{ Ironhold (Dwarven Stronghold)}}{{ 7}}](#p13)
+    - [{{ At a Glance}}{{ 7}}](#p13)
+    - [{{ Key Locations}}{{ 7}}](#p13)
+    - [{{ Key NPCs}}{{ 7}}](#p13)
+    - [{{ Adventure Hooks}}{{ 7}}](#p13)
+    - [{{ Atmosphere Notes}}{{ 7}}](#p13)
+    - [{{ Travel Times FROM Ironhold}}{{ 7}}](#p13)
+  - #### [{{ Silverpine (Forest Settlement)}}{{ 8}}](#p14)
+    - [{{ At a Glance}}{{ 8}}](#p14)
+    - [{{ Key Locations}}{{ 8}}](#p14)
+    - [{{ Key NPCs}}{{ 8}}](#p14)
+    - [{{ Adventure Hooks}}{{ 8}}](#p14)
+    - [{{ Atmosphere Notes}}{{ 8}}](#p14)
+    - [{{ Travel Times FROM Silverpine}}{{ 8}}](#p14)
+  - #### [{{ Port Myrthen (Major Port City)}}{{ 8}}](#p14)
+    - [{{ At a Glance}}{{ 8}}](#p14)
+    - [{{ Key Locations}}{{ 8}}](#p14)
+    - [{{ Key NPCs}}{{ 8}}](#p14)
+    - [{{ Adventure Hooks}}{{ 8}}](#p14)
+    - [{{ Atmosphere Notes}}{{ 8}}](#p14)
+    - [{{ Travel Times FROM Port Myrthen}}{{ 8}}](#p14)
+  - #### [{{ Sundara (Desert City-State)}}{{ 8}}](#p14)
+    - [{{ At a Glance}}{{ 8}}](#p14)
+    - [{{ Key Locations}}{{ 9}}](#p15)
+    - [{{ Key NPCs}}{{ 9}}](#p15)
+    - [{{ Adventure Hooks}}{{ 9}}](#p15)
+    - [{{ Atmosphere Notes}}{{ 9}}](#p15)
+    - [{{ Travel Times FROM Sundara}}{{ 9}}](#p15)
+  - #### [{{ Ashfall (Volcanic Fortress)}}{{ 9}}](#p15)
+    - [{{ At a Glance}}{{ 9}}](#p15)
+    - [{{ Key Locations}}{{ 9}}](#p15)
+    - [{{ Key NPCs}}{{ 9}}](#p15)
+    - [{{ Adventure Hooks}}{{ 9}}](#p15)
+    - [{{ Atmosphere Notes}}{{ 9}}](#p15)
+    - [{{ Travel Times FROM Ashfall}}{{ 9}}](#p15)
+  - #### [{{ Quick Distance Chart}}{{ 9}}](#p15)
+  - #### [{{ Region-Specific Challenges}}{{ 10}}](#p16)
 }}
-
 {{skipCounting}}
 \page
 {{toc,wide
 # Contents
-- ### [{{ Faction Relationship Map}}{{ 11}}](#p12)
-  - #### [{{ Political Landscape of Tirvandor}}{{ 11}}](#p12)
-  - #### [{{ Faction Power Levels}}{{ 11}}](#p12)
-  - #### [{{ Alliance Network}}{{ 11}}](#p12)
-    - [{{ Strong Alliances (Trusted Partners)}}{{ 11}}](#p12)
-    - [{{ Weak Alliances (Convenience, Not Trust)}}{{ 11}}](#p12)
-  - #### [{{ Hostile Relationships}}{{ 12}}](#p13)
-    - [{{ Open Conflicts}}{{ 12}}](#p13)
-    - [{{ Cold Wars (Distrust & Subtle Opposition)}}{{ 12}}](#p13)
-  - #### [{{ Neutral Relationships}}{{ 12}}](#p13)
-  - #### [{{ Faction Goals & Conflicts}}{{ 12}}](#p13)
-    - [{{ Iron Council}}{{ 12}}](#p13)
-    - [{{ Merchant League}}{{ 12}}](#p13)
-    - [{{ Aethorian Council}}{{ 13}}](#p14)
-    - [{{ The Syndicate}}{{ 13}}](#p14)
-    - [{{ Ashwardens}}{{ 13}}](#p14)
-    - [{{ Ironspine Rangers}}{{ 13}}](#p14)
-    - [{{ Forgebound Guild}}{{ 13}}](#p14)
-    - [{{ Druidic Circle}}{{ 13}}](#p14)
-  - #### [{{ Visual Relationship Map}}{{ 13}}](#p14)
-  - #### [{{ Key Political Figures by Faction}}{{ 13}}](#p14)
-  - #### [{{ Current Political Tensions}}{{ 14}}](#p15)
-    - [{{ Hot Spots (Could Explode Soon)}}{{ 14}}](#p15)
-    - [{{ Simmering Issues (Long-Term Problems)}}{{ 14}}](#p15)
-  - #### [{{ Using Factions in Gameplay}}{{ 14}}](#p15)
-  - #### [{{ Quick Faction Reference}}{{ 14}}](#p15)
-- ### [{{ Monster Stat Blocks (Condensed)}}{{ 15}}](#p16)
-  - #### [{{ Quick Combat Reference for Tirvandor}}{{ 15}}](#p16)
-  - #### [{{ How to Use}}{{ 15}}](#p16)
-  - #### [{{ CR 0-1 (Weak Enemies)}}{{ 15}}](#p16)
-    - [{{ Thaldros Conscript | CR 1/8}}{{ 15}}](#p16)
-    - [{{ Goblin Scout | CR 1/4}}{{ 15}}](#p16)
-    - [{{ Bandit | CR 1/8}}{{ 15}}](#p16)
-    - [{{ Cultist | CR 1/8}}{{ 15}}](#p16)
-    - [{{ Thaldros Soldier | CR 1/2}}{{ 15}}](#p16)
-    - [{{ Dire Wolf | CR 1}}{{ 15}}](#p16)
-    - [{{ Giant Spider | CR 1}}{{ 15}}](#p16)
-  - #### [{{ CR 2-3 (Moderate Enemies)}}{{ 15}}](#p16)
-    - [{{ Iron Legion Enforcer | CR 2}}{{ 15}}](#p16)
-    - [{{ Ogre | CR 2}}{{ 15}}](#p16)
-    - [{{ Owlbear | CR 3}}{{ 15}}](#p16)
-    - [{{ Veteran Soldier | CR 3}}{{ 15}}](#p16)
-    - [{{ Minotaur | CR 3}}{{ 15}}](#p16)
-  - #### [{{ CR 4-6 (Tough Enemies)}}{{ 16}}](#p17)
-    - [{{ Royal Guard Elite | CR 4}}{{ 16}}](#p17)
-    - [{{ Ettin | CR 4}}{{ 16}}](#p17)
-    - [{{ Shambling Mound | CR 5}}{{ 16}}](#p17)
-    - [{{ Hill Giant | CR 5}}{{ 16}}](#p17)
-    - [{{ Troll | CR 5}}{{ 16}}](#p17)
-    - [{{ Wyvern | CR 6}}{{ 16}}](#p17)
-    - [{{ Young Black Dragon | CR 7}}{{ 16}}](#p17)
-  - #### [{{ CR 7-10 (Deadly Enemies)}}{{ 16}}](#p17)
-    - [{{ Stone Giant | CR 7}}{{ 16}}](#p17)
-    - [{{ Assassin | CR 8}}{{ 16}}](#p17)
-    - [{{ Frost Giant | CR 8}}{{ 16}}](#p17)
-    - [{{ Young Red Dragon | CR 10}}{{ 16}}](#p17)
-    - [{{ Aboleth | CR 10}}{{ 16}}](#p17)
-  - #### [{{ CR 11-15 (Boss Enemies)}}{{ 17}}](#p18)
-    - [{{ Behir | CR 11}}{{ 17}}](#p18)
-    - [{{ Efreeti | CR 11}}{{ 17}}](#p18)
-    - [{{ Archmage | CR 12}}{{ 17}}](#p18)
-    - [{{ Adult Black Dragon | CR 14}}{{ 17}}](#p18)
-    - [{{ Adult Red Dragon | CR 17}}{{ 17}}](#p18)
-  - #### [{{ CR 16-20 (Legendary Enemies)}}{{ 17}}](#p18)
-    - [{{ Iron Golem | CR 16}}{{ 17}}](#p18)
-    - [{{ Balor | CR 19}}{{ 17}}](#p18)
-    - [{{ Ancient Red Dragon | CR 24}}{{ 17}}](#p18)
-  - #### [{{ Monsters by Region}}{{ 18}}](#p19)
-    - [{{ Kaer Thandros (Military)}}{{ 18}}](#p19)
-    - [{{ Goldreach (Urban/Criminal)}}{{ 18}}](#p19)
-    - [{{ Aethermere (Magical)}}{{ 18}}](#p19)
-    - [{{ Ironhold (Underground)}}{{ 18}}](#p19)
-    - [{{ Wilderness}}{{ 18}}](#p19)
-    - [{{ Mountains}}{{ 18}}](#p19)
-    - [{{ Volcanic (Ashfall)}}{{ 18}}](#p19)
-    - [{{ Dragons}}{{ 18}}](#p19)
-  - #### [{{ Quick Combat Tips}}{{ 18}}](#p19)
-- ### [{{ Skill Challenge Templates}}{{ 19}}](#p20)
-  - #### [{{ Pre-Built Challenges for Common Scenarios}}{{ 19}}](#p20)
-  - #### [{{ How Skill Challenges Work}}{{ 19}}](#p20)
-  - #### [{{ Chase Scenes}}{{ 19}}](#p20)
-    - [{{ Urban Chase (Thaldros Streets)}}{{ 19}}](#p20)
-  - #### [{{ Heist / Infiltration}}{{ 19}}](#p20)
-    - [{{ Infiltrate Noble’s Estate}}{{ 19}}](#p20)
-  - #### [{{ Negotiation / Diplomacy}}{{ 20}}](#p21)
-    - [{{ Broker Peace Between Factions}}{{ 20}}](#p21)
-  - #### [{{ Wilderness Survival / Travel}}{{ 20}}](#p21)
-    - [{{ Cross the Ashfall Barrens}}{{ 20}}](#p21)
-  - #### [{{ Puzzle / Ritual Solving}}{{ 20}}](#p21)
-    - [{{ Decipher Ancient Elven Ritual}}{{ 20}}](#p21)
-  - #### [{{ Investigation / Mystery}}{{ 21}}](#p22)
-    - [{{ Solve the Murder Mystery}}{{ 21}}](#p22)
-  - #### [{{ Social Mingling / Gathering Information}}{{ 21}}](#p22)
-    - [{{ Work the Noble’s Ball}}{{ 21}}](#p22)
-  - #### [{{ Disaster Response}}{{ 21}}](#p22)
-    - [{{ Save Village from Flash Flood}}{{ 21}}](#p22)
-  - #### [{{ Performance / Distraction}}{{ 22}}](#p23)
-    - [{{ Create Distraction for Heist Team}}{{ 22}}](#p23)
-}}
 
+  - #### [{{ Faction Relationship Map}}{{ 10}}](#p16)
+    - [{{ Political Landscape of Tirvandor}}{{ 10}}](#p16)
+    - [{{ Faction Power Levels}}{{ 10}}](#p16)
+  - #### [{{ Alliance Network}}{{ 10}}](#p16)
+    - [{{ Strong Alliances (Trusted Partners)}}{{ 10}}](#p16)
+    - [{{ Weak Alliances (Convenience, Not Trust)}}{{ 10}}](#p16)
+  - #### [{{ Hostile Relationships}}{{ 11}}](#p17)
+    - [{{ Open Conflicts}}{{ 11}}](#p17)
+    - [{{ Cold Wars (Distrust & Subtle Opposition)}}{{ 11}}](#p17)
+  - #### [{{ Neutral Relationships}}{{ 11}}](#p17)
+  - #### [{{ Faction Goals & Conflicts}}{{ 11}}](#p17)
+    - [{{ Iron Council}}{{ 11}}](#p17)
+    - [{{ Merchant League}}{{ 11}}](#p17)
+    - [{{ Aethorian Council}}{{ 12}}](#p18)
+    - [{{ The Syndicate}}{{ 12}}](#p18)
+    - [{{ Ashwardens}}{{ 12}}](#p18)
+    - [{{ Ironspine Rangers}}{{ 12}}](#p18)
+    - [{{ Forgebound Guild}}{{ 12}}](#p18)
+    - [{{ Druidic Circle}}{{ 12}}](#p18)
+  - #### [{{ Visual Relationship Map}}{{ 12}}](#p18)
+  - #### [{{ Key Political Figures by Faction}}{{ 12}}](#p18)
+  - #### [{{ Current Political Tensions}}{{ 13}}](#p19)
+    - [{{ Hot Spots (Could Explode Soon)}}{{ 13}}](#p19)
+    - [{{ Simmering Issues (Long-Term Problems)}}{{ 13}}](#p19)
+  - #### [{{ Using Factions in Gameplay}}{{ 13}}](#p19)
+  - #### [{{ Quick Faction Reference}}{{ 13}}](#p19)
+- ### [{{ Monster Stat Blocks (Condensed)}}{{ 14}}](#p20)
+  - #### [{{ Quick Combat Reference for Tirvandor}}{{ 14}}](#p20)
+  - #### [{{ How to Use}}{{ 14}}](#p20)
+  - #### [{{ CR 0-1 (Weak Enemies)}}{{ 14}}](#p20)
+    - [{{ Thaldros Conscript | CR 1/8}}{{ 14}}](#p20)
+    - [{{ Goblin Scout | CR 1/4}}{{ 14}}](#p20)
+    - [{{ Bandit | CR 1/8}}{{ 14}}](#p20)
+    - [{{ Cultist | CR 1/8}}{{ 14}}](#p20)
+    - [{{ Thaldros Soldier | CR 1/2}}{{ 14}}](#p20)
+    - [{{ Dire Wolf | CR 1}}{{ 14}}](#p20)
+    - [{{ Giant Spider | CR 1}}{{ 14}}](#p20)
+  - #### [{{ CR 2-3 (Moderate Enemies)}}{{ 14}}](#p20)
+    - [{{ Iron Legion Enforcer | CR 2}}{{ 14}}](#p20)
+    - [{{ Ogre | CR 2}}{{ 14}}](#p20)
+    - [{{ Owlbear | CR 3}}{{ 14}}](#p20)
+    - [{{ Veteran Soldier | CR 3}}{{ 14}}](#p20)
+    - [{{ Minotaur | CR 3}}{{ 14}}](#p20)
+  - #### [{{ CR 4-6 (Tough Enemies)}}{{ 15}}](#p21)
+    - [{{ Royal Guard Elite | CR 4}}{{ 15}}](#p21)
+    - [{{ Ettin | CR 4}}{{ 15}}](#p21)
+    - [{{ Shambling Mound | CR 5}}{{ 15}}](#p21)
+    - [{{ Hill Giant | CR 5}}{{ 15}}](#p21)
+    - [{{ Troll | CR 5}}{{ 15}}](#p21)
+    - [{{ Wyvern | CR 6}}{{ 15}}](#p21)
+\column
+    - [{{ Young Black Dragon | CR 7}}{{ 15}}](#p21)
+  - #### [{{ CR 7-10 (Deadly Enemies)}}{{ 15}}](#p21)
+    - [{{ Stone Giant | CR 7}}{{ 15}}](#p21)
+    - [{{ Assassin | CR 8}}{{ 15}}](#p21)
+    - [{{ Frost Giant | CR 8}}{{ 15}}](#p21)
+    - [{{ Young Red Dragon | CR 10}}{{ 15}}](#p21)
+    - [{{ Aboleth | CR 10}}{{ 15}}](#p21)
+  - #### [{{ CR 11-15 (Boss Enemies)}}{{ 16}}](#p22)
+    - [{{ Behir | CR 11}}{{ 16}}](#p22)
+    - [{{ Efreeti | CR 11}}{{ 16}}](#p22)
+    - [{{ Archmage | CR 12}}{{ 16}}](#p22)
+    - [{{ Adult Black Dragon | CR 14}}{{ 16}}](#p22)
+    - [{{ Adult Red Dragon | CR 17}}{{ 16}}](#p22)
+  - #### [{{ CR 16-20 (Legendary Enemies)}}{{ 16}}](#p22)
+    - [{{ Iron Golem | CR 16}}{{ 16}}](#p22)
+    - [{{ Balor | CR 19}}{{ 16}}](#p22)
+    - [{{ Ancient Red Dragon | CR 24}}{{ 16}}](#p22)
+  - #### [{{ Monsters by Region}}{{ 17}}](#p23)
+    - [{{ Kaer Thandros (Military)}}{{ 17}}](#p23)
+    - [{{ Goldreach (Urban/Criminal)}}{{ 17}}](#p23)
+    - [{{ Aethermere (Magical)}}{{ 17}}](#p23)
+    - [{{ Ironhold (Underground)}}{{ 17}}](#p23)
+    - [{{ Wilderness}}{{ 17}}](#p23)
+    - [{{ Mountains}}{{ 17}}](#p23)
+    - [{{ Volcanic (Ashfall)}}{{ 17}}](#p23)
+    - [{{ Dragons}}{{ 17}}](#p23)
+  - #### [{{ Quick Combat Tips}}{{ 17}}](#p23)
+- ### [{{ Skill Challenge Templates}}{{ 18}}](#p24)
+  - #### [{{ Pre-Built Challenges for Common Scenarios}}{{ 18}}](#p24)
+  - #### [{{ How Skill Challenges Work}}{{ 18}}](#p24)
+  - #### [{{ Chase Scenes}}{{ 18}}](#p24)
+    - [{{ Urban Chase (Thaldros Streets)}}{{ 18}}](#p24)
+  - #### [{{ Heist / Infiltration}}{{ 18}}](#p24)
+    - [{{ Infiltrate Noble’s Estate}}{{ 18}}](#p24)
+  - #### [{{ Negotiation / Diplomacy}}{{ 19}}](#p25)
+    - [{{ Broker Peace Between Factions}}{{ 19}}](#p25)
+  - #### [{{ Wilderness Survival / Travel}}{{ 19}}](#p25)
+    - [{{ Cross the Ashfall Barrens}}{{ 19}}](#p25)
+  - #### [{{ Puzzle / Ritual Solving}}{{ 19}}](#p25)
+    - [{{ Decipher Ancient Elven Ritual}}{{ 19}}](#p25)
+  - #### [{{ Investigation / Mystery}}{{ 20}}](#p26)
+    - [{{ Solve the Murder Mystery}}{{ 20}}](#p26)
+  - #### [{{ Social Mingling / Gathering Information}}{{ 20}}](#p26)
+    - [{{ Work the Noble’s Ball}}{{ 20}}](#p26)
+  - #### [{{ Disaster Response}}{{ 20}}](#p26)
+    - [{{ Save Village from Flash Flood}}{{ 20}}](#p26)
+  - #### [{{ Performance / Distraction}}{{ 21}}](#p27)  
+    - [{{ Create Distraction for Heist Team}}{{ 21}}](#p27)
+}}
 {{skipCounting}}
 \page
-
-{{toc,wide
-# Contents
-  - #### [{{ Repair / Construction}}{{ 22}}](#p23)
-    - [{{ Repair Collapsing Bridge While Refugees Cross}}{{ 22}}](#p23)
-  - #### [{{ DM Tips for Skill Challenges}}{{ 22}}](#p23)
-  - #### [{{ Blank Template}}{{ 23}}](#p24)
-- ### [{{ Tirvandor Session Tracking Sheets}}{{ 24}}](#p25)
-  - #### [{{ DM Tools for Recording and Planning Sessions}}{{ 24}}](#p25)
-  - #### [{{ Why Track Sessions?}}{{ 24}}](#p25)
-    - [{{ Benefits:}}{{ 24}}](#p25)
-    - [{{ What to Track:}}{{ 24}}](#p25)
-- ### [{{ Session Tracking Templates}}{{ 25}}](#p26)
-- ### [{{ Template 1: Pre-Session Planning}}{{ 25}}](#p26)
-- ### [{{ Template 2: During-Session Notes}}{{ 26}}](#p27)
-- ### [{{ Template 3: Post-Session Recap}}{{ 27}}](#p28)
-- ### [{{ Template 4: NPC Tracker}}{{ 28}}](#p29)
-- ### [{{ Template 5: Loot & Treasure Log}}{{ 29}}](#p30)
-- ### [{{ Template 6: Campaign Milestone Tracker}}{{ 30}}](#p31)
-- ### [{{ Tracking Best Practices}}{{ 31}}](#p32)
-  - #### [{{ During the Session:}}{{ 31}}](#p32)
-  - #### [{{ After the Session:}}{{ 31}}](#p32)
-  - #### [{{ Digital Alternatives}}{{ 31}}](#p32)
-  - #### [{{ Option 1: Google Docs}}{{ 31}}](#p32)
-  - #### [{{ Option 2: Notion / Obsidian}}{{ 31}}](#p32)
-  - #### [{{ Option 3: World Anvil}}{{ 31}}](#p32)
-  - #### [{{ Option 4: Simple Text File}}{{ 31}}](#p32)
-  - #### [{{ Mobile Tracking}}{{ 31}}](#p32)
-  - #### [{{ Quick Notes on Phone:}}{{ 31}}](#p32)
-- ### [{{ Timeline Visual}}{{ 32}}](#p33)
-  - #### [{{ History of Tirvandor at a Glance}}{{ 32}}](#p33)
-  - #### [{{ Calendar System}}{{ 32}}](#p33)
-  - #### [{{ Visual Timeline}}{{ 32}}](#p33)
-  - #### [{{ Age of Myth (??-15,000 BW)}}{{ 32}}](#p33)
-    - [{{ Major Periods}}{{ 32}}](#p33)
-  - #### [{{ Age of Dawn (6,000-3,000 BW)}}{{ 32}}](#p33)
-    - [{{ Timeline}}{{ 32}}](#p33)
-    - [{{ Key Developments}}{{ 32}}](#p33)
-  - #### [{{ The Worldrend (Year 0 CR)}}{{ 32}}](#p33)
-    - [{{ What Happened}}{{ 32}}](#p33)
-    - [{{ Theories About the Cause}}{{ 32}}](#p33)
-    - [{{ Immediate Effects}}{{ 33}}](#p34)
-    - [{{ The New Geography}}{{ 33}}](#p34)
-  - #### [{{ Age of Strife (0-600 CR)}}{{ 33}}](#p34)
-    - [{{ Timeline}}{{ 33}}](#p34)
-  - #### [{{ Age of Kingdoms (600-1247 CR)}}{{ 33}}](#p34)
-    - [{{ Major Periods}}{{ 33}}](#p34)
-  - #### [{{ Key Events (600-1247 CR)}}{{ 34}}](#p35)
-  - #### [{{ Campaign Start Points}}{{ 34}}](#p35)
-    - [{{ Blood & Coin Campaign}}{{ 34}}](#p35)
-    - [{{ Shattered Oaths Campaign}}{{ 34}}](#p35)
-    - [{{ Custom Campaigns}}{{ 34}}](#p35)
-  - #### [{{ Important Dates to Remember}}{{ 34}}](#p35)
-  - #### [{{ Generational Perspective}}{{ 35}}](#p36)
-  - #### [{{ Using the Timeline in Play}}{{ 35}}](#p36)
-  - #### [{{ Quick Reference Chart}}{{ 35}}](#p36)
-- ### [{{ Tirvandor Campaign Dashboard}}{{ 36}}](#p37)
-  - #### [{{ At-a-Glance Campaign Management}}{{ 36}}](#p37)
-  - #### [{{ What is the Campaign Dashboard?}}{{ 36}}](#p37)
-- ### [{{ Dashboard Templates}}{{ 37}}](#p38)
-- ### [{{ Template 1: Master Campaign Dashboard}}{{ 37}}](#p38)
-- ### [{{ Template 2: Quick Reference Dashboard}}{{ 38}}](#p39)
-- ### [{{ Template 3: Blood & Coin Specific Dashboard}}{{ 39}}](#p40)
-- ### [{{ Template 4: Shattered Oaths Specific Dashboard}}{{ 40}}](#p41)
-- ### [{{ Template 5: Visual Quest Tracker}}{{ 41}}](#p42)
-}}
-
-{{skipCounting}}
-\page
-
 {{toc,wide
 # Contents
 
-- ### [{{ How to Use the Dashboard}}{{ 42}}](#p43)
-  - #### [{{ Setup:}}{{ 42}}](#p43)
-  - #### [{{ During Play:}}{{ 42}}](#p43)
-  - #### [{{ Between Sessions:}}{{ 42}}](#p43)
-  - #### [{{ Long-Term Use:}}{{ 42}}](#p43)
-- ### [{{ Customization Ideas}}{{ 42}}](#p43)
-  - #### [{{ Add Your Own Sections:}}{{ 42}}](#p43)
-  - #### [{{ Visual Enhancements:}}{{ 42}}](#p43)
-- ### [{{ Digital Dashboard Options}}{{ 42}}](#p43)
-  - #### [{{ Spreadsheet (Excel/Google Sheets):}}{{ 42}}](#p43)
-  - #### [{{ Notion/Obsidian:}}{{ 42}}](#p43)
-  - #### [{{ Roll20/Foundry VTT:}}{{ 42}}](#p43)
-- ### [{{ Dashboard Best Practices}}{{ 43}}](#p44)
-  - #### [{{ Update Frequency:}}{{ 43}}](#p44)
-  - #### [{{ What to Track vs. What to Skip:}}{{ 43}}](#p44)
-  - #### [{{ Keep it Simple:}}{{ 43}}](#p44)
-- ### [{{ Session Zero Materials}}{{ 44}}](#p45)
-  - #### [{{ Starting Your Tirvandor Campaign}}{{ 44}}](#p45)
-  - #### [{{ World Primer (Player Handout)}}{{ 44}}](#p45)
-    - [{{ Welcome to Tirvandor: The Realm of Deep Magic}}{{ 44}}](#p45)
-  - #### [{{ The World at a Glance}}{{ 44}}](#p45)
-    - [{{ Geography}}{{ 44}}](#p45)
-  - #### [{{ The Political Situation}}{{ 44}}](#p45)
-  - #### [{{ Major Factions}}{{ 44}}](#p45)
-  - #### [{{ Themes & Tone}}{{ 45}}](#p46)
-  - #### [{{ Character Creation Guidelines}}{{ 45}}](#p46)
-    - [{{ Allowed Content}}{{ 45}}](#p46)
-    - [{{ Race Considerations}}{{ 45}}](#p46)
-    - [{{ Starting Locations (Choose One)}}{{ 45}}](#p46)
-    - [{{ Backgrounds & Connections}}{{ 46}}](#p47)
-  - #### [{{ House Rules & Expectations}}{{ 46}}](#p47)
-    - [{{ Table Rules}}{{ 46}}](#p47)
-    - [{{ Gameplay Expectations}}{{ 46}}](#p47)
-    - [{{ Safety Tools}}{{ 46}}](#p47)
-  - #### [{{ Session Zero Agenda}}{{ 46}}](#p47)
-    - [{{ Part 1: World Introduction (30 min)}}{{ 46}}](#p47)
-    - [{{ Part 2: Character Creation (60 min)}}{{ 46}}](#p47)
-    - [{{ Part 3: Safety & Expectations (15 min)}}{{ 46}}](#p47)
-    - [{{ Part 4: Campaign Hook (15 min)}}{{ 47}}](#p48)
-    - [{{ Part 5: Final Questions (10 min)}}{{ 47}}](#p48)
-  - #### [{{ Pre-Session Homework}}{{ 47}}](#p48)
-  - #### [{{ Party Composition Guidance}}{{ 47}}](#p48)
-  - #### [{{ Character Introductions}}{{ 47}}](#p48)
-  - #### [{{ Sample Character Connections}}{{ 47}}](#p48)
-  - #### [{{ Campaign-Specific Information}}{{ 48}}](#p49)
-    - [{{ [DM Fills In Campaign Name]}}{{ 48}}](#p49)
-  - #### [{{ Session Zero Checklist}}{{ 48}}](#p49)
-  - #### [{{ You’re Ready to Play!}}{{ 48}}](#p49)
-- ### [{{ Appendix A: Randomn Encounter Tables}}{{ 49}}](#p50)
-  - #### [{{ For Improvisation & Dynamic Gameplay}}{{ 49}}](#p50)
-  - #### [{{ How To Use These Tables}}{{ 49}}](#p50)
-  - #### [{{ Urban Encounters}}{{ 49}}](#p50)
-    - [{{ Kaer Thandros (Capital City - Thaldros)}}{{ 49}}](#p50)
-    - [{{ Goldreach (Merchant Hub)}}{{ 50}}](#p51)
-    - [{{ Aethermere (Elven Capital)}}{{ 50}}](#p51)
-  - #### [{{ Wilderness Encounters}}{{ 51}}](#p52)
-    - [{{ Forests & Woodlands}}{{ 51}}](#p52)
-    - [{{ Mountains & Hills}}{{ 51}}](#p52)
-    - [{{ Desert (Sundara Region)}}{{ 52}}](#p53)
-  - #### [{{ Road Encounters (Main Highways)}}{{ 52}}](#p53)
-  - #### [{{ Dungeon Encounters}}{{ 52}}](#p53)
-  - #### [{{ Social Encounters (Taverns & Markets)}}{{ 52}}](#p53)
-  - #### [{{ Naval/Coastal Encounters}}{{ 53}}](#p54)
-  - #### [{{ Random NPC Generator}}{{ 53}}](#p54)
-    - [{{ Name (d20)}}{{ 53}}](#p54)
-    - [{{ Occupation (d20)}}{{ 53}}](#p54)
-    - [{{ Personality Quirk (d20)}}{{ 53}}](#p54)
-    - [{{ Secret (d12)}}{{ 54}}](#p55)
-  - #### [{{ Plot Hooks (d20)}}{{ 54}}](#p55)
-  - #### [{{ Dm Tips For Using These Tables}}{{ 54}}](#p55)
+  - #### [{{ Repair / Construction}}{{ 21}}](#p27)
+    - [{{ Repair Collapsing Bridge While Refugees Cross}}{{ 21}}](#p27)
+  - #### [{{ DM Tips for Skill Challenges}}{{ 21}}](#p27)
+  - #### [{{ Blank Template}}{{ 22}}](#p28)
+- ### [{{ Tirvandor Session Tracking Sheets}}{{ 23}}](#p29)
+  - #### [{{ DM Tools for Recording and Planning Sessions}}{{ 23}}](#p29)
+  - #### [{{ Why Track Sessions?}}{{ 23}}](#p29)
+    - [{{ Benefits:}}{{ 23}}](#p29)
+    - [{{ What to Track:}}{{ 23}}](#p29)
+- ### [{{ Session Tracking Templates}}{{ 24}}](#p30)
+- ### [{{ Template 1: Pre-Session Planning}}{{ 24}}](#p30)
+- ### [{{ Template 2: During-Session Notes}}{{ 25}}](#p31)
+- ### [{{ Template 3: Post-Session Recap}}{{ 26}}](#p32)
+- ### [{{ Template 4: NPC Tracker}}{{ 27}}](#p33)
+- ### [{{ Template 5: Loot & Treasure Log}}{{ 28}}](#p34)
+- ### [{{ Template 6: Campaign Milestone Tracker}}{{ 29}}](#p35)
+- ### [{{ Tracking Best Practices}}{{ 30}}](#p36)
+  - #### [{{ During the Session:}}{{ 30}}](#p36)
+  - #### [{{ After the Session:}}{{ 30}}](#p36)
+  - #### [{{ Digital Alternatives}}{{ 30}}](#p36)
+  - #### [{{ Option 1: Google Docs}}{{ 30}}](#p36)
+  - #### [{{ Option 2: Notion / Obsidian}}{{ 30}}](#p36)
+  - #### [{{ Option 3: World Anvil}}{{ 30}}](#p36)
+  - #### [{{ Option 4: Simple Text File}}{{ 30}}](#p36)
+  - #### [{{ Mobile Tracking}}{{ 30}}](#p36)
+  - #### [{{ Quick Notes on Phone:}}{{ 30}}](#p36)
+- ### [{{ Timeline Visual}}{{ 31}}](#p37)
+  - #### [{{ Visual Timeline}}{{ 31}}](#p37)
+  - #### [{{ History of Tirvandor at a Glance}}{{ 31}}](#p37)
+  - #### [{{ Calendar System}}{{ 31}}](#p37)
+\column
+  - #### [{{ Age of Myth (??-15,000 BW)}}{{ 31}}](#p37)
+    - [{{ Major Periods}}{{ 31}}](#p37)
+  - #### [{{ Age of Dawn (6,000-3,000 BW)}}{{ 31}}](#p37)
+    - [{{ Timeline}}{{ 31}}](#p37)
+    - [{{ Key Developments}}{{ 31}}](#p37)
+  - #### [{{ The Worldrend (Year 0 CR)}}{{ 31}}](#p37)
+    - [{{ What Happened}}{{ 31}}](#p37)
+    - [{{ Theories About the Cause}}{{ 32}}](#p38)
+    - [{{ Immediate Effects}}{{ 32}}](#p38)
+    - [{{ The New Geography}}{{ 32}}](#p38)
+  - #### [{{ Age of Strife (0-600 CR)}}{{ 32}}](#p38)
+    - [{{ Timeline}}{{ 32}}](#p38)
+  - #### [{{ Age of Kingdoms (600-1247 CR)}}{{ 32}}](#p38)
+    - [{{ Major Periods}}{{ 32}}](#p38)
+  - #### [{{ Key Events (600-1247 CR)}}{{ 33}}](#p39)
+  - #### [{{ Campaign Start Points}}{{ 33}}](#p39)
+    - [{{ Blood & Coin Campaign}}{{ 33}}](#p39)
+    - [{{ Shattered Oaths Campaign}}{{ 33}}](#p39)
+    - [{{ Custom Campaigns}}{{ 33}}](#p39)
+  - #### [{{ Important Dates to Remember}}{{ 33}}](#p39)
+  - #### [{{ Generational Perspective}}{{ 34}}](#p40)
+  - #### [{{ Using the Timeline in Play}}{{ 34}}](#p40)
+  - #### [{{ Quick Reference Chart}}{{ 34}}](#p40)
+- ### [{{ Tirvandor Campaign Dashboard}}{{ 35}}](#p41)
+  - #### [{{ At-a-Glance Campaign Management}}{{ 35}}](#p41)
+  - #### [{{ What is the Campaign Dashboard?}}{{ 35}}](#p41)
+- ### [{{ Dashboard Templates}}{{ 36}}](#p42)
+- ### [{{ Template 1: Master Campaign Dashboard}}{{ 36}}](#p42)
+- ### [{{ Template 2: Quick Reference Dashboard}}{{ 37}}](#p43)
+- ### [{{ Template 3: Blood & Coin Specific Dashboard}}{{ 38}}](#p44)
+- ### [{{ Template 4: Shattered Oaths Specific Dashboard}}{{ 39}}](#p45)
+- ### [{{ Template 5: Visual Quest Tracker}}{{ 40}}](#p46)
 }}
-
 {{skipCounting}}
 \page
-
 {{toc,wide
 # Contents
 
-- ### [{{ Appendix B. Magic Items}}{{ 55}}](#p56)
-  - #### [{{ Loot Tables by Level}}{{ 59}}](#p60)
-  - #### [{{ Treasure Generation for Tirvandor}}{{ 59}}](#p60)
-  - #### [{{ How to Use These Tables}}{{ 59}}](#p60)
-  - #### [{{ Levels 1-4 (Common Treasure)}}{{ 59}}](#p60)
-    - [{{ Individual Enemies}}{{ 59}}](#p60)
-    - [{{ Small Hoard (Bandit Camp, Goblin Lair)}}{{ 59}}](#p60)
-    - [{{ Medium Hoard (Beast Lair, Small Dungeon)}}{{ 59}}](#p60)
-    - [{{ Major Hoard (Dungeon Boss, Young Dragon)}}{{ 59}}](#p60)
-  - #### [{{ Levels 5-10 (Uncommon Treasure)}}{{ 60}}](#p61)
-    - [{{ Individual Enemies}}{{ 60}}](#p61)
-    - [{{ Small Hoard (Cultist Base, Organized Bandits)}}{{ 60}}](#p61)
-    - [{{ Medium Hoard (Underground Complex, Monster Lair)}}{{ 60}}](#p61)
-    - [{{ Major Hoard (Adult Dragon, Major Villain)}}{{ 60}}](#p61)
-  - #### [{{ Levels 11-16 (Rare Treasure)}}{{ 60}}](#p61)
-    - [{{ Individual Enemies}}{{ 60}}](#p61)
-    - [{{ Small Hoard (Powerful Monster, Evil Temple)}}{{ 60}}](#p61)
-    - [{{ Medium Hoard (Ancient Lich, Vampire Lord)}}{{ 60}}](#p61)
-    - [{{ Major Hoard (Ancient Dragon, Archvillain)}}{{ 60}}](#p61)
-  - #### [{{ Levels 17-20 (Legendary Treasure)}}{{ 60}}](#p61)
-    - [{{ Individual Enemies}}{{ 60}}](#p61)
-    - [{{ Small Hoard (Demigod, Pit Fiend)}}{{ 61}}](#p62)
-    - [{{ Medium Hoard (Lesser Deity Shrine, Planar Vault)}}{{ 61}}](#p62)
-    - [{{ Major Hoard (God’s Treasury, World-Ending Threat)}}{{ 61}}](#p62)
-  - #### [{{ Magic Item Tables}}{{ 61}}](#p62)
-    - [{{ Table A: Minor Uncommon Items (Levels 1-4)}}{{ 61}}](#p62)
-    - [{{ Table B: Uncommon Items (Levels 5-10)}}{{ 61}}](#p62)
-    - [{{ Table C: Rare Items (Levels 5-10)}}{{ 61}}](#p62)
-    - [{{ Table D: Rare Items (Levels 11-16)}}{{ 62}}](#p63)
-    - [{{ Table E: Very Rare Items (Levels 11-16)}}{{ 62}}](#p63)
-    - [{{ Table F: Very Rare/Legendary Items (Levels 17-20)}}{{ 62}}](#p63)
-    - [{{ Table G: Legendary Items (Levels 17-20)}}{{ 62}}](#p63)
-    - [{{ Table H: Artifacts (Level 20)}}{{ 62}}](#p63)
-  - #### [{{ Gems & Art Objects}}{{ 63}}](#p64)
-    - [{{ Gems by Value}}{{ 63}}](#p64)
-    - [{{ Art Objects by Value}}{{ 63}}](#p64)
-  - #### [{{ Tirvandor-Specific Loot}}{{ 63}}](#p64)
-    - [{{ Regional Treasures}}{{ 63}}](#p64)
-  - #### [{{ Quest Rewards Guide}}{{ 63}}](#p64)
-    - [{{ By Quest Difficulty & Party Level}}{{ 63}}](#p64)
-  - #### [{{ DM Tips for Loot}}{{ 64}}](#p65)
-- ### [{{ Appendix C.  Essential NPCs for Tirvandor}}{{ 65}}](#p66)
-- ### [{{ NPC Quick Reference Index}}{{ 85}}](#p86)
-  - #### [{{ By Role}}{{ 85}}](#p86)
-- ### [{{ Using These NPC Cards}}{{ 86}}](#p87)
-  - #### [{{ At the Table}}{{ 86}}](#p87)
-  - #### [{{ Combat Tips}}{{ 86}}](#p87)
-  - #### [{{ Campaign Integration}}{{ 86}}](#p87)
-    - [{{ Blood & Coin}}{{ 86}}](#p87)
-    - [{{ Shattered Oaths}}{{ 86}}](#p87)
-    - [{{ Universal}}{{ 86}}](#p87)
+- ### [{{ How to Use the Dashboard}}{{ 41}}](#p47)
+  - #### [{{ Setup:}}{{ 41}}](#p47)
+  - #### [{{ During Play:}}{{ 41}}](#p47)
+  - #### [{{ Between Sessions:}}{{ 41}}](#p47)
+  - #### [{{ Long-Term Use:}}{{ 41}}](#p47)
+- ### [{{ Customization Ideas}}{{ 41}}](#p47)
+  - #### [{{ Add Your Own Sections:}}{{ 41}}](#p47)
+  - #### [{{ Visual Enhancements:}}{{ 41}}](#p47)
+- ### [{{ Digital Dashboard Options}}{{ 41}}](#p47)
+  - #### [{{ Spreadsheet (Excel/Google Sheets):}}{{ 41}}](#p47)
+  - #### [{{ Notion/Obsidian:}}{{ 41}}](#p47)
+  - #### [{{ Roll20/Foundry VTT:}}{{ 41}}](#p47)
+- ### [{{ Dashboard Best Practices}}{{ 42}}](#p48)
+  - #### [{{ Update Frequency:}}{{ 42}}](#p48)
+  - #### [{{ What to Track vs. What to Skip:}}{{ 42}}](#p48)
+  - #### [{{ Keep it Simple:}}{{ 42}}](#p48)
+- ### [{{ Session Zero Materials}}{{ 43}}](#p49)
+  - #### [{{ Starting Your Tirvandor Campaign}}{{ 43}}](#p49)
+  - #### [{{ World Primer (Player Handout)}}{{ 43}}](#p49)
+    - [{{ Welcome to Tirvandor: The Realm of Deep Magic}}{{ 43}}](#p49)
+  - #### [{{ The World at a Glance}}{{ 43}}](#p49)
+    - [{{ Geography}}{{ 43}}](#p49)
+  - #### [{{ The Political Situation}}{{ 43}}](#p49)
+  - #### [{{ Major Factions}}{{ 43}}](#p49)
+  - #### [{{ Themes & Tone}}{{ 44}}](#p50)
+  - #### [{{ Character Creation Guidelines}}{{ 44}}](#p50)
+    - [{{ Allowed Content}}{{ 44}}](#p50)
+    - [{{ Race Considerations}}{{ 44}}](#p50)
+    - [{{ Starting Locations (Choose One)}}{{ 44}}](#p50)
+    - [{{ Backgrounds & Connections}}{{ 45}}](#p51)
+  - #### [{{ House Rules & Expectations}}{{ 45}}](#p51)
+    - [{{ Table Rules}}{{ 45}}](#p51)
+    - [{{ Gameplay Expectations}}{{ 45}}](#p51)
+    - [{{ Safety Tools}}{{ 45}}](#p51)
+  - #### [{{ Session Zero Agenda}}{{ 45}}](#p51)
+    - [{{ Part 1: World Introduction (30 min)}}{{ 45}}](#p51)
+    - [{{ Part 2: Character Creation (60 min)}}{{ 45}}](#p51)
+    - [{{ Part 3: Safety & Expectations (15 min)}}{{ 45}}](#p51)
+    - [{{ Part 4: Campaign Hook (15 min)}}{{ 46}}](#p52)
+    - [{{ Part 5: Final Questions (10 min)}}{{ 46}}](#p52)
+  - #### [{{ Pre-Session Homework}}{{ 46}}](#p52)
+  - #### [{{ Party Composition Guidance}}{{ 46}}](#p52)
+\column
+  - #### [{{ Character Introductions}}{{ 46}}](#p52)
+  - #### [{{ Sample Character Connections}}{{ 46}}](#p52)
+  - #### [{{ Campaign-Specific Information}}{{ 47}}](#p53)
+    - [{{ [DM Fills In Campaign Name]}}{{ 47}}](#p53)
+  - #### [{{ Session Zero Checklist}}{{ 47}}](#p53)
+  - #### [{{ You’re Ready to Play!}}{{ 47}}](#p53)
+- ### [{{ Appendix A: Randomn Encounter Tables}}{{ 48}}](#p54)
+  - #### [{{ For Improvisation & Dynamic Gameplay}}{{ 48}}](#p54)
+  - #### [{{ How To Use These Tables}}{{ 48}}](#p54)
+  - #### [{{ Urban Encounters}}{{ 48}}](#p54)
+    - [{{ Kaer Thandros (Capital City - Thaldros)}}{{ 48}}](#p54)
+    - [{{ Goldreach (Merchant Hub)}}{{ 49}}](#p55)
+    - [{{ Aethermere (Elven Capital)}}{{ 49}}](#p55)
+    - [{{ Crossroads (Mercenary Town - Iron Guild Territory)}}{{ 50}}](#p56)
+    - [{{ Silverpine (Magical Academy Town)}}{{ 50}}](#p56)
+  - #### [{{ Wilderness Encounters}}{{ 51}}](#p57)
+    - [{{ Forests & Woodlands}}{{ 51}}](#p57)
+    - [{{ Mountains & Hills}}{{ 51}}](#p57)
+    - [{{ Desert (Sundara Region)}}{{ 52}}](#p58)
+  - #### [{{ Road Encounters (Main Highways)}}{{ 52}}](#p58)
+  - #### [{{ Dungeon Encounters}}{{ 52}}](#p58)
+  - #### [{{ Social Encounters (Taverns & Markets)}}{{ 52}}](#p58)
+  - #### [{{ Naval/Coastal Encounters}}{{ 53}}](#p59)
+  - #### [{{ Random NPC Generator}}{{ 53}}](#p59)
+    - [{{ Name (d20)}}{{ 53}}](#p59)
+    - [{{ Occupation (d20)}}{{ 53}}](#p59)
+    - [{{ Personality Quirk (d20)}}{{ 53}}](#p59)
+    - [{{ Secret (d12)}}{{ 54}}](#p60)
+  - #### [{{ Plot Hooks (d20)}}{{ 54}}](#p60)
+  - #### [{{ Dm Tips For Using These Tables}}{{ 54}}](#p60)
+- ### [{{ Appendix B. Magic Items}}{{ 55}}](#p61)
+  - #### [{{ Loot Tables by Level}}{{ 59}}](#p65)
+  - #### [{{ Treasure Generation for Tirvandor}}{{ 59}}](#p65)
+  - #### [{{ How to Use These Tables}}{{ 59}}](#p65)
+  - #### [{{ Levels 1-4 (Common Treasure)}}{{ 59}}](#p65)  
+    - [{{ Individual Enemies}}{{ 59}}](#p65)
+    - [{{ Small Hoard (Bandit Camp, Goblin Lair)}}{{ 59}}](#p65)
+    - [{{ Medium Hoard (Beast Lair, Small Dungeon)}}{{ 59}}](#p65)
+    - [{{ Major Hoard (Dungeon Boss, Young Dragon)}}{{ 59}}](#p65)
+}}
+{{skipCounting}}
+\page
+{{toc,wide
+# Contents
+
+  - #### [{{ Levels 5-10 (Uncommon Treasure)}}{{ 60}}](#p66)
+    - [{{ Individual Enemies}}{{ 60}}](#p66)
+    - [{{ Small Hoard (Cultist Base, Organized Bandits)}}{{ 60}}](#p66)
+    - [{{ Medium Hoard (Underground Complex, Monster Lair)}}{{ 60}}](#p66)
+    - [{{ Major Hoard (Adult Dragon, Major Villain)}}{{ 60}}](#p66)
+  - #### [{{ Levels 11-16 (Rare Treasure)}}{{ 60}}](#p66)
+    - [{{ Individual Enemies}}{{ 60}}](#p66)
+    - [{{ Small Hoard (Powerful Monster, Evil Temple)}}{{ 60}}](#p66)
+    - [{{ Medium Hoard (Ancient Lich, Vampire Lord)}}{{ 60}}](#p66)
+    - [{{ Major Hoard (Ancient Dragon, Archvillain)}}{{ 60}}](#p66)
+  - #### [{{ Levels 17-20 (Legendary Treasure)}}{{ 60}}](#p66)
+    - [{{ Individual Enemies}}{{ 60}}](#p66)
+    - [{{ Small Hoard (Demigod, Pit Fiend)}}{{ 61}}](#p67)
+    - [{{ Medium Hoard (Lesser Deity Shrine, Planar Vault)}}{{ 61}}](#p67)
+    - [{{ Major Hoard (God’s Treasury, World-Ending Threat)}}{{ 61}}](#p67)
+  - #### [{{ Magic Item Tables}}{{ 61}}](#p67)
+    - [{{ Table A: Minor Uncommon Items (Levels 1-4)}}{{ 61}}](#p67)
+    - [{{ Table B: Uncommon Items (Levels 5-10)}}{{ 61}}](#p67)
+    - [{{ Table C: Rare Items (Levels 5-10)}}{{ 61}}](#p67)
+    - [{{ Table D: Rare Items (Levels 11-16)}}{{ 62}}](#p68)
+    - [{{ Table E: Very Rare Items (Levels 11-16)}}{{ 62}}](#p68)
+    - [{{ Table F: Very Rare/Legendary Items (Levels 17-20)}}{{ 62}}](#p68)
+    - [{{ Table G: Legendary Items (Levels 17-20)}}{{ 62}}](#p68)
+    - [{{ Table H: Artifacts (Level 20)}}{{ 62}}](#p68)
+  - #### [{{ Gems & Art Objects}}{{ 63}}](#p69)
+    - [{{ Gems by Value}}{{ 63}}](#p69)
+    - [{{ Art Objects by Value}}{{ 63}}](#p69)
+  - #### [{{ Tirvandor-Specific Loot}}{{ 63}}](#p69)
+    - [{{ Regional Treasures}}{{ 63}}](#p69)
+  - #### [{{ Quest Rewards Guide}}{{ 63}}](#p69)
+    - [{{ By Quest Difficulty & Party Level}}{{ 63}}](#p69)
+  - #### [{{ DM Tips for Loot}}{{ 64}}](#p70)
+- ### [{{ Appendix C.  Essential NPCs for Tirvandor}}{{ 65}}](#p71)
+- ### [{{ NPC Quick Reference Index}}{{ 86}}](#p92)
+  - #### [{{ By Role}}{{ 86}}](#p92)
+  - #### [{{ Using These NPC Cards}}{{ 86}}](#p92)
+  - #### [{{ At the Table}}{{ 86}}](#p92)
+  - #### [{{ Combat Tips}}{{ 86}}](#p92)
+  - #### [{{ Campaign Integration}}{{ 86}}](#p92)
+    - [{{ Blood & Coin}}{{ 86}}](#p92)
+    - [{{ Shattered Oaths}}{{ 86}}](#p92)
+    - [{{ Universal}}{{ 86}}](#p92)
+    - [{{ OPEN GAME LICENSE Version 1.0a}}{{ 87}}](#p93)
 }}
 
 {{skipCounting}}
@@ -865,7 +866,6 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 {{pageNumber,auto}}
 {{footnote 02 LOCATION QUICK REFERENCE}}
-
 \page
 ## Aethermere (Elven Capital)
 
@@ -957,7 +957,9 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - To Aethermere: 8 days (forest)
 - To mines: 1 day (underground)
 
----
+{{pageNumber,auto}}
+{{footnote 02 LOCATION QUICK REFERENCE}}
+\page
 
 ## Silverpine (Forest Settlement)
 
@@ -969,10 +971,6 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - **Climate:** Mild, rainy, forested
 - **Economy:** Lumber (sustainable), herbs, hunting
 
-{{pageNumber,auto}}
-{{footnote 02 LOCATION QUICK REFERENCE}}
-
-\page
 ### Key Locations
 1. **Silverleaf Manor** - Noble family estate
 2. **The Green Market** - Natural goods trade
@@ -1063,6 +1061,10 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - **Climate:** Extreme desert heat, cool nights
 - **Economy:** Spices, textiles, gems, desert knowledge
 
+{{pageNumber,auto}}
+{{footnote 02 LOCATION QUICK REFERENCE}}
+\page
+
 ### Key Locations
 1. **The Oasis Palace** - Sultan's magnificent residence
 2. **The Grand Bazaar** - Legendary marketplace
@@ -1077,11 +1079,6 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - Desert Ranger Khalid (guide)
 - Merchant Princess Yasmin (trader)
 - Caravan Master Hassan (desert expert)
-
-{{pageNumber,auto}}
-{{footnote 02 LOCATION QUICK REFERENCE}}
-
-\page
 
 ### Adventure Hooks
 - Desert ruins exploration
@@ -1146,11 +1143,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - Within volcanic region: 1-3 days
 - **Warning:** Travel extremely dangerous
 
-{{pageNumber,auto}}
-{{footnote 02 LOCATION QUICK REFERENCE}}
-
-\page
-
+{{wide
 ## Quick Distance Chart
 
 |  | Kaer T. | Goldreach | Aethermere | Ironhold | Silverpine | Port Myrthen | Sundara | Ashfall |
@@ -1165,8 +1158,11 @@ When players try creative solutions, say "yes, and..." instead of "no"
 | **Ashfall** | 15d | 18d | 22d | 20d | 20d | 20d | 30d | - |
 
 *d = days by horse, road conditions vary*
+}}
 
-::
+{{pageNumber,auto}}
+{{footnote 02 LOCATION QUICK REFERENCE}}
+\page
 
 ## Region-Specific Challenges
 
@@ -1180,19 +1176,14 @@ When players try creative solutions, say "yes, and..." instead of "no"
 **Ashfall:** Volcanic eruptions, fire damage, isolation
 
 
-{{pageNumber,auto}}
-{{footnote 02 LOCATION QUICK REFERENCE}}
-
-\page
-
-# Faction Relationship Map
-## Political Landscape of Tirvandor
+## Faction Relationship Map
+### Political Landscape of Tirvandor
 
 **Quick Reference:** Who loves who, who hates who, and who's plotting against who
 
 ---
 
-## Faction Power Levels
+### Faction Power Levels
 
 | Faction | Power Level | Type | Resources |
 |---------|-------------|------|-----------|
@@ -1948,7 +1939,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - Adult Red (CR 17)
 - Ancient Red (CR 24)
 
----
+\column
 
 ## Quick Combat Tips
 
@@ -2104,7 +2095,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - Item is trapped
 - Witness sees you
 
----
+
 
 ## Negotiation / Diplomacy
 
@@ -2141,7 +2132,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 - Outside threat emerges
 - Past grievance dredged up
 
-\column
+
 ## Wilderness Survival / Travel
 
 ### Cross the Ashfall Barrens
@@ -3253,7 +3244,7 @@ Wild magic surges for decades
 
 **1247 CR** - **CURRENT YEAR** ← YOU ARE HERE
 
-\column
+
 
 ## Campaign Start Points
 
@@ -5658,7 +5649,7 @@ At this level, treasure becomes narrative rather than random.
 | 18 | Wand of Secrets |
 | 19 | Ring of Feather Falling |
 | 20 | DM's choice or roll twice |
-
+\column
 ### Table B: Uncommon Items (Levels 5-10)
 
 | d20 | Item |
@@ -5761,7 +5752,7 @@ At this level, treasure becomes narrative rather than random.
 | 18 | Rod of Lordly Might |
 | 19 | Staff of the Magi |
 | 20 | DM's choice or roll twice |
-
+\column
 ### Table F: Very Rare/Legendary Items (Levels 17-20)
 
 | d12 | Item |
@@ -6066,7 +6057,7 @@ Cantrips: *mage hand, prestidigitation, light, message*
 ___
 **Armor Class** :: 18 (breastplate +1, Dex, ring of protection)
 **Hit Points** :: 136 (16d8 + 64)
-**Speed** :: 30 ft.![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/dm-toolkit-npc-cards/images/tirvandor-npc-sultan-rashid-ashborne.jpg){width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sultan-rashid-ashborne.jpg){width:325px,mix-blend-mode:multiply}
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6116,7 +6107,7 @@ ___
 ___
 **Armor Class** :: 18 (unarmored defense)
 **Hit Points** :: 126 (16d8 + 48)
-**Speed** :: 40 ft.![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/dm-toolkit-npc-cards/images/tirvandor-npc-high-priest-rashid-al-sahir.jpg){width:325px,mix-blend-mode:multiply}
+**Speed** :: 40 ft.![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-high-priest-rashid-al-sahir.jpg){width:325px,mix-blend-mode:multiply}
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
