@@ -36,48 +36,100 @@ The SRD 5.2 is licensed under the Creative Commons Attribution 4.0 International
 The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Ascended concept; the Seven Bound Ancients concept; all original magic items; the Worldrend event and timeline; all campaign content.
 
 {{skipCounting}}
+\page
 
-\page
-\page
 {{toc,wide
-# Table of Contents
+# Contents
 
-- ### [{{ Chapter 1}}{{ 3}}](#p3)
-- ##### [{{ Border Creatures}}{{ 3}}](#p3)
-- ### [{{ Chapter 2}}{{ 13}}](#p13)
-  - ##### [{{ Thaldros Military}}{{ 13}}](#p13)
-- ### [{{ Chapter 3}}{{ 23}}](#p23)
-  - ##### [{{ Aethoria Resistance}}{{ 23}}](#p23)
-  - ##### [{{ Iron Guild Mercenaries}}{{ 31}}](#p31)
-\column
-- ### [{{ Chapter 4}}{{ 38}}](#p38)
-  - ##### [{{ Ascended-Touched}}{{ 38}}](#p38)
-  - ##### [{{ Ancient & Prophecy}}{{ 46}}](#p46)
-  - ##### [{{ Corrupted & Cursed}}{{ 50}}](#p50)
+- ### [{{ Chapter 1}}{{ 3}}](#p4)
+- #### [{{ Border Creatures}}{{ 3}}](#p4)
+  - [{{ BORDER BANDIT}}{{ 3}}](#p4)   
+  - [{{ SMUGGLER CAPTAIN}}{{ 4}}](#p5)
+  - [{{ WAR-SCARRED VETERAN}}{{ 5}}](#p6)
+  - [{{ BORDER WRAITH}}{{ 6}}](#p7)
+  - [{{ CONTESTED LAND ELEMENTAL}}{{ 7}}](#p8)
+  - [{{ REFUGEE MOB}}{{ 8}}](#p9)
+  - [{{ SCAVENGER GHOUL}}{{ 9}}](#p10)
+  - [{{ TERRITORIAL DRAKE}}{{ 10}}](#p11)
+  - [{{ WAR BEAST}}{{ 11}}](#p12)
+  - [{{ HAUNTED BATTLEFIELD}}{{ 12}}](#p13)
+- ### [{{ Chapter 2}}{{ 13}}](#p14)
+- #### [{{ Thaldros Military}}{{ 13}}](#p14)
+  - [{{ THALDROS CONSCRIPT}}{{ 13}}](#p14)
+  - [{{ THALDROS SOLDIER}}{{ 14}}](#p15)
+  - [{{ IRON LEGION ENFORCER}}{{ 15}}](#p16)
+  - [{{ ROYAL GUARD ELITE}}{{ 16}}](#p17)
+  - [{{ STATE INQUISITOR}}{{ 17}}](#p18)
+  - [{{ WAR MAGE OF THALDROS}}{{ 18}}](#p19)
+  - [{{ SIEGE GOLEM}}{{ 19}}](#p20)
+  - [{{ GENERAL’S CHAMPION}}{{ 20}}](#p21)
+  - [{{ IRON CROWN KNIGHT}}{{ 21}}](#p22)
+  - [{{ LORD COMMANDER VARIUS}}{{ 22}}](#p23)
+- ### [{{ Chapter 3}}{{ 23}}](#p24)
+- #### [{{ Aethoria Resistance}}{{ 23}}](#p24)
+  - [{{ AETHORIAN MILITIA}}{{ 23}}](#p24)
+  - [{{ RESISTANCE FIGHTER}}{{ 24}}](#p25)
+  - [{{ PEOPLE’S CHAMPION}}{{ 25}}](#p26)
+  - [{{ REVOLUTIONARY MAGE}}{{ 26}}](#p27)
+  - [{{ CHAIN BREAKER MONK}}{{ 27}}](#p28)
+  - [{{ GUERRILLA COMMANDER}}{{ 28}}](#p29)
+  - [{{ THE LIBERATOR}}{{ 29}}](#p30)
+  - [{{ PROPHESIED HERO}}{{ 30}}](#p31)
+- #### [{{ Iron Guild Mercenaries}}{{ 31}}](#p32)
+  - [{{ GUILD RECRUIT}}{{ 31}}](#p32)   
+  - [{{ VETERAN MERCENARY}}{{ 32}}](#p33)
+  - [{{ GUILD ENFORCER}}{{ 33}}](#p34)
+  - [{{ CONTRACT KILLER}}{{ 34}}](#p35)
+  - [{{ IRON GUILD CAPTAIN}}{{ 35}}](#p36)
+  - [{{ GUILDMASTER’S ELITE}}{{ 36}}](#p37)
+  - [{{ GARRICK IRONHEART}}{{ 37}}](#p38)
+- ### [{{ Chapter 4}}{{ 38}}](#p39)
+- #### [{{ Ascended & Ancient}}{{ 38}}](#p39)
+  - [{{ Ascended-Touched}}{{ 38}}](#p39)
+  - [{{ BLESSED PALADIN}}{{ 38}}](#p39)
+  - [{{ THANDROS’S JUSTICAR}}{{ 39}}](#p40)
+  - [{{ AETHOR’S LIBERATOR}}{{ 40}}](#p41)
+  - [{{ MOIRA’S SEER}}{{ 41}}](#p42)
+  - [{{ SYLVARA’S WILD HUNTER}}{{ 42}}](#p43)
+  - [{{ SERA’S MERCY}}{{ 43}}](#p44)
+  - [{{ MORDAIN’S SENTINEL}}{{ 44}}](#p45)
+  - [{{ FALLEN CHAMPION}}{{ 45}}](#p46)
+- #### [{{ Ancient & Prophecy}}{{ 46}}](#p47)
+  - [{{ ANCIENT GUARDIAN}}{{ 46}}](#p47)
+  - [{{ PROPHECY KEEPER}}{{ 47}}](#p48)
+  - [{{ FORGOTTEN KING}}{{ 48}}](#p49)
+  - [{{ HERALD OF THE SEVEN}}{{ 49}}](#p50)
+- #### [{{ Corrupted & Cursed}}{{ 50}}](#p51)
+  - [{{ CORRUPTION SPAWN}}{{ 50}}](#p51)
+  - [{{ WAR-TWISTED SOLDIER}}{{ 51}}](#p52)
+  - [{{ CURSE BEARER}}{{ 52}}](#p53)
 }}
 
+{{skipCounting}}
 \page
 # Chapter 1
 # Border Creatures
-
+:
 The contested lands between Thaldros and Aethoria are a lawless frontier where desperate souls eke out survival among ancient ruins and war-scarred terrain.
-\column
+
 ## BORDER BANDIT
 ### LORE
 Border bandits are desperate refugees, deserters, or opportunists who prey on travelers in the contested lands. They know the terrain intimately and fight with the desperation of those with nothing left to lose.
+\column
 ### TACTICS
 - Use terrain for ambushes
 - Target weakest-looking party member
 - Flee when outnumbered or badly wounded
 - May surrender if offered mercy
 
+{{padding-top:110px}}
 {{monster,frame,wide
 ## BORDER BANDIT
 *Medium humanoid (any race), any non-lawful alignment*
 ___
 **Armor Class** :: 12 (leather armor)
 **Hit Points** :: 11 (2d8 + 2)
-**Speed** :: 30 ft.![border bandit](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-border-bandit.jpg) {width:325px,mix-blend-mode:multiply}
+**Speed** :: 30 ft.![border bandit](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-border-bandit.jpg) {width:325px,mix-blend-mode:multiply,}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -539,10 +591,9 @@ ___
 \page
 # Chapter 2
 # Thaldros Military
-
+:
 The iron fist of the Thaldros Empire—disciplined soldiers, ruthless inquisitors, and devastating war machines that enforce the Emperor's will.
 
-\column
 ## THALDROS CONSCRIPT
 
 ### LORE
@@ -1050,15 +1101,13 @@ ___
 \page
 # Chapter 3
 # Aethoria & Iron Guild
-
+:
 Freedom fighters struggling against tyranny and professional mercenaries who serve only coin.
 
 ## Aethoria Resistance
 
 Brave souls fighting for liberation from Thaldros rule.
 
- ::
- 
 \column
 
 ## AETHORIAN MILITIA
@@ -1638,10 +1687,9 @@ ___
 \page
 # Chapter 4
 # Ascended & Ancient
-
+:
 Divine champions blessed by the Seven Ascended, ancient guardians from ages past, and corrupted creatures twisted by dark magic.
- ::
- ::
+ 
 ## Ascended-Touched
 
 Champions blessed by the gods.
