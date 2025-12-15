@@ -43,66 +43,66 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 
 - ### [{{ Chapter 1}}{{ 3}}](#p4)
 - #### [{{ Border Creatures}}{{ 3}}](#p4)
-  - [{{ BORDER BANDIT}}{{ 3}}](#p4)   
-  - [{{ SMUGGLER CAPTAIN}}{{ 4}}](#p5)
-  - [{{ WAR-SCARRED VETERAN}}{{ 5}}](#p6)
-  - [{{ BORDER WRAITH}}{{ 6}}](#p7)
-  - [{{ CONTESTED LAND ELEMENTAL}}{{ 7}}](#p8)
-  - [{{ REFUGEE MOB}}{{ 8}}](#p9)
-  - [{{ SCAVENGER GHOUL}}{{ 9}}](#p10)
-  - [{{ TERRITORIAL DRAKE}}{{ 10}}](#p11)
-  - [{{ WAR BEAST}}{{ 11}}](#p12)
-  - [{{ HAUNTED BATTLEFIELD}}{{ 12}}](#p13)
+  - [{{ Border Bandit}}{{ 3}}](#p4)   
+  - [{{ Smuggler Captain}}{{ 4}}](#p5)
+  - [{{ War-Scarred Veteran}}{{ 5}}](#p6)
+  - [{{ Border Wraith}}{{ 6}}](#p7)
+  - [{{ Contested Land Elemental}}{{ 7}}](#p8)
+  - [{{ Refugee Mob}}{{ 8}}](#p9)
+  - [{{ Scavenger Ghoul}}{{ 9}}](#p10)
+  - [{{ Territorial Drake}}{{ 10}}](#p11)
+  - [{{ War Beast}}{{ 11}}](#p12)
+  - [{{ Haunted Battlefield}}{{ 12}}](#p13)
 - ### [{{ Chapter 2}}{{ 13}}](#p14)
 - #### [{{ Thaldros Military}}{{ 13}}](#p14)
-  - [{{ THALDROS CONSCRIPT}}{{ 13}}](#p14)
-  - [{{ THALDROS SOLDIER}}{{ 14}}](#p15)
-  - [{{ IRON LEGION ENFORCER}}{{ 15}}](#p16)
-  - [{{ ROYAL GUARD ELITE}}{{ 16}}](#p17)
-  - [{{ STATE INQUISITOR}}{{ 17}}](#p18)
-  - [{{ WAR MAGE OF THALDROS}}{{ 18}}](#p19)
-  - [{{ SIEGE GOLEM}}{{ 19}}](#p20)
+  - [{{ Thaldros Conscript}}{{ 13}}](#p14)
+  - [{{ Thaldros Soldier}}{{ 14}}](#p15)
+  - [{{ Iron Legion Enforcer}}{{ 15}}](#p16)
+  - [{{ Royal Guard Elite}}{{ 16}}](#p17)
+  - [{{ State Inquisitor}}{{ 17}}](#p18)
+  - [{{ War Mage of Thaldros}}{{ 18}}](#p19)
+  - [{{ Siege Golem}}{{ 19}}](#p20)
   - [{{ GENERAL’S CHAMPION}}{{ 20}}](#p21)
-  - [{{ IRON CROWN KNIGHT}}{{ 21}}](#p22)
-  - [{{ LORD COMMANDER VARIUS}}{{ 22}}](#p23)
+  - [{{ Iron Crown Knight}}{{ 21}}](#p22)
+  - [{{ Lord Commander Varius}}{{ 22}}](#p23)
 - ### [{{ Chapter 3}}{{ 23}}](#p24)
 - #### [{{ Aethoria Resistance}}{{ 23}}](#p24)
-  - [{{ AETHORIAN MILITIA}}{{ 23}}](#p24)
-  - [{{ RESISTANCE FIGHTER}}{{ 24}}](#p25)
+  - [{{ Aethorian Militia}}{{ 23}}](#p24)
+  - [{{ Resistance Fighter}}{{ 24}}](#p25)
   - [{{ PEOPLE’S CHAMPION}}{{ 25}}](#p26)
-  - [{{ REVOLUTIONARY MAGE}}{{ 26}}](#p27)
-  - [{{ CHAIN BREAKER MONK}}{{ 27}}](#p28)
-  - [{{ GUERRILLA COMMANDER}}{{ 28}}](#p29)
-  - [{{ THE LIBERATOR}}{{ 29}}](#p30)
-  - [{{ PROPHESIED HERO}}{{ 30}}](#p31)
+  - [{{ Revolutionary Mage}}{{ 26}}](#p27)
+  - [{{ Chain Breaker Monk}}{{ 27}}](#p28)
+  - [{{ Guerrilla Commander}}{{ 28}}](#p29)
+  - [{{ The Liberator}}{{ 29}}](#p30)
+  - [{{ Prophesied Hero}}{{ 30}}](#p31)
 - #### [{{ Iron Guild Mercenaries}}{{ 31}}](#p32)
-  - [{{ GUILD RECRUIT}}{{ 31}}](#p32)   
-  - [{{ VETERAN MERCENARY}}{{ 32}}](#p33)
-  - [{{ GUILD ENFORCER}}{{ 33}}](#p34)
-  - [{{ CONTRACT KILLER}}{{ 34}}](#p35)
-  - [{{ IRON GUILD CAPTAIN}}{{ 35}}](#p36)
+  - [{{ Guild Recruit}}{{ 31}}](#p32)   
+  - [{{ Veteran Mercenary}}{{ 32}}](#p33)
+  - [{{ Guild Enforcer}}{{ 33}}](#p34)
+  - [{{ Contract Killer}}{{ 34}}](#p35)
+  - [{{ Iron Guild Captain}}{{ 35}}](#p36)
   - [{{ GUILDMASTER’S ELITE}}{{ 36}}](#p37)
-  - [{{ GARRICK IRONHEART}}{{ 37}}](#p38)
+  - [{{ Garrick Ironheart}}{{ 37}}](#p38)
 - ### [{{ Chapter 4}}{{ 38}}](#p39)
 - #### [{{ Ascended & Ancient}}{{ 38}}](#p39)
   - [{{ Ascended-Touched}}{{ 38}}](#p39)
-  - [{{ BLESSED PALADIN}}{{ 38}}](#p39)
+  - [{{ Blessed Paladin}}{{ 38}}](#p39)
   - [{{ THANDROS’S JUSTICAR}}{{ 39}}](#p40)
   - [{{ AETHOR’S LIBERATOR}}{{ 40}}](#p41)
   - [{{ MOIRA’S SEER}}{{ 41}}](#p42)
   - [{{ SYLVARA’S WILD HUNTER}}{{ 42}}](#p43)
   - [{{ SERA’S MERCY}}{{ 43}}](#p44)
   - [{{ MORDAIN’S SENTINEL}}{{ 44}}](#p45)
-  - [{{ FALLEN CHAMPION}}{{ 45}}](#p46)
+  - [{{ Fallen Champion}}{{ 45}}](#p46)
 - #### [{{ Ancient & Prophecy}}{{ 46}}](#p47)
-  - [{{ ANCIENT GUARDIAN}}{{ 46}}](#p47)
-  - [{{ PROPHECY KEEPER}}{{ 47}}](#p48)
-  - [{{ FORGOTTEN KING}}{{ 48}}](#p49)
-  - [{{ HERALD OF THE SEVEN}}{{ 49}}](#p50)
+  - [{{ Ancient Guardian}}{{ 46}}](#p47)
+  - [{{ Prophecy Keeper}}{{ 47}}](#p48)
+  - [{{ Forgotten King}}{{ 48}}](#p49)
+  - [{{ Herald of the Seven}}{{ 49}}](#p50)
 - #### [{{ Corrupted & Cursed}}{{ 50}}](#p51)
-  - [{{ CORRUPTION SPAWN}}{{ 50}}](#p51)
-  - [{{ WAR-TWISTED SOLDIER}}{{ 51}}](#p52)
-  - [{{ CURSE BEARER}}{{ 52}}](#p53)
+  - [{{ Corruption Spawn}}{{ 50}}](#p51)
+  - [{{ War-Twisted Soldier}}{{ 51}}](#p52)
+  - [{{ Curse Bearer}}{{ 52}}](#p53)
 }}
 
 {{skipCounting}}
@@ -112,11 +112,11 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 :
 The contested lands between Thaldros and Aethoria are a lawless frontier where desperate souls eke out survival among ancient ruins and war-scarred terrain.
 
-## BORDER BANDIT
-### LORE
+## Border Bandit
+### Lore
 Border bandits are desperate refugees, deserters, or opportunists who prey on travelers in the contested lands. They know the terrain intimately and fight with the desperation of those with nothing left to lose.
 \column
-### TACTICS
+### Tactics
 - Use terrain for ambushes
 - Target weakest-looking party member
 - Flee when outnumbered or badly wounded
@@ -124,7 +124,7 @@ Border bandits are desperate refugees, deserters, or opportunists who prey on tr
 
 {{padding-top:110px}}
 {{monster,frame,wide
-## BORDER BANDIT
+## Border Bandit
 *Medium humanoid (any race), any non-lawful alignment*
 ___
 **Armor Class** :: 12 (leather armor)
@@ -145,7 +145,7 @@ ___
 **Desperate Fighter.** :: When reduced to half hit points or less, the bandit's next attack deals an extra 1d6 damage.
 
 ___
-### ACTIONS
+### Actions
 **Scimitar.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
 
 **Light Crossbow.** :: *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
@@ -156,12 +156,12 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
-## SMUGGLER CAPTAIN
+## Smuggler Captain
 
-### LORE
+### Lore
 Smuggler captains run illicit goods across the Border—weapons, refugees, contraband, and information. They're neutral parties in the conflict, caring only for profit, but their networks make them valuable allies or dangerous enemies.
 
-### TACTICS
+### Tactics
 - Negotiate before fighting if possible
 - Use Cunning Action to stay mobile
 - Call for backup if losing
@@ -171,7 +171,7 @@ Smuggler captains run illicit goods across the Border—weapons, refugees, contr
  
 
 {{monster,frame,wide
-## SMUGGLER CAPTAIN
+## Smuggler Captain
 *Medium humanoid (any race), any alignment*
 ___
 **Armor Class** :: 15 (studded leather)
@@ -196,7 +196,7 @@ ___
 **Sneak Attack (1/Turn).** :: The captain deals an extra 10 (3d6) damage when hitting with a weapon attack and has advantage on the attack roll.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: The captain makes two attacks with their rapier.
 
 **Rapier.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
@@ -205,7 +205,7 @@ ___
 
 **Contract Offer (Recharge 5-6).** :: The captain offers a bargain. One humanoid within 30 feet that can hear the captain must make a DC 14 Wisdom saving throw. On a failure, the target is charmed for 1 minute or until the captain or their allies harm it. While charmed, the target is inclined to accept reasonable deals.
 
-### REACTIONS
+### Reactions
 **Parry.** :: The captain adds 2 to their AC against one melee attack that would hit them. To do so, the captain must see the attacker and be wielding a melee weapon.
 }}
 
@@ -214,11 +214,11 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
-## WAR-SCARRED VETERAN
-### LORE
+## War-Scarred Veteran
+### Lore
 These veterans have fought in countless Border skirmishes for both sides, mercenary bands, or their own survival. They're hard as nails, cynical, and incredibly difficult to kill. Many become mercenaries, bandits, or hermits.
 
-### TACTICS
+### Tactics
 - Fight defensively, conserving energy
 - Use intimidation to avoid fights
 - Know when to retreat (and how)
@@ -227,7 +227,7 @@ These veterans have fought in countless Border skirmishes for both sides, mercen
 ::
 
 {{monster,frame,wide
-## WAR-SCARRED VETERAN
+## War-Scarred Veteran
 *Medium humanoid (any race), any alignment*
 ___
 **Armor Class** :: 17 (half plate)
@@ -251,7 +251,7 @@ ___
 **Battle Scarred.** :: When the veteran takes damage that would reduce them to 0 hit points, they can make a DC 10 Constitution saving throw. On a success, they drop to 1 hit point instead. This DC increases by 5 each time this feature is used and resets after a long rest.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: The veteran makes two longsword attacks or two longbow attacks.
 
 **Longsword.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
@@ -265,11 +265,11 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
-## BORDER WRAITH
+## Border Wraith
 
-### LORE
+### Lore
 Border wraiths are the spirits of soldiers and civilians who died in the countless conflicts in the Border region. They're drawn to battles, feeding on death and violence. Some retain fragments of their former identities and may be laid to rest if their remains are properly buried.
-### TACTICS
+### Tactics
 - Ambush from walls/objects
 - Target squishier party members
 - Use Create Specter on fallen enemies
@@ -278,7 +278,7 @@ Border wraiths are the spirits of soldiers and civilians who died in the countle
  ::
 
 {{monster,frame,wide
-## BORDER WRAITH
+## Border Wraith
 *Medium undead, neutral evil*
 ___
 **Armor Class** :: 13
@@ -302,7 +302,7 @@ ___
 **Echoes of War.** :: When the wraith first appears, each creature within 30 feet hears a snippet of the battle where it died (screams, clashing steel, etc.). The wraith can speak one phrase from its final moments.
 
 ___
-### ACTIONS
+### Actions
 **Life Drain.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 **Create Specter.** :: The wraith targets a humanoid within 10 feet of it that died violently in the last minute. The target's spirit rises as a specter under the wraith's control. The wraith can have no more than three specters under its control at one time.
@@ -311,11 +311,11 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
-## CONTESTED LAND ELEMENTAL
+## Contested Land Elemental
 
-### LORE
+### Lore
 These elementals form in the Border region, composed of earth from both nations. The constant conflict and bloodshed has made the land itself angry and unstable. They attack anyone who further damages the land but may ignore peaceful travelers.
-### TACTICS
+### Tactics
 - Emerge from underground (surprise)
 - Focus on those damaging terrain
 - Use Border Quake to knock down groups
@@ -324,7 +324,7 @@ These elementals form in the Border region, composed of earth from both nations.
  ::
  
 {{monster,frame,wide
-## CONTESTED LAND ELEMENTAL
+## Contested Land Elemental
 *Large elemental, neutral*
 ___
 **Armor Class** :: 17 (natural armor)
@@ -348,7 +348,7 @@ ___
 **Territorial Fury.** :: The elemental has advantage on attack rolls against creatures that have dealt damage to structures or the earth in the last minute.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: The elemental makes two slam attacks.
 
 **Slam.** :: *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
@@ -358,12 +358,12 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
-## REFUGEE MOB
+## Refugee Mob
 
-### LORE
+### Lore
 Desperate refugees sometimes form angry mobs, driven by fear, hunger, or manipulation. They're not evil—just desperate people in terrible circumstances. Most will flee or surrender if given the opportunity.
 
-### TACTICS
+### Tactics
 - Overwhelm through numbers
 - Target obvious threats
 - Flee if leaders fall or hope is offered
@@ -372,7 +372,7 @@ Desperate refugees sometimes form angry mobs, driven by fear, hunger, or manipul
  ::
 
 {{monster,frame,wide
-## REFUGEE MOB
+## Refugee Mob
 *Large swarm of Medium humanoids, any alignment*
 ___
 **Armor Class** :: 10
@@ -394,20 +394,20 @@ ___
 **Panicked.** :: The mob has disadvantage on Wisdom saving throws while below half hit points.
 
 ___
-### ACTIONS
+### Actions
 **Mob Violence.** :: *Melee Weapon Attack:* +2 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) bludgeoning damage, or 7 (2d6) bludgeoning damage if the swarm has half its hit points or fewer.
 
-### REACTIONS
+### Reactions
 **Stampede.** :: When the mob takes damage from an area effect, it can move up to its speed away from the source of danger. This movement doesn't provoke opportunity attacks.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
-## SCAVENGER GHOUL
+## Scavenger Ghoul
 
-### LORE
+### Lore
 The Border's constant violence creates ample food for ghouls. These undead scavengers lurk near battlefields and ambush sites, waiting for fresh corpses—or making their own.
-### TACTICS
+### Tactics
 - Hunt in packs (2-8 ghouls)
 - Target wounded enemies
 - Use paralysis on dangerous foes
@@ -416,7 +416,7 @@ The Border's constant violence creates ample food for ghouls. These undead scave
  ::
  
 {{monster,frame,wide
-## SCAVENGER GHOUL
+## Scavenger Ghoul
 *Medium undead, chaotic evil*
 ___
 **Armor Class** :: 12
@@ -436,7 +436,7 @@ ___
 **Pack Tactics.** :: The ghoul has advantage on attack rolls against a creature if at least one of the ghoul's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ___
-### ACTIONS
+### Actions
 **Bite.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6 + 2) piercing damage.
 
 **Claws.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
@@ -448,12 +448,12 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
-## TERRITORIAL DRAKE
+## Territorial Drake
 
-### LORE
+### Lore
 These drakes have claimed territories in the Border's ruins and caves. They're aggressive toward intruders but intelligent enough to recognize when they're outmatched. Some mercenary bands have trained them as mounts or guards.
 
-### TACTICS
+### Tactics
 - Ambush from high ground
 - Work in pairs if possible
 - Use tail to knock down enemies
@@ -462,7 +462,7 @@ These drakes have claimed territories in the Border's ruins and caves. They're a
  ::
 
 {{monster,frame,wide
-## TERRITORIAL DRAKE
+## Territorial Drake
 *Large dragon, unaligned*
 ___
 **Armor Class** :: 14 (natural armor)
@@ -483,7 +483,7 @@ ___
 **Pack Tactics.** :: The drake has advantage on attack rolls against a creature if at least one of the drake's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: The drake makes one bite attack and one tail attack.
 
 **Bite.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
@@ -495,11 +495,11 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
-## WAR BEAST
+## War Beast
 
-### LORE
+### Lore
 Both armies use war beasts—massive wolves, war dogs, or other predators bred and trained for combat. Some have escaped and gone feral in the Border, becoming apex predators.
-### TACTICS
+### Tactics
 - Hunt in packs (2-5 beasts)
 - Use Pounce to knock down targets
 - Focus on frightened enemies
@@ -508,7 +508,7 @@ Both armies use war beasts—massive wolves, war dogs, or other predators bred a
  ::
  
 {{monster,frame,wide
-## WAR BEAST
+## War Beast
 *Large beast, unaligned*
 ___
 **Armor Class** :: 14 (natural armor)
@@ -531,7 +531,7 @@ ___
 **Trained Killer.** :: The beast was trained for war. It has advantage on attack rolls against frightened creatures.
 
 ___
-### ACTIONS
+### Actions
 **Bite.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 **Pounce.** :: If the beast moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the beast can make one bite attack against it as a bonus action.
@@ -542,12 +542,12 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 1 - Border Creatures</div>
 \page
-## HAUNTED BATTLEFIELD
+## Haunted Battlefield
 
-### LORE
+### Lore
 Some battlefields in the Border have seen so much death that the land itself became haunted. These cursed areas trap the spirits of fallen soldiers, endlessly reenacting their final battle. The only way to permanently end a haunted battlefield is to consecrate it with proper funeral rites—a dangerous undertaking.
 
-### TACTICS
+### Tactics
 - Describe the horror and chaos
 - Track who enters the area
 - Roll for spectral spawns
@@ -556,7 +556,7 @@ Some battlefields in the Border have seen so much death that the land itself bec
  ::
  
 {{monster,frame,wide
-## HAUNTED BATTLEFIELD
+## Haunted Battlefield
 *Gargantuan hazard/swarm, chaotic neutral*
 ___
 **Armor Class** :: 15
@@ -581,7 +581,7 @@ ___
 **Consecration Vulnerable.** :: If a cleric or paladin spends 10 minutes performing funeral rites within the area, the battlefield's power is suppressed for 24 hours in a 30-foot radius around the ritual site.
 
 ___
-### ACTIONS
+### Actions
 **Phantom Army (Recharge 5-6).** :: At initiative count 20, the battlefield can summon a phantom army. All creatures in the area see ghostly soldiers fighting and dying around them. Each creature must make a DC 15 Wisdom saving throw. On a failure, a creature takes 22 (4d10) psychic damage and is frightened until the end of its next turn. On a success, the creature takes half damage and isn't frightened.
 
 
@@ -594,12 +594,12 @@ ___
 :
 The iron fist of the Thaldros Empire—disciplined soldiers, ruthless inquisitors, and devastating war machines that enforce the Emperor's will.
 
-## THALDROS CONSCRIPT
+## Thaldros Conscript
 
-### LORE
+### Lore
 Most of Thaldros's army consists of conscripted farmers, laborers, and urban poor. They're given minimal training and thrown into battle. Many desert if given the chance. Conscripts often have families back home they're fighting to return to.
 
-### TACTICS
+### Tactics
 - Fight in large groups (5-20)
 - Flee if leaders fall
 - May surrender if treated well
@@ -608,7 +608,7 @@ Most of Thaldros's army consists of conscripted farmers, laborers, and urban poo
  ::
  
 {{monster,frame,wide
-## THALDROS CONSCRIPT
+## Thaldros Conscript
 *Medium humanoid (any race), lawful neutral*
 ___
 **Armor Class** :: 10 (no armor)
@@ -628,18 +628,18 @@ ___
 **Reluctant Fighter.** :: The conscript has disadvantage on death saving throws.
 
 ___
-### ACTIONS
+### Actions
 **Spear.** :: *Melee or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands for a melee attack.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
-## THALDROS SOLDIER
+## Thaldros Soldier
 
-### LORE
+### Lore
 Professional soldiers of Thaldros are disciplined, well-equipped, and indoctrinated into loyalty to the empire. Unlike conscripts, they're career soldiers who believe in Thaldros's vision of order and stability.
 
-### TACTICS
+### Tactics
 - Fight in formation (shield wall)
 - Support allies
 - Follow orders strictly
@@ -648,7 +648,7 @@ Professional soldiers of Thaldros are disciplined, well-equipped, and indoctrina
 ::
  
 {{monster,frame,wide
-## THALDROS SOLDIER
+## Thaldros Soldier
 *Medium humanoid (any race), lawful neutral*
 ___
 **Armor Class** :: 16 (chain shirt, shield)
@@ -669,24 +669,24 @@ ___
 **Imperial Discipline.** :: The soldier can reroll a failed saving throw once per short rest.
 
 ___
-### ACTIONS
+### Actions
 **Longsword.** :: *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 
 **Crossbow.** :: *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
 
-### REACTIONS
+### Reactions
 **Shield Wall.** :: When an ally within 5 feet is hit by an attack, the soldier can grant them +2 to AC against that attack.
 
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
-## IRON LEGION ENFORCER
+## Iron Legion Enforcer
 
-### LORE
+### Lore
 The Iron Legion are Thaldros's internal security force—brutal enforcers who maintain order through fear and violence. They're called when the regular army isn't cruel enough. Hated by commoners and feared even by soldiers.
 
-### TACTICS
+### Tactics
 - Use intimidation liberally
 - Beat down resisters
 - Work in pairs or groups
@@ -695,7 +695,7 @@ The Iron Legion are Thaldros's internal security force—brutal enforcers who ma
  ::
  
 {{monster,frame,wide
-## IRON LEGION ENFORCER
+## Iron Legion Enforcer
 *Medium humanoid (any race), lawful evil*
 ___
 **Armor Class** :: 13 (leather armor)
@@ -716,7 +716,7 @@ ___
 **Pack Tactics.** :: The enforcer has advantage on attack rolls against a creature if at least one of the enforcer's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: The enforcer makes two attacks with its mace.
 
 **Mace.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) bludgeoning damage.
@@ -727,12 +727,12 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
-## ROYAL GUARD ELITE
+## Royal Guard Elite
 
-### LORE
+### Lore
 The Royal Guard are the elite soldiers of Thaldros, sworn to protect nobility and enforce the king's will. They're highly trained, well-equipped, and fanatically loyal. Unlike Iron Legion thugs, Royal Guards are respected even by their enemies.
 
-### TACTICS
+### Tactics
 - Protect VIPs at all costs
 - Use Leadership to buff allies
 - Fight honorably but effectively
@@ -741,7 +741,7 @@ The Royal Guard are the elite soldiers of Thaldros, sworn to protect nobility an
  ::
  
 {{monster,frame,wide
-## ROYAL GUARD ELITE
+## Royal Guard Elite
 *Medium humanoid (any race), lawful neutral*
 ___
 **Armor Class** :: 18 (plate armor)
@@ -763,7 +763,7 @@ ___
 **Royal Authority.** :: Allied creatures within 10 feet gain advantage on saving throws against being frightened.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: The guard makes two greatsword attacks.
 
 **Greatsword.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
@@ -772,18 +772,18 @@ ___
 
 **Leadership (Recharges after a Short or Long Rest).** :: For 1 minute, the guard can utter a command or warning whenever a nonhostile creature within 30 feet makes an attack roll or saving throw. That creature can add a d4 to its roll. A creature can benefit from only one Leadership die at a time.
 
-### REACTIONS
+### Reactions
 **Parry.** :: The guard adds 2 to their AC against one melee attack that would hit them.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
-## STATE INQUISITOR
+## State Inquisitor
 
-### LORE
+### Lore
 State Inquisitors are Thaldros's secret police—spies, assassins, and interrogators who root out dissent and eliminate threats to the empire. They're feared throughout Tirvandor and operate with complete authority.
 
-### TACTICS
+### Tactics
 - Gather intelligence first
 - Poisoned weapons on priority targets
 - Use Interrogate to extract info
@@ -792,7 +792,7 @@ State Inquisitors are Thaldros's secret police—spies, assassins, and interroga
  ::
  
 {{monster,frame,wide
-## STATE INQUISITOR
+## State Inquisitor
 *Medium humanoid (any race), lawful evil*
 ___
 **Armor Class** :: 15 (studded leather)
@@ -819,7 +819,7 @@ ___
 **Information Network.** :: The inquisitor can spend 1 hour in a settlement to learn one piece of useful information about a specific person or event.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: The inquisitor makes two shortsword attacks.
 
 **Shortsword.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, plus poison (see Poisoned Blade).
@@ -830,18 +830,18 @@ ___
 
 **Interrogate (3/Day).** :: The inquisitor targets one creature within 30 feet that can hear them. The target must make a DC 14 Wisdom saving throw. On a failure, the target is compelled to answer one question truthfully. This is a magical compulsion effect.
 
-### REACTIONS
+### Reactions
 **Uncanny Dodge.** :: When an attacker the inquisitor can see hits them with an attack, they can halve the attack's damage.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
-## WAR MAGE OF THALDROS
+## War Mage of Thaldros
 
-### LORE
+### Lore
 Thaldros trains battle mages specifically for military operations. Unlike academic wizards, War Mages focus on destructive evocation magic and battlefield control. They're attached to military units and respected (and feared) by soldiers.
 
-### TACTICS
+### Tactics
 - Stay behind front line
 - Use *fireball* and *lightning bolt* on groups
 - *Counterspell* enemy magic
@@ -851,7 +851,7 @@ Thaldros trains battle mages specifically for military operations. Unlike academ
  ::
  
 {{monster,frame,wide
-## WAR MAGE OF THALDROS
+## War Mage of Thaldros
 *Medium humanoid (any race), lawful neutral*
 ___
 **Armor Class** :: 12 (15 with *mage armor*)
@@ -873,18 +873,18 @@ ___
 **War Caster.** :: The mage has advantage on Constitution saving throws to maintain concentration on spells. When a hostile creature's movement provokes an opportunity attack, the mage can cast a spell at the creature rather than making an opportunity attack.
 
 ___
-### ACTIONS
+### Actions
 **Quarterstaff.** :: *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) if used with two hands.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
-## SIEGE GOLEM
+## Siege Golem
 
-### LORE
+### Lore
 Thaldros's military mages have created these massive constructs for sieges and large battles. They're slow but nearly unstoppable, designed to break through fortifications and scatter enemy formations.
 
-### TACTICS
+### Tactics
 - Advance slowly and steadily
 - Focus on structures in Siege Mode
 - Target clustered enemies with Boulder Launch
@@ -893,7 +893,7 @@ Thaldros's military mages have created these massive constructs for sieges and l
  ::
  
 {{monster,frame,wide
-## SIEGE GOLEM
+## Siege Golem
 *Large construct, unaligned*
 ___
 **Armor Class** :: 17 (natural armor)
@@ -919,7 +919,7 @@ ___
 **Military Programming.** :: The golem follows tactical commands perfectly and can execute complex battle plans.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: The golem makes two slam attacks.
 
 **Slam.** :: *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19 (3d8 + 6) bludgeoning damage.
@@ -931,11 +931,11 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
-## GENERAL'S CHAMPION
+## General's Champion
 
-### LORE
+### Lore
 Thaldros generals sometimes send their personal champions to deal with important threats or lead special missions. These warriors are the best of the best—veterans of countless battles, master tacticians, and nearly unbeatable in single combat.
-### TACTICS
+### Tactics
 - Challenge the strongest enemy
 - Use Rally to support troops
 - Fight honorably but ruthlessly
@@ -944,7 +944,7 @@ Thaldros generals sometimes send their personal champions to deal with important
  ::
  
 {{monster,frame,wide
-## GENERAL'S CHAMPION
+## General's Champion
 *Medium humanoid (any race), lawful neutral*
 ___
 **Armor Class** :: 18 (plate armor)
@@ -966,7 +966,7 @@ ___
 **Second Wind (Recharges after a Short or Long Rest).** :: As a bonus action, the champion can regain 20 hit points.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: The champion makes three attacks with their greatsword or longbow.
 
 **Greatsword.** :: *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
@@ -975,18 +975,18 @@ ___
 
 **Rally (Recharges after a Short or Long Rest).** :: The champion rallies their allies. Each ally within 30 feet regains 10 hit points and gains advantage on their next attack roll or saving throw.
 
-### REACTIONS
+### Reactions
 **Parry.** :: The champion adds 4 to their AC against one melee attack that would hit them.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
-## IRON CROWN KNIGHT
+## Iron Crown Knight
 
-### LORE
+### Lore
 The Iron Crown Knights are Thaldros's holy warriors, fanatically devoted to the concept of ordered civilization through strength. They're paladins who've sworn the Oath of the Iron Crown and serve as both warriors and enforcers of imperial law.
 
-### TACTICS
+### Tactics
 - Use Aura of Tyranny to buff allies
 - Command the battlefield
 - Iron Command at start of combat
@@ -995,7 +995,7 @@ The Iron Crown Knights are Thaldros's holy warriors, fanatically devoted to the 
  ::
  
 {{monster,frame,wide
-## IRON CROWN KNIGHT
+## Iron Crown Knight
 *Medium humanoid (any race), lawful evil*
 ___
 **Armor Class** :: 20 (plate armor +2, shield)
@@ -1021,25 +1021,25 @@ ___
 **Spellcasting.** :: The knight is a 12th-level spellcaster (Oath of the Iron Crown subclass). Spellcasting ability is Charisma (spell save DC 15, +7 to hit). Prepared spells:
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: The knight makes two longsword attacks.
 
 **Longsword +2.** :: *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 10 (1d8 + 6) slashing damage, or 11 (1d10 + 6) slashing damage if used with two hands.
 
 **Channel Divinity: Iron Command (1/Day).** :: Each hostile creature within 30 feet must make a DC 15 Wisdom saving throw. On a failure, the creature is paralyzed until the end of the knight's next turn.
 
-### REACTIONS
+### Reactions
 **Oath of Protection.** :: When a creature within 5 feet is hit by an attack, the knight can make that attack target them instead.
 }}
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
-## LORD COMMANDER VARIUS
+## Lord Commander Varius
 
-### LORE
+### Lore
 Lord Commander Varius is Thaldros's supreme military leader—a brilliant tactician, legendary warrior, and unshakeable loyalist. He's not evil, but he genuinely believes in Thaldros's vision of ordered civilization. Many soldiers would die for him, and even his enemies respect him.
 
-### TACTICS
+### Tactics
 - Command the battlefield
 - Use Tactical Genius and Legendary Actions to control action economy
 - Rally troops when needed
@@ -1049,7 +1049,7 @@ Lord Commander Varius is Thaldros's supreme military leader—a brilliant tactic
  ::
  
 {{monster,frame,wide
-## LORD COMMANDER VARIUS
+## Lord Commander Varius
 *Medium humanoid (human), lawful neutral*
 ___
 **Armor Class** :: 21 (plate armor +3, shield +1)
@@ -1078,7 +1078,7 @@ ___
 **Magic Resistance.** :: Varius has advantage on saving throws against spells and other magical effects.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Varius makes three longsword attacks.
 
 **Longsword of Command +3.** :: *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 12 (1d8 + 8) slashing damage, or 13 (1d10 + 8) slashing damage if used with two hands, plus 9 (2d8) radiant damage.
@@ -1087,7 +1087,7 @@ ___
 
 **Commanding Shout (Recharge 5-6).** :: Varius issues a tactical command. Each ally within 60 feet can immediately move up to half their speed and make one weapon attack as a reaction.
 
-### LEGENDARY ACTIONS
+### Legendary Actions
 **Move.** :: Varius moves up to half his speed.
 
 **Attack.** :: Varius makes one longsword attack.
@@ -1110,15 +1110,15 @@ Brave souls fighting for liberation from Thaldros rule.
 
 \column
 
-## AETHORIAN MILITIA
+## Aethorian Militia
 
-### LORE
+### Lore
 Untrained civilians who took up arms. Brave but inexperienced.
 
  ::
  
 {{monster,frame,wide
-## AETHORIAN MILITIA
+## Aethorian Militia
 *Medium humanoid, any alignment*
 ___
 **Armor Class** :: 12 (leather armor)
@@ -1136,7 +1136,7 @@ ___
 **Guerrilla Fighter.** :: Advantage on attacks when hidden or unseen by target.
 
 ___
-### ACTIONS
+### Actions
 **Spear.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1d6+2 piercing damage
 
 **Sling.** :: *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 1d4+2 bludgeoning damage
@@ -1144,14 +1144,14 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## RESISTANCE FIGHTER
+## Resistance Fighter
 \column
-### LORE
+### Lore
 More experienced than militia. Fighting for families and freedom.
 
  
 {{monster,frame,wide
-## RESISTANCE FIGHTER
+## Resistance Fighter
 *Medium humanoid, any good alignment*
 ___
 **Armor Class** :: 14 (leather armor)
@@ -1169,7 +1169,7 @@ ___
 **Freedom's Fury.** :: Extra 1d6 damage against Thaldros forces.
 
 ___
-### ACTIONS
+### Actions
 **Shortsword.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1d6+2 piercing damage
 
 **Shortbow.** :: *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 1d6+2 piercing damage
@@ -1180,16 +1180,16 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## PEOPLE'S CHAMPION
+## People's Champion
 
 \column
  
-### LORE
+### Lore
 Local heroes who stood up to tyranny. Inspirational leaders.
 
  
 {{monster,frame,wide
-## PEOPLE'S CHAMPION
+## People's Champion
 *Medium humanoid, chaotic good*
 ___
 **Armor Class** :: 16 (chainmail)
@@ -1208,7 +1208,7 @@ ___
 **Defender of the Weak.** :: Advantage on attacks against enemies threatening civilians.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Two longsword attacks.
 
 **Longsword.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1d8+3 slashing damage
@@ -1218,13 +1218,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## REVOLUTIONARY MAGE
+## Revolutionary Mage
 \column
-### LORE
+### Lore
 Aethorian mages who use magic to free the oppressed.
  ::
 {{monster,frame,wide
-## REVOLUTIONARY MAGE
+## Revolutionary Mage
 *Medium humanoid, chaotic good*
 ___
 **Armor Class** :: 12 (15 with *mage armor*)
@@ -1245,15 +1245,15 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## CHAIN BREAKER MONK
+## Chain Breaker Monk
 \column
-### LORE
+### Lore
 Former slaves who mastered martial arts. Dedicated to freeing others.
 
  ::
  
 {{monster,frame,wide
-## CHAIN BREAKER MONK
+## Chain Breaker Monk
 *Medium humanoid, lawful good*
 ___
 **Armor Class** :: 17
@@ -1276,7 +1276,7 @@ ___
 **Ki (11 points).** :: Regain on short rest.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Four unarmed strikes.
 
 **Unarmed Strike.** :: *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d8+4 bludgeoning damage
@@ -1289,13 +1289,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## GUERRILLA COMMANDER
+## Guerrilla Commander
 \column
-### LORE
+### Lore
 Brilliant guerrilla leader. Master of ambush and hit-and-run tactics.
  ::
 {{monster,frame,wide
-## GUERRILLA COMMANDER
+## Guerrilla Commander
 *Medium humanoid, chaotic good*
 ___
 **Armor Class** :: 16 (studded leather +1)
@@ -1316,7 +1316,7 @@ ___
 **Sneak Attack (1/turn).** :: +4d6 damage with advantage.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Three shortsword or shortbow attacks.
 
 **Shortsword +2.** :: *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 1d6+6 piercing damage
@@ -1328,13 +1328,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## THE LIBERATOR
+## The Liberator
 \column
-### LORE
+### Lore
 Legendary resistance leader. Symbol of hope for all oppressed people.
  ::
 {{monster,frame,wide
-## THE LIBERATOR
+## The Liberator
 *Medium humanoid, chaotic good*
 ___
 **Armor Class** :: 19 (studded leather +3)
@@ -1357,7 +1357,7 @@ ___
 **Sneak Attack (1/turn).** :: +6d6 damage
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Four rapier attacks.
 
 **Freedom's Blade +3.** :: *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 1d8+8 piercing damage + 2d8 radiant damage
@@ -1375,13 +1375,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## PROPHESIED HERO
+## Prophesied Hero
 \column
-### LORE
+### Lore
 One of "the Seven" from prophecy. Destined hero.
  ::
 {{monster,frame,wide
-## PROPHESIED HERO
+## Prophesied Hero
 *Medium humanoid, any good*
 ___
 **Armor Class** :: 20 (plate +1, shield +1)
@@ -1401,7 +1401,7 @@ ___
 **Aura of Destiny (30 ft).** :: Allies add +3 to all saves.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Three longsword attacks.
 
 **Destiny's Blade +2.** :: *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 1d8+7 slashing damage + 3d8 radiant damage
@@ -1418,12 +1418,12 @@ ___
 
 Professional soldiers for hire—loyal only to the contract.
 \column
-## GUILD RECRUIT
-### LORE
+## Guild Recruit
+### Lore
 New mercenaries learning the trade. Disciplined and eager to prove themselves.
  ::
 {{monster,frame,wide
-## GUILD RECRUIT
+## Guild Recruit
 *Medium humanoid, any*
 ___
 **Armor Class** :: 14 (leather, shield)
@@ -1441,7 +1441,7 @@ ___
 **Professional Training.** :: Advantage on saves vs fear while within 10 ft of ally.
 
 ___
-### ACTIONS
+### Actions
 **Longsword.** :: *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1d8+1 slashing damage
 
 **Crossbow.** :: *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 1d8+1 piercing damage
@@ -1451,13 +1451,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## VETERAN MERCENARY
+## Veteran Mercenary
 \column
-### LORE
+### Lore
 Experienced fighters who've survived many contracts.
  ::
 {{monster,frame,wide
-## VETERAN MERCENARY
+## Veteran Mercenary
 *Medium humanoid, any*
 ___
 **Armor Class** :: 16 (chain shirt, shield)
@@ -1475,7 +1475,7 @@ ___
 **Combat Veteran.** :: Advantage on saves vs poison and disease.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Two longsword attacks.
 
 **Longsword.** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1d8+2 slashing damage
@@ -1487,13 +1487,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## GUILD ENFORCER
+## Guild Enforcer
 \column
-### LORE
+### Lore
 Enforce Guild rules and handle troublemakers.
  ::
 {{monster,frame,wide
-## GUILD ENFORCER
+## Guild Enforcer
 *Medium humanoid, any*
 ___
 **Armor Class** :: 17 (half plate)
@@ -1511,7 +1511,7 @@ ___
 **Guild Authority.** :: Can call for backup (1d4 recruits arrive in 1d4 rounds).
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Two greatsword attacks.
 
 **Greatsword.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2d6+3 slashing damage
@@ -1523,13 +1523,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## CONTRACT KILLER
+## Contract Killer
 \column
-### LORE
+### Lore
 Guild assassins for special contracts. Professional and ruthless.
  ::
 {{monster,frame,wide
-## CONTRACT KILLER
+## Contract Killer
 *Medium humanoid, any*
 ___
 **Armor Class** :: 15 (studded leather)
@@ -1550,7 +1550,7 @@ ___
 **Sneak Attack (1/turn).** :: +3d6 damage with advantage.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Two shortsword attacks.
 
 **Shortsword.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 1d6+3 piercing damage
@@ -1562,13 +1562,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## IRON GUILD CAPTAIN
+## Iron Guild Captain
 \column
-### LORE
+### Lore
 Lead mercenary squads. Respected tacticians and fighters.
  ::
 {{monster,frame,wide
-## IRON GUILD CAPTAIN
+## Iron Guild Captain
 *Medium humanoid, any*
 ___
 **Armor Class** :: 18 (plate)
@@ -1589,7 +1589,7 @@ ___
 **Second Wind (1/Short Rest).** :: Bonus action to heal 20 HP.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Three longsword attacks.
 
 **Longsword +1.** :: *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 1d8+5 slashing damage
@@ -1601,9 +1601,9 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## GUILDMASTER'S ELITE
+## Guildmaster's Elite
 \column
-### LORE
+### Lore
 The Guildmaster's personal guard. Legendary mercenaries.
  ::
 {{monster,frame,wide
@@ -1628,7 +1628,7 @@ ___
 **Mercenary's Pride.** :: Advantage vs fear and charm.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Three greatsword attacks.
 
 **Greatsword +2.** :: *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 2d6+7 slashing damage
@@ -1640,13 +1640,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
-## GARRICK IRONHEART
+## Garrick Ironheart
 \column
-### LORE
+### Lore
 Founded Iron Guild. Legendary warrior and fair leader. Respected even by enemies.
  ::
 {{monster,frame,wide
-## GARRICK IRONHEART
+## Garrick Ironheart
 *Medium humanoid (dwarf), lawful neutral*
 ___
 **Armor Class** :: 20 (plate +2, shield +1)
@@ -1667,7 +1667,7 @@ ___
 **Guildmaster's Authority.** :: All Iron Guild members within 60 ft gain +3 to all rolls.
 
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Three warhammer attacks.
 
 **Iron Will +3.** :: *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 1d8+8 bludgeoning damage + 2d8 force damage
@@ -1694,12 +1694,12 @@ Divine champions blessed by the Seven Ascended, ancient guardians from ages past
 
 Champions blessed by the gods.
 \column
-## BLESSED PALADIN
-### LORE
+## Blessed Paladin
+### Lore
 Paladins blessed by the Seven Ascended. Champions of good.
  ::
 {{monster,frame,wide
-## BLESSED PALADIN
+## Blessed Paladin
 *Medium humanoid, lawful good*
 ___
 **Armor Class** :: 18 (plate)
@@ -1716,7 +1716,7 @@ ___
 **Languages** :: Common
 **Challenge** :: 4 (1,100 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Two longsword attacks.
 
 **Longsword.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1d8+3 slashing damage
@@ -1728,13 +1728,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## THANDROS'S JUSTICAR
+## Thandros's Justicar
 \column
-### LORE
+### Lore
 Chosen enforcers of Thandros, god of law. Hunt criminals and maintain order.
  ::
 {{monster,frame,wide
-## THANDROS'S JUSTICAR
+## Thandros's Justicar
 *Medium humanoid, lawful neutral*
 ___
 **Armor Class** :: 17 (chain mail, shield)
@@ -1750,7 +1750,7 @@ ___
 **Languages** :: Common
 **Challenge** :: 6 (2,300 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Two mace attacks.
 
 **Mace of Justice.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 1d6+3 bludgeoning damage + 2d8 radiant damage vs evil
@@ -1762,13 +1762,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## AETHOR'S LIBERATOR
+## Aethor's Liberator
 \column
-### LORE
+### Lore
 Divine servants of Aethor sent to break chains and free the oppressed.
  ::
 {{monster,frame,wide
-## AETHOR'S LIBERATOR
+## Aethor's Liberator
 *Medium celestial, chaotic good*
 ___
 **Armor Class** :: 17 (natural)
@@ -1787,7 +1787,7 @@ ___
 **Languages** :: all, telepathy 120 ft.
 **Challenge** :: 7 (2,900 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Two mace attacks.
 
 **Freedom's Mace.** :: *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d6+4 bludgeoning damage + 4d8 radiant damage
@@ -1801,13 +1801,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## MOIRA'S SEER
+## Moira's Seer
 \column
-### LORE
+### Lore
 Priests of Moira who see threads of fate. Cryptic but helpful.
  ::
 {{monster,frame,wide
-## MOIRA'S SEER
+## Moira's Seer
 *Medium humanoid, any*
 ___
 **Armor Class** :: 12 (15 with *mage armor*)
@@ -1823,7 +1823,7 @@ ___
 **Languages** :: Common +4 others
 **Challenge** :: 5 (1,800 XP)
 ___
-### ACTIONS
+### Actions
 **Quarterstaff.** :: *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1d6-1 bludgeoning
 
 **Prophetic Vision (Recharge 5-6).** :: One creature within 60 ft sees possible futures. DC 16 Wisdom save or incapacitated 1 round (overwhelmed by visions).
@@ -1835,13 +1835,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## SYLVARA'S WILD HUNTER
+## Sylvara's Wild Hunter
 \column
-### LORE
+### Lore
 Sylvara's chosen hunters. Defend wilderness, punish those who harm nature.
  ::
 {{monster,frame,wide
-## SYLVARA'S WILD HUNTER
+## Sylvara's Wild Hunter
 *Medium fey, chaotic neutral*
 ___
 **Armor Class** :: 16 (natural)
@@ -1859,7 +1859,7 @@ ___
 **Languages** :: Sylvan, Common
 **Challenge** :: 8 (3,900 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Three longbow attacks or two spear attacks.
 
 **Spear.** :: *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d6+4 piercing damage + 2d6 lightning damage
@@ -1875,13 +1875,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## SERA'S MERCY
+## Sera's Mercy
 \column
-### LORE
+### Lore
 Sera's divine messengers. Heal wounded and offer mercy to repentant.
  ::
 {{monster,frame,wide
-## SERA'S MERCY
+## Sera's Mercy
 *Small celestial, neutral good*
 ___
 **Armor Class** :: 14
@@ -1899,7 +1899,7 @@ ___
 **Languages** :: all, telepathy 60 ft.
 **Challenge** :: 3 (700 XP)
 ___
-### ACTIONS
+### Actions
 **Touch of Mercy.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* target healed for 2d8+4 HP or takes 2d8+4 radiant (undead only).
 
 **Shield of Compassion (3/Day).** :: Grant one creature within 60 ft resistance to all damage until end of its next turn.
@@ -1911,13 +1911,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## MORDAIN'S SENTINEL
+## Mordain's Sentinel
 \column
-### LORE
+### Lore
 Mordain's chosen guardians. Protect sacred sites and honor the dead.
  ::
 {{monster,frame,wide
-## MORDAIN'S SENTINEL
+## Mordain's Sentinel
 *Medium undead, lawful neutral*
 ___
 **Armor Class** :: 20 (plate, shield)
@@ -1935,7 +1935,7 @@ ___
 **Languages** :: Common
 **Challenge** :: 10 (5,900 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Three longsword attacks.
 
 **Longsword of Vigil.** :: *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 1d8+5 slashing damage + 3d8 necrotic damage
@@ -1949,13 +1949,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## FALLEN CHAMPION
+## Fallen Champion
 \column
-### LORE
+### Lore
 Heroes who broke their oaths or fell to corruption. Tragic enemies.
  ::
 {{monster,frame,wide
-## FALLEN CHAMPION
+## Fallen Champion
 *Medium undead, any evil*
 ___
 **Armor Class** :: 18 (plate)
@@ -1973,7 +1973,7 @@ ___
 **Languages** :: Common
 **Challenge** :: 9 (5,000 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Three greatsword attacks.
 
 **Cursed Greatsword.** :: *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 2d6+4 slashing damage + 2d8 necrotic damage
@@ -1992,12 +1992,12 @@ ___
 
 Timeless guardians and prophetic beings.
 \column
-## ANCIENT GUARDIAN
-### LORE
+## Ancient Guardian
+### Lore
 Ancient constructs guarding prophetic sites. Test those who seek knowledge.
  ::
 {{monster,frame,wide
-## ANCIENT GUARDIAN
+## Ancient Guardian
 *Large construct, neutral*
 ___
 **Armor Class** :: 17 (natural)
@@ -2014,7 +2014,7 @@ ___
 **Languages** :: understands Ancient tongue
 **Challenge** :: 8 (3,900 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Two slam attacks.
 
 **Slam.** :: *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 3d8+6 bludgeoning damage
@@ -2026,13 +2026,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## PROPHECY KEEPER
+## Prophecy Keeper
 \column
-### LORE
+### Lore
 Cosmic entities who record prophecies. Neutral—they just observe and remember.
  ::
 {{monster,frame,wide
-## PROPHECY KEEPER
+## Prophecy Keeper
 *Medium aberration, lawful neutral*
 ___
 **Armor Class** :: 15 (natural)
@@ -2050,7 +2050,7 @@ ___
 **Languages** :: all, telepathy 120 ft.
 **Challenge** :: 10 (5,900 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Three psychic lance attacks.
 
 **Psychic Lance.** :: *Ranged Weapon Attack:* +10 to hit, range 120 ft., one target. *Hit:* 3d10+5 psychic damage
@@ -2064,13 +2064,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## FORGOTTEN KING
+## Forgotten King
 \column
-### LORE
+### Lore
 Ancient king whose dynasty fell. Part of the original "Seven" who failed. His throne is prophesied to be reclaimed.
  ::
 {{monster,frame,wide
-## FORGOTTEN KING
+## Forgotten King
 *Medium undead, neutral evil*
 ___
 **Armor Class** :: 17 (natural)
@@ -2090,7 +2090,7 @@ ___
 **Languages** :: Common +10 others
 **Challenge** :: 15 (13,000 XP)
 ___
-### ACTIONS
+### Actions
 **Touch of Death.** :: *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 3d6 cold damage + 3d6 necrotic damage. DC 17 Constitution save or paralyzed 1 min.
 
 **Crown of Forgotten Kings (Recharge 5-6).** :: All creatures within 60 ft make DC 19 Wisdom save or forget their purpose (confusion effect) for 1 min.
@@ -2108,13 +2108,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## HERALD OF THE SEVEN
+## Herald of the Seven
 \column
-### LORE
+### Lore
 Direct messenger of the Seven Ascended. Appears during pivotal moments.
  ::
 {{monster,frame,wide
-## HERALD OF THE SEVEN
+## Herald of the Seven
 *Large celestial, lawful good*
 ___
 **Armor Class** :: 19 (natural)
@@ -2133,7 +2133,7 @@ ___
 **Languages** :: all, telepathy 120 ft.
 **Challenge** :: 12 (8,400 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Two greatsword attacks.
 
 **Greatsword of the Seven.** :: *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 4d6+7 slashing damage + 5d8 radiant damage
@@ -2153,12 +2153,12 @@ ___
 Twisted by war and dark magic.
 
 \column
-## CORRUPTION SPAWN
-### LORE
+## Corruption Spawn
+### Lore
 Spawn of war magic gone wrong. Corrupted by dark energies. Mindless and hungry.
  ::
 {{monster,frame,wide
-## CORRUPTION SPAWN
+## Corruption Spawn
 *Small aberration, chaotic evil*
 ___
 **Armor Class** :: 9
@@ -2174,7 +2174,7 @@ ___
 **Languages** :: —
 **Challenge** :: 4 (1,100 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: One bite, one spitting attack.
 
 **Bites.** :: *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 5d6 piercing damage
@@ -2188,13 +2188,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## WAR-TWISTED SOLDIER
+## War-Twisted Soldier
 \column
-### LORE
+### Lore
 Soldiers who died violently and rose as undead, twisted by rage and trauma.
  ::
 {{monster,frame,wide
-## WAR-TWISTED SOLDIER
+## War-Twisted Soldier
 *Medium undead, neutral evil*
 ___
 **Armor Class** :: 14 (armor scraps)
@@ -2214,7 +2214,7 @@ ___
 **Languages** :: Common
 **Challenge** :: 6 (2,300 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Two longsword attacks and one life drain.
 
 **Longsword.** :: *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 1d8+4 slashing damage
@@ -2228,13 +2228,13 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
-## CURSE BEARER
+## Curse Bearer
 \column
-### LORE
+### Lore
 Result of powerful curses or exposure to corrupted magic. Was once human or beast.
  ::
 {{monster,frame,wide
-## CURSE BEARER
+## Curse Bearer
 *Large monstrosity, chaotic evil*
 ___
 **Armor Class** :: 15 (natural)
@@ -2252,7 +2252,7 @@ ___
 **Languages** :: understands Common but can't speak
 **Challenge** :: 8 (3,900 XP)
 ___
-### ACTIONS
+### Actions
 **Multiattack.** :: Two claw attacks and one bite.
 
 **Claw.** :: *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 2d6+4 slashing damage
