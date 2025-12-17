@@ -1091,23 +1091,23 @@ The Homebrewery
 
 # Shattered Oaths
 ## Player's Guide
-
+:
 *The prophecy speaks of heroes.*
 
 ___
-
-Darkness rises in the kingdom. **Lord Shadows** wages war against the Crown, and ancient prophecy speaks of champions who will decide the realm's fate.
-
+:
+Darkness rises in the kingdom. **Lord Shadows** wages war against the Crown, and ancient prophecy speaks of champions who will decide the realm's fate. 
+:
 You might be one of those champions—or you might be something more.
-
-This guide prepares you for:
+:
+This guide prepares you for: 
 - Building a hero for this world
 - Understanding the prophecy system
 - Making impossible moral choices
-- The weight of being a hero when heroism isn't simple
+- The weight of being a hero when heroism isn't simple 
 
-The enemy believes they're the hero of their own story. They might be right.
-
+::
+The enemy believes they're the hero of their own story. They might be right. 
+::
 *What happens when the villain has a point?*
-
 ![background](/assets/naturalCrit/phb_stuff/phb_back_cover.jpg){position:absolute,bottom:0,left:0,height:100%}
