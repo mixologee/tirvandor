@@ -1,10 +1,10 @@
 {{frontCover}}
 
-::::::::::::::::
+{{padding-top:200px}}
 
 ___
 
-{{banner D&D 5e Homebrew}}
+
 
 ![dm_toolkit_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/dm-toolkit-reference/images/tirvandor-cover-dm-toolkit-converted.png) {position:absolute,top:0px,left:0px,width:820px}
 
@@ -16,7 +16,7 @@ ___
 ___
 ### Quick Reference for Tirvandor
 
-{{padding-top:450px}}
+{{padding-top:440px}}
 #### Copyright & Attribution
 
 **Tirvandor Dungeon Master's Toolkit** ::
@@ -91,7 +91,6 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ At a Glance}}{{ 6}}](#p12)
     - [{{ Key Locations}}{{ 6}}](#p12)
     - [{{ Key NPCs}}{{ 6}}](#p12)
-\column
     - [{{ Adventure Hooks}}{{ 6}}](#p12)
     - [{{ Atmosphere Notes}}{{ 6}}](#p12)
     - [{{ Travel Times From Kaer Thandros}}{{ 6}}](#p12)
@@ -202,7 +201,6 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Hill Giant | CR 5}}{{ 15}}](#p21)
     - [{{ Troll | CR 5}}{{ 15}}](#p21)
     - [{{ Wyvern | CR 6}}{{ 15}}](#p21)
-\column
     - [{{ Young Black Dragon | CR 7}}{{ 15}}](#p21)
   - #### [{{ CR 7-10 (Deadly Enemies)}}{{ 15}}](#p21)
     - [{{ Stone Giant | CR 7}}{{ 15}}](#p21)

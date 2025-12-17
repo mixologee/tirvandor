@@ -1,8 +1,8 @@
 {{frontCover}}
 
-{{banner Homebrew - Player's Guide}}
+{{banner Player's Guide}}
 
-![bc_player_guide_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/tirvandor-cover-shattered-oaths-campaign.jpg){position:absolute,top:0px,left:0px,width:820px}
+![so_player_guide_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/tirvandor-cover-shattered-oaths-campaign.jpg){position:absolute,top:0px,left:0px,width:820px}
 
 {{footnote
 A guide for those who would be heroes

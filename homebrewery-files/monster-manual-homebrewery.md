@@ -1,10 +1,9 @@
 {{frontCover}}
 
-::::::::::::::::::
-
+{{padding-top:230px}}
 ___
 
-{{banner D&D 5e Homebrew}}
+{{banner 5th Edition Compatible}}
 
 ![monster_manual_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/monster-manual-cover.png) {position:absolute,top:0px,left:0px,width:820px}
 \page
@@ -81,18 +80,18 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ Guild Enforcer}}{{ 33}}](#p34)
   - [{{ Contract Killer}}{{ 34}}](#p35)
   - [{{ Iron Guild Captain}}{{ 35}}](#p36)
-  - [{{ GUILDMASTER’S ELITE}}{{ 36}}](#p37)
+  - [{{ Guildmaster’s Elite}}{{ 36}}](#p37)
   - [{{ Garrick Ironheart}}{{ 37}}](#p38)
 - ### [{{ Chapter 4}}{{ 38}}](#p39)
 - #### [{{ Ascended & Ancient}}{{ 38}}](#p39)
   - [{{ Ascended-Touched}}{{ 38}}](#p39)
   - [{{ Blessed Paladin}}{{ 38}}](#p39)
-  - [{{ THANDROS’S JUSTICAR}}{{ 39}}](#p40)
-  - [{{ AETHOR’S LIBERATOR}}{{ 40}}](#p41)
-  - [{{ MOIRA’S SEER}}{{ 41}}](#p42)
-  - [{{ SYLVARA’S WILD HUNTER}}{{ 42}}](#p43)
-  - [{{ SERA’S MERCY}}{{ 43}}](#p44)
-  - [{{ MORDAIN’S SENTINEL}}{{ 44}}](#p45)
+  - [{{ Thandros's Justicar}}{{ 39}}](#p40)
+  - [{{ Aethor's Liberator}}{{ 40}}](#p41)
+  - [{{ Moira’s Seer}}{{ 41}}](#p42)
+  - [{{ Sylvara’s Wild Hunter}}{{ 42}}](#p43)
+  - [{{ Sera’s Mercy}}{{ 43}}](#p44)
+  - [{{ Mordain’s Sentinel}}{{ 44}}](#p45)
   - [{{ Fallen Champion}}{{ 45}}](#p46)
 - #### [{{ Ancient & Prophecy}}{{ 46}}](#p47)
   - [{{ Ancient Guardian}}{{ 46}}](#p47)
