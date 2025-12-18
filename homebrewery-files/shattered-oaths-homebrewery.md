@@ -3855,10 +3855,9 @@ Party must convince Kael this is worth risking death.
 - She wants to believe heroes exist
 
 **If Party is Honest:** ::
-::
-{{description,note
+:
 *"Good. I respect honesty. I'll provide four knights from my company—veterans, all of them. They'll follow your lead in combat. BUT. Any treasure you find belongs to the Crown. That's non-negotiable. We're servants of justice, not thieves. Agree to those terms?"* 
-}}
+
 
 **Negotiate Terms (Persuasion DC 14):** ::
 ::
@@ -3882,10 +3881,8 @@ Party must convince Kael this is worth risking death.
 }}
 
 **Intimidation DC 16 (Demanding Support):** 
-::
-{{description,note
+:
 *"The fate of the world is at stake. Help us or get out of our way."* 
-}}
 
 **Thalia's Response:** ::
 ::
@@ -3896,9 +3893,9 @@ Party must convince Kael this is worth risking death.
 }}
 
 **If Party backs down (Persuasion DC 13):** ::
-{{description,note
-*"Better. Anger I understand—desperation makes people rude. But threaten me again and we're done. Now. Explain the situation properly, and I'll decide if I help."*
-}}
+:
+*"Better. Anger I understand—desperation makes people rude. But threaten me again and we're done. Now. Explain the situation properly, and I'll decide if I help."* 
+:
 **THALIA'S STORY (If Asked About Her Background):** ::
 
 **Persuasion DC 14 (Personal Question):** ::
@@ -3921,16 +3918,22 @@ Party must convince Kael this is worth risking death.
 
 **WHAT THALIA OFFERS:** ::
 
-**Military Support:** *"Four knights from my command. Veterans, all of them. Trained in formation fighting, experienced with undead and demons. They'll follow your tactical lead during the operation, but they answer to ME. If you order them to do something dishonorable, they'll refuse. Understand?"* ::
-
+**Military Support:** ::
+::
+{{description,note
+*"Four knights from my command. Veterans, all of them. Trained in formation fighting, experienced with undead and demons. They'll follow your tactical lead during the operation, but they answer to ME. If you order them to do something dishonorable, they'll refuse. Understand?"* ::
+}}
 **Stat Reference:** 4 **Knights** (SRD stats, CR 3 each)
 - Heavily armored (AC 18)
 - Loyal and disciplined
 - Will hold ground or cover retreat
 - Follow orders (within reason)
 
-**Temple Resources:** *"I can authorize temple healing services for your party. Free restoration magic, healing potions at cost, and... resurrection services if needed. The Iron Council has funds for such emergencies. Pray you don't need that last one."* ::
-
+**Temple Resources:**  ::
+::
+{{description,note
+*"I can authorize temple healing services for your party. Free restoration magic, healing potions at cost, and... resurrection services if needed. The Iron Council has funds for such emergencies. Pray you don't need that last one."*
+}}
 **Benefits:** ::
 - **Lesser Restoration** (free, unlimited before mission)
 - **Greater Restoration** (200 gp per casting, available)
@@ -3938,42 +3941,48 @@ Party must convince Kael this is worth risking death.
 - **Potions of Healing** (25 gp each, cost price)
 - **Potions of Greater Healing** (100 gp each, cost price)
 
-**Tactical Planning:** *"I've spent twenty years defending this city. I know its weaknesses, its blind spots, and yes—I know rumors about passages beneath the palace. I can't provide detailed maps, but I can offer tactical advice. Use it wisely."* ::
-
+**Tactical Planning:**  ::
+::
+{{description,note
+*"I've spent twenty years defending this city. I know its weaknesses, its blind spots, and yes—I know rumors about passages beneath the palace. I can't provide detailed maps, but I can offer tactical advice. Use it wisely."* 
+}}
 ---
 
-**THALIA'S COST:** ::
+**THALIA'S COST:**  ::
+::
+{{description,note
+*"My terms are simple: No looting beyond the artifact you seek. My knights must be able to return with honor intact. If you find treasure, it stays with the Crown—that's their job, that's the law. Break this agreement, and I'll arrest you myself. Agree?"* 
+}}
 
-*"My terms are simple: No looting beyond the artifact you seek. My knights must be able to return with honor intact. If you find treasure, it stays with the Crown—that's their job, that's the law. Break this agreement, and I'll arrest you myself. Agree?"* ::
 **Party Must Promise:** ::
 - Artifact retrieval only (Component)
 - No excessive looting (small items okay, hoards belong to Crown)
 - Don't needlessly wake the dragon
 - Protect her knights if possible
 
-**If Party Agrees:** *"Good. Honor means something. I'll have my knights ready within the hour. And heroes? Thank you. It's rare to meet people willing to risk everything for others. Aethor's light guide you."* ::
+\column
 
----
+**If Party Agrees:**  ::
+::
+{{description,note
+*"Good. Honor means something. I'll have my knights ready within the hour. And heroes? Thank you. It's rare to meet people willing to risk everything for others. Aethor's light guide you."* 
+}}
 
 **SPECIAL: Thalia's Personal Item**
-
-If party has been particularly honorable and impressed her:
-
-*(Removes a silver pendant)* *"This belonged to my mentor. She died defending innocents from a lich. Blessed by Aethor herself. It offers protection against fear and darkness. Take it. You'll need it facing a dragon."* ::
-
+:
+If party has been particularly honorable and impressed her: 
+::
+{{description,note
+*(Removes a silver pendant)* *"This belonged to my mentor. She died defending innocents from a lich. Blessed by Aethor herself. It offers protection against fear and darkness. Take it. You'll need it facing a dragon."* 
+}}
+:
 **Gift:** **Amulet of Protection from Evil** (advantage on saves vs fiends and undead, they have disadvantage on attacks against wearer)
-
----
-
+:
 **THALIA RECRUITED:** ::
 - **Time Spent:** Immediate (local, no travel)
 - **Cost:** Cannot loot dragon hoard (except Component)
 - **Benefits:** 4 Knight allies (CR 3 each), Temple healing services (discounted/free), Resurrection available, Tactical advice, Possible Amulet of Protection
 - **Drawback:** Must honor strict terms, can't loot excessively
-
----
-
-\page
 
 ### Ally Option D: Sage Cornelius the Elder
 
@@ -3982,8 +3991,6 @@ If party has been particularly honorable and impressed her:
 **Specialty:** History, archaeology, ancient architecture, undercity knowledge  
 **Personality:** Elderly scholar, absent-minded but brilliant, obsessed with lost knowledge  
 
----
-
 **THE ACADEMIC QUARTER:** ::
 
 ##### Read Aloud:
@@ -3991,6 +3998,8 @@ If party has been particularly honorable and impressed her:
 {{description,note
 *The Academic Quarter smells of old paper, candle wax, and decades of accumulated dust. Here, scholars and scribes maintain the royal archives, copying documents, cataloging histories, and occasionally uncovering truths better left buried. It's quieter than the rest of the city—buildings lean against each other like tired old men, and the only sounds are turning pages and scratching quills.*
 }}
+
+\page
 
 **Investigation DC 10 (Finding Cornelius):** ::
 - Ask local scholars: *"Cornelius? Oh, the old tunnel-rat? Check the Royal Archive's basement. He's always down there, muttering about 'Pre-Worldrend architectural anomalies' and 'proof of ancient passages.' Sweet old man, bit mad."*
@@ -4005,14 +4014,15 @@ If party has been particularly honorable and impressed her:
 *You find him in the archive basement, surrounded by maps, scrolls, and half-eaten sandwiches forgotten days ago. He's ancient—at least eighty, with a wild white beard stained with ink and eyes that squint behind thick spectacles. He's muttering to himself, comparing three different maps spread across the floor, completely oblivious to your presence.*
 }}
 
-**Cornelius's Muttering (Before He Notices):** *"No, no, this passage should connect HERE... unless they filled it in during the Second Dynasty... but why would they? Unless... unless they found something down there they didn't want found... Yes! That would explain the discrepancy in the—"* ::
->
+**Cornelius's Muttering (Before He Notices):**  ::
+::
 {{description,note
+*"No, no, this passage should connect HERE... unless they filled it in during the Second Dynasty... but why would they? Unless... unless they found something down there they didn't want found... Yes! That would explain the discrepancy in the—"* 
+:
 *(Finally notices you)*
+:
+*"INTRUDERS! No, wait, visitors. You're not trying to steal my research, are you? The last person who tried that was a nasty fellow. Had to hit him with a history of taxation policies. Very heavy book. Effective deterrent. So! What do you want? I'm busy discovering PROFOUND TRUTHS about ancient architecture!"* 
 }}
->
-*"INTRUDERS! No, wait, visitors. You're not trying to steal my research, are you? The last person who tried that was a nasty fellow. Had to hit him with a history of taxation policies. Very heavy book. Effective deterrent. So! What do you want? I'm busy discovering PROFOUND TRUTHS about ancient architecture!"* ::
----
 
 **PERSONALITY NOTES:** ::
 
@@ -4023,24 +4033,24 @@ If party has been particularly honorable and impressed her:
 - Kind-hearted but socially awkward
 - Gets VERY excited about obscure historical facts
 
----
-
 **DIALOGUE OPTIONS:** ::
 
 **Explain You Need Undercity Knowledge (Persuasion DC 11):** *"We need information about passages beneath the Royal Palace. Ancient tunnels leading to... deep places."* ::
 
-**Cornelius's Response:** ::
+**Cornelius's Response:** :
 {{description,note
 *(Eyes light up like a child given candy)*
 }}
->
-*"DEEP PLACES! Oh, you're talking about the Pre-Worldrend foundations! Yes, yes, YESSS! I KNEW they were real! Everyone said I was mad! 'Cornelius, you're obsessed.' 'Cornelius, those passages were filled in centuries ago.' BUT I KNEW!"* ::
->
+{{description,note
+*"DEEP PLACES! Oh, you're talking about the Pre-Worldrend foundations! Yes, yes, YESSS! I KNEW they were real! Everyone said I was mad! 'Cornelius, you're obsessed.' 'Cornelius, those passages were filled in centuries ago.' BUT I KNEW!"* 
+}}
+
 {{description,note
 *(Starts frantically pulling out maps)*
+
+*"The palace is built on ruins, you see. Three thousand years ago, this was a Primordial temple complex. After the Worldrend, survivors built on top of it. Then THAT city collapsed, and the current palace was built on THOSE ruins. It's ruins all the way down! And beneath EVERYTHING... there are passages. Old places. Dangerous places. Places where things LIVE."* 
 }}
->
-*"The palace is built on ruins, you see. Three thousand years ago, this was a Primordial temple complex. After the Worldrend, survivors built on top of it. Then THAT city collapsed, and the current palace was built on THOSE ruins. It's ruins all the way down! And beneath EVERYTHING... there are passages. Old places. Dangerous places. Places where things LIVE."* ::
+
 **Insight DC 12:** ::
 - He's genuinely excited, not suspicious
 - He knows more about undercity than anyone alive
@@ -4054,33 +4064,33 @@ If party has been particularly honorable and impressed her:
 **Cornelius's Response:** ::
 {{description,note
 *(Goes very still. Very quiet. Very serious)*
-}}
->
-*"Infernalix. So. You know. Most people don't. The nobility denies it exists. But I've found references. Ancient texts. Geological surveys showing MASSIVE heat sources beneath the throne room. Seismic readings suggesting something BREATHING down there."* ::
->
-{{description,note
+:
+*"Infernalix. So. You know. Most people don't. The nobility denies it exists. But I've found references. Ancient texts. Geological surveys showing MASSIVE heat sources beneath the throne room. Seismic readings suggesting something BREATHING down there."* 
+:
 *(Looks you in the eye)*
+:
+*"Why do you need to reach it? And please, PLEASE tell me you're not trying to wake it. Waking an ancient dragon beneath a city of twenty-eight thousand people would be... apocalyptic."*
 }}
->
-*"Why do you need to reach it? And please, PLEASE tell me you're not trying to wake it. Waking an ancient dragon beneath a city of twenty-eight thousand people would be... apocalyptic."* ::
+
 **If Party Explains (Honest):** *"Unbound cult, World-Splitter Components, preventing Second Worldrend... Yes. Yes, that tracks. That explains SO MUCH. The historical patterns, the guard activity, the sealed passages reopened recently... Someone IS going down there."* ::
->
+
 {{description,note
 *(Nods decisively)*
+:
+*"I'll help. But you must promise me something in return."*
 }}
->
-*"I'll help. But you must promise me something in return."* ::
----
 
 **CORNELIUS'S REQUEST:** ::
-
-*"In the dragon's hoard—if you survive to see it—there's a book. 'The Accord of Seven Houses.' Original copy, Pre-Worldrend, bound in dragonhide. It contains the actual text of the guardian oaths, proof of the covenant. It's the ONLY surviving copy. If you find it, bring it back. Let me study it. Let me PROVE I was right all these years."* ::
->
+::
 {{description,note
+*"In the dragon's hoard—if you survive to see it—there's a book. 'The Accord of Seven Houses.' Original copy, Pre-Worldrend, bound in dragonhide. It contains the actual text of the guardian oaths, proof of the covenant. It's the ONLY surviving copy. If you find it, bring it back. Let me study it. Let me PROVE I was right all these years."* 
+:
 *(Voice gets emotional)*
+*"I'm eighty-three years old. I've spent sixty years researching ancient secrets. The academic community thinks I'm a senile fool. Just once, just ONCE, I want to be vindicated. I want proof. That book is proof. Will you bring it to me?"* 
 }}
->
-*"I'm eighty-three years old. I've spent sixty years researching ancient secrets. The academic community thinks I'm a senile fool. Just once, just ONCE, I want to be vindicated. I want proof. That book is proof. Will you bring it to me?"* ::
+
+\page
+
 **Insight DC 14:** ::
 - This is his life's work
 - He's terrified of dying without validation
@@ -4091,13 +4101,17 @@ If party has been particularly honorable and impressed her:
 ::
 {{description,note
 *(Nearly weeps with gratitude)*
+:
+*"Thank you. Thank you. You don't know what this means. Here. MAPS. So many maps. I'll show you EVERYTHING."* 
 }}
-*"Thank you. Thank you. You don't know what this means. Here. MAPS. So many maps. I'll show you EVERYTHING."* ::
----
 
 **WHAT CORNELIUS OFFERS:** ::
 
-**Detailed Undercity Maps:** *"I've mapped every passage I could find documentation for. Some are collapsed, some are trapped, but there ARE routes to the dragon's lair. Multiple routes, actually. I'll show you the safest."* ::
+**Detailed Undercity Maps:** ::
+::
+{{description,note
+*"I've mapped every passage I could find documentation for. Some are collapsed, some are trapped, but there ARE routes to the dragon's lair. Multiple routes, actually. I'll show you the safest."* 
+}}
 
 **Benefits:** ::
 - **Advantage on Navigation** checks in undercity
@@ -4110,7 +4124,11 @@ If party has been particularly honorable and impressed her:
 - **Hidden Route:** Through collapsed temple, dangerous but unguarded
 - **Emergency Exit:** Back route for escape if things go wrong
 
-**Historical Knowledge:** *"The lair was BUILT as a lair. Primordials imprisoned Infernalix there during the War of Shattering. The guardians of the time didn't kill it—they COULDN'T. So they trapped it, built a prison, and over millennia it became... comfortable. The dragon CHOSE to stay asleep because waking was more trouble than sleeping. Fascinating, really."* ::
+**Historical Knowledge:** ::
+::
+{{description,note
+*"The lair was BUILT as a lair. Primordials imprisoned Infernalix there during the War of Shattering. The guardians of the time didn't kill it—they COULDN'T. So they trapped it, built a prison, and over millennia it became... comfortable. The dragon CHOSE to stay asleep because waking was more trouble than sleeping. Fascinating, really."* 
+}}
 
 **Arcana DC 16 (Understanding This):** ::
 - Dragon is bound by ancient Primordial magic
@@ -4118,36 +4136,46 @@ If party has been particularly honorable and impressed her:
 - Loud noise can wake it, but wards help it stay drowsy
 - Damaging the wards would be VERY bad
 
-**Architectural Weak Points:** *"If you MUST fight down there—gods forbid—there are structural weaknesses. Support columns in Chamber Two are cracked. Lava flow in Chamber Three can be redirected with right leverage. Not that I'm advocating destruction of priceless Pre-Worldrend architecture, but... survival is important."* ::
+\column
+
+**Architectural Weak Points:** ::
+::
+{{description,note
+*"If you MUST fight down there—gods forbid—there are structural weaknesses. Support columns in Chamber Two are cracked. Lava flow in Chamber Three can be redirected with right leverage. Not that I'm advocating destruction of priceless Pre-Worldrend architecture, but... survival is important."* 
+}}
 
 **Bonus Gifts:** ::
 {{description,note
 *(Produces two scrolls)*
+:
+*"Greater Restoration. Made them myself. Well, commissioned them. I can't cast spells. But I have friends who owe me favors. Take them. Dragon breath causes horrific injuries. These will help."* 
 }}
-*"Greater Restoration. Made them myself. Well, commissioned them. I can't cast spells. But I have friends who owe me favors. Take them. Dragon breath causes horrific injuries. These will help."* ::
+
 **Gives:** 2x **Scroll of Greater Restoration**
 
----
-
 **CORNELIUS'S WARNING:** ::
-
-*"One more thing. The passages change. Not physically—magically. Primordial ruins don't follow normal rules. Time moves strangely. Distances shift. You might walk for an hour and realize you've gone in circles. OR you might walk five minutes and find yourself miles deep. Stay focused. Don't get lost. And whatever you do, DON'T TOUCH THE RUNES ON THE WALLS. They're older than gods and twice as dangerous."* ::
----
+::
+{{description,note
+*"One more thing. The passages change. Not physically—magically. Primordial ruins don't follow normal rules. Time moves strangely. Distances shift. You might walk for an hour and realize you've gone in circles. OR you might walk five minutes and find yourself miles deep. Stay focused. Don't get lost. And whatever you do, DON'T TOUCH THE RUNES ON THE WALLS. They're older than gods and twice as dangerous."* 
+}}
 
 **DEPARTURE:** ::
+::
+{{description,note
+*"I'll be here when you return. IF you return. Please return. And please, remember the book. 'The Accord of Seven Houses.' Dragonhide binding, silver clasps. It's my life's work. Don't let me die without seeing it."* 
+}}
 
-*"I'll be here when you return. IF you return. Please return. And please, remember the book. 'The Accord of Seven Houses.' Dragonhide binding, silver clasps. It's my life's work. Don't let me die without seeing it."* ::
-**If Party Promises:** *"Thank you. May the old gods watch over you. The NEW gods too. All the gods. You'll need them."* ::
-
----
+**If Party Promises:** ::
+::
+{{description,note
+*"Thank you. May the old gods watch over you. The NEW gods too. All the gods. You'll need them."* 
+}}
 
 **CORNELIUS RECRUITED:** ::
 - **Time Spent:** Immediate (local, no travel)
 - **Cost:** Must retrieve "The Accord of Seven Houses" book from hoard (if present)
 - **Benefits:** Detailed undercity maps (advantage on Navigation), Historical knowledge (architectural weak points), 2x Scroll of Greater Restoration, Knowledge of emergency exits
 - **Drawback:** Maps might be outdated, Primordial ruins are unpredictable
-
----
 
 \page
 
