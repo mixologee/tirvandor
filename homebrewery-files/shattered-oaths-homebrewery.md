@@ -13012,208 +13012,995 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 
 # Appendix E: Player Handouts
 
+{{wide
 # ⚔️ SHATTERED OATHS CAMPAIGN HANDOUTS
-
-PROPHECY FRAGMENT #1 (READABLE VERSION)
-
-{{monster,frame
-## ═══════════════════════════════════════════
-___
-**[Dated** :: Pre-Worldrend Era]
 }}
 
-**DM Note:** Give when players complete temple quest. Links to Lord Shadows' identity.
+This section contains printable handouts to enhance immersion. Each handout includes:
+- **Ready-to-print version** with proper formatting
+- **DM notes** on when and how to use it
+- **Image placeholder** for optional DALL-E generated art
 
 ---
 
-## 14. ROYAL DECREE - HOUSE BLACKWOOD DESTRUCTION
+## Handout 1: The Black Raven Token
 
-{{monster,frame
-## ╔═══════════════════════════════════════════╗
-___
-**Challenge** :: ║
-___
-**║  Let it be known throughout the realm** :: ║
-**║  ALL LANDS** :: Seized by Crown               ║
-**║  ALL TITLES** :: Revoked                      ║
-**║  ALL MEMBERS** :: Executed or exiled          ║
-**║  It is FORBIDDEN to** :: ║
+*Give to players when they find cult symbols (Quest 1.1)*
+
+{{note
+**PHYSICAL PROP SUGGESTION:** Print on cardstock, cut into a circle (2" diameter), and paint/color black. Or use a black poker chip with a raven drawn in silver.
 }}
 
-**DM Note:** Found in archives. Explains why Corvus seeks revenge. Decree was unjust - Blackwoods were framed.
+![Black Raven Token](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/handouts/tirvandor-so-raven-token.png){width:100%,center}
+
+{{description,note
+*A cold metal disc, barely larger than a coin. One side bears the image of a raven in flight, wings spread wide, rendered in tarnished silver against black iron. The other side is smooth except for three words etched in an ancient script:*
+
+**"TRUTH UNBINDS ALL"**
+
+*The metal seems to drink in light, and holding it too long makes your fingers feel numb.*
+}}
+
+**DM Note:** This is the Unbound's recognition symbol. Members carry these to identify each other. Finding one on a cultist or at a crime scene confirms Unbound involvement.
 
 ---
 
-## 15. LETTER FROM CORVUS (BEFORE HE BECAME LORD SHADOWS)
+**DALL-E PROMPT - Black Raven Token:**
+```
+A dark metal coin or medallion on aged wooden surface, featuring an embossed silver raven with spread wings against black iron, ancient runic text around the edge, dramatic lighting from single candle, photorealistic, dark fantasy style, mysterious atmosphere, high detail
+```
 
-{{monster,frame
-## My Dearest Sister Elara,
-___
-**Challenge** :: -
-___
+
+## Handout 2: Silverpine Rumors
+
+*Give to players during Quest 1.1 investigation*
+
+{{note
+**USAGE:** Cut into strips and hand out one rumor at a time as players talk to villagers, or give the full sheet after thorough investigation.
 }}
 
-**DM Note:** Found in Corvus's lair or revealed by sympathetic NPC. Shows his tragic origin.
+{{description,note
+### What the Locals Are Saying
+
+**At the Broken Wheel Inn:**
+*"Five people, gone in two weeks. No bodies, no blood. Just... gone. Young Bran was the last—finest hunter in Silverpine. If something got HIM, gods help us all."*
+
+**From the Blacksmith:**
+*"Hooded figures near the old Thornwood shrine. Haven't seen anyone go there in decades. Whatever they're doing, it ain't prayers to the Seven."*
+
+**Whispered at the Market:**
+*"Black raven symbols appearing on doors. Folk who find 'em on their homes? They're next to vanish. Bad omen. Real bad."*
+
+**From a Nervous Merchant:**
+*"The Unbound, they call themselves. Secret society. Promise truth and justice to those who join. Prey on the desperate—people who've lost everything."*
+
+**Overheard at the Guard Post:**
+*"Captain Roderic knows more than he's saying. Seen him burning letters late at night. Whatever's coming, he's scared of it."*
+
+**From Elder Thom:**
+*"My nephew Marcus was the first taken. Left a note about a 'meeting that would change everything.' That was three weeks ago. I just want him back."*
+}}
+
+**DM Note:** These rumors point toward the Thornwood Shrine (Quest 1.2), Garrett Stone as a potential informant, and hint at the Unbound's recruitment tactics.
 
 ---
+
+\page
+
+## Handout 3: Threatening Letter to Merchants
+
+*Found during Quest 1.2 or given by intimidated shopkeepers*
+
+![Threatening Letter](https://your-image-url-here.png){width:100%}
+
+{{description,note
+*The letter is written on rough paper in harsh, angular handwriting. A black raven symbol is stamped at the bottom in what might be dried blood.*
+
+:
+
+*To the merchant of this establishment,*
+
+*The kingdoms have failed you. Your taxes feed corrupt nobles while your children go hungry. Your labor enriches those who despise you. You know this. We know this.*
+
+*The Unbound offer you a choice.*
+
+*Leave 200 gold pieces at the old mill by Thornwood Creek. Midnight. Three days hence. In exchange, your business will be protected when the reckoning comes. Your family will be spared. Your name will be remembered among those who chose wisely.*
+
+*Refuse, and you choose the side of tyrants. When the truth is unbound, so too shall be our judgment.*
+
+*We are watching.*
+
+*We are everywhere.*
+
+*We are THE UNBOUND.*
+
+:
+
+*— By order of Lord Shadows*
+}}
+
+**DM Note:** This establishes the Unbound's methods—part extortion, part recruitment. The gold funds their operations; the fear spreads their influence.
+
+---
+
+**DALL-E PROMPT - Threatening Letter:**
+```
+Aged parchment letter with angular threatening handwriting, black raven stamp at bottom in dark red wax or blood, rough torn edges, dramatic candlelight illumination, dark fantasy prop, weathered paper texture, medieval style, photorealistic document
+```
+
+---
+
+\page
+
+## Handout 4: Royal Decree — Destruction of House Blackwood
+
+*Found in Black Archive (Quest 2.1) or royal libraries*
+
+![Royal Decree](https://your-image-url-here.png){width:100%}
+
+{{description,note
+*A formal document bearing the royal seal of Thaldros—a crowned lion rampant in red wax, now cracked with age. The parchment is thick, official, preserved behind glass for over a century.*
+
+:
+
+### BY ROYAL DECREE OF KING ALDRIC III
+#### In the 1089th Year of Common Reckoning
+
+:
+
+**WHEREAS** House Blackwood has been found guilty of HIGH TREASON against the Crown and peoples of Thaldros;
+
+**WHEREAS** evidence proves beyond doubt their conspiracy to trigger a SECOND WORLDREND through forbidden artifacts;
+
+**WHEREAS** their actions threatened the very existence of our realm and all who dwell within;
+
+**BE IT THEREFORE DECREED:**
+
+**I.** All lands, holdings, and properties of House Blackwood are hereby SEIZED by the Crown.
+
+**II.** All titles, honors, and noble privileges are hereby REVOKED in perpetuity.
+
+**III.** All members of House Blackwood, by blood or marriage, are sentenced to DEATH for their crimes.
+
+**IV.** The name "Blackwood" is hereby FORBIDDEN. Speaking it in defense of traitors is itself treason.
+
+**V.** Any who shelter, aid, or show sympathy to Blackwood survivors shall share their fate.
+
+*Let this decree stand as warning to all who would threaten our realm.*
+
+:
+
+*Signed and sealed this day,*
+***ALDRIC III, King of Thaldros***
+*Protector of the Realm, Defender of the Faith*
+}}
+
+**DM Note:** This is the "official" history. Players who've learned the truth know this decree was based on lies—the Blackwoods were framed to cover up Prince Aldric's crimes.
+
+---
+
+**DALL-E PROMPT - Royal Decree:**
+```
+Official royal decree on aged vellum parchment, ornate calligraphy text, large cracked red wax seal with crowned lion emblem, gold leaf decorative borders, medieval legal document style, dramatic lighting, museum quality preservation, photorealistic prop
+```
+
+---
+
+\page
+
+## Handout 5: Corvus Blackwood's Letter (Before He Became Lord Shadows)
+
+*Found in Corvus's personal effects or given by sympathetic NPC (Quest 2.4)*
+
+![Corvus Letter](https://your-image-url-here.png){width:100%}
+
+{{description,note
+*The letter is old—over four decades—but carefully preserved. The handwriting starts neat and controlled but becomes increasingly desperate toward the end. Water stains blur some words. Tears, perhaps.*
+
+:
+
+*My Dearest Sister Elara,*
+
+*If you're reading this, I am either dead or have become something you would not recognize. Either way, I am sorry.*
+
+*I was twelve years old when they came for us. I remember Father's face when he realized there would be no trial, no justice—only fire and swords. I remember Mother pushing me toward the servants' passage, screaming at me to run. I remember hiding in the cold and the dark while our home burned.*
+
+*I remember their screams.*
+
+*For forty-three years, I have carried those screams. I have tried to forget. Tried to build a new life. Tried to believe that justice exists somewhere in this world.*
+
+*It doesn't.*
+
+*The kingdoms murdered our family to hide their own sins. They branded us traitors to protect the real traitors. And they sleep peacefully in their palaces while I wake every night to the smell of smoke and the sound of Mother calling my name.*
+
+*I cannot let this stand, Elara. I will not.*
+
+*I have found others—others wronged by the same corruption that destroyed us. Together, we will force the truth into the light. The kingdoms will confess their crimes, or I will tear them down stone by stone.*
+
+*I know you would tell me that vengeance isn't justice. That Father would want me to find peace. But peace is a luxury for those who haven't watched everything they love burn.*
+
+*If I become a monster, know that monsters are made, not born. And know that I loved you until the very end.*
+
+*Your brother, now and always,*
+***Corvus***
+}}
+
+**DM Note:** This humanizes Lord Shadows. He's not evil—he's broken. Players who read this should feel conflicted about stopping him.
+
+---
+
+**DALL-E PROMPT - Corvus Letter:**
+```
+Aged handwritten letter on yellowed paper, elegant but deteriorating handwriting becoming more frantic, visible water stains and tear marks blurring ink, folded and refolded many times, single candle lighting, intimate emotional scene, dark fantasy, photorealistic historical document
+```
+
+---
+
+\page
+
+## Handout 6: Prophecy Fragment
+
+*Found in Thornwood Shrine (Quest 1.2) or ancient temple*
+
+![Prophecy Fragment](https://your-image-url-here.png){width:100%}
+
+{{description,note
+*A fragment of ancient scroll, edges burned and crumbling. The text is in Old Common, barely legible, written in faded ink that might once have been red.*
+
+:
+
+### From the Codex of Endings
+
+*...when shadows wear the face of justice...*
+*...and vengeance claims the name of truth...*
+*...five fragments sundered shall seek reunion...*
+*...the wound that broke the world shall bleed again...*
+
+:
+
+*...the last of the fallen house shall rise...*
+*...bearing grief older than kingdoms...*
+*...and the choice shall fall to strangers...*
+*...to heal the wound or let it consume all...*
+
+:
+
+*...for the Splitter of Worlds knows no master...*
+*...only vessels for its hunger...*
+*...and in the moment of reunion...*
+*...even gods shall hold their breath...*
+
+:
+
+*[The remainder is too damaged to read]*
+}}
+
+**DM Note:** This prophecy foreshadows the entire campaign. "Shadows wearing justice" = Lord Shadows. "Five fragments" = World-Splitter Components. "Last of fallen house" = Corvus. "Choice falls to strangers" = the party.
+
+---
+
+**DALL-E PROMPT - Prophecy Fragment:**
+```
+Ancient scroll fragment with burned crumbling edges, faded red-brown ink text in mystical script, arcane symbols in margins, aged brittle parchment texture, dramatic single light source, mysterious prophecy document, dark fantasy style, photorealistic artifact photography
+```
+
+---
+
+\page
+
+## Handout 7: World-Splitter Component Illustration
+
+*Reference for players after learning about the Components (Quest 2.1)*
+
+![World-Splitter Components](https://your-image-url-here.png){width:100%}
+
+{{description,note
+### The Five Components of the World-Splitter
+
+*Primordial artifacts, older than gods, forged to reshape reality itself. Separated after the First Worldrend to prevent their reunion.*
+
+:
+
+**THE SHADOW SHARD** *(First Component)*
+Guardian: House Blackwood
+Domain: Darkness, Command, Dominion over Shadows
+*A fragment of crystallized void, drinking all light that touches it.*
+
+:
+
+**THE FLAME HEART** *(Second Component)*
+Guardian: Goldshore Keepers
+Domain: Fire, Awakening, Command over Dragons
+*A pulsing ember that never dies, warm as a heartbeat.*
+
+:
+
+**THE VOID FRAGMENT** *(Third Component)*
+Guardian: House Deepwater
+Domain: Water, Depths, Secrets of the Abyss
+*Liquid darkness in solid form, cold as ocean trenches.*
+
+:
+
+**THE STONE CROWN** *(Fourth Component)*
+Guardian: Crown of Thaldros
+Domain: Earth, Dominion, Authority over Kingdoms
+*A circlet of primordial stone, heavier than mountains.*
+
+:
+
+**THE STORM EYE** *(Fifth Component)*
+Guardian: Aethorian Harmony
+Domain: Sky, Destruction, Fury of the Elements
+*A sphere of captured lightning, crackling with contained apocalypse.*
+
+:
+
+**WARNING:** *Reuniting all five Components allows activation of the World-Splitter. The resulting cataclysm—the Second Worldrend—would reshape continents and end civilizations.*
+}}
+
+---
+
+**DALL-E PROMPT - World-Splitter Components:**
+```
+Five mystical artifacts arranged in circle on ancient stone altar: black void crystal, glowing ember heart, dark liquid orb, stone crown circlet, lightning sphere, each emanating different colored magical energy, dramatic lighting, epic fantasy artifacts, highly detailed, dark atmospheric background, photorealistic magical items
+```
+
+---
+
+\page
+
+## Handout 8: House Blackwood Historical Summary
+
+*Give to players after Quest 2.1 (Black Archive revelation)*
+
+{{description,note
+### House Blackwood — The Truth Revealed
+
+:
+
+**OFFICIAL HISTORY (Kingdom Version):**
+- Ancient noble house, served Thaldros for 400+ years
+- Year 1089 CR: Accused of conspiracy to trigger Second Worldrend
+- Evidence: Found possessing World-Splitter Components
+- Trial: Convicted of high treason by royal tribunal
+- Sentence: Entire house executed, lands seized, name forbidden
+- Conclusion: Traitors who sought world destruction for power
+
+:
+
+**THE ACTUAL TRUTH (Black Archive Documents):**
+- House Blackwood were *guardians*, not thieves—sworn to protect the Shadow Shard
+- Prince Aldric (King's eldest son) discovered the Goldshore Keeper vaults
+- Prince Aldric murdered the Keepers to steal the Flame Heart
+- King Aldric III framed House Blackwood to cover his son's crimes
+- The "evidence" was planted; the trial was theater
+- The Second Purge (43 years ago) hunted down hidden survivors
+- One child escaped: Corvus Blackwood, now Lord Shadows
+
+:
+
+**WHAT THIS MEANS:**
+- The Unbound leader has a *legitimate grievance*
+- The current kingdom is built on murder and lies
+- Stopping the Second Worldrend may perpetuate injustice
+- King Aldric IV is ignorant—his father kept the secret
+- There are no clean choices, only difficult ones
+}}
+
+**DM Note:** This is THE major revelation. Players now understand why Lord Shadows does what he does—and why stopping him isn't simple heroism.
+
+---
+
+\page
+
+## Handout 9: Wanted Poster — Lord Shadows
+
+*Found in any major town or city*
+
+![Wanted Poster](https://your-image-url-here.png){width:100%}
+
+{{description,note
+
+# WANTED
+## BY ORDER OF THE CROWN
+
+:
+
+### "LORD SHADOWS"
+#### Leader of the Terrorist Faction "THE UNBOUND"
+
+:
+
+**CRIMES:**
+- High Treason against the Crown
+- Murder of Royal Soldiers and Officials
+- Conspiracy to Trigger Second Worldrend
+- Theft of Crown Artifacts
+- Sedition and Incitement of Rebellion
+
+:
+
+**DESCRIPTION:**
+- Human male, approximately 50-60 years of age
+- Always wears black mask concealing face
+- Burn scars reported on face and hands
+- Commands shadow magic of unknown origin
+- Extremely dangerous—DO NOT APPROACH ALONE
+
+:
+
+**REWARD:**
+## 10,000 GOLD PIECES
+*For information leading to capture*
+
+## 25,000 GOLD PIECES
+*For delivery of Lord Shadows, alive*
+
+:
+
+*Report all information to your nearest Guard Captain*
+*The Crown protects those who serve justice*
+}}
+
+**DM Note:** The irony is thick—the Crown calls him a terrorist while covering up the terrorism committed against his family. Players who know the truth will read this very differently.
+
+---
+
+**DALL-E PROMPT - Wanted Poster:**
+```
+Medieval wanted poster on aged parchment, bold "WANTED" text at top, shadowy silhouette of masked figure in black cloak, reward amount in gold coins illustration, torn edges and weathered texture, posted on wooden board with nail, dramatic lighting, dark fantasy style, photorealistic prop
+```
+
+---
+
+\page
+
+## Handout 10: Arcturus's Map of the Undercity
+
+*Given by High Mage Arcturus (Quest 2.1)*
+
+{{note
+**PHYSICAL PROP SUGGESTION:** Hand-draw this on parchment paper, tea-stain it, and mark the dragon's lair with a red X. Add cryptic warnings in margins.
+}}
+
+![Undercity Map](https://your-image-url-here.png){width:100%}
+
+{{description,note
+*A map drawn in ghostly silver ink that glows faintly in darkness. The lines are precise but ancient—drawn from memory thousands of years old.*
+
+:
+
+### THE UNDERCITY BENEATH KAER THANDROS
+*"Older than the palace above. Older than the kingdom. Walk carefully."*
+
+:
+
+**MARKED LOCATIONS:**
+
+**[A] Palace Cellars** — *Modern. Guards patrol. Avoid.*
+
+**[B] The Sunken Temple** — *Pre-Worldrend. Collapsed. Impassable.*
+
+**[C] The Primordial Passage** — *Safe route. Watch for cave-ins.*
+
+**[D] The Keeper Vaults** — *Goldshore guardians died here. Ghosts remain.*
+
+**[E] The Dragon's Maw** — *HERE SLEEPS INFERNALIX. DO NOT WAKE.*
+
+**[F] The Component Chamber** — *Your objective. Behind the dragon.*
+
+:
+
+*Margin note in shaky script:*
+*"The dragon has slept 2,000 years. One wrong step, one loud noise, one flash of light—and it wakes. You cannot fight it. You can only die."*
+}}
+
+**DM Note:** This map guides players through the Quest 2.3 dungeon. The warnings about the dragon should create genuine tension.
+
+---
+
+**DALL-E PROMPT - Undercity Map:**
+```
+Ancient dungeon map drawn in glowing silver ink on dark parchment, winding passages and chambers marked with letters, dragon skull symbol marking lair, ghostly ethereal quality, handwritten warnings in margins, fantasy cartography style, mysterious atmosphere, photorealistic magical document
+```
+
+---
+
+\page
+
+## Handout 11: Letter of Introduction to Professor Miranda
+
+*Given by Arcturus (Quest 2.1)*
+
+{{description,note
+*A letter written in silver ink that shimmers like moonlight. The seal is the symbol of the Order of the Unveiled Truth—an open book beneath a crescent moon.*
+
+:
+
+*Dear Miranda,*
+
+*If you're reading this, my gamble has paid off and the heroes I've chosen haven't gotten themselves killed yet. Small victories.*
+
+*These individuals carry knowledge of the World-Splitter Components and the conspiracy that ended House Blackwood. They need your expertise in Primordial artifacts and your discretion in matters the Crown would prefer stay buried.*
+
+*Yes, I know you're technically supposed to report any mention of forbidden artifacts to the university authorities. I also know you haven't reported anything to anyone in fifteen years because—and I quote—"bureaucrats wouldn't know historical significance if it bit them."*
+
+*Help them. The fate of continents may depend on it. No pressure.*
+
+*Try not to get too excited. I know how you get.*
+
+*Eternally (literally),*
+***Arcturus***
+*High Mage, Order of the Unveiled Truth*
+*Currently: Dead but opinionated*
+
+:
+
+*P.S. — They may mention a dragon. Try to contain yourself.*
+}}
+
+**DM Note:** This introduces Professor Miranda's personality before they meet her—brilliant, irreverent, and dangerously curious.
+
+---
+
+\page
+
+## Handout 12: The Unbound Manifesto
+
+*Found on captured cultists or in Unbound hideouts*
+
+![Unbound Manifesto](https://your-image-url-here.png){width:100%}
+
+{{description,note
+*A pamphlet, mass-produced by magical means, distributed in secret throughout Thaldros. The black raven symbol adorns the cover.*
+
+:
+
+### THE TRUTH THEY HIDE
+
+:
+
+*Citizens of Thaldros,*
+
+*You have been lied to.*
+
+*Your kings are not protectors—they are thieves. Your nobles are not leaders—they are parasites. Your history is not truth—it is propaganda written by murderers to justify murder.*
+
+*For over a century and a half, you have been told that House Blackwood were traitors who sought to destroy the world. This is a LIE.*
+
+*House Blackwood were GUARDIANS. They protected the realm from the very artifacts they were accused of misusing. They were murdered—men, women, and children—to hide the REAL traitors: the royal family itself.*
+
+*King Aldric III's own son committed the crimes blamed on the Blackwoods. The king covered it up. The nobles stayed silent. And an innocent family burned.*
+
+*We are THE UNBOUND.*
+
+*We do not seek power. We seek TRUTH.*
+
+*We do not seek destruction. We seek JUSTICE.*
+
+*Join us, and learn what your rulers fear most: an informed populace.*
+
+*The reckoning comes. Choose your side.*
+
+:
+
+***— LORD SHADOWS***
+*Last Son of House Blackwood*
+*Seeker of Truth, Bringer of Justice*
+}}
+
+**DM Note:** This is propaganda, but it's *accurate* propaganda. The Unbound's cause is just—their methods are the problem.
+
+---
+
+**DALL-E PROMPT - Unbound Manifesto:**
+```
+Revolutionary pamphlet with black raven symbol on cover, bold propaganda text visible, mass-produced rough paper quality, medieval printing style, dramatic lighting suggesting forbidden document, dark fantasy political broadsheet, slightly crumpled and passed between many hands, photorealistic prop
+```
+
+---
+
+\page
 
 # 📚 SESSION ZERO HANDOUTS
 
-## 16. WORLD PRIMER (PLAYER VERSION)
+## Handout 13: World Primer (Player Version)
 
-{{monster,frame
-## ═══════════════════════════════════════════
-___
-**THE BASICS** :: 
-**Now there are two continents** :: 
-**• Capital** :: Kaer Thandros
-**• Known for** :: Knights, soldiers, order
-**• Capital** :: Aethermere
-**• Known for** :: Trade, magic, culture
-**Between them** :: THE SUNDERING SEA
-**THE SEVEN ASCENDED** :: 
-**CURRENT EVENTS** :: 
+*Give to all players at Session Zero*
+
+{{description,note
+### WELCOME TO TIRVANDOR
+#### A World Broken and Rebuilt
+
+:
+
+**THE BASICS:**
+Over a thousand years ago, a cataclysm called THE WORLDREND shattered the single continent into pieces. Now there are two main landmasses separated by the Sundering Sea.
+
+:
+
+**THALDROS** *(Western Continent)*
+- Capital: Kaer Thandros
+- Government: Hereditary monarchy
+- Known for: Knights, military tradition, rigid social order
+- Current ruler: King Aldric IV
+- Tensions: Growing unrest, rumors of rebellion
+
+**AETHORIA** *(Eastern Continent)*
+- Capital: Aethermere
+- Government: Elected councils (republic)
+- Known for: Magic, trade, scholarship
+- Current leader: First Speaker Elenya Brightsong
+- Tensions: Border disputes with Thaldros
+
+:
+
+**THE SEVEN ASCENDED** *(The Gods)*
+Thandros (Justice), Aethor (Knowledge), Moira (Fate), Kael (War), Sera (Healing), Mordain (Death), Sylvara (Nature)
+
+:
+
+**CURRENT EVENTS:**
+- Strange disappearances in border towns
+- Cult activity reported throughout Thaldros
+- Tensions between kingdoms at all-time high
+- Rumors of ancient artifacts resurfacing
+- Something is coming. No one knows what.
+
+:
+
+**YOUR STORY BEGINS:**
+You find yourselves in SILVERPINE, a quiet town that has recently become... less quiet.
 }}
 
 ---
 
-## 17. CHARACTER CONNECTION WORKSHEET
+\page
 
-{{monster,frame
-## ═══════════════════════════════════════════
-___
-**MY CHARACTER** :: ___________________________
-**CONNECTION TO [PC NAME]** :: ________________
-**Choose 1-2 connections per party member** :: 
-**□ We met during [event]** :: _______________
-**□ We're related** :: _______________________
-**□ We share a secret** :: ___________________
-**□ We share a common enemy** :: _____________
-**SHARED EXPERIENCE** :: 
-**INSIDE JOKE OR CALLBACK** :: 
-**GOAL** :: Everyone should have at least 2
+## Handout 14: Character Connection Worksheet
+
+*Give to each player at Session Zero*
+
+{{description,note
+### CHARACTER CONNECTIONS
+#### Building Your Party's History
+
+:
+
+**MY CHARACTER:** _________________________________
+
+**CLASS/BACKGROUND:** _________________________________
+
+:
+
+**CONNECTIONS TO OTHER PARTY MEMBERS:**
+*(Fill in after discussing with other players)*
+
+**Connection to _______________:**
+- [ ] We met during _______________
+- [ ] We're related (how?) _______________
+- [ ] We share a secret: _______________
+- [ ] They saved my life when _______________
+- [ ] I owe them a debt because _______________
+- [ ] We served together in _______________
+- [ ] Other: _______________
+
+:
+
+**Connection to _______________:**
+*(Repeat for each party member)*
+
+:
+
+**SHARED PARTY EXPERIENCE:**
+*Something all characters experienced together before the campaign:*
+_______________________________________________
+
+:
+
+**PERSONAL GOAL:**
+*What does your character want more than anything?*
+_______________________________________________
+
+:
+
+**DARK SECRET:**
+*What is your character hiding?*
+_______________________________________________
 }}
 
 ---
+
+\page
+
+## Handout 15: Campaign Tone & Expectations
+
+*Discuss at Session Zero*
+
+{{description,note
+### SHATTERED OATHS — WHAT TO EXPECT
+
+:
+
+**CAMPAIGN TONE:**
+- **Heroic** but with **moral complexity**
+- Not all enemies are evil; not all allies are good
+- Your choices matter and have consequences
+- The "right" answer isn't always clear
+- Violence has weight—killing isn't casual
+
+:
+
+**THEMES:**
+- Justice vs. Vengeance
+- Truth vs. Stability  
+- Loyalty vs. Morality
+- What makes a hero? What makes a villain?
+
+:
+
+**CONTENT EXPECTATIONS:**
+- Violence: Yes (fantasy combat)
+- Character death: Possible (but fair)
+- Dark themes: Yes (injustice, grief, moral gray areas)
+- Romance: Player-driven, fade-to-black
+- Horror elements: Occasional (undead, cults)
+
+:
+
+**PLAYER EXPECTATIONS:**
+- Engage with moral dilemmas (no "I attack" solutions to everything)
+- Respect other players' moments
+- Communicate concerns to DM privately
+- Keep party cohesion (find reasons to work together)
+- Take notes (or designate a note-taker)
+
+:
+
+**DM PROMISES:**
+- I will challenge you, not punish you
+- Your backstory will matter
+- Major NPCs won't die off-screen
+- I will telegraph deadly encounters
+- If I make a mistake, I'll own it
+}}
+
+---
+
+\page
+
+# 🎯 CAMPAIGN TRACKING HANDOUTS
+
+## Handout 16: World-Splitter Component Tracker
+
+*Give to players after Quest 2.1*
+
+{{description,note,wide
+### WORLD-SPLITTER STATUS
+
+:
+
+**THE FIVE COMPONENTS:**
+
+| Component | Guardian | Location | Status |
+|:----------|:---------|:---------|:-------|
+| Shadow Shard | House Blackwood | Raven's Keep | ☐ Party ☐ Enemy ☐ Unknown |
+| Flame Heart | Goldshore Keepers | Kaer Thandros Vaults | ☐ Party ☐ Enemy ☐ Unknown |
+| Void Fragment | House Deepwater | Sunken Manor | ☐ Party ☐ Enemy ☐ Unknown |
+| Stone Crown | Crown of Thaldros | Royal Treasury | ☐ Party ☐ Enemy ☐ Unknown |
+| Storm Eye | Aethorian Harmony | Across the Sea | ☐ Party ☐ Enemy ☐ Unknown |
+
+:
+
+**ASSEMBLY PROGRESS:**
+☐☐☐☐☐ (Mark each component Lord Shadows obtains)
+
+:
+
+**⚠️ WARNING:**
+If Lord Shadows obtains all five Components, he can trigger the Second Worldrend. Millions will die. Continents will shatter.
+
+*But also: His family was murdered. The kingdoms lied. Is stopping him justice... or protecting injustice?*
+
+:
+
+**YOUR CHOICE MATTERS.**
+}}
+
+---
+
+\page
+
+## Handout 17: NPC Relationship Tracker
+
+*For players to track important characters*
+
+{{description,note,wide
+### KEY CHARACTERS
+
+:
+
+**ALLIES:**
+
+**Captain Roderic Vale** — Silverpine Guard Captain
+Attitude: _______________ Trust Level: ☐☐☐☐☐
+Notes: _______________________________________________
+
+**High Mage Arcturus** — Ghost of the Black Archive
+Attitude: _______________ Trust Level: ☐☐☐☐☐
+Notes: _______________________________________________
+
+**Professor Miranda Questseeker** — Aethoria University
+Attitude: _______________ Trust Level: ☐☐☐☐☐
+Notes: _______________________________________________
+
+:
+
+**ENEMIES:**
+
+**Lord Shadows (Corvus Blackwood)** — Leader of the Unbound
+Attitude: _______________ Threat Level: ☐☐☐☐☐
+Notes: _______________________________________________
+
+**Captain Voidcaller** — Unbound Military Commander
+Attitude: _______________ Threat Level: ☐☐☐☐☐
+Notes: _______________________________________________
+
+:
+
+**UNCERTAIN:**
+
+**King Aldric IV** — Ruler of Thaldros
+Attitude: _______________ 
+Notes: _______________________________________________
+
+:
+
+*Add more characters as you meet them!*
+}}
+
+---
+
+\page
 
 # 🖨️ PRINTING INSTRUCTIONS
 
 ## Paper Recommendations
 
-**For Immersion:** ::
-- Parchment-style paper (tan/cream)
-- Aged paper texture
-- Heavier weight (24 lb+)
+**For Maximum Immersion:**
+- Parchment-style paper (tan/cream colored)
+- Heavier weight (24 lb or cardstock)
+- Matte finish (not glossy)
 
-**For Durability:** ::
-- Regular printer paper + lamination
-- Cardstock for frequently-used items
+**For Durability:**
+- Regular paper + lamination
+- Cardstock for frequently-handled items
 
-**For Atmosphere:** ::
-- Tea/coffee staining (dry completely!)
-- Crumpled and re-flattened
-- Torn edges (carefully)
-- Wax seals (or red crayon pressed into paper)
+**For Atmosphere:**
+- Tea/coffee staining (see below)
+- Carefully torn or burned edges
+- Wax seals for letters
+
+---
 
 ## Aging Paper Technique
 
-1. **Brew strong tea or coffee**
-2. **Lay paper in shallow tray**
-3. **Pour tea/coffee over paper**
-4. **Let soak 5-10 minutes**
-5. **Remove and let dry flat**
-6. **Iron on low heat to flatten**
-7. **Optional: Burn edges carefully**
+1. Brew strong black tea or coffee
+2. Lay printed paper in shallow tray
+3. Pour tea/coffee over paper, ensuring coverage
+4. Let soak 5-10 minutes (longer = darker)
+5. Carefully remove and lay flat to dry
+6. Iron on LOW heat to flatten
+7. Optional: Carefully burn edges with lighter
 
-Result: Looks 100+ years old!
+**Result:** Paper looks 100+ years old!
 
-## Sealing Letters
+---
 
-**Professional Method:** ::
-- Use sealing wax + stamp
-- Heat wax stick with lighter
+## Creating Wax Seals
+
+**Professional Method:**
+- Sealing wax stick + stamp
+- Heat wax with lighter until dripping
 - Drip onto folded letter
 - Press seal immediately
 - Let cool 30 seconds
 
-**Budget Method:** ::
-- Use red crayon
-- Light crayon with lighter
+**Budget Method:**
+- Red crayon
+- Light crayon tip with lighter
 - Drip onto letter
-- Press with coin or button
-- Looks just as good!
+- Press with coin or button while warm
+- Looks great for fraction of cost!
 
 ---
 
-# ✅ USAGE CHECKLIST
+\page
+
+# 🎨 DALL-E PROMPT SUMMARY
+
+Use these prompts to generate custom artwork for your handouts:
+
+{{note
+## Image Generation Prompts
+
+**1. Black Raven Token:**
+*A dark metal coin or medallion on aged wooden surface, featuring an embossed silver raven with spread wings against black iron, ancient runic text around the edge, dramatic lighting from single candle, photorealistic, dark fantasy style, mysterious atmosphere, high detail*
+
+**2. Threatening Letter:**
+*Aged parchment letter with angular threatening handwriting, black raven stamp at bottom in dark red wax or blood, rough torn edges, dramatic candlelight illumination, dark fantasy prop, weathered paper texture, medieval style, photorealistic document*
+
+**3. Royal Decree:**
+*Official royal decree on aged vellum parchment, ornate calligraphy text, large cracked red wax seal with crowned lion emblem, gold leaf decorative borders, medieval legal document style, dramatic lighting, museum quality preservation, photorealistic prop*
+
+**4. Corvus's Letter:**
+*Aged handwritten letter on yellowed paper, elegant but deteriorating handwriting becoming more frantic, visible water stains and tear marks blurring ink, folded and refolded many times, single candle lighting, intimate emotional scene, dark fantasy, photorealistic historical document*
+
+**5. Prophecy Fragment:**
+*Ancient scroll fragment with burned crumbling edges, faded red-brown ink text in mystical script, arcane symbols in margins, aged brittle parchment texture, dramatic single light source, mysterious prophecy document, dark fantasy style, photorealistic artifact photography*
+
+**6. World-Splitter Components:**
+*Five mystical artifacts arranged in circle on ancient stone altar: black void crystal, glowing ember heart, dark liquid orb, stone crown circlet, lightning sphere, each emanating different colored magical energy, dramatic lighting, epic fantasy artifacts, highly detailed, dark atmospheric background, photorealistic magical items*
+
+**7. Wanted Poster:**
+*Medieval wanted poster on aged parchment, bold "WANTED" text at top, shadowy silhouette of masked figure in black cloak, reward amount in gold coins illustration, torn edges and weathered texture, posted on wooden board with nail, dramatic lighting, dark fantasy style, photorealistic prop*
+
+**8. Undercity Map:**
+*Ancient dungeon map drawn in glowing silver ink on dark parchment, winding passages and chambers marked with letters, dragon skull symbol marking lair, ghostly ethereal quality, handwritten warnings in margins, fantasy cartography style, mysterious atmosphere, photorealistic magical document*
+
+**9. Unbound Manifesto:**
+*Revolutionary pamphlet with black raven symbol on cover, bold propaganda text visible, mass-produced rough paper quality, medieval printing style, dramatic lighting suggesting forbidden document, dark fantasy political broadsheet, slightly crumpled and passed between many hands, photorealistic prop*
+
+**10. House Blackwood Crest:**
+*Noble house heraldic crest featuring black raven on silver shield, partially burned and damaged, smoke stains and char marks, mounted on ruined wall, tragic atmosphere, remnant of destroyed noble house, dark fantasy heraldry, dramatic lighting, photorealistic*
+}}
+
+---
+
+\page
+
+# ✅ HANDOUTS CHECKLIST
 
 ## Before Session Zero:
 - [ ] Print World Primer (1 per player)
 - [ ] Print Character Connection Worksheet (1 per player)
-- [ ] Print tavern menus (for reference)
+- [ ] Print Campaign Tone & Expectations (1 per player)
+- [ ] Optional: Generate and print cover art
 
-## During Campaign:
-- [ ] Print job board when PCs visit towns
-- [ ] Give wanted posters when PCs ask guards
-- [ ] Hand out letters when NPCs send them
-- [ ] Distribute historical docs when PCs research
-- [ ] Award badges/permits as quest rewards
+## Quest 1.1 (Silverpine):
+- [ ] Silverpine Rumors handout
+- [ ] Black Raven Token (prop or image)
 
-## As Needed:
-- [ ] Create custom handouts for your own hooks
-- [ ] Modify templates for specific NPCs
-- [ ] Add campaign-specific props
+## Quest 1.2 (Investigation):
+- [ ] Threatening Letter to Merchants
+- [ ] Prophecy Fragment
 
----
+## Quest 2.1 (Black Archive):
+- [ ] Royal Decree — House Blackwood
+- [ ] House Blackwood Historical Summary
+- [ ] Undercity Map
+- [ ] Letter of Introduction to Professor Miranda
+- [ ] World-Splitter Component Tracker
 
-# 💡 CUSTOM HANDOUT IDEAS
+## Quest 2.4 (Confrontation):
+- [ ] Corvus Blackwood's Letter
+- [ ] Unbound Manifesto
 
-## Create Your Own:
-
-**Treasure Maps:** ::
-- Hand-drawn, tea-stained
-- X marks the spot
-- Cryptic clues instead of labels
-
-**NPC Letters:** ::
-- Different handwriting per NPC
-- Personality in word choice
-- Mistakes/cross-outs for realism
-
-**Newspapers:** ::
-- "Goldreach Daily"
-- Headlines of major events
-- Classified ads for hooks
-
-**Contracts:** ::
-- Employment agreements
-- Magic item rentals
-- Devil pacts (be careful!)
-
-**Recipes/Rituals:** ::
-- Potion ingredients
-- Spell components
-- Cult ceremonies
+## Throughout Campaign:
+- [ ] Wanted Poster — Lord Shadows (post in towns)
+- [ ] NPC Relationship Tracker (ongoing)
 
 ---
 
-# ✅ HANDOUTS & PROPS COMPLETE!
+# ✅ HANDOUTS COMPLETE!
 
-**Status:** 17 handouts ready to print  
-**Format:** Printer-friendly, immersive  
-**Quality:** Atmosphere-enhancing  
-**Use:** Session Zero through endgame
+**Total Handouts:** 17 ready-to-print documents
+**Image Prompts:** 10 DALL-E prompts for custom art
+**Format:** Homebrewery-compatible, printer-friendly
+**Coverage:** Session Zero through Act III
 
-**This completes the Handouts & Props section!** 📜⚔️✨
-
----
-
-**Progress: 2/4 tools complete!**
-- ✅ Magic Item Cards
-- ✅ Handouts & Props  
-- ⏳ Session Tracking Sheets (next)
-- ⏳ Campaign Dashboard (final)
-
+**This completes the Player Handouts section!** 📜⚔️✨
 {{pageNumber,auto}}
 \page
 
