@@ -20,7 +20,7 @@ The Heroic Campaign | When good people face impossible choices
 ## Campaign Guide
 ___
 
-**A  5th Edition Campaign for Levels 1-15**
+**A 5th Edition Campaign for Levels 1-15**
 
 *What happens when a hero's oath conflicts with a hero's heart?*
 
@@ -51,7 +51,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 
 - ### [{{ Introduction}}{{ 1}}](#p5)
   - #### [{{ Campaign Overview}}{{ 1}}](#p5)
-- ### [{{ THE SHATTERED OATHS CAMPAIGN}}{{ 2}}](#p6)
+- ### [{{ The Shattered Oaths Campaign}}{{ 2}}](#p6)
   - #### [{{ A Heroic Campaign for Tirvandor (Levels 1-15)}}{{ 2}}](#p6)
   - #### [{{ Campaign Overview}}{{ 2}}](#p6)
     - [{{ The Premise}}{{ 2}}](#p6)
@@ -156,7 +156,6 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Quick Reference by CR}}{{ 136}}](#p140)
   - #### [{{ Encounter Building Notes}}{{ 136}}](#p140)
 - ### [{{ Appendix D: DM Quick Reference}}{{ 137}}](#p141)
-- ### [{{ SHATTERED OATHS - DM QUICK REFERENCE}}{{ 137}}](#p141)
   - #### [{{ At-a-Glance Campaign Guide}}{{ 137}}](#p141)
   - #### [{{ Campaign Structure}}{{ 137}}](#p141)
   - #### [{{ Quick Session Breakdown}}{{ 137}}](#p141)
@@ -192,28 +191,26 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Arcturus’s Map of the Undercity}}{{ 166}}](#p170)  
   - #### [{{ Letter of Introduction to Professor Miranda}}{{ 167}}](#p171)
   - #### [{{ The Unbound Manifesto}}{{ 168}}](#p172)
-- ### [{{ SESSION ZERO HANDOUTS}}{{ 169}}](#p173)
+- ### [{{ Sessions Zero Handouts}}{{ 169}}](#p173)
   - #### [{{ World Primer (Player Version)}}{{ 169}}](#p173)
   - #### [{{ Character Connection Worksheet}}{{ 169}}](#p173)
 - ### [{{ Campaign Tone & Expectations}}{{ 170}}](#p174)
-  - #### [{{ SHATTERED OATHS — WHAT TO EXPECT}}{{ 170}}](#p174)
+  - #### [{{ Shattered Oaths — What to Expect}}{{ 170}}](#p174)
   - #### [{{ World-Splitter Component Tracker}}{{ 171}}](#p175)
   - #### [{{ NPC Relationship Tracker}}{{ 171}}](#p175)
 - ### [{{ Appendix F: Maps}}{{ 172}}](#p176)
-  - #### [{{ 1. BLACKWOOD FAMILY ESTATE RUINS}}{{ 172}}](#p176)
-  - #### [{{ 2. FINAL CONFRONTATION CHAMBER}}{{ 173}}](#p177)
-  - #### [{{ 3. REFUGEE CAMP}}{{ 174}}](#p178)
-  - #### [{{ 4. ANCIENT PRECURSOR RUINS (INTERIOR)}}{{ 175}}](#p179)
-  - #### [{{ 5. BORDER FORTRESS BATTLE}}{{ 176}}](#p180)
-  - #### [{{ 6. KAER THANDROS THRONE ROOM}}{{ 177}}](#p181)
-  - #### [{{ 7. LEY LINE NEXUS RITUAL SITE}}{{ 178}}](#p182)
-  - #### [{{ 8. DRAGON INFERNALIX’S LAIR}}{{ 179}}](#p183)
-  - #### [{{ 9. THE BLACK ARCHIVE}}{{ 180}}](#p184)
-  - #### [{{ 10. VOID RIFT LOCATION}}{{ 181}}](#p185)
-  - #### [{{ Map Usage Notes}}{{ 182}}](#p186)
+  - #### [{{ 1. Blackwood Family Estate Ruins}}{{ 172}}](#p176)
+  - #### [{{ 2. Final Confrontation Chamber}}{{ 173}}](#p177)
+  - #### [{{ 3. Refugee Camp}}{{ 174}}](#p178)
+  - #### [{{ 4. Ancient Precursor Ruins (Interior)}}{{ 175}}](#p179)
+  - #### [{{ 5. Border Fortress Battle}}{{ 176}}](#p180)
+  - #### [{{ 6. Kaer Thandros Thronw Room}}{{ 177}}](#p181)
+  - #### [{{ 7. Ley Line Nexus Trial Site}}{{ 178}}](#p182)
+  - #### [{{ 8. Dragon Infernalix's Lair}}{{ 179}}](#p183)
+  - #### [{{ 9. The Black Archive}}{{ 180}}](#p184)
+  - #### [{{ 10. Void Rift Location}}{{ 181}}](#p185)  
 - ### [{{ Appendix: Campaign-Specific NPCs}}{{ 182}}](#p186)
 }}
-
 
 {{skipCounting}}
 \page
@@ -256,7 +253,7 @@ The players must navigate between:
 {{pageNumber,auto}}{{pageNumber,auto}}
 \page
 
-# THE SHATTERED OATHS CAMPAIGN
+# The Shattered Oaths Campaign
 ## A Heroic Campaign for Tirvandor (Levels 1-15)
 
 **Campaign Title:** The Shattered Oaths  
@@ -11604,7 +11601,6 @@ ___
 
 # Appendix D: DM Quick Reference
 
-# SHATTERED OATHS - DM QUICK REFERENCE
 ## At-a-Glance Campaign Guide
 
 ## Campaign Structure
@@ -11637,7 +11633,7 @@ ___
 **Encounters:** Unbound cultists (CR 1/8 each), shadow creatures (CR 1/2) ::
 **Rewards:** 100-200 gp, village gratitude, black raven token (clue) ::
 **Key Decision:** Pursue cult or report to authorities ::
-
+\column
 ### Quest 1.2: The Shadowmark Conspiracy (Level 2, 2 sessions)
 **Goal:** Infiltrate Unbound recruitment meeting, capture recruiter ::
 **Key NPCs:** Garrett the Mason (turned cultist, CR 2), Captain Roderic (CR 5) ::
@@ -13752,7 +13748,7 @@ Domain: Sky, Destruction, Fury of the Elements
 {{pageNumber,auto}}
 \page
 
-# SESSION ZERO HANDOUTS
+# Sessions Zero Handouts
 
 ## World Primer (Player Version)
 
@@ -13865,7 +13861,7 @@ _______________________________________________
 *Discuss at Session Zero*
 }}
 {{description,note
-### SHATTERED OATHS — WHAT TO EXPECT
+### Shattered Oaths — What to Expect
 
 :
 
@@ -13920,11 +13916,11 @@ _______________________________________________
 *Give to players after Quest 2.1*
 
 {{description,note,wide
-### WORLD-SPLITTER STATUS
+### World-Splitter Status
 
 :
 
-**THE FIVE COMPONENTS:**
+**The Five Components:**
 
 | Component | Guardian | Location | Status |
 |:----------|:---------|:---------|:-------|
@@ -14005,7 +14001,7 @@ Notes: _______________________________________________
 
 # Appendix F: Maps
 
-## 1. BLACKWOOD FAMILY ESTATE RUINS
+## 1. Blackwood Family Estate Ruins
 **Type:** Ruined manor and family crypt  
 **Use:** Act 3 - Discovering Corvus Blackwood's tragic past  
 **Features:** ::
@@ -14024,7 +14020,7 @@ Notes: _______________________________________________
 }}{{pageNumber,auto}}
 \page
 
-## 2. FINAL CONFRONTATION CHAMBER
+## 2. Final Confrontation Chamber
 **Type:** Underground magical chamber  ::
 **Use:** Act 4 - Climactic battle with Lord Shadows  ::
 \column
@@ -14045,7 +14041,7 @@ Notes: _______________________________________________
 {{pageNumber,auto}}
 \page
 
-## 3. REFUGEE CAMP
+## 3. Refugee Camp
 **Type:** Temporary settlement  ::
 **Use:** Act 1-2 - Meeting displaced civilians  ::
 
@@ -14066,7 +14062,7 @@ Notes: _______________________________________________
 }}{{pageNumber,auto}}
 \page
 
-## 4. ANCIENT PRECURSOR RUINS (INTERIOR)
+## 4. Ancient Precursor Ruins (Interior)
 **Type:** High-tech ancient structure  ::
 **Use:** Act 3 - Discovering Worldrend secrets ::
 **Features:** ::
@@ -14087,7 +14083,7 @@ Notes: _______________________________________________
 }}{{pageNumber,auto}}
 \page
 
-## 5. BORDER FORTRESS BATTLE
+## 5. Border Fortress Battle
 **Type:** Fortress under siege  ::
 **Use:** Act 2 - Defending against Thaldros attack  ::
 **Features:** ::
@@ -14107,7 +14103,7 @@ Notes: _______________________________________________
 }}{{pageNumber,auto}}
 \page
 
-## 6. KAER THANDROS THRONE ROOM
+## 6. Kaer Thandors Throne Room
 **File:** kaer-thandros-throne-room.png  
 **Type:** Underground throne chamber  
 **Use:** Act 3 - Confronting Thaldros leadership or alternate ending  
@@ -14129,7 +14125,7 @@ Notes: _______________________________________________
 }}{{pageNumber,auto}}
 \page
 
-## 7. LEY LINE NEXUS RITUAL SITE
+## 7. Ley Line Nexus Ritual Site
 **File:** ley-line-nexus-ritual-site.png  
 **Type:** Outdoor ritual circle  
 **Use:** Act 3-4 - Disrupting or using ley line magic  
@@ -14150,7 +14146,7 @@ Notes: _______________________________________________
 }}{{pageNumber,auto}}
 \page
 
-## 8. DRAGON INFERNALIX'S LAIR
+## 8. Dragon Infernalix's Lair
 **File:** dragon-infernalixs-lair.jpg  
 **Type:** Natural cave system with dragon hoard  
 **Use:** Act 2 - Retrieving Second World-Splitter Component  
@@ -14173,7 +14169,7 @@ Notes: _______________________________________________
 \page
 
 
-## 9. THE BLACK ARCHIVE
+## 9. The Black Archive
 **File:** the-black-archive.jpg  
 **Type:** Underground library/vault  
 **Use:** Act 2 - Learning truth about House Blackwood  
@@ -14196,7 +14192,7 @@ Notes: _______________________________________________
 \page
 
 
-## 10. VOID RIFT LOCATION
+## 10. Void Rift Location
 **File:** void-rift-location.png  
 **Type:** Planar tear/corruption site  
 **Use:** Act 4 - Alternate ending or additional threat  
@@ -14216,25 +14212,6 @@ Notes: _______________________________________________
 ![map](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/void-rift-location_converted.jpg){position:absolute,bottom:45px,left:20px,width:95%}
 }}{{pageNumber,auto}}
 \page
-
-
-## Map Usage Notes
-
-**Grid:** All maps are gridded for 5ft squares (standard VTT)  
-**Resolution:** High quality for digital tabletops  
-**Lighting:** Dynamic lighting compatible  
-**Tokens:** Place tokens as needed for specific encounters
-
-**Campaign Flow:** ::
-1. **Act 1-2:** Refugee Camp → Border Fortress → Dragon Infernalix's Lair
-2. **Act 3:** Black Archive → Ancient Precursor Ruins → Blackwood Estate → Kaer Thandros Throne Room → Ley Line Nexus
-3. **Act 4:** Final Confrontation Chamber OR Void Rift (alternate ending)
-
----
-
-**Total Storage:** 2.0 MB  
-**Format:** PNG & JPG  
-**Ready for Fantasy Grounds Unity:** Yes
 
 # Appendix: Campaign-Specific NPCs
 :
@@ -14281,6 +14258,7 @@ ___
 ***Portent.*** :: Replace any d20 roll with portent die.
 *"Every book I read feels like remembering something I forgot. Why?"*
 }}
+
 {{pageNumber,auto}}
 \page
 
