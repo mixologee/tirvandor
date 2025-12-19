@@ -3271,9 +3271,11 @@ Party has until midnight to explore, prepare, and gather information.
 - Now revealed as massacre
 
 {{description,note
-*"King Aldric III faced a choice: Execute his own son for genocide and dragon-cult conspiracy, or... find a scapegoat. He chose cowardice over justice. The hidden Blackwood survivors, oldest of the guardian families, were targeted. They were hunted down, framed anew, burned alive where they hid. Every member executed. All except one."* ::
-**Image: A terrified 12-year-old boy fleeing through flames:** ::
+*"King Aldric III faced a choice: Execute his own son for genocide and dragon-cult conspiracy, or... find a scapegoat. He chose cowardice over justice. The hidden Blackwood survivors, oldest of the guardian families, were targeted. They were hunted down, framed anew, burned alive where they hid. Every member executed. All except one."*
+
+**Image: A terrified 12-year-old boy fleeing through flames:** 
 }}
+:
 {{description,note
 *"Corvus Blackwood, age twelve, escaped. Watched his parents die. Heard them scream their innocence as they burned. Spent forty-three years in exile, planning, gathering followers, seeking proof. And then he learned about the Components. Understood that only a Blackwood could open the vault at Raven's Keep. Realized he could prove his family's innocence by demonstrating they were guardians, not thieves.*
 
@@ -3299,11 +3301,11 @@ Party has until midnight to explore, prepare, and gather information.
 :
 *"No. His father kept the secret. Aldric IV believes the official story—that Blackwoods were traitors. He's a decent man ruling from ignorance. When the truth emerges, it will destroy his legitimacy. The nobility knows this. They'll kill anyone who threatens to expose it. Including you."*
 
-\page
-
 **"Can we stop Lord Shadows without violence?"** ::
 :
 *"Perhaps. Corvus Blackwood is driven by pain, not evil. If you could offer him justice—real acknowledgment of his family's innocence, punishment for those who destroyed them, restoration of the Blackwood name—he might stand down. But who can offer that? The King doesn't know the truth. The nobility won't confess. The only witnesses are dead... except me."* 
+
+\page
 
 **Insight DC 17:** ::
 - Arcturus is suggesting HE could testify
@@ -3336,15 +3338,16 @@ Party has until midnight to explore, prepare, and gather information.
 5. **Blackwood Sigil Ring** (if party has First Component)
    *"This belonged to Lord Aldric Blackwood. It bears his blood—literally. The Component vaults respond to Blackwood bloodline. This ring can fool the wards. Use it to enter places forbidden to others."*
 
-\column
-
 **ARCTURUS'S WARNING:** ::
+:
 {{description,note 
 *"One final thing. The dragon beneath us is ANCIENT. It predates the current kingdoms by two millennia. Waking Infernalix would be catastrophic—even if you stopped the Unbound, the dragon itself could level this city in minutes. Your goal is NOT to fight the dragon. Your goal is to reach the Component without waking it. Stealth, not strength. Cleverness, not courage."*
-**He drifts closer, voice dropping:**
 }}
+:
 {{description,note
-*"And when you face Corvus Blackwood again—for you will—remember: he's a victim seeking justice. His methods are wrong, his pain is real. You can kill him and perpetuate the cycle of violence and deception. Or you can find a third path. I've watched humanity for three thousand years. We always choose violence. I'd like to be surprised. Just once."* ::
+**He drifts closer, voice dropping:**
+
+*"And when you face Corvus Blackwood again—for you will—remember: he's a victim seeking justice. His methods are wrong, his pain is real. You can kill him and perpetuate the cycle of violence and deception. Or you can find a third path. I've watched humanity for three thousand years. We always choose violence. I'd like to be surprised. Just once."* 
 }}
 
 **FINAL CHOICE - What Do You Believe?**
@@ -3378,8 +3381,6 @@ Party has until midnight to explore, prepare, and gather information.
 
 **If Option 3:** *"Ambitious. Difficult. Perhaps impossible. But the only path that doesn't end in either catastrophe or continued injustice. I'll help however I can."* ::
 
-\page
-
 **QUEST COMPLETE:** ::
 
 **Knowledge Gained:** ::
@@ -3391,7 +3392,12 @@ Party has until midnight to explore, prepare, and gather information.
 - Dragon Infernalix sleeps beneath Royal Palace
 - Unbound plan to wake dragon within 7 days
 - Second Component location: In Keeper vaults, near dragon's lair
+
+\page
+
 - Third Component location: Unknown (underwater, Deepwater family)
+- Fourth Component: Hidden in plain sight—the Stone Crown is embedded in the King's ceremonial helm, worn at royal functions.
+- Fifth Component: The Storm Eye remains with the Aethorian Harmony across the sea, though Arcturus suspects sympathizers within their ranks may have already moved it.
 
 **Items Gained:** ::
 - Amulet of Proof Against Detection and Location
@@ -3412,8 +3418,6 @@ Party has until midnight to explore, prepare, and gather information.
 
 **XP:** 2,500 XP (major story reveal) ::
 
----
-
 **DEPARTURE FROM BLACK ARCHIVE:** ::
 :
 {{description,note
@@ -3423,6 +3427,11 @@ Party has until midnight to explore, prepare, and gather information.
 *"The truth is a weapon. Use it carefully. Justice and vengeance look very similar until you see the aftermath. Choose wisely which one you serve."* 
 }}
 
+**Arcturus's Final Warning:** ::
+::
+{{description,note
+*"One more thing troubles me. My ability to sense the Components has faded with time, but... the Stone Crown's presence in the palace feels... wrong. Muted. As if it's no longer there, or has been shielded. I cannot say for certain. But if Lord Shadows has already taken it... he's further along than we feared."*
+}}
 ##### Read Aloud:
 :
 {{description,note
@@ -3469,6 +3478,8 @@ Party must choose wisely. They can't recruit everyone.
 **Specialty:** Ancient artifacts, Primordial magic theory, Component mechanics  
 **Personality:** Enthusiastic, brilliant, slightly chaotic academic  
 
+\page
+
 **FINDING TELEPORTATION:** ::
 
 Party needs access to teleportation circle. Options:
@@ -3476,9 +3487,6 @@ Party needs access to teleportation circle. Options:
 **Kaer Thandros Mage Guild:** ::
 - Cost: 500 gp for two-way portal
 - **Persuasion DC 14:** Reduce to 300 gp (academic emergency)
-
-\page
-
 - Letter from Arcturus impresses guild master: *"By the Veil... Arcturus lives? Or... doesn't live? This is unprecedented!"*
 
 **Alternative - Ship Travel:** ::
@@ -3499,8 +3507,6 @@ Party needs access to teleportation circle. Options:
 - Students everywhere (young, energetic, idealistic)
 - Notice experimental magic accidents (harmless but colorful)
 
----
-
 **MEETING PROFESSOR MIRANDA:** ::
 
 **Investigation DC 10 (Finding Her):** ::
@@ -3512,16 +3518,16 @@ Party needs access to teleportation circle. Options:
 *You find her exactly where predicted: The Forbidden Stacks, a section of the library sealed by three separate magical locks. She's somehow bypassed all of them and is currently balanced on a stepladder, pulling books from a shelf while muttering calculations to herself. She's younger than you expected—maybe thirty-five—with wild auburn hair tied back with what appears to be a quill, spectacles perched crookedly on her nose, and ink stains on every finger.*
 }}
 
+\column
+
 **Miranda's First Words (Without Looking):** ::
-::
+:
 {{description,note
 *"If you're campus security, I have permission. If you're not campus security, tell them I have permission. Either way, I'm busy discovering whether Pre-Worldrend artificers understood quantum magical matrices, which is VASTLY more important than arbitrary rules about 'forbidden' knowledge..."* 
 }}
 
-\column
-
 **When She Finally Looks:** ::
-::
+:
 {{description,note
 *"Oh. You're not security. You're... armed. Heavily armed. In an academic library. That's either wonderfully bold or spectacularly stupid. I'm Professor Miranda Questseeker, Department of Ancient Mysteries and Probably-Shouldn't-Touch-This. You're clearly here about something dangerous. Tell me it's something dangerous. I haven't had proper excitement since that lich incident last year!"* 
 }}
@@ -3553,12 +3559,11 @@ Party needs access to teleportation circle. Options:
 *"Ancient artifacts? Primordial weapons? DRAGON heist? You had me at 'ancient.' I'll help. But in exchange, I need detailed documentation. Sketches, rubbings, magical resonance readings—the WORKS. Academic paper on this will make my career!"* 
 }}
 
-
 **WHAT MIRANDA OFFERS:** ::
 
 **Immediate Analysis:** ::
 If party has First Component, she examines it:
-::
+:
 {{description,note
 *"Oh my gods, this is REAL. Look at these rune patterns—Pre-Worldrend syntax, but the underlying matrix suggests Primordial craftsmanship. No wonder it's indestructible. The gods didn't MAKE it, they STOLE it from beings that predate divine existence. This thing is OLDER than theology!"* 
 }}
@@ -4186,8 +4191,6 @@ If party has been particularly honorable and impressed her:
 **Specialty:** Ancient nature magic, beast speaking, non-violent solutions  
 **Personality:** Serene, wise, pacifist, speaks in nature metaphors  
 
----
-
 **JOURNEY TO SILVERWOOD:** ::
 
 ##### Read Aloud:
@@ -4205,8 +4208,6 @@ If party has been particularly honorable and impressed her:
 - Get lost for 4 hours, waste half a day
 - Encounter territorial animals (not hostile if respected)
 
----
-
 **THE DRUID GROVE:** ::
 
 ##### Read Aloud:
@@ -4215,17 +4216,18 @@ If party has been particularly honorable and impressed her:
 *You find the grove at sunset—a clearing where moonlight somehow penetrates the canopy regardless of the time of day. Stones form a perfect circle, each carved with flowing runes that seem to move when you're not looking directly at them. At the circle's center sits an elf who might be five hundred years old, or five thousand. Their hair is silver-green, like lichen on stone. Their eyes are amber, like a hawk's. They smile as you approach, as if they've been expecting you for years.*
 }}
 
----
-
 **MEETING ELDER SILVARIS:** ::
 
-**Silvaris's Greeting (Calm, Knowing):** *"Ah. The heroes who stopped shadows from devouring light. I felt your deeds echo through nature's song. Welcome to the Grove of Eternal Twilight. I am Silvaris, elder of the Silverwood Circle, speaker for the ancient trees, and friend to those who walk gently upon the earth."* ::
->
+**Silvaris's Greeting (Calm, Knowing):** ::
+::
 {{description,note
+*"Ah. The heroes who stopped shadows from devouring light. I felt your deeds echo through nature's song. Welcome to the Grove of Eternal Twilight. I am Silvaris, elder of the Silverwood Circle, speaker for the ancient trees, and friend to those who walk gently upon the earth."* 
+:
 *(Gestures for you to sit)*
+:
+*"You've come because you face a sleeping dragon and a desperate choice. Violence or wisdom. Force or patience. The easy path or the right path. Which will you choose, I wonder?"* 
 }}
->
-*"You've come because you face a sleeping dragon and a desperate choice. Violence or wisdom. Force or patience. The easy path or the right path. Which will you choose, I wonder?"* ::
+
 **Insight DC 13:** ::
 - They know more than they're saying
 - They've been watching party's journey (scrying via nature)
@@ -4238,40 +4240,52 @@ If party has been particularly honorable and impressed her:
 
 **Explain the Mission Directly:** *"We need to steal an artifact from Dragon Infernalix without waking it. We face a seven-day deadline."* ::
 
-**Silvaris's Response:** *"Steal. Such a harsh word. You seek to prevent catastrophe by reclaiming what should never have been disturbed. That is not theft—that is restoration of balance. But your method troubles me. You plan to sneak, to fight, to flee. All predicated on violence, should violence find you. There is another way."* ::
->
+**Silvaris's Response:** ::
+::
 {{description,note
+*"Steal. Such a harsh word. You seek to prevent catastrophe by reclaiming what should never have been disturbed. That is not theft—that is restoration of balance. But your method troubles me. You plan to sneak, to fight, to flee. All predicated on violence, should violence find you. There is another way."* 
+:
 *(Stands, walking to a massive tree)*
+:
+*"Infernalix is ancient—two thousand years asleep beneath stone and city. Dragons dream deeply, you know. They live entire lifetimes in their dreams. Waking is... optional. I can deepen its slumber. Hold it in dreams so profound that even thunder would not rouse it. Give you hours instead of minutes. Safety instead of terror. Would this help?"* 
 }}
->
-*"Infernalix is ancient—two thousand years asleep beneath stone and city. Dragons dream deeply, you know. They live entire lifetimes in their dreams. Waking is... optional. I can deepen its slumber. Hold it in dreams so profound that even thunder would not rouse it. Give you hours instead of minutes. Safety instead of terror. Would this help?"* ::
----
 
 **THE DRUIDIC SOLUTION:** ::
 
 **Silvaris offers an alternative approach: Ritual of Eternal Dreaming**
-
-*"Nature magic can soothe savage beasts. A dragon is but a very large, very old beast. With proper ritual, I can ensure Infernalix remains asleep while you work. The ritual requires:"* ::
->
+:
+{{description,note
+*"Nature magic can soothe savage beasts. A dragon is but a very large, very old beast. With proper ritual, I can ensure Infernalix remains asleep while you work. The ritual requires:"* 
+:
 1. **My presence** (I must be there, casting)
 2. **One hour** of preparation (must be uninterrupted)
 3. **Four catalysts** from nature (ancient oak acorn, moonlit water, earth from deep place, fire that burned for thousand years)
 4. **Your promise**: Do not harm the dragon
-
+}}
 **Insight DC 15:** ::
 - This is genuine offer, not trap
 - Silvaris truly CAN put dragon into deeper sleep
 - But party must PROMISE not to kill dragon
 - Silvaris will know if they break promise (nature magic binds oaths)
 
----
-
 **COST OF SILVARIS'S HELP:** ::
+{{description,note
+*"I will help you. But you must swear an oath—bound by nature itself, witnessed by forest and sky. You will not harm Infernalix. Not unless it wakes and threatens you first. The dragon has slept for two millennia, harming no one. It deserves to continue sleeping. Violence is only justified in self-defense. Can you swear this?"* 
+}}
 
-*"I will help you. But you must swear an oath—bound by nature itself, witnessed by forest and sky. You will not harm Infernalix. Not unless it wakes and threatens you first. The dragon has slept for two millennia, harming no one. It deserves to continue sleeping. Violence is only justified in self-defense. Can you swear this?"* ::
-**If Party Agrees:** *"Then we have accord. I will gather the catalysts. We will travel together. And when the moment comes, I will sing the dream-song while you work. The dragon will not wake. This, I promise."* ::
+\page
 
-**If Party Refuses (Wants Option to Kill Dragon):** *"I understand. You are warriors. Violence is your language. But understand this: If you slay Infernalix, you murder an innocent. The dragon has done nothing but exist. Its crime is being dangerous while asleep. That is not justice—that is fear making you cruel. I cannot help those who choose cruelty over wisdom."* ::
+**If Party Agrees:** ::
+::
+{{description,note
+*"Then we have accord. I will gather the catalysts. We will travel together. And when the moment comes, I will sing the dream-song while you work. The dragon will not wake. This, I promise."* 
+}}
+
+**If Party Refuses (Wants Option to Kill Dragon):** ::
+::
+{{description,note
+*"I understand. You are warriors. Violence is your language. But understand this: If you slay Infernalix, you murder an innocent. The dragon has done nothing but exist. Its crime is being dangerous while asleep. That is not justice—that is fear making you cruel. I cannot help those who choose cruelty over wisdom."* 
+}}
 
 **Persuasion DC 16 (Changing Silvaris's Mind):** ::
 - Argue dragon is too dangerous to live
@@ -4294,35 +4308,46 @@ If party has been particularly honorable and impressed her:
 - Healing and support magic
 - Prefers non-lethal solutions
 
-**Stat Reference:** Use **Archdruid** stats (SRD), CR 12 (but won't fight dragon directly)
+**Stat Reference:** Use **Druid Elder Silvaris** (Tirvandor DMG) or **Archdruid** stats (SRD), CR 12 (but won't fight dragon directly)
 
-**Staff of the Woodlands:** *"This staff has served me for three centuries. But I sense you'll need it more than I do. It grants power over plants, animals, and earth. Use it to protect nature, not destroy it."* ::
+**Staff of the Woodlands:** ::
+::
+{{description,note
+*"This staff has served me for three centuries. But I sense you'll need it more than I do. It grants power over plants, animals, and earth. Use it to protect nature, not destroy it."* 
+}}
 
 **Gives:** **Staff of the Woodlands** (DMG magic item - powerful druid staff)
 
-**Catalysts for Ritual:** *"I will gather three of the four catalysts. The fourth—fire that burned for thousand years—must come from the dragon's lair itself. Lava flows beneath the palace are Primordial in origin. Older than kingdoms. That will suffice."* ::
+**Catalysts for Ritual:** ::
+::
+{{description,note
+*"I will gather three of the four catalysts. The fourth—fire that burned for thousand years—must come from the dragon's lair itself. Lava flows beneath the palace are Primordial in origin. Older than kingdoms. That will suffice."* 
+}}
 
----
+\column
 
 **SILVARIS'S PHILOSOPHY:** ::
+::
+{{description,note
+*"You are young—all mortals who live less than five centuries are young. You see problems, you strike them. Quick solutions. But nature teaches patience. The oak grows slowly. The mountain weathers storms. The dragon sleeps. All things find balance if given time. Violence is failure of imagination—admission that you could find no wiser path. I offer you a wiser path. Take it."* 
+}}
 
-*"You are young—all mortals who live less than five centuries are young. You see problems, you strike them. Quick solutions. But nature teaches patience. The oak grows slowly. The mountain weathers storms. The dragon sleeps. All things find balance if given time. Violence is failure of imagination—admission that you could find no wiser path. I offer you a wiser path. Take it."* ::
-**If Party Seems Bloodthirsty:** *"I've watched civilizations rise and fall. They all make the same mistake: choosing violence first, seeking wisdom only after blood is spilled. You can be different. PLEASE be different. The world needs heroes who think before they strike."* ::
-
----
+**If Party Seems Bloodthirsty:** ::
+{{description,note
+*"I've watched civilizations rise and fall. They all make the same mistake: choosing violence first, seeking wisdom only after blood is spilled. You can be different. PLEASE be different. The world needs heroes who think before they strike."* 
+}}
 
 **DEPARTURE:** ::
-
-*"I will prepare for the journey. Give me one hour. And heroes? Thank you for considering peace. Most wouldn't even try."* ::
----
+::
+{{description,note
+*"I will prepare for the journey. Give me one hour. And heroes? Thank you for considering peace. Most wouldn't even try."* 
+}}
 
 **SILVARIS RECRUITED:** ::
 - **Time Spent:** 2 days travel (each direction)
 - **Cost:** Must promise not to harm dragon (unless self-defense), Must protect Silvaris during 1-hour ritual
 - **Benefits:** Dragon stays asleep GUARANTEED (4 hours), Staff of the Woodlands, Archdruid support (CR 12 caster), Healing magic, Moral high ground
 - **Drawback:** Cannot kill dragon (oath-bound), Must spend time protecting Silvaris during ritual, Travel time expensive (4 days total)
-
----
 
 #### PARTY PREPARATION & SHOPPING
 
@@ -4342,7 +4367,7 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 - Spend at least 1 day shopping/preparing
 - Don't wait until day 7 (leave buffer for delays)
 
----
+\page
 
 **KAER THANDROS MARKET:** ::
 
@@ -4361,7 +4386,6 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 - **Holy Water:** 15 gp per vial
 - **Blessings:** Free (advantage on one save, lasts 24 hours)
 
----
 
 **PREPARATION MONTAGE (Optional RP Scene):** ::
 
@@ -4375,9 +4399,8 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 - PC gambles last gold (what's money to the dead?)
 - PC shares quiet moment with ally (character development)
 
----
 
-**QUEST 2.2 COMPLETE**
+**QUEST 2.2 COMPLETE** ::
 
 **Allies Recruited (Party Choice):** ::
 - Maximum recommended: 3 allies
@@ -4390,11 +4413,11 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 - Allies briefed
 - Maps studied
 
-**Time Remaining:** 1-2 days before Unbound assault
+**Time Remaining:** 1-2 days before Unbound assault ::
 
-**XP:** 3,000 XP (ally recruitment and preparation)
+**XP:** 3,000 XP (ally recruitment and preparation) ::
 
----
+\column
 
 **TRANSITION TO QUEST 2.3:** ::
 
@@ -4404,19 +4427,13 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 *Night falls over Kaer Thandros. Above, nobles feast in the palace, unaware of the danger beneath their feet. Below, in ancient ruins older than memory, a dragon dreams. And you—heroes, fools, or something in between—prepare to descend into darkness, seeking an artifact that could save or damn the world. Tomorrow, you face Dragon Infernalix. Tonight, you rest. If you can.*
 }}
 
----
-
----
-
-\page
 
 ### Quest 2.3: Into the Dragon's Maw (Level 7)
 
 **Location:** The Undercity Depths - Dragon Infernalix's Lair  
 **Difficulty:** DEADLY (CR 4-5 per PC)  
+:
 **This is Act II's major set-piece dungeon**
-
----
 
 #### DESCENT INTO DARKNESS
 
@@ -4430,8 +4447,6 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 
 **Optional RP Scene:** Each PC can describe their preparation/last ritual before potential death.
 
----
-
 #### DUNGEON OVERVIEW
 
 **Entry Point:** Old sewers beneath Royal Gardens (Cornelius's map leads here)
@@ -4441,6 +4456,8 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 {{description,note
 *Cornelius's map leads you to a forgotten maintenance shaft in the palace gardens. The stone cover hasn't been moved in decades—it takes all your strength to pry it open. Below yawns absolute darkness and the smell of ancient stone. The ladder descends 100 feet into shadow. At the bottom, your torches reveal passages that predate the current kingdom by millennia. These are Primordial ruins—older than gods, older than civilization. And somewhere in their depths, a dragon sleeps.*
 }}
+
+\page
 
 **Dungeon Features:** ::
 - **Heat:** DC 10 Con save each hour or gain 1 exhaustion level (Fire Resistance negates)
@@ -4475,9 +4492,13 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 - See dried blood near Blood Lock (someone died here)
 - Hear faint sounds beyond gates (rhythmic breathing—the dragon)
 
-**Arcana DC 15 (Examining Locks):** *"These locks are Primordial work—impossible to pick by conventional means. Each requires a specific key attuned to elemental essence: Fire, Shadow, and Blood. The Blood Lock specifically requires Blackwood bloodline... or something that can fool the magic."* ::
+**Arcana DC 15 (Examining Locks):** ::
+::
+{{description,note
+*"These locks are Primordial work—impossible to pick by conventional means. Each requires a specific key attuned to elemental essence: Fire, Shadow, and Blood. The Blood Lock specifically requires Blackwood bloodline... or something that can fool the magic."* 
+}}
 
----
+\column
 
 **THE THREE LOCKS:** ::
 
@@ -4496,8 +4517,6 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 - **Option B:** Capture Unbound cultist with Blackwood ancestry
 - **Option C:** Thieves' Tools DC 20 (disadvantage, takes 10 minutes)
 - Keyhole shaped like a dagger
-
----
 
 **ALTERNATIVE APPROACHES:** ::
 
@@ -4525,7 +4544,6 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 - Open gates quietly
 - Dragon remains asleep
 
----
 
 **ENCOUNTER IF KEYS OBTAINED:** ::
 
@@ -4535,7 +4553,7 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 *You insert the three keys in sequence: Fire, Shadow, Blood. Each lock clicks with a sound like thunder. The massive bronze gates swing inward on ancient hinges that haven't moved in centuries. Beyond them, heat washes over you like opening a furnace. You've entered the dragon's domain.*
 }}
 
----
+\page
 
 #### D2: THE FORGE OF SORROWS
 
@@ -4582,7 +4600,7 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 - **Intelligent:** Use cover (pillars), flank, focus fire
 - **Vulnerable:** Cold damage (extra 1d8 per hit)
 
----
+\colu
 
 **APPROACH OPTIONS:** ::
 
@@ -4590,6 +4608,8 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 - Standard fight
 - Very difficult without fire resistance
 - Elementals have advantage (home terrain)
+
+\column
 
 **OPTION B - Cold Magic Focus:** ::
 - If party has cold spells
@@ -4617,8 +4637,6 @@ After recruiting allies (or deciding not to), party has remaining time for prepa
 - Success: Elementals let you take key peacefully
 - They exist to guard forge, not necessarily fight visitors
 
----
-
 **LOOT:** ::
 
 On a stone pedestal (somehow not melting):
@@ -4632,19 +4650,18 @@ On a stone pedestal (somehow not melting):
 - Behind loose stone: **Ring of Fire Resistance**
 - Ancient forge-worker left it here millennia ago
 
-**XP:** 5,400 XP total
+**XP:** 5,400 XP total ::
 
----
-
-**SPECIAL: FORGE CATALYST**
+**SPECIAL: FORGE CATALYST** ::
 
 If Silvaris is with party and needs "fire that burned for thousand years":
-*"Perfect. This forge has burned since before the Worldrend—for over three thousand years. A coal from this fire will complete my ritual."* ::
+::
+{{description,note
+*"Perfect. This forge has burned since before the Worldrend—for over three thousand years. A coal from this fire will complete my ritual."* 
+}}
 - Silvaris carefully extracts glowing ember
 - Places it in protective crystal container
 - Can now perform Ritual of Eternal Dreaming
-
----
 
 \page
 
@@ -4695,7 +4712,7 @@ If Silvaris is with party and needs "fire that burned for thousand years":
 - **Clever and cruel:** Target spellcasters, try to make them waste spell slots
 - **Vulnerable:** Radiant damage (extra 1d8 per hit)
 
----
+\column
 
 **APPROACH OPTIONS:** ::
 
@@ -4735,7 +4752,6 @@ If Silvaris is with party and needs "fire that burned for thousand years":
 - Take key and leave them imprisoned
 - **Moral choice:** They're evil, but also prisoners for 3,000 years
 
----
 
 **LOOT:** ::
 
@@ -4749,14 +4765,18 @@ On an obsidian pedestal:
 - In shadow-alcove: **Amulet of Proof Against Detection** (can't be scryed)
 - Previous thief tried to steal it, got possessed, died here
 
-**XP:** 2,200 XP total (or 1,100 if avoided)
+**XP:** 2,200 XP total (or 1,100 if avoided) ::
 
----
+\page
 
 **SPECIAL: SHADOW WHISPERS**
 
 If PCs listen to shadow whispers:
-*"The dragon dreams of empire lost... The Blackwood heir seeks what was stolen... The kings fear truth more than death... Three components, one weapon, infinite destruction... You serve lies..."* ::
+::
+{{description,note
+*"The dragon dreams of empire lost... The Blackwood heir seeks what was stolen... The kings fear truth more than death... Three components, one weapon, infinite destruction... You serve lies..."* 
+}}
+
 **Insight DC 16:** ::
 - Shadows speak partial truths mixed with lies
 - Dragon DOES dream of lost power
@@ -4784,20 +4804,19 @@ If PCs listen to shadow whispers:
 
 {{description,note
 *...impossibility. A chamber so vast it has its own weather—your torch flame flickers in unnatural breezes. The ceiling soars 100 feet overhead, lost in darkness. Lava flows along channels in the walls, providing light and unbearable heat. And in the center, upon a mountain of gold, gems, and treasure accumulated over two millennia...*
-}}
->
-{{description,note
+:
 *...sleeps DRAGON INFERNALIX.*
 }}
->
+:
 {{description,note
 *It's MASSIVE. Gargantuan. Each scale is the size of a shield. Its wings, even folded, could shelter a village. Horns like obsidian spears crown its head. Smoke rises from its nostrils with each breath—slow, steady, the rhythm of something that has slept for ages and sees no reason to wake. Its eyes are closed. For now.*
 }}
->
+:
 {{description,note
 *And there, embedded in a crystal pillar thirty feet from the dragon's head, glows your objective: the Second Component of the World-Splitter, pulsing with blue-white light that seems to beat like a heart.*
 }}
----
+
+\column
 
 **DRAGON INFERNALIX - THE SLEEPING ANCIENT:** ::
 
@@ -4820,7 +4839,7 @@ ___
 
 ***- Wakes if.*** 
 
-***If Awakened.*** FULL ANCIENT RED DRAGON STATS (SRD)
+***If Awakened.*** Dragon Infernalix (Tirvandor DMG) or Full Ancient Red Dragon Stats (SRD)
 - Frightful Presence (DC 21, 120-foot radius)
 - Fire Breath (90-foot cone, DC 24 Dex, 91/26d6 fire)
 - Legendary Actions (3 per round)
@@ -4828,8 +4847,6 @@ ___
 - Can TPK level 7 party in 2-3 rounds
 - PARTY SHOULD RUN, NOT FIGHT
 }}
-
----
 
 **THE HOARD - TREASURE BEYOND MEASURE:** ::
 
@@ -4853,43 +4870,44 @@ ___
 - Thrums with power (feels like standing near waterfall)
 - Removing it will make noise (crystal will crack)
 
----
+\page
 
 **STEALTH CHALLENGE - "THE HEIST":** ::
 
 This is a SKILL CHALLENGE, not combat. The goal is retrieve Component WITHOUT waking the dragon.
 
-**Phase 1: Crossing the Hoard**
+**Phase 1: Crossing the Hoard** ::
 - **Stealth DC 13:** Move carefully through coins
 - **Success:** Reach pillar quietly
 - **Failure by 5+:** Coins shift loudly, dragon stirs (DC 13 Perception saves vs waking)
 - **Alternative:** Fly/Levitate/Spider Climb over hoard (avoids check)
 
-**Phase 2: Climbing the Pillar**
+**Phase 2: Climbing the Pillar** ::
 - **Athletics DC 13:** Climb 15-foot crystal pillar
 - **Success:** Reach Component
 - **Failure by 5+:** Slip, make noise falling (DC 13 Perception vs dragon waking)
 - **Alternative:** *Misty Step*, *Fly*, or *Mage Hand* (avoids climbing)
 
-**Phase 3: Removing Component**
+**Phase 3: Removing Component** ::
 - **Sleight of Hand DC 17:** Extract from crystal gently
 - **OR Strength DC 20:** Pull it out by force
 - **Success:** Component removed
 - **Failure:** Crystal CRACKS loudly (DC 15 Perception vs dragon waking)
 - **Alternative:** *Disintegrate* crystal (controlled, quieter than pulling)
 
-**Phase 4: Escape**
+**Phase 4: Escape** ::
 - **Stealth DC 15:** Exit chamber quietly with Component
 - **Success:** Clean escape!
 - **Failure:** Dragon's eye opens. RUN.
-
----
 
 **ALTERNATIVE APPROACHES:** ::
 
 **OPTION A - SILVARIS'S RITUAL (Easiest):** ::
 If party recruited Silvaris:
-*"I will begin the dream-song. Protect me for one hour. The dragon will sleep so deeply that even your footsteps on its hoard will not wake it."* ::
+:
+{{description,note
+*"I will begin the dream-song. Protect me for one hour. The dragon will sleep so deeply that even your footsteps on its hoard will not wake it."* 
+}}
 - Silvaris casts Ritual of Eternal Dreaming (1 hour)
 - Party must defend her if interrupted
 - After ritual: Dragon in DEEP SLEEP (4 hours)
@@ -4902,6 +4920,8 @@ If party recruited Silvaris:
 - Work within bubble to extract Component
 - Dragon doesn't hear anything
 - Still need to approach pillar quietly
+
+\column
 
 **OPTION C - DISTRACTION (Risky):** ::
 - Create loud noise on FAR side of chamber
@@ -4923,7 +4943,6 @@ If party recruited Silvaris:
 - Escape through city
 - Collateral damage: MASSIVE
 
----
 
 **IF DRAGON WAKES:** ::
 
@@ -4942,14 +4961,12 @@ If party recruited Silvaris:
 **Dragon's First Actions (Initiative 20):** ::
 1. **Lair Action:** Tremor (DC 15 Dex save or knocked prone)
 2. **Legendary Action:** Tail Attack (anyone within 20 ft, +17 to hit, 4d6+10 damage)
-3. **Turn 1:** FIRE BREATH WEAPON (90-foot cone, DC 24 Dex, 91/26d6 fire damage)
+3. **Turn 1:** Fire Breath Weapon (90-foot cone, DC 24 Dex save. 91 (26d6) fire damage, half on success)
 
 **PARTY SHOULD RUN:** ::
 - Dragon can kill level 7 party in 2 rounds
 - Fighting is suicide
 - Grab Component and ESCAPE
-
----
 
 \page
 
@@ -4973,7 +4990,7 @@ If party recruited Silvaris:
 - 6 **Fire Cultists** (CR 3 each, immune to fire)
 - 4 **Unbound Champions** (CR 3 each)
 
-**Total: 12 enemies, equivalent CR 18 encounter (DEADLY++)**
+**Total: 12 enemies, equivalent CR 18 encounter (DEADLY++)** ::
 
 ---
 
@@ -4987,24 +5004,35 @@ For the first time, party sees him without his mask.
 *Lord Shadows strides forward, and for the first time, you see his face. He's removed the mask. He's... human. Probably fifty-five, with graying hair and a face marked by fire scars from childhood—burns from watching his family die. His eyes are steel-gray, filled with pain and terrible determination. He looks tired. Sad. But unyielding.*
 }}
 
-**Corvus's Opening Dialogue:** *"You. Of course it's you. The heroes of Silverpine, still meddling in affairs you don't understand. Give me the Component. NOW. It belongs to my family. It's the proof I need. Without it, I can't vindicate them. Without it, the truth stays buried!"* ::
+**Corvus's Opening Dialogue:** ::
+::
+{{description,note
+*"You. Of course it's you. The heroes of Silverpine, still meddling in affairs you don't understand. Give me the Component. NOW. It belongs to my family. It's the proof I need. Without it, I can't vindicate them. Without it, the truth stays buried!"* 
+}}
 
-**If Party Refuses:** *"Then you're no better than the kings who murdered my family! You serve the lie! I'll take it by force!"* ::
+**If Party Refuses:** ::
+::
+{{description,note
+*"Then you're no better than the kings who murdered my family! You serve the lie! I'll take it by force!"* 
+}}
 
-**If Party Tries to Reason (Persuasion DC 18):** *"Reason? REASON? I've spent forty-three YEARS seeking reason! The kingdoms don't listen to reason—they listen to POWER! That Component gives me power! Now GIVE. IT. TO. ME!"* ::
-
----
+**If Party Tries to Reason (Persuasion DC 18):** ::
+::
+{{description,note
+*"Reason? REASON? I've spent forty-three YEARS seeking reason! The kingdoms don't listen to reason—they listen to POWER! That Component gives me power! Now GIVE. IT. TO. ME!"* 
+}}
 
 **SISTER MORTUA'S CHANT:** ::
+::
+{{description,note
+*"From darkness we rise, by blood we endure, through shadows we claim what was stolen..."* 
+}}
 
-*"From darkness we rise, by blood we endure, through shadows we claim what was stolen..."* ::
 **Arcana DC 15:** ::
 - She's casting a ritual
 - Purpose: Wake the dragon INTENTIONALLY
 - Goal: Use dragon as distraction while they steal Component
 - Completion: 3 rounds
-
----
 
 **THREE-WAY BATTLE BEGINS:** ::
 
@@ -5028,8 +5056,6 @@ For the first time, party sees him without his mask.
 - Sister Mortua: *"The dragon is awake! Take the Component and RETREAT!"*
 - Fire Breath incoming next round
 
----
-
 **TACTICAL SITUATION:** ::
 
 **Dragon's Priority (if awake):** ::
@@ -5050,12 +5076,12 @@ For the first time, party sees him without his mask.
 3. Survive
 4. Fire Cultists tank dragon breath (immune)
 
+\page
+
 **Party's Priority:** ::
 1. SURVIVE
 2. Escape with Component
 3. Don't die
-
----
 
 **DYNAMIC EVENTS:** ::
 
@@ -5089,7 +5115,6 @@ Dragon's thrashing causes structural damage:
 {{description,note
 *Cracks spread across the ceiling. Debris falls. The entire lair is COLLAPSING. You have maybe two minutes before you're buried alive under the Royal Palace!*
 }}
----
 
 **ESCAPE OPTIONS:** ::
 
@@ -5124,8 +5149,6 @@ Dragon's thrashing causes structural damage:
 - Party survives
 - But loses objective
 
----
-
 **RESOLUTION - MULTIPLE ENDINGS:** ::
 
 **ENDING A - Party Escapes with Component:** ::
@@ -5153,7 +5176,7 @@ Dragon's thrashing causes structural damage:
 - Race to find it in destroyed lair
 - Leads to city-wide chase sequence
 
----
+\page
 
 **AFTERMATH - DRAGON AWAKENED:** ::
 
@@ -5191,9 +5214,8 @@ Dragon's thrashing causes structural damage:
 - Escape/Heist: 5,000 XP
 **Total:** 22,600 XP (divided among party)
 
-**NOTE:** No XP for dragon (didn't fight it, just survived)
+**NOTE:** No XP for dragon (didn't fight it, just survived) ::
 
----
 
 **QUEST 2.3 COMPLETE:** ::
 
@@ -5209,13 +5231,11 @@ Dragon's thrashing causes structural damage:
 - Final confrontation coming
 - Party must decide: kill him, help him, or find third way
 
----
-
 Just as heroes are retrieving component (or right after), the **UNBOUND ASSAULT** begins!
 
 **Encounter:** The Unbound breach from different entrance
 - 1 **Lord Shadows Blackwood** (full CR 15 stats - see NPC files)
-- 1 **Sister Mortua** (CR 11 Death Cleric)
+- 1 **Sister Mortua** (Tirvandor DMG or CR 11 Death Cleric)
 - 6 **Fire Cultists** (CR 3 each - immune to fire damage)
 - 4 **Unbound Champions** (CR 3 each)
 
@@ -5237,7 +5257,10 @@ Sister Mortua is not evil—she's been deceived. She believes The Unbound are re
 3. **Dragon:** FURIOUS, attacks everyone
 
 **Lord Shadows' Dialogue:** ::
+::
+{{description,note
 *"You!? Give me that component! It belongs to my family! You don't understand - I NEED it to prove the truth! Without it, they'll keep lying about us!"*
+}}
 
 **Tactical Situation:** ::
 - Dragon uses Breath Weapon (Recharge 5-6): 90 ft. cone, DC 24 Dex save, 91 (26d6) fire damage (half on save)
@@ -5246,7 +5269,9 @@ Sister Mortua is not evil—she's been deceived. She believes The Unbound are re
 - Sister Mortua uses *Dimension Door* to grab component
 - Unbound Champions form defensive line
 
-**INTENDED OUTCOME:** Party should grab component and ESCAPE during chaos. Fighting either faction is suicide. Fighting dragon is TPK.
+**INTENDED OUTCOME:** Party should grab component and ESCAPE during chaos. Fighting either faction is suicide. Fighting dragon is TPK. ::
+
+\page
 
 **Escape Routes:** ::
 - Back the way they came (if doors still open)
@@ -5270,11 +5295,7 @@ Sister Mortua is not evil—she's been deceived. She believes The Unbound are re
 - King Aldric IV declares state of emergency
 - Heroes are blamed OR celebrated depending on how they handled it
 
-**XP:** 15,000+ XP (for surviving, not fighting)
-
----
-
-\page
+**XP:** 15,000+ XP (for surviving, not fighting) ::
 
 ### Quest 2.4: The Truth Revealed (Level 8)
 
@@ -5282,7 +5303,6 @@ Sister Mortua is not evil—she's been deceived. She believes The Unbound are re
 
 **Location:** Raven's Keep (3 days northwest, deep in Shadowpeak Mountains)
 
----
 
 #### AFTERMATH OF THE DRAGON INCIDENT
 
@@ -5292,11 +5312,12 @@ Sister Mortua is not evil—she's been deceived. She believes The Unbound are re
 ::
 {{description,note
 *The capital is in chaos. Three city blocks lie in ruins. Funeral pyres burn day and night for the 200+ dead. King Aldric IV has declared martial law. The Royal Guard hunts for "terrorists who woke the dragon"—which includes both the Unbound AND you. Wanted posters bear your likenesses. The reward: 10,000 gold pieces, dead or alive.*
-}}
->
-{{description,note
+:
 *You've taken refuge in a safe house, provided by allies (Captain Roderic, Captain Thalia, or underground contacts). The Second Component sits heavy in your pack, pulsing with power. You've achieved your objective, but at what cost?*
 }}
+
+\column
+
 **Party's Reputation:** ::
 - **Heroes:** If locals saw them save civilians (mixed blessing—famous but wanted)
 - **Terrorists:** If blamed for dragon (must hide, disguise selves)
@@ -5322,30 +5343,24 @@ Sister Mortua is not evil—she's been deceived. She believes The Unbound are re
 }}
 
 **THE LETTER:** ::
-
+{{description,note
 *"To the Heroes Who Woke the Dragon,*
->
-{{description,note
+
 *I know you have the Second Component. I know you think I'm a monster. I know the kingdoms have told you I seek to destroy the world. They're lying. They've always lied.*
-}}
->
-{{description,note
+
 *Meet me at Raven's Keep, my true stronghold, three days' journey northwest into the Shadowpeak Mountains. Come armed if you wish—but come to TALK, not fight. I owe you the truth. After everything you've learned, after seeing Arcturus, after witnessing the corruption of kings who let dragons sleep beneath their palaces while condemning innocent families... you deserve to hear my side.*
-}}
->
-{{description,note
+
 *I will not ambush you. I will not attack first. I give you my word—the word of Corvus Blackwood, last of his line, speaking not as Lord Shadows but as a man who has nothing left but truth.*
-}}
->
-{{description,note
+
 *Come alone, or come with armies. Either way, come. This ends at Raven's Keep. One way or another.*
-}}
->
-{{description,note
+
 *Three days. I'll be waiting.*
+:
+*- Corvus Blackwood"*
 }}
->
-*- Corvus Blackwood"* :: ::
+
+\page
+
 **Insight DC 13:** ::
 - He's sincere about talking
 - He's tired of fighting
@@ -5382,28 +5397,32 @@ Do they go to Raven's Keep?
 - Act III becomes chase scenario
 - Moral complexity unaddressed
 
-**Recommended:** Party should go (it's the dramatically satisfying choice)
-
----
+**Recommended:** Party should go (it's the dramatically satisfying choice) ::
 
 #### THE JOURNEY TO RAVEN'S KEEP
 
 **3 Days Northwest Through Shadowpeak Mountains:**
 
 ##### Read Aloud (Departure):
-::
+:
 {{description,note
 *You leave Kaer Thandros under cover of darkness, the capital shrinking behind you. Smoke still rises from dragon-damaged districts. You're fugitives now, heading into hostile territory to confront a man who believes he's righteous. The mountains ahead look like jagged teeth against the sky, and somewhere in their depths, Corvus Blackwood awaits.*
 }}
 
----
-
 **TRAVEL ENCOUNTERS (Roll 1d6 Each Day):** ::
 
-**1-2: UNBOUND PATROL**
+| d6 | Encounter |
+|:--:|:---------:|
+|1-2| Unbound Patrol |
+|3-4| Wilderness Hazard |
+|5-6| Peaceful Travel |
+
+\column
+
+**1-2: UNBOUND PATROL** ::
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *You hear them before you see them: chanting, marching in formation. A patrol of Unbound soldiers, twelve strong, led by a Recruiter. They're searching the road ahead. If they spot you, will they attack? Or has Corvus ordered them to let you pass?*
 }}
@@ -5426,11 +5445,10 @@ Do they go to Raven's Keep?
 - He's been writing (possibly last will? apology letters?)
 - Troops will follow orders but aren't enthusiastic
 
----
-
-**3-4: WILDERNESS HAZARD**
+**3-4: WILDERNESS HAZARD** ::
 
 **Option A - Avalanche:** ::
+:
 {{description,note
 *The mountain trail narrows. Above, snow packs heavy on the peaks. Then: a rumble. The mountainside is COLLAPSING. AVALANCHE!*
 }}
@@ -5439,15 +5457,20 @@ Do they go to Raven's Keep?
 - Failure: 4d6 bludgeoning + buried (DC 15 Athletics to escape)
 
 **Option B - Bridge Out:** ::
+:
 {{description,note
 *The rope bridge across the gorge is GONE. Cut deliberately. Recent—the ropes are still frayed, not rotted. Someone doesn't want travelers reaching Raven's Keep. Or is testing those who do.*
 }}
+
+\page
+
 - **Athletics DC 15:** Climb down and up (1 hour)
 - **Acrobatics DC 16:** Jump across (risky, 100-foot fall if fail)
 - **Magic:** *Fly*, *Feather Fall*, *Misty Step* solve it easily
 - **Creative:** Rope and grappling hook (DC 13 Athletics)
 
 **Option C - Mountain Storm:** ::
+::
 {{description,note
 *The storm hits without warning—freezing rain, lightning, wind that nearly knocks you from the narrow trail. Visibility drops to zero. The temperature plummets.*
 }}
@@ -5456,12 +5479,10 @@ Do they go to Raven's Keep?
 - If no shelter: Long rest impossible, no hit dice recovery
 - Storm lasts 6 hours
 
----
-
-**5-6: PEACEFUL TRAVEL**
+**5-6: PEACEFUL TRAVEL** ::
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *The mountains are beautiful in their harsh way. Eagles circle overhead. Snow-capped peaks touch clouds. For a few hours, you can almost forget you're walking into a confrontation that will shape the future. The world feels vast, old, indifferent to mortal struggles. It's strangely comforting.*
 }}
@@ -5472,18 +5493,16 @@ Do they go to Raven's Keep?
 - Debate plan of action
 - Personal fears/hopes shared
 
----
-
 #### ARRIVING AT RAVEN'S KEEP
 
 **Day 3, Evening:** ::
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *Raven's Keep reveals itself as you round a mountain spur. It's not the broken shell you saw weeks ago—it's FUNCTIONAL. A fortress carved into the living rock, walls black stone, towers flying Blackwood banners. You see guards on parapets, lights in windows, smoke from forges. This isn't a hideout. This is a STRONGHOLD. Hundreds of Unbound call this home.*
 }}
->
+:
 {{description,note
 *And they're watching you approach. Not with hostility—with curiosity. As if you're celebrities. Some point, whisper. A few wave hesitantly. Children peek from behind barrels. These aren't monsters. They're people. Families. Believers in a cause they think is just.*
 }}
@@ -5499,33 +5518,39 @@ Do they go to Raven's Keep?
 - People genuinely believe kingdoms are evil
 - Corvus gave them hope, purpose, belonging
 
----
-
 **THE GATES:** ::
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *The massive gates swing open as you approach. No challenge, no demand for passwords. A single figure stands waiting: an older man in scholarly robes, spectacles perched on nose, carrying a book like a shield. He bows—respectfully, not mockingly.*
 }}
 
 **SCHOLAR ALDRIC THE FALLEN:** ::
-
-*"Welcome to Raven's Keep. I am Aldric, once professor of history at Kaer Thandros University, now scholar of the Unbound. Lord Shadows—forgive me, Corvus—is expecting you. Please, follow me. And... thank you for coming. He needs this conversation. We all do."* ::
----
+::
+{{description,note
+*"Welcome to Raven's Keep. I am Aldric, once professor of history at Kaer Thandros University, now scholar of the Unbound. Lord Shadows—forgive me, Corvus—is expecting you. Please, follow me. And... thank you for coming. He needs this conversation. We all do."* 
+}}
 
 **THE WALK THROUGH RAVEN'S KEEP:** ::
 
 As Aldric escorts party to Great Hall:
 
-**Aldric's Monologue (If Party Allows):** *"You think us villains. I understand. But let me tell you who we are. I'm here because I discovered the truth about House Blackwood while researching. The evidence was hidden, but not destroyed. When I tried to publish, the Crown threatened my family. My daughter... they arrested her on false charges. Held her until I recanted. I lost everything pursuing truth."* ::
->
+**Aldric's Monologue (If Party Allows):** ::
+::
 {{description,note
+*"You think us villains. I understand. But let me tell you who we are. I'm here because I discovered the truth about House Blackwood while researching. The evidence was hidden, but not destroyed. When I tried to publish, the Crown threatened my family. My daughter... they arrested her on false charges. Held her until I recanted. I lost everything pursuing truth."* 
+:
 *(Gesture around at people)*
+:
+*"She's here, the woman with the child? Her farm was seized by a duke who wanted the land. No compensation. No justice. That man? His brother was executed for 'treason'—he questioned a noble's tax increase. These people haven't come to destroy the world. They've come because the world destroyed them first."* 
 }}
->
-*"She's here, the woman with the child? Her farm was seized by a duke who wanted the land. No compensation. No justice. That man? His brother was executed for 'treason'—he questioned a noble's tax increase. These people haven't come to destroy the world. They've come because the world destroyed them first."* ::
-**Persuasion DC 14 (Engaging in Discussion):** *"Corvus gave us hope. Not vengeance—HOPE. The hope that truth matters. That the powerful can be held accountable. Is triggering the Worldrend the right method? I... I don't know anymore. That's why he wants to talk to you. You've seen both sides. Maybe you can show him a path we haven't seen."* ::
+
+**Persuasion DC 14 (Engaging in Discussion):** ::
+::
+{{description,note
+*"Corvus gave us hope. Not vengeance—HOPE. The hope that truth matters. That the powerful can be held accountable. Is triggering the Worldrend the right method? I... I don't know anymore. That's why he wants to talk to you. You've seen both sides. Maybe you can show him a path we haven't seen."*
+}}
 
 **Insight DC 15:** ::
 - Aldric has doubts about Corvus's plan
@@ -5533,7 +5558,7 @@ As Aldric escorts party to Great Hall:
 - They want justice, not catastrophe
 - But they don't know how to get justice without force
 
----
+\page
 
 #### THE GREAT HALL CONFRONTATION
 
@@ -5551,53 +5576,45 @@ As Aldric escorts party to Great Hall:
 ---
 
 **CORVUS'S OPENING:** ::
-
-*(Gestures to chairs)* *"Please. Sit. Wine? Food? I won't drug you—I give you my word. I'm not here to trick you. I'm here to convince you."* ::
->
+::
 {{description,note
+*(Gestures to chairs)* *"Please. Sit. Wine? Food? I won't drug you—I give you my word. I'm not here to trick you. I'm here to convince you."* 
+:
 *(Whether party sits or not, he continues)*
-}}
->
-*"Thank you for coming. Truly. After everything—after I tried to kill you, after you disrupted my operations, after we fought over the dragon—you still came to talk. That takes courage. Or foolishness. I hope courage."* ::
->
-{{description,note
+:
+*"Thank you for coming. Truly. After everything—after I tried to kill you, after you disrupted my operations, after we fought over the dragon—you still came to talk. That takes courage. Or foolishness. I hope courage."* 
+:
 *(Deep breath)*
+*"Let me tell you a story. My name is Corvus Blackwood. I was twelve years old when King Aldric III murdered my family."* 
 }}
->
-*"Let me tell you a story. My name is Corvus Blackwood. I was twelve years old when King Aldric III murdered my family."* ::
----
 
 **CORVUS'S FULL STORY:** ::
 
 **(This is a long monologue—party can interrupt, but let it play if they want)**
-
-*"I was the youngest of four children. My sisters—Elara and Mira—were beautiful, kind, full of life. My brother Aldric was brave, strong, everything a knight should be. My parents... my parents were the best people I ever knew."* ::
->
 {{description,note
+*"I was the youngest of four children. My sisters—Elara and Mira—were beautiful, kind, full of life. My brother Aldric was brave, strong, everything a knight should be. My parents... my parents were the best people I ever knew."* ::
+:
 *(Voice breaks slightly)*
 }}
->
-*"My mother, Lady Corvina Blackwood, was the Guardian of the First Component. It was her sacred duty—passed down through generations. We were taught from childhood: NEVER speak of it. NEVER use it. NEVER let it fall into the wrong hands. The Blackwoods were PROTECTORS, not thieves. We guarded the Component so kingdoms couldn't weaponize it."* ::
->
 {{description,note
+*"My mother, Lady Corvina Blackwood, was the Guardian of the First Component. It was her sacred duty—passed down through generations. We were taught from childhood: NEVER speak of it. NEVER use it. NEVER let it fall into the wrong hands. The Blackwoods were PROTECTORS, not thieves. We guarded the Component so kingdoms couldn't weaponize it."*
+:
 *(Anger rising)*
 }}
->
-*"Then King Aldric III's son—Prince Aldric, the current king's older brother—discovered the Goldshore Keeper vaults beneath the palace. Found the SECOND Component. He wanted it. Wanted to sell it to dragon cults, trade it for power. The Keepers refused. So he murdered them. Every last one of the secret branch. Men, women, children. CHILDREN. Slaughtered in their beds. The main House Goldshore never even knew their cousins died."* ::
->
-*"But he couldn't hide the Component afterward. Too much magic, too noticeable. He needed a scapegoat. So King Aldric III—to save his son from execution—framed MY family instead. Declared US traitors. Declared we'd tried to trigger the Second Worldrend. Lies. ALL LIES."* ::
->
 {{description,note
+*"Then King Aldric III's son—Prince Aldric, the current king's older brother—discovered the Goldshore Keeper vaults beneath the palace. Found the SECOND Component. He wanted it. Wanted to sell it to dragon cults, trade it for power. The Keepers refused. So he murdered them. Every last one of the secret branch. Men, women, children. CHILDREN. Slaughtered in their beds. The main House Goldshore never even knew their cousins died."* 
+:
+*"But he couldn't hide the Component afterward. Too much magic, too noticeable. He needed a scapegoat. So King Aldric III—to save his son from execution—framed MY family instead. Declared US traitors. Declared we'd tried to trigger the Second Worldrend. Lies. ALL LIES."*
+:
 *(Slams fist on table)*
 }}
->
-*"They came at night. Soldiers. Fifty of them. Set fires. My father tried to explain, to show them we were guardians, not villains. They cut him down. My mother screamed that we were innocent. They burned her alive. My sisters... my brother... I HEARD them dying. SCREAMING."* ::
->
 {{description,note
+*"They came at night. Soldiers. Fifty of them. Set fires. My father tried to explain, to show them we were guardians, not villains. They cut him down. My mother screamed that we were innocent. They burned her alive. My sisters... my brother... I HEARD them dying. SCREAMING."* 
+:
 *(Voice drops to whisper)*
+*"A servant—bless her memory—hid me in a barrel in the wine cellar. I listened to my family die above me. Smelled their flesh burning. And when it was finally quiet, I crawled out into... nothing. Everything gone. Everyone dead. I was twelve years old."* 
 }}
->
-*"A servant—bless her memory—hid me in a barrel in the wine cellar. I listened to my family die above me. Smelled their flesh burning. And when it was finally quiet, I crawled out into... nothing. Everything gone. Everyone dead. I was twelve years old."* ::
+
 **Party Can Respond:** ::
 
 **Sympathy/Compassion:** ::
@@ -5609,57 +5626,61 @@ As Aldric escorts party to Great Hall:
 **Anger/Accusation:** ::
 - Corvus remains calm: *"You're angry I've killed in pursuit of justice? Fair. But ask yourself: how many have the kingdoms killed in pursuit of power? Hundreds? Thousands? At least I admit what I am."*
 
----
-
 **CORVUS'S PROPOSITION:** ::
-
-*"I've spent forty-three years gathering evidence. Recruiting those the kingdoms wronged. Building an army. Finding the Components. And yes—I plan to assemble the World-Splitter. But not to destroy the world. To reshape it."* ::
->
+::
 {{description,note
+*"I've spent forty-three years gathering evidence. Recruiting those the kingdoms wronged. Building an army. Finding the Components. And yes—I plan to assemble the World-Splitter. But not to destroy the world. To reshape it."* ::
+: 
 *(Unrolls map—shows continental Tirvandor)*
 }}
->
-*"The World-Splitter can crack continents. It can shatter mountains, boil seas, collapse kingdoms. But it can also BUILD. The Primordials used it to CREATE, not just destroy. In the right hands, it could remake society. Eliminate corrupt nobility. Redistribute power to the people. Create a world where TRUTH matters, where justice is real, where families like mine aren't murdered for political convenience."* ::
->
+
+\page
+
 {{description,note
+*"You wonder how I could possibly assemble all five? I've had forty-three years, heroes. The Storm Eye came to me fifteen years ago—a gift from sympathizers within the Aethorian Harmony who lost family to the same royal lies that destroyed mine. They smuggled it across the Sundering Sea in a coffin. The Stone Crown? I took it from the royal treasury three months past. The palace guards never even knew I was there—the shadows answer to me now, remember?"*
+:
+*(He gestures dismissively)*
+:
+*"The Crown sits on display in the throne room, embedded in a ceremonial helm no one realizes is a weapon of the gods. King Aldric wears it at festivals. I've replaced it with a convincing replica. He doesn't know the difference. None of them do."*
+}}
+
+{{description,note
+*"The World-Splitter can crack continents. It can shatter mountains, boil seas, collapse kingdoms. But it can also BUILD. The Primordials used it to CREATE, not just destroy. In the right hands, it could remake society. Eliminate corrupt nobility. Redistribute power to the people. Create a world where TRUTH matters, where justice is real, where families like mine aren't murdered for political convenience."* 
+:
+
 *(Looks directly at party)*
-}}
->
-*"I'm offering you a choice. Join me. Help me assemble the World-Splitter. Together, we'll hold the kingdoms accountable. Force them to confess their crimes. And if they refuse... we use the Splitter to tear down their palaces and build something better from the ruins."* ::
->
-*"Or... you can try to stop me. Kill me, take the Components, return them to the kingdoms that murdered innocents to protect their lies. Become part of the system that destroys the powerless. Perpetuate the cycle."* ::
->
-{{description,note
+:
+*"I'm offering you a choice. Join me. Help me assemble the World-Splitter. Together, we'll hold the kingdoms accountable. Force them to confess their crimes. And if they refuse... we use the Splitter to tear down their palaces and build something better from the ruins."* 
+:
+*"Or... you can try to stop me. Kill me, take the Components, return them to the kingdoms that murdered innocents to protect their lies. Become part of the system that destroys the powerless. Perpetuate the cycle."* 
+:
 *(Sits down, looking exhausted)*
+:
+*"What will you choose?"* 
 }}
->
-*"What will you choose?"* ::
----
 
 #### PARTY RESPONSE OPTIONS
 
-**This is THE defining moral choice of Act II**
+**This is THE defining moral choice of Act II** ::
 
 The party can:
 - **Join Corvus** (support the revolution)
 - **Oppose Corvus** (stop him by any means)
 - **Seek Middle Path** (justice without catastrophe)
 
----
-
-\page
-
 ### Option A: Join Corvus Blackwood
 
 **If Party Agrees to Help Him:** ::
-
-*(Corvus's eyes widen with genuine surprise)* *"You... you'll help me? Truly? I— I didn't expect... Thank you. THANK you. You don't know what this means. To not be alone in this. To have allies who've SEEN the truth and chosen to act."* ::
->
+::
 {{description,note
+*(Corvus's eyes widen with genuine surprise)* *"You... you'll help me? Truly? I— I didn't expect... Thank you. THANK you. You don't know what this means. To not be alone in this. To have allies who've SEEN the truth and chosen to act."*
+:
 *(Stands, energized)*
 }}
->
-*"Together, we'll find the remaining Components. The Third is beneath the ocean, in the ruins of House Deepwater's sanctuary. Difficult, but not impossible. Once we have enough power, we'll demand an audience with King Aldric IV. Give him one chance—just ONE—to confess his father's crimes and reform the system. If he refuses... we activate the World-Splitter. Reshape the world by force."* ::
+:
+{{description,note
+*"Together, we'll find the remaining Components. The Third is beneath the ocean, in the ruins of House Deepwater's sanctuary. Difficult, but not impossible. Once we have enough power, we'll demand an audience with King Aldric IV. Give him one chance—just ONE—to confess his father's crimes and reform the system. If he refuses... we activate the World-Splitter. Reshape the world by force."* 
+}}
 **Consequences:** ::
 - Party becomes Unbound allies
 - Gains access to Unbound resources
@@ -5667,7 +5688,11 @@ The party can:
 - Act III becomes revolution campaign
 - Moral complexity: Are they terrorists or freedom fighters?
 
-**Corvus's Promise:** *"I won't betray you. You've shown me mercy when you had every reason to kill me. I'll show you the same. And when this is over, when we've won... I'll step aside. I don't want to rule. I just want the truth known. That's all I've ever wanted."* ::
+**Corvus's Promise:** ::
+::
+{{description,note
+*"I won't betray you. You've shown me mercy when you had every reason to kill me. I'll show you the same. And when this is over, when we've won... I'll step aside. I don't want to rule. I just want the truth known. That's all I've ever wanted."* 
+}}
 
 **Insight DC 15:** ::
 - He means it
@@ -5682,21 +5707,22 @@ The party can:
 - Quest 3.4: Activate World-Splitter (or find alternative)
 - Darker tone, party questions if they're doing right thing
 
----
-
-\page
-
 ### Option B: Oppose Corvus Blackwood
 
 **If Party Refuses and Prepares to Fight:** ::
 
-*(Corvus's expression hardens)* *"I see. You've heard the truth. Seen the evidence. Witnessed the corruption. And still, you choose to serve them. Why? Duty? Fear? Or do you simply lack the courage to fight for what's right?"* ::
->
+*(Corvus's expression hardens)* ::
+::
 {{description,note
+*"I see. You've heard the truth. Seen the evidence. Witnessed the corruption. And still, you choose to serve them. Why? Duty? Fear? Or do you simply lack the courage to fight for what's right?"* ::
+:
 *(Stands, drawing sword)*
+:
+*"Then we're enemies. I'll take the Components by force. I'll assemble the World-Splitter. And I'll trigger the Second Worldrend whether the kingdoms consent or not. If I can't have justice, I'll have vengeance. At least that's honest."* 
 }}
->
-*"Then we're enemies. I'll take the Components by force. I'll assemble the World-Splitter. And I'll trigger the Second Worldrend whether the kingdoms consent or not. If I can't have justice, I'll have vengeance. At least that's honest."* ::
+
+\page
+
 **BOSS FIGHT: Corvus Blackwood**
 
 This becomes a full combat encounter:
@@ -5737,10 +5763,6 @@ This becomes a full combat encounter:
 - Quest 3.4: Deal with splinter Unbound faction seeking revenge
 - Lighter tone but party may feel guilty
 
----
-
-\page
-
 ### Option C: The Middle Path (Difficult)
 
 **If Party Proposes Alternative Solution:** ::
@@ -5760,14 +5782,15 @@ Party must present actual plan:
 - *"Public trial. Present evidence. Make kings choose: confess or be exposed as liars."*
 
 **If Successful:** ::
-
-*(Corvus stops, considers)* *"You're... you're right. If I trigger the Worldrend, I become the monster they said my family was. I prove the kingdoms RIGHT to fear us. That's not justice—that's revenge wearing justice's mask."* ::
->
+::
 {{description,note
+*(Corvus stops, considers)* 
+:
+*"You're... you're right. If I trigger the Worldrend, I become the monster they said my family was. I prove the kingdoms RIGHT to fear us. That's not justice—that's revenge wearing justice's mask."*
+:
 *(Sits heavily)*
+*"But how? How do we force accountability without the threat of destruction being REAL?"* 
 }}
->
-*"But how? How do we force accountability without the threat of destruction being REAL?"* ::
 **Party and Corvus negotiate:** ::
 - Keep Components safe (don't assemble)
 - Use threat of assembly as diplomatic leverage
@@ -5776,8 +5799,11 @@ Party must present actual plan:
 - Demand public inquiry into Blackwood case
 - If king refuses: THEN consider extreme measures
 
-**Corvus's Response:** *"All right. I'll try it your way. But if the kingdoms reject this—if they choose lies over truth—I WILL assemble the World-Splitter. That's my line. Justice or destruction. They choose."* ::
-
+**Corvus's Response:** ::
+::
+{{description,note
+*"All right. I'll try it your way. But if the kingdoms reject this—if they choose lies over truth—I WILL assemble the World-Splitter. That's my line. Justice or destruction. They choose."* 
+}}
 **Consequences:** ::
 - Temporary alliance with Corvus
 - Work together in Act III
@@ -5792,8 +5818,6 @@ Party must present actual plan:
 - Quest 3.4: Deal with nobles who oppose truth
 - Quest 3.5: Final choice—if diplomacy fails, assemble Splitter or walk away
 - Best ending potential but requires work
-
----
 
 \page
 
@@ -5821,9 +5845,9 @@ Party must present actual plan:
 
 ---
 
-**XP AWARDED:** 5,000 XP (major story resolution)
+**XP AWARDED:** 5,000 XP (major story resolution) ::
 
-**Level Up:** Party should reach level 8-9
+**Level Up:** Party should reach level 8-9 ::
 
 **Act II Complete!**
 
@@ -5833,11 +5857,7 @@ Party must present actual plan:
 - Made defining moral choice
 - Set course for Act III
 
-**Transitions to Act III:** The search for the Third Component and final resolution of the Blackwood conspiracy.
-
----
-
-\page
+**Transitions to Act III:** The search for the Third Component and final resolution of the Blackwood conspiracy. ::
 
 ### Act II Epilogue
 
@@ -5854,9 +5874,8 @@ Party must present actual plan:
 {{description,note
 *That question will define Act III.*
 }}
----
 
-**DM NOTE:** Act II is complete! The party has:
+**DM NOTE:** Act II is complete! The party has: ::
 - Grown from local heroes to continental players
 - Faced impossible moral choices
 - Learned truth is more complicated than "good vs evil"
@@ -5870,26 +5889,26 @@ Party must present actual plan:
 - World-Splitter's ultimate disposition
 - Party's legacy
 
-**Well done! Act II is table-ready!** 🎉
+**Well done! Act II is table-ready!** ::
 - Campaign becomes morally gray/dark
 - Heroes help assemble World-Splitter
 - Final act is about CONTROLLING the Worldrend, not stopping it
 - Epilogue involves overthrowing kingdoms
 
-**OPTION B: Refuse Lord Shadows**
+**OPTION B: Refuse Lord Shadows** ::
 - He attacks with full force
 - This becomes a boss fight (see below)
 - If heroes win, they still need to find Third Component
 - If heroes lose, they're imprisoned and must escape
 
-**OPTION C: Negotiate Middle Ground (DC 18 Persuasion)**
+**OPTION C: Negotiate Middle Ground (DC 18 Persuasion)** ::
 - Convince Lord Shadows there's another way
 - Propose exposing truth WITHOUT Worldrend
 - He agrees to temporary truce
 - Campaign shifts to "expose conspiracy" path
 - Final act becomes convincing kingdoms to admit truth
 
-**Most Likely:** Heroes refuse, leading to boss fight
+**Most Likely:** Heroes refuse, leading to boss fight ::
 
 #### BOSS FIGHT: LORD SHADOWS BLACKWOOD
 
@@ -5898,7 +5917,9 @@ Party must present actual plan:
 - 1 **The Lich of Raven's Keep** (CR 18 - arrives round 3)
 - 2 **Unbound Champions** (CR 3 each)
 
-**Battlefield:** Great Hall (60x80 ft., pillars provide cover, high ceiling allows flying)
+**Battlefield:** Great Hall (60x80 ft., pillars provide cover, high ceiling allows flying) ::
+
+\page
 
 **Tactics:** ::
 - Shadows uses hit-and-run with Shadow Step and Dimension Door
@@ -5934,11 +5955,7 @@ Party must present actual plan:
 - **Corvus's Journal** (heartbreaking account of his family's murder - proof of innocence)
 - 2,000 gp in gems
 
-**XP:** 25,000+ XP
-
----
-
-\page
+**XP:** 25,000+ XP ::
 
 ### Act II Conclusion
 
@@ -5976,15 +5993,15 @@ But reaching it requires:
 3. **Surviving deep-sea horrors**
 4. **Racing the Unbound** (they're also going after it)
 
-**ACT II COMPLETE - LEVEL UP TO 10**
-
----
+**ACT II COMPLETE - LEVEL UP TO 10** ::
 
 \page
 
-## Act III: The Second Sundering (Levels 11-15)
+![The Final Battle - Second Sundering](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-final-battle.png){position:absolute,top:0px,left:0px,height:700px,width:100%}
 
-![The Final Battle - Second Sundering](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-final-battle.png){width:100%,mix-blend-mode:multiply}
+{{padding-top:640px}}
+
+## Act III: The Second Sundering (Levels 11-15)
 
 ### Act III Overview
 
@@ -5995,6 +6012,8 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Goldshore Manor (sunken dungeon)
 - The Primordial Rift (where Worldrend will occur)
 - Raven's Keep (final showdown)
+
+{{padding-top:750px}}
 
 **Major Goals:** ::
 - Retrieve Third Component
@@ -6014,11 +6033,10 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 
 ### Quest 3.1: The Depths Below (Level 11)
 
-**Hook:** After Act II's conclusion, the race for the Third Component begins. Heroes learn its location: **Goldshore Manor**, 300 feet underwater in the Sundering Sea. The Unbound are already en route. Time is critical.
-
-**Location:** Sundering Sea, 20 miles offshore  
-**Objective:** Reach underwater ruins and beat the Unbound to Third Component  
-**Time Pressure:** 3 days before Unbound arrive (they left 1 day before party)
+**Hook:** After Act II's conclusion, the race for the Third Component begins. Heroes learn its location: **Goldshore Manor**, 300 feet underwater in the Sundering Sea. The Unbound are already en route. Time is critical. ::
+**Location:** Sundering Sea, 20 miles offshore  ::
+**Objective:** Reach underwater ruins and beat the Unbound to Third Component  ::
+**Time Pressure:** 3 days before Unbound arrive (they left 1 day before party)::
 
 ---
 
@@ -6034,7 +6052,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 
 **APPROACH OPTIONS:** ::
 
-**A. MAGICAL APPROACH (Quick, Risky)**
+**A. MAGICAL APPROACH (Quick, Risky)** ::
 
 **Available Spells:** ::
 - *Water Breathing* (3rd level, 24 hours duration, 10 creatures)
@@ -6057,9 +6075,9 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Concentration can be broken
 - Vulnerable to *Dispel Magic*
 
----
+\column
 
-**B. ALCHEMICAL APPROACH (Expensive, Reliable)**
+**B. ALCHEMICAL APPROACH (Expensive, Reliable)** ::
 
 **Available Potions:** ::
 - *Potion of Water Breathing* (300 gp, 1 hour, no concentration)
@@ -6083,9 +6101,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Fixed duration (must manage time)
 - Can't extend if delayed
 
----
-
-**C. MECHANICAL APPROACH (Safe, Slow)**
+**C. MECHANICAL APPROACH (Safe, Slow)** ::
 
 **Gnomish Submersible:** ::
 - **Cost:** 5,000 gp + 1,000 gp materials
@@ -6107,9 +6123,10 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Slow, visible target
 - Can't enter tight spaces
 
-**DM Note:** If party chooses this, Unbound already have Component when they arrive—leads to chase/heist scenario instead
+:
+**DM Note:** If party chooses this, Unbound already have Component when they arrive—leads to chase/heist scenario instead 
 
----
+\page
 
 **D. DIPLOMATIC APPROACH (Free, Dangerous)**
 
@@ -6128,7 +6145,11 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Must bring tribute (500 gp treasure OR rare fish)
 - Baron speaks Common (with hissing accent)
 
-**Baron's Dialogue:** *"Ssso. Land-walkersss sseek the drowned mansssion. Why sshould I allow thisss? The Goldsssshore betrayed usss oncccce. Made treaty, broke treaty, killed my precccesssorsss. You want my blesssing? Earn it."* ::
+**Baron's Dialogue:** ::
+::
+{{description,note
+*"Ssso. Land-walkersss sseek the drowned mansssion. Why sshould I allow thisss? The Goldsssshore betrayed usss oncccce. Made treaty, broke treaty, killed my precccesssorsss. You want my blesssing? Earn it."* 
+}}
 
 **Baron's Quest: Hunt the Aboleth**
 - Deep-sea aboleth has been enslaving sahuagin
@@ -6146,8 +6167,6 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Must fight CR 10 monster at level 11
 - Takes extra day (Unbound get head start)
 - Baron is unpredictable (might betray)
-
----
 
 **RECOMMENDED STRATEGY:** ::
 
@@ -6171,8 +6190,6 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - **Total Cost:** 6,000 gp
 - **Time:** +7 days (becomes heist mission)
 
----
-
 #### THE DESCENT - UNDERWATER JOURNEY
 
 ##### Read Aloud:
@@ -6181,7 +6198,6 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 *The ship rocks gently as you prepare. Twenty miles from shore, the Sundering Sea is deep blue, almost black. You can't see the bottom. The captain—a grizzled dwarf who somehow became a sailor—eyes you with mix of respect and pity. "Three hundred feet down is another world," he says. "Things down there... they don't think like surface folk. Remember: in the deep, you're not the predator anymore. Thaldros's luck go with you." Then you step off the edge and sink into darkness.*
 }}
 
----
 
 **UNDERWATER PHYSICS:** ::
 
@@ -6210,11 +6226,11 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Lightning spells: Everything within 10 ft. takes half damage
 - Thunder spells: Work normally, very loud
 
----
+\page
 
 **THE DESCENT - STAGED ENCOUNTERS:** ::
 
-**DEPTH 0-100 FT: SUNLIT ZONE**
+**DEPTH 0-100 FT: SUNLIT ZONE** ::
 
 ##### Read Aloud:
 ::
@@ -6231,15 +6247,15 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - **If party aggressive:** Octopus attacks (CR 1)
 
 **Peaceful Resolution (Animal Handling DC 13):** ::
+::
 {{description,note
 *The octopus watches you with intelligent eyes. You could fight it... or you could offer it food (rations work). It accepts, changes color to match your mood, then retreats. You've made a friend. Octopi remember kindness.*
 }}
+
 **Benefit if befriended:** ::
 - Octopus follows at distance
 - Warns of danger (points tentacle)
 - Might help in combat later (DM choice)
-
----
 
 **DEPTH 100-200 FT: TWILIGHT ZONE**
 
@@ -6266,9 +6282,11 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Flees if reduced to 15 HP or less
 
 **Option B - Repel (Intimidation DC 14):** ::
+::
 {{description,note
 *You spread out, make yourselves look bigger, create loud noises underwater. The shark reconsiders. You're not easy prey—too much trouble. It swims away to find something simpler.*
 }}
+
 **Option C - Distract (Throw Food):** ::
 - Toss rations or fresh meat
 - Shark takes bait, ignores party
@@ -6280,8 +6298,6 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Promise it scraps from your kills
 - **Animal Handling DC 12:** Shark becomes temporary ally
 
----
-
 **DEPTH 200-300 FT: ABYSSAL APPROACH**
 
 ##### Read Aloud:
@@ -6290,11 +6306,20 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 *Complete darkness. Your lights are the only illumination in a world of black. The pressure is immense—you feel it trying to crush you. Every breath is work. Temperature drops; the cold seeps into bones despite magical protection. And ahead, faintly glowing with bioluminescence... you see it. Goldshore Manor. A magnificent ruin, encrusted with coral and glowing fungi, impossibly preserved by ancient magic. Lights flicker in its windows—someone is there. The Unbound have arrived.*
 }}
 
----
-
 **RANDOM ENCOUNTER (Roll 1d8):** ::
 
-**1. Swarm of Quippers (Blood in Water)**
+| d8 | Encounter |
+|:--:|:---------:|
+|1| Swarm of Quippers |
+|2| Water Elemental |
+|3| Ghost of Drowned Sailor |
+|4| Sahuagin Patrol |
+|5| Aboleth Larva |
+|6| Beautiful Coral Reef |
+|7| Trapped Merman |
+|8| Unbound Scouts |
+
+**1. Swarm of Quippers (Blood in Water)** ::
 
 ##### Read Aloud:
 ::
@@ -6308,9 +6333,9 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Drives away with *Thunderwave* or similar AOE
 - **Prevention:** Don't bleed underwater
 
----
+\page
 
-**2. Water Elemental (Territorial Guardian)**
+**2. Water Elemental (Territorial Guardian)** ::
 
 ##### Read Aloud:
 ::
@@ -6324,9 +6349,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - **Persuasion DC 16:** Explain your mission, it lets you pass
 - **If fought:** Uses Whelm ability (DC 15 Str save or engulfed)
 
----
-
-**3. Ghost of Drowned Sailor**
+**3. Ghost of Drowned Sailor** ::
 
 ##### Read Aloud:
 ::
@@ -6341,9 +6364,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - **Persuasion DC 14:** Promise to honor Goldshore memory
 - **If promised:** Ghost becomes ally, warns of traps
 
----
-
-**4. Sahuagin Patrol (Territorial Natives)**
+**4. Sahuagin Patrol (Territorial Natives)** ::
 
 ##### Read Aloud:
 ::
@@ -6360,9 +6381,9 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 
 **Priestess Dialogue:** *"Dark onesss entered the mansssion two daysss ago. Many dark oness. They ssspeak of ssshadows and ending. We no go there. Cursssed place. You enter, you die. We warned you."* ::
 
----
+\column
 
-**5. Aboleth Larva (Horror from Deep)**
+**5. Aboleth Larva (Horror from Deep)** ::
 
 ##### Read Aloud:
 ::
@@ -6376,9 +6397,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - **Wisdom save DC 14** or frightened 1 minute
 - Reminder: party isn't apex predator here
 
----
-
-**6. Beautiful Coral Reef (Safe Harbor)**
+**6. Beautiful Coral Reef (Safe Harbor)** ::
 
 ##### Read Aloud:
 ::
@@ -6391,9 +6410,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Safe short rest location
 - Peaceful music, describe beauty
 
----
-
-**7. Trapped Merman (Moral Choice)**
+**7. Trapped Merman (Moral Choice)** ::
 
 ##### Read Aloud:
 ::
@@ -6407,15 +6424,15 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - **If ignored:** He drowns, haunts party as ghost later
 - **Moral test:** Do heroes stop to help?
 
----
-
-**8. Unbound Scouts (Enemy Outriders)**
+**8. Unbound Scouts (Enemy Outriders)** ::
 
 ##### Read Aloud:
 ::
 {{description,note
 *Two figures in dark armor, adapted for water, patrol the approach to Goldshore Manor. Unbound scouts. They spot you. One reaches for a horn. If he blows it, reinforcements will come. You have seconds to decide.*
 }}
+
+\page
 
 - 2 **Unbound Underwater Scouts** (use Bandit Captain stats, CR 2 each)
 - Will alert main force if not stopped
@@ -6429,20 +6446,16 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Unbound prepare ambush
 - Quest 3.2 becomes much harder
 
----
-
 **ARRIVAL AT GOLDSHORE MANOR:** ::
 
 ##### Read Aloud:
 ::
 {{description,note
 *You've reached it. Goldshore Manor rises from the sea floor like a palace from myth. Four stories of marble and coral, windows glowing with bioluminescent fungi, towers still standing despite centuries underwater. The Goldshore crest—a golden ship on blue field—hangs above the main gates, barely visible through algae. And there, tied to broken pillars: Unbound submarines. Three of them. They're here. Inside. Searching for the same prize you seek.*
-}}
->
-{{description,note
+:
 *The gates stand open. Welcoming. Or warning. Hard to tell which.*
 }}
----
+
 
 **FINAL APPROACH OPTIONS:** ::
 
@@ -6466,8 +6479,6 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Ram through wall (loud, aggressive)
 - Starts encounter immediately
 
----
-
 **QUEST 3.1 COMPLETE:** ::
 
 **Party Achieves:** ::
@@ -6476,7 +6487,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - (Possibly) made allies/enemies
 - Ready to enter dungeon
 
-**XP:** 2,500 XP (survival and encounters)
+**XP:** 2,500 XP (survival and encounters) ::
 
 **Sets Up Quest 3.2:** ::
 - Dungeon infiltration
@@ -6484,17 +6495,12 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Retrieve Third Component
 - Avoid drowning in haunted ruin
 
----
-
-\page
-
 ### Quest 3.2: Goldshore Manor (Level 11-12)
 
 **Location:** Sunken estate, 300 feet underwater  
 **Difficulty:** DEADLY (CR 6-7 per PC)  
+:
 **This is Act III's haunted underwater dungeon**
-
----
 
 #### DUNGEON OVERVIEW
 
@@ -6513,9 +6519,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - **Magic:** Anti-teleportation wards (can't *Dimension Door* in/out)
 - **Temperature:** 40°F (cold water, DC 10 Con save/hour or exhaustion without protection)
 
-**Map:** 12 areas across 3 floors + vault sublevel
-
----
+**Map:** 12 areas across 3 floors + vault sublevel ::
 
 #### ENTRANCE: THE SHATTERED GATES
 
@@ -6530,7 +6534,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Moving in patrol pattern
 - Former guards, corrupted by decades underwater
 
----
+\page
 
 #### GM1: THE GRAND FOYER
 
@@ -6566,7 +6570,7 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - **Success:** They salute, let you pass
 - **Failure:** Attack as normal
 
-**XP:** 900 XP
+**XP:** 900 XP ::
 
 ---
 
@@ -6577,6 +6581,8 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 {{description,note
 *The foyer opens to an inner courtyard, once open to sky, now open to ocean. Broken statues of Goldshore ancestors stand sentinel—arms missing, faces eroded. At the courtyard's center, impossibly, a fountain still flows. Water within water, magical spring still active after decades. Schools of colorful fish dart between the statues like living jewels.*
 }}
+
+\column
 
 **Trap: Fountain Glyph**
 
@@ -6605,10 +6611,11 @@ The endgame. Heroes must prevent Lord Shadows from assembling the World-Splitter
 - Also 8 pearls (100 gp each)
 
 **Peaceful Moment:** ::
-If party takes time to rest here without triggering trap, describe beauty: *"The fish seem unafraid. One brushes against your hand—curious, gentle. For a moment, you forget the danger. This place was someone's home. A family lived here, loved here. Before they died screaming."*
-
----
-
+If party takes time to rest here without triggering trap, describe beauty: ::
+{{description,note
+*"The fish seem unafraid. One brushes against your hand—curious, gentle. For a moment, you forget the danger. This place was someone's home. A family lived here, loved here. Before they died screaming."*
+}}
+:
 #### GM3: THE BALLROOM OF WHISPERS
 
 ##### Read Aloud:
@@ -6625,18 +6632,18 @@ If party takes time to rest here without triggering trap, describe beauty: *"The
 - Don't immediately attack—dance first
 - Become hostile when living disturb their ball
 
+\page
+
 **Triggering Combat:** ::
 - Any aggressive action
 - Attempting to leave ballroom
 - Speaking loudly
 - **Stealth DC 15:** Can sneak through without disturbing
 
----
-
 **If Combat Begins:** ::
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *The music stops. As one, every shadow turns toward you. No faces, no features, just DARKNESS in roughly human shape. And the two wraiths—former lord and lady of the house—drift forward. Lady Goldshore's voice echoes: "You dare disturb our eternal dance? Then JOIN US. Forever."*
 }}
@@ -6653,12 +6660,13 @@ If party takes time to rest here without triggering trap, describe beauty: *"The
 - Shadows are invisible in darkness (Perception DC 14 to spot)
 - Wraiths can possess (DC 14 Charisma save)
 
----
-
 **Alternative - Respectful Approach (Persuasion DC 16):** ::
 
 Before disturbing them:
-*"Lord and Lady Goldshore. We come seeking to honor your sacrifice. We know the truth—you died protecting the Component. We seek to finish what you started."* ::
+{{description,note 
+*"Lord and Lady Goldshore. We come seeking to honor your sacrifice. We know the truth—you died protecting the Component. We seek to finish what you started."* 
+}}
+
 **If Successful:** ::
 - Music stops gently
 - Lady Goldshore speaks: *"Truth-seekers? How rare. How... refreshing. We died to protect what you seek. Can you swear you'll use it well?"*
@@ -6675,11 +6683,9 @@ Before disturbing them:
 - 120 gp in jewelry (waterlogged but salvageable)
 - **Family Portrait** in locket (plot item, proves Goldshore innocence)
 
-**XP:** 2,500 XP (or 1,250 if peacefully resolved)
+\column
 
----
-
-\page
+**XP:** 2,500 XP (or 1,250 if peacefully resolved) ::
 
 #### GM4: THE SERVANT QUARTERS
 
@@ -6711,8 +6717,6 @@ Before disturbing them:
 - 500 gp in coin
 - Unbound journal (mentions Captain Voidcaller is leading search)
 
----
-
 #### GM5: THE LIBRARY OF DEPTHS
 
 ##### Read Aloud:
@@ -6729,9 +6733,19 @@ Before disturbing them:
 - Obsessed with recording truth
 - Will talk if approached respectfully
 
-**Marcus's Dialogue:** *"Ah. Visitors. Living visitors, how unusual. Have you come for the truth? Or for the treasure? Most come for treasure. They die for it. But you... you have the look of truth-seekers. Perhaps I'll help you. Perhaps."* ::
+\page
 
-**Persuasion DC 14 (Asking for Help):** *"The Component? Yes, I know where it is. But first, answer my question: WHO killed the Goldshore Keepers? If you know the truth, I'll guide you. If you lie, I'll drain your souls."* ::
+**Marcus's Dialogue:**  ::
+::
+{{description,note
+*"Ah. Visitors. Living visitors, how unusual. Have you come for the truth? Or for the treasure? Most come for treasure. They die for it. But you... you have the look of truth-seekers. Perhaps I'll help you. Perhaps."* 
+}}
+
+**Persuasion DC 14 (Asking for Help):** ::
+::
+{{description,note
+*"The Component? Yes, I know where it is. But first, answer my question: WHO killed the Goldshore Keepers? If you know the truth, I'll guide you. If you lie, I'll drain your souls."* 
+}}
 
 **Correct Answer:** ::
 - "Prince Aldric, son of King Aldric III"
@@ -6755,9 +6769,7 @@ Before disturbing them:
 - **Goldshore Family History** (provides context for campaign)
 - **Manual of Quickness of Action** (if Marcus helps)
 
-**XP:** 1,100 XP (or 0 if befriended)
-
----
+**XP:** 1,100 XP (or 0 if befriended) ::
 
 #### GM6: THE KITCHENS (SHORTCUT ROUTE)
 
@@ -6776,11 +6788,7 @@ Before disturbing them:
 - Unbound set trap (falling nets, DC 14 Dex save or restrained)
 - Can bypass with careful movement (DC 13 Stealth)
 
-**Benefit:** Bypass GM7 encounter if using service stairs
-
----
-
-\page
+**Benefit:** Bypass GM7 encounter if using service stairs ::
 
 #### GM7: THE GRAND STAIRCASE (Main Route)
 
@@ -6792,8 +6800,11 @@ Before disturbing them:
 
 **Encounter:** 6 **Unbound Soldiers** (CR 1/2 each) + 1 **Unbound Champion** (CR 3)
 
-**Dialogue (Champion):** *"That's far enough! You're trespassing in Unbound territory! The Component belongs to Lord Shadows! Surrender now, or—"* ::
+**Dialogue (Champion):** ::
+::
 {{description,note
+*"That's far enough! You're trespassing in Unbound territory! The Component belongs to Lord Shadows! Surrender now, or—"* :
+:
 *(Party can interrupt, negotiate, or attack)*
 }}
 **Negotiation Options:** ::
@@ -6816,16 +6827,16 @@ Before disturbing them:
 - Use stairs as choke point
 - Call for reinforcements if losing (6 more soldiers arrive in 3 rounds)
 
+\page
+
 **Loot:** ::
 - +1 Battleaxe (Champion's weapon)
 - 6 javelins
 - 200 gp
 - Orders from Captain Voidcaller (confirms he's searching third floor)
 
-**XP:** 1,950 XP
-
----
-
+**XP:** 1,950 XP ::
+:
 #### GM8: THE VAULT APPROACH - VOIDCALLER'S AMBUSH
 
 **Location:** Third floor, hallway to vault
@@ -6836,7 +6847,6 @@ Before disturbing them:
 *You reach the third floor. The hallway ahead leads to a massive vault door—Goldshore crest emblazoned in gold. But between you and it... carnage. Bodies float in the water. Sahuagin warriors, dead for hours. Unbound soldiers, torn apart. And standing amidst the slaughter, waiting, is a figure you recognize: Captain Malthus Voidcaller. Behind him, Sister Mortua and six elite Unbound warriors. They were expecting you.*
 }}
 
----
 
 **MAJOR BOSS ENCOUNTER:** ::
 
@@ -6850,13 +6860,23 @@ Before disturbing them:
 ---
 
 **Malthus's Opening:** ::
+::
+{{description,note
+*"So. The persistent heroes arrive at last. I knew you'd come—you're predictable. Honorable. WEAK. Lord Shadows offers you one final chance: Join us, or die here in the depths where no one will find your corpses."* 
+}}
 
-*"So. The persistent heroes arrive at last. I knew you'd come—you're predictable. Honorable. WEAK. Lord Shadows offers you one final chance: Join us, or die here in the depths where no one will find your corpses."* ::
 **Party Can Respond:** ::
 
-**If Refuse:** *"Then drown."* :: *(Attacks)*
+**If Refuse:** 
+{{description,note
+*"Then drown."* :: *(Attacks)*
+}}
 
-**If Ask Why:** *"Why? Because 43 years ago, my family was displaced by royal decree. Our lands, stolen. Our name, erased. We had two choices: starve in gutters or join someone who understood our pain. Lord Shadows gave us purpose. What have YOUR kings given you? Lies and scraps."* ::
+**If Ask Why:** ::
+::
+{{description,note
+*"Why? Because 43 years ago, my family was displaced by royal decree. Our lands, stolen. Our name, erased. We had two choices: starve in gutters or join someone who understood our pain. Lord Shadows gave us purpose. What have YOUR kings given you? Lies and scraps."* 
+}}
 
 **Insight DC 16:** ::
 - Malthus believes in the cause
@@ -6900,24 +6920,31 @@ Before disturbing them:
 
 **If Party Winning:** ::
 
-Malthus, bloodied:
-*"Enough! I yield! You've won. Just... just tell me: will you give the Component to the kings? Or will you actually TRY to fix this broken world?"* ::
+Malthus, bloodied: ::
+::
+{{description,note
+*"Enough! I yield! You've won. Just... just tell me: will you give the Component to the kings? Or will you actually TRY to fix this broken world?"* 
+}}
+
 **Party's Answer Matters:** ::
 - **Give to kings:** Malthus dies believing party serves corruption
 - **Destroy it:** Malthus respects this, dies peacefully
 - **Use for justice:** Malthus smiles, *"Then perhaps... I die for nothing... or everything..."*
 
----
+\page
 
 **If Party Losing:** ::
 
 Malthus, victorious:
-*"I'm sorry it came to this. You were worthy opponents. But Lord Shadows's justice cannot be stopped. Not by you. Not by anyone."* ::
+::
+{{description,note
+*"I'm sorry it came to this. You were worthy opponents. But Lord Shadows's justice cannot be stopped. Not by you. Not by anyone."* 
+}}
 - Takes Components from party
 - Orders Sister Mortua to use *Dimension Door* to escape
 - Leaves party alive: *"Drown slowly, heroes. Think about who you really served."*
 - Party must escape collapsing manor without Component
-- Act III continues, but with Unbound having all 3 Components (harder path)
+- Act III continues, but with Unbound having all 5 Components (harder path)
 
 ---
 
@@ -6929,9 +6956,7 @@ Malthus, victorious:
 - 800 gp in gems
 - **Malthus's Journal** (reveals Corvus plans final ritual at Primordial Rift in 3 days)
 
-**XP:** 15,000 XP (divided among party)
-
----
+**XP:** 15,000 XP (divided among party) ::
 
 #### GM9: THE FALSE VAULT
 
@@ -6952,6 +6977,8 @@ Malthus, victorious:
 {{description,note
 *That crystal radiates explosive magic. *Explosive Runes*. Someone WANTS you to take it.*
 }}
+
+\column
 
 ##### Investigation DC 15:
 ::
@@ -6975,8 +7002,6 @@ If anyone touches crystal:
 - *Counterspell* when touching (reaction)
 - Or just DON'T TOUCH IT
 
----
-
 **Finding True Vault (Investigation DC 18):** ::
 
 {{description,note
@@ -6990,7 +7015,7 @@ If anyone touches crystal:
 {{description,note
 *Behind false vault, true vault awaits. Much smaller, more secretive. This is where Goldshores hid their greatest treasure.*
 }}
----
+
 
 #### GM10: THE TRUE VAULT - FINAL COMPONENT
 
@@ -7000,11 +7025,11 @@ If anyone touches crystal:
 *The true vault is small, intimate. Three pedestals form a triangle, each carved with protective runes. At their center, on a fourth pedestal: the Third Component. It glows blue-green, pulsing like a heartbeat, radiating cold that even underwater you can feel. And hovering above it, translucent and terrible, is a figure: Lady Corvina Goldshore, matriarch of the house, wearing spectral armor and wielding a sword of pure water. She looks at you with eyes both sad and dangerous.*
 }}
 
----
+\page
 
 **ENCOUNTER:** 1 **Goldshore Ancestral Spirit** (CR 10)
 
-{{monster,frame
+{{monster,frame,wide
 ## Goldshore Ancestral Spirit (Lady Corvina)
 *Large undead, lawful neutral*
 ___
@@ -7057,9 +7082,10 @@ ___
 **Lady Corvina's Opening:** ::
 
 She doesn't attack immediately. Instead:
-
-*"STOP. State your name, your house, and your purpose. I am Lady Corvina Goldshore, guardian of the Third Component, protector of the sacred covenant. My family died defending this. I will not yield it to thieves or fools. Speak truly, or face my wrath."* ::
----
+::
+{{description,note
+*"STOP. State your name, your house, and your purpose. I am Lady Corvina Goldshore, guardian of the Third Component, protector of the sacred covenant. My family died defending this. I will not yield it to thieves or fools. Speak truly, or face my wrath."* 
+}}
 
 **RESOLUTION OPTIONS:** ::
 
@@ -7075,11 +7101,11 @@ If party attacks or refuses to answer:
 - Uses legendary actions every round
 - *Summon Waters* to create difficult terrain
 
-**This is HARD FIGHT for level 11-12 party.**
+**This is HARD FIGHT for level 11-12 party.** ::
 
----
+\column
 
-**OPTION B: PERSUASION** (DC 18 Charisma)
+**OPTION B: PERSUASION** (DC 18 Charisma) ::
 
 Explain purpose honestly:
 *"Lady Goldshore, we seek to honor your sacrifice. Your family died protecting this Component from those who'd misuse it. We're trying to prevent the World-Splitter's assembly, or if it must be assembled, ensure it's used justly. We're not thieves—we're finishing what you started."* ::
@@ -7090,40 +7116,52 @@ Explain purpose honestly:
 - **Hide it:** *"Cowardice. It'll be found again."*
 - **Use it for justice:** *"Dangerous. Who decides what's just?"*
 
-**Lady Corvina's Decision:** *"I will allow you to take it. But I bind you with an oath: you will NOT let it fall into the hands of corrupt kings. If you break this oath, I will hunt you across planes of existence. Swear it."* ::
+**Lady Corvina's Decision:** ::
+::
+{{description,note
+*"I will allow you to take it. But I bind you with an oath: you will NOT let it fall into the hands of corrupt kings. If you break this oath, I will hunt you across planes of existence. Swear it."* 
+}}
+
+\page
 
 **If Party Swears:** ::
 - She allows Component removal
 - Gives blessing (Advantage on one save in next 24 hours)
 - Fades away peacefully: *"Thank you. Tell the world... the Goldshores were innocent."*
 
----
-
-**OPTION C: HISTORICAL KNOWLEDGE** (DC 20 History)
+**OPTION C: HISTORICAL KNOWLEDGE** (DC 20 History) ::
 
 Demonstrate knowledge of Goldshore history:
 *"Lady Corvina, your house was allied with House Blackwood. You both served as guardians. You both were framed by Prince Aldric. You both died for a truth the kingdoms wanted buried. We know this. We're trying to expose it."* ::
-**If Successful:** *"You... you know? Someone KNOWS? After all this time?"* :: *(Begins weeping spectral tears)* *"I thought we'd be forgotten. Erased. That our deaths meant nothing. You've given me hope. Take the Component. Use it to reveal the truth. That's all I ever wanted."*
 
+**If Successful:** ::
+::
+{{description,note
+*"You... you know? Someone KNOWS? After all this time?"*
+:
+*(Begins weeping spectral tears)* 
+:
+*"I thought we'd be forgotten. Erased. That our deaths meant nothing. You've given me hope. Take the Component. Use it to reveal the truth. That's all I ever wanted."*
+}}
 - Gives Component willingly
 - Also gives **Goldshore Signet Ring** (proof of house innocence)
 - Teaches party *Goldshore Water Shield* technique (reaction: gain +5 AC vs one attack, 3/day)
 
----
 
-**OPTION D: SHOW EVIDENCE**
+**OPTION D: SHOW EVIDENCE** ::
 
 If party has:
 - Arcturus's testimony (written or remembered)
 - Lord Shadows/Corvus's journal
 - Any Goldshore or Blackwood artifact
 
-*"This... this is from Arcturus? The High Mage survived? He witnessed it? And this journal... from young Corvus? He lived? The Blackwood boy survived?"* ::
 {{description,note
+*"This... this is from Arcturus? The High Mage survived? He witnessed it? And this journal... from young Corvus? He lived? The Blackwood boy survived?"* 
+:
 *(Examines evidence)*
+:
+*"Then our deaths weren't meaningless. The truth survives. Take the Component. And when you face Corvus Blackwood, tell him: Lady Corvina Goldshore sends her regards. We died together, our houses. Tell him he's not alone in his grief."* 
 }}
-*"Then our deaths weren't meaningless. The truth survives. Take the Component. And when you face Corvus Blackwood, tell him: Lady Corvina Goldshore sends her regards. We died together, our houses. Tell him he's not alone in his grief."* ::
----
 
 **TAKING THE COMPONENT:** ::
 
@@ -7133,8 +7171,6 @@ If party has:
 *You approach the pedestal. The Third Component thrums with power—cold, ancient, terrible. You can FEEL its potential. This fragment, combined with the other two, could crack continents, reshape the world, unmake kingdoms. And now it's yours. You lift it carefully, and immediately, the manor SHUDDERS.*
 }}
 
----
-
 #### ESCAPE SEQUENCE - MANOR COLLAPSE!
 
 ##### Read Aloud:
@@ -7143,13 +7179,19 @@ If party has:
 *The instant you remove the Component, something breaks. The magic sustaining Goldshore Manor—keeping it preserved, keeping it whole—FAILS. Cracks spider across walls. Ceiling chunks fall. Water pressure, held back for decades, rushes in. The entire structure is COLLAPSING. You have minutes, maybe seconds, to reach the surface. RUN!*
 }}
 
----
+| d6 | Escape Mechanic |
+|:--:|:---------------:|
+|1-2| Falling Debris |
+|3-4| Blocked Path |
+|5-6| Clkear Path |
 
 **ESCAPE MECHANICS:** ::
 
 **6 Rounds to Surface** (300 feet at 50 ft./round swim speed)
 
 Each round, roll 1d6:
+
+| d6 | 
 
 **1-2: FALLING DEBRIS**
 {{description,note
@@ -7173,11 +7215,10 @@ Each round, roll 1d6:
 }}
 - No check needed, make progress
 
----
 
 **SPECIAL EVENTS (DM's Choice):** ::
 
-**Event 1: Trapped Unbound Soldier**
+**Event 1: Trapped Unbound Soldier** ::
 {{description,note
 *You pass an Unbound soldier trapped under rubble, reaching out desperately. He's your enemy... but he's drowning. Do you stop to help?*
 }}
@@ -7185,21 +7226,22 @@ Each round, roll 1d6:
 - He survives: *"Why did you save me?"* Confusion, potential future ally
 - Ignore him: He drowns, party continues
 
-**Event 2: Goldshore Ghosts Aid**
+\page
+
+**Event 2: Goldshore Ghosts Aid** ::
 If party honored the Goldshores:
 {{description,note
 *Ghostly hands guide you through darkness, showing safe path. Lady Corvina's voice: "This way, champions of truth. Hurry!"*
 }}
 - Advantage on next escape check
 
-**Event 3: Component Attracts Danger**
+**Event 3: Component Attracts Danger** ::
+::
 {{description,note
 *The Component's power draws a deep-sea horror—massive shadow on periphery of vision. It's not attacking yet, but it's FOLLOWING.*
 }}
 - Foreshadows future danger
 - Component radiates power, can be tracked
-
----
 
 **SUCCESS - REACHING SURFACE:** ::
 
@@ -7209,9 +7251,7 @@ If party honored the Goldshores:
 *You kick upward with desperate strength. 200 feet. 100 feet. 50 feet. The water lightens from black to dark blue. You can see sunlight above, watery and distant but THERE. Final push! You break the surface, gasping, lungs burning, hearts racing. Behind you, Goldshore Manor collapses entirely—400 years of history, gone in minutes. But you have the Third Component. Mission complete.*
 }}
 
-**XP:** 8,000 XP (survival bonus)
-
----
+**XP:** 8,000 XP (survival bonus) ::
 
 **QUEST 3.2 COMPLETE:** ::
 
@@ -7234,9 +7274,9 @@ If party honored the Goldshores:
 - Race against time
 - Must decide: stop him, join him, or find alternative
 
----
+**If Failed Escape:** Trapped in collapsed section, requires 2d4 hours to dig out (if allies on surface can help) ::
 
-**If Failed Escape:** Trapped in collapsed section, requires 2d4 hours to dig out (if allies on surface can help)
+\column
 
 **Loot from Vault:** ::
 - **Third Component** (plot critical)
@@ -7244,16 +7284,12 @@ If party honored the Goldshores:
 - **Crown of the Depths** (legendary, grants water breathing, swim speed 60 ft., advantage on Charisma checks underwater)
 - **Treasure Hoard:** 15,000 gp, 3d6 gems (1,000 gp each), 2d4 magic items (roll on DMG tables)
 
-**XP:** 5,900 XP (Spirit) + 2,000 XP (escape)
-
----
-
-\page
+**XP:** 5,900 XP (Spirit) + 2,000 XP (escape) ::
 
 ### Quest 3.3: The Assembly (Level 13)
 
-**Hook:** With all five Components secured, heroes face the weight of impossible choices. The World-Splitter pieces pulse with power. Everyone wants them—kings, gods, rebels, scholars. What will the heroes do?
-
+**Hook:** With all five Components secured, heroes face the weight of impossible choices. The World-Splitter pieces pulse with power. Everyone wants them—kings, gods, rebels, scholars. What will the heroes do? 
+:
 **Location:** Various (Consultation Phase) → Kaer Thandros (Decision Point)
 
 ---
@@ -7263,7 +7299,7 @@ If party honored the Goldshores:
 ##### Read Aloud:
 ::
 {{description,note
-*You've done it. Against impossible odds, you've secured all three World-Splitter Components. They sit before you now, each in protective casings, each pulsing with ancient power that makes your teeth ache. First Component (shadows/command), Second Component (fire/awakening), Third Component (water/depths). United, they could crack continents. Separated, they're merely world-ending weapons. What do you do with artifacts that gods fear?*
+*You've done it. Against impossible odds, you've secured all five World-Splitter Components. They sit before you now, each in protective casings, each pulsing with ancient power that makes your teeth ache. The Shadow Shard, the Flame Heart, the Void Fragment, the Stone Crown, and the Storm Eye. United, they could crack continents. Separated, they're merely world-ending weapons. What do you do with artifacts that gods fear?*
 }}
 
 ---
@@ -7284,28 +7320,25 @@ If party honored the Goldshores:
 *Miranda's laboratory is chaos—every surface covered in notes, diagrams, arcane formulas. She's been studying the Components obsessively since you retrieved them. Coffee-stained research papers flutter in magical wind. She looks up as you enter, eyes wild with discovery and terror.*
 }}
 
+\page
+
 **Miranda's Analysis:** ::
-*"I've spent 72 hours studying these things. No sleep. Couldn't sleep. Do you know what these ARE? They're not just weapons—they're fragments of reality's source code. Primordial essence, crystallized. The building blocks of existence.* ::
->
+::
 {{description,note
+*"I've spent 72 hours studying these things. No sleep. Couldn't sleep. Do you know what these ARE? They're not just weapons—they're fragments of reality's source code. Primordial essence, crystallized. The building blocks of existence.* 
+:
 *(Gestures at equations)*
-}}
->
-*I've tried everything. Fire? They absorb it. Acid? Neutralized. I hit one with a *Disintegrate* spell. It LAUGHED at me. Metaphorically. These can't be destroyed by mortal magic. You'd need divine intervention—actual gods physically manifesting to unmake them. Or Primordial-level counter-magic, which doesn't exist anymore.* ::
->
-{{description,note
+:
+*I've tried everything. Fire? They absorb it. Acid? Neutralized. I hit one with a *Disintegrate* spell. It LAUGHED at me. Metaphorically. These can't be destroyed by mortal magic. You'd need divine intervention—actual gods physically manifesting to unmake them. Or Primordial-level counter-magic, which doesn't exist anymore.* 
+:
 *(Pause)*
-}}
->
-{{description,note
+:
 *But assembled? Together? They form a complete artifact. And complete artifacts CAN be destroyed—from within. You'd have to activate the World-Splitter, then overload it before it triggers the Worldrend. A one-second window. Miss it, and you crack the continent. No pressure.*
-}}
->
-{{description,note
+:
 *(Looks at you seriously)*
+:
+*My recommendation? Don't assemble them. Ever. Hide them separately. Bury them where no one can find them. Because if someone DOES assemble them—even with good intentions—the temptation to USE them will be overwhelming. That much power corrupts everything.*" 
 }}
->
-*My recommendation? Don't assemble them. Ever. Hide them separately. Bury them where no one can find them. Because if someone DOES assemble them—even with good intentions—the temptation to USE them will be overwhelming. That much power corrupts everything.*" ::
 
 **Insight DC 14:** ::
 - She's terrified of the Components
@@ -7313,9 +7346,7 @@ If party honored the Goldshores:
 - She's right about destruction method
 - But she also fears hiding doesn't work (history repeats)
 
----
-
-**ALLY B: HIGH MAGE ARCTURUS (Ghost)**
+**ALLY B: HIGH MAGE ARCTURUS (Ghost)** ::
 
 **Location:** The Black Archive (return visit)
 
@@ -7326,37 +7357,27 @@ If party honored the Goldshores:
 }}
 
 **Arcturus's Wisdom:** ::
-*"I remember when these were ONE. Before the War of Shattering, the World-Splitter was whole—a tool of creation AND destruction. The Primordials used it to shape continents, birth oceans, raise mountains. It was... beautiful. Terrible, but beautiful.* ::
->
 {{description,note
+*"I remember when these were ONE. Before the War of Shattering, the World-Splitter was whole—a tool of creation AND destruction. The Primordials used it to shape continents, birth oceans, raise mountains. It was... beautiful. Terrible, but beautiful.*
+:
 *(Drifts closer)*
 }}
->
+:
 {{description,note
 *Then they tried to unmake the gods. The gods fought back. The world broke. And the Splitter shattered into three, each fragment taking aspects of its power. Separation made them safer, but not safe. Never safe.*
-}}
->
-{{description,note
+:
 *(Looks at you)*
-}}
->
-{{description,note
+:
 *You ask what to do? I'll tell you something I've learned watching 3,000 years: hiding things doesn't work. Destroying things doesn't last. Power finds a way back. Always. The ONLY solution is transformation. Assembled, the World-Splitter could reshape reality. In the RIGHT hands—hands guided by wisdom, compassion, and restraint—it could fix what's broken. Remake corrupt kingdoms into just ones. Heal ancient wounds. Create a better world.*
-}}
->
-{{description,note
+:
 *(Voice drops)*
-}}
->
-{{description,note
+:
 *But whose hands are right? Yours? Mine? Corvus Blackwood's? The kings'? Even the gods disagree. That's why the Components were entrusted to guardians, not rulers. The question isn't WHAT to do with them. It's WHO decides? And can ANY mortal handle that much power without being corrupted by it?*
-}}
->
-{{description,note
+:
 *(Fades slightly)*
+:
+*Choose wisely, heroes. The future of Tirvandor rests on your decision. And unlike me, you don't get 3,000 years to see if you were right.*" 
 }}
->
-*Choose wisely, heroes. The future of Tirvandor rests on your decision. And unlike me, you don't get 3,000 years to see if you were right.*" ::
 
 **Insight DC 16:** ::
 - Arcturus leans toward assembly (controlled use)
@@ -7364,9 +7385,7 @@ If party honored the Goldshores:
 - But he's also afraid of being wrong
 - He wants heroes to prove him right
 
----
-
-**ALLY C: HIGH PRIESTESS SERAPHINA (Temple of Aethor)**
+**ALLY C: HIGH PRIESTESS SERAPHINA (Temple of Aethor)** ::
 
 **Location:** Grand Cathedral, Kaer Thandros
 
@@ -7377,29 +7396,25 @@ If party honored the Goldshores:
 }}
 
 **Priestess's Decree:** ::
+{{description,note
 *"The gods have spoken. They remember the War of Shattering—how Primordial artifacts nearly unmade reality itself. The World-Splitter Components are ANATHEMA to divine order. They predate gods, challenge gods, threaten gods.* ::
->
-{{description,note
+:
 *(Light intensifies)*
-}}
->
-{{description,note
+:
 *Bring them to us. We will seal them in the Divine Vault, beneath the Temple of Aethor, where 1,000 layers of holy wards will contain them for eternity. No mortal, no demon, no dragon can breach divine sanctity. They will be safe. The world will be safe.*
 }}
->
+
+\page
+
 {{description,note
 *(Looks at you)*
-}}
->
-{{description,note
+:
 *I know what you're thinking: 'What if gods misuse them?' Fair question. But understand: gods don't want to USE them. Gods want them GONE. These artifacts threaten the cosmic order itself. In divine hands, they'll be forgotten, sealed, never wielded. That's the only guarantee of safety.*
-}}
->
-{{description,note
+:
 *(Voice softens)*
+:
+*Please. The fate of countless souls rests on your choice. Trust in the gods who've guided you this far. Trust in divine wisdom over mortal ambition. Surrender the Components, and live in a world without apocalypse hanging overhead.*" 
 }}
->
-*Please. The fate of countless souls rests on your choice. Trust in the gods who've guided you this far. Trust in divine wisdom over mortal ambition. Surrender the Components, and live in a world without apocalypse hanging overhead.*" ::
 
 **Insight DC 15:** ::
 - She's sincere in faith
@@ -7410,7 +7425,7 @@ If party honored the Goldshores:
 
 ---
 
-**ALLY D: KING ALDRIC IV (Royal Summons)**
+**ALLY D: KING ALDRIC IV (Royal Summons)** ::
 
 **Location:** Throne Room, Royal Palace
 
@@ -7421,37 +7436,28 @@ If party honored the Goldshores:
 }}
 
 **King's Request:** ::
+::
+{{description,note
 *"I know what you have. The whole kingdom knows rumors, anyway. Three Components, world-ending power, in the hands of adventurers. The nobles are terrified. The people are anxious. And I... I don't know what to do.* ::
->
-{{description,note
+:
 *(Rubs face)*
-}}
->
-{{description,note
+:
 *Officially, I should demand their surrender. Royal decree, law, etc. The Components are artifacts of continental importance and belong under Crown authority. That's what my advisors say. That's what my father would've said.*
-}}
->
-{{description,note
+:
 *(Pause)*
-}}
->
-{{description,note
+:
 *But you've shown me who my father was. What the Crown DID. How kingdoms lie, murder innocents, bury truth. So I'll ask, not command: What should be done with them?*
-}}
->
-{{description,note
+:
 *(Looks at you directly)*
 }}
->
+:
 {{description,note
 *I could lock them in the royal vaults. But those vaults failed before—Goldshore Keepers murdered, Blackwoods framed. I could hide them again. But hiding failed once, it'll fail again. I could assemble them under royal control. But that terrifies me—that much power in any king's hands is tyranny waiting to happen.*
-}}
->
-{{description,note
+:
 *(Leans back)*
+:
+*So I'm asking YOU. You've proven trustworthy. You've seen both sides. You've earned this decision. What do you want to do? I'll support your choice, whatever it is. Just... tell me you have a plan.*" 
 }}
->
-*So I'm asking YOU. You've proven trustworthy. You've seen both sides. You've earned this decision. What do you want to do? I'll support your choice, whatever it is. Just... tell me you have a plan.*" ::
 
 **Insight DC 14:** ::
 - He's genuinely uncertain
@@ -7459,20 +7465,23 @@ If party honored the Goldshores:
 - He's trying to be better than his father
 - He'll defer to heroes' judgment
 
----
 
-**ALLY E: LORD SHADOWS / CORVUS BLACKWOOD (Magical Sending)**
+**ALLY E: LORD SHADOWS / CORVUS BLACKWOOD (Magical Sending)** ::
 
 **While heroes deliberate, they receive a *Sending* spell:**
 
-*"You have what I need. Three Components. Power to prove truth, reshape kingdoms, achieve justice. Meet me at Primordial Rift, three days from now. Let's finish this—together or as enemies. Choose wisely. - Corvus"* ::
+{{description,note
+*"You have what I need. Three Components. Power to prove truth, reshape kingdoms, achieve justice. Meet me at Primordial Rift, three days from now. Let's finish this—together or as enemies. Choose wisely."*
+:
+-*Corvus*
+}}
+
 **Insight DC 12:** ::
 - He knows they have Components (spy network)
 - He's going to Primordial Rift regardless
 - He's offering final alliance
 - Or final battle
 
----
 
 #### THE DECISION COUNCIL
 
@@ -7482,17 +7491,18 @@ If party honored the Goldshores:
 *You've consulted every expert, every ally, every authority. Now you sit in private chamber, Components before you, and must decide. This choice will define your legacy. There's no perfect answer—only consequences. What do you do?*
 }}
 
----
 
 **DECISION OPTIONS:** ::
 
-**A. DESTROY THE COMPONENTS (Requires Divine Aid)**
+**A. DESTROY THE COMPONENTS (Requires Divine Aid)** ::
 
 **How:** ::
 - Petition gods to manifest physically
 - Requires 3 temples (Aethor, Toren, Sylvara)
 - Combined divine power can unmake Primordial artifacts
 - Cost: 10,000 gp in offerings, 1 week ritual preparation
+
+\page
 
 **Consequences:** ::
 - Components destroyed permanently
@@ -7501,11 +7511,9 @@ If party honored the Goldshores:
 - **But:** Corvus loses chance at justice, continues rebellion
 - **And:** Historical precedent lost (could've been studied)
 
-**Transition:** Quest 3.4 becomes stopping Corvus WITHOUT Components (he's furious at lost opportunity)
+**Transition:** Quest 3.4 becomes stopping Corvus WITHOUT Components (he's furious at lost opportunity) ::
 
----
-
-**B. HIDE SEPARATELY (Repeat History)**
+**B. HIDE SEPARATELY (Repeat History)** ::
 
 **How:** ::
 - Return Components to original guardian families
@@ -7519,11 +7527,9 @@ If party honored the Goldshores:
 - But: Buys centuries of safety
 - **And:** Maintains balance of power (no one gets all)
 
-**Transition:** Quest 3.4 becomes stopping Corvus (he's disappointed, tries to steal Components)
+**Transition:** Quest 3.4 becomes stopping Corvus (he's disappointed, tries to steal Components) ::
 
----
-
-**C. GIVE TO DIVINE VAULT (Trust the Gods)**
+**C. GIVE TO DIVINE VAULT (Trust the Gods)** ::
 
 **How:** ::
 - Surrender to Temple of Aethor
@@ -7537,11 +7543,9 @@ If party honored the Goldshores:
 - **But:** What if future gods are corrupt?
 - **And:** Removes mortal agency from decision
 
-**Transition:** Quest 3.4 becomes final confrontation with Corvus (he raids temple, fails, faces heroes empty-handed)
+**Transition:** Quest 3.4 becomes final confrontation with Corvus (he raids temple, fails, faces heroes empty-handed) ::
 
----
-
-**D. GIVE TO KING (Trust Authority)**
+**D. GIVE TO KING (Trust Authority)** ::
 
 **How:** ::
 - Surrender to Crown
@@ -7555,11 +7559,9 @@ If party honored the Goldshores:
 - **But:** Future kings might not be
 - **And:** Royal vaults failed before
 
-**Transition:** Quest 3.4 becomes stopping Corvus (he raids palace, party must stop him)
+**Transition:** Quest 3.4 becomes stopping Corvus (he raids palace, party must stop him) ::
 
----
-
-**E. KEEP COMPONENTS (Trust Yourselves)**
+**E. KEEP COMPONENTS (Trust Yourselves)** ::
 
 **How:** ::
 - Party retains possession
@@ -7573,11 +7575,9 @@ If party honored the Goldshores:
 - **But:** Makes party targets
 - **And:** Temptation to USE them grows
 
-**Transition:** Quest 3.4 becomes Corvus trying to steal from party (chase/heist scenario)
+**Transition:** Quest 3.4 becomes Corvus trying to steal from party (chase/heist scenario) ::
 
----
-
-**F. ASSEMBLE AND CONTROL (Study/Harness Power) ⚠️ DANGEROUS**
+**F. ASSEMBLE AND CONTROL (Study/Harness Power)** ::
 
 **How:** ::
 - Assemble World-Splitter carefully
@@ -7593,11 +7593,9 @@ If party honored the Goldshores:
 - **And:** Activating it even briefly risks catastrophe
 - **And:** Everyone will want to steal it
 
-**Transition:** Quest 3.4 becomes using/controlling World-Splitter (hardest path)
+**Transition:** Quest 3.4 becomes using/controlling World-Splitter (hardest path) ::
 
----
-
-**G. GIVE TO CORVUS (Support His Cause) ⚠️ RADICAL**
+**G. GIVE TO CORVUS (Support His Cause)** ::
 
 **How:** ::
 - Meet Corvus at Primordial Rift
@@ -7612,11 +7610,11 @@ If party honored the Goldshores:
 - **But:** Might achieve actual justice
 - **And:** Exposes historical truth
 
-**Transition:** Quest 3.4 becomes HELPING Corvus assemble (party becomes revolutionaries)
+**Transition:** Quest 3.4 becomes HELPING Corvus assemble (party becomes revolutionaries) ::
 
----
+\page
 
-**H. CONFRONT CORVUS AND DECIDE TOGETHER (Middle Path)**
+**H. CONFRONT CORVUS AND DECIDE TOGETHER (Middle Path)** ::
 
 **How:** ::
 - Take Components to Primordial Rift
@@ -7630,9 +7628,7 @@ If party honored the Goldshores:
 - Allows negotiation
 - **Outcome uncertain** (depends on dialogue)
 
-**Transition:** Quest 3.4 becomes final confrontation/negotiation (this is recommended path)
-
----
+**Transition:** Quest 3.4 becomes final confrontation/negotiation (this is recommended path) ::
 
 #### RECOMMENDED: OPTION H - CONFRONT CORVUS
 
@@ -7652,8 +7648,6 @@ If party honored the Goldshores:
   - Combat (stop him)
   - Revelation (expose truth peacefully)
 
----
-
 #### QUEST 3.3 CONCLUSION
 
 ##### Read Aloud:
@@ -7662,11 +7656,9 @@ If party honored the Goldshores:
 *You've made your choice. The Components are secured, your course is set. Word reaches you that Corvus Blackwood has summoned his full forces to the Primordial Rift—the site of the First Worldrend 3,000 years ago. There, he'll make his final stand. And there, you'll meet him. One last time. For truth, for justice, for the future of Tirvandor. Ready your weapons, prepare your spells, steel your hearts. The end approaches.*
 }}
 
-**XP:** 5,000 XP (major strategic decision)
+**XP:** 5,000 XP (major strategic decision) ::
 
-**Level Up:** Party should reach level 13-14
-
----
+**Level Up:** Party should reach level 13-14 ::
 
 **TRANSITION TO QUEST 3.4:** ::
 
@@ -7677,26 +7669,20 @@ Regardless of decision, party learns:
 - Final confrontation inevitable
 - Bring allies, supplies, and courage
 
-**Next Quest:** The Primordial Rift—climactic location, final battle, ultimate choice.
-
----
-
-\page
+**Next Quest:** The Primordial Rift—climactic location, final battle, ultimate choice. ::
 
 ### Quest 3.4: The Primordial Rift (Level 14)
 
 **Hook:** Lord Shadows has revealed his final plan: assemble the World-Splitter at the **Primordial Rift**—the location of the First Worldrend 3,000 years ago. There, the artifact will have maximum power. Intelligence reports indicate he's gathered his full army and will complete the ritual in three days. The heroes must march north immediately.
-
-**Location:** The Primordial Rift (Northern Thaldros Mountains, 2 days from Kaer Thandros)
+:
+**Location:** The Primordial Rift (Northern Thaldros Mountains, 2 days from Kaer Thandros) 
 
 **Objective:** ::
 - Reach the Primordial Rift before Lord Shadows completes the ritual
 - Confront him at the Assembly Site
 - Stop the Second Worldrend or choose to support it
 
-**Duration:** 2-3 sessions
-
----
+**Duration:** 2-3 sessions ::
 
 #### QUEST START: PREPARATION IN KAER THANDROS
 
@@ -7720,6 +7706,8 @@ Heroes have **4 hours** to prepare before departure. They can:
 - **Mercenaries:** Hire up to 50 (1,000 gp total)
 - **Church Forces:** 30 paladins and clerics (if churches trust heroes)
 
+\page
+
 **2. Purchase Supplies:** ::
 - **Healing Potions:** Superior (4d4+4) at 500 gp each
 - **Potions of Heroism:** Advantage on Wisdom saves + 10 temp HP (200 gp)
@@ -7738,9 +7726,7 @@ Heroes have **4 hours** to prepare before departure. They can:
 - Visit temples for blessings
 - Enchant weapons/armor
 
-**DM NOTE:** Allow players time to roleplay preparations. This builds tension and investment.
-
----
+**DM NOTE:** Allow players time to roleplay preparations. This builds tension and investment. ::
 
 #### DAY 1: THE NORTHERN MARCH
 
@@ -7758,11 +7744,9 @@ Heroes have **4 hours** to prepare before departure. They can:
 - **Normal Pace:** 24 miles/day (no saves, arrives on time)
 - **Slow Pace:** 18 miles/day (advantage on Perception, arrives late—Corvus completes ritual)
 
-**Recommended:** Normal pace
+**Recommended:** Normal pace ::
 
----
-
-**MIDDAY ENCOUNTER: THE DESERTER**
+**MIDDAY ENCOUNTER: THE DESERTER** ::
 
 ##### Perception DC 14:
 ::
@@ -7770,13 +7754,18 @@ Heroes have **4 hours** to prepare before departure. They can:
 *You spot a figure stumbling down a side trail—an Unbound soldier, robes torn, bleeding from a shoulder wound. He sees your army and falls to his knees, hands raised in surrender.*
 }}
 
-**NPC:** **Torn Believer** (human commoner, 8 HP remaining)
+**NPC:** **Torn Believer** (human commoner, 8 HP remaining) ::
 
-**Dialogue:** *"Please! I'm done! I can't... I thought we were fighting for justice, for truth! But then I saw what he's planning—really planning—and it's not reform, it's GENOCIDE! He's going to kill millions!"* ::
+**Dialogue:** ::
+::
+{{description,note
+*"Please! I'm done! I can't... I thought we were fighting for justice, for truth! But then I saw what he's planning—really planning—and it's not reform, it's GENOCIDE! He's going to kill millions!"* 
+:
+*(Coughs blood)* *"I tried to leave. They shot me. But I had to warn someone. The Rift... it's worse than you think. Reality's already failing there. Time doesn't work right. We lost five men yesterday—they just... aged to dust in seconds. And the Primordial things coming through the cracks..."* 
+:
+*"Please. Stop him. Even if you have to kill him. He's gone mad. The boy who survived became the monster he hated."* 
+}}
 
-*(Coughs blood)* *"I tried to leave. They shot me. But I had to warn someone. The Rift... it's worse than you think. Reality's already failing there. Time doesn't work right. We lost five men yesterday—they just... aged to dust in seconds. And the Primordial things coming through the cracks..."* ::
-
-*"Please. Stop him. Even if you have to kill him. He's gone mad. The boy who survived became the monster he hated."* ::
 **Information Gained:** ::
 - Rift already unstable before ritual begins
 - Unbound losing morale (some want to flee)
@@ -7788,9 +7777,7 @@ Heroes have **4 hours** to prepare before departure. They can:
 - **Interrogation:** Can extract passwords, patrol schedules (DC 12 Intimidation)
 - **Healing:** If heroes heal him, he's profoundly grateful and offers to guide them
 
-**DM NOTE:** This encounter shows not all Unbound are fanatics. Creates moral complexity.
-
----
+**DM NOTE:** This encounter shows not all Unbound are fanatics. Creates moral complexity. ::
 
 **EVENING: CAMP AT FROSTWATCH PASS**
 
@@ -7803,6 +7790,9 @@ Heroes have **4 hours** to prepare before departure. They can:
 {{description,note
 *As night falls, you can see flashes of light on the horizon—the Rift, still a day away. Each flash makes reality shudder. Your campfire flickers oddly, sometimes burning backwards, flames flowing into the wood instead of consuming it. Time here is beginning to break.*
 }}
+
+\page
+
 **CAMP ACTIVITIES:** ::
 
 **1. Final Strategy Meeting:** ::
@@ -7820,10 +7810,10 @@ Heroes have **4 hours** to prepare before departure. They can:
 - Reflect on journey
 - Prepare mentally for final battle
 
-**4. Watch Duty:**
+**4. Watch Duty:** ::
 Roll random encounter (20% chance):
 
-**NIGHT ENCOUNTER: PRIMORDIAL ECHO**
+**NIGHT ENCOUNTER: PRIMORDIAL ECHO** ::
 
 ##### Perception DC 16 during watch:
 ::
@@ -7841,33 +7831,25 @@ Roll random encounter (20% chance):
 **If Touched:** DC 17 Charisma save or temporarily displaced (lose 1 turn in first combat tomorrow)  
 **If Studied:** Grants insight into Rift mechanics (+2 to closing it later)
 
----
-
-\page
-
+:
 #### DAY 2: APPROACH TO THE RIFT
 
 ##### Read Aloud:
 ::
 {{description,note
 *The second day's march is harder. The road deteriorates, becoming more path than highway. The wrongness intensifies. Your shadows point the wrong direction. Gravity occasionally pulls sideways. Birds fly backwards. Soldiers murmur prayers, grip holy symbols. Even the hardened veterans look shaken.*
-}}
-
-{{description,note
+:
 *By noon, you reach the last overlook before the Rift valley. And what you see steals your breath.*
 }}
-
+:
 {{description,note
 *A massive canyon, easily a mile across, carved into the mountains. The First Worldrend tore reality HERE, and the scar never fully healed. The sky above the canyon swirls with impossible colors—reality bleeding through from other planes. You can SEE time moving wrong: waterfalls flowing upward, stones falling slowly, birds frozen mid-flight then suddenly jerking forward.*
-}}
-
-{{description,note
+:
 *And at the canyon's heart, carved into ancient stone: the Assembly Site. A perfect circle of standing stones, each inscribed with Primordial runes that glow with sickly light. You can see figures moving—hundreds of them. The Unbound army, preparing for their leader's final ritual.*
-}}
-
-{{description,note
+:
 *This is it. The place where everything ends. Or everything begins.*
 }}
+
 **APPROACHING THE RIFT:** ::
 
 Heroes are now 1 mile from the Assembly Site. They can see:
@@ -7900,7 +7882,7 @@ Heroes are now 1 mile from the Assembly Site. They can see:
 - 10% chance per hour of reality tear event
 - Creatures phase in: elementals, demons, aberrations, or echoes
 
----
+\page
 
 #### RECONNAISSANCE: SURVEYING THE ENEMY
 
@@ -7946,15 +7928,11 @@ If successful, heroes learn:
 - Lord Shadows will accept parley request
 - Reality distortions affect Unbound too (they're struggling)
 
----
-
 #### APPROACH OPTIONS - DETAILED
 
 Heroes must choose how to reach the Assembly Site. Each approach has different encounters, challenges, and consequences.
 
----
-
-**APPROACH A: DIRECT ASSAULT (Bloody but Straightforward)**
+**APPROACH A: DIRECT ASSAULT (Bloody but Straightforward)** ::
 
 **Overview:** March allied army directly at Unbound camp. Epic battle, high casualties, but guaranteed to reach Lord Shadows.
 
@@ -7964,9 +7942,9 @@ Heroes must choose how to reach the Assembly Site. Each approach has different e
 *You give the order. Horns sound. Your army advances in formation—shields locked, spears ready, mages chanting. The Unbound see you coming and scramble to defensive positions. This will be brutal, bloody, and direct. No subterfuge. No tricks. Just raw courage against fanaticism.*
 }}
 
-**PHASE 1: BREAKING THE PERIMETER**
+**PHASE 1: BREAKING THE PERIMETER** ::
 
-**Encounter:** **Unbound Forward Defense**
+**Encounter:** **Unbound Forward Defense** ::
 - **30 Unbound Soldiers** (Guards, CR 1/8)
 - **5 Unbound Mages** (CR 6)
 - **Earthwork Fortifications:** Half cover, difficult terrain
@@ -7981,22 +7959,20 @@ Heroes must choose how to reach the Assembly Site. Each approach has different e
 - **Mages Guild (if present):** Counterspells enemy mages
 - **King's Guard:** Protects heroes' flanks
 
-**Heroes' Role:** Lead the charge, break enemy morale
+**Heroes' Role:** Lead the charge, break enemy morale ::
 
-**Success:** Perimeter broken, path clear to main camp  
-**Failure:** Pinned down, must find alternate route
+**Success:** Perimeter broken, path clear to main camp  ::
+**Failure:** Pinned down, must find alternate route ::
 
----
-
-**PHASE 2: THE KILLING FIELD**
+**PHASE 2: THE KILLING FIELD** ::
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *You've broken through the outer defenses. Now comes the meat grinder—the open field between you and the Assembly Site. The Unbound have funneled you here deliberately. It's a killing zone. Archers on elevated positions. Mages with prepared spells. And in the center, waiting: Captain Malthus and his Champions.*
 }}
 
-**Encounter:** **Main Force Engagement**
+**Encounter:** **Main Force Engagement** ::
 - **Captain Malthus Voidcaller** (CR 13) - if alive
 - **4 Unbound Champions** (CR 5 each)
 - **20 Unbound Soldiers** (CR 1/8, ranged support)
@@ -8006,21 +7982,21 @@ Heroes must choose how to reach the Assembly Site. Each approach has different e
 - Gravity shifts every 3 rounds (DC 15 Dex save or fall 20 ft.)
 - Reality tears open 1d3 locations (summon random elementals)
 
+\page
+
 **Tactics:** ::
 - Malthus uses *Dimension Door* to reposition, targets spellcasters
 - Champions form shield wall, protect mages
 - Soldiers rain arrows from safety
 - Mages use battlefield control spells (*Wall of Fire*, *Ice Storm*)
 
-**Allied Army:** Takes heavy casualties but eventually overwhelms Unbound soldiers (after 5 rounds, minions are defeated)
+**Allied Army:** Takes heavy casualties but eventually overwhelms Unbound soldiers (after 5 rounds, minions are defeated) ::
 
-**Success Condition:** Defeat Malthus and Champions (others flee)
+**Success Condition:** Defeat Malthus and Champions (others flee) ::
 
-**Casualties:** Lose 30-50% of allied forces in this encounter
+**Casualties:** Lose 30-50% of allied forces in this encounter ::
 
----
-
-**PHASE 3: THE FINAL APPROACH**
+**PHASE 3: THE FINAL APPROACH** ::
 
 ##### Read Aloud:
 ::
@@ -8028,34 +8004,34 @@ Heroes must choose how to reach the Assembly Site. Each approach has different e
 *The path is clear. Bodies litter the field—yours and theirs. Your army is bloodied but unbroken. Ahead, the Assembly Site beckons. Lord Shadows stands at its center, watching you approach. The Lich hovers beside him. And the five Components of the World-Splitter rest on pedestals, waiting. He's not running. He's been waiting for you.*
 }}
 
-**Transition to Final Confrontation**
+**Transition to Final Confrontation** ::
 
----
-
-**APPROACH B: STEALTH INFILTRATION (High Risk, Low Casualties)**
+**APPROACH B: STEALTH INFILTRATION (High Risk, Low Casualties)** ::
 
 **Overview:** Small team (heroes only) sneaks through Unbound camp to reach Lord Shadows. Avoids major battle but incredibly dangerous if caught.
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *You leave the army behind, hidden in the foothills. Just your core group, moving like shadows. The Unbound don't expect infiltrators—they're preparing for siege warfare. But one wrong step, one failed check, and you'll be surrounded by hundreds of enemies with nowhere to run.*
 }}
 
-**STEALTH CHALLENGE: 6-PHASE SKILL CHALLENGE**
+**STEALTH CHALLENGE: 6-PHASE SKILL CHALLENGE** ::
 
-**Phase 1: The Outer Perimeter**
+**Phase 1: The Outer Perimeter** ::
 - **Stealth DC 14:** Slip past outer patrols
 - **Failure:** Alarm raised, guards investigate (can still hide)
 - **Critical Failure (by 5+):** Spotted, combat begins
 
-**Phase 2: The Minefield**
+**Phase 2: The Minefield** ::
 - **Perception DC 15:** Spot magical alarm wards (glowing runes)
 - **Arcana DC 14:** Disarm wards without triggering
 - **Alternative:** *Dispel Magic* (auto-success)
 - **Failure:** Wards trigger, alert nearby mages
 
-**Phase 3: Patrol Encounter**
+\column
+
+**Phase 3: Patrol Encounter** ::
 - **Perception DC 16:** Hear patrol approaching (15 seconds to hide)
 - **Stealth DC 17:** Hide while patrol passes
 - **Alternative:** *Invisibility*, *Pass Without Trace*
@@ -8067,7 +8043,7 @@ Heroes must choose how to reach the Assembly Site. Each approach has different e
 - Must kill silently or alarm raised
 - *Silence* spell prevents alarm
 
-**Phase 4: The Central Camp**
+**Phase 4: The Central Camp** ::
 - **Most dangerous section**
 - **Stealth DC 18:** Navigate through tents
 - **Perception DC 15:** Avoid stumbling into command tent accidentally
@@ -8078,7 +8054,7 @@ Heroes must choose how to reach the Assembly Site. Each approach has different e
 - Reality tear opens (1d4 elementals appear, distraction)
 - Time distortion (suddenly 10 minutes have passed, patrols rotated)
 
-**Phase 5: The Lich's Vigil**
+**Phase 5: The Lich's Vigil** ::
 - **Lich patrols Assembly Site perimeter**
 - **Perception DC 20:** Notice Lich's patrol pattern (find 30-second window)
 - **Stealth DC 20:** Slip past Lich during window
@@ -8090,7 +8066,7 @@ Heroes must choose how to reach the Assembly Site. Each approach has different e
 - Telepathic message: *"Impressive. My master will speak with you. Come."*
 - Allows approach but watches carefully
 
-**Phase 6: Reaching Lord Shadows**
+**Phase 6: Reaching Lord Shadows** ::
 - **Final dash to Assembly Site (60 feet)**
 - **Stealth DC 16:** Reach Lord Shadows undetected by general camp
 - **Success:** Arrive at Lord Shadows, surprise parley
@@ -8100,16 +8076,17 @@ Heroes must choose how to reach the Assembly Site. Each approach has different e
 - **Full Success (all phases):** Heroes reach Lord Shadows completely undetected, massive tactical advantage
 - **Partial Success (4-5 phases):** Reach Lord Shadows, Lich aware, some guards alerted
 - **Minimal Success (3 phases):** Reach Lord Shadows but surrounded, must fight if negotiations fail
+
+\page
+
 - **Failure (0-2 phases):** Captured or forced into combat in middle of camp
 
----
+**APPROACH C: DIPLOMATIC PARLEY (Peaceful but Tense)** ::
 
-**APPROACH C: DIPLOMATIC PARLEY (Peaceful but Tense)**
-
-**Overview:** Heroes request formal parley with Lord Shadows. He accepts (he wants to convince them one last time).
+**Overview:** Heroes request formal parley with Lord Shadows. He accepts (he wants to convince them one last time). ::
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *You send a messenger forward—a white flag, a request for parley. The Unbound are surprised but intrigued. After tense minutes, a reply arrives: "Lord Shadows Blackwood, rightful heir of House Blackwood, grants your request. Come to the Assembly Site at sunset. Come armed or unarmed, your choice. Come alone or with companions. But come ready to hear truth."*
 }}
@@ -8122,7 +8099,7 @@ Heroes must choose how to reach the Assembly Site. Each approach has different e
 - Heroes can bring full party or just representatives
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *The Unbound army watches in silence as you walk through their camp. Hundreds of eyes on you. Weapons held ready. You pass cookfires, tents, faces twisted by belief in their cause. Some look at you with hatred. Others with... hope? Finally, you reach the Assembly Site. And there he stands. Corvus Blackwood. Lord Shadows. The Last Heir. Tired. Human. And absolutely determined.*
 }}
@@ -8131,11 +8108,18 @@ Heroes must choose how to reach the Assembly Site. Each approach has different e
 
 Lord Shadows stands, unarmed but for his shadow magic, flanked by the Lich.
 
-**Corvus's Opening:** *"You came. I respect that. You could have tried stealth. Could have attacked with your army. But you came to TALK. That... means something."* ::
+**Corvus's Opening:** ::
+::
+{{description,note
+*"You came. I respect that. You could have tried stealth. Could have attacked with your army. But you came to TALK. That... means something."*
 
-*(He gestures at Components)* *"Here they are. The World-Splitter. What kings feared, what my family died protecting. I'm going to assemble it. Not to destroy—though I could—but to REMAKE. To tear down kingdoms built on murder and rebuild them on truth."* ::
+*(He gestures at Components)* *"Here they are. The World-Splitter. What kings feared, what my family died protecting. I'm going to assemble it. Not to destroy—though I could—but to REMAKE. To tear down kingdoms built on murder and rebuild them on truth."* 
 
-*"But I'll offer you one last chance. Join me. Help me. Together, we can make this world better. Or refuse, and I do it anyway. But at least you'll have had the choice."* ::
+*"But I'll offer you one last chance. Join me. Help me. Together, we can make this world better. Or refuse, and I do it anyway. But at least you'll have had the choice."* 
+}}
+
+\column
+
 **NEGOTIATION OPTIONS:** ::
 
 **1. Persuade Him to Stand Down (DC 22 Persuasion):** ::
@@ -8171,7 +8155,7 @@ Lord Shadows stands, unarmed but for his shadow magic, flanked by the Lich.
 - **Campaign continues into political intrigue arc**
 - **Heroes must reform kingdoms in 30 days**
 
-**3. Join Him (Immediate Success):**
+**3. Join Him (Immediate Success):** ::
 {{description,note
 *His eyes widen. "You... you mean it? You'll help me?" He smiles—genuinely, for first time. "Then we do this RIGHT. Carefully. Precisely. We reshape the world without destroying it. We become the change we want to see. Together."*
 }}
@@ -8179,21 +8163,21 @@ Lord Shadows stands, unarmed but for his shadow magic, flanked by the Lich.
 - **Epilogue involves controlled use of World-Splitter**
 - **Morally ambiguous but potentially good outcome**
 
-**4. Refuse and Demand Components (Insight vs. His Deception):**
+\page
+
+**4. Refuse and Demand Components (Insight vs. His Deception):** ::
 *"No. I didn't think so." His expression hardens. "Then we're done talking. Lich—prepare for battle. Heroes—last chance to walk away." He places hands on Components. "Choose."* ::
 
 - **Negotiation fails**
 - **Boss battle begins**
 - **Transition to Quest 3.5**
 
----
-
-**APPROACH D: ALLIED ASSAULT WITH HERO SPEARHEAD (Epic Scale)**
+**APPROACH D: ALLIED ASSAULT WITH HERO SPEARHEAD (Epic Scale)** ::
 
 **Overview:** Full military engagement. Allied army engages Unbound forces while heroes lead elite strike team to Lord Shadows.
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *The horns of war sound across the Rift valley. Your army—hundreds strong, banners flying—advances in disciplined formation. The Unbound scramble to meet you. This is it. The final battle. Not just heroes vs. villain, but ideology vs. ideology, truth vs. lies, justice vs. stability. And it will be decided here, at the place where the world nearly ended 3,000 years ago.*
 }}
@@ -8214,35 +8198,35 @@ Rather than track every soldier, use simplified system:
 
 **BATTLE ROUNDS (10-minute intervals):** ::
 
-**Round 1-3: Initial Engagement**
+**Round 1-3: Initial Engagement** ::
 - Both armies clash at perimeter
 - Opposed Combat Power checks each round
 - Winner deals 10d10 casualties to loser
 - Heroes can influence by completing objectives
 
-**Round 4-6: Turning Point**
+**Round 4-6: Turning Point** ::
 - Heroes' actions determine battle flow
 - If heroes defeat key enemy (Malthus, Champions), allied morale +20
 - If heroes are wounded badly, allied morale -15
 
-**Round 7+: Victory or Defeat**
+**Round 7+: Victory or Defeat** ::
 - When one side reaches 0 morale or loses 70%+ forces, they break
 
 **HEROES' OBJECTIVES DURING MASS COMBAT:** ::
 
-**Objective 1: Eliminate Enemy Champions**
+**Objective 1: Eliminate Enemy Champions** ::
 - **Encounter:** Captain Malthus + 4 Champions (see Approach A)
 - **Success:** Allied Combat Power +30, enemy morale -20
 
-**Objective 2: Disrupt Enemy Mages**
+**Objective 2: Disrupt Enemy Mages** ::
 - **Encounter:** 3 Unbound Mages (CR 6) casting AoE spells
 - **Success:** Allied casualties reduced 50%, enemy Combat Power -20
 
-**Objective 3: Rally Allied Forces**
+**Objective 3: Rally Allied Forces** ::
 - **Persuasion/Performance DC 16:** Inspire troops
 - **Success:** Allied morale +15, combat power +20 for 3 rounds
 
-**Objective 4: Breach Ritual Circle**
+**Objective 4: Breach Ritual Circle** ::
 - **Combat Challenge:** Fight through 15 Unbound Guards to reach Assembly Site
 - **Success:** Clear path to Lord Shadows
 
@@ -8258,10 +8242,6 @@ Rather than track every soldier, use simplified system:
 - **Pyrrhic Victory:** Allies destroyed but heroes reach Lord Shadows
 - **Defeat:** Allies broken, heroes must fight through entire Unbound army alone
 
----
-
-\page
-
 #### ENVIRONMENTAL HAZARDS - DETAILED MECHANICS
 
 As heroes approach/fight near the Rift, these hazards occur:
@@ -8269,51 +8249,48 @@ As heroes approach/fight near the Rift, these hazards occur:
 **GRAVITY DISTORTIONS (Every 1d4 rounds):** ::
 
 **Random Gravity Shift:** ::
-Roll 1d8:
-1. North - Everything "falls" north 20 ft.
-2. South - Everything "falls" south 20 ft.
-3. East - Everything "falls" east 20 ft.
-4. West - Everything "falls" west 20 ft.
-5. Up - Everyone floats upward 20 ft.
-6. Down - Double falling damage this round
-7. Spiral - Everyone spins 1d4x90 degrees, disoriented (disadvantage next turn)
-8. Zero-G - Weightlessness for 1 round (flying speed 30 ft., difficult maneuvering)
+| d8 | Gravity Shift |
+|:--:|:-------------:|
+|1| North - Everything "falls" north 20 ft. |
+|2| South - Everything "falls" south 20 ft. |
+|3| East - Everything "falls" east 20 ft. |
+|4| West - Everything "falls" west 20 ft. |
+|5| Up - Everyone floats upward 20 ft. |
+|6| Down - Double falling damage this round |
+|7| Spiral - Everyone spins 1d4x90 degrees, disoriented (disadvantage next turn) |
+|8| Zero-G - Weightlessness for 1 round (flying speed 30 ft., difficult maneuvering) |
 
-**Dexterity Save DC 15:** Take 2d6 bludgeoning damage from impact, or avoid/control fall
+\page
 
----
+**Dexterity Save DC 15:** Take 2d6 bludgeoning damage from impact, or avoid/control fall ::
 
 **TIME DISTORTIONS (Every 1d6 rounds):** ::
 
 **Random Time Effect:** ::
-Roll 1d6:
-1. **Time Skip:** Suddenly 5 minutes passed (ongoing effects advance)
-2. **Time Rewind:** Last round repeats exactly (déjà vu)
-3. **Time Stop (Self):** One random creature frozen for 1 round
-4. **Time Acceleration:** All creatures gain extra action this round
-5. **Time Dilation:** Everything moves in slow motion (all speeds halved)
-6. **Initiative Reversal:** Turn order reverses
+| d6 | Time Effect |
+|:--:|:-------------:|
+|1| **Time Skip:** Suddenly 5 minutes passed (ongoing effects advance) |
+|2| **Time Rewind:** Last round repeats exactly (déjà vu) |
+|3| **Time Stop (Self):** One random creature frozen for 1 round |
+|4| **Time Acceleration:** All creatures gain extra action this round |
+|5| **Time Dilation:** Everything moves in slow motion (all speeds halved) |
+|6| **Initiative Reversal:** Turn order reverses |
 
-**Wisdom Save DC 14:** Avoid disorientation (disadvantage on attacks if fail)
-
----
+**Wisdom Save DC 14:** Avoid disorientation (disadvantage on attacks if fail) ::
 
 **REALITY TEARS (10% chance per round):** ::
 
 **Reality Rift Opens:** ::
-Roll 1d6 to determine what emerges:
-1. **Fire Elemental** (CR 5)
-2. **Air Elemental** (CR 5)
-3. **Gibbering Mouther** (CR 2) - Lovecraftian horror
-4. **Barlgura Demon** (CR 5)
-5. **Temporal Echo** - Copy of random PC from alternate timeline (use PC stats, attacks original)
-6. **Nothing** - Rift stabilizes immediately
+| d6 | Time Effect |
+|:--:|:-------------:|
+|1| **Fire Elemental** (CR 5) |
+|2| **Air Elemental** (CR 5) |
+|3| **Gibbering Mouther** (CR 2) - Lovecraftian horror |
+|4| **Barlgura Demon** (CR 5) |
+|5| **Temporal Echo** - Copy of random PC from alternate timeline (use PC stats, attacks original) |
+|6| **Nothing** - Rift stabilizes immediately |
 
-**Creatures are CONFUSED:** Attack nearest target (friend or foe)
-
----
-
-\page
+**Creatures are CONFUSED:** Attack nearest target (friend or foe) ::
 
 #### PRE-CONFRONTATION: THE FINAL MOMENTS
 
@@ -8329,43 +8306,52 @@ Regardless of approach, heroes eventually reach Assembly Site. Before final conf
 *He's removed his mask. No more Lord Shadows. Just Corvus. Just a man—tired, scarred, hair gone gray from stress though he's barely past forty. His eyes meet yours. Human eyes. Desperate eyes.*
 }}
 
-*"So. It comes to this."* ::
+{{description,note
+*"So. It comes to this."* 
+}}
+
 **PAUSE FOR PLAYER DISCUSSION:** ::
 - Allow heroes to speak among themselves
 - Make final preparations
 - Decide approach: negotiate, attack, or join
 
+\column
+
 **THE FINAL OFFER:** ::
 
 **CORVUS'S COMPLETE MONOLOGUE:** ::
-
-*"Look around you. See this place? Three thousand years ago, THIS is where it nearly ended. Where the Primordials tried to tear the world apart. Heroes stopped them—barely. Sealed the Rift. Saved civilization.* ::
-
-*"But something else happened that day. In the chaos, in the aftermath, powerful people saw an opportunity. The Seven Kingdoms formed. And they needed scapegoats—families to blame for the near-catastrophe. Someone to make villains so they could be heroes.* ::
-
-*"House Blackwood. House Goldshore. Accused of trying to cause the Worldrend. Accused of dark pacts. Lies. ALL LIES. But convenient lies. Lies that let kings seize power, seize lands, build kingdoms on blood and murder.* ::
-
-*"My family were GUARDIANS. We protected the World-Splitter Components, kept them SEPARATE so they couldn't be misused. We died protecting them. And for that, history calls us traitors.* ::
-
-*(He picks up First Component)* *"I was twelve years old when they came. King Aldric III—father of your current king—sent Prince Aldric to 'secure the dangerous artifacts.' My father refused. We'd taken oaths. Sworn to protect them.* ::
-
-*"So they killed us. Burned us. I watched my mother die screaming. Watched my father's throat cut. Watched my sister—she was six—trampled by horses. And I hid. Coward that I was, I HID while my family died.* ::
-
-*(His voice breaks)* *"Forty-three years. That's how long I've lived with that. Forty-three years planning this. Not revenge—I don't want revenge. I want TRUTH. I want justice. I want the kingdoms to ANSWER for what they did.* ::
-
-*(Touches Second Component)* *"The World-Splitter can do that. Not destroy—I don't want to kill millions. But REMAKE. Reshape. Tear down corrupt systems and build better ones. Make nobility SERVE instead of rule. Make truth MATTER. Make my family's sacrifice MEAN SOMETHING.* ::
-
-*(Looks at heroes)* *"You've seen it. You KNOW I'm right. The kingdoms ARE corrupt. The systems ARE broken. Justice doesn't exist for people like me, like the Goldshore Keepers, like the countless others crushed by power.* ::
-
-*"I'm going to change that. With your help or without it. But I'm asking—BEGGING—join me. Help me do this RIGHT. Help me build something better from the ashes of something rotten.* ::
-
-*(Reaches for Third Component)* *"Or refuse. And I'll do it anyway. And millions WILL die. And it will be YOUR fault for choosing a broken system over justice.* ::
-
-*(Desperate, almost crying)* *"Please. I'm so tired of being the villain. Just once... let me be right. Let me be the hero of my own story."* ::
+::
+{{description,note
+*"Look around you. See this place? Three thousand years ago, THIS is where it nearly ended. Where the Primordials tried to tear the world apart. Heroes stopped them—barely. Sealed the Rift. Saved civilization.* 
+:
+*"But something else happened that day. In the chaos, in the aftermath, powerful people saw an opportunity. The Seven Kingdoms formed. And they needed scapegoats—families to blame for the near-catastrophe. Someone to make villains so they could be heroes.* 
+:
+*"House Blackwood. House Goldshore. Accused of trying to cause the Worldrend. Accused of dark pacts. Lies. ALL LIES. But convenient lies. Lies that let kings seize power, seize lands, build kingdoms on blood and murder.* 
+:
+*"My family were GUARDIANS. We protected the World-Splitter Components, kept them SEPARATE so they couldn't be misused. We died protecting them. And for that, history calls us traitors.* 
+:
+*(He picks up First Component)* *"I was twelve years old when they came. King Aldric III—father of your current king—sent Prince Aldric to 'secure the dangerous artifacts.' My father refused. We'd taken oaths. Sworn to protect them.* 
+:
+*"So they killed us. Burned us. I watched my mother die screaming. Watched my father's throat cut. Watched my sister—she was six—trampled by horses. And I hid. Coward that I was, I HID while my family died.* 
+:
+*(His voice breaks)* *"Forty-three years. That's how long I've lived with that. Forty-three years planning this. Not revenge—I don't want revenge. I want TRUTH. I want justice. I want the kingdoms to ANSWER for what they did.* 
+:
+*(Touches Second Component)* *"The World-Splitter can do that. Not destroy—I don't want to kill millions. But REMAKE. Reshape. Tear down corrupt systems and build better ones. Make nobility SERVE instead of rule. Make truth MATTER. Make my family's sacrifice MEAN SOMETHING.* 
+:
+*(Looks at heroes)* *"You've seen it. You KNOW I'm right. The kingdoms ARE corrupt. The systems ARE broken. Justice doesn't exist for people like me, like the Goldshore Keepers, like the countless others crushed by power.* 
+:
+*"I'm going to change that. With your help or without it. But I'm asking—BEGGING—join me. Help me do this RIGHT. Help me build something better from the ashes of something rotten.* 
+:
+*(Reaches for Third Component)* *"Or refuse. And I'll do it anyway. And millions WILL die. And it will be YOUR fault for choosing a broken system over justice.* 
+:
+*(Desperate, almost crying)* *"Please. I'm so tired of being the villain. Just once... let me be right. Let me be the hero of my own story."* 
+}}
 
 **PAUSE FOR HEROES' RESPONSE:** ::
 
 This is the ULTIMATE moral choice. There's no clear "right" answer. Options:
+
+\page
 
 **1. JOIN HIM:** ::
 - Campaign becomes revolutionary arc
@@ -8411,8 +8397,6 @@ This is the ULTIMATE moral choice. There's no clear "right" answer. Options:
 - **Boss battle begins**
 - **Transition to Quest 3.5**
 
----
-
 **XP AWARDS:** ::
 
 - **Reaching Rift:** 2,000 XP
@@ -8422,7 +8406,7 @@ This is the ULTIMATE moral choice. There's no clear "right" answer. Options:
 - **Making Moral Choice:** 2,000 XP
 - **Total:** 8,000-10,000 XP
 
-**Level Up:** Party should reach Level 14 before final battle (Quest 3.5)
+**Level Up:** Party should reach Level 14 before final battle (Quest 3.5) ::
 
 ---
 
@@ -8432,21 +8416,18 @@ If heroes choose combat, immediate transition:
 
 *"So be it." Corvus's eyes harden. The Components pulse, begin melting together. Reality SCREAMS. The Rift tears open wider. And from it, something VAST awakens. The Primordial Entity, drawn by the World-Splitter's assembly. Lord Shadows laughs—or cries, you can't tell. "Then we ALL end together. As it should be."* ::
 
-**Proceed to Quest 3.5: The Final Battle**
-
----
-
-\page
+**Proceed to Quest 3.5: The Final Battle** ::
 
 ### Quest 3.5: The Final Battle (Level 14-15)
 
 **Location:** The Primordial Rift, Assembly Site  
 **Difficulty:** APOCALYPTIC (CR 7-8 per PC)  
-**This is the campaign's climactic encounter**
+
+**This is the campaign's climactic encounter** ::
 
 #### THE FINAL BOSS ENCOUNTER
 
-**Phase 1: The Unbound Leadership**
+**Phase 1: The Unbound Leadership** ::
 
 Enemies:
 - **Lord Shadows Blackwood** (CR 15, full power)
@@ -8455,7 +8436,7 @@ Enemies:
 - **Sister Mortua** (CR 11, if alive)
 - **4 Unbound Champions** (CR 5 each)
 
-**Battlefield:** 120 ft. diameter ritual circle, difficult terrain from reality distortions
+**Battlefield:** 120 ft. diameter ritual circle, difficult terrain from reality distortions ::
 
 **Tactics:** ::
 - Lich casts *Power Word Kill* and *Disintegrate* at full power
@@ -8476,11 +8457,13 @@ Enemies:
 - These are echoes of Pre-Worldrend era heroes/monsters
 - They attack everyone (treat as random encounters)
 
+\page
+
 **Gravity Shifts:** ::
 - Initiative 20 (no roll): Gravity randomly shifts
 - All creatures make DC 15 Dex save or "fall" 30 ft. in new direction
 
-**Phase 1 Victory Condition:** Reduce all enemies to 0 HP or convince Lord Shadows to stand down (DC 22 Persuasion during combat)
+**Phase 1 Victory Condition:** Reduce all enemies to 0 HP or convince Lord Shadows to stand down (DC 22 Persuasion during combat) ::
 
 #### Phase 2: The Primordial Awakens
 
@@ -8490,9 +8473,40 @@ He activates World-Splitter early:
 
 *"If I can't have justice, NONE OF YOU WILL!"*
 
-**WORLD-SPLITTER ACTIVATES**
+**WORLD-SPLITTER ACTIVATES** ::
 
 **The Primordial Entity emerges:** ::
+
+**Phase 2 Victory Condition:** ::
+
+Heroes must either:
+1. **Defeat the Avatar** (extremely difficult)
+2. **Deactivate World-Splitter** (requires touching all five Components simultaneously while Avatar is active - DC 18 Arcana check)
+3. **Banish the Avatar** (*Banishment* spell at 9th level, or similar)
+
+**Lord Shadows During Phase 2:** ::
+
+Collapsed, dying. If heroes approach:
+
+*"What have I done? I just... wanted truth. Wanted justice. I'm sorry. Please... stop it. Before it destroys everything."*
+
+Can provide **Blackwood Bloodline Power** (action to give one hero advantage on checks to deactivate World-Splitter)
+
+**If Deactivated Successfully:** ::
+
+- Avatar dissipates
+- Rift begins closing
+- Components separate and become inert
+- Reality stabilizes
+
+**If Not Deactivated Within 6 Rounds:** ::
+
+- SECOND SUNDERING BEGINS
+- Ground splits apart
+- Mountains fall
+- Earthquakes across continent
+- **Campaign becomes "surviving the Worldrend"**
+- Very different ending
 
 {{monster,frame
 ## AVATAR OF THE PRIMORDIAL RIFT
@@ -8534,37 +8548,8 @@ ___
 **- Dimensional Rift (Costs 3)** :: Creates portal that swaps positions of two creatures within 120 ft. (DC 20 Charisma save to resist).
 }}
 
-**Phase 2 Victory Condition:** ::
 
-Heroes must either:
-1. **Defeat the Avatar** (extremely difficult)
-2. **Deactivate World-Splitter** (requires touching all five Components simultaneously while Avatar is active - DC 18 Arcana check)
-3. **Banish the Avatar** (*Banishment* spell at 9th level, or similar)
-
-**Lord Shadows During Phase 2:** ::
-
-Collapsed, dying. If heroes approach:
-
-*"What have I done? I just... wanted truth. Wanted justice. I'm sorry. Please... stop it. Before it destroys everything."*
-
-Can provide **Blackwood Bloodline Power** (action to give one hero advantage on checks to deactivate World-Splitter)
-
-**If Deactivated Successfully:** ::
-
-- Avatar dissipates
-- Rift begins closing
-- Components separate and become inert
-- Reality stabilizes
-
-**If Not Deactivated Within 6 Rounds:** ::
-
-- SECOND SUNDERING BEGINS
-- Ground splits apart
-- Mountains fall
-- Earthquakes across continent
-- **Campaign becomes "surviving the Worldrend"**
-- Very different ending
-
+\page
 #### Epilogue Scenes (If Heroes Win)
 
 **Immediate Aftermath:** ::
@@ -8578,7 +8563,8 @@ Can provide **Blackwood Bloodline Power** (action to give one hero advantage on 
 
 *"Tell them... tell them we were innocent. That's all I wanted. Just... the truth."*
 
-**He hands heroes his journal - complete proof of House Blackwood's innocence and King Aldric III's betrayal.**
+:
+**He hands heroes his journal - complete proof of House Blackwood's innocence and King Aldric III's betrayal.** 
 
 **Heroes Must Decide Component Fate:** ::
 - Destroy them (requires divine intervention - can arrange with gods)
@@ -8586,23 +8572,15 @@ Can provide **Blackwood Bloodline Power** (action to give one hero advantage on 
 - Give to trustworthy authority
 - Keep them (dangerous but powerful)
 
----
-
-\page
-
 ### Campaign Epilogue
 
 The following epilogue variants depend on how the campaign concluded. Choose the one that matches your party's choices, or blend elements from multiple endings.
-
----
 
 \page
 
 ## Epilogue 1: Heroic Victory (Traditional Ending)
 
 *If heroes defeated Lord Shadows and stopped the Second Worldrend*
-
----
 
 ### The Immediate Aftermath
 
@@ -8628,12 +8606,10 @@ If heroes approach him:
 
 **If Not Stabilized:** He dies peacefully, a small smile on his face, finally at rest.
 
----
-
 ### The Journey Home (One Week Later)
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *The march back to Kaer Thandros is slower than your departure. Your allied army is battered but victorious. Soldiers sing songs of the battle—already embellished, already becoming legend. You carry the five Components of the World-Splitter, carefully separated, wrapped in cloth blessed by priests. And you carry Corvus's journal.*
 }}
@@ -8652,12 +8628,10 @@ If heroes approach him:
 - **Justice:** Arrest them for crimes. They're imprisoned but treated humanely.
 - **Vengeance:** Execute them as traitors. Dark choice, but within law.
 
----
-
 ### The Throne Room (Two Weeks Later)
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *King Aldric IV sits on his throne, looking ten years older. The entire court is assembled—nobles, generals, priests, merchants. You stand before them, the five Components on a velvet cushion, Corvus's journal in hand. The king's voice is quiet, almost broken: "Show us. Show us the truth."*
 }}
@@ -8679,11 +8653,13 @@ You present Corvus's evidence. As you speak, reactions ripple through the court:
 *He reads silently, face growing paler. Finally, he looks up, voice shaking: "My father... King Aldric III... was a murderer. Prince Aldric—my own brother—was an assassin. Everything our kingdom was built on..." (He struggles to continue) "A lie. All of it. A lie."*
 }}
 
-*(He stands, removes his crown, sets it on the throne)* *"I am unworthy to wear this. My family's legitimacy... it's built on the ashes of innocents."* ::
+{{description,note
+*(He stands, removes his crown, sets it on the throne)* *"I am unworthy to wear this. My family's legitimacy... it's built on the ashes of innocents."* 
+}}
 
-*(He looks at you)* *"What would you have me do? You saved the world. You uncovered truth. The kingdom is yours to reshape. Should I abdicate? Stand trial? What justice is there for sins I inherited?"* ::
-
----
+{{description,note
+*(He looks at you)* *"What would you have me do? You saved the world. You uncovered truth. The kingdom is yours to reshape. Should I abdicate? Stand trial? What justice is there for sins I inherited?"* 
+}}
 
 \page
 
@@ -8691,9 +8667,7 @@ You present Corvus's evidence. As you speak, reactions ripple through the court:
 
 **This is the party's final major decision. Present four options:** ::
 
----
-
-**OPTION 1: FULL PUBLIC REVELATION**
+**OPTION 1: FULL PUBLIC REVELATION** ::
 
 Heroes demand complete public disclosure. The truth will be proclaimed from every town square.
 
@@ -8722,9 +8696,9 @@ Heroes demand complete public disclosure. The truth will be proclaimed from ever
 {{description,note
 *Historians call it "The Reckoning"—the decade when Tirvandor confronted its lies and emerged stronger. The Blackwood Memorial stands in Kaer Thandros's central square: a mother, father, sister, and son, carved from black marble. Corvus's name is listed not as "Lord Shadows," but as "Corvus Blackwood, Guardian of Truth." Thousands visit yearly. Some leave flowers. Others leave apologies.*
 }}
----
 
-**OPTION 2: PRIVATE JUSTICE**
+
+**OPTION 2: PRIVATE JUSTICE** ::
 
 Heroes negotiate quiet reform. Truth is acknowledged privately but not publicized to prevent chaos.
 
@@ -8752,9 +8726,8 @@ Heroes negotiate quiet reform. Truth is acknowledged privately but not publicize
 {{description,note
 *A small memorial stands in Raven's Keep—the ruins of the Blackwood estate. Few know what it represents. Those who do make pilgrimages quietly. King Thandris the Reformer, history will call him. And in private rooms, in hushed voices, people tell the true story. Truth, it seems, cannot be fully buried. It seeps out, slowly, like water through stone.*
 }}
----
 
-**OPTION 3: REVOLUTIONARY CHANGE**
+**OPTION 3: REVOLUTIONARY CHANGE** ::
 
 Heroes use the truth as weapon to completely restructure the kingdom. Nobility system abolished.
 
@@ -8774,17 +8747,19 @@ Heroes use the truth as weapon to completely restructure the kingdom. Nobility s
 - May decline power (wise choice)
 - May become military protectors during transition
 
+\page
+
 **One Year Later:** ::
 {{description,note
 *The Republic struggles. Turns out governing is harder than revolution. Factions form. Arguments rage. Some wonder if the old system was better—at least it was stable. But there's something else: hope. For the first time in centuries, a commoner can become a leader. A farmer's daughter can learn magic. The world is open.*
 }}
+
 **Ten Years Later:** ::
 {{description,note
 *The Republic of Tirvandor stands as a beacon. Other kingdoms watch nervously as their own citizens start asking dangerous questions. The heroes who started it—you—are legends now. Some celebrate you. Others curse you. But no one can deny: you changed the world forever.*
 }}
----
 
-**OPTION 4: THE COVER-UP (Dark Choice)**
+**OPTION 4: THE COVER-UP (Dark Choice)** ::
 
 Heroes choose to bury the truth again. Stability matters more than justice.
 
@@ -8811,13 +8786,12 @@ Heroes choose to bury the truth again. Stability matters more than justice.
 {{description,note
 *History repeats. Another family is scapegoated. Another injustice buried. And you realize: by choosing stability over truth, you guaranteed nothing would change. The kingdom is still corrupt. Still built on lies. Just different lies. Corvus died for nothing. You wonder if you did the right thing. You'll never know.*
 }}
----
 
 ### What Happens to the Components
 
 Regardless of political choice, heroes must decide the Components' fate:
 
-**OPTION A: DIVINE DESTRUCTION**
+**OPTION A: DIVINE DESTRUCTION** ::
 
 Contact gods through temples. Divine intervention required.
 
@@ -8825,11 +8799,10 @@ Contact gods through temples. Divine intervention required.
 {{description,note
 *High Priestess Seraphina of the Light channels divine power. The Components resist—they WANT to exist. But slowly, painfully, they unmake. Reality screams. Then silence. The World-Splitter is gone. Forever. The threat is ended.*
 }}
+
 **Consequence:** No more threat, but also no more option to use them for good. Permanent solution.
 
----
-
-**OPTION B: SEPARATE HIDING**
+**OPTION B: SEPARATE HIDING** ::
 
 Hide Components in different locations, guarded by trusted groups.
 
@@ -8838,11 +8811,9 @@ Hide Components in different locations, guarded by trusted groups.
 - Second Component: Mages Guild Archive (Professor Miranda researches safely)
 - Third Component: Returned to Goldshore ruins, protected by water magic
 
-**Consequence:** Repeats history. Safe for now, but future generations might find them. Cycle continues.
+**Consequence:** Repeats history. Safe for now, but future generations might find them. Cycle continues. ::
 
----
-
-**OPTION C: KEEP THEM**
+**OPTION C: KEEP THEM** ::
 
 Party retains Components personally. Become new guardians.
 
@@ -8850,11 +8821,11 @@ Party retains Components personally. Become new guardians.
 {{description,note
 *You are now targets. Every kingdom, cult, and power-seeker wants them. You must guard them with your lives. The responsibility is crushing. But at least they're in hands you trust: your own.*
 }}
-**Consequence:** Hooks for future campaigns. Party must defend Components from threats.
+**Consequence:** Hooks for future campaigns. Party must defend Components from threats. ::
 
 ---
 
-**OPTION D: ASSEMBLE AND CONTROL (Dangerous)**
+**OPTION D: ASSEMBLE AND CONTROL (Dangerous)** ::
 
 Keep World-Splitter assembled but under strict control. Study it, learn from it.
 
@@ -8862,9 +8833,7 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *Professor Miranda leads research. Slowly, carefully, she unlocks secrets. The World-Splitter isn't just weapon—it's tool. It can reshape small areas, terraform wastelands, create resources. Used carefully, with oversight, it could solve famines, droughts, disasters. But the temptation... the temptation is always there.*
 }}
-**Consequence:** Ultimate power, ultimate responsibility. Can use for good, but corruption risk is constant.
-
----
+**Consequence:** Ultimate power, ultimate responsibility. Can use for good, but corruption risk is constant. ::
 
 \page
 
@@ -8872,9 +8841,7 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 
 *Each major NPC gets closure based on campaign events:*
 
----
-
-**HIGH MAGE ARCTURUS (3,000-Year-Old Ghost)**
+**HIGH MAGE ARCTURUS (3,000-Year-Old Ghost)** ::
 
 *If Testified for Heroes:*
 *"I've waited three thousand years to see justice done. Now I can rest." His spirit fades peacefully, smiling, finally freed from his oath. Before vanishing: "Thank you. You gave my eternity meaning."* ::
@@ -8883,21 +8850,20 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *Remains in Black Archive, bitter, disappointed. "Nothing changes. Truth doesn't matter. Power does." A tragic waste of a noble soul.*
 }}
----
 
-**PROFESSOR MIRANDA QUESTSEEKER**
+**PROFESSOR MIRANDA QUESTSEEKER** ::
 
 *If Survived:*
 {{description,note
 *Publishes seventeen books about the World-Splitter. Becomes most famous scholar in Tirvandor. Drives her research team insane with enthusiasm. Visits heroes yearly: "YOU HAVE TO SEE MY NEW DISCOVERY!" Never marries—married to her work. Dies at age ninety-two, mid-sentence, explaining quantum planar theory.*
 }}
+
 *If Died During Campaign:*
 {{description,note
 *Mages Guild establishes "Miranda Questseeker Prize for Reckless Brilliance." Every year, they award it to the scholar who took the biggest intellectual risk. Her final words become guild motto: "But what if we tried?"*
 }}
----
 
-**MASTER HUNTER KAEL DRAGONSBANE**
+**MASTER HUNTER KAEL DRAGONSBANE** ::
 
 *If Survived Dragon Encounter:*
 {{description,note
@@ -8911,9 +8877,8 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *Hears about dragon battle, realizes he missed his chance. Falls into depression. Eventually finds redemption helping rebuild areas damaged in campaign. Quiet ending, but meaningful.*
 }}
----
 
-**CAPTAIN THALIA LIGHTBRINGER (Paladin)**
+**CAPTAIN THALIA LIGHTBRINGER (Paladin)** ::
 
 *If Recruited:*
 {{description,note
@@ -8923,21 +8888,20 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *Watches from afar, regrets not joining. Later approaches heroes: "I should have stood with you. I chose order over justice. I'm sorry." Spends rest of career making amends, defending the powerless.*
 }}
----
 
-**SAGE CORNELIUS**
+**SAGE CORNELIUS** ::
 
 *If Given His Book:*
 {{description,note
 *Publishes definitive history of Pre-Worldrend era. Finally gets the recognition he deserved. Spends final years content, knowing he was right all along. Leaves massive donation to libraries. His funeral is attended by hundreds of scholars. They all say: "He was right. We should have listened."*
 }}
+
 *If Never Given Book:*
 {{description,note
 *Dies shortly after campaign, still dismissed as senile. His unpublished research is found after death—proves he was right about everything. Tragic waste. Heroes feel guilt for not helping him.*
 }}
----
 
-**DRUID ELDER SILVARIS**
+**DRUID ELDER SILVARIS** ::
 
 *If Oath Taken Regarding Dragon:*
 {{description,note
@@ -8947,21 +8911,22 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *Continues tending forest. Occasionally sends cryptic messages to heroes via animal messengers. "The world is changing. The trees remember you. They approve."*
 }}
----
 
-**GARRETT STONE (The Redeemed Widower)**
+**GARRETT STONE (The Redeemed Widower)** ::
 
 *If Shown Mercy:*
 {{description,note
 *Becomes vocal advocate against cult recruitment. "I know how they prey on grief, on pain. Let me help others avoid my mistakes." Saves dozens from joining dangerous groups. Eventually finds new love, remarries. Names son after the hero who showed him mercy. Lives meaningful, good life.*
 }}
+
+\page
+
 *If Killed/Arrested Harshly:*
 {{description,note
 *Becomes martyr for Unbound cause. "See? The kingdoms show no mercy. Corvus was right." His death recruits more to extremism than his life ever did. Heroes regret harsh treatment.*
 }}
----
 
-**CAPTAIN RODERIC IRONHEART (Silverpine Guard Captain)**
+**CAPTAIN RODERIC IRONHEART (Silverpine Guard Captain)** ::
 
 *If Survived:*
 {{description,note
@@ -8971,9 +8936,8 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *Silverpine builds statue in town square. Every Guard Captain swears oath before it: "I will protect the innocent, as Roderic did." Legacy of duty.*
 }}
----
 
-**ELDER THOM OAKHEART (Silverpine Elder)**
+**ELDER THOM OAKHEART (Silverpine Elder)** ::
 
 *If Nephew Rescued:*
 {{description,note
@@ -8983,9 +8947,8 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *Thom becomes broken, bitter old man. Blames heroes for not acting faster. Spends final years drinking, muttering about "if only..." Tragic end.*
 }}
----
 
-**THE LICH OF RAVEN'S KEEP**
+**THE LICH OF RAVEN'S KEEP** ::
 
 *If Destroyed:*
 {{description,note
@@ -8995,9 +8958,8 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *Disappears into obscurity. Centuries later, rumors surface of a helpful lich in distant lands, protecting villages from undead. Perhaps redemption is possible, even for the undead.*
 }}
----
 
-**KING ALDRIC IV**
+**KING ALDRIC IV** ::
 
 *If Remains King:*
 {{description,note
@@ -9007,14 +8969,14 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *Enters monastery. Spends life in service, prayer, and charity. Anonymous monk who was once king. Finds peace he never had on throne. Dies believing he did right thing.*
 }}
----
 
-**CORVUS BLACKWOOD / LORD SHADOWS**
+**CORVUS BLACKWOOD / LORD SHADOWS** ::
 
 *If Lived (Stabilized):*
 {{description,note
 *Spends years in recovery—physical and mental. Eventually pardoned. Becomes advocate for peaceful reform. "I was wrong about the method. But not about the cause." Establishes charity for families wronged by nobility. Never fully recovers from trauma, but finds purpose helping others. Dies peacefully at sixty-eight, surrounded by those he helped. Final words: "Mother... I kept trying... I hope you're proud..."*
 }}
+
 *If Died at Rift:*
 {{description,note
 *Becomes complex historical figure. Some view as terrorist. Others as freedom fighter. Truth is complicated. Memorials erected—some celebrate him, others mourn him. Heroes are asked often: "Was he villain or victim?" Answer: "Both."*
@@ -9023,7 +8985,6 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *Best ending. Disbands Unbound peacefully. Becomes political activist. Writes books. Gives speeches. Challenges systems without violence. Lives to see real reforms. Becomes senator in new Republic (if formed). Dies old and satisfied, knowing he helped change world WITHOUT destroying it. This is the good ending he deserved.*
 }}
----
 
 ### The Heroes: Your Personal Epilogues
 
@@ -9046,13 +9007,13 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 - One additional legendary item per PC (DM choice)
 - Legendary boons related to their heroic deeds
 
+\page
+
 **Social Status:** ::
 - Nobility title (if desired, can refuse)
 - Instant recognition anywhere in Thaldros or Aethoria
 - Doors open everywhere
 - People trust you implicitly
-
----
 
 **INDIVIDUAL EPILOGUE PROMPTS:** ::
 
@@ -9094,12 +9055,11 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *What will you do with the rest of your story?*
 }}
----
 
 ### One Year Later: The Anniversary
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *One year to the day after the Battle of the Primordial Rift, you gather at the site. It's different now. The Rift has closed. Reality is stable. Grass grows. Birds sing. A memorial stands here: black marble obelisk listing names of all who died—Unbound and allied forces alike. "They died believing in something," the inscription reads. "May we honor all who seek justice, even when they seek it wrongly."*
 }}
@@ -9120,7 +9080,6 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *As stars emerge, Professor Miranda approaches with flask. "To fallen friends?" You drink—to those who died fighting, to those who died believing, to those who changed the world. The flask passes person to person. Former enemies drinking together, acknowledging shared humanity. The Age of Lies is over. The Age of Truth has begun. It won't be easy. But it will be honest. And that's worth everything.*
 }}
----
 
 ### Twenty Years Later: The Legacy
 
@@ -9129,10 +9088,12 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *Twenty years. A generation. Children born after the Battle of the Rift are coming of age. They don't remember Lord Shadows. They don't remember the old kingdoms, the old ways, the old lies. They grew up in world you created.*
 }}
->
+
 {{description,note
 *History classes teach about the Shattered Oaths—the campaign that changed everything. Scholars debate whether heroes made right choices. Artists create plays, songs, stories about your adventures. Some are accurate. Most aren't. But that's how legends work.*
 }}
+
+\page
 
 {{description,note
 *You're older now. Grayer. Scars ache in cold weather. But you're still heroes. Still respected. Still sought for wisdom. Young adventurers approach you: "How did you do it? How did you save the world?"*
@@ -9147,6 +9108,7 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *You smile. "Yes. That's what heroes do. Go. Find your own campaign. Create your own legends. The world always needs more truth-seekers."*
 }}
+
 **The Final Image:** ::
 
 {{description,note
@@ -9164,7 +9126,8 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 {{description,note
 *You saved the truth.*
 }}
----
+
+\column
 
 ### Campaign Complete
 
@@ -9184,17 +9147,14 @@ Keep World-Splitter assembled but under strict control. Study it, learn from it.
 
 Your campaign is complete. Your heroes have earned their rest. The tale is told.
 
-Thank you for playing **The Shattered Oaths**.
+Thank you for playing **The Shattered Oaths**. ::
 
-May your next adventure be equally memorable.
-
----
+May your next adventure be equally memorable. ::
 
 *The Shattered Oaths Campaign*  
-*Levels 1-15*  
 *A Tale of Justice, Truth, and the Price of Both*
 
-**THE END**
+**THE END** ::
 
 ---
 
@@ -9203,8 +9163,6 @@ May your next adventure be equally memorable.
 ## Epilogue 2: The Revolutionary Ending (Heroes Joined Corvus)
 
 *If heroes sided with Lord Shadows and helped him reshape the world*
-
----
 
 ### The Controlled Sundering
 
@@ -9221,6 +9179,7 @@ May your next adventure be equally memorable.
 {{description,note
 *Corrupt nobles wake to find their estates transformed into public land. Unjust laws simply cease to exist, as if they never were. And across both continents, people feel it—a change in the fundamental nature of power. The old order is ending. A new one begins.*
 }}
+
 **The First Day:** ::
 
 {{description,note
@@ -9230,12 +9189,12 @@ May your next adventure be equally memorable.
 {{description,note
 *Some resist. Violence flares. But the World-Splitter's changes are absolute. You can't oppress when reality itself prevents it. You can't hoard when the world redistributes. It's not perfect—rushed, sometimes too harsh—but it's done. The Age of Lies is over.*
 }}
+
 **Corvus's Reaction:** ::
 
 {{description,note
 *He collapses, exhausted but smiling. "We did it. Not destruction—transformation. Justice without genocide. My family... they'd be proud." He looks at you, tears streaming. "Thank you. For believing I could be more than just revenge. For showing me there was another way."*
 }}
----
 
 ### The First Year: Chaos and Hope
 
@@ -9244,6 +9203,9 @@ May your next adventure be equally memorable.
 **Political:** ::
 - All kingdoms in turmoil
 - Some monarchs abdicate; others adapt
+
+\column
+
 - New governments forming everywhere
 - Republic movements gain momentum
 
@@ -9290,6 +9252,8 @@ May your next adventure be equally memorable.
 - Truth commissions operating transparently
 - Former Unbound integrated into society
 
+\page
+
 **The Bad:** ::
 - New forms of corruption emerging
 - Some areas resist change violently
@@ -9306,7 +9270,6 @@ May your next adventure be equally memorable.
 {{description,note
 *One party member leaves. "I didn't sign up to remake the world in my image. I just wanted to stop bad guys." Another doubles down: "We did the right thing. The only thing." The rest of you exist in between, uncertain, doing your best.*
 }}
----
 
 ### Twenty Years Later: Legacy of Revolution
 
@@ -9327,11 +9290,14 @@ May your next adventure be equally memorable.
 {{description,note
 *He's older, grayer, tired. "I spend my life fighting to unmake kings," he tells you. "And now I realize: I became one. A benevolent tyrant is still a tyrant." He's resigned from Council leadership. Travels now, teaching, helping, trying to make amends for the harsh parts of the revolution. Still haunted. But finally at peace with who he is.*
 }}
+
 **Your Reputation:** ::
 - Some view you as greatest heroes ever
 - Others see you as dangerous radicals
 - Most acknowledge: your intentions were good
 - All agree: you changed everything
+
+\column
 
 **The Question:** ::
 
@@ -9348,22 +9314,25 @@ May your next adventure be equally memorable.
 *He dies at seventy-one, peacefully in sleep. At his funeral, thousands attend—from former Unbound to reformed nobles to common citizens whose lives improved. No grand monument. He requested simple stone: "Corvus Blackwood. He tried. It mattered."*
 }}
 **His Final Letter to You:** ::
+::
+{{description,note
+*"Dear friends, by the time you read this, I'll be gone. Thank you. For believing I could be more than my trauma. For showing me revolution didn't require genocide. For helping me honor my family without dishonoring myself. We didn't create perfect world. But we created better one. That's enough. Rest now. You've earned it."*
+:
+-*Corvus* 
+}}
 
-*"Dear friends, by the time you read this, I'll be gone. Thank you. For believing I could be more than my trauma. For showing me revolution didn't require genocide. For helping me honor my family without dishonoring myself. We didn't create perfect world. But we created better one. That's enough. Rest now. You've earned it. - Corvus"* ::
-**Your Reflection:** ::
+**Your Reflection:**
 
 {{description,note
+
 *You stand at his grave, older now, grayer. "Was it worth it?" someone asks. You look at the world around you—imperfect, struggling, but freer. "Yes," you say. "It was worth it. Not because we were perfect. But because we tried to do better. And sometimes, that's all heroes can do."*
 }}
----
 
 \page
 
 ## Epilogue 3: Redemption Ending (Peaceful Resolution)
 
 *If heroes convinced Corvus to stand down through dialogue*
-
----
 
 ### The Moment of Peace
 
@@ -9381,7 +9350,9 @@ May your next adventure be equally memorable.
 *He looks up, tears streaming. "After everything I've done... you'd still help me?"*
 }}
 
-*"Yes."* ::
+{{description,note
+*"Yes."* 
+}}
 
 {{description,note
 *He breaks completely. Forty-three years of rage and pain pouring out. The Unbound army watches, uncertain. Their leader is crying. Then, one by one, they lower their weapons. The battle is over. Not through violence. But through understanding.*
@@ -9402,18 +9373,20 @@ May your next adventure be equally memorable.
 *It's not a traditional trial. No execution awaiting. Instead: Truth and Reconciliation Commission. Corvus testifies for three days. Everything. His family's murder. His years of planning. The Unbound's crimes. His own crimes. He hides nothing.*
 }}
 
-*"I was right about the truth," he says. "Wrong about the method. I hurt innocent people. I cannot undo that. I can only... try to do better."* ::
+{{description,note
+*"I was right about the truth," he says. "Wrong about the method. I hurt innocent people. I cannot undo that. I can only... try to do better."* 
+}}
+
+\column
 
 **The Verdict:** ::
-
-*"Corvus Blackwood," the Council Speaker says, "you are guilty of rebellion, murder, and treason. But you are also victim of genocide, witness to historic injustice, and ultimately... someone who chose peace when you could have chosen destruction."* ::
-
-*"Your sentence: Twenty years of service. You will work to undo the damage you caused. You will help reform the systems you rebelled against. You will teach others that justice doesn't require violence. And at the end... if you've truly made amends... you'll be free."* ::
-
 {{description,note
+*"Corvus Blackwood," the Council Speaker says, "you are guilty of rebellion, murder, and treason. But you are also victim of genocide, witness to historic injustice, and ultimately... someone who chose peace when you could have chosen destruction."* 
+:
+*"Your sentence: Twenty years of service. You will work to undo the damage you caused. You will help reform the systems you rebelled against. You will teach others that justice doesn't require violence. And at the end... if you've truly made amends... you'll be free."* 
+:
 *Corvus accepts. "Thank you. For giving me a chance to be more than my trauma."*
 }}
----
 
 ### Five Years Later: The Reformer
 
@@ -9440,15 +9413,16 @@ May your next adventure be equally memorable.
 {{description,note
 *An unlikely friendship forms. The king who inherited crimes and the man who survived them. They work together on reforms. "Strange," Thandris says one day. "The person I feared most became my greatest ally." Corvus smiles sadly. "Because you gave me something I never had: hope that change was possible without blood."*
 }}
----
 
 ### Twenty Years Later: Freedom Earned
 
 ##### Read Aloud:
-::
+:
 {{description,note
 *Twenty years of service complete. Corvus Blackwood stands before the Council again. Older now—sixty-seven, gray-haired, worn from two decades of hard work. "Corvus Blackwood," the Speaker says, "you have fulfilled your sentence. You are hereby pardoned, freed, and... honored. You showed us that even the darkest paths can lead to light."*
 }}
+
+\page
 
 **The Celebration:** ::
 
@@ -9457,9 +9431,9 @@ May your next adventure be equally memorable.
 }}
 **Corvus's Speech:** ::
 
-*"I don't deserve this," he says quietly. "Every day I live, I remember those who died because of me. But I also remember those I've helped since. I can't balance the scales. Blood spilled can't be unspilled. But I can try. Every day, I can try to be the man my mother hoped I'd become. That's all any of us can do."* ::
-
----
+{{description,note
+*"I don't deserve this," he says quietly. "Every day I live, I remember those who died because of me. But I also remember those I've helped since. I can't balance the scales. Blood spilled can't be unspilled. But I can try. Every day, I can try to be the man my mother hoped I'd become. That's all any of us can do."* 
+}}
 
 ### Thirty Years Later: The Legacy
 
@@ -9483,7 +9457,8 @@ May your next adventure be equally memorable.
 {{description,note
 *Simple stone in Blackwood family plot, reunited with his parents and sister. Inscription: "Corvus Blackwood. Victim who became villain who became teacher. Proof that redemption is possible."*
 }}
----
+
+\column
 
 ### Your Epilogue (Peaceful Ending):
 
@@ -9499,9 +9474,10 @@ May your next adventure be equally memorable.
 }}
 **The Final Reflection:** ::
 
-*"We saved the world twice," you realize. "Once from the Second Worldrend. Again from the revenge cycle. We showed Corvus mercy. He showed the world redemption. Together, we proved that broken systems can be fixed without breaking everything else."* ::
+{{description,note
+*"We saved the world twice," you realize. "Once from the Second Worldrend. Again from the revenge cycle. We showed Corvus mercy. He showed the world redemption. Together, we proved that broken systems can be fixed without breaking everything else."* 
+}}
 
----
 
 \page
 
