@@ -13043,13 +13043,7 @@ This section contains printable handouts to enhance immersion. Each handout incl
 
 **DM Note:** This is the Unbound's recognition symbol. Members carry these to identify each other. Finding one on a cultist or at a crime scene confirms Unbound involvement.
 
----
-
-**DALL-E PROMPT - Black Raven Token:**
-```
-A dark metal coin or medallion on aged wooden surface, featuring an embossed silver raven with spread wings against black iron, ancient runic text around the edge, dramatic lighting from single candle, photorealistic, dark fantasy style, mysterious atmosphere, high detail
-```
-
+\column
 
 ## Handout 2: Silverpine Rumors
 
@@ -13091,7 +13085,7 @@ A dark metal coin or medallion on aged wooden surface, featuring an embossed sil
 
 *Found during Quest 1.2 or given by intimidated shopkeepers*
 
-![Threatening Letter](https://your-image-url-here.png){width:100%}
+![Threatening Letter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/handouts/tirvandor-so-raven-letter.png){position:absolute,bottom:0px,right:0px,width:60%}
 
 {{description,note
 *The letter is written on rough paper in harsh, angular handwriting. A black raven symbol is stamped at the bottom in what might be dried blood.*
@@ -13119,16 +13113,12 @@ A dark metal coin or medallion on aged wooden surface, featuring an embossed sil
 *— By order of Lord Shadows*
 }}
 
+<div style="width:85%">
+
 **DM Note:** This establishes the Unbound's methods—part extortion, part recruitment. The gold funds their operations; the fear spreads their influence.
 
----
+</div>
 
-**DALL-E PROMPT - Threatening Letter:**
-```
-Aged parchment letter with angular threatening handwriting, black raven stamp at bottom in dark red wax or blood, rough torn edges, dramatic candlelight illumination, dark fantasy prop, weathered paper texture, medieval style, photorealistic document
-```
-
----
 
 \page
 
@@ -13136,7 +13126,7 @@ Aged parchment letter with angular threatening handwriting, black raven stamp at
 
 *Found in Black Archive (Quest 2.1) or royal libraries*
 
-![Royal Decree](https://your-image-url-here.png){width:100%}
+![Royal Decree](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/handouts/tirvandor-so-royal-decree.png){position:absolute,bottom:0px,right:0px,width:60%}
 
 {{description,note
 *A formal document bearing the royal seal of Thaldros—a crowned lion rampant in red wax, now cracked with age. The parchment is thick, official, preserved behind glass for over a century.*
@@ -13177,14 +13167,6 @@ Aged parchment letter with angular threatening handwriting, black raven stamp at
 
 **DM Note:** This is the "official" history. Players who've learned the truth know this decree was based on lies—the Blackwoods were framed to cover up Prince Aldric's crimes.
 
----
-
-**DALL-E PROMPT - Royal Decree:**
-```
-Official royal decree on aged vellum parchment, ornate calligraphy text, large cracked red wax seal with crowned lion emblem, gold leaf decorative borders, medieval legal document style, dramatic lighting, museum quality preservation, photorealistic prop
-```
-
----
 
 \page
 
