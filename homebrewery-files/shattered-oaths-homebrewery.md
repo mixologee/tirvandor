@@ -14526,7 +14526,7 @@ She carries her uncle Aldric's legacy: his copies of the journals, his network c
 
 ## Copyright Notice
 
-**TIRVANDOR: PLAYER'S Guide**
+**TIRVANDOR: Shattered Oaths Campaign Guide**
 
 © 2025 Jason "Mixologee" Scheponik. All rights reserved.
 

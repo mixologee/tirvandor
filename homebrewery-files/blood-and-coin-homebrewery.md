@@ -1,20 +1,15 @@
 {{frontCover}}
 
-{{logo
-![](/assets/naturalCrit/phb_stuff/phb_logo.png)
-}}
-
-# Blood & Coin
-## A Tirvandor Campaign
+{{padding-top:225px}}
 ___
 
-{{banner LEVELS 1-15}}
+{{banner 5th Edition Compatible Campaign}}
 
 {{footnote
 The Morally Gray Campaign | Everyone has a price
 }}
 
-![background](/assets/naturalCrit/adventure_cover.jpg){position:absolute,bottom:0,left:0,height:100%}
+![bc_campaign_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/tirvandor-cover-blood-and-coin-campaign.jpg){position:absolute,top:0px,left:0px,width:820px}
 
 \page
 
@@ -24,146 +19,23 @@ The Morally Gray Campaign | Everyone has a price
 ## Campaign Guide
 ___
 
-**A D&D 5th Edition Campaign for Levels 1-15**
+**A 5th Edition Campaign for Levels 1-15**
 
 *You're not heroes. You're professionals.*
 
-{{footnote
-Version 2.0 | November 2025
-}}
+{{padding-top:465px}}
 
-\page
-
-{{toc,wide
-# Table of Contents
-
-- ### [{{ Introduction}}
-
-{{ 3}}
-
-](#p3)
-- ### [{{ Act I: Blood for Coin}}
-
-{{ 5}}
-
-](#p5)
-  - [{{ Quest 1.1: Welcome to Crossroads}}
-
-{{ 8}}
-
-](#p8)
-  - [{{ Quest 1.2: The Price of Loyalty}}
-
-{{ 15}}
-
-](#p15)
-  - [{{ Quest 1.3: Reputation}}
-
-{{ 22}}
-
-](#p22)
-  - [{{ Quest 1.4: The Black Ledger}}
-
-{{ 30}}
-
-](#p30)
-  - [{{ Quest 1.5: The Trial}}
-
-{{ 38}}
-
-](#p38)
-- ### [{{ Act II: The Price of Power}}
-
-{{ 50}}
-
-](#p50)
-  - [{{ Quest 2.1: The Recruiters}}
-
-{{ 52}}
-
-](#p52)
-  - [{{ Quest 2.2: First Mission}}
-
-{{ 65}}
-
-](#p65)
-  - [{{ Quest 2.3: Double Cross}}
-
-{{ 75}}
-
-](#p75)
-  - [{{ Quest 2.4: The Heist}}
-
-{{ 88}}
-
-](#p88)
-  - [{{ Quest 2.5: Breaking Point}}
-
-{{ 100}}
-
-](#p100)
-- ### [{{ Act III: Reckoning}}
-
-{{ 115}}
-
-](#p115)
-  - [{{ Quest 3.1: Peacekeepers}}
-
-{{ 118}}
-
-](#p118)
-  - [{{ Quest 3.2: Underground}}
-
-{{ 128}}
-
-](#p128)
-  - [{{ Quest 3.3: Alliance}}
-
-{{ 138}}
-
-](#p138)
-  - [{{ Quest 3.4: Unification}}
-
-{{ 148}}
-
-](#p148)
-  - [{{ Quest 3.5: Mediator's Rest}}
-
-{{ 158}}
-
-](#p158)
-- ### [{{ Appendix A: NPCs}}
-
-{{ 170}}
-
-](#p170)
-- ### [{{ Appendix B: Magic Items}}
-
-{{ 190}}
-
-](#p190)
-- ### [{{ Appendix C: Monsters}}
-
-{{ 210}}
-
-](#p210)
-- ### [{{ Appendix D: DM Quick Reference}}
-
-{{ 225}}
-
-](#p225)
-}}
-
-\page
-
-{{note
 #### Copyright & Attribution
 
-**BLOOD & COIN: A Tirvandor Campaign**
+**Tirvandor Blood & Coin Campaign Guide** ::
 
 Copyright © 2025 Jason "Mixologee" Scheponik. All rights reserved.
 
-This product contains material from the System Reference Document 5.2 ("SRD 5.2") by Wizards of the Coast LLC.
+All original content including world lore, characters, locations, storylines, and artwork are the exclusive property of the author.
+
+#### Attribution
+
+This work includes material taken from the System Reference Document 5.1 (SRD 5.2) by Wizards of the Coast LLC and available at https://www.dndbeyond.com/srd.
 
 The SRD 5.2 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
 
@@ -171,11 +43,7 @@ The SRD 5.2 is licensed under the Creative Commons Attribution 4.0 International
 
 The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Ascended concept; the Seven Bound Ancients concept; all original magic items; the Worldrend event and timeline; all campaign content.
 
-#### Open Game Content
-
-All content derived from the SRD 5.2 is Open Game Content.
-}}
-
+{{skipCounting}}
 \page
 
 # Introduction
@@ -211,8 +79,6 @@ Gritty, realistic, consequences-driven. Violence is common but meaningful. Death
 **Tone:** Gritty, morally gray, mercenary survival  
 **Theme:** "Everyone's got to start somewhere"
 
----
-
 ## Act I Overview
 
 ### **The Premise**
@@ -228,6 +94,7 @@ Welcome to the profession. You'll learn quickly that every job has a catch, ever
 ### **What Act I Teaches**
 
 By the end of Act I, players will understand:
+\column
 - There are no clear good guys or bad guys
 - Every choice has consequences
 - Money matters, survival matters more
@@ -242,15 +109,16 @@ By the end of Act I, players will understand:
 **Starting Gold:** 50gp each (more than standard - you're professionals)  
 **PC Backgrounds:** All should have reason to be mercenaries (exiled, desperate, pragmatic, etc.)
 
----
 
 ## Crossroads - The Mercenary Town
 
-![Crossroads Town](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-crossroads-town.png){width:100%,mix-blend-mode:multiply}
+![Crossroads Town](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-crossroads-town.png){position:absolute,bottom:-70px,left:0px,width:100%}
 
 ### **Overview**
 
 Crossroads sits at the intersection of three trade routes, far from royal oversight. No official government—the **Iron Guild** runs things through contracts and reputation. Violence is common but regulated. Murder is allowed if you have a contract. Theft is punishable by death (bad for business). Lying is expected, getting caught is fatal.
+
+\page
 
 **Population:** ~2,400 (fluctuates with seasonal campaigns)  
 **Demographics:** 60% human, 15% dwarf, 10% half-orc, 10% halfling, 5% other  
@@ -260,7 +128,7 @@ Crossroads sits at the intersection of three trade routes, far from royal oversi
 
 ### **Key Locations**
 
-![The Iron Guild Hall](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-iron-guild-hall.png){width:100%,mix-blend-mode:multiply}
+![The Iron Guild Hall](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-iron-guild-hall.png){position:absolute,bottom:-70px,left:0px,width:100%}
 
 **1. The Iron Guild Hall**
 - Three-story stone building, fortified
@@ -287,6 +155,7 @@ Crossroads sits at the intersection of three trade routes, far from royal oversi
 - Legal blood sport
 - Betting, recruiting, entertainment
 - Reputation-building opportunity
+\column
 
 **5. Temple of the Coin**
 - Ironic "temple" to wealth
@@ -322,9 +191,9 @@ Crossroads sits at the intersection of three trade routes, far from royal oversi
 - More freedom, more risk
 - Where most start
 
----
+\page
 
-## 🎯 Quest 1.1: Welcome to Crossroads
+## Quest 1.1: Welcome to Crossroads
 
 **Level:** 1  
 **Duration:** 1-2 sessions  
@@ -338,23 +207,35 @@ Each PC arrives at Crossroads for their own reasons. Run individual cold opens f
 
 **Example Hooks:**
 
-**The Exiled Noble:**
+**The Exiled Noble:** ::
+:
 {{description,note
 *The carriage dumped you at the crossroads at dawn. Your family's signet ring—the last tie to your old life—weighs heavy in your pocket. The magistrate's words echo: "Leave the kingdom or hang for treason." You chose exile. Now you need gold to survive, and pride won't feed you.*
+}}
 
-**The Desperate Debtor:**
+**The Desperate Debtor:** ::
+:
+{{description,note
 *Three months. That's how long until Vareth the loan shark sends his collectors. You owe 500 gold—might as well be 5,000. The only place that pays enough is Crossroads. Dangerous work, but dying in combat beats dying in a gutter with your kneecaps shattered.*
+}}
 
-**The Pragmatic Sellsword:**
+**The Pragmatic Sellsword:** ::
+:
+{{description,note
 *You've been a soldier for ten years. Fought for three different armies. Watched nobles send peasants to die for "glory." You learned one thing: loyalty doesn't pay bills. Gold does. Crossroads is where professionals go when they're done pretending to be heroes.*
+}}
 
-**The Outcast:**
+**The Outcast:** ::
+:
+{{description,note
 *Your village cast you out for your "gift"—the magic in your blood. They called you cursed, dangerous, unnatural. Fine. Let them fear you. Crossroads doesn't care what you are, only what you can do. Time to make them regret exiling someone useful.*
 }}
 
 ### **Scene 1: The COPPER DRAGON**
 
 After individual intros, PCs all end up at **The Copper Dragon** inn. This is where the campaign truly begins.
+
+\column
 
 ##### Read Aloud:
 ::
@@ -396,14 +277,20 @@ If PCs engage with Finn, he offers free advice (he's genuinely trying to help):
 
 *Follow those rules, you might last a month. Break them, you'll be dead in a week."*
 
-**If PCs ask about work:**
+\page
+
+**If PCs ask about work:** ::
+:
+{{description,note
 
 *"Go see Varak at the Iron Guild Hall. He's got the Contract Board—public jobs for new blood. Prove yourself, he'll offer membership. First month's dues waived if you're good enough. Get you access to better contracts, better pay, better protection."*
+}}
 
-**If PCs ask about Varak:**
-
+**If PCs ask about Varak:** ::
+:
+{{description,note
 *"Dwarf. Old school. Honorable to a fault, which is a weakness in this business. But he runs a tight guild. Pay your dues, follow the contracts, he'll back you. Break the rules? He'll kill you himself. Respect that."*
-
+}}
 ### **Scene 2: The IRON GUILD HALL**
 
 PCs make their way to the Iron Guild Hall to find work.
@@ -416,16 +303,15 @@ PCs make their way to the Iron Guild Hall to find work.
 *Inside, the hall is all business. The main room is a mix of meeting hall and armory. A dozen mercenaries cluster around a large wooden board covered in parchment—contracts, each sealed with wax. Arguments break out over who gets which job.*
 
 *Behind a heavy oak desk sits a dwarf in well-maintained chainmail. His beard is braided with iron rings. His eyes are hard, calculating, measuring. He doesn't smile.*
-
-**NPC: Varak Ironfist**
 }}
 
+**NPC: Varak Ironfist** ::
 
 ![Varak Ironfist](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-varak-ironfist.jpg){width:200px,float:right,margin-left:10px}
-
+:
 *Medium humanoid (dwarf), lawful neutral*
-
-**Appearance:** 180 years old (middle-aged for a dwarf), gray-streaked brown beard in tight braids, iron rings woven throughout, chainmail always worn, massive warhammer propped against desk, scarred hands
+:
+**Appearance:** 180 years old (middle-aged for a dwarf), gray-streaked brown beard in tight braids, iron rings woven throughout, chainmail always worn, massive warhammer propped against desk, scarred hands :
 
 **Personality:** ::
 - Gruff, no-nonsense, business-first
@@ -434,7 +320,7 @@ PCs make their way to the Iron Guild Hall to find work.
 - Protective of guild members (they're assets)
 - Zero tolerance for contract-breakers
 
-**Stats:** Use **Veteran** stats (CR 3), but won't fight unless absolutely necessary
+**Stats:** Use Varak Ironfist  or **Veteran** stats (CR 3), but won't fight unless absolutely necessary
 
 **Voice & Mannerisms:** ::
 - Speaks bluntly, wastes no words
@@ -456,17 +342,22 @@ PCs make their way to the Iron Guild Hall to find work.
 *He sits back.*
 
 *"Questions?"*
-
-**If PCs ask about membership benefits:**
-
+}}
+**If PCs ask about membership benefits:** ::
+:
+{{description,note
 *"Protection. You wear the guild mark, other mercenaries know you're backed. Kill a guild member without a contract, the guild kills you. Simple. You also get access to the barracks, better contracts, and my network. I know who's hiring, who's reliable, who's a backstabbing bastard. That information keeps you alive."*
+}}
 
-**If PCs ask about the contracts:**
-
+**If PCs ask about the contracts:** ::
+:
+{{description,note
 *"Three on the board right now. All entry-level. Pick one, complete it, come back. You can work alone or in a group—I don't care, as long as the job's done. Read the contracts carefully. Clients lie. Part of the business."*
+}}
 
-**If PCs ask if they can negotiate:**
-
+**If PCs ask if they can negotiate:** ::
+:
+{{description,note
 *"With me? No. With the client? That's your business. Just remember—once you take a contract, you complete it. Break your word, the guild hunts you. We have a reputation to maintain."*
 }}
 
@@ -475,15 +366,18 @@ PCs make their way to the Iron Guild Hall to find work.
 
 Three contracts are available. PCs must choose ONE (or work together on one).
 
-**Option A: Rat Problem** (Straightforward... at first)
+**Option A: Rat Problem** (Straightforward... at first) ::
 - **Client:** Merchant Oleg Tharn
 - **Target:** Clear giant rats from warehouse
 - **Payment:** 50gp
+
+\page
+
 - **Details:** "Rats infesting my warehouse. Killing my profits. Kill them all. Bring me a dozen rat tails as proof."
 - **Fine Print:** None listed
 - **Truth:** Rats are protecting stolen goods the merchant fenced. Returning goods to rightful owner = 75gp reward + enemy. Keeping quiet = 50gp + dirty conscience.
 
-**Option B: Debt Collection** (Morally uncomfortable)
+**Option B: Debt Collection** (Morally uncomfortable) ::
 - **Client:** Loan shark Vareth Goldtooth
 - **Target:** Collect 100gp debt from "Thomas Redhill"
 - **Payment:** 75gp
@@ -491,7 +385,7 @@ Three contracts are available. PCs must choose ONE (or work together on one).
 - **Fine Print:** "10gp bonus if you make an example of him (public beating)"
 - **Truth:** Thomas is a widower with a sick child. Used loan for medicine. Child recovered but Thomas lost job. He's desperate, not malicious.
 
-**Option C: Caravan Guard** (Hidden complications)
+**Option C: Caravan Guard** (Hidden complications) ::
 - **Client:** Merchant Cassia Valen
 - **Target:** Escort cargo wagon to next town (20 miles)
 - **Payment:** 60gp total (split among party)
@@ -499,9 +393,8 @@ Three contracts are available. PCs must choose ONE (or work together on one).
 - **Fine Print:** "Contents of cargo not your concern"
 - **Truth:** Cargo is smuggled narcotics. Bandits are actually law enforcement trying to intercept shipment. Help smuggler = profit but criminal. Help law = reputation damage with merchants.
 
+:
 **DM NOTE:** Let PCs read all three contracts. They can discuss, debate, and choose based on their characters' motivations. This choice reveals their priorities: profit (highest pay), morality (least harmful), or pragmatism (easiest job).
-
----
 
 ### **Quest 1.1A: Rat Problem**
 
@@ -517,6 +410,8 @@ Three contracts are available. PCs must choose ONE (or work together on one).
 *"Ah, excellent! The guild sent help! Yes, yes, terrible rat problem. Vicious creatures. Killed my warehouse boy last week—terrible accident. Just go in there, kill them all, bring me proof. Dozen tails should do. I'll have your gold ready. Simple job!"*
 
 }}
+
+\column
 
 **Insight DC 12:** Oleg is lying about something. He's more worried about what's IN the warehouse than the rats.
 
@@ -560,20 +455,22 @@ Once rats are cleared (killed or driven off), PCs can investigate:
 
 ### **Moral Choice**
 
-**Option 1: Complete Contract as Stated**
+**Option 1: Complete Contract as Stated** ::
 - Kill rats, collect tails, return to Oleg
 - Get paid 50gp, no complications
 - **Consequence:** Oleg keeps stolen goods, Valen never recovers losses
 - **Alignment:** Neutral, pragmatic, "not my problem"
 
-**Option 2: Expose Oleg**
+\page
+
+**Option 2: Expose Oleg** ::
 - Take evidence to Cassia Valen
 - She rewards you 75gp for recovery
 - Oleg arrested, you make enemy of merchant network (they see you as rat)
 - **Consequence:** +1 Reputation with honest merchants, -1 Reputation with gray market
 - **Alignment:** Lawful, "do the right thing"
 
-**Option 3: Blackmail Oleg**
+**Option 3: Blackmail Oleg** ::
 - Confront Oleg with evidence
 - Demand 100gp to keep quiet (Intimidation or Persuasion DC 14)
 - Success: Oleg pays, you keep contract bonus too (150gp total)
@@ -581,7 +478,7 @@ Once rats are cleared (killed or driven off), PCs can investigate:
 - **Consequence:** +50gp but Oleg is lifelong enemy, no reputation change
 - **Alignment:** Chaotic, opportunistic, "get paid twice"
 
-**Option 4: Fence the Goods Yourself**
+**Option 4: Fence the Goods Yourself** ::
 - Take the silk, sell it at Gray Market (DC 15 Persuasion, 400gp if successful)
 - Tell Oleg the rats ate everything, no evidence
 - Oleg suspects but can't prove anything
@@ -589,7 +486,7 @@ Once rats are cleared (killed or driven off), PCs can investigate:
 - **Consequence:** Maximum profit (450gp total) but both clients suspect you
 - **Alignment:** Chaotic Neutral, pure opportunism
 
-**Option 5: Return Goods to Valen, Don't Report Oleg**
+**Option 5: Return Goods to Valen, Don't Report Oleg** ::
 - Give silk to Valen, claim you "found it" during rat extermination
 - Valen rewards you 75gp, grateful
 - Don't tell her about Oleg (honor among thieves)
@@ -603,19 +500,28 @@ Regardless of choice, PCs return to guild with rat tails (proof of completion).
 
 **Varak's Response (varies by choice):**
 
-**If completed cleanly:** *"Rats dead. Client satisfied. You did the job. That's all that matters. Iron Guild membership approved. Here's your mark."*
+**If completed cleanly:** ::
+:
+{{description,note
+*"Rats dead. Client satisfied. You did the job. That's all that matters. Iron Guild membership approved. Here's your mark."*
+}}
 
-**If you exposed Oleg:** *"Heard you turned in your client. Interesting choice. Merchants are gossiping about you—some love it, others won't work with a rat. Hope the righteousness was worth it. Still, you completed the contract technically. Membership approved."*
+**If you exposed Oleg:**  ::
+:
+{{description,note
+*"Heard you turned in your client. Interesting choice. Merchants are gossiping about you—some love it, others won't work with a rat. Hope the righteousness was worth it. Still, you completed the contract technically. Membership approved."*
+}}
 
-**If you fenced the goods:** *"I'm hearing rumors about extra goods being sold at the Gray Market. Same goods your client was worried about. Interesting timing. I don't care—not my business—but be careful. People remember opportunists."*
-
+**If you fenced the goods:**  ::
+:
+{{description,note
+*"I'm hearing rumors about extra goods being sold at the Gray Market. Same goods your client was worried about. Interesting timing. I don't care—not my business—but be careful. People remember opportunists."*
+}}
 **Outcome:** ::
-- ✅ Iron Guild membership granted
-- 💰 Gold varies by choice (50-450gp)
-- 📊 Reputation shifts based on actions
-- 🎭 Established moral compass (or lack thereof)
-
----
+- Iron Guild membership granted
+- Gold varies by choice (50-450gp)
+- Reputation shifts based on actions
+- Established moral compass (or lack thereof)
 
 ### **Quest 1.1B: Debt Collection**
 
@@ -651,12 +557,12 @@ Regardless of choice, PCs return to guild with rat tails (proof of completion).
 *Thomas Redhill's house is a small cottage on the poor side of town. The thatching needs repair. The windows are cracked. A child's toy lies forgotten in the muddy yard. Smoke rises from the chimney—someone's home.*
 
 *You knock. After a long pause, the door cracks open. A man in his thirties peers out—gaunt, tired, afraid. His eyes go to your weapons. He knows why you're here.*
+}}
 
-**NPC: Thomas Redhill**
-
+**NPC: Thomas Redhill** ::
 *Medium humanoid (human), neutral good*
 
-}}
+\page
 
 **Appearance:** Early 30s, thin from stress, carpenter's hands, haunted eyes, loves his daughter desperately
 
@@ -668,17 +574,23 @@ Regardless of choice, PCs return to guild with rat tails (proof of completion).
 - Willing to beg, grovel, anything to protect her
 - Honest to a fault (admits he can't pay)
 
-**Thomas's Story (if PCs talk instead of attack):**
-
+**Thomas's Story (if PCs talk instead of attack):**  ::
+:
+{{description,note
 *"I know why you're here. I know I owe Vareth. I'm not disputing it. My daughter was dying—fever that wouldn't break. The healers wanted 100 gold upfront. I didn't have it. Vareth offered a loan.*
 
 *The girl lived. Thank the gods, she lived. But then I lost my job—the carpenter I worked for went bankrupt. I've been looking for work, I swear. I can pay... just not yet. Please. Give me one more month. I'll pay double—125, like he wants. Just... please don't hurt my daughter. She's only seven."*
+}}
 
-**The Daughter:** If PCs investigate, they can meet **Lily Redhill** (7 years old, innocent, friendly, completely unaware of danger). She's drawing pictures of flowers. Seeing her makes the situation very real.
+**The Daughter:** ::
 
-**the choice**
+{{description,note
+If PCs investigate, they can meet **Lily Redhill** (7 years old, innocent, friendly, completely unaware of danger). She's drawing pictures of flowers. Seeing her makes the situation very real.
+}}
 
-**Option 1: Collect By Force**
+**The Choice** ::
+
+**Option 1: Collect By Force** ::
 - Beat Thomas (Athletics or Intimidation check)
 - Take what he has (~30gp in household goods)
 - Break his fingers/hands (prevents him from working for months)
@@ -686,81 +598,104 @@ Regardless of choice, PCs return to guild with rat tails (proof of completion).
 - **Consequence:** You're paid 75-85gp, Thomas and Lily destitute, your first step toward being a monster
 - **Alignment:** Evil or Chaotic Neutral (pure pragmatism)
 
-**Option 2: Give Him More Time**
+**Option 2: Give Him More Time** ::
 - Tell Vareth that Thomas "needs one more month to gather funds"
 - Vareth is suspicious but agrees (he wants paid, after all)
 - Return in one month (side quest) to check
 - **Consequence:** Vareth watches you closely, Thomas might actually pay or flee, you've shown mercy
 - **Alignment:** Neutral Good, compassionate pragmatism
 
-**Option 3: Pay His Debt Yourself**
+**Option 3: Pay His Debt Yourself** ::
 - Cover the 125gp from your own funds
 - Tell Vareth the debt is paid, don't mention it was you
 - Thomas never knows who saved him
 - **Consequence:** You're out 125gp but gain nothing material, pure altruism, Vareth doesn't care who pays
 - **Alignment:** Lawful Good, heroic sacrifice
 
-**Option 4: Fake Intimidation**
+**Option 4: Fake Intimidation** ::
 - Stage a beating (fake), Thomas plays along
 - Take his "payment" (goods he was going to sell anyway ~30gp)
 - Report to Vareth that Thomas is terrified and paying in installments
 - **Consequence:** Vareth satisfied, Thomas keeps home, you've bent the rules, Thomas grateful
 - **Alignment:** Chaotic Good, subverting system
 
-**Option 5: Rob Vareth for Thomas**
+**Option 5: Rob Vareth for Thomas** ::
 - Realize Vareth is the real villain
 - Break into Vareth's office, steal 125gp
 - Give it to Thomas, tell him to "find it" and pay Vareth
 - **Consequence:** High risk (DC 18 Stealth to succeed), if caught you're hunted, if successful you're Robin Hood
 - **Alignment:** Chaotic Good, vigilante justice
 
-**Option 6: Negotiate with Vareth**
+**Option 6: Negotiate with Vareth** ::
 - Return to Vareth, argue Thomas can't pay if he's broken (Persuasion DC 16)
 - Propose payment plan: Thomas pays 15gp/month for 9 months
 - Vareth accepts (he makes more on interest) if check succeeds
 - **Consequence:** Everyone satisfied, practical solution, you're now middleman for future payments
 - **Alignment:** Lawful Neutral, system-working mediator
 
-**Option 7: Kill Thomas, Fake Evidence of Payment**
+**Option 7: Kill Thomas, Fake Evidence of Payment** ::
 - Murder Thomas (makes it look like he paid and fled)
 - Forge evidence showing payment
 - Tell Vareth the debtor "paid and left town"
 - **Consequence:** 75gp profit, murder of innocent, daughter becomes orphan, you've become hitman
 - **Alignment:** Evil, sociopathic
 
-### **Returning to VARETH**
+### **Returning to Vareth**
 
 **Vareth's Response (varies by choice):**
 
-**If you collected by force:** *"Good work! I can always count on professionals. People need to learn—don't borrow what you can't repay. Here's your gold. Come back anytime—I always have collection jobs."*
+**If you collected by force:**   ::
+:
+{{description,note
+*"Good work! I can always count on professionals. People need to learn—don't borrow what you can't repay. Here's your gold. Come back anytime—I always have collection jobs."*
+}}
 
-**If you gave extension:** *"One month. That's it. If he doesn't pay then, I expect you to break both his legs. Understand? Good. Here's your base pay—you'll get the bonus when he pays."*
+**If you gave extension:**   ::
+:
+{{description,note
+*"One month. That's it. If he doesn't pay then, I expect you to break both his legs. Understand? Good. Here's your base pay—you'll get the bonus when he pays."*
+}}
 
-**If you negotiated installments:** *"A payment plan? Interesting. More interest for me, less immediate cash. But you're right—can't squeeze blood from corpse. You're thinking like a businessman. I appreciate that."*
+\page
 
-**If you paid his debt:** *"Debt's paid. I don't care who paid it. Here's your collection fee. Though I notice Thomas didn't sell his house... Interesting. Whatever. Not my concern."*
+**If you negotiated installments:** ::
+:
+{{description,note
+*"A payment plan? Interesting. More interest for me, less immediate cash. But you're right—can't squeeze blood from corpse. You're thinking like a businessman. I appreciate that."*
+}}
 
-### **Returning to VARAK**
+**If you paid his debt:**   ::
+:
+{{description,note
+*"Debt's paid. I don't care who paid it. Here's your collection fee. Though I notice Thomas didn't sell his house... Interesting. Whatever. Not my concern."*
+}}
 
-**Varak's Response:**
 
+### **Returning to Varak**
+
+**Varak's Response:** ::
+:
+{{description,note
 *"Client satisfied. Debt handled. You completed the contract. Whether you did it with fists or diplomacy or your own coin—doesn't matter to me. You fulfilled the terms. That's what matters. Iron Guild membership approved."*
+}}
 
-**If you showed mercy:**
-
+**If you showed mercy:** ::
+:
+{{description,note
 *"I'm hearing you went easy on the debtor. Soft, some would say. Others would say smart—hard to collect from a corpse. I'm in the second camp. Pragmatism beats brutality. Usually. Don't let it become a pattern—people will see you as weak."*
+}}
 
-**If you were brutal:**
-
+**If you were brutal:** ::
+:
+{{description,note
 *"You made an example of him. Message sent. Word's spreading—you're not someone to cross. That's good for business. Just remember: fear works until someone stops being afraid and starts being vengeful. Watch your back."*
+}}
 
 **Outcome:** ::
-- ✅ Iron Guild membership granted
-- 💰 Gold varies by choice (50-85gp, minus any you spent)
-- 📊 Reputation: Ruthless OR Merciful OR Mediator
-- 🎭 First major moral choice defines character
-
----
+- Iron Guild membership granted
+- Gold varies by choice (50-85gp, minus any you spent)
+- Reputation: Ruthless OR Merciful OR Mediator
+- First major moral choice defines character
 
 ### **Quest 1.1C: Caravan Guard**
 
@@ -774,27 +709,30 @@ Regardless of choice, PCs return to guild with rat tails (proof of completion).
 *Cassia Valen's wagon is parked near the town gate, loaded and ready. She's a sharp-featured woman in expensive traveling clothes, checking cargo lists with practiced efficiency. When you approach, she sizes you up with a merchant's eye—calculating your worth in gold.*
 
 *"Guild mercenaries? Good. I need guards for a simple escort. The cargo goes to Millford—twenty miles north. Standard bandit territory but nothing serious. We leave at dawn, arrive by dusk. Stay alert, keep the wagon safe, get paid. Simple enough for first-timers?"*
-
-**If PCs ask questions:**
-
-**"What's in the wagon?":** *"Textiles and spices. Trade goods. Boring stuff but valuable to me. Contents aren't your concern—your concern is keeping bandits away from it."*
-
-**"Why not hire cheaper guards?":** *"Because cheap guards let cargo get stolen. I'm paying for professionals. Don't make me regret it."*
-
-**"What kind of bandits?":** *"The usual kind. Desperate men with swords. Maybe 4-6 if you're unlucky. Nothing you can't handle if you're competent."*
-
-**"Payment terms?":** *"Half now, half on delivery. 30 gold now, 30 when we reach Millford safely. Non-negotiable."*
-
-**Investigation/Perception:** 
 }}
+
+**If PCs ask questions:** ::
+:
+**"What's in the wagon?":** *"Textiles and spices. Trade goods. Boring stuff but valuable to me. Contents aren't your concern—your concern is keeping bandits away from it."*
+:
+**"Why not hire cheaper guards?":** *"Because cheap guards let cargo get stolen. I'm paying for professionals. Don't make me regret it."*
+:
+**"What kind of bandits?":** *"The usual kind. Desperate men with swords. Maybe 4-6 if you're unlucky. Nothing you can't handle if you're competent."*
+:
+**"Payment terms?":** *"Half now, half on delivery. 30 gold now, 30 when we reach Millford safely. Non-negotiable."*
+:
+**Investigation/Perception:** 
 
 - **DC 13 Perception:** One crate is sealed with extra locks, different markings
 - **DC 15 Investigation:** The "textile" crates are heavier than they should be
 - **DC 18 Insight:** Cassia is nervous about something, not the usual merchant worry
 
+:
 **If PCs press about the special crate:**
-
+:
 *"That's my personal cargo. Private. Not your concern. You're being paid to protect the wagon, not ask questions. Are we clear?"*
+
+::
 
 ### **The Journey**
 
@@ -804,20 +742,23 @@ Regardless of choice, PCs return to guild with rat tails (proof of completion).
 ::
 {{description,note
 *The road north is well-traveled but lonely. Forests press close on both sides. Cassia drives the wagon in silence, eyes scanning the treeline. Morning passes without incident. Around midday, as you round a bend, you see them—six figures blocking the road ahead. Armed. Waiting.*
-
-**THE "BANDITS"**
-
-**Read Aloud:**
-
-*The leader steps forward—a woman in leather armor, sword drawn but lowered. Her voice is clear, official, commanding:*
-
-*"This is a Crown Inspection! By authority of the Kingdom of Thaldros, stop your vehicle and prepare for cargo search! We have reason to believe you're transporting illegal contraband!"*
-
-*Cassia's face goes pale. She mutters: "Shit. They know."*
-
-**The Truth:**
 }}
 
+**THE "BANDITS"** ::
+
+**Read Aloud:** ::
+::
+{{description,note
+*The leader steps forward—a woman in leather armor, sword drawn but lowered. Her voice is clear, official, commanding:*
+:
+*"This is a Crown Inspection! By authority of the Kingdom of Thaldros, stop your vehicle and prepare for cargo search! We have reason to believe you're transporting illegal contraband!"*
+:
+*Cassia's face goes pale. She mutters: "Shit. They know."*
+}}
+
+\page
+
+**The Truth:**
 
 These aren't bandits—they're **Thaldros Revenue Officers** (basically fantasy customs/drug enforcement):
 
@@ -832,17 +773,21 @@ These aren't bandits—they're **Thaldros Revenue Officers** (basically fantasy 
 - Will try to arrest peacefully first
 - Will fight if resisted
 
-**Officer Captain's Demand:**
-
+**Officer Captain's Demand:** ::
+::
+{{description,note
 *"Cassia Valen, you're under arrest for smuggling narcotics across kingdom borders. Mercenaries—stand down. You're not wanted for anything. Walk away now and there's no charges. Defend a smuggler and you're accessories. Choose wisely."*
+}}
 
-**Cassia's Plea:**
-
+**Cassia's Plea:** ::
+::
+{{description,note
 *"Don't listen to them! They're trying to steal my cargo! I'm paying you to protect it—that's the contract! Do your job!"*
+}}
 
-**the choice**
+**The Choice** ::
 
-**Option 1: Defend the Wagon (Fight)**
+**Option 1: Defend the Wagon (Fight)** ::
 - Fight 6 law enforcement officers
 - Combat (CR 4 encounter, deadly for level 1)
 - If you win: Cassia pays you, but you're now wanted for assaulting officers
@@ -850,28 +795,28 @@ These aren't bandits—they're **Thaldros Revenue Officers** (basically fantasy 
 - **Consequence:** 60gp, wanted status, contract honored, Cassia is ally
 - **Alignment:** Chaotic Neutral, "contract is contract"
 
-**Option 2: Surrender the Wagon (Betray Client)**
+**Option 2: Surrender the Wagon (Betray Client)** ::
 - Let officers arrest Cassia
 - Turn over the wagon
 - Officers thank you for cooperating
 - **Consequence:** No payment from Cassia (she's arrested), officers pay you 20gp "for your trouble," clean reputation with law, Cassia is enemy (if she escapes)
 - **Alignment:** Lawful Neutral, "law is law"
 
-**Option 3: Negotiate with Captain**
+**Option 3: Negotiate with Captain** ::
 - Persuasion DC 16: "Cassia wasn't fully honest with us about cargo. We're just hired guards. Let us walk away clean?"
 - Success: Captain lets PCs leave, arrests Cassia, no charges filed against you
 - Failure: Captain demands you help arrest Cassia or you're accessories
 - **Consequence:** No payment, but no criminal record, neutral outcome
 - **Alignment:** Neutral, self-preservation
 
-**Option 4: Help Cassia Escape**
+**Option 4: Help Cassia Escape** ::
 - Create distraction (Deception/Performance DC 14)
 - Cassia flees in confusion while officers focus on you
 - You surrender peacefully after she's gone
 - **Consequence:** Arrested briefly, fined 20gp, Cassia escapes and later rewards you 100gp secretly, you have friend in smuggling network
 - **Alignment:** Chaotic Good, help client without killing officers
 
-**Option 5: Bribe the Captain**
+**Option 5: Bribe the Captain** ::
 - Offer captain half the cargo value (~200gp worth of narcotics)
 - Persuasion DC 18 (risky—officer might be honorable)
 - Success: Captain takes bribe, lets everyone go
@@ -879,7 +824,7 @@ These aren't bandits—they're **Thaldros Revenue Officers** (basically fantasy 
 - **Consequence:** If successful, Cassia pays you double (120gp) for "thinking fast," you've corrupted law enforcement
 - **Alignment:** Chaotic Neutral, corruption
 
-**Option 6: Report Cassia to Varak**
+**Option 6: Report Cassia to Varak** ::
 - During journey, realize cargo is illegal
 - Stop the wagon, tell Cassia you're returning to Crossroads
 - Report her to Iron Guild for violating contract terms (she lied about cargo)
@@ -902,77 +847,95 @@ These aren't bandits—they're **Thaldros Revenue Officers** (basically fantasy 
 - If wagon is about to be taken, she destroys evidence (burns the special crate)
 - If captured, she blames PCs: "They knew! They were in on it!"
 
-### **Returning to VARAK**
+\page
+
+### **Returning to Varak**
 
 **Varak's Response (varies wildly by choice):**
 
-**If you fought officers:** *"You assaulted kingdom revenue officers for a smuggler? Brave or stupid—I haven't decided. The contract said protect the cargo. You did. Technically. But now you're wanted. That complicates future contracts. Hope the coin was worth it. Membership approved—but watch your back."*
+**If you fought officers:** ::
+:
+{{description,note
+*"You assaulted kingdom revenue officers for a smuggler? Brave or stupid—I haven't decided. The contract said protect the cargo. You did. Technically. But now you're wanted. That complicates future contracts. Hope the coin was worth it. Membership approved—but watch your back."*
+}}
 
-**If you betrayed Cassia:** *"You handed your client to the authorities. Pragmatic. Some clients won't hire you now—word spreads about mercenaries who turn on employers. But law-abiding clients will love you. Double-edged sword. Membership approved. Choose your reputation carefully."*
+**If you betrayed Cassia:**  ::
+:
+{{description,note
+*"You handed your client to the authorities. Pragmatic. Some clients won't hire you now—word spreads about mercenaries who turn on employers. But law-abiding clients will love you. Double-edged sword. Membership approved. Choose your reputation carefully."*
+}}
 
-**If you negotiated clean exit:** *"You survived without fighting and without betraying anyone. Smart. Neutral parties respect neutrality. You showed discretion. That's valuable. Membership approved."*
+**If you negotiated clean exit:**  ::
+:
+{{description,note
+*"You survived without fighting and without betraying anyone. Smart. Neutral parties respect neutrality. You showed discretion. That's valuable. Membership approved."*
+}}
 
-**If you helped her escape:** *"Cassia's gone. Officers are angry. But you didn't assault anyone and you didn't get caught. Clever. Cassia's leaving you dead drops with payments—she's grateful. You made an ally in the smuggling world. Useful. Membership approved."*
+**If you helped her escape:**  ::
+:
+{{description,note
+*"Cassia's gone. Officers are angry. But you didn't assault anyone and you didn't get caught. Clever. Cassia's leaving you dead drops with payments—she's grateful. You made an ally in the smuggling world. Useful. Membership approved."*
+}}
 
-**The Lesson:**
+**The Lesson:** ::
 
 Varak concludes (regardless of choice):
-
+:
+{{description,note
 *"You just learned a valuable lesson: clients lie. Always. The rat exterminator was fencing goods. The loan shark was a predator. The merchant was a smuggler. Everyone has an agenda. Your job isn't to judge—it's to decide what you can live with. Some mercenaries have lines they won't cross. Others don't. Figure out what kind you are before someone else figures it out for you."*
+}}
 
 **Outcome:** ::
-- ✅ Iron Guild membership (probably)
-- 💰 Gold varies wildly by choice (0-120gp)
-- 📊 Reputation: Law-Abiding OR Outlaw OR Neutral
-- 🎭 Learn that clients always lie
+- Iron Guild membership (probably)
+- Gold varies wildly by choice (0-120gp)
+- Reputation: Law-Abiding OR Outlaw OR Neutral
+- Learn that clients always lie
 
----
-
-## 🎖️ Iron Guild Membership
+## Iron Guild Membership
 
 After completing Quest 1.1, PCs receive Iron Guild membership (assuming they didn't catastrophically fail).
 
 ### **Membership Benefits:**
 
-**1. Guild Mark**
+**1. Guild Mark** ::
 - Iron brand on left wrist (or pendant if brand refused)
 - Identifies you as guild member
 - Killing guild member without contract = death sentence from guild
 
-**2. Barracks Access**
+**2. Barracks Access** ::
 - Free basic lodging at guild hall
 - Access to training yard
 - Common meals (not fancy, but free)
 
-**3. Contract Access**
+**3. Contract Access** ::
 - Private contract board (better jobs, higher pay)
 - Varak's network (he shares intel on clients)
 - Priority for high-value contracts
 
-**4. Protection**
+**4. Protection** ::
 - Guild backs its members
 - If someone attacks you without cause, guild investigates
 - Guild has your back legally (to a point)
 
-**5. Resources**
+**5. Resources** ::
 - Basic healing available (potions at cost)
 - Equipment maintenance at discount
 - Access to guild blacksmith
 
-**Membership Requirements:**
+**Membership Requirements:** ::
 
-**Dues:** 10% of all contract earnings, paid monthly  
+**Dues:** 10% of all contract earnings, paid monthly   ::
 **Rules:** ::
 - Honor contracts (break one = death)
 - Don't kill guild members without contract
 - Don't steal from guild members
 - Report major crimes to Varak (guild's reputation matters)
 
-**Consequences OF Breaking Rules:**
+**Consequences OF Breaking Rules:** ::
 
-**Minor Infractions:** Fine (50-200gp)  
-**Major Infractions:** Expulsion from guild  
-**Contract Breaking:** Death (guild sends hunters after you)
+**Minor Infractions:** Fine (50-200gp) ::  
+**Major Infractions:** Expulsion from guild ::
+**Contract Breaking:** Death (guild sends hunters after you) ::
 
 ### **Alternative: Decline Membership**
 
@@ -988,17 +951,19 @@ PCs can refuse guild membership if they want to stay independent.
 - Fewer contracts (no access to private board)
 - Higher risk (no backup if things go bad)
 
-**Varak's Response if Refused:**
+\page
 
+**Varak's Response if Refused:** ::
+:
+{{description,note
 *"Your choice. Some mercenaries prefer independence. Just remember—when someone puts a knife in your back, don't come crying to me. The guild protects its own. If you're not one of us, you're on your own. Door's always open if you change your mind—if you're still alive."*
+}}
 
----
-
-## ⏭️ Transition TO QUEST 1.2
+## Transition to Quest 1.2
 
 After completing Quest 1.1 and deciding on guild membership, the campaign enters a brief "downtime" phase (1-2 days in-game).
 
-**Downtime Activities:**
+**Downtime Activities:** ::
 
 PCs can spend this time:
 - Exploring Crossroads
@@ -1008,19 +973,19 @@ PCs can spend this time:
 - Rest and recovery
 - Establishing routines
 
-**Key NPCs to Meet:**
+**Key NPCs to Meet:** ::
 
-**Mira Copperstone** (information broker)
+**Mira Copperstone** (information broker) ::
 - Sells rumors: 5-50gp depending on value
 - Knows everyone's secrets
 - Can provide intel on future contracts
 
-**Captain Kael Darkwater** (rival recruiter)
+**Captain Kael Darkwater** (rival recruiter) ::
 - Approaches PCs in tavern
 - Offers to recruit them for Black Chains
 - Higher pay (15% dues) but ruthless reputation
 
-**"Granny" Helga** (fence)
+**"Granny" Helga** (fence) ::
 - Runs stall at Gray Market
 - Buys stolen goods, no questions
 - Sells illegal items (poisons, etc.)
@@ -1041,19 +1006,9 @@ After 1-2 days, Varak summons PCs to guild hall:
 *He turns to you.*
 
 *"Two clients. Same target. Different employers. Different pay. Different stories. Choose one. Or don't. But this is the business we're in."*
-
-**This begins Quest 1.2: The Price of Loyalty...**
 }}
 
-
----
-
-*End of Quest 1.1 - Full Detail*
-
-**Tokens Remaining: Substantial**  
-**Next: Quest 1.2 Full Detail (Coming Next)**
-
----
+**This begins Quest 1.2: The Price of Loyalty...**
 
 ## DM Guidance Notes
 
@@ -1071,16 +1026,18 @@ This quest teaches players the core themes of Blood & Coin:
 
 The key to running this quest well is **not judging player choices**. The DM should:
 
-✅ Present situations neutrally  
-✅ Show consequences (not punishments)  
-✅ Let PCs feel the weight of choices  
-✅ Respect different moral frameworks  
-✅ Track reputation changes for later use  
+- Present situations neutrally  
+- Show consequences (not punishments)  
+- Let PCs feel the weight of choices  
+- Respect different moral frameworks  
+- Track reputation changes for later use  
+:
+- Don't moralize at the table  
+- Don't punish "evil" choices mechanically  
+- Don't reward "good" choices artificially  
+- Don't railroad toward specific outcome  
 
-❌ Don't moralize at the table  
-❌ Don't punish "evil" choices mechanically  
-❌ Don't reward "good" choices artificially  
-❌ Don't railroad toward specific outcome  
+**DM Motto:** "I am neither judge nor jury, but a simple storyteller weaving your tale." - Jason "Mixologee" Scheponik
 
 ### **Pacing Notes**
 
@@ -1102,6 +1059,8 @@ The key to running this quest well is **not judging player choices**. The DM sho
 - Reduce rat count to 5-6
 - Give Thomas 50gp in goods he can pay with
 - Have officers be less competent fighters
+
+\page
 
 **If Party Dominates:** ::
 - Add 2-3 more rats
@@ -1129,15 +1088,9 @@ Track these for later quests:
 
 These will come back in Acts II and III!
 
----
 
-**Quest 1.1 Complete - Ready for DM Use**
 
-This quest alone is ~8,000 words of fully playable content. PCs will spend 1-2 sessions on it and learn everything they need to know about the campaign's tone.
-
----
-
-## 🎯 Quest 1.2: The PRICE OF LOYALTY
+## Quest 1.2: The PRICE OF LOYALTY
 
 **Level:** 2  
 **Duration:** 2-3 sessions  
@@ -14803,31 +14756,184 @@ If this goes bad, I don't know you.
 
 \page
 
-# 📜 CREDITS AND LEGAL
-
-## Map Assets
-Maps in this campaign include assets created by **DungeonQuill**.  
-**Credit:** Including assets created by DungeonQuill  
-**Link:** https://www.patreon.com/dungeonquill
-
-Maps created using **Dungeondraft** by Megasploot (https://dungeondraft.net/)
-
-## D&D Compatibility
-This product is compatible with the fifth edition of the world's greatest roleplaying game.
-
-This product is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. This product may use the fifth edition rules licensed under the Creative Commons Attribution 4.0 International License.
-
-## Acknowledgments
-- Playtesting by the Tirvandor Discord community
-- Special thanks to the Homebrewery team for their excellent tools
-- Art direction and campaign design by Jason "Mixologee" Scheponik
-
-**For complete legal information, see the main Tirvandor World Guide.**
+# Legal Notices and Licenses
 
 ---
 
+## Copyright Notice
+
+**TIRVANDOR: Blood & Coin Campaign Guide**
+
+© 2025 Jason "Mixologee" Scheponik. All rights reserved.
+
+This work contains original content created for the Tirvandor campaign setting. All original game mechanics, world lore, character names, place names, organization names, plot elements, and other creative content specific to Tirvandor are the intellectual property of Mixologee and are designated as Product Identity under the terms of the Open Game License v1.0a.
+
+---
+
+## System Reference Document Attribution
+
+This work includes material from the **System Reference Document 5.2 ("SRD 5.2")** by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2 is licensed under the **Creative Commons Attribution 4.0 International License**, available at https://creativecommons.org/licenses/by/4.0/legalcode.
+
+This product is compatible with fifth edition.
+
+Portions of this work that are derived from the SRD 5.2 are used under the terms of that Creative Commons license.
+
+---
+
+## Product Identity
+
+The following are designated as Product Identity under the Open Game License v1.0a and are not Open Game Content:
+
+### World Elements
+- The name "Tirvandor" and all references to the Tirvandor campaign setting
+- All proper names of locations, including but not limited to: Kaer Thandros, Goldreach, Silverpine, Aethermere, the Sundering Sea, the Contested Lands, Ironhold, and all settlement names
+- All proper names of regions: Thaldros, Aethoria, and their subdivisions
+
+\column
+
+### Organizations & Factions
+- The Iron Guild
+- The Thornwood Syndicate
+- The Silver Circle
+- The Iron Legion
+- All other faction names and organizational structures specific to Tirvandor
+
+### Characters & Deities
+- All character names appearing in this work, including NPCs and example characters
+- The Seven Ascended (Thandros, Aethor, Moira, Kael, Sera, Mordain, and Sylvara)
+- All deity names, domains, and mythologies specific to Tirvandor
+
+### Historical Events
+- The Worldrend
+- The Age of Chains
+- All timeline events and historical narratives specific to Tirvandor
+
+### Game Mechanics (Tirvandor-Specific)
+- All custom subclasses created for Tirvandor
+- All custom spells created for Tirvandor
+- Ley line magic system
+- All Tirvandor-specific magic items
+
+### Creative Elements
+- All artwork, maps, and illustrations included in this work
+- All narrative text, flavor text, and descriptive passages specific to Tirvandor
+- Plot hooks, adventure seeds, and campaign scenarios
+
+{{pageNumber,auto}}
 \page
 
+## Open Game Content
+
+All game mechanics derived from the SRD 5.2, including but not limited to:
+- Core character creation rules
+- Standard race mechanics (ability score increases, traits)
+- Standard class mechanics (hit points, proficiencies, class features)
+- Equipment statistics
+- Spell mechanics and descriptions from the SRD
+- Condition descriptions
+- Combat and skill check rules
+
+These elements are Open Game Content as defined by the Open Game License v1.0a, reproduced below.
+
+---
+
+## OPEN GAME LICENSE Version 1.0a
+
+The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
+
+### 1. Definitions
+
+**(a) "Contributors"** means the copyright and/or trademark owners who have contributed Open Game Content;
+
+**(b) "Derivative Material"** means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted;
+
+**(c) "Distribute"** means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute;
+
+**(d) "Open Game Content"** means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity;
+
+**(e) "Product Identity"** means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content;
+
+**(f) "Trademark"** means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor;
+
+**(g) "Use", "Used" or "Using"** means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content;
+
+**(h) "You" or "Your"** means the licensee in terms of this agreement.
+
+### 2. The License
+
+This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
+
+### 3. Offer and Acceptance
+
+By Using the Open Game Content You indicate Your acceptance of the terms of this License.
+
+### 4. Grant and Consideration
+
+In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.
+
+### 5. Representation of Authority to Contribute
+
+If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.
+
+### 6. Notice of License Copyright
+
+You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.
+
+{{pageNumber,auto}}{{pageNumber,auto}}
+\page
+
+### 7. Use of Product Identity
+
+You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
+
+### 8. Identification
+
+If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
+
+### 9. Updating the License
+
+Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
+
+### 10. Copy of this License
+
+You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
+
+### 11. Use of Contributor Credits
+
+You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
+
+### 12. Inability to Comply
+
+If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
+
+### 13. Termination
+
+This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License.
+
+### 14. Reformation
+
+If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+
+### 15. Copyright Notice
+
+**Open Game License v 1.0a** © 2000, Wizards of the Coast, Inc.
+
+**System Reference Document 5.1** © 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
+
+## End of License
+
+{{padding-top:750px}}
+{{homebreweryCredits
+Made With
+
+{{homebreweryIcon}}
+
+The Homebrewery  
+[Homebrewery.Naturalcrit.com](https://homebrewery.naturalcrit.com)
+}}
+
+{{pageNumber,auto}}
+\page
 {{backCover,wide}}
 
 # Blood & Coin
