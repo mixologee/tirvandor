@@ -2494,7 +2494,7 @@ Castor is furious:
 
 ### **Path D: COMPLETE CONTRACT (Deliver Her Head)**
 
-**If PCs kill Elara and deliver proof:**
+**If PCs kill Elara and deliver proof:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -2508,39 +2508,40 @@ Castor is furious:
 
 *Behind him, Varak watches you silently. His expression is unreadable. He knows what you did. He knows what it cost.*
 
-**Payment:**
+
 }}
 
+**Payment:** ::
 - 600gp total
 - Consortium is thrilled
 
-**Reputation:**
+**Reputation:** ::
 - +2 with Merchant Consortium (you're reliable killers)
 - +1 with wealthy clients (proven track record)
 - -3 with common folk (you killed their hero)
 - -2 with honest authorities (you killed legitimate heir)
 - Known as "Ruthless" or "Corporate Thugs"
 
-**Lingering Consequences:**
+**Lingering Consequences:** ::
 
-**Villagers remember:**
+**Villagers remember:** ::
 - Thornwood families hate you
 - Will not help you in future
 - Some might hire assassins (desperate revenge)
 
-**The Truth Spreads:**
+**The Truth Spreads:** ::
 - Within weeks, evidence of forgery surfaces
 - Kingdom launches investigation (too late for Elara)
 - Consortium members arrested
 - You helped them get away with murder just long enough
 
-**Moral Weight:**
+**Moral Weight:** ::
 - You killed a woman fighting for her family's justice
 - You protected corrupt merchants
 - You chose gold over righteousness
 - That's the job. That's what mercenaries do.
 
-**Varak'S Comment (Private):**
+**Varak'S Comment (Private):** ::
 
 {{description,note
 *"You completed the contract. Legally, perfectly, exactly as hired. That's professionalism.*
@@ -2551,8 +2552,6 @@ Castor is furious:
 
 *Contract complete. Next job?"*
 }}
-
----
 
 ## Aftermath & Rewards
 
@@ -2570,47 +2569,47 @@ PCs should reach **Level 4** after completing Quest 1.3.
 
 ### **Reputation Tracking**
 
-**If Helped Elara:**
+**If Helped Elara:** ::
 - Common Folk: +3
 - Nobles (honest): +1
 - Merchant Consortium: -5
 
-**If Killed Elara:**
+**If Killed Elara:** ::
 - Merchant Consortium: +3
 - Common Folk: -3
 - Nobles (corrupt): +1
 
 ### **Npc Outcomes**
 
-**If Elara Lives:**
+**If Elara Lives:** ::
 - Regains lands (if exposed consortium)
 - Flees to Aethoria (if faked death)
 - Remains fugitive (if truce failed)
 - Can be ally in Act II
 
-**If Elara Dies:**
+**If Elara Dies:** ::
 - Thornwood people scattered
 - Lands stay with consortium
 - Justice denied
 - Her death haunts the region
 
+\page
+
 ### **Long-Term Consequences (Act II)**
 
-**If Helped Elara:**
+**If Helped Elara:** ::
 - She provides safe house
 - Vouches for you to resistance movements
 - Can call in her aid later
 - You're known as "champions of the downtrodden"
 
-**If Killed Elara:**
+**If Killed Elara:** ::
 - Consortium trusts you with dirty work
 - Common folk distrust you
 - Survivors might seek revenge
 - You're known as "corporate enforcers"
 
----
-
-## 🎬 DM Guidance: QUEST 1.3
+## DM Guidance: QUEST 1.3
 
 ### **Key Themes**
 
@@ -2621,13 +2620,13 @@ PCs should reach **Level 4** after completing Quest 1.3.
 
 ### **Running the Investigation**
 
-**Don't Rush It:**
+**Don't Rush It:** ::
 - Let players investigate thoroughly
 - Reward creative information gathering
 - Make the truth gradually clear
 - Don't force a choice—let them discover
 
-**Present Both Sides Fairly:**
+**Present Both Sides Fairly:** ::
 - Consortium is legally right (owns deeds)
 - Elara is morally right (was defrauded)
 - Neither side is entirely innocent (people have died)
@@ -2635,14 +2634,14 @@ PCs should reach **Level 4** after completing Quest 1.3.
 
 ### **The Moral Dilemma**
 
-**This works because:**
+**This works because:** ::
 - Elara is ACTUALLY being oppressed (not paranoid)
 - Consortium ACTUALLY committed fraud (not misunderstood)
 - But Elara IS breaking the law (regardless of reason)
 - And people HAVE died (violence has consequences)
 - There's no "clean" solution
 
-**What players might debate:**
+**What players might debate:** ::
 - "Is revenge justice?"
 - "Do bad laws deserve to be followed?"
 - "Is property theft okay if the property was stolen first?"
@@ -2650,48 +2649,44 @@ PCs should reach **Level 4** after completing Quest 1.3.
 
 ### **Combat Adjustments**
 
-**If Party Struggles:**
+**If Party Struggles:** ::
 - Reduce Thornwood fighters to 4
 - Elara has 50 HP instead of 70
 - Fighters surrender sooner
 
-**If Party Dominates:**
+**If Party Dominates:** ::
 - Add 2 more veteran fighters
 - Elara has 90 HP
 - She has magic item (Ring of Protection)
 
 ### **Non-Combat Resolution**
 
-**Heavily reward players who find non-violent solutions:**
+**Heavily reward players who find non-violent solutions:** ::
 - Faking death is clever (give inspiration)
 - Exposing corruption is heroic (reputation bonus)
 - Trial by combat is dramatic (fun side quest)
 
 ### **The Weight of Choice**
 
-**However players resolve this:**
+**However players resolve this:** ::
 - Show consequences (NPCs react)
 - Track reputation changes
 - Let them feel the weight
 - Don't punish—just show impact
 
-**If they killed Elara:**
+**If they killed Elara:** ::
 - Don't shame them
 - Show aftermath (refugees scattered, hope lost)
 - Let them sit with that choice
 - That's the campaign
 
-**If they saved Elara:**
+**If they saved Elara:** ::
 - Don't make it easy
 - Consortium is angry
 - You've made powerful enemies
 - That's the campaign too
 
----
-
-**Quest 1.3 Complete - 7,500+ Words**
-
-**NPCs to Add to Compendium:**
+**NPCs to Add to Compendium:** ::
 - Castor Goldweave (Merchant Lord, Noble stats)
 - Captain Willem Hartstone (Veteran, has conscience)
 - Elara Thornwood / Red Wolf (CR 7)
@@ -2699,18 +2694,15 @@ PCs should reach **Level 4** after completing Quest 1.3.
 - Old Mira (Villager, information source)
 - Thornwood Fighters (Guards, loyal retainers)
 
-**Items to Track:**
+**Items to Track:** ::
 - Elara's Longsword +1 (if looted from her corpse)
 - Evidence of Consortium fraud (plot item)
 - Wolf pelt cloak (signature item)
 
-**Next: Quest 1.4 - The Neutral Ground (Guild War)**
 
----
+**DM Note:** The following section provides design philosophy and DMing guidance for Quest 1.3. ::
 
-{{note
-**DM Note:** The following section provides design philosophy and DMing guidance for Quest 1.3.
-}}
+\page
 
 ## Quest 1.3 - DM Guidance
 
@@ -2718,14 +2710,14 @@ PCs should reach **Level 4** after completing Quest 1.3.
 
 This quest is about **moral complexity in systems**:
 
-**The Dilemma:**
+**The Dilemma:** ::
 - Elara is legitimately wronged (fraud victim)
 - But she's also committed crimes (robbery, assault)
 - Consortium legally owns the land (corrupt process, but legal)
 - But their ownership is based on fraud
 - **Who's right? Who's wrong? Both? Neither?**
 
-**The Test:**
+**The Test:** ::
 - Will PCs follow contracts blindly?
 - Will they break contracts for "righteousness"?
 - Can they find middle ground?
@@ -2733,7 +2725,7 @@ This quest is about **moral complexity in systems**:
 
 ### **Key DMing Points**
 
-**1. Present Both Sides Fairly**
+**1. Present Both Sides Fairly** ::
 
 Don't make Consortium cartoonishly evil or Elara saintly:
 - Consortium genuinely believes business is business
@@ -2741,7 +2733,7 @@ Don't make Consortium cartoonishly evil or Elara saintly:
 - Both have blood on their hands
 - Both have valid arguments
 
-**2. Respect All Choices**
+**2. Respect All Choices** ::
 
 Every option in this quest is valid:
 - Killing Elara for profit? Valid (mercenary thinking)
@@ -2749,7 +2741,7 @@ Every option in this quest is valid:
 - Staying neutral? Valid (self-preservation)
 - Getting creative? Valid (problem-solving)
 
-**3. Consequences Matter**
+**3. Consequences Matter** ::
 
 Whatever PCs choose has lasting effects:
 - Break contract? Guild suspends you
@@ -2757,7 +2749,7 @@ Whatever PCs choose has lasting effects:
 - Help Elara? Merchants remember
 - Play both sides? Everyone remembers
 
-**4. No Correct Answer**
+**4. No Correct Answer** ::
 
 This quest has no "right" choice, only consequences:
 - Players should debate this
@@ -2767,13 +2759,13 @@ This quest has no "right" choice, only consequences:
 
 ### **Difficulty Adjustments**
 
-**If Party Struggling:**
+**If Party Struggling:** ::
 - Reduce Elara's follower count (15 instead of 25)
 - Give more obvious clues about the fraud
 - Make Consortium more obviously evil
 - Offer easier Persuasion DCs
 
-**If Party Dominating:**
+**If Party Dominating:** ::
 - Add more followers to Elara's force
 - Make Consortium more sympathetic (they didn't know about fraud)
 - Add time pressure (Consortium sends second mercenary team)
@@ -2783,43 +2775,45 @@ This quest has no "right" choice, only consequences:
 
 Elara should be **complex, not simple**:
 
-**She's not a victim:**
+**She's not a victim:** ::
 - She chose this path
 - She's killed people
 - She's a rebel, not a martyr
 
-**She's not a villain:**
+**She's not a villain:** ::
 - She's fighting for justice
 - She protects her people
 - She's willing to talk before fighting
 
-**She's human:**
+**She's human:** ::
 - Tired of running
 - Wants her home back
 - Knows she might lose
 - Appreciates honesty
 
-**Key Dialogue Beats:**
+**Key Dialogue Beats:** ::
 
 *"I'm not asking you to be heroes. I'm asking you to not be murderers."*
-
+:
 *"You think I wanted this? I had a castle. A title. A future. The Consortium took that. So I took it back, one caravan at a time."*
-
+:
 *"Kill me if you want. But know what you're doing—you're helping rich men stay rich by killing the people they stole from."*
 
 ### **Common Player Questions**
 
-**"Is there a legal solution?"**
+**"Is there a legal solution?"** ::
 Yes, but very difficult (DC 18+ checks, weeks of time, corrupt officials)
 
-**"Can we blackmail the Consortium with evidence?"**
+**"Can we blackmail the Consortium with evidence?"** ::
 Absolutely! Creative solution rewarded.
 
-**"What if we just take the evidence and sell it to highest bidder?"**
+**"What if we just take the evidence and sell it to highest bidder?"** ::
 Chaotic Neutral option—both sides might pay to suppress it.
 
-**"Can we take over the territory ourselves?"**
+**"Can we take over the territory ourselves?"** ::
 Technically yes, but requires army/resources PCs don't have at level 3.
+
+\page
 
 ### **This Quest Tests:**
 
@@ -2828,36 +2822,23 @@ Technically yes, but requires army/resources PCs don't have at level 3.
 - **System vs. Justice** - Can legal be wrong?
 - **Pragmatism vs. Idealism** - Where's the line?
 
----
-
-**Quest 1.3 Complete - ~5,500 Words**
-
-**Total Act I Content So Far: ~16,800 Words**
-
-**NPCs to Add:**
+**NPCs to Add:** ::
 - Elara Thornwood / Red Wolf (Bandit Captain, enhanced)
 - Guildmaster Henrik Voss (Noble, coward)
 - Grandmother Petra (Commoner)
 - Elara's Veterans (5x Veteran)
 - Elara's Followers (20x Bandit)
 
-**Items:**
+**Items:** ::
 - Elara's Family Evidence (plot item)
 - Elara's Longsword +1 (if killed)
 - Thornwood Signet Ring (if allied)
 
-**Next Up: Quest 1.4 - The Black Ledger**
 
+## Quest 1.4: The Black Ledger
 
-\page
+### Blood & Coin Campaign - Act I Climax
 
-{{wide
-# Quest 1.4: The Black Ledger
-}}
-
-## Blood & Coin Campaign - Act I Climax
-
-![The Black Ledger Discovery](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-black-ledger.png){width:100%,mix-blend-mode:multiply}
 
 **Level:** 4  
 **Duration:** 2-3 sessions  
@@ -2889,59 +2870,62 @@ After Quest 1.3, the Iron Guild has noticed the Merchant Consortium's activities
 *"Payment is 750 gold. But more importantly—you do this, you're not just guild members. You're family."*
 }}
 
+![The Black Ledger Discovery](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-black-ledger.png){width:100%,mix-blend-mode:multiply}
 
 ### Lord Pembroke's Estate
 
-**Location:** Three days from Crossroads, in the Heartlands  
-**Description:** A fortified manor house with extensive grounds, private guard force, and several layers of security
+**Location:** Three days from Crossroads, in the Heartlands  ::
+**Description:** A fortified manor house with extensive grounds, private guard force, and several layers of security ::
 
-**External Defenses:**
+**External Defenses:** ::
 - Stone wall (15 feet high, DC 18 Athletics to climb)
 - Patrol route (8 guards, rotation every 2 hours)
 - Guard dogs (4 trained mastiffs)
 - Magical alarm on main gates
 
-**Internal Layout:**
+**Internal Layout:** ::
 
-**Ground Floor:**
+**Ground Floor:** ::
 - Great Hall (entertaining, often has guests)
 - Kitchens (servant access, back entrance)
 - Guard Barracks (12 guards rotate here)
 - Servant Quarters
 
-**Upper Floor:**
+**Upper Floor:** ::
 - Lord's Chambers
 - Guest Rooms
 - Study (decoy documents)
 
-**Vault Level (Basement):**
+\page
+
+**Vault Level (Basement):** ::
 - Wine Cellar (secret entrance behind wine rack - DC 18 Investigation)
 - Treasury (gold, gems - heavily trapped)
 - Archives (Black Ledger location)
 
 ### Infiltration Options
 
-**Option 1: Social Engineering**
+**Option 1: Social Engineering** ::
 - Obtain invitations to Pembroke's upcoming gala (Persuasion DC 16)
 - Pose as merchants, entertainers, or servants
 - Requires appropriate disguises and cover stories
 - Advantage: Access to ground floor legally
 - Disadvantage: Limited time, heavy scrutiny
 
-**Option 2: Stealth Entry**
+**Option 2: Stealth Entry** ::
 - Scale walls, avoid patrols, enter through servant entrance or windows
 - Requires multiple Stealth checks (DC 14-18)
 - Advantage: Flexibility, no time limit
 - Disadvantage: High risk of combat if detected
 
-**Option 3: Inside Help**
+**Option 3: Inside Help** ::
 - Contact disgruntled servant Mira (hates Pembroke for firing her sister)
 - Persuasion DC 12 to convince her; DC 16 for full cooperation
 - Provides: Guard schedules, vault location, secret entrance
 - Advantage: Reliable intelligence
 - Disadvantage: Creates witness
 
-**Option 4: The Direct Approach**
+**Option 4: The Direct Approach** ::
 - Create distraction (fire, fight, false emergency)
 - Storm estate during chaos
 - Advantage: Simplicity
@@ -2949,18 +2933,19 @@ After Quest 1.3, the Iron Guild has noticed the Merchant Consortium's activities
 
 ### The Complication: Whisper
 
-{{note
-**Master Thief "Whisper"**
 
+**Master Thief "Whisper"** ::
 Another party is after the same prize. Whisper is a legendary halfling thief hired by a rival noble house. The party will encounter her during the heist.
-}}
 
-**Encounter Trigger:** When party reaches the vault level, they find:
+
+**Encounter Trigger:** When party reaches the vault level, they find: ::
 - Fresh lockpicks in the wine cellar door
 - A guard unconscious (not dead—Whisper doesn't kill)
 - A small calling card: a silver feather
 
-**When They Meet Whisper:**
+\column
+
+**When They Meet Whisper:** ::
 
 {{description,note
 *The vault door is already open. Inside, a small figure in dark leather is photographing documents with some kind of magical device. She freezes when she sees you, then relaxes.*
@@ -2970,28 +2955,27 @@ Another party is after the same prize. Whisper is a legendary halfling thief hir
 *She doesn't reach for her weapons.*
 
 *"We have a problem. There's one ledger and two groups who want it. We can fight—I'll probably win, but you might get lucky—or we can negotiate. Your call."*
-
-**Whisper's Proposal:**
 }}
 
+**Whisper's Proposal:** ::
 - She needs the financial records (different section)
 - PCs need the bribery/corruption evidence
 - Ledger can be split—each gets what they need
 - She'll share guard intel and help them escape
 
-**If Combat:** Use Master Thief "Whisper" stat block (CR 5)
+**If Combat:** Use Master Thief "Whisper" stat block (CR 5) ::
 - Will flee if reduced to half HP
 - Won't kill unconscious PCs (professional courtesy)
 - If she escapes, becomes recurring rival/ally
 
-**If Negotiation:** Alliance of convenience
+**If Negotiation:** Alliance of convenience ::
 - Both parties get evidence
 - Whisper provides escape route through servants' tunnel
 - May become contact for future jobs
 
 ### The Black Ledger
 
-**Contents Include:**
+**Contents Include:** ::
 - Bribery records for 7 magistrates
 - Forged land deeds (including Thornwood seizure)
 - List of "disappeared" witnesses
@@ -2999,31 +2983,33 @@ Another party is after the same prize. Whisper is a legendary halfling thief hir
 - Connection to Crown officials (minor)
 - Tax fraud documentation
 
-**If PCs Read It:**
+**If PCs Read It:** ::
 - Insight DC 14: This implicates powerful people
 - History DC 16: One name is a Thandris cousin
 - Investigation DC 18: There's a code—more secrets buried
 
 ### Escape and Consequences
 
-**If Alarm Raised:**
+**If Alarm Raised:** ::
 - 4 rounds until full guard response (24 guards)
 - Lord Pembroke retreats to safe room, calls for Crown intervention
 - 10 rounds until magical reinforcements (2 war mages)
 
-**Clean Escape Rewards:**
+\page
+
+**Clean Escape Rewards:** ::
 - 750gp guild payment
 - Black Ledger (plot item)
 - Guild reputation: "Professionals"
 - Whisper as potential contact (+/--)
 
-**Messy Escape Consequences:**
+**Messy Escape Consequences:** ::
 - Pembroke knows who did it (or suspects)
 - Bounty on party's heads (500gp each)
 - Crown attention (minor)
 - Guild disappointed but pays
 
-**If Party Killed Guards:**
+**If Party Killed Guards:** ::
 - Families demand blood price
 - Crown actively hunting them
 - Guild distances itself temporarily
@@ -3031,7 +3017,7 @@ Another party is after the same prize. Whisper is a legendary halfling thief hir
 
 ### Quest Resolution
 
-**Return to Varak:**
+**Return to Varak:** ::
 
 {{description,note
 *Varak takes the ledger, flips through it. His face goes pale, then angry, then calculating.*
@@ -3044,42 +3030,36 @@ Another party is after the same prize. Whisper is a legendary halfling thief hir
 
 *"Congratulations. You've made powerful enemies. But you've also made powerful friends. The Iron Guild won't forget this."*
 
-**Aftermath Seeds:**
+
 }}
 
+**Aftermath Seeds:** ::
 - Marcus Blackwood contacts party (Quest 1.5 hook)
 - Pembroke's allies begin moving against the guild
 - One magistrate commits suicide rather than face trial
 - Consortium leaders flee or go underground
 
-**Level Up:** PCs should reach Level 5 after Quest 1.4.
+**Level Up:** PCs should reach Level 5 after Quest 1.4. ::
 
----
+![The Trial](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-trial.png){width:91%,mix-blend-mode:multiply}
 
-\page
-
-{{wide
-# Quest 1.5: The Trial
-}}
+## Quest 1.5: The Trial
 
 ## Blood & Coin Campaign - Act I Finale
 
-![The Trial](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-trial.png){width:100%,mix-blend-mode:multiply}
+**Level:** 5 ::
+**Duration:** 2-3 sessions   ::
+**Objective:** Navigate Marcus Blackwood's trial—choose justice, corruption, or chaos   ::
+**Key NPCs:** Marcus Blackwood, Magistrate Helena Ravens, Lord Pembroke (surviving)   ::
+**Rewards:** Variable based on choices (500-1,500gp) + Act II positioning   ::
+**Theme:** "Justice is what the powerful say it is—unless someone fights back" ::
 
-**Level:** 5  
-**Duration:** 2-3 sessions  
-**Objective:** Navigate Marcus Blackwood's trial—choose justice, corruption, or chaos  
-**Key NPCs:** Marcus Blackwood, Magistrate Helena Ravens, Lord Pembroke (surviving)  
-**Rewards:** Variable based on choices (500-1,500gp) + Act II positioning  
-**Theme:** "Justice is what the powerful say it is—unless someone fights back"
-
----
 
 ### Quest Setup
 
 Two weeks after the Pembroke heist. The Black Ledger has caused chaos—arrests, accusations, counter-accusations. And now Marcus Blackwood, the refugee leader the party may have helped in earlier quests, has been arrested on trumped-up charges.
 
-**The Summons:**
+**The Summons:** ::
 
 {{description,note
 *You receive a formal letter sealed with the Iron Guild's mark:*
@@ -3093,38 +3073,40 @@ Two weeks after the Pembroke heist. The Black Ledger has caused chaos—arrests,
 
 ### Marcus Blackwood's Situation
 
-**The Charges:**
+**The Charges:** ::
 - Murder (three Consortium guards during refugee defense)
 - Theft (stealing food for starving refugees)
 - Sedition (speaking against the Crown's refugee policies)
 - Conspiracy (organizing refugee resistance)
 
-**The Truth:**
+**The Truth:** ::
 - Murder: Self-defense, but witnesses "disappeared"
 - Theft: Technically true, but from abandoned Consortium warehouse
 - Sedition: He criticized policies, never advocated violence
 - Conspiracy: He organized mutual aid, not rebellion
 
-**The Real Reason:**
+**The Real Reason:** ::
 Marcus uncovered evidence linking the Consortium to land fraud during his own family's displacement. He's too dangerous to let live. The trial is a formality—they intend to execute him.
+
+\page
 
 ### The Three Days Before Trial
 
-**Day 1: Investigation**
+**Day 1: Investigation** ::
 
 PCs can gather evidence, find witnesses, or dig into the charges.
 
-**Evidence Opportunities:**
+**Evidence Opportunities:** ::
 - Consortium Warehouse Records (proving food was abandoned) - DC 14 Investigation
 - Guard Captain's Personal Notes (showing self-defense context) - DC 16 Stealth or Persuasion
 - Witness Survivors (refugees who saw the fight) - DC 12 Persuasion, but witnesses are terrified
 - Prosecutor's Bribery (following money trail) - DC 18 Investigation
 
-**Day 2: Alliances**
+**Day 2: Alliances** ::
 
 PCs can approach various factions for support.
 
-**Potential Allies:**
+**Potential Allies:** ::
 | Faction | Approach | DC | Benefit |
 |---------|----------|----|---------| 
 | Iron Guild | Request formal support | 12 | Character witnesses, legal advisor |
@@ -3133,16 +3115,16 @@ PCs can approach various factions for support.
 | The Press | Leak story | 15 | Public pressure, harder to bury verdict |
 | Whisper | If previous ally | 10 | Dirt on prosecutor |
 
-**Potential Enemies:**
+**Potential Enemies:** ::
 - Consortium lawyers (will target PCs if they testify)
 - Lord Pembroke (if survived heist, seeking revenge)
 - Crown officials named in ledger (want this quiet)
 
-**Day 3: Preparation**
+**Day 3: Preparation** ::
 
 Final preparations and possible last-minute discoveries.
 
-**DM Choice - Add Complication:**
+**DM Choice - Add Complication:** ::
 1. Marcus's family is threatened—testify and they die
 2. Prosecutor has forged evidence against a PC
 3. Whisper offers to "remove" the prosecutor (creates moral dilemma)
@@ -3150,23 +3132,23 @@ Final preparations and possible last-minute discoveries.
 
 ### The Trial
 
-**Location:** Crossroads Courthouse (unusual—should be in Kaer Thandros, but emergency jurisdiction claimed)
+**Location:** Crossroads Courthouse (unusual—should be in Kaer Thandros, but emergency jurisdiction claimed) ::
 
-**Key NPCs Present:**
+**Key NPCs Present:** ::
 
-**Magistrate Helena Ravens**
+**Magistrate Helena Ravens** ::
 - *Alignment:* Lawful Neutral (truly)
 - *Demeanor:* Cold, professional, incorruptible
 - *Secret:* Respects rule of law absolutely—if evidence proves innocence, she'll rule fairly regardless of pressure
 - *Key Trait:* Hates corruption more than she fears consequences
 
-**Prosecutor Aldric Stone**
+**Prosecutor Aldric Stone** ::
 - *Alignment:* Lawful Evil
 - *Demeanor:* Polished, confident, condescending
 - *Secret:* Paid 5,000 gold by Consortium; will lie, manipulate, suppress evidence
 - *Vulnerability:* Arrogant—can be goaded into mistakes (DC 18 Insight to spot)
 
-**Marcus Blackwood** (defendant)
+**Marcus Blackwood** (defendant) ::
 - *Demeanor:* Resigned but dignified
 - *Secret:* Would rather die honorably than escape and prove them right
 - *If PCs visit:* "Don't risk yourselves for me. But if you must—find my family's deed. The original. It proves the Consortium's first lie."
@@ -3175,44 +3157,46 @@ Final preparations and possible last-minute discoveries.
 
 The trial unfolds over multiple rounds. PCs can take actions to influence the outcome.
 
-**Jury Disposition Track:**
+**Jury Disposition Track:** ::
 Starting at 0 (neutral). Ranges from -10 (guilty) to +10 (innocent).
 
-**PC Actions Per Round:**
+**PC Actions Per Round:** ::
 - **Present Evidence:** Appropriate check + quality of evidence (+1 to +3 per success)
 - **Discredit Witness:** Insight/Investigation to spot lies, then Persuasion to expose (-1 to prosecutor's evidence)
 - **Testify:** Persuasion check; DC depends on claims (+1 to +2)
 - **Object:** If prosecutor breaks procedure, Insight DC 16 to notice, then argument to force correction
 - **Disrupt:** Intimidation or Deception for short-term gains but risks contempt charges
 
-**Prosecution Strategy:**
+**Prosecution Strategy:** ::
 - Round 1: Present murder charges with paid witnesses
 - Round 2: Introduce "stolen" documents (forged)
 - Round 3: Character assassination (Marcus's past)
 - Round 4: Closing argument emphasizing "danger to society"
 
-**Defense Opportunities:**
+**Defense Opportunities:** ::
 - Counter witness testimony with refugee witnesses
 - Expose forged documents (if found evidence)
 - Present self-defense context
 - Reveal Consortium's real motives (Black Ledger content)
 
+\page
+
 ### Verdict and Consequences
 
-**If Jury Score ≥ +5: ACQUITTAL**
+**If Jury Score ≥ +5: ACQUITTAL** ::
 - Marcus freed, charges dismissed
 - Consortium publicly humiliated
 - Prosecutor disbarred (if bribery exposed)
 - PCs gain: 1,500gp (grateful allies), Marcus as contact, reputation as "incorruptible"
 - Consequence: Consortium doubles down on revenge
 
-**If Jury Score -4 to +4: HUNG JURY**
+**If Jury Score -4 to +4: HUNG JURY** ::
 - Trial delayed, Marcus imprisoned pending retrial
 - Neither side wins, tension mounts
 - PCs can attempt prison rescue or wait for retrial
 - Consequence: Uncertainty continues into Act II
 
-**If Jury Score ≤ -5: CONVICTION**
+**If Jury Score ≤ -5: CONVICTION** ::
 - Marcus sentenced to death (execution in 1 week)
 - PCs can accept result or attempt rescue
 - If accepted: Guild respects "pragmatism," Consortium pleased
@@ -3220,26 +3204,26 @@ Starting at 0 (neutral). Ranges from -10 (guilty) to +10 (innocent).
 
 ### Alternative Paths
 
-**The Escape**
+**The Escape** ::
 If PCs choose to break Marcus out instead of trial:
 - Courthouse security: 12 guards, 1 mage
 - Prison security: 8 guards, 2 veterans
 - Success requires: Stealth (DC 16), or combat, or inside help
 - Consequence: Bounty on Marcus AND party, but he lives
 
-**The Assassination**
+**The Assassination** ::
 If PCs choose to kill the prosecutor:
 - Whisper can arrange (5,000gp or future favor)
 - Removes prosecution, trial collapses
 - Consequence: Murder investigation, PCs suspected, moral weight
 
-**The Bribe**
+**The Bribe** ::
 If PCs try to buy the judge:
 - Helena Ravens is incorruptible—attempt auto-fails and offends her
 - Can bribe prosecutor to throw case (10,000gp)
 - Can bribe witnesses to recant (500gp each, need 3)
 
-**The Truth**
+**The Truth** ::
 If PCs reveal everything—Black Ledger, Consortium crimes, all of it:
 - Trial becomes spectacle
 - Other defendants emerge
@@ -3248,7 +3232,7 @@ If PCs reveal everything—Black Ledger, Consortium crimes, all of it:
 
 ### Quest Resolution
 
-**Post-Trial Scene (any outcome):**
+**Post-Trial Scene (any outcome):** ::
 
 {{description,note
 *Varak meets you outside the courthouse. His face is unreadable.*
@@ -3264,31 +3248,25 @@ If PCs reveal everything—Black Ledger, Consortium crimes, all of it:
 *"You did good work. Messy, maybe. Complicated, definitely. But good. See you when the world changes."*
 }}
 
----
+**ACT I COMPLETE** ::
 
-**ACT I COMPLETE**
+**Level:** PCs should be Level 5   ::
+**Time Skip:** Six months pass before Act II   ::
+**Transition:** Quest 2.1 opens with faction recruiters approaching ::
 
-**Level:** PCs should be Level 5  
-**Time Skip:** Six months pass before Act II  
-**Transition:** Quest 2.1 opens with faction recruiters approaching
-
-**Act I Summary:**
+**Act I Summary:** ::
 - PCs established themselves as competent, morally flexible professionals
 - Made allies and enemies among Crossroads power structures
 - Uncovered (or ignored) Consortium corruption
 - Shaped the fate of several NPCs (Elara, Marcus, etc.)
 - Their choices echo into Act II's political landscape
 
-**Key Decisions That Carry Forward:**
+**Key Decisions That Carry Forward:** ::
 - Did they kill or spare Elara (Quest 1.3)?
 - Did they ally with or fight Whisper (Quest 1.4)?
 - Did they save or abandon Marcus (Quest 1.5)?
 - How did they handle the Black Ledger evidence?
 - What's their reputation: mercenaries, heroes, or something in between?
-
----
-
-\page
 
 \page
 
