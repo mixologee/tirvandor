@@ -1931,24 +1931,22 @@ A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak 
 
 ### **Client PRESENTATION**
 
-**NPC: Merchant Lord Castor Goldweave**
-
-![Merchant Lord Castor Goldweave](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-castor-goldweave.jpg){width:200px,float:right,margin-left:10px}
+**NPC: Merchant Lord Castor Goldweave** ::
 
 *Medium humanoid (human), lawful evil (thinks he's lawful neutral)*
 
-**Appearance:** 50s, overweight, gold rings, expensive silk clothing, oily smile, calculating eyes
+**Appearance:** 50s, overweight, gold rings, expensive silk clothing, oily smile, calculating eyes ::
 
-**Personality:**
+**Personality:** ::
 - Greedy but not stupid
 - Sees people as profit margins
 - Hides behind "legitimate business"
 - Actually corrupt but legal
 - Believes money justifies everything
 
-**Stats:** Use **Noble** (CR 1/8), will never fight
+**Stats:** Use **Noble** (CR 1/8), will never fight ::
 
-**Castor's Pitch:**
+**Castor's Pitch:** ::
 
 {{description,note
 *"Gentlemen, ladies, let me explain the situation. For three months, a bandit calling herself 'Red Wolf' has terrorized the Thornwood trade route. She's stolen over 5,000 gold pieces worth of merchandise. Attacked twelve caravans. Three guards are dead.*
@@ -1960,22 +1958,21 @@ A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak 
 *The Thornwood Forest is her territory. She strikes at night. She has maybe twenty bandits with her. Former soldiers, we think. Disciplined. Dangerous.*
 
 *Questions?"*
-
-**If PCs ask questions:**
-
-**"Why so much gold for one bandit?":** *"Because she's cost us ten times that! And she's organized—this isn't some desperate peasant. She's military-trained, tactical, effective. Worth the price to eliminate her."*
-
-**"Who is she?":** *"Some disgraced noble, we hear. Calls herself 'Red Wolf' but rumors say her real name is Elara Thornwood—used to own the forest before... well, before she lost it."*
-
-**"Lost it how?":** *"Legal disputes. Debts. Foreclosure. Not our concern—we bought the trade rights legally. But she apparently disagrees with the courts."*
-
-**"What if she surrenders?":** *"We want her dead. She's a symbol now—other would-be bandits are watching. If she surrenders and walks away, we look weak. Make her disappear."*
-
-**"What about her followers?":** *"Kill them, scare them off, we don't care. Just make sure Red Wolf doesn't come back."*
-
 }}
 
-**Insight DC 14:** Castor is hiding something. He's nervous about PCs investigating too closely.
+**If PCs ask questions:** ::
+
+**"Why so much gold for one bandit?":** *"Because she's cost us ten times that! And she's organized—this isn't some desperate peasant. She's military-trained, tactical, effective. Worth the price to eliminate her."* ::
+
+**"Who is she?":** *"Some disgraced noble, we hear. Calls herself 'Red Wolf' but rumors say her real name is Elara Thornwood—used to own the forest before... well, before she lost it."* ::
+
+**"Lost it how?":** *"Legal disputes. Debts. Foreclosure. Not our concern—we bought the trade rights legally. But she apparently disagrees with the courts."* ::
+
+**"What if she surrenders?":** *"We want her dead. She's a symbol now—other would-be bandits are watching. If she surrenders and walks away, we look weak. Make her disappear."* ::
+
+**"What about her followers?":** *"Kill them, scare them off, we don't care. Just make sure Red Wolf doesn't come back."* ::
+
+**Insight DC 14:** Castor is hiding something. He's nervous about PCs investigating too closely. ::
 
 **Insight DC 18:** He specifically wants her dead quickly—before she can talk to authorities or make a public case.
 
@@ -1987,18 +1984,18 @@ A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak 
 
 *Medium humanoid (human), lawful neutral*
 
-**Appearance:** 40s, military bearing, scarred face, practical armor, weary eyes
+**Appearance:** 40s, military bearing, scarred face, practical armor, weary eyes ::
 
-**Personality:**
+**Personality:** ::
 - Former soldier, now mercenary captain
 - Works for merchants but uncomfortable with it
 - Honor-bound but pragmatic
 - Knows something is wrong but needs the money
 - Will help PCs if approached right
 
-**Stats:** Use **Veteran** (CR 3)
+**Stats:** Use **Veteran** (CR 3) ::
 
-**If PCs approach Willem privately:**
+**If PCs approach Willem privately:** ::
 
 {{description,note
 *Willem glances at the merchants to make sure they're not listening. He speaks quietly:*
@@ -2020,8 +2017,10 @@ A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak 
 *You do the math."*
 
 }}
-
+:
 **Insight DC 12:** Willem is telling the truth. He genuinely believes the Thornwood family was cheated.
+
+\page
 
 ### **The Decision Point**
 
@@ -2029,10 +2028,9 @@ Varak interrupts before Willem can say more:
 
 {{description,note
 *"Enough speculation. Here's the contract. Read it. Sign it or don't. But decide now—the merchants won't wait forever. And other mercenaries are interested."*
-
-**The Contract:**
 }}
 
+**The Contract:** ::
 - **Client:** Merchant Consortium (Castor Goldweave, representative)
 - **Target:** "Red Wolf" (real name possibly Elara Thornwood)
 - **Objective:** Eliminate target and top lieutenants
@@ -2040,44 +2038,46 @@ Varak interrupts before Willem can say more:
 - **Timeline:** 2 weeks maximum
 - **Bonus:** +100gp if completed within 1 week
 
-**Fine Print (Investigation DC 13 to notice):**
+**Fine Print (Investigation DC 13 to notice):** ::
 - "Contractor agrees to complete elimination without consulting local authorities"
 - "Target must not be taken alive"
 - "All evidence of target's death becomes property of client"
 
-**If PCs point out the fine print:**
+**If PCs point out the fine print:** ::
 
 Castor smiles: *"Standard contract terms. We want proof of death—her head, or something identifiable. And we don't want local authorities involved because they're incompetent—that's why we're hiring you. Any other concerns?"*
 
-**The Choice (Before Investigation):**
+**The Choice (Before Investigation):** ::
 
-**Option 1: Accept Contract**
+**Option 1: Accept Contract** ::
 - Take 250gp upfront
 - Hunt Red Wolf
 - Complete as written
 
-**Option 2: Refuse Contract**
+**Option 2: Refuse Contract** ::
 - Walk away
 - Someone else will take it
 - Red Wolf's fate uncertain
 
-**Option 3: Investigate First**
+**Option 3: Investigate First** ::
 - Ask for time to scout the target
 - Castor agrees (reluctantly)
 - Gather more information before committing
 
-**Option 4: Take Contract, Investigate Anyway**
+**Option 4: Take Contract, Investigate Anyway** ::
 - Accept upfront payment
 - Hunt Red Wolf while investigating truth
 - Decide based on what you learn
 
+\column
+
 ### **Investigation Phase**
 
-**Smart PCs will investigate before committing. Several options:**
+**Smart PCs will investigate before committing. Several options:** ::
 
-**Option A: Talk to Local Villagers**
+**Option A: Talk to Local Villagers** ::
 
-Visit villages near Thornwood Forest (half-day travel).
+Visit villages near Thornwood Forest (half-day travel). ::
 
 ##### Read Aloud:
 {{description,note
@@ -2099,9 +2099,10 @@ If PCs buy her ale and talk:
 *When Lady Elara—that's the 'Red Wolf'—came back, she didn't come to rob. She came to help. She takes from consortium caravans and gives to us. Food. Medicine. Tools. She's not a bandit. She's Robin Hood.*
 
 *But you don't care, do you? You'll kill her for gold, just like they paid you to. That's what mercenaries do."*
+}}
 
 **If PCs probe deeper:**
-
+{{description,note
 *"House Thornwood was framed. Lord Thornwood died in hunting accident—suspicious, but no proof. His daughter Elara inherited. Then suddenly, documents appeared showing massive debts to the consortium. Debts no one had heard of.*
 
 *The consortium called them in. Elara couldn't pay—nobody could, the numbers were impossible. The courts ruled for the consortium. Auction. Elara lost everything.*
@@ -2110,46 +2111,51 @@ If PCs buy her ale and talk:
 
 }}
 
-**Insight DC 11:** The old woman believes every word. This is her truth.
+**Insight DC 11:** The old woman believes every word. This is her truth. ::
 
-**Option B: Examine Legal Records**
+**Option B: Examine Legal Records** ::
 
 Visit local magistrate's office (costs 10gp in bribes, Investigation DC 15).
 
-**What You Find:**
+**What You Find:** ::
 
 - Lord Thornwood's death certificate (10 years ago, "hunting accident")
 - Debt documents (signed by Lord Thornwood, dated 6 months before death)
 - Foreclosure notice (debts called in immediately after death)
+
+\page
+
 - Auction records (Merchant Consortium won all lots, suspiciously low bids)
 - **Investigation DC 18:** The debt signatures are forgeries (ink doesn't match period, handwriting slightly off)
 
-**Option C: Talk to Local Authorities**
+**Option C: Talk to Local Authorities** ::
 
 Visit the magistrate who ruled on the case.
 
-**NPC: Magistrate Aldric Reeve**
+**NPC: Magistrate Aldric Reeve** ::
 
 ![Magistrate Aldric Reeve](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-magistrate-aldric-reeve.jpg){width:200px,float:right,margin-left:10px}
 
 *Medium humanoid (human), neutral evil*
 
-**Appearance:** 60s, pompous, clearly well-paid by someone, nervous when questioned
+**Appearance:** 60s, pompous, clearly well-paid by someone, nervous when questioned ::
 
-**Personality:**
+**Personality:** ::
 - Corrupt but cowardly
 - Was bribed to rule for consortium
 - Fears exposure but too deep to back out
 - Will lie until caught, then crumble
 
-**If PCs question him about the case:**
+**If PCs question him about the case:** ::
 
 {{description,note
 *"The case was straightforward. Lord Thornwood owed money. He died. The debt passed to his heir. She couldn't pay. The law is clear. Debts must be paid or assets seized. I ruled according to the law."*
 
-**Intimidation DC 14 or Evidence of Forgery:**
 }}
 
+\column
+
+**Intimidation DC 14 or Evidence of Forgery:** ::
 He breaks down:
 
 {{description,note
@@ -2159,31 +2165,33 @@ He breaks down:
 
 *Please don't report this. They'll kill me if I talk. Or worse—I'll lose everything too. Just take your contract and go!"*
 
-**The Truth Revealed:**
 }}
 
+**The Truth Revealed:** ::
 If PCs investigate thoroughly, they discover:
 
-✅ Lord Thornwood was murdered (made to look like accident)  
-✅ Debt documents were forged  
-✅ Magistrate was bribed  
-✅ Merchant Consortium stole Thornwood lands through fraud  
-✅ Elara/Red Wolf is the legitimate heir  
-✅ Her "bandits" are loyal peasants seeking justice  
-✅ She only targets consortium goods (never kills unless forced)  
-✅ She's trying to gather evidence to expose the conspiracy  
+- Lord Thornwood was murdered (made to look like accident)  
+- Debt documents were forged  
+- Magistrate was bribed  
+- Merchant Consortium stole Thornwood lands through fraud  
+- Elara/Red Wolf is the legitimate heir  
+- Her "bandits" are loyal peasants seeking justice  
+- She only targets consortium goods (never kills unless forced)  
+- She's trying to gather evidence to expose the conspiracy  
 
-**The merchants want her dead before she can present her case publicly.**
+**The merchants want her dead before she can present her case publicly.** ::
 
----
+![The Thornwood Forest Camp](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-thornwood-camp.png){position:absolute,bottom:-100px,left:0px,width:820px}
+
+\page
 
 ## Branching Paths
 
 ### **Path A: Complete Contract AS Written**
 
-**If PCs accept contract and hunt Red Wolf:**
+**If PCs accept contract and hunt Red Wolf:** ::
 
-**Phase 1: Finding the Camp**
+**Phase 1: Finding the Camp** ::
 
 Tracking Red Wolf requires Survival checks:
 
@@ -2191,17 +2199,14 @@ Tracking Red Wolf requires Survival checks:
 **Survival DC 18:** Track to general area (within 5 miles)  
 **Survival DC 20:** Find exact camp location
 
-**Alternatives:**
+**Alternatives:** ::
 - **Persuasion DC 14 with villagers:** They'll reveal location if PCs promise not to hurt civilians
 - **Interrogate captured bandit:** They're loyal, DC 18 Intimidation to break
 - **Follow a caravan as bait:** Red Wolf attacks, follow her back (Stealth DC 16 to remain undetected)
 
-**The Bandit Camp**
+**The Bandit Camp** ::
 
 ##### Read Aloud:
-::
-![The Thornwood Forest Camp](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-thornwood-camp.png){width:100%,mix-blend-mode:multiply}
-
 {{description,note
 *Deep in Thornwood Forest, you find them. Not a bandit camp—a refugee settlement. Thirty people, mostly families. Children play near campfires. Women mend clothes. Men sharpen farming tools repurposed as weapons. This isn't a gang of criminals. It's a community in exile.*
 
@@ -2214,17 +2219,17 @@ Tracking Red Wolf requires Survival checks:
 *She pauses. "Then we run. We're not strong enough to fight mercenaries head-on. Not yet. Our strength is speed, surprise, and the fact that we're fighting for our homes. They're fighting for gold. Remember that difference."*
 
 *Then she sees you. Her hand goes to her sword.*
-
-**NPC: Elara Thornwood / "RED WOLF"**
 }}
+
+**NPC: Elara Thornwood / "RED WOLF"** ::
 
 ![Elara Thornwood - The Red Wolf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elara-thornwood-red-wolf.jpg){width:200px,float:right,margin-left:10px}
 
 *Medium humanoid (human), chaotic good*
 
-**Appearance:** Late 20s, red hair, wolf-pelt cloak, practical leather armor, noble bearing despite rough living, determined eyes
+**Appearance:** Late 20s, red hair, wolf-pelt cloak, practical leather armor, noble bearing despite rough living, determined eyes ::
 
-**Personality:**
+**Personality:** ::
 - Noble training but hardened by loss
 - Tactical and intelligent (former cavalry officer)
 - Cares deeply for her people (former peasants)
@@ -2232,17 +2237,17 @@ Tracking Red Wolf requires Survival checks:
 - Will fight to death to protect her followers
 - Would prefer peaceful solution but expects violence
 
-**Secret:** Elara doesn't just command a band of loyal peasants—she leads the **Thornwood Syndicate**, the largest criminal network in Tirvandor. The Syndicate was built by loyalists after her family's fall, and now serves as her power base for reclaiming what was stolen. She has eyes and ears in every major city, access to smugglers, forgers, and information brokers across both continents. The "bandit" operation is merely the visible tip of a vast organization.
+**Secret:** Elara doesn't just command a band of loyal peasants—she leads the **Thornwood Syndicate**, the largest criminal network in Tirvandor. The Syndicate was built by loyalists after her family's fall, and now serves as her power base for reclaiming what was stolen. She has eyes and ears in every major city, access to smugglers, forgers, and information brokers across both continents. The "bandit" operation is merely the visible tip of a vast organization. ::
 
-**Stats:** Use **Knight** with modifications (CR 4)
+**Stats:** Use **Knight** with modifications (CR 4) ::
 
-**Combat Stats:**
+**Combat Stats:** ::
 - AC 18 (breastplate, shield)
 - HP 70 (special, determination)
 - Longsword +1 (heirloom)
 - Leadership ability: Allies within 30 ft have advantage on saves vs fear
 
-**Initial Confrontation:**
+**Initial Confrontation:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -2259,30 +2264,31 @@ Tracking Red Wolf requires Survival checks:
 *So. You have a choice. You can complete your contract—attack a camp full of families and kill a woman fighting for her birthright. Or you can walk away and let us continue our fight against the real criminals.*
 
 *Choose carefully. Because if you attack, I'll defend my people. And some of you will die for the consortium's gold. Is that really worth it?"*
-
-**The Choice - Combat or Talk:**
-
-**Option 1: Attack Immediately**
 }}
 
+\page
+
+**The Choice - Combat or Talk:** ::
+
+**Option 1: Attack Immediately** ::
 - Elara and her people fight
 - See Combat Encounter below
 - Most "bandits" are non-combatants (flee)
 - Only 6 trained fighters resist
 
-**Option 2: Talk First**
+**Option 2: Talk First** ::
 - Elara will explain full story
 - Shows evidence (forgery analysis, witness statements)
 - Offers alternative solutions
 - See negotiation paths below
 
-**Option 3: Ambush at Night**
+**Option 3: Ambush at Night** ::
 - Attack sleeping camp
 - Easy victory but brutal
 - Kill civilians or just fighters?
 - Massive moral weight
 
-**Option 4: Challenge Elara to Duel**
+**Option 4: Challenge Elara to Duel** ::
 - One-on-one combat
 - She accepts (to spare her people)
 - Win = contract complete, people scatter
@@ -2290,13 +2296,13 @@ Tracking Red Wolf requires Survival checks:
 
 ### **Negotiation Paths**
 
-**If PCs choose to talk:**
+**If PCs choose to talk:** ::
 
-**Path A1: Switch Sides**
+**Path A1: Switch Sides** ::
 
 *"Help us instead. We can't pay 500 gold, but we can offer you something more valuable: justice. Help us expose the consortium. Present our evidence to the kingdom courts. Be heroes, not hired killers."*
 
-**What she offers:**
+**What she offers:** ::
 - 300gp (all she has)
 - Evidence of consortium fraud
 - Testimony from villagers
@@ -2304,18 +2310,18 @@ Tracking Red Wolf requires Survival checks:
 - Political power (exposing corruption)
 - Clear conscience
 
-**What she asks:**
+**What she asks:** ::
 - Help gather more evidence
 - Protect her while she presents case to kingdom courts
 - Fight consortium's hired thugs
 - Risk your reputation with wealthy clients
 
-**Path A2: Negotiate Truce**
+**Path A2: Negotiate Truce** ::
 
 *"We'll stop attacking caravans if the consortium agrees to renegotiate land rights. You mediate. Both sides meet, neutral ground, you ensure fair dealing."*
 
-**Persuasion DC 16 with Elara:** She agrees to temporary ceasefire  
-**Persuasion DC 18 with Consortium:** They agree to meeting (planning ambush)
+**Persuasion DC 16 with Elara:** She agrees to temporary ceasefire   ::
+**Persuasion DC 18 with Consortium:** They agree to meeting (planning ambush) ::
 
 If meeting happens:
 - Consortium sends assassins to kill Elara at "negotiation"
@@ -2323,58 +2329,58 @@ If meeting happens:
 - If warned, combat against assassins
 - If not warned, Elara dies, you get paid but blood on hands
 
-**Path A3: Fake Her Death**
+**Path A3: Fake Her Death** ::
 
 *"Help me disappear. Give the consortium a body—someone already dead, burned beyond recognition. I'll take my people to Aethoria, start new life. They think I'm dead, they stop hunting me."*
 
-**What's needed:**
+**What's needed:** ::
 - Find a body of similar build (grim but practical)
 - Burn it with Elara's signature wolf pelt
 - Present it as her corpse
 - Convince consortium (Deception DC 16)
 
-**Success:** 500gp, Elara escapes, everyone lives  
-**Failure:** Consortium discovers ruse, sends assassins, Elara hunted forever
+**Success:** 500gp, Elara escapes, everyone lives   ::
+**Failure:** Consortium discovers ruse, sends assassins, Elara hunted forever ::
 
-**Path A4: Trial by Combat (for the land)**
+**Path A4: Trial by Combat (for the land)** ::
 
 *"The old laws allow trial by combat for land disputes. Challenge the consortium's claim. I'll fight their champion. If I win, my claim is legitimate by law. Will you help me arrange this?"*
 
-**Persuasion DC 18 with kingdom authorities:** They agree (rare but legal)  
-**Consortium must provide champion:** They hire powerful mercenary (CR 6)
+**Persuasion DC 18 with kingdom authorities:** They agree (rare but legal)   ::
+**Consortium must provide champion:** They hire powerful mercenary (CR 6) ::
 
 This becomes a legal, public duel:
 - Win = Elara regains lands legally
 - Lose = She dies, claim dismissed
 - PCs can help her train, provide equipment, or even fight as her champion
 
----
-
 ### **Combat ENCOUNTER** (If Attacked)
 
-**Defenders:**
+**Defenders:** ::
 
-**1x Lady Elara Thornwood** (use Red Wolf stats, CR 7)
+**1x Lady Elara Thornwood** (use Red Wolf stats, CR 7) ::
 - AC 18, HP 70
 - Longsword +1: +7 to hit, 1d8+5 damage
 - Leadership: Allies within 30 ft advantage on fear saves
 - Second Wind: 1d10+8 HP once
 - Rallying Cry: When she uses Second Wind, 3 allies gain 8 HP
 
-**6x Thornwood Fighters** (Veterans of her father's guard)
+**6x Thornwood Fighters** (Veterans of her father's guard) ::
 - Use **Guard** stats (CR 1/8 each)
 - Loyal to death
 - Protect non-combatants first
 
-**20x Non-Combatants** (Commoners, CR 0)
+\page
+
+**20x Non-Combatants** (Commoners, CR 0) ::
 - Families, children, elderly
 - Will flee if able
 - Some will beg for mercy
 - Killing them is optional (and monstrous)
 
-**Tactics:**
+**Tactics:** ::
 
-**Elara's Strategy:**
+**Elara's Strategy:** ::
 - Fights defensively, buying time for non-combatants to flee
 - Uses terrain (trees, cover)
 - Calls for her people to run
@@ -2382,18 +2388,18 @@ This becomes a legal, public duel:
 - Surrenders if below 15 HP and innocents are safe
 - Fights to death if innocents threatened
 
-**If PCs Kill Non-Combatants:**
+**If PCs Kill Non-Combatants:** ::
 - Elara goes berserk (rage: advantage on attacks, resistance to damage)
 - Fighters fight to death, no surrender
 - Villagers hear about it (reputation -5, you're baby killers)
 - Even consortium is disgusted (you're monsters)
 
-**If PCs Spare Non-Combatants:**
+**If PCs Spare Non-Combatants:** ::
 - Elara respects that (might surrender if beaten)
 - Fighters might surrender if she orders it
 - Villagers grateful (reputation +1, you have standards)
 
-**If Elara is Defeated:**
+**If Elara is Defeated:** ::
 
 {{description,note
 *She falls to her knees, bleeding, sword dropped. She looks up at you:*
@@ -2402,29 +2408,26 @@ This becomes a legal, public duel:
 
 *I hope your gold keeps you warm at night. I hope it fills the void where your honor used to be."*
 
-**The Final Choice:**
 }}
 
+**The Final Choice:** ::
 - Kill her (complete contract, 500gp, weight of murder)
 - Spare her (break contract, lose money, gain unlikely ally)
 - Capture her (turn her in, partial payment, she'll be executed legally)
 
----
-
 ### **Path B: REFUSE CONTRACT (Walk Away)**
 
-**If PCs refuse to take the contract:**
+**If PCs refuse to take the contract:** ::
 
 Castor is furious:
 
 {{description,note
 *"Fine! We'll find mercenaries with actual spines! Plenty of sellswords in Crossroads happy to earn 500 gold. You're missing out on the easiest money you'll ever see!"*
-
-**What happens:**
-
-**1 week later, PCs hear:**
 }}
 
+**What happens:** ::
+
+**1 week later, PCs hear:** ::
 - Another mercenary company took the contract
 - They attacked the camp
 - Red Wolf and 12 of her people are dead
@@ -2432,35 +2435,33 @@ Castor is furious:
 - Consortium is "pleased"
 - The other mercenaries are drinking at the tavern, celebrating
 
-**PCs can:**
+**PCs can:** ::
 - Do nothing (story ends, they live with knowing they could have helped)
 - Confront the mercenaries (social encounter, possible fight)
 - Hunt down survivors (try to help too late)
 - Investigate and posthumously clear Thornwood name
 
-**Consequence:** You walked away. Sometimes that's the right choice. Sometimes it isn't.
-
----
+**Consequence:** You walked away. Sometimes that's the right choice. Sometimes it isn't. ::
 
 ### **Path C: Expose The Consortium**
 
-**If PCs gather evidence and present it:**
+**If PCs gather evidence and present it:** ::
 
-**Requirements:**
+**Requirements:** ::
 - Testimony from magistrate (confession)
 - Forgery analysis (proof debts were fake)
 - Witness statements (villagers)
 - Elara's evidence (documents she's gathered)
 
-**Where to present:**
+**Where to present:** ::
 - Kingdom courts in capital
 - Public forum (risky—consortium has power)
 - Regional governor (might be bribed too)
 
-**Persuasion DC 16 to be heard:**
-**Evidence presented convincingly:**  
+**Persuasion DC 16 to be heard:** ::
+**Evidence presented convincingly:**   ::
 
-**Outcome: PUBLIC TRIAL**
+**Outcome: PUBLIC TRIAL** ::
 
 {{description,note
 *The hearing lasts three days. Consortium lawyers argue. Elara presents evidence. You testify. The magistrate confesses (reluctantly). Villagers speak. The forgeries are examined.*
@@ -2468,29 +2469,28 @@ Castor is furious:
 *The judge deliberates. Finally:*
 
 *"This court finds that House Thornwood was defrauded. The debts were forged. The lands were stolen. Lady Elara Thornwood is the legitimate heir. The Merchant Consortium is ordered to return all Thornwood properties and pay restitution."*
-
-**Result:**
 }}
 
+**Result:** ::
 - Elara regains her lands
 - Consortium is fined 10,000gp
 - Magistrate is stripped of office
 - Castor Goldweave arrested for fraud
 
-**Payment:**
+**Payment:** ::
 - Consortium pays you nothing (you betrayed them)
 - Elara pays you 300gp (all she has)
 - Kingdom pays 200gp reward for exposing corruption
 - **Total: 500gp** (same as contract, but with honor)
 
-**Reputation:**
+\page
+
+**Reputation:** ::
 - +3 with common folk ("Heroes!")
 - +2 with honest merchants
 - -3 with Merchant Consortium
 - -1 with corrupt officials
 - Known as "Just" or "Corruption Fighters"
-
----
 
 ### **Path D: COMPLETE CONTRACT (Deliver Her Head)**
 
