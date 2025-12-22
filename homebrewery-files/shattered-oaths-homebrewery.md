@@ -24,6 +24,8 @@ ___
 
 *What happens when a hero's oath conflicts with a hero's heart?*
 
+![so_banner](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/banners/tirvandor-banner-shattered-oaths.png){position:absolute,top:200px,left:12.5px,width:100%}
+
 {{padding-top:465px}}
 
 #### Copyright & Attribution
@@ -51,8 +53,13 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 
 - ### [{{ Introduction}}{{ 1}}](#p5)
   - #### [{{ Campaign Overview}}{{ 1}}](#p5)
+    - [{{ Campaign Themes}}{{ 1}}](#p5)
+    - [{{ Tone}}{{ 1}}](#p5)
+    - [{{ The Central Conflict}}{{ 1}}](#p5)
+    - [{{ Level Progression}}{{ 1}}](#p5)
 - ### [{{ The Shattered Oaths Campaign}}{{ 2}}](#p6)
   - #### [{{ A Heroic Campaign for Tirvandor (Levels 1-15)}}{{ 2}}](#p6)
+    - [{{ Campaign Geographic Note}}{{ 2}}](#p6)
   - #### [{{ Campaign Overview}}{{ 2}}](#p6)
     - [{{ The Premise}}{{ 2}}](#p6)
     - [{{ Key Themes}}{{ 2}}](#p6)
@@ -93,7 +100,6 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Quest 3.4: The Primordial Rift (Level 14)}}{{ 86}}](#p90)
     - [{{ Quest 3.5: The Final Battle (Level 14-15)}}{{ 94}}](#p98)
     - [{{ Campaign Epilogue}}{{ 96}}](#p100)
-\column
   - #### [{{ Epilogue 1: Heroic Victory (Traditional Ending)}}{{ 97}}](#p101)
     - [{{ The Immediate Aftermath}}{{ 97}}](#p101)
     - [{{ The Journey Home (One Week Later)}}{{ 97}}](#p101)
@@ -110,7 +116,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ The First Year: Chaos and Hope}}{{ 104}}](#p108)
     - [{{ Five Years Later: The New World}}{{ 104}}](#p108)
     - [{{ Twenty Years Later: Legacy of Revolution}}{{ 105}}](#p109)
-    - [{{ The Final Scene: Corvus’s Epilogue}}{{ 105}}](#p109)
+    - [{{ The Final Scene: Corvus’s Epilogue}}{{ 105}}](#p109)    
   - #### [{{ Epilogue 3: Redemption Ending (Peaceful Resolution)}}{{ 106}}](#p110)
     - [{{ The Moment of Peace}}{{ 106}}](#p110)
     - [{{ The Reconciliation (One Month Later)}}{{ 106}}](#p110)
@@ -125,92 +131,128 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Thirty Years Later: The Adapted World}}{{ 108}}](#p112)
     - [{{ Campaign Complete}}{{ 109}}](#p113)
 - ### [{{ Appendix A: Campaign NPCs}}{{ 110}}](#p114)
-  - #### [{{ Villain Necromancer Glacius}}{{ 119}}](#p123)
-  - #### [{{ Villain Necromancer Kestra}}{{ 119}}](#p123)
-  - #### [{{ Villain Necromancer Mortis}}{{ 119}}](#p123)
-  - #### [{{ Villain Necromancer Thraz}}{{ 120}}](#p124)
-  - #### [{{ Villain Necromancer Varis}}{{ 120}}](#p124)
-  - #### [{{ Unbound Allies and Agents}}{{ 121}}](#p125)
-- ### [{{ Appendix B: Magic Items}}{{ 123}}](#p127)
-  - #### [{{ Legendary Items}}{{ 123}}](#p127)
-  - #### [{{ Very Rare Items}}{{ 124}}](#p128)
-  - #### [{{ Rare Items}}{{ 125}}](#p129)
-  - #### [{{ Uncommon Items}}{{ 127}}](#p131)
-  - #### [{{ Consumables & Special Items}}{{ 128}}](#p132)
-  - #### [{{ Item Acquisition Guide}}{{ 128}}](#p132)
-  - #### [{{ Crafting Rules}}{{ 129}}](#p133)
-  - #### [{{ Balance Notes}}{{ 129}}](#p133)
+  - [{{ Basic Information}}{{ 110}}](#p114)
+  - [{{ Physical Description}}{{ 110}}](#p114)
+  - [{{ Equipment}}{{ 111}}](#p115)
+  - [{{ Personality}}{{ 111}}](#p115)
+  - [{{ Background & History}}{{ 111}}](#p115)
+  - [{{ Connections}}{{ 111}}](#p115)
+  - [{{ Secrets}}{{ 111}}](#p115)
+  - [{{ Plot Hooks}}{{ 112}}](#p116)
+  - [{{ Roleplaying Notes}}{{ 112}}](#p116)
+  - [{{ Alternative Persona: The Scholar}}{{ 112}}](#p116)
+  - [{{ Notable Dialogue}}{{ 112}}](#p116)
+  - [{{ Notes for DMs}}{{ 112}}](#p116)
+  - [{{ Expanded Background & History}}{{ 114}}](#p118)
+  - [{{ Connections}}{{ 114}}](#p118)
+  - [{{ Secrets (DM Only)}}{{ 115}}](#p119)
+  - [{{ Plot Hooks}}{{ 115}}](#p119)
+  - [{{ Combat Tactics}}{{ 115}}](#p119)
+  - [{{ Roleplaying Notes}}{{ 115}}](#p119)
+  - [{{ Unbound Allies and Agents}}{{ 121}}](#p125)
 }}
+
 {{skipCounting}}
 \page
 {{toc,wide
 ## Contents
 
+- ### [{{ Appendix B: Magic Items}}{{ 123}}](#p127)
+  - [{{ Legendary Items}}{{ 123}}](#p127)
+  - [{{ Very Rare Items}}{{ 124}}](#p128)
+  - [{{ Rare Items}}{{ 125}}](#p129)
+  - [{{ Uncommon Items}}{{ 127}}](#p131)
+  - [{{ Consumables & Special Items}}{{ 128}}](#p132)
+  - [{{ Item Acquisition Guide}}{{ 128}}](#p132)
+  - [{{ Crafting Rules}}{{ 129}}](#p133)
+  - [{{ Balance Notes}}{{ 129}}](#p133)
 - ### [{{ Appendix C: Monsters}}{{ 130}}](#p134)
-  - #### [{{ Standard Monsters Used}}{{ 130}}](#p134)
-  - #### [{{ Custom/Modified Monsters}}{{ 130}}](#p134)
-  - #### [{{ Unbound Creatures}}{{ 131}}](#p135)
-  - #### [{{ Thaldros Forces}}{{ 133}}](#p137)
-  - #### [{{ Aethoria Forces}}{{ 134}}](#p138)
-  - #### [{{ Final Battle Creatures}}{{ 135}}](#p139)
-  - #### [{{ Quick Reference by CR}}{{ 136}}](#p140)
-  - #### [{{ Encounter Building Notes}}{{ 136}}](#p140)
-- ### [{{ Appendix D: DM Quick Reference}}{{ 137}}](#p141)
-  - #### [{{ At-a-Glance Campaign Guide}}{{ 137}}](#p141)
-  - #### [{{ Campaign Structure}}{{ 137}}](#p141)
-  - #### [{{ Quick Session Breakdown}}{{ 137}}](#p141)
-  - #### [{{ Key NPCs At-a-Glance}}{{ 138}}](#p142)
-  - #### [{{ Important DCs}}{{ 139}}](#p143)
-  - #### [{{ Faction Relationships}}{{ 140}}](#p144)
-  - #### [{{ Treasure & Rewards Summary}}{{ 140}}](#p144)
-  - #### [{{ Session Prep Checklist}}{{ 141}}](#p145)
-  - #### [{{ Random Encounter Tables}}{{ 142}}](#p146)
-  - #### [{{ Detailed Silverpine Encounters}}{{ 143}}](#p147)
-  - #### [{{ Key Item Quick Reference}}{{ 147}}](#p151)
-  - #### [{{ NPC Stat Block Quick Reference}}{{ 148}}](#p152)
-  - #### [{{ Status Effect Quick Reference}}{{ 149}}](#p153)
-  - #### [{{ Quick Rules Reminders}}{{ 149}}](#p153)
-  - #### [{{ Downtime Activities}}{{ 150}}](#p154)
-  - #### [{{ NPC Motivations & Secrets}}{{ 150}}](#p154)
-  - #### [{{ Alternate Endings Overview}}{{ 152}}](#p156)
-  - #### [{{ Player Handout: Silverpine Rumors}}{{ 154}}](#p158)
-  - #### [{{ Player Handout: House Blackwood Historical Summary}}{{ 155}}](#p159)
-  - #### [{{ Campaign-Specific Dashboard}}{{ 156}}](#p160)
+  - [{{ Standard Monsters Used}}{{ 130}}](#p134)
+  - [{{ Custom/Modified Monsters}}{{ 130}}](#p134)
+  - [{{ Unbound Creatures}}{{ 131}}](#p135)
+  - [{{ Thaldros Forces}}{{ 133}}](#p137)
+  - [{{ Aethoria Forces}}{{ 134}}](#p138)
+  - [{{ Final Battle Creatures}}{{ 135}}](#p139)
+  - [{{ Quick Reference by CR}}{{ 136}}](#p140)
+  - [{{ Encounter Building Notes}}{{ 136}}](#p140)
+  - [{{ Appendix D: DM Quick Reference}}{{ 136}}](#p140)
+  - [{{ Relationship to Blood & Coin Campaign}}{{ 136}}](#p140)
+  - [{{ At-a-Glance Campaign Guide}}{{ 136}}](#p140)
+  - [{{ Campaign Structure}}{{ 136}}](#p140)
+  - [{{ Quick Session Breakdown}}{{ 137}}](#p141)
+  - [{{ Key NPCs At-a-Glance}}{{ 138}}](#p142)
+  - [{{ Important DCs}}{{ 138}}](#p142)
+  - [{{ Combat Encounters by CR}}{{ 139}}](#p143)
+  - [{{ Faction Relationships}}{{ 139}}](#p143)
+  - [{{ Treasure & Rewards Summary}}{{ 140}}](#p144)
+  - [{{ Key Decision Points}}{{ 140}}](#p144)
+  - [{{ Session Prep Checklist}}{{ 141}}](#p145)
+  - [{{ Campaign Themes}}{{ 141}}](#p145)
+  - [{{ Improvisation Tips}}{{ 141}}](#p145)
+  - [{{ Random Encounter Tables}}{{ 142}}](#p146)
+  - [{{ Detailed Silverpine Encounters}}{{ 142}}](#p146)
+    - [{{ 1. The Failed Experiment}}{{ 142}}](#p146)
+    - [{{ 2. The Forbidden Book}}{{ 143}}](#p147)
+    - [{{ 3. The Unbound Recruiter}}{{ 143}}](#p147)
+    - [{{ 4. The Accusation}}{{ 144}}](#p148)
+    - [{{ 5. The Magical Malfunction}}{{ 144}}](#p148)
+    - [{{ 6. The Dying Messenger}}{{ 145}}](#p149)
+  - [{{ Combat Tactics by Enemy Type}}{{ 146}}](#p150)
+  - [{{ Key Item Quick Reference}}{{ 146}}](#p150)
+  - [{{ NPC Stat Block Quick Reference}}{{ 147}}](#p151)
+  - [{{ Status Effect Quick Reference}}{{ 148}}](#p152)
+  - [{{ Quick Rules Reminders}}{{ 149}}](#p153)
+  - [{{ Downtime Activities}}{{ 149}}](#p153)
+  - [{{ NPC Motivations & Secrets}}{{ 149}}](#p153)
+  - [{{ Moral Dilemma Examples}}{{ 150}}](#p154)
+  - [{{ Session Zero Guidance}}{{ 151}}](#p155)
+  - [{{ Relationship to Blood & Coin Campaign}}{{ 151}}](#p155)
+  - [{{ Alternate Endings Overview}}{{ 152}}](#p156)
+  - [{{ Adapting for Your Table}}{{ 152}}](#p156)
+  - [{{ Memorable Moments to Create}}{{ 153}}](#p157)
+  - [{{ Player Handout: Silverpine Rumors}}{{ 154}}](#p158)
+  - [{{ Player Handout: House Blackwood Historical Summary}}{{ 155}}](#p159)
+  - [{{ Campaign-Specific Dashboard}}{{ 156}}](#p160)
 - ### [{{ Appendix E: Player Handouts}}{{ 158}}](#p162)
-  - #### [{{ The Black Raven Token}}{{ 158}}](#p162)
-  - #### [{{ Silverpine Rumors}}{{ 158}}](#p162)
-  - #### [{{ Threatening Letter to Merchants}}{{ 159}}](#p163)
-  - #### [{{ Royal Decree — Destruction of House Blackwood}}{{ 160}}](#p164)
-  - #### [{{ Corvus Blackwood’s Letter (Before He Became Lord Shadows)}}{{ 161}}](#p165)
-  - #### [{{ Prophecy Fragment}}{{ 162}}](#p166)
-  - #### [{{ From the Codex of Endings}}{{ 162}}](#p166)
-  - #### [{{ World-Splitter Component Illustration}}{{ 163}}](#p167)
-  - #### [{{ The Five Components of the World-Splitter}}{{ 163}}](#p167)
-  - #### [{{ House Blackwood Historical Summary}}{{ 164}}](#p168)
-  - #### [{{ Wanted Poster — Lord Shadows}}{{ 165}}](#p169)  
-  - #### [{{ Arcturus’s Map of the Undercity}}{{ 166}}](#p170)  
-  - #### [{{ Letter of Introduction to Professor Miranda}}{{ 167}}](#p171)
-  - #### [{{ The Unbound Manifesto}}{{ 168}}](#p172)
-- ### [{{ Sessions Zero Handouts}}{{ 169}}](#p173)
-  - #### [{{ World Primer (Player Version)}}{{ 169}}](#p173)
-  - #### [{{ Character Connection Worksheet}}{{ 169}}](#p173)
+  - [{{ The Black Raven Token}}{{ 158}}](#p162)
+  - [{{ Silverpine Rumors}}{{ 158}}](#p162)
+  - [{{ What the Locals Are Saying}}{{ 158}}](#p162)
+  - [{{ Threatening Letter to Merchants}}{{ 159}}](#p163)
+  - [{{ Royal Decree — Destruction of House Blackwood}}{{ 160}}](#p164)
+  - [{{ BY ROYAL DECREE OF KING ALDRIC III}}{{ 160}}](#p164)
+  - [{{ Corvus Blackwood’s Letter (Before He Became Lord Shadows)}}{{ 161}}](#p165)
+  - [{{ Prophecy Fragment}}{{ 162}}](#p166)
+  - [{{ From the Codex of Endings}}{{ 162}}](#p166)
+  - [{{ World-Splitter Component Illustration}}{{ 163}}](#p167)
+  - [{{ The Five Components of the World-Splitter}}{{ 163}}](#p167)
+  - [{{ House Blackwood Historical Summary}}{{ 164}}](#p168)
+  - [{{ House Blackwood — The Truth Revealed}}{{ 164}}](#p168)
+  - [{{ Wanted Poster — Lord Shadows}}{{ 165}}](#p169)
+  - [{{ Arcturus’s Map of the Undercity}}{{ 166}}](#p170)
+  - [{{ THE UNDERCITY BENEATH KAER THANDROS}}{{ 166}}](#p170)
+  - [{{ Letter of Introduction to Professor Miranda}}{{ 167}}](#p171)
+  - [{{ The Unbound Manifesto}}{{ 168}}](#p172)  
+  - [{{ Sessions Zero Handouts}}{{ 169}}](#p173)
+  - [{{ World Primer (Player Version)}}{{ 169}}](#p173)
+  - [{{ Character Connection Worksheet}}{{ 169}}](#p173)
 - ### [{{ Campaign Tone & Expectations}}{{ 170}}](#p174)
-  - #### [{{ Shattered Oaths — What to Expect}}{{ 170}}](#p174)
-  - #### [{{ World-Splitter Component Tracker}}{{ 171}}](#p175)
-  - #### [{{ NPC Relationship Tracker}}{{ 171}}](#p175)
+  - [{{ Shattered Oaths — What to Expect}}{{ 170}}](#p174)
+  - [{{ World-Splitter Component Tracker}}{{ 171}}](#p175)   
+  - [{{ NPC Relationship Tracker}}{{ 171}}](#p175)
 - ### [{{ Appendix F: Maps}}{{ 172}}](#p176)
-  - #### [{{ 1. Blackwood Family Estate Ruins}}{{ 172}}](#p176)
-  - #### [{{ 2. Final Confrontation Chamber}}{{ 173}}](#p177)
-  - #### [{{ 3. Refugee Camp}}{{ 174}}](#p178)
-  - #### [{{ 4. Ancient Precursor Ruins (Interior)}}{{ 175}}](#p179)
-  - #### [{{ 5. Border Fortress Battle}}{{ 176}}](#p180)
-  - #### [{{ 6. Kaer Thandros Thronw Room}}{{ 177}}](#p181)
-  - #### [{{ 7. Ley Line Nexus Trial Site}}{{ 178}}](#p182)
-  - #### [{{ 8. Dragon Infernalix's Lair}}{{ 179}}](#p183)
-  - #### [{{ 9. The Black Archive}}{{ 180}}](#p184)
-  - #### [{{ 10. Void Rift Location}}{{ 181}}](#p185)  
+  - [{{ 1. Blackwood Family Estate Ruins}}{{ 172}}](#p176)
+  - [{{ 2. Final Confrontation Chamber}}{{ 173}}](#p177)
+  - [{{ 3. Refugee Camp}}{{ 174}}](#p178)
+  - [{{ 4. Ancient Precursor Ruins (Interior)}}{{ 175}}](#p179)
+  - [{{ 5. Border Fortress Battle}}{{ 176}}](#p180)
+  - [{{ 6. Kaer Thandors Throne Room}}{{ 177}}](#p181)
+  - [{{ 7. Ley Line Nexus Ritual Site}}{{ 178}}](#p182)
+  - [{{ 8. Dragon Infernalix’s Lair}}{{ 179}}](#p183)
+  - [{{ 9. The Black Archive}}{{ 180}}](#p184)
+  - [{{ 10. Void Rift Location}}{{ 181}}](#p185)
 - ### [{{ Appendix: Campaign-Specific NPCs}}{{ 182}}](#p186)
 }}
+
 
 {{skipCounting}}
 \page
@@ -264,6 +306,10 @@ The players must navigate between:
 **Stakes:** Prevent the Second Worldrend and save both continents  
 **Starting Location:** Silverpine, Thaldros  
 **Ending Location:** Raven's Keep & The Worldrend Vault
+
+### Campaign Geographic Note
+
+This campaign takes place primarily in central and eastern Thaldros, focused on the cities of Silverpine and Kaer Thandros. During this same period, a proxy war rages in western Thaldros—the Crown battles against Aethoria-backed separatists in the frontier territories. That conflict is detailed in the companion campaign, *Blood & Coin*. While war tensions appear as background context here, this campaign's heroes focus on the existential threat of the Unbound and the World-Splitter conspiracy.
 
 ## Campaign Overview
 
@@ -3068,7 +3114,7 @@ Do they trust this mysterious invitation?
 **FIRST IMPRESSIONS:** ::
 
 **Perception DC 13:** ::
-- Military presence is HEAVY (at least double normal garrison)
+- Military presence is HEAVY (at least double normal garrison—partly Unbound fears, partly western front mobilization)
 - People speak in hushed tones, glancing over shoulders
 - Wanted posters show sketches that could be the party
 - Several buildings show fire damage (recent arson?)
@@ -9853,7 +9899,7 @@ Gaunt and weathered (6'0", 160 lbs), looking older than his years. Dark hair (gr
 
 **Bonds:** ::
 - The memory of his family (parents executed, estates seized)
-- His younger sibling (the Lost Heir, hidden somewhere safe)
+- His younger sibling Marcus (the Lost Heir, hidden somewhere safe—now an adult leading refugees in the western frontier near Crossroads; see Blood & Coin campaign)
 - Those who've helped him survive (small network of allies)
 - The Blackwood family sigil (tattoo on his back, all he has left)
 
@@ -9921,6 +9967,14 @@ Now, at 55, he's preparing not just revenge but vindication. He seeks to recover
 - **When stressed:** Becomes colder, more distant, eyes go flat
 - **In combat:** Efficient, lethal, no mercy for those he deems guilty
 
+### Alternative Persona: The Scholar
+
+When recruiting potential allies or presenting to those unfamiliar with his reputation, Corvus adopts a completely different persona—the visionary scholar. He wears robes instead of leather, speaks of philosophy instead of vengeance, and emphasizes his research rather than his combat skills. In this mode, he appears as a brilliant but harmless academic passionate about changing the world.
+
+This "recruiter persona" is how he appears throughout the Blood & Coin campaign, where he approaches mercenaries as a potential employer. Players who encounter him there first may be shocked to discover the deadly assassin beneath the scholarly mask.
+
+**Mechanical Note:** The CR 9 wizard-style Corvus in Blood & Coin represents this persona—his true combat capabilities (CR 14, this stat block) emerge when the mask drops.
+
 ### Notable Dialogue
 - *"They took everything. Name, family, future. But they gave me purpose."*
 - *"I'm not a villain. I'm an accountant, and the bill is due."*
@@ -9935,14 +9989,15 @@ Now, at 55, he's preparing not just revenge but vindication. He seeks to recover
 - His secrets provide major political intrigue hooks for levels 10-18
 - Works for campaigns exploring justice vs. catastrophe themes
 - The dying timeline adds urgency to his plots
+{{pageNumber,auto}}
+\page
+
 - His connection to the World-Splitter Components ties him to cosmic-level threats
 - Perfect for political intrigue and moral gray area campaigns
 - Can be sympathetic villain or antihero depending on party alignment
 - His relationship with the Lost Heir creates emotional stakes
 - Can be saved/redeemed or become tragic fallen hero
-
-{{pageNumber,auto}}
-\page
+::
 
 {{monster,frame,wide
 ## The Lich of Raven's Keep
@@ -11596,10 +11651,23 @@ ___
 - Reality guardians
 - Shadow titans
 - Final confrontation with Lord Shadows + support
-{{pageNumber,auto}}
-\page
 
-# Appendix D: DM Quick Reference
+## Appendix D: DM Quick Reference
+
+## Relationship to Blood & Coin Campaign
+
+Shattered Oaths and Blood & Coin occur simultaneously in the same world:
+
+- **Shattered Oaths:** Central/Eastern Thaldros (Silverpine, Kaer Thandros, Raven's Keep)
+- **Blood & Coin:** Western Thaldros frontier (Crossroads, Border of Judgment)
+
+**Key Shared Elements:**
+- **Corvus Blackwood** appears in both. In Blood & Coin, he presents as a scholarly recruiter. In Shattered Oaths, he's known as "Lord Shadows," the assassin rebel leader. Both are the same person using different personas.
+- **The Unbound** operates cells across all of Thaldros. Each campaign shows different regional operations.
+- **Marcus Blackwood** (Blood & Coin refugee leader) is Corvus's younger brother—the "Lost Heir" mentioned in this campaign.
+- **The proxy war** between Thaldros and Aethoria-backed rebels (Blood & Coin's central conflict) serves as background context here.
+
+**If running for players who've played Blood & Coin:** They may recognize Corvus and the Unbound. This is intentional—reward their knowledge but don't assume it.
 
 ## At-a-Glance Campaign Guide
 
@@ -11624,6 +11692,8 @@ ___
 - Quest 3.4: The Primordial Rift - Confront reality-warping magic
 - Quest 3.5: The Final Battle - Stop Second Worldrend, defeat Lord Shadows
 
+{{pageNumber,auto}}
+\page
 
 ## Quick Session Breakdown
 
@@ -11633,7 +11703,7 @@ ___
 **Encounters:** Unbound cultists (CR 1/8 each), shadow creatures (CR 1/2) ::
 **Rewards:** 100-200 gp, village gratitude, black raven token (clue) ::
 **Key Decision:** Pursue cult or report to authorities ::
-\column
+
 ### Quest 1.2: The Shadowmark Conspiracy (Level 2, 2 sessions)
 **Goal:** Infiltrate Unbound recruitment meeting, capture recruiter ::
 **Key NPCs:** Garrett the Mason (turned cultist, CR 2), Captain Roderic (CR 5) ::
@@ -11661,8 +11731,6 @@ ___
 **Encounters:** Archive defenses, magical traps, guardian constructs (CR 7-8) ::
 **Rewards:** 2,000-3,500 gp, historical documents proving Blackwood innocence ::
 **Key Decision:** Reveal truth publicly or keep it secret ::
-{{pageNumber,auto}}
-\page
 
 ### Quest 2.2: Counsel of Allies (Level 6, 1-2 sessions)
 **Goal:** Recruit powerful allies for coming battles ::
@@ -11690,6 +11758,10 @@ ___
 **Key NPCs:** Unbound Lieutenants (CR 11-12), deep earth horrors ::
 **Encounters:** Underground battles (CR 11-12), environmental hazards ::
 **Rewards:** 10,000-15,000 gp, information about Worldrend Vault location ::
+
+{{pageNumber,auto}}
+\page
+
 **Key Decision:** Pursue Lord Shadows or warn kingdoms ::
 
 ### Quest 3.2: Goldshore Manor (Level 11-12, 2-3 sessions)
@@ -11728,8 +11800,6 @@ ___
 - **Alden Swiftfoot** (Halfling, CR 1/4) - Merchant, comic relief, business opportunity
 - **Captain Roderic Ironfist** (Dwarf, CR 5) - Town guard captain, law enforcement ally
 - **Garrett the Mason** (Human, CR 2) - Turned cultist, provides testimony if spared
-{{pageNumber,auto}}
-\page
 
 ### Act II - Allies & Truth
 - **Professor Miranda Questseeker** (Human, CR 9) - Scholar, provides historical context
@@ -11762,6 +11832,10 @@ ___
 - Intimidation DC 14-16: Standard threats against commoners
 - Intimidation DC 17-19: Intimidating dangerous NPCs, soldiers
 - Intimidation DC 20-22: Intimidating elite enemies, bosses
+
+{{pageNumber,auto}}
+\page
+
 - Intimidation DC 23+: Intimidating Lord Shadows (nearly impossible)
 
 ### Investigation & Exploration
@@ -11802,9 +11876,6 @@ ___
 - CR 1/8: Unbound cultists, weak scouts (Quest 1.1-1.2)
 - CR 1/2-1: Shadow creatures, guard patrols (Quest 1.1-1.2)
 - CR 2-3: Unbound recruiters, Garrett, wilderness predators (Quest 1.2-1.3)
-{{pageNumber,auto}}
-\page
-
 - CR 4-5: Unbound ambush, fortress guards (Quest 1.3-1.4)
 - CR 6: Vault Guardian, Commander encounters (Quest 1.4)
 
@@ -11836,14 +11907,15 @@ ___
 - **Legacy:** Scapegoated for First Worldrend conspiracy
 - **Current:** Only Corvus remains, seeking vindication
 
+{{pageNumber,auto}}
+\page
+
 ### Kingdom of Thaldros
 - **Status:** Traditional monarchy, partial conspirator
 - **Values:** Order, tradition, royal authority
 - **Conflicts with:** Aethoria, The Unbound, reformers
 - **Secret:** Some nobles knew truth about Blackwood conspiracy
 - **Current Crisis:** Dealing with Unbound threat, internal corruption
-
-\column
 
 ### Aetheran Council
 - **Status:** Newer republic, also complicit
@@ -11882,8 +11954,6 @@ ___
 - Quest 3.4: 18,000-25,000 gp + legendary items
 - Quest 3.5: 30,000+ gp + legendary rewards + world reshaping
 - **Total Act III:** ~85,000-110,000 gp + campaign resolution
-{{pageNumber,auto}}
-\page
 
 ### Magic Items
 - Uncommon: Quests 1.3, 1.4, 2.1, 2.2 (1-2 per quest)
@@ -11917,6 +11987,9 @@ ___
 - Full exposure → Maximum justice, but kingdoms destabilized
 - Partial exposure → Balance between justice and stability
 - Minimal exposure → Stability, but conspirators escape
+
+{{pageNumber,auto}}
+\page
 
 ### Quest 3.5: Final Choice
 **Impact:** Campaign epilogue and world state
@@ -11965,8 +12038,6 @@ ___
 - Legacy and inherited guilt (are descendants responsible)
 - Heroism in morally complex situations
 - Redemption and forgiveness vs. punishment
-{{pageNumber,auto}}
-\page
 
 **Moral Questions:** ::
 - If Lord Shadows is right about the injustice, is he wrong to act?
@@ -11999,7 +12070,8 @@ ___
 - Present Lord Shadows as tragic figure, not pure villain
 - Allow players to argue among themselves about right choice
 
-\column
+{{pageNumber,auto}}
+\page
 
 ## Random Encounter Tables
 
@@ -12044,8 +12116,6 @@ ___
 |8| Ancient guardian awakened by Worldrend energy (CR 13) |
 |9| Collapsing reality - environmental hazard challenge |
 |10| Ally NPC in mortal danger - rescue mission |
-{{pageNumber,auto}}
-\page
 
 ## Detailed Silverpine Encounters
 
@@ -12097,6 +12167,9 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Academy offers party 50 gold "hazard compensation"
 - May encounter angry Lydia later (joined Unbound? Became hedge witch?)
 
+{{pageNumber,auto}}
+\page
+
 **CONSEQUENCES:** ::
 - Lydia as contact OR enemy depending on choice
 - Academy reputation: "Helped with magical incident"
@@ -12139,8 +12212,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Brennan arrested (executed within week—treason)
 - Book "lost" in academy vaults
 - Party never learns its contents
-{{pageNumber,auto}}
-\page
 
 **Report to Crown Agents:** ::
 - 150 gold reward
@@ -12184,8 +12255,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Her information is mostly accurate
 - She's testing party for potential recruitment
 
-\column
-
 **HER PITCH:** ::
 ::
 {{description,note
@@ -12195,6 +12264,10 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 :
 *"I'm not asking you to join. I'm asking you to listen. To question. Is that so dangerous?"* 
 }}
+
+{{pageNumber,auto}}
+\page
+
 **RESOLUTION OPTIONS:** ::
 
 **Listen Sympathetically:** ::
@@ -12228,8 +12301,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Major plot fork—relationship with Unbound established
 - Information gained is genuine (confirms Blackwood innocence claims)
 - How party treats Sister Solace reflects their moral compass
-{{pageNumber,auto}}
-\page
 
 ### 4. THE ACCUSATION
 
@@ -12242,6 +12313,8 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 :
 *"My son went adventuring with people like YOU! He never came back! You probably left him to die for his share of the treasure! GUARDS! ARREST THEM!"* 
 }}
+
+\column
 
 **THE SITUATION:** ::
 - Widow Maren believes adventurers killed her son
@@ -12290,11 +12363,16 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 ::
 {{description,note
 *The air shimmers. Reality TWISTS. Suddenly you're standing in the same street, but everything is wrong—buildings are different colors, the sun is green, and a three-headed cat is discussing philosophy with a floating teapot.*
-:
+}}
+
+{{pageNumber,auto}}
+\page
+{{description,note
 *"Ah, visitors!" the teapot says. "Splendid! We were just debating whether existence precedes essence, or vice versa. Your thoughts?"* 
 :
 *Around you, other pedestrians seem frozen mid-step.*
 }}
+
 **THE SITUATION:** ::
 - Wild magic surge from academy experiment
 - Party is trapped in pocket reality
@@ -12323,8 +12401,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Ghostly image of young boy crying
 - "They killed my family. They called us traitors. But we weren't. We WEREN'T."
 - Glimpse of young Corvus Blackwood (foreshadowing)
-{{pageNumber,auto}}
-\page
 
 **FINDING THE EXIT:** ::
 
@@ -12346,8 +12422,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Memory Fragment foreshadows Lord Shadows's trauma
 - Academy may approach party about what they experienced
 - Minor fame: "Survived a wild magic surge"
-
----
 
 ### 6. THE DYING MESSENGER
 
@@ -12378,8 +12452,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Can answer questions when he wakes (1 hour)
 - Knows: Unbound planning to raid Millbrook for "recruits"
 
-\column
-
 **Let Him Die:** ::
 - He dies with message delivered
 - Scroll contains same information (coded, DC 14 INT to decipher)
@@ -12391,6 +12463,9 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Or: Assassins track party (noticed them helping Daven)
 
 **THE MESSAGE (Decoded):** *"Elder Rowan—Unbound moving on Millbrook. Three days. They want the Miller boy—he has the Gift. Get him out or prepare to fight. Sera protect you. —Brother Aldwyn"* ::
+
+{{pageNumber,auto}}
+\page
 
 **RESOLUTION OPTIONS:** ::
 
@@ -12421,9 +12496,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Establishes Unbound as active threat
 - Daven's survival creates grateful NPC contact
 
----
-{{pageNumber,auto}}
-\page
 
 ## Combat Tactics by Enemy Type
 
@@ -12447,6 +12519,8 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Use terrain and cover effectively
 - Fight to death for Lord Shadows
 - Believe in cause, not just following orders
+
+\column
 
 ### Shadow Creatures (CR 1/2-5)
 - Incorporeal abilities, hide in shadows
@@ -12494,6 +12568,9 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - **Scepter Fragment:** Obtained from Lord Shadows (Quest 2.4), obsidian rod top, controls reality
 - **Combined:** Creates World-Splitter, capable of triggering Second Worldrend
 
+{{pageNumber,auto}}
+\page
+
 ### Common Quest Rewards
 - **Healing Potion** (50 gp) - 2d4+2 HP
 - **Potion of Greater Healing** (100 gp) - 4d4+4 HP (Act II onward)
@@ -12513,8 +12590,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - **Periapt of Wound Closure** - Stabilize automatically, double healing
 - **Wings of Flying** - Fly speed 60 ft
 - **Flame Tongue** - +2d6 fire damage weapon
-{{pageNumber,auto}}
-\page
 
 ### Very Rare Magic Items (Quests 3.3-3.4)
 - **+3 Weapon** - Legendary tier weapon
@@ -12530,6 +12605,8 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 ## NPC Stat Block Quick Reference
 
 **Note:** These are simplified "ally support" stat blocks optimized for quick reference during play. For full stat blocks with complete abilities, backgrounds, and plot hooks, see the Dungeon Master's Guide. Some NPCs (like Kael Dragonsbane, Captain Thalia, and Sage Cornelius) have higher CR versions in the DMG representing their full power; the CRs here reflect their effectiveness as party allies. ::
+
+\column
 
 ### Elder Thom Oakheart (CR 1/4)
 **HP:** 16 | **AC:** 10 | **Speed:** 30 ft ::
@@ -12552,8 +12629,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 **Tactics:** Defensive, protects civilians, honorable combat ::
 **Ally Benefit:** Can provide town guard support ::
 
-\column
-
 ### Unbound Commander (CR 5)
 **HP:** 65 | **AC:** 16 (breastplate) | **Speed:** 30 ft ::
 **Attacks:** Longsword +6 (1d8+3), Heavy Crossbow +5 (1d10+2) ::
@@ -12568,6 +12643,9 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 **Special:** Historical Expert (+13 to History/Arcana/Investigation checks), Encyclopedic Memory ::
 **Tactics:** Support caster, stays at range, provides crucial information ::
 **Ally Benefit:** Research assistance, decodes ancient texts, network of student contacts ::
+
+{{pageNumber,auto}}
+\page
 
 ### Kael Dragonsbane (Hunter Ally) (CR 7)
 **HP:** 88 | **AC:** 16 (studded leather) | **Speed:** 30 ft ::
@@ -12590,8 +12668,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 **Tactics:** Aerial superiority, breath weapon opener, legendary tail/wing ::
 **Ally Benefit:** Transportation, ancient knowledge, final battle support ::
 **Note:** Will sacrifice self for heroes if necessary ::
-{{pageNumber,auto}}
-\page
 
 ### Lord Shadows Blackwood (CR 15-17)
 **HP:** 180-270 (increases per phase) | **AC:** 17 (magic robes) | **Speed:** 30 ft ::
@@ -12635,6 +12711,9 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 5. Speed reduced to 0
 6. Death
 
+{{pageNumber,auto}}
+\page
+
 ## Quick Rules Reminders
 
 ### Action Economy
@@ -12663,9 +12742,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 ### Concentration
 - Many spells require concentration
 - Can only concentrate on one spell at a time
-{{pageNumber,auto}}
-\page
-
 - Concentration breaks if: caster casts another concentration spell, takes damage (DC 10 or half damage, whichever higher Con save), incapacitated, killed, or DM-determined distraction
 - Spells like *counterspell* and *dispel magic* can end concentration spells
 
@@ -12710,6 +12786,9 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Will Help: If shown mercy, provides crucial intelligence
 - Won't Help: If executed or permanently imprisoned without trial
 
+{{pageNumber,auto}}
+\page
+
 **Captain Roderic Ironfist** ::
 - Motivation: Maintain law and order, protect citizens
 - Secret: Suspects kingdom nobles are corrupt, loses sleep over it
@@ -12741,8 +12820,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Secret: Not actually evil, just deeply wounded and angry
 - Will Help: Those who acknowledge Blackwood innocence
 - Won't Help: Those who deny truth or defend conspirators
-{{pageNumber,auto}}
-\page
 
 ### Act III NPCs
 
@@ -12763,7 +12840,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Secret: Tired of living, sees this as his last great purpose
 - Will Sacrifice: Himself in final battle to give heroes advantage
 - Won't Betray: Those he deems worthy heroes
-
 
 ## Moral Dilemma Examples
 
@@ -12787,6 +12863,9 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 **Choice 2:** Refuse and fight - Traditional heroic path, but truth may stay buried ::
 **Choice 3:** Fake alliance, betray later - Tactical, but dishonorable ::
 **DM Tip:** This should be agonizing choice. Lord Shadows is NOT lying about wanting justice. ::
+
+{{pageNumber,auto}}
+\page
 
 ### Quest 3.2 Dilemma: Conspiracy Exposure Scope
 **Situation:** Can expose some conspirators or all, but full exposure collapses kingdoms ::
@@ -12812,8 +12891,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - No guaranteed happy ending - choices have consequences
 - Themes: justice, truth, vengeance, redemption
 - Historical injustice and how to address it
-{{pageNumber,auto}}
-\page
 
 ### Establish Safety Tools
 - X-Card: Any player can stop scene, no explanation required
@@ -12840,6 +12917,24 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 2. How does your character feel about historical wrongs?
 3. Would your character join a villain with just cause?
 4. What line won't your character cross, even for good reasons?
+
+## Relationship to Blood & Coin Campaign
+
+Shattered Oaths and Blood & Coin occur simultaneously in the same world:
+
+- **Shattered Oaths:** Central/Eastern Thaldros (Silverpine, Kaer Thandros, Raven's Keep)
+- **Blood & Coin:** Western Thaldros frontier (Crossroads, Border of Judgment)
+
+**Key Shared Elements:**
+- **Corvus Blackwood** appears in both. In Blood & Coin, he presents as a scholarly recruiter. In Shattered Oaths, he's known as "Lord Shadows," the assassin rebel leader. Both are the same person using different personas.
+- **The Unbound** operates cells across all of Thaldros. Each campaign shows different regional operations.
+- **Marcus Blackwood** (Blood & Coin refugee leader) is Corvus's younger brother—the "Lost Heir" mentioned in this campaign.
+- **The proxy war** between Thaldros and Aethoria-backed rebels (Blood & Coin's central conflict) serves as background context here.
+
+**If running for players who've played Blood & Coin:** They may recognize Corvus and the Unbound. This is intentional—reward their knowledge but don't assume it.
+
+{{pageNumber,auto}}
+\page
 
 ## Alternate Endings Overview
 
@@ -12882,9 +12977,6 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 **Player Reward:** Dark power, position in new order, dramatic world change ::
 **Note:** Only if players actively choose this path ::
 
-{{pageNumber,auto}}
-\page
-
 ## Adapting for Your Table
 
 ### If Players Are More Traditionally Heroic
@@ -12915,14 +13007,15 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Create side quests with pure combat focus
 - Still maintain story beats but accelerate between fights
 
+{{pageNumber,auto}}
+\page
+
 ### If Campaign Going Off Rails
 - Remember: Lord Shadows is monitoring heroes (can adapt plans)
 - Allies can bring party back to main storyline
 - Prophecy visions can redirect if needed
 - World-Splitter assembly creates urgency (ticking clock)
 - Worst case: Time skip to next major plot point
-
-\column
 
 ## Memorable Moments to Create
 
@@ -12947,6 +13040,8 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Mirror Fragment showing past events (witnessing injustice)
 - Alliance offer (campaign-defining choice)
 
+\column
+
 ### Act III Highlights
 - Underground pursuit (desperate chase)
 - Goldshore Manor politics (intrigue and assassination)
@@ -12964,6 +13059,8 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 - Make players feel weight of their choices
 - Make players proud of heroic redemption (if achieved)
 - Make players mourn fallen allies (if any die)
+
+![so_banner](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/banners/tirvandor-banner-shattered-oaths.png){position:absolute,bottom:-60px,left:12.5px,width:100%}
 
 {{pageNumber,auto}}
 \page
@@ -13173,11 +13270,7 @@ Use these for richer interactions in Silverpine and academy-adjacent areas. Each
 \page
 
 # Appendix E: Player Handouts
-
-{{wide
-# ⚔️ SHATTERED OATHS CAMPAIGN HANDOUTS
-}}
-
+:
 This section contains printable handouts to enhance immersion. Each handout includes:
 - **Ready-to-print version** with proper formatting
 - **DM notes** on when and how to use it
