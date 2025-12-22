@@ -8674,97 +8674,79 @@ Corvus (if alive) or Unbound remnants are deliberately creating incidents to res
 *Welcome to Act III. This is what you earned in Act II. The privilege of defending what you built.*
 }}
 
-
----
-
 ## Rewards
 
-**Based on resolutions:**
+**Based on resolutions:** ::
 
-**If All Three crises resolved successfully:**
+**If All Three crises resolved successfully:** ::
 - 2,000gp from grateful kingdoms
 - Reputation: +8 with both (or uneven depending on choices)
 - Title confirmed: "Official Peacekeepers"
 - Rooms at diplomatic quarter (free lodging)
 
-**If 2 of 3 resolved:**
+**If 2 of 3 resolved:** ::
 - 1,200gp
 - Reputation: +5 average
 - Peace holds but strained
 
-**If only 1 resolved:**
+**If only 1 resolved:** ::
 - 500gp
 - Reputation: +2
 - Peace very fragile
 - Might not survive Act III
 
-**If none resolved:**
+**If none resolved:** ::
 - 0gp
 - Peace breaks
 - War resumes
 - Failed Act III (bad ending)
 
----
-
 ## Level Up
 
-**PCs remain Level 11** after this quest.
+**PCs remain Level 11** after this quest. ::
 
 This quest establishes Act III pattern: constant crisis management.
-
----
-
-## New Npcs For Compendium
-
-**Add these:**
-
-1. **Thaldros Border Captain Marcus Stone** (Knight, CR 3) - nervous, hiding guilt
-2. **Frontier Lieutenant Sara Brightwind** (Veteran, CR 3) - righteous anger
-3. **Thaldros Admiral Viktor Seaworth** (Knight, CR 5) - rigid, lawful
-4. **Aethoria Diplomat Chen Aldermist** (Noble, CR 2) - idealist
-5. **Brother Ash** (Unbound Agitator, Priest, CR 7) - if captured
-
----
 
 ## DM Guidance
 
 ### **Running Multiple Crises**
 
-**Don't make PCs solve all simultaneously:**
+**Don't make PCs solve all simultaneously:** ::
 - They prioritize (which matters most?)
 - Delegate (can send allies to handle one)
 - Accept imperfect solutions
 
-**Time Pressure:**
+**Time Pressure:** ::
 - Each crisis has deadline
 - Can't perfectly solve all
 - Forces hard choices
 
 ### **The Investigation Layer**
 
-**Reward thorough investigation:**
+**Reward thorough investigation:** ::
 - Pattern emerges if they look
 - Unbound connection is findable
 - Sets up Act III villain
 
-**But don't require it:**
+**But don't require it:** ::
 - Can resolve crises without seeing pattern
 - Just makes Quest 3.2 harder
 
 ### **Peace is Hard**
 
-**This quest establishes theme:**
+**This quest establishes theme:** ::
 - Peace requires constant work
 - Both sides need maintenance
+
+\page
+
 - No victory, just daily survival
 - This is the "good" ending they earned
 - But "good" doesn't mean "easy"
 
----
+## Transition to Quest 3.2
 
-## Transition to QUEST 3.2
-
-**After resolving crises:**
+**After resolving crises:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -8775,43 +8757,21 @@ This quest establishes Act III pattern: constant crisis management.
 *Quest 3.2: Hunt the Unbound. Root out the saboteurs. Before they succeed in breaking what you built.*
 }}
 
+## Quest 3.2: The Underground
 
----
-
-**Quest 3.1: The Peacekeepers - Complete**
-
-**8,500 words**  
-**Three interconnected crises**  
-**Multiple resolution paths**  
-**Sets up Act III structure**  
-**Peace Path established**
-
-🗡️💰☮️🕊️
-
-**Next: Quest 3.2 (The Underground)**
-
-\page
-
-\page
-
-{{wide
-# Quest 3.2: The Underground
-}}
 
 ## Blood & Coin Campaign - Act III (Peace Path)
 
-**Level:** 12  
-**Duration:** 3-4 sessions  
-**Objective:** Hunt down Unbound cells sabotaging the peace  
-**Key NPCs:** Brother Ash, Elara Corvus, Unbound leadership  
-**Rewards:** 3,000gp + Unbound artifacts  
-**Theme:** "Root out the cancer before it spreads"
-
----
+**Level:** 12   ::
+**Duration:** 3-4 sessions  ::
+**Objective:** Hunt down Unbound cells sabotaging the peace   ::
+**Key NPCs:** Brother Ash, Elara Corvus, Unbound leadership   ::
+**Rewards:** 3,000gp + Unbound artifacts   ::
+**Theme:** "Root out the cancer before it spreads" ::
 
 ## Quest Setup
 
-**Two weeks after Quest 3.1**
+**Two weeks after Quest 3.1** ::
 
 ##### Read Aloud:
 {{description,note
@@ -8820,57 +8780,50 @@ This quest establishes Act III pattern: constant crisis management.
 *Both kingdoms agree: The Unbound must be eliminated. They've tasked you—the Peacekeepers—with hunting them down.*
 
 *Intelligence suggests three major Unbound cells operating:*
-}}
 
 - *Cell Alpha: Thaldros capital (urban terrorists)*
 - *Cell Beta: Border region (guerrilla fighters)*  
 - *Cell Gamma: Unknown location (leadership)*
-{{description,note
+
 *Destroy all three. Before they destroy the peace you built.*
 }}
 
----
-
 ## The Hunt Structure
 
-**Three phases:**
+**Three phases:** ::
 
-1. **cell alpha** - Urban Infiltration
-2. **cell beta** - Border Strike
-3. **cell gamma** - Final Confrontation
-
----
+1. **Cell Alpha** - Urban Infiltration
+2. **Cell Beta** - Border Strike
+3. **Cell Gamma** - Final Confrontation
 
 ## Phase 1: Cell Alpha (Urban Terrorists)
 
-**Location:** Thaldros Capital, Underground Network
+**Location:** Thaldros Capital, Underground Network ::
 
 ### **Intelligence Gathering**
 
-**PCs must locate the cell:**
+**PCs must locate the cell:** ::
 
-**Investigation Options:**
+**Investigation Options:** ::
 
-**Option 1: Interrogate Brother Ash** (if captured in Quest 3.1)
+**Option 1: Interrogate Brother Ash** (if captured in Quest 3.1) ::
 - **Intimidation DC 18** or **Persuasion DC 20**
 - He's fanatic, resistant
 - Success: Reveals Cell Alpha location
 
-**Option 2: Follow the Money**
+**Option 2: Follow the Money** ::
 - Track Unbound financial networks
 - **Investigation DC 17** (3 days)
 - Success: Find safehouse funding source
 
-**Option 3: Informant Network**
+**Option 3: Informant Network** ::
 - Use street contacts, criminals, beggars
 - **Persuasion DC 16** + 200gp bribes
 - Success: Rumors lead to cell location
 
----
-
 ### **The SAFEHOUSE**
 
-**Once located:**
+**Once located:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -8881,91 +8834,87 @@ This quest establishes Act III pattern: constant crisis management.
 *You can raid now. Or infiltrate first.*
 }}
 
-
----
-
 ### **Approach Options**
 
-**Option A: FRONTAL RAID**
+**Option A: FRONTAL RAID** ::
 
-**Assault the safehouse directly:**
+**Assault the safehouse directly:** ::
 
-**Encounter:**
+**Encounter:** ::
 
-**12 Unbound Cultists** (Cultist stats, CR 1/8)  
-**2 Unbound Fanatics** (Priest stats, CR 2)  
-**1 Cell Leader: Brother Marcus** (Priest, CR 5)
+**12 Unbound Cultists** (Cultist stats, CR 1/8)   ::
+**2 Unbound Fanatics** (Priest stats, CR 2)   ::
+**1 Cell Leader: Brother Marcus** (Priest, CR 5) ::
 
-**Tactics:**
+**Tactics:** ::
 - Cultists fight desperately (zealots)
 - Fanatics use AOE spells
 - Leader tries to destroy evidence if losing
 - Some surrender if leader killed
 
-**If PCs win:**
+**If PCs win:** ::
 - Cell eliminated
 - Documents recovered (intelligence)
 - 3-5 prisoners for interrogation
 - Loud, attracts guards (must explain)
 
----
+\page
 
-**Option B: INFILTRATION**
+**Option B: INFILTRATION** ::
 
-**Go undercover as recruits:**
+**Go undercover as recruits:** ::
 
-**Requirements:**
+**Requirements:** ::
 - Deception DC 17 (pretend to be disillusioned)
 - Performance DC 16 (act like true believers)
 - Must pass initiation test
 
-**Initiation Test:**
+**Initiation Test:** ::
 {{description,note
 *"Prove your loyalty. Kill this prisoner." (They have someone tied up—actually a homeless person they kidnapped, not a cultist)*
 
-**PCs must:**
+
 }}
 
+**PCs must:** ::
 - Actually kill (evil, but maintains cover)
 - Fake kill (Sleight of Hand DC 18)
 - Refuse (blow cover, immediate combat)
 
-**If maintain cover:**
+**If maintain cover:** ::
 - Learn Cell Alpha's next target
 - Find Cell Beta location
 - Can sabotage from inside OR
 - Call in guards to arrest everyone
 
----
+**Option C: TURN INFORMANT** ::
 
-**Option C: TURN INFORMANT**
+**Flip a member:** ::
 
-**Flip a member:**
-
-**Find vulnerable cultist:**
+**Find vulnerable cultist:** ::
 - **Insight DC 15** to identify doubter
 - **Persuasion DC 17** to flip them
 
-**If successful:**
+**If successful:** ::
 - Informant provides intel
 - Gives layout, member count
 - Reveals next attack plan
 - Can help from inside during raid
 
----
+### **The Intelligence**
 
-### **The INTELLIGENCE**
-
-**Documents recovered from safehouse:**
+**Documents recovered from safehouse:** ::
 
 **Investigation DC 14:**
 {{description,note
 *Letters between cells. Cell Beta located at "Thornwood Ruins" (where Red Wolf operated, Quest 1.3 callback!). Cell Gamma location still unknown but references "The Prophet's Sanctum."*
-
+}}
 **Investigation DC 16:**
+{{description,note
 *Next planned attack: Assassinate both Dawnblade AND Valen simultaneously at next diplomatic summit (3 days away). Two-pronged attack to decapitate moderate leadership.*
-
+}}
 **Investigation DC 18:**
+{{description,note
 *Financial records. Unbound cells being funded by... someone external. Wealthy patron. Identity unclear. Code name: "The Architect."*
 }}
 
@@ -8973,21 +8922,21 @@ This quest establishes Act III pattern: constant crisis management.
 
 ### **The CHOICE**
 
-**PCs learn of assassination plot:**
+**PCs learn of assassination plot:** ::
 
-**Option 1: Warn Both Leaders**
+**Option 1: Warn Both Leaders** ::
 - Prevent assassination
 - Diplomatic summit canceled/secured
 - Peace maintained
 - BUT lose chance to capture assassins
 
-**Option 2: Set Trap**
+**Option 2: Set Trap** ::
 - Let summit proceed
 - Position ambush
 - Capture assassins (gain more intel)
 - RISKY—if trap fails, leaders die
 
-**Option 3: Only Warn One**
+**Option 3: Only Warn One** ::
 - Choose to save Dawnblade OR Valen
 - Other leader dies
 - Major political upheaval
@@ -8997,20 +8946,18 @@ This quest establishes Act III pattern: constant crisis management.
 
 ## Phase 2: Cell Beta (Border Guerrillas)
 
-**Location:** Thornwood Ruins (Quest 1.3 callback)
+**Location:** Thornwood Ruins (Quest 1.3 callback) ::
 
 ### **The Journey**
 
-**Three-day travel to border region:**
+**Three-day travel to border region:** ::
 
-**Random Encounter (optional):**
+**Random Encounter (optional):** ::
 
-**Unbound Scout Party:**
+**Unbound Scout Party:** ::
 - 6 **Unbound Scouts** (Scout stats, CR 1/2)
 - Scouting for Cell Beta
 - Can be captured for intel OR killed
-
----
 
 ### **Thornwood Ruins**
 
@@ -9022,9 +8969,6 @@ This quest establishes Act III pattern: constant crisis management.
 
 *Intel suggests 20-30 members. Mix of fighters and cultists. Led by someone called "The Reaper."*
 }}
-
-
----
 
 ### **Reconnaissance**
 
@@ -9039,20 +8983,15 @@ This quest establishes Act III pattern: constant crisis management.
 - Central tent (leader's quarters)
 - Prisoners (3 captured border guards)
 
-**Perception DC 17:**
-{{description,note
-*The Reaper is a woman. Mid-40s. One-eyed. Scarred. Wait... you recognize her. That's Elise Thornwood—Red Wolf's SISTER (from Quest 1.3 if she survived).*
-}}
+\page
 
----
-
-{{monster,frame
+{{monster,frame,wide
 ## Elise Thornwood (The Reaper)
 *Medium humanoid (human), chaotic evil (was neutral good)*
 ___
 **Armor Class** :: 17 (studded leather)
 **Hit Points** :: 135 (18d8 + 54)
-**Speed** :: 40 ft.
+**Speed** :: 40 ft.![Elise Thornwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/bc-elise-thornwood-reaper.jpg){width:300px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -9081,9 +9020,12 @@ ___
 ***Shadow Step (Recharge 5-6).*** Bonus action, teleport up to 60 feet to unoccupied space in dim light/darkness.
 }}
 
-![Elise Thornwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elise-thornwood.png){width:300px}
+**Perception DC 17:**
+{{description,note
+*The Reaper is a woman. Mid-40s. One-eyed. Scarred. Wait... you recognize her. That's Elise Thornwood—Red Wolf's SISTER (from Quest 1.3 if she survived).*
+}}
 
-**Background:**
+**Background:** ::
 - Red Wolf's younger sister
 - If PCs killed Red Wolf: Seeks revenge
 - If PCs helped Red Wolf: Feels betrayed (you "saved" her for THIS?)
@@ -9093,132 +9035,125 @@ ___
 
 #### Personality & Motivation
 
-**Motivation:**
+**Motivation:** ::
 - Revenge (if you killed Red Wolf)
 - Or nihilism (if you helped—sister still died/was imprisoned)
 - Believes peace is lie
 - War is natural state
 - Unbound offers purpose
 
-**What She Wants:**
+**What She Wants:** ::
 - Destroy the peace
 - Punish you specifically (if past conflict)
 - Die fighting (death wish)
 
-**Weakness:**
+**Weakness:** ::
 - Mention Red Wolf (disadvantage on Wisdom saves for 1 round)
 - Show mercy (confuses her)
 
----
-
 ### **Approach Options**
 
-**Option A: NEGOTIATION**
+**Option A: NEGOTIATION** ::
 
-**If PCs helped Red Wolf in Quest 1.3:**
+**If PCs helped Red Wolf in Quest 1.3:** ::
 
-**Persuasion DC 20** to reach her:
+**Persuasion DC 20** to reach her: ::
 
-**Arguments:**
+**Arguments:** ::
 - "Your sister wanted peace, not more war"
+
+\page
+
 - "The Unbound are using you"
 - "Red Wolf died for justice, not chaos"
 
-**If successful:**
+**If successful:** ::
 - Elise stands down
 - Cell Beta surrenders
 - Prisoners released
 - Major intelligence gained
 - **Best outcome**
 
-**If failed:**
+**If failed:** ::
 - "My sister died for NOTHING. Peace is a lie. Now you die too."
 - Combat initiated
 
----
+**If PCs killed Red Wolf:** ::
 
-**If PCs killed Red Wolf:**
+**Persuasion DC 25** (nearly impossible): ::
 
-**Persuasion DC 25** (nearly impossible):
-
-**She wants revenge. Words won't work unless:**
+**She wants revenge. Words won't work unless:** ::
 - Offer yourself for trial (justice for Red Wolf)
 - Prove consortium was punished (justice served)
 - Resurrect Red Wolf (expensive, but possible at this level)
 
----
+**Option B: ASSAULT** ::
 
-**Option B: ASSAULT**
+**Full military assault:** ::
 
-**Full military assault:**
+**Encounter:** ::
 
-**Encounter:**
+**Elise "The Reaper" Thornwood** (CR 9)   ::
+**20 Unbound Fighters** (Bandit stats, CR 1/8)   ::
+**4 Unbound Veterans** (Veteran stats, CR 3) ::
 
-**Elise "The Reaper" Thornwood** (CR 9)  
-**20 Unbound Fighters** (Bandit stats, CR 1/8)  
-**4 Unbound Veterans** (Veteran stats, CR 3)
-
-**Wave Combat:**
+**Wave Combat:** ::
 - Wave 1: 10 fighters rush PCs
 - Wave 2: 4 veterans + 10 fighters coordinated
 - Wave 3: Elise + remaining forces
 
-**Tactics:**
+**Tactics:** ::
 - Elise snipes from cover (guerrilla warfare)
 - Uses Shadow Step to reposition
 - Targets weakest PC with Assassinate
 - If reduced to 30 HP, tries to flee (can be pursued)
 
-**If PCs win:**
+**If PCs win:** ::
 - Cell Beta destroyed
 - Prisoners rescued
 - Camp intelligence recovered
 - Elise captured or killed
 
----
+**Option C: RESCUE PRISONERS FIRST** ::
 
-**Option C: RESCUE PRISONERS FIRST**
+**Stealth mission:** ::
 
-**Stealth mission:**
-
-**Goals:**
+**Goals:** ::
 - Sneak in (Stealth DC 17)
 - Free 3 prisoners
 - Escape without alerting camp
 - Return with forces to assault
 
-**If successful:**
+**If successful:** ::
 - Prisoners provide intel
 - Map of camp
 - Elise's patrol schedule
 - Advantage on assault
 
----
-
 ### **The INTELLIGENCE**
 
-**Documents from Cell Beta:**
+**Documents from Cell Beta:** ::
 
 **Investigation DC 15:**
 {{description,note
 *Supply manifests. Cell Gamma sending funds and weapons. Location mentioned: "Old Kaer Ruins" (Quest 2.2-U callback!). The vault you infiltrated. They've taken it as headquarters.*
-
+}}
 **Investigation DC 17:**
+{{description,note
 *Communications with "The Prophet." Not Corvus (he's dead/imprisoned). New leader. Code name or title. References "completing the Master's work."*
-
+}}
 **Investigation DC 19:**
+{{description,note
 *Detailed plans for "Operation Collapse": Simultaneous attacks on 10 diplomatic sites across both kingdoms. Timed to coincide with "The Awakening" (unclear what that means). Date: 2 weeks from now.*
 }}
 
----
-
 ## Phase 3: Cell Gamma (Leadership)
 
-**Location:** Old Kaer Ruins (deep vault)
+**Location:** Old Kaer Ruins (deep vault) ::
 
 ### **The DESCENT**
 
-**Return to Old Kaer:**
+**Return to Old Kaer:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -9229,29 +9164,26 @@ ___
 *And deeper down, in the sanctum where you fought the Guardian: The Prophet awaits.*
 }}
 
-
----
-
 ### **Infiltration Options**
 
-**Option A: Stealth Approach**
+**Option A: Stealth Approach** ::
 - Sneak past patrols (Stealth DC 18, 3 checks)
 - Reach vault undetected
 - Face leadership only
 
-**Option B: Open Assault**
+**Option B: Open Assault** ::
 - Fight through cultists
 - 30 **Unbound Cultists** (waves of 10)
 - 6 **Unbound Priests** (CR 2)
 - Exhausting but direct
 
-**Option C: Parlance**
+\page
+
+**Option C: Parlance** ::
 - Request meeting with Prophet
 - Deception DC 17 (claim to defect)
 - Get face-to-face audience
 - Can attack during meeting or actually talk
-
----
 
 ### **The PROPHET**
 
@@ -9295,6 +9227,7 @@ ___
 ***Reality Sense.*** Detects magical deception within 120 ft.
 
 ***Legendary Resistance (2/Day).*** Choose to succeed on failed save.
+____
 ### Actions
 ***Multiattack.*** Three reality beam attacks OR cast spell + beam.
 
@@ -9321,17 +9254,13 @@ Elara takes 2 legendary actions:
 ***Reality Warp (Costs 2).*** Uses Reshape Minor Reality if available.
 }}
 
-![The Prophet](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elara-corvus-prophet.png){width:300px}
-
-**If Elara survived Act II and PCs killed/stopped Corvus:**
+**If Elara survived Act II and PCs killed/stopped Corvus:** ::
 
 She took up her father's mantle. Believes in his vision. Completed Component training. Blames PCs for his death.
 
----
-
 ### **The CONFRONTATION**
 
-**Elara's Monologue:**
+**Elara's Monologue:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -9350,106 +9279,95 @@ She took up her father's mantle. Believes in his vision. Completed Component tra
 *"You can join us. Or die opposing us. Choose."*
 }}
 
-
----
-
 ### **The Final Choice**
 
-**PCs can:**
+**PCs can:** ::
 
-**Option 1: FIGHT**
+**Option 1: FIGHT** ::
 
-**Boss Fight:**
+**Boss Fight:** ::
 
-**The Prophet (Elara)** (CR 12)  
-**6 Unbound High Priests** (Priest stats, CR 5)  
-**20 Unbound Cultists** (CR 1/8, reinforcements)
+**The Prophet (Elara)** (CR 12)   ::
+**6 Unbound High Priests** (Priest stats, CR 5)   ::
+**20 Unbound Cultists** (CR 1/8, reinforcements) ::
 
-**Phases:**
+**Phases:** ::
 - Phase 1: Elara + 6 priests
 - Phase 2 (at 75 HP): Cultists arrive, Elara uses Component Pulse
 - Phase 3 (at 30 HP): Elara goes all-out, attempts plane shift to escape
 
-**Tactics:**
+**Tactics:** ::
 - Priests buff Elara, debuff PCs
 - Elara uses terrain control
 - Focuses fire on one PC at a time
 - If clearly losing, tries to escape
 
-**If PCs win:**
+\page
+
+**If PCs win:** ::
 - Cell Gamma destroyed
 - Elara captured/killed
 - Component fragment recovered
 - Operation Collapse documents found
 
----
+**Option 2: REDEEM** ::
 
-**Option 2: REDEEM**
+**If PCs stopped Corvus but showed mercy before:** ::
 
-**If PCs stopped Corvus but showed mercy before:**
+**Persuasion DC 22** to reach Elara: ::
 
-**Persuasion DC 22** to reach Elara:
-
-**Arguments:**
+**Arguments:** ::
 - "Your father was wrong, but he loved you"
 - "This isn't salvation, it's tyranny"
 - "Honor his memory by being better than him"
 - "You can still choose differently"
 
-**If successful (very hard):**
+**If successful (very hard):** ::
 - Elara breaks down
 - Admits she's scared, lost, angry
 - Doesn't know if father was right
 - Agrees to disband Unbound
 - **Best ending**
 
-**If failed:**
+**If failed:** ::
 - "You don't understand. You never will. My father understood EVERYTHING."
 - Combat initiated
 
----
+**Option 3: JOIN HER** ::
 
-**Option 3: JOIN HER**
+**Accept Elara's offer:** ::
 
-**Accept Elara's offer:**
-
-**This is evil.**
+**This is evil.** ::
 
 PCs become Unbound leadership. Help execute Operation Collapse. Enable tyranny. Bad ending.
 
-**Don't offer this lightly.**
-
----
+**Don't offer this lightly.** ::
 
 ## Operation Collapse
 
-**If Elara defeated/stopped:**
+**If Elara defeated/stopped:** ::
 
-**Documents reveal full plan:**
+**Documents reveal full plan:** ::
 
-**Investigation DC 14:**
+**Investigation DC 14:** ::
 {{description,note
 *10 coordinated attacks:*
-}}
 
 - *Thaldros Royal Palace*
 - *Aetheran Council Building*  
 - *5 major trade hubs*
 - *3 military installations*
-{{description,note
-*Timed for same hour. Maximum chaos. Goal: Make people desperate for "strong leader" to restore order.*
 
+*Timed for same hour. Maximum chaos. Goal: Make people desperate for "strong leader" to restore order.*
 }}
 
-**All attacks prevented** if Cell Gamma destroyed.
+**All attacks prevented** if Cell Gamma destroyed. ::
 
-**If Cell Gamma escapes:** Attacks proceed (Quest 3.3 prevents them)
-
----
+**If Cell Gamma escapes:** Attacks proceed (Quest 3.3 prevents them) ::
 
 ## Aftermath
 
-**If all three cells destroyed:**
+**If all three cells destroyed:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -9463,87 +9381,60 @@ PCs become Unbound leadership. Help execute Operation Collapse. Enable tyranny. 
 }}
 
 
----
-
 ## Rewards
 
-**Based on cells destroyed:**
+**Based on cells destroyed:** ::
 
-**All 3 cells:** 3,000gp + honors from both kingdoms  
-**2 cells:** 2,000gp + moderate thanks  
-**1 cell:** 800gp + concern about remaining threats  
+**All 3 cells:** 3,000gp + honors from both kingdoms   ::
+**2 cells:** 2,000gp + moderate thanks   ::
+**1 cell:** 800gp + concern about remaining threats   ::
 
-**Plus:**
+**Plus:** ::
 - Component Fragment (if recovered from Elara)
 - Unbound artifacts (various minor magic items)
 - Reputation: +10 with both kingdoms
 - Reputation: -30 with remaining Unbound (hunted)
 
----
-
 ## Level Up
 
-**PCs reach Level 13** after Quest 3.2.
+**PCs reach Level 13** after Quest 3.2. ::
 
-**New capabilities:**
+**New capabilities:** ::
 - 7th level spells
 - Powerful class features
 - Tier 3 fully realized
 
----
-
 ## Transition to QUEST 3.3
 
-**One month later:**
+**One month later:** ::
 
 ##### Read Aloud:
 {{description,note
 *Peace holds. One month without major incidents. Trade flows. Diplomacy continues. People dare to hope.*
 
-*Then you're summoned to emergency session. Both Dawnblade and Valen present. Faces grim.*
+*Then you're summoned to an emergency session. Both Dawnblade and Valen are present, their faces grim.*
 
-*"We have a problem. A threat bigger than Unbound. Something that could destroy both kingdoms.*
+*"We have a problem. A threat bigger than the Unbound. Something that could destroy both kingdoms.*
 
-*"Quest 3.3: The External Threat. It's not about us anymore. It's about survival."*
+*"It's not about us anymore. It's about survival."*
 }}
 
-
----
-
-**Quest 3.2: The Underground - Complete**
-
-**10,000 words**  
-**Three-phase hunt**  
-**Major boss battle**  
-**Prevents Operation Collapse**  
-**Multiple NPC returns from earlier acts**
-
-🗡️💰🔥☮️
-
-**Next: Quest 3.3 (The Alliance)**
-
-\page
-
-\page
-
-{{wide
-# Quest 3.3: The Alliance
-}}
+## Quest 3.3: The Alliance
 
 ## Blood & Coin Campaign - Act III (Peace Path)
 
-**Level:** 13  
-**Duration:** 3-4 sessions  
-**Objective:** Unite kingdoms against external threat  
-**Key NPCs:** Dawnblade, Valen, external enemy, your allies  
-**Rewards:** 4,000gp + legendary cooperation  
-**Theme:** "Old enemies, new allies"
+**Level:** 13   ::
+**Duration:** 3-4 sessions   ::
+**Objective:** Unite kingdoms against external threat   ::
+**Key NPCs:** Dawnblade, Valen, external enemy, your allies   ::
+**Rewards:** 4,000gp + legendary cooperation   ::
+**Theme:** "Old enemies, new allies" ::
 
----
+\page
 
 ## Quest Setup
 
-**One month after Quest 3.2**
+**One month after Quest 3.2** ::
 
 ##### Read Aloud:
 {{description,note
@@ -9562,32 +9453,27 @@ PCs become Unbound leadership. Help execute Operation Collapse. Enable tyranny. 
 *"For the first time in 500 years, Thaldros and Aethoria must fight together. Or die separately."*
 }}
 
-
----
-
 ## The External Threat
 
-**What's attacking:**
+**What's attacking:** ::
 
 ### **The DREADHOST**
 
-**Origin:** Northern Wastes beyond known borders
+**Origin:** Northern Wastes beyond known borders ::
 
-**Composition:**
+**Composition:** ::
 - **Undead Legion** (10,000+ reanimated soldiers)
 - **Necromancer Lords** (6 powerful casters)
 - **The Dread King** (CR 18 necromancer lich)
 - **Purpose:** Conquest and conversion (turn living into undead)
 
-**Background:**
+**Background:** ::
 
 Over a thousand years ago, during the chaos of the Godsfall, an ambitious king in the far north tried to achieve immortality using forbidden necromancy. He succeeded—becoming a lich. His kingdom fell, all citizens converted to undead servants. For centuries, he's been isolated in the frozen wastes, building his forces.
 
 Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 
-**This is existential threat requiring unity.**
-
----
+**This is existential threat requiring unity.** ::
 
 ## The Intelligence
 
@@ -9598,7 +9484,11 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 *"Village of Northholm: Population 200. Found every citizen dead, reanimated within hours. Witnesses from nearby—before they fled—describe: 'Dead army. Thousands. Led by corpse-wizards in black robes. And at the rear... something ancient. Wearing crown of bone. The Dread King.'*
 
 *"Villages of Frostmere and Ironwood: Same fate. Total conversion. Undead population now estimated 10,600 and growing with each conquest.*
+}}
 
+\column
+
+{{description,note
 *"Rate of advance: 30 miles per week. ETA to our borders: 14 days. ETA to capitals: 30-40 days."*
 
 **Military assessment:**
@@ -9610,77 +9500,71 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 *"Assessment: We're outnumbered. And our dead become their reinforcements. Without cooperation, we lose. Even with cooperation... uncertain."*
 }}
 
-
----
-
 ## Phase 1: Forge The Alliance
 
-**PCs must unite the kingdoms:**
+**PCs must unite the kingdoms:** ::
 
 ### **The Political Challenge**
 
-**Problem:** Both kingdoms technically cooperating, but:
+**Problem:** Both kingdoms technically cooperating, but: ::
 - Commanders don't trust each other
 - Soldiers refuse to fight alongside "enemy"
 - Logistics nightmare (different supply chains)
 - Cultural differences (monarchy vs democracy)
 - Old hatreds die hard
 
-**PCs' Role:** Make it actually work
-
----
+**PCs' Role:** Make it actually work ::
 
 ### **Challenge 1: Unified Command**
 
-**Who commands combined army?**
+**Who commands combined army?** ::
 
-**The Debate:**
+**The Debate:** ::
 
 **Thaldros Position (Dawnblade):**
 {{description,note
 *"Unified command requires clear hierarchy. Thaldros has more experienced generals, better logistics, established chain of command. I should lead."*
-
+}}
 **Aethoria Position (Valen):**
+{{description,note
 *"Democracy means equal partnership. Joint command or no deal. We won't submit to monarchy's authority just because there's a crisis."*
-
-**Both have valid points. Both refuse to budge.**
 }}
 
----
+**Both have valid points. Both refuse to budge.** ::
 
-**PCs must mediate:**
+**PCs must mediate:** ::
 
-**Option 1: Support Thaldros Command**
+**Option 1: Support Thaldros Command** ::
 - **Persuasion DC 18** to convince Aethoria
 - Argument: "Experience matters. Now's not time for democracy."
 - If successful: Unified command under Dawnblade
 - Consequence: Aethoria resentful but complies
 
-**Option 2: Support Joint Command**
+**Option 2: Support Joint Command** ::
 - **Persuasion DC 16** (easier, fair compromise)
 - Argument: "Both contribute equally, both command equally."
 - If successful: War council system
 - Consequence: Slower decisions but better morale
 
-**Option 3: Suggest Third-Party Command**
+\page
+
+**Option 3: Suggest Third-Party Command** ::
 - **Persuasion DC 20** (bold)
 - Argument: "Neither side leads. We—the Peacekeepers—command."
 - If successful: PCs become Supreme Commanders
 - Consequence: Ultimate responsibility falls on you
 
-**Option 4: Split Forces**
+**Option 4: Split Forces** ::
 - Let each kingdom fight independently
 - Coordinate loosely
 - Easier politically
 - **Terrible strategically** (lich will defeat them separately)
 
----
-
 ### **Challenge 2: Troop Integration**
 
-**How to make enemies fight together?**
+**How to make enemies fight together?** ::
 
-**The Problem:**
+**The Problem:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -9689,75 +9573,68 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 *Officers report: Morale low. Soldiers don't want to die for "the enemy." Some considering desertion.*
 }}
 
+**PCs must build unity:** ::
 
----
-
-**PCs must build unity:**
-
-**Option 1: Joint Training Exercise**
+**Option 1: Joint Training Exercise** ::
 - Force soldiers to drill together
 - **Performance DC 16** (lead by example)
 - Success: Grudging respect forms
 - Time: 3 days
 
-**Option 2: Shared Threat Reminder**
+**Option 2: Shared Threat Reminder** ::
 - Show them what they're fighting (bring undead prisoner OR testimonies from survivors)
 - **Persuasion DC 15**
 - Success: Fear overrides hatred
 - Time: 1 day
 
-**Option 3: Cultural Exchange**
+**Option 3: Cultural Exchange** ::
 - Organize joint meals, songs, storytelling
 - **Persuasion DC 17**
 - Success: Humanize each other
 - Time: 5 days
 
-**Option 4: Nothing**
+**Option 4: Nothing** ::
 - Let them stay divided
 - They'll cooperate under fire (maybe)
 - Risk: They might not
 
----
-
 ### **Challenge 3: Resource Allocation**
 
-**Who gets limited resources?**
+**Who gets limited resources?** ::
 
-**The Scarcity:**
+**The Scarcity:** ::
 - Only 500 healing potions (need 1,000+)
 - Only 100 magic weapons (undead resistant to normal)
 - Only 50 clerics (Turn Undead is critical)
 
-**Both sides want priority. PCs decide:**
+**Both sides want priority. PCs decide:** ::
 
-**Option 1: Equal Split**
+**Option 1: Equal Split** ::
 - Fair but insufficient for both
 - Neither side satisfied but can't complain
 - **Persuasion DC 14**
 
-**Option 2: Merit-Based**
+**Option 2: Merit-Based** ::
 - Best units get priority
 - Actually strategic
 - Angers weaker units
 - **Persuasion DC 17**
 
-**Option 3: Front-Line Priority**
+**Option 3: Front-Line Priority** ::
 - Those facing worst danger get resources
 - Makes sense tactically
 - Morale boost for those chosen
 - **Persuasion DC 15**
 
----
-
 ## Phase 2: The First Battle
 
-**One week later. The Dreadhost arrives.**
+**One week later. The Dreadhost arrives.** ::
 
 ### **The BATTLEFIELD**
 
-**Location:** The Judgment Border (where war almost happened)
+**Location:** The Judgment Border (where war almost happened) ::
 
-**Irony:** The place where you prevented war... now hosts battle to save both kingdoms.
+**Irony:** The place where you prevented war... now hosts battle to save both kingdoms. ::
 
 ##### Read Aloud:
 {{description,note
@@ -9774,46 +9651,41 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 *This is it. The battle for survival.*
 }}
 
-
----
-
 ### **The Battle Structure**
 
-**This is large-scale battle. Don't run every soldier.**
+**This is large-scale battle. Don't run every soldier.** ::
 
-**Abstract using three phases:**
+**Abstract using three phases:** ::
 
----
+**Battle Phase 1: The First Wave** ::
 
-**Battle Phase 1: The First Wave**
+**Dreadhost sends forward 2,000 zombies:** ::
 
-**Dreadhost sends forward 2,000 zombies:**
+**PCs' Role:** Hold the center line ::
 
-**PCs' Role:** Hold the center line
+\page
 
-**Encounter:**
+**Encounter:** ::
 
-**40 Zombies** (CR 1/4, abstracted—PCs fight 40, represent larger battle)  
-**4 Wights** (CR 3, squad leaders)  
-**1 Death Knight** (CR 8, wave commander)
+**40 Zombies** (CR 1/4, abstracted—PCs fight 40, represent larger battle)   ::
+**4 Wights** (CR 3, squad leaders)   ::
+**1 Death Knight** (CR 8, wave commander) ::
 
-**Tactics:**
+**Tactics:** ::
 - Zombies mindlessly charge
 - Wights command them
 - Death Knight hangs back, eliminates strong defenders
 
-**Allied Forces:** Handle rest of wave (abstracted)
+**Allied Forces:** Handle rest of wave (abstracted) ::
 
-**If PCs hold line:** First wave repelled, 200 allied casualties  
-**If PCs fail:** Line breaks, 500 casualties, bad morale
+**If PCs hold line:** First wave repelled, 200 allied casualties   ::
+**If PCs fail:** Line breaks, 500 casualties, bad morale ::
 
----
+**Battle Phase 2: Necromantic Assault** ::
 
-**Battle Phase 2: Necromantic Assault**
+**Necromancer Lords begin raising fallen:** ::
 
-**Necromancer Lords begin raising fallen:**
-
-**The Horror:**
+**The Horror:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -9824,56 +9696,50 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 *Someone needs to stop the necromancers.*
 }}
 
+**PCs' Role:** Counter-battery mission ::
 
----
+**Options:** ::
 
-**PCs' Role:** Counter-battery mission
-
-**Options:**
-
-**Option A: Direct Assault**
+**Option A: Direct Assault** ::
 - Charge necromancer lines
 - Fight through undead to reach casters
 - Very dangerous
 - 2 encounters (undead screen + necromancers)
 
-**Option B: Aerial Approach**
+**Option B: Aerial Approach** ::
 - Fly over battle (if PCs have flight)
 - Bypass undead
 - Surprise necromancers
 - 1 encounter (necromancers only)
 
-**Option C: Clerical Strike**
+**Option C: Clerical Strike** ::
 - Lead 50 clerics in Turn Undead wave
 - Clear path to necromancers
 - Religion DC 16 to coordinate
 - Success: Path cleared, 1 encounter (necromancers)
 
----
+**Encounter:** ::
 
-**Encounter:**
+**2 Necromancer Lords** (CR 12 each) ::
 
-**2 Necromancer Lords** (CR 12 each)
+**Use Lich stats but weaker:** ::
 
-**Use Lich stats but weaker:**
+**AC:** 17 | **HP:** 150 each | **Speed:** 30 ft. ::
 
-**AC:** 17 | **HP:** 150 each | **Speed:** 30 ft.
+**Spellcasting (DC 17, +9 to hit):** ::
 
-**Spellcasting (DC 17, +9 to hit):**
+**At will:** *ray of frost, chill touch*   ::
+**3/day:** *animate dead, blight, dimension door*   ::
+**2/day:** *circle of death, cloudkill*   ::
+**1/day:** *finger of death, power word pain* ::
 
-**At will:** *ray of frost, chill touch*  
-**3/day:** *animate dead, blight, dimension door*  
-**2/day:** *circle of death, cloudkill*  
-**1/day:** *finger of death, power word pain*
-
-**Legendary Actions (2 per lord):**
+**Legendary Actions (2 per lord):** ::
 - Cast cantrip
 - Animate dead (raises 1d4 zombies nearby)
 - Necrotic Burst (20-ft radius, 3d8 necrotic, DC 17 Con save half)
 
-**If both killed:** Allied dead stop rising. Major morale boost.
+**If both killed:** Allied dead stop rising. Major morale boost. ::
 
----
 
 **Battle Phase 3: The Dread King Attacks**
 
@@ -9881,9 +9747,9 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 
 ##### Read Aloud:
 {{description,note
-*The palanquin lowers. The Dread King stands. Ancient robes. Bone crown. Eyes glowing with centuries of hatred.*
+*The palanquin lowers. The Dread King stands there, ancient robes blowing in the raging winds of battle. A bone crown adorns his head, his eyes glowing with centuries of hatred.*
 
-*He raises skeletal hands. Speaks one word in a dead language.*
+*He raises a skeletal hands. Speaks one word in a dead language.*
 
 *TERROR.*
 
@@ -9891,41 +9757,38 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 
 *Only you—heroes of legend—resist. You and maybe a dozen other veterans.*
 
-*The Dread King points at you. Recognizes threats. Advances.*
+*The Dread King points at you, recognizing a threat and advances in your direction.*
 }}
 
+**Boss Fight Preview:** ::
 
----
+**Don't fight him yet.** He's CR 18. PCs are 13. They'll lose. ::
 
-**Boss Fight Preview:**
+**Instead:** ::
 
-**Don't fight him yet.** He's CR 18. PCs are 13. They'll lose.
-
-**Instead:**
-
-**PCs must:**
+**PCs must:** ::
 - Rally troops (Persuasion/Performance DC 18)
 - Hold the line (survive 3 rounds against Dread King's attacks)
 - Buy time for commanders to organize retreat
 
-**The Dread King attacks from range:**
+**The Dread King attacks from range:** ::
 - **Finger of Death** (7d8 + 30 necrotic, DC 18 Con save half)
 - **Power Word Kill** (if any PC below 100 HP, they die)
 - **Animate Army** (all fallen soldiers rise as zombies)
 
-**PCs must survive 3 rounds. Then:**
+**PCs must survive 3 rounds. Then:** ::
 
-**Dawnblade + Valen arrive with elite guards:**
+**Dawnblade + Valen arrive with elite guards:** ::
 
 {{description,note
 *"FALL BACK! Organized retreat! We can't win here!"*
-
-**Allied army retreats. Loses 2,000 soldiers but survives.**
-
-**Dread King doesn't pursue. He's patient. Converts fallen to undead. Now has 12,600 troops.**
 }}
 
----
+**Allied army retreats. Loses 2,000 soldiers but survives.** ::
+
+**Dread King doesn't pursue. He's patient. Converts fallen to undead. Now has 12,600 troops.** ::
+
+\page
 
 ## Phase 3: The Counter-Strategy
 
