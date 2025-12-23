@@ -9200,16 +9200,13 @@ ___
 *It's [ELARA CORVUS if she survived] OR [NEW PROPHET if Elara died]*
 }}
 
-
----
-
 {{monster,frame,wide
 ## The Prophet (Elara Corvus - Ascended)
 *Medium humanoid (human), chaotic neutral*
 ___
 **Armor Class** :: 17 (20 with *mage armor*)
 **Hit Points** :: 157 (21d8 + 63)
-**Speed** :: 30 ft., fly 30 ft. (Components)
+**Speed** :: 30 ft., fly 30 ft. (Components)![Prophet Elara](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-elara-prophet.jpg){width:300px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -9258,6 +9255,8 @@ Elara takes 2 legendary actions:
 
 She took up her father's mantle. Believes in his vision. Completed Component training. Blames PCs for his death.
 
+\column
+
 ### **The CONFRONTATION**
 
 **Elara's Monologue:** ::
@@ -9267,7 +9266,10 @@ She took up her father's mantle. Believes in his vision. Completed Component tra
 *"You. You killed my father. You stopped his vision. You condemned humanity to continue suffering.*
 
 *(She gestures around)*
+}}
 
+\page
+{{description,note
 *"But his work continues. I've gathered the faithful. Recovered Component fragments. And in two weeks: We'll complete what he started.*
 
 *"Operation Collapse. Simultaneous attacks worldwide. Not to kill—no. To create chaos. And in chaos, people BEG for order. They'll accept restructuring. They'll BEG for it.*
@@ -9301,8 +9303,6 @@ She took up her father's mantle. Believes in his vision. Completed Component tra
 - Elara uses terrain control
 - Focuses fire on one PC at a time
 - If clearly losing, tries to escape
-
-\page
 
 **If PCs win:** ::
 - Cell Gamma destroyed
@@ -9395,6 +9395,8 @@ PCs become Unbound leadership. Help execute Operation Collapse. Enable tyranny. 
 - Reputation: +10 with both kingdoms
 - Reputation: -30 with remaining Unbound (hunted)
 
+\page
+
 ## Level Up
 
 **PCs reach Level 13** after Quest 3.2. ::
@@ -9429,8 +9431,6 @@ PCs become Unbound leadership. Help execute Operation Collapse. Enable tyranny. 
 **Key NPCs:** Dawnblade, Valen, external enemy, your allies   ::
 **Rewards:** 4,000gp + legendary cooperation   ::
 **Theme:** "Old enemies, new allies" ::
-
-\page
 
 ## Quest Setup
 
@@ -9484,15 +9484,12 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 *"Village of Northholm: Population 200. Found every citizen dead, reanimated within hours. Witnesses from nearby—before they fled—describe: 'Dead army. Thousands. Led by corpse-wizards in black robes. And at the rear... something ancient. Wearing crown of bone. The Dread King.'*
 
 *"Villages of Frostmere and Ironwood: Same fate. Total conversion. Undead population now estimated 10,600 and growing with each conquest.*
+
+*"Rate of advance: 30 miles per week. ETA to our borders: 14 days. ETA to capitals: 30-40 days."*
 }}
 
-\column
-
-{{description,note
-*"Rate of advance: 30 miles per week. ETA to our borders: 14 days. ETA to capitals: 30-40 days."*
-
 **Military assessment:**
-
+{{description,note
 *"Thaldros military: 8,000 soldiers. Aethoria military: 6,000. Combined: 14,000.*
 
 *"Enemy forces: 10,600 undead (growing daily). Plus necromantic magic. Plus lich leadership.*
@@ -9512,6 +9509,8 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 - Logistics nightmare (different supply chains)
 - Cultural differences (monarchy vs democracy)
 - Old hatreds die hard
+
+\page
 
 **PCs' Role:** Make it actually work ::
 
@@ -9545,8 +9544,6 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 - Argument: "Both contribute equally, both command equally."
 - If successful: War council system
 - Consequence: Slower decisions but better morale
-
-\page
 
 **Option 3: Suggest Third-Party Command** ::
 - **Persuasion DC 20** (bold)
@@ -9620,6 +9617,8 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 - Angers weaker units
 - **Persuasion DC 17**
 
+\page
+
 **Option 3: Front-Line Priority** ::
 - Those facing worst danger get resources
 - Makes sense tactically
@@ -9662,8 +9661,6 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 **Dreadhost sends forward 2,000 zombies:** ::
 
 **PCs' Role:** Hold the center line ::
-
-\page
 
 **Encounter:** ::
 
@@ -9750,7 +9747,10 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 *The palanquin lowers. The Dread King stands there, ancient robes blowing in the raging winds of battle. A bone crown adorns his head, his eyes glowing with centuries of hatred.*
 
 *He raises a skeletal hands. Speaks one word in a dead language.*
+}}
 
+\page
+{{description,note
 *TERROR.*
 
 *Every soldier on battlefield must make DC 18 Wisdom save or flee in panic. Your combined army is routing.*
@@ -9788,78 +9788,70 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 
 **Dread King doesn't pursue. He's patient. Converts fallen to undead. Now has 12,600 troops.** ::
 
-\page
-
 ## Phase 3: The Counter-Strategy
 
-**War council, that night:**
+**War council, that night:** ::
 
 ### **The Strategic Situation**
 
-**Grim facts:**
+**Grim facts:** ::
 - Lost first battle
 - Enemy stronger (gained 2,000 undead)
 - Morale shattered
 - Can't win conventional war
 
-**Dawnblade:** "We need new strategy."  
-**Valen:** "Agreed. But what?"
+**Dawnblade:** "We need a new strategy."   ::
+**Valen:** "Agreed. But what?" ::
 
----
+**PCs can suggest strategies:** ::
 
-**PCs can suggest strategies:**
-
-**Strategy A: Decapitation Strike**
+**Strategy A: Decapitation Strike** ::
 - Kill the Dread King, horde collapses
 - High-risk, high-reward
 - Requires small team (PCs) infiltrating enemy
 - 90% chance of success vs guaranteed slow loss
 
-**Strategy B: Scorched Earth**
+**Strategy B: Scorched Earth** ::
 - Retreat, burn everything, deny corpses
 - Slow enemy advance
 - Buys time but costs civilian lives
 - Eventually run out of land
 
-**Strategy C: Divine Intervention**
+**Strategy C: Divine Intervention** ::
 - Seek help from temples, gods, powerful beings
 - Time-consuming (1 week to gather)
 - Uncertain (will gods help?)
 - But potentially game-changing
 
-**Strategy D: Alliance with Third Party**
+**Strategy D: Alliance with Third Party** ::
 - Seek help from: Dwarven kingdoms? Elven forests? Others?
 - Diplomatic mission
 - Takes time
 - Might work
 
-**Strategy E: Magical Solution**
+**Strategy E: Magical Solution** ::
 - Research anti-undead weapon/spell
 - Scholars, wizards, libraries
 - Takes 1 week
 - Might find something
 
----
-
-**DM Guidance:** Strategy A (Decapitation) is meant to be chosen. It leads to climax.
-
----
+**DM Guidance:** Strategy A (Decapitation) is meant to be chosen. It leads to climax. ::
 
 ## Chosen Strategy: Decapitation Strike
 
-**If PCs choose to kill the Dread King:**
+**If PCs choose to kill the Dread King:** ::
 
 ### **The Plan**
 
-**Dawnblade:** "Small team. Infiltrate enemy camp. Kill the lich. Without him, the horde loses cohesion."
+**Dawnblade:** "Small team. Infiltrate enemy camp. Kill the lich. Without him, the horde loses cohesion." ::
 
-**Valen:** "It's a suicide mission."
+**Valen:** "It's a suicide mission." ::
 
-**PCs:** "We'll do it."
+**PCs:** "We'll do it." ::
 
-**Preparation:**
+**Preparation:** ::
 
-PCs can recruit up to 4 NPC allies from:
+**PCs can recruit up to 4 NPC allies from:** ::
 - Dawnblade herself (if she trusts them)
 - Valen himself (if he's brave enough)
 - Iron Guild mercenaries (Varak if alive)
@@ -9868,7 +9860,7 @@ PCs can recruit up to 4 NPC allies from:
 - Red Wolf (if alive from Quest 1.3)
 - Any other major ally from previous quests
 
-**Each ally provides unique benefit:**
+**Each ally provides unique benefit:** ::
 - Dawnblade: Tank, paladin support
 - Valen: Control magic, inspiration
 - Varak: Tanking, dwarf resilience
@@ -9876,34 +9868,32 @@ PCs can recruit up to 4 NPC allies from:
 - Marcus: Intelligence, tactical advice
 - Red Wolf: Stealth, guerrilla tactics
 
----
+\page
 
 ### **The Infiltration**
 
-**Night. Behind enemy lines:**
+**Night. Behind enemy lines:** ::
 
-**Three obstacles:**
+**Three obstacles:** ::
 
-**Obstacle 1: Undead Patrols**
+**Obstacle 1: Undead Patrols** ::
 - **Stealth DC 17** (group check) to avoid 100+ zombies
 - Failure: Combat with 20 zombies + 2 wights
 - Success: Bypass undetected
 
-**Obstacle 2: Necromantic Wards**
+**Obstacle 2: Necromantic Wards** ::
 - **Arcana DC 18** to dispel alarm wards
 - Failure: Necromancer Lords alerted (harder boss fight)
 - Success: Approach undetected
 
-**Obstacle 3: Inner Sanctum**
+**Obstacle 3: Inner Sanctum** ::
 - Dread King's tent/throne room
 - 6 **Skeleton Champions** guard (CR 3 each)
 - Must fight (can't stealth past these)
 
----
-
 ## Final Boss: The Dread King
 
-**In his sanctum:**
+**In his sanctum:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -9918,16 +9908,13 @@ PCs can recruit up to 4 NPC allies from:
 *"I conquered death itself. You think you can kill me? Amusing. Very well. Entertain me before you join my legion."*
 }}
 
-
----
-
 {{monster,frame,wide
 ## The Dread King (CR 18 Lich)
 *Medium undead, neutral evil*
 ___
 **Armor Class** :: 20 (natural armor + magic)
 **Hit Points** :: 285 (30d8 + 150)
-**Speed** :: 30 ft.
+**Speed** :: 30 ft.![Prophet Elara](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-dread-king-undead-throne.jpg){width:270px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -9978,11 +9965,11 @@ The Dread King takes 3 legendary actions:
 ***Cast Spell (Costs 3).*** Casts spell using slot.
 }}
 
----
+\page
 
 ### **Battle Phases**
 
-**Phase 1: Testing (Rounds 1-3)**
+**Phase 1: Testing (Rounds 1-3)** ::
 
 Dread King assesses threat:
 - Uses cantrips and low-level spells
@@ -9990,9 +9977,7 @@ Dread King assesses threat:
 - Summons undead minions
 - Tests PCs' capabilities
 
----
-
-**Phase 2: Serious (Rounds 4-6, below 200 HP)**
+**Phase 2: Serious (Rounds 4-6, below 200 HP)** ::
 
 Realizes PCs are genuine threat:
 - *Globe of invulnerability* (immune to spells 5th level or lower)
@@ -10000,9 +9985,7 @@ Realizes PCs are genuine threat:
 - *Disintegrate* on tank
 - More undead summons
 
----
-
-**Phase 3: Desperate (Below 100 HP)**
+**Phase 3: Desperate (Below 100 HP)** ::
 
 Fights for unlife:
 - *Time stop* (takes 3 turns alone)
@@ -10010,11 +9993,9 @@ Fights for unlife:
 - *Plane shift* to escape if clearly losing
 - Sacrifices phylactery energy for *healing* (1/day, regains 100 HP)
 
----
+**Phase 4: Defeated** ::
 
-**Phase 4: Defeated**
-
-**If reduced to 0 HP:**
+**If reduced to 0 HP:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10030,13 +10011,11 @@ Fights for unlife:
 
 **Outside:** The entire undead horde collapses. 12,600 corpses fall lifeless. Threat ended.
 
-**For now.**
-
----
+**For now.** ::
 
 ## Aftermath
 
-**Victory, but...**
+**Victory, but...** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10051,72 +10030,66 @@ Fights for unlife:
 *But you know the truth: The phylactery remains. In 10 days, the Dread King returns. This victory is temporary.*
 }}
 
-
----
-
 ## The Choice
 
-**PCs must decide:**
+**PCs must decide:** ::
 
-**Option 1: Hunt the Phylactery**
+**Option 1: Hunt the Phylactery** ::
 - Travel north to Dread King's original kingdom
 - Find and destroy phylactery
 - Permanent solution
 - Very dangerous (unexplored frozen wastes)
 - **This becomes Quest 3.4**
 
-**Option 2: Fortify Defenses**
+**Option 2: Fortify Defenses** ::
 - Prepare for his return
 - 10 days to build massive fortifications
 - When he returns, defeat him again (and again, and again)
 - Temporary solution
 - Never ends
 
-**Option 3: Seal the North**
+**Option 3: Seal the North** ::
 - Use magic to create barrier
 - Trap him in frozen north
 - He's someone else's problem
 - Pragmatic but cowardly
 
-**Players will choose Option 1 (hunt phylactery). This sets up Quest 3.4.**
-
----
+:
+**Choosing Option 1 (hunt phylactery) sets up Quest 3.4.**
 
 ## Rewards
 
-**After defeating Dread King:**
+**After defeating Dread King:** ::
 
-**Immediate:**
+**Immediate:** ::
 - 4,000gp from both kingdoms (8,000gp total)
 - Dread King's Staff (legendary item)
 - Dread King's Crown (artifact, but cursed)
 - His spellbook (contains rare spells)
 
-**Political:**
+**Political:** ::
 - Reputation: +20 with both kingdoms
 - Title: "Saviors of the Realm"
 - Offered lands, noble titles, etc.
 - Can request almost anything
 
-**Most Importantly:**
+**Most Importantly:** ::
 - Thaldros and Aethoria are now true allies
 - Forged in fire
 - The peace is no longer fragile—it's strong
 
----
-
 ## Level Up
 
-**PCs reach Level 14** after Quest 3.3.
+**PCs reach Level 14** after Quest 3.3. ::
 
-**New capabilities:**
+**New capabilities:** ::
 - Epic class features
 - Getting very powerful
 - Ready for final challenges
 
----
+\page
 
-## Transition to QUEST 3.4
+## Transition to Quest 3.4
 
 ##### Read Aloud:
 {{description,note
@@ -10127,43 +10100,21 @@ Fights for unlife:
 *Quest 3.4: The phylactery must be destroyed. Or he returns. Forever.*
 }}
 
+## Quest 3.4: The Unification
 
----
-
-**Quest 3.3: The Alliance - Complete**
-
-**9,500 words**  
-**External threat forces cooperation**  
-**Epic large-scale battle**  
-**CR 18 lich boss fight**  
-**True alliance forged**
-
-🗡️💰☮️💀⚔️
-
-**Next: Quest 3.4 (The Unification)**
-
-\page
-
-\page
-
-{{wide
-# Quest 3.4: The Unification
-}}
 
 ## Blood & Coin Campaign - Act III (Peace Path)
 
-**Level:** 14  
-**Duration:** 3-4 sessions  
-**Objective:** Destroy the phylactery, propose permanent unification  
-**Key NPCs:** Dread King (returned), Dawnblade, Valen, ancient guardians  
-**Rewards:** 5,000gp + permanent peace (or empire)  
-**Theme:** "From peace treaty to lasting union"
-
----
+**Level:** 14   ::
+**Duration:** 3-4 sessions   ::
+**Objective:** Destroy the phylactery, propose permanent unification   ::
+**Key NPCs:** Dread King (returned), Dawnblade, Valen, ancient guardians  :: 
+**Rewards:** 5,000gp + permanent peace (or empire)   ::
+**Theme:** "From peace treaty to lasting union" ::
 
 ## Quest Setup
 
-**Ten days after Quest 3.3**
+**Ten days after Quest 3.3** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10178,18 +10129,13 @@ Fights for unlife:
 *(The ship launches. You're bound for the Frozen Kingdom. Legend. Nightmare. Tomb.)*
 }}
 
-
----
-
 ## The Voyage North
 
-**Five days by ship through frozen seas:**
+**Five days by ship through frozen seas:** ::
 
 ### **Day 1-2: Normal Sailing**
 
 Uneventful. Crew nervous. Temperature dropping.
-
----
 
 ### **Day 3: The Ice Field**
 
@@ -10198,38 +10144,35 @@ Uneventful. Crew nervous. Temperature dropping.
 *Ice. Everywhere. Sea frozen solid. Ship can't advance. Navigator: "We're 200 miles from the Frozen Kingdom. Rest of journey on foot.*
 
 *You see it on horizon: Ancient city. Black stone. Towers of ice. Dead. Waiting.*
-
-**PCs must abandon ship. March across frozen wasteland.**
 }}
 
+**PCs must abandon ship. March across frozen wasteland.**
 
 ---
 
 ### **DAY 4-5: The MARCH**
 
-**Survival challenges:**
+**Survival challenges:** ::
 
-**Challenge 1: Blizzard**
+**Challenge 1: Blizzard** ::
 - Survival DC 16 or take 2d6 cold damage per hour
 - Constitution DC 15 or gain exhaustion
 - Risk of getting lost (no visibility)
 
-**Challenge 2: Frozen Undead**
+**Challenge 2: Frozen Undead** ::
 - Encounter with **4 Wights** and **8 Zombies**
 - Frozen in ice, thaw when PCs approach
 - Cold-enhanced (resistance to fire)
 
-**Challenge 3: The Phantom Legion**
+**Challenge 3: The Phantom Legion** ::
 - Ghostly army from ancient battle
 - **6 Wraiths** (CR 5 each)
 - Don't attack unless provoked
 - Can be negotiated with (they hate Dread King too)
 
----
-
 ## The Frozen Kingdom
 
-**Arrival at dead city:**
+**Arrival at dead city:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10240,39 +10183,36 @@ Uneventful. Crew nervous. Temperature dropping.
 *The phylactery is here. Somewhere. But where?*
 }}
 
-
----
-
 ### **Investigation Phase**
 
-**PCs must locate phylactery:**
+**PCs must locate phylactery:** ::
 
-**Option 1: Search Systematically**
+**Option 1: Search Systematically** ::
 - Investigation DC 18 (takes 2 days)
 - Each day: 1d4 undead encounters
 - Success: Find phylactery location
 
-**Option 2: Use Magic**
+**Option 2: Use Magic** ::
 - *Locate object* (doesn't work—phylactery warded)
 - *Legend lore* (reveals clue in riddle form)
 - *Divination* (gods give cryptic answer)
 
-**Option 3: Question the Dead**
+**Option 3: Question the Dead** ::
 - *Speak with dead* on ancient corpses
 - They remember (barely)
 - "Crown... worn even in death... the throne room... always on throne..."
 
-**The Clue:**
+**The Clue:** ::
 
 Phylactery is in the Dread King's original crown. He wears it always. Even when he "dies," crown remains. It's the phylactery itself.
 
-**Revelation:** They've been fighting him wrong. Crown must be destroyed while he's dead (before he reforms).
-
----
+\page
+:
+**Revelation:** They've been fighting him wrong. Crown must be destroyed while he's dead (before he reforms). 
 
 ## The Throne Room
 
-**Center of dead city. Massive palace:**
+**Center of dead city. Massive palace:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10283,14 +10223,11 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *The phylactery. Unguarded. Just sitting there. As if daring you.*
 }}
 
+### **The Trap**
 
----
+**It's too easy. It's a trap:** ::
 
-### **The TRAP**
-
-**It's too easy. It's a trap:**
-
-**If PCs approach crown:**
+**If PCs approach crown:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10303,96 +10240,90 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *"You've improved. So have I. Let's try this again."*
 }}
 
-
----
-
 ## Final Boss: The Dread King (Empowered)
 
-**He's learned from first defeat. Now CR 19.**
+**He's learned from first defeat. Now CR 19.** ::
 
-**Changes from first fight:**
+**Changes from first fight:** ::
 - Anticipated your tactics
 - Pre-cast buffs (*globe of invulnerability*, *stoneskin*)
 - Summoned guardians before you arrived
 - Using environment (ice, cold)
 - Fighting smarter, not harder
 
-**Empowered Dread King (CR 19)**
+**Empowered Dread King (CR 19)** ::
 
-**Same stats as before, but:**
+**Same stats as before, but:** ::
 
-**New Abilities:**
+**New Abilities:** ::
 
-**Learned Tactics:** Advantage on saves against effects he's experienced before (your tactics from Quest 3.3).
+**Learned Tactics:** Advantage on saves against effects he's experienced before (your tactics from Quest 3.3). ::
 
-**Frozen Domain:** Throne room is difficult terrain (ice). Each round, all creatures make DC 17 Con save or take 3d6 cold damage.
+**Frozen Domain:** Throne room is difficult terrain (ice). Each round, all creatures make DC 17 Con save or take 3d6 cold damage. ::
 
-**Phylactery Link:** While within 60 ft. of crown, regenerates 20 HP per turn.
+**Phylactery Link:** While within 60 ft. of crown, regenerates 20 HP per turn. ::
 
-**Guardian Summons (1/Day):** Summons 4 **Ice Golems** (CR 10 each) from frozen courtiers.
+**Guardian Summons (1/Day):** Summons 4 **Ice Golems** (CR 10 each) from frozen courtiers. ::
 
----
+\column
 
 ### **The Real Challenge**
 
-**This fight is two-fold:**
+**This fight is two-fold:** ::
 
 1. **Kill the Dread King** (again)
 2. **Destroy the phylactery/crown** (before he regenerates)
 
-**Problem:** Crown is AC 20, 100 HP, resistance to all damage except radiant and force. While Dread King alive, he defends it. If he dies, you have ~3 rounds before he reforms.
+**Problem:** Crown is AC 20, 100 HP, resistance to all damage except radiant and force. While Dread King alive, he defends it. If he dies, you have ~3 rounds before he reforms. ::
 
----
 
 ### **Battle Strategy**
 
-**PCs must:**
+**PCs must:** ::
 
-**Phase 1: Defeat Dread King**
+**Phase 1: Defeat Dread King** ::
 - Same as before but harder
 - He knows your tricks
 - Uses terrain advantage
 - Ice Golems tank
 
-**Phase 2: Destroy Crown (3 rounds)**
+**Phase 2: Destroy Crown (3 rounds)** ::
 - After Dread King "dies"
 - Crown is now attackable
 - But clock is ticking
 - And Ice Golems still fight
 
-**Phase 3: Escape**
+**Phase 3: Escape** ::
 - Palace collapsing (phylactery was keystone)
 - Must flee (Athletics/Acrobatics checks)
 - Or get buried in ice
 
----
+### **Alternative Approaches**
 
-### **Alternative ApproachES**
+**Smart PCs might:** ::
 
-**Smart PCs might:**
-
-**Option A: Split Party**
+**Option A: Split Party** ::
 - Some fight Dread King
 - Others focus-fire crown
 - Risky but effective
 
-**Option B: Distract and Destroy**
+**Option B: Distract and Destroy** ::
 - One PC distracts Dread King (kiting)
 - Others destroy crown immediately
 - When crown breaks, he dies permanently
 - Very risky for distractor
 
-**Option C: Environmental Hazard**
+**Option C: Environmental Hazard** ::
 - Collapse palace around him
 - Bring down ceiling
 - Crown gets buried but possibly destroyed
 - Riskiest
 
----
+\page
 
 ## Crown Destruction Scene
 
-**When crown finally breaks:**
+**When crown finally breaks:**  ::
 
 ##### Read Aloud:
 {{description,note
@@ -10411,14 +10342,11 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *It's over. Truly over.*
 }}
 
-
----
-
 ## The Return
 
-**Five days later. Return to allied kingdoms:**
+**Five days later. Return to allied kingdoms:** ::
 
-**Hero'S Welcome:**
+**Hero's Welcome:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10436,73 +10364,65 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 }}
 
 
----
-
 ## The Proposal
 
-**PCs can now shape the future:**
+**PCs can now shape the future:** ::
 
 ### **Option 1: REQUEST GOLD**
 
-**Simple:**
+**Simple:** ::
 - 10,000gp (enormous wealth)
 - Lands and titles
 - Lifetime pensions
 - Retire as legends
 
-**Outcome:**
+**Outcome:** ::
 - Kingdoms remain separate but allied
 - Peace holds (strong alliance)
 - You're wealthy heroes
 - Act III ends with stable peace
 
----
-
 ### **Option 2: Propose Full Unification**
 
-**Bold:**
+**Bold:** ::
 
-**Persuasion DC 18** to seriously consider:
+**Persuasion DC 18** to seriously consider: ::
 
-**Argument:**
+**Argument:** ::
 *"You've proven you can work together. The peace is strong. Why maintain the division? Unify. One nation. Stronger together."*
 
-**Dawnblade's Response:**
+**Dawnblade's Response:** ::
 *"Merge Thaldros and Aethoria? Monarchy and democracy? How would that even work?"*
 
-**Valen's Response:**
+**Valen's Response:** ::
 *"Interesting. A federation? Constitutional monarchy? Some hybrid? It's... possible."*
 
----
+**If DC met, they consider it:** ::
 
-**If DC met, they consider it:**
+**The Debate:** ::
 
-**The Debate:**
+**Three models proposed:** ::
 
-**Three models proposed:**
-
-**Model A: Constitutional Monarchy**
+**Model A: Constitutional Monarchy** ::
 - King/Queen as figurehead
 - Elected parliament with real power
 - Combines tradition with democracy
 - Persuasion DC 16 to get both to accept
 
-**Model B: Federal Republic**
+**Model B: Federal Republic** ::
 - Two states, one nation
 - Thaldros keeps monarchy locally
 - Aethoria keeps democracy locally
 - Federal government above both
 - Persuasion DC 17 (complex but fair)
 
-**Model C: Complete Merger**
+**Model C: Complete Merger** ::
 - Dissolve both governments
 - Create entirely new system
 - Emperor/Empress (elected? hereditary?)
 - Persuasion DC 20 (radical change)
 
----
-
-**If unification succeeds:**
+**If unification succeeds:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10519,22 +10439,19 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *The world will never be the same.*
 }}
 
-
----
-
 ### **Option 3: REJECT BOTH**
 
-**Humble:**
+**Humble:** ::
 - "We want no reward. We did what was right."
 - Reputation: +30 with everyone (legendary humility)
 - Both kingdoms insist on giving SOMETHING
 - Compromise: Statues erected, holidays named after you
 
----
+\page
 
 ### **Option 4: Make Specific Requests**
 
-**PCs can request almost anything:**
+**PCs can request almost anything:** ::
 - Pardon for past crimes
 - Ressurect dead allies
 - Hunt down specific enemies
@@ -10542,41 +10459,35 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 - Free specific prisoners
 - Literally almost anything reasonable
 
-**Both kingdoms will grant it** (within reason).
-
----
+**Both kingdoms will grant it** (within reason). ::
 
 ## Rewards
 
-**Based on choice:**
+**Based on choice:** ::
 
-**If requested gold:** 10,000gp + lands + titles  
-**If proposed unification:** 5,000gp + titles + LEGACY (changed history)  
-**If rejected rewards:** 0gp + legendary reputation + moral satisfaction  
+**If requested gold:** 10,000gp + lands + titles   ::
+**If proposed unification:** 5,000gp + titles + LEGACY (changed history)   ::
+**If rejected rewards:** 0gp + legendary reputation + moral satisfaction   ::
 
-**Plus (all):**
+**Plus (all):** ::
 - Dread King's artifacts (legendary items)
 - Reputation: +30 with both kingdoms (or unified kingdom)
 - Title: "Unifiers" or "Saviors" or "The Humble Heroes"
 - Can retire or continue adventuring
 
----
-
 ## Level Up
 
-**PCs reach Level 15** after Quest 3.4.
+**PCs reach Level 15** after Quest 3.4. ::
 
-**Maximum power:**
+**Maximum power:** ::
 - 8th level spells
 - Legendary class features
 - Can challenge gods
 - True heroes
 
----
-
 ## The Epilogue Preview
 
-**One year later:**
+**One year later:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10587,87 +10498,80 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *Quest 3.5: The Mediator's Rest. Your final decision. Your legacy. Your ending.*
 }}
 
-
----
+\column
 
 ## New Items For Compendium
 
 ### **The Dread King'S Staff**
 *Staff, legendary (requires attunement by spellcaster)*
 
-**Properties:**
+**Properties:** ::
 - +3 to spell attack rolls and save DC
 - **Necrotic Mastery:** Necromancy spells deal extra 2d8 necrotic damage
 - **Animate Legion (1/Day):** Cast *animate dead* at 9th level (16 undead)
 - **Death's Touch:** Melee attack +10, 4d6 + 4 necrotic damage
 
-**Curse:** Each use of Animate Legion requires DC 17 Wisdom save or gain 1 level of exhaustion (necrotic corruption).
-
----
+**Curse:** Each use of Animate Legion requires DC 17 Wisdom save or gain 1 level of exhaustion (necrotic corruption). ::
 
 ### **The DREAD CROWN** (if kept)
 *Wondrous item, artifact (cursed)*
 
-**Do Not Wear.** It's the phylactery. Wearing it begins transformation into lich (takes 1 year).
+**Do Not Wear.** It's the phylactery. Wearing it begins transformation into lich (takes 1 year). ::
 
-**Can be destroyed** for 10d10 radiant damage in area (destroy all undead in 1 mile).
+**Can be destroyed** for 10d10 radiant damage in area (destroy all undead in 1 mile). ::
 
-**Or kept as trophy/museum piece.**
-
----
+**Or kept as trophy/museum piece.** ::
 
 ### **Ice Golem Heart**
 *Wondrous item, rare*
 
-**Properties:**
+**Properties:** ::
 - Resistance to cold damage
 - Immunity to exhaustion from cold environments
 - 1/day: Cast *cone of cold* (DC 16)
 
-**Harvested from defeated Ice Golem.**
-
----
+**Harvested from defeated Ice Golem.** ::
 
 ## DM Guidance
 
 ### **Running the Final Dread King Fight**
 
-**Make it HARD:**
+**Make it HARD:** ::
 - He's learned
 - Smarter tactics
 - Environmental advantage
 - Time pressure (destroy crown)
 
-**But winnable:**
+**But winnable:** ::
 - PCs are Level 14
 - They have experience from first fight
 - Allies can help
 - Creative solutions possible
 
+\page
+
 ### **The Unification Proposal**
 
-**Present as serious option:**
+**Present as serious option:** ::
 - Players worked for peace 3 years (game time)
 - Earned right to shape future
 - Both kingdoms trust them
 - It's ambitious but possible
 
-**Don't force it:**
+**Don't force it:** ::
 - Some players prefer simple victory
 - That's valid
 - Either ending is satisfying
 
 ### **Legacy Considerations**
 
-**This is penultimate quest:**
+**This is penultimate quest:** ::
 - Sets up final legacy
 - Players define what they built
 - Peace? Alliance? Empire?
 - All valid choices
 
----
-
-## Transition to QUEST 3.5
+## Transition to Quest 3.5
 
 ##### Read Aloud:
 {{description,note
@@ -10678,50 +10582,31 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *Quest 3.5: The Mediator's Rest. Your final mission. Your ending. Your choice.*
 }}
 
-
----
-
-**Quest 3.4: The Unification - Complete**
-
-**9,000 words**  
-**Phylactery hunt**  
-**Empowered final boss**  
-**Unification proposal**  
-**Legacy defined**
-
-🗡️💰☮️👑💀
-
-**Next: Quest 3.5 (The Mediator's Rest - Campaign Finale)**
-
-\page
-
-\page
-
-{{wide
-# Quest 3.5: The Mediator's Rest
-}}
+## Quest 3.5: The Mediator's Rest
 
 ## Blood & Coin Campaign - Act III Finale (Peace Path)
 
-**Level:** 15  
-**Duration:** 2-3 sessions  
-**Objective:** Define your legacy and ending  
-**Key NPCs:** Everyone from the entire campaign  
-**Rewards:** YOUR ENDING (priceless)  
-**Theme:** "What did it all mean?"
-
----
+**Level:** 15   ::
+**Duration:** 2-3 sessions   ::
+**Objective:** Define your legacy and ending   ::
+**Key NPCs:** Everyone from the entire campaign   ::
+**Rewards:** YOUR ENDING (priceless)   ::
+**Theme:** "What did it all mean?" ::
 
 ## Quest Setup
 
-**One year after Quest 3.4**
+**One year after Quest 3.4** ::
 
 ##### Read Aloud:
 {{description,note
 *One year since you destroyed the Dread King. One year since the unification (or strong alliance). One year of peace. True peace.*
 
 *You're legends now. Songs sung about you. Statues in every city. Children play "Peacekeepers vs. Dreadhost." You're immortalized.*
+}}
 
+\column
+
+{{description,note
 *But legends can't rest. Not yet. One final summons arrives: "Emergency council. Your presence required. Immediately."*
 
 *You arrive at the grand hall (Thaldros palace or new unified parliament, depending on Quest 3.4 outcome) to find: Every major NPC from the entire campaign. Everyone who survived. All gathered.*
@@ -10729,20 +10614,17 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *Something big is happening.*
 }}
 
-
----
-
 ## The Gathering
 
-**NPCs present (if alive):**
+**NPCs present (if alive):** ::
 
-**From Government:**
+**From Government:** ::
 - Commander Helena Dawnblade
 - Envoy Marcus Valen
 - King Aldric IV (if alive)
 - Various nobles and politicians
 
-**From Your Past:**
+**From Your Past:** ::
 - Varak Ironfist (Iron Guild)
 - Kael Shadowbane (Black Chains)
 - Marcus Blackwood (if freed)
@@ -10751,15 +10633,13 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 - Captain Sarah Vale (if alive)
 - "Fingers" McGee (if hired)
 
-**From Recent Adventures:**
+**From Recent Adventures:** ::
 - Survivors from all three acts
 - People you helped
 - People you fought alongside
 - Even some former enemies
 
-**Everyone you've touched across 15 levels and 15 quests.**
-
----
+**Everyone you've touched across 15 levels and 15 quests.** ::
 
 ## The Revelation
 
@@ -10776,10 +10656,7 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *"The question: Do the Peacekeepers continue? And if so... is it still you?"*
 }}
 
-
----
-
-**Valen continues:**
+**Valen continues:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10788,24 +10665,23 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *"ONE: You continue as Peacekeepers. Forever (or until you die). The peace rests on your shoulders. Eternal duty.*
 
 *"TWO: You train successors. Pass the mantle. Build an institution. Peacekeepers continue, but not necessarily YOU.*
+}}
 
+\page
+
+{{description,note
 *"THREE: You retire. The role of Peacekeeper ends with you. We'll figure something else out.*
 
 *"But the choice is yours. You earned it. You decide how your story ends."*
 }}
 
-
----
-
 ## The Final Choice
 
-**This is it. The campaign-defining decision:**
-
----
+**This is it. The campaign-defining decision:** ::
 
 ### **Ending 1: Eternal Vigil**
 
-**PCs choose to continue as Peacekeepers:**
+**PCs choose to continue as Peacekeepers:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10820,30 +10696,27 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *Your legacy: You gave everything. Every year. Every day. The peace held because YOU held it.*
 
 *Is that enough?*
-
-**Epilogue:**
-
-**Each PC gets personal ending:**
 }}
 
+**Epilogue:** ::
+
+**Each PC gets personal ending:** ::
 - Marriages, families, achievements
 - How they died (heroically or peacefully)
 - What they're remembered for
 - Statues, holidays, legends
 
-**World State:**
+**World State:** ::
 - Peace holds for 50+ years
 - Minor conflicts but never war
 - Prosperity, growth, progress
 - Your sacrifice made it possible
 
-**DM narrates individual player epilogues based on their choices throughout campaign.**
-
----
+**DM narrates individual player epilogues based on their choices throughout campaign.** ::
 
 ### **Ending 2: The Institution**
 
-**PCs choose to train successors:**
+**PCs choose to train successors:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10852,37 +10725,38 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 *Five years of work. You recruit, train, test hundreds of candidates. You select the best: Young, idealistic, skilled. You teach them everything you know.*
 
 *Diplomacy. Combat. Investigation. Ethics. When to fight. When to talk. When to compromise. The gray wisdom you learned across 15 quests.*
+}}
 
+\column
+
+{{description,note
 *Eventually, the Academy is self-sustaining. 50 trained Peacekeepers. 200 in training. An institution. A legacy.*
 
 *You finally retire. Different paths:*
-
-**Individual Retirements:**
-
-**PCs can choose:**
 }}
 
+**Individual Retirements:** ::
+
+**PCs can choose:** ::
 - **Settle down:** Marry, family, peaceful life
 - **Keep adventuring:** New quests, personal goals
 - **Politics:** Join government, shape policy
 - **Teaching:** Stay at Academy as instructors
 - **Disappear:** Vanish into anonymity, mystery
 
-**Epilogue:**
+**Epilogue:** ::
 
-**Each PC gets personalized ending based on choice.**
+**Each PC gets personalized ending based on choice.** ::
 
-**World State:**
+**World State:** ::
 - Peace holds (institutionally maintained)
 - Peacekeeper Academy becomes legendary
 - New generation takes over
 - You watch from retirement, proud
 
----
-
 ### **Ending 3: Retirement**
 
-**PCs choose to end the role entirely:**
+**PCs choose to end the role entirely:** ::
 
 ##### Read Aloud:
 {{description,note
@@ -10908,14 +10782,14 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 | 1-5 | **Peace Breaks** | Without you, kingdoms revert to conflict. War resumes within 5 years. Your legacy: Temporary solution. Tragic ending. |
 | 6-15 | **Peace Holds (Barely)** | Rough transition with several close calls. But kingdoms mature and learn to maintain peace independently. Your legacy: Taught them to fish. |
 | 16-20 | **Peace Strengthens** | Without dependence on heroes, institutions improve. Systems replace individuals. Democracy works. Permanent peace emerges. Your legacy: You made yourselves unnecessary (highest achievement). |
-
+:
 *DM chooses or rolls based on how well PCs prepared the kingdoms throughout campaign.*
 
-**Individual Retirements:**
+**Individual Retirements:** ::
 
 Same options as Ending 2 - each PC retires how they wish.
 
----
+\page
 
 ## Personal Epilogues
 
@@ -10935,17 +10809,17 @@ Same options as Ending 2 - each PC retires how they wish.
 **Example 1: Warrior PC who showed mercy**
 {{description,note
 *You settle in a small village. Open a training hall. Teach young people combat—but more importantly, when NOT to fight. You become legendary not for battles won, but for battles prevented. You die at 80, surrounded by grateful students, having never killed another person after the campaign ended.*
-
+}}
 **Example 2: Rogue PC who stayed pragmatic**
+{{description,note
 *You use your vast wealth to build trade empire. Smuggling networks become legitimate businesses. You create thousands of jobs. Die rich, respected, and slightly bored. Your fortune funds scholarships for thieves who want to go straight.*
-
+}}
 **Example 3: Cleric PC who struggled with faith**
+{{description,note
 *You write theological treatise: "The Gods in Gray." Becomes foundational text for new religious philosophy embracing moral complexity. Start new religious order. Die peacefully, faith intact, having reconciled belief with reality.*
-
-**Customize for each PC based on their journey.**
 }}
 
----
+**Customize for each PC based on their journey.** ::
 
 ## The Reunion (20 Years Later)
 
@@ -10966,56 +10840,51 @@ Same options as Ending 2 - each PC retires how they wish.
 *Then you look out at the world you created: Peace. Prosperity. Children playing where battles were fought. Enemies' grandchildren marrying each other.*
 
 *Was it worth it? Every impossible choice. Every moral compromise. Every sleepless night.*
-
+}}
+:
+{{description,note
 *(You look at each other. And smile.)*
 
 *Yeah. It was worth it.*
 }}
 
-
----
-
 ## The Final Summary
 
-**Campaign Statistics:**
+**Campaign Statistics:** ::
 
-**Quests Completed:** 15 (5 per act)  
-**Years Elapsed (in-game):** ~5 years  
-**Levels Gained:** 1-15  
-**Gold Earned:** 50,000-100,000+ gp  
-**Lives Saved:** Thousands (prevented wars)  
-**Lives Taken:** Hundreds (necessary battles)  
-**Moral Dilemmas Faced:** 100+  
-**Kingdoms United:** 2  
-**World Saved:** 3 times  
+**Quests Completed:** 15 (5 per act)   ::
+**Years Elapsed (in-game):** ~5 years   ::
+**Levels Gained:** 1-15   ::
+**Gold Earned:** 50,000-100,000+ gp   ::
+**Lives Saved:** Thousands (prevented wars)   ::
+**Lives Taken:** Hundreds (necessary battles)   ::
+**Moral Dilemmas Faced:** 100+   ::
+**Kingdoms United:** 2   ::
+**World Saved:** 3 times   ::
 
-**Most Importantly:**
+**Most Importantly:** ::
 - Peace achieved
 - Legacy defined
 - Story complete
 
----
-
 ## Rewards (Final)
 
-**Material:**
+**Material:** ::
 - 5,000gp (symbolic final payment)
 - Legendary items (kept from adventures)
 - Lands, titles (if accepted)
 - Wealth beyond measure
 
-**Immaterial:**
+**Immaterial:** ::
 - Legacy (songs, statues, history)
 - Friendships (bonds forged)
 - Satisfaction (peace achieved)
 - Story (legendary)
 
-**Priceless:**
+**Priceless:** ::
 - You defined how your story ends
 - You built something lasting
 - You mattered
-
----
 
 ## The True Ending
 
@@ -11038,8 +10907,7 @@ Same options as Ending 2 - each PC retires how they wish.
 *Welcome home, Peacekeepers. You've earned your rest.*
 }}
 
-
----
+\page
 
 ## Campaign Complete
 
@@ -11052,15 +10920,13 @@ Same options as Ending 2 - each PC retires how they wish.
 **50-65 sessions**  
 **150+ hours of gameplay**
 
-**Thank You for Playing** 🎉
-
----
+**Thank You for Playing**
 
 ## Post-Campaign Options
 
 **If players want more:**
 
-### **Option A: EPILOGUE ADVENTURES**
+### **Option A: Epilogue Adventures**
 
 **Small quests set during retirement:**
 - Help old friends
@@ -11068,8 +10934,6 @@ Same options as Ending 2 - each PC retires how they wish.
 - Train successors
 - Personal side quests
 - Low-stakes, high-RP
-
----
 
 ### **Option B: NEXT GENERATION**
 
@@ -11079,8 +10943,6 @@ Same options as Ending 2 - each PC retires how they wish.
 - Face new threats
 - Different era, same world
 
----
-
 ### **Option C: ALTERNATE TIMELINE**
 
 **Replay campaign with different choices:**
@@ -11089,62 +10951,57 @@ Same options as Ending 2 - each PC retires how they wish.
 - What if war happened?
 - Explore alternate endings
 
----
-
 ### **Option D: TRUE ENDING**
 
-**One final epic quest (Level 16-20):**
+**One final epic quest (Level 16-20):** ::
 
-**Years later, final threat emerges:**
+**Years later, final threat emerges:** ::
 - Bigger than anything before
 - Requires you to come out of retirement
 - "One last job"
 - Ultimate challenge
 
-**This could be:**
+**This could be:** ::
 - Divine threat (gods return)
 - Planar invasion (fiends/celestials)
 - Ancient evil (elder being)
 - Whatever DM wants
 
+:
 **But the main campaign is complete. This is optional bonus content.**
-
----
 
 ## DM Notes: Delivering The Ending
 
-**Make it personal:**
+**Make it personal:** ::
 - Every PC gets spotlight
 - Individual epilogues matter
 - Honor their journey
 
-**Make it earned:**
+**Make it earned:** ::
 - They worked 15 quests for this
 - Choices mattered
 - They shaped the world
 
-**Make it satisfying:**
+**Make it satisfying:** ::
 - Closure on major plots
 - Answers to lingering questions
 - Sense of completion
 
-**Make it emotional:**
+**Make it emotional:** ::
 - This is goodbye to characters
 - 50-65 sessions together
 - Real bonds formed
 
-**Make it memorable:**
+**Make it memorable:** ::
 - Final scene should resonate
 - Quote-worthy moment
 - Something they'll remember
-
----
 
 ## Final Advice For DMs
 
 **You've run a 15-quest, 50-65 session, morally complex campaign. That's incredible.**
 
-**Key things that made it work:**
+**Key things that made it work:** ::
 
 1. **Player agency was paramount** - Choices truly mattered
 2. **Moral complexity was consistent** - No easy answers
@@ -11152,115 +11009,62 @@ Same options as Ending 2 - each PC retires how they wish.
 4. **NPCs were memorable** - Recurring characters built investment
 5. **Tone was maintained** - Gray throughout, never black/white
 
-**If players loved it:**
+**If players loved it:** ::
 - You succeeded in something rare
 - You ran a campaign where ethics mattered
 - You proved D&D can handle moral complexity
 - You created memorable story
 
-**If players struggled with it:**
+**If players struggled with it:** ::
 - That's okay too
 - Some players prefer clear heroes/villains
 - Gray campaigns aren't for everyone
 - At least you tried something bold
 
-**Either way:**
+**Either way:** ::
 - You completed a massive undertaking
+
+\page
+
 - You created 150+ hours of content
 - You brought players on an epic journey
 - You should be proud
 
----
-
 ## Thank You
 
 **To the players who became Peacekeepers:**
-
+:
 You navigated impossible choices. You found paths through moral mazes. You proved that heroism exists even in gray worlds.
-
+:
 You weren't perfect heroes. You were REAL heroes. Flawed, struggling, compromising, but ultimately choosing right more often than wrong.
-
+\column
 Thank you for playing Blood & Coin.
-
+:
 **To the DM who ran this campaign:**
-
+:
 You guided players through 15 quests of moral complexity. You presented dilemmas without easy answers. You respected player agency. You maintained consistency across 50+ sessions.
-
+:
 That's masterful DMing.
-
+:
 Thank you for running Blood & Coin.
-
----
-
-**Campaign Status: COMPLETE** ✅
-
-🗡️ **Blood & Coin: The Peacekeeper Saga** 💰
-
-*Act I: Blood for Coin* - Complete  
-*Act II: Power Plays* - Complete  
-*Act III: Empire of Ashes (Peace Path)* - Complete  
-
-**Final Word Count:** 115,500+ words playable  
-**Total Sessions:** 50-65  
-**Total Gameplay:** 150+ hours  
-**Moral Dilemmas:** 100+  
-**Legacy:** Defined by players  
-
-**Status:** Publication-ready, campaign-complete, legendary.
-
-🎭⚖️☮️👑🗡️💰🎉
-
-**the end**
-
----
-
-*"In a world of blood and coin, you chose peace. That's heroism."*
-
-\page
-
 
 \page
 
 # Appendix A: Campaign NPCs
 
-# Blood & Coin Campaign - Complete NPC Compendium
+{{wide
+## Blood & Coin Campaign - Complete NPC Compendium
 ## All Major NPCs by Act and Quest
 
 **Last Updated:** November 4, 2025  
 **Coverage:** Acts I, II, III (Complete Campaign)
 
----
-
-## Table OF Contents
-
-**Act I: Blood for Coin (Levels 1-5)**
-- Quest 1.1: The Consortium Job
-- Quest 1.2: The Hunters
-- Quest 1.3: The Red Wolf
-- Quest 1.4: The Black Ledger
-- Quest 1.5: The Trial
-
-**Act II: Power Plays (Levels 6-11)**
-- Quest 2.1: The Recruiters
-- Quest 2.2: The First Mission
-- Quest 2.3: The Double Cross
-- Quest 2.4: The Heist
-- Quest 2.5: The Breaking Point
-
-**Act III: Empire of Ashes (Levels 11-15)**
-- Quest 3.1: The Peacekeepers
-- Quest 3.2: The Underground
-- Quest 3.3: The Alliance
-- Quest 3.4: The Unification
-- Quest 3.5: The Mediator's Rest
-
----
-
-# ACT I NPCs
+## ACT I NPCs
 
 ## Quest 1.1: The Consortium Job
+}}
 
-{{monster,frame
+{{monster,frame,wide
 ## Elise Consortium
 *Medium humanoid (human), neutral evil*
 ___
@@ -11290,9 +11094,9 @@ ___
 **Role:** Quest giver, antagonist  
 **Location:** Kaer Thandros, The Broken Spear tavern
 
----
+ ::
 
-{{monster,frame
+{{monster,frame,wide
 ## Marcus Blackwood
 *Medium humanoid (human), lawful good*
 ___
@@ -11321,15 +11125,15 @@ ___
 **Role:** Refugee leader, potential ally  
 **Location:** Warehouse District
 
----
+\page
 
-{{monster,frame
+{{monster,frame,wide
 ## Varak Ironfist
 *Medium humanoid (dwarf), lawful neutral*
 ___
 **Armor Class** :: 18 (plate armor)
 **Hit Points** :: 93 (11d8 + 44)
-**Speed** :: 25 ft.
+**Speed** :: 25 ft.![Varak Ironfist](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-varak-ironfist.jpg){width:250px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -11351,16 +11155,15 @@ ___
 ***Shield Bash.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 6 (1d4 + 4) bludgeoning damage, and the target must succeed on a DC 15 Strength save or be knocked prone.
 }}
 
-![Varak Ironfist](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-varak-ironfist.jpg){width:250px}
 
+{{wide
 **Role:** Iron Guild leader  
 **Location:** Iron Guild Hall
 
----
-
 ## Quest 1.2: The Hunters
+}}
 
-{{monster,frame
+{{monster,frame,wide
 ## Kael Shadowbane
 *Medium humanoid (human), chaotic neutral*
 ___
@@ -11391,12 +11194,10 @@ ___
 ***Hand Crossbow.*** *Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 14 Constitution save or take 9 (2d8) poison damage.
 }}
 
-![Kael Shadowbane](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-kael-shadowbane.png){width:300px}
-
 **Role:** Black Chains leader  
 **Location:** Black Chains Compound
 
----
+\page
 
 {{monster,frame
 ## Lady Seraphine Vale
@@ -11404,7 +11205,7 @@ ___
 ___
 **Armor Class** :: 13 (noble attire + ring of protection)
 **Hit Points** :: 22 (5d8)
-**Speed** :: 30 ft.
+**Speed** :: 30 ft.![Lady Seraphine Vale](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-lady-seraphine-vale-fortune.jpg){width:300px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -11425,12 +11226,8 @@ ___
 ***Zone of Truth (1/Day).*** DC 13 Cha save.
 }}
 
-![Lady Seraphine Vale](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-seraphine-vale.png){width:300px}
-
 **Role:** Noblewoman, patron  
 **Location:** Vale Manor
-
----
 
 ## Quest 1.3: The Red Wolf
 
@@ -11440,7 +11237,8 @@ ___
 ___
 **Armor Class** :: 16 (leather armor + Dex)
 **Hit Points** :: 112 (15d8 + 45)
-**Speed** :: 40 ft.
+**Speed** :: 40 ft. 
+![Elara "Red Wolf" Thornwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elara-thornwood-red-wolf.jpg){width:230px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -11475,12 +11273,10 @@ Red Wolf can take 3 legendary actions:
 ***Hide.*** Hide (even without cover).
 }}
 
-![Elara "Red Wolf" Thornwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elara-thornwood-red-wolf.jpg){width:300px}
-
 **Role:** Revolutionary leader, potential ally/enemy  
 **Location:** Thornwood Forest
 
----
+\page
 
 {{monster,frame
 ## Captain Aldric Thorne
@@ -11510,12 +11306,8 @@ ___
 ***Rallying Cry (1/Short Rest).*** Allies within 30 ft. gain 10 temporary HP.
 }}
 
-![Captain Aldric Thorne](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-aldric-thorne.png){width:300px}
-
 **Role:** Royal guard captain  
 **Location:** Thornwood pursuit
-
----
 
 ## Quest 1.4: The Black Ledger
 
@@ -11548,20 +11340,17 @@ ___
 ***Counterspell (2/Day).*** 3rd level.
 }}
 
-![Lord Pembroke](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-pembroke.png){width:300px}
-
 **Role:** Corrupt nobleman  
 **Location:** Pembroke Estate
 
----
-
-{{monster,frame
+{{monster,frame,wide
 ## Master Thief "Whisper"
 *Medium humanoid (halfling), neutral*
 ___
 **Armor Class** :: 16 (studded leather + Dex)
 **Hit Points** :: 66 (12d8 + 12)
 **Speed** :: 25 ft.
+![Master Thief Whisper](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/master-thief-whisper.jpg){width:200px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -11590,12 +11379,10 @@ ___
 ***Vanish (3/Day).*** Bonus action to hide even without cover.
 }}
 
-![Master Thief Whisper](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-whisper.png){width:300px}
-
 **Role:** Rival thief  
 **Location:** Pembroke Estate (infiltration)
 
----
+\page
 
 ## Quest 1.5: The Trial
 
@@ -11605,7 +11392,8 @@ ___
 ___
 **Armor Class** :: 14 (robes of protection)
 **Hit Points** :: 71 (13d8 + 13)
-**Speed** :: 30 ft.
+**Speed** :: 30 ft.![Magistrate Helena Ravens](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-magistrate-helena-ravens.jpg){width:300px}
+
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -11626,12 +11414,10 @@ ___
 - **4th (1 slot):** *arcane eye*
 }}
 
-![Magistrate Helena Ravens](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-magistrate-helena-ravens.png){width:300px}
 
 **Role:** Judge, arbiter  
 **Location:** Courthouse
 
----
 
 {{monster,frame
 ## Prosecutor Brand
@@ -11648,7 +11434,7 @@ ___
 **Skills** :: Deception +7, Intimidation +7, Persuasion +10
 **Senses** :: Passive Perception 12
 **Languages** :: Common, various
-**Challenge** :: 4 (1,100 XP)
+**Challenge** :: 4 (1,100 XP)![Prosecutor Brand](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-prosecutor-brand.jpg){width:300px}
 ___
 ***Silver Tongue.*** Advantage on Persuasion checks in court.
 
@@ -11661,10 +11447,10 @@ ___
 ***Vicious Mockery.*** DC 14 Wis save, 2d4 psychic damage, disadvantage on next attack.
 }}
 
-![Prosecutor Brand](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-prosecutor-brand.png){width:300px}
-
 **Role:** Antagonist prosecutor  
 **Location:** Courthouse
+
+\page
 
 # ACT II NPCs
 
@@ -11715,13 +11501,13 @@ Dawnblade can take 3 legendary actions:
 
 ***Cast Spell (Costs 2).*** Cast a spell.
 }}
-
+{{wide
 **Role:** Thaldros military commander, faction leader  
 **Location:** Royal Military HQ
+}}
 
----
 
-{{monster,frame
+{{monster,frame,wide
 ## Envoy Marcus Valen (Appendix)
 *Medium humanoid (human), neutral good*
 ___
@@ -11758,15 +11544,15 @@ ___
 **Role:** Aethoria political leader, faction leader  
 **Location:** Senate Building
 
----
+\page
 
-{{monster,frame
-## Corvus Blackwood (Appendix - Base Form)
+{{monster,frame,wide
+## Corvus Blackwood (Base Form)
 *Medium humanoid (human), chaotic neutral*
 ___
 **Armor Class** :: 15 (18 with *mage armor*)
 **Hit Points** :: 99 (18d8 + 18)
-**Speed** :: 30 ft.
+**Speed** :: 30 ft.![Prosecutor Brand](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-corvus-blackwood.jpg){width:300px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -11800,17 +11586,17 @@ DC 18, +10 to hit. Has access to 9th-level spells including *wish*.
 - **CR 11:** Powered by 2 Components (see Quest 2.3)
 - **CR 13:** Ascended with all 5 Components (see Quest 2.5)
 
----
+\page
 
 ## Quest 2.2: The First Mission
 
-{{monster,frame
+{{monster,frame,wide
 ## General Marcus Thorne
 *Medium humanoid (human), lawful good*
 ___
 **Armor Class** :: 18 (half-plate +1)
 **Hit Points** :: 105 (14d8 + 42)
-**Speed** :: 30 ft.
+**Speed** :: 30 ft.![General Marcus Thorne](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-general-marcus-thorne.jpg){width:300px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -11839,22 +11625,20 @@ ___
 ***Rally.*** Ally gains 1d8+2 temp HP.
 }}
 
-![General Marcus Thorne](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-general-marcus-thorne.png){width:300px}
-
 **Role:** Thaldros defector, informant  
 **Location:** Border region
 
----
+\page
 
 ## Quest 2.3: The Double Cross
 
-{{monster,frame
+{{monster,frame,wide
 ## Captain Sarah Vale (Appendix)
 *Medium humanoid (human), neutral good*
 ___
 **Armor Class** :: 16 (breastplate)
 **Hit Points** :: 58 (9d8 + 18)
-**Speed** :: 30 ft.
+**Speed** :: 30 ft.![Captain Sarah Vale](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-captain-sarah-vale.jpg){width:300px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -11880,9 +11664,7 @@ ___
 **Role:** Thaldros informant (if Thaldros path)  
 **Location:** Thaldros military
 
----
-
-{{monster,frame
+{{monster,frame,wide
 ## Julia Redwind
 *Medium humanoid (human), neutral good*
 ___
@@ -11911,20 +11693,18 @@ ___
 ***Sneak Attack (1/Turn).*** +2d6 damage when advantaged.
 }}
 
-![Julia Redwind](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-julia-redwind.png){width:300px}
-
 **Role:** Aethoria informant (if Aethoria path)  
 **Location:** Republican intelligence
 
----
+\page
 
-{{monster,frame
-## Elara Corvus (Appendix - Base Form)
+{{monster,frame,wide
+## Elara Corvus (Base Form)
 *Medium humanoid (human), chaotic good*
 ___
 **Armor Class** :: 12 (15 with *mage armor*)
 **Hit Points** :: 45 (10d8)
-**Speed** :: 30 ft.
+**Speed** :: 30 ft.![Elara Corvus](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-elara-prophet.jpg){width:300px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -11941,17 +11721,15 @@ ___
 - **2nd (3 slots):** *invisibility, misty step, shatter*
 - **3rd (2 slots):** *counterspell, fireball*
 }}
-
+{{wide
 **Role:** Corvus's daughter, potential ally  
 **Location:** Various
 
 *NOTE: She has significantly more powerful versions in Act III*
 
----
-
 ## Quest 2.4: The Heist
-
-{{monster,frame
+}}
+{{monster,frame,wide
 ## Razor (Master Thief)
 *Medium humanoid (human), neutral*
 ___
@@ -11982,14 +11760,12 @@ ___
 ***Hand Crossbow.*** *Ranged Weapon Attack:* +8 to hit, range 30/120 ft., one target. *Hit:* 8 (1d6 + 5) piercing damage, with poison option.
 }}
 
-![Razor](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-razor.png){width:300px}
-
 **Role:** Rival heist team leader  
 **Location:** Royal Vault
 
----
+\page
 
-{{monster,frame
+{{monster,frame,wide
 ## Brother Ash
 *Medium humanoid (human), neutral evil*
 ___
@@ -12021,7 +11797,6 @@ ___
 ***Sacred Flame.*** DC 15 Dex save, 2d8 radiant damage on failed save.
 }}
 
-![Brother Ash](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-ash.png){width:300px}
 
 **Role:** Unbound priest  
 **Location:** Royal Vault, later Act III
@@ -12034,7 +11809,7 @@ ___
 ___
 **Armor Class** :: 19 (natural armor)
 **Hit Points** :: 210 (20d12 + 80)
-**Speed** :: 30 ft., fly 30 ft. (hover)
+**Speed** :: 30 ft., fly 30 ft. (hover)![General Marcus Thorne](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/vault-guardian-golem.jpg){width:300px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -12068,77 +11843,68 @@ ___
 **Role:** Royal Vault defender  
 **Location:** Royal Vault Level 5
 
----
+\page
 
 ## Quest 2.5: The Breaking Point
 
-**Corvus Blackwood Variants:**
+**Corvus Blackwood Variants:** ::
 - **CR 11 (2 Components):** See Quest 2.3 for complete stat block
 - **CR 13 (5 Components - Ascended):** See Quest 2.5 final battle for complete stat block
 
----
-
-# Act III NPCs
+## Act III NPCs
 
 ## Quest 3.1: The Peacekeepers
 
 ### **Captain Marcus Stone**
 *Medium humanoid (human), lawful neutral*
 
-**Role:** Thaldros border captain  
-**Challenge:** 3 (700 XP)  
-**Location:** Judgment Border
+**Role:** Thaldros border captain  ::
+**Challenge:** 3 (700 XP)   ::
+**Location:** Judgment Border ::
 
-**Stats:** Knight (MM p.347) with added:
+**Stats:** Knight (MM p.347) with added: ::
 - **Nervous Disposition:** Disadvantage on Deception to hide guilt
 - **Border Authority:** Can command guards at checkpoint
-
----
 
 ### **Lieutenant Sara Brightwind**
 *Medium humanoid (human), lawful good*
 
-**Role:** Frontier border officer  
-**Challenge:** 3 (700 XP)  
-**Location:** Judgment Border
+**Role:** Frontier border officer   ::
+**Challenge:** 3 (700 XP)   ::
+**Location:** Judgment Border ::
 
-**Stats:** Veteran (MM p.350) with:
+**Stats:** Veteran (MM p.350) with: ::
 - **Righteous Fury:** Advantage on attacks when defending innocents
 - **Republican Ideals:** Passionate about justice
-
----
 
 ### **Admiral Viktor Seaworth**
 *Medium humanoid (human), lawful neutral*
 
-**Role:** Thaldros naval commander  
-**Challenge:** 5 (1,800 XP)  
-**Location:** Port Myrthen Port
+**Role:** Thaldros naval commander   ::
+**Challenge:** 5 (1,800 XP)   ::
+**Location:** Port Myrthen Port ::
 
-**Stats:** Knight (MM p.347) with naval command abilities
-
----
+**Stats:** Knight (MM p.347) with naval command abilities ::
 
 ### **Diplomat Chen Aldermist**
 *Medium humanoid (human), neutral good*
 
-**Role:** Aethoria diplomat  
-**Challenge:** 2 (450 XP)  
-**Location:** Port Myrthen Port
+**Role:** Aethoria diplomat   ::
+**Challenge:** 2 (450 XP)   ::
+**Location:** Port Myrthen Port ::
 
-**Stats:** Noble (MM p.348) with enhanced Persuasion
-
----
+**Stats:** Noble (MM p.348) with enhanced Persuasion ::
 
 ## Quest 3.2: The Underground
 
-{{monster,frame
+{{monster,frame,wide
 ## Elise "The Reaper" Thornwood (Appendix)
 *Medium humanoid (human), chaotic evil*
 ___
 **Armor Class** :: 17 (studded leather + Dex)
 **Hit Points** :: 135 (18d8 + 54)
 **Speed** :: 40 ft.
+![Elise Thornwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/bc-elise-thornwood-reaper.jpg){width:130px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -12176,10 +11942,10 @@ ___
 - Death wish, fights to the death
 - Mention Red Wolf = disadvantage on Wis saves for 1 round
 
----
+\page
 
 {{monster,frame,wide
-## The Prophet (Elara Corvus Ascended - Appendix)
+## The Prophet (Elara Corvus Ascended)
 *Medium humanoid (human), chaotic neutral*
 ___
 **Armor Class** :: 17 (20 with *mage armor*)
@@ -12227,7 +11993,7 @@ The Prophet can take 2 legendary actions:
 **Role:** Cell Gamma leader, major boss  
 **Location:** Old Kaer Vault
 
----
+\page
 
 ## Quest 3.3: The Alliance
 
@@ -12237,7 +12003,7 @@ The Prophet can take 2 legendary actions:
 ___
 **Armor Class** :: 20 (natural armor + magic)
 **Hit Points** :: 285 (30d8 + 150)
-**Speed** :: 30 ft.
+**Speed** :: 30 ft.![The Dread King](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-dread-king-undead-throne.jpg){width:300px}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -12286,12 +12052,10 @@ The Dread King can take 3 legendary actions:
 ***Cast Spell (Costs 3).*** Cast a spell using a spell slot.
 }}
 
-![The Dread King](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-dread-king.png){width:300px}
-
 **Role:** Main antagonist, lich  
 **Location:** Northern campaign, later Frozen Kingdom
 
----
+\page
 
 {{monster,frame
 ## Necromancer Lords (6 total)
@@ -12336,493 +12100,418 @@ Each Necromancer Lord can take 2 legendary actions:
 **Role:** Dread King's lieutenants  
 **Location:** Dreadhost army
 
----
-
-**Ice Golems** (summoned by Dread King) — Use Stone Golem (MM p.170) with:
+**Ice Golems** (summoned by Dread King) — Use Stone Golem with:
 - **Cold Aura:** 10-ft. radius, 2d6 cold to creatures that start turn there
 - **Ice Slam:** +10 to hit, 3d8+6 bludgeoning + 2d6 cold
 
----
-
 ## Quest 3.4: The Unification
 
-**The Dread King (Empowered)** — Same as Quest 3.3 but with:
+**The Dread King (Empowered)** — Same as Quest 3.3 but with: ::
 - **Learned Tactics:** Advantage on saves vs effects he experienced before
 - **Frozen Domain:** Throne room is difficult terrain, DC 17 Con save each round or 3d6 cold
 - **Phylactery Link:** Regenerates 20 HP per turn while within 60 ft of crown
 - **Guardian Summons (1/Day):** Summons 4 Ice Golems (CR 10 each)
 
-**Crown (Phylactery):** AC 20, 100 HP, resistance to all damage except radiant and force. Must be destroyed while Dread King is "dead."
-
----
+**Crown (Phylactery):** AC 20, 100 HP, resistance to all damage except radiant and force. Must be destroyed while Dread King is "dead." ::
 
 ## Quest 3.5: The Mediator's Rest
 
 *No new stat blocks - epilogue quest with NPC reunions*
 
----
+## Quick Reference BY CR
 
-# Quick Reference BY CR
+**CR 2:** Lady Seraphine Vale, Diplomat Chen   ::
+**CR 3:** Elise Consortium, Marcus Blackwood, Captain Sarah Vale, Lt Sara Brightwind, Captain Stone   ::
+**CR 4:** Lord Pembroke, Prosecutor Brand, Elara Corvus (base)   ::
+**CR 5:** Varak Ironfist, Captain Aldric Thorne, Master Thief Whisper, Magistrate Ravens, Admiral Viktor   ::
+**CR 6:** Kael Shadowbane, Envoy Marcus Valen   ::
+**CR 7:** Red Wolf, General Marcus Thorne, Brother Ash   ::
+**CR 8:** Razor   ::
+**CR 9:** Elise "The Reaper" Thornwood   ::
+**CR 10:** Commander Dawnblade, Corvus Blackwood (base), Vault Guardian, Ice Golems   ::
+**CR 11:** Corvus (2 Components)   ::
+**CR 12:** The Prophet (Elara ascended), Necromancer Lords   ::
+**CR 13:** Corvus (5 Components)   ::
+**CR 18:** The Dread King   ::
+**CR 19:** The Dread King (Empowered)   ::
 
-**CR 2:** Lady Seraphine Vale, Diplomat Chen  
-**CR 3:** Elise Consortium, Marcus Blackwood, Captain Sarah Vale, Lt Sara Brightwind, Captain Stone  
-**CR 4:** Lord Pembroke, Prosecutor Brand, Elara Corvus (base)  
-**CR 5:** Varak Ironfist, Captain Aldric Thorne, Master Thief Whisper, Magistrate Ravens, Admiral Viktor  
-**CR 6:** Kael Shadowbane, Envoy Marcus Valen  
-**CR 7:** Red Wolf, General Marcus Thorne, Brother Ash  
-**CR 8:** Razor  
-**CR 9:** Elise "The Reaper" Thornwood  
-**CR 10:** Commander Dawnblade, Corvus Blackwood (base), Vault Guardian, Ice Golems  
-**CR 11:** Corvus (2 Components)  
-**CR 12:** The Prophet (Elara ascended), Necromancer Lords  
-**CR 13:** Corvus (5 Components)  
-**CR 18:** The Dread King  
-**CR 19:** The Dread King (Empowered)  
+## Appendix B: Magic Items
 
----
-
-**Total NPCs in Compendium: 40+ major characters with complete stat blocks**
-
-**All NPCs cross-referenced with their quest appearances**
-
-**Ready for immediate play**
-\page
-
-# Appendix B: Magic Items
-
-# Blood & Coin Campaign - Complete Magic Items Compendium
-## All Magic Items by Quest and Rarity
-
-**Last Updated:** November 4, 2025  
-**Coverage:** Acts I, II, III (Complete Campaign)
-
----
-
-## Table OF Contents
-
-**By Rarity:**
-- Common Items
-- Uncommon Items
-- Rare Items
-- Very Rare Items
-- Legendary Items
-- Artifacts
-
-**By Act:**
-- Act I Items (Quests 1.1-1.5)
-- Act II Items (Quests 2.1-2.5)
-- Act III Items (Quests 3.1-3.5)
-
-**Quick Reference Tables**
-
----
-
-# Act I Items
+## Act I Items
 
 ## Quest 1.1: The Consortium Job
 
 ### **Elise'S Glamoured Leather**
 *Armor (leather), uncommon*
 
-**AC:** 11 + Dex modifier  
-**Attunement:** No
+**AC:** 11 + Dex modifier   ::
+**Attunement:** No ::
 
-**Properties:**
+**Properties:** ::
 - Appears as expensive noble clothing
 - Can change appearance (minor illusion level)
 - Advantage on Charisma (Deception) checks to appear wealthy
 
-**Lore:** Commissioned by Elise Consortium for covert work. Allows her to move between high society and criminal underworld seamlessly.
+**Lore:** Commissioned by Elise Consortium for covert work. Allows her to move between high society and criminal underworld seamlessly. ::
 
-**Location:** Worn by Elise, can be looted if she's defeated
+**Location:** Worn by Elise, can be looted if she's defeated ::
 
-**Value:** 350gp
+**Value:** 350gp ::
 
----
+\page
 
 ### **Marcus'S Family Shield**
 *Armor (shield), uncommon*
 
-**AC:** +2  
-**Attunement:** No
+**AC:** +2   ::
+**Attunement:** No ::
 
-**Properties:**
+**Properties:** ::
 - Standard +2 shield
 - Bears Blackwood family crest
 - Proof of Marcus's noble heritage
 
-**Lore:** Heirloom from Marcus Blackwood's family. Proves his noble status if shown to authorities.
+**Lore:** Heirloom from Marcus Blackwood's family. Proves his noble status if shown to authorities. ::
 
-**Location:** Marcus carries it
+**Location:** Marcus carries it ::
 
-**Value:** 400gp (more as evidence)
-
----
+**Value:** 400gp (more as evidence) ::
 
 ## Quest 1.2: The Hunters
 
 ### **Kael'S Poisoned Blades**
 *Weapon (shortsword), rare (requires attunement)*
 
-**Damage:** 1d6 + Dex piercing  
-**Properties:** Finesse, light, special
+**Damage:** 1d6 + Dex piercing   ::
+**Properties:** Finesse, light, special ::
 
-**Venom Reservoir:** Blade has 3 charges. As bonus action, expend 1 charge to coat blade with poison (lasts 1 minute). Next hit: DC 15 Con save, 3d6 poison damage (half on success). Regains 1d3 charges at dawn.
+**Venom Reservoir:** Blade has 3 charges. As bonus action, expend 1 charge to coat blade with poison (lasts 1 minute). Next hit: DC 15 Con save, 3d6 poison damage (half on success). Regains 1d3 charges at dawn. ::
 
-**Lore:** Kael's signature weapons. Each blade has hollow core containing concentrated venom.
+**Lore:** Kael's signature weapons. Each blade has hollow core containing concentrated venom. ::
 
-**Location:** Wielded by Kael Shadowbane
+**Location:** Wielded by Kael Shadowbane ::
 
-**Value:** 2,500gp
-
----
+**Value:** 2,500gp ::
 
 ### **Ring OF Shadows**
 *Ring, uncommon (requires attunement)*
 
-**Properties:**
+**Properties:** ::
 - +2 to Stealth checks
 - Once per short rest: Cast *pass without trace* (self only)
 - Shadows seem slightly deeper around wearer
 
-**Lore:** Black Chains standard issue for senior members.
+**Lore:** Black Chains standard issue for senior members. ::
 
-**Location:** Found in Black Chains treasure
+**Location:** Found in Black Chains treasure ::
 
-**Value:** 750gp
-
----
+**Value:** 750gp ::
 
 ## Quest 1.3: The Red Wolf
 
 ### **Red Wolf'S Longbow**
 *Weapon (longbow), very rare (requires attunement)*
 
-**Damage:** 1d8 + 2 piercing  
-**Range:** 150/600 ft  
-**Properties:** Ammunition, heavy, two-handed, +2
+**Damage:** 1d8 + 2 piercing   ::
+**Range:** 150/600 ft   ::
+**Properties:** Ammunition, heavy, two-handed, +2 ::
 
-**Forest's Friend:** In forest terrain, attacks have advantage. Arrows make no sound when fired.
+**Forest's Friend:** In forest terrain, attacks have advantage. Arrows make no sound when fired. ::
 
-**Swift Shot:** Can use bonus action to make additional longbow attack (3/day).
+**Swift Shot:** Can use bonus action to make additional longbow attack (3/day). ::
 
-**Lore:** Elara "Red Wolf" Thornwood's signature weapon. Carved from ancient oak, blessed by forest spirits.
+**Lore:** Elara "Red Wolf" Thornwood's signature weapon. Carved from ancient oak, blessed by forest spirits. ::
 
-**Location:** Wielded by Red Wolf
+**Location:** Wielded by Red Wolf ::
 
-**Value:** 8,000gp
+**Value:** 8,000gp ::
 
----
-
-### **Cloak OF The Thornwood**
+### **Cloak of the Thornwood**
 *Wondrous item, rare (requires attunement)*
 
-**AC:** No change  
-**Properties:**
+**AC:** No change   ::
+**Properties:** ::
 - Advantage on Stealth checks in natural terrain
 - Can cast *pass without trace* (1/day)
 - Resistance to poison damage
 - Can communicate with plants as per *speak with plants* (1/day)
 
-**Lore:** Red Wolf's iconic cloak. Woven from thornvines, grants connection to forest.
+**Lore:** Red Wolf's iconic cloak. Woven from thornvines, grants connection to forest. ::
 
-**Location:** Worn by Red Wolf
+**Location:** Worn by Red Wolf ::
 
-**Value:** 3,500gp
-
----
+**Value:** 3,500gp ::
 
 ## Quest 1.4: The Black Ledger
 
 ### **Lord Pembroke'S Signet Ring**
 *Ring, uncommon*
 
-**Properties:**
+**Properties:** ::
 - Acts as noble seal (authentication)
 - +2 to Charisma (Persuasion) checks with nobility
 - Can cast *detect magic* at will
 
-**Curse:** Wearer becomes increasingly arrogant. Wisdom save DC 12 each day or gain flaw: "I am better than common folk."
+**Curse:** Wearer becomes increasingly arrogant. Wisdom save DC 12 each day or gain flaw: "I am better than common folk." ::
 
-**Lore:** Pembroke family heirloom. Contains minor enchantment and major ego.
+**Lore:** Pembroke family heirloom. Contains minor enchantment and major ego. ::
 
-**Location:** Worn by Lord Pembroke
+**Location:** Worn by Lord Pembroke ::
 
-**Value:** 1,200gp
+**Value:** 1,200gp ::
 
----
-
-### **The BLACK LEDGER** (Quest Objective)
+### **The Black Ledger** (Quest Objective)
 *Wondrous item, uncommon*
 
-**Properties:**
+**Properties:** ::
 - Contains records of illegal transactions
 - Magical lock (DC 18 Thieves' tools or *knock* spell)
 - Self-destructs if wrong person opens (DC 15 Dex save, 4d6 fire)
 - Worth 5,000gp as blackmail material
 
-**Lore:** Evidence of widespread corruption. Pembroke's insurance policy and his doom.
+**Lore:** Evidence of widespread corruption. Pembroke's insurance policy and his doom. ::
 
-**Location:** Hidden in Pembroke Estate vault
+\page
 
-**Value:** 500gp (object), 5,000gp (information)
+**Location:** Hidden in Pembroke Estate vault ::
 
----
+**Value:** 500gp (object), 5,000gp (information) ::
 
 ## Quest 1.5: The Trial
 
 ### **Magistrate'S Robes OF Office**
 *Wondrous item, rare*
 
-**AC:** 14  
-**Properties:**
+**AC:** 14   ::
+**Properties:** ::
 - +2 to Intelligence (Investigation) and Wisdom (Insight)
 - Advantage on saves vs charm
 - Can cast *zone of truth* (DC 13, 1/day)
 - Can cast *detect thoughts* (DC 13, 1/day)
 
-**Lore:** Enchanted robes given to senior magistrates. Help discern truth from lies.
+**Lore:** Enchanted robes given to senior magistrates. Help discern truth from lies. ::
 
-**Location:** Worn by Magistrate Ravens (not lootable unless earned)
+**Location:** Worn by Magistrate Ravens (not lootable unless earned) ::
 
-**Value:** 4,000gp
-
----
+**Value:** 4,000gp ::
 
 ### **Scales of Justice** (Court Artifact)
 *Wondrous item, legendary (not obtainable)*
 
-**Properties:**
+**Properties:** ::
 - Detects lies within 60 ft
 - Forces truth-telling in courtroom
 - Cannot be deceived or charmed
 
-**Lore:** Ancient artifact in courthouse. Ensures fair trials. Cannot be taken.
+**Lore:** Ancient artifact in courthouse. Ensures fair trials. Cannot be taken. ::
 
-**Value:** Priceless (not for sale)
+**Value:** Priceless (not for sale) ::
 
----
-
-# Act II Items
+## Act II Items
 
 ## Quest 2.1: The Recruiters
 
 ### **Dawnblade'S Longsword**
 *Weapon (longsword), legendary (requires attunement by paladin)*
 
-**Damage:** 1d8 + 3 slashing (1d10 + 3 two-handed)  
-**Properties:** Versatile, +3, special
+**Damage:** 1d8 + 3 slashing (1d10 + 3 two-handed)   ::
+**Properties:** Versatile, +3, special ::
 
-**Dawn's Light:** Blade sheds bright light 20 ft, dim light 20 ft beyond. Can be toggled on/off.
+**Dawn's Light:** Blade sheds bright light 20 ft, dim light 20 ft beyond. Can be toggled on/off. ::
 
-**Smite Enhancement:** Divine smite deals additional 1d8 radiant damage.
+**Smite Enhancement:** Divine smite deals additional 1d8 radiant damage. ::
 
-**Command Presence:** While wielding, allies within 30 ft gain +1 to attack rolls.
+**Command Presence:** While wielding, allies within 30 ft gain +1 to attack rolls. ::
 
-**Lore:** Commander Dawnblade's signature weapon. Forged for first Thaldros Knight-Commander 300 years ago.
+**Lore:** Commander Dawnblade's signature weapon. Forged for first Thaldros Knight-Commander 300 years ago. ::
 
-**Location:** Wielded by Commander Dawnblade (not obtainable unless she dies or gifts it)
+**Location:** Wielded by Commander Dawnblade (not obtainable unless she dies or gifts it) ::
 
-**Value:** 45,000gp
-
----
+**Value:** 45,000gp ::
 
 ### **Valen'S Pendant OF Eloquence**
 *Wondrous item, rare (requires attunement)*
 
-**Properties:**
+**Properties:** ::
 - +2 to Charisma (Persuasion) checks
 - Advantage on Charisma (Performance) when making speeches
 - Can cast *charm person* (DC 14, 3/day)
 - Can cast *suggestion* (DC 14, 1/day)
 
-**Lore:** Gift from Aethoria's founders. Worn by all Senate leaders. Symbol of democratic ideals.
+**Lore:** Gift from Aethoria's founders. Worn by all Senate leaders. Symbol of democratic ideals. ::
 
-**Location:** Worn by Envoy Valen
+**Location:** Worn by Envoy Valen ::
 
-**Value:** 3,000gp
-
----
+**Value:** 3,000gp ::
 
 ## Quest 2.2: The First Mission
 
 ### **World-Splitter Component #1** (Unbound Quest)
 *Artifact (fragment), artifact*
 
-**Properties:**
+**Properties:** ::
 - Grants +2 to Intelligence
 - Can cast *detect thoughts* at will
 - User can sense other Components within 10 miles
 - **Corruption:** Each day attuned, make DC 15 Wis save or gain madness
 
-**Lore:** One of five fragments of reality-warping artifact. Extremely dangerous. Corvus seeks all five.
+**Lore:** One of five fragments of reality-warping artifact. Extremely dangerous. Corvus seeks all five. ::
 
-**Location:** Hidden in ancient vault (Unbound quest path)
+**Location:** Hidden in ancient vault (Unbound quest path) ::
 
-**Value:** Incalculable (world-threatening)
-
----
+**Value:** Incalculable (world-threatening) ::
 
 ### **General Thorne'S Plate Armor +1**
 *Armor (plate), rare*
 
-**AC:** 19  
-**Attunement:** No
+**AC:** 19   ::
+**Attunement:** No ::
 
-**Properties:**
+**Properties:** ::
 - Standard +1 plate armor
 - Bears Thaldros military insignia
 - Weight: 65 lbs
 
-**Lore:** Standard issue for Thaldros generals. Well-crafted but not magical beyond enhancement.
+**Lore:** Standard issue for Thaldros generals. Well-crafted but not magical beyond enhancement. ::
 
-**Location:** Worn by General Marcus Thorne
+**Location:** Worn by General Marcus Thorne ::
 
-**Value:** 2,500gp
+**Value:** 2,500gp ::
 
----
+\page
 
 ## Quest 2.3: The Double Cross
 
 ### **Infiltrator'S Cloak**
 *Wondrous item, rare (requires attunement)*
 
-**Properties:**
+**Properties:** ::
 - Advantage on Dexterity (Stealth) checks
 - Can cast *invisibility* (self only, 1/day)
 - Can change color to match surroundings (takes 1 minute)
 
-**Lore:** Used by spies and informants. Perfect for those who betray powerful people.
+**Lore:** Used by spies and informants. Perfect for those who betray powerful people. ::
 
-**Location:** Can be purchased or found after exposing betrayals
+**Location:** Can be purchased or found after exposing betrayals ::
 
-**Value:** 3,200gp
-
----
+**Value:** 3,200gp ::
 
 ## Quest 2.4: The Heist
 
 ### **World-Splitter Component #3** (Off-Screen Acquisition)
 *Artifact (fragment), artifact*
 
-**Properties:** Same as Component #1 but:
+**Properties:** Same as Component #1 but: ::
 - Grants +2 to Constitution
 - Can cast *death ward* (1/day, self only)
 - **Corruption:** DC 15 Wis save daily
 
-**Lore:** Third Component. Hidden in Temple of Echoes in eastern Scar Wastes. Corvus's Unbound agents recovered it during Quest 2.3-2.4 events while PCs were occupied elsewhere.
+**Lore:** Third Component. Hidden in Temple of Echoes in eastern Scar Wastes. Corvus's Unbound agents recovered it during Quest 2.3-2.4 events while PCs were occupied elsewhere. ::
 
-**Location:** In Corvus's possession (acquired off-screen)
+**Location:** In Corvus's possession (acquired off-screen) ::
 
-**Value:** Incalculable
+**Value:** Incalculable ::
 
 **DM Note:** Players don't retrieve this Component. Corvus's cult secured it independently, demonstrating that the Unbound are active and capable even without PC involvement. This maintains tension and shows Corvus progressing toward his goal.
 
----
 
 ### **World-Splitter Component #4**
 *Artifact (fragment), artifact*
 
-**Properties:** Same as Component #1 but:
+**Properties:** Same as Component #1 but: :: 
 - Grants +2 to Wisdom (rather than Intelligence)
 - Can cast *scrying* (1/day)
 - **Corruption:** DC 16 Wis save daily
 
-**Lore:** Fourth Component. In Royal Vault. Everyone wants it.
+**Lore:** Fourth Component. In Royal Vault. Everyone wants it. ::
 
-**Location:** Royal Vault, pedestal in inner sanctum
+**Location:** Royal Vault, pedestal in inner sanctum ::
 
-**Value:** Incalculable
+**Value:** Incalculable ::
 
----
+\column
 
 ### **Crown Jewels OF Thaldros**
 *Wondrous item set, legendary*
 
-**Set includes:**
+**Set includes:** ::
 - Crown (headwear)
 - Scepter (rod)
 - Orb (wondrous item)
 
-**Combined Properties (if wearing all three):**
+**Combined Properties (if wearing all three):** ::
 - Advantage on Charisma checks with nobility
 - Can cast *command* at will
 - +3 to AC
 - Immunity to being charmed
 
-**Individual Items:** Each has minor benefits
+**Individual Items:** Each has minor benefits ::
 
-**Lore:** Symbols of royal authority. Extremely valuable, extremely recognizable.
+**Lore:** Symbols of royal authority. Extremely valuable, extremely recognizable. ::
 
-**Location:** Royal Vault
+**Location:** Royal Vault ::
 
-**Value:** 50,000gp (set), but selling would be nearly impossible
-
----
+**Value:** 50,000gp (set), but selling would be nearly impossible ::
 
 ### **Defender Longsword**
 *Weapon (longsword), very rare (requires attunement)*
 
-**Damage:** 1d8 + 3 slashing (1d10 + 3 two-handed)  
-**Properties:** Versatile, +3
+**Damage:** 1d8 + 3 slashing (1d10 + 3 two-handed) ::  
+**Properties:** Versatile, +3 ::
 
-**Defensive Stance:** As bonus action, transfer some/all attack bonus to AC bonus. Example: +1 to attacks, +2 to AC.
+**Defensive Stance:** As bonus action, transfer some/all attack bonus to AC bonus. Example: +1 to attacks, +2 to AC. ::
 
-**Lore:** Classic D&D magic item. In Royal Vault collection.
+**Lore:** Classic D&D magic item. In Royal Vault collection. ::
 
-**Location:** Royal Vault, display case
+**Location:** Royal Vault, display case ::
 
-**Value:** 24,000gp
-
----
+**Value:** 24,000gp ::
 
 ### **Staff OF Power**
 *Staff, very rare (requires attunement by sorcerer, warlock, or wizard)*
 
-**Properties:**
+**Properties:** ::
 - +2 to spell attack rolls and save DC
 - +2 to AC
 - +2 to saving throws
 - Contains 20 charges for spells
 - Can break as retributive strike (30d6 to all in 30 ft)
 
-**Lore:** One of most powerful staves. In Royal Vault.
+**Lore:** One of most powerful staves. In Royal Vault. ::
 
-**Location:** Royal Vault, secured case
+**Location:** Royal Vault, secured case ::
 
-**Value:** 40,000gp
+**Value:** 40,000gp ::
 
----
+\page
 
 ### **Ring OF Spell Storing**
 *Ring, rare (requires attunement)*
 
-**Properties:**
+**Properties:** ::
 - Stores up to 5 levels of spells
 - Anyone can cast stored spells
 - Recharge by casting into ring
 
-**Lore:** Useful for non-casters or spell-sharing. Royal Vault collection.
+**Lore:** Useful for non-casters or spell-sharing. Royal Vault collection. ::
 
-**Location:** Royal Vault
+**Location:** Royal Vault ::
 
-**Value:** 6,000gp
-
----
+**Value:** 6,000gp ::
 
 ### **Cloak OF Invisibility**
 *Wondrous item, legendary (requires attunement)*
 
-**Properties:**
+**Properties:** ::
 - Can cast *invisibility* (self only) at will
 - No concentration required
 - Lasts until attack or cast spell
 
-**Lore:** One of rarest magical items. Royal Vault's prize.
+**Lore:** One of rarest magical items. Royal Vault's prize. ::
 
-**Location:** Royal Vault, heavily guarded case
+**Location:** Royal Vault, heavily guarded case ::
 
-**Value:** 75,000gp (incalculable in practice)
+**Value:** 75,000gp (incalculable in practice) ::
 
 ---
 
@@ -15468,20 +15157,20 @@ The Homebrewery
 
 # Blood & Coin
 
-*You're not heroes. You're professionals.*
-
+*You're not heroes. You're professionals.* 
 ___
-
-Welcome to **Crossroads**, where the only laws are contracts and survival. In **Blood & Coin**, you'll navigate a world of mercenary politics, criminal enterprises, and moral compromise.
-
-**This campaign will challenge you to:**
+:
+Welcome to **Crossroads**, where the only laws are contracts and survival. In **Blood & Coin**, you'll navigate a world of mercenary politics, criminal enterprises, and moral compromise. 
+:
+**This campaign will challenge you to:** 
 - Make impossible choices where there's no "right" answer
 - Build a reputation that opens doors—or closes them
 - Balance profit against principle
 - Survive in a world that doesn't care about your intentions
 
+:
 From fresh meat in the Iron Guild to power brokers who shape nations, your choices will echo through Tirvandor's history.
-
+:
 *Everyone has a price. What's yours?*
 
 ![background](/assets/naturalCrit/adventure_back_cover.jpg){position:absolute,bottom:0,left:0,height:100%}
