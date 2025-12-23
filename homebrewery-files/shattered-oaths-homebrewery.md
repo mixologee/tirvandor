@@ -6116,7 +6116,7 @@ Party must present actual plan:
 
 **Encounter:** ::
 - 1 **Lord Shadows Blackwood** (CR 15 full stats)
-- 1 **The Lich of Raven's Keep** (CR 18 - arrives round 3)
+- 1 **The Lich of Raven's Keep** (CR 17 - arrives round 3)
 - 2 **Unbound Champions** (CR 3 each)
 
 **Battlefield:** Great Hall (60x80 ft., pillars provide cover, high ceiling allows flying) ::
@@ -6132,7 +6132,7 @@ Party must present actual plan:
 
 **Special Mechanic - Phylactery:** ::
 - If Lich is "killed," reforms in 1d10 days unless phylactery destroyed
-- Phylactery location: Hidden vault in Raven's Keep (requires side quest)
+- Phylactery location: Pocket dimension accessible only through Raven's Keep vault (requires side quest and specific ritual)
 
 **If Lord Shadows Reduced to 50 HP:** ::
 - Activates Primordial Form (resistance to all damage, flies)
@@ -8113,7 +8113,7 @@ If successful, heroes learn:
 - **100 Unbound Soldiers** (use Guard stats, CR 1/8 each)
 - **20 Unbound Cultists** (use Cultist stats, CR 1/8)
 - **10 Unbound Mages** (use Mage stats, CR 6)
-- **The Lich of Raven's Keep** (CR 18, Lord Shadows's right hand)
+- **The Lich of Raven's Keep** (CR 17, Lord Shadows's right hand)
 - **Captain Malthus Voidcaller** (CR 13, if still alive)
 - **Sister Mortua** (CR 11, if still alive)
 - **4 Unbound Champions** (CR 5 each, elite guards)
@@ -8633,7 +8633,7 @@ If heroes choose combat, immediate transition:
 
 Enemies:
 - **Lord Shadows Blackwood** (CR 15, full power)
-- **The Lich of Raven's Keep** (CR 18)
+- **The Lich of Raven's Keep** (CR 17)
 - **Captain Malthus Voidcaller** (CR 13, if alive)
 - **Sister Mortua** (CR 11, if alive)
 - **4 Unbound Champions** (CR 5 each)
@@ -9997,28 +9997,29 @@ This "recruiter persona" is how he appears throughout the Blood & Coin campaign,
 - Can be sympathetic villain or antihero depending on party alignment
 - His relationship with the Lost Heir creates emotional stakes
 - Can be saved/redeemed or become tragic fallen hero
-::
+
 
 {{monster,frame,wide
-## The Lich of Raven's Keep
+## The Lich of Raven's Keep (Arcanus the Undying)
 *Medium Undead, Lawful Evil*
 ___
-**Armor Class** :: 17 (natural armor)
-**Hit Points** :: 165 (22d8 + 66)
-**Speed** :: 30 ft.![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-arcanus-elder-lich.jpg) {width:325px,mix-blend-mode:multiply}
+**Armor Class** :: 18 (natural armor + *robe of the archmagi*)
+**Hit Points** :: 199 (22d8 + 100)
+**Speed** :: 30 ft.
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-arcanus-elder-lich.jpg) {width:185px,mix-blend-mode:multiply}
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|11 (+0)|16 (+3)|16 (+3)|22 (+6)|18 (+4)|18 (+4)|
+|11 (+0)|16 (+3)|20 (+5)|22 (+6)|18 (+4)|18 (+4)|
 ___
-**Saving Throws** :: Con +9, Int +12, Wis +10
-**Skills** :: Arcana +18 (expertise), History +12, Insight +10, Perception +10
+**Saving Throws** :: Con +12, Int +14, Wis +10
+**Skills** :: Arcana +21, History +14, Insight +10, Perception +10
 **Damage Resistances** :: Cold, lightning, necrotic
 **Damage Immunities** :: Poison; bludgeoning, piercing, slashing from nonmagical attacks
 **Condition Immunities** :: Charmed, exhaustion, frightened, paralyzed, poisoned
 **Senses** :: Truesight 120 ft., Passive Perception 20
-**Languages** :: Common, Draconic, Dwarvish, Elvish, Abyssal
-**Challenge** :: 18 (20,000 XP)
+**Languages** :: Common, Abyssal, Draconic, Elvish, Infernal, Primordial
+**Challenge** :: 17 (18,000 XP)
 ___
 **LICH ABILITIES** :: 
 **Spellcasting** :: 17th-level wizard. DC 20, +12 to hit.
@@ -10031,20 +10032,48 @@ ___
 **9th** :: Power Word Kill
 **Rejuvenation** :: If destroyed, reforms in phylactery in 1d10 days.
 **Turn Resistance** :: Advantage on saves against Turn Undead.
-**LEGENDARY RESISTANCE (3/Day)** :: Choose to succeed.
-### ACTIONS
-**Paralyzing Touch** :: Melee Spell Attack: +12 to hit. *Hit: 3d6 cold plus paralyzed (DC 18 Con save, 1 minute, repeat save each turn).*
-**Cast a Spell** :: Casts spell.
-### LEGENDARY ACTIONS (3):
-**- Cantrip** :: Cast cantrip.
-**- Paralyzing Touch** :: Use touch attack.
-**- Frightening Gaze (Costs 2)** :: Target within 10 ft. DC 18 Wis save or frightened 1 minute.
-**- Disrupt Life (Costs 3)** :: 20 ft. radius, living creatures take 6d6 necrotic (DC 18 Con half).
+**TRAITS:**
+***Legendary Resistance (3/Day).*** If Arcanus fails a saving throw, he can choose to succeed instead.
+
+***Rejuvenation.*** If destroyed, Arcanus's soul reforms at his phylactery in 1d10 days. The phylactery is hidden in a pocket dimension accessible only through specific ritual.
+
+***Turn Resistance.*** Advantage on saves against Turn Undead.
+
+***Master of the Dark Arts.*** Arcanus has advantage on saving throws against spells and magical effects.
+
+***Spellcasting.*** Arcanus is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 22, +14 to hit with spell attacks).
+- **Cantrips (at will):** *chill touch*, *mage hand*, *prestidigitation*, *ray of frost*
+- **1st level (4 slots):** *detect magic*, *magic missile*, *shield*, *thunderwave*
+- **2nd level (3 slots):** *darkness*, *detect thoughts*, *invisibility*, *mirror image*
+- **3rd level (3 slots):** *animate dead*, *counterspell*, *dispel magic*, *fireball*
+- **4th level (3 slots):** *blight*, *dimension door*, *phantasmal killer*
+- **5th level (3 slots):** *cloudkill*, *dominate person*, *scrying*
+- **6th level (1 slot):** *circle of death*, *create undead*, *disintegrate*
+- **7th level (1 slot):** *finger of death*, *forcecage*, *plane shift*
+- **8th level (1 slot):** *dominate monster*, *power word stun*
+- **9th level (1 slot):** *power word kill*, *time stop*
+
+**ACTIONS:**
+***Paralyzing Touch.*** Melee Spell Attack: +14 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) cold damage. Target must succeed DC 20 Constitution save or be paralyzed for 1 minute. Target can repeat save at end of each turn, ending effect on success.
+
+***Staff of the Void.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage plus 14 (4d6) necrotic damage.
+
+**LEGENDARY ACTIONS (3/round):**
+- **Cantrip.** Arcanus casts a cantrip.
+- **Paralyzing Touch (Costs 2).** Arcanus uses Paralyzing Touch.
+- **Frightening Gaze (Costs 2).** One creature within 10 feet must succeed DC 20 Wisdom save or be frightened for 1 minute. Repeat save each turn.
+- **Disrupt Life (Costs 3).** Each non-undead creature within 20 feet must make DC 20 Constitution save, taking 21 (6d6) necrotic damage on failure, half on success.
+
+**LAIR ACTIONS (Initiative 20):**
+When fighting in his sanctum, Arcanus can use lair actions:
+- Summon 2d4 Shadows from nearby darkness
+- One creature must succeed DC 18 Wisdom save or be *banished* to a demiplane until initiative 20 next round
+- Necrotic energy fills a 20-foot radius; living creatures take 10 (3d6) necrotic damage, undead heal that amount
 :
 **"I serve House Blackwood beyond death itself."**
 }}
 
-**Secret:** Phylactery hidden in Raven's Keep vault. Guards all Blackwood secrets and treasury.
+**Secret:** Phylactery hidden in pocket dimension accessible only through Raven's Keep vault via specific ritual. Guards all Blackwood secrets and treasury.
 
 {{pageNumber,auto}}
 \page
