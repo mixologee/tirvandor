@@ -43,7 +43,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 {{toc,wide
 # Contents
 
-- ### [{{ Dungeon Master’s Guide to Tirvandor}}{{ 2}}](#p7)
+- ### [{{ Dungeon Master's Guide to Tirvandor}}{{ 2}}](#p7)
   - #### [{{ Part I: The World}}{{ 2}}](#p7)
   - #### [{{ Chapter 1. Complete Timeline of Tirvandor}}{{ 2}}](#p7)
     - [{{ Age of Myth (??-15,000 BW)}}{{ 2}}](#p7)
@@ -97,7 +97,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ When Players Surprise You}}{{ 10}}](#p15)
     - [{{ Quick NPC Creation}}{{ 10}}](#p15)
     - [{{ Quick Room Description}}{{ 10}}](#p15)
-    - [{{ Saying “No” Gracefully}}{{ 10}}](#p15)
+    - [{{ Saying "No" Gracefully}}{{ 10}}](#p15)
   - #### [{{ Pacing}}{{ 11}}](#p16)
     - [{{ Recognizing Pacing Problems}}{{ 11}}](#p16)
     - [{{ Speeding Things Up}}{{ 11}}](#p16)
@@ -240,7 +240,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 - ### [{{ Chapter 7: Treasure & Magic Items}}{{ 28}}](#p33)
   - #### [{{ Comprehensive Catalog with Images}}{{ 28}}](#p33)
   - #### [{{ Using Treasure in Tirvandor}}{{ 28}}](#p33)
-    - [{{ 1: BORDER CAPTAIN’S BADGE}}{{ 28}}](#p33)
+    - [{{ 1: BORDER CAPTAIN'S BADGE}}{{ 28}}](#p33)
     - [{{ 2: POTION OF FIRE RESISTANCE}}{{ 28}}](#p33)
     - [{{ 3: POTION OF GREATER HEALING}}{{ 28}}](#p33)
     - [{{ 4: WAND OF MAGIC MISSILES}}{{ 29}}](#p34)
@@ -257,7 +257,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ 15: VOIDBLADE LONGSWORD}}{{ 31}}](#p36)
     - [{{ 16: ARMOR OF THE UNBREAKABLE}}{{ 32}}](#p37)
     - [{{ 17: CLOAK OF INVISIBILITY}}{{ 32}}](#p37)
-    - [{{ 18: NECROMANCER LORD’S PHYLACTERY}}{{ 32}}](#p37)
+    - [{{ 18: NECROMANCER LORD'S PHYLACTERY}}{{ 32}}](#p37)
   - #### [{{ Treasure Tables by CR}}{{ 32}}](#p37)
   - #### [{{ Item Distribution Guidelines}}{{ 33}}](#p38)
 - ### [{{ Part IV: NPCs}}{{ 34}}](#p39)
@@ -341,7 +341,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Level 3 Party (4 PCs) - Medium Combat}}{{ 376}}](#p381)
     - [{{ Level 7 Party (4 PCs) - Hard Combat}}{{ 376}}](#p381)
     - [{{ Level 12 Party (5 PCs) - Social Encounter}}{{ 376}}](#p381)
-- ### [{{ Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor’s Wild Lands}}{{ 377}}](#p382)
+- ### [{{ Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor's Wild Lands}}{{ 377}}](#p382)
   - #### [{{ Travel Pacing}}{{ 377}}](#p382)
     - [{{ Overland Movement}}{{ 377}}](#p382)
     - [{{ Time Tracking}}{{ 377}}](#p382)
@@ -17386,7 +17386,7 @@ Her defining moment: during a student riot 15 years ago, she used mass enchantme
 
 ### Connections
 - **Ally:** Dean Aldric Questwood (university administration)
-- **Rival:** Merchant Guild Master Harwin Cole (wants more control over university funding)
+- **Rival:** Merchant Guildmaster Harwin Cole (wants more control over university funding)
 - **Contact:** Has connections to every major faction in Silverpine
 - **Secret:** Corresponds with an Aethorian academic about forbidden topics
 
@@ -20046,7 +20046,6 @@ Complications:
 - Taxation
 - Peasant unrest
 - Maintenance costs
--e 
 
 {{pageNumber,auto}}
 {{footnote DUNGEON MASTER'S GUIDE}}

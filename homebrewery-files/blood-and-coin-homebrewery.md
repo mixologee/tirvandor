@@ -70,9 +70,9 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Quest 1.1: Welcome to Crossroads}}{{ 12}}](#p14)
     - [{{ Opening - Arrival at Crossroads}}{{ 12}}](#p14)
     - [{{ Scene 1: The COPPER DRAGON}}{{ 12}}](#p14)
-    - [{{ Interaction: Lucky Finn’s Advice}}{{ 12}}](#p14)
+    - [{{ Interaction: Lucky Finn's Advice}}{{ 12}}](#p14)
     - [{{ Scene 2: The IRON GUILD HALL}}{{ 13}}](#p15)
-    - [{{ Interaction: Varak’s Offer}}{{ 13}}](#p15)
+    - [{{ Interaction: Varak's Offer}}{{ 13}}](#p15)
     - [{{ The Contract Board}}{{ 13}}](#p15)
     - [{{ Quest 1.1A: Rat Problem}}{{ 14}}](#p16)
     - [{{ Moral Choice}}{{ 14}}](#p16)
@@ -110,7 +110,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Path C: MEDIATION (Rare Success Path)}}{{ 27}}](#p29)
     - [{{ Path D: Refuse Both Contracts}}{{ 27}}](#p29)
   - #### [{{ Aftermath & Epilogue}}{{ 28}}](#p30)
-    - [{{ Varak’S Debrief}}{{ 28}}](#p30)
+    - [{{ Varak'S Debrief}}{{ 28}}](#p30)
     - [{{ Reputation Impact}}{{ 28}}](#p30)
     - [{{ Quest Rewards Summary}}{{ 28}}](#p30)
     - [{{ Lingering Consequences}}{{ 28}}](#p30)
@@ -158,7 +158,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Quest 1.4: The Black Ledger}}{{ 39}}](#p41)
     - [{{ Blood & Coin Campaign - Act I Climax}}{{ 39}}](#p41)
     - [{{ Quest Setup}}{{ 39}}](#p41)
-    - [{{ Lord Pembroke’s Estate}}{{ 39}}](#p41)
+    - [{{ Lord Pembroke's Estate}}{{ 39}}](#p41)
 }}
 {{skipCounting}}
 \page
@@ -173,7 +173,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Quest 1.5: The Trial}}{{ 41}}](#p43)
   - #### [{{ Blood & Coin Campaign - Act I Finale}}{{ 41}}](#p43)
     - [{{ Quest Setup}}{{ 41}}](#p43)
-    - [{{ Marcus Blackwood’s Situation}}{{ 41}}](#p43)
+    - [{{ Marcus Blackwood's Situation}}{{ 41}}](#p43)
     - [{{ The Three Days Before Trial}}{{ 42}}](#p44)
     - [{{ The Trial}}{{ 42}}](#p44)
     - [{{ Trial Mechanics}}{{ 42}}](#p44)
@@ -191,19 +191,19 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Location}}{{ 44}}](#p46)
   - #### [{{ Meeting 1: Commander Helena Dawnblade (Noon)}}{{ 45}}](#p47)
     - [{{ The Setting}}{{ 45}}](#p47)
-    - [{{ Dawnblade’S Pitch}}{{ 46}}](#p48)
+    - [{{ Dawnblade'S Pitch}}{{ 46}}](#p48)
     - [{{ Questions & Answers}}{{ 46}}](#p48)
-    - [{{ Dawnblade’S Secret Agenda}}{{ 46}}](#p48)
+    - [{{ Dawnblade'S Secret Agenda}}{{ 46}}](#p48)
   - #### [{{ Meeting 2: Envoy Marcus Valen (2pm)}}{{ 46}}](#p48)
     - [{{ The Setting}}{{ 46}}](#p48)
-    - [{{ Valen’S Pitch}}{{ 47}}](#p49)
+    - [{{ Valen'S Pitch}}{{ 47}}](#p49)
     - [{{ Questions & Answers}}{{ 48}}](#p50)
-    - [{{ Valen’S Secret Agenda}}{{ 48}}](#p50)
+    - [{{ Valen'S Secret Agenda}}{{ 48}}](#p50)
   - #### [{{ Meeting 3: Corvus Blackwood (4pm)}}{{ 48}}](#p50)
     - [{{ The Setting}}{{ 48}}](#p50)
-    - [{{ Corvus’S Pitch}}{{ 50}}](#p52)
+    - [{{ Corvus'S Pitch}}{{ 50}}](#p52)
     - [{{ Questions & Answers}}{{ 50}}](#p52)
-    - [{{ Corvus’S Secret Agenda}}{{ 50}}](#p52)
+    - [{{ Corvus'S Secret Agenda}}{{ 50}}](#p52)
   - #### [{{ The Investigation Phase}}{{ 51}}](#p53)
     - [{{ Gathering Information}}{{ 51}}](#p53)
     - [{{ Information Gathering Results}}{{ 51}}](#p53)
@@ -218,8 +218,8 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ DM Guidance}}{{ 53}}](#p55)
     - [{{ Running the Three Meetings}}{{ 53}}](#p55)
     - [{{ If Players Try to Delay}}{{ 53}}](#p55)
-    - [{{ If Players Can’t Agree}}{{ 53}}](#p55)
-    - [{{ The “Right” Choice}}{{ 53}}](#p55)
+    - [{{ If Players Can't Agree}}{{ 53}}](#p55)
+    - [{{ The "Right" Choice}}{{ 53}}](#p55)
   - #### [{{ Transition to QUEST 2.2}}{{ 53}}](#p55)
   - #### [{{ Quest 2.2: The First Mission}}{{ 53}}](#p55)
   - #### [{{ Blood & Coin Campaign - Act II}}{{ 53}}](#p55)
@@ -524,7 +524,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Level Up}}{{ 109}}](#p111)
   - #### [{{ The Epilogue Preview}}{{ 109}}](#p111)
   - #### [{{ New Items For Compendium}}{{ 109}}](#p111)
-    - [{{ The Dread King’S Staff}}{{ 109}}](#p111)
+    - [{{ The Dread King'S Staff}}{{ 109}}](#p111)
     - [{{ The DREAD CROWN (if kept)}}{{ 109}}](#p111)
     - [{{ Ice Golem Heart}}{{ 109}}](#p111)
   - #### [{{ DM Guidance}}{{ 109}}](#p111)
@@ -532,7 +532,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ The Unification Proposal}}{{ 110}}](#p112)
     - [{{ Legacy Considerations}}{{ 110}}](#p112)
   - #### [{{ Transition to Quest 3.5}}{{ 110}}](#p112)
-  - #### [{{ Quest 3.5: The Mediator’s Rest}}{{ 110}}](#p112)
+  - #### [{{ Quest 3.5: The Mediator's Rest}}{{ 110}}](#p112)
   - #### [{{ Blood & Coin Campaign - Act III Finale (Peace Path)}}{{ 110}}](#p112)
   - #### [{{ Quest Setup}}{{ 110}}](#p112)
   - #### [{{ The Gathering}}{{ 110}}](#p112)
@@ -580,7 +580,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Quest 3.2: The Underground}}{{ 126}}](#p128)
   - #### [{{ Quest 3.3: The Alliance}}{{ 128}}](#p130)
   - #### [{{ Quest 3.4: The Unification}}{{ 129}}](#p131)
-  - #### [{{ Quest 3.5: The Mediator’s Rest}}{{ 129}}](#p131)
+  - #### [{{ Quest 3.5: The Mediator's Rest}}{{ 129}}](#p131)
   - #### [{{ Quick Reference BY CR}}{{ 129}}](#p131)
   - #### [{{ Appendix B: Magic Items}}{{ 129}}](#p131)
 }}
@@ -591,29 +591,29 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   
   - #### [{{ Act I Items}}{{ 129}}](#p131)
   - #### [{{ Quest 1.1: The Consortium Job}}{{ 129}}](#p131)
-    - [{{ Elise’S Glamoured Leather}}{{ 129}}](#p131)
-    - [{{ Marcus’S Family Shield}}{{ 130}}](#p132)
+    - [{{ Elise'S Glamoured Leather}}{{ 129}}](#p131)
+    - [{{ Marcus'S Family Shield}}{{ 130}}](#p132)
   - #### [{{ Quest 1.2: The Hunters}}{{ 130}}](#p132)
-    - [{{ Kael’S Poisoned Blades}}{{ 130}}](#p132)
+    - [{{ Kael'S Poisoned Blades}}{{ 130}}](#p132)
     - [{{ Ring OF Shadows}}{{ 130}}](#p132)
   - #### [{{ Quest 1.3: The Red Wolf}}{{ 130}}](#p132)
-    - [{{ Red Wolf’S Longbow}}{{ 130}}](#p132)
+    - [{{ Red Wolf'S Longbow}}{{ 130}}](#p132)
     - [{{ Cloak of the Thornwood}}{{ 130}}](#p132)
   - #### [{{ Quest 1.4: The Black Ledger}}{{ 130}}](#p132)
-    - [{{ Lord Pembroke’S Signet Ring}}{{ 130}}](#p132)
+    - [{{ Lord Pembroke'S Signet Ring}}{{ 130}}](#p132)
     - [{{ The Black Ledger (Quest Objective)}}{{ 130}}](#p132)
   - #### [{{ Quest 1.5: The Trial}}{{ 131}}](#p133)
-    - [{{ Magistrate’S Robes OF Office}}{{ 131}}](#p133)
+    - [{{ Magistrate'S Robes OF Office}}{{ 131}}](#p133)
     - [{{ Scales of Justice (Court Artifact)}}{{ 131}}](#p133)
   - #### [{{ Act II Items}}{{ 131}}](#p133)
   - #### [{{ Quest 2.1: The Recruiters}}{{ 131}}](#p133)
-    - [{{ Dawnblade’S Longsword}}{{ 131}}](#p133)
-    - [{{ Valen’S Pendant OF Eloquence}}{{ 131}}](#p133)
+    - [{{ Dawnblade'S Longsword}}{{ 131}}](#p133)
+    - [{{ Valen'S Pendant OF Eloquence}}{{ 131}}](#p133)
   - #### [{{ Quest 2.2: The First Mission}}{{ 131}}](#p133)
     - [{{ World-Splitter Component #1 (Unbound Quest)}}{{ 131}}](#p133)
-    - [{{ General Thorne’S Plate Armor +1}}{{ 131}}](#p133)
+    - [{{ General Thorne'S Plate Armor +1}}{{ 131}}](#p133)
   - #### [{{ Quest 2.3: The Double Cross}}{{ 132}}](#p134)
-    - [{{ Infiltrator’S Cloak}}{{ 132}}](#p134)
+    - [{{ Infiltrator'S Cloak}}{{ 132}}](#p134)
   - #### [{{ Quest 2.4: The Heist}}{{ 132}}](#p134)
     - [{{ World-Splitter Component #3 (Off-Screen Acquisition)}}{{ 132}}](#p134)
     - [{{ World-Splitter Component #4}}{{ 132}}](#p134)
@@ -628,17 +628,17 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ World-Splitter Component #5}}{{ 133}}](#p135)
   - #### [{{ Act III Items}}{{ 133}}](#p135)
   - #### [{{ Quest 3.2: The Underground}}{{ 133}}](#p135)
-    - [{{ Elise’S Scimitars OF Vengeance}}{{ 133}}](#p135)
-    - [{{ component fragment (from Prophet’s defeat)}}{{ 133}}](#p135)
+    - [{{ Elise'S Scimitars OF Vengeance}}{{ 133}}](#p135)
+    - [{{ component fragment (from Prophet's defeat)}}{{ 133}}](#p135)
   - #### [{{ Quest 3.3: The Alliance}}{{ 134}}](#p136)
-    - [{{ The Dread King’S Staff}}{{ 134}}](#p136)
-    - [{{ Necromancer Lord’S Robes}}{{ 134}}](#p136)
+    - [{{ The Dread King'S Staff}}{{ 134}}](#p136)
+    - [{{ Necromancer Lord'S Robes}}{{ 134}}](#p136)
   - #### [{{ Quest 3.4: The Unification}}{{ 134}}](#p136)
     - [{{ The DREAD CROWN (Phylactery)}}{{ 134}}](#p136)
     - [{{ Ice Golem Heart}}{{ 134}}](#p136)
     - [{{ Frozen Kingdom Treasures (various)}}{{ 134}}](#p136)
-  - #### [{{ Quest 3.5: The Mediator’S Rest}}{{ 135}}](#p137)
-    - [{{ Peacekeepers’ Badges}}{{ 135}}](#p137)
+  - #### [{{ Quest 3.5: The Mediator'S Rest}}{{ 135}}](#p137)
+    - [{{ Peacekeepers' Badges}}{{ 135}}](#p137)
     - [{{ Monument Coins}}{{ 135}}](#p137)
   - #### [{{ Quick Reference Tables}}{{ 135}}](#p137)
   - #### [{{ By Rarity}}{{ 135}}](#p137)
@@ -692,7 +692,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
    - [{{ Quest 3.2: The Underground (Level 12-13, 3 sessions)}}{{ 142}}](#p144)
    - [{{ Quest 3.3: The Alliance (Level 13-14, 2-3 sessions)}}{{ 142}}](#p144)
    - [{{ Quest 3.4: The Unification (Level 14, 2 sessions)}}{{ 143}}](#p145)
-   - [{{ Quest 3.5: The Mediator’s Rest (Level 15, 2-3 sessions)}}{{ 143}}](#p145)
+   - [{{ Quest 3.5: The Mediator's Rest (Level 15, 2-3 sessions)}}{{ 143}}](#p145)
   - #### [{{ KEY NPCs AT-A-GLANCE}}{{ 143}}](#p145)
     - [{{ Act I - Crossroads}}{{ 143}}](#p145)
     - [{{ Act II - Faction Leaders}}{{ 143}}](#p145)
@@ -756,7 +756,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ NPC STAT BLOCK QUICK REFERENCE}}{{ 150}}](#p152)
     - [{{ Varak Ironfist (CR 5)}}{{ 150}}](#p152)
     - [{{ Kael Shadowbane (CR 4)}}{{ 150}}](#p152)
-    - [{{ Elara “Red Wolf” Thornwood (CR 7)}}{{ 150}}](#p152)
+    - [{{ Elara "Red Wolf" Thornwood (CR 7)}}{{ 150}}](#p152)
     - [{{ Commander Helena Dawnblade (CR 10)}}{{ 150}}](#p152)
     - [{{ Corvus Blackwood (CR 9/11/13)}}{{ 150}}](#p152)
   - #### [{{ STATUS EFFECT QUICK REFERENCE}}{{ 152}}](#p154)
@@ -806,8 +806,8 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ CAMPAIGN-SPECIFIC DASHBOARD}}{{ 155}}](#p157)
     - [{{ Goldreach Crime Family Influence}}{{ 155}}](#p157)
     - [{{ Party Reputation in Goldreach}}{{ 155}}](#p157)
-    - [{{ Key Quest: Uncovering the Coin King’s Identity}}{{ 155}}](#p157)
-    - [{{ Davos Goldshore’s Schemes}}{{ 155}}](#p157)
+    - [{{ Key Quest: Uncovering the Coin King's Identity}}{{ 155}}](#p157)
+    - [{{ Davos Goldshore's Schemes}}{{ 155}}](#p157)
     - [{{ Money & Assets}}{{ 155}}](#p157)
   - #### [{{ Relationship to Shattered Oaths Campaign}}{{ 156}}](#p158)
   - #### [{{ Appendix E: Player Handouts}}{{ 157}}](#p159)
@@ -835,8 +835,10 @@ Gritty, realistic, consequences-driven. Violence is common but meaningful. Death
 
 ### **Level Progression**
 - **Act I (Levels 1-5):** Establishing yourselves as professionals
-- **Act II (Levels 6-10):** Rising through the ranks, bigger jobs
+- **Act II (Levels 6-11):** Rising through the ranks, bigger jobs
 - **Act III (Levels 11-15):** Power players, world-changing decisions
+
+\column
 
 ### The Western Conflict
 
@@ -14224,7 +14226,7 @@ Blood & Coin and Shattered Oaths occur simultaneously in the same world:
 ### Quest 1.2: The Hunters (Level 2, 1-2 sessions)
 **Goal:** Rescue refugee or complete guild contract ::
 **Key NPCs:** Marcus Blackwood (CR 3), Kael Shadowbane (CR 4) ::
-**Encounters:** Black Chain Assassins (CR 2) ::
+**Encounters:** Black Chains Assassins (CR 2) ::
 **Rewards:** 200-400 gp ::
 **Key Decision:** Help refugees or follow guild orders ::
 
@@ -14384,7 +14386,7 @@ Blood & Coin and Shattered Oaths occur simultaneously in the same world:
 ### Act I (Levels 1-5)
 - CR 1/4: Giant rats, weak bandits (Quest 1.1)
 - CR 1-2: Bandits, thugs, city watch (Quest 1.1-1.2)
-- CR 3-4: Black Chain Assassins, warehouse guards (Quest 1.2-1.3)
+- CR 3-4: Black Chains Assassins, warehouse guards (Quest 1.2-1.3)
 - CR 5-6: Elite guards, mansion security, courtroom battle (Quest 1.4-1.5)
 
 ### Act II (Levels 6-11)
@@ -14491,26 +14493,26 @@ Blood & Coin and Shattered Oaths occur simultaneously in the same world:
 ## SESSION PREP CHECKLIST
 
 ### Before Each Session
-□ Review last session's events and player choices
-□ Prepare NPC voices and personalities
-□ Have stat blocks ready for likely encounters
-□ Print/prepare any handouts needed
-□ Review player character abilities and backstories
-□ Set up battle maps if combat likely
+â–¡ Review last session's events and player choices
+â–¡ Prepare NPC voices and personalities
+â–¡ Have stat blocks ready for likely encounters
+â–¡ Print/prepare any handouts needed
+â–¡ Review player character abilities and backstories
+â–¡ Set up battle maps if combat likely
 
 ### During Session
-□ Track initiative and conditions
-□ Note player decisions for future callbacks
-□ Adjust DCs based on player creativity
-□ Reward clever solutions
-□ Track NPC reactions to player actions
+â–¡ Track initiative and conditions
+â–¡ Note player decisions for future callbacks
+â–¡ Adjust DCs based on player creativity
+â–¡ Reward clever solutions
+â–¡ Track NPC reactions to player actions
 
 ### After Session
-□ Note unresolved plot threads
-□ Update faction relationships
-□ Calculate XP/treasure awarded
-□ Plan consequences for next session
-□ Ask for player feedback
+â–¡ Note unresolved plot threads
+â–¡ Update faction relationships
+â–¡ Calculate XP/treasure awarded
+â–¡ Plan consequences for next session
+â–¡ Ask for player feedback
 
 ## CAMPAIGN THEMES
 
@@ -15443,33 +15445,33 @@ When fighting in his sanctum, Arcanus can use lair actions:
 
 | Faction | Influence | Status |
 |---------|-----------|--------|
-| The Coin King's Network | ___%  | □Ally □Enemy |
-| Red Wolf Rangers | ___%  | □Ally □Enemy |
-| Merchant's Guild | ___%  | □Ally □Enemy |
-| City Watch (Corrupt) | ___%  | □Ally □Enemy |
-| House Goldshore | ___%  | □Ally □Enemy |
+| The Coin King's Network | ___%  | â–¡Ally â–¡Enemy |
+| Red Wolf Rangers | ___%  | â–¡Ally â–¡Enemy |
+| Merchant's Guild | ___%  | â–¡Ally â–¡Enemy |
+| City Watch (Corrupt) | ___%  | â–¡Ally â–¡Enemy |
+| House Goldshore | ___%  | â–¡Ally â–¡Enemy |
 
 ### Party Reputation in Goldreach
 
-- **Underworld:** ___/10 | □Criminal Legend  □Unknown  □Marked for Death
-- **Nobility:** ___/10 | □Respected  □Unknown  □Outcasts
-- **Merchants:** ___/10 | □Trusted Partners  □Unknown  □Banned from Shops
-- **Common Folk:** ___/10 | □Heroes  □Unknown  □Troublemakers
+- **Underworld:** ___/10 | â–¡Criminal Legend  â–¡Unknown  â–¡Marked for Death
+- **Nobility:** ___/10 | â–¡Respected  â–¡Unknown  â–¡Outcasts
+- **Merchants:** ___/10 | â–¡Trusted Partners  â–¡Unknown  â–¡Banned from Shops
+- **Common Folk:** ___/10 | â–¡Heroes  â–¡Unknown  â–¡Troublemakers
 
 ### Key Quest: Uncovering the Coin King's Identity
 
 **Clues Found:** ___/10
 
-- □ Warehouse location
-- □ Meeting schedule
-- □ Financial records
-- □ Witness testimony
-- □ Crime scene photos
-- □ Ledger book
-- □ Corrupt official name
-- □ Safe house address
-- □ True identity
-- □ Final confrontation location
+- â–¡ Warehouse location
+- â–¡ Meeting schedule
+- â–¡ Financial records
+- â–¡ Witness testimony
+- â–¡ Crime scene photos
+- â–¡ Ledger book
+- â–¡ Corrupt official name
+- â–¡ Safe house address
+- â–¡ True identity
+- â–¡ Final confrontation location
 
 **Current Theory:** _________________________________
 
@@ -15479,9 +15481,9 @@ When fighting in his sanctum, Arcanus can use lair actions:
 
 **Current Plot:** _________________________________
 
-**Progress:** ____% | Threat to Party: □Low □Med □High
+**Progress:** ____% | Threat to Party: â–¡Low â–¡Med â–¡High
 
-**Party Awareness:** □Clueless  □Suspicious  □Investigating  □Know Everything
+**Party Awareness:** â–¡Clueless  â–¡Suspicious  â–¡Investigating  â–¡Know Everything
 
 ### Money & Assets
 
@@ -15521,44 +15523,44 @@ Blood & Coin and Shattered Oaths occur simultaneously in the same world:
 
 ## Crime Family Letter - Intercepted
 
-```
+
+
 [Written in crude handwriting on cheap paper]
 
+{{note,wide
 Boss,
-
+:
 The shipment arrived. Three crates of "wine"
 from across the sea. You know what I mean.
-
+:
 Problem: Guards asking questions. Someone
 tipped them. I think it's the new guy, the
 one with the scar. Don't trust him.
-
+:
 Payment: 500 crowns, as agreed. Meeting at
 the usual place. Midnight. Three knocks.
-
+:
 Watch for the City Watch. They've been
 sniffing around the warehouse district.
-
+:
 If this goes bad, I don't know you.
-
-- K
-
+:
+-K
+}}
 [Sealed with red wax, broken]
 [Stamp: A coin with a crown]
-```
 
-**DM Note:** Give this to players if they intercept/steal/find it. Can lead to ambush opportunity or tracking the crime ring.
 
-\column
+**DM Note:** Give this to players if they intercept/steal/find it. Can lead to ambush opportunity or tracking the crime ring. 
 
+{{wide
 ## Red Wolf Ranger Badge
-
 ```
 ╔═══════════════════════════════════════════╗
 ║                                           ║
 ║       🐺 RED WOLF RANGERS 🐺             ║
 ║                                           ║
-║     [Embossed wolf head, howling]        ║
+║     [Embossed wolf head, howling]         ║
 ║                                           ║
 ║  This badge identifies the bearer as a    ║
 ║  sworn member of the Red Wolf Rangers,    ║
@@ -15585,6 +15587,7 @@ If this goes bad, I don't know you.
 ║                                           ║
 ╚═══════════════════════════════════════════╝
 ```
+}}
 
 **DM Note:** Give as quest reward or if PCs join Red Wolf Rangers
 

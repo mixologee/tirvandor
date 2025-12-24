@@ -20,7 +20,7 @@ ___
 
 **Tirvandor Monster Manual** ::
 
-Copyright © 2025 Jason "Mixologee" Scheponik. All rights reserved.
+Copyright Â© 2025 Jason "Mixologee" Scheponik. All rights reserved.
 
 All original content including world lore, characters, locations, storylines, and artwork are the exclusive property of the author.
 
@@ -61,14 +61,14 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ State Inquisitor}}{{ 17}}](#p18)
   - [{{ War Mage of Thaldros}}{{ 18}}](#p19)
   - [{{ Siege Golem}}{{ 19}}](#p20)
-  - [{{ GENERAL’S CHAMPION}}{{ 20}}](#p21)
+  - [{{ GENERALâ€™S CHAMPION}}{{ 20}}](#p21)
   - [{{ Iron Crown Knight}}{{ 21}}](#p22)
   - [{{ Lord Commander Varius}}{{ 22}}](#p23)
 - ### [{{ Chapter 3}}{{ 23}}](#p24)
 - #### [{{ Aethoria Resistance}}{{ 23}}](#p24)
   - [{{ Aethorian Militia}}{{ 23}}](#p24)
   - [{{ Resistance Fighter}}{{ 24}}](#p25)
-  - [{{ PEOPLE’S CHAMPION}}{{ 25}}](#p26)
+  - [{{ PEOPLEâ€™S CHAMPION}}{{ 25}}](#p26)
   - [{{ Revolutionary Mage}}{{ 26}}](#p27)
   - [{{ Chain Breaker Monk}}{{ 27}}](#p28)
   - [{{ Guerrilla Commander}}{{ 28}}](#p29)
@@ -80,7 +80,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ Guild Enforcer}}{{ 33}}](#p34)
   - [{{ Contract Killer}}{{ 34}}](#p35)
   - [{{ Iron Guild Captain}}{{ 35}}](#p36)
-  - [{{ Guildmaster’s Elite}}{{ 36}}](#p37)
+  - [{{ Guildmasterâ€™s Elite}}{{ 36}}](#p37)
   - [{{ Garrick Ironheart}}{{ 37}}](#p38)
 - ### [{{ Chapter 4}}{{ 38}}](#p39)
 - #### [{{ Ascended & Ancient}}{{ 38}}](#p39)
@@ -88,10 +88,10 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ Blessed Paladin}}{{ 38}}](#p39)
   - [{{ Thandros's Justicar}}{{ 39}}](#p40)
   - [{{ Aethor's Liberator}}{{ 40}}](#p41)
-  - [{{ Moira’s Seer}}{{ 41}}](#p42)
-  - [{{ Sylvara’s Wild Hunter}}{{ 42}}](#p43)
-  - [{{ Sera’s Mercy}}{{ 43}}](#p44)
-  - [{{ Mordain’s Sentinel}}{{ 44}}](#p45)
+  - [{{ Moiraâ€™s Seer}}{{ 41}}](#p42)
+  - [{{ Sylvaraâ€™s Wild Hunter}}{{ 42}}](#p43)
+  - [{{ Seraâ€™s Mercy}}{{ 43}}](#p44)
+  - [{{ Mordainâ€™s Sentinel}}{{ 44}}](#p45)
   - [{{ Fallen Champion}}{{ 45}}](#p46)
 - #### [{{ Ancient & Prophecy}}{{ 46}}](#p47)
   - [{{ Ancient Guardian}}{{ 46}}](#p47)
@@ -158,7 +158,7 @@ ___
 ## Smuggler Captain
 
 ### Lore
-Smuggler captains run illicit goods across the Border—weapons, refugees, contraband, and information. They're neutral parties in the conflict, caring only for profit, but their networks make them valuable allies or dangerous enemies.
+Smuggler captains run illicit goods across the Borderâ€”weapons, refugees, contraband, and information. They're neutral parties in the conflict, caring only for profit, but their networks make them valuable allies or dangerous enemies.
 
 ### Tactics
 - Negotiate before fighting if possible
@@ -360,7 +360,7 @@ ___
 ## Refugee Mob
 
 ### Lore
-Desperate refugees sometimes form angry mobs, driven by fear, hunger, or manipulation. They're not evil—just desperate people in terrible circumstances. Most will flee or surrender if given the opportunity.
+Desperate refugees sometimes form angry mobs, driven by fear, hunger, or manipulation. They're not evilâ€”just desperate people in terrible circumstances. Most will flee or surrender if given the opportunity.
 
 ### Tactics
 - Overwhelm through numbers
@@ -405,7 +405,7 @@ ___
 ## Scavenger Ghoul
 
 ### Lore
-The Border's constant violence creates ample food for ghouls. These undead scavengers lurk near battlefields and ambush sites, waiting for fresh corpses—or making their own.
+The Border's constant violence creates ample food for ghouls. These undead scavengers lurk near battlefields and ambush sites, waiting for fresh corpsesâ€”or making their own.
 ### Tactics
 - Hunt in packs (2-8 ghouls)
 - Target wounded enemies
@@ -497,7 +497,7 @@ ___
 ## War Beast
 
 ### Lore
-Both armies use war beasts—massive wolves, war dogs, or other predators bred and trained for combat. Some have escaped and gone feral in the Border, becoming apex predators.
+Both armies use war beastsâ€”massive wolves, war dogs, or other predators bred and trained for combat. Some have escaped and gone feral in the Border, becoming apex predators.
 ### Tactics
 - Hunt in packs (2-5 beasts)
 - Use Pounce to knock down targets
@@ -520,7 +520,7 @@ ___
 ___
 **Skills** :: Perception +3, Stealth +4
 **Senses** :: passive Perception 13
-**Languages** :: —
+**Languages** :: â€”
 **Challenge** :: 3 (700 XP)
 ___
 **Keen Hearing and Smell.** :: The beast has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -544,7 +544,7 @@ ___
 ## Haunted Battlefield
 
 ### Lore
-Some battlefields in the Border have seen so much death that the land itself became haunted. These cursed areas trap the spirits of fallen soldiers, endlessly reenacting their final battle. The only way to permanently end a haunted battlefield is to consecrate it with proper funeral rites—a dangerous undertaking.
+Some battlefields in the Border have seen so much death that the land itself became haunted. These cursed areas trap the spirits of fallen soldiers, endlessly reenacting their final battle. The only way to permanently end a haunted battlefield is to consecrate it with proper funeral ritesâ€”a dangerous undertaking.
 
 ### Tactics
 - Describe the horror and chaos
@@ -591,7 +591,7 @@ ___
 # Chapter 2
 # Thaldros Military
 :
-The iron fist of the Thaldros Empire—disciplined soldiers, ruthless inquisitors, and devastating war machines that enforce the Emperor's will.
+The iron fist of the Thaldros Empireâ€”disciplined soldiers, ruthless inquisitors, and devastating war machines that enforce the Emperor's will.
 
 ## Thaldros Conscript
 
@@ -683,7 +683,7 @@ ___
 ## Iron Legion Enforcer
 
 ### Lore
-The Iron Legion are Thaldros's internal security force—brutal enforcers who maintain order through fear and violence. They're called when the regular army isn't cruel enough. Hated by commoners and feared even by soldiers.
+The Iron Legion are Thaldros's internal security forceâ€”brutal enforcers who maintain order through fear and violence. They're called when the regular army isn't cruel enough. Hated by commoners and feared even by soldiers.
 
 ### Tactics
 - Use intimidation liberally
@@ -780,7 +780,7 @@ ___
 ## State Inquisitor
 
 ### Lore
-State Inquisitors are Thaldros's secret police—spies, assassins, and interrogators who root out dissent and eliminate threats to the empire. They're feared throughout Tirvandor and operate with complete authority.
+State Inquisitors are Thaldros's secret policeâ€”spies, assassins, and interrogators who root out dissent and eliminate threats to the empire. They're feared throughout Tirvandor and operate with complete authority.
 
 ### Tactics
 - Gather intelligence first
@@ -933,7 +933,7 @@ ___
 ## General's Champion
 
 ### Lore
-Thaldros generals sometimes send their personal champions to deal with important threats or lead special missions. These warriors are the best of the best—veterans of countless battles, master tacticians, and nearly unbeatable in single combat.
+Thaldros generals sometimes send their personal champions to deal with important threats or lead special missions. These warriors are the best of the bestâ€”veterans of countless battles, master tacticians, and nearly unbeatable in single combat.
 ### Tactics
 - Challenge the strongest enemy
 - Use Rally to support troops
@@ -1036,7 +1036,7 @@ ___
 ## Lord Commander Varius
 
 ### Lore
-Lord Commander Varius is Thaldros's supreme military leader—a brilliant tactician, legendary warrior, and unshakeable loyalist. He's not evil, but he genuinely believes in Thaldros's vision of ordered civilization. Many soldiers would die for him, and even his enemies respect him.
+Lord Commander Varius is Thaldros's supreme military leaderâ€”a brilliant tactician, legendary warrior, and unshakeable loyalist. He's not evil, but he genuinely believes in Thaldros's vision of ordered civilization. Many soldiers would die for him, and even his enemies respect him.
 
 ### Tactics
 - Command the battlefield
@@ -1415,7 +1415,7 @@ ___
 
 ## Iron Guild Mercenaries
 
-Professional soldiers for hire—loyal only to the contract.
+Professional soldiers for hireâ€”loyal only to the contract.
 \column
 ## Guild Recruit
 ### Lore
@@ -1642,7 +1642,7 @@ ___
 ## Garrick Ironheart
 \column
 ### Lore
-Founded Iron Guild. Legendary warrior and fair leader. Respected even by enemies.
+Founded Smiths' Guild. Legendary warrior and fair leader. Respected even by enemies.
  ::
 {{monster,frame,wide
 ## Garrick Ironheart
@@ -2028,7 +2028,7 @@ ___
 ## Prophecy Keeper
 \column
 ### Lore
-Cosmic entities who record prophecies. Neutral—they just observe and remember.
+Cosmic entities who record prophecies. Neutralâ€”they just observe and remember.
  ::
 {{monster,frame,wide
 ## Prophecy Keeper
@@ -2170,7 +2170,7 @@ ___
 ___
 **Condition Immunities** prone | **Senses** :: darkvision 60 ft.
 **Senses** :: darkvision 60 ft.
-**Languages** :: —
+**Languages** :: â€”
 **Challenge** :: 4 (1,100 XP)
 ___
 ### Actions
@@ -2342,7 +2342,7 @@ END OF LICENSE
 Monster Manual: Creatures of Tirvandor
 
 :
-The world of Tirvandor is home to creatures shaped by war, magic, and the lingering scars of the Worldrend. From battle-hardened soldiers to divine champions, from corrupted spawn to ancient guardians—every monster tells a story of this divided land.
+The world of Tirvandor is home to creatures shaped by war, magic, and the lingering scars of the Worldrend. From battle-hardened soldiers to divine champions, from corrupted spawn to ancient guardiansâ€”every monster tells a story of this divided land.
 This compendium presents 50 creatures designed specifically for Tirvandor campaigns, organized by faction and origin for easy reference during play.
 
 :
@@ -2350,9 +2350,9 @@ This Monster Manual contains:
 
 - 50 unique creatures with full stat blocks
 - CR range from 1/8 to 15 for all tiers of play
-- Border Creatures—bandits, smugglers, wraiths, and war-born horrors
-- Thaldros Military—conscripts to elite Royal Guards and Inquisitors
-- Aethorian Forces—militia, revolutionaries, and freedom fighters
+- Border Creaturesâ€”bandits, smugglers, wraiths, and war-born horrors
+- Thaldros Militaryâ€”conscripts to elite Royal Guards and Inquisitors
+- Aethorian Forcesâ€”militia, revolutionaries, and freedom fighters
 - Iron Guild operatives and mercenary companies
 - Ascended-touched champions of the Seven Ascended
 - Ancient beings and Worldrend-scarred entities

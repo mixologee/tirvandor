@@ -234,7 +234,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Chase Scenes}}{{ 18}}](#p24)
     - [{{ Urban Chase (Thaldros Streets)}}{{ 18}}](#p24)
   - #### [{{ Heist / Infiltration}}{{ 18}}](#p24)
-    - [{{ Infiltrate Noble’s Estate}}{{ 18}}](#p24)
+    - [{{ Infiltrate Noble's Estate}}{{ 18}}](#p24)
   - #### [{{ Negotiation / Diplomacy}}{{ 19}}](#p25)
     - [{{ Broker Peace Between Factions}}{{ 19}}](#p25)
   - #### [{{ Wilderness Survival / Travel}}{{ 19}}](#p25)
@@ -244,7 +244,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Investigation / Mystery}}{{ 20}}](#p26)
     - [{{ Solve the Murder Mystery}}{{ 20}}](#p26)
   - #### [{{ Social Mingling / Gathering Information}}{{ 20}}](#p26)
-    - [{{ Work the Noble’s Ball}}{{ 20}}](#p26)
+    - [{{ Work the Noble's Ball}}{{ 20}}](#p26)
   - #### [{{ Disaster Response}}{{ 20}}](#p26)
     - [{{ Save Village from Flash Flood}}{{ 20}}](#p26)
   - #### [{{ Performance / Distraction}}{{ 21}}](#p27)  
@@ -372,7 +372,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Campaign-Specific Information}}{{ 47}}](#p53)
     - [{{ [DM Fills In Campaign Name]}}{{ 47}}](#p53)
   - #### [{{ Session Zero Checklist}}{{ 47}}](#p53)
-  - #### [{{ You’re Ready to Play!}}{{ 47}}](#p53)
+  - #### [{{ You're Ready to Play!}}{{ 47}}](#p53)
 - ### [{{ Appendix A: Randomn Encounter Tables}}{{ 48}}](#p54)
   - #### [{{ For Improvisation & Dynamic Gameplay}}{{ 48}}](#p54)
   - #### [{{ How To Use These Tables}}{{ 48}}](#p54)
@@ -426,7 +426,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Individual Enemies}}{{ 60}}](#p66)
     - [{{ Small Hoard (Demigod, Pit Fiend)}}{{ 61}}](#p67)
     - [{{ Medium Hoard (Lesser Deity Shrine, Planar Vault)}}{{ 61}}](#p67)
-    - [{{ Major Hoard (God’s Treasury, World-Ending Threat)}}{{ 61}}](#p67)
+    - [{{ Major Hoard (God's Treasury, World-Ending Threat)}}{{ 61}}](#p67)
   - #### [{{ Magic Item Tables}}{{ 61}}](#p67)
     - [{{ Table A: Minor Uncommon Items (Levels 1-4)}}{{ 61}}](#p67)
     - [{{ Table B: Uncommon Items (Levels 5-10)}}{{ 61}}](#p67)
@@ -570,7 +570,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 | **Aethorian Council** | Council Speaker Aquila Clearwater | Elven governing body, values wisdom and magical knowledge |
 | **Ironspine Rangers** | Warden Commander Thalia Moonbow | Wilderness protectors, maintain balance between civilization and nature |
 | **Forgebound Guild** | Forge-Master Rurik Ironanvil | Master craftsmen and smiths, create legendary items |
-| **Circle of Druids** | Archdruid Silvaris Oakenheart | Nature defenders, oppose despoiling of wild places |
+| **Druidic Circle** | Archdruid Silvaris Oakenheart | Nature defenders, oppose despoiling of wild places |
 
 ### Faction Relations Quick Guide
 - **Allied:** Iron Council + Merchant League
@@ -2488,9 +2488,9 @@ When players try creative solutions, say "yes, and..." instead of "no"
  PRE-SESSION PLANNING                        Session #: _____      Date: ______________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
- CAMPAIGN: □ Blood & Coin   □ Shattered Oaths   □ Other: __________   LENGTH: _____ hrs
+ CAMPAIGN: â–¡ Blood & Coin   â–¡ Shattered Oaths   â–¡ Other: __________   LENGTH: _____ hrs
 
- PLAYERS:  □ _______________  □ _______________  □ _______________  □ _______________
+ PLAYERS:  â–¡ _______________  â–¡ _______________  â–¡ _______________  â–¡ _______________
 
  LAST SESSION RECAP: _________________________________________________________________
 
@@ -2499,11 +2499,11 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  PLANNED ENCOUNTERS:
 
- #1: _______________________________  □ Combat □ Social □ Exploration  □E □M □H □D
+ #1: _______________________________  â–¡ Combat â–¡ Social â–¡ Exploration  â–¡E â–¡M â–¡H â–¡D
 
- #2: _______________________________  □ Combat □ Social □ Exploration  □E □M □H □D
+ #2: _______________________________  â–¡ Combat â–¡ Social â–¡ Exploration  â–¡E â–¡M â–¡H â–¡D
 
- #3: _______________________________  □ Combat □ Social □ Exploration  □E □M □H □D
+ #3: _______________________________  â–¡ Combat â–¡ Social â–¡ Exploration  â–¡E â–¡M â–¡H â–¡D
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  KEY NPCs:  Name / Role / Motivation / Secret
@@ -2515,11 +2515,11 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  PREP CHECKLIST:                                       REWARDS:
 
- □ Maps: ________________________________              Gold: _____________ GP
+ â–¡ Maps: ________________________________              Gold: _____________ GP
 
- □ Handouts: ____________________________              Items: ________________________
+ â–¡ Handouts: ____________________________              Items: ________________________
 
- □ Music: _______________________________              XP: __________________________
+ â–¡ Music: _______________________________              XP: __________________________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  IF PLAYERS DO X: ____________________________________________________________________
@@ -2572,11 +2572,11 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  NPC INTERACTIONS:                           COMBAT ENCOUNTERS:
 
- NPC: ___________________ □F □N □H           Encounter: ______________________________
+ NPC: ___________________ â–¡F â–¡N â–¡H           Encounter: ______________________________
 
- NPC: ___________________ □F □N □H           Rounds: ____  Outcome: □Win □Flee □Nego
+ NPC: ___________________ â–¡F â–¡N â–¡H           Rounds: ____  Outcome: â–¡Win â–¡Flee â–¡Nego
 
- NPC: ___________________ □F □N □H           MVP: ____________  Casualties: _________
+ NPC: ___________________ â–¡F â–¡N â–¡H           MVP: ____________  Casualties: _________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  LOOT ACQUIRED:   Gold: _______ GP       Items: ______________________________________
@@ -2619,11 +2619,11 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  QUEST STATUS:
 
- Quest: _______________________________  □ Started □ Progress □ Done □ Failed  Next: _
+ Quest: _______________________________  â–¡ Started â–¡ Progress â–¡ Done â–¡ Failed  Next: _
 
- Quest: _______________________________  □ Started □ Progress □ Done □ Failed  Next: _
+ Quest: _______________________________  â–¡ Started â–¡ Progress â–¡ Done â–¡ Failed  Next: _
 
- Quest: _______________________________  □ Started □ Progress □ Done □ Failed  Next: _
+ Quest: _______________________________  â–¡ Started â–¡ Progress â–¡ Done â–¡ Failed  Next: _
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  ACTIVE PLOT THREADS:                        NPC RELATIONSHIP CHANGES:
@@ -2654,10 +2654,10 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  WORKED WELL:  ✓ __________________  ✓ __________________  ✓ __________________
 
- IMPROVE:      ⚠ __________________  ⚠ __________________  ⚠ __________________
+ IMPROVE:      âš  __________________  âš  __________________  âš  __________________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
- PREP FOR NEXT:  □ __________________  □ __________________  □ __________________
+ PREP FOR NEXT:  â–¡ __________________  â–¡ __________________  â–¡ __________________
 ```
 }}
 {{pageNumber,auto}}
@@ -2673,9 +2673,9 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  NPC NAME: ________________________________________    FIRST SEEN: Session #__________
 
- STATUS: □ Alive   □ Dead   □ Missing   □ Unknown     LOCATION: _____________________
+ STATUS: â–¡ Alive   â–¡ Dead   â–¡ Missing   â–¡ Unknown     LOCATION: _____________________
 
- RELATIONSHIP: □ Allied   □ Friendly   □ Neutral   □ Unfriendly   □ Hostile
+ RELATIONSHIP: â–¡ Allied   â–¡ Friendly   â–¡ Neutral   â–¡ Unfriendly   â–¡ Hostile
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  INTERACTION LOG:
@@ -2695,9 +2695,9 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  PROMISES:
 
- □ NPC promised: __________________________________________  □ Kept □ Broken □ Pending
+ â–¡ NPC promised: __________________________________________  â–¡ Kept â–¡ Broken â–¡ Pending
 
- □ Party promised: ________________________________________  □ Kept □ Broken □ Pending
+ â–¡ Party promised: ________________________________________  â–¡ Kept â–¡ Broken â–¡ Pending
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  SECRETS REVEALED:
@@ -2787,7 +2787,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ═════════════════════════════════════════════════════════════════════════════════════════
 
- BALANCE:   Expected: _______ GP    Actual: _______ GP    □ More   □ Less   □ On Track
+ BALANCE:   Expected: _______ GP    Actual: _______ GP    â–¡ More   â–¡ Less   â–¡ On Track
 ```
 }}
 {{pageNumber,auto}}
@@ -2798,7 +2798,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 {{wide
 ```
 ═════════════════════════════════════════════════════════════════════════════════════════
- CAMPAIGN MILESTONE TRACKER                □ Blood & Coin   □ Shattered Oaths   □ Custom
+ CAMPAIGN MILESTONE TRACKER                â–¡ Blood & Coin   â–¡ Shattered Oaths   â–¡ Custom
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  START: ___________    CURRENT SESSION: #______    ESTIMATED TOTAL: ______ sessions
@@ -2806,30 +2806,30 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  STORY ARCS:
 
- Arc 1: ____________________________________  □ Not Started  □ In Progress  □ Complete
+ Arc 1: ____________________________________  â–¡ Not Started  â–¡ In Progress  â–¡ Complete
         Sessions: ___/___   Events: __________________________________________________
 
- Arc 2: ____________________________________  □ Not Started  □ In Progress  □ Complete
+ Arc 2: ____________________________________  â–¡ Not Started  â–¡ In Progress  â–¡ Complete
         Sessions: ___/___   Events: __________________________________________________
 
- Arc 3: ____________________________________  □ Not Started  □ In Progress  □ Complete
+ Arc 3: ____________________________________  â–¡ Not Started  â–¡ In Progress  â–¡ Complete
         Sessions: ___/___   Events: __________________________________________________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  CAMPAIGN GOALS:
 
- Primary: ______________________________________  [░░░░░░░░░░] _____%   by Sess #_____
+ Primary: ______________________________________  [â–'â–'â–'â–'â–'â–'â–'â–'â–'â–'] _____%   by Sess #_____
 
- Secondary: ____________________________________  [░░░░░░░░░░] _____%   by Sess #_____
+ Secondary: ____________________________________  [â–'â–'â–'â–'â–'â–'â–'â–'â–'â–'] _____%   by Sess #_____
 
 ═════════════════════════════════════════════════════════════════════════════════════════
- NPCs MET:        □ __________  □ __________  □ __________  □ __________  □ __________
+ NPCs MET:        â–¡ __________  â–¡ __________  â–¡ __________  â–¡ __________  â–¡ __________
 
- NPCs REMAINING:  □ __________  □ __________  □ __________
+ NPCs REMAINING:  â–¡ __________  â–¡ __________  â–¡ __________
 
- LOCATIONS VISITED:    □ __________  □ __________  □ __________  □ __________
+ LOCATIONS VISITED:    â–¡ __________  â–¡ __________  â–¡ __________  â–¡ __________
 
- LOCATIONS REMAINING:  □ __________  □ __________  □ __________
+ LOCATIONS REMAINING:  â–¡ __________  â–¡ __________  â–¡ __________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  MAJOR BATTLES:
@@ -3071,11 +3071,11 @@ Golden age of knowledge and culture
 **Event:** Massive arcane catastrophe  
 **Result:** Single continent split into two landmasses  
 **Cause:** [Multiple theories, no confirmed truth]
+
 {{pageNumber,auto}}
 {{footnote 07 TIMELINE VISUAL}}
 
 \page
-
 ### Theories About the Cause
 
 **Theory 1: Magical Experiment Gone Wrong**
@@ -3617,8 +3617,8 @@ The Campaign Dashboard is your **mission control** for running Tirvandor campaig
 ═════════════════════════════════════════════════════════════════════════════════════════
  MAIN QUEST: _________________________________________________________________________
 
- [START] ──→ [█] ──→ [█] ──→ [░] ──→ [░] ──→ [░] ──→ [░] ──→ [░] ──→ [BOSS] ──→ [END]
-              ✓       ✓       ?       ?       ?       ?       ?         ?         ?
+ [START] ──→ [░] ──→ [░] ──→ [░] ──→ [░] ──→ [░] ──→ [░] ──→ [░] ──→ [BOSS] ──→ [END]
+                     
 
  Current Step: _______________________________________________________________________
 
@@ -3629,16 +3629,16 @@ The Campaign Dashboard is your **mission control** for running Tirvandor campaig
 ═════════════════════════════════════════════════════════════════════════════════════════
  SIDE QUEST 1: _______________________________________________________________________
 
- [START] ──→ [█] ──→ [█] ──→ [█] ──→ [█] ──→ [END]
-              ✓       ✓       ✓       ✓       ✓
+ [START] ──→ [░] ──→ [░] ──→ [░] ──→ [░] ──→ [END]
+             
 
  Status: ☑ COMPLETE!                    Reward: ______________________________________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  SIDE QUEST 2: _______________________________________________________________________
 
- [START] ──→ [█] ──→ [░] ──→ [░] ──→ [?] ──→ [END]
-              ✓       ?       ?       ?       ?
+ [START] ──→ [░] ──→ [░] ──→ [░] ──→ [?] ──→ [END]
+              
 
  Current Step: _______________________________________________________________________
 
@@ -3647,12 +3647,11 @@ The Campaign Dashboard is your **mission control** for running Tirvandor campaig
 ═════════════════════════════════════════════════════════════════════════════════════════
  SIDE QUEST 3: _______________________________________________________________________
 
- [START] ──→ [█] ──→ [█] ──→ [█] ──→ [X]
+ [START] ──→ [░] ──→ [░] ──→ [░] ──→ [X]
 
  Status: ☒ FAILED!                      Consequences: ________________________________
 ```
-}}
-{{pageNumber,auto}}
+}}{{pageNumber,auto}}
 {{footnote 08 CAMPAIGN DASHBOARD}}
 \page
 # How to Use the Dashboard

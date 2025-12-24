@@ -72,8 +72,8 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Act I Overview}}{{ 3}}](#p7)
     - [{{ Quest 1.1: Gathering the Heroes (Level 1)}}{{ 3}}](#p7)
     - [{{ Quest 1.2: The Shadowmark Conspiracy (Level 2)}}{{ 9}}](#p13)
-    - [{{ Quest 1.3: Journey to Raven’s Keep (Level 3)}}{{ 15}}](#p19)
-    - [{{ Quest 1.4: Raven’s Keep Assault (Level 3-4)}}{{ 22}}](#p26)
+    - [{{ Quest 1.3: Journey to Raven's Keep (Level 3)}}{{ 15}}](#p19)
+    - [{{ Quest 1.4: Raven's Keep Assault (Level 3-4)}}{{ 22}}](#p26)
     - [{{ Act I Conclusion}}{{ 32}}](#p36)
   - #### [{{ Act II: The Conspiracy Unveiled (Levels 6-10)}}{{ 33}}](#p37)
     - [{{ Act II Overview}}{{ 33}}](#p37)
@@ -84,7 +84,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Ally Option C: Captain Thalia Lightbringer}}{{ 45}}](#p49)
     - [{{ Ally Option D: Sage Cornelius the Elder}}{{ 47}}](#p51)
     - [{{ Ally Option E: Druid Elder Silvaris}}{{ 50}}](#p54)
-    - [{{ Quest 2.3: Into the Dragon’s Maw (Level 7)}}{{ 52}}](#p56)
+    - [{{ Quest 2.3: Into the Dragon's Maw (Level 7)}}{{ 52}}](#p56)
     - [{{ Quest 2.4: The Truth Revealed (Level 8)}}{{ 61}}](#p65)
     - [{{ Option A: Join Corvus Blackwood}}{{ 65}}](#p69)
     - [{{ Option B: Oppose Corvus Blackwood}}{{ 65}}](#p69)
@@ -116,7 +116,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ The First Year: Chaos and Hope}}{{ 104}}](#p108)
     - [{{ Five Years Later: The New World}}{{ 104}}](#p108)
     - [{{ Twenty Years Later: Legacy of Revolution}}{{ 105}}](#p109)
-    - [{{ The Final Scene: Corvus’s Epilogue}}{{ 105}}](#p109)    
+    - [{{ The Final Scene: Corvus's Epilogue}}{{ 105}}](#p109)    
   - #### [{{ Epilogue 3: Redemption Ending (Peaceful Resolution)}}{{ 106}}](#p110)
     - [{{ The Moment of Peace}}{{ 106}}](#p110)
     - [{{ The Reconciliation (One Month Later)}}{{ 106}}](#p110)
@@ -220,7 +220,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ Threatening Letter to Merchants}}{{ 159}}](#p163)
   - [{{ Royal Decree — Destruction of House Blackwood}}{{ 160}}](#p164)
   - [{{ BY ROYAL DECREE OF KING ALDRIC III}}{{ 160}}](#p164)
-  - [{{ Corvus Blackwood’s Letter (Before He Became Lord Shadows)}}{{ 161}}](#p165)
+  - [{{ Corvus Blackwood's Letter (Before He Became Lord Shadows)}}{{ 161}}](#p165)
   - [{{ Prophecy Fragment}}{{ 162}}](#p166)
   - [{{ From the Codex of Endings}}{{ 162}}](#p166)
   - [{{ World-Splitter Component Illustration}}{{ 163}}](#p167)
@@ -228,7 +228,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ House Blackwood Historical Summary}}{{ 164}}](#p168)
   - [{{ House Blackwood — The Truth Revealed}}{{ 164}}](#p168)
   - [{{ Wanted Poster — Lord Shadows}}{{ 165}}](#p169)
-  - [{{ Arcturus’s Map of the Undercity}}{{ 166}}](#p170)
+  - [{{ Arcturus's Map of the Undercity}}{{ 166}}](#p170)
   - [{{ THE UNDERCITY BENEATH KAER THANDROS}}{{ 166}}](#p170)
   - [{{ Letter of Introduction to Professor Miranda}}{{ 167}}](#p171)
   - [{{ The Unbound Manifesto}}{{ 168}}](#p172)  
@@ -245,9 +245,9 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ 3. Refugee Camp}}{{ 174}}](#p178)
   - [{{ 4. Ancient Precursor Ruins (Interior)}}{{ 175}}](#p179)
   - [{{ 5. Border Fortress Battle}}{{ 176}}](#p180)
-  - [{{ 6. Kaer Thandors Throne Room}}{{ 177}}](#p181)
+  - [{{ 6. Kaer Thandros Throne Room}}{{ 177}}](#p181)
   - [{{ 7. Ley Line Nexus Ritual Site}}{{ 178}}](#p182)
-  - [{{ 8. Dragon Infernalix’s Lair}}{{ 179}}](#p183)
+  - [{{ 8. Dragon Infernalix's Lair}}{{ 179}}](#p183)
   - [{{ 9. The Black Archive}}{{ 180}}](#p184)
   - [{{ 10. Void Rift Location}}{{ 181}}](#p185)
 - ### [{{ Appendix: Campaign-Specific NPCs}}{{ 182}}](#p186)
@@ -12030,29 +12030,29 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 ## Session Prep Checklist
 
 ### Before Each Session
-□ Review last session's events and major player choices ::
-□ Prepare NPC voices and personalities (especially Lord Shadows) ::
-□ Have stat blocks ready for likely encounters ::
-□ Print/prepare handouts (prophecies, historical documents, maps) ::
-□ Review World-Splitter component status ::
-□ Check which allies are currently with party ::
-□ Set up battle maps if dungeon/combat expected ::
+â–¡ Review last session's events and major player choices ::
+â–¡ Prepare NPC voices and personalities (especially Lord Shadows) ::
+â–¡ Have stat blocks ready for likely encounters ::
+â–¡ Print/prepare handouts (prophecies, historical documents, maps) ::
+â–¡ Review World-Splitter component status ::
+â–¡ Check which allies are currently with party ::
+â–¡ Set up battle maps if dungeon/combat expected ::
 
 ### During Session
-□ Track World-Splitter assembly progress (if applicable) ::
-□ Note player decisions affecting Lord Shadows' sympathy ::
-□ Track initiative and conditions carefully ::
-□ Award creative solutions and heroic roleplay ::
-□ Monitor clue discovery (ensure players aren't stuck) ::
-□ Track ally relationships (NPCs respond to party actions) ::
+â–¡ Track World-Splitter assembly progress (if applicable) ::
+â–¡ Note player decisions affecting Lord Shadows' sympathy ::
+â–¡ Track initiative and conditions carefully ::
+â–¡ Award creative solutions and heroic roleplay ::
+â–¡ Monitor clue discovery (ensure players aren't stuck) ::
+â–¡ Track ally relationships (NPCs respond to party actions) ::
 
 ### After Session
-□ Note unresolved plot threads and player questions ::
-□ Update faction relationships based on actions ::
-□ Calculate XP/treasure awarded ::
-□ Plan consequences for major decisions ::
-□ Update Lord Shadows tracker (sympathy level, knows party's goals) ::
-□ Ask for player feedback on pacing and difficulty ::
+â–¡ Note unresolved plot threads and player questions ::
+â–¡ Update faction relationships based on actions ::
+â–¡ Calculate XP/treasure awarded ::
+â–¡ Plan consequences for major decisions ::
+â–¡ Update Lord Shadows tracker (sympathy level, knows party's goals) ::
+â–¡ Ask for player feedback on pacing and difficulty ::
 
 ## Campaign Themes
 
@@ -13161,47 +13161,47 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 ### World-Splitter Status
 
 **Components:** ::
-- **Component 1 (Crown):** □Party Has  □Enemy Has  □Unknown Location
-- **Component 2 (Mirror):** □Party Has  □Enemy Has  □Unknown Location
-- **Component 3 (Scepter):** □Party Has  □Enemy Has  □Unknown Location
+- **Component 1 (Crown):** â–¡Party Has  â–¡Enemy Has  â–¡Unknown Location
+- **Component 2 (Mirror):** â–¡Party Has  â–¡Enemy Has  â–¡Unknown Location
+- **Component 3 (Scepter):** â–¡Party Has  â–¡Enemy Has  â–¡Unknown Location
 
 **Activation Progress:** ____% 
 
-⚠ **WARNING:** At 100%, Lord Shadows triggers Second Worldrend!
+âš  **WARNING:** At 100%, Lord Shadows triggers Second Worldrend!
 
 **Time Until Activation:** _______ sessions (estimated)
 
 ### Lord Shadows (Corvus Blackwood) Tracker
 
 - **Current Location:** ______________________
-- **Status:** □Active  □In Hiding
+- **Status:** â–¡Active  â–¡In Hiding
 - **Minions Defeated:** ___/___
 - **Power Level:** ____%
-- **Party Knows True Identity:** □Yes  □No
-- **Knows Party's Goal:** □Yes  □No
-- **Sympathy Level:** □Villain  □Anti-Hero  □Tragic Figure  □Justified
+- **Party Knows True Identity:** â–¡Yes  â–¡No
+- **Knows Party's Goal:** â–¡Yes  â–¡No
+- **Sympathy Level:** â–¡Villain  â–¡Anti-Hero  â–¡Tragic Figure  â–¡Justified
 
 *(Track how players view him - affects final confrontation!)*
 
 ### Prophecy Fragments
 
-- **Fragment 1:** □Found  □Decoded  □Understood | Location: ________________
-- **Fragment 2:** □Found  □Decoded  □Understood | Location: ________________
-- **Fragment 3:** □Found  □Decoded  □Understood | Location: ________________
+- **Fragment 1:** â–¡Found  â–¡Decoded  â–¡Understood | Location: ________________
+- **Fragment 2:** â–¡Found  â–¡Decoded  â–¡Understood | Location: ________________
+- **Fragment 3:** â–¡Found  â–¡Decoded  â–¡Understood | Location: ________________
 
-**Full Prophecy Meaning:** □Unknown  □Partially Known  □Fully Understood
+**Full Prophecy Meaning:** â–¡Unknown  â–¡Partially Known  â–¡Fully Understood
 
 ### Noble House Alliances
 
 | House | Status | Influence |
 |-------|--------|-----------|
-| House Goldshore | □Allied □Neutral □Enemy | ___/10 |
-| House Thandros | □Allied □Neutral □Enemy | ___/10 |
-| House Blackwood | □Allied □Neutral □Enemy | ___/10 |
-| House Ironforge | □Allied □Neutral □Enemy | ___/10 |
-| House Silverpine | □Allied □Neutral □Enemy | ___/10 |
+| House Goldshore | â–¡Allied â–¡Neutral â–¡Enemy | ___/10 |
+| House Thandros | â–¡Allied â–¡Neutral â–¡Enemy | ___/10 |
+| House Blackwood | â–¡Allied â–¡Neutral â–¡Enemy | ___/10 |
+| House Ironforge | â–¡Allied â–¡Neutral â–¡Enemy | ___/10 |
+| House Silverpine | â–¡Allied â–¡Neutral â–¡Enemy | ___/10 |
 
-**Political Balance:** □Thaldros □Aethoria □Balanced □Chaos
+**Political Balance:** â–¡Thaldros â–¡Aethoria â–¡Balanced â–¡Chaos
 
 \column
 
@@ -13209,21 +13209,21 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 
 **Clues About Original Worldrend:** ___/15
 
-- □ It was not natural
-- □ Weapon of mass destruction existed
-- □ Cover-up by current rulers
-- □ Could happen again
-- □ Gods were involved in First Worldrend
-- □ World is still breaking
-- □ Bloodlines matter
-- □ Choice: Save world or get justice?
-- □ Royal family knows truth
-- □ Blackwoods were framed
-- □ Someone activated it deliberately over a century ago
-- □ Other continents may exist
-- □ Can be prevented this time
-- □ True villains still alive (or descendants)
-- □ Prophecy is accurate
+- â–¡ It was not natural
+- â–¡ Weapon of mass destruction existed
+- â–¡ Cover-up by current rulers
+- â–¡ Could happen again
+- â–¡ Gods were involved in First Worldrend
+- â–¡ World is still breaking
+- â–¡ Bloodlines matter
+- â–¡ Choice: Save world or get justice?
+- â–¡ Royal family knows truth
+- â–¡ Blackwoods were framed
+- â–¡ Someone activated it deliberately over a century ago
+- â–¡ Other continents may exist
+- â–¡ Can be prevented this time
+- â–¡ True villains still alive (or descendants)
+- â–¡ Prophecy is accurate
 
 **Party's Current Theory:** ____________________________________________
 
@@ -13231,19 +13231,19 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 
 **Party Leaning Towards:** ::
 
-- □ Stop Lord Shadows at all costs (Traditional hero ending)
-- □ Help Lord Shadows get justice, then stop Worldrend (Gray ending)
-- □ Let him succeed - world deserves to burn (Dark ending)
-- □ Find third option - save both Corvus and the world (Best ending)
+- â–¡ Stop Lord Shadows at all costs (Traditional hero ending)
+- â–¡ Help Lord Shadows get justice, then stop Worldrend (Gray ending)
+- â–¡ Let him succeed - world deserves to burn (Dark ending)
+- â–¡ Find third option - save both Corvus and the world (Best ending)
 
 **Required for Best Ending:** ::
 
-- □ Prove Blackwood innocence
-- □ Earn Corvus's trust
-- □ Unite all noble houses
-- □ Expose true villains/conspirators
-- □ Find way to disable World-Splitter without killing Corvus
-- □ All party members and key allies survive
+- â–¡ Prove Blackwood innocence
+- â–¡ Earn Corvus's trust
+- â–¡ Unite all noble houses
+- â–¡ Expose true villains/conspirators
+- â–¡ Find way to disable World-Splitter without killing Corvus
+- â–¡ All party members and key allies survive
 
 {{pageNumber,auto}}
 \page
@@ -13252,29 +13252,29 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 
 | Ally Name | Status | Location | Current Task |
 |-----------|--------|----------|--------------|
-| High Mage Arcturus | □Alive □Injured □Dead | _____________ | _____________ |
-| Miranda Questseeker | □Recruited □Available □Unavailable | _____________ | _____________ |
-| Kael Dragonsbane | □Recruited □Available □Unavailable | _____________ | _____________ |
-| Thalia Lightbringer | □Recruited □Available □Unavailable | _____________ | _____________ |
-| Old One-Eye (Dragon) | □Allied □Neutral □Hostile | _____________ | _____________ |
-| Sage Cornelius | □Recruited □Available □Unavailable | _____________ | _____________ |
-| Druid Silvaris | □Recruited □Available □Unavailable | _____________ | _____________ |
+| High Mage Arcturus | â–¡Alive â–¡Injured â–¡Dead | _____________ | _____________ |
+| Miranda Questseeker | â–¡Recruited â–¡Available â–¡Unavailable | _____________ | _____________ |
+| Kael Dragonsbane | â–¡Recruited â–¡Available â–¡Unavailable | _____________ | _____________ |
+| Thalia Lightbringer | â–¡Recruited â–¡Available â–¡Unavailable | _____________ | _____________ |
+| Old One-Eye (Dragon) | â–¡Allied â–¡Neutral â–¡Hostile | _____________ | _____________ |
+| Sage Cornelius | â–¡Recruited â–¡Available â–¡Unavailable | _____________ | _____________ |
+| Druid Silvaris | â–¡Recruited â–¡Available â–¡Unavailable | _____________ | _____________ |
 
 ### Truth Revelation Status
 
 **Public Knowledge:** ::
-- □ Blackwood conspiracy is public knowledge
-- □ Some nobles exposed as conspirators
-- □ Historical documents released publicly
-- □ Kingdoms acknowledging injustice
-- □ Reforms enacted
+- â–¡ Blackwood conspiracy is public knowledge
+- â–¡ Some nobles exposed as conspirators
+- â–¡ Historical documents released publicly
+- â–¡ Kingdoms acknowledging injustice
+- â–¡ Reforms enacted
 
 **Secret Knowledge (Party Knows):** ::
-- □ Full list of conspirator families
-- □ Mechanism of First Worldrend
-- □ Location of Worldrend Vault
-- □ Lord Shadows' true identity
-- □ How to stop Second Worldrend without killing
+- â–¡ Full list of conspirator families
+- â–¡ Mechanism of First Worldrend
+- â–¡ Location of Worldrend Vault
+- â–¡ Lord Shadows' true identity
+- â–¡ How to stop Second Worldrend without killing
 
 ### Session Tracker
 
@@ -13285,11 +13285,11 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 **Last Session Cliffhanger:** _________________________________
 
 **Next Session Prep:** ::
-- □ Prepare NPC voices/personalities
-- □ Print handouts (if any)
-- □ Set up battle maps
-- □ Review stat blocks
-- □ Plan consequences of last session's choices
+- â–¡ Prepare NPC voices/personalities
+- â–¡ Print handouts (if any)
+- â–¡ Set up battle maps
+- â–¡ Review stat blocks
+- â–¡ Plan consequences of last session's choices
 
 ---
 
@@ -14225,7 +14225,7 @@ Notes: _______________________________________________
 }}{{pageNumber,auto}}
 \page
 
-## 6. Kaer Thandors Throne Room
+## 6. Kaer Thandros Throne Room
 **File:** kaer-thandros-throne-room.png  
 **Type:** Underground throne chamber  
 **Use:** Act 3 - Confronting Thaldros leadership or alternate ending  
@@ -14386,7 +14386,7 @@ ___
 
 #### Basic Information
 - **Race:** Human
-- **Age:** 24
+- **Age:** 48
 - **Location:** Silverpine (University District, lives in small apartment near library)
 - **Role:** Scholar/Librarian (true identity: Heir to House Blackwood, identity magically suppressed)
 - **Alignment:** Neutral Good
@@ -14429,6 +14429,9 @@ Slight and bookish (5'7", 130 lbs) with the kind of beauty that goes unnoticed b
 - Haunted by dreams and feelings she doesn't understand
 
 ### Background & History
+
+> **DM Note - "Lost Heir" Naming:** Both Elowen Gray (Corvus's sister) and Marcus Blackwood (Corvus's brother, see Blood & Coin campaign) survived the 1204 purge and may be called "Lost Heir." Elowen is the hidden sister with suppressed memories; Marcus is the younger brother raised openly in the frontier. DMs running both campaigns should decide how to handle this terminology.
+
 Elowen Gray remembers her life starting at age 5. She was found wandering near Silverpine, no memory of before, taken in by kindly scholar couple (actually Shadows's contacts). They raised her, discovered her intelligence, encouraged her education.
 
 **The Hidden Survivor:** During the 1204 purge, young Corvus (age 12) made a desperate choice. He couldn't protect his 5-year-old sister in flight, so he entrusted her to a Blackwood loyalist mage who performed a deep memory suppression ritual. The child's identity was completely erased—she didn't know she was a Blackwood, so she couldn't reveal it under questioning or torture. The Crown's agents found no record of a daughter; their intelligence was incomplete. Corvus escaped openly and became "the only known survivor." Elowen vanished into anonymity, her existence unknown to anyone hunting Blackwood blood.
