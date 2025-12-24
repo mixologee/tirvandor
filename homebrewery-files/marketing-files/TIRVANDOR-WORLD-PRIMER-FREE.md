@@ -417,14 +417,14 @@ His cause is just. His methods are monstrous. And the heroes must stop him.
 
 | Book | Pages | Contents |
 |------|-------|----------|
-| World Guide | 143 | Complete setting, geography, history |
+| World Guide | 147 | Complete setting, geography, history |
 | Player's Handbook | 119 | Races, classes, backgrounds, spells |
-| DM's Guide | 389 | NPCs, secrets, adventure hooks |
+| DM's Guide | 393 | NPCs, secrets, adventure hooks |
 | Blood & Coin Campaign | 37 | Complete mercenary campaign |
 | Shattered Oaths Campaign | 25 | Complete heroic campaign |
-| Monster Manual | 57 | Custom creatures and stat blocks |
-| DM Toolkit | 96 | Quick reference, random tables |
-| Player Guides | 10 | Spoiler-free handouts |
+| Monster Manual | 56 | Custom creatures and stat blocks |
+| DM Toolkit | 95 | Quick reference, random tables |
+| Player Guides | 8 | Spoiler-free handouts |
 | **Total** | **876** | **Complete campaign setting** |
 
 \page
