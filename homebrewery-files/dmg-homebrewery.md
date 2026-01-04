@@ -2947,6 +2947,8 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Perfect for frail wizards
 - Red gemstone design
 
+\column
+
 #### 6: Dragon Slaying Arrows (SET OF 3)
 
 ![11: DRAGON SLAYING ARROWS (SET OF 3)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-dragon-slaying-arrows.jpg) {width:200px,mix-blend-mode:multiply}
@@ -3153,6 +3155,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Attacks/spells end effect
 - Ultimate stealth tool
 
+\column
 
 #### 18: Necromancer Lord's Phylactery
 
