@@ -38,389 +38,169 @@ The SRD 5.2 is licensed under the Creative Commons Attribution 4.0 International
 The following are designated as Product Identity: Tirvandor, all proper names of characters, locations, organizations, and factions; all storylines, plots, and narrative elements; all original artwork and maps; the Seven Ascended concept; the Seven Bound Ancients concept; all original magic items; the Worldrend event and timeline; all campaign content.
 
 {{skipCounting}}
-{{footnote DUNGEON MASTER'S GUIDE}}
 \page
+
 {{toc,wide
 # Contents
 
-- ### [{{ Dungeon Master's Guide to Tirvandor}}{{ 2}}](#p7)
-  - #### [{{ Part I: The World}}{{ 2}}](#p7)
-  - #### [{{ Chapter 1. Complete Timeline of Tirvandor}}{{ 2}}](#p7)
-    - [{{ Age of Myth (??-15,000 BW)}}{{ 2}}](#p7)
-    - [{{ Age of Dawn (6,000-3,000 BW)}}{{ 2}}](#p7)
-    - [{{ Age of Strife (3,000-1,000 BW)}}{{ 2}}](#p7)
-    - [{{ Pre-Worldrend Era (1,000-2,400 BW)}}{{ 3}}](#p8)
-    - [{{ The Worldrend (Year 0 CR)}}{{ 3}}](#p8)
-    - [{{ Recovery Era (1-1000 CR)}}{{ 4}}](#p9)
-    - [{{ Current Era (1000-1247 CR)}}{{ 4}}](#p9)
-  - #### [{{ The Seven Bound Ancients (DM Secret)}}{{ 4}}](#p9)
-    - [{{ 1. The Devourer (Under Ironvault)}}{{ 4}}](#p9)
-    - [{{ 2. The Dreamer (Under Cloudspire)}}{{ 4}}](#p9)
-    - [{{ 3. The Weaver (Under Silverpeak Mountains)}}{{ 4}}](#p9)
-    - [{{ 4. The Tyrant (Under Highcrown Ruins)}}{{ 4}}](#p9)
-    - [{{ 5. The Corruptor (Under Border Wastes)}}{{ 4}}](#p9)
-    - [{{ 6. The Hunter (Deep Wilderness, Unknown)}}{{ 4}}](#p9)
-    - [{{ 7. The Oracle (Lost Temple, Unknown)}}{{ 4}}](#p9)
-  - #### [{{ Campaign Use}}{{ 5}}](#p10)
-- ### [{{ Part II: Running the Game}}{{ 6}}](#p11)
-- ### [{{ Chapter 2: Core Mechanics and Adjudication}}{{ 6}}](#p11)
-  - #### [{{ Ability Checks}}{{ 6}}](#p11)
-    - [{{ When to Call for Checks}}{{ 6}}](#p11)
-    - [{{ Setting Difficulty Classes}}{{ 6}}](#p11)
-    - [{{ Multiple Ability Options}}{{ 6}}](#p11)
-    - [{{ Group Checks}}{{ 6}}](#p11)
-    - [{{ Contests}}{{ 6}}](#p11)
-  - #### [{{ Advantage and Disadvantage}}{{ 6}}](#p11)
-    - [{{ When to Grant Advantage}}{{ 6}}](#p11)
-    - [{{ When to Impose Disadvantage}}{{ 7}}](#p12)
-    - [{{ Advantage/Disadvantage Cancel}}{{ 7}}](#p12)
-  - #### [{{ Combat}}{{ 7}}](#p12)
-    - [{{ Initiative}}{{ 7}}](#p12)
-    - [{{ Actions in Combat}}{{ 7}}](#p12)
-    - [{{ Movement}}{{ 7}}](#p12)
-    - [{{ Attacking}}{{ 7}}](#p12)
-    - [{{ Damage and Healing}}{{ 8}}](#p13)
-    - [{{ Conditions Reference}}{{ 8}}](#p13)
-  - #### [{{ Exploration}}{{ 9}}](#p14)
-    - [{{ Tracking Time}}{{ 9}}](#p14)
-    - [{{ Travel Pace}}{{ 9}}](#p14)
-    - [{{ Foraging and Hunting}}{{ 9}}](#p14)
-    - [{{ Getting Lost}}{{ 9}}](#p14)
-    - [{{ Resting}}{{ 9}}](#p14)
-  - #### [{{ Social Interaction}}{{ 9}}](#p14)
-    - [{{ NPC Attitudes}}{{ 9}}](#p14)
-    - [{{ Changing Attitudes}}{{ 9}}](#p14)
-    - [{{ Persuasion, Deception, Intimidation}}{{ 10}}](#p15)
-    - [{{ Information Gathering}}{{ 10}}](#p15)
-\column
-  - #### [{{ Improvisation}}{{ 10}}](#p15)
-    - [{{ When Players Surprise You}}{{ 10}}](#p15)
-    - [{{ Quick NPC Creation}}{{ 10}}](#p15)
-    - [{{ Quick Room Description}}{{ 10}}](#p15)
-    - [{{ Saying "No" Gracefully}}{{ 10}}](#p15)
-  - #### [{{ Pacing}}{{ 11}}](#p16)
-    - [{{ Recognizing Pacing Problems}}{{ 11}}](#p16)
-    - [{{ Speeding Things Up}}{{ 11}}](#p16)
-    - [{{ Slowing Things Down}}{{ 11}}](#p16)
-    - [{{ Scene Transitions}}{{ 11}}](#p16)
-  - #### [{{ Rulings Over Rules}}{{ 11}}](#p16)
-    - [{{ Making Fair Rulings}}{{ 11}}](#p16)
-    - [{{ When to Look Up Rules}}{{ 11}}](#p16)
-    - [{{ Admitting Mistakes}}{{ 11}}](#p16)
-  - #### [{{ Using This Chapter}}{{ 11}}](#p16)
-- ### [{{ Chapter 3: Creating Adventures}}{{ 12}}](#p17)
-  - #### [{{ Step-by-Step Adventure Design}}{{ 12}}](#p17)
-  - #### [{{ What Makes a Good Adventure}}{{ 12}}](#p17)
-  - #### [{{ Step-by-Step Process}}{{ 12}}](#p17)
-    - [{{ Step 1: Establish the Premise (One Sentence)}}{{ 12}}](#p17)
-    - [{{ Step 2: Identify the Villain or Threat}}{{ 12}}](#p17)
-    - [{{ Step 3: Design Key Locations}}{{ 12}}](#p17)
-    - [{{ Step 4: Create Major NPCs}}{{ 12}}](#p17)
-    - [{{ Step 5: Build Encounters}}{{ 13}}](#p18)
-    - [{{ Step 6: Plan Rewards}}{{ 13}}](#p18)
-    - [{{ Step 7: Prepare for Player Choices}}{{ 13}}](#p18)
-  - #### [{{ Adventure Structures}}{{ 13}}](#p18)
-    - [{{ Location-Based Adventures}}{{ 13}}](#p18)
-    - [{{ Event-Based Adventures}}{{ 13}}](#p18)
-    - [{{ Mystery Adventures}}{{ 14}}](#p19)
-  - #### [{{ Pacing and Tension}}{{ 14}}](#p19)
-    - [{{ Five-Act Structure}}{{ 14}}](#p19)
-    - [{{ Building Tension}}{{ 14}}](#p19)
-    - [{{ Using Time Pressure}}{{ 14}}](#p19)
-  - #### [{{ Encounters by Party Level}}{{ 14}}](#p19)
-    - [{{ Levels 1-4: Local Threats}}{{ 14}}](#p19)
-    - [{{ Levels 5-10: Regional Problems}}{{ 15}}](#p20)
-    - [{{ Levels 11-16: Continental Crises}}{{ 15}}](#p20)
-    - [{{ Levels 17-20: World-Ending Threats}}{{ 15}}](#p20)
-  - #### [{{ Common Mistakes}}{{ 15}}](#p20)
-    - [{{ Railroad Adventures}}{{ 15}}](#p20)
-    - [{{ Killer DM}}{{ 15}}](#p20)
-    - [{{ No Stakes}}{{ 15}}](#p20)
-    - [{{ Too Many NPCs}}{{ 15}}](#p20)
-    - [{{ Info Dump}}{{ 15}}](#p20)
-    - [{{ Ignoring Player Choices}}{{ 15}}](#p20)
-  - #### [{{ Adventure Templates}}{{ 16}}](#p21)
-    - [{{ Template 1: The Heist}}{{ 16}}](#p21)
-    - [{{ Template 2: The Rescue}}{{ 16}}](#p21)
-    - [{{ Template 3: The Mystery}}{{ 16}}](#p21)
-    - [{{ Template 4: The Hunt}}{{ 16}}](#p21)
-  - #### [{{ Using This Chapter}}{{ 16}}](#p21)
-}}
-{{skipCounting}}
-\page
-{{toc,wide
-# Contents
-- ### [{{ Chapter 4: Creating Campaigns}}{{ 17}}](#p22)
-  - #### [{{ Long-Term Play and Story Arcs}}{{ 17}}](#p22)
-  - #### [{{ Campaign vs Adventure}}{{ 17}}](#p22)
-  - #### [{{ Tirvandor Campaign Themes}}{{ 17}}](#p22)
-    - [{{ The War}}{{ 17}}](#p22)
-    - [{{ The Bound Ancients Threat}}{{ 17}}](#p22)
-    - [{{ Faction Intrigue}}{{ 17}}](#p22)
-    - [{{ Personal Quests}}{{ 17}}](#p22)
-  - #### [{{ Campaign Structure}}{{ 17}}](#p22)
-    - [{{ Episodic Campaigns}}{{ 17}}](#p22)
-    - [{{ Serialized Campaigns}}{{ 18}}](#p23)
-    - [{{ Hybrid Structure (Recommended)}}{{ 18}}](#p23)
-  - #### [{{ Campaign Phases}}{{ 18}}](#p23)
-    - [{{ Levels 1-4: Local Heroes}}{{ 18}}](#p23)
-    - [{{ Levels 5-10: Regional Agents}}{{ 18}}](#p23)
-    - [{{ Levels 11-16: Continental Players}}{{ 18}}](#p23)
-    - [{{ Levels 17-20: World-Shapers}}{{ 19}}](#p24)
-  - #### [{{ Campaign Planning}}{{ 19}}](#p24)
-    - [{{ Before Session Zero}}{{ 19}}](#p24)
-    - [{{ Session Zero}}{{ 19}}](#p24)
-    - [{{ Campaign Journal}}{{ 19}}](#p24)
-  - #### [{{ Tying Player Backstories}}{{ 20}}](#p25)
-    - [{{ Incorporating Backstories}}{{ 20}}](#p25)
-    - [{{ When to Focus on Each Character}}{{ 20}}](#p25)
-  - #### [{{ Pacing the Campaign}}{{ 20}}](#p25)
-    - [{{ Session Pacing}}{{ 20}}](#p25)
-    - [{{ Arc Pacing}}{{ 20}}](#p25)
-    - [{{ Campaign Pacing}}{{ 20}}](#p25)
-  - #### [{{ Ending the Campaign}}{{ 20}}](#p25)
-    - [{{ Planning the Ending}}{{ 20}}](#p25)
-    - [{{ The Final Arc (Last 5-8 Sessions)}}{{ 21}}](#p26)
-    - [{{ Satisfying Endings}}{{ 21}}](#p26)
-    - [{{ Epilogue Session}}{{ 21}}](#p26)
-  - #### [{{ Common Campaign Problems}}{{ 21}}](#p26)
-    - [{{ Problem: Players Not Engaged with Plot}}{{ 21}}](#p26)
-    - [{{ Problem: Pacing Issues}}{{ 21}}](#p26)
-    - [{{ Problem: Power Imbalance}}{{ 21}}](#p26)
-    - [{{ Problem: Party Conflict}}{{ 22}}](#p27)
-    - [{{ Problem: Lost the Thread}}{{ 22}}](#p27)
-  - #### [{{ Using This Chapter}}{{ 22}}](#p27)
-- ### [{{ Chapter 5: Secret Locations}}{{ 23}}](#p28)
-  - #### [{{ Hidden Places of Power}}{{ 23}}](#p28)
-  - #### [{{ The Black Archive}}{{ 23}}](#p28)
-  - #### [{{ The Forgotten Monastery}}{{ 23}}](#p28)
-  - #### [{{ Nexus of Seven Sorrows}}{{ 23}}](#p28)
-  - #### [{{ The Wandering Tower}}{{ 23}}](#p28)
-  - #### [{{ Ashgate Undercity}}{{ 23}}](#p28)
-  - #### [{{ The Singing Stones}}{{ 23}}](#p28)
-  - #### [{{ The Obsidian Spire}}{{ 24}}](#p29)
-  - #### [{{ Goldreach Vault 13}}{{ 24}}](#p29)
-  - #### [{{ Temple of the Void Saints}}{{ 24}}](#p29)
-  - #### [{{ The Riftmaw}}{{ 24}}](#p29)
-  - #### [{{ Using Secret Locations}}{{ 24}}](#p29)
-- ### [{{ Chapter 6: Magic Mechanics Deep Dive: How Magic Really Works in Tirvandor}}{{ 25}}](#p30)
-  - #### [{{ Ley Line System}}{{ 25}}](#p30)
-    - [{{ Basic Mechanics}}{{ 25}}](#p30)
-    - [{{ Ley Line Map (DM Reference)}}{{ 25}}](#p30)
-  - #### [{{ Spell Creation Rules}}{{ 25}}](#p30)
-    - [{{ Requirements}}{{ 25}}](#p30)
-    - [{{ Process}}{{ 25}}](#p30)
-    - [{{ Flawed Spells}}{{ 25}}](#p30)
-    - [{{ Example Spells PCs Might Create}}{{ 25}}](#p30)
-  - #### [{{ Magic Item Creation}}{{ 26}}](#p31)
-    - [{{ Minor Items (Uncommon/Rare)}}{{ 26}}](#p31)
-    - [{{ Major Items (Very Rare/Legendary)}}{{ 26}}](#p31)
-  - #### [{{ Ritual Casting}}{{ 26}}](#p31)
-    - [{{ Standard Rituals}}{{ 26}}](#p31)
-    - [{{ Tirvandor Ritual Sites}}{{ 26}}](#p31)
-    - [{{ Custom Rituals (DM Tool)}}{{ 26}}](#p31)
-  - #### [{{ Wild Magic}}{{ 26}}](#p31)
-    - [{{ Trigger Conditions}}{{ 26}}](#p31)
-    - [{{ Tirvandor Wild Magic Effects (d12)}}{{ 27}}](#p32)
-  - #### [{{ Artifact Rules}}{{ 27}}](#p32)
-    - [{{ Attunement}}{{ 27}}](#p32)
-    - [{{ Sentient Artifacts}}{{ 27}}](#p32)
-    - [{{ Example Artifacts}}{{ 27}}](#p32)
-  - #### [{{ Planar Travel}}{{ 27}}](#p32)
-    - [{{ Permanent Portals}}{{ 27}}](#p32)
-    - [{{ Creating Portals}}{{ 27}}](#p32)
-  - #### [{{ Using Magic Mechanics}}{{ 27}}](#p32)
-}}
-{{skipCounting}}
-\page
-{{toc,wide
-# Contents
-
-- ### [{{ Part III: Treasure}}{{ 28}}](#p33)
-- ### [{{ Chapter 7: Treasure & Magic Items}}{{ 28}}](#p33)
-  - #### [{{ Comprehensive Catalog with Images}}{{ 28}}](#p33)
-  - #### [{{ Using Treasure in Tirvandor}}{{ 28}}](#p33)
-    - [{{ 1: BORDER CAPTAIN'S BADGE}}{{ 28}}](#p33)
-    - [{{ 2: POTION OF FIRE RESISTANCE}}{{ 28}}](#p33)
-    - [{{ 3: POTION OF GREATER HEALING}}{{ 28}}](#p33)
-    - [{{ 4: WAND OF MAGIC MISSILES}}{{ 29}}](#p34)
-    - [{{ 5: AMULET OF HEALTH}}{{ 29}}](#p34)
-    - [{{ 6: DRAGON SLAYING ARROWS (SET OF 3)}}{{ 29}}](#p34)
-    - [{{ 7: DRAGON WARDING AMULETS (SET OF 4)}}{{ 29}}](#p34)
-    - [{{ 8: FLAMING LONGSWORD - PHOENIX VARIANT}}{{ 30}}](#p35)
-    - [{{ 9: MORNINGSTAR - HOLY RADIANT}}{{ 30}}](#p35)
-    - [{{ 10: RING OF SPELL STORING}}{{ 30}}](#p35)
-    - [{{ 11: BELT OF GIANT STRENGTH (FROST GIANT)}}{{ 30}}](#p35)
-    - [{{ 12: ETERNAL WINTER SHARD}}{{ 31}}](#p36)
-    - [{{ 13: STAFF OF DYNASTIES}}{{ 31}}](#p36)
-    - [{{ 14: STAFF OF POWER}}{{ 31}}](#p36)
-    - [{{ 15: VOIDBLADE LONGSWORD}}{{ 31}}](#p36)
-    - [{{ 16: ARMOR OF THE UNBREAKABLE}}{{ 32}}](#p37)
-    - [{{ 17: CLOAK OF INVISIBILITY}}{{ 32}}](#p37)
-    - [{{ 18: NECROMANCER LORD'S PHYLACTERY}}{{ 32}}](#p37)
-  - #### [{{ Treasure Tables by CR}}{{ 32}}](#p37)
-  - #### [{{ Item Distribution Guidelines}}{{ 33}}](#p38)
-- ### [{{ Part IV: NPCs}}{{ 34}}](#p39)
-- ### [{{ Chapter 8: NPCs of Tirvandor}}{{ 34}}](#p39)
-  - #### [{{ Major NPCs}}{{ 34}}](#p39)
-  - #### [{{ Additional Kaer Thandros Officials}}{{ 300}}](#p305)
-  - #### [{{ Silverpine Officials}}{{ 322}}](#p327)
-  - #### [{{ Faction Leaders}}{{ 328}}](#p333)
-  - #### [{{ Goldreach Figures}}{{ 334}}](#p339)
-  - #### [{{ Historical & Legendary Figures}}{{ 336}}](#p341)
-  - #### [{{ Miscellaneous NPCs}}{{ 342}}](#p347)
-- ### [{{ Part V: DM Tools}}{{ 368}}](#p373)
-- ### [{{ Chapter 9: Creating Custom Content}}{{ 368}}](#p373)
-  - #### [{{ Creating Creatures}}{{ 368}}](#p373)
-    - [{{ Step-by-Step}}{{ 368}}](#p373)
-    - [{{ Challenge Rating Guidelines}}{{ 368}}](#p373)
-  - #### [{{ Creating Spells}}{{ 368}}](#p373)
-    - [{{ Spell Balance}}{{ 368}}](#p373)
-    - [{{ Custom Spell Template}}{{ 368}}](#p373)\
-\column
-  - #### [{{ Creating Magic Items}}{{ 368}}](#p373)
-    - [{{ Rarity Guidelines}}{{ 368}}](#p373)
-    - [{{ Magic Item Template}}{{ 369}}](#p374)
-  - #### [{{ Environmental Hazards}}{{ 369}}](#p374)
-    - [{{ Extreme Cold}}{{ 369}}](#p374)
-    - [{{ Extreme Heat}}{{ 369}}](#p374)
-    - [{{ Falling}}{{ 369}}](#p374)
-    - [{{ Drowning}}{{ 369}}](#p374)
-    - [{{ Poison and Disease}}{{ 369}}](#p374)
-  - #### [{{ Bound Corruption (Detailed)}}{{ 369}}](#p374)
-    - [{{ Corruption Stages}}{{ 369}}](#p374)
-    - [{{ Proximity Effects}}{{ 369}}](#p374)
-  - #### [{{ Traps}}{{ 370}}](#p375)
-    - [{{ Simple Traps (CR 1-4)}}{{ 370}}](#p375)
-    - [{{ Complex Traps (CR 5-10)}}{{ 370}}](#p375)
-    - [{{ Deadly Traps (CR 11+)}}{{ 370}}](#p375)
-  - #### [{{ Using This Chapter}}{{ 370}}](#p375)
-- ### [{{ Chapter 10. Faction Strongholds}}{{ 371}}](#p376)
-  - #### [{{ Gaining a Stronghold}}{{ 371}}](#p376)
-  - #### [{{ Stronghold Types}}{{ 371}}](#p376)
-    - [{{ Military Fort (Thaldros Empire)}}{{ 371}}](#p376)
-    - [{{ Resistance Safehouse (Aethoria Resistance)}}{{ 371}}](#p376)
-    - [{{ Guild Hall (Iron Guild)}}{{ 371}}](#p376)
-    - [{{ Church Chapter House}}{{ 372}}](#p377)
-    - [{{ Noble Estate}}{{ 372}}](#p377)
-- ### [{{ Chapter 11. Encounter Building: Creating Balanced, Memorable Encounters}}{{ 373}}](#p378)
-  - #### [{{ Encounter Basics}}{{ 373}}](#p378)
-  - #### [{{ Combat Encounters}}{{ 373}}](#p378)
-    - [{{ Calculating Difficulty}}{{ 373}}](#p378)
-    - [{{ Action Economy}}{{ 373}}](#p378)
-  - #### [{{ Using Terrain}}{{ 373}}](#p378)
-    - [{{ Terrain Types}}{{ 373}}](#p378)
-    - [{{ Battlefield Zones}}{{ 373}}](#p378)
-  - #### [{{ Monster Tactics}}{{ 374}}](#p379)
-  - #### [{{ Encounter Pacing}}{{ 374}}](#p379)
-    - [{{ Combat Length}}{{ 374}}](#p379)
-  - #### [{{ Social Encounters}}{{ 374}}](#p379)
-    - [{{ Structure}}{{ 374}}](#p379)
-    - [{{ Setting DCs}}{{ 374}}](#p379)
-    - [{{ Success Levels}}{{ 374}}](#p379)
-    - [{{ Multiple Participants}}{{ 374}}](#p379)
-  - #### [{{ Exploration Encounters}}{{ 374}}](#p379)
-    - [{{ Puzzles}}{{ 374}}](#p379)
-    - [{{ Traps}}{{ 375}}](#p380)
-  - #### [{{ Mixed Encounters}}{{ 375}}](#p380)
-}}
-{{skipCounting}}
-\page
-{{toc,wide
-# Contents
-
-  - #### [{{ Dynamic Encounters}}{{ 375}}](#p380)
-  - #### [{{ Encounter Variety}}{{ 375}}](#p380)
-  - #### [{{ Special Encounter Types}}{{ 375}}](#p380)
-    - [{{ Chase}}{{ 375}}](#p380)
-    - [{{ Stealth Mission}}{{ 375}}](#p380)
-    - [{{ Siege}}{{ 375}}](#p380)
-    - [{{ Bound Corruption Event}}{{ 376}}](#p381)
-  - #### [{{ Balancing for Party Size}}{{ 376}}](#p381)
-  - #### [{{ Example Encounters}}{{ 376}}](#p381)
-    - [{{ Level 3 Party (4 PCs) - Medium Combat}}{{ 376}}](#p381)
-    - [{{ Level 7 Party (4 PCs) - Hard Combat}}{{ 376}}](#p381)
-    - [{{ Level 12 Party (5 PCs) - Social Encounter}}{{ 376}}](#p381)
-- ### [{{ Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor's Wild Lands}}{{ 377}}](#p382)
-  - #### [{{ Travel Pacing}}{{ 377}}](#p382)
-    - [{{ Overland Movement}}{{ 377}}](#p382)
-    - [{{ Time Tracking}}{{ 377}}](#p382)
-  - #### [{{ Navigation}}{{ 377}}](#p382)
-    - [{{ Getting Lost}}{{ 377}}](#p382)
-    - [{{ Mapping}}{{ 377}}](#p382)
-  - #### [{{ Foraging and Hunting}}{{ 377}}](#p382)
-    - [{{ Foraging}}{{ 377}}](#p382)
-    - [{{ Hunting}}{{ 377}}](#p382)
-    - [{{ Water}}{{ 378}}](#p383)
-  - #### [{{ Weather}}{{ 378}}](#p383)
-    - [{{ Daily Weather}}{{ 378}}](#p383)
-    - [{{ Extreme Weather (d10)}}{{ 378}}](#p383)
-    - [{{ Temperature Effects}}{{ 378}}](#p383)
-    - [{{ Weather and Travel}}{{ 378}}](#p383)
-  - #### [{{ Hazards}}{{ 378}}](#p383)
-    - [{{ Natural Hazards}}{{ 378}}](#p383)
-    - [{{ Environmental Hazards (Tirvandor-Specific)}}{{ 379}}](#p384)
-  - #### [{{ Random Encounters}}{{ 379}}](#p384)
-    - [{{ Frequency}}{{ 379}}](#p384)
-    - [{{ Encounter Types (d6)}}{{ 379}}](#p384)
-    - [{{ Encounter Tables by Region}}{{ 379}}](#p384)
-  - #### [{{ Camping}}{{ 379}}](#p384)
-    - [{{ Making Camp}}{{ 379}}](#p384)
-    - [{{ Watch Schedule}}{{ 380}}](#p385)
-    - [{{ Camp Security}}{{ 380}}](#p385)
-    - [{{ Interrupted Rest}}{{ 380}}](#p385)
-  - #### [{{ Survival Challenges}}{{ 380}}](#p385)
-    - [{{ Starvation}}{{ 380}}](#p385)
-    - [{{ Dehydration}}{{ 380}}](#p385)
-    - [{{ Exhaustion}}{{ 380}}](#p385)
-    - [{{ Disease and Infection}}{{ 380}}](#p385)
-  - #### [{{ Wilderness Survival Tips for DMs}}{{ 381}}](#p386)
-- ### [{{ Part VI: Appendices}}{{ 382}}](#p387)
-  - #### [{{ Appendix A: Weather Tables}}{{ 382}}](#p387)
-    - [{{ Daily Weather}}{{ 382}}](#p387)
-    - [{{ Extreme Weather}}{{ 382}}](#p387)
-  - #### [{{ Appendix B: Random Encounters by Region}}{{ 382}}](#p387)
-    - [{{ Thaldros Mainland}}{{ 382}}](#p387)
-    - [{{ Aethoria Territories}}{{ 382}}](#p387)
-    - [{{ The Border}}{{ 382}}](#p387)
-  - #### [{{ Appendix C: Treasure Tables}}{{ 383}}](#p388)
-    - [{{ Treasure Hoard by CR}}{{ 383}}](#p388)
-    - [{{ Individual Treasure}}{{ 383}}](#p388)
-  - #### [{{ Appendix D: Settlement Generation}}{{ 383}}](#p388)
-    - [{{ Settlement Size}}{{ 383}}](#p388)
-    - [{{ Settlement Attitude Toward Strangers}}{{ 383}}](#p388)
-    - [{{ Settlement Problem}}{{ 383}}](#p388)
-  - #### [{{ Appendix E: NPC Generation}}{{ 383}}](#p388)
-    - [{{ Quick NPC Generator}}{{ 383}}](#p388)
-  - #### [{{ Appendix F: Travel and Navigation}}{{ 384}}](#p389)
-    - [{{ Travel Distances}}{{ 384}}](#p389)
-    - [{{ Getting Lost (Navigation DC)}}{{ 384}}](#p389)
-  - #### [{{ Appendix G: Difficulty Classes}}{{ 384}}](#p389)
-    - [{{ Standard DCs}}{{ 384}}](#p389)
-    - [{{ Contested Actions}}{{ 384}}](#p389)
-  - #### [{{ Appendix H: Condition Reference}}{{ 384}}](#p389)
-  - #### [{{ Appendix I: Faction Influence Scale}}{{ 384}}](#p389)
-    - [{{ Earning Faction Influence}}{{ 385}}](#p390)
-  - #### [{{ Appendix J: Bound Corruption Stages}}{{ 385}}](#p390)
-  - #### [{{ APPENDIX K: Ley Line Proximity Effects}}{{ 385}}](#p390)
-  - #### [{{ Appendix L: Quick Loot Generator}}{{ 385}}](#p390)
-    - [{{ Coin Loot by CR}}{{ 385}}](#p390)
-    - [{{ Gemstone Values}}{{ 385}}](#p390)
-    - [{{ OPEN GAME LICENSE Version 1.0a}}{{ 386}}](#p391)
+- ### [{{ Part I: The World}}{{ 2}}](#p5)
+  - #### [{{ Using This Guide}}{{ 2}}](#p5)
+  - #### [{{ Chapter 1. Complete Timeline of Tirvandor}}{{ 2}}](#p5)
+    - [{{ Age of Myth (??-15,000 BW)}}{{ 2}}](#p5)
+    - [{{ Age of Dawn (6,000-3,000 BW)}}{{ 2}}](#p5)
+    - [{{ Age of Strife (3,000-1,000 BW)}}{{ 2}}](#p5)
+    - [{{ Pre-Worldrend Era (1,000-2,400 BW)}}{{ 3}}](#p6)
+    - [{{ The Worldrend (Year 0 CR)}}{{ 3}}](#p6)
+    - [{{ Recovery Era (1-1000 CR)}}{{ 4}}](#p7)
+    - [{{ Current Era (1000-1247 CR)}}{{ 4}}](#p7)
+    - [{{ The Seven Bound Ancients (DM Secret)}}{{ 4}}](#p7)
+- ### [{{ Part II: Running the Game}}{{ 5}}](#p8)
+  - #### [{{ Chapter 2: Core Mechanics and Adjudication}}{{ 5}}](#p8)
+    - [{{ Ability Checks}}{{ 5}}](#p8)
+    - [{{ Advantage and Disadvantage}}{{ 5}}](#p8)
+    - [{{ Combat}}{{ 6}}](#p9)
+    - [{{ Exploration}}{{ 8}}](#p11)
+    - [{{ Social Interaction}}{{ 8}}](#p11)
+    - [{{ Improvisation}}{{ 9}}](#p12)
+    - [{{ Pacing}}{{ 10}}](#p13)
+    - [{{ Rulings Over Rules}}{{ 10}}](#p13)
+    - [{{ Using This Chapter}}{{ 10}}](#p13)
+  - #### [{{ Chapter 3: Creating Adventures}}{{ 11}}](#p14)
+    - [{{ Step-by-Step Adventure Design}}{{ 11}}](#p14)
+    - [{{ Step-by-Step Process}}{{ 11}}](#p14)
+    - [{{ Adventure Structures}}{{ 12}}](#p15)
+    - [{{ Pacing and Tension}}{{ 13}}](#p16)
+    - [{{ Encounters by Party Level}}{{ 13}}](#p16)
+    - [{{ Common Mistakes}}{{ 14}}](#p17)
+    - [{{ Adventure Templates}}{{ 15}}](#p18)
+    - [{{ Using This Chapter}}{{ 15}}](#p18)
+  - #### [{{ Chapter 4: Creating Campaigns}}{{ 16}}](#p19)
+    - [{{ Long-Term Play and Story Arcs}}{{ 16}}](#p19)
+    - [{{ Tirvandor Campaign Themes}}{{ 16}}](#p19)
+    - [{{ Campaign Structure}}{{ 16}}](#p19)
+    - [{{ Campaign Phases}}{{ 17}}](#p20)
+    - [{{ Campaign Planning}}{{ 18}}](#p21)
+    - [{{ Tying Player Backstories}}{{ 19}}](#p22)
+    - [{{ Pacing the Campaign}}{{ 19}}](#p22)
+    - [{{ Ending the Campaign}}{{ 19}}](#p22)
+    - [{{ Common Campaign Problems}}{{ 20}}](#p23)
+    - [{{ Using This Chapter}}{{ 21}}](#p24)
+  - #### [{{ Chapter 5: Secret Locations}}{{ 22}}](#p25)
+    - [{{ Hidden Places of Power}}{{ 22}}](#p25)
+  - #### [{{ Chapter 6: Magic Mechanics Deep Dive: How Magic Really Works in Tirvandor}}{{ 24}}](#p27)
+    - [{{ Ley Line System}}{{ 24}}](#p27)
+    - [{{ Spell Creation Rules}}{{ 24}}](#p27)
+    - [{{ Magic Item Creation}}{{ 25}}](#p28)
+    - [{{ Ritual Casting}}{{ 25}}](#p28)
+    - [{{ Wild Magic}}{{ 25}}](#p28)
+    - [{{ Artifact Rules}}{{ 26}}](#p29)
+    - [{{ Planar Travel}}{{ 26}}](#p29)
+    - [{{ Using Magic Mechanics}}{{ 26}}](#p29)
+- ### [{{ Part III: Treasure}}{{ 27}}](#p30)
+  - #### [{{ Chapter 7: Treasure & Magic Items}}{{ 27}}](#p30)
+    - [{{ Using Treasure in Tirvandor}}{{ 27}}](#p30)
+    - [{{ Treasure Tables by CR}}{{ 31}}](#p34)
+    - [{{ Item Distribution Guidelines}}{{ 31}}](#p34)
+- ### [{{ Part IV: NPCs}}{{ 32}}](#p35)
+  - #### [{{ Chapter 8: NPCs of Tirvandor}}{{ 32}}](#p35)
+    - [{{ Major NPCs}}{{ 32}}](#p35)
+  - #### [{{ Additional Kaer Thandros Officials}}{{ 298}}](#p301)
+  - #### [{{ Silverpine Officials}}{{ 320}}](#p323)
+  - #### [{{ Faction Leaders}}{{ 326}}](#p329)
+  - #### [{{ Goldreach Figures}}{{ 332}}](#p335)
+  - #### [{{ Historical & Legendary Figures}}{{ 334}}](#p337)
+    - [{{ The Legend}}{{ 334}}](#p337)
+    - [{{ Historical Impact}}{{ 334}}](#p337)
+    - [{{ Using Aldric in Campaigns}}{{ 335}}](#p338)
+    - [{{ Description}}{{ 336}}](#p339)
+    - [{{ History}}{{ 336}}](#p339)
+    - [{{ Description}}{{ 338}}](#p341)
+    - [{{ Background}}{{ 338}}](#p341)
+    - [{{ The Prophecies}}{{ 339}}](#p342)
+  - #### [{{ Miscellaneous NPCs}}{{ 340}}](#p343)  
+- ### [{{ Part V: DM Tools}}{{ 366}}](#p369)
+  - #### [{{ Chapter 9: Creating Custom Content}}{{ 366}}](#p369)
+    - [{{ Creating Creatures}}{{ 366}}](#p369)
+    - [{{ Creating Spells}}{{ 366}}](#p369)
+    - [{{ Creating Magic Items}}{{ 366}}](#p369)
+    - [{{ Environmental Hazards}}{{ 367}}](#p370)
+    - [{{ Bound Corruption (Detailed)}}{{ 367}}](#p370)
+    - [{{ Traps}}{{ 368}}](#p371)
+    - [{{ Using This Chapter}}{{ 368}}](#p371)
+  - #### [{{ Chapter 10. Faction Strongholds}}{{ 369}}](#p372)
+    - [{{ Gaining a Stronghold}}{{ 369}}](#p372)
+    - [{{ Stronghold Types}}{{ 369}}](#p372)
 }}
 
 {{skipCounting}}
 \page
-# Dungeon Master's Guide to Tirvandor
-## Part I: The World
 
- ::
+{{toc,wide
+## Contents    
+  - #### [{{ Chapter 11. Encounter Building: Creating Balanced, Memorable Encounters}}{{ 371}}](#p374)
+    - [{{ Encounter Basics}}{{ 371}}](#p374)
+    - [{{ Combat Encounters}}{{ 371}}](#p374)
+    - [{{ Using Terrain}}{{ 371}}](#p374)
+    - [{{ Monster Tactics}}{{ 372}}](#p375)
+    - [{{ Encounter Pacing}}{{ 372}}](#p375)
+    - [{{ Social Encounters}}{{ 372}}](#p375)
+    - [{{ Exploration Encounters}}{{ 372}}](#p375)
+    - [{{ Mixed Encounters}}{{ 373}}](#p376)
+    - [{{ Dynamic Encounters}}{{ 373}}](#p376)
+    - [{{ Encounter Variety}}{{ 373}}](#p376)
+    - [{{ Special Encounter Types}}{{ 373}}](#p376)
+    - [{{ Balancing for Party Size}}{{ 374}}](#p377)
+    - [{{ Example Encounters}}{{ 374}}](#p377)
+  - #### [{{ Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor’s Wild Lands}}{{ 375}}](#p378)
+    - [{{ Travel Pacing}}{{ 375}}](#p378)
+    - [{{ Navigation}}{{ 375}}](#p378)
+    - [{{ Foraging and Hunting}}{{ 375}}](#p378)
+    - [{{ Weather}}{{ 376}}](#p379)
+    - [{{ Hazards}}{{ 376}}](#p379)
+    - [{{ Random Encounters}}{{ 377}}](#p380)
+    - [{{ Camping}}{{ 377}}](#p380)
+    - [{{ Survival Challenges}}{{ 378}}](#p381)
+    - [{{ Wilderness Survival Tips for DMs}}{{ 379}}](#p382)
+- ### [{{ Part VI: Appendices}}{{ 380}}](#p383)
+  - #### [{{ Appendix A: Weather Tables}}{{ 380}}](#p383)
+    - [{{ Daily Weather}}{{ 380}}](#p383)
+    - [{{ Extreme Weather}}{{ 380}}](#p383)
+  - #### [{{ Appendix B: Random Encounters by Region}}{{ 380}}](#p383)
+    - [{{ Thaldros Mainland}}{{ 380}}](#p383)
+    - [{{ Aethoria Territories}}{{ 380}}](#p383)
+    - [{{ The Border}}{{ 380}}](#p383)
+  - #### [{{ Appendix C: Treasure Tables}}{{ 381}}](#p384)
+    - [{{ Treasure Hoard by CR}}{{ 381}}](#p384)
+    - [{{ Individual Treasure}}{{ 381}}](#p384)
+  - #### [{{ Appendix D: Settlement Generation}}{{ 381}}](#p384)
+    - [{{ Settlement Size}}{{ 381}}](#p384)
+    - [{{ Settlement Attitude Toward Strangers}}{{ 381}}](#p384)
+    - [{{ Settlement Problem}}{{ 381}}](#p384)
+  - #### [{{ Appendix E: NPC Generation}}{{ 381}}](#p384)
+    - [{{ Quick NPC Generator}}{{ 381}}](#p384)
+  - #### [{{ Appendix F: Travel and Navigation}}{{ 382}}](#p385)
+    - [{{ Travel Distances}}{{ 382}}](#p385)
+    - [{{ Getting Lost (Navigation DC)}}{{ 382}}](#p385)
+  - #### [{{ Appendix G: Difficulty Classes}}{{ 382}}](#p385)
+    - [{{ Standard DCs}}{{ 382}}](#p385)
+    - [{{ Contested Actions}}{{ 382}}](#p385)
+  - #### [{{ Appendix H: Condition Reference}}{{ 382}}](#p385)
+  - #### [{{ Appendix I: Faction Influence Scale}}{{ 382}}](#p385)
+    - [{{ Earning Faction Influence}}{{ 383}}](#p386)
+  - #### [{{ Appendix J: Bound Corruption Stages}}{{ 383}}](#p386)
+  - #### [{{ APPENDIX K: Ley Line Proximity Effects}}{{ 383}}](#p386)
+  - #### [{{ Appendix L: Quick Loot Generator}}{{ 383}}](#p386)
+    - [{{ Coin Loot by CR}}{{ 383}}](#p386)
+    - [{{ Gemstone Values}}{{ 383}}](#p386)
+}}
 
-## Using This Guide
+{{skipCounting}}
+\page
+# Part I: The World
+:
+### Using This Guide
 
 This guide contains information only for Dungeon Masters. It reveals secrets players should not know.
-
- ::
 
 ## Chapter 1. Complete Timeline of Tirvandor
 
@@ -428,90 +208,88 @@ This guide contains information only for Dungeon Masters. It reveals secrets pla
 
 The earliest age, shrouded in legend and oral tradition.
 
-The First Creation:
+The First Creation: ::
 - Primordials and First Gods walked the world
 - Magic flowed without restraint
 - Dragons born from the blood of the earth
 - Giants created to tend world-trees
 - First mortal races emerged
 
-The Dragon Hegemony (12,000-8,000 BW):
+The Dragon Hegemony (12,000-8,000 BW): ::
 - Great dragons rose to dominance
 - Chromatic Conclave divided the world
 - Dragon Libraries created (repositories of ancient knowledge)
 - First Dragon War between chromatic and metallic dragons
 
-The Giant Kingdoms (8,000-6,000 BW):
+The Giant Kingdoms (8,000-6,000 BW): ::
 - Giant-kin built massive cities of stone
 - Ordning System established
 - Sky Fortresses constructed
 - Giant-Dragon Pact ended Dragon Wars
 
----
-
 ### Age of Dawn (6,000-3,000 BW)
 
 The rise of mortal civilizations.
 
-First Elven Kingdom (6,000-4,500 BW):
+First Elven Kingdom (6,000-4,500 BW): ::
 - Elves discovered ley line nexuses
 - Kingdom of Lothlindor established
 - Singing Groves planted
 - First contact with Feywild
 - Elven high magic flourished
 
-Dwarven Delving (5,500-4,000 BW):
+Dwarven Delving (5,500-4,000 BW): ::
 - Dwarves discovered Ironspine Mountains
 - Foundation of Khaz-Durath (First Deep Kingdom)
 - Discovery of mithril and adamantine
 - Runic forging techniques developed
 - Conflicts with underground aberrations
 
-Human Emergence (5,000-3,500 BW):
+\column
+
+Human Emergence (5,000-3,500 BW): ::
 - Nomadic tribes settled into agricultural communities
 - Development of divine magic through worship
 - First human kingdoms in central Thaldros
 - Cultural exchange between races
 
-Age of Accord (3,500-3,000 BW):
+Age of Accord (3,500-3,000 BW): ::
 - Relative peace and cooperation
 - Accords of Unity treaties signed
 - Mixed-race cities founded
 - Great Library of Silverpine established
 - Magical research advances
 
----
-
 ### Age of Strife (3,000-1,000 BW)
 
 Wars, plagues, and catastrophes.
 
-First Planar Incursions (3,000-2,800 BW):
+First Planar Incursions (3,000-2,800 BW): ::
 - Portals to other planes opened spontaneously
 - Demon Wars against extraplanar invaders
 - First paladin orders formed
 - Permanent planar scars created
 
-Wizard Wars (2,700-2,400 BW):
+Wizard Wars (2,700-2,400 BW): ::
 - Mage-lords vied for power
 - Wild magic twisted landscapes
 - Spellplague killed thousands of practitioners
 - First Warforged created as soldiers
 
-Divine Silence (2,400-2,200 BW):
+Divine Silence (2,400-2,200 BW): ::
 - Gods stopped answering prayers
 - Divine magic waned
 - Theocratic governments collapsed
 - Social upheaval and loss of faith
 
-Age of Tyrants (2,200-1,500 BW):
+Age of Tyrants (2,200-1,500 BW): ::
 - Lich-kings and vampire lords seized control
 - Zalthar the Undying ruled Sundaran region (300 years)
 - Crimson Court controlled central Thaldros
 - aberration Colony of K'thrax enslaved eastern Aethoria
 - Underground resistance movements
 
-Rise of Empires (1,500-1,000 BW):
+Rise of Empires (1,500-1,000 BW): ::
 - Heroes overthrew the tyrants
 - First unified human empire in Thaldros
 - Elven kingdoms consolidated in Aethoria
@@ -525,102 +303,102 @@ Rise of Empires (1,500-1,000 BW):
 
 Leading to the catastrophe.
 
-1,000-800 BW - Golden Age Returns:
+1,000-800 BW - Golden Age Returns: ::
 - Peace and prosperity across both continents
 - Population reaches 30 million
 - Magic integrated into daily life
 - Trade flourishes
 - Art and culture golden age
 
-800-500 BW - Growing Tensions:
+800-500 BW - Growing Tensions: ::
 - Minor conflicts between kingdoms
 - Competition over magical resources
 - Ley line instability first reported
 - Some mages report disturbing dreams
 
-500-400 BW - The Warnings:
+500-400 BW - The Warnings: ::
 - Major ley line surge destroys city
 - Circle of Seven discovers Bound Ancients' prisons weakening
 - Empire mobilizes to reinforce seals
 - Public panic begins
 
-400-350 BW - Failed Containment:
+400-350 BW - Failed Containment: ::
 - Attempts to strengthen seals backfire
 - Two cities destroyed by magical backlash
 - Crime increases as fear spreads
 - Religious cults form
 
-350-300 BW - Social Breakdown:
+350-300 BW - Social Breakdown: ::
 - Trade networks fail
 - Food shortages in cities
 - Mass migration begins
 - Civil unrest and riots
 
-300-250 BW - Economic Collapse:
+300-250 BW - Economic Collapse: ::
 - Government authority weakens
 - Regional warlords seize power
 - Empire fragments
 - Assassination of key officials
 
-250-200 BW - Divine Silence Begins:
+250-200 BW - Divine Silence Begins: ::
 - Gods stop responding to prayers
 - Clerics lose spellcasting ability
 - Religious institutions collapse
 - Mass despair
 
-200-100 BW - Desperate Measures:
+200-100 BW - Desperate Measures: ::
 - Circle of Seven proposes radical solution
 - Plan to redirect ley line energy
 - Debate over which Bound Ancient prison to reinforce
 - Population ordered to evacuate
 
-100-1 BW - Final Preparations:
+\column
+
+100-1 BW - Final Preparations: ::
 - Circle chooses to reinforce Devourer's prison
 - All other prisons will be critically weakened
 - Massive ritual prepared at Observatory Citadel
 - Last attempts to save civilization
 
----
-
 ### The Worldrend (Year 0 CR)
 
-Day 1 - Dawn:
+Day 1 - Dawn: ::
 - Circle of Seven begins ritual
 - Ley lines glow visible to naked eye
 - Animals flee the region
 - Ground begins shaking
 
-Day 1 - Midday:
+Day 1 - Midday: ::
 - Ritual reaches critical point
 - Ocean starts receding
 - Gods manifest physically, try to stop ritual
 - Too late to prevent catastrophe
 
-Day 1 - Sunset:
+Day 1 - Sunset: ::
 - Catastrophic magical explosion
 - Observatory Citadel vaporized
 - Shockwave kills 10 million instantly
 - Bound Ancients' prisons breach simultaneously
 
-Day 2 - The Split:
+Day 2 - The Split: ::
 - Continent literally splits in two
 - Eastern third separates and drifts
 - Massive tsunami destroys coastal cities
 - 20 million more die in floods
 
-Day 3-7 - Chaos:
+Day 3-7 - Chaos: ::
 - Earthquakes continue for week
 - Volcanic eruptions across continent
 - Ash clouds block sun
 - Temperature drops 20 degrees
 
-Year of Darkness:
+Year of Darkness: ::
 - Volcanic winter
 - Crops fail globally
 - Starvation begins
 - Survivors flee underground
 
-Final Toll:
+Final Toll: ::
 - 35 million dead from direct impact (70% of population)
 - 10 million more in first year (starvation, disease)
 - Population stabilized at 5 million (10% of original)
@@ -632,101 +410,99 @@ Final Toll:
 
 ### Recovery Era (1-1000 CR)
 
-1-200 CR - Emergence:
+1-200 CR - Emergence: ::
 - Survivors emerge from shelters
 - Small communities form
 - Technology and magic knowledge largely lost
 - Oral tradition preserves some history
 
-200-400 CR - Rebuilding:
+200-400 CR - Rebuilding: ::
 - Villages near ruins established
 - Agriculture resumes
 - Written language re-established
 - Population: 6-8 million
 
-400-600 CR - Rediscovery:
+400-600 CR - Rediscovery: ::
 - Explorers find magical artifacts
 - Spells rediscovered
 - Divine Return: Gods begin responding again
 - Hope returns
 - Population: 10-12 million
 
-600-800 CR - Separate Development:
+600-800 CR - Separate Development: ::
 - Western land becomes Thaldros
 - Eastern land becomes Aethoria
 - Different cultures develop independently
 - Limited contact across Sundering Sea
 
-800-1000 CR - Age of Kingdoms:
+800-1000 CR - Age of Kingdoms: ::
 - Multiple kingdoms rise on both continents
 - Trade resumes
 - Magic schools re-established
 - Population: 15-20 million
 
----
-
 ### Current Era (1000-1247 CR)
 
-1000-1100 CR - Consolidation:
+1000-1100 CR - Consolidation: ::
 - Thaldros kingdoms unite under Thandris Dynasty
 - Aethoria remains allied city-states
 - Border region contested
 - Discovery of spreading Primordial corruption
 
-1100-1200 CR - Growing Conflict:
+1100-1200 CR - Growing Conflict: ::
 - Thaldros expands aggressively
 - Aethoria resists
 - Skirmishes increase
 - Iron Guild mercenary alliances begin forming (formalized as Iron Guild in 1197 CR)
 
-1220 CR - Current King:
+1220 CR - Current King: ::
 - Aldric IV takes throne
 - Continues war but seeks solution
 - Secretly investigates Primordial threat
 - Realizes war distracts from real danger
 
-1240-1247 CR - Present Day:
+\column
+
+1240-1247 CR - Present Day: ::
 - War continues but both sides weakening
 - Bound Ancients' prisons critically compromised
 - Corruption spreading
 - Window to prevent second Worldrend closing
 
----
+### The Seven Bound Ancients (DM Secret)
 
-## The Seven Bound Ancients (DM Secret)
-
-### 1. The Devourer (Under Ironvault)
+#### The Devourer (Under Ironvault)
 - Domain: Hunger, Consumption, Void
 - Prison Status: Weakening (20-30 years until breach)
 - Seal reinforced in Worldrend (only one reinforced)
 - Corruption: Insatiable hunger, victims consume themselves
 
-### 2. The Dreamer (Under Cloudspire)
+#### The Dreamer (Under Cloudspire)
 - Domain: Madness, Sleep, Unreality
 - Prison Status: Critical (10-15 years)
 - Corruption: Loss of reality, can't distinguish dreams
 
-### 3. The Weaver (Under Silverpeak Mountains)
+#### The Weaver (Under Silverpeak Mountains)
 - Domain: Fate, Threads, Control
 - Prison Status: Severe (15-20 years)
 - Corruption: Loss of free will, become puppets
 
-### 4. The Tyrant (Under Highcrown Ruins)
+#### The Tyrant (Under Highcrown Ruins)
 - Domain: Domination, Hierarchy, Subjugation
 - Prison Status: Severe (15-20 years)
 - Corruption: Megalomania, enslave others
 
-### 5. The Corruptor (Under Border Wastes)
+#### The Corruptor (Under Border Wastes)
 - Domain: Disease, Decay, Transformation
 - Prison Status: Advanced (5-10 years)
 - Corruption: Mutation into monstrosities
 
-### 6. The Hunter (Deep Wilderness, Unknown)
+#### The Hunter (Deep Wilderness, Unknown)
 - Domain: Pursuit, Prey, Terror
 - Prison Status: Unknown (hidden)
 - Corruption: Become bestial, hunt former friends
 
-### 7. The Oracle (Lost Temple, Unknown)
+#### The Oracle (Lost Temple, Unknown)
 - Domain: Time, Knowledge, Future
 - Prison Status: Unknown
 - Corruption: See all futures simultaneously, madness
@@ -735,14 +511,12 @@ Final Toll:
 {{footnote Part I: The World}}
 \page
 
-## Campaign Use
-
-The Primordial threat is the ultimate story backbone. Everything connects to the approaching crisis and the need to prevent a second Worldrend.
-\page
 # Part II: Running the Game
-# Chapter 2: Core Mechanics and Adjudication
-## Ability Checks
-### When to Call for Checks
+{{wide
+## Chapter 2: Core Mechanics and Adjudication
+}}
+### Ability Checks
+#### When to Call for Checks
 
 Call for ability checks when:
 - The outcome is uncertain
@@ -754,7 +528,7 @@ Don't call for checks when:
 - Failure would just stop the story with no interesting outcome
 - Success is impossible regardless of roll
 
-### Setting Difficulty Classes
+#### Setting Difficulty Classes
 
 | Difficulty | DC | Example |
 |------------|-----|---------|
@@ -767,7 +541,7 @@ Don't call for checks when:
 
 Most checks should be DC 15 (Medium). Reserve DC 25+ for legendary feats.
 
-### Multiple Ability Options
+#### Multiple Ability Options
 
 When a task could use multiple abilities, let players describe their approach:
 
@@ -781,7 +555,7 @@ Example: Getting Past a Guard
 
 The player's description determines which ability applies. Reward creative thinking.
 
-### Group Checks
+#### Group Checks
 
 When the whole party attempts something together (crossing a rope bridge, sneaking past guards, rowing a boat in storm):
 
@@ -794,7 +568,7 @@ One character leads (rolls), others who succeed on DC 10 checks give advantage t
 Method 3: Best Applies
 When one character's success helps everyone (ranger navigating, rogue scouting ahead), use the best result.
 
-### Contests
+#### Contests
 
 When two creatures oppose each other (arm wrestling, chase, hiding vs seeking):
 - Both roll appropriate ability checks
@@ -802,8 +576,8 @@ When two creatures oppose each other (arm wrestling, chase, hiding vs seeking):
 - Ties go to the creature with higher ability modifier
 - If still tied, reroll
 
-## Advantage and Disadvantage
-### When to Grant Advantage
+### Advantage and Disadvantage
+#### When to Grant Advantage
 
 Favorable Circumstances:
 - High ground in combat
@@ -813,10 +587,11 @@ Favorable Circumstances:
 - Creative player solution that makes sense
 
 Don't Stack: Multiple sources of advantage don't stack. You either have it or you don't.
+
 {{pageNumber,auto}}
 {{footnote Part II: Running the Game}}
 \page
-### When to Impose Disadvantage
+#### When to Impose Disadvantage
 
 Unfavorable Circumstances:
 - Attacking while prone
@@ -828,17 +603,13 @@ Unfavorable Circumstances:
 
 Don't Stack: Multiple sources don't stack.
 
-
-
-### Advantage/Disadvantage Cancel
+#### Advantage/Disadvantage Cancel
 
 If you have both advantage and disadvantage from any sources, they cancel completely. Roll one d20 normally, regardless of how many sources of each you have.
 
----
+### Combat
 
-## Combat
-
-### Initiative
+#### Initiative
 
 Rolling Initiative:
 
@@ -855,16 +626,16 @@ Write on paper or use tracker. Call out current turn and who's next: "Thea, you'
 
 Changing Initiative: Some DMs reroll each round. Others keep same order entire combat. Choose consistency.
 
-### Actions in Combat
+#### Actions in Combat
 
-On Your Turn (in any order):
+On Your Turn (in any order): ::
 - Move: Up to your speed
 - Action: One of the options below
 - Bonus Action: If you have ability that grants one
 - Object Interaction: One free (draw weapon, open door, etc.)
 - Communication: Brief phrases, a few words
 
-Standard Actions:
+Standard Actions: ::
 - Attack: Make one melee or ranged attack (more if Extra Attack)
 - Cast a Spell: Cast one spell with casting time of 1 action
 - Dash: Move again (up to your speed)
@@ -876,24 +647,24 @@ Standard Actions:
 - Search: Make Wisdom (Perception) or Intelligence (Investigation) check
 - Use an Object: Interact with second object (first is free)
 
-Reactions (Triggered, Not on Your Turn):
+Reactions (Triggered, Not on Your Turn): ::
 - Opportunity Attack: Enemy leaves your reach without Disengaging
 - Spells: Some spells cast as reactions (Shield, Counterspell, etc.)
 - Readied Action: Triggering condition occurs
 
-### Movement
+#### Movement
 
 Speed: Move up to your speed in feet. Can split movement (move 10 ft, attack, move 20 ft more).
-
+:
 Difficult Terrain: Every foot costs 2 feet of movement (rubble, shallow water, undergrowth, steep stairs).
-
+:
 Prone: Standing from prone costs half your speed.
-
+:
 Climbing/Swimming: Usually costs 2 feet per foot moved (unless creature has climb/swim speed).
 
-### Attacking
+#### Attacking
 
-Melee Attack:
+Melee Attack: ::
 
 | Roll | Result |
 |-----|--------|
@@ -904,36 +675,38 @@ Melee Attack:
 | 5 | If lower: Miss. |
 
 
-Ranged Attack:
+Ranged Attack: ::
 Same as melee but uses Dexterity and has range limitations.
 
-Range: Weapon has normal range and long range (e.g., 80/320 for longbow)
+Range: Weapon has normal range and long range (e.g., 80/320 for longbow) ::
 - Normal range: Attack normally
 - Long range: Attack at disadvantage
 - Beyond long range: Can't attack
 
-Cover: Target behind cover gets AC bonus
+Cover: Target behind cover gets AC bonus ::
 - Half cover (+2 AC): Behind furniture, narrow tree, another creature
 - Three-quarters cover (+5 AC): Arrow slit, thick tree trunk
 - Total cover (can't target): Completely concealed
 
-Critical Hits: Natural 20 on attack roll
+Critical Hits: Natural 20 on attack roll ::
 - Automatic hit regardless of AC
 - Roll all damage dice twice, then add modifiers once
 {{pageNumber,auto}}
 {{footnote Part II: Running the Game}}
 \page
-Critical Fails: Some DMs use special effects for natural 1s. Official rules: just automatic miss. If using critical fails, keep them minor (drop weapon, fall prone) not campaign-ending.
+Critical Fails: Some DMs use special effects for natural 1s. 
+:
+Official rules: just automatic miss. If using critical fails, keep them minor (drop weapon, fall prone) not campaign-ending.
 
-### Damage and Healing
+#### Damage and Healing
 
-Taking Damage:
+Taking Damage: ::
 Subtract from current hit points. Track carefully.
 
-Dropping to 0 HP:
+Dropping to 0 HP: ::
 Fall unconscious. Start making death saving throws.
 
-Death Saving Throws:
+Death Saving Throws: ::
 - At start of your turn if at 0 HP, roll d20 (no modifiers)
 - 10 or higher: Success (mark one)
 - 9 or lower: Failure (mark one)
@@ -942,34 +715,34 @@ Death Saving Throws:
 - Three successes: Stabilized (unconscious but not dying)
 - Three failures: Dead
 
-Damage at 0 HP:
+Damage at 0 HP: ::
 - Any damage while at 0 HP: One death save failure
 - Critical hit while at 0 HP: Two death save failures
 - Damage equals or exceeds max HP: Instant death
 
-Healing:
+Healing: ::
 Regain HP (from spells, potions, etc.). If at 0 HP, regain consciousness.
 
-Stabilizing:
+Stabilizing: ::
 - Action: DC 10 Wisdom (Medicine) check stabilizes dying creature
 - Spare the Dying cantrip: Stabilizes automatically
 - Healing magic: Restores HP and stabilizes
 
-### Conditions Reference
+#### Conditions Reference
 
-Blinded:
+Blinded: ::
 - Can't see, automatically fails checks requiring sight
 - Attack rolls have disadvantage
 - Attacks against you have advantage
 
-Charmed:
+Charmed: ::
 - Can't attack charmer or target them with harmful effects
 - Charmer has advantage on social checks against you
 
-Deafened:
+Deafened: ::
 - Can't hear, automatically fails checks requiring hearing
 
-Exhaustion: (Cumulative)
+Exhaustion: (Cumulative) ::
 - Level 1: Disadvantage on ability checks
 - Level 2: Speed halved
 - Level 3: Disadvantage on attacks and saves
@@ -977,30 +750,30 @@ Exhaustion: (Cumulative)
 - Level 5: Speed reduced to 0
 - Level 6: Death
 
-Frightened:
+Frightened: ::
 - Disadvantage on ability checks and attacks while source is visible
 - Can't willingly move closer to source
 
-Grappled:
+Grappled: ::
 - Speed becomes 0
 - Can't benefit from bonuses to speed
 
-Incapacitated:
+Incapacitated: ::
 - Can't take actions or reactions
 
-Invisible:
+Invisible: ::
 - Impossible to see without special sense
 - Considered heavily obscured for hiding
 - Attack rolls have advantage
 - Attacks against you have disadvantage
 
-Paralyzed:
+Paralyzed: ::
 - Incapacitated, can't move or speak
 - Automatically fails Strength and Dexterity saves
 - Attacks against you have advantage
 - Attacks within 5 feet are automatic crits if they hit
 
-Petrified:
+Petrified: ::
 - Transformed to stone along with nonmagical objects worn/carried
 - Weight increases by factor of 10, stops aging
 - Incapacitated, can't move or speak
@@ -1010,16 +783,16 @@ Petrified:
 - Resistance to all damage
 - Immune to poison and disease
 
-Poisoned:
+Poisoned: ::
 - Disadvantage on attack rolls and ability checks
 
-Prone:
+Prone: ::
 - Can only crawl (every foot costs 1 extra foot) or stand up (costs half speed)
 - Disadvantage on attack rolls
 - Attacks within 5 feet have advantage
 - Attacks from more than 5 feet have disadvantage
 
-Restrained:
+Restrained: ::
 - Speed becomes 0
 - Attack rolls have disadvantage
 - Attacks against you have advantage
@@ -1029,21 +802,21 @@ Restrained:
 {{footnote Part II: Running the Game}}
 \page
 
-Stunned:
+Stunned: ::
 - Incapacitated, can't move, can speak falteringly
 - Automatically fails Strength and Dexterity saves
 - Attacks against you have advantage
 
-Unconscious:
+Unconscious: ::
 - Incapacitated, can't move or speak, unaware of surroundings
 - Drops whatever it's holding, falls prone
 - Automatically fails Strength and Dexterity saves
 - Attacks against you have advantage
 - Attacks within 5 feet are automatic crits if they hit
 
-## Exploration
+### Exploration
 
-### Tracking Time
+#### Tracking Time
 
 Combat: Rounds (6 seconds) and turns
 Exploration: Minutes, hours, days
@@ -1052,7 +825,7 @@ Campaign Time: Months, years
 
 Use calendar to track dates. Note seasonal changes, festivals, and important events.
 
-### Travel Pace
+#### Travel Pace
 
 | Pace | Per Minute | Per Hour | Per Day | Effect |
 |------|------------|----------|---------|--------|
@@ -1060,48 +833,48 @@ Use calendar to track dates. Note seasonal changes, festivals, and important eve
 | Normal | 300 ft | 3 miles | 24 miles | Normal |
 | Slow | 200 ft | 2 miles | 18 miles | Can use Stealth |
 
-Terrain Modifiers:
+Terrain Modifiers: ::
 - Roads: Normal pace
 - Grasslands, open plains: Normal pace
 - Forests, hills: 2/3 speed
 - Mountains, swamps, jungle: 1/2 speed
 - Desert: Normal but requires water
 
-### Foraging and Hunting
+#### Foraging and Hunting
 
-Foraging (While Traveling):
+Foraging (While Traveling): ::
 - DC 15 Wisdom (Survival) check
 - Success: Find 1d6 pounds food + 1d6 gallons water per point over DC
 - Abundant area (forest, jungle): Advantage
 - Barren area (desert, dead lands): Disadvantage
 - Takes no extra time if traveling at slow pace
 
-Hunting (Dedicated Activity):
+Hunting (Dedicated Activity): ::
 - Takes 4 hours
 - DC 15 Wisdom (Survival) to track prey
 - Then combat encounter or contested check vs prey
 - Success: 2d6 pounds meat
 
-### Getting Lost
+#### Getting Lost
 
 When to Check: Traveling through wilderness without clear path
 - Normal terrain: DC 15 Wisdom (Survival)
 - Poor visibility (fog, rain): DC 20
 - Storm: DC 25
 
-Frequency: Check once per day of travel
+Frequency: Check once per day of travel ::
 
-Lost: Group deviates from intended direction. They don't realize it until they make successful check.
+Lost: Group deviates from intended direction. They don't realize it until they make successful check. ::
 
-### Resting
+#### Resting
 
-Short Rest:
+Short Rest: ::
 - At least 1 hour
 - Can spend Hit Dice: Roll + Con modifier, regain that many HP
 - Some abilities recharge
 - Can do light activity (eat, read, tend wounds)
 
-Long Rest:
+Long Rest: ::
 - At least 8 hours
 - At most 2 hours light activity (watch, cook), rest must be sleep
 - Regain all HP
@@ -1109,16 +882,16 @@ Long Rest:
 - Regain all expended spell slots and abilities
 - Can only benefit from one long rest per 24 hours
 
-Interrupting Rest:
+Interrupting Rest: ::
 - Short rest interrupted: No benefit, must start over
 - Long rest interrupted by combat <1 hour: Can resume for full benefit
 - Long rest interrupted by combat >1 hour: Must start over
 
 ---
 
-## Social Interaction
+### Social Interaction
 
-### NPC Attitudes
+#### NPC Attitudes
 
 | Attitude | Description | Effect |
 |----------|-------------|---------|
@@ -1128,9 +901,9 @@ Interrupting Rest:
 | Friendly | Likes party | Helps if convenient, gives honest advice, fair deals |
 | Helpful | Strongly likes party | Goes out of their way, takes risks, offers discounts |
 
-### Changing Attitudes
+#### Changing Attitudes
 
-Charisma Checks:
+Charisma Checks: ::
 - Success shifts attitude one step in your favor
 - Failure by 5+ shifts one step against you
 - Can attempt once per day per NPC
@@ -1139,38 +912,38 @@ Charisma Checks:
 {{footnote Part II: Running the Game}}
 \page
 
-DCs:
+DCs: ::
 - Hostile to Unfriendly: DC 20
 - Unfriendly to Indifferent: DC 15
 - Indifferent to Friendly: DC 15
 - Friendly to Helpful: DC 20
 
-Factors:
+Factors: ::
 - Align with NPC's interests: Advantage
 - Oppose NPC's interests: Disadvantage
 - NPC has reason to distrust you: +5 DC
 - You've helped them before: -5 DC
 
-### Persuasion, Deception, Intimidation
+#### Persuasion, Deception, Intimidation
 
-Persuasion: Convince through logic, emotion, or appeal to interests
+Persuasion: Convince through logic, emotion, or appeal to interests ::
 - "The Resistance can offer you protection from Thaldros retaliation"
 - Must present actual argument or benefit
 - Won't make NPC do things completely against their nature
 
-Deception: Convince through lies or misdirection
+Deception: Convince through lies or misdirection ::
 - "We're Thaldros agents sent to inspect your papers"
 - Requires believable cover story
 - Insight checks may detect lies (contested)
 
-Intimidation: Convince through threats or fear
+Intimidation: Convince through threats or fear ::
 - "Tell us or we burn your shop down"
 - Works best when you can follow through
 - May create enemies for later
 
-### Information Gathering
+#### Information Gathering
 
-Gather Information:
+Gather Information: ::
 - Takes 1d4 hours in settlement
 - Charisma (Investigation) or Charisma (Persuasion) check
 - DC depends on how secret the information is
@@ -1183,79 +956,80 @@ Gather Information:
 | 20 | Well-kept secret (spy network contact, hidden treasure) |
 | 25+ | Closely guarded (conspiracy details, hidden vault location) |
 
----
 
-## Improvisation
+### Improvisation
 
-### When Players Surprise You
+#### When Players Surprise You
 
-Stay Calm: Players going unexpected directions is normal and good. It means they're engaged.
+Stay Calm: Players going unexpected directions is normal and good. It means they're engaged. 
 
-Ask Clarifying Questions:
+Ask Clarifying Questions: ::
 - "What's your goal here?"
 - "How do you imagine this working?"
 - "What are you hoping to find?"
 
-Use "Yes, And...":
-Instead of shutting down ideas, build on them:
+\column
+
+Use "Yes, And...": ::
+Instead of shutting down ideas, build on them: ::
 - Player: "Can I swing from the chandelier?"
 - Bad: "No, that's not in the rules."
 - Good: "Yes! Make an Athletics check. If you fail, it breaks and you fall."
 
-### Quick NPC Creation
+#### Quick NPC Creation
 
-When you need an NPC right now:
+When you need an NPC right now: ::
 
 Name: Use name list or combine syllables
 Distinctive Feature: One physical trait (scar, accent, nervous tic)
 Goal: What do they want?
 Secret: What are they hiding?
 
-Example:
+Example: ::
 - Name: Kerra
 - Feature: Missing left ear
 - Goal: Get enough money to leave town
 - Secret: Secretly works for Iron Guild
 
-### Quick Room Description
+#### Quick Room Description
 
-When party enters unexpected room:
+When party enters unexpected room: ::
 
-Size and Shape: Small/medium/large, square/rectangular/circular
-Purpose: What was this room for? (Bedroom, storage, shrine, guard post)
-Condition: Pristine/dusty/damaged/destroyed
-Notable Feature: One interesting thing (murals, weapons rack, altar, fireplace)
-Exists: Obvious doors/windows
+Size and Shape: Small/medium/large, square/rectangular/circular ::
+Purpose: What was this room for? (Bedroom, storage, shrine, guard post) ::
+Condition: Pristine/dusty/damaged/destroyed ::
+Notable Feature: One interesting thing (murals, weapons rack, altar, fireplace) ::
+Exists: Obvious doors/windows ::
 
-Example:
+Example: ::
 "You enter a medium-sized rectangular room. Looks like a guard barracks - three cots along the wall, weapons rack (empty now). Everything's covered in dust. The interesting part: someone has scratched a map into the wooden table in the center. You see three doors - one ahead, two on the sides."
 
-### Saying "No" Gracefully
+#### Saying "No" Gracefully
 
-Sometimes you must refuse player ideas:
+Sometimes you must refuse player ideas: ::
 
-Bad: "No, you can't do that."
-Better: "That won't work because [reason], but what if you [alternative]?"
+Bad: "No, you can't do that." ::
+Better: "That won't work because [reason], but what if you [alternative]?" ::
 
-Example:
+Example: ::
 - Player: "I want to convince the king to abdicate."
 - DM: "The king won't abandon his kingdom based on one conversation, but you could plant seeds of doubt about his advisors. Maybe he'd take action against corrupt officials?"
 
 {{pageNumber,auto}}
 {{footnote Part II: Running the Game}}
 \page
-## Pacing
+### Pacing
 
-### Recognizing Pacing Problems
+#### Recognizing Pacing Problems
 
-Too Slow:
+Too Slow: ::
 - Players checking phones
 - Side conversations
 - "What's happening?"
 - Yawning
 - Combat dragging
 
-Too Fast:
+Too Fast: ::
 - Players look confused
 - Asking to repeat information
 - Not engaging with scenes
@@ -1264,45 +1038,45 @@ Too Fast:
 {{pageNumber,auto}}
 {{footnote Part II: Running the Game}}
 
-### Speeding Things Up
+#### Speeding Things Up
 
-In Combat:
+In Combat: ::
 - Set turn timer (30-60 seconds)
 - Roll multiple attacks together
 - Describe outcomes cinematically
 - Skip to interesting parts ("You fight through minions...")
 
-In Exploration:
+In Exploration: ::
 - Montage: "You spend three days traveling through forest. Anything specific you want to do?"
 - Jump to next interesting scene
 - Resolve routine tasks quickly
 
-In Social Interaction:
+In Social Interaction: ::
 - Get to the point: "What do you want from them?"
 - Skip pleasantries unless character moment
 - Resolve straightforward conversations in one roll
 
-### Slowing Things Down
+#### Slowing Things Down
 
-In Combat:
+In Combat: ::
 - Add description between turns
 - Let players strategize briefly
 - Ask what character is thinking/feeling
 
-In Important Moments:
+In Important Moments: ::
 - Describe in detail
 - Ask each player for their reaction
 - Let scene breathe
 - Allow roleplay
 
-In Exploration:
+In Exploration: ::
 - Add sensory details
 - Ask "What are you looking for?"
 - Zoom in on interesting features
 
-### Scene Transitions
+#### Scene Transitions
 
-Cut Efficiently:
+Cut Efficiently: ::
 - "Three hours later..."
 - "Meanwhile, at the castle..."
 - "The next morning..."
@@ -1310,11 +1084,9 @@ Cut Efficiently:
 
 Don't play out every moment. Jump to interesting parts.
 
- ::
+### Rulings Over Rules
 
-## Rulings Over Rules
-
-### Making Fair Rulings
+#### Making Fair Rulings
 
 When situation isn't covered by rules:
 
@@ -1326,21 +1098,21 @@ When situation isn't covered by rules:
 
 Note the ruling and apply it consistently afterward.
 
-### When to Look Up Rules
+#### When to Look Up Rules
 
-Look it up:
+Look it up: ::
 - First time using complex rule
 - Player challenges ruling
 - Affects major outcome (death, TPK)
 
-Don't look it up:
+Don't look it up: ::
 - Middle of intense moment
 - Would break pacing
 - You're reasonably sure of rule
 
 Make ruling, note it, look it up after session.
 
-### Admitting Mistakes
+#### Admitting Mistakes
 
 If you realize you ruled wrong:
 - Acknowledge it: "I got that rule wrong."
@@ -1350,7 +1122,7 @@ If you realize you ruled wrong:
 
 ---
 
-## Using This Chapter
+### Using This Chapter
 
 Reference these mechanics during play. Most important points:
 
@@ -1365,20 +1137,21 @@ Reference these mechanics during play. Most important points:
 | 6 | Make rulings, look up rules later |
 
 
-The goal is fun and flow, not perfect rules mastery.
+The goal is fun and flow, not perfect rules mastery. ::
 
 {{pageNumber,auto}}
 {{footnote Part II: Running the Game}}
 \page
 
+{{wide
+## Chapter 3: Creating Adventures
+}}
+### Step-by-Step Adventure Design
 
-# Chapter 3: Creating Adventures
-## Step-by-Step Adventure Design
 
+#### What Makes a Good Adventure
 
-## What Makes a Good Adventure
-
-A good D&D adventure has:
+A good adventure has:
 
 
 | Roll | Result |
@@ -1397,63 +1170,63 @@ Good adventure: Situation with multiple possible outcomes based on player choice
 
 ---
 
-## Step-by-Step Process
+### Step-by-Step Process
 
-### Step 1: Establish the Premise (One Sentence)
+#### Step 1: Establish the Premise (One Sentence)
 
 What is this adventure about in one sentence?
 
-Examples:
+Examples: ::
 - "Rebels steal military supplies from Thaldros convoy"
 - "Missing children lead to corrupt noble's secret"
 - "Primordial corruption spreads from ancient ruin"
 - "Rival factions compete for powerful artifact"
 
-Good premises:
+Good premises: ::
 - Specific and actionable
 - Have clear stakes
 - Can be completed in 3-6 sessions
 
-### Step 2: Identify the Villain or Threat
+#### Step 2: Identify the Villain or Threat
 
 Who or what opposes the players?
 
-Villain Checklist:
+Villain Checklist: :: 
 - Goal: What do they want?
 - Method: How are they trying to achieve it?
 - Weakness: How can they be stopped?
 - Backup Plan: What if first plan fails?
 
-Example: Captain Vex (Thaldros Officer)
+Example: Captain Vex (Thaldros Officer) ::
 - Goal: Capture Resistance leaders
 - Method: Infiltrate with spies, set trap
 - Weakness: Too confident, underestimates party
 - Backup: Has reinforcements 1 hour away
 
-Threat Checklist (Non-Villain):
+Threat Checklist (Non-Villain): ::
 - Source: Where does threat come from?
 - Effect: What happens if not stopped?
 - Solution: How can players stop it?
 - Escalation: What if players fail or delay?
 
-Example: Bound Corruption
+Example: Bound Corruption ::
 - Source: Weakened prison seal beneath city
 - Effect: Citizens transform into spawns
 - Solution: Reseal prison or evacuate city
 - Escalation: More corrupted daily, eventually awakens Primordial
 
-### Step 3: Design Key Locations
+#### Step 3: Design Key Locations
 
 Identify 3-5 important locations for this adventure.
 
-For Each Location:
+For Each Location: ::
 - Purpose: What happens here?
 - Description: What does it look/sound/smell like?
 - Inhabitants: Who or what is here?
 - Secrets: What's hidden here?
 - Connections: How does this tie to other locations?
 
-Example Locations:
+Example Locations: ::
 
 | Roll | Result |
 |-----|--------|
@@ -1464,11 +1237,11 @@ Example Locations:
 | 5 | Primordial Ruin - Optional discovery, raises stakes |
 
 
-### Step 4: Create Major NPCs
+#### Step 4: Create Major NPCs
 
 Design 3-5 important NPCs players will interact with.
 
-For Each NPC:
+For Each NPC: ::
 - Name and Appearance: Distinctive feature
 - Role: Ally? Enemy? Neutral?
 - Goal: What do they want?
@@ -1476,7 +1249,7 @@ For Each NPC:
 - Offer: What can they give players?
 - Ask: What do they want from players?
 
-Example: Kerra the Smuggler
+Example: Kerra the Smuggler ::
 - Appearance: Missing left ear, nervous energy
 - Role: Uneasy ally
 - Goal: Make enough money to flee to Aethoria
@@ -1489,83 +1262,84 @@ Example: Kerra the Smuggler
 \page
 
 
-### Step 5: Build Encounters
+#### Step 5: Build Encounters
 
 Design 4-8 encounters mixing combat, social, and exploration.
 
-Encounter Types:
+Encounter Types: ::
 
-Combat Encounters:
+Combat Encounters: ::
 - Planned fights (guards, monsters)
 - Dynamic battlefields (fire, falling, cover)
 - Objectives beyond "kill everything" (protect NPC, hold position, escape)
 
-Social Encounters:
+Social Encounters: ::
 - Negotiations with opposing factions
 - Gathering information from NPCs
 - Convincing someone to help
 
-Exploration Encounters:
+Exploration Encounters: ::
 - Searching ruins for clues
 - Navigating dangerous terrain
 - Solving puzzles or riddles
 
-Aim for Mix:
+Aim for Mix: ::
 - 40% combat
 - 30% social
 - 30% exploration
 
-### Step 6: Plan Rewards
+#### Step 6: Plan Rewards
 
 What do players gain?
 
-Types of Rewards:
+Types of Rewards: ::
 - Gold and Treasure: Standard, use CR-based tables
 - Magic Items: 1-2 per adventure (based on level)
 - Information: Maps, letters, intelligence
 - Contacts: New NPCs who owe them favors
 - Reputation: Faction influence points
-- Story Progress: Answers to mysteries, plot advancement
+- Story Progress: Answers to mysteries, plot advancement 
 
+:
 Balance: Don't over-reward or under-reward. Match party level.
 
-### Step 7: Prepare for Player Choices
+#### Step 7: Prepare for Player Choices
 
 Anticipate 3-4 likely player approaches:
 
-Example: Stealing Supplies
+Example: Stealing Supplies ::
 
-Approach 1: Stealth
+Approach 1: Stealth ::
 - Sneak in at night
 - Disable guards quietly
 - Load supplies and escape
 
-Approach 2: Social
+Approach 2: Social ::
 - Forge documents
 - Bribe or convince guards
 - Walk out with "authorized" supplies
 
-Approach 3: Combat
+Approach 3: Combat ::
 - Attack during escort
 - Fight through guards
 - Take supplies by force
 
-Approach 4: Alternative
+Approach 4: Alternative ::
 - Discover supplies going elsewhere
 - Hijack alternate route
 - Avoid main depot entirely
 
-Don't force one approach. Reward creativity.
+Don't force one approach. Reward creativity. ::
 
 ---
 
-## Adventure Structures
+### Adventure Structures
 
-### Location-Based Adventures
+#### Location-Based Adventures
 
 Adventure centers on exploring a place (dungeon, city, wilderness).
 
-Structure:
+Structure: ::
 
 | Roll | Result |
 |-----|--------|
@@ -1576,20 +1350,20 @@ Structure:
 | 5 | Exit: How players get out (may be different from entrance) |
 
 
-Good For: Dungeons, ruins, fortresses, cities
+Good For: Dungeons, ruins, fortresses, cities ::
 
-Example: Ancient Primordial Prison
+Example: Ancient Primordial Prison ::
 - Entrance: Through collapsed temple
 - Zones: Outer wards, prison cells, seal chamber
 - Factions: Cultists trying to break seal, corrupted prisoners, constructs still guarding
 - Goal: Reseal prison before Primordial breaks free
 - Exit: Teleportation circle in seal chamber (risky) or climb back out
 
-### Event-Based Adventures
+#### Event-Based Adventures
 
 Adventure follows sequence of events. Location changes as events unfold.
 
-Structure:
+Structure: ::
 
 | Roll | Result |
 |-----|--------|
@@ -1600,9 +1374,9 @@ Structure:
 | 5 | Resolution: Immediate consequences of player actions |
 
 
-Good For: Heists, chases, time-sensitive missions
+Good For: Heists, chases, time-sensitive missions ::
 
-Example: Supply Convoy Heist
+Example: Supply Convoy Heist ::
 - Inciting Incident: Learn convoy leaving tomorrow
 - Rising Action: Gather information, plan attack, prepare ambush
 - Complication: Convoy has unexpected magical defense
@@ -1614,11 +1388,11 @@ Example: Supply Convoy Heist
 \page
 
 
-### Mystery Adventures
+#### Mystery Adventures
 
 Adventure about uncovering truth. Players follow clues.
 
-Structure:
+Structure: ::
 
 | Roll | Result |
 |-----|--------|
@@ -1630,9 +1404,9 @@ Structure:
 | 6 | Resolution: Justice, consequences, lingering questions |
 
 
-Good For: Murders, conspiracies, missing persons
+Good For: Murders, conspiracies, missing persons ::
 
-Example: Missing Children
+Example: Missing Children ::
 - Crime: Five children vanished from Border village
 - Clues: Footprints lead to noble's estate, children wore iron collars, witnessed strange lights
 - Red Herrings: Local hermit seems suspicious, rumors of monsters
@@ -1644,64 +1418,64 @@ Three-Clue Rule: For any key information players need, provide at least three di
 
 ---
 
-## Pacing and Tension
+### Pacing and Tension
 
-### Five-Act Structure
+#### Five-Act Structure
 
-Act 1: Introduction (Session 1)
+Act 1: Introduction (Session 1) ::
 - Present hook
 - Introduce key NPCs
 - Establish stakes
 - Give players clear short-term goal
 
-Act 2: Rising Action (Session 1-2)
+Act 2: Rising Action (Session 1-2) ::
 - Players pursue goal
 - Encounters increase in difficulty
 - New information complicates situation
 - Players make meaningful choices
 
-Act 3: Midpoint Twist (Session 2-3)
+Act 3: Midpoint Twist (Session 2-3) ::
 - Major revelation changes everything
 - Stakes increase dramatically
 - New threat or ally emerges
 - Players must adapt plan
 
-Act 4: Approaching Climax (Session 3-4)
+Act 4: Approaching Climax (Session 3-4) ::
 - Final preparations
 - Point of no return
 - All pieces come together
 - Building to showdown
 
-Act 5: Climax and Resolution (Session 4)
+Act 5: Climax and Resolution (Session 4) ::
 - Major encounter/decision
 - All previous choices matter
 - Clear victory or defeat conditions
 - Immediate consequences
 - Seeds for next adventure
 
-### Building Tension
+#### Building Tension
 
-Early Adventure (Sessions 1-2):
+Early Adventure (Sessions 1-2): ::
 - Easier encounters
 - Success comes easier
 - Players feel capable
 - Information flows
 
-Middle Adventure (Sessions 2-3):
+Middle Adventure (Sessions 2-3): ::
 - Harder encounters
 - Complications arise
 - Resources depleting
 - Time pressure introduced
 
-Late Adventure (Sessions 3-4):
+Late Adventure (Sessions 3-4): ::
 - Hardest encounters
 - Multiple threats at once
 - Resources scarce
 - High stakes, real danger
 
-### Using Time Pressure
+#### Using Time Pressure
 
-Introduce countdown or deadline:
+Introduce countdown or deadline: ::
 - "Ritual completes in 3 days"
 - "Convoy leaves at dawn"
 - "Corruption spreading, infects 1d6 more citizens daily"
@@ -1712,36 +1486,36 @@ If players delay: Bad things happen. Don't pull punches, but don't make it impos
 
 ---
 
-## Encounters by Party Level
+### Encounters by Party Level
 
-### Levels 1-4: Local Threats
+#### Levels 1-4: Local Threats
 
-Appropriate Challenges:
+Appropriate Challenges: ::
 - Local bandits, wild animals
 - Minor undead, goblins
 - Corrupt town officials
 - Haunted buildings
 - Small cults
 
-Stakes:
+Stakes: ::
 - Save village
 - Rescue individuals
 - Retrieve stolen items
 - Investigate local mystery
 
-{{pageNumber,auto}}
-{{footnote Part II: Running the Game}}
-\page
-
-
-Rewards:
+Rewards: ::
 - 50-500 gp
 - Common or uncommon magic items
 - Local reputation
 
-### Levels 5-10: Regional Problems
 
-Appropriate Challenges:
+{{pageNumber,auto}}
+{{footnote Part II: Running the Game}}
+\page
+
+#### Levels 5-10: Regional Problems
+
+Appropriate Challenges: ::
 - Organized crime, mercenary companies
 - Young dragons, ettins, trolls
 - Rogue mages, evil priests
@@ -1749,21 +1523,21 @@ Appropriate Challenges:
 - Corrupted nobles
 - Bound-touched creatures
 
-Stakes:
+Stakes: ::
 - Affect multiple settlements
 - Faction conflicts
 - Regional disasters
 - Political intrigue
 
-Rewards:
+Rewards: ::
 - 500-5,000 gp
 - Uncommon to rare magic items
 - Faction rank
 - Land or titles
 
-### Levels 11-16: Continental Crises
+#### Levels 11-16: Continental Crises
 
-Appropriate Challenges:
+Appropriate Challenges: ::
 - Adult dragons, giants
 - Powerful mages, high priests
 - Demon/devil incursions
@@ -1771,33 +1545,33 @@ Appropriate Challenges:
 - Bound Ancient prison weakening
 - Ancient artifacts
 
-Stakes:
+Stakes: ::
 - Entire region at risk
 - Continental war
 - Planar breaches
 - Mass corruption
 
-Rewards:
+Rewards: ::
 - 5,000-50,000 gp
 - Rare to very rare magic items
 - Command positions
 - Political power
 
-### Levels 17-20: World-Ending Threats
+#### Levels 17-20: World-Ending Threats
 
-Appropriate Challenges:
+Appropriate Challenges: ::
 - Ancient dragons, liches
 - Demigods, avatars
 - Bound Ancient awakening
 - Apocalyptic rituals
 - Divine intervention needed
 
-Stakes:
+Stakes: ::
 - Civilization's survival
 - Reality itself
 - Prevent cataclysm
 
-Rewards:
+Rewards: ::
 - 50,000+ gp
 - Very rare to legendary items
 - Save the world
@@ -1805,119 +1579,116 @@ Rewards:
 
 ---
 
-## Common Mistakes
+### Common Mistakes
 
-### Railroad Adventures
+#### Railroad Adventures
 
-Problem: Players have no real choices. One path only.
+Problem: Players have no real choices. One path only. ::
 
-Fix: Always provide 2-3 ways to approach situations. Accept unexpected solutions.
+Fix: Always provide 2-3 ways to approach situations. Accept unexpected solutions. ::
 
-### Killer DM
+#### Killer DM
 
-Problem: Adventure designed to kill players or "beat" them.
+Problem: Adventure designed to kill players or "beat" them. ::
 
-Fix: Challenge players, but give them tools to succeed. Death should result from bad choices, not unfair design.
+Fix: Challenge players, but give them tools to succeed. Death should result from bad choices, not unfair design. ::
 
-### No Stakes
+#### No Stakes
 
-Problem: Nothing bad happens if players fail or delay.
+Problem: Nothing bad happens if players fail or delay. ::
 
-Fix: Establish clear consequences. If players ignore quest, things get worse.
+Fix: Establish clear consequences. If players ignore quest, things get worse. ::
 
-### Too Many NPCs
+#### Too Many NPCs
 
-Problem: Players can't remember who's who.
+Problem: Players can't remember who's who. ::
 
-Fix: Limit to 5-6 major NPCs per adventure. Give each distinctive feature.
+Fix: Limit to 5-6 major NPCs per adventure. Give each distinctive feature. ::
 
-### Info Dump
+#### Info Dump
 
-Problem: Pages of backstory dumped on players.
+Problem: Pages of backstory dumped on players. ::
 
-Fix: Reveal information through play. Show, don't tell. Let players discover it.
+Fix: Reveal information through play. Show, don't tell. Let players discover it. ::
 
-### Ignoring Player Choices
+#### Ignoring Player Choices
 
-Problem: Players' decisions don't matter, everything leads to same outcome.
+Problem: Players' decisions don't matter, everything leads to same outcome. ::
 
-Fix: Make player choices have real consequences. Branch the adventure.
+Fix: Make player choices have real consequences. Branch the adventure. ::
 
 
 {{pageNumber,auto}}
 {{footnote Part II: Running the Game}}
 \page
 
-## Adventure Templates
+### Adventure Templates
 
-### Template 1: The Heist
+#### Template 1: The Heist
 
-Hook: Steal valuable item from well-guarded location
-Investigation Phase: Scout location, gather information
-Planning Phase: Players devise approach
-Execution Phase: Pull off the heist
-Escape Phase: Get away with loot
-Resolution: Deal with consequences
+Hook: Steal valuable item from well-guarded location ::
+Investigation Phase: Scout location, gather information ::
+Planning Phase: Players devise approach ::
+Execution Phase: Pull off the heist ::
+Escape Phase: Get away with loot ::
+Resolution: Deal with consequences ::
 
-Key NPCs:
+Key NPCs: ::
 - Quest giver (patron)
 - Inside contact (information)
 - Rival thief (complication)
 - Guard captain (opposition)
 
-### Template 2: The Rescue
+#### Template 2: The Rescue
 
-Hook: Someone important captured
-Investigation Phase: Learn where they're held
-Infiltration Phase: Sneak into enemy territory
-Rescue Phase: Free the captive
-Escape Phase: Get out alive
-Resolution: Return safely, learn why they were taken
+Hook: Someone important captured ::
+Investigation Phase: Learn where they're held ::
+Infiltration Phase: Sneak into enemy territory ::
+Rescue Phase: Free the captive ::
+Escape Phase: Get out alive ::
+Resolution: Return safely, learn why they were taken ::
 
-Key NPCs:
+Key NPCs: ::
 - Captive (rescue target)
 - Captor (villain)
 - Betrayer (sold them out)
 - Insider (helps escape)
 
-### Template 3: The Mystery
+#### Template 3: The Mystery
 
-Hook: Crime or strange occurrence
-Investigation Phase: Gather clues
-Suspect Phase: Identify potential culprits
-Revelation Phase: Discover truth
-Confrontation Phase: Face real culprit
-Resolution: Justice and consequences
+Hook: Crime or strange occurrence ::
+Investigation Phase: Gather clues ::
+Suspect Phase: Identify potential culprits ::
+Revelation Phase: Discover truth ::
+Confrontation Phase: Face real culprit ::
+Resolution: Justice and consequences ::
 
-Key NPCs:
+Key NPCs: ::
 - Victim (murdered or wronged)
 - Suspects (3-4 with motives)
 - Witness (helpful or unreliable)
 - Culprit (true villain)
 
-### Template 4: The Hunt
+#### Template 4: The Hunt
 
-Hook: Dangerous creature/person threatens area
-Tracking Phase: Follow trail
-Encounter Phase: First confrontation (escapes)
-Ambush Phase: Set trap or be ambushed
-Final Battle: Climactic showdown
-Resolution: Safety restored, but at what cost?
+Hook: Dangerous creature/person threatens area ::
+Tracking Phase: Follow trail ::
+Encounter Phase: First confrontation (escapes) ::
+Ambush Phase: Set trap or be ambushed ::
+Final Battle: Climactic showdown ::
+Resolution: Safety restored, but at what cost? ::
 
-Key NPCs:
+Key NPCs: ::
 - Hunter (rival or ally)
 - Victim (survived attack, has information)
 - Bait (used to lure target)
 - Witness (saw creature)
 
- ::
- ::
- ::
- ::
+\column
 
-## Using This Chapter
+### Using This Chapter
 
-Before Adventure:
+Before Adventure: ::
 
 | Roll | Result |
 |-----|--------|
@@ -1928,13 +1699,13 @@ Before Adventure:
 | 5 | Prepare for 3-4 player approaches |
 
 
-During Adventure:
+During Adventure: ::
 - Accept player solutions you didn't plan for
 - Adjust difficulty based on how players are doing
 - Cut boring parts, zoom into interesting parts
 - Let player choices have consequences
 
-After Adventure:
+After Adventure: ::
 - Note what worked and what didn't
 - Plant seeds for next adventure in resolution
 - Award appropriate rewards
@@ -1943,17 +1714,15 @@ After Adventure:
 {{pageNumber,auto}}
 {{footnote Part II: Running the Game}}
 \page
+## Chapter 4: Creating Campaigns
+### Long-Term Play and Story Arcs
 
-
-# Chapter 4: Creating Campaigns
-## Long-Term Play and Story Arcs
- ::
-## Campaign vs Adventure
+#### Campaign vs Adventure
 
 Adventure: Self-contained story (3-6 sessions)
 Campaign: Series of interconnected adventures (months or years of play)
 
-A campaign has:
+A campaign has: ::
 - Overarching plot or threat
 - Recurring NPCs and factions
 - Character development arcs
@@ -1961,15 +1730,13 @@ A campaign has:
 - Long-term consequences
 - Satisfying conclusion
 
- ::
+### Tirvandor Campaign Themes
 
-## Tirvandor Campaign Themes
-
-### The War
+#### The War
 
 Central Conflict: Thaldros Empire vs Aethoria Resistance
 
-Campaign Hooks:
+Campaign Hooks: ::
 - Resistance cell fighting occupation
 - Thaldros soldiers questioning orders
 - Border smugglers caught between sides
@@ -1978,17 +1745,17 @@ Campaign Hooks:
 
 Escalation: Skirmishes → Battles → Full-scale war → Peace treaty or victory
 
-Levels 1-20 Arc:
+Levels 1-20 Arc: ::
 - 1-4: Local Resistance operations
 - 5-10: Regional faction conflicts
 - 11-16: Continental warfare
 - 17-20: Prevent apocalyptic weapons
 
-### The Bound Ancients Threat
+#### The Bound Ancients Threat
 
 Central Conflict: Ancient entities breaking free from prisons
 
-Campaign Hooks:
+Campaign Hooks: ::
 - Investigate corruption spreading from ruins
 - Cult trying to free Bound Ancients
 - Prison seals failing worldwide
@@ -1997,17 +1764,17 @@ Campaign Hooks:
 
 Escalation: Rumors → Local corruption → Multiple breaches → Bound Ancient awakening
 
-Levels 1-20 Arc:
+Levels 1-20 Arc: ::
 - 1-4: Encounter minor corruption
 - 5-10: Discover weakened prison
 - 11-16: Fight cults, reseal prisons
 - 17-20: Prevent Primordial from fully awakening
 
-### Faction Intrigue
+#### Faction Intrigue
 
 Central Conflict: Secret agendas, political maneuvering, espionage
 
-Campaign Hooks:
+Campaign Hooks: ::
 - Spies in faction hierarchy
 - Noble houses vying for power
 - Iron Guild playing both sides
@@ -2016,17 +1783,17 @@ Campaign Hooks:
 
 Escalation: Local politics → Regional scheming → Continental conspiracy → World-changing revelation
 
-Levels 1-20 Arc:
+Levels 1-20 Arc: ::
 - 1-4: Caught in local power struggle
 - 5-10: Faction agents, missions
 - 11-16: High-level politics, Continental intrigue
 - 17-20: Reshape political landscape
 
-### Personal Quests
+#### Personal Quests
 
 Central Conflict: Character backstories drive campaign
 
-Campaign Hooks:
+Campaign Hooks: ::
 - Revenge against those who wronged them
 - Seeking lost family member
 - Reclaiming stolen heritage
@@ -2035,21 +1802,19 @@ Campaign Hooks:
 
 Escalation: Personal discovery → Local consequences → Regional impact → World-changing destiny
 
-Levels 1-20 Arc:
+Levels 1-20 Arc: ::
 - 1-4: Learn about past
 - 5-10: Confront personal villains
 - 11-16: Past has bigger implications
 - 17-20: Personal arc affects world
 
- ::
+### Campaign Structure
 
-## Campaign Structure
-
-### Episodic Campaigns
+#### Episodic Campaigns
 
 Structure: Self-contained adventures with recurring cast and setting
 
-Pros:
+Pros: ::
 - Easy for players to miss sessions
 - Low commitment
 - Clear endings
@@ -2060,12 +1825,12 @@ Pros:
 \page
 
 
-Cons:
+Cons: ::
 - Less epic feeling
 - Character development slower
 - Lower stakes
 
-Good For:
+Good For: ::
 - New players
 - Inconsistent schedules
 - Shorter campaigns
@@ -2073,22 +1838,22 @@ Good For:
 Example: Iron Guild Mercenaries
 Each adventure is a contract. Client hires party for job. Complete job, get paid, next job. Recurring clients, growing reputation, but each mission stands alone.
 
-### Serialized Campaigns
+#### Serialized Campaigns
 
 Structure: Interconnected adventures building toward major conclusion
 
-Pros:
+Pros: ::
 - Epic scope
 - Satisfying payoffs
 - Character arcs
 - High stakes
 
-Cons:
+Cons: ::
 - Harder if players miss sessions
 - Requires long-term commitment
 - More planning required
 
-Good For:
+Good For: ::
 - Experienced players
 - Consistent group
 - Long campaigns
@@ -2096,146 +1861,142 @@ Good For:
 Example: Stopping Primordial Awakening
 Each adventure reveals more about Primordial threat. Party strengthens seals, fights cults, uncovers conspiracy, all building toward final confrontation with awakening entity.
 
-### Hybrid Structure (Recommended)
+#### Hybrid Structure (Recommended)
 
 Structure: Episodic adventures with serialized backbone
 
-How It Works:
+How It Works: ::
 - Main story progresses in background
 - Most sessions are self-contained adventures
 - Every 3-4 adventures, major plot advancement
 - Players can miss sessions without losing thread
 
-Example: Resistance Campaign
-Session 1-3: Rescue prisoners (self-contained)
-Session 4: Discover Thaldros attack plans (plot advancement)
-Sessions 5-7: Steal supplies (self-contained)
-Session 8: Betrayed by ally working for enemy (plot advancement)
-Sessions 9-11: Infiltrate enemy fortress (self-contained)
-Session 12: Thaldros invasion begins (major plot event)
+Example: Resistance Campaign ::
+Session 1-3: Rescue prisoners (self-contained) ::
+Session 4: Discover Thaldros attack plans (plot advancement) ::
+Sessions 5-7: Steal supplies (self-contained) ::
+Session 8: Betrayed by ally working for enemy (plot advancement) ::
+Sessions 9-11: Infiltrate enemy fortress (self-contained) ::
+Session 12: Thaldros invasion begins (major plot event) ::
 
----
+### Campaign Phases
 
-## Campaign Phases
+#### Levels 1-4: Local Heroes
 
-### Levels 1-4: Local Heroes
+Scope: Single settlement or small region ::
+Threats: Local problems (bandits, monsters, corrupt officials) ::
+Stakes: Save village, stop local cult, expose corruption ::
+Power Level: Ordinary people with extraordinary potential ::
 
-Scope: Single settlement or small region
-Threats: Local problems (bandits, monsters, corrupt officials)
-Stakes: Save village, stop local cult, expose corruption
-Power Level: Ordinary people with extraordinary potential
-
-Session Structure:
+Session Structure: ::
 - Adventure 1: Meet, first mission, establish dynamic
 - Adventures 2-3: Build local reputation
 - Adventure 4: Local crisis requiring their intervention
 - Level up to 5 at end
 
-Rewards: 50-500 gp per adventure, common/uncommon items, local fame
+Rewards: 50-500 gp per adventure, common/uncommon items, local fame ::
 
-Focus: Learning to work together, establishing character personalities
+Focus: Learning to work together, establishing character personalities ::
 
-### Levels 5-10: Regional Agents
+#### Levels 5-10: Regional Agents
 
-Scope: Multiple settlements, entire region
-Threats: Organized factions, significant monsters, political intrigue
-Stakes: Regional stability, faction conflicts, prevent disasters
-Power Level: Recognized heroes, faction agents
+Scope: Multiple settlements, entire region ::
+Threats: Organized factions, significant monsters, political intrigue ::
+Stakes: Regional stability, faction conflicts, prevent disasters ::
+Power Level: Recognized heroes, faction agents ::
 
-Session Structure:
+Session Structure: ::
 - Adventures with regional consequences
 - Faction missions
 - Discover bigger threats
 - Political entanglements
 
-Rewards: 500-5,000 gp per adventure, uncommon/rare items, faction rank
+Rewards: 500-5,000 gp per adventure, uncommon/rare items, faction rank ::
 
-Focus: Faction relationships, moral complexity, meaningful choices
+Focus: Faction relationships, moral complexity, meaningful choices ::
 
-### Levels 11-16: Continental Players
+#### Levels 11-16: Continental Players
 
-Scope: Entire continent, multiple factions, major cities
-Threats: Dragons, liches, demon incursions, weakening Bound Ancients' prisons
-Stakes: Continental war, planar breaches, civilization's future
-Power Level: Famous heroes, faction leaders, political players
+Scope: Entire continent, multiple factions, major cities ::
+Threats: Dragons, liches, demon incursions, weakening Bound Ancients' prisons ::
+Stakes: Continental war, planar breaches, civilization's future ::
+Power Level: Famous heroes, faction leaders, political players ::
 
-Session Structure:
+Session Structure: ::
 - High-stakes missions affecting thousands
 - Command armies or cells
 - Face ancient evils
 - Make decisions affecting nations
 
-Rewards: 5,000-50,000 gp per adventure, rare/very rare items, titles and lands
+Rewards: 5,000-50,000 gp per adventure, rare/very rare items, titles and lands ::
 
-Focus: Leadership, tough moral choices, dealing with fame and power
+Focus: Leadership, tough moral choices, dealing with fame and power ::
 
 {{pageNumber,auto}}
 {{footnote Part II: Running the Game}}
 \page
 
 
-### Levels 17-20: World-Shapers
+#### Levels 17-20: World-Shapers
 
-Scope: Entire world, multiple planes
-Threats: Gods, Bound Ancients, apocalyptic events
-Stakes: Survival of civilization, reality itself
-Power Level: Legendary heroes, can reshape world
+Scope: Entire world, multiple planes ::
+Threats: Gods, Bound Ancients, apocalyptic events ::
+Stakes: Survival of civilization, reality itself ::
+Power Level: Legendary heroes, can reshape world ::
 
-Session Structure:
+Session Structure: ::
 - World-ending threats
 - Battles against divine/ancient entities
 - Decisions affecting future of world
 - Epic conclusion to campaign
 
-Rewards: 50,000+ gp, legendary items/artifacts, eternal fame, reshape world
+Rewards: 50,000+ gp, legendary items/artifacts, eternal fame, reshape world ::
 
-Focus: Legacy, final choices, satisfying conclusion
+Focus: Legacy, final choices, satisfying conclusion ::
 
----
+### Campaign Planning
 
-## Campaign Planning
+#### Before Session Zero
 
-### Before Session Zero
-
-1. Choose Core Theme:
+1. Choose Core Theme: ::
 Pick primary focus (War, Bound Ancients, Intrigue, Personal)
 
-2. Decide Campaign Length:
+2. Decide Campaign Length: ::
 - Short: 10-20 sessions (Levels 1-10)
 - Medium: 20-40 sessions (Levels 1-15)
 - Long: 40+ sessions (Levels 1-20)
 
-3. Outline Major Arcs:
+3. Outline Major Arcs: ::
 Break campaign into 3-5 major story arcs
 
-Example - War Campaign (30 sessions):
+Example - War Campaign (30 sessions): ::
 - Arc 1 (Levels 1-5, 8 sessions): Join Resistance, local operations
 - Arc 2 (Levels 6-10, 10 sessions): Faction intrigue, spy network
 - Arc 3 (Levels 11-15, 10 sessions): Major battles, political upheaval
 - Conclusion (Level 15-16, 2 sessions): Peace treaty or final victory
 
-4. Identify Key NPCs:
+4. Identify Key NPCs: ::
 Create 5-10 major NPCs who will recur throughout campaign:
 - Allies (quest givers, mentors)
 - Rivals (competing heroes or factions)
 - Villains (antagonists, growing threat)
 - Neutrals (Iron Guild, merchants, informants)
 
-5. Establish Factions:
+5. Establish Factions: ::
 Identify which factions matter and their agendas
 
-### Session Zero
+#### Session Zero
 
-Goals:
+Goals: ::
 - Set table expectations
 - Create characters together
 - Establish connections
 - Explain campaign themes
 - Set tone and boundaries
 
-Agenda:
+Agenda: ::
 
-1. Pitch the Campaign (15 minutes):
+1. Pitch the Campaign (15 minutes): ::
 Describe setting, themes, and tone. Be honest about content.
 
 "This campaign focuses on the Resistance against Thaldros occupation. Themes include:
@@ -2246,13 +2007,13 @@ Describe setting, themes, and tone. Be honest about content.
 
 Tone: Serious but with moments of levity. Gritty realism mixed with heroic fantasy."
 
-2. Safety Tools (10 minutes):
+2. Safety Tools (10 minutes): ::
 Establish X-card, lines and veils, consent checklist.
 - What content should we avoid?
 - What should we fade to black?
 - How do we communicate discomfort?
 
-3. Character Creation Together (60-90 minutes):
+3. Character Creation Together (60-90 minutes): ::
 Create characters as group, not in isolation.
 
 Connections: Each character must have:
@@ -2260,30 +2021,30 @@ Connections: Each character must have:
 - Reason to care about campaign theme
 - Personal goal that can drive adventures
 
-4. Establish Party Dynamic (15 minutes):
+4. Establish Party Dynamic (15 minutes): ::
 - How did you meet?
 - Why do you trust each other?
 - What's your group's dynamic?
 - Do you have a name?
 
-5. Set Logistics (10 minutes):
+5. Set Logistics (10 minutes): ::
 - Session length and frequency
 - What happens if someone misses
 - How to handle disagreements
 - House rules
 
-### Campaign Journal
+#### Campaign Journal
 
 Keep Notes On:
 
-Sessions:
+Sessions: ::
 - What happened
 - Player choices
 - Consequences
 - Unresolved threads
 - Quotes
 
-NPCs:
+NPCs: ::
 - Who they met
 - Reactions to party
 - Goals and secrets
@@ -2294,12 +2055,12 @@ NPCs:
 \page
 
 
-Factions:
+Factions: ::
 - Current relationship with party
 - Recent actions
 - Goals and setbacks
 
-Plot Threads:
+Plot Threads: ::
 - Open questions
 - Mysteries
 - Future hooks
@@ -2307,98 +2068,97 @@ Plot Threads:
 
 Review Before Each Session: Read last 2-3 sessions of notes.
 
----
 
-## Tying Player Backstories
+### Tying Player Backstories
 
-### Incorporating Backstories
+#### Incorporating Backstories
 
 During Campaign Planning:
 Identify 2-3 elements from each character's backstory that can become adventures or plot threads.
 
-Example - Character: Marcus, Ex-Thaldros Soldier
-Backstory: Deserted when ordered to kill civilians. Mentor (Commander Vale) helped him escape.
+Example - Character: Marcus, Ex-Thaldros Soldier ::
+Backstory: Deserted when ordered to kill civilians. Mentor (Commander Vale) helped him escape. ::
 
 Incorporated:
 - Session 8: Commander Vale sends coded message asking for help
 - Session 15: Vale captured, faces execution for treason
 - Session 22: Vale reveals why he helped Marcus - bigger conspiracy
 
-Distribution:
+Distribution: ::
 Each character should have:
 - 2-3 backstory adventures (focused on them)
 - Regular moments to shine using their skills
 - Character development opportunities
 
-### When to Focus on Each Character
+#### When to Focus on Each Character
 
-Don't:
+Don't: ::
 - Do every character's backstory at once
 - Ignore certain characters
 - Make backstory adventures feel disconnected from main plot
 
-Do:
+Do: ::
 - Weave backstory into main campaign
 - Give each character spotlight time every 3-4 sessions
 - Connect character backstories to campaign themes
 
 ---
 
-## Pacing the Campaign
+### Pacing the Campaign
 
-### Session Pacing
+#### Session Pacing
 
-Good Variety:
+Good Variety: ::
 - Combat: 40%
 - Social: 30%
 - Exploration: 30%
 
-Adjust Based on Table:
+Adjust Based on Table: ::
 If players love combat, increase to 60%. If they prefer roleplay, decrease combat to 20%.
 
-### Arc Pacing
+#### Arc Pacing
 
-Three-Act Structure for Each Arc:
+Three-Act Structure for Each Arc: ::
 
-Act 1 - Setup (2-3 sessions):
+Act 1 - Setup (2-3 sessions): ::
 - Introduce arc's threat
 - Establish stakes
 - Give players goal
 
-Act 2 - Development (3-5 sessions):
+Act 2 - Development (3-5 sessions): ::
 - Players pursue goal
 - Complications arise
 - Midpoint twist
 - Stakes increase
 
-Act 3 - Resolution (1-2 sessions):
+Act 3 - Resolution (1-2 sessions): ::
 - Final confrontation
 - Consequences
 - Transition to next arc
 
-### Campaign Pacing
+#### Campaign Pacing
 
-Early Campaign (Levels 1-5):
+Early Campaign (Levels 1-5): ::
 - Faster leveling (every 2-3 sessions)
 - Smaller stakes
 - Establish world and NPCs
 - Build party dynamic
 
-Mid Campaign (Levels 6-15):
+Mid Campaign (Levels 6-15): ::
 - Moderate leveling (every 3-4 sessions)
 - Escalating stakes
 - Major plot developments
 - Tough choices
 
-Late Campaign (Levels 16-20):
+Late Campaign (Levels 16-20): ::
 - Slower leveling (every 4-5 sessions)
 - World-ending stakes
 - Epic encounters
 - Building to conclusion
 
-## Ending the Campaign
+### Ending the Campaign
 
-### Planning the Ending
+#### Planning the Ending
 
 Start with the End:
 When planning campaign, know generally how it could end.
@@ -2421,28 +2181,28 @@ Possible Endings:
 
 Don't force one ending. Prepare for 2-3 possibilities based on player choices.
 
-### The Final Arc (Last 5-8 Sessions)
+#### The Final Arc (Last 5-8 Sessions)
 
-Structure:
+Structure: ::
 
-Sessions 1-2: Gathering Allies
+Sessions 1-2: Gathering Allies ::
 Call in favors, unite factions, prepare for final battle
 
-Sessions 3-4: Final Preparations
+Sessions 3-4: Final Preparations ::
 Gather intelligence, craft weapons, final character moments
 
-Session 5: Point of No Return
+Session 5: Point of No Return ::
 Launch final offensive, no going back
 
-Sessions 6-7: Climax
+Sessions 6-7: Climax ::
 Epic confrontation with primary threat, all choices matter
 
-Session 8: Epilogue
+Session 8: Epilogue ::
 Wrap up character arcs, show consequences, establish new normal
 
-### Satisfying Endings
+#### Satisfying Endings
 
-Good endings have:
+Good endings have: ::
 - Direct result of player choices throughout campaign
 - Every character gets moment to shine
 - Clear victory or defeat conditions
@@ -2450,14 +2210,14 @@ Good endings have:
 - Emotional payoff
 - Hints at characters' futures
 
-Don't:
+Don't: ::
 - Pull victory out of nowhere
 - Ignore player choices in final moments
 - Kill everyone for shock value
 - Leave major threads unresolved
 - Rush the ending
 
-### Epilogue Session
+#### Epilogue Session
 
 After main campaign ends, dedicate one session to:
 
@@ -2484,42 +2244,42 @@ Out of character discussion:
 - Thank yous
 - Future plans
 
-## Common Campaign Problems
+### Common Campaign Problems
 
-### Problem: Players Not Engaged with Plot
+#### Problem: Players Not Engaged with Plot
 
-Symptoms:
+Symptoms: ::
 - Players ignore hooks
 - Focus on side activities
 - Don't care about NPCs or factions
 
-Solutions:
+Solutions: ::
 - Tie plot to player backstories
 - Make stakes personal
 - Let players drive story
 - Ask them what they want
 
-### Problem: Pacing Issues
+#### Problem: Pacing Issues
 
-Symptoms:
+Symptoms: ::
 - Campaign dragging
 - Players losing interest
 - Too many unresolved threads
 
-Solutions:
+Solutions: ::
 - Cut or combine adventures
 - Resolve minor threads
 - Fast-forward through downtime
 - Escalate stakes
 
-### Problem: Power Imbalance
+#### Problem: Power Imbalance
 
-Symptoms:
+Symptoms: ::
 - One player dominates
 - Some characters feel useless
 - Unequal spotlight time
 
-Solutions:
+Solutions: ::
 - Design encounters targeting different skills
 - Call on quiet players directly
 - Private conversation with dominant player
@@ -2530,37 +2290,35 @@ Solutions:
 \page
 
 
-### Problem: Party Conflict
+#### Problem: Party Conflict
 
-Symptoms:
+Symptoms: ::
 - Players fighting in or out of character
 - Disruptive behavior
 - Some players not having fun
 
-Solutions:
+Solutions: ::
 - Session zero revisit
 - Private conversations
 - Establish boundaries
 - Sometimes: ask disruptive player to leave
 
-### Problem: Lost the Thread
+#### Problem: Lost the Thread
 
-Symptoms:
+Symptoms: ::
 - Players don't remember what's happening
 - Too many plot threads
 - Confusion about goals
 
-Solutions:
+Solutions: ::
 - Session recaps
 - Written summaries
 - Focus on 1-2 main threads
 - Simplify complexity
 
----
+### Using This Chapter
 
-## Using This Chapter
-
-Campaign Planning:
+Campaign Planning: ::
 
 | Roll | Result |
 |-----|--------|
@@ -2571,14 +2329,14 @@ Campaign Planning:
 | 5 | Run Session Zero |
 
 
-During Campaign:
+During Campaign: ::
 - Keep campaign journal
 - Review notes before sessions
 - Weave in backstories
 - Adjust pacing as needed
 - Build toward satisfying ending
 
-Remember:
+Remember: ::
 - Players drive the story
 - Flexible plans are better than rigid ones
 - Not every campaign reaches level 20
@@ -2590,15 +2348,14 @@ Remember:
 
 
 
-# Chapter 5: Secret Locations
+## Chapter 5: Secret Locations
 
-## Hidden Places of Power
+### Hidden Places of Power
 
 Locations players won't find in the World Guide.
 
 
-
-## The Black Archive
+#### The Black Archive
 Location: Beneath Silverpine Magical Academy
 Secret Level: Tier 3 (Faculty only)
 
@@ -2614,9 +2371,7 @@ Guardians: Constructs keyed to faculty bloodlines. 2 Shield Guardians, 4 Animate
 
 Hook: PCs find 1 faculty key, must acquire others or break in.
 
----
-
-## The Forgotten Monastery
+#### The Forgotten Monastery
 Location: Ironspine Mountains, unmarked
 Secret Level: Tier 2 (Rumored)
 
@@ -2632,9 +2387,7 @@ Plot: Monks aren't evil—they genuinely seek knowledge. But their patron may be
 
 Treasure: *Staff of Forgotten Moments* (legendary), historical texts worth 5,000 gp.
 
----
-
-## Nexus of Seven Sorrows
+#### Nexus of Seven Sorrows
 Location: Sundering Sea floor, exact coordinates lost
 Secret Level: Tier 4 (Mythical)
 
@@ -2650,9 +2403,9 @@ Reward: Access to *The Seal Chamber*—can repair seal or drain power (dangerous
 
 Campaign Use: Final arc location for preventing second Worldrend.
 
----
+\column
 
-## The Wandering Tower
+#### The Wandering Tower
 Location: Appears randomly near ley nexuses
 Secret Level: Tier 3 (Known only to Circle survivors)
 
@@ -2670,9 +2423,8 @@ Encounter: Valdren attacks intruders initially, but can be convinced to share kn
 
 Information: Complete history, ritual to reinforce seals (requires legendary quest), locations of all nexuses.
 
----
 
-## Ashgate Undercity
+#### Ashgate Undercity
 Location: Beneath Ashgate
 Secret Level: Tier 1 (Local rumor)
 
@@ -2694,9 +2446,7 @@ Treasure: 50,000 gp in old imperial currency (collectors pay 3× face value), ma
 
 Hook: City council will pay 5,000 gp to clear undercity and recover treasury.
 
----
-
-## The Singing Stones
+#### The Singing Stones
 Location: Northern Thaldros, remote valley
 Secret Level: Tier 2 (Druid secret)
 
@@ -2718,9 +2468,7 @@ Guardians: Circle of druids (12 members, levels 5-9). Not hostile but protective
 
 Bargain: PCs can use stones if they complete quest for druids (usually ecological: stop loggers, cleanse corrupted nexus, etc.).
 
----
-
-## The Obsidian Spire
+#### The Obsidian Spire
 Location: Border between Thaldros and Aethoria
 Secret Level: Tier 4 (Legend)
 
@@ -2745,9 +2493,7 @@ Outcome:
 - Weaken seal: Devourer escapes in 1d10 years
 - Drain power: Gain artifact but weaken seal by 50 years
 
----
-
-## Goldreach Vault 13
+#### Goldreach Vault 13
 Location: Beneath Goldreach central bank
 Secret Level: Tier 1 (Known to thieves)
 
@@ -2765,13 +2511,13 @@ Security:
 - Glyph of warding (fireball)
 - Alarm spell (silent, alerts owner)
 
+\column
+
 Heist Challenge: Getting in isn't hard—getting out with proof before guards arrive is.
 
 Consequence: Exposing vault brings down bank owner, destabilizes Goldreach economy, but weakens Thornwood Syndicate.
 
----
-
-## Temple of the Void Saints
+#### Temple of the Void Saints
 Location: Contested Lands, moving camp
 Secret Level: Tier 2 (Active threat)
 
@@ -2791,9 +2537,7 @@ Plot: Malthus genuinely believes void will save people from suffering. Debate hi
 
 Loot: *Void Crystal* (arcane focus, +2 to spell attacks, deals 1d6 necrotic to wielder on critical fails), 8,000 gp stolen goods.
 
----
-
-## The Riftmaw
+#### The Riftmaw
 Location: Exact position unknown, Sundering Sea
 Secret Level: Tier 4 (Sailor legend)
 
@@ -2811,27 +2555,24 @@ Survival: DC 25 Arcana check to stabilize personal reality bubble. Lasts 10 minu
 
 Treasure: Primordial essence (worth 10,000 gp per vial, 1d4 vials available), planar gems (5d10 × 100 gp).
 
----
+#### Using Secret Locations
 
-## Using Secret Locations
-
-Tier 1 (Levels 1-4): Ashgate Undercity, Goldreach Vault 13
-Tier 2 (Levels 5-10): Forgotten Monastery, Singing Stones, Void Saints Temple
-Tier 3 (Levels 11-16): Black Archive, Wandering Tower
-Tier 4 (Levels 17-20): Nexus of Seven Sorrows, Obsidian Spire, Riftmaw
+Tier 1 (Levels 1-4): Ashgate Undercity, Goldreach Vault 13 ::
+Tier 2 (Levels 5-10): Forgotten Monastery, Singing Stones, Void Saints Temple ::
+Tier 3 (Levels 11-16): Black Archive, Wandering Tower ::
+Tier 4 (Levels 17-20): Nexus of Seven Sorrows, Obsidian Spire, Riftmaw ::
 
 Integration: Drop hints in early game. Map fragments, NPC rumors, historical texts. Build toward high-level locations.
 
 {{pageNumber,auto}}
 {{footnote Part II: Running the Game}}
 \page
+{{wide
+## Chapter 6: Magic Mechanics Deep Dive: How Magic Really Works in Tirvandor
+}}
+### Ley Line System
 
-# Chapter 6: Magic Mechanics Deep Dive: How Magic Really Works in Tirvandor
-
-
-## Ley Line System
-
-### Basic Mechanics
+#### Basic Mechanics
 
 Proximity Bonus:
 - Within 1 mile of ley line: +1 spell attack, +1 spell save DC
@@ -2844,7 +2585,7 @@ Detecting Ley Lines:
 - Arcana DC 20: Determine direction and strength
 - Druid/Ranger: Automatic awareness within 1 mile (part of natural world)
 
-### Ley Line Map (DM Reference)
+#### Ley Line Map (DM Reference)
 
 Major Nexuses:
 
@@ -2861,11 +2602,9 @@ Major Nexuses:
 
 Minor Ley Lines: Connect major nexuses. GMs can place 2d4 minor nodes per region as needed for plot.
 
----
+### Spell Creation Rules
 
-## Spell Creation Rules
-
-### Requirements
+#### Requirements
 - Caster level ≥ spell level ×2
 - Access to spell slot of desired level
 - Arcana proficiency
@@ -2873,7 +2612,7 @@ Minor Ley Lines: Connect major nexuses. GMs can place 2d4 minor nodes per region
 - Cost: 50 gp × spell level
 - Workspace: Library or laboratory
 
-### Process
+#### Process
 
 1. Research Phase (3 days): Arcana check DC 10 + (spell level × 2)
 - Failure: Lose 1 day, retry
@@ -2882,7 +2621,7 @@ Minor Ley Lines: Connect major nexuses. GMs can place 2d4 minor nodes per region
 - Failure by <5: Spell flawed—works but with drawback
 - Failure by 5+: Total failure, lose half materials
 
-### Flawed Spells
+#### Flawed Spells
 
 Roll 1d6 if spell creation failed by <5:
 
@@ -2898,21 +2637,21 @@ Roll 1d6 if spell creation failed by <5:
 
 Flawed spells can be fixed with another week of work and DC 15 Arcana check.
 
-### Example Spells PCs Might Create
+#### Example Spells PCs Might Create
 
-Tirvandor's Temporal Refuge (4th level, transmutation)
+Tirvandor's Temporal Refuge (4th level, transmutation) ::
 - Casting Time: 1 action
 - Range: Self
 - Duration: Special
 - Effect: You step into a pocket dimension for up to 1 hour (your time). To outside observers, you disappear and reappear instantly. You age normally during this time.
 
-Ley Line Sight (2nd level, divination)
+Ley Line Sight (2nd level, divination) ::
 - Casting Time: 1 action
 - Range: Self
 - Duration: Concentration, up to 10 minutes
 - Effect: You see ley lines as glowing threads of energy. You can determine their direction, strength, and whether corrupted.
 
-Ancient Warding (5th level, abjuration)
+Ancient Warding (5th level, abjuration) ::
 - Casting Time: 1 minute
 - Range: Touch
 - Duration: 8 hours
@@ -2922,34 +2661,34 @@ Ancient Warding (5th level, abjuration)
 {{footnote Part II: Running the Game}}
 \page
 
-## Magic Item Creation
+### Magic Item Creation
 
-### Minor Items (Uncommon/Rare)
+#### Minor Items (Uncommon/Rare)
 
-Requirements:
+Requirements: ::
 - Caster level 5+ (uncommon), 9+ (rare)
 - Appropriate spell or class feature
 - Materials: 500 gp (uncommon), 5,000 gp (rare)
 - Time: 1 week per 1,000 gp value
 - Workspace: Forge, lab, or enchanting chamber
 
-Process:
+Process: ::
 - Arcana check DC 15 (uncommon), DC 18 (rare)
 - Success: Item functions as designed
 - Failure: Lose half materials, can retry
 
 Example: Creating a *+1 Weapon* requires caster level 5+, *magic weapon* spell or Extra Attack feature, 1,000 gp, 1 week, DC 15 Arcana.
 
-### Major Items (Very Rare/Legendary)
+#### Major Items (Very Rare/Legendary)
 
-Requirements:
+Requirements: ::
 - Caster level 13+ (very rare), 17+ (legendary)
 - Access to ley nexus
 - Materials: 50,000 gp (very rare), 500,000 gp (legendary)
 - Time: 30 days per item
 - Sacrifice: −2 to one ability score (minimum 8), permanent
 
-Process:
+Process: ::
 - 30-day ritual at nexus
 - Arcana check DC 22 (very rare), DC 25 (legendary)
 - Success: Item created, crafter suffers ability score loss
@@ -2957,38 +2696,38 @@ Process:
 
 Limitation: Can only create 1 legendary item per lifetime. Very rare: 1 per 5 years.
 
-## Ritual Casting
+### Ritual Casting
 
-### Standard Rituals
+#### Standard Rituals
 
-Any ritual spell can be cast by anyone who:
+Any ritual spell can be cast by anyone who: ::
 - Has spell in spellbook/knows it
 - Has 10 minutes per spell level
 - Uses materials (not consumed)
 \column
-### Tirvandor Ritual Sites
+#### Tirvandor Ritual Sites
 
-Consecrated Ground:
+Consecrated Ground: ::
 - Temple of aligned deity: +2 to ritual spell checks
 - Ancient shrine: +1, may have side effects
 - Desecrated ground: −2, attracts hostile entities
 
-Ley Nexus Rituals:
+Ley Nexus Rituals: ::
 - Double ritual spell duration
 - Increase spell save DC by +2
 - Can affect area 2× normal size
 
-### Custom Rituals (DM Tool)
+#### Custom Rituals (DM Tool)
 
 For plot-important rituals not in spell list:
 
-Requirements:
+Requirements: ::
 - Multiple casters (1d4+2 recommended)
 - Ritual time: 1 hour per desired spell level equivalent
 - Materials: 100 gp × spell level
 - Skill check DC 10 + (spell level × 3)
 
-Example: Ritual to seal a Bound Ancient prison
+Example: Ritual to seal a Bound Ancient prison ::
 - Equivalent: 9th level spell
 - Casters: 6 (at least 1 must be level 15+)
 - Time: 9 hours
@@ -2996,11 +2735,11 @@ Example: Ritual to seal a Bound Ancient prison
 - Check: DC 37 Arcana (or Religion if divine)
 - Each additional caster: +2 to check
 
-## Wild Magic
+### Wild Magic
 
-### Trigger Conditions
+#### Trigger Conditions
 
-Roll d20 when:
+Roll d20 when: ::
 - Casting at corrupted nexus (1-3 triggers)
 - Casting with flawed spell (1-2 triggers)
 - Surge from previous Wild Magic result
@@ -3009,7 +2748,7 @@ On trigger: Roll on Wild Magic Surge table in PHB or Tirvandor table below.
 {{pageNumber,auto}}
 {{footnote Part II: Running the Game}}
 \page
-### Tirvandor Wild Magic Effects (d12)
+#### Tirvandor Wild Magic Effects (d12)
 
 | d10 | Result |
 |-----|--------|
@@ -3026,68 +2765,66 @@ On trigger: Roll on Wild Magic Surge table in PHB or Tirvandor table below.
 | 11 | Blessing: Spell succeeds, caster gains inspiration. |
 | 12 | Stable Flux: No additional effect. Wild Magic suppressed for 1 hour. |
 
-## Artifact Rules
+### Artifact Rules
 
-### Attunement
+#### Attunement
 
 Artifacts require 1d4 days of attunement instead of 1 hour. During this time:
 - Caster must spend 4 hours/day meditating with artifact
 - Arcana DC 20 to successfully attune
 - Failure: Take 4d10 psychic damage, can retry after long rest
 
-### Sentient Artifacts
+#### Sentient Artifacts
 
 Tirvandor artifacts are often sentient. When attuning:
 
-Conflict Check:
+Conflict Check: ::
 - If character alignment/goals oppose artifact: DC 18 Cha save
 - Failure: Artifact refuses attunement, deals 8d10 psychic damage
 - Success: Attunement works, but artifact is uncooperative (DM decides)
 
-Cooperation:
+Cooperation: ::
 - Aligned character: Artifact grants +2 to all DCs and attack rolls from its powers
 - Neutral: Normal functionality
 - Opposed: −2 penalty, artifact may betray wielder at dramatic moment
 
-### Example Artifacts
+#### Example Artifacts
 
-The Worldrend Blade (Legendary longsword)
+The Worldrend Blade (Legendary longsword) ::
 - +3 weapon, 3d8 extra force damage
 - Once per day: Cast *disintegrate* (DC 19)
 - Sentience: Int 16, Wis 14, Cha 18, LN alignment
 - Goal: Prevent second Worldrend
 - Personality: Stoic, values order and sacrifice
 
-The Forgotten Crown (Legendary artifact)
+The Forgotten Crown (Legendary artifact) ::
 - Wearer immune to divination
 - 3 charges: Erase 1 minute of memory from all who witness an event (DC 20 Wis negates)
 - Sentience: Int 20, Wis 8, Cha 12, CN alignment
 - Goal: Catalog all forgotten lore
 - Flaw: Occasionally erases wielder's memories (DM choice)
 
-## Planar Travel
+### Planar Travel
 
-### Permanent Portals
+#### Permanent Portals
 
 - Singing Stones → Feywild: New moon only, druid key required
 - Riftmaw → Elemental Chaos: Always open, extremely dangerous
 - Black Archive → Demiplane: Faculty key required, one-way
 
-### Creating Portals
+#### Creating Portals
 
-Permanent Portal:
+Permanent Portal: ::
 - Requires: 9th level spell slot, ritual at ley nexus, 100,000 gp materials
 - Time: 10 days
 - Check: Arcana DC 25
 - Result: Two-way portal between nexuses
 
-Temporary Portal:
+Temporary Portal: ::
 - Use *gate* spell normally
 - At ley nexus: Duration doubles, save DC +2
 
----
-
-## Using Magic Mechanics
+### Using Magic Mechanics
 
 For Plot: ::
 - PCs discover corrupted nexus, must cleanse it
@@ -3107,15 +2844,16 @@ Balance: ::
 {{pageNumber,auto}}
 {{footnote Part II: Running the Game}}
 \page
+{{wide
 # Part III: Treasure
-# Chapter 7: Treasure & Magic Items
-## Comprehensive Catalog with Images
+## Chapter 7: Treasure & Magic Items
+}}
 
-## Using Treasure in Tirvandor
+### Using Treasure in Tirvandor
 
 Magic items are rare and significant. Each item has history and often ties to specific NPCs or factions.
 
-**Rarity Levels:**
+**Rarity Levels:** ::
 - **Common:** 50-100 gp
 - **Uncommon:** 101-500 gp
 - **Rare:** 501-5,000 gp
@@ -3124,7 +2862,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - **Artifact:** Priceless, plot-significant
 
 
-### 1: BORDER CAPTAIN'S BADGE
+#### 1: Border Captain's Badge
 
 ![1: BORDER CAPTAIN'S BADGE](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-border-captains-badge.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3142,7 +2880,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 **Signature NPC:** Border patrol officers  
 \column
 
-### 2: POTION OF FIRE RESISTANCE
+#### 2: Potion of Fire Resistance
 
 ![4: POTION OF FIRE RESISTANCE](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-potion-of-fire-resistance.jpg) {width:150px,mix-blend-mode:multiply}
 
@@ -3160,7 +2898,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 
 
-### 3: POTION OF GREATER HEALING
+#### 3: Potion of Greater Healing
 
 ![5: POTION OF GREATER HEALING](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-potion-of-greater-healing.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3181,7 +2919,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 \page
 
 
-### 4: WAND OF MAGIC MISSILES
+#### 4: Wanf of Magic Missiles
 
 ![7: WAND OF MAGIC MISSILES](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-wand-of-magic-missiles.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3194,7 +2932,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - 7 charges
 - Cast Magic Missile:
 - Regain 1d6+1 at dawn
-### 5: AMULET OF HEALTH
+#### 5: Amulet of Health
 
 ![9: AMULET OF HEALTH](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-amulet-of-health.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3207,9 +2945,9 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Constitution becomes 19
 - Does not stack with items
 - Perfect for frail wizards
-- Classic D&D item
 - Red gemstone design
-### 6: DRAGON SLAYING ARROWS (SET OF 3)
+
+#### 6: Dragon Slaying Arrows (SET OF 3)
 
 ![11: DRAGON SLAYING ARROWS (SET OF 3)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-dragon-slaying-arrows.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3226,7 +2964,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Runic engravings on shaft
 ---
 
-### 7: DRAGON WARDING AMULETS (SET OF 4)
+#### 7: Dragon Warding Amulets (SET OF 4)
 
 ![12: DRAGON WARDING AMULETS (SET OF 4)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-dragon-warding-amulets.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3244,7 +2982,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 {{footnote Part III: Treasure}}
 \page
 
-### 8: FLAMING LONGSWORD - PHOENIX VARIANT
+#### 8: Flaming Longsword - Phoenix Variant
 
 ![13: FLAMING LONGSWORD - PHOENIX VARIANT](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-flaming-longsword.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3261,7 +2999,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Phoenix wing crossguard
 ---
 
-### 9: MORNINGSTAR - HOLY RADIANT
+#### 9: Morningstar - Holy Radiant
 
 ![14: MORNINGSTAR - HOLY RADIANT](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-morningstar-_1.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3278,7 +3016,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Cast Daylight 1/day
 ---
 
-### 10: RING OF SPELL STORING
+#### 10: Ring of Spell Storing
 
 ![19: RING OF SPELL STORING](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-ring-of-spell-storing.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3292,9 +3030,8 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Anyone can cast stored
 - Cosmic nebula stone
 - Swirling colors inside
-- Classic D&D utility item
 
-### 11: BELT OF GIANT STRENGTH (FROST GIANT)
+#### 11: Belt of Giant Strength (Frost Giant)
 
 ![21: BELT OF GIANT STRENGTH (FROST GIANT)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-belt-of-giant-strength-frost.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3306,7 +3043,6 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 - Strength becomes 23
 - Does not stack with items
-- Classic D&D item
 - Transforms weakling into
 
 {{pageNumber,auto}}
@@ -3314,7 +3050,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 \page
 
 
-### 12: ETERNAL WINTER SHARD
+#### 12: Eternal Winter Shard
 
 ![23: ETERNAL WINTER SHARD](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-eternal-winter-shard.jpg) {width:150px,mix-blend-mode:multiply}
 
@@ -3331,7 +3067,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Freeze water permanently
 ---
 
-### 13: STAFF OF DYNASTIES
+#### 13: Staff of Dynasties
 
 ![28: STAFF OF DYNASTIES](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-staff-of-dynasties.jpg) {width:150px,mix-blend-mode:multiply}
 
@@ -3349,7 +3085,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 \column
 
-### 14: STAFF OF POWER
+#### 14: Staff of Power
 
 ![29: STAFF OF POWER](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-staff-of-power.jpg) {width:150px,mix-blend-mode:multiply}
 
@@ -3362,9 +3098,9 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - +2 quarterstaff, +2 AC,
 - 20 charges for spells
 - Fireball, Lightning Bolt,
-- Classic D&D legendary
 
-### 15: VOIDBLADE LONGSWORD
+
+#### 15: Voidblade Longsword
 
 ![30: VOIDBLADE LONGSWORD](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-voidblade-longsword.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3385,7 +3121,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 {{footnote Part III: Treasure}}
 \page
 
-### 16: ARMOR OF THE UNBREAKABLE
+#### 16: Armor of the Unbreakable
 
 ![32: ARMOR OF THE UNBREAKABLE](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-armor-of-the-unbreakable.jpg) {width:200px,mix-blend-mode:multiply}
 
@@ -3402,9 +3138,9 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Cannot be broken/damaged
 - Cannot be moved vs will
 
-### 17: CLOAK OF INVISIBILITY
+#### 17: Cloak of Invisibility
 
-![34: CLOAK OF INVISIBILITY](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-cloak-of-invisibility.jpg) {width:200px,mix-blend-mode:multiply}
+![34: CLOAK OF INVISIBILITY](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-cloak-of-invisibility.jpg) {width:150px,mix-blend-mode:multiply}
 
 **Type:** Wondrous Item  
 **Rarity:** Legendary  
@@ -3415,13 +3151,12 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Pull hood: become
 - No duration limit
 - Attacks/spells end effect
-- Classic D&D legendary item
 - Ultimate stealth tool
----
 
-### 18: NECROMANCER LORD'S PHYLACTERY
 
-![39: NECROMANCER LORD'S PHYLACTERY](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-necromancer-lords-phylactery.jpg) {width:200px,mix-blend-mode:multiply}
+#### 18: Necromancer Lord's Phylactery
+
+![39: NECROMANCER LORD'S PHYLACTERY](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-necromancer-lords-phylactery.jpg) {width:150px,mix-blend-mode:multiply}
 
 **Type:** Wondrous Item  
 **Rarity:** Legendary  
@@ -3437,7 +3172,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 
 
-## Treasure Tables by CR
+### Treasure Tables by CR
 
 Use these tables to generate appropriate treasure for encounters.
 
@@ -3452,13 +3187,7 @@ Use these tables to generate appropriate treasure for encounters.
 | 20+ | 50,000+ | Very Rare (1d4), Legendary (1) | 200,000+ gp |
 
 
-{{pageNumber,auto}}
-{{footnote Part III: Treasure}}
-\page
-
-
-
-## Item Distribution Guidelines
+### Item Distribution Guidelines
 
 **Common Items:** Villages, minor NPCs, basic shops ::
 **Uncommon Items:** Towns, mid-level NPCs, specialized shops ::
@@ -3471,11 +3200,11 @@ Use these tables to generate appropriate treasure for encounters.
 {{footnote Part IV: NPCs}}
 \page
 # Part IV: NPCs
-# Chapter 8: NPCs of Tirvandor
+## Chapter 8: NPCs of Tirvandor
 :
 This chapter contains complete information for all major NPCs in Tirvandor, including their full stat blocks, backgrounds, connections, secrets, and plot hooks for DMs. 
 \column
-## Major NPCs
+### Major NPCs
 :: 
 {{monster,frame,wide
 ## King Aldric IV Thandris
@@ -3531,10 +3260,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **Alignment:** Lawful Neutral
 - **Class:** Fighter 15 / Noble Background
 
-### Physical Description
+#### Physical Description
 Tall and powerfully built (6'4", 220 lbs), with broad shoulders and a commanding presence. Steel-gray hair cut short, kept beard neat and trimmed. Deep-set brown eyes that miss nothing. Weathered face with a scar across his left cheek from a border skirmish in his youth. Always stands with perfect military posture.
 
-### Equipment
+#### Equipment
 - **Armor:** Plate Armor +2 (Mythril-forged, black iron finish, Thandris family crest)
 - **Shield:** Tower Shield +2 (Iron-bound, bears the mountain sigil)
 - **Primary Weapon:** Thrandil's Edge (Legendary longsword, see above)
@@ -3544,7 +3273,7 @@ Tall and powerfully built (6'4", 220 lbs), with broad shoulders and a commanding
 - **Cloak:** Cloak of Protection (heavy fur-lined, royal purple)
 - **Other:** Royal seal, ceremonial regalia worth 5,000 gp
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks in clipped, military tones; every word has purpose
 - Stands when others enter the room out of respect and dominance
@@ -3568,7 +3297,7 @@ Tall and powerfully built (6'4", 220 lbs), with broad shoulders and a commanding
 - So focused on external threats that he misses internal corruption
 - Secret fear that he's not worthy of the High King title
 
-### Background & History
+#### Background & History
 Born in 1195 CR, third in line for the throne. Never expected to rule—his older brothers were the heirs. As a young prince with no expectation of succession, Aldric began a relationship with Lady Mara of House Ironforge. She became pregnant in 1221 CR, but marriage wasn't urgent—he was third in line and their union could wait.
 
 Then disaster struck in rapid succession: his eldest brother disappeared under mysterious circumstances during the Dragon Crisis era, and his second brother died of plague (1222). At age 27, Aldric suddenly became heir apparent—with an illegitimate son about to be born. Thorin arrived in 1222 CR.
@@ -3588,7 +3317,7 @@ His reign has been marked by stability and strength, but also by increased tensi
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Ally:** Lord Commander Thrain Ironoak (trusts completely)
 - **Advisor:** Sage Thelmar Runescribe (values his counsel)
 - **Rival:** High Queen Aelindra Aethermere (political opponent)
@@ -3604,7 +3333,7 @@ His reign has been marked by stability and strength, but also by increased tensi
 5. **Health Concern:** Has recurring nightmares about the Worldrend. Consulted diviner secretly; told he'll face a choice between crown and realm.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The High King's Quest:** Hires party to find the legendary proof of succession—the High King's Sword or crown jewels from the Sundered Palace.
 2. **Assassination Plot:** The Syndicate makes another attempt. Party must protect him or investigate who hired the killers.
 3. **Northern Crisis:** Giants are pushing boundaries of the secret treaty. King needs deniable agents to resolve situation.
@@ -3613,7 +3342,7 @@ His reign has been marked by stability and strength, but also by increased tensi
 6. **Princess in Danger:** One of his children is kidnapped or threatened. King will pay anything for their safe return.
 7. **The Unity Summit:** King arranges a summit with Queen Aelindra. Needs party to ensure security and perhaps influence negotiations.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 **Voice:** Deep, commanding, formal. Uses "we" when speaking officially. Short sentences.
 **Mannerisms:** 
 - Taps fingers on sword pommel when thinking
@@ -3630,7 +3359,7 @@ His reign has been marked by stability and strength, but also by increased tensi
 - Medium-term: Prove his claim to High King title
 - Long-term: Reunify the realms under Thandris rule (but only if truly best for everyone)
 
-### Notes for DMs
+#### Notes for DMs
 - Use him as quest-giver for high-level parties
 - Can be ally or obstacle depending on party's goals
 - Not evil—genuinely believes he's doing right thing
@@ -3710,10 +3439,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-### Physical Description
+#### Physical Description
 Graceful and ethereal (5'8", 120 lbs), with the timeless beauty of high elves. Silver hair that seems to shimmer with starlight, worn long and unbound. Eyes are violet-blue, seem to see through you. Pale skin with faint silver patterns (natural elf marking, not tattoos). Moves with liquid grace. Always appears serene and in control.
 
-### Equipment
+#### Equipment
 - **Armor:** Robes of the Archmagi (white with silver stars, AC 15 + Dex modifier)
 - **Staff:** Star Staff (legendary quarterstaff, see above, acts as Rod of Absorption)
 - **Crown:** Crown of Stars (silvery circlet, functions as Headband of Intellect +2 but already included in stats)
@@ -3723,7 +3452,7 @@ Graceful and ethereal (5'8", 120 lbs), with the timeless beauty of high elves. S
 - **Spellbook:** The Chronicle of Stars (contains all wizard spells up to 7th level, some 8th-9th)
 - **Other:** Crystal focus, royal seal, several spell scrolls, potions of greater healing (3)
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks slowly and deliberately, as if each word has been foreseen and chosen
 - Makes eye contact that seems to see your past, present, and future
@@ -3747,7 +3476,7 @@ Graceful and ethereal (5'8", 120 lbs), with the timeless beauty of high elves. S
 - Trusts her divinations absolutely—sometimes to her detriment when magic fails
 - Secret guilt over her role (however small) in the Worldrend
 
-### Background & History
+#### Background & History
 Born in 247 BW, long before the Worldrend. Trained at the University of Arcane Studies in Silverpine (when it was one continent). Witnessed the Worldrend at age 247—one of the few elves alive who remembers the world before.
 
 Ascended to the throne in 1110 CR after being chosen by the world-trees. Her reign has been marked by wisdom, peace, and prosperity—but also by the shadow of the Worldrend and the question of succession.
@@ -3766,7 +3495,7 @@ She genuinely believes her claim to High Queen (of the unified realm) is legitim
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Closest Advisor:** Council Elder Thaelon (her husband, also chief advisor)
 - **Magical Mentor:** Archmage Veridian Starweaver (University)
 - **Spiritual Guide:** Archdruid Silvaris Oakenheart
@@ -3783,7 +3512,7 @@ She genuinely believes her claim to High Queen (of the unified realm) is legitim
 5. **Mother's Death:** Officially died of old age. Truth: sacrificed herself in a ritual to prevent something terrible. Aelindra continues the ritual monthly in secret.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Prophecy Quest:** Hires party to investigate a prophecy that promises revelation but requires dangerous journey.
 2. **Stolen Future:** Her Portent ability stops working—someone or something is blocking divination magic. Party must find out why.
 3. **The Lost Prince:** Prince Eldrin goes missing while researching ancient magic. Queen needs discreet heroes to find him.
@@ -3794,7 +3523,7 @@ She genuinely believes her claim to High Queen (of the unified realm) is legitim
 
 \column
 
-### Roleplaying Notes
+#### Roleplaying Notes
 **Voice:** Soft, melodious, measured. Speaks in complete sentences with formal grammar. Often references fate, stars, or time.
 **Mannerisms:**
 - Gazes into distance as if seeing beyond present moment
@@ -3811,7 +3540,7 @@ She genuinely believes her claim to High Queen (of the unified realm) is legitim
 - Medium-term: Prevent the catastrophes she's foreseen
 - Long-term: Guide the realms toward reunification when the time is right (but not forced)
 
-### Notes for DMs
+#### Notes for DMs
 - Use her as patron for parties working for greater good
 - Excellent quest-giver for mysteries and prophecies
 - Her Portent ability means she might know party is coming
@@ -3831,7 +3560,7 @@ ___
 **Armor Class** :: 17 (studded leather +2, ring of protection, defensive style)
 **Hit Points** :: 120 (12d8 + 4d8 + 48)
 **Speed** :: 30 ft.
-![Merchant Prince Davos Goldshore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-davos-goldshore.jpg){width:325px,mix-blend-mode:multiply}
+![Merchant Prince Davos Goldshore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-davos-goldshore.jpg){width:290px,mix-blend-mode:multiply}
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -3892,10 +3621,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **Alignment:** Lawful Neutral (leans toward Evil)
 - **Class:** Rogue 12 (Mastermind) / Bard 4 (College of Whispers)
 
-### Physical Description
+#### Physical Description
 Distinguished and handsome (5'11", 165 lbs), with the ageless quality of half-elves. Dark hair streaked with silver, kept impeccably groomed. Green eyes that seem to calculate your worth when they look at you. Always impeccably dressed in the finest clothes (worth 500+ gp per outfit). Wears expensive jewelry but tastefully—shows wealth without being gaudy.
 
-### Equipment
+#### Equipment
 - **Armor:** Studded Leather +2 (black leather, gold studs, elegant)
 - **Primary Weapon:** Goldvein (Rapier +2, golden blade with emerald pommel, poisoned)
 - **Secondary:** Hand Crossbow +1 (concealed, decorated with gold inlay), 20 bolts
@@ -3904,7 +3633,7 @@ Distinguished and handsome (5'11", 165 lbs), with the ageless quality of half-el
 - **Amulet:** Amulet of Proof Against Detection and Location (hides from scrying)
 - **Other:** Multiple sets of fine clothing (500 gp each), signet ring (House Goldshore), ledgers, various documents, bag of holding with 10,000 gp in gems
 
-### Personality
+#### Personality
 **Traits:**
 - Everything is a negotiation—every conversation has an angle
 - Smiles constantly, even when discussing violence (especially then)
@@ -3928,7 +3657,7 @@ Distinguished and handsome (5'11", 165 lbs), with the ageless quality of half-el
 - Paranoid—trusts almost no one completely
 - Ruthless when betrayed—holds grudges forever
 
-### Background & History
+#### Background & History
 Born in 1090 CR to the lesser branch of House Goldshore—descended from a younger son who split from the main family a century earlier. Half-elf heritage from his elvish mother. While the main Aldris line held the official lordship, Davos's branch always chafed at their secondary status.
 
 Showed talent for trade and manipulation from youth. Built family business into trading empire through combination of shrewd deals and ruthless elimination of competitors. By age 50, his wealth rivaled the main house, though he lacked their title and legitimacy.
@@ -3947,7 +3676,7 @@ Rumored to have several illegitimate children across both continents. Uses them 
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Business Partner:** Captain Sylara Windchaser (merchant fleet)
 - **Ally:** Sultan Rashid Ashborne (trade agreements)
 - **Family Rival:** Lord Aldris IV Goldshore (main branch heir—Davos resents his legitimacy, Aldris distrusts Davos's ambitions)
@@ -3967,7 +3696,7 @@ Rumored to have several illegitimate children across both continents. Uses them 
 7. **The Insurance Policy:** Has compromising information on dozens of nobles, merchants, and officials—including several on Lord Aldris IV. Files hidden in several locations. If he dies, they're released.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Salvage Job:** Hires party to recover something from the sunken palace. Pays extremely well but mission is dangerous and possibly illegal.
 2. **Corporate Espionage:** Needs party to infiltrate rival's operations and steal trade secrets or sabotage operations.
 3. **The Blackmail:** Someone is blackmailing him (rare!). Needs party to find out who and eliminate the problem quietly.
@@ -3976,7 +3705,7 @@ Rumored to have several illegitimate children across both continents. Uses them 
 6. **The Missing Agent:** One of his informants disappeared with sensitive information. Find them, retrieve the information, ensure silence.
 7. **The Hostile Takeover:** Davos is trying to acquire a company/property. Owner won't sell. Party might be hired by Davos... or by the owner to stop him.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 **Voice:** Smooth, cultured, friendly. Uses people's names frequently. Asks questions that seem casual but gather information. Never raises voice.
 **Mannerisms:**
 - Steeples fingers when thinking
@@ -3993,7 +3722,7 @@ Rumored to have several illegitimate children across both continents. Uses them 
 - Medium-term: Control majority of cross-continental trade
 - Long-term: House Goldshore becomes indispensable to both continents' economies
 
-### Notes for DMs
+#### Notes for DMs
 - Excellent recurring patron for mercenary-type parties
 - Can be ally or antagonist depending on party's actions
 - Not obviously evil—just ruthlessly practical
@@ -4083,10 +3812,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **Alignment:** Lawful Good
 - **Class:** Cleric 14 (Life Domain) / Monk 2
 
-### Physical Description
+#### Physical Description
 Elderly but vigorous (5'9", 160 lbs), with dark skin weathered by desert sun. Long white beard, braided with golden rings. Deep brown eyes filled with wisdom and kindness. Bald head covered with white turban adorned with sapphire. Moves with surprising grace for his age. Always dressed in white robes with gold trim.
 
-### Equipment
+#### Equipment
 - **Armor:** None (Bracers of Defense, AC from Wisdom)
 - **Weapon:** Sun Staff (quarterstaff, see above, golden wood that glows faintly)
 - **Robes:** White silk robes with gold thread (worth 200 gp, no AC bonus)
@@ -4096,7 +3825,7 @@ Elderly but vigorous (5'9", 160 lbs), with dark skin weathered by desert sun. Lo
 - **Ring:** Ring of Feather Falling
 - **Other:** Pouch with 10 diamonds (300 gp each for Revivify), waterskin (always full—Create Water), prayer beads
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks in parables and desert wisdom—everything has a lesson
 - Genuinely kind and patient with everyone, even enemies
@@ -4120,7 +3849,7 @@ Elderly but vigorous (5'9", 160 lbs), with dark skin weathered by desert sun. Lo
 - So focused on spiritual matters that practical governance suffers
 - Secret fear that he's not worthy of being "Twice-Blessed"
 
-### Background & History
+#### Background & History
 Born in Sundara in 1179 CR to a merchant family. Experienced divine vision at age 16—saw Sera in the sun and dedicated his life to service. Trained as cleric, became respected spiritual leader by age 30.
 
 Appointed High Priest at age 45 (1224 CR) by the newly crowned Sultan Rashid Ashborne. His spiritual authority complements the Sultan's political leadership—Ashborne handles governance and trade while Al-Sahir guides the people's souls. Despite sharing a first name, they are not related; Rashid is simply a common name in Sundara.
@@ -4133,7 +3862,7 @@ These two miracles make him living legend. Many pilgrims come to Sundara just to
 
 Wife (Aisha) died 20 years ago. Never remarried. They had no children. Considers his students his children.
 
-### Connections
+#### Connections
 - **Sultan:** Rashid Ashborne (political ruler of Sundara; mutual respect despite differing approaches—Ashborne is calculating, Al-Sahir is compassionate)
 - **Student:** Master Glasswright Zara (he taught her, she reveres him)
 - **Ally:** Merchant Prince Davos Goldshore (trade partnership, but Al-Sahir doesn't fully trust him)
@@ -4155,7 +3884,7 @@ Wife (Aisha) died 20 years ago. Never remarried. They had no children. Considers
 5. **The Successor:** Has no biological heir. Secretly training three possible successors, but hasn't chosen which one. One of them isn't who they claim to be.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Dying Oasis:** The Great Oasis is failing. Rashid reveals the curse and needs party to find the source and break it.
 2. **The False Heir:** One of his spiritual successors is actually a Syndicate plant. Rashid suspects but can't prove it. Needs investigation.
 3. **The Third Blessing:** Rashid receives vision that the moment for his final Divine Intervention is coming. Party must help him reach the place where it must be used.
@@ -4164,7 +3893,7 @@ Wife (Aisha) died 20 years ago. Never remarried. They had no children. Considers
 6. **The Pilgrimage:** Rashid must make pilgrimage to sacred site, but assassins have been hired to kill him on the road. Party provides protection.
 7. **The Doubt:** Rashid's faith wavers after a terrible tragedy. His powers weaken. Party must help him find his faith again.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 **Voice:** Gentle, slow, grandfatherly. Uses metaphors and desert imagery. Calls people "my child" regardless of age. Laughs warmly.
 **Mannerisms:**
 - Closes eyes when praying (several times daily)
@@ -4181,7 +3910,7 @@ Wife (Aisha) died 20 years ago. Never remarried. They had no children. Considers
 - Medium-term: Solve the Oasis problem before it becomes crisis
 - Long-term: Find worthy successor and ensure spiritual tradition continues
 
-### Notes for DMs
+#### Notes for DMs
 - Excellent quest-giver for good-aligned parties
 - Provides healing and resurrection services (for free or token donation)
 - Can be patron for holy quests
@@ -4239,10 +3968,10 @@ ___
 - **Alignment:** Lawful Neutral
 - **Class:** Rogue 8 (Mastermind) / Fighter 3 / Noble Background
 
-### Physical Description
+#### Physical Description
 Strikingly handsome (5'10", 170 lbs), with dark skin, perfectly trimmed black beard, and calculating brown eyes that miss nothing. Dressed in finest white silk robes with gold embroidery and turquoise jewelry. Every gesture is deliberate, every word chosen. Moves with the casual confidence of a man who has never been told "no." A faint smile plays constantly at his lips—the smile of someone who knows something you don't.
 
-### Equipment
+#### Equipment
 - **Armor:** Breastplate +1 (concealed under robes, masterwork)
 - **Weapon:** Scimitar +2 "Desert Fang" (poisoned blade, family heirloom)
 - **Ring:** Ring of Protection +1
@@ -4255,7 +3984,7 @@ Strikingly handsome (5'10", 170 lbs), with dark skin, perfectly trimmed black be
 {{footnote Part IV: NPCs}}
 \page
 
-### Personality
+#### Personality
 **Traits:**
 - Never raises his voice—whispers are more threatening than shouts
 - Treats everyone like a business proposition—friends are allies, enemies are opportunities
@@ -4279,7 +4008,7 @@ Strikingly handsome (5'10", 170 lbs), with dark skin, perfectly trimmed black be
 - Underestimates religious influence—thinks everything is politics
 - His succession crisis is partially his own making
 
-### Background & History
+#### Background & History
 Born in 1206 CR to Sultan Karim Ashborne, the second ruler of the Ashborne dynasty. Grew up watching his father consolidate power through marriage alliances with nomad clans, strategic assassinations of rivals, and monopolization of desert trade routes. Learned that power comes not from strength but from making yourself indispensable.
 
 At age 15, negotiated his first trade deal—a water-rights agreement that quadrupled House Ashborne's income. By 20, he'd married his first wife (daughter of the strongest nomad chief) and begun building his own network of spies and merchants.
@@ -4297,7 +4026,7 @@ The succession crisis is intentional. Rashid believes competition makes stronger
 **Relationship with High Priest Al-Sahir:**
 Rashid appointed Al-Sahir as High Priest shortly after becoming Sultan. They share a first name (common in Sundara) but no blood relation. Rashid respects Al-Sahir's spiritual authority and genuine popularity with the people, while Al-Sahir provides moral legitimacy to Rashid's pragmatic rule. They disagree frequently—Rashid favors harsh justice, Al-Sahir advocates mercy—but their partnership has kept Sundara stable for sixteen years.
 
-### Connections
+#### Connections
 - **High Priest:** Rashid Al-Sahir (spiritual advisor, moral counterweight, mutual respect despite different approaches)
 - **Spy Network:** The Eyes of Ashborne (intelligence organization across the desert)
 - **Trade Partner:** Merchant Prince Davos Goldshore (lucrative agreements, mutual distrust)
@@ -4324,7 +4053,7 @@ Rashid appointed Al-Sahir as High Priest shortly after becoming Sultan. They sha
 5. **The Escape Plan:** Has emergency escape routes, hidden funds, and a bolt-hole in Goldreach. If everything collapses, he'll survive. Ashbornes always survive.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Succession Crisis:** Rashid needs an outside party to investigate his children—which one is truly plotting against him, and which would make the best heir?
 2. **The Trade War:** Competition with the Merchant League has turned violent. Rashid needs mercenaries who can't be traced back to him.
 3. **The Oasis Threat:** The Great Oasis is dying. Rashid will pay handsomely for anyone who can find and stop whoever is responsible.
@@ -4332,7 +4061,7 @@ Rashid appointed Al-Sahir as High Priest shortly after becoming Sultan. They sha
 5. **The Diplomatic Mission:** Needs emissaries to negotiate with parties he can't openly contact (perhaps the Unbound, or foreign powers).
 6. **The Family Problem:** One of his children has done something that could destroy House Ashborne if it becomes public. He needs the problem to disappear quietly.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 **Voice:** Smooth, measured, never rushed. Speaks like everything is a negotiation. Occasional dry humor. Uses silence effectively.
 **Mannerisms:**
 - Strokes beard when thinking
@@ -4344,7 +4073,7 @@ Rashid appointed Al-Sahir as High Priest shortly after becoming Sultan. They sha
 
 **Social Situations:** Always probing for advantage. Assumes everyone wants something. Offers just enough to keep people interested. Never commits until he has to.
 
-### Notes for DMs
+#### Notes for DMs
 - Rashid is a political antagonist, not a combat boss
 - Perfect for intrigue-heavy campaigns
 - Can be patron (pays well, asks difficult things) or obstacle (blocks party goals)
@@ -4426,10 +4155,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Elegant and composed (5'7", 125 lbs), with the timeless beauty of high elves. Auburn hair with silver highlights, worn in complex braided style. Bright silver eyes that miss nothing. Pale skin. Always dressed in academic robes (burgundy with silver trim) indicating her rank as Rector. Wears spectacles for reading (doesn't need them, but they make her look scholarly).
 
-### Equipment
+#### Equipment
 - **Robe:** Robe of the Archmagi (burgundy, AC 15 + Dex, advantage on saves vs. spells, resistance to spell damage)
 - **Staff:** Staff of Power (can cast multiple spells, stores spell slots, can be used as weapon)
 - **Ring:** Ring of Protection +1
@@ -4437,7 +4166,7 @@ Elegant and composed (5'7", 125 lbs), with the timeless beauty of high elves. Au
 - **Spectacles:** Glasses of Reading (magical, allow reading any language, worth 500 gp)
 - **Other:** Component pouch, spell scrolls (Shield x3, Counterspell x2, Dispel Magic x2), potions of greater healing (2)
 
-### Personality
+#### Personality
 **Traits:**
 - Precise and organized—everything in its place
 - Listens carefully before speaking, then speaks with authority
@@ -4461,7 +4190,7 @@ Elegant and composed (5'7", 125 lbs), with the timeless beauty of high elves. Au
 - Underestimates non-magical solutions to problems
 - Workaholic—hasn't taken vacation in 50 years
 
-### Background & History
+#### Background & History
 Born in 905 CR in Aethermere. Showed magical talent young. Sent to Silverpine Magical Academy at age 40 (young for an elf). Proved to be prodigy in abjuration magic—by age 80, was full professor.
 
 Appointed Rector of the University at age 250 (1155 CR). Youngest Rector in university history. Under her leadership, the University has grown to be premier magical institution in western Tirvandor.
@@ -4470,7 +4199,7 @@ Also leads the Silverpine Council (city government). Silverpine is unique—gove
 
 Never married. Devoted entirely to her work. Considers her students her children. Has trained hundreds of wizards over the centuries.
 
-### Connections
+#### Connections
 - **House Silverleaf:** Lady Seraphine Silverleaf (current matriarch; Elara passed house duties to focus on academia)
 - **Colleague:** Archmage Veridian Starweaver (fellow faculty, friendly rivalry)
 - **Protégé:** Professor Elara Moonwhisper (former student, now faculty)
@@ -4492,7 +4221,7 @@ Never married. Devoted entirely to her work. Considers her students her children
 {{footnote Part IV: NPCs}}
 \page
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Library Theft:** Dangerous book stolen from restricted section. Party must recover it before it's used.
 2. **The Failing Wards:** City's protective wards are failing. Party must investigate why and help restore them.
 3. **The Dark Student:** Elara's former student is using dark magic for terrible purposes. She wants party to stop them—but alive if possible, for her sake.
@@ -4501,7 +4230,7 @@ Never married. Devoted entirely to her work. Considers her students her children
 6. **The Artifact Fragments:** Party discovers fragment of the same artifact as in her staff. She wants to secure it. Others want to assemble complete artifact.
 7. **The Final Exam:** Needs party to test new magical defense system. What could go wrong? (Everything.)
 
-### Roleplaying Notes
+#### Roleplaying Notes
 **Voice:** Clear, precise, academic. Uses technical terms. Speaks in complete paragraphs.
 **Mannerisms:**
 - Adjusts spectacles when thinking
@@ -4518,7 +4247,7 @@ Never married. Devoted entirely to her work. Considers her students her children
 - Medium-term: Establish satellite campuses in other cities
 - Long-term: Make magical education accessible to all who show aptitude
 
-### Notes for DMs
+#### Notes for DMs
 - Excellent quest-giver for magical research missions
 - Can provide magical item identification, spell research, etc.
 - University can be campaign location—intrigue among faculty, student problems
@@ -4563,16 +4292,16 @@ ___
 ***Extra Attack (3).*** :: Attacks three times per turn
 }}
 
-### Equipment
+#### Equipment
 Plate Armor +2 (mythril, dwarf-forged), Battleaxe +3 "Kingbreaker" (returns when thrown), Shield +1, Warhammer +2, Cloak of Protection, Ring of Feather Falling
 
-### Personality
+#### Personality
 & Background
 Gruff, honorable, old soldier. Commands with respect, not fear. Has served under three kings. Trusted advisor to King Aldric IV. Lost an eye in the Ashfall Uprising but refused magical healing ("Good dwarves earn their scars"). Values loyalty, hates cowardice.
 
 **Secret:** Arranged the "Northern Pact" with frost giants on King's behalf. Only three people know.
 
-### Background & History
+#### Background & History
 Born in the deep halls of Kaer Thandros to the Ironoak clan, one of the oldest dwarven families in the Ironspine Holds. Joined the mountain guard at age 45, served in the Border Wars against orc incursions (1180s CR). Rose through ranks during the Post-Dragon Reconstruction, when his tactical brilliance defending supply caravans caught King Aldric III's attention.
 
 Fought alongside humans during the Ashfall Uprising (1210 CR) when volcanic creatures threatened Emberforge. Lost his right eye to a fire giant's thrown boulder but refused to retreat until civilians evacuated. The injury became his badge of honor. Promoted to Lord Commander in 1225 CR, making him the first dwarf to hold the position in 200 years.
@@ -4583,7 +4312,7 @@ Has served three Thandris kings—the late Aldric III, briefly the infant-king M
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Reports to:** King Aldric IV Thandris (mutual respect, nearly father-son)
 - **Commands:** 5,000 Royal Army soldiers, 3,000 City Watch
 - **Allies:** General Marthos Thandris (king's distant cousin), Thane Durin Ironforge (old friend)
@@ -4599,7 +4328,7 @@ Has served three Thandris kings—the late Aldric III, briefly the infant-king M
 5. **The Lost Company:** His first command was massacred because he trusted bad intelligence. Survivors were told it was enemy action. It was actually friendly fire from panicking human troops.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Northern Pact Renewal:** Giants demand renegotiation. Thrain needs discrete agents to carry tribute and negotiate—official envoys would expose the secret.
 2. **The Traitor Hunt:** Evidence suggests a high-ranking officer is selling military secrets to the Shadow Syndicate. Thrain needs outsiders to investigate without alerting the mole.
 3. **The Lost Standard:** His first company's battle standard was taken by orcs and now sits in a warlord's trophy hall. He'll pay handsomely for its recovery—and silence about what really happened.
@@ -4610,7 +4339,6 @@ Has served three Thandris kings—the late Aldric III, briefly the infant-king M
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
 {{monster,frame,wide
@@ -4641,16 +4369,16 @@ ___
 ***Infused Warhammer +2.*** :: Melee Weapon Attack: +9 to hit, reach 5 ft., one target. ***Hit.*** 1d8+5 bludgeoning + can cast Heat Metal through it::
 }}
 
-### Equipment
+#### Equipment
 Breastplate +1, Shield +1, Warhammer +2 (his own creation), Belt of Dwarvenkind, Bag of Holding (full of materials), masterwork smith's tools, adamantine ingots (worth 5,000 gp)
 
-### Personality
+#### Personality
 & Background
 Perfectionist obsessed with craft. Speaks more to metal than people. Runs Crown Forge—makes weapons for royal guard and special commissions. Creates each piece personally. Refuses to mass-produce. Waiting list is 2-3 years. Charges fortune but worth it.
 
 **Secret:** Can forge mythril. Only three smiths in world can. Doesn't advertise this.
 
-### Background & History
+#### Background & History
 Fourth generation Crown Forge smith, born into the craft. His great-grandfather helped build the original Crown Forge in 650 CR under King Thorin I. The Forgefire clan has passed down techniques for three centuries—secrets whispered from father to son, never written.
 
 Durgan showed talent early, forging his first blade at age 30 (young for dwarves). Apprenticed under his father until 1120 CR, then journeyed to study other techniques. Spent twenty years in Emberforge learning volcanic smithing, ten years in the Sundaran Expanse studying desert-forged steel, and allegedly visited eastern Aethoria (he won't confirm this).
@@ -4663,7 +4391,7 @@ Returned to Kaer Thandros in 1157 CR and assumed his father's position after his
 
 Now the undisputed master of the Crown Forge, he's created weapons for three generations of royalty. His masterwork, the blade "Thrandil's Edge" carried by King Aldric IV, took seven years to complete.
 
-### Connections
+#### Connections
 - **Patron:** King Aldric IV Thandris (primary client, respects his work)
 - **Peers:** High Forge Master Borin Ironforge (only dwarf who might rival him)
 - **Rivals:** Forge-Master Rurik Ironanvil of the Forgebound Guild (bitter professional dispute)
@@ -4679,7 +4407,7 @@ Now the undisputed master of the Crown Forge, he's created weapons for three gen
 5. **The Royal Request:** King Aldric IV has asked him to forge something unprecedented—a weapon that could kill an ancient dragon. He's not sure it's possible. Or ethical.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Rare Materials:** Needs adamantine from a specific crashed meteor in orc territory. Hiring adventurers for extraction.
 2. **The Stolen Techniques:** His former apprentice fled to the Shadow Syndicate with forging secrets. They're making inferior but mass-produced magic weapons. Needs the apprentice stopped.
 3. **The Ancient Forge:** Explorers discovered a pre-Worldrend dwarven forge in the Sealed Levels. Durgan needs it secured and studied—the techniques there might be lost to time.
@@ -4722,13 +4450,13 @@ ___
 ***Extra Attack (2).*** :: Attacks twice
 }}
 
-### Personality
+#### Personality
 & Background
 Professional, suspicious, thorough. Questions everyone entering city. Has uncanny ability to spot lies and forged documents. Prevented three assassination attempts by catching infiltrators at gates. Never off duty. Sleeps at gatehouse. Entire life is the defense of Kaer Thandros.
 
 **Secret:** Found evidence of traitor in royal court. Investigating quietly. Doesn't know who to trust.
 
-### Background & History
+#### Background & History
 Born in a minor clan in the Ironspine Holds, not the prestigious halls of Kaer Thandros. Came to the capital as a young dwarf seeking opportunity. Joined the City Watch at age 50, worked the Outer City beat during the worst post-Dragon reconstruction years.
 
 Earned his reputation during the Merchant Riot of 1185 CR when grain prices spiked and hungry citizens stormed the Trade Quarter. Borin held the gates with twelve guardsmen against hundreds, never drawing blood—just talking them down while reinforcements arrived. The king himself commended him.
@@ -4741,7 +4469,7 @@ Has personally stopped three assassination attempts against the crown. The first
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Commander:** Lord Commander Thrain Ironoak (respects his judgment)
 - **Religious Superior:** Lord Commander Gareth Lightbane of the Lightbringers
 - **Partner:** Watch Commander Gregor Ironhand (human, trusts with his life)
@@ -4757,7 +4485,7 @@ Has personally stopped three assassination attempts against the crown. The first
 5. **The Divine Vision:** During his healing, he saw something—a moment of darkness swallowing Kaer Thandros. He believes it's prophetic. He doesn't know how to stop it.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Coded Messages:** Needs someone outside the guard to decode intercepted messages—can't trust internal cryptographers.
 2. **The Suspicious Travelers:** Had to admit a diplomatic party he's certain contains infiltrators. Needs them watched without official involvement.
 3. **The Gate Sabotage:** Someone is weakening the outer gate mechanisms. Needs investigation before the next assault.
@@ -4807,13 +4535,13 @@ ___
 ***Portent (2/Day).*** :: When Thelmar finishes a long rest, he rolls two d20s and records the numbers. He can replace any attack roll, saving throw, or ability check made by him or a creature he can see with one of these rolls.
 }}
 
-### Personality
+#### Personality
 & Background
 Elderly royal advisor. Scholarly, absent-minded, brilliant. Has advised three generations of kings. More interested in ancient texts than politics but understands both. Believes current political tensions are tied to pre-Worldrend events. Researching constantly.
 
 **Secret:** Has discovered evidence that third bloodline exists. Hasn't told King yet—trying to verify first.
 
-### Background & History
+#### Background & History
 Born in a small Heartlands village to a family of scribes. Showed magical aptitude early and was sent to the Arcanum in Silverpine at age 14. Excelled in divination studies under Archmage Veridian Starweaver, becoming one of his finest students.
 
 Recruited to Kaer Thandros in 1202 CR when King Aldric III needed a royal diviner. Has served the crown for 45 years across three reigns. His predictions about the Merchant Riot of 1185 CR (before his official posting) brought him to royal attention—he warned of unrest six months before it occurred.
@@ -4826,7 +4554,7 @@ Now elderly and knowing his time is limited, he works frantically to complete hi
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Serves:** King Aldric IV Thandris (trusts his counsel completely)
 - **Mentor:** Archmage Veridian Starweaver (still corresponds, old friends)
 - **Rival:** High Diviner Celestia Starborn of Silverpine (academic disagreement)
@@ -4842,7 +4570,7 @@ Now elderly and knowing his time is limited, he works frantically to complete hi
 5. **The Approaching Death:** He's divined his own death—within the year. He's racing to complete his research and find someone worthy to continue it.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Lost Archive:** Pre-Worldrend texts exist in a ruin beneath the Sundering Sea. Needs adventurers to retrieve them before they're lost forever.
 2. **The Third Heir:** Has a lead on the third bloodline's descendants. Needs discrete investigation—if true, this could reshape continental politics.
 3. **The Vision Verification:** Needs heroes to travel to the site of his disaster vision to see if it can be prevented.
@@ -4882,13 +4610,13 @@ ___
 ***Channel Divinity.*** :: Guided Strike (+10 to hit) or Turn Undead
 }}
 
-### Personality
+#### Personality
 & Background
 Former soldier turned priest. Runs temple dedicated to Mordain (god of protection). Provides blessings to guards and soldiers. Counsels warriors about duty and sacrifice. Still trains with weapons daily. Believes strength and faith are inseparable.
 
 **Secret:** Had vision of massive battle coming. Preparing temple to serve as field hospital.
 
-### Background & History
+#### Background & History
 Born Marcus Tormund in Crossvale to a farming family. Joined the Royal Army at 18, served in the Northern Border Campaigns against orc raiders throughout his twenties. Witnessed countless deaths and grew disillusioned with violence without purpose.
 
 The turning point came during the Battle of Iron Pass (1223 CR) when his company was ambushed and nearly wiped out. Tormund held a defensive line for six hours, protecting wounded soldiers, until reinforcements arrived. He was the only one of the rear guard still standing. During that stand, he prayed to every god he could name—and Mordain answered.
@@ -4901,7 +4629,7 @@ Now serves as the temple's head priest and chief counselor to soldiers strugglin
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Superior:** Archbishop Morven (respects but sometimes disagrees on doctrine)
 - **Military Contacts:** Lord Commander Thrain Ironoak (former comrade), Captain Borin Stoneshield (provides spiritual counsel)
 - **Allies:** Father Aldric Tidekeeper of Goldreach (fellow war-cleric)
@@ -4917,7 +4645,7 @@ Now serves as the temple's head priest and chief counselor to soldiers strugglin
 5. **The Traitor's Confession:** A dying soldier confessed to selling information to enemies. Tormund is bound by confession's sanctity but knows the name of someone who should be investigated.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Battle Preparation:** Needs help preparing the temple for mass casualties. Supplies, cots, healers, escape routes—all without causing panic.
 2. **The Haunted Soldier:** A veteran is possessed by something from the battlefield. Needs both combat skill and spiritual knowledge to help.
 3. **The Deserter Crisis:** One of his sheltered deserters was actually a spy. Now Tormund needs help finding him before the spy sells what he's learned.
@@ -4972,18 +4700,18 @@ ___
 ***Channel Divinity: Knowledge of the Ages (2/Rest).*** :: Gains proficiency with one skill or tool for 10 minutes.
 }}
 
-### Personality
+#### Personality
 & Background
 Quiet, contemplative, sees patterns others miss. Former student of Council Mistress Elara. Runs Observatory and teaches advanced divination. Often found staring at stars, taking notes. Predictions are eerily accurate. Students are either fascinated or scared of her.
 
-### Background & History
+#### Background & History
 Born in Silverpine to House Silverleaf retainers. Showed magical talent early and was admitted to Silverpine Magical Academy at the unusually young age of 45 (for elves). Studied under the legendary Council Mistress Elara Silverleaf (her namesake, no relation), developing a passion for divination and celestial magic.
 
 Her thesis work connected astronomical observations to ley line fluctuations—proving that celestial events influence magical currents. This groundbreaking research earned her a professorship at age 120, making her one of the youngest tenured faculty in the university's history.
 
 The real turning point came in 1190 CR during a rare celestial alignment. Her observations that night showed her something that shouldn't exist—a pattern in the stars that matched ancient House Starleaf records of the pre-Worldrend sky. The stars are slowly returning to their ancient positions. She doesn't know what this means, but she's been studying it for sixty years.
 
-### Connections
+#### Connections
 - **Mentor:** Council Mistress Elara Silverleaf (proud of her student's achievements)
 - **Academic Rival:** Sage Thelmar Runescribe of Kaer Thandros (friendly but competitive)
 - **Students:** Graduate researchers who help with observations (devoted following)
@@ -5003,7 +4731,7 @@ The real turning point came in 1190 CR during a rare celestial alignment. Her ob
 5. **The Student's Death:** A promising student died investigating something she asked him to observe. She carries guilt but has never told anyone what he was looking for.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Celestial Event:** A rare astronomical conjunction approaches. She needs observers at multiple locations simultaneously—including dangerous ones.
 2. **The Ancient Observatory:** Pre-Worldrend records mention an observatory that survived the cataclysm. Needs adventurers to find it.
 3. **The Stolen Research:** Someone broke into her office and copied her notes on the returning stars. Who has this information now?
@@ -5061,20 +4789,20 @@ ___
 ***Arcane Firearm.*** :: When casting artificer spell through artisan's tools, adds 1d8 to one damage roll.
 }}
 
-### Personality
+#### Personality
 & Background
 Master of Artisan Guild. Creates beauty, not just function. Jewelry fetches thousands of gold. Commission waiting list is 5+ years. Elves from across continent study under him. Believes art and magic are inseparable.
 
 **Secret:** Created artifact-level piece decades ago. So powerful he hid it. Fears what would happen if found.
 
-### Background & History
+#### Background & History
 Born in the Starwood of Aethoria over five centuries ago. Studied art and magic at Aethermere before crossing the Sundering Sea as a young elf, seeking new artistic traditions. Settled in Silverpine where the fusion of elven and human cultures inspired new creative possibilities.
 
 Apprenticed to both elven woodcarvers and human jewelers, developing a unique style blending elven grace with human boldness. His breakthrough piece—a crown for the Lord Silverleaf wedding—established his reputation across both continents.
 
 Elected Master of the Artisan Guild in 1180 CR after his predecessor died without an heir. Has led the guild for 67 years, maintaining Silverpine's reputation as the center of artistic excellence. His waiting list is decades long; his prices are astronomical; his work is priceless.
 
-### Connections
+#### Connections
 - **Guild:** Master of the Silverpine Artisan Guild (150 members)
 - **Patrons:** House Silverleaf, House Thandris, several Aethorian noble houses
 - **Rivals:** Master Smith Durgan Forgefire (professional competition)
@@ -5094,7 +4822,7 @@ Elected Master of the Artisan Guild in 1180 CR after his predecessor died withou
 5. **The Failing Eyes:** His vision is deteriorating. He has perhaps five more years of detailed work left. He's told no one.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Artifact Recovery:** Finally ready to retrieve his hidden crown. Needs trusted help to reach it—the location is dangerous.
 2. **The Guild Investigation:** Ready to clean house but needs outside investigators the corrupt members won't recognize.
 3. **The Commission of a Lifetime:** Will create a masterwork for free if someone retrieves specific rare materials from pre-Worldrend ruins.
@@ -5138,13 +4866,13 @@ ___
 ***Cunning Action.*** :: As a bonus action, can Dash, Disengage, or Hide.
 }}
 
-### Personality
+#### Personality
 & Background
 Fair, tough, intelligent. Commands City Watch with skill. Solved multiple high-profile cases. Incorruptible. Syndicate has tried to bribe her dozens of times—she arrests the messengers. Respected by criminals and citizens alike for her fairness and competence.
 
 **Secret:** Her father was a Syndicate member. She turned him in. He died in prison. She's never forgiven herself but stands by the decision.
 
-### Background & History
+#### Background & History
 Born in Silverpine's lower district to a mixed-race family—human mother, elven father. Her father Marcus worked for the Shadow Syndicate as a fence, providing the family a comfortable but morally compromised living.
 
 Lyra joined the City Watch at 20, believing she could do good from within the system. Rose quickly through the ranks, her mixed heritage giving her unique perspective on both human and elven concerns. At 32, she uncovered a smuggling ring—and discovered her father at its center.
@@ -5155,7 +4883,7 @@ She arrested him personally. He died of fever in prison two years later, never s
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Commands:** 200 City Watch officers across all districts
 - **Reports To:** Council Mistress Elara Silverleaf (complicated relationship)
 - **Ally:** Sage Thelmar Runescribe (provides magical support for investigations)
@@ -5171,7 +4899,7 @@ She arrested him personally. He died of fever in prison two years later, never s
 5. **The True Reason:** Her father wasn't just arrested for smuggling. He was about to turn crown's witness against Syndicate leadership. Someone silenced him in prison. She's still hunting his killer.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Records' Secret:** Found something in her father's records pointing to Syndicate leadership. Needs help investigating.
 2. **The Corrupt Lieutenant:** Ready to spring her trap but needs witnesses who can't be bought.
 3. **The Prison Murder:** Finally has a lead on who killed her father. Needs outsiders to investigate without alerting the killer.
@@ -5220,13 +4948,13 @@ ___
 ***Insightful Manipulator.*** :: After observing a creature for 1 minute, learns if it is her equal, superior, or inferior in two characteristics of her choice.
 }}
 
-### Personality
+#### Personality
 & Background
 Mysterious information broker. Runs upscale tavern where secrets are traded. Never takes sides. Sells information to anyone who can pay. Neutral arbiter of underworld. Even Syndicate respects her neutrality. Face changes slightly every time you see her—glamour magic.
 
 **Secret:** Is actually ancient demon who found loophole in her binding. Stuck on Material Plane. Gathering information to find way home. Not evil—just wants freedom.
 
-### Background & History
+#### Background & History
 The being called "Celeste" was bound to the Material Plane seven hundred years ago by a wizard seeking a servant. When the wizard died, she discovered a loophole—the binding required service to "the wizard's line." His last descendant died childless. She was free to act, but not to leave.
 
 Took mortal form and built a new existence. Discovered that information was more valuable than any demonic power. Established the Silver Ear as a neutral ground where secrets could be traded. Her supernatural nature helps her detect lies, read emotions, and remember everything.
@@ -5237,7 +4965,7 @@ She's spent centuries seeking a way home. The answer might lie in understanding 
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Network:** Hundreds of informants across Silverpine
 - **Neutral Contacts:** Both Shadow Syndicate and City Watch respect her neutrality
 - **Secret Ally:** Another bound entity (identity unknown) shares information
@@ -5253,7 +4981,7 @@ She's spent centuries seeking a way home. The answer might lie in understanding 
 5. **The Worldrend Connection:** Believes the Worldrend weakened her planar prison. A second Worldrend might free her—or destroy her.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Information Trade:** Knows almost everything about Silverpine. Will share for services that advance her goals.
 2. **The Inquisitor Problem:** The hunter is getting too close. Needs help misdirecting him—permanently.
 3. **The Planar Research:** Needs someone to investigate a site related to the Worldrend. Paying extremely well.
@@ -5293,14 +5021,14 @@ ___
 ***Rallying Cry.*** :: As a bonus action, chooses up to 3 allies within 60 feet who can hear him. Each regains 8 hit points.
 }}
 
-### Background & History
+#### Background & History
 Born in Goldreach's dock district to a sailmaker and a tavern cook. Started working the docks at 10, loading cargo. By 20, knew every ship in the harbor by silhouette. Joined the Harbormaster's office at 25 as a junior clerk.
 
 Rose through the ranks over three decades through competence and carefully maintained neutrality. Became Harbormaster at 45 when his predecessor died in a "warehouse accident" (Syndicate punishment for being too strict). Tobias learned from that example—not to be corrupt, but to be flexible.
 
 His compromise: accept bribes from smugglers dealing in victimless goods (exotic spices, rare materials, luxury items). Refuse anything involving weapons, drugs, or people. Use the bribe money to fund the orphanage where he grew up. It's morally gray, but the orphanage has saved hundreds of children who'd otherwise have died or joined the Syndicate themselves.
 
-### Connections
+#### Connections
 - **Reports To:** House Goldshore (officially Lord Aldris III; practically deals with Lord Aldris IV)
 - **Staff:** 50 dock workers and clerks
 - **Informants:** Knows every captain who regularly visits Goldreach
@@ -5320,7 +5048,7 @@ His compromise: accept bribes from smugglers dealing in victimless goods (exotic
 5. **The Big Shipment:** A very large illegal cargo is coming through soon—weapons for someone. He can't stop it without exposing himself. Needs help.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Weapon Shipment:** Knows when and where but can't act. Needs outsiders to intercept without involving him.
 2. **The Predecessor's Murder:** Finally ready to move against the Syndicate member who killed his boss. Needs proof that will hold up.
 3. **The Orphanage Threat:** Someone's discovered the money trail. The orphanage is in danger.
@@ -5362,7 +5090,7 @@ ___
 ***Rallying Cry.*** :: As a bonus action, chooses up to 3 allies within 60 feet who can hear him. Each regains 8 hit points.
 }}
 
-### Background & History
+#### Background & History
 Born in Crystalbrook to a family of lake pilots. Her great-grandfather helped establish the lake patrol when the Crystalbrook Compact formed. She was practically raised on boats, learning navigation before she could read.
 
 Married young to another patrol officer, Darian. They served together on the same ship, the perfect partnership. Then pirates from the Fractured Coast raided their patrol—rare but devastating. Darian died holding the deck so the crew could escape.
@@ -5370,7 +5098,7 @@ Married young to another patrol officer, Darian. They served together on the sam
 Mira took command of the survivors, hunted the pirates for three months, and sank their ship personally. That pursuit made her legend and earned her the captaincy. Now commands the entire lake patrol fleet—a dozen ships protecting trade across the Crystalvale. Every pirate captured feels like justice for Darian.
 \column
 
-### Connections
+#### Connections
 - **Commands:** Lake Patrol Fleet (12 ships, 400 sailors)
 - **Reports To:** Guildmaster Theron Clearwater of Crystalbrook
 - **Rival:** Captain Vex Darkwater of the Thornmire (territorial disputes)
@@ -5390,7 +5118,7 @@ Mira took command of the survivors, hunted the pirates for three months, and san
 5. **The Forbidden Zone:** Knows the location of a sunken pre-Worldrend city beneath the lake. Officially it doesn't exist. She's seen its lights.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Final Hunt:** Has a lead on her husband's killer. Needs help to pursue without abandoning her duties.
 2. **The Lake Mystery:** Ships vanishing. Needs investigators who can travel where her fleet can't.
 3. **The Sunken City:** Ready to explore the forbidden ruins. Needs divers and adventurers.
@@ -5434,14 +5162,14 @@ ___
 ***Warding Maneuver (4/Day).*** :: When Mira or a creature within 5 feet of her is hit by an attack, she can roll 1d8 and add the result to the target's AC, potentially causing the attack to miss.
 }}
 
-### Background & History
+#### Background & History
 The being calling himself Cornelius Goldpurse was born a nameless halfling slave in a Sundaran merchant's household sixty years ago. Beaten, starved, and treated as property, he learned two things: how wealth worked, and how to hate.
 
 When his master died (of "natural causes" involving a very natural poisoned wine glass), the slave stole his identity papers, his emergency fund, and his ship. Fled to Goldreach where no one knew the real Cornelius. Built an empire from nothing using skills learned watching his master—and a ruthlessness born from suffering.
 
 Now he's one of the wealthiest merchants in Thaldros. Controls shipping routes, warehouses, and a network of legitimate and less-legitimate businesses. Uses his fortune to secretly fund abolition efforts in Sundara while publicly maintaining a mask of amoral capitalism. The contradiction is intentional—the world expects evil from the wealthy, so he gives them evil while doing good in shadow.
 
-### Connections
+#### Connections
 - **Business Network:** Dozens of merchant houses depend on his trade routes
 - **Rivals:** House Goldshore (compete for shipping dominance)
 - **Secret Alliance:** Funds anti-slavery networks throughout Sundara
@@ -5461,7 +5189,7 @@ Now he's one of the wealthiest merchants in Thaldros. Controls shipping routes, 
 5. **The Wife's Price:** His wife demanded one thing for her silence: he must never stop helping slaves escape. He hasn't.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Rescue Mission:** A slave caravan needs intercepting. Willing to pay adventurers to "rob" it.
 2. **The Blackmail Crisis:** Someone stole some of his compromising files. Needs them recovered before they're used.
 3. **The Identity Threat:** Someone is investigating the original Cornelius's death. Needs the trail confused.
@@ -5503,14 +5231,14 @@ ___
 ***Supreme Sneak.*** :: Has advantage on Stealth checks if he moves no more than half his speed on the same turn.
 }}
 
-### Background & History
+#### Background & History
 Born in a fishing village on the Goldcoast, the son of a fisherman who drowned in a storm when Aldric was six. His mother remarried a merchant captain who raised him at sea. Learned to read weather, respect the ocean, and pray to the sea gods.
 
 Called to Sylvara's service at 18 after surviving a shipwreck that killed everyone else. Walked out of the surf untouched while bodies washed up around him. Knew the goddess had plans for him. Trained at the temple in Goldreach, quickly showing unprecedented talent for Tempest magic.
 
 Now serves as high priest of Sylvara's temple in Goldreach Harbor. Blesses ships, comforts widows, and—when storms threaten—stands at the harbor entrance and bargains with the weather itself. Sailors consider him a living saint. He considers himself a servant doing his job.
 
-### Connections
+#### Connections
 - **Congregation:** Thousands of sailors, fishermen, and their families
 - **Temple Staff:** Twelve lesser priests and acolytes
 - **Ally:** Harbor Master Tobias Saltwind (mutual respect)
@@ -5530,7 +5258,7 @@ Now serves as high priest of Sylvara's temple in Goldreach Harbor. Blesses ships
 5. **The Survivor's Guilt:** Still dreams of the shipwreck survivors who didn't walk out of the surf. Wonders why he was chosen and they weren't.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Coming Storm:** Needs help preparing Goldreach for the catastrophic hurricane he's foreseen.
 2. **The Merfolk Crisis:** Something threatens the merfolk. They've asked him for help—and for the first time, he can't provide it alone.
 3. **The Weather Balance:** A storm he redirected destroyed a village he thought was empty. It wasn't. He needs to help without revealing his power.
@@ -5578,14 +5306,14 @@ ___
 ***Wrath of the Storm.*** :: When a creature within 5 feet hits Aldric with an attack, he can use his reaction to deal 2d8 lightning or thunder damage (DC 16 Dex save for half).
 }}
 
-### Background & History
+#### Background & History
 Born to a servant in the Goldshore household who caught Merchant Prince Davos's eye. Her mother was paid off and sent away when the pregnancy showed. Verena grew up in poverty knowing her father was one of the wealthiest men in Thaldros—and that he'd thrown her away.
 
 Trained herself in the arts of death, starting with the man who abused her mother in their exile. Killed him at 16. Found she had talent. Joined the Shadow Syndicate at 18, rising quickly through their assassin ranks. By 25, she was their most reliable contractor.
 
 Now operates independently, taking contracts from anyone who meets her standards. Her code is absolute: no innocents, no children, and no one who doesn't deserve it by her judgment. The irony isn't lost on her that Davos Goldshore is one of her regular clients—hiring his own daughter to eliminate rivals. She's waiting for the right moment to reveal herself. Or kill him. She hasn't decided.
 
-### Connections
+#### Connections
 - **Former Employer:** Shadow Syndicate (left on good terms, still takes referrals)
 - **Unknown Father:** Merchant Prince Davos Goldshore
 - **Mother:** Selena Shadowblade (alive, living in poverty in a distant village)
@@ -5605,7 +5333,7 @@ Now operates independently, taking contracts from anyone who meets her standards
 5. **The Retirement Plan:** Accumulating wealth to disappear completely. Or to reveal herself to her father and take everything. Still deciding.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Contract Offer:** Will take contracts that meet her code. Pays well for leads on deserving targets.
 2. **The Goldshore Revelation:** Ready to confront her father—but needs witnesses who can protect her afterward.
 3. **The Survivor's Revenge:** The child she spared is hunting her. Needs help determining if they're a threat or an opportunity.
@@ -5648,14 +5376,14 @@ ___
 ***Cutting Words.*** :: When a creature Wilhelm can see within 60 feet makes an attack roll, ability check, or damage roll, he can use his reaction to subtract 1d8 from the roll.
 }}
 
-### Background & History
+#### Background & History
 Third generation Crossvale politician. His grandfather helped establish the city as a neutral trade hub during the Post-Worldrend consolidation. His father served three terms as Burgher-Master. Wilhelm was practically born in the Council Hall.
 
 Studied law and commerce in Silverpine, returned to Crossvale with ambitious reform ideas, and promptly discovered that politics moves slower than he'd hoped. Elected to the Council at 30, became Burgher-Master at 45 after a campaign built on promises of infrastructure improvement.
 
 Discovered upon taking office that the Council was more interested in maintaining the status quo than building anything new. So he started skimming small amounts from tariffs—never enough to notice, always enough to fund essential projects. New wells, road repairs, granary expansions. Everything the city needs but won't pay for.
 
-### Connections
+#### Connections
 - **Commands:** City Council (15 members, various factions)
 - **Trade Partners:** Every major merchant house passes through Crossvale
 - **Ally:** Caravan Master Hassan (keeps trade flowing)
@@ -5675,7 +5403,7 @@ Discovered upon taking office that the Council was more interested in maintainin
 5. **The Succession Crisis:** His sons are incompetent. His daughter is brilliant but women can't hold office in Crossvale. He's trying to change that law before he dies.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Audit Problem:** Someone is investigating city finances. Needs help hiding the evidence—or deciding to come clean.
 2. **The Blackwood Secret:** Councilman Aldric is being blackmailed by someone else. Wilhelm needs help without exposing either of them.
 3. **The League Negotiation:** Needs intermediaries to negotiate with the Merchant League without appearing weak.
@@ -5719,14 +5447,14 @@ ___
 ***Flash of Genius (4/Day).*** :: When she or a creature within 30 feet makes an ability check or saving throw, can add +4 to the roll as a reaction.
 }}
 
-### Background & History
+#### Background & History
 Born in the merchant clan of Kaer Thandros, trained as a smith's daughter before discovering her true talent: logistics. Can look at a warehouse and tell you exactly what's missing, what's overstock, and what's been stolen.
 
 Worked her way up through the Merchant League, eventually being posted to Crossvale—the most important distribution hub in Thaldros. Has managed the League warehouse for 80 years, outlasting five Burgher-Masters and three regional directors.
 
 Her warehouse is legendary: nothing is lost, nothing is wasted, everything is accounted for to the last copper nail. Some say she knows where every item she's ever handled ended up. They're not wrong.
 
-### Connections
+#### Connections
 - **Employer:** Merchant League (regional director)
 - **Staff:** 40 warehouse workers, all personally vetted
 - **Clients:** Every merchant who moves goods through Crossvale
@@ -5746,7 +5474,7 @@ Her warehouse is legendary: nothing is lost, nothing is wasted, everything is ac
 5. **The Emergency Cache:** Has hidden supplies throughout Crossvale for emergencies. If the city ever falls under siege, she's prepared.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Special Order:** Can acquire almost anything—for the right price and the right reasons.
 2. **The Missing Cargo:** Willing to share information about the 30-year-old theft in exchange for help recovering it.
 3. **The Market Intelligence:** Will trade shipping pattern analysis for services rendered.
@@ -5790,14 +5518,14 @@ ___
 ***2nd level (3 slots).*** :: *find traps, pass without trace, silence*
 }}
 
-### Background & History
+#### Background & History
 Born to the Al-Rashid clan of the Sundaran Expanse, one of the oldest caravan families. His great-great-grandfather established the trade route connecting Sundara to Crossvale. Hassan has walked it so many times he knows every rock, every oasis, every danger.
 
 Took over the family caravan at 35 after his father retired. Expanded operations to include the dangerous eastern route through the Ashfall Barrens. His caravans are legendary for arriving on time, intact, and profitable—achievements that seem impossible in the desert trade.
 
 Three years ago, his scouts found an unmarked tomb in the deep desert. Against his better judgment, he explored it. Took a golden scarab that called to him. Didn't realize until later it was slowly killing him. Now he runs each caravan like it might be his last, searching for someone who can break the curse before it's too late.
 
-### Connections
+#### Connections
 - **Clan:** Al-Rashid trading family (largest in Sundara)
 - **Routes:** Controls primary Sundara-Crossvale and Sundara-Ashgate routes
 - **Patron:** Sultan Rashid Ashborne (shares family name, distant relation)
@@ -5817,7 +5545,7 @@ Three years ago, his scouts found an unmarked tomb in the deep desert. Against h
 5. **The Final Route:** Has planned one last grand expedition—across the Sundering Sea to Aethoria. Wants to see the eastern continent before he dies.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Curse Quest:** Hiring anyone who might know how to break ancient curses.
 2. **The Desert Caravan:** Needs guards for a dangerous crossing. Pays extremely well because it might be his last.
 3. **The Return Expedition:** Ready to go back to the tomb—needs help dealing with whatever he awakened.
@@ -5859,14 +5587,14 @@ ___
 ***Indomitable (1/Rest).*** :: Gregor can reroll a saving throw that he fails and must use the new roll.
 }}
 
-### Background & History
+#### Background & History
 Born in Crossvale to a blacksmith and a seamstress. His older brother Marcus was always the clever one; Gregor was the strong one. They were close as children, drifted apart as adults when Marcus "went into business" and Gregor joined the City Watch.
 
 Rose through the ranks through competence and stubborn honesty. Can't be bribed—not because he's rich, but because he genuinely believes in the law. Made Watch Captain at 38 after his predecessor was murdered by the Shadow Syndicate. Gregor swore to clean up Crossvale. He's been trying ever since.
 
 Doesn't know his brother Marcus is "The Iron Hand"—a Syndicate enforcer who handles their most violent problems. The brothers haven't spoken in years. If Gregor ever discovered the truth, it would break him. And he'd still make the arrest.
 
-### Connections
+#### Connections
 - **Commands:** 80 City Watch officers in Crossvale
 - **Reports To:** Burgher-Master Wilhelm Von Handel
 - **Unknown Enemy:** His brother Marcus "The Iron Hand"
@@ -5886,7 +5614,7 @@ Doesn't know his brother Marcus is "The Iron Hand"—a Syndicate enforcer who ha
 5. **The Near Miss:** Once arrested his brother during a random sweep. Marcus talked his way out. Gregor doesn't remember his face—it was dark and crowded.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Syndicate Investigation:** Hiring discrete help to investigate Syndicate operations.
 2. **The Brother's Trail:** Evidence pointing to "The Iron Hand." Needs help following it—doesn't know where it leads.
 3. **The Assassination Attempt:** Syndicate might try to kill him. Needs protection—or bait for a trap.
@@ -5929,14 +5657,14 @@ ___
 ***Uncanny Dodge.*** :: When an attacker Silas can see hits him with an attack, he can use his reaction to halve the attack's damage.
 }}
 
-### Background & History
+#### Background & History
 Born "Silas Greenfingers" in the poorest district of Crossvale. Orphaned at 8, survived by stealing. Caught at 12, nearly hanged, saved by a Syndicate recruiter who saw potential. Has worked for the organization ever since.
 
 Rose through the ranks by being smart, careful, and absolutely reliable. Started as a runner, became a fence, then a regional coordinator. Now serves on the Syndicate's inner council—one of Master Crimson's most trusted lieutenants. His fence operation is legitimate cover for his real work: managing Syndicate operations throughout central Thaldros.
 
 The irony of providing information to Captain Lyra Swiftwind isn't lost on him. He feeds her enough real intelligence to maintain his cover while protecting Syndicate interests. It's a dangerous game—if either side discovers the full truth, he's dead.
 
-### Connections
+#### Connections
 - **Superior:** Master Crimson (Syndicate leader)
 - **Cover Contact:** Captain Lyra Swiftwind (feeds her controlled intelligence)
 - **Operations:** Coordinates Syndicate activities across central Thaldros
@@ -5956,7 +5684,7 @@ The irony of providing information to Captain Lyra Swiftwind isn't lost on him. 
 5. **The One Regret:** Ordered a killing 20 years ago that still haunts him. The target was innocent. He knows exactly who actually committed the crime.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Information Broker:** Will sell information to adventurers—if they're useful to Syndicate interests.
 2. **The Double Agent Opportunity:** Might be turned if convinced his escape plan could actually work.
 3. **The Old Crime:** Wants to make amends for the innocent death. Will help—for a price that includes discretion.
@@ -5996,14 +5724,14 @@ ___
 ***Rallying Cry.*** :: As a bonus action, chooses up to 3 allies within 60 feet who can hear him. Each regains 11 hit points.
 }}
 
-### Background & History
+#### Background & History
 Born in Frostholm to a family that has guarded the northern border for generations. His grandfather fought frost giants. His father negotiated with them. Kael learned to do both—fight when necessary, talk when possible.
 
 Assigned to Ironhold's northern garrison at 20, rose to command by 35. During a brutal winter campaign that killed hundreds, he was captured by frost giants. Instead of executing him, their king wanted to talk. That conversation changed everything.
 
 Kael realized the giants weren't invading—they were desperate. Their hunting grounds were dying. They raided because they were starving. He negotiated a secret agreement: controlled hunting rights in exchange for peace. The raids stopped. His superiors think he's a tactical genius. The truth would end his career.
 
-### Connections
+#### Connections
 - **Commands:** Northern Garrison (500 soldiers)
 - **Reports To:** Lord Commander Thrain Ironoak
 - **Secret Ally:** Frost Giant King Hrothgar (the pact partner)
@@ -6023,7 +5751,7 @@ Kael realized the giants weren't invading—they were desperate. Their hunting g
 5. **The Succession Question:** Giant King Hrothgar is aging. His heir is aggressive. The peace might not survive the transition.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Diplomatic Crisis:** Giants are getting restless. Needs intermediaries who can't be traced to him.
 2. **The Territory Threat:** Something in giant lands that threatens both sides. Needs investigation.
 3. **The Supply Problem:** Regular supplier was killed. Needs someone to make the delivery without asking questions.
@@ -6065,14 +5793,14 @@ ___
 ***Remarkable Athlete.*** :: Adds +3 to any Strength, Dexterity, or Constitution check that doesn't already use her proficiency bonus.
 }}
 
-### Background & History
+#### Background & History
 Born in Iceridge to a mining family. Joined the army to escape the mines, discovered she was born for combat. Her speed, precision, and cold nerve made her a natural warrior.
 
 Her first command was a disaster. Led a squad of eight into what should have been a routine patrol. Giant ambush in a narrow pass. She was the only survivor, dragging herself back through the snow with three broken ribs and a shattered leg. The healers saved her body. Nothing saved her mind.
 
 Now she trains like she's possessed—because she is. Every morning starts before dawn. Every night ends with weapons practice. She's made herself into the perfect soldier because she refuses to be the reason anyone else dies. Her troops respect her but worry about her. The nightmares never stopped.
 
-### Connections
+#### Connections
 - **Commands:** Elite Scout Squad (12 soldiers, all volunteers)
 - **Superior:** Commander Kael Stormwatcher (respects but doesn't fully trust)
 - **Troops:** Fiercely loyal squad who'd follow her anywhere
@@ -6092,7 +5820,7 @@ Now she trains like she's possessed—because she is. Every morning starts befor
 5. **The Suspicious Pattern:** Giants knew exactly where her patrol would be. Suspects someone betrayed them. Has never stopped looking.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Dangerous Mission:** Volunteers for suicide missions. Might need help—or saving from herself.
 2. **The Ambush Investigation:** Finally has a lead on who betrayed her squad. Needs help following it.
 3. **The Memory Recovery:** A dream-shaman might be able to restore her missing memories. Needs escort to find one.
@@ -6136,14 +5864,14 @@ ___
 ***Uncanny Dodge.*** :: Can use reaction to halve an attack's damage.
 }}
 
-### Background & History
+#### Background & History
 Born to a halfling trading family that traveled between Crossvale and the Ironspine settlements. Grew up on the road, learning to read trails before he could read books. His small size and light feet made him perfect for scouting dangerous territory.
 
 Enlisted in the Ironhold scouts at 25—unusual for a halfling. Faced prejudice but proved himself by surviving missions that killed larger soldiers. His ability to move unseen through giant territory saved dozens of lives. Promoted to Scout Captain at 40.
 
 Six months ago, he found something during a routine patrol—tracks that shouldn't exist. Something large, ancient, and moving through areas it never used before. He's been tracking it obsessively since, going on "solo patrols" that take him deeper into dangerous territory. He won't tell anyone what he's hunting because he's not sure they'd believe him.
 
-### Connections
+#### Connections
 - **Commands:** Scout Unit (30 halfling and gnome scouts)
 - **Superior:** Commander Kael Stormwatcher
 - **Rival:** Human scout captain who resents his promotion
@@ -6163,7 +5891,7 @@ Six months ago, he found something during a routine patrol—tracks that shouldn
 5. **The Close Call:** Almost found its lair last month. Something saw him and let him go. He doesn't know why.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Dragon Hunt:** Finally ready to share what he knows—but needs help for the final approach.
 2. **The Intervention:** His scouts want someone to talk sense into him. Or help him finish the hunt safely.
 3. **The Evidence Analysis:** Needs the scales and tooth identified by someone who won't report him.
@@ -6209,14 +5937,14 @@ ___
 ***Channel Divinity: Guided Strike.*** :: On an attack roll, Marcus can use Channel Divinity to gain a +10 bonus to the roll.
 }}
 
-### Background & History
+#### Background & History
 Born in Silverpine to a merchant family, joined the clergy of Sera at 18 seeking purpose. Assigned as military chaplain to the Ironhold garrison at 25—the traditional posting for new priests. Expected to serve a few years and transfer to a comfortable temple position.
 
 That was 15 years ago. He stayed because the soldiers needed him. Held dying men's hands. Performed last rites in snowstorms. Blessed weapons before battles and conducted funerals after. Saw more death in his first year than most priests see in a lifetime.
 
 Somewhere along the way, his faith cracked. He prays the words but feels nothing. Performs the rituals but wonders if anyone listens. He continues because the soldiers need someone to believe in something—and he won't abandon them to despair even as he drowns in his own.
 \column
-### Connections
+#### Connections
 - **Congregation:** The entire Ironhold garrison (500 soldiers)
 - **Superior:** Temple hierarchy in Silverpine (distant, indifferent)
 - **Ally:** Commander Kael Stormwatcher (trusts his counsel)
@@ -6236,7 +5964,7 @@ Somewhere along the way, his faith cracked. He prays the words but feels nothing
 5. **The Question:** Sometimes wishes for an answer—any answer—even if it meant his own death would prove gods exist.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Faith Quest:** Needs someone to help him find proof—or closure. Will travel anywhere.
 2. **The Soldier's Souls:** A dying soldier asked him to deliver a message to a god. He needs to find a way to do it.
 3. **The Temple Politics:** Silverpine wants to transfer him. The garrison wants to keep him. Needs allies for the political fight.
@@ -6279,14 +6007,14 @@ ___
 ***Winter's Embrace.*** :: As a bonus action, the Frost Witch can teleport to an unoccupied space within 30 feet that she can see, leaving behind a burst of snow that heavily obscures the space until the start of her next turn.
 }}
 
-### Background & History
+#### Background & History
 She doesn't remember her true name anymore—it was taken as part of the binding. Once she was a free spirit of winter, dancing through blizzards and singing with avalanches. Then a desperate human commander made a pact to save his fortress from a giant siege.
 
 The binding chains her to Ironhold's defense. She must protect the fortress and its people. Cannot leave the northern territories. Cannot refuse calls for help. The original pact was for "a hundred winters"—but the commander's descendants keep renewing it through ritual.
 
 She has served for 300 years. Watched generations live and die. Helped them, healed them, killed for them. Hates them. Loves some of them. The contradiction is maddening. She wants to be free—but the current Commander Kael is a good man, and part of her doesn't want to abandon his people.
 
-### Connections
+#### Connections
 - **Bound To:** Ironhold and its people (Commander Kael is current pact holder)
 - **Origin:** Winter Court of the Fey (if she could return)
 - **Allies:** Some Ironhold soldiers genuinely care for her
@@ -6306,7 +6034,7 @@ She has served for 300 years. Watched generations live and die. Helped them, hea
 5. **The Winter Court:** If freed, she could summon help from the Winter Court. Whether they'd help or punish her for being bound is unknown.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Freedom Quest:** Looking for anyone who understands fey pacts. Will trade winter magic for knowledge.
 2. **The Renewal Sabotage:** Could tell adventurers how to disrupt the renewal ritual—if convinced they'd protect Ironhold another way.
 3. **The Winter Court Embassy:** Needs a message carried to the fey courts. Can't go herself.
@@ -6344,14 +6072,14 @@ ___
 ***Healing Touch (3/Day).*** :: Touches a creature and restores 2d8+4 hit points.
 }}
 
-### Background & History
+#### Background & History
 Elder Rashid earned his title "the Twice-Blessed" through two miraculous events that defined his life. The first occurred in his youth when, during a sandstorm that claimed his entire caravan, he alone survived—found three days later by traders, unharmed and claiming a golden figure had sheltered him. The second blessing came decades later when assassins poisoned his wine at a diplomatic dinner; he drank deeply, felt nothing, and continued his speech while his would-be killers fled in terror.
 
 Born to a minor merchant family in the oasis city of Sundara, Rashid showed early aptitude for diplomacy and an uncanny ability to sense deception. He rose through the temple hierarchy not through ambition but through genuine wisdom and an almost supernatural calm that soothed conflicts before they could escalate.
 
 Now in his seventies, he serves as a senior spiritual advisor alongside High Priest Al-Sahir, counseling Sultan Rashid Ashborne (no relation—Rashid is simply a common name in Sundara) and mediating disputes between the great trading houses. His reputation for fairness is matched only by his reputation for surviving things that should have killed him.
 
-### Connections
+#### Connections
 - **Sultan Rashid Ashborne:** Trusted advisor on spiritual matters, though they sometimes disagree on mercy vs. pragmatism
 - **High Priest Al-Sahir:** Fellow elder and spiritual colleague, mutual respect despite different approaches
 - **The Temple of the Seven:** Senior elder of the Sundaran temple complex
@@ -6373,7 +6101,7 @@ Now in his seventies, he serves as a senior spiritual advisor alongside High Pri
 5. **The Entity's Interest:** Whatever blessed him still watches. Sometimes he feels its attention, usually before something terrible happens nearby.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Assassination Attempt:** Someone is hiring outsiders to kill Rashid, since local assassins refuse. He needs investigation and protection.
 2. **The Vision's Warning:** His latest vision showed the party in danger. He wants to help them—but the vision also showed his own death.
 3. **The Desert Entity:** Strange phenomena are occurring near the site of his first blessing. He needs someone to investigate.
@@ -6417,14 +6145,14 @@ ___
 ***Flash of Genius (4/Day).*** :: When Zara or a creature within 30 feet makes an ability check or saving throw, she can add +4 to the roll as a reaction.
 }}
 
-### Background & History
+#### Background & History
 Born in Sundara to a family of glassworkers. The desert provides perfect sand for glass-making, and her family has practiced the craft for twelve generations. She showed exceptional talent from childhood, creating pieces that seemed to capture light itself.
 
 Traveled to Silverpine to study magical glass at the university, then returned to Sundara to combine traditional techniques with arcane knowledge. Her fusion style—called "desert light" by collectors—commands prices that rival jewelry.
 
 Three years ago, while experimenting with ancient Sundaran formulas found in a ruin, she accidentally created glass that couldn't break. Dropped it, hit it with a hammer, threw it against stone—nothing. She immediately destroyed her notes and told no one. Unbreakable glass would revolutionize warfare—shields, windows, armor. She's terrified of what would happen if the secret spread.
 
-### Connections
+#### Connections
 - **Patron:** Sultan Rashid Ashborne (loves her art pieces)
 - **Guild:** Head of the Sundaran Glassworkers Guild
 - **Students:** Three apprentices learning traditional techniques only
@@ -6444,7 +6172,7 @@ Three years ago, while experimenting with ancient Sundaran formulas found in a r
 5. **The Moral Question:** Could unbreakable glass save lives? Stop wars? Or just make them worse? She doesn't know.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Ruin Expedition:** Needs the ancient formula source explored—and potentially sealed forever.
 2. **The Apprentice Problem:** Needs help deciding what to do about her too-clever student.
 3. **The Commission Refusal:** A powerful kingdom is pressing harder. Might need protection.
@@ -6489,14 +6217,14 @@ ___
 ***Volley.*** :: Khalid can use his action to make a ranged attack against any number of creatures within 10 feet of a point he can see within his weapon's range.
 }}
 
-### Background & History
+#### Background & History
 Born to a Sundaran clan destroyed by bandits when he was 10. Survived by hiding under his mother's body. Rescued by the Sultan's rangers, who raised him as one of their own.
 
 Became the most effective ranger in the Expanse. His tracking is legendary—can follow a snake across sand, predict sandstorms by smell, find water where none should exist. But his methods have grown darker. The bandits who killed his family were never caught. Every criminal might be one of them.
 
 Started taking prisoners for "extended questioning" nearly a century ago. The information he extracts has prevented attacks, saved lives. But the screaming haunts him. He knows what he's becoming. Can't seem to stop. The boy hiding under his mother's corpse is still screaming for justice—and nothing satisfies him.
 
-### Connections
+#### Connections
 - **Commands:** Desert Ranger Squad (20 elite trackers)
 - **Superior:** Sultan Rashid Ashborne (doesn't know about the torture)
 - **Victim:** Every prisoner he's "questioned"
@@ -6516,7 +6244,7 @@ Started taking prisoners for "extended questioning" nearly a century ago. The in
 5. **The Final Warning:** A prisoner's curse before dying: "You'll become what you hunt." He thinks about it every day.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Confession:** Wants to stop—but doesn't know how. Might open up to outsiders who don't judge immediately.
 2. **The Family's Killers:** Actually has a lead on the real bandits. Needs help so he doesn't have to torture the answer out.
 3. **The Sultan's Discovery:** Rashid is suspicious. Khalid needs either help covering up or help coming clean.
@@ -6558,14 +6286,14 @@ ___
 ***Supreme Sneak.*** :: Has advantage on Stealth checks if she moves no more than half her speed on the same turn.
 }}
 
-### Background & History
+#### Background & History
 Born to the wealthiest merchant family in Sundara, trained from childhood to take over the family empire. But Yasmin always cared more about the desert's secrets than its profits. While learning trade, she secretly studied archaeology, history, and ancient languages.
 
 Inherited the family business at 25 when her father died. Used her merchant networks to fund desert excavations disguised as "trade expeditions." Every caravan that goes out comes back with legal goods—and hidden relics from ruins her workers have uncovered.
 
 Now has the largest private collection of pre-Worldrend artifacts in Thaldros. Most are locked in a secret vault beneath her mansion. She's written scholarly papers under a pseudonym that have revolutionized understanding of ancient Sundaran civilization. The academic world doesn't know the mysterious "Scholar Al-Rashidi" is actually a merchant princess.
 
-### Connections
+#### Connections
 - **Business:** Largest merchant house in Sundara
 - **Secret Identity:** "Scholar Al-Rashidi" (respected academic pseudonym)
 - **Rival:** Archaeologist from Silverpine Magical Academy competing for sites
@@ -6585,7 +6313,7 @@ Now has the largest private collection of pre-Worldrend artifacts in Thaldros. M
 5. **The Legacy Question:** No children. Worries what happens to her collection and knowledge when she dies.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Artifact Identification:** Needs help understanding the dangerous piece. Will pay in gold or artifacts.
 2. **The Tomb Expedition:** Finally ready to open the sealed tomb. Needs skilled adventurers.
 3. **The Rival Problem:** The Silverpine archaeologist is getting close to her best site. Needs interference.
@@ -6632,14 +6360,14 @@ ___
 ***Prophetic Insight (3/Day).*** :: As a bonus action, Qadir can give one ally within 60 feet advantage on their next attack roll or saving throw.
 }}
 
-### Background & History
+#### Background & History
 Born blind to a poor Sundaran family. Abandoned in the desert at age 5—common practice for those who "couldn't contribute." Survived because he learned to sense everything else: wind patterns, animal behavior, sand shifts, temperature changes.
 
 Found and raised by a hermit who taught him to interpret what he sensed. Qadir discovered he could predict weather, find water, and anticipate dangers by reading the desert's subtle signals. When he wandered into Sundara at 20, his "prophecies" about a coming sandstorm that saved the city made him famous.
 
 Now serves as the Sultan's advisor on all desert matters. People think he receives divine visions. The truth is simpler and more impressive: he understands the desert so completely that prediction feels like prophecy. He's never corrected the misconception—it gives him influence to help people.
 
-### Connections
+#### Connections
 - **Patron:** Sultan Rashid Ashborne (believes him genuinely prophetic)
 - **Followers:** Hundreds who seek his wisdom
 - **Teacher:** The hermit who raised him (now dead)
@@ -6659,7 +6387,7 @@ Now serves as the Sultan's advisor on all desert matters. People think he receiv
 5. **The Successor:** Training the blind girl because he's aging. Worried she relies too much on him instead of the desert.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Real Vision:** The fire dream haunts him. Needs help interpreting it.
 2. **The Hermit's Murder:** Finally has a lead. Needs investigators.
 3. **The Successor's Training:** Needs adventurers to take his student on a journey to teach her self-reliance.
@@ -6702,14 +6430,14 @@ ___
 ***Commander's Presence.*** :: Allies within 30 feet of Ignis have advantage on saving throws against being frightened and gain +2 to damage rolls with weapon attacks.
 }}
 
-### Background & History
+#### Background & History
 Born in Ashgate to a family that has served as volcano wardens for eight generations. Learned to read the mountain's moods before he could walk. His grandmother used to say the volcano was their family's oldest child—temperamental but not malicious.
 
 Rose through the Ashwarden ranks by being right when everyone else was wrong. Predicted the 1220 eruption six months early, allowing full evacuation. His warning saved 3,000 lives. Promoted to Warden Commander immediately after.
 
 Five years ago, his deep sensors detected something new: a slow, steady pressure build beneath the main caldera. Not the quick patterns that signal imminent eruption—something much larger, much slower. He's done the calculations. The volcano is building toward an eruption that could destroy everything within fifty miles. It won't happen for decades, but when it does, nothing will stop it.
 
-### Connections
+#### Connections
 - **Commands:** Ashwarden Order (200 volcano monitors)
 - **Reports To:** Lord Mayor of Ashgate
 - **Secret Collaborator:** Engineer Mira Steamvent (shares concerns about geological instability)
@@ -6729,7 +6457,7 @@ Five years ago, his deep sensors detected something new: a slow, steady pressure
 5. **The Family Decision:** Plans to move his family to safety within 10 years. Will stay himself to monitor.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Warning Distribution:** Needs help spreading evacuation plans without causing panic.
 2. **The Acceleration Prevention:** Someone is planning activities that could trigger early eruption. Needs them stopped.
 3. **The Evidence Gathering:** Wants more proof before going public. Needs help with deep survey.
@@ -6775,14 +6503,14 @@ ___
 ***Undying Servitude.*** :: When Morgana slays a humanoid with a spell of 1st level or higher, she can raise it as a zombie at the start of her next turn.
 }}
 
-### Background & History
+#### Background & History
 Born to a minor noble family in the Thornmire swamps, married into the Blackwater name—the oldest family in Marshaven. Her husband died three years into the marriage under mysterious circumstances. She's ruled the city ever since.
 
 Marshaven has always been overlooked: too swampy, too poor, too strange. The continental powers take its taxes but provide nothing in return. Morgana decided to change that. Using forbidden texts found in swamp ruins, she's learned to create undead that retain their intelligence and free will—not shambling corpses, but thinking soldiers.
 
 Her plan is elegant: build an army in the swamps where no one looks, then declare independence. The continental powers won't expect it, can't easily invade the swamps, and will eventually accept the new reality. She sees herself as a liberator, not a villain. The fact that she's raising the dead is merely pragmatic—the swamps have plenty of corpses and few living recruits.
 
-### Connections
+#### Connections
 - **Rules:** Marshaven (population 8,000)
 - **Advisor:** Master Alchemist Varek (knows some of her plans)
 - **Secret Army:** Currently 200 intelligent undead hidden in deep swamps
@@ -6802,7 +6530,7 @@ Her plan is elegant: build an army in the swamps where no one looks, then declar
 5. **The Exit Strategy:** If the plan fails, she has escape routes prepared. Won't let herself be captured.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Recruitment:** Might approach capable adventurers about her cause—carefully testing their reactions first.
 2. **The Discovery Risk:** Someone is getting close to finding her army. Needs them diverted—or silenced.
 3. **The Moral Question:** Some undead want true death. She needs help deciding if she should grant it.
@@ -6847,14 +6575,14 @@ ___
 ***Chemical Mastery.*** :: Varek has resistance to acid and poison damage and can't be poisoned.
 }}
 
-### Background & History
+#### Background & History
 Born half-orc in a society that despised him. Found refuge in alchemy, where results matter more than bloodlines. A perfect poison doesn't care who brewed it.
 
 Studied at Silverpine Magical Academy until expelled for "unauthorized experimentation" (he was testing theories on himself). Wandered to Marshaven, where no one cared about his past or his race. Built a laboratory in the swamps, surrounded by the richest concentration of alchemical reagents in Thaldros.
 
 Now he's the most skilled alchemist in the region, possibly the continent. His poisons are legendary—precise, reliable, traceable only if he wants them to be. But his life's work is the opposite: a universal antidote. If he succeeds, poison becomes obsolete. Assassins, venomous creatures, toxic plants—all neutralized. It would save countless lives and make him wealthy beyond measure.
 
-### Connections
+#### Connections
 - **Patron:** Lady Morgana Blackwater (his best customer and protector)
 - **Clients:** The Shadow Syndicate, various nobles, anyone who needs poisons
 - **Supplier:** Swamp Guide Grizelda (provides rare ingredients)
@@ -6874,7 +6602,7 @@ Now he's the most skilled alchemist in the region, possibly the continent. His p
 5. **The Self-Loathing:** Hates that he creates death to fund his research into preventing it.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Final Ingredient:** Needs help acquiring the last component. It's in a very dangerous place.
 2. **The Test Results:** Needs someone to observe his next self-test in case something goes wrong.
 3. **The Poison Identification:** Will identify any poison for free—information is more valuable than gold.
@@ -6915,14 +6643,14 @@ ___
 ***Spear +2.*** :: Melee or Ranged Weapon Attack: +10 to hit, 1d6+6 or 1d8+6.::
 }}
 
-### Background & History
+#### Background & History
 Born in the village of Murkhollow on the edge of the Thornmire, Grizelda was the daughter of a charcoal burner who worked the swamp's edges. When plague swept through the village at age twelve, she fled deeper into the swamp rather than face the sickness. She survived by watching animals, eating what they ate, and learning the swamp's rhythms.
 
 For three years she lived wild before a ranger patrol found her—more swamp creature than girl. The rangers tried to civilize her, but she kept returning to the marsh. Eventually they stopped trying and instead trained her. By twenty-five, she knew paths through the Thornmire that no map showed. By forty, she was the only guide with a perfect survival record.
 
 She's guided treasure hunters, fugitives, scholars, and assassins. She doesn't judge her clients—the swamp judges everyone equally. What matters is whether they listen and whether they pay. Those who don't listen often don't return. Those who don't pay... well, the swamp has many hungry mouths.
 
-### Connections
+#### Connections
 - **Employer:** Lady Morgana Blackwater (regular contract for "special deliveries")
 - **Rival:** Captain Vex Darkwater (disputes over smuggling routes)
 - **Contact:** Master Alchemist Varek (trades rare swamp reagents)
@@ -6942,7 +6670,7 @@ She's guided treasure hunters, fugitives, scholars, and assassins. She doesn't j
 5. **The True Path:** Knows a route through the swamp that leads to a tear between worlds—fey creatures use it. She guards it from both sides.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Desperate Guide:** Offers to lead the party through the swamp for free if they help her rescue someone from Captain Vex's ship.
 2. **The Missing Scholar:** An archaeologist she guided to the Sunken Temple never returned. His family is offering a fortune for recovery.
 3. **The Crocodile Crisis:** Sweetness's eggs are about to hatch, but a monster has moved into her nesting ground. Grizelda needs help.
@@ -6990,14 +6718,14 @@ ___
 ***Panache.*** :: As an action, Vex can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight). If Vex succeeds, the creature is charmed by him or has disadvantage on attacks against anyone other than Vex.
 }}
 
-### Background & History
+#### Background & History
 Born Marcus Vex in Goldreach's poorest district, son of a dock worker who drank away every coin. Ran away at fourteen, stowed away on a merchant vessel, and was discovered three days out. Rather than throw him overboard, Captain Sylas Darkwater saw potential and made him cabin boy.
 
 For fifteen years, Vex learned everything about ships—sailing, fighting, smuggling, and eventually piracy when Sylas turned to raiding. When Sylas was killed by the Goldreach navy, Vex took command of the Serpent's Coil and the Darkwater name. He's spent the last decade building a reputation as the most successful pirate in the Thornmire waters.
 
 Unlike many pirates, Vex operates with a code: no slavery, no torture without cause, and always leave enough survivors to spread tales. Fear is better than corpses, and enemies who fear you make mistakes. He's never been caught because he's patient, well-informed, and knows when to fight and when to disappear into the swamp's countless waterways.
 
-### Connections
+#### Connections
 - **Patron:** Lady Morgana Blackwater (protection arrangement, mutual benefit)
 - **Rival:** Captain Mira Wavecrest (professional respect tinged with genuine hatred)
 - **Crew:** 60 loyal pirates who share in all plunder equally
@@ -7017,7 +6745,7 @@ Unlike many pirates, Vex operates with a code: no slavery, no torture without ca
 5. **The Escape Plan:** Has a bolt-hole prepared in the Sundaran desert—identity papers, gold, and a contact who can make him disappear if things go wrong.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Enemy's Enemy:** Offers the party a job raiding a mutual enemy's ship, no questions asked about their reasons.
 2. **The Map's Other Half:** Knows the party has the other half of the treasure map (or something he wants). Proposes a partnership.
 3. **The Rescue Mission:** His informant in Goldreach has been arrested. Needs them broken out before they talk.
@@ -7062,14 +6790,14 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + -1 modifier.::
 }}
 
-### Background & History
+#### Background & History
 Helga was born in a small village near the Thornmire with the gift of sight—she could see the threads of fate binding people to their futures. Her village celebrated her as blessed until her visions turned dark, predicting a noble's death. When that noble died exactly as she described, the villagers turned on her, claiming she'd caused it.
 
 She fled into the swamp at seventeen and nearly died before a voice offered salvation. The Archfey known as the Lady of Thorns granted Helga power in exchange for service—collecting debts, granting wishes, and maintaining the boundary between the mortal world and the Feywild. Fifty-six years later, Helga has become something between human and fey herself.
 
 She lives in the Crooked Hut, which moves through the swamp according to rules only she understands. Petitioners find her when she wishes to be found. She grants wishes—but her prices are strange and terrible. A year of your shadow. Your firstborn's first laugh. The memory of your mother's face. She never lies about the cost, but people rarely understand what they're truly giving up.
 
-### Connections
+#### Connections
 - **Patron:** The Lady of Thorns (Archfey of the Dark Court)
 - **Client:** Lady Morgana Blackwater (bought forbidden knowledge; debt not fully paid)
 - **Rival:** The Frost Witch of Iceridge (old grudge from a stolen bargain)
@@ -7089,7 +6817,7 @@ She lives in the Crooked Hut, which moves through the swamp according to rules o
 5. **The Heart's Desire:** Deep down, she wants to die—but the Lady of Thorns won't release her. She's looking for someone strong enough to kill her and take her place.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Three Wishes:** Offers the party exactly what they need—but each wish has a price that seems minor but has devastating implications.
 2. **The Prophecy Trade:** Has seen something important about one of the party members' futures. Will trade the knowledge for a service.
 3. **The Lady's Errand:** Her patron demands a task completed in the mortal world. She needs mortal agents.
@@ -7133,14 +6861,14 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + -1 modifier.::
 }}
 
-### Background & History
+#### Background & History
 Born in Aethermere over thirteen centuries ago, Thaelon was a prodigy of enchantment magic who could charm birds from trees before he finished his first century. He is one of the few living beings who witnessed the Worldrend firsthand—a trauma that shaped his lifelong commitment to peace and understanding. He served on the Circle of Speakers for three hundred years before stepping back to focus on magical research, then returned to politics when the Worldrend's aftereffects threatened Aethorian stability.
 
 His specialty is the magic of minds and hearts—not for control, but for understanding. He believes that most conflicts arise from misunderstanding, and that with patience and empathy, even ancient enemies can find common ground. This philosophy has made him the Harmony's primary diplomat, negotiating treaties with the Crystalbrook Compact and even opening limited dialogue with Thaldros.
 
 Critics call him naive; he's been betrayed by those he trusted, watched treaties collapse, and seen his students fall to corruption. Yet he persists, believing that each success justifies a hundred failures. His detractors note that at over 1,300 years old, he can afford patience that shorter-lived races cannot.
 
-### Connections
+#### Connections
 - **Peer:** Speaker Ellandris Starweaver (old friend, philosophical disagreements)
 - **Student:** Spellweaver Lyrian Crystal (former protégé, estranged)
 - **Contact:** Sage Thelmar Runescribe in Thaldros (secret correspondent)
@@ -7161,7 +6889,7 @@ Critics call him naive; he's been betrayed by those he trusted, watched treaties
 5. **The Prophecy:** Has foreseen that the next Worldrend can only be prevented by sacrifice. He believes he knows whose sacrifice is required.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Secret Embassy:** Needs trustworthy outsiders to carry messages to Thaldros without the Harmony's knowledge.
 2. **The Fragment's Awakening:** The Worldrend fragment is becoming active. He needs help containing or studying it.
 3. **The Mind Healer:** Looking for a way to repair the damage to his mind before it worsens.
@@ -7207,14 +6935,14 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + +1 modifier.::
 }}
 
-### Background & History
+#### Background & History
 Silvaris is not one druid but the title passed down through a line of oak-bonded druids stretching back to before the Worldrend. The current Silvaris, an elf named Caelindra, took up the mantle two centuries ago when her predecessor died defending the Heartwood from a demonic incursion.
 
 The role requires bonding with the Great Oak at the heart of Aethoria's oldest forest—a tree whose roots touch the ley lines connecting all life on the continent. Through this bond, the Archdruid can sense disturbances anywhere in the natural world, communicate with animal and plant life, and call upon ancient nature magic.
 
 But the bond comes at a cost. Each Archdruid slowly loses their individual identity, their memories merging with those of their predecessors. Caelindra has perhaps another century before she is more Silvaris than herself. She dreads this fate even as she fulfills her duties, and secretly searches for a way to preserve her sense of self.
 
-### Connections
+#### Connections
 - **Bond:** The Great Oak (mystical connection)
 - **Predecessor:** Memories of twelve previous Archdruids
 - **Ally:** Speaker Arien Swiftbrook (supports her secretly)
@@ -7234,7 +6962,7 @@ But the bond comes at a cost. Each Archdruid slowly loses their individual ident
 5. **The Succession Crisis:** No suitable candidate exists for the next Archdruid. If she dies, the line may end.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Blight Investigation:** Needs outsiders to investigate the corruption's source—druids who approach are absorbed.
 2. **The Identity Quest:** Looking for magic that could preserve her individuality without breaking her bond.
 3. **The Predecessor's Debt:** Something is coming to collect on an ancient bargain. She needs help facing it.
@@ -7278,14 +7006,14 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + -1 modifier.::
 }}
 
-### Background & History
+#### Background & History
 Once the most promising student of Council Elder Thaelon, Lyrian was a half-elf born with an unusual sensitivity to raw magic. They could perceive the weave of spells as physical threads and manipulate them in ways most wizards never imagined. Thaelon saw in them the potential to revolutionize magical theory.
 
 But Lyrian's gift came with a curse—they could also perceive the damage magic had done to the world, the scars left by the Worldrend still bleeding magical energy. Determined to heal these wounds, they pushed beyond safe magical practice. An experiment went wrong, killing three colleagues and leaving Lyrian touched by something from beyond the normal planes.
 
 Now Lyrian walks a dark path, still seeking to heal the world but willing to use increasingly dangerous methods. They believe the ends justify the means—that a healed world is worth any cost. Council Elder Thaelon mourns the student they failed; others see Lyrian as a growing threat.
 
-### Connections
+#### Connections
 - **Former Mentor:** Council Elder Thaelon Starlight (complicated love/resentment)
 - **Patron:** Something from beyond (grants power, demands service)
 - **Followers:** Twelve mages who believe in their vision
@@ -7305,7 +7033,7 @@ Now Lyrian walks a dark path, still seeking to heal the world but willing to use
 5. **The Final Experiment:** Planning something that could heal the greatest Worldrend wound—or tear reality apart trying.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Plea for Help:** Reaches out secretly, asking for help escaping their patron's control.
 2. **The Dangerous Discovery:** Offers to share their healing knowledge if the party helps with "one small task."
 3. **The Follower Defects:** One of Lyrian's followers contacts the party, terrified of the final experiment.
@@ -7356,14 +7084,14 @@ ___
 ***Ambush Master.*** :: Has advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. Any hit against a surprised creature is a critical hit.
 }}
 
-### Background & History
+#### Background & History
 Niriel was born to a minor elven house five centuries ago and showed early talent for shadow magic—rare among elves, who typically favor light and nature. Her family tried to suppress her gifts, fearing social stigma. When she was discovered practicing in secret, they gave her a choice: abandon shadow magic or abandon the family.
 
 She chose the shadows. Taking the name "Shadowleaf" as bitter reminder of what she'd lost, she spent centuries honing her craft in isolation. Her break came when the Circle of Speakers needed someone for tasks too dark for their public image—espionage, sabotage, and occasionally worse. Niriel became their shadow, doing necessary evils so they could maintain their principles.
 
 Now she leads a network of shadow-touched elves who serve the Harmony from the darkness. She tells herself it's noble work, protecting her people from threats they'll never know existed. But sometimes she wonders if she's truly serving the Harmony—or if she's become exactly the monster her family feared.
 
-### Connections
+#### Connections
 - **Handler:** Council Speaker Aquila Clearwater (gives orders, denies connection)
 - **Network:** Forty-seven shadow agents across both continents
 - **Enemy:** Her birth family (mutual pretense of non-existence)
@@ -7383,7 +7111,7 @@ Now she leads a network of shadow-touched elves who serve the Harmony from the d
 5. **The Exit Strategy:** Has planned exactly how to disappear if the Council ever decides she's a liability.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Deniable Operation:** Offers the party a job the Harmony can't officially sanction. Pay is excellent; risks are unclear.
 2. **The Burned Agent:** One of her agents is compromised, trapped in enemy territory. She needs outside help for extraction.
 3. **The Family Debt:** The family member she saved is in trouble. She needs help that can't be traced back to her.
@@ -7428,14 +7156,14 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + -1 modifier.::
 }}
 
-### Background & History
+#### Background & History
 Born during a rare celestial conjunction, Celestia's first cry coincided with a meteor striking the mountains a hundred miles away. Her parents took it as an omen; they were right. She developed prophetic gifts before she could walk, seeing futures in dreams and reflections.
 
 Her visions brought her to the Academy's attention, and she rose quickly through the ranks of diviners. Unlike most seers who glimpse fragments, Celestia can sometimes see complete futures with terrible clarity. This gift became a curse when she foresaw the death of her first love—and was unable to prevent it despite knowing every detail.
 
 Now she leads the Harmony's diviners, guiding policy with her visions while struggling with the knowledge that seeing the future doesn't always mean being able to change it. She has become cold, clinical—treating prophecy as information to be analyzed rather than fate to be feared. Critics say she's lost her humanity; she says she's simply practical.
 
-### Connections
+#### Connections
 - **Superior:** The Circle of Speakers (advisory role)
 - **Student:** Six apprentice diviners learning to control their gifts
 - **Rival:** Council Elder Thaelon (philosophical opposition to his diplomacy)
@@ -7455,7 +7183,7 @@ Now she leads the Harmony's diviners, guiding policy with her visions while stru
 5. **The Pattern Recognition:** Has noticed all her visions connect to something—a single future event that casts shadows across time.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Commission:** Offers to read the party's futures, but the visions she sees are troubling—and incomplete.
 2. **The Blocked Vision:** Something the party carries or knows is blocking her sight. She needs to understand why.
 3. **The Prevention Quest:** Shares a terrible vision and asks if they can help change it.
@@ -7500,14 +7228,14 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + +0 modifier.::
 }}
 
-### Background & History
+#### Background & History
 Aquila's family has led the Crystalbrook Compact for seven generations, but she was never meant to inherit. The third child of three, she was free to pursue her passions—sailing the great lakes, exploring sunken ruins, and avoiding the tedious business of politics. Then her older siblings died in a boating accident that wasn't quite an accident.
 
 At twenty-eight, she was suddenly Guildmaster of House Clearwater and de facto leader of the Compact. She spent her first decade fighting to survive the political machinations that had killed her siblings. When she finally identified and destroyed those responsible, she found she had developed a taste for the game.
 
 Now sixty and at the height of her power, Aquila plays politics like chess—always thinking three moves ahead. She's transformed the Compact from a loose alliance into a genuine power, though always careful not to threaten the Harmony's dominance. Her public face is diplomatic and reasonable; her private actions are ruthlessly pragmatic.
 
-### Connections
+#### Connections
 - **Asset:** Lady Shadowleaf (handles "difficult" problems)
 - **Rival:** Guildmaster Theron Clearwater (cousin, wants her position)
 - **Ally:** Speaker Arien Swiftbrook (Harmony reformer)
@@ -7527,7 +7255,7 @@ Now sixty and at the height of her power, Aquila plays politics like chess—alw
 5. **The Succession Plan:** Has no children and no clear heir. Is carefully testing candidates without their knowledge.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Final Hunt:** Has located one of her siblings' killers. Needs outside help to reach them.
 2. **The Political Favor:** Offers significant resources in exchange for a delicate diplomatic mission.
 3. **The Succession Test:** Secretly tests the party as potential heirs or at least useful agents.
@@ -7571,14 +7299,14 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + +1 modifier.::
 }}
 
-### Background & History
+#### Background & History
 Talia came to Aethoria as a refugee from Thaldros, one of the half-elf children displaced by the conflicts following the Dragon Crisis. The elves took her in reluctantly—half-breeds often struggled to find acceptance—but she won them over with determination and wisdom beyond her years.
 
 She became a druid of considerable power, specializing in agricultural magic that helped communities thrive. Her practical approach and understanding of non-elven perspectives made her valuable as a bridge between the Harmony and other peoples. When the Circle of Speakers created an advisory position for non-pure-elven voices, she was the obvious choice.
 
 Now she represents the interests of half-elves, human immigrants, and other minorities within the Harmony. It's a difficult position—too elven for outsiders, too human for traditionalists—but she navigates it with patience and occasional stubbornness. She's older than most humans live but young by elven standards, giving her a unique temporal perspective.
 
-### Connections
+#### Connections
 - **Allies:** Other half-elves and minority populations
 - **Supporter:** Speaker Arien Swiftbrook (reform-minded)
 - **Opponent:** Speaker Ellandris Starweaver (traditionalist)
@@ -7598,7 +7326,7 @@ Now she represents the interests of half-elves, human immigrants, and other mino
 5. **The Dream of Return:** Wants to visit Thaldros before she dies but fears what she'll find.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Refugee Crisis:** A new wave of refugees needs help reaching safety. She needs discrete assistance.
 2. **The Discrimination Evidence:** Someone is trying to steal her records. Needs protection or help moving them.
 3. **The Family Reunion:** Her Thaldros family is in danger. She needs someone to check on them.
@@ -7640,14 +7368,14 @@ ___
 ***Sunblade.*** :: Melee or Ranged Weapon Attack: +12 to hit, 1d8+7 radiant + 1d8 radiant vs undead, glows.::
 }}
 
-### Background & History
+#### Background & History
 Gareth was born to farmers in the shadow of the Ironspine Mountains, the third son with no prospects. He joined the Lightbringers at sixteen seeking purpose, and found it in holy warfare against evil. For forty years he rose through the ranks, his tactical brilliance matched only by his unyielding faith.
 
 His defining moment came during the Demon Tide of 1198 CR, when a portal to the Abyss opened in the northern mountains. Gareth led the defense for three months, suffering wounds that should have killed him, before finally sealing the portal. He emerged a hero—and changed. The demons had shown him things, whispered truths that shook his simple faith.
 
 Now he leads the Iron Council, the military arm of the Lightbringers. He remains devoted to protecting the innocent, but his methods have become harder, his mercy rarer. He's seen what evil truly is, and he knows that sometimes fighting monsters requires becoming something not entirely human.
 
-### Connections
+#### Connections
 - **Order:** The Lightbringers (commands their military forces)
 - **Peer:** Lord Commander Thrain Ironoak (professional respect)
 - **Subordinate:** Captain Thalia Lightbringer (devoted, competent)
@@ -7667,7 +7395,7 @@ Now he leads the Iron Council, the military arm of the Lightbringers. He remains
 5. **The Sealed Portal:** The Demon Tide portal wasn't fully sealed. He's been containing it personally for thirty years.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Portal Crisis:** The seal is weakening. He needs help reinforcing it without revealing why he's connected to it.
 2. **The Exorcism:** Seeks a way to remove the demon fragment without dying. Willing to try dangerous methods.
 3. **The Necessary Evil:** Asks the party to do something morally questionable that he cannot be seen doing.
@@ -7720,14 +7448,14 @@ ___
 ***Insightful Manipulator.*** :: After observing a creature for 1 minute, learns two of the following: Int, Wis, Cha scores, class levels, or total hit dice.
 }}
 
-### Background & History
+#### Background & History
 Lucian was born in the gutters of Port Myrthen, a half-elf bastard of a merchant lord who refused to acknowledge him. He survived by theft and wit until a chance encounter let him blackmail his father into funding his education. He proved to be a prodigy of commerce, multiplying his starting funds a hundredfold within a decade.
 
 When his father died, Lucian revealed the blackmail material anyway—not for revenge, but to eliminate rivals who knew the truth. He absorbed his father's trading company and used it as a foundation to build a merchant empire spanning both continents. Now he sits on the Merchant League's inner council, one of the three Trade Princes who truly control continental commerce.
 
 His public persona is the charming rogue, the common-born success story. Privately, he's ruthless, patient, and never forgives a slight. He doesn't want money—he has more than he could spend in several lifetimes. He wants power, respect, and eventually to reshape the world's economy in his image.
 
-### Connections
+#### Connections
 - **Peers:** Two other Trade Princes (allies of convenience)
 - **Rival:** House Goldshore (old money, despises him)
 - **Asset:** Extensive spy network across merchant houses
@@ -7747,7 +7475,7 @@ His public persona is the charming rogue, the common-born success story. Private
 5. **The Half-Sibling Solution:** Planning to eliminate or co-opt his half-siblings permanently. Tired of their interference.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Investment Opportunity:** Offers to fund the party's goals in exchange for future favors. The terms seem generous—too generous.
 2. **The Corporate Espionage:** Needs information from a rival merchant house. Offers significant payment.
 3. **The Archaeological Discovery:** One of his expeditions found something dangerous. Needs it retrieved before rivals learn of it.
@@ -7795,7 +7523,7 @@ ___
 ***Parry.*** :: Adds +4 AC against one melee attack.
 }}
 
-### Background & History
+#### Background & History
 No one knows who Master Crimson really is—that's rather the point. The name has been used for over forty years, possibly by multiple individuals, possibly by one very careful person. What's known is that Master Crimson controls the Shadow Syndicate's operations across central Thaldros.
 
 The Shadow Syndicate isn't a traditional thieves' guild. It's a business—criminal business, but business nonetheless. They provide services: smuggling, theft, assassination, information, protection. Everything has a price, and Master Crimson sets the prices.
@@ -7804,7 +7532,7 @@ Under Crimson's leadership, the Syndicate has become almost respectable in certa
 
 The current Master Crimson (if there's only one) operates from somewhere in the Free Cities, coordinates regional operations through lieutenants like Silas the Fence, and appears in person only for the most important negotiations.
 
-### Connections
+#### Connections
 - **Regional Lieutenants:** Silas the Fence (Silverpine), The Iron Hand (Crossvale), Whisper (Goldreach), and others
 - **Trade Prince Lucian:** Business arrangement—mutual benefit, mutual distrust
 - **City Watch Commanders:** Several have quiet understandings. Captain Lyra Swiftwind is notably NOT one of them.
@@ -7824,7 +7552,7 @@ The current Master Crimson (if there's only one) operates from somewhere in the 
 5. **The Moral Line:** Elena has rules her predecessors didn't—no children, no killing for revenge only, no slavery. Some lieutenants chafe at these restrictions.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Succession Crisis:** Someone is trying to take over the Syndicate by eliminating Crimson. She needs protection or investigators.
 2. **The Brother Problem:** Vex is getting too high-profile. If he's captured and talks, connections to Elena might emerge.
 3. **Lucian's Betrayal:** The Trade Prince is planning to expose the Syndicate's leadership. She needs the threat neutralized.
@@ -7867,14 +7595,14 @@ ___
 ***Warhammer +2.*** :: Melee or Ranged Weapon Attack: +12 to hit, 1d8+7 + 1d8 fire.::
 }}
 
-### Background & History
+#### Background & History
 No one knows Master Crimson's original name or face—that identity died decades ago when they assumed leadership of the Shadow Syndicate's central council. They might be human, elf, or something else entirely; the mask has been worn so long it's become the only truth.
 
 The Syndicate was fragmenting when Crimson took control, various factions warring for dominance. Through a combination of assassination, bribery, and strategic brilliance, they unified the underworld under a single code: profitable crime with minimal violence, maintained order in the shadows, and absolute punishment for those who break the rules.
 
 Under Crimson's leadership, the Syndicate has become almost respectable—a shadow government that provides services the legitimate authorities cannot or will not. They arbitrate disputes, protect certain communities, and even occasionally assist law enforcement against threats to stability. They're still criminals, but organized, predictable criminals.
 
-### Connections
+#### Connections
 - **Organization:** The Shadow Syndicate (rules through council)
 - **Lieutenant:** Silas the Fence (trusted regional manager)
 - **Contact:** Trade Prince Lucian (mutual arrangements)
@@ -7894,7 +7622,7 @@ Under Crimson's leadership, the Syndicate has become almost respectable—a shad
 5. **The Personal Rule:** Never kills unless absolutely necessary. Every death ordered haunts them.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Job Offer:** Has work that requires deniable outsiders. Payment is generous, questions are not.
 2. **The Arbitration:** A dispute requires neutral judgment. The party's reputation makes them acceptable arbiters.
 3. **The Retirement Assistance:** Needs help with the transition plan. Some lieutenants won't accept going legitimate.
@@ -7940,14 +7668,14 @@ ___
 ***Longbow +3.*** :: Melee or Ranged Weapon Attack: +15 to hit, 1d8+9 + 1d8 thunder, Extra Attack (2.::
 }}
 
-### Background & History
+#### Background & History
 Thalia grew up in the forests bordering the Ironspine Mountains, daughter of two rangers who taught her to track before she could read. She joined the Ironspine Rangers at sixteen, the youngest in their history, and proved herself during the Troll Wars of 1210 CR when she single-handedly tracked and killed a troll chieftain.
 
 The Ironspine Rangers patrol the mountains' lower slopes and forest boundaries, protecting travelers and settlements from the creatures that emerge from the peaks. It's unglamorous work—more about prevention and patrol than heroic battles—but Thalia has shaped them into the most effective wilderness force in Thaldros.
 
 Her command style is quiet competence; she leads by example and rarely raises her voice. Her rangers worship her, not because she asks them to but because she genuinely cares about each of them. She knows every ranger's name, family situation, and weaknesses, and she never sends someone on a mission they can't handle.
 
-### Connections
+#### Connections
 - **Command:** Two hundred rangers across the Ironspine region
 - **Superior:** Lord Commander Thrain Ironoak (formal chain of command)
 - **Ally:** Scout Captain Finn Quickfoot (shares intelligence)
@@ -7967,7 +7695,7 @@ Her command style is quiet competence; she leads by example and rarely raises he
 5. **The Mountain Summit:** Has seen something at the highest peak—lights, movement. Hasn't reported it yet.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Search Party:** Ready to mount a proper search for the lost patrol. Needs additional fighters.
 2. **The Migration Investigation:** Needs people who can climb higher than her rangers to find what's driving monsters down.
 3. **The Traitor Trap:** Has a plan to expose the corrupted ranger but needs outside help to spring it.
@@ -8012,14 +7740,14 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + +4 modifier.::
 }}
 
-### Background & History
+#### Background & History
 The Forgebound Guild has shaped metal in the Ironspine Mountains for two thousand years, and Rurik can trace his lineage back to its founders. He inherited not just their skill but their obsession—the pursuit of perfect metallurgy, the creation of items that will outlast empires.
 
 Rurik became Forge-Master at the young age of 95 (young for a dwarf), after his predecessor died in a forge accident that Rurik suspects was sabotage. He's spent the last century modernizing the Guild while preserving its traditions, a balance that requires constant negotiation between young innovators and ancient conservatives.
 
 His personal forge produces the finest work in Thaldros, and possibly the world. Kings pay fortunes for Rurik's personal touch, but he's more interested in craft than wealth. He dreams of creating a legendary artifact to rival those of the pre-Worldrend age—a masterwork that will ensure his name lives forever.
 
-### Connections
+#### Connections
 - **Guild:** Eight hundred smiths across multiple mountain forges
 - **Rival:** Master Smith Durgan Forgefire (professional competition)
 - **Client:** Grand Warden Volcanus Rex (specialized fire-resistant gear)
@@ -8039,7 +7767,7 @@ His personal forge produces the finest work in Thaldros, and possibly the world.
 5. **The Guild's Secret:** The Forgebound have a sealed vault containing weapons too dangerous to release. He knows what's inside.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Commission:** Offers to forge something extraordinary for the party if they retrieve a rare material.
 2. **The Murder Investigation:** Finally has a lead on his predecessor's killer. Needs discreet investigation.
 3. **The Dragon Fire:** Has located a living dragon whose fire could complete his masterwork. Needs help approaching it.
@@ -8106,10 +7834,10 @@ ___
 - **Alignment:** Lawful Good
 - **Class:** Fighter 8 / Paladin 4 (Oath of the Iron Crown)
 
-### Physical Description
+#### Physical Description
 Tall and athletic (6'2", 190 lbs) with the Thandris dark hair and strong features. Unlike his father's weathered appearance, Thorin has a youthful vigor tempered by the weight of future responsibility. Clean-shaven, with intense gray eyes that assess situations tactically. Wears practical armor even in court - always ready for action. Has a small scar on his left hand from a training accident at age 16.
 
-### Equipment
+#### Equipment
 - **Armor:** Plate Armor +1 (polished, Thandris crest on breastplate)
 - **Shield:** Steel Shield with Mountain Sigil (family crest)
 - **Primary Weapon:** Heir's Blade (Longsword +1, family heirloom, passed to each heir)
@@ -8122,7 +7850,7 @@ Tall and athletic (6'2", 190 lbs) with the Thandris dark hair and strong feature
 {{footnote Part IV: NPCs}}
 \page
 
-### Personality
+#### Personality
 **Traits:**
 - Earnest and dedicated to living up to his father's legacy
 - Insists on training with common soldiers, not just nobles
@@ -8146,7 +7874,7 @@ Tall and athletic (6'2", 190 lbs) with the Thandris dark hair and strong feature
 - Struggles with political maneuvering (prefers direct action)
 - Guilt over being groomed for kingship while others fight on frontiers
 
-### Background & History
+#### Background & History
 Born in 1222 CR as the first child of King Aldric IV, Crown Prince Thorin has been groomed for kingship his entire life. Unlike some heirs who resent the pressure, Thorin embraces his duty with determination.
 
 At age 15, he insisted on joining a border patrol despite his father's objections. During an orc raid, he saved three soldiers' lives, earning their loyalty and a reputation for bravery. His father, both proud and terrified, agreed to let him train with the military but under close supervision.
@@ -8155,7 +7883,7 @@ At 20, he was knighted and took his Oath of the Iron Crown, swearing to protect 
 
 Now at 25, he serves as his father's chief military advisor and ambassador. He's proven himself in border skirmishes, diplomatic negotiations, and crisis management. The nobility respects him. The common people love him. But he carries the weight of knowing that one day, he'll wear the Iron Crown - and the kingdom's fate will rest on his shoulders.
 
-### Connections
+#### Connections
 - **Father:** King Aldric IV Thandris (loves and respects, slight tension over caution vs. action)
 - **Siblings:** Princess Elara (22) and Prince Marcus (19) - protective older brother
 - **Mentor:** Lord Commander Thrain Ironoak (taught him military strategy)
@@ -8177,7 +7905,7 @@ Now at 25, he serves as his father's chief military advisor and ambassador. He's
 5. **The Romantic Entanglement:** Thorin is in love with a common-born healer named Mira (who serves in the army). They've kept it secret - a king must make a political marriage, and acknowledging the relationship would force them to end it or cause scandal.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Assassination Attempt:** Someone tries to kill Crown Prince Thorin during a public ceremony. The party must investigate who ordered it and why - is it political rivals, foreign agents, or something more sinister?
 
 {{pageNumber,auto}}
@@ -8194,14 +7922,14 @@ Now at 25, he serves as his father's chief military advisor and ambassador. He's
 
 6. **The Romantic Crisis:** Mira the healer is kidnapped by those who discovered the relationship. Thorin can't officially intervene without causing scandal, so he hires the party to rescue her discretely.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Clear, strong, projects command naturally. Drops formality when speaking with soldiers.
 - **Mannerisms:** Stands with military posture. Gestures with hand on sword pommel when thinking. Salutes senior officers even though he outranks them.
 - **Catchphrase:** "By steel and honor, we serve."
 - **When stressed:** Grips sword hilt tightly, jaw clenches
 - **In combat:** Fights at the front, protects weaker allies, never retreats first
 
-### Notes for DMs
+#### Notes for DMs
 - Aldric is designed as a heroic NPC who can become a patron, ally, or even rival
 - He represents the "good prince" archetype but with real flaws and complexities
 - His secrets provide multiple adventure hooks across levels 5-15
@@ -8266,13 +7994,13 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **Alignment:** Lawful Neutral
 - **Class:** Fighter 14
 \column
-### Physical Description
+#### Physical Description
 Imposing figure (6'3", 210 lbs) with a commanding presence that fills any room. Older than Crown Prince Thorin by seven years and looks it - weathered face, several scars, prematurely graying hair despite his age. Keeps a short military beard. Cold blue eyes that assess everyone as either asset or threat. Always in uniform, even at formal events. Walks with a slight limp from an old battle wound.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-### Equipment
+#### Equipment
 - **Armor:** Plate Armor +2 (battle-scarred, decorated with campaign ribbons)
 - **Primary Weapon:** Greatsword of Command +2 (glows faintly when he gives orders, grants +2 to command checks)
 - **Secondary:** Heavy Crossbow (masterwork), 20 bolts
@@ -8280,7 +8008,7 @@ Imposing figure (6'3", 210 lbs) with a commanding presence that fills any room. 
 - **Ring:** Ring of Mind Shielding (protects against divination)
 - **Other:** General's signet (commands authority), Potion of Superior Healing (×2), tactical maps and planning materials
 
-### Personality
+#### Personality
 **Traits:**
 - Brilliant military strategist, thinks three moves ahead
 - Demanding of subordinates, expects excellence at all times
@@ -8304,7 +8032,7 @@ Imposing figure (6'3", 210 lbs) with a commanding presence that fills any room. 
 - Jealous of Crown Prince Thorin's popularity and direct line to throne
 - Struggles to understand "soft power" and diplomacy
 
-### Background & History
+#### Background & History
 Marthos is a distant cousin of King Aldric IV - his great-grandfather was the King's great-uncle. While not in direct line for succession, he's close enough that in a catastrophic scenario, he could have a claim.
 
 Born in 1212 CR to a minor branch of House Thandris, Marthos grew up knowing he'd never inherit the throne. Instead, he dedicated himself to military service. He enlisted at 16, rose through ranks through sheer competence and tactical brilliance.
@@ -8315,7 +8043,7 @@ By 30, he was General - youngest ever at the time. He modernized the army, impro
 
 But success breeds ambition. Marthos respects the King but sees Crown Prince Thorin as soft - too concerned with being loved rather than being effective. He doesn't actively plot against the prince, but he's quietly positioning himself. If Thorin proves unworthy... well, the kingdom needs strong leadership.
 
-### Connections
+#### Connections
 - **King Aldric IV:** Serves loyally but privately questions some decisions
 - **Crown Prince Thorin Thandris:** Competitive relationship, sees him as inexperienced
 - **Lord Commander Thrain Ironoak:** Professional respect, sometimes clash over tactics
@@ -8341,7 +8069,7 @@ But success breeds ambition. Marthos respects the King but sees Crown Prince Tho
 5. **The Legitimate Claim:** Through genealogical research, Marthos discovered that due to an obscure historical marriage, his claim to the throne might actually be stronger than King Aldric IV's under ancient law. He's kept this secret - using it would destabilize everything - but it haunts him.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Coup Conspiracy:** The party discovers evidence of Marthos's contingency plan. Is it legitimate emergency planning or treason? They must investigate without tipping him off, and decide whether to expose it or let it stand.
 
 2. **The Mission:** General Marthos recruits the party for a dangerous mission behind enemy lines. His orders are clear but brutal - success requires sacrifices. Will they follow orders or question their morality?
@@ -8354,14 +8082,14 @@ But success breeds ambition. Marthos respects the King but sees Crown Prince Tho
 
 6. **The Enemy Respect:** An enemy commander requests parley specifically with General Marthos, respecting his tactical genius. The party must escort him to dangerous territory for negotiations - but is it genuine or an assassination trap?
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Deep, authoritative, rarely raised but always commanding attention
 - **Mannerisms:** Stands at parade rest, uses military terminology in casual conversation, gestures with precision
 - **Catchphrase:** "Strategy before sentiment."
 - **When stressed:** Jaw tightens, hand moves to sword hilt, eyes narrow calculating
 - **In combat:** Fights from strategic position, directs allies, never panics
 
-### Notes for DMs
+#### Notes for DMs
 - Marthos is designed as a morally complex figure - not evil, but dangerously ambitious
 - He's the "competent but cold" archetype - effective but potentially ruthless
 - Can serve as quest-giver, rival, antagonist, or even reluctant ally
@@ -8441,10 +8169,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Graceful and elegant (5'8", 125 lbs) with the ethereal beauty typical of high elves but warmed by genuine kindness. Long silver-blonde hair usually styled in elaborate braids woven with flowers and crystals. Violet eyes that seem to see through pretense to truth. Dresses in flowing robes of blue and silver (Aethermere colors) that somehow remain pristine even after travel. Wears a circlet of silver leaves that marks her royal status.
 
-### Equipment
+#### Equipment
 - **Robes:** Robes of the Archmagi (blue, AC 15, advantage on saves vs. spells, resistance to spell damage, +2 spell save DC already calculated)
 - **Quarterstaff:** Crystal-topped staff (focus, rarely used as weapon)
 - **Circlet:** Royal Circlet of Aethermere (silver leaves, +2 to Charisma checks when identifying as royalty)
@@ -8453,7 +8181,7 @@ Graceful and elegant (5'8", 125 lbs) with the ethereal beauty typical of high el
 - **Amulet:** Amulet of Proof against Detection and Location (can't be targeted by divination magic)
 - **Other:** Spellbook (beautifully illustrated), diplomatic papers, sending stones (matched pair for secure communication)
 
-### Personality
+#### Personality
 **Traits:**
 - Patient and diplomatic, always seeks peaceful solutions first
 - Genuinely curious about other cultures and perspectives
@@ -8477,7 +8205,7 @@ Graceful and elegant (5'8", 125 lbs) with the ethereal beauty typical of high el
 - Struggles with the idea that some conflicts can't be resolved peacefully
 - Fears that her diplomatic approach is seen as weakness
 
-### Background & History
+#### Background & History
 Born in 1105 CR, Princess Elanil has lived through much of the recent history of the Sundered Kingdoms. Unlike younger generations who see the division as natural, she remembers stories from elders about the unified realm and believes reunification is inevitable - and necessary.
 
 She showed magical talent young, studying at Silverpine Magical Academy (crossing borders even then) before returning to Aethermere. Her mother recognized her diplomatic gifts and appointed her Chief Diplomat at age 85 - young for such responsibility, but she proved worthy.
@@ -8488,7 +8216,7 @@ Her greatest project is secret: for five years, she's been in coded corresponden
 
 She's walked a careful line between her mother's cautious wisdom and pushing for change. Some in Aethoria see her as the future - a leader who can bridge the divide. Others fear she's too close to Thaldros and might compromise Aethoria's independence.
 
-### Connections
+#### Connections
 - **Mother:** High Queen Aelindra Aethermere (loves and respects, sometimes frustrated by caution)
 - **Brother:** Archmage Eldrin Aethermere (close siblings, he supports her diplomatic efforts)
 - **Chosen Heir:** Theron Aethermere (complex relationship—he will inherit, not her)
@@ -8515,7 +8243,7 @@ She's walked a careful line between her mother's cautious wisdom and pushing for
 5. **The Heart's Confusion:** Elanil has developed genuine feelings for Crown Prince Thorin. She's uncertain if it's real or just the romantic excitement of their shared dangerous mission. She fears these feelings could cloud her judgment or be used against both of them.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Secret Meeting:** Elanil needs escort to a border meeting with Crown Prince Thorin. The party must protect both royals while maintaining secrecy, navigate both kingdoms' patrols, and handle unexpected complications (assassins, border incident, etc.).
 
 2. **The Diplomatic Crisis:** A treaty Elanil negotiated is about to collapse due to sabotage. She hires the party to investigate who's undermining it and why. The truth could expose the anti-reunification conspiracy.
@@ -8528,14 +8256,14 @@ She's walked a careful line between her mother's cautious wisdom and pushing for
 
 6. **The Choice:** War threatens between the kingdoms. Elanil offers the party a controversial mission that could prevent war but requires morally gray actions. Will they help her, or refuse and watch conflict escalate?
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Melodious, soothing, speaks slowly and deliberately in multiple languages
 - **Mannerisms:** Gentle hand gestures, makes eye contact to show genuine interest, touches people lightly on arm when making point
 - **Catchphrase:** "Let us find the path forward together."
 - **When stressed:** Speaks even more slowly, switches to Elvish, fingers trace patterns on staff
 - **In conflict:** Uses magic to control situations, rarely direct violence, always offers diplomatic out
 
-### Notes for DMs
+#### Notes for DMs
 - Elanil is designed as a powerful diplomatic NPC and quest-giver
 - She represents the "peace through understanding" philosophy
 - Her secrets provide multiple campaign hooks across levels 8-15
@@ -8616,10 +8344,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Tall and elegant (6'1", 145 lbs) with the bearing of both royalty and scholarly authority. Long silver hair pulled back in a practical ponytail, often escaping to frame sharp features. Gold eyes that seem to see multiple possible futures simultaneously. Usually wears elaborate robes covered in runes and astrological symbols. Carries an ancient staff that hums with barely contained power. Has ink stains on his fingers from constant study.
 
-### Equipment
+#### Equipment
 - **Robes:** Robe of the Archmagi (blue, AC 15 base, advantage vs. spells, spell resistance, +2 spell DC already calculated)
 - **Staff:** Staff of Power +2 (acts as +2 quarterstaff, +2 AC/saves/spell attacks, can cast various spells, can be broken for retributive strike)
 - **Ring:** Ring of Spell Storing (holds 5 spell levels)
@@ -8627,7 +8355,7 @@ Tall and elegant (6'1", 145 lbs) with the bearing of both royalty and scholarly 
 - **Cloak:** Cloak of Protection (+1 AC/saves, calculated in totals)
 - **Other:** Spellbook (ancient tome, contains every wizard spell), crystal focus, sending stones, astrolabe, research notes
 
-### Personality
+#### Personality
 **Traits:**
 - Intellectually brilliant but sometimes socially awkward
 - Thinks several steps ahead, can seem distant or distracted
@@ -8651,7 +8379,7 @@ Tall and elegant (6'1", 145 lbs) with the bearing of both royalty and scholarly 
 - Uncomfortable with unpredictability and chaos
 - Struggles with emotional situations, prefers logic
 
-### Background & History
+#### Background & History
 Born in 1089 CR, Eldrin showed exceptional magical talent from childhood. By age 30, he had mastered spells most elves take a century to learn. His mother recognized his genius and sent him to study across both continents - Silverpine Magical Academy, the Starfall Observatory, even a controversial stint in Kaer Thandros studying dwarven runecraft.
 
 He returned home at 80 and was appointed Court Wizard at 95 - one of the youngest ever. He transformed the position from ceremonial to essential, providing his mother with magical intelligence, divination insights, and arcane counsel that proved invaluable.
@@ -8662,7 +8390,7 @@ He's published dozens of magical treatises, advanced divination theory significa
 
 Recently, his divinations have shown troubling patterns - shadows gathering, timelines converging on a crisis point. He's trying to understand what's coming, but the future keeps shifting. Something big is approaching, but he can't see it clearly yet.
 
-### Connections
+#### Connections
 - **Mother:** High Queen Aelindra Aethermere (serves and advises, sometimes disagrees)
 - **Sister:** Princess Elanil Aethermere (protective, supports her diplomatically)
 - **Chosen Heir:** Theron Aethermere (respects the system, supports him publicly)
@@ -8689,7 +8417,7 @@ Recently, his divinations have shown troubling patterns - shadows gathering, tim
 5. **The Time Loop Research:** He's theorized a way to create a limited time loop - reliving a short period to get perfect outcomes. The magic is incredibly dangerous and possibly blasphemous, but his visions suggest he might need it to save his family.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Vision Quest:** Eldrin's divinations show the party as central to preventing catastrophe. He recruits them for a dangerous mission based purely on future-sight. They must trust his visions while not knowing the full picture.
 
 2. **The Prophecy Investigation:** Eldrin predicts disaster at a specific place and time. The party must investigate and determine if it's real or another false alarm. If they prevent it, was it real or would it not have happened anyway?
@@ -8702,14 +8430,14 @@ Recently, his divinations have shown troubling patterns - shadows gathering, tim
 
 6. **The Time Loop:** Reality is breaking - the party keeps reliving the same day. Eldrin reveals he created it to save someone but can't end it. They must help him fix reality before it collapses.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Precise, formal, often speaks in conditional statements and probabilities
 - **Mannerisms:** Peers into distance as if seeing things others can't, writes notes constantly, gestures with staff when explaining
 - **Catchphrase:** "I have foreseen this possibility."
 - **When stressed:** Speaks faster, switches to Elvish, rubs temples while processing visions
 - **In combat:** Stays back, controls battlefield with magic, uses divination to predict enemy actions
 
-### Notes for DMs
+#### Notes for DMs
 - Eldrin is designed as a powerful magical patron and plot device
 - His divination abilities let you foreshadow future events
 - He's the "hyper-intelligent wizard" archetype with human (elf) flaws
@@ -8774,10 +8502,10 @@ ___
 - **Alignment:** Neutral (leaning toward Neutral Evil)
 - **Class:** Rogue 10 / Expert (Merchant) 5
 
-### Physical Description
+#### Physical Description
 Handsome and well-groomed (5'11", 175 lbs) with the practiced charm of a successful merchant. Brown hair styled fashionably, neat beard, warm brown eyes that calculate value even while smiling. Dresses in expensive but tasteful clothing - silk shirts, fine leather boots, gold jewelry that shows wealth without vulgarity. Always has a slight smile, as if he knows a secret you don't.
 
-### Equipment
+#### Equipment
 - **Armor:** Studded Leather +2 (finest quality, concealed beneath fine clothes)
 - **Primary Weapon:** Rapier +2 "Profit's Edge" (ornate, gold-inlaid hilt)
 - **Secondary:** Hand Crossbow +1 (concealed in coat), 20 bolts
@@ -8789,7 +8517,7 @@ Handsome and well-groomed (5'11", 175 lbs) with the practiced charm of a success
 {{footnote Part IV: NPCs}}
 \page
 
-### Personality
+#### Personality
 **Traits:**
 - Charismatic and charming, makes everyone feel valued
 - Treats business as a game, enjoys outsmarting competitors
@@ -8813,7 +8541,7 @@ Handsome and well-groomed (5'11", 175 lbs) with the practiced charm of a success
 - Paranoid - trusts no one fully, sees betrayal everywhere
 - Cold - values people by utility, struggles with genuine emotion
 
-### Background & History
+#### Background & History
 Born in 1202 CR to Lord Aldris Goldshore III (half-elf) and Lady Mirella Goldshore (human), young Aldris inherited his mother's human appearance despite his father's elven blood—a quirk of mixed heritage that occasionally produces fully human-presenting offspring. His mother died when he was twelve (officially illness, though whispers suggest poison from rivals).
 
 His father taught him business ruthlessly; the streets of Goldreach taught him cunning. At 20, he took control of a failing trade route and made it profitable through brilliant negotiation, strategic bribes, and eliminating competition (legally, mostly). By 25, he was running a quarter of House Goldshore's operations.
@@ -8824,7 +8552,7 @@ Now at 45, Aldris IV is one of the wealthiest individuals in Tirvandor, controls
 
 He's untouchable due to wealth, connections, and careful legal maneuvering. Many suspect his methods are unethical, but proving it is nearly impossible. He's too smart to leave evidence.
 
-### Connections
+#### Connections
 - **Father:** Lord Aldris III Goldshore (elderly patriarch, still makes major decisions)
 - **Daughter:** Lady Serina Goldshore (his pride, genuinely cares about)
 - **Branch Family Threat:** Merchant Prince Davos Goldshore (distant cousin, runs the branch family, clearly plotting to claim the whole house)
@@ -8854,7 +8582,7 @@ He's untouchable due to wealth, connections, and careful legal maneuvering. Many
 6. **The Succession Fear:** Despite outward confidence, Aldris fears his daughter Serina will discover his crimes and turn against him. She has a moral streak he doesn't understand. He's grooming her for leadership but hiding his methods.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Missing Shipment:** A cargo ship carrying "spices" has disappeared. Aldris hires the party to recover it - but they discover it was carrying weapons to rebels. What do they do with this information?
 
 2. **The Investigation:** Authorities suspect Aldris of smuggling but can't prove it. They hire the party to infiltrate his organization, gather evidence, and expose him. But he's several steps ahead.
@@ -8867,7 +8595,7 @@ He's untouchable due to wealth, connections, and careful legal maneuvering. Many
 
 6. **The Rival Elimination:** House Crystalborn is cutting into Aldris's profits. He hires the party to sabotage their operations - but the methods he suggests are criminal. Do they refuse, negotiate, or proceed?
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Smooth, confident, warm - like talking to an old friend
 - **Mannerisms:** Gestures with hands when talking, calculates with fingers when thinking, always has slight smile
 - **Catchphrase:** "Everything has a price."
@@ -8932,13 +8660,13 @@ ___
 - **Alignment:** Neutral Good
 - **Class:** Bard 9 (College of Lore) / Rogue 3
 
-### Physical Description
+#### Physical Description
 Beautiful and graceful (5'7", 130 lbs) with her father's brown eyes but warmer, more genuine. Long dark hair usually in practical braids for travel. Dresses well but not ostentatiously - quality over flash. Has a disarming smile that's real, unlike her father's calculated one. Often carries a lute or violin case. Ink stains on fingers from writing correspondence.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-### Equipment
+#### Equipment
 - **Armor:** Studded Leather +1 (fashionable but functional)
 - **Weapon:** Rapier +1 (elegant, family heirloom from grandmother)
 - **Instrument:** Masterwork Lute (spellcasting focus, incredibly valuable)
@@ -8947,7 +8675,7 @@ Beautiful and graceful (5'7", 130 lbs) with her father's brown eyes but warmer, 
 - **Cloak:** Cloak of Elvenkind (advantage on Stealth, creatures have disadvantage seeing her)
 - **Other:** Disguise kit, forgery kit, journal (coded), collection of merchant contacts
 
-### Personality
+#### Personality
 **Traits:**
 - Genuinely kind and empathetic, cares about people's wellbeing
 - Idealistic but not naive - knows the world is complicated
@@ -8971,7 +8699,7 @@ Beautiful and graceful (5'7", 130 lbs) with her father's brown eyes but warmer, 
 - Guilt over her family's wealth and how it was obtained
 - Fear of losing her father's love if she opposes him
 
-### Background & History
+#### Background & History
 Born in 1224 CR, Serina grew up in luxury. Unlike her father, who saw wealth as power, she saw it as responsibility. Her mother (deceased when Serina was 10) instilled values of kindness and service before she died - values her father dismisses as impractical.
 
 At 15, Serina traveled with a merchant caravan (against her father's wishes) and saw poverty, exploitation, and suffering. She realized her family's wealth was built on others' backs. She tried to discuss this with her father; he laughed and called it "naive idealism she'd outgrow."
@@ -8982,7 +8710,7 @@ She suspects her father of illegal operations but hasn't found proof. She's walk
 
 Recently, she's discovered disturbing evidence suggesting her father may have killed his own father. She's terrified it's true and desperately hopes it's not.
 
-### Connections
+#### Connections
 - **Father:** Lord Aldris Goldshore IV (loves him, increasingly disillusioned)
 - **Mentor:** Harbor Master Tobias Saltwind (taught her practical maritime trade, doesn't know his corruption)
 - **Friend:** Captain Mira Wavecrest (Lake Patrol, they bond over justice)
@@ -9009,7 +8737,7 @@ Recently, she's discovered disturbing evidence suggesting her father may have ki
 6. **The Succession Plan:** Serina has been planning to refuse inheritance unless her father reforms. She'll give everything to charity rather than continue illegal operations. This would destroy House Goldshore as currently structured.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Whistleblower:** Serina approaches the party with evidence of her father's crimes. She needs help gathering more proof and protection when she exposes him. But exposing him might destroy her too.
 
 2. **The Underground:** The party discovers Serina's escaped prisoner operation. Are they helping her continue it, exposing her to her father, or trying to stop her for her own safety?
@@ -9022,14 +8750,14 @@ Recently, she's discovered disturbing evidence suggesting her father may have ki
 
 6. **The Takeover:** Aldris is arrested (for something). Serina must run House Goldshore temporarily. She asks the party to help her clean house - literally eliminating the illegal operations - before he returns.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Warm, genuine, musical quality from bardic training
 - **Mannerisms:** Fidgets with necklace when nervous, smiles when greeting people, takes notes constantly
 - **Catchphrase:** "Everyone deserves dignity, not just the wealthy."
 - **When stressed:** Plays music to think, speaks softly and deliberately
 - **In conflict:** Tries diplomacy first, uses magic to escape rather than fight
 
-### Notes for DMs
+#### Notes for DMs
 - Serina is designed as a moral compass character and potential ally
 - She's the "good person in bad situation" archetype
 - Can serve as quest-giver, informant, or character who needs saving
@@ -9104,13 +8832,13 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **Alignment:** Lawful Neutral
 - **Class:** Fighter 12 / Cleric 4 (Forge Domain)
 
-### Physical Description
+#### Physical Description
 Massive even for a dwarf (4'8", 235 lbs of muscle), built like the mountain itself. Long gray-streaked black beard braided with iron bands and mythril clasps. Scarred hands from decades of forge work and mining. One eye is slightly milky (injury from cave-in, refuses magical healing). Wears practical work clothes even at formal events - leather apron over sturdy tunic. Smells of coal smoke, hot metal, and stone dust.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-### Equipment
+#### Equipment
 - **Armor:** Plate Armor +1 (mythril-forged, family heirloom, covered in runes)
 - **Shield:** Tower Shield (iron-bound, Ironforge hammer emblem)
 - **Primary Weapon:** Forgemaster's Hammer +2 "Earthbreaker" (legendary warhammer, deals extra fire damage, glows when near precious metals)
@@ -9119,7 +8847,7 @@ Massive even for a dwarf (4'8", 235 lbs of muscle), built like the mountain itse
 - **Belt:** Belt of Dwarvenkind (advantage on Charisma checks vs. dwarves, can grow beard even if normally unable)
 - **Other:** Master smith's tools (magical quality), survey maps of all Ironforge mines, ledgers
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks bluntly, values honesty and direct communication
 - Extremely proud of dwarven heritage and craftsmanship
@@ -9143,7 +8871,7 @@ Massive even for a dwarf (4'8", 235 lbs of muscle), built like the mountain itse
 - Holds grudges for decades (typical dwarf)
 - Struggles to adapt to new methods or technologies
 
-### Background & History
+#### Background & History
 Born in 1002 CR to a mining family, Durin learned smithing at 20, mining at 50, leadership at 100. He worked every position in the mines - hauler, digger, surveyor, foreman - before inheriting the Thanedom at 180.
 
 When he took control (65 years ago), House Ironforge was in decline - mines depleting, skilled workers leaving, finances poor. Durin personally explored the deepest tunnels and found three new mythril veins. He modernized equipment, improved safety, trained a new generation of smiths.
@@ -9154,7 +8882,7 @@ But success brings problems. The deeper they mine, the stranger things they find
 
 He's also concerned about succession. He has three sons, all capable, all competitive. Dwarven tradition says the eldest inherits, but Durin isn't sure that's best. The choice will shape House Ironforge's future.
 
-### Connections
+#### Connections
 - **Three Sons:** Thorin (eldest, traditional), Balin (middle, innovative), Dwalin (youngest, aggressive) - all vying for succession
 - **King Aldric IV:** Supplies weapons to royal army, good relationship
 - **General Marthos Thandris:** Military contracts, mutual respect
@@ -9181,7 +8909,7 @@ He's also concerned about succession. He has three sons, all capable, all compet
 6. **The Ancestral Shame:** Durin discovered records suggesting House Ironforge's founder obtained their first mine through treachery - possibly murder. The evidence is fragmentary but damning. He's hidden the documents, but they haunt him.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Deep Expedition:** Durin hires the party to explore the ancient ruins beneath his mines. What they find challenges understanding of history - and suggests something terrible is waking up.
 
 2. **The Succession Crisis:** Durin's three sons compete for inheritance through dangerous challenges. He asks the party to monitor the competitions for cheating - but discovers the brothers are being manipulated by outside forces.
@@ -9194,14 +8922,14 @@ He's also concerned about succession. He has three sons, all capable, all compet
 
 6. **The Ancient Warning:** The sealed chambers start opening from the inside. Durin must admit the truth and get help before whatever is down there escapes.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Deep, gravelly, thick dwarvish accent, speaks slowly
 - **Mannerisms:** Strokes beard when thinking, gestures with hammer, stands with arms crossed
 - **Catchphrase:** "Aye, that'll need doin' properly."
 - **When stressed:** Switches to pure Dwarvish, grips hammer tighter, jaw clenches
 - **In combat:** Fights defensively, protects allies, uses environment to advantage
 
-### Notes for DMs
+#### Notes for DMs
 - Durin is designed as a traditional dwarven leader with secrets
 - He's the "gruff but honorable" archetype with hidden depths
 - Can serve as quest-giver for mining/underground adventures
@@ -9289,10 +9017,10 @@ ___
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Compact and muscular (4'5", 210 lbs), with the powerful arms of a lifelong smith. Magnificent copper-red beard braided with tools - tiny hammer, chisel, file - as decoration. Burn scars on hands and forearms. Always has coal dust under fingernails. Wears work clothes - leather apron, heavy gloves tucked in belt, goggles pushed up on forehead. Smells of hot metal and quenching oil.
 
-### Equipment
+#### Equipment
 - **Arcane Armor:** Custom Heavy Armor +2 (his masterpiece, constantly upgrading)
 - **Primary Weapon:** Warhammer +2 "Forge-Friend" (his personal hammer, returns when thrown)
 - **Tools:** Masterwork Smith's Tools +2 (infused, can work any metal)
@@ -9301,7 +9029,7 @@ Compact and muscular (4'5", 210 lbs), with the powerful arms of a lifelong smith
 - **Steel Defender:** Mechanical bear named "Ironheart" (his companion, built from scratch)
 - **Other:** Bag of Holding (full of materials, components, tools), sketches of designs, commission list
 
-### Personality
+#### Personality
 **Traits:**
 - Passionate about his craft, can talk for hours about metallurgy
 - Generous with knowledge, teaches anyone genuinely interested
@@ -9325,7 +9053,7 @@ Compact and muscular (4'5", 210 lbs), with the powerful arms of a lifelong smith
 - Socially awkward - better with metal than people
 - Refuses commissions from those he considers unworthy
 
-### Background & History
+#### Background & History
 Born in 1049 CR, Gundren showed talent young. By 50, he was crafting better blades than smiths twice his age. By 100, his work was famous. By 150, he was legendary.
 
 He's created weapons for kings, armor for heroes, tools for artisans. His pieces are treasured across Tirvandor. Nobles wait years for commissions. He's turned down kings who he felt unworthy.
@@ -9336,7 +9064,7 @@ His greatest creation is Ironheart, his Steel Defender - a mechanical bear that'
 
 Now at 198, he's considered the greatest living smith. But he's restless - he wants to create something truly legendary before he dies. Something that will be remembered forever.
 
-### Connections
+#### Connections
 - **Thane Durin Ironforge:** Distant cousin, good relationship though Gundren avoids politics
 - **Master Smith Durgan Forgefire (Kaer Thandros):** Close friend, rival, they compete over technique
 - **King Aldric IV:** Created the king's ceremonial armor, mutual respect
@@ -9364,7 +9092,7 @@ Now at 198, he's considered the greatest living smith. But he's restless - he wa
 6. **The Iron Heart Secret:** Ironheart, his Steel Defender, isn't purely mechanical. It contains a fragment of his own soul - part of why it's so sophisticated. This process was painful and permanent. If Ironheart is destroyed, part of Gundren dies with it.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Commission:** Gundren offers to craft the party weapons/armor - but his price isn't gold. He needs rare materials from dangerous places. The quest to gather them becomes an adventure.
 
 2. **The Failed Sword:** Gundren learns his massacre sword is in the party's region. He asks them to help recover it. But the current owner (who inherited it innocently) doesn't want to give up a masterwork weapon.
@@ -9377,14 +9105,14 @@ Now at 198, he's considered the greatest living smith. But he's restless - he wa
 
 6. **The Defender's Damage:** Ironheart is severely damaged in battle. Gundren reveals the soul connection and begs the party to help him save his companion before the soul fragment dies.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Gruff, thick dwarvish accent, speaks in technical terms
 - **Mannerisms:** Constantly examining things, runs fingers along metalwork, taps with hammer
 - **Catchphrase:** "Good work's never rushed, and rushed work's never good."
 - **When excited:** Talks rapidly about metallurgy, eyes light up
 - **In combat:** Fights alongside Ironheart, very protective of companion
 
-### Notes for DMs
+#### Notes for DMs
 - Gundren is designed as a master craftsman and potential patron
 - He's the "grumpy but talented artisan" archetype
 - Can provide party with custom equipment (for price of adventure)
@@ -9469,10 +9197,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Ancient and ageless simultaneously (5'6", 115 lbs). Silver-white hair (from age, not dye) flows to her waist, often woven with living flowers and vines. Eyes are deep green, like forest shadows, and seem to see through pretense to truth. Skin has faint bark-like texture from centuries of druidic magic. Wears robes of living plants that grow and change with seasons. Moves with liquid grace despite her age.
 
-### Equipment
+#### Equipment
 - **Staff:** Quarterstaff +1 "Heartwood" (carved from ancient oak, focus)
 - **Bow:** Longbow (masterwork elven make)
 - **Cloak:** Cloak of Elvenkind (advantage on Stealth)
@@ -9481,7 +9209,7 @@ Ancient and ageless simultaneously (5'6", 115 lbs). Silver-white hair (from age,
 - **Bracelet:** Nature's Blessing (grants barkskin effect, AC 16 + Dex)
 - **Other:** Druidic focus (living branch), herbalism kit, scrolls of forest lore
 
-### Personality
+#### Personality
 **Traits:**
 - Patient and wise, speaks in measured tones
 - Protective of nature but pragmatic about civilization's needs
@@ -9505,7 +9233,7 @@ Ancient and ageless simultaneously (5'6", 115 lbs). Silver-white hair (from age,
 - Sometimes dismisses younger races' perspectives
 - Struggles with changes she doesn't understand
 
-### Background & History
+#### Background & History
 Born in 147 BW, before the Worldrend, Seraphine remembers the unified kingdoms. She was young when the Worldrend happened (147 years old) but old enough to understand the tragedy. That memory shapes her politics - she supports eventual reunification.
 
 She became Matriarch of House Silverleaf in 1102 CR (at 242) when her mother passed leadership to her. For 145 years, she's guided the house through wars, droughts, plagues, and political upheaval.
@@ -9516,7 +9244,7 @@ But she's tired. Nearly 1,400 years is ancient even for elves—she's among the 
 
 Recently, the forest has been whispering warnings. Something is wrong in the deep woods. Trees are dying in patterns she doesn't recognize. Animals flee from nothing visible. She fears something from before the Worldrend is awakening.
 
-### Connections
+#### Connections
 - **Son:** Ranger-Lord Arannis Silverleaf (loves him, worries about his methods)
 - **Family:** Council Mistress Elara Silverleaf (Rector of Silverpine University; formerly managed house affairs, now focuses on academia)
 - **Ancestor:** Matriarch Seraphina Silverleaf (the ancient founder; seeks her wisdom on matters of great import)
@@ -9545,7 +9273,7 @@ Recently, the forest has been whispering warnings. Something is wrong in the dee
 6. **The Forbidden Love:** In her youth, she loved a human - a ranger who died of old age centuries ago. She never took another partner. She still visits his grave secretly and speaks to him. Some think she's beyond emotion; they're wrong.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Forest Plague:** Seraphine reveals the tree plague and asks the party to find its source. They must journey to pre-Worldrend ruins where ancient magic is sealed - and failing.
 
 2. **The Vision Quest:** She tasks the party with preventing the catastrophic reunification she foresaw. But they must do so without knowing all details (she won't tell them the full vision).
@@ -9558,14 +9286,14 @@ Recently, the forest has been whispering warnings. Something is wrong in the dee
 
 6. **The Memory Quest:** Seraphine is one of few who remember the pre-Worldrend world. Scholars, politicians, or dark forces want those memories - extracted magically if necessary. The party must protect her and her knowledge.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Melodious, deliberate, often speaks in nature metaphors
 - **Mannerisms:** Touches plants as she passes, pauses to listen to things others don't hear, eyes follow unseen movements
 - **Catchphrase:** "The forest speaks to those who listen."
 - **When stressed:** Closes eyes, communing with nature for guidance
 - **In combat:** Uses environment, controls battlefield with plants, rarely directly attacks
 
-### Notes for DMs
+#### Notes for DMs
 - Seraphine is designed as wise mentor and quest-giver
 - She's the "ancient guardian" archetype with genuine wisdom
 - Can provide quests related to nature, ancient threats, or politics
@@ -9645,10 +9373,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Tall and lean (6'0", 165 lbs), built for speed and endurance. Dark green hair (rare for elves) pulled back in warrior's braid. Intense emerald eyes that constantly scan surroundings. His face has the hard look of someone who's seen combat - scars, weathered skin despite elven youth. Wears practical forest-camouflage leather armor, always armed. Moves with predatory grace - quieter than whisper.
 
-### Equipment
+#### Equipment
 - **Armor:** Studded Leather +2 "Forest's Embrace" (green, perfectly camouflaged)
 - **Primary Weapon:** Longbow +3 "Thornstrike" (legendary elven bow, never misses in forest)
 - **Melee:** Two Shortswords +2 (matched pair, perfect balance)
@@ -9658,7 +9386,7 @@ Tall and lean (6'0", 165 lbs), built for speed and endurance. Dark green hair (r
 - **Ring:** Ring of Free Action (can't be paralyzed or restrained)
 - **Other:** Ranger survival kit, tracking materials, healing potions (×5), poison vials (various types)
 
-### Personality
+#### Personality
 **Traits:**
 - Direct and action-oriented, dislikes politics and talk
 - Fiercely protective of the forest and House Silverleaf
@@ -9682,7 +9410,7 @@ Tall and lean (6'0", 165 lbs), built for speed and endurance. Dark green hair (r
 - Arrogant about his combat skills
 - Struggles with patience and politics
 
-### Background & History
+#### Background & History
 Born in 1091 CR to Matriarch Seraphine, Arannis grew up knowing he'd inherit House Silverleaf. But he never wanted politics - he wanted to protect the forest.
 
 At 30, he joined the ranger corps. At 50, he led his first patrol. At 80, he'd killed his first aberration - something that came from deep forest. At 100, he was Ranger-Lord, commanding all House Silverleaf's military forces.
@@ -9695,7 +9423,7 @@ He's proven himself in combat repeatedly. His rangers are legendary - silent, de
 
 He knows he'll inherit eventually. He's not sure he wants the political burden, but he'll accept it as duty. When he does, the forest will have a protector who isn't afraid to spill blood.
 
-### Connections
+#### Connections
 - **Mother:** Matriarch Seraphine Silverleaf (respects, disagrees with frequently)
 - **Rival:** General Marthos Thandris (competitive relationship, mutual respect as warriors)
 - **Ally:** Commander Kael Stormwatcher (Ironhold, bonded over northern threats)
@@ -9723,7 +9451,7 @@ He knows he'll inherit eventually. He's not sure he wants the political burden, 
 6. **The Deep Patrol:** He led a ranger team into the deepest Silverwood, beyond where his mother permits. They found something - ruins, artifacts, creatures - that terrified him. He reported finding nothing and swore his team to secrecy.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Ranger Mission:** Arannis recruits the party for a dangerous mission into contested territory. The mission is crucial but his methods are questionable. Will they follow orders or question them?
 
 2. **The Dragon Alliance:** The party discovers Arannis's pact with Veridianscale. They must decide whether to expose him, negotiate new terms, or help hide the alliance from Seraphine.
@@ -9736,14 +9464,14 @@ He knows he'll inherit eventually. He's not sure he wants the political burden, 
 
 6. **The Moral Choice:** Arannis captures enemies with crucial information. His interrogation methods work but are brutal. The party must decide whether to support, stop, or report him.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Clipped, military, speaks in short sentences
 - **Mannerisms:** Constantly scanning surroundings, hand always near weapon, moves silently even casually
 - **Catchphrase:** "Move fast, strike hard, leave nothing."
 - **When stressed:** Becomes even quieter, colder, more focused
 - **In combat:** Ruthlessly efficient, no wasted movements, kills quickly
 
-### Notes for DMs
+#### Notes for DMs
 - Arannis is designed as action-oriented NPC and military contact
 - He's the "warrior who's seen too much" archetype
 - Can provide combat-focused quests and missions
@@ -9822,13 +9550,13 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **Alignment:** Lawful Neutral
 - **Class:** Fighter 14 (Champion) / Rogue 2
 
-### Physical Description
+#### Physical Description
 Weather-beaten and imposing (6'2", 210 lbs of muscle and scars). Sun-darkened skin, short salt-and-pepper hair, piercing blue eyes like the sea itself. Multiple scars - sword cuts, burns from naval battles, shark bite on left forearm. Walks with rolling gait of career sailor. Usually wears modified naval uniform - practical for combat but clearly marking rank. Smells of saltwater and gunpowder.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-### Equipment
+#### Equipment
 - **Armor:** Half Plate +1 (naval-modified, saltwater-proof)
 - **Primary Weapon:** Cutlass +2 "Tidebreaker" (legendary naval blade, ignores water resistance)
 - **Pistols:** Two Naval Pistols +1 (matched pair, family heirlooms)
@@ -9837,7 +9565,7 @@ Weather-beaten and imposing (6'2", 210 lbs of muscle and scars). Sun-darkened sk
 - **Spyglass:** Magical telescope (see 10× normal distance, advantage on Perception)
 - **Other:** Navigation tools, charts, signal flags, powder and shot, Admiral's commission papers
 
-### Personality
+#### Personality
 **Traits:**
 - Commanding presence, expects obedience but earns respect
 - Strategic thinker, plans operations meticulously
@@ -9861,7 +9589,7 @@ Weather-beaten and imposing (6'2", 210 lbs of muscle and scars). Sun-darkened sk
 - Haunted by those lost at sea under his command
 - Workaholic - neglects personal relationships for duty
 
-### Background & History
+#### Background & History
 Born in 1199 CR to House Stormcrest, Theron went to sea at 10. Cabin boy became sailor became officer became captain became admiral. He's spent 38 years at sea, more than on land.
 
 At 25, he captained his first ship. At 30, he won his first major naval engagement against pirates. At 35, he commanded a squadron. At 40, he became Admiral of the Stormcrest fleet - youngest ever.
@@ -9874,7 +9602,7 @@ But success breeds enemies. He's discovered smuggling operations (possibly tied 
 
 He's also concerned about his sister Tempest. Her weather magic is invaluable but she's unpredictable, possibly dangerous. He can't decide if she's asset or liability.
 
-### Connections
+#### Connections
 - **Sister:** Lady Tempest Stormcrest (weather mage, complicated relationship)
 - **Rival:** Lord Aldris Goldshore IV (suspects his smuggling, can't prove it)
 - **Ally:** Admiral Marcus Stormbreaker (Tide Wardens, professional respect)
@@ -9902,7 +9630,7 @@ He's also concerned about his sister Tempest. Her weather magic is invaluable bu
 6. **The Personal Loss:** Theron has a daughter he's never met - born to a affair decades ago. He pays support through intermediaries but has never acknowledged her. She's now a sailor on merchant vessel, unaware of her heritage. He watches her career from distance.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Smuggling Raid:** Theron hires the party to infiltrate a suspected smuggling operation - on ships he can't officially board. They discover the extent of House Goldshore's illegal operation and must decide what to do with evidence.
 
 2. **The Mutiny Investigation:** New evidence surfaces about the old mutiny - suggesting it was orchestrated by outside forces to discredit Theron. The party must investigate 15-year-old case and clear his name (or confirm his guilt).
@@ -9915,14 +9643,14 @@ He's also concerned about his sister Tempest. Her weather magic is invaluable bu
 
 6. **The Daughter's Danger:** Theron's secret daughter is in danger - her ship is attacked, she's kidnapped, or discovers her heritage. He asks party to help without revealing his connection. They must decide whether to expose the secret.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Deep, commanding, accustomed to being obeyed
 - **Mannerisms:** Stands with hands clasped behind back, scans surroundings constantly, nautical terminology in casual speech
 - **Catchphrase:** "Steady as she goes."
 - **When stressed:** Grips sword hilt, jaw clenches, speaks in clipped commands
 - **In combat:** Fights from tactical position, directs allies, precise and efficient
 
-### Notes for DMs
+#### Notes for DMs
 - Theron is designed as military authority figure and quest-giver
 - He's the "grizzled naval commander" archetype
 - Can provide naval combat quests and investigations
@@ -10007,10 +9735,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Wild and striking (5'9", 140 lbs), with an intensity that makes people step back. Long black hair that seems to move with static electricity even when there's no wind. Eyes that shift from gray to electric blue depending on mood. Olive skin with lightning-bolt scars from channeling power. Wears flowing dark robes that billow dramatically. Has a presence that fills rooms - electric and slightly dangerous.
 
-### Equipment
+#### Equipment
 - **Robes:** Robes of the Archmagi (AC 15 base, advantage vs. spells, resistance to spell damage, +2 spell DC)
 - **Staff:** Staff of Thunder and Lightning (+2 quarterstaff, can cast various lightning spells, special attacks)
 - **Amulet:** Amulet of Lightning Resistance (redundant with natural resistance, but amplifies power)
@@ -10018,7 +9746,7 @@ Wild and striking (5'9", 140 lbs), with an intensity that makes people step back
 - **Boots:** Winged Boots (flight 4 hours/day)
 - **Other:** Component pouch, weather journal (tracks atmospheric conditions obsessively), storm-glass barometer
 
-### Personality
+#### Personality
 **Traits:**
 - Passionate and intense, everything at 100%
 - Impulsive - acts on instinct rather than thought
@@ -10042,7 +9770,7 @@ Wild and striking (5'9", 140 lbs), with an intensity that makes people step back
 - Addicted to power - the rush of controlling weather
 - Struggles with controlling her abilities
 
-### Background & History
+#### Background & History
 Born in 1212 CR, Tempest was always different. While her brother went to sea at 10, she stayed on land - seasick, much to her shame. At 13, during a tantrum, she called lightning without meaning to. Burned down a dock. Killed three people.
 
 House Stormcrest recognized sorcerous bloodline manifesting. They hired teachers - mages who'd help her control it. Some helped. Some tried to suppress it. All failed to truly teach control because the power is tied to her emotions.
@@ -10055,7 +9783,7 @@ Now at 35, she's incredibly powerful but possibly too dangerous. She knows this.
 
 Recently, her power is growing. Weather responds to her moods even when she's not trying. She's starting to hear whispers in storms - something calling to her from deep weather patterns. She hasn't told anyone.
 
-### Connections
+#### Connections
 - **Brother:** Admiral Theron Stormcrest (loves him, resents his control)
 - **Teacher:** A retired storm sorcerer who lives in lighthouse, only one who understands her power
 - **Friend:** Captain Mira Wavecrest (Lake Patrol, one person not afraid of her)
@@ -10082,7 +9810,7 @@ Recently, her power is growing. Weather responds to her moods even when she's no
 6. **The Prophecy:** Her teacher told her a prophecy - she'll either become the greatest storm mage in history who saves thousands, or she'll lose control completely and cause a catastrophe killing thousands. She doesn't know which future she's walking toward.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Control Crisis:** Tempest loses control during a major storm, endangering an entire fleet. The party must calm her, suppress her magic, or help her channel it safely. Time is critical - people are dying.
 
 2. **The Calling Investigation:** Tempest admits something in storms is calling her and asks the party to help investigate. They must journey into a perpetual tempest at sea to find the source - and decide if it should be destroyed or embraced.
@@ -10095,14 +9823,14 @@ Recently, her power is growing. Weather responds to her moods even when she's no
 
 6. **The Truth Revealed:** Evidence of Erik's assault surfaces. Theron learns the truth. He's relieved his sister defended herself but angry she lied. The party mediates this family crisis while Tempest's emotions threaten to literally destroy the ship they're on.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Ranges from whisper to shout, crackling with static when emotional
 - **Mannerisms:** Hair moves with static, eyes flash blue when using power, unconsciously affects nearby weather
 - **Catchphrase:** "I am the storm. You're just in it."
 - **When stressed:** Eyes turn completely blue, clouds gather, temperature drops
 - **In combat:** Dramatically casts spells, enjoys the power, laughs during battle
 
-### Notes for DMs
+#### Notes for DMs
 - Tempest is designed as powerful but unstable ally
 - She's the "dangerous wild magic" archetype
 - Can provide weather support or create weather problems
@@ -10182,10 +9910,10 @@ ___
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Distinctive and striking (5'10", 190 lbs), with the crystalline features of rock genasi. Skin has faint crystal formations - like geodes embedded in flesh. Eyes are literally crystalline - faceted like cut gems, reflecting light prismatically. White hair with crystal-like streaks. Moves with deliberate precision. Wears expensive robes with crystals sewn throughout - both decoration and functional spell components.
 
-### Equipment
+#### Equipment
 - **Robes:** Robe of the Archmagi (AC 15 base, +2 spell DC)
 - **Staff:** Crystal Staff +1 (acts as focus, conducts transmutation magic better)
 - **Ring:** Ring of Protection (+1 AC/saves)
@@ -10194,7 +9922,7 @@ Distinctive and striking (5'10", 190 lbs), with the crystalline features of rock
 - **Jewelry:** Multiple rings, bracelets, necklaces - all contain valuable gems he can use as spell components
 - **Other:** Jeweler's tools (masterwork), gem collection (worth 50,000+ gp), spellbook (covers in crystal), magnifying lens
 
-### Personality
+#### Personality
 **Traits:**
 - Meticulous and precise, everything calculated
 - Values knowledge and craftsmanship over emotion
@@ -10218,7 +9946,7 @@ Distinctive and striking (5'10", 190 lbs), with the crystalline features of rock
 - Greedy for rare specimens - will take risks for unique gems
 - Judgmental - categorizes people like gems (flawless, acceptable, flawed)
 
-### Background & History
+#### Background & History
 Born in 1160 CR as a rock genasi (rare bloodline in House Crystalborn), Zircon showed affinity for gems and transmutation early. At 20, he could identify any gem on sight. At 40, he'd mastered cutting techniques lost for centuries. At 60, he married into leadership and became Patriarch.
 
 For 27 years, he's ruled House Crystalborn with calculated precision. He transformed them from wealthy merchants into masters of gem-based magic - a unique niche making them indispensable.
@@ -10231,7 +9959,7 @@ His greatest work is his daughter Sapphira - not just training her in craft, but
 
 Recently, he's discovered something troubling - evidence that certain gem formations aren't natural. They're artifacts from before the Worldrend, possibly dangerous. He's investigating quietly, not wanting to cause panic or reveal he's found something valuable.
 
-### Connections
+#### Connections
 - **Daughter:** Gem-Mage Sapphira Crystalborn (protégé and heir)
 - **Rival:** Lord Aldris Goldshore IV (economic competition)
 - **Ally:** Patriarch Zircon of House Ironforge (confused? Different person - Durin is Ironforge patriarch)
@@ -10258,7 +9986,7 @@ Recently, he's discovered something troubling - evidence that certain gem format
 6. **The Succession Secret:** Sapphira isn't his biological daughter - she's adopted after his wife couldn't conceive. He's never told her. Her real parents died in accident, he took her in at age 2. She doesn't remember. If she learns truth, it could shatter their relationship and destabilize House leadership.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Crystal Commission:** Zircon hires the party to retrieve a specific rare gem from dangerous location (dragon hoard, elemental plane, ancient ruins). The gem is actually a Worldrend crystal. What they don't know could endanger the world.
 
 2. **The Dao Problem:** The dao binding is failing. Zircon needs party to renegotiate terms, strengthen binding, or prepare for the dao's revenge. They must deal with a angry genie who has legitimate grievance against being enslaved.
@@ -10271,14 +9999,14 @@ Recently, he's discovered something troubling - evidence that certain gem format
 
 6. **The Succession Crisis:** Sapphira discovers adoption truth (possibly through party investigation of something else). Zircon asks party to mediate. Can they repair the relationship? Should they? What happens to House Crystalborn?
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Measured, precise, occasionally uses mineralogical metaphors
 - **Mannerisms:** Examines things with jeweler's precision, gestures are calculated, touches his crystals when thinking
 - **Catchphrase:** "Perfection is achieved through patience and precision."
 - **When stressed:** Crystalline skin formations become more prominent, eyes reflect light more
 - **In confrontation:** Calm, calculated, uses logic rather than emotion
 
-### Notes for DMs
+#### Notes for DMs
 - Zircon is designed as knowledgeable patron and quest-giver
 - He's the "perfectionist artificer" archetype
 - Can provide crystal-based magic items and knowledge
@@ -10361,10 +10089,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Striking and elegant (5'8", 135 lbs), with unusual features she attributes to Crystalborn bloodline. Silver-white hair (natural, unusual for her age), pale blue eyes that sparkle like sapphires. Skin is flawless - literally, like polished stone. Delicate features, graceful movements. Wears robes decorated with crystal patterns, always has crystals woven into hair. Radiates subtle luminescence in darkness (draconic heritage manifesting).
 
-### Equipment
+#### Equipment
 - **Robes:** Elegant robes (AC from Draconic Resilience, not armor)
 - **Staff:** Crystal Staff of Defense (+1 to AC, stores 10 spell levels)
 - **Dagger:** Dagger +1 (ceremonial, rarely used in combat)
@@ -10373,7 +10101,7 @@ Striking and elegant (5'8", 135 lbs), with unusual features she attributes to Cr
 - **Bracelet:** Bracelet of Crystal Attunement (advantage on checks related to crystals)
 - **Other:** Jeweler's tools, spell books (multiple, different specialties), crystal collection, research notes
 
-### Personality
+#### Personality
 **Traits:**
 - Curious and scholarly, always asking questions
 - Kind and empathetic, unlike her father's coldness
@@ -10397,7 +10125,7 @@ Striking and elegant (5'8", 135 lbs), with unusual features she attributes to Cr
 - Obsessive about research - loses track of time and needs
 - Fear of disappointing her father
 
-### Background & History
+#### Background & History
 Sapphira remembers a loving childhood learning gem-cutting from her father. He was demanding but patient, teaching her precision and craft. She showed magical aptitude early - but it was protective magic, not transmutation like his. He adapted her training, teaching abjuration alongside craft.
 
 What she doesn't know: She was adopted at age 2 after her birth parents died in an accident. She has no memory of them. Zircon raised her as his own, never telling her the truth.
@@ -10410,7 +10138,7 @@ But she's been noticing inconsistencies. Her father works in secret. Records are
 
 Recently, she's had dreams of flying over crystal landscapes, speaking in voices that aren't hers, and seeing reflections in crystals that aren't her face. Her dragon bloodline is awakening more fully. She's becoming something her father can't explain.
 
-### Connections
+#### Connections
 - **Father:** Patriarch Zircon Crystalborn (loves him, starting to question him)
 - **Mentor:** Enchanter Prismara (teaches her crystal manipulation, knows about anomalous crystals)
 - **Friend:** Council Speaker Aquila Clearwater (Crystalbrook, bonded over scholarship)
@@ -10437,7 +10165,7 @@ Recently, she's had dreams of flying over crystal landscapes, speaking in voices
 6. **The Romantic Feelings:** She's developed feelings for someone - possibly a party member, possibly the admiring student, possibly someone else. But she's terrified of relationships. Her magic is unstable when emotional. She fears hurting someone she cares about.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Heritage Revelation:** Sapphira discovers she's adopted, possibly finding birth parents' belongings or hearing from someone who knew them. She must reconcile her identity while party helps her investigate her true origins.
 
 2. **The Dragon Awakening:** Her bloodline fully manifests - physical transformations, dragon personality asserting itself, compulsion to claim territory. Party must help her control it or accept transformation into something partially draconic.
@@ -10450,14 +10178,14 @@ Recently, she's had dreams of flying over crystal landscapes, speaking in voices
 
 6. **The Succession Crisis:** If Zircon's secrets are exposed or he dies, Sapphira inherits House Crystalborn. But she's not ready, doesn't want leadership, and has her own secrets. Party helps her navigate succession while kingdom politics threaten to tear apart everything.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - **Voice:** Soft, thoughtful, gets excited when discussing magic
 - **Mannerisms:** Touches crystals in her hair when nervous, eyes sparkle literally when happy, creates light unconsciously when emotional
 - **Catchphrase:** "Let me think about this crystallographically."
 - **When stressed:** Arcane Ward becomes visible (shimmer around her), speaks faster
 - **In combat:** Stays back, protects allies, creates defensive fields, reluctant to harm
 
-### Notes for DMs
+#### Notes for DMs
 - Sapphira is designed as innocent prodigy caught in complex situation
 - She's the "talented student discovering dark family secrets" archetype
 - Can serve as ally, quest-giver, or character needing protection
@@ -10512,10 +10240,10 @@ ___
 *"The ice provides for those who respect it. Break that rule, you break through the ice."*
 }}
 
-### Physical Description
+#### Physical Description
 Weathered and tough (5'8", 160 lbs), built like someone who hauls nets and navigates treacherous ice daily. White-blonde hair in tight practical braids, showing gray at temples. Ice-blue eyes that constantly scan for danger. Face marked by frostbite scars and weather lines. Wears heavy seal-skin parka even indoors. Strong, calloused hands. Moves with sure-footed grace even on ice. Smells of fish, salt, and cold air.
 \column
-### Equipment
+#### Equipment
 - **Armor:** Studded Leather (reinforced, cold-weather)
 - **Primary Weapon:** Heirloom Harpoon (great-grandfather's, masterwork)
 - **Secondary:** Ice Knife (cold-forged steel)
@@ -10527,7 +10255,7 @@ Weathered and tough (5'8", 160 lbs), built like someone who hauls nets and navig
 {{footnote Part IV: NPCs}}
 \page
 
-### Personality
+#### Personality
 Traits
 - Speaks in short, efficient commands
 - Zero tolerance for stupidity on the ice
@@ -10554,14 +10282,14 @@ Traits
 - Hearing voices in the ice (might be going mad)
 - Distrusts outsiders, especially southern merchants
 
-### Background & History
+#### Background & History
 Brenna was born in a snowstorm on the coldest night in a century—an omen, the village elders said. They were right; she was born with the cold in her blood, able to endure temperatures that would kill others and shrug off frostbite like a minor inconvenience.
 
 She joined the northern garrison at twenty and quickly proved herself in conflicts with frost giants and ice trolls. Her fearlessness in cold-weather combat earned her command of the Winter Guard, the elite unit that patrols the frozen north during the months when normal soldiers cannot operate.
 
 Now forty, she's a legend among northern troops—part commander, part force of nature. Her tactical brilliance in winter conditions is matched only by her struggle to connect with people in peacetime. She's spent so long in the cold that warmth—emotional and physical—makes her uncomfortable.
 \column
-### Connections
+#### Connections
 - **Command:** Eighty Winter Guard soldiers
 - **Superior:** Commander Kael Stormwatcher (respects but disagrees with)
 - **Ally:** The Frost Seer Eirlys (provides strategic intelligence)
@@ -10579,7 +10307,7 @@ Now forty, she's a legend among northern troops—part commander, part force of 
 5. **The Spirit's Price:** The frost spirit will eventually come to collect. She doesn't know what it wants.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Vengeance Mission:** Ready to move against Grimtusk. Needs allies for the kill.
 2. **The Spirit Investigation:** Strange things happening with her blessing. Needs help understanding the spirit's intentions.
 3. **The Winter Campaign:** A threat requires extended operations in deep winter. Only the Winter Guard can reach it.
@@ -10589,7 +10317,7 @@ Now forty, she's a legend among northern troops—part commander, part force of 
 {{footnote Part IV: NPCs}}
 \page
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Touches harpoon for luck
 - Constantly checks ice conditions
 - Speaks in nautical/fishing terms
@@ -10672,7 +10400,7 @@ ___
 *"The auroras speak to those who listen. Tonight, they scream warnings."*
 }}
 
-### Background & History
+#### Background & History
 Eirlys was born completely blind, but where her eyes should see darkness, she perceives the patterns of cold—heat signatures, frozen water, the breath of living things. The northern shamans recognized her gift and trained her as a seer, teaching her to read the future in snowfall patterns and ice crystal formations.
 
 She became the Frost Seer at thirty, the youngest in seven generations. Her predictions have saved countless lives, from warning of avalanches to foreseeing giant raids. The northern garrison considers her indispensable; commanders plan major operations only after consulting her.
@@ -10683,24 +10411,24 @@ But her gift shows her more than weather and raids. She sees the cold of death a
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Military:** Advisory role to northern command
 - **Friend:** Captain Brenna Frostbeard (kindred spirits, literally)
 - **Student:** Three apprentice seers learning to read the ice
 - **Contact:** The Sand Prophet Qadir (shares prophetic correspondence)
 - **Enemy:** Whatever sleeps beneath the ice
 
-### Physical Description
+#### Physical Description
 Ancient and weathered (5'5", 110 lbs), appearing far older than her 68 years. Hair is pure white, almost silver, flowing loose. Eyes are pale blue, almost colorless, with an otherworldly quality. Skin is pale, almost translucent. Wears layered white furs and ice crystal jewelry. Moves slowly but with purpose. Voice sounds like wind over ice. Smells of cold air and ozone.
 
-### Equipment
+#### Equipment
 - **Staff:** Ice Staff (carved from frozen wood, never melts)
 - **Robes:** White fur robes (cold resistance)
 - **Amulet:** Ice Crystal Amulet (focus, glows during prophecies)
 - **Charms:** Multiple ice crystal charms (divination focuses)
 - **Other:** No material needs, lives simply
 
-### Connections
+#### Connections
 - Spiritual advisor to Captain Brenna Frostbeard
 - Commands respect of Commander Torvald Stoneshield
 - Corresponds with Archmage Veridian (who takes visions seriously)
@@ -10725,7 +10453,7 @@ Ancient and weathered (5'5", 110 lbs), appearing far older than her 68 years. Ha
 - Hums old northern songs unconsciously
 
 
-### Personality
+#### Personality
 
 **Traits**
 - Speaks in riddles and three-part phrases
@@ -10753,7 +10481,7 @@ Ancient and weathered (5'5", 110 lbs), appearing far older than her 68 years. Ha
 - Isolated, lonely
 - Slowly transforming into living ice
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Speaks in patterns of three
 - Touches ice crystals when concentrating
 - Stares at northern lights constantly
@@ -10795,7 +10523,7 @@ Ancient and weathered (5'5", 110 lbs), appearing far older than her 68 years. Ha
 5. **The Prevention Theory:** Believes she's found a way to prevent the catastrophe, but it requires terrible sacrifice.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Vision Sharing:** Has seen something about the party. Offers to share it—for a price.
 2. **The Dream Investigation:** The sleeping god's dreams are intensifying. Needs help investigating without waking it.
 3. **The Prophet Meeting:** Wants to meet the Sand Prophet in person to compare full visions. Needs escort.
@@ -10847,7 +10575,7 @@ ___
 *"We stand between civilization and chaos. Giants respect strength. Show none, and we all fall."*
 }}
 
-### Equipment
+#### Equipment
 - **Armor:** Mythril Plate +1 (runic engravings)
 - **Shield:** Dwarven Shield +1 (mountain motif)
 - **Weapon:** Mountain's Voice (Warhammer +3, ancestral, thunder damage)
@@ -10856,7 +10584,7 @@ ___
 - **Ring:** Ring of Warmth (cold resistance)
 - **Horn:** Giant-Calling Horn (can summon frost giants)
 
-### Background & History
+#### Background & History
 Torvald was born to a long line of soldiers, each serving in the mountain garrisons. His father commanded the eastern pass; his grandfather died defending it. The shield he carries has been in his family for eight generations, and he intends to pass it on with his family's honor intact.
 
 He took command of Stoneshield Keep at forty after distinguishing himself against orc raiders. For twenty years, he's maintained the most boring command in the Ironspines—which suits him perfectly. Boring means no deaths, no disasters, no families receiving terrible news. He's made boring into an art form.
@@ -10867,7 +10595,7 @@ But the mountains are getting less boring. Patrols are finding tracks they can't
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Command:** Two hundred garrison soldiers
 - **Superior:** Lord Commander Thrain Ironoak (respects immensely)
 - **Ally:** Master Miner Grimnir Deepdelve (childhood friend)
@@ -10883,7 +10611,7 @@ But the mountains are getting less boring. Patrols are finding tracks they can't
 5. **The Retirement Dream:** Wants to retire and raise goats. Knows he never will while there's duty to serve.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Deep Exploration:** Needs volunteers to explore the tunnels shown on the map.
 2. **The Reinforcement Request:** Trying to get more troops. Needs evidence of the threat to convince superiors.
 3. **The Family Legacy:** The grandfather's shame could be used against him. Wants the truth contained.
@@ -10928,7 +10656,7 @@ ___
 *"Everyone needs something. I simply ensure supply meets demand - at fair market rates, naturally."*
 }}
 
-### Equipment
+#### Equipment
 - **Armor:** Studded Leather +1 (merchant's finery)
 - **Weapons:** Rapier +1, poisoned daggers (6)
 - **Ring:** Ring of Mind Shielding (hides true identity)
@@ -10939,7 +10667,7 @@ ___
 
 ---
 
-### Background & History
+#### Background & History
 The Icewind Trading Company has controlled the northern ice-trade for three generations, and Kael has expanded it to dominance. Ice preserved with magic can be shipped anywhere in the world, and rich southern nobles pay fortunes for frozen luxuries. It's made the Icewinds one of the wealthiest families in Thaldros.
 
 Kael took over at twenty-five when his father died, and immediately modernized operations. New ice-harvesting techniques, improved magical preservation, expanded shipping routes. In fifteen years, he's tripled the company's value and opened markets in Aethoria.
@@ -10949,7 +10677,7 @@ But he's restless. Money is just a way of keeping score, and he's already winnin
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Company:** Icewind Trading Company (500 employees)
 - **Peer:** Trade Prince Lucian Goldfingers (respects, wary of)
 - **Supplier:** The Frost Witch (magical preservation methods)
@@ -10966,7 +10694,7 @@ But he's restless. Money is just a way of keeping score, and he's already winnin
 5. **The Loneliness:** Has everything except meaningful connections. His wealth isolates him.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Expedition Funding:** Offers to fund the party's expedition in exchange for first rights to anything found.
 2. **The Ice Memories:** Has found a memory that seems relevant to current events. Needs help interpreting it.
 3. **The Witch's Service:** The Frost Witch has called in her debt. He needs help fulfilling it—or escaping it.
@@ -11008,21 +10736,21 @@ ___
 *"Fifty years I've mined these mountains. Never seen anything like what's down there. Never WANTED to."*
 }}
 
-### Equipment
+#### Equipment
 - **Armor:** Chain Mail (work-worn)
 - **Primary:** Mining Pick +1 (family heirloom)
 - **Secondary:** Warhammer
 - **Tools:** Complete mining kit, explosives
 - **Lamp:** Continual Flame lantern
 
-### Background & History
+#### Background & History
 Grimnir was born a thousand feet underground and has spent most of his 180 years even deeper. The Deepdelve clan has mined the Ironspines since before human history, and Grimnir knows tunnels his great-grandfather discovered that still haven't been fully explored.
 
 He became Master Miner—the dwarf responsible for all mining operations in the central Ironspines—after the previous master died in a cave-in that shouldn't have happened. Grimnir discovered sabotage, tracked down those responsible, and dealt with them personally. He's been paranoid about safety ever since.
 
 His miners respect him because he still works alongside them, despite his position. He says he can't trust any tunnel he hasn't walked himself. Truthfully, he can't stand paperwork and would rather swing a pickaxe than attend meetings. His subordinates handle administration while he explores.
 
-### Connections
+#### Connections
 - **Guild:** Fourteen hundred miners under his authority
 - **Friend:** Commander Torvald Stoneshield (drinking companions)
 - **Rival:** Forge-Master Rurik Ironanvil (compete for resources)
@@ -11042,7 +10770,7 @@ His miners respect him because he still works alongside them, despite his positi
 5. **The Family Secret:** The Deepdelve clan originated from dwarves who fled something below. Family legends hint at what.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Mithril Expedition:** Ready to exploit the mithril vein. Needs trusted outsiders who can keep secrets.
 2. **The Deep Ones:** The creatures he negotiated with want to renegotiate. Needs mediators.
 3. **The Sabotage Trail:** Finally has a lead on who ordered his predecessor's death. Needs investigators.
@@ -11108,20 +10836,20 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Winter is not cruel. It simply is. Humans mistake indifference for malice."*
 }}
 
-### Physical Description
+#### Physical Description
 Ethereally beautiful (5'10", 140 lbs) with pale, almost translucent skin. Long white hair flows like snow. Eyes are pale blue, shifting like winter sky. Wears flowing robes of ice-blue that seem woven from frost itself. Barefoot always, leaving no tracks. Surrounded by faint mist. White wolves follow her. Smells of pine and fresh snow. Voice sounds like wind through ice.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 
 \page
-### Equipment
+#### Equipment
 - **Robes:** Flowing ice-blue robes (never get dirty or wet)
 - **Staff:** Ice Crystal Staff (acts as arcane focus)
 - **Crown:** Circlet of ice crystals (permanent, part of her)
 - **No armor needed:** Natural AC from fey nature
 - **No shoes:** Walks barefoot in snow
 
-### Personality
+#### Personality
 - Detached, observes humanity from outside
 - Kind but alien in her kindness
 - Protects community because of ancient oath
@@ -11142,14 +10870,14 @@ Ethereally beautiful (5'10", 140 lbs) with pale, almost translucent skin. Long w
 
 ---
 
-### Background & History
+#### Background & History
 Ylva was born during a blizzard that killed her mother and left her father's fingers blackened with frostbite. The village should have left her to die—winter's children rarely survived—but her father refused. She lived, and the cold followed her.
 
 By ten, she could freeze water with a touch. By twenty, she could summon blizzards. The villagers drove her out, calling her cursed. She found refuge in the ice caves of Mount Frostpeak, where she's lived for sixty years, growing stronger and stranger.
 
 She's not evil—she protects the mountain communities from avalanches and warns of deadly storms. But she's no longer entirely human. The ice has seeped into her soul, making her cold, patient, and difficult to understand. Those who approach her properly receive help; those who don't face the fury of winter.
 
-### Connections
+#### Connections
 - **Friend:** The Frost Seer Eirlys (kindred spirits)
 - **Rival:** Witch Mother Helga (old disagreement over a stolen bargain)
 - **Protectorate:** Mountain villages that honor her
@@ -11165,7 +10893,7 @@ She's not evil—she protects the mountain communities from avalanches and warns
 5. **The Frozen Love:** Once loved a human. Froze him to preserve him when he was dying. He's still in the ice, preserved.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Mountain's Will:** The voice wants something. She needs help interpreting its desires.
 2. **The Fire Cult Return:** The survivors are gathering strength. She needs allies against them.
 3. **The Transformation Cure:** Seeking a way to slow or stop her transformation. Willing to reward help.
@@ -11215,7 +10943,7 @@ ___
 *"Iron bends. Steel breaks. But a proper dwarven weapon? That endures forever."*
 }}
 
-### Equipment
+#### Equipment
 - **Armor:** Chain Mail (heat-resistant)
 - **Primary:** Volcanic Warhammer +2 (legendary, family heirloom)
 - **Tools:** Masterwork smith's tools (+2 to all checks)
@@ -11229,14 +10957,14 @@ ___
 
 \page
 
-### Background & History
+#### Background & History
 Thordak's forge sits at the edge of an active volcanic vent, where he works metal in heat that would kill ordinary smiths. He's a dragonborn of red dragon heritage, immune to fire and capable of producing work that requires temperatures no normal forge can reach.
 
 He learned his craft from a fire giant smith who owed his father a life debt. For twenty years, he trained in the volcanic depths, learning techniques unknown to surface races. When he emerged, he established a forge that produces the most heat-resistant equipment in the world.
 
 The Ashwardens are his primary clients, but anyone willing to pay his prices and brave the journey receives his work. He's gruff, rude, and completely uninterested in social niceties. He cares only for craft and considers conversation a waste of smithing time.
 
-### Connections
+#### Connections
 - **Client:** Grand Warden Volcanus Rex (primary contract)
 - **Teacher:** Fire giant smith Ignak (still corresponds)
 - **Rival:** Forge-Master Rurik Ironanvil (respects but competitive)
@@ -11252,7 +10980,7 @@ The Ashwardens are his primary clients, but anyone willing to pay his prices and
 5. **The Volcanic Instability:** Knows the volcano is building toward an eruption. Hasn't told anyone.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Commission:** Offers to make something extraordinary if the party retrieves volcanic materials.
 2. **The Giant Contact:** Needs a message delivered to his teacher in the deep volcanic reaches.
 3. **The Volcanic Warning:** Shares his knowledge of the coming eruption if properly approached.
@@ -11303,21 +11031,21 @@ ___
 *"These runes predate the Worldrend. They're not decoration - they're warnings."*
 }}
 
-### Equipment
+#### Equipment
 - **Robes:** Scholar's robes
 - **Staff:** Walking staff (mundane)
 - **Spectacles:** Reading glasses (advantage on deciphering text)
 - **Books:** 12 notebooks full of runic research
 - **Tools:** Runic transcription kit
 
-### Background & History
+#### Background & History
 Veridian's name honors Archmage Veridian Starweaver—his parents were scribes who hoped naming their son after the famous University wizard would bring him luck. It worked; he's become one of the foremost scholars of runic magic in Thaldros, able to read inscriptions that have baffled others for centuries.
 
 His specialty is pre-Worldrend text, the ancient scripts that were used before the world was torn apart. He's spent sixty years collecting rubbings, copying inscriptions, and developing translation methods. His crowning achievement is a partial dictionary of the Elder Script, the language used by the civilization that caused the Worldrend.
 
 He works from a cluttered study in the Silverpine Magical Academy, surrounded by books, scrolls, and strange artifacts. He's absent-minded about everyday matters but razor-sharp about his field. Students simultaneously adore and fear him—he's brilliant but demands excellence.
 
-### Connections
+#### Connections
 - **Institution:** Silverpine Magical Academy (senior professor)
 - **Student:** Six doctoral candidates in ancient languages
 - **Collaborator:** Professor Elara Moonwhisper (combines astronomy with his linguistics)
@@ -11337,7 +11065,7 @@ He works from a cluttered study in the Silverpine Magical Academy, surrounded by
 5. **The Immortality Hints:** Some texts describe techniques for extending life. He's tempted to try them.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Translation Project:** Has a text that resists translation. Needs adventurers to investigate its source.
 2. **The Dangerous Knowledge:** Ready to share what he knows about the Worldrend—but only with those he trusts.
 3. **The Artifact Problem:** The stolen artifact is being sought. Needs help either hiding it or legitimizing his possession.
@@ -11391,7 +11119,7 @@ their saving throw.
 *"Lava doesn't negotiate. Neither do I. The systems work or people die."*
 }}
 
-### Background & History
+#### Background & History
 Mira was born with a gift for understanding machines that borders on magical—she can hear when gears are misaligned, feel when pressure is building dangerously, sense the flow of steam and water through pipes. She's used this talent to become the Ashwardens' primary engineer, designing systems that contain volcanic forces.
 
 Her containment domes, pressure release valves, and early warning networks have saved tens of thousands of lives. She works constantly, driven by the memory of her hometown's destruction by volcanic eruption when she was twelve. She survived; three thousand others didn't.
@@ -11400,7 +11128,7 @@ She splits her time between the Ashgate engineering works and field installation
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-### Connections
+#### Connections
 - **Superior:** Warden Commander Ignis Ashborn (close working relationship)
 - **Supplier:** Forge-Master Thordak Lavaheart (provides specialized components)
 - **Team:** Twenty engineers and fifty technicians
@@ -11416,7 +11144,7 @@ She splits her time between the Ashgate engineering works and field installation
 5. **The Alternative Plan:** Has designed evacuation systems for when containment fails. Hopes never to use them.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Field Installation:** Needs protection while installing containment systems in dangerous territory.
 2. **The Resource Crisis:** The Ashgate flaw requires materials she can't obtain through normal channels.
 3. **The Super-Eruption Test:** Wants to test her redirection system on a minor volcanic event. Needs observers.
@@ -11528,14 +11256,14 @@ Borin can use his reaction to become the target instead.
 *"Stone's been dead for millennia. If it's moving now, that's a problem."*
 }}
 
-### Background & History
+#### Background & History
 The Stonecutter clan has managed the great stone quarries south of the Ironspines for eight generations. Borin inherited the operation at fifty when his mother retired, and has spent the last century turning a profitable business into an essential one.
 
 His stone builds the castles, bridges, and monuments of a dozen kingdoms. He employs three thousand workers across multiple quarries and has developed techniques that produce stone of unprecedented quality. His personal fortune rivals some noble houses, but he lives simply—wealth is for reinvestment, not display.
 
 He's a patient negotiator, willing to wait years for the right deal. He's also utterly ruthless when crossed; anyone who cheats him discovers their stone shipments delayed indefinitely, their competitors suddenly well-supplied. He doesn't need to threaten—his control of the market speaks for itself.
 
-### Connections
+#### Connections
 - **Employees:** Three thousand quarry workers
 - **Ally:** Master Miner Grimnir Deepdelve (complementary businesses)
 - **Client:** Every major construction project in Thaldros
@@ -11555,7 +11283,7 @@ He's a patient negotiator, willing to wait years for the right deal. He's also u
 5. **The Succession Problem:** No children, no clear heir. Worries about his legacy.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Deep Discovery:** Found something in the pre-Worldrend ruins. Needs experts to assess it.
 2. **The Living Stone:** Wants to understand the responsive stone. Needs magical investigation.
 3. **The Heir Search:** Looking for someone worthy to inherit. Tests likely candidates.
@@ -11680,10 +11408,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Ancient and ethereal (5'10", 130 lbs) with a presence that commands respect without words. Skin has a faint golden-brown hue like aged oak, with subtle patterns resembling wood grain visible in certain lights. Silver-white hair flows past her waist, often adorned with living vines, flowers, and autumn leaves that grow naturally from it. Eyes are deep forest green with golden flecks, seeming to hold the wisdom of centuries. Moves with slow, deliberate grace. Wears flowing robes of deep green embroidered with golden leaves. The Oakheart Staff is always at her side, pulsing with faint green light. Her hands are gnarled like ancient wood but gentle. Small roots occasionally sprout from her footsteps when she stands still too long.
 
-### Equipment
+#### Equipment
 - **Staff:** Oakheart Staff (legendary, carved from Heart Oak, never broken, +2 quarterstaff, functions as Staff of the Woodlands)
 - **Armor:** Living Bark Armor (AC 16, made from shed bark of Heart Oak, regrows when damaged, grants resistance to poison)
 - **Robes:** Ancient Elvish ceremonial robes (deep green with gold leaf patterns)
@@ -11696,7 +11424,7 @@ Ancient and ethereal (5'10", 130 lbs) with a presence that commands respect with
 - **Potions:** 2 potions of supreme healing, 1 potion of vitality, 3 potions of greater healing
 - **Seeds:** Rare magical plant seeds (moonflower, starlight rose, dreamvine)
 
-### Personality
+#### Personality
 Traits
 - Speaks slowly, choosing each word with centuries of consideration
 - Often pauses mid-sentence to listen to the forest
@@ -11729,7 +11457,7 @@ Traits
 - The Heart Oak's illness is draining her own life force (she hides this)
 - Knows she's dying with the tree but refuses to leave it
 
-### Background & History
+#### Background & History
 Thalindra has led the village of Oakheart Grove for three centuries, watching generations of humans come and go while the elven core of the community remains. She's seen wars, plagues, and natural disasters; she's guided her people through all of them.
 
 She was a druid of considerable power in her youth, but chose to focus on community leadership rather than mystical pursuits. She still maintains a connection to the great oak at the village center, which was planted by her grandmother and will likely outlive her grandchildren.
@@ -11739,7 +11467,7 @@ Her leadership style is gentle guidance rather than command. She rarely orders a
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Community:** Oakheart Grove (800 residents)
 - **Advisors:** Circle of village elders (five others)
 - **Druid Contact:** Archdruid Silvaris Oakenheart (old friend)
@@ -11755,14 +11483,14 @@ Her leadership style is gentle guidance rather than command. She rarely orders a
 5. **The Weary Heart:** Has been ready to die for decades. Stays alive only because she's needed.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Portal Preparation:** The Feywild portal opens soon. Needs help preparing for whatever comes through.
 2. **The Youth Appeal:** Looking for ways to make the village attractive to young elves. Open to suggestions.
 3. **The Old Crime:** Someone has discovered evidence of the killing. Needs help managing the situation.
 4. **The Binding Investigation:** Wants to understand her bond to the village. Possibly break it.
 5. **The Succession Planning:** Looking for someone to lead after her. Might see potential in party members.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Speaks in measured, poetic phrases
 - Often quotes ancient proverbs in Elvish
 - Touches the bark of the Heart Oak for comfort
@@ -11822,13 +11550,13 @@ ___
 *"Every tree has a purpose. My job is to help it find that purpose—whether a beam, a bow, or a legacy."*
 }}
 
-### Physical Description
+#### Physical Description
 Solidly built (5'11", 210 lbs) with the powerful frame of someone who works with timber daily. Calloused hands covered in tiny scars and splinters. Short brown hair showing gray, usually dusted with sawdust. Brown eyes that constantly assess structures and quality. Full beard kept neat but practical. Wears leather work clothes reinforced at stress points. Smells of fresh-cut wood, pine sap, and linseed oil. Moves with the careful confidence of someone used to dangerous work. Always has wood shavings in his hair and on his clothes.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-### Equipment
+#### Equipment
 - **Armor:** Reinforced Leather (+1 leather armor, AC 12)
 - **Shield:** Wooden Shield (masterwork, AC +2, can block one critical hit per day)
 - **Primary Weapon:** Heirloom Greataxe (grandfather's axe, perfectly balanced, masterwork)
@@ -11840,7 +11568,7 @@ Solidly built (5'11", 210 lbs) with the powerful frame of someone who works with
 - **Backpack Contents:** Rope (100 ft.), block and tackle, wood samples, blueprints
 - **Other:** Level, square, chalk line, plumb bob
 
-### Personality
+#### Personality
 Traits
 - Speaks in measured, thoughtful sentences
 - Constantly fidgets with small wood pieces, carving as he talks
@@ -11872,14 +11600,14 @@ Traits
 - Struggles to say no to requests for free work
 - Guilty about accident where apprentice lost finger
 
-### Background & History
+#### Background & History
 Aldric's family has been woodworkers for ten generations, but he's the first to achieve true mastery. His joints are invisible, his carvings lifelike, his furniture sold to royalty across both continents. He's transformed the family workshop into a renowned atelier.
 
 He discovered his exceptional talent young—he could see how wood wanted to be shaped, could sense the grain and flow of lumber as clearly as others see color. By thirty, he was taking commissions from nobles. By fifty, he was turning them away—there's only so much he can produce, and he chooses projects that interest him.
 
 He's gentle and patient, more interested in teaching than fame. He takes one apprentice at a time, training them for seven years before pronouncing them ready. His former students are among the finest woodworkers in the world.
 
-### Connections
+#### Connections
 - **Workshop:** Master's Atelier in Silverpine
 - **Apprentice:** Current apprentice nearing completion
 - **Former Students:** Seventeen master craftspeople across the continent
@@ -11899,14 +11627,14 @@ He's gentle and patient, more interested in teaching than fame. He takes one app
 {{footnote Part IV: NPCs}}
 \page
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Dryad Problem:** The dryad grove is threatened. Needs help without revealing their location.
 2. **The Commission Conflict:** The rejected client is causing trouble. Needs diplomatic intervention.
 3. **The Sight Quest:** Looking for magical solutions to his failing eyes. Discrete inquiries.
 4. **The Apprentice Test:** His current apprentice needs a final test. Involves the party somehow.
 5. **The Masterwork Viewing:** Might show his hidden masterwork to those who prove worthy.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Runs hand along wood grain while thinking
 - Quotes "Grandfather Woodwise always said..."
 - Makes small carved gifts during conversations
@@ -11971,13 +11699,13 @@ ___
 *"The mill turns day and night, just like the world. We feed the wheel, the wheel feeds us."*
 }}
 
-### Physical Description
+#### Physical Description
 Average height (5'10", 180 lbs) but powerfully built from years of hauling grain sacks and working machinery. Flour dust permanently stains his clothes and hair white, making him look older. Practical brown work clothes always covered in flour. Strong hands with blacksmith-like grip strength. Brown eyes that constantly assess mechanical workings. Short practical hair usually white with flour. Clean-shaven face dusted with flour. Smells of fresh flour, water, and machine oil. Moves with efficiency of someone used to dangerous machinery.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-### Equipment
+#### Equipment
 - **Armor:** Padded Leather Apron (AC 11, protects against flour dust, sparks)
 - **Primary Tool:** Heavy Wrench (2 ft. long, masterwork, doubles as weapon)
 - **Tools:** Tinker's tools, engineer's tools (both masterwork quality)
@@ -11987,7 +11715,7 @@ Average height (5'10", 180 lbs) but powerfully built from years of hauling grain
 - **Other:** Chalk for marking, leather gloves, safety goggles (dwarven made)
 - **Emergency:** Length of rope, pulleys, spare gears
 
-### Personality
+#### Personality
 Traits
 - Constantly wipes flour off clothes (futile habit)
 - Explains things using mill and water metaphors
@@ -12019,14 +11747,14 @@ Traits
 - Sometimes ignores family for mill work
 - Paranoid about sabotage after previous incident
 \column
-### Background & History
+#### Background & History
 The Waterwheel mill has ground grain for the village of Millbrook for two hundred years. Tobias is the fifth generation to run it, and possibly the last—his sons have left for city trades, and his daughter shows no interest in flour-dusted labor.
 
 He's content with his life: steady work, respected position, enough coin to be comfortable. He knows every farmer within ten miles, their crops, their troubles, their secrets. The mill is where people talk while waiting for their grain, and Tobias listens more than he speaks.
 
 But lately, something is wrong with the river. Fish are dying, the water tastes strange, and the wheel has been harder to turn. Tobias has been investigating quietly, and what he's found frightens him.
 
-### Connections
+#### Connections
 - **Community:** Millbrook village (300 residents)
 - **Customers:** Every farm within ten miles
 - **Daughter:** Sarah Waterwheel (herbalist, lives in town)
@@ -12043,7 +11771,7 @@ But lately, something is wrong with the river. Fish are dying, the water tastes 
 5. **The War Past:** Served as a soldier in his youth. Killed people. Became a miller partly to atone.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The River Investigation:** Needs help investigating the abandoned mine safely.
 2. **The Tunnel Mystery:** Strange sounds from the basement tunnels. Needs someone to explore.
 3. **The Secret Keeper:** Has information the party needs. Might share if asked right.
@@ -12053,7 +11781,7 @@ But lately, something is wrong with the river. Fish are dying, the water tastes 
 {{footnote Part IV: NPCs}}
 \page
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Constantly wipes flour from hands
 - Checks pocket watch obsessively
 - Taps rhythm of mill wheel on tables
@@ -12116,7 +11844,7 @@ ___
 *"Land ownership is a sacred trust. We do not own the earth; we are merely its temporary stewards."*
 }}
 
-### Physical Description
+#### Physical Description
 Elegant and commanding presence (5'8", 145 lbs) with the poise of generations of nobility. Auburn hair worn in practical noble style, sometimes covered with silk scarf. Striking green eyes that assess people instantly. Fair skin despite outdoor work managing estates. Wears practical but expensive clothing—reinforced silk that looks decorative but allows movement. Always carries rapier at hip, though she makes it look decorative.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -12124,7 +11852,7 @@ Elegant and commanding presence (5'8", 145 lbs) with the poise of generations of
 
 Moves with fencer's grace. Smells of rose water and parchment. Hands show evidence of both sword practice and ledger work.
 
-### Equipment
+#### Equipment
 - **Armor:** Fine Studded Leather (AC 14, disguised as fashionable clothing)
 - **Primary Weapon:** Riverbrook Rapier +1 (family heirloom, magically keen)
 - **Secondary:** Main Gauche (parrying dagger, masterwork)
@@ -12136,7 +11864,7 @@ Moves with fencer's grace. Smells of rose water and parchment. Hands show eviden
 - **Potions:** 2 potions of healing, 1 potion of water breathing (insurance)
 - **Mount:** Well-bred riding horse (outside), saddle and tack
 
-### Personality
+#### Personality
 Traits
 - Speaks with clear authority, expects to be obeyed
 - Listens intently to all sides before deciding
@@ -12168,14 +11896,14 @@ Traits
 - Fears becoming cruel like other nobles
 - Duty-bound to arranged marriage she doesn't want
 
-### Background & History
+#### Background & History
 Seraphina was born to wealth and privilege, the only daughter of Lord Riverbrook. She was expected to marry well and manage a noble household. Instead, she discovered a passion for governance, studying law and administration while her father prepared her for a political marriage.
 
 When her father died unexpectedly, she had to fight to inherit—the law was unclear, and cousins contested her claim. She won through a combination of legal brilliance and strategic marriage to a lower noble who was content to let her rule. She's been Lady of Riverbrook for fifteen years.
 
 She's transformed her domain into a model of efficient governance: roads maintained, justice fair, taxes reasonable. Other nobles either admire or resent her success. She's ambitious but patient, building alliances for a long-term goal she rarely discusses.
 
-### Connections
+#### Connections
 - **Domain:** Riverbrook territory (12,000 residents)
 - **Husband:** Lord Gareth Riverbrook (supportive, handles military)
 - **Rival:** Lord Aldris Goldshore (political opponent)
@@ -12192,7 +11920,7 @@ She's transformed her domain into a model of efficient governance: roads maintai
 5. **The Information Network:** Has built an intelligence network to rival any spy master's.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Political Alliance:** Offers the party patronage in exchange for services.
 2. **The Cousin Crisis:** The cousin is making moves. Needs investigation or counteraction.
 3. **The Heir Search:** Looking for the right person to adopt. Might test party members.
@@ -12202,7 +11930,7 @@ She's transformed her domain into a model of efficient governance: roads maintai
 {{footnote Part IV: NPCs}}
 \page
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Stands straight, shoulders back, even when tired
 - Makes eye contact that forces honesty
 - Uses "we" when speaking about estate matters
@@ -12282,7 +12010,7 @@ ___
 {{pageNumber,auto}}
 \page
 
-### Physical Description
+#### Physical Description
 (Human Form)
 Rugged and battle-hardened (6'1", 200 lbs) with the weathered look of frontier life. Dark brown hair kept military short. Intense gray eyes that sometimes flash amber in moonlight. Strong jawline with short beard showing early gray. Multiple scars across face and arms from frontier combat. Moves with controlled power, like a caged wolf. Wears half-plate that's seen heavy use but is meticulously maintained. Smells of leather, steel, and wild places. Carries himself with authority but growing weariness.
 
@@ -12290,7 +12018,7 @@ Rugged and battle-hardened (6'1", 200 lbs) with the weathered look of frontier l
 
 **(Wolf Form):** Large black wolf with gray eyes. Indistinguishable from dire wolf except for amber eye-flash in moonlight.
 
-### Equipment
+#### Equipment
 (Human Form)
 - **Armor:** Half-Plate +1 (custom-fitted, reinforced)
 - **Primary Weapon:** Longsword +1 "Frontier's Edge" (silvered, ironically)
@@ -12304,7 +12032,7 @@ Rugged and battle-hardened (6'1", 200 lbs) with the weathered look of frontier l
 - **Special:** Silver chain (last resort restraint if he loses control)
 - **Documents:** Captain's commission, frontier maps, wanted posters
 
-### Personality
+#### Personality
 Traits
 - Constantly aware of moon phases
 - Checks silver weapons compulsively
@@ -12337,7 +12065,7 @@ Traits
 - Doesn't sleep well (nightmares of transformation kills)
 - Secret meetings with The Silver Wolf (who understands)
 
-### Background & History
+#### Background & History
 Marcus was a promising young captain in the border guard when the werewolf pack attacked. Most of his patrol died; he was bitten and left for dead. He survived, changed, and faced a choice: surrender to the beast or master it.
 
 Twenty years later, he's done the impossible—maintained his humanity while using his lycanthropy to protect the frontier. The wild lands are full of creatures that normal soldiers can't fight; Marcus can. He operates alone, reporting to commanders who officially don't know what he is.
@@ -12347,7 +12075,7 @@ He's not cured—there's no cure. But he's found equilibrium: running wild durin
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **Chain of Command:** Reports to Commander Kael Stormwatcher (knows the truth)
 - **Pack:** The Silver Wolf (complicated)
 - **Ally:** Hermit Sage Morganna Whisperwind (provides wolfsbane)
@@ -12363,14 +12091,14 @@ He's not cured—there's no cure. But he's found equilibrium: running wild durin
 5. **The Silver Wolf Connection:** The Silver Wolf is his turned mentor. They're linked but on opposite paths.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Hunt Continues:** Has located another werewolf from the original pack. Needs help taking it down.
 2. **The Control Crisis:** Something is interfering with his control ritual. Needs investigation.
 3. **The New Victim:** Someone has been bitten. He needs help getting them to Morganna.
 4. **The Silver Wolf Conflict:** The confrontation with his mentor is coming. Needs allies.
 5. **The Cure Rumor:** Heard of a possible cure. Needs someone to investigate while he stays hidden.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Touches moonstone amulet when stressed
 - Checks moon phase calendar constantly
 - Refuses to eat rare meat (reminds him of curse)
@@ -12461,7 +12189,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{pageNumber,auto}}
 \page
 
-### Physical Description
+#### Physical Description
 **(Human Form - Rarely Seen):**
 Rugged and weathered (6'0", 190 lbs) with the look of someone who lives in wilderness. Prematurely gray hair worn long and wild. Piercing gray eyes that sometimes flash silver. Multiple scars across exposed skin. Strong build from years of hunting. Wears simple travel-worn clothes. Moves with predator's grace even in human form.
 
@@ -12471,7 +12199,7 @@ Towering werewolf (7'5", 320 lbs) with silver-gray fur that seems to shimmer in 
 **(Wolf Form - For Travel):**
 Large silver-gray wolf (size of a small horse). Appears as a dire wolf but with distinctive silver sheen to fur. Gray eyes remain intelligent and aware. Faster than normal wolves. Often mistaken for spirit or fey wolf.
 
-### Equipment
+#### Equipment
 (Rarely Carries)
 - **Clothing:** Simple traveler's clothes (human form), shreds when transforming
 - **Amulet:** Silver moon pendant (proof he's mastered the curse, doesn't harm him)
@@ -12480,7 +12208,7 @@ Large silver-gray wolf (size of a small horse). Appears as a dire wolf but with 
 - **No Weapons:** Relies entirely on natural weapons
 - **No Armor:** Natural armor in hybrid form superior to any worn armor
 
-### Personality
+#### Personality
 Traits
 - Speaks little, observes much
 - Comfortable in prolonged silences
@@ -12513,14 +12241,14 @@ Traits
 - Refuses to fully commit to either beast or man
 - Hunted by silver-armed hunters (constant vigilance)
 
-### Background & History
+#### Background & History
 Before the curse, she was Captain Helena Silverbane, the most decorated officer in the frontier guard. She was Marcus's mentor, the one who trained him, the one who led the patrol into the werewolf ambush. She was the first bitten, and the first to turn.
 
 Unlike Marcus, she didn't fight the beast—she embraced it. The Wolf offered freedom from human frailty, from pain, from the slow decline of aging. She disappeared into the wilderness and built a pack of werewolves who live as she does: hunting, running, wild and free.
 
 She's not evil in any simple sense. Her pack doesn't attack innocents unprovoked. But they are predators, and they claim hunting territories that sometimes conflict with human settlements. She believes lycanthropy is a gift and seeks to share it—willing or not—with those she deems worthy.
 
-### Connections
+#### Connections
 - **Pack:** Twelve werewolves loyal to her
 - **Former Protégé:** Captain Marcus Frontiersman (love and hate intertwined)
 - **Enemy:** Werewolf hunters across the region
@@ -12540,14 +12268,14 @@ She's not evil in any simple sense. Her pack doesn't attack innocents unprovoked
 5. **The Cure Fear:** Knows a cure exists. Terrified that if Marcus finds it, she'll want it too.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Pack Contact:** Reaches out to the party as neutral intermediaries.
 2. **The Territory Dispute:** Her pack is encroaching on human lands. Negotiate or fight.
 3. **The Cure Information:** Has information about a cure. Might trade it—for the right price.
 4. **The Marcus Trap:** Has set a trap for Marcus. The party might be able to intervene.
 5. **The Pack Rebellion:** Some werewolves have gone feral. She needs help stopping them before hunters blame her pack.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Sniffs air constantly
 - Tilts head like a wolf when confused
 - Growls low when threatened
@@ -12620,10 +12348,10 @@ ___
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Lean and weathered (5'11", 165 lbs) with the wiry build of someone who climbs and hikes constantly. Silver-streaked brown hair worn in practical ponytail. Kind hazel eyes that shift green in certain lights (elf heritage). Tanned, lined face marked by years of outdoor work. Moves with quiet grace through forests. Wears earth-tone clothes that blend perfectly with forest. Perpetually has leaves, moss, and bark pieces on his person. Smells of pine, earth, and leather. His hands are calloused but gentle. Usually accompanied by Moss, a large old brown bear.
 
-### Equipment
+#### Equipment
 - **Armor:** Reinforced Studded Leather +1 (forest camouflage pattern)
 - **Primary Weapon:** Forestkeeper's Longbow +1 (carved with growth runes)
 - **Arrows:** Quiver with 40 arrows (20 normal, 10 poisoned, 10 nonlethal blunt)
@@ -12637,7 +12365,7 @@ Lean and weathered (5'11", 165 lbs) with the wiry build of someone who climbs an
 - **Companion:** Moss the Bear (old brown bear, best friend)
 - **Seeds:** Pouches of various tree seeds (oak, pine, maple, etc.)
 
-### Personality
+#### Personality
 Traits
 - Speaks softly, rarely raises voice
 - Often pauses to touch or examine trees
@@ -12669,14 +12397,14 @@ Traits
 - Can't walk past sick tree without stopping to help
 - Increasingly tired (age catching up)
 
-### Background & History
+#### Background & History
 Galen's family has managed this section of forest for twelve generations, carefully harvesting timber while maintaining the woodland's health. He learned the craft from his father, who learned from his father, an unbroken chain of knowledge stretching back centuries.
 
 He's developed sustainable harvesting to a science: which trees to cut, which to preserve, how to encourage regrowth, when to let areas lie fallow. His forest produces steady timber while remaining healthy. Other foresters study his methods; lumber companies resent his restrictions.
 
 Recently, he's noticed troubling changes. Trees are growing strangely, animals behaving oddly, and the forest's... feeling has shifted. Something is wrong at a level he can't quite identify, and it frightens him.
 
-### Connections
+#### Connections
 - **Territory:** Three thousand acres of managed forest
 - **Ally:** Miller Tobias Waterwheel (shares concerns)
 - **Enemy:** Quickcut Lumber Company (wants his land)
@@ -12696,14 +12424,14 @@ Recently, he's noticed troubling changes. Trees are growing strangely, animals b
 5. **The Evacuation Plan:** If things get bad enough, he knows how to get his family out fast.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Blight Investigation:** Needs magical help understanding what's happening to the forest.
 2. **The Buried Discovery:** The thing in the clearing is definitely waking up. Needs excavation.
 3. **The Lumber Fight:** Ready to move against Quickcut. Needs allies and legal help.
 4. **The Forest Defense:** Something is coming. Needs help preparing.
 5. **The Knowledge Share:** Willing to teach sustainable forestry to those who'll use it.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Runs hand along tree bark while talking
 - Moss the bear is always nearby
 - Knows every tree in hundred-mile radius by sight
@@ -12790,10 +12518,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 
 \page
 
-### Physical Description
+#### Physical Description
 Towering and imposing (7'2", 280 lbs) with the gentle giant presence of firbolgs. Skin has gray-blue tone with texture resembling bark. Long hair and beard are dark brown with green moss growing naturally. Deep amber eyes that glow faintly in darkness. Face is weathered and lined with age, carved features like ancient wood. Wears robes of living vines that move slightly. The Thornwood Staff is gnarled oak that grows fresh thorns daily. Moves with slow, deliberate power. Smells of earth, moss, and ancient forests. Small plants occasionally sprout from his footprints.
 
-### Equipment
+#### Equipment
 - **Staff:** Thornwood Staff (legendary, carved from ancient oak, grows thorns, never breaks)
 - **Armor:** Living Bark Armor (AC 16 with barkskin, regenerates daily)
 - **Robes:** Druidic robes woven from living vines (deep green, always fresh)
@@ -12805,7 +12533,7 @@ Towering and imposing (7'2", 280 lbs) with the gentle giant presence of firbolgs
 - **Book:** Personal journal of forest observations (50 years)
 - **Tools:** Herbalism kit (expertly maintained)
 
-### Personality
+#### Personality
 Traits
 - Speaks in slow, measured tones
 - Often pauses mid-sentence to listen to forest
@@ -12837,14 +12565,14 @@ Traits
 - Inflexible about druidic traditions
 - Doesn't trust civilization or technology
 
-### Background & History
+#### Background & History
 Thornwood isn't a name—it's what the forest itself calls him. He was born human, with a human name he's forgotten, in a village that no longer exists. When loggers came to clearcut his home forest, he called on power he didn't know he had. The forest responded. The loggers didn't survive.
 
 That was sixty years ago. Since then, he's become more forest than man. Bark grows on his skin, leaves sprout from his hair, and he can be in any part of the forest simultaneously by traveling through the root network. He protects the woodland from all threats—natural and unnatural.
 
 He's not hostile to civilization, but he's not friendly either. Loggers who harvest sustainably can pass safely; those who clear-cut wake the trees' wrath. Hunters who take only what they need are welcome; poachers are never found. He maintains balance, nothing more.
 
-### Connections
+#### Connections
 - **Domain:** The entire old-growth forest (100 square miles)
 - **Ally:** Forester Galen Sustainharvest (respects sustainable practices)
 - **Circle:** Connection to other nature spirits
@@ -12864,14 +12592,14 @@ He's not hostile to civilization, but he's not friendly either. Loggers who harv
 5. **The Successor Need:** Needs to pass his role to someone before he loses the ability. Looking for candidates.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Blight Cure:** Has partial information about stopping the blight. Needs help with the rest.
 2. **The Forest Heart Defense:** Something is moving toward the grove. Needs powerful allies.
 3. **The Successor Test:** Tests party members as potential successors to his role.
 4. **The Quickcut War:** The lumber company is escalating. Needs help ending them permanently.
 5. **The Humanity Question:** Reaches out about possibly regaining his human form. Conflicted about it.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Staff plants in ground during conversations (roots sprout)
 - Small animals frequently around him
 - Speaks to trees when alone (and they respond)
@@ -12956,10 +12684,10 @@ ___
 
 \page
 
-### Physical Description
+#### Physical Description
 Distinguished and charismatic (5'10", 160 lbs) with the ageless quality of half-elves. Silver-white hair worn long and theatrical. Sparkling blue eyes that dance with mischief and wisdom. Weathered face with laugh lines and a warm smile. Moves with performer's grace. Wears colorful traveling clothes that have seen a thousand performances. The legendary lute "Memoir" is always within reach. Hands show decades of instrument playing—callused but graceful. Smells of pipe smoke, old books, and campfire stories. Voice is rich, melodious, perfect for songs and tales.
 
-### Equipment
+#### Equipment
 - **Armor:** Fine Studded Leather (AC 13, decorated with story-telling scenes)
 - **Weapon:** Storyteller's Rapier +1 (covered in etched tales, masterwork)
 - **Secondary:** Hand Crossbow (for emergencies only)
@@ -12973,7 +12701,7 @@ Distinguished and charismatic (5'10", 160 lbs) with the ageless quality of half-
 - **Potions:** 2 potions of healing, 1 potion of inspiration (homebrew, grants inspiration die)
 - **Other:** Sheet music, quills, ink, traveling performer's license
 
-### Personality
+#### Personality
 Traits
 - Speaks in dramatic, story-like fashion
 - Makes callbacks to historical events he witnessed
@@ -13006,14 +12734,14 @@ Traits
 - Secretly fears being forgotten
 - Sometimes confuses memories across centuries
 
-### Background & History
+#### Background & History
 Finnegan has been collecting stories for forty years, traveling from village to village, tavern to tavern, gathering tales both true and legendary. He has one of the most comprehensive collections of folklore in Thaldros, and more importantly, he understands how to separate fact from fiction.
 
 He was a soldier in his youth, then a failed merchant, before discovering his true calling: preserving oral tradition. He's not a great musician or performer—merely competent—but his knowledge of stories is encyclopedic. People invite him to perform because his tales are accurate and complete, even when the truth is uncomfortable.
 
 Now sixty and slowing down, he's looking for a place to record his collection properly. He fears dying with his head full of stories that will be lost forever.
 
-### Connections
+#### Connections
 - **Network:** Performers, storytellers, and archivists across the region
 - **Patron:** Various nobles who fund his collection
 - **Rival:** Other storytellers with less concern for accuracy
@@ -13033,14 +12761,14 @@ Now sixty and slowing down, he's looking for a place to record his collection pr
 5. **The Story Magic:** Some stories he tells have minor magical effects. Never examined why.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Recording Project:** Needs help establishing a proper archive before his memory fails.
 2. **The Pattern Investigation:** Shares his pattern observations, hoping the party can investigate.
 3. **The Dangerous Knowledge:** Has information about someone the party is investigating.
 4. **The Confession Dilemma:** Wants advice on what to do with the deathbed confession.
 5. **The Story Quest:** Heard of a legendary tale in a dangerous location. Needs escorts to collect it.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Strums lute while thinking
 - Starts every statement with "I remember when..."
 - Weeps during emotional stories (unashamed)
@@ -13120,10 +12848,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{pageNumber,auto}}
 \page
 
-### Physical Description
+#### Physical Description
 Ancient and frail appearance (5'5", 110 lbs) despite magical longevity. Impossibly old for a human—312 years through magic and fey bargains. Hair is pure white, long and wild, often escapes from loose bun. Pale, paper-thin skin with age spots and wrinkles mapping centuries of study. Eyes are milky white (blind) but "see" through magical sight. Moves slowly, leaning on quarterstaff. Wears dusty gray robes covered in pockets containing scrolls, herbs, and oddities. Thick spectacles for reading (purely aesthetic, she "sees" magically). Smells of old parchment, dried lavender, and ancient dust. Trembling hands from age but mind is sharp as ever.
 
-### Equipment
+#### Equipment
 - **Staff:** Ancient Quarterstaff (simple, but has been with her 200+ years)
 - **Robes:** Sage's Robes (AC 11, dusty gray, countless pockets)
 - **Ring:** Ring of Mind Shielding (protects from thought reading, holds her soul if killed)
@@ -13139,7 +12867,7 @@ Ancient and frail appearance (5'5", 110 lbs) despite magical longevity. Impossib
 - **Sending Stones:** 5 sending stones linked to other scholars
 - **Telescope:** Astrological telescope (for star divination)
 
-### Personality
+#### Personality
 Traits
 - Speaks in slow, whispery voice
 - Frequently forgets she's speaking aloud vs. thinking
@@ -13172,14 +12900,14 @@ Traits
 - Lonely but won't admit it
 - Sometimes wishes she had let herself die naturally
 
-### Background & History
+#### Background & History
 Morganna was once a prominent healer in Silverpine, respected for her skill with both medicine and magic. Then she started hearing whispers—voices from dying patients, from the recently dead, from things that had never been alive. The voices drove her from the city, into the wilderness, where their chatter was quieter.
 
 She's lived in her remote cottage for thirty years, visited only by those who need what she uniquely provides: healing for curses, potions that normal apothecaries can't make, and counsel from someone who hears both sides of the living and dead.
 
 She's not mad—the whispers are real. She communes with spirits, ghosts, and stranger things. This has made her invaluable for certain problems and terrifying for most people. She's content with solitude; the living are exhausting, and the dead are usually more polite.
 
-### Connections
+#### Connections
 - **Client:** Captain Marcus Frontiersman (provides control ritual)
 - **Contact:** The Frost Seer Eirlys (fellow unusual seer)
 - **Spirit Friends:** Several ghosts who provide information
@@ -13199,14 +12927,14 @@ She's not mad—the whispers are real. She communes with spirits, ghosts, and st
 5. **The Coming Dead:** The whispers are telling her about a massive influx of spirits soon. Mass death approaches.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Ghost Consultation:** Can contact specific dead for information. Services available.
 2. **The Bound Ghost Crisis:** The imprisoned ghost is breaking free. Needs help reinforcing the binding.
 3. **The Mass Death Warning:** Shares her warning about coming death. Needs help investigating.
 4. **The Ritual Teaching:** Might teach spirit communication to those who prove worthy.
 5. **The Marcus Emergency:** Something's wrong with Captain Marcus's ritual. Needs urgent ingredients.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Touches books lovingly
 - Forgets people's names but remembers obscure facts
 - Falls asleep mid-conversation (advanced age)
@@ -13288,10 +13016,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Tall and slender (6'1", 145 lbs) with the timeless grace of high elves. Silver-white hair worn long and loose, often floating slightly as if in an invisible breeze. Eyes shift color with his mood - blue when calm, violet when using divination, gold when angry. Pale, ageless features marked with faint runic tattoos along his temples (warding glyphs). Wears flowing robes of deep midnight blue with silver star patterns that actually twinkle. The Starlight Staff pulses with gentle light and is never far from his hand.
 
-### Equipment
+#### Equipment
 - **Robes:** Archmage's Robes (AC 15 + Dex, advantage on saves vs. spells)
 - **Staff:** Starlight Staff (Staff of Power, legendary, +3 quarterstaff, 20 charges)
 - **Ring:** Ring of Spell Storing (contains Shield, Counterspell, Dispel Magic)
@@ -13304,7 +13032,7 @@ Tall and slender (6'1", 145 lbs) with the timeless grace of high elves. Silver-w
 - **Potions:** 3 potions of supreme healing, 1 potion of invulnerability
 - **Teleportation Chalk:** For creating temporary circles (10 uses)
 
-### Personality
+#### Personality
 Traits
 - Speaks in measured, precise sentences
 - Makes direct eye contact that seems to see through deception
@@ -13385,7 +13113,7 @@ Traits
 
 ---
 
-### Background & History
+#### Background & History
 Born over four centuries ago in the ancient elven city of Aethermere, Veridian showed prodigious magical talent before he could walk. He was formally inducted into the Arcanum at age forty (young for an elf), became a full wizard at one hundred, and achieved the rank of Archmage at two hundred and fifty—the youngest in recorded history.
 
 His specialty is divination, but his true mastery lies in the intersection of magical schools. He developed the Starweaver Synthesis—a technique for combining spells of different schools into hybrid effects. The technique is now taught at every major magical academy, though few can replicate his fluency.
@@ -13394,7 +13122,7 @@ He has served as headmaster of the Silverpine Arcanum for seventy-five years, ov
 
 Despite his power, Veridian is approachable and patient with students. He remembers what it was like to struggle with concepts, even if it was four hundred years ago. His office door is always open, and he teaches at least one introductory class per term "to remember where magic begins."
 
-### Connections
+#### Connections
 - **Sage Thelmar Runescribe:** His most promising former student, now serving the crown
 - **Professor Elara Moonwhisper:** Faculty colleague who shares his interest in celestial phenomena
 - **Archmage Eldrin Aethermere:** Secret correspondent in Aethoria, sharing research across the Sundering Sea
@@ -13410,7 +13138,7 @@ Despite his power, Veridian is approachable and patient with students. He rememb
 5. **The Forbidden Research:** Keeps a sealed section in the library containing knowledge too dangerous to destroy but too dangerous to share.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Prophecy:** Veridian needs help investigating his unclear vision. The party might be pieces of the puzzle.
 2. **The Crossing:** The Aethorian passage project is reaching a critical phase. He needs brave souls to test it.
 3. **Succession Planning:** Time to identify and test the next headmaster. The candidates are all flawed in different ways.
@@ -13464,7 +13192,7 @@ ___
 *"Every mystery has a solution. We simply must ask the right questions."*
 }}
 
-### Physical Description
+#### Physical Description
 Average height (5'6", 135 lbs) with an energetic, purposeful demeanor. Brown hair usually tied back in a practical bun, often with a quill stuck through it. Sharp hazel eyes behind round spectacles that seem to analyze everything. Wears practical scholar's robes in university colors (deep green and gold) with many pockets for note-taking supplies. Always has ink stains on her fingers. Carries a worn leather satchel full of books and papers. Moves with nervous energy, often gesturing enthusiastically when explaining discoveries.
 
 {{pageNumber,auto}}
@@ -13472,7 +13200,7 @@ Average height (5'6", 135 lbs) with an energetic, purposeful demeanor. Brown hai
 \page
 
 
-### Equipment
+#### Equipment
 - **Armor:** Bracers of Defense (AC 13 + Dex)
 - **Weapons:** Dagger +1 (silver-inlaid, inscribed with runes), light crossbow
 - **Ring:** Ring of Mind Shielding (thoughts can't be read, immune to detect thoughts)
@@ -13485,7 +13213,7 @@ Average height (5'6", 135 lbs) with an energetic, purposeful demeanor. Brown hai
 - **Potions:** 2 potions of healing, 1 potion of invisibility
 - **Communication:** Sending stone linked to Archmage Veridian
 
-### Personality
+#### Personality
 Traits
 - Speaks rapidly when excited about research
 - Constantly takes notes (even mid-conversation)
@@ -13513,7 +13241,7 @@ Traits
 - Workaholic who forgets to eat or sleep
 - Uncomfortable in combat situations
 
-### Background & History
+#### Background & History
 Miranda earned her nickname honestly—she's never met a mystery she didn't want to solve or a question she wasn't willing to pursue across continents. Born in Crossvale to a merchant family, she rejected the family business at sixteen to attend the Arcanum, specializing in historical research and artifact identification.
 
 Her breakthrough came at thirty-five when she correctly identified a "worthless" brooch in a museum collection as a pre-Worldrend communication device. The discovery made her reputation and funded her next twenty years of research.
@@ -13522,7 +13250,7 @@ Now fifty-eight, she holds the Chair of Ancient Studies at the Arcanum and has a
 
 Her methodology is controversial in academic circles. She believes in getting her hands dirty, taking calculated risks, and following hunches. "You can't understand history from a library chair," she's fond of saying. "You have to dig it up."
 
-### Connections
+#### Connections
 - **Merchant Princess Yasmin:** Rival and occasional collaborator in artifact acquisition
 - **Archmage Veridian Starweaver:** Mentor who indulges her unconventional methods
 - **Caravan Master Hassan:** Has provided transport for several expeditions
@@ -13542,14 +13270,14 @@ Her methodology is controversial in academic circles. She believes in getting he
 {{footnote Part IV: NPCs}}
 \page
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Forbidden Site:** She's finally ready to excavate, but needs a capable team to handle what's down there.
 2. **The Guild Problem:** Someone is using her Tomb Raiders for something she didn't authorize. Time to investigate.
 3. **Family Ghosts:** Evidence suggests her family might have survived the expedition. Or something wearing their faces has.
 4. **The Publication:** She's decided to publish her Worldrend theory. Multiple parties want to stop her.
 5. **Rival's Revenge:** Yasmin has discovered something Miranda wants desperately and is making her work for it.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Constantly adjusts her spectacles
 - Mutters to herself when thinking
 - Pulls out notebooks to reference previous findings
@@ -13677,10 +13405,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Weathered and scarred (6'2", 210 lbs of muscle), every inch the veteran monster hunter. Left eye covered by dark leather eye patch with brass fittings, lost to dragon acid. Face marked with three parallel scars across right cheek (dragon claw). Short brown hair going gray at temples, kept practical. Wears dragon scale armor that's clearly seen heavy use, polished but dented. Moves with economy of motion - no wasted movement. His one remaining eye is steel-gray and misses nothing. Dragonpiercer sword always at his hip, dragonbone bow across his back. Smells faintly of dragon musk and woodsmoke.
 
-### Equipment
+#### Equipment
 - **Armor:** Dragon Scale Mail (AC 14 + Dex, max +2, fire resistance) - Made from black dragon scales
 - **Primary Weapon:** Dragonpiercer (Longsword +2, legendary, dragon fang hilt, glows near dragons)
 - **Ranged Weapon:** Dragonbone Bow (Longbow +1, fires flaming arrows, 20 arrows)
@@ -13694,7 +13422,7 @@ Weathered and scarred (6'2", 210 lbs of muscle), every inch the veteran monster 
 - **Tools:** Hunting traps, caltrops, manacles (masterwork)
 - **Trophy:** Preserved ancient dragon claw (proof of his legend)
 
-### Personality
+#### Personality
 Traits
 - Speaks in short, efficient sentences
 - Constantly assesses threats in any room
@@ -13722,7 +13450,7 @@ Traits
 - Haunted by the dragon that took his eye
 - Drinks heavily after difficult hunts
 
-### Background & History
+#### Background & History
 Kael earned his epithet the hard way—by killing dragons. Not through luck or ambush, but through decades of study, preparation, and countless near-death experiences. He's survived encounters with fourteen dragons and killed eight of them (with significant help).
 
 Born in a frontier village constantly threatened by a young red dragon, Kael lost half his family before he turned twelve. He dedicated his life to ensuring other families wouldn't suffer the same fate. He joined the Silver Wardens at fifteen, studied under their best monster hunters, and eventually specialized in the most dangerous game.
@@ -13731,7 +13459,7 @@ His approach combines scholarly research with practical hunting. He knows dragon
 
 At sixty-four, his body is failing faster than his spirit. Old injuries accumulate, and he knows he has perhaps five more years of field work. He's focused now on passing his knowledge to the next generation, though finding students capable of surviving the training is challenging.
 
-### Connections
+#### Connections
 - **Warden Commander Thalia Moonbow:** His commanding officer and one of the few people he considers a peer
 - **Scout Captain Finn Quickfoot:** The halfling has discovered something Kael needs to investigate
 - **Master Smith Durgan Forgefire:** Creates his specialized dragon-hunting equipment
@@ -13751,14 +13479,14 @@ At sixty-four, his body is failing faster than his spirit. Old injuries accumula
 5. **Dragon Blood:** During one fight, he was bathed in dragon blood. It changed him subtly—better senses, resistance to fire, and dreams he doesn't understand.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Final Hunt:** One last dragon needs killing before Kael retires. The most dangerous one yet.
 2. **Finn's Discovery:** The halfling scout has found tracks that suggest something ancient is awakening.
 3. **Dragon Friend:** His dragon contact has sent a warning—others of its kind are planning something.
 4. **Student's Legacy:** One of his dead students had a child who's now old enough to demand answers about how their parent died.
 5. **The Blood's Call:** His dragon-blood changes are intensifying. He needs to understand what's happening before it's too late.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Touches his eye patch when thinking
 - Checks escape routes instinctively
 - Speaks about dragons with mixture of respect and hatred
@@ -13895,10 +13623,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 
 {{pageNumber,auto}}
 \page
-### Physical Description
+#### Physical Description
 Tall and athletic (5'10", 165 lbs) with a commanding presence. Long auburn hair usually worn in a practical braid. Bright green eyes that shine with conviction. Wears gleaming silvered plate armor that's clearly well-maintained. A faint golden radiance surrounds her, especially noticeable in dim light. Dawnbreaker sword is always at her side, the blade catching light even in shadow. Moves with grace despite heavy armor. Has a small scar on her chin from training accident. Stands straight with natural authority - clearly someone used to being obeyed.
 
-### Equipment
+#### Equipment
 - **Armor:** Plate Armor +1 (gleaming silver with sun symbol, blessed by Saint Celestine)
 - **Shield:** Shield +1 (steel, emblazoned with Iron Council sigil)
 - **Weapon:** Dawnbreaker (Legendary longsword +2, see above, formerly Paladin Radiant's blade)
@@ -13912,7 +13640,7 @@ Tall and athletic (5'10", 165 lbs) with a commanding presence. Long auburn hair 
 - **Documents:** Iron Council authorization papers, letters of introduction
 - **Other:** Prayer book, healer's kit, tent, rations
 
-### Personality
+#### Personality
 Traits
 - Speaks with conviction and passion
 - Makes direct eye contact, hard to look away
@@ -13940,7 +13668,7 @@ Traits
 - Overworks herself
 - Secretly doubts her worthiness of Dawnbreaker
 
-### Background & History
+#### Background & History
 Born to a minor noble family in Silverpine, Thalia was raised with privilege but felt called to service. She joined the Lightbringers at eighteen, one of the few women in the order at the time, and proved herself through sheer determination and undeniable faith.
 
 Her defining moment came during the Tomb of Shadows expedition—a disaster that killed twenty-three Lightbringers and nearly released an imprisoned lich. Thalia was one of seven survivors and the one who ultimately sealed the tomb, though it cost her left arm below the elbow.
@@ -13949,7 +13677,7 @@ She now wears a blessed prosthetic forged by dwarven artificers and enchanted by
 
 At forty-two, she's considered a rising star in the order—young enough to have decades of service ahead, experienced enough to have earned respect. Some whisper she might eventually challenge for the Iron Council, though she claims no such ambition.
 
-### Connections
+#### Connections
 - **Lord Commander Gareth Lightbane:** Her superior, who she respects but sometimes questions
 - **Brother Tormund:** Spiritual advisor who helped her through recovery after losing her arm
 - **The Tomb Survivors:** Six others who share a bond forged in horror
@@ -13969,14 +13697,14 @@ At forty-two, she's considered a rising star in the order—young enough to have
 5. **Personal Vow:** Swore to eventually return and destroy what's in the tomb, when she's powerful enough.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Whispers Return:** The voice from the tomb is getting louder, saying something important.
 2. **Survivor's Reunion:** One of the other survivors has been acting strangely. Investigation needed.
 3. **The Return:** She's finally ready to go back to the Tomb of Shadows. She needs a capable team.
 4. **Gareth's Orders:** She's been given orders she finds troubling. Obey or investigate?
 5. **Arm's Secret:** The prosthetic has started glowing near certain locations. What is it detecting?
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Glows brighter when emotional
 - Grips sword hilt when uncertain
 - Kneels to pray before major decisions
@@ -14084,14 +13812,14 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"History doesn't repeat, but it certainly rhymes. And these verses sound familiar."*
 }}
 
-### Physical Description
+#### Physical Description
 Extremely old and frail (5'8", 120 lbs), appears ancient but eyes are sharp and clear. Long white hair and beard, both neatly trimmed. Deeply wrinkled face marked by decades of study. Wears simple brown robes covered in ink stains and aged parchment dust. Thick spectacles magnify intelligent hazel eyes. Moves slowly with walking staff, but mind is lightning-quick. Hands shake slightly but writing is still precise. Smells of old books, candle wax, and parchment.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-### Equipment
+#### Equipment
 - **Robes:** Simple scholar's robes (worn, ink-stained)
 - **Staff:** Ancient walking staff (mundane, needed for mobility)
 - **Ring:** Ring of Protection +2
@@ -14104,7 +13832,7 @@ Extremely old and frail (5'8", 120 lbs), appears ancient but eyes are sharp and 
 - **Potions:** 2 potions of longevity, 3 potions of healing
 - **Communication:** Crystal ball for remote consultations
 
-### Personality
+#### Personality
 Traits
 - Speaks urgently, as if time is running out (it might be)
 - References historical parallels constantly
@@ -14132,7 +13860,7 @@ Traits
 - Workaholic despite age
 - Fears dying before sharing crucial knowledge
 
-### Background & History
+#### Background & History
 Cornelius has been ancient for as long as anyone can remember. Records from a hundred years ago describe him as "the elderly sage Cornelius," and records from two hundred years ago say the same thing. Either he's found a way to extend his life considerably, or there have been multiple people using the name. He claims the former.
 
 His specialty is ancient civilizations—not the recent ancient, but the truly old. Pre-Worldrend cultures, the Primordials, the First Age. He reads languages no one else can identify, recognizes artifacts others dismiss as rocks, and occasionally references events from millennia ago as if he'd witnessed them.
@@ -14141,7 +13869,7 @@ He holds no official position but is consulted by every major institution. The A
 
 His current residence is a cluttered tower on the outskirts of Silverpine, filled with artifacts, scrolls, and things that move when you're not looking directly at them.
 
-### Connections
+#### Connections
 - **Professor Miranda Questseeker:** Occasional collaborator, though they disagree on methodology
 - **Archmage Veridian Starweaver:** Old friend—how old, neither will say
 - **Merchant Princess Yasmin:** She brings him artifacts; he tells her their histories
@@ -14161,14 +13889,14 @@ His current residence is a cluttered tower on the outskirts of Silverpine, fille
 {{footnote Part IV: NPCs}}
 \page
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Critical History:** Something from his knowledge is suddenly relevant. He needs help acting on information he's kept secret for centuries.
 2. **The Ritual:** His yearly ritual has been disrupted. Without it, he'll begin aging rapidly.
 3. **Identity Exposed:** Someone has connected his various historical identities. What do they want?
 4. **Succession:** He's finally contemplating death. Time to pass on his knowledge—but to whom?
 5. **The Worldrend Truth:** Events are unfolding that relate to what caused the original catastrophe.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Constantly references historical events
 - Makes prophetic statements that seem odd until later
 - Taps staff when impatient
@@ -14287,10 +14015,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Tall and powerfully built (6'3", 220 lbs) with the weathered look of a lifelong sailor. Short dark hair graying at temples, kept neat despite sea spray. Piercing blue eyes that have seen both calm and storm. Weathered, tanned face with wind-carved lines. Neat beard trimmed to naval regulations. Wears a distinctive blue and gold naval officer's uniform (combines both kingdoms' colors). Stands with natural authority and perfect balance despite ship motion. Truewind's Cutlass always at his side. Smells of sea salt and tar.
 
-### Equipment
+#### Equipment
 - **Armor:** Half-Plate Armor +1 (naval officer's uniform, blue and gold)
 - **Shield:** Captain's Shield (metal, emblazoned with his ship's emblem)
 - **Weapon:** Truewind's Cutlass (Scimitar +2, magical, family heirloom)
@@ -14305,7 +14033,7 @@ Tall and powerfully built (6'3", 220 lbs) with the weathered look of a lifelong 
 - **Potions:** 3 potions of greater healing, 1 potion of water breathing
 - **Signal Flags:** For ship-to-ship communication
 
-### Personality
+#### Personality
 Traits
 - Speaks with calm authority
 - Uses nautical metaphors constantly
@@ -14333,7 +14061,7 @@ Traits
 - Trusts his instincts too much
 - Secretly doubts reunification will happen in his lifetime
 
-### Background & History
+#### Background & History
 Marcus was born on a ship and expects to die on one. His family has served in the Free Cities' combined naval forces for five generations, and he rose through the ranks on merit as well as name. He commanded his first vessel at twenty-five, his first fleet at forty, and has been Admiral of the Alliance Navy for fifteen years.
 
 His record includes three major engagements against pirates, two punitive expeditions against coastal raiders, and the defense of Goldreach harbor during the Corsair Crisis of 1245 CR. He's never lost a ship under his direct command, though he's been forced to sacrifice others for strategic necessity.
@@ -14342,7 +14070,7 @@ At sixty, he remains vigorous, spending most of his time aboard his flagship *Pr
 
 His sailors worship him—he's fair, shares their hardships, and has pulled drowning men from the water personally. His officers respect him—he listens to advice but makes decisions decisively. His enemies fear him—once he commits to battle, he fights to win regardless of cost.
 
-### Connections
+#### Connections
 - **Guildmaster Theron Clearwater:** Civilian counterpart who handles merchant interests
 - **Captain Mira Wavecrest:** His best combat captain, commanding the inland lake patrol
 - **Harbor Master Tobias Saltwind:** Old friend from before either held rank
@@ -14362,14 +14090,14 @@ His sailors worship him—he's fair, shares their hardships, and has pulled drow
 5. **Family Estrangement:** Hasn't spoken to his adult children in years. They wanted him to retire; he refused.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Traitor Hunt:** Evidence of the information leak has surfaced. Time for a quiet investigation.
 2. **Final Chase:** One last chance to catch Vex Darkwater. The admiral is committed regardless of cost.
 3. **The Health Crisis:** His condition worsens at an inopportune moment. Who takes command?
 4. **Clearwater's Exposure:** Someone threatens to reveal the Guildmaster's arrangement. Managing the fallout.
 5. **Family Reconciliation:** One of his children reaches out—genuine, or manipulation?
 
-### Roleplaying Notes
+#### Roleplaying Notes
 - Touches his cutlass hilt when thinking
 - Checks horizon habitually
 - Uses sailing terms in everyday speech
@@ -14509,19 +14237,19 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-### Physical Description
+#### Physical Description
 Massive firbolg (8'2", 380 lbs) covered in living moss and bark-like skin. Long hair and beard made of hanging vines and moss. Eyes are ancient, deep green like forest depths. Wears simple robes of woven grass that grow as he moves. Living wood staff is never put down. Smells of rich earth and pine. Moves with surprising grace for his size.
 
 ---
 
-### Equipment
+#### Equipment
 - **Staff:** Living Wood Quarterstaff +2 (still growing, sprouts leaves)
 - **Armor:** Natural armor of living bark and moss
 - **Cloak:** Cloak woven from living vines
 - **Pouch:** Component pouch with rare herbs
 - **Other:** Speaks with animals and plants, needs no equipment
 
-### Background & History
+#### Background & History
 Silvaris has tended the ancient groves for over three centuries, making her one of the oldest living druids in Thaldros. She witnessed the founding of Silverpine when it was a logging camp, watched it grow into a city, and has spent centuries negotiating the balance between civilization and wilderness.
 
 She's not opposed to civilization—quite the contrary. She believes cities can exist in harmony with nature when properly guided. Her life's work has been the Green Pact, an agreement between Silverpine and the surrounding forests that limits expansion in exchange for druidic protection and healing services.
@@ -14530,7 +14258,7 @@ Her grove lies three days' walk from Silverpine, a sacred space where the bounda
 
 Age has slowed her—she walks with a staff now, and her transformations are less frequent than they once were. But her mind remains sharp, her magic formidable, and her patience seemingly infinite. She measures time in decades and plans in centuries.
 
-### Connections
+#### Connections
 - **Archdruid Silvaris Oakenheart:** Her successor in training (different person, similar name—a druidic tradition)
 - **The Green Circle:** The loose confederation of druids she nominally leads
 - **Mayor Elisandra Brightblade:** Political contact in Silverpine who respects the Green Pact
@@ -14546,7 +14274,7 @@ Age has slowed her—she walks with a staff now, and her transformations are les
 5. **Mortality's Approach:** Has foreseen her own death within the next five years. She's made peace with it but not finished preparing.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Pact Challenged:** Development threatens territories the forest can claim. Does she exercise those rights?
 2. **Fey Payment:** The archfey calls in the debt. The price is disturbing.
 3. **Succession Crisis:** Her successor faces a challenge they can't handle alone.
@@ -14600,7 +14328,7 @@ ___
 *"Magic is wonderful. Engineering is reliable. Combined? Revolutionary."*
 }}
 
-### Equipment
+#### Equipment
 (All Infused)
 - **Armor:** Studded Leather +2 (Infused, enhanced defense)
 - **Weapon:** Enhanced Hand Crossbow +2 (repeating, never needs reloading)
@@ -14613,7 +14341,7 @@ ___
 
 ---
 
-### Background & History
+#### Background & History
 Tobias grew up in Crossvale among mechanics, tinkers, and inventors—the kind of people who see a problem and immediately start sketching solutions. His talent manifested early: he built his first working clock at age eight, his first automated defense system at twelve, and his first genuine magical construct at sixteen.
 
 He studied briefly at the Arcanum but found their approach too theoretical. Magic should do things, he argued, not just explain things. He returned to Crossvale and established his workshop, where he combines arcane principles with mechanical engineering to create marvels.
@@ -14626,7 +14354,7 @@ His inventions range from practical (better locks, more efficient mills, weapons
 
 At forty-five, he runs a workshop with twelve apprentices and a waiting list of commissions stretching two years forward. He's known for delivering exactly what clients request—which sometimes teaches them to be more careful what they ask for.
 
-### Connections
+#### Connections
 - **Master Smith Durgan Forgefire:** Collaborates on projects requiring both skills
 - **Quartermaster Thorna Ironprice:** Major client for mechanical inventory systems
 - **The Arcanum:** Complicated relationship—they buy his devices while criticizing his methods
@@ -14642,7 +14370,7 @@ At forty-five, he runs a workshop with twelve apprentices and a waiting list of 
 5. **Health Concerns:** Exposure to various materials over the years has affected his lungs. He hides it but it's getting worse.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **Autonomous Life:** His construct achieves consciousness. Now what? Is it a person? Does it have rights?
 2. **The Weapons Trail:** Those weapons he built are being used again. This time, he wants to stop them.
 3. **Kidnapping Attempt:** A kingdom decides to acquire him forcibly. Escape and countermeasures required.
@@ -14700,7 +14428,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"I know three ways to kill you, two ways to save you, and one way to disappear. Choose wisely."*
 }}
 
-### Equipment
+#### Equipment
 - **Armor:** Studded Leather +2 (silent, dark)
 - **Weapons:** Shadow Blades (matched Shortswords +3, anti-cult)
 - **Crossbow:** Hand Crossbow +2 with 20 poisoned bolts
@@ -14717,7 +14445,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 \page
 
 
-### Background & History
+#### Background & History
 Kaelen doesn't officially exist. No records document his birth, no institutions acknowledge his employment, and no treasury lists his salary. He is the Free Cities Alliance's most closely guarded secret: their intelligence coordinator.
 
 His cover identity is a minor clerk in Silverpine's taxation office—boring enough that no one looks twice. In reality, he coordinates a network of agents, informants, and assets spread across Thaldros and into Aethoria. He reports directly to a committee of three mayors and has authority to act independently when necessary.
@@ -14726,7 +14454,7 @@ He was recruited thirty years ago from the thieves' guilds, where his talent for
 
 He's sixty-two, looks fifty, and moves like a man half his age. The gray at his temples is dyed in; his actual hair turned white from stress decades ago. He's survived sixteen assassination attempts, three of which he's never traced back to their source.
 
-### Connections
+#### Connections
 - **The Committee of Three:** His only legitimate superiors, currently the mayors of Silverpine, Goldreach, and Crossvale
 - **Agent Network:** Dozens of operatives he's recruited and trained over three decades
 - **Master Crimson:** Rival and occasional collaborator—they've danced around each other for years
@@ -14742,7 +14470,7 @@ He's sixty-two, looks fifty, and moves like a man half his age. The gray at his 
 5. **Retirement Planning:** Building an exit strategy. The job is getting too dangerous for his age. But the timing has to be perfect.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Mole's Handler:** Finally has a lead on who's running his compromised agent. Time to act.
 2. **Wife's Killer:** New information about the assassination that killed his wife. This time it's actionable.
 3. **Committee Conflict:** The three mayors disagree on a critical matter. He's caught in the middle.
@@ -14799,12 +14527,12 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"I appear when the path forks. I do not choose for you - I show you the weight of your choice."*
 }}
 
-### Equipment
+#### Equipment
 - **Weapon:** Starlight Mace (silvery, glows)
 - **Appearance:** Pure white robes with silver constellations
 - **No material needs:** Celestial being
 
-### Background & History
+#### Background & History
 The Guardian has no name that mortal tongues can speak. It exists at the intersection of the material world and the planes beyond—a sentinel that watches the places where reality grows thin. It has stood guard since before the Worldrend, perhaps since before recorded history.
 
 Its appearance varies depending on the viewer and the situation. Some see a towering figure of light, others a swirling mass of shadows, others something geometric and impossible. It communicates through impressions and visions rather than words, making conversations challenging but memorable.
@@ -14818,7 +14546,7 @@ The Guardian's purpose is simple: prevent unauthorized passage between planes an
 
 It can be bargained with, though the currency it accepts is unusual—memories, promises, years of life, or services rendered. Those who earn its favor gain access to knowledge and passages others can never find. Those who anger it tend to disappear entirely.
 
-### Connections
+#### Connections
 - **The Circle of Eight:** They have an arrangement. The details are unclear.
 - **Sage Cornelius the Elder:** One of the few mortals who can communicate with it reliably
 - **The Frost Witch:** Her connection to the Feywild makes her relevant to the Guardian's watch
@@ -14834,7 +14562,7 @@ It can be bargained with, though the currency it accepts is unusual—memories, 
 5. **The Pattern:** Serves a greater design that even it doesn't fully understand. Follows instructions from before the Worldrend.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **Threshold Breach:** Something unauthorized is trying to cross. The Guardian needs mortal assistance.
 2. **The Bargain:** Offers something the party desperately needs in exchange for a service only mortals can perform.
 3. **Pattern Disruption:** The design it serves is being interfered with. Investigation and intervention required.
@@ -14882,7 +14610,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"We are legion. We are inevitable. Resistance is... educational."*
 }}
 
-### Background & History
+#### Background & History
 K'Thrax has existed for over two thousand years—not as an individual, but as a collective consciousness housed in an hive mind deep beneath the Ironspine Mountains. It began as a single psionic horror colony that grew, absorbed others, and eventually achieved a form of immortality through the hive mind's preservation of all absorbed minds.
 
 The colony was driven underground during the Worldrend, when surface races united against the "mind plague." For centuries, K'Thrax rebuilt in the deep places, consuming minds and growing in power. It developed patience that individual psionic horrors lack—the ability to plan across centuries.
@@ -14895,7 +14623,7 @@ The hive mind's ultimate goal is transcendence: to become a god-brain capable of
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **The Deep Dwarves:** Ancient enemies who sealed the passages; K'Thrax probes their defenses constantly
 - **Surface Thralls:** Dozens of individuals whose dreams K'Thrax has touched, unaware they serve it
 - **Rival Colonies:** Other psionic horror enclaves that resist absorption; potential threats or meals
@@ -14911,7 +14639,7 @@ The hive mind's ultimate goal is transcendence: to become a god-brain capable of
 5. **The Deeper Fear:** Something in the deepest caverns predates even K'Thrax. The hive mind has spent centuries building barriers against it.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Dream Plague:** People are having shared nightmares featuring tentacles and alien thoughts. Investigation leads underground.
 2. **The Compromised Noble:** A key political figure has been making strange decisions. Are they a thrall?
 3. **The Deep Roads:** The dwarves need help exploring sealed passages. What they find will be worse than expected.
@@ -14963,7 +14691,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"I have seen kingdoms rise and fall like flowers. You are weeds."*
 }}
 
-### Background & History
+#### Background & History
 Morveth is Infernalix's opposite in almost every way—where the red dragon burns with ambition, the black dragon lurks with spite. She's nearly as old, having claimed the Thornmire swamps as her domain for over two thousand years, but her goals are smaller and more vicious.
 
 She doesn't want to rule the world; she wants to make it suffer. The Worldrend delighted her—all that destruction, all that loss. She's spent centuries since nurturing misery: corrupting water sources, sponsoring bandits, whispering madness to hermits. Her swamp is a festering wound on the land, and she likes it that way.
@@ -14977,7 +14705,7 @@ Her current interest is Lady Morgana Blackwater. The noblewoman's undead experim
 \page
 
 
-### Connections
+#### Connections
 - **Lady Morgana Blackwater:** Unaware patron; Morveth has been subtly guiding her research
 - **Dragon Infernalix:** Ancient rival; they've fought twice, with no clear victor
 - **The Thornmire:** Her domain; the land itself bends to her corrupting influence
@@ -14993,7 +14721,7 @@ Her current interest is Lady Morgana Blackwater. The noblewoman's undead experim
 5. **The True Goal:** Wants to corrupt the ley line network itself, spreading Thornmire's taint across Thaldros. She's patient; it might take centuries.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Healer's Curse:** "Mother Marsh's" patients are getting sicker. Investigation reveals something wrong with the healer.
 2. **The Swamp's Heart:** Druids sense a corruption at Thornmire's center. Reaching it means crossing dragon territory.
 3. **The Morgana Warning:** Someone needs to tell Lady Blackwater about her "dreams" before her experiments go too far.
@@ -15045,7 +14773,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"We swore oaths when gods fell silent. We keep them still."*
 }}
 
-### Background & History
+#### Background & History
 Radiant was the first mortal to receive Aethros's direct blessing—the original paladin, from whom all holy warriors trace their spiritual lineage. She lived during the chaos following the Worldrend, when gods were silent and monsters roamed freely.
 
 Born a farmer's daughter in what would become Silverpine, she witnessed her village destroyed by undead. With nothing but a makeshift weapon and desperate faith, she stood against the horde and prayed to any god listening. Aethros answered, and light poured through her.
@@ -15054,7 +14782,7 @@ She spent fifty years building what would become the Lightbringers, establishing
 
 Her armor and sword were preserved as holy relics, and her spirit is said to watch over all Lightbringers. Some claim she appears in visions during moments of greatest need, offering guidance to those worthy of her legacy.
 
-### Connections
+#### Connections
 - **The Lightbringers:** The order she founded; they revere her as a saint
 - **Lord Commander Gareth Lightbane:** Current leader who sometimes questions if he's worthy of her legacy
 - **Aethros:** The god who first blessed her; she serves as his champion still
@@ -15074,7 +14802,7 @@ Her armor and sword were preserved as holy relics, and her spirit is said to wat
 5. **The Return Prophecy:** There's a prediction that Radiant will physically return when the Lightbringers face extinction. The conditions are approaching.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Vision Quest:** Radiant appears to a Lightbringer with a cryptic warning. Interpreting it requires investigation.
 2. **The Armor's Call:** Her relics have begun glowing. They want to be wielded—but by whom?
 3. **Maltharok's Return:** The demon lord is stirring. Radiant's unfinished battle must be completed.
@@ -15120,7 +14848,7 @@ ___
 *"I preserved knowledge when magic itself nearly died."*
 }}
 
-### Background & History
+#### Background & History
 Merrick was the greatest historian of the pre-Worldrend era—a wizard who dedicated his long life to preserving knowledge rather than pursuing power. He maintained the Grand Library of Aethermere, the largest repository of information in the world.
 
 When the Worldrend struck, Merrick faced an impossible choice. He couldn't save everything—the cataclysm was too vast, too sudden. So he chose what to preserve: genealogies, magical formulas, historical records, maps of ley lines. And he chose what to destroy: knowledge too dangerous for a shattered world.
@@ -15129,7 +14857,7 @@ He spent his final hours encoding critical information into magical crystals and
 
 Those who find the library can access knowledge lost for millennia—but Merrick judges visitors carefully. Those who seek power are turned away or destroyed. Those who seek understanding find a patient teacher.
 
-### Connections
+#### Connections
 - **The Grand Library:** The extradimensional repository he guards
 - **Professor Miranda Questseeker:** Has been searching for the library for decades
 - **The Knowledge Crystals:** Scattered repositories of critical information
@@ -15149,7 +14877,7 @@ Those who find the library can access knowledge lost for millennia—but Merrick
 5. **The Worldrend Cause:** He knows exactly what caused the cataclysm—and destroyed most evidence to prevent repetition.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Library Search:** Finding the Grand Library could change everything. Multiple parties are racing to locate it.
 2. **The Crystal Hunt:** Gathering Merrick's knowledge crystals provides fragments of lost history.
 3. **The Visitor's Knowledge:** Someone who visited the library centuries ago left clues about what they learned.
@@ -15195,7 +14923,7 @@ ___
 *"Evil endures only while good men do nothing."*
 }}
 
-### Background & History
+#### Background & History
 Silvanus dedicated his immortal life to hunting the undead—specifically, vampires. He was turned against his will in the early days after the Worldrend, when vampire lords established territories across the chaos-wracked lands. Rather than accept his nature, he turned it against his own kind.
 
 For over a thousand years, he hunted. He destroyed vampire covens, freed their thralls, and burned their lairs. He developed techniques for tracking immortal predators and weapons designed to destroy them permanently. His name became a curse among vampires and a prayer among their victims.
@@ -15204,7 +14932,7 @@ He was finally destroyed by a coalition of elder vampires who realized that only
 
 But hunters die hard. Rumors persist of a scarred figure stalking vampire territories, of ancient lords dying in their coffins, of Silvanus's techniques appearing in the hands of new hunters who claim to have learned from a mysterious mentor.
 
-### Connections
+#### Connections
 - **The Vampire Lords:** His eternal enemies, some of whom still fear his name
 - **The Silver Wardens:** Founded partly on his techniques and dedicated to his mission
 - **Master Hunter Kael Dragonsbane:** Studies Silvanus's methods; may have met him
@@ -15224,7 +14952,7 @@ But hunters die hard. Rumors persist of a scarred figure stalking vampire territ
 5. **The Final Hunt:** He's planning something big—a strike against the vampires' hidden stronghold. He needs allies.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Living Legend:** Evidence suggests Silvanus survived. Finding him could provide crucial allies—or a dangerous obligation.
 2. **The Vampire Coalition:** The elder vampires are making moves. Understanding their alliance requires knowing their shared enemy.
 3. **The Lost Techniques:** Silvanus's hunting methods could transform the fight against undead. Finding someone he trained is the key.
@@ -15275,7 +15003,7 @@ ___
 *"The body is prison. The mind is key. I found the door."*
 }}
 
-### Background & History
+#### Background & History
 Serenity achieved something most monks only dream of: true enlightenment. Through decades of meditation, discipline, and inner work, she touched something beyond mortal comprehension and was transformed. Her body became a vessel for cosmic harmony, and her consciousness expanded to perceive reality's true nature.
 
 She was born during the Worldrend, in a village caught between colliding realities. Everyone else died; she survived as an infant, somehow protected. Monks of the Celestial Order found her and raised her in their remote monastery. She never knew any other life.
@@ -15284,7 +15012,7 @@ Her enlightenment came at age ninety-two, after seventy-five years of dedicated 
 
 She spent her remaining years teaching, establishing monasteries, and occasionally intervening in world events when cosmic balance was threatened. Her body finally failed after two hundred and thirty years, but her spirit ascended rather than departed—becoming a celestial guide for those who follow her path.
 
-### Connections
+#### Connections
 - **The Celestial Order:** The monastery tradition she founded
 - **Enlightened Students:** Those who've touched similar states through her teachings
 - **The Cosmos:** She perceived and communicated with universal forces
@@ -15304,7 +15032,7 @@ She spent her remaining years teaching, establishing monasteries, and occasional
 5. **The Return Possibility:** Under specific circumstances, she could physically manifest again. The ritual requires extreme conditions.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Spiritual Contact:** Serenity's ascended form reaches out with guidance—or a warning.
 2. **The Hidden Teaching:** Her forbidden technique is discovered. Should it be used, preserved, or destroyed?
 3. **The Cosmic Threat:** What she foresaw is approaching. Her preparations need to be activated.
@@ -15358,7 +15086,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"I shall return with fire and blood. This world WILL be mine."*
 }}
 
-### Background & History
+#### Background & History
 Maltharok ruled a domain in the Abyss for eons before he turned his attention to the mortal world. Unlike many demons, he wasn't content with random destruction—he wanted conquest, dominion, worship. The Worldrend gave him opportunity.
 
 He emerged through tears in reality during the cataclysm, leading a legion of demons into the chaos. For decades, he carved out territory, building temples where mortals were forced to worship him, establishing a foothold for permanent invasion. He might have succeeded if not for Radiant Dawnbringer.
@@ -15372,7 +15100,7 @@ His influence never fully left the mortal world. Cults worship him in secret, pr
 \page
 
 
-### Connections
+#### Connections
 - **Paladin Radiant Dawnbringer:** His killer, whom he hates beyond all measure
 - **The Lightbringers:** The order that continues Radiant's work; his primary enemies
 - **The Burning Cult:** Secret worshippers preparing for his return
@@ -15388,7 +15116,7 @@ His influence never fully left the mortal world. Cults worship him in secret, pr
 5. **The Allies' Price:** Other demon lords might oppose him if properly motivated. They have their own prices.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Cult Hunt:** Evidence of Maltharok worship surfaces. Tracing the network leads to disturbing conclusions.
 2. **The Gate Location:** The return portal is nearly finished. Finding and destroying it is critical.
 3. **The Blessed Weapons:** Radiant's relics could hurt Maltharok. Acquiring and preparing them becomes priority.
@@ -15440,7 +15168,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Faith rewarded me with divinity. I serve still."*
 }}
 
-### Background & History
+#### Background & History
 Celestine was mortal once—a healer in a small village who tended the sick without thought of payment or recognition. When plague struck during the post-Worldrend chaos, she worked herself to death saving others, literally giving her life force to fuel healing magic.
 
 The gods noticed. Such selfless sacrifice, such pure dedication, transcended mortality. As her body failed, her spirit was caught up and transformed. She became a celestial being—not a god, but something close. A saint in the truest sense: a mortal soul elevated to divine service.
@@ -15449,7 +15177,7 @@ She serves as a guardian of healers, an inspiration to the selfless, and an enem
 
 She can manifest physically, though it costs her greatly. She reserves such appearances for times of desperate need—plagues that threaten civilizations, corruptions that poison the land, healers who face impossible choices. When she appears, miracles follow.
 
-### Connections
+#### Connections
 - **Temples of Healing:** All such institutions honor her; many receive her blessing
 - **The Divine Realm:** Where she now dwells, serving higher powers
 - **Brother Tormund:** Has felt her presence during his healing work
@@ -15469,7 +15197,7 @@ She can manifest physically, though it costs her greatly. She reserves such appe
 5. **The Sacrifice Question:** To truly stop the corruption, she might need to sacrifice her celestial existence. She's contemplating it.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Saint's Call:** Celestine reaches out to healers with an urgent request. The corruption is spreading.
 2. **The Corrupted Realm:** She needs mortals to enter where she cannot go and address the plague's source.
 3. **The Weakening:** Too many crises have required her manifestation. She's fading and needs help to recover.
@@ -15516,7 +15244,7 @@ ___
 *"Our house shall endure through cunning and shadow."*
 }}
 
-### Background & History
+#### Background & History
 Garrett was born common—a blacksmith's son in a village that no longer exists. He rose through military service, catching the eye of a minor baron whose daughter he married. Within a decade, his father-in-law was dead, his wife controlled the barony, and Garrett controlled his wife. It was the first of many such arrangements.
 
 His genius was marriage—not romance, but strategy. Each wedding brought lands, alliances, and opportunities for accidents. By the time he established the Blackwood bloodline in 750 BW, he controlled territory that had belonged to six different families, all of whom had died without other heirs. The family would not become a formal noble house until Lord Aldric Blackwood I built Raven's Keep in 587 CR, but Garrett's legacy—and his curse—would define them forever.
@@ -15525,7 +15253,7 @@ But political cunning alone couldn't explain his success. In his journals, he wr
 
 He died wealthy, powerful, and utterly alone. His children feared him too much for love. His curse passed to them all.
 
-### Connections
+#### Connections
 - **The Whispering Patron:** Shadow entity that granted knowledge and cursed his line
 - **House Blackwood:** All descendants carry his curse to varying degrees
 - **The Current Heir:** The curse manifested most strongly in the current Blackwood heir
@@ -15545,7 +15273,7 @@ He died wealthy, powerful, and utterly alone. His children feared him too much f
 5. **The Breaking Point:** There's a ritual to end the curse, recorded in the journals. It requires sacrificing every living Blackwood.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Journal Hunt:** The Blackwood journals could prove useful—or dangerous. Finding them means exploring haunted Raven's Keep.
 2. **The Curse Investigation:** Understanding the Blackwood curse might help with the Blackwood heir—or might make things worse.
 3. **The Patron's Return:** The Whispering Patron is becoming more active, seeking new vessels among the Blackwoods.
@@ -15594,7 +15322,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Gold flows where ships sail."*
 }}
 
-### Background & History
+#### Background & History
 Caspian began as a fisherman's son who dreamed of horizons. He built his first boat at fourteen, captained a trading vessel at twenty, and commanded a fleet at thirty. His wealth came from risk-taking—voyages others deemed too dangerous, routes others feared to try.
 
 The Goldshore fortune was built on three legendary voyages. The first discovered new fishing grounds that fed Goldreach for generations. The second established trade routes with distant Sundaran ports. The third—the one Caspian rarely discussed—found something in the deep waters of the Sundering Sea.
@@ -15603,7 +15331,7 @@ He used that discovery to establish House Goldshore as the preeminent maritime p
 
 Caspian died at sea, as he always said he would—but not from storm or battle. He sailed into the Sundering Sea one final time, alone, and never returned. His descendants believe he went to meet whatever he'd found on that third voyage.
 
-### Connections
+#### Connections
 - **House Goldshore:** His descendants, including current Lord Aldris IV
 - **The Deep Discovery:** Something in the Sundering Sea that granted his house advantages
 - **The Maritime Guilds:** Organizations he founded that still shape Goldreach
@@ -15623,7 +15351,7 @@ Caspian died at sea, as he always said he would—but not from storm or battle. 
 5. **The True Map:** The complete charts to his third voyage's destination still exist, hidden in the family vault. Following them would be extraordinarily dangerous.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Vault's Contents:** Lord Aldris IV wants to open the sealed section of the family vault. What's inside?
 2. **The Skipped Generation:** Someone in House Goldshore hasn't paid the blood price. Something is coming to collect.
 3. **The Deep Contact:** The things Caspian bargained with want to renegotiate. The party might be intermediaries.
@@ -15673,7 +15401,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Magic is inheritance, meant for worthy hands."*
 }}
 
-### Background & History
+#### Background & History
 Celestine was the most powerful wizard of her age—a claim verified by the fact that she survived the Worldrend. She was over four hundred years old when the cataclysm struck, and her quick thinking saved thousands. The magical barriers she erected around Silverpine held against the reality-warping chaos that destroyed lesser cities.
 
 But survival had a cost. Celestine watched the world tear itself apart, felt the deaths of millions through her magical connections, and emerged... changed. She spent the next century rebuilding magical infrastructure, establishing the Arcanum, and training the next generation. Then she walked into the Feywild and never returned.
@@ -15682,7 +15410,7 @@ Her descendants inherited her talent but not her trauma. House Starweaver became
 
 What no one knows is that Celestine isn't dead. In the Feywild, time moves strangely. She's been there for what feels like decades, recovering from wounds that took centuries to heal. She's almost ready to return.
 
-### Connections
+#### Connections
 - **House Starweaver:** Her descendants, including Archmage Veridian
 - **The Arcanum:** The institution she founded, still following principles she established
 - **The Feywild:** Where she's been recovering for the past several centuries
@@ -15702,7 +15430,7 @@ What no one knows is that Celestine isn't dead. In the Feywild, time moves stran
 5. **The Return Prophecy:** Celestine foresaw that she'd need to return when "shadows rise and dragons wake." That time approaches.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Feywild Message:** Celestine is trying to contact her descendants. Her warnings are fragmented but urgent.
 2. **The Founder's Return:** She's coming back. Preparing for what that means—politically and magically—falls to the party.
 3. **The Worldrend Survivors:** The twisted immortals who caused the cataclysm are stirring. Celestine knows how to stop them.
@@ -15749,7 +15477,7 @@ ___
 *"I remember the world before it broke."*
 }}
 
-### Background & History
+#### Background & History
 Seraphina is among the oldest living elves—over two thousand years old, with clear memories of the world before the Worldrend. She was already ancient when the cataclysm struck, and she's spent the centuries since as the living memory of her people.
 
 She founded House Silverleaf not through conquest but through survival. When other noble houses fell to chaos, war, and madness in the Worldrend's aftermath, Seraphina gathered survivors, preserved knowledge, and built something that would endure. Her philosophy—patience, wisdom, and balance with nature—became the foundation of modern elven society in Thaldros.
@@ -15758,7 +15486,7 @@ She no longer leads House Silverleaf directly; that honor passed first to Counci
 
 Age has diminished her in some ways—she sleeps more, moves slower, and sometimes confuses past and present. But her mind remains sharp when it matters, and her magical power is undiminished. She is, quite possibly, the most powerful living mortal in Thaldros. She simply chooses not to demonstrate it.
 
-### Connections
+#### Connections
 - **House Silverleaf:** All current members are her descendants; she remembers each of their ancestors
 - **Lady Seraphine Silverleaf:** Current house matriarch; another of Seraphina's descendants, carries the weight of leadership with wisdom
 - **Council Mistress Elara:** Former house matriarch, now Rector of Silverpine University; Seraphina's great-great-great-granddaughter
@@ -15780,7 +15508,7 @@ Age has diminished her in some ways—she sleeps more, moves slower, and sometim
 5. **The Warning:** Knows that the current generation faces a crisis comparable to the Worldrend. Has been subtly positioning her house to survive it.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Living History:** Seraphina agrees to share pre-Worldrend knowledge—but wants something in return.
 2. **The Preparation:** She's making final arrangements before her death. Some tasks require outside help.
 3. **Celestine's Herald:** Seraphina needs messengers to the Feywild to contact her old friend.
@@ -15831,7 +15559,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"From stone we came. To stone we return. But we leave our mark."*
 }}
 
-### Background & History
+#### Background & History
 Durgan united the dwarven holds through a combination of military might, political marriage, and sheer stubborn endurance that impressed even other dwarves. He forged the Ironforge Compact—the agreement that bound the holds into a confederation—and became its first Thane.
 
 His rule lasted two hundred years, an unprecedented length even for a dwarf. He survived three assassination attempts, two wars with surface kingdoms, and a volcanic eruption that destroyed his original hold. Each crisis made him stronger, more cunning, and more paranoid.
@@ -15844,7 +15572,7 @@ But there are rumors that Durgan didn't truly die. Some say his spirit guards th
 {{footnote Part IV: NPCs}}
 \page
 
-### Connections
+#### Connections
 - **House Ironforge:** His descendants, including the current Thane Durin
 - **The Ironforge Compact:** The political structure he created still governs
 - **The Deep Roads:** The tunnel network he spent centuries securing
@@ -15862,7 +15590,7 @@ But there are rumors that Durgan didn't truly die. Some say his spirit guards th
 5. **The Awakening Condition:** Durgan can be truly summoned in times of desperate need—but the ritual requires a living Ironforge to sacrifice their own life.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Ghost Sighting:** Reports of Durgan's ghost are increasing. Is the seal weakening?
 2. **The Tomb Expedition:** The Ironforge need someone to check on Durgan's resting place. What they find will be troubling.
 3. **The Armory Access:** Durgan's legendary weapons might be needed. Retrieving them requires his ghost's permission.
@@ -15912,7 +15640,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Some prices are too high. I paid them anyway."*
 }}
 
-### Background & History
+#### Background & History
 Thandris V ruled during the darkest chapter of his kingdom's history: the Dragon Crisis. For forty-five years, Infernalix ravaged Thaldros, and nothing Thandris did could stop the destruction. He tried military force, magical countermeasures, even assassination attempts. All failed. His kingdom was slowly dying.
 
 In desperation, he sought out the dragon and proposed a bargain. The terms were secret, known only to Thandris and Infernalix themselves. But the result was immediate: the dragon stopped his attacks and withdrew to sleep. The kingdom was saved—at a price.
@@ -15921,7 +15649,7 @@ Thandris spent his remaining years haunted by what he'd agreed to. He never spok
 
 But the bargain had a timeline, and that timeline runs out in 1250 CR—less than twenty-five years away. Whatever Thandris promised, his descendants will have to pay.
 
-### Connections
+#### Connections
 - **Dragon Infernalix:** The entity he bargained with; the debt passes to his bloodline
 - **House Thandris:** His descendants, including current King Aldric IV
 - **The Kingdom:** Everything he built to prepare for the debt coming due
@@ -15941,7 +15669,7 @@ But the bargain had a timeline, and that timeline runs out in 1250 CR—less tha
 5. **The Secret Heir:** Fathered a child with a commoner and hid that lineage. If the main line fails, this bloodline might be immune to the bargain—or might still be bound.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Journal Decoding:** Thandris's private journals contain warnings and possibly solutions. Interpreting them requires expertise.
 2. **The Contingency Hunt:** His failsafe weapon is hidden somewhere. Finding it before the deadline is critical.
 3. **The Warning Signs:** The activation signs are appearing. Understanding what they mean requires investigation.
@@ -15988,7 +15716,7 @@ ___
 *"I will not bend. I will break first."*
 }}
 
-### Background & History
+#### Background & History
 Emberthorn led the resistance against House Blackwood during their attempted coup against the crown. He was a minor lord from the volcanic regions near Ashfall—not wealthy, not well-connected, but absolutely unwilling to bend to Blackwood intimidation.
 
 When Blackwood agents threatened his family, he sent them away and stayed to fight alone. When Blackwood forces burned his keep, he rallied survivors and fought from the ruins. When they offered him amnesty in exchange for surrender, he laughed and charged their lines.
@@ -15997,7 +15725,7 @@ He died on the walls of Kaer Thandros during the final battle, holding a gate lo
 
 What history doesn't record is that Emberthorn had help. Someone provided intelligence, supplies, and magical support at critical moments. Someone wanted Blackwood to fall but stayed in the shadows. Emberthorn protected this ally's identity to his death.
 
-### Connections
+#### Connections
 - **House Blackwood:** The enemy he gave his life to stop
 - **The Crown:** He fought for the legitimate king against Blackwood's coup
 - **A Blackwood Insider:** A secret ally within House Blackwood provided intelligence
@@ -16017,7 +15745,7 @@ What history doesn't record is that Emberthorn had help. Someone provided intell
 5. **The Spirit's Watch:** Some say Emberthorn's spirit still guards the gate he died defending, appearing when Kaer Thandros is threatened.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Banner Quest:** Finding Emberthorn's standard could unite resistance against dark forces.
 2. **The Hidden Descendants:** His family line survives. Finding them—and proving their identity—could matter politically.
 3. **The Coded Message:** His final message is hidden somewhere in Kaer Thandros. The information inside could change everything.
@@ -16070,7 +15798,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"I am eternal. I am patient. I am inevitable."*
 }}
 
-### Background & History
+#### Background & History
 Infernalix is ancient even by dragon standards—over three thousand years old when he first appeared over Thaldros in 1156 CR. His origins trace to the volcanic ranges of southern Aethoria, where he ruled unchallenged for millennia before the Worldrend split the world.
 
 The cataclysm that separated the continents also separated Infernalix from his ancestral territory. He spent centuries in a rage, burning anything that reminded him of what he'd lost. Eventually that rage cooled to something more dangerous: patience. He began to plan.
@@ -16082,7 +15810,7 @@ He found what he sought. Now he sleeps beneath Kaer Thandros itself, in caverns 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-### Connections
+#### Connections
 - **King Thandris V:** Made the original bargain; Thandris's descendants inherit the debt
 - **Dark Forces:** Someone knows where Infernalix sleeps and has plans to use him
 - **Master Hunter Kael Dragonsbane:** Has studied Infernalix for decades; may know weaknesses
@@ -16098,7 +15826,7 @@ He found what he sought. Now he sleeps beneath Kaer Thandros itself, in caverns 
 5. **The Reunification Plan:** Doesn't want to destroy civilization—wants to reunite Thaldros and Aethoria, with himself as god-emperor of the restored world.
 }}
 \column
-### Plot Hooks
+#### Plot Hooks
 1. **The Awakening Signs:** Strange heat, tremors, and dragon-dreams are increasing near Kaer Thandros. Someone needs to investigate—quietly.
 2. **The Bargain's Terms:** The exact terms of the Thandris deal have been lost. Finding them might reveal a loophole.
 3. **The Fragment Hunt:** If the other Worldrend artifact pieces can be found first, Infernalix's plan might be stopped—or the party might accidentally complete his work.
@@ -16158,13 +15886,13 @@ ___
 - **Alignment:** Lawful Neutral
 - **Class:** Rogue (Mastermind) 12 / Noble Background
 
-### Physical Description
+#### Physical Description
 Tall and patrician (6'1", 180 lbs), with silver-streaked black hair swept back from a high forehead. Hawkish features with a prominent nose and thin lips often curved in an enigmatic smile. Pale blue eyes that seem to calculate every interaction. Immaculately dressed in expensive but understated clothing. A dueling scar on his left cheek that he refuses to have healed—"a reminder of youthful arrogance."
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-### Equipment
+#### Equipment
 - **Armor:** Half Plate (concealed under noble clothing, enchanted for silence)
 - **Primary Weapon:** Rapier +2 (family heirloom, "Rothgar's Tongue")
 - **Secondary:** Poisoned daggers (3), various poisons
@@ -16172,7 +15900,7 @@ Tall and patrician (6'1", 180 lbs), with silver-streaked black hair swept back f
 - **Cloak:** Cloak of Elvenkind
 - **Other:** Diplomatic credentials, cipher book, extensive correspondence
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks in measured tones, choosing words with precision
 - Always positions himself to see all exits in a room
@@ -16196,7 +15924,7 @@ Tall and patrician (6'1", 180 lbs), with silver-streaked black hair swept back f
 - Underestimates those he considers beneath his station
 - The giant treaty weighs on him—he knows what he's hiding
 
-### Background & History
+#### Background & History
 Born into House Rothgar, one of the oldest noble families in Thaldros. Trained from childhood in diplomacy, politics, and the subtle arts of court intrigue. Proved himself at age 23 when he negotiated a bloodless resolution to the Silvervein Mining Dispute that had killed hundreds.
 
 Appointed Duke of the Northern Provinces at 35 after his father's death. Inherited a border constantly raided by giants and barbarian tribes. Within five years, he'd reduced raids by 90%—officially through superior military positioning, but actually through the secret Northern Pact with Frost Giant King Hrothgar.
@@ -16205,7 +15933,7 @@ The Pact: Giants stay above the snow line, humans stay below. Neither raids the 
 
 Now serves as the Crown's chief diplomat and unofficial spymaster. His network of informants spans both continents. He knows secrets about almost every noble family in Thaldros—and quite a few in Aethoria.
 
-### Connections
+#### Connections
 - **Ally:** King Aldric IV (mutual respect, shared secrets)
 - **Secret Ally:** Frost Giant King Hrothgar (the Pact)
 - **Rival:** Lady Cassandra Vantress (competing for influence)
@@ -16224,7 +15952,7 @@ Now serves as the Crown's chief diplomat and unofficial spymaster. His network o
 {{footnote Part IV: NPCs}}
 \page
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Treaty Exposed:** Someone's discovered evidence of the giant treaty. Valentin needs it retrieved—or the discoverer silenced.
 2. **Giant Succession:** Hrothgar is aging. His heir is aggressive. Valentin needs agents to... influence... the succession.
 3. **The Old Murder:** He's finally ready to move against his wife's killer. Needs independent agents with no connection to him.
@@ -16233,7 +15961,7 @@ Now serves as the Crown's chief diplomat and unofficial spymaster. His network o
 6. **The King's Mission:** King Aldric needs deniable agents for a sensitive mission. Valentin provides the introduction.
 7. **Diplomatic Crisis:** An incident threatens war with Aethoria. Valentin needs the party to find proof it was manufactured.
 \column
-### Roleplaying Notes
+#### Roleplaying Notes
 **Voice:** Smooth, cultured, with a slight northern accent. Never raises his voice. Most dangerous when he sounds most reasonable.
 **Mannerisms:** 
 - Steeples fingers when thinking
@@ -16300,10 +16028,10 @@ Can take 3 legendary actions, choosing from options below.
 - **Alignment:** Lawful Neutral
 - **Class:** Fighter (Royal Guard) 20 / Soldier Background
 
-### Physical Description
+#### Physical Description
 Athletic and imposing (5'10", 170 lbs), with the build of someone who trains daily. Short-cropped iron-gray hair, steely blue eyes that miss nothing. Face weathered by campaign after campaign, with a prominent scar running from her right temple to her jaw. Stands with perfect military posture. Never seen without her armor outside her private quarters.
 
-### Equipment
+#### Equipment
 - **Armor:** Plate Armor +1 (custom-forged, bears the Iron Legion insignia)
 - **Shield:** Shield +1 (steel, showing dents from countless battles)
 - **Primary Weapon:** Longsword +2 ("Duty's Edge")
@@ -16315,7 +16043,7 @@ Athletic and imposing (5'10", 170 lbs), with the build of someone who trains dai
 {{footnote Part IV: NPCs}}
 \page
 
-### Personality
+#### Personality
 **Traits:** ::
 - Speaks in clipped, efficient sentences
 - Evaluates everyone as potential soldier, ally, or threat
@@ -16339,7 +16067,7 @@ Athletic and imposing (5'10", 170 lbs), with the build of someone who trains dai
 - Struggles to delegate—believes only she can do things right
 - Secret fear: she's training her replacement because she doesn't expect to survive the coming war
 
-### Background & History
+#### Background & History
 Born to a blacksmith father and soldier mother in the lower quarters of Kaer Thandros. Enlisted at 16, lying about her age. Rose through ranks on pure merit—no noble connections, no favors, just results.
 
 Distinguished herself during the Giant Raids of 1215 CR, holding a mountain pass for three days with 50 soldiers against 200 giants. Lost her eye in that battle (wears no patch—"let them see what I've given"). Promoted to Captain immediately after.
@@ -16350,7 +16078,7 @@ Privately carries the weight of every soldier she's lost. Has a private memorial
 
 \column
 
-### Connections
+#### Connections
 - **Ally:** King Aldric IV (complete mutual loyalty)
 - **Respected Rival:** Lord Commander Thrain Ironoak (friendly professional competition)
 - **Protégé:** Lieutenant Sara Brightwind (grooming her as successor)
@@ -16366,7 +16094,7 @@ Privately carries the weight of every soldier she's lost. Has a private memorial
 5. **The King's Secret:** She knows about the Northern Pact with the giants. She supports it—"a smart enemy is better than a stupid ally."
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **Giant Hunt:** Hrothvir the frost giant has been sighted. She wants him—alive if possible, dead if necessary.
 2. **The Traitor:** Someone in the Legion is selling information. She needs outsiders to investigate.
 3. **War Games:** She's running training exercises near the border. Needs the party to play "enemy force."
@@ -16379,7 +16107,7 @@ Privately carries the weight of every soldier she's lost. Has a private memorial
 {{footnote Part IV: NPCs}}
 \page
 
-### Roleplaying Notes
+#### Roleplaying Notes
 **Voice:** Sharp, commanding, no-nonsense. Uses military terminology naturally.
 **Mannerisms:**
 - Stands with hands clasped behind back when thinking
@@ -16446,9 +16174,9 @@ ___
 - **Alignment:** Lawful Evil
 - **Class:** Cleric (Knowledge Domain) 14 / Inquisitor Background
 
-### Physical Description
+#### Physical Description
 Gaunt and severe (5'9", 140 lbs), with hollow cheeks and deep-set dark eyes that seem to bore into souls. Completely bald, with ritual scars on his scalp in the form of open eyes. Wears black and silver robes of office. Moves with unsettling stillness—rarely gestures or shows emotion. His voice is soft, almost a whisper, forcing others to lean in to hear him.
-### Equipment
+#### Equipment
 - **Armor:** Breastplate +2 (black steel, inscribed with truth runes)
 - **Weapon:** Scepter of Judgment (see above)
 - **Holy Symbol:** Silver eye within a triangle (Order of Truth)
@@ -16459,7 +16187,7 @@ Gaunt and severe (5'9", 140 lbs), with hollow cheeks and deep-set dark eyes that
 {{footnote Part IV: NPCs}}
 \page
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks in soft, measured tones that somehow carry perfectly
 - Asks questions rather than making statements
@@ -16483,7 +16211,7 @@ Gaunt and severe (5'9", 140 lbs), with hollow cheeks and deep-set dark eyes that
 - So focused on guilt that he cannot see innocence
 - His methods create the very enemies he hunts
 
-### Background & History
+#### Background & History
 Born to devout parents who gave him to the church at age 7. Showed early talent for detecting lies and reading people. Trained as a priest of Mordain (the god, not himself—an ironic coincidence he considers divine will).
 
 Rose through church hierarchy, but found regular clergy work unsatisfying. Transferred to the Office of Truth at 25. Found his calling. His interrogation success rate was unprecedented—he never used torture at first, just talked to people until they confessed. When they didn't confess, he concluded they were skilled liars who needed more... persuasive methods.
@@ -16492,7 +16220,7 @@ Became High Inquisitor at 45. Has held the position for 16 years. Under his lead
 
 Genuinely believes he serves the realm. Genuinely doesn't understand why people fear him. Genuinely thinks his methods are merciful compared to the alternatives.
 
-### Connections
+#### Connections
 - **Superior:** King Aldric IV (who uses him but doesn't trust him)
 - **Ally:** General Steelheart (respects her devotion to duty)
 - **Concern:** Grand Duke Rothgar (too many secrets, too well hidden)
@@ -16508,7 +16236,7 @@ Genuinely believes he serves the realm. Genuinely doesn't understand why people 
 5. **The True Threat:** He's detected something in the magical fabric of reality. Something watching. Something patient. He doesn't know what it is.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **False Accusation:** The party is accused of crimes they didn't commit. They must prove innocence to Mordain—or escape him.
 2. **The Heretic Hunt:** Mordain needs agents to infiltrate a cult he can't legally touch. Moral compromise guaranteed.
 3. **The Innocent:** Party finds evidence that someone in his dungeons is genuinely innocent. Can they convince him?
@@ -16517,7 +16245,7 @@ Genuinely believes he serves the realm. Genuinely doesn't understand why people 
 6. **Redemption Arc:** Someone he persecuted years ago has returned. Confrontation or reconciliation?
 7. **The Brother:** His brother resurfaces. Old guilt demands action—but what kind?
 
-### Roleplaying Notes
+#### Roleplaying Notes
 **Voice:** Soft, almost hypnotic. Never raises it. Asks questions that cut to the soul.
 **Mannerisms:**
 - Holds eye contact until others look away
@@ -16573,10 +16301,10 @@ ___
 - **Alignment:** Lawful Neutral
 - **Class:** Bard (College of Eloquence) 10 / Rogue (Mastermind) 3 / Noble Background
 
-### Physical Description
+#### Physical Description
 Elegant and poised (5'6", 130 lbs), with auburn hair typically arranged in elaborate court styles. Green eyes that sparkle with intelligence and barely concealed amusement. Heart-shaped face, flawless complexion. Dresses in the height of fashion—always appropriate, always memorable. Moves with dancer's grace. Her smile could launch a thousand ships or sink them.
 
-### Equipment
+#### Equipment
 - **Armor:** Glamoured Studded Leather (appears as fine court dress)
 - **Weapons:** Poisoned hairpins (6), hidden hand crossbow, various poisons
 - **Jewelry:** Rings on every finger (one is Ring of Mind Shielding)
@@ -16584,7 +16312,7 @@ Elegant and poised (5'6", 130 lbs), with auburn hair typically arranged in elabo
 - **Other:** Cipher book, blackmail dossiers, letters of introduction to every noble house
 
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks in layers—every sentence has multiple meanings
 - Touches people when talking (establishes connection, reads reactions)
@@ -16611,7 +16339,7 @@ Elegant and poised (5'6", 130 lbs), with auburn hair typically arranged in elabo
 - Her ambition sometimes blinds her to genuine friendships
 - Has made enemies who won't be satisfied with political victory
 
-### Background & History
+#### Background & History
 Born to a minor noble house, third daughter with no marriage prospects and no inheritance. Rather than accept obscurity, she made herself indispensable to more powerful nobles—first as a companion, then as an advisor, then as a dealer in secrets.
 
 By 25, she knew more about the noble houses than their own members did. By 30, she'd arranged three marriages, prevented two assassinations, and orchestrated the downfall of a duke who'd insulted her family. The king himself noticed.
@@ -16620,7 +16348,7 @@ Now she's the unofficial "social secretary" of the court—the person nobles com
 
 Never married herself. "Why bind myself to one house when I can influence them all?"
 
-### Connections
+#### Connections
 - **Patron:** King Aldric IV (appreciates her usefulness)
 - **Rival:** Grand Duke Rothgar (competing for the King's ear)
 - **Network:** Contacts in every noble house in Thaldros
@@ -16636,7 +16364,7 @@ Never married herself. "Why bind myself to one house when I can influence them a
 5. **Genuine Affection:** She's secretly in love with someone completely unsuitable—a common-born captain in the guard. She'll never act on it.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Marriage Game:** She needs the party to "investigate" a potential suitor for her sister. Find the dirt.
 2. **Reputation Management:** A noble's scandal threatens to become public. She needs it buried—literally or figuratively.
 3. **The Harwick Problem:** Baron Harwick is becoming dangerous. She needs independent agents to handle it.
@@ -16645,7 +16373,7 @@ Never married herself. "Why bind myself to one house when I can influence them a
 6. **The Black Book:** Someone's trying to steal her secrets. She needs them stopped.
 7. **Political Favor:** She can make introductions, smooth over incidents, provide alibis—but she'll collect on the debt.
 
-### Roleplaying Notes
+#### Roleplaying Notes
 **Voice:** Melodious, cultured, often amused. Speaks in questions and implications.
 **Mannerisms:**
 - Fans herself when bored or signaling displeasure
@@ -16710,10 +16438,10 @@ ___
 - **Alignment:** Neutral
 - **Class:** Wizard (School of Necromancy/Shadow) 18
 
-### Physical Description
+#### Physical Description
 Thin and pale (5'11", 150 lbs), with prematurely white hair that seems to absorb light rather than reflect it. Dark circles under pale gray eyes give him a perpetually tired appearance. Robes of deep purple that shift to black in shadows. Moves with eerie grace, sometimes seeming to glide rather than walk. His shadow sometimes moves independently.
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks in whispers even when not necessary
 - Studies people like specimens
@@ -16737,12 +16465,12 @@ Thin and pale (5'11", 150 lbs), with prematurely white hair that seems to absorb
 - His shadow magic research borders on—or crosses—ethical lines
 - Dismissive of those he considers intellectually inferior
 
-### Background & History
+#### Background & History
 A prodigy who mastered basic spellcasting by age 12. Studied at Silverpine Magical Academy but left after his theories were deemed "too dangerous." Spent 20 years traveling, studying shadow magic in forbidden places. Returned to offer his services to the Crown.
 
 Now serves as the kingdom's arcane defender. His Tower of Shadows protects Kaer Thandros from magical threats. The King tolerates his eccentricities because his power is invaluable.
 
-### Connections
+#### Connections
 - **Superior:** King Aldric IV (uncomfortable alliance)
 - **Rival:** High Mage Arcturus (ideological opponent)
 - **Student:** Once trained a promising apprentice who died. Never took another.
@@ -16757,7 +16485,7 @@ Now serves as the kingdom's arcane defender. His Tower of Shadows protects Kaer 
 5. **The Watching Thing:** Something from the shadow realm is using him as a window into the world.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **Shadow Breach:** Something escaped from his experiments. He needs it recaptured quietly.
 2. **Forbidden Research:** He offers payment for artifacts from the Worldrend era. No questions asked.
 3. **The Apprentice's Family:** Relatives of his dead student seek answers—or revenge.
@@ -16809,10 +16537,10 @@ ___
 - **Alignment:** Lawful Neutral
 - **Class:** Fighter (Royal Guard) 15
 
-### Physical Description
+#### Physical Description
 Powerfully built (6'2", 210 lbs), with arms like tree trunks and a chest that seems carved from stone. Black hair cropped military-short, with a thick beard kept neat. Multiple scars across face and arms—he never hides them. Dark brown eyes that assess everything as a potential threat. His greatsword "Blackblade" is always within reach.
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks bluntly, dislikes politics
 - Judges people by their combat ability and honor
@@ -16839,12 +16567,12 @@ Powerfully built (6'2", 210 lbs), with arms like tree trunks and a chest that se
 - Dismissive of non-martial solutions
 - Secretly believes he's not smart enough for political situations
 
-### Background & History
+#### Background & History
 Born to a minor military family. Enlisted at 16, served on the border. Met then-Prince Thorin during a skirmish—saved his life. Rose through ranks on merit and royal favor. Became Commander of the Elite Guard at 35.
 
 Has personally killed over 200 enemies in combat. Never lost a duel. The sword "Blackblade" is an heirloom that has been in his family since the Worldrend—supposedly forged from a piece of meteoric iron from that catastrophe.
 
-### Connections
+#### Connections
 - **Liege:** King Aldric IV (personal loyalty beyond duty)
 - **Rival:** General Steelheart (professional competition)
 - **Brother:** A sergeant in the border patrol (worries about him constantly)
@@ -16859,7 +16587,7 @@ Has personally killed over 200 enemies in combat. Never lost a duel. The sword "
 5. **The Old Wound:** A wound that never fully healed. In five years, he won't be able to fight. He's racing against time.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **Honor Duel:** Someone has insulted the King. Taran needs seconds for a formal duel—or investigators to prove the insult was orchestrated.
 2. **The Assassin Hunt:** He's located the Syndicate assassin. Needs help for the final confrontation.
 3. **Blackblade's Origin:** Wants to discover the true history of his sword. The truth might be dangerous.
@@ -16907,10 +16635,10 @@ ___
 - **Alignment:** Neutral Good
 - **Class:** Bard (College of Eloquence) 8 / Cleric (Peace Domain) 4
 
-### Physical Description
+#### Physical Description
 Graceful and composed (5'7", 135 lbs), with golden-brown hair often worn in Aethorian braids (a diplomatic gesture). Warm brown eyes that seem to see the best in people. Dresses in styles that blend Thaldros formality with Aethorian flair. Always wears her diplomatic medallion. Moves with quiet confidence.
 
-### Personality
+#### Personality
 **Traits:**
 - Genuinely believes in peaceful resolution
 - Sees the humanity in both sides of any conflict
@@ -16937,14 +16665,14 @@ Graceful and composed (5'7", 135 lbs), with golden-brown hair often worn in Aeth
 - Feels personally responsible when negotiations fail
 - Has sacrificed her personal life entirely for her work
 
-### Background & History
+#### Background & History
 Born to a merchant family with connections on both continents. Grew up hearing stories from both sides. Learned early that "enemies" are just people you haven't understood yet.
 
 Joined the diplomatic corps at 21. Her language skills and cultural sensitivity made her invaluable. Negotiated three minor treaties before being named Chief Ambassador at 30—the youngest ever.
 
 Has prevented at least two wars through back-channel negotiations. Neither side knows how close they came. She keeps those secrets to prevent panic.
 
-### Connections
+#### Connections
 - **Superior:** King Aldric IV (supports her work but pressures her for results)
 - **Counterpart:** Ambassador Eldrin Starlight (Aethorian ambassador, professional friendship)
 - **Rival:** Hardliners on both sides who want war
@@ -16961,7 +16689,7 @@ Has prevented at least two wars through back-channel negotiations. Neither side 
 5. **The Assassination List:** She's on multiple assassination lists. Doesn't tell anyone because it would compromise her negotiations.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Peace Summit:** A crucial summit is approaching. She needs independent security she can trust.
 2. **The Third Party:** She's found evidence of war manipulation. Needs investigators outside official channels.
 3. **The Assassination Plot:** Someone's finally acting on those threats. Needs protection.
@@ -17015,10 +16743,10 @@ ___
 - **Alignment:** Lawful Neutral
 - **Class:** Fighter (Royal Guard) 16
 
-### Physical Description
+#### Physical Description
 Broad and weathered (6'0", 200 lbs), built like a siege engine himself. Gray hair cropped short, with a thick mustache. Deep-set hazel eyes that have seen too many battles. Face is a map of scars—the largest running from his forehead across a milky blind eye. Moves with the measured pace of a man who's learned patience the hard way.
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks slowly, thinks before every word
 - Judges terrain and defenses instinctively
@@ -17045,14 +16773,14 @@ Broad and weathered (6'0", 200 lbs), built like a siege engine himself. Gray hai
 - Struggles to trust anyone who hasn't proven themselves in battle
 - His caution sometimes borders on paralysis
 
-### Background & History
+#### Background & History
 Rose through the ranks the hard way—no noble connections, no favors. Distinguished himself during the Giant Wars, holding Ironpass for six weeks against impossible odds. Lost his eye and 400 soldiers, but the line held.
 
 Promoted to General at 40. Has spent 14 years building the eastern defenses into the most formidable fortification system on the continent. Every wall, every tower, every fallback position bears his fingerprints.
 
 His relationship with General Steelheart is professional but cool—she thinks he's too defensive, he thinks she's too aggressive. Both respect each other's competence.
 
-### Connections
+#### Connections
 - **Superior:** King Aldric IV (trusts his judgment on defensive matters)
 - **Rival:** General Viktoria Steelheart (philosophical disagreements on tactics)
 - **Subordinate:** Colonel Thrain Ironwall (his most trusted officer)
@@ -17069,7 +16797,7 @@ His relationship with General Steelheart is professional but cool—she thinks h
 5. **The Coming Storm:** He believes war with Aethoria is inevitable within two years. He's not ready. He won't be ready.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Weakness:** He needs the defensive flaw fixed quietly, without official channels knowing.
 2. **Reconciliation:** His son has information he needs. Someone must bridge the gap between them.
 3. **The Siege:** Eastern fortress under attack. He needs reinforcements—or miracles.
@@ -17125,10 +16853,10 @@ ___
 - **Alignment:** Neutral
 - **Class:** Wizard (School of Divination) 14 (in life)
 
-### Physical Description
+#### Physical Description
 A translucent figure in ancient scholarly robes, perpetually surrounded by floating spectral books. In life, he was slight and bent from decades over manuscripts. In death, he appears as he was at perhaps 60—still aged, but vigorous. Wispy white hair, kind but piercing blue eyes that glow faintly, spectacles that serve no purpose but habit. Often found reading books that only he can see.
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks in the formal patterns of three centuries ago
 - Answers questions with more questions
@@ -17155,14 +16883,14 @@ A translucent figure in ancient scholarly robes, perpetually surrounded by float
 - His obsession with his unfinished work sometimes makes him unreliable
 - Doesn't fully understand the urgency of mortal concerns
 
-### Background & History
+#### Background & History
 High Mage of Thaldros from 920-989 CR. Served three kings. Dedicated his life to preserving knowledge after seeing how much was lost in the Worldrend. Built the Great Library into the finest repository of knowledge on the continent.
 
 Died peacefully in his bed, surrounded by books. Woke up the next morning as a ghost, apparently unable or unwilling to leave his library. Has haunted it ever since, helping researchers, guarding dangerous knowledge, and continuing his studies.
 
 His "Compendium" is referenced by scholars across both continents—fifteen volumes of magical theory that remain foundational texts.
 
-### Connections
+#### Connections
 - **Ally:** King Aldric IV (consults him on historical matters)
 - **Student:** The Frost Seer studied under him through séances
 - **Rival:** Archmagus Theron Darkweave (considers his shadow magic dangerous)
@@ -17179,7 +16907,7 @@ His "Compendium" is referenced by scholars across both continents—fifteen volu
 5. **The Choice:** He could pass on if he wanted. He's chosen not to. He tells himself it's duty, but perhaps it's fear.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **Research Assistant:** He needs material from dangerous locations—ruins, tombs, enemy territory.
 2. **The Forbidden Section:** Something has been stolen from the vault. He needs discreet recovery.
 3. **The Descendant:** His great-great-granddaughter is in danger. He cannot leave to help her.
@@ -17233,10 +16961,10 @@ ___
 - **Alignment:** Lawful Evil
 - **Class:** Fighter (Champion) 14
 
-### Physical Description
+#### Physical Description
 Once-handsome features now weathered by stress and years on the run (6'0", 195 lbs). Iron-gray hair worn longer than military regulation now. Cold blue eyes that have ordered terrible things. Still carries himself with military bearing despite his circumstances. Several scars from battles and one assassination attempt.
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks with command voice even when it's inappropriate
 - Calculates everyone's usefulness and threat level
@@ -17263,7 +16991,7 @@ Once-handsome features now weathered by stress and years on the run (6'0", 195 l
 - Underestimates those he considers beneath him
 - The guilt he won't acknowledge is slowly destroying him
 
-### Background & History
+#### Background & History
 Rose to General through a combination of skill and ruthlessness. Commanded the Aethorian border during the worst of the conflicts. Achieved victories—but at terrible cost.
 
 The incident that ended his career: he ordered a village burned to deny resources to Aethorian partisans. 200 civilians died. Some were collaborators. Most were just farmers. He considers it a tactical necessity. International law considers it a war crime.
@@ -17272,7 +17000,7 @@ Fled before he could be arrested. Now survives by selling military intelligence 
 
 *Note: This is the "General Thorne" referenced in Blood & Coin campaign as a defector being protected for his intelligence.*
 
-### Connections
+#### Connections
 - **Protector:** The Syndicate (currently using his information)
 - **Enemy:** Both Thaldros and Aethoria want him (for different reasons)
 - **Asset:** Still has contacts in the Thaldros military
@@ -17289,7 +17017,7 @@ Fled before he could be arrested. Now survives by selling military intelligence 
 5. **Redemption?:** Sometimes, late at night, he wonders if he could make amends. Then morning comes and survival takes over.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **Extraction:** Someone wants him extracted—to stand trial, to be silenced, or to be recruited.
 2. **The Intelligence:** He has information the party needs. What will they pay? What will they overlook?
 3. **The Daughter:** Elena is in danger because of her father. He'll do anything to protect her—except reveal himself.
@@ -17347,10 +17075,10 @@ ___
 - **Alignment:** Neutral Good
 - **Class:** Wizard (Enchantment) 9
 
-### Physical Description
+#### Physical Description
 Elegant and scholarly (5'6", 125 lbs), with the ageless features of her elven heritage. Silver-streaked auburn hair usually pinned up practically. Intelligent gray-green eyes behind reading spectacles. Dresses in professional robes that blend academic and civic styles. Always carries a leather satchel of documents.
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks precisely, choosing words carefully
 - Genuinely cares about both the university and the city
@@ -17377,14 +17105,14 @@ Elegant and scholarly (5'6", 125 lbs), with the ageless features of her elven he
 - Works too hard; neglects personal relationships
 - Carries guilt about using magic to resolve a past crisis
 
-### Background & History
+#### Background & History
 Daughter of an elven scholar and a human merchant. Grew up in Silverpine, attended the university on scholarship. Showed talent for both magic and politics—a rare combination.
 
 Joined the city council at 40, youngest member in a century. Has spent 27 years balancing the interests of academics, merchants, and common folk. Generally respected by all factions, trusted by most.
 
 Her defining moment: during a student riot 15 years ago, she used mass enchantment to prevent bloodshed. Saved lives, but some call it mind control. She's never fully reconciled with it.
 
-### Connections
+#### Connections
 - **Ally:** Dean Aldric Questwood (university administration)
 - **Rival:** Merchant Guildmaster Harwin Cole (wants more control over university funding)
 - **Contact:** Has connections to every major faction in Silverpine
@@ -17399,7 +17127,7 @@ Her defining moment: during a student riot 15 years ago, she used mass enchantme
 5. **Magic Addiction:** Enchantment magic is seductive. She casts more than she should. It's becoming a problem.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Forbidden Text:** She needs the party to verify something in the pre-Worldrend records. Discreetly.
 2. **University Crisis:** A scandal threatens to tear apart the academic community. She needs investigators.
 3. **The Father:** She wants to know why he left—without revealing who's asking.
@@ -17447,10 +17175,10 @@ ___
 - **Alignment:** Lawful Neutral
 - **Class:** Expert (Diplomat) 10
 
-### Physical Description
+#### Physical Description
 Average height and unremarkable features (5'8", 160 lbs)—deliberately cultivated to blend in anywhere. Black hair graying at temples, worn in whatever style suits his current assignment. Dark brown eyes that observe everything while revealing nothing. Dresses to match local customs perfectly. The only constant is a simple jade pendant (his mother's).
 
-### Personality
+#### Personality
 **Traits:**
 - Adapts speech patterns, gestures, and mannerisms to his audience
 - Asks questions rather than making statements
@@ -17477,14 +17205,14 @@ Average height and unremarkable features (5'8", 160 lbs)—deliberately cultivat
 - Knows secrets that burden him but he cannot share
 - His family life has suffered from constant travel
 
-### Background & History
+#### Background & History
 Born in a border town to a merchant mother who traded with everyone—Thaldros, Aethoria, dwarves, even occasional orcish caravans. Learned early that "different" people are just people.
 
 Joined the diplomatic corps at 22 after his languages and cultural sensitivity were noticed. Has negotiated prisoner exchanges, trade agreements, and border disputes. Speaks twelve languages fluently, can get by in twenty more.
 
 Now based in Silverpine, training the next generation of diplomats while still taking sensitive assignments. Has visited every major city on both continents at least twice.
 
-### Connections
+#### Connections
 - **Superior:** Ambassador Seraphina Goldheart (reports to her)
 - **Network:** Contacts in every major city
 - **Student:** Training a promising young diplomat from Goldreach
@@ -17501,7 +17229,7 @@ Now based in Silverpine, training the next generation of diplomats while still t
 5. **The Choice:** He'll be offered a chance to become ambassador. He's not sure he wants to stop being in the field.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **Diplomatic Crisis:** A misunderstanding threatens war. He needs help solving it before it explodes.
 2. **The Old Friend:** His Aethorian contact is in trouble. Personal and professional lines are blurring.
 3. **Mother's Killers:** After 30 years, he's found a lead. Needs help pursuing it.
@@ -17554,10 +17282,10 @@ ___
 - **Alignment:** Lawful Good
 - **Class:** Fighter (Royal Guard) 8 / Paladin (Oath of the Iron Crown) 4
 
-### Physical Description
+#### Physical Description
 Athletic and alert (5'9", 155 lbs), with the bearing of someone who's earned every promotion. Sun-bleached brown hair kept in a practical braid. Clear blue eyes that seem to see through deception. Light scar across her chin from a training accident. Uniform always impeccable, armor always polished.
 
-### Personality
+#### Personality
 **Traits:**
 - Follows rules and expects others to do the same
 - Gives people one chance to do the right thing
@@ -17584,14 +17312,14 @@ Athletic and alert (5'9", 155 lbs), with the bearing of someone who's earned eve
 - Pushes herself too hard; doesn't know when to rest
 - Her brother's troubles make her question her faith in redemption
 
-### Background & History
+#### Background & History
 Daughter of a guard who died in the line of duty. Enlisted at 18 to honor his memory. Promoted through dedication and skill rather than politics—unusual in city guard hierarchies.
 
 At 28, she exposed a corruption ring within the guard itself, including her own superior. It nearly ended her career—the powerful have long memories—but Captain Holbrook protected her and promoted her.
 
 Now she's being groomed as his successor. The old guard resents her. The young guards worship her. The criminals fear her. She just wants to do her job.
 
-### Connections
+#### Connections
 - **Mentor:** Captain Holbrook (retiring, preparing her to take over)
 - **Enemy:** Sergeant Kronn (corrupt officer she exposed, demoted but still serving)
 - **Protégé:** General Steelheart sees her potential
@@ -17608,7 +17336,7 @@ Now she's being groomed as his successor. The old guard resents her. The young g
 5. **The Offer:** The Syndicate offered to leave her brother alone if she looks the other way occasionally. She said no. They'll ask again.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **Brother's Trouble:** Tomas is in danger. She needs help that won't destroy his life—or her career.
 2. **Cold Case:** Her father's death. She has new evidence. Needs investigators.
 3. **The Corruption:** The remaining corrupt official is making moves. She needs proof.
@@ -17664,10 +17392,10 @@ ___
 - **Alignment:** Lawful Neutral
 - **Class:** Fighter (Iron Guild Veteran) 12 / Guild Artisan Background
 
-### Physical Description
+#### Physical Description
 Stocky and powerful even by dwarven standards (4'6", 190 lbs). Iron-gray beard braided with guild tokens representing every rank he's held. Deep brown eyes that have appraised thousands of contracts and warriors. Face weathered like old leather, hands scarred from centuries of weapon work. Always wears his ceremonial armor with the Ironfist clan crest.
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks in direct, business-like terms
 - Judges everyone by their reliability and skill
@@ -17694,14 +17422,14 @@ Stocky and powerful even by dwarven standards (4'6", 190 lbs). Iron-gray beard b
 - Old feuds with certain families influence his business decisions
 - Drinks more than he should when memories get heavy
 
-### Background & History
+#### Background & History
 Born into the Ironfist clan, which has led the Iron Guild for six generations. Trained as a warrior, served his mandatory contract years, then worked his way through every administrative rank.
 
 Became Guildmaster 40 years ago after his predecessor died in combat (an unusual but respected end). Has expanded the Guild's operations while maintaining its reputation for reliability.
 
 The Iron Guild under his leadership is the premier mercenary organization in Thaldros—professional, well-equipped, and absolutely bound by contract. They've fought for kings and merchants, nobles and commoners. They don't ask why. They just deliver.
 
-### Connections
+#### Connections
 - **Ally:** King Aldric IV (major client, mutual respect)
 - **Business Partner:** Merchant League (many contracts)
 - **Rival:** The Syndicate (competes for certain services)
@@ -17716,7 +17444,7 @@ The Iron Guild under his leadership is the premier mercenary organization in Tha
 5. **The Retirement Plan:** He's grooming three possible successors. He's also testing them against each other. One of them might try to accelerate the succession.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **Contract Work:** The Guild is always hiring skilled adventurers. Prove yourself and doors open.
 2. **The Betrayer's Return:** The traitor from 20 years ago has resurfaced. Roderic wants him found.
 3. **Family Debt:** The deep mines price is coming due. He needs help with something he can't explain.
@@ -17767,10 +17495,10 @@ ___
 - **Alignment:** Lawful Neutral
 - **Class:** Fighter (Iron Guild Veteran) 15
 
-### Physical Description
+#### Physical Description
 Tall and commanding (5'11", 170 lbs), with the weathered look of someone who's spent decades on campaign. Iron-gray hair cut short, sharp gray eyes that have seen too much death. A distinctive scar runs across her throat—a near-fatal wound that left her voice permanently hoarse. Always in armor, always armed.
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks in a raspy whisper (throat wound)
 - Leads from the front, shares every hardship with troops
@@ -17797,14 +17525,14 @@ Tall and commanding (5'11", 170 lbs), with the weathered look of someone who's s
 - Her daughter resents being sent away
 - Sometimes too willing to sacrifice herself
 
-### Background & History
+#### Background & History
 Enlisted at 16, lying about her age. Rose through ranks on pure ability—no noble sponsors, no political games. Distinguished herself in border skirmishes and the Giant Wars.
 
 The throat wound came from an assassination attempt. The assassin was sent by a noble whose incompetent son she'd disciplined. She survived. The assassin didn't. The noble's family still holds a grudge.
 
 Now commands the Legion's Second Division, responsible for the eastern marches. General Steelheart considers her the best field commander in the Legion—and a possible successor.
 
-### Connections
+#### Connections
 - **Superior:** General Viktoria Steelheart (mentor and model)
 - **Subordinates:** Fiercely loyal division officers
 - **Enemy:** House Valdren (the family that tried to have her killed)
@@ -17821,7 +17549,7 @@ Now commands the Legion's Second Division, responsible for the eastern marches. 
 5. **The Offer:** An Aethorian general offered her command of a revolutionary army. She refused. She's still not sure why.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **House Valdren:** They're making another move. She needs the threat ended permanently—legally.
 2. **Daughter's Danger:** Sera is in trouble in Silverpine. Helena can't leave her post. She needs trusted agents.
 3. **The Succession:** General Steelheart wants her ready for command. The test might be lethal.
@@ -17872,10 +17600,10 @@ ___
 - **Alignment:** Neutral
 - **Class:** Artificer (Battle Smith) 12
 
-### Physical Description
+#### Physical Description
 Powerfully built (4'4", 180 lbs), with arms like tree trunks from a century and a half at the forge. Ruddy face permanently flushed from heat exposure, copper-red beard braided with metal rings. Missing the last two fingers of his left hand (forge accident). Eyes are an unusual amber color, seeming to glow near flames.
 
-### Personality
+#### Personality
 **Traits:**
 - Speaks bluntly, often offensively honest
 - Judges people by the quality of their tools
@@ -17902,14 +17630,14 @@ Powerfully built (4'4", 180 lbs), with arms like tree trunks from a century and 
 - The creation of Ironheart took something from him he won't discuss
 - Holds grudges against those who mistreat good tools
 
-### Background & History
+#### Background & History
 Born to a smithing family in Ironhold. Showed prodigious talent from childhood. Mastered mundane smithing by 50, began studying magical artifice.
 
 Spent decades traveling, learning techniques from dwarven holds, elven smiths, and even a dragon who taught metalworking. Returned to Goldreach to establish the Grand Forge.
 
 His masterwork is Ironheart—a steel defender so sophisticated it's nearly alive. The creation process took ten years and, he claims, "a piece of my soul." It's not metaphorical.
 
-### Connections
+#### Connections
 - **Friend:** King Aldric IV (has forged royal weapons)
 - **Rival:** Archmagus Theron (disagrees about magic's role in crafting)
 - **Students:** Dozens of smiths trained by him across both continents
@@ -17926,7 +17654,7 @@ His masterwork is Ironheart—a steel defender so sophisticated it's nearly aliv
 5. **The Successor:** None of his students are good enough. He fears his techniques will die with him.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Dragon Weapon:** The King's request is becoming urgent. Garrick needs rare materials—and moral clarity.
 2. **Revenge:** He's finally ready to move against his wife's killers. Needs help.
 3. **The Lost Technique:** He's found reference to a pre-Worldrend smithing method. Needs adventurers to recover it.
@@ -17978,10 +17706,10 @@ ___
 - **Alignment:** Chaotic Neutral
 - **Class:** Rogue (Swashbuckler) 10
 
-### Physical Description
+#### Physical Description
 Roguishly handsome (6'0", 175 lbs), with the lean build of someone who lives by speed and cunning. Black hair worn long and often salt-crusted, dark eyes that are always calculating odds. A thin scar runs from his left ear to his jaw. Dresses flamboyantly when on shore, practically when at sea.
 
-### Personality
+#### Personality
 **Traits:**
 - Laughs easily, especially at danger
 - Always has three escape plans
@@ -18008,7 +17736,7 @@ Roguishly handsome (6'0", 175 lbs), with the lean build of someone who lives by 
 - The Blackwood name is a burden he can't escape
 - Runs from emotional commitments
 
-### Background & History
+#### Background & History
 Claims to be a bastard son of some Blackwood—refuses to say which one. Given the timing and the notorious House Blackwood tragedy, speculation runs wild. Some think he's Corvus's half-brother. Others think he's making it up for the reputation.
 
 Whatever the truth, he grew up on the streets of Goldreach, then on the docks, then on ships. Started as a cabin boy, worked his way to captain by age 26. The *Lucky Bastard* is his third ship—won in a card game.
@@ -18017,7 +17745,7 @@ Now operates as a "legitimate" privateer with letters of marque from Thaldros, t
 
 *Note: His potential connection to the Blackwood family—and to either campaign's Corvus Blackwood—is deliberately ambiguous for DM use.*
 
-### Connections
+#### Connections
 - **Crew:** Twenty loyal sailors who'd die for him
 - **Contact:** The Syndicate uses him occasionally (he dislikes them but takes their money)
 - **Mystery:** The Blackwood family connection (real or invented?)
@@ -18034,7 +17762,7 @@ Now operates as a "legitimate" privateer with letters of marque from Thaldros, t
 5. **The Retirement Dream:** He wants to quit, buy a tavern, settle down. He doesn't think he'll live long enough.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **Transport Needed:** He'll take passengers anywhere—for the right price and the right story.
 2. **The Blackwood Connection:** If someone's investigating House Blackwood, he might know things. Or pretend to.
 3. **The Syndicate Problem:** He needs help getting free of an obligation. It won't be clean.
@@ -18108,7 +17836,7 @@ Over the next 47 years, he waged guerrilla war against slaveholding lords, liber
 **As a Legacy:** His descendants or the Order of the Broken Chain might play important roles.
 **As a Legend:** NPCs might invoke his name, quote his words, or compare modern heroes to him.
 
-### Plot Hooks
+#### Plot Hooks
 1. **The Lost Writings:** Aldric's personal journal was lost. Finding it could reveal truths about the Worldrend era.
 2. **The Descendant:** A direct descendant has been found. Some want them as a political symbol. Others want them dead.
 3. **The Desecration:** Someone is defiling Chain-Breaker shrines. Why?
@@ -18176,7 +17904,7 @@ He's spent the last thousand years in semi-hibernation, waking occasionally to r
 {{footnote Part IV: NPCs}}
 \page
 
-### Personality
+#### Personality
 **Traits:**
 - Views mortals as insects—occasionally useful, mostly irrelevant
 - Speaks in a voice that vibrates in the bones
@@ -18189,7 +17917,7 @@ He's spent the last thousand years in semi-hibernation, waking occasionally to r
 - Possibly prevent a second Worldrend—he barely survived the first
 - Observe. Wait. Plan.
 
-### Connections
+#### Connections
 - **Rival:** Infernalix (ancient dragon sleeping beneath Kaer Thandros)
 - **Former Ally:** The Primordials (he remembers when they walked)
 - **Interest:** The Blackwood bloodline (knows their secret)
@@ -18206,7 +17934,7 @@ He's spent the last thousand years in semi-hibernation, waking occasionally to r
 5. **The Plan:** He believes a second Worldrend is coming. He's preparing.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **Knowledge Seeker:** He has information the party needs. What will they offer? What will he demand?
 2. **The Artifact:** Someone's trying to steal from his hoard. He might hire rather than hunt.
 3. **The Blackwood Debt:** If working with either Corvus, Ryldak might call in the family obligation.
@@ -18273,7 +18001,7 @@ Tom has made several prophecies that have proven true:
 - Described the "sleeping fire under the mountain" (Infernalix)
 - Spoke of "the two who are one and the one who is two" (possibly the Corvus situation)
 
-### Personality
+#### Personality
 **Traits:**
 - Quiet and watchful when not playing
 - Loves animals and drawing
@@ -18292,7 +18020,7 @@ Tom has made several prophecies that have proven true:
 - Nightmares make him cry out at night
 - Too trusting of kind-seeming adults
 
-### Connections
+#### Connections
 - **Guardian:** Helena Moonwhisper (Silver Circle mage, dedicated to protecting him)
 - **Seekers:** Multiple factions want him (throne, church, Syndicate, both campaigns' villains)
 - **Family:** Parents in hiding (miss him terribly)
@@ -18308,7 +18036,7 @@ Tom has made several prophecies that have proven true:
 5. **The Block:** Someone—or something—is blocking some of his visions. Whatever he's not seeing might be more important than what he is.
 }}
 
-### Plot Hooks
+#### Plot Hooks
 1. **Protect the Child:** Someone's trying to kidnap him. Standard protection mission with massive stakes.
 2. **Interpret the Vision:** He's had a vision about the party. They need to figure out what it means.
 3. **The Drawings:** His sketches contain clues to a larger mystery. Someone needs to decode them.
@@ -18355,7 +18083,7 @@ ___
 
 Marta has run the Goodbarrel for 30 years. Her inn is neutral ground where deals get made—she hears everything and shares nothing. Former adventurer who retired after losing her party to a dragon. Keeps a loaded crossbow under the bar.
 
-### Connections
+#### Connections
 Knows everyone in Goldreach. Owes the Syndicate nothing (paid off years ago). Secret contact for the Silver Circle.
 \column
 {{descriptive
@@ -18408,7 +18136,7 @@ ___
 ### Background
 Grimjaw collects debts for the Syndicate. Never kills unless ordered—broken bones heal, corpses don't pay. Surprisingly honorable: won't hurt children, keeps his word. The Syndicate values his reliability.
 
-### Connections
+#### Connections
 Reports to mid-level Syndicate boss. Respected by other enforcers. Has a halfling accountant he protects.
 
 \column
@@ -18458,7 +18186,7 @@ ___
 ### Background
 Elena runs Goldreach's best fence operation from behind a legitimate antique shop. Professional, discreet, never asks questions. Former noble who lost everything to gambling—rebuilt from nothing.
 
-### Connections
+#### Connections
 Knows every thief in the city. Syndicate tolerates her independence because she's useful. Has noble contacts who buy "recovered heirlooms."
 \column
 {{descriptive
@@ -18511,7 +18239,7 @@ ___
 
 Nobody knows Whisper's real name, face, or gender—they use disguises constantly. Known only by reputation: if it can be stolen, Whisper can steal it. Never kills. Takes jobs purely for the challenge.
 
-### Connections
+#### Connections
 No known allies. Every thieves' guild knows the name. Has humiliated the Syndicate twice.
 \column
 {{descriptive
@@ -18562,7 +18290,7 @@ ___
 
 Kael runs the finest smithy in Silverpine—not the fanciest, but the best. Self-taught after being exiled from his clan for a crime he didn't commit. His weapons are sought after by collectors and warriors alike.
 
-### Connections
+#### Connections
 Supplies the city guard. Former customer of Garrick Ironheart (mutual respect). Has apprentices he treats like family.
 \column
 {{descriptive
@@ -18614,7 +18342,7 @@ ___
 
 Viktor extracts confessions for the Crown. Works alongside High Inquisitor Mordain but serves a different master—pure pragmatism, not faith. Believes everyone is guilty of something; his job is finding out what.
 
-### Connections
+#### Connections
 Reports to the Crown directly. Mordain respects his skill, distrusts his motives. Has broken hundreds of prisoners.
 \column
 {{descriptive
@@ -18668,7 +18396,7 @@ ___
 
 Sir Garrett is the ideal knight—brave, honest, and completely unsuited to politics. Quests for justice, protects the weak, and struggles with a world more complicated than his code allows.
 
-### Connections
+#### Connections
 Oath-bound to the crown. Admires General Steelheart. Distrusts the Inquisition's methods.
 \column
 {{descriptive
@@ -18721,7 +18449,7 @@ ___
 
 Sister Marian runs a free clinic in Goldreach's poorest district. Known for healing anyone—criminals, monsters, enemies. Some call her a saint; others call her dangerously naive.
 
-### Connections 
+#### Connections 
 Beloved by the poor. Church hierarchy is uncomfortable with her. The Syndicate leaves her clinic alone (even criminals need healers).
 \column
 {{descriptive
@@ -18783,7 +18511,7 @@ When the truth becomes clear, she faces a crisis: follow orders from those who d
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-### Connections 
+#### Connections 
 Works with the Inquisition on undead matters (unknowingly passing intelligence to The Unbound). Respects High Inquisitor Mordain (shared deity). Secretly reports to Lord Shadows (believes him righteous).
 
 {{descriptive
@@ -18841,7 +18569,7 @@ ___
 
 Vexis made a pact with something in the void and now leads a small cult seeking more power. Charming, ruthless, and convinced she's the protagonist of her own story.
 
-### Connections 
+#### Connections 
 Commands 20 cultists. Her patron demands souls. Rival of other warlocks and necromancers.
 \column
 {{descriptive
@@ -18890,7 +18618,7 @@ ___
 ### Background
 Alden is the fastest courier in Kaer Thandros—known for delivering messages when teleportation isn't an option and discretion is required. Delivers to anyone, no questions asked.
 
-### Connections
+#### Connections
 Used by everyone—nobles, criminals, merchants, spies. Nobody wants him dead because everyone needs him.
 \column
 {{descriptive
@@ -18942,7 +18670,7 @@ ___
 ### Background
 Thorne leads a band of 30 bandits operating between Goldreach and Silverpine. Called "The Butcher" because he doesn't leave witnesses. Actually quite strategic—only attacks targets he can overwhelm.
 
-### Connections
+#### Connections
 Loose Syndicate affiliation (pays tribute, gets left alone). Has a spy in the city guard.
 \column
 {{descriptive
@@ -18995,7 +18723,7 @@ ___
 ## Background
 Lydia guides travelers through dangerous wilderness for fair prices. Former circus performer who fell in love with the wild. Knows every trail between Silverpine and the northern mountains.
 
-### Connections 
+#### Connections 
 Friends with druids and rangers. Has explored ruins no one else has found. Owes the Silver Circle a favor.
 \column
 {{descriptive
@@ -19042,7 +18770,7 @@ ___
 ### Background
 Marcus knows people who know things. For a fee, he connects buyers with sellers, problems with solutions. Never takes sides, never betrays clients. His neutrality is his business.
 
-### Connections 
+#### Connections 
 Everyone. That's his job. The Syndicate, the Crown, merchants, criminals—all use his services.
 \column
 {{descriptive
@@ -19090,7 +18818,7 @@ ___
 ### Background
 Helena arranges the movement of goods that can't move through legal channels. Not a smuggler herself—she connects smugglers with clients. Works from a legitimate tea shop.
 
-### Connections
+#### Connections
 Knows every smuggler on the coast. Has contacts in customs. Pays the Syndicate for "protection."
 \column
 {{descriptive
@@ -19146,7 +18874,7 @@ ___
 ### Background
 Varak took over the Iron Guild fifty years ago after leaving the Thaldros military. Under his leadership, it's become the premier mercenary organization in the realm—professional, well-equipped, and absolutely bound by contract. They've fought for kings and merchants, nobles and commoners. They don't ask why. They just deliver.
 
-### Connections
+#### Connections
 Employer to dozens of mercenaries. Respected by military commanders. Has contracts with noble houses across Thaldros. Distant cousin to former Guildmaster Roderic Ironfist.
 \column
 {{descriptive
@@ -19195,7 +18923,7 @@ ___
 ### Background
 Korvan manages supplies for the Iron Legion's eastern garrison. Every bolt, every ration, every horseshoe passes through his hands. Incorruptible—which makes some people nervous.
 
-### Connections
+#### Connections
 Reports to General Steelhart. Works with the Merchant League. Has caught corruption before.
 \column
 {{descriptive
@@ -19247,7 +18975,7 @@ ___
 ### Background
 Katrina leads a small resistance cell in the border regions, fighting against what she sees as Thaldros's imperial ambitions. Her family was killed in a border raid—she blames the crown.
 
-### Connections
+#### Connections
 Loose ties to Aethorian intelligence. Commands 12 fighters. Hated by border patrols.
 \column
 {{descriptive
@@ -19297,7 +19025,7 @@ ___
 ### Background
 Miranda steals from the rich because that's where the money is. No ideology, just practicality. Professional, careful, and knows when to walk away from a job.
 
-### Connections
+#### Connections
 Works freelance. Elena Ravencroft fences her goods. Owes the Syndicate nothing (and keeps it that way).
 \column
 {{descriptive
@@ -19346,7 +19074,7 @@ ___
 ### Background
 Magnus organizes workers against unfair treatment. Not a revolutionary—yet—but he's moving in that direction as conditions worsen. Charismatic and genuinely cares about common people.
 
-### Connections
+#### Connections
 Leads the Workers' Brotherhood. Watched by the Inquisition. Has contacts among reformist nobles.
 \column
 {{descriptive
@@ -19394,7 +19122,7 @@ ___
 ### Background
 Barrett was an adventurer 40 years ago. Now he runs a small shop and advises young adventurers. Knows more about dungeons, monsters, and treasure than anyone should.
 
-### Connections
+#### Connections
 Was part of a legendary adventuring party. Still has contacts from the old days. Mentors promising young heroes.
 \column
 {{descriptive
@@ -19440,7 +19168,7 @@ ___
 ### Background
 Elder Tremont has served Sera's temple for 50 years. Gentle, wise, and deeply connected to his community. Baptized half the city, buried the other half.
 
-### Connections
+#### Connections
 Respected by all faiths. Mediates disputes. Has married nobles and commoners alike.
 
 \column
@@ -19494,7 +19222,7 @@ ___
 ### Background
 Aramil studies the Worldrend—not its history, but its ongoing effects on magic. Believes residual damage to reality is still spreading. Most scholars think he's paranoid.
 
-### Connections
+#### Connections
 Correspondent with High Mage Arcturus's ghost. Silverpine Magical Academy faculty (tenured but eccentric). Has explored Worldrend sites.
 
 \column
@@ -19541,7 +19269,7 @@ ___
 ### Background
 Aldrick builds homes, ships, and siege equipment with equal skill. His father built the royal palace, and Aldrick maintains it—meaning he knows every secret passage and hidden room.
 
-### Connections
+#### Connections
 Knows every builder in the city. Has worked for nobles and criminals. Owes loyalty to his craft guild.
 
 \column
@@ -19613,34 +19341,34 @@ Vault Guardians are constructs created to protect valuable items or locations. U
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-
+{{wide
 # Part V: DM Tools
-# Chapter 9: Creating Custom Content
+## Chapter 9: Creating Custom Content
+}}
 
-## Creating Creatures
+### Creating Creatures
 
-### Step-by-Step
+#### Step-by-Step
 
-1. Choose Base Stat Block:
+1. Choose Base Stat Block: ::
 Find existing creature that's close to your concept.
 
-2. Modify:
+2. Modify: ::
 - Change damage types
 - Adjust HP (±20% keeps same CR)
 - Adjust AC (±2 keeps same CR)
 - Add/remove abilities
 
-3. Reflavor:
+3. Reflavor: ::
 Change appearance and description, keep mechanics.
 
-Example:
-Base: Thug (CR 1/2)
-Concept: Thaldros Soldier
-Changes: +2 HP, add spear, replace Intimidation with Athletics
-Reflavor: Military uniform, disciplined tactics
+Example: ::
+Base: Thug (CR 1/2) ::
+Concept: Thaldros Soldier ::
+Changes: +2 HP, add spear, replace Intimidation with Athletics ::
+Reflavor: Military uniform, disciplined tactics ::
 
-### Challenge Rating Guidelines
+#### Challenge Rating Guidelines
 
 | CR | AC | HP | Attack Bonus | Damage/Round | Save DC |
 |----|-----|-----|--------------|--------------|---------|
@@ -19654,72 +19382,72 @@ Reflavor: Military uniform, disciplined tactics
 | 5 | 15 | 131-145 | +6 | 27-32 | 15 |
 | 6-20 | (See DMG p.274) | | | |
 
-Adjustments:
+Adjustments: ::
 - Resistances/immunities: +1 CR per 2 resistances
 - Special abilities: +1-2 CR if powerful
 - Multiattack: Required at CR 2+
 
-## Creating Spells
+### Creating Spells
 
-### Spell Balance
+#### Spell Balance
 
-By Level:
+By Level: ::
 - Cantrip: 1d8-1d10 damage, minor utility
 - 1st: 2d6-3d6 damage, significant utility
 - 2nd: 3d6-4d8 damage, strong utility
 - 3rd: 5d6-8d6 damage, major utility
 - 4th-9th: (See PHB for comparisons)
 
-Components:
+Components: ::
 - Verbal: Requires speech
 - Somatic: Requires hand gestures
 - Material: Requires object (consumed if expensive)
 
-Duration:
+Duration: ::
 - Instantaneous: Happens immediately
 - Concentration: Up to duration if concentrating
 - Non-concentration: Lasts full duration
 
-Range:
+Range: ::
 - Touch: Must touch target
 - 30-120 ft: Most common
 - Self: Only affects caster
 - Sight: Can see target anywhere
 
-### Custom Spell Template
+#### Custom Spell Template
 
-Name: [Spell Name]
-Level: [0-9]
-School: [Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, Transmutation]
-Casting Time: [1 action, 1 bonus action, 1 minute, etc.]
-Range: [Touch, 30 ft, etc.]
-Components: [V, S, M (materials)]
-Duration: [Instantaneous, Concentration up to X, X minutes, etc.]
+Name: [Spell Name] ::
+Level: [0-9] ::
+School: [Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, Transmutation] ::
+Casting Time: [1 action, 1 bonus action, 1 minute, etc.] ::
+Range: [Touch, 30 ft, etc.] ::
+Components: [V, S, M (materials)] ::
+Duration: [Instantaneous, Concentration up to X, X minutes, etc.] ::
 
-Description: What the spell does.
+Description: What the spell does. ::
 
 At Higher Levels: How spell improves when cast at higher slot.
 
-## Creating Magic Items
+### Creating Magic Items
 
-### Rarity Guidelines
+#### Rarity Guidelines
 
-Common: Minor benefits, no combat advantage
+Common: Minor benefits, no combat advantage ::
 - Example: Sending Stone (send message 1/day)
 
-Uncommon: Moderate benefits, +1 equipment
+Uncommon: Moderate benefits, +1 equipment ::
 - Example: +1 Weapon, Cloak of Protection
 
-Rare: Significant benefits, +2 equipment, useful abilities
+Rare: Significant benefits, +2 equipment, useful abilities ::
 - Example: +2 Weapon, Ring of Spell Storing
 
-Very Rare: Major benefits, +3 equipment, powerful abilities
+Very Rare: Major benefits, +3 equipment, powerful abilities ::
 - Example: +3 Weapon, Staff of Power
 
-Legendary: Campaign-defining power
+Legendary: Campaign-defining power ::
 - Example: Vorpal Sword, Ring of Three Wishes
 
-Artifact: Unique, world-shaping power
+Artifact: Unique, world-shaping power ::
 - Example: Eye of Vecna, Orb of Dragonkind
 
 {{pageNumber,auto}}
@@ -19727,185 +19455,176 @@ Artifact: Unique, world-shaping power
 
 \page
 
-### Magic Item Template
+#### Magic Item Template
 
 [Item Name]
 *[Type], [Rarity] (requires attunement by [restrictions if any])*
 
-Properties:
+Properties: ::
 - List mechanical benefits
 
-Description:
+Description: ::
 Appearance and lore.
 
-Example:
+Example: ::
 
-Blade of the Border
-*Longsword, Rare (requires attunement)*
+Blade of the Border ::
+*Longsword, Rare (requires attunement)* ::
 
-Properties:
+Properties: ::
 - +1 to attack and damage rolls
 - Deals extra 1d6 damage to members of opposing faction (Thaldros or Aethoria)
 - Blade remembers all it has slain (DM tracks)
 
-Description:
+Description: ::
 This steel blade has names etched along its length - soldiers killed in border conflicts. Each kill adds another name in glowing script.
 
----
+### Environmental Hazards
 
-## Environmental Hazards
+#### Extreme Cold
 
-### Extreme Cold
+Effect: DC 10 Constitution save each hour or gain one exhaustion level. ::
+Protection: Cold weather gear, endure elements spell, or natural resistance. ::
+Tirvandor: Mountains, northern regions in winter. ::
 
-Effect: DC 10 Constitution save each hour or gain one exhaustion level.
-Protection: Cold weather gear, endure elements spell, or natural resistance.
-Tirvandor: Mountains, northern regions in winter.
+#### Extreme Heat
 
-### Extreme Heat
+Effect: DC 10 Constitution save each hour (no water) or DC 5 (with water) or gain exhaustion. ::
+Protection: Water, shade, endure elements spell. ::
+Tirvandor: Sundara desert, Border wastelands in summer. ::
 
-Effect: DC 10 Constitution save each hour (no water) or DC 5 (with water) or gain exhaustion.
-Protection: Water, shade, endure elements spell.
-Tirvandor: Sundara desert, Border wastelands in summer.
+#### Falling
 
-### Falling
+Damage: 1d6 per 10 feet, maximum 20d6 (200 feet). ::
+Reaction: Can attempt DC 15 Dexterity save to grab ledge if within 5 feet. ::
+Water: Half damage if falling into water from 60+ feet. ::
 
-Damage: 1d6 per 10 feet, maximum 20d6 (200 feet).
-Reaction: Can attempt DC 15 Dexterity save to grab ledge if within 5 feet.
-Water: Half damage if falling into water from 60+ feet.
+#### Drowning
 
-### Drowning
+Hold Breath: Minutes equal to 1 + Con modifier (minimum 30 seconds). ::
+After: Death saves each round until air or death. ::
 
-Hold Breath: Minutes equal to 1 + Con modifier (minimum 30 seconds).
-After: Death saves each round until air or death.
+#### Poison and Disease
 
-### Poison and Disease
-
-Poison Types:
+Poison Types: ::
 - Contact: Touch exposed skin
 - Ingested: Swallowed
 - Inhaled: Breathed in
 - Injury: Through wound
 
-Effect: Constitution save, various effects on failure.
+Effect: Constitution save, various effects on failure. ::
 
-Diseases: Require Constitution saves to recover, magic can cure.
+Diseases: Require Constitution saves to recover, magic can cure. ::
 
----
+### Bound Corruption (Detailed)
 
-## Bound Corruption (Detailed)
+#### Corruption Stages
 
-### Corruption Stages
-
-Stage 1: Touched (DC 15 Wis save/day to avoid advancing)
+Stage 1: Touched (DC 15 Wis save/day to avoid advancing) ::
 - Physical: Eye color shifts, skin temperature changes
 - Mental: Advantage on saves vs fear
 - Penalty: Disadvantage on Wisdom saves
 - Mechanical: +10 max HP
 - Cure: Remove Curse
 
-Stage 2: Corrupted (DC 10 Wis save/day, auto-advance in 1 week)
+Stage 2: Corrupted (DC 10 Wis save/day, auto-advance in 1 week) ::
 - Physical: Tentacles, extra eyes, unnatural growths
 - Mental: Personality traits fade, aggression increases
 - Penalty: Automatically fail Wisdom saves
 - Mechanical: Additional +20 max HP
 - Cure: Greater Restoration + Remove Curse
 
-Stage 3: Spawn (No save, permanent unless cured)
+Stage 3: Spawn (No save, permanent unless cured) ::
 - Physical: Complete transformation into alien entity
 - Mental: No longer self-aware, under Primordial control
 - Penalty: No longer playable character
 - Mechanical: Additional +30 max HP, +2 AC, new abilities (DM decides)
 - Cure: Wish, True Resurrection, or divine intervention
 
-### Proximity Effects
+#### Proximity Effects
 
-Within 1 mile of weakened prison:
+Within 1 mile of weakened prison: ::
 - Make save daily
 - Dreams of Primordial
 - Sense direction to prison
 
-Within 100 feet of breach:
+Within 100 feet of breach: ::
 - Make save hourly
 - Disadvantage on saves
 - Physical changes visible immediately
 
-Touch corruption source:
+Touch corruption source: ::
 - Immediate save at disadvantage
 - Failure advances 1 stage instantly
 
 
 {{pageNumber,auto}}
 {{footnote Part V: DM Tools}}
-
 \page
 
-## Traps
+### Traps
 
-### Simple Traps (CR 1-4)
+#### Simple Traps (CR 1-4)
 
-Pit Trap:
+Pit Trap: ::
 - Trigger: Pressure plate
 - Effect: 10-foot fall, 1d6 damage, DC 10 Dex save to avoid
 - Detect: DC 15 Perception
 - Disarm: DC 15 Sleight of Hand
 
-Poison Dart:
+Poison Dart: ::
 - Trigger: Tripwire
 - Effect: +5 to hit, 1d4 piercing + DC 12 Con save or 2d4 poison damage
 - Detect: DC 15 Perception
 - Disarm: DC 15 Sleight of Hand
 
-### Complex Traps (CR 5-10)
+#### Complex Traps (CR 5-10)
 
-Collapsing Ceiling:
+Collapsing Ceiling: ::
 - Trigger: Remove treasure
 - Effect: 4d10 bludgeoning, DC 15 Dex save for half, fills room with rubble
 - Detect: DC 20 Perception
 - Disarm: DC 20 Sleight of Hand or Arcana (magical trigger)
 
-### Deadly Traps (CR 11+)
+#### Deadly Traps (CR 11+)
 
-Sphere of Annihilation:
+Sphere of Annihilation: ::
 - Trigger: Specific word spoken
 - Effect: 4d10 force damage, DC 20 Dex save or disintegrated
 - Detect: DC 25 Arcana (magical sense)
 - Disarm: Dispel Magic (DC 19) or Disintegrate
 
----
-
-## Using This Chapter
+### Using This Chapter
 
 Reference when creating custom content. Balance is approximate - playtest and adjust. The goal is fun, not perfect balance.
--e 
+
 
 {{pageNumber,auto}}
 {{footnote DUNGEON MASTER'S GUIDE}}
 
 \page
-
-# Chapter 10. Faction Strongholds
-
-## Gaining a Stronghold
+{{wide
+## Chapter 10. Faction Strongholds
+}}
+### Gaining a Stronghold
 
 At level 5 or higher, characters with Faction Influence +8 or higher can establish or be granted a stronghold by their faction.
 
-Requirements:
+Requirements: ::
 - Character level 5+
 - Faction Influence +8 or higher with a major faction
 - Initial investment (5,000-50,000 gp depending on type)
 - Faction approval/quest completion
 
----
+### Stronghold Types
 
-## Stronghold Types
+#### Military Fort (Thaldros Empire)
 
-### Military Fort (Thaldros Empire)
+Cost: 25,000 gp initial, 500 gp/month maintenance ::
+Location: Border regions, strategic positions ::
+Size: Garrison for 50-100 soldiers ::
 
-Cost: 25,000 gp initial, 500 gp/month maintenance
-Location: Border regions, strategic positions
-Size: Garrison for 50-100 soldiers
-
-Features:
+Features: ::
 - Fortified walls (AC 19, 500 HP)
 - Armory (equipment for 100 soldiers)
 - Training grounds
@@ -19913,28 +19632,26 @@ Features:
 - Command center
 - Supply depot
 
-Benefits:
+Benefits: ::
 - Train militia (+10 soldiers per month, max 100)
 - Military intelligence (advantage on checks about enemy movements)
 - Requisition equipment (20% discount on weapons/armor)
 - Safe rest for party and allies
 - Faction missions (+2 bonus to Faction Influence from military quests)
 
-Complications:
+Complications: ::
 - Target for Resistance raids (roll d20 monthly: 1-3 = attack)
 - Supply chain issues
 - Desertion problems
 - Command disputes
 
----
+#### Resistance Safehouse (Aethoria Resistance)
 
-### Resistance Safehouse (Aethoria Resistance)
+Cost: 15,000 gp initial, 300 gp/month maintenance ::
+Location: Hidden in cities, rural areas, underground ::
+Size: Accommodates 20-30 operatives ::
 
-Cost: 15,000 gp initial, 300 gp/month maintenance
-Location: Hidden in cities, rural areas, underground
-Size: Accommodates 20-30 operatives
-
-Features:
+Features: ::
 - Hidden entrances (DC 20 to find)
 - Escape tunnels
 - Smuggling routes
@@ -19942,28 +19659,26 @@ Features:
 - Communication network
 - False identities workshop
 
-Benefits:
+Benefits: ::
 - Information network (advantage on Investigation/Insight in region)
 - Smuggling access (move goods/people past checkpoints)
 - Safe houses in nearby settlements
 - Resistance contacts (+1d4 allies available per session)
 - Faction missions (+2 bonus to Faction Influence from covert ops)
 
-Complications:
+Complications: ::
 - Discovery risk (Thaldros Intelligence checks monthly)
 - Infiltration attempts
 - Supply shortages
 - Traitors/informants
 
----
+#### Guild Hall (Iron Guild)
 
-### Guild Hall (Iron Guild)
+Cost: 30,000 gp initial, 400 gp/month maintenance ::
+Location: Border towns, trade hubs ::
+Size: Workshop + storage + living quarters ::
 
-Cost: 30,000 gp initial, 400 gp/month maintenance
-Location: Border towns, trade hubs
-Size: Workshop + storage + living quarters
-
-Features:
+Features: ::
 - Master workshop
 - Extensive storage
 - Meeting rooms
@@ -19971,14 +19686,14 @@ Features:
 - Vault (secure storage)
 - Training facilities
 
-Benefits:
+Benefits: ::
 - Crafting facilities (craft items at 50% time/cost)
 - Trade contacts (buy/sell at 10% better rates)
 - Contract board (1d4 mercenary jobs per week)
 - Guild resources (borrow up to 5,000 gp, repay within month)
 - Faction missions (+2 bonus to Faction Influence from guild contracts)
 
-Complications:
+Complications: ::
 - Rival guild interference
 - Protection money demands
 - Contract disputes
@@ -19990,13 +19705,13 @@ Complications:
 
 \page
 
-### Church Chapter House
+#### Church Chapter House
 
-Cost: 20,000 gp initial, 250 gp/month maintenance
-Location: Towns, cities, pilgrimage sites
-Size: Chapel + library + healing ward
+Cost: 20,000 gp initial, 250 gp/month maintenance ::
+Location: Towns, cities, pilgrimage sites ::
+Size: Chapel + library + healing ward ::
 
-Features:
+Features: ::
 - Consecrated chapel
 - Theological library
 - Healing ward (5 beds)
@@ -20004,14 +19719,14 @@ Features:
 - Reliquary
 - Living quarters (10-15 clergy)
 
-Benefits:
+Benefits: ::
 - Free healing (cure wounds 1/day per party member)
 - Divine research (access to religious texts, advantage on Religion checks)
 - Sanctuary (safe rest, enemy must make DC 18 Wisdom save to attack)
 - Pilgrim donations (100-500 gp per month)
 - Faction missions (+2 bonus to Faction Influence from church quests)
 
-Complications:
+Complications: ::
 - Heresy accusations
 - Schism threats
 - Undead attacks
@@ -20019,13 +19734,13 @@ Complications:
 
 \column
 
-### Noble Estate
+#### Noble Estate
 
-Cost: 50,000 gp initial, 1,000 gp/month maintenance
-Location: Cities, productive lands
-Size: Manor + grounds + farmland
+Cost: 50,000 gp initial, 1,000 gp/month maintenance ::
+Location: Cities, productive lands ::
+Size: Manor + grounds + farmland ::
 
-Features:
+Features: ::
 - Manor house
 - Servant quarters (20-30 staff)
 - Stables
@@ -20033,14 +19748,14 @@ Features:
 - Farmland or income property
 - Guard posts
 
-Benefits:
+Benefits: ::
 - Income (500-2,000 gp per month from rents/trade)
 - Political influence (advantage on Persuasion with nobility)
 - Staff (butler, servants, guards)
 - Social events (host gatherings for political benefit)
 - Faction missions (+2 bonus to Faction Influence from noble quests)
 
-Complications:
+Complications: ::
 - Rival nobles
 - Inheritance disputes
 - Taxation
@@ -20051,27 +19766,23 @@ Complications:
 {{footnote DUNGEON MASTER'S GUIDE}}
 
 \page
-
-# Chapter 11. Encounter Building: Creating Balanced, Memorable Encounters
-
----
-
-## Encounter Basics
+{{wide
+## Chapter 11. Encounter Building: Creating Balanced, Memorable Encounters
+}}
+### Encounter Basics
 
 Encounter: Any scene where players face meaningful challenge: combat, social interaction, exploration puzzle, or environmental hazard.
 
-Goals:
+Goals: ::
 - Challenge players appropriately
 - Create memorable moments
 - Advance story
 - Allow player agency
 - Provide variety
 
----
+### Combat Encounters
 
-## Combat Encounters
-
-### Calculating Difficulty
+#### Calculating Difficulty
 
 XP Budget Method:
 
@@ -20094,73 +19805,74 @@ XP Budget Method:
 | 11-15 | Multiply by level | x3 | x4.5 | x6 |
 | 16-20 | Multiply by level | x4 | x6 | x8 |
 
-4. Select Monsters: Add up monster XP until you reach threshold
-Example:
+Select Monsters: Add up monster XP until you reach threshold
+
+Example: ::
 - Party: 4 PCs, level 5
 - Medium difficulty: 500 XP x 4 = 2,000 XP budget
 - Options: 4x CR 2 monsters (450 XP each = 1,800 total)
 - Or: 2x CR 3 (700 each = 1,400) + 1x CR 2 (450) = 1,850 XP
 
-### Action Economy
+#### Action Economy
 
 Critical Rule: More creatures = tactical advantage
 
-Adjustments:
+Adjustments: ::
 - 1-2 monsters vs 4 PCs: Multiply monster XP by 0.5
 - 3-6 monsters: Normal XP
 - 7-10 monsters: Multiply XP by 1.5
 - 11-14 monsters: Multiply XP by 2
 - 15+ monsters: Multiply XP by 2.5
 
-Boss Encounters:
+Boss Encounters: ::
 - Single boss vs 4 PCs: Give boss legendary actions/lair actions
 - Or: Boss + minions (50% XP from boss, 50% from minions)
 
 ---
 
-## Using Terrain
+### Using Terrain
 
 Terrain turns simple combat into tactical challenge.
 
-### Terrain Types
+#### Terrain Types
 
-Difficult Terrain:
+Difficult Terrain: ::
 - Rubble, mud, thick vegetation
 - Costs 2 feet of movement per 1 foot moved
 - Use for 25-50% of battlefield
 
-Cover:
+Cover: ::
 - Half cover: +2 AC, +2 Dex saves
 - Three-quarters cover: +5 AC, +5 Dex saves
 - Full cover: Can't be targeted
 - Place cover strategically for both sides
 
-High Ground:
+High Ground: ::
 - Advantage on melee attacks from high ground
 - Disadvantage on attacks from low ground
 - Changes tactical positioning
 
-Hazards:
+Hazards: ::
 - Pits (10-30 feet deep, 1d6/10 feet fall damage)
 - Lava/fire (2d10 fire per turn)
 - Acid pools (2d6 acid per turn)
 - Unstable floors (DC 15 Dex save or fall through)
 
-Interactive Elements:
+Interactive Elements: ::
 - Chandeliers to drop (2d10 damage, DC 15 Dex save)
 - Pillars to collapse (creates cover or blocks path)
 - Levers/switches (activates traps or opens doors)
 - Flammable materials (oil, gunpowder)
 
-### Battlefield Zones
+#### Battlefield Zones
 
-Divide battlefield into zones:
+Divide battlefield into zones: ::
 
-Kill Zone: Open area, no cover (dangerous to cross)
-Defensive Positions: Cover and high ground
-Objective Point: Important location (prisoner, artifact, control point)
-Hazard Zone: Environmental danger
-Escape Route: Clear path to exit (allows retreat)
+Kill Zone: Open area, no cover (dangerous to cross) ::
+Defensive Positions: Cover and high ground ::
+Objective Point: Important location (prisoner, artifact, control point) ::
+Hazard Zone: Environmental danger ::
+Escape Route: Clear path to exit (allows retreat) ::
 
 
 {{pageNumber,auto}}
@@ -20168,11 +19880,11 @@ Escape Route: Clear path to exit (allows retreat)
 
 \page
 
-## Monster Tactics
+### Monster Tactics
 
 Different creatures fight differently:
 
-Intelligent Humanoids:
+Intelligent Humanoids: ::
 - Use cover and formations
 - Focus fire on weak targets
 - Retreat when losing
@@ -20180,108 +19892,102 @@ Intelligent Humanoids:
 - Use terrain advantages
 - Call for reinforcements
 
-Beasts/Animals:
+Beasts/Animals: ::
 - Attack nearest/weakest
 - Fight to defend territory/young
 - Flee when bloodied (50% HP)
 - Simple tactics
 - Use natural abilities
 
-Undead:
+Undead: ::
 - No morale, fight to destruction
 - Mindless: attack nearest
 - Intelligent: tactical, use abilities
 - No self-preservation unless commanded
 
-Constructs:
+Constructs: ::
 - Follow programming
 - No fear or morale
 - Predictable patterns
 - Perfect execution
 
-Primordial Corrupted:
+Primordial Corrupted: ::
 - Aggressive, relentless
 - Fearless (advantage vs fear)
 - Unnatural tactics
 - Fight to death
 - Spread corruption
 
----
+### Encounter Pacing
 
-## Encounter Pacing
-
-### Combat Length
+#### Combat Length
 
 Ideal combat: 3-5 rounds
 
-Too Short (1-2 rounds):
+Too Short (1-2 rounds): ::
 - No tactical decisions
 - Abilities wasted
 - Unsatisfying
 
-Too Long (8+ rounds):
+Too Long (8+ rounds): ::
 - Players bored
 - Slog, not challenge
 - Resource drain without payoff
 
-Extending Combat:
+Extending Combat: ::
 - Reinforcements arrive (round 3)
 - Environment changes
 - Boss transforms/powers up
 - New objective appears
 
-Ending Combat:
+Ending Combat: ::
 - Enemies retreat (not every fight to death)
 - Players achieve objective (don't need to kill everything)
 - Environmental change forces end
 - Negotiation mid-combat
 
----
+### Social Encounters
 
-## Social Encounters
+#### Structure
 
-### Structure
+Setup: Establish NPC goals and stakes ::
+Roleplay: Players interact, make checks ::
+Resolution: Outcome based on checks and roleplaying ::
 
-Setup: Establish NPC goals and stakes
-Roleplay: Players interact, make checks
-Resolution: Outcome based on checks and roleplaying
+#### Setting DCs
 
-### Setting DCs
+Hostile NPC: DC 20+ (very difficult) ::
+Unfriendly NPC: DC 15-20 (hard) ::
+Indifferent NPC: DC 10-15 (medium) ::
+Friendly NPC: DC 5-10 (easy) ::
+Helpful NPC: DC 5 or auto-succeed ::
 
-Hostile NPC: DC 20+ (very difficult)
-Unfriendly NPC: DC 15-20 (hard)
-Indifferent NPC: DC 10-15 (medium)
-Friendly NPC: DC 5-10 (easy)
-Helpful NPC: DC 5 or auto-succeed
+#### Success Levels
 
-### Success Levels
+Critical Success (beat DC by 10+): Major concession, enthusiasm ::
+Success: Get what you want ::
+Partial Success (miss by 1-5): Get something, with condition ::
+Failure: Refuse, worsen relationship ::
+Critical Failure (fail by 10+): Insult, permanent damage ::
 
-Critical Success (beat DC by 10+): Major concession, enthusiasm
-Success: Get what you want
-Partial Success (miss by 1-5): Get something, with condition
-Failure: Refuse, worsen relationship
-Critical Failure (fail by 10+): Insult, permanent damage
+#### Multiple Participants
 
-### Multiple Participants
+Aid Another: DC 10 check grants advantage to lead player ::
+Different Approaches: Each player can try once with different skill ::
+Group Check: All participate, majority determines outcome ::
 
-Aid Another: DC 10 check grants advantage to lead player
-Different Approaches: Each player can try once with different skill
-Group Check: All participate, majority determines outcome
+### Exploration Encounters
 
----
+#### Puzzles
 
-## Exploration Encounters
-
-### Puzzles
-
-Good Puzzles:
+Good Puzzles: ::
 - Have logical solution
 - Multiple approaches possible
 - Can be solved with info/clues
 - Failure has consequence (not blocking)
 - Take 10-15 minutes real time
 
-Bad Puzzles:
+Bad Puzzles: ::
 - Require meta-knowledge
 - Only one solution
 - No clues provided
@@ -20290,120 +19996,110 @@ Bad Puzzles:
 
 {{pageNumber,auto}}
 {{footnote Part V: DM Tools}}
-
 \page
 
-
-Solution:
+Solution: ::
 - Drop hints after 10 minutes
 - Allow skill checks (DC 15 Intelligence) for clues
 - Always have bypass option (break door, find key, etc.)
 
-### Traps
+#### Traps
 
-Simple Trap:
+Simple Trap: ::
 - Detection DC
 - Disarm DC
 - Trigger condition
 - Effect and damage
 
-Example:
+Example: ::
 - Pit trap: DC 15 Perception to spot, DC 12 Dex save to avoid, 20 feet deep (2d6 damage)
 
-Complex Trap:
+Complex Trap: ::
 - Multiple triggers
 - Escalating danger
 - Initiative rolls
 - Requires multiple actions to disable
 
----
-
-## Mixed Encounters
+### Mixed Encounters
 
 Combine encounter types:
 
-Combat + Social:
+Combat + Social: ::
 - Negotiate while fighting
 - Convince enemy to switch sides
 - Intimidate to surrender
 
-Combat + Exploration:
+Combat + Exploration: ::
 - Environmental puzzles during combat
 - Need to activate device while defending
 - Chase through dangerous terrain
 
-Social + Exploration:
+Social + Exploration: ::
 - Gather info while investigating
 - Persuade NPC to reveal secret location
 - Deceive guards while searching
 
----
-
-## Dynamic Encounters
+### Dynamic Encounters
 
 Make encounters evolve:
 
-Escalation:
+Escalation: ::
 - Round 2: Alarm sounds, more enemies coming
 - Round 3: Boss appears
 - Round 4: Environmental change (fire spreads, building collapsing)
 
-Branching:
+Branching: ::
 - If players capture leader: minions flee
 - If players destroy artifact: enemies lose powers
 - If players kill guards quietly: alarm not raised
 
-Consequences:
+Consequences: ::
 - Quick victory: Surprise next enemies
 - Slow victory: Enemies prepared
 - Retreat: Enemies regroup, harder next time
 - Creative solution: Bypass combat entirely
 
----
+### Encounter Variety
 
-## Encounter Variety
-
-Per Session, Include:
+Per Session, Include: ::
 - 1-2 combat encounters
 - 1 social encounter
 - 1 exploration/puzzle
 - 1 rest/roleplay scene
 
-Per Arc, Include:
+Per Arc, Include: ::
 - Several easy combats (build confidence)
 - Several medium combats (standard challenge)
 - 1-2 hard combats (test limits)
 - 1 deadly combat (climax)
 
-Avoid:
+Avoid: ::
 - Back-to-back deadly combats
 - 5+ combats without rest
 - All combat, no variety
 - Identical encounters repeated
 
----
+### Special Encounter Types
 
-## Special Encounter Types
+#### Chase
 
-### Chase
-
-Mechanics:
+Mechanics: ::
 - Dash action each turn
 - Athletics/Acrobatics checks to navigate obstacles
 - Quarry gets 60-foot head start
 - Ends when caught or escaped (5 rounds ahead)
 
-### Stealth Mission
+#### Stealth Mission
 
-Mechanics:
+Mechanics: ::
 - Group Stealth check
 - Failure: Spotted (not immediate combat)
 - Complications: Patrols, alarms, locked doors
 - Success levels: Clean (undetected), Messy (detected after), Compromised (alerted)
 
-### Siege
+#### Siege
 
-Mechanics:
+Mechanics: ::
 - Attackers need to breach defenses
 - Defenders hold position
 - Siege weapons, battering rams
@@ -20416,52 +20112,48 @@ Mechanics:
 \page
 
 
-### Bound Corruption Event
+#### Bound Corruption Event
 
-Mechanics:
+Mechanics: ::
 - Growing corruption zone (10 feet/round)
 - DC 15 Wisdom save or take 1d6 psychic + corruption stage
 - Corrupted terrain (difficult terrain, hazards)
 - Must complete objective before corruption spreads
 - Success: Seal breach, failure: evacuation
 
----
-
-## Balancing for Party Size
+### Balancing for Party Size
 
 Adjusting Difficulty:
 
-Small Party (2-3 PCs):
+Small Party (2-3 PCs): ::
 - Reduce monster count by 1-2
 - Or: Lower monster HP by 25%
 - Give friendly NPC ally
 
-Large Party (6+ PCs):
+Large Party (6+ PCs): ::
 - Add 1-2 monsters per extra PC
 - Or: Increase monster HP by 25%
 - Add battlefield complications
 
-Mixed Levels:
+Mixed Levels: ::
 - Calculate XP for each PC separately
 - Add their individual thresholds
 - Or: Average party level, then adjust encounter
 
----
+### Example Encounters
 
-## Example Encounters
+#### Level 3 Party (4 PCs) - Medium Combat
 
-### Level 3 Party (4 PCs) - Medium Combat
-
-Bandit Ambush:
+Bandit Ambush: ::
 - Location: Forest road
 - Enemies: 1 Bandit Captain (CR 2), 4 Bandits (CR 1/8 each)
 - Terrain: Trees (half cover), log barricade (three-quarters cover)
 - Tactics: Bandits use cover, focus fire on spellcasters, retreat if captain falls
 - Twist: If captured, bandits reveal they're desperate refugees forced into crime
 
-### Level 7 Party (4 PCs) - Hard Combat
+#### Level 7 Party (4 PCs) - Hard Combat
 
-Primordial Spawn Emergence:
+Primordial Spawn Emergence: ::
 - Location: Abandoned temple
 - Enemies: 1 Corrupted Priest (CR 5), 3 Spawn (CR 3 each)
 - Terrain: Corruption spreading (10 feet/round), unstable floor, altar (objective)
@@ -20469,31 +20161,26 @@ Primordial Spawn Emergence:
 - Objective: Seal corruption breach at altar while fighting
 - Time limit: 6 rounds before corruption overtakes temple
 
-### Level 12 Party (5 PCs) - Social Encounter
+#### Level 12 Party (5 PCs) - Social Encounter
 
-Negotiate with Warlord:
+Negotiate with Warlord: ::
 - NPC: Warlord Karash (hostile, DC 20)
 - Stakes: Safe passage through territory vs tribute/service
 - Complications: Warlord's advisor (friendly, can help), warlord's rival (wants him overthrown)
 - Multiple Approaches: Intimidation (show force), Persuasion (mutual benefit), Deception (false promise), Insight (leverage secret)
 - Outcomes: Full cooperation, limited cooperation, tribute demanded, combat
 
----
-
 Well-designed encounters create memorable moments and challenge players meaningfully without overwhelming or boring them.
 
 {{pageNumber,auto}}
 {{footnote Part V: DM Tools}}
-
 \page
+{{wide
+## Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor's Wild Lands
+}}
+### Travel Pacing
 
-# Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor's Wild Lands
-
----
-
-## Travel Pacing
-
-### Overland Movement
+#### Overland Movement
 
 Daily Travel Distance:
 
@@ -20503,32 +20190,30 @@ Daily Travel Distance:
 | Normal | 24 miles | Normal Perception |
 | Slow | 18 miles | Can use Stealth |
 
-Modifiers:
+Modifiers: ::
 - Mounted: +50% distance
 - Road/path: No penalty
 - Difficult terrain: Half distance
 - Forced march: +8 hours = +8 miles, DC 10+hours Constitution save or exhaustion
 
-### Time Tracking
+#### Time Tracking
 
 Travel Time = Distance ÷ Daily Miles
 
 Example: 120 miles at normal pace = 5 days
 
-Hourly Breakdown:
+Hourly Breakdown: ::
 - 8 hours travel
 - 1 hour breaks (spread throughout day)
 - 1 hour setting camp
 - 8 hours rest (6 sleep + 2 watch)
 - 6 hours other (foraging, exploring, etc.)
 
----
+### Navigation
 
-## Navigation
+#### Getting Lost
 
-### Getting Lost
-
-When to Check:
+When to Check: ::
 - No clear path/road
 - Poor visibility (fog, storm, night)
 - Confusing terrain (forest, swamp)
@@ -20545,32 +20230,32 @@ Check: Wisdom (Survival) DC varies by terrain
 
 Failure: Off course by 1d6 miles in random direction
 
-Advantages:
+Advantages: ::
 - Ranger in favored terrain: Auto-succeed
 - Detailed map: Advantage
 - Clear landmark visible: Advantage
 - Guide who knows area: Advantage
 
-### Mapping
+#### Mapping
 
-Creating Map:
+Creating Map: ::
 - Passive Perception 15+: Accurate map
 - Passive Perception 10-14: Rough map
 - Below 10: Inaccurate map
 
-Using Existing Map:
+Using Existing Map: ::
 - Quality map: Advantage on navigation
 - Rough map: No bonus/penalty
 - Outdated map: Disadvantage
 
 
-## Foraging and Hunting
+### Foraging and Hunting
 
-### Foraging
+#### Foraging
 
 Activity: 1 hour while traveling, or dedicated effort
 
-Check: Wisdom (Survival) DC varies by terrain
+Check: Wisdom (Survival) DC varies by terrain ::
 
 | Terrain | DC | Food/Water per Success |
 |---------|----|-----------------------|
@@ -20579,7 +20264,7 @@ Check: Wisdom (Survival) DC varies by terrain
 | Scarce (desert, mountains) | DC 20 | 1d2 rations |
 | Barren (wasteland) | DC 25 | 1 ration |
 
-Modifiers:
+Modifiers: ::
 - Proficiency in Nature: Advantage
 - Ranger: Advantage in favored terrain
 - Druid: Advantage anywhere natural
@@ -20587,18 +20272,18 @@ Modifiers:
 - Fall: Normal
 - Winter: -5 food, only preserved food
 
-### Hunting
+#### Hunting
 
 Activity: 4 hours minimum
 
-Check: Wisdom (Survival) to track, Dexterity (Stealth) to approach, attack to kill
+Check: Wisdom (Survival) to track, Dexterity (Stealth) to approach, attack to kill ::
 
-Success:
+Success: ::
 - Small game: 1d4 rations
 - Medium game: 2d6 rations
 - Large game: 4d6 rations
 
-Complications:
+Complications: ::
 - Attract predators
 - Encounter territorial creatures
 - Spring trap
@@ -20610,30 +20295,28 @@ Complications:
 \page
 
 
-### Water
+#### Water
 
-Finding Water:
+Finding Water: ::
 - River, lake, stream: Auto-succeed
 - Forest, jungle: DC 10
 - Plains: DC 15
 - Desert, badlands: DC 20
 
-Water Quality:
+Water Quality: ::
 - Pure: Safe to drink
 - Questionable: DC 12 Constitution save or poisoned 24 hours
 - Contaminated: DC 15 Constitution save or diseased
 - Corrupted (near Primordial): DC 18 Wisdom save or corruption stage
 
-Purifying Water:
+Purifying Water: ::
 - Boil for 10 minutes: Safe
 - Purify Food and Drink spell: Safe
 - Alchemy kit: DC 15, makes safe
 
----
+### Weather
 
-## Weather
-
-### Daily Weather
+#### Daily Weather
 
 Roll d20 each day:
 
@@ -20645,7 +20328,7 @@ Roll d20 each day:
 | 18-19 | Heavy rain/snow |
 | 20 | Extreme weather |
 
-### Extreme Weather (d10)
+#### Extreme Weather (d10)
 
 
 | d10 | Result |
@@ -20661,56 +20344,55 @@ Roll d20 each day:
 | 9 | Supernatural Storm: Primordial-influenced, random magic effects |
 | 10 | Blood Rain: Ominous omen, DC 10 Wisdom save or frightened 1 hour |
 
+#### Temperature Effects
 
-### Temperature Effects
-
-Extreme Cold (below 0°F):
+Extreme Cold (below 0°F): ::
 - Each hour: DC 10 Constitution save or 1 level exhaustion
 - Cold resistance: Advantage
 - Warm clothing/shelter: Immune
 
-Extreme Heat (above 100°F):
+Extreme Heat (above 100°F): ::
 - Each hour without water: DC 10 Constitution save or 1 level exhaustion
 - Heat resistance: Advantage
 - Light clothing: Advantage
 
-### Weather and Travel
+#### Weather and Travel
 
-Clear: Normal travel
-Overcast: Normal travel
-Light Rain/Snow: Normal travel, disadvantage on Perception
-Heavy Rain/Snow: Difficult terrain, lightly obscured
-Extreme Weather: Half speed or stop, heavily obscured, additional effects
+Clear: Normal travel ::
+Overcast: Normal travel ::
+Light Rain/Snow: Normal travel, disadvantage on Perception ::
+Heavy Rain/Snow: Difficult terrain, lightly obscured ::
+Extreme Weather: Half speed or stop, heavily obscured, additional effects ::
 
-## Hazards
+### Hazards
 
-### Natural Hazards
+#### Natural Hazards
 
-Quicksand:
+Quicksand: ::
 - DC 10 Wisdom (Survival) to spot
 - Enter: DC 10 Strength save or restrained, sinking
 - Escape: DC 15 Strength check, advantage if helped
 - Sink completely: 1d4 rounds, then suffocating
 
-Avalanche/Rockslide:
+Avalanche/Rockslide: ::
 - Warning: DC 15 Perception
 - Avoid: DC 15 Dexterity save or buried
 - Buried: 1d6 bludgeoning per round, suffocating
 - Dig out: DC 15 Strength, 1 minute per 5 feet
 
-Cliff Fall:
+Cliff Fall: ::
 - Spot edge: DC 10 Perception
 - Avoid: DC 10 Dexterity save
 - Fall: 1d6 per 10 feet (max 20d6)
 - Catch self: DC 15 Strength or Dexterity
 
-Forest Fire:
+Forest Fire: ::
 - Smoke: Lightly obscured, DC 12 Constitution save or poisoned
 - Flames: 2d10 fire damage per round
 - Spread: 30 feet per round in direction of wind
 - Escape: Outrun or find water
 
-Sinkhole:
+Sinkhole: ::
 - DC 15 Perception to notice
 - Collapse: 30-foot diameter, 40 feet deep
 - Fall: 4d6 bludgeoning
@@ -20722,37 +20404,35 @@ Sinkhole:
 \page
 
 
-### Environmental Hazards (Tirvandor-Specific)
+#### Environmental Hazards (Tirvandor-Specific)
 
-Bound Corruption Zone:
+Bound Corruption Zone: ::
 - Effects: Difficult terrain, DC 15 Wisdom save per hour or corruption stage
 - Vegetation: Twisted, unnatural
 - Creatures: Aggressive, corrupted
 - Escape: Leave area (corruption stops advancing)
 
-Ley Line Nexus:
+Ley Line Nexus: ::
 - Wild Magic: Spells trigger surge (d20, 1-3 = surge)
 - Enhanced Magic: +1 spell attack, +1 save DC
 - Concentration: Disadvantage on checks
 - Duration: Until leave area (100 feet radius)
 
-Worldrend Scar:
+Worldrend Scar: ::
 - Reality tears: Random planar effects
 - Warped gravity: Difficult terrain, random direction changes
 - Time distortion: 1 hour inside = 1d4 hours outside
 - Madness risk: DC 15 Wisdom save or short-term madness
 
-Border Badlands:
+Border Badlands: ::
 - Radiation: DC 12 Constitution save per day or exhaustion
 - Mutated creatures: Hostile, aggressive
 - No natural food/water
 - Equipment degradation: 10% chance per day item damaged
 
----
+### Random Encounters
 
-## Random Encounters
-
-### Frequency
+#### Frequency
 
 Roll d20 once per travel segment (morning, afternoon, night):
 
@@ -20763,7 +20443,7 @@ Roll d20 once per travel segment (morning, afternoon, night):
 | 18-19 | Standard encounter |
 | 20 | Major encounter |
 
-### Encounter Types (d6)
+#### Encounter Types (d6)
 
 
 | Roll | Result |
@@ -20775,10 +20455,11 @@ Roll d20 once per travel segment (morning, afternoon, night):
 | 5 | Discovery: Interesting location or item |
 | 6 | Faction Patrol: Social/combat depending on relations |
 
+\column
 
-### Encounter Tables by Region
+#### Encounter Tables by Region
 
-#### Thaldros Mainland (d12)
+##### Thaldros Mainland (d12)
 
 
 | d6 | Result |
@@ -20797,7 +20478,7 @@ Roll d20 once per travel segment (morning, afternoon, night):
 | 12 | Primordial spawn (1d4 corrupted) |
 
 
-#### Aethoria Territories (d12)
+##### Aethoria Territories (d12)
 
 
 | Roll | Result |
@@ -20816,7 +20497,7 @@ Roll d20 once per travel segment (morning, afternoon, night):
 | 12 | Primordial spawn (1d4 corrupted) |
 
 
-#### The Border (d12)
+##### The Border (d12)
 
 
 | Roll | Result |
@@ -20834,13 +20515,13 @@ Roll d20 once per travel segment (morning, afternoon, night):
 | 11 | Cult activity (1d6 cultists) |
 | 12 | Primordial manifestation (1d2 powerful spawn) |
 
-## Camping
+### Camping
 
-### Making Camp
+#### Making Camp
 
 Time: 1 hour to set up, 1 hour to break down
 
-Requirements:
+Requirements: ::
 - Shelter (tent or natural)
 - Fire (if cold or cooking)
 - Watch schedule
@@ -20852,68 +20533,68 @@ Requirements:
 \page
 
 
-### Watch Schedule
+#### Watch Schedule
 
-8-hour Long Rest:
+8-hour Long Rest: ::
 - 6 hours sleep
 - 2 hours light activity (watch)
 
-Watch Rotation:
+Watch Rotation: ::
 - 4 PCs: 2-hour watches each
 - 3 PCs: 2 sleep, 1 watch, rotate
 - 2 PCs: 4-hour watches each (exhausting)
 - 5+ PCs: Multiple watches, some sleep full 8 hours
 
-### Camp Security
+#### Camp Security
 
-Perception Checks:
+Perception Checks: ::
 - On watch: Active Perception
 - Sleeping: Passive Perception -5
 
-Spotting Threats:
+Spotting Threats: ::
 - Stealthy approach: Contested (enemy Stealth vs watcher Perception)
 - Obvious threat: Automatic
 
-Camp Improvements:
+Camp Improvements: ::
 - Alarm spell: Alerts when entered
 - Tiny hut: Protection from elements/attacks
 - Traps/caltrops: 1d4 damage, alert
 - Concealment: Advantage on Stealth to hide camp
 
-### Interrupted Rest
+#### Interrupted Rest
 
-Short Rest (1 hour):
+Short Rest (1 hour): ::
 - Interrupted: Lose benefit, no healing
 
-Long Rest (8 hours):
+Long Rest (8 hours): ::
 - Interrupted <1 hour: Continue rest
 - Interrupted >1 hour: Must start over
 
----
+### Survival Challenges
 
-## Survival Challenges
-
-### Starvation
+#### Starvation
 
 Food Requirements: 1 pound per day
 
-Missed Days:
+Missed Days: ::
 - 3 + Constitution modifier days without food: 0 HP
 - Each day after: Auto-fail death saves (can't be stabilized)
 
-Half Rations: After (3 + Con mod) days, counts as no food
+Half Rations: After (3 + Con mod) days, counts as no food ::
 
-### Dehydration
+#### Dehydration
 
 Water Requirements: 1 gallon per day (2 in hot weather)
 
-Missed Days:
+Missed Days: ::
 - After 1 day: 1 level exhaustion
 - Each additional day: +1 exhaustion
 
-Half Water: Disadvantage on Strength/Constitution checks
+Half Water: Disadvantage on Strength/Constitution checks ::
 
-### Exhaustion
+\column
+
+#### Exhaustion
 
 Levels:
 
@@ -20929,15 +20610,15 @@ Levels:
 
 Recovery: 1 level removed per long rest (with food and water)
 
-### Disease and Infection
+#### Disease and Infection
 
-Sources:
+Sources: ::
 - Contaminated water
 - Insect bites
 - Infected wounds
 - Disease-carrying creatures
 
-Mechanics:
+Mechanics: ::
 - Incubation: 1d4 days
 - Onset: Constitution save (DC varies)
 - Failure: Disease effects
@@ -20945,17 +20626,17 @@ Mechanics:
 
 Example Diseases:
 
-Sewer Plague:
+Sewer Plague: ::
 - DC 12 Constitution save
 - Fatigue (1 exhaustion) + can't regain HP
 - Recovery: 3 successful saves
 
-Border Rot (Tirvandor-Specific):
+Border Rot (Tirvandor-Specific): ::
 - DC 15 Constitution save
 - 1d6 necrotic per long rest + wounds don't heal
 - Recovery: Lesser restoration or 5 successful saves
 
-Primordial Sickness:
+Primordial Sickness: ::
 - DC 18 Constitution save
 - Hallucinations + 1 corruption stage
 - Recovery: Greater restoration
@@ -20965,29 +20646,28 @@ Primordial Sickness:
 
 \page
 
-## Wilderness Survival Tips for DMs
+### Wilderness Survival Tips for DMs
 
-Keep It Moving:
+Keep It Moving: ::
 - Don't track every ration and water
 - Abstract unless relevant
 - Skip boring travel days
 
-Make It Matter:
+Make It Matter: ::
 - Use encounters to advance story
 - Weather affects plans
 - Resource scarcity creates tension
 
-Player Agency:
+Player Agency: ::
 - Let rangers/druids shine
 - Reward preparation
 - Allow creative solutions
 
-Balance:
+Balance: ::
 - Not every journey needs complications
 - Save challenges for dramatic moments
 - Mix safe and dangerous travel
 
----
 
 Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from Primordial-corrupted zones to war-torn borderlands.
 
@@ -20995,8 +20675,9 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 {{footnote Part V: DM Tools}}
 
 \page
+{{wide
 # Part VI: Appendices
-
+}}
 ## Appendix A: Weather Tables
 
 ### Daily Weather
