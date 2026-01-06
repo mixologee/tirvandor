@@ -8611,7 +8611,7 @@ Remember:
 \page
 
 # Appendix C: The Pantheon of Tirvandor
-
+:
 The gods of Tirvandor are real, present forces that grant power to their faithful. They are called **The Seven Ascended** because ancient texts suggest they were once mortal heroes who transcended to divinity during the Age of Dawn.
 
 Most mortals recognize the existence of all gods but actively worship one to three that align with their values, profession, or circumstances. Temples often house shrines to multiple deities.
