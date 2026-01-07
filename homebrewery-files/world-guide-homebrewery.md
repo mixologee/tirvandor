@@ -1492,7 +1492,7 @@ The great dragons rose to dominance, establishing vast territories and amassing 
 \page
 
 **Major Events:** ::
-- The Chromatic Conclave: Five great wyrms divided the world into color-coded domains
+- The Wyrm Sovereignty: Five great wyrms divided the world into color-coded domains
 - Creation of the first magical artifacts by dragon artificers
 - The Dragon Libraries: Repositories of ancient knowledge, some still undiscovered
 - The First Dragon War: Chromatic and metallic dragons fought over philosophical differences, scarring the landscape

@@ -217,7 +217,7 @@ The First Creation: ::
 
 The Dragon Hegemony (12,000-8,000 BW): ::
 - Great dragons rose to dominance
-- Chromatic Conclave divided the world
+- The Wyrm Sovereignty divided the world
 - Dragon Libraries created (repositories of ancient knowledge)
 - First Dragon War between chromatic and metallic dragons
 
