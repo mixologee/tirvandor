@@ -455,7 +455,7 @@ Final Toll: ::
 - Skirmishes increase
 - Iron Guild mercenary alliances begin forming (formalized as Iron Guild in 1197 CR)
 
-1220 CR - Current King: ::
+1230 CR - Current King: ::
 - Aldric IV takes throne
 - Continues war but seeks solution
 - Secretly investigates Primordial threat
