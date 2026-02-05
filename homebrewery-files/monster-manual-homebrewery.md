@@ -109,7 +109,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 # Chapter 1
 # Border Creatures
 :
-The contested lands between Thaldros and Aethoria are a lawless frontier where desperate souls eke out survival among ancient ruins and war-scarred terrain.
+The Contested Lands — Thaldros's lawless frontier territories — are a dangerous expanse where desperate souls eke out survival among ancient ruins and war-scarred terrain.
 
 ## Border Bandit
 ### Lore

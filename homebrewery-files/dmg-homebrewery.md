@@ -2469,7 +2469,7 @@ Guardians: Circle of druids (12 members, levels 5-9). Not hostile but protective
 Bargain: PCs can use stones if they complete quest for druids (usually ecological: stop loggers, cleanse corrupted nexus, etc.).
 
 #### The Obsidian Spire
-Location: Border between Thaldros and Aethoria
+Location: The Contested Lands, western Thaldros
 Secret Level: Tier 4 (Legend)
 
 Description: Tower of pure obsidian that appeared after the Worldrend. No entrance visible.

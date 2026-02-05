@@ -107,7 +107,7 @@ This document has been specifically curated to **exclude** all Open Gaming Licen
 
 Tirvandor™ is a world divided"”two great continents separated by the Sundering Sea™, each representing fundamentally different philosophies of civilization and magic. In the west lies Thaldros™, a militaristic empire built on order, central authority, and feudal tradition. In the east sprawls Aethoria™, a confederation of free cities and ancient forests where independence, democratic ideals, and harmony with nature reign supreme.
 
-Between these continental powers stretch the Contested Lands"”war-torn frontiers where neither power holds sway, and adventurers find both opportunity and danger in equal measure. The current year is 1247 CR (Common Reckoning), with Year 0 marking the catastrophic Worldrend™ that tore the continents apart and reshaped civilization itself.
+Within Thaldros's remote frontiers lie the Contested Lands — lawless territories where Crown authority is nominal at best, and adventurers find both opportunity and danger in equal measure.
 
 The world's total estimated population stands at two to three million sentient beings spread across all settlements and nomadic groups. The climate ranges from temperate to subtropical across most inhabited regions, with significant magical saturation in natural areas and moderate levels in settled regions.
 
@@ -8502,8 +8502,8 @@ Sundering Sea. Merchants of both continents profit from this commerce;
 governments tolerate it because they benefit from the goods and taxes it
 generates.
 
-*The Contested Lands:* The frontier between consolidated Thaldros
-territory and the lawless borderlands attracts adventurers, refugees,
+**The Contested Lands:* The frontier where consolidated Crown territory 
+gives way to lawless borderlands attracts adventurers, refugees,
 and opportunists from both continents. Neither major power controls
 these regions, creating space for those who reject both civilizations.
 
@@ -14553,7 +14553,7 @@ House Blackwood established Raven's Keep as their seat of power. The Blackwood b
 - Guarded by druid circle (12 members)
 
 ##### The Obsidian Spire
-- Border between Thaldros and Aethoria
+- Contested Lands, western Thaldros
 - Tower of pure obsidian, appeared after Worldrend
 - No visible entrance
 - **Secret:** Prison for The Devourer (Bound Ancient of entropy)
@@ -15796,13 +15796,13 @@ Somewhere beneath the Sundering Sea lies where the first seal broke during the W
 
 ### 34.4 The Obsidian Spire
 
-**Location:** Border between Thaldros and Aethoria
+**Location:** The Contested Lands, western Thaldros
 
 **Secret Level:** Legend
 
 **Era:** Appeared after the Worldrend
 
-A tower of pure obsidian rises at the border between the continents"”appearing after the Worldrend in a location where nothing stood before. The tower has no visible entrance, no windows, no seams. It is not a building constructed on the land. It IS the land, reshaped into a prison.
+A tower of pure obsidian rises in the Contested Lands — appearing after the Worldrend in a location where nothing stood before. The tower has no visible entrance, no windows, no seams. It is not a building constructed on the land. It IS the land, reshaped into a prison.
 
 **The Truth:** The Obsidian Spire is the prison of The Devourer, the Bound Ancient of entropy and consumption. The Circle of Seven's desperate ritual during the Worldrend succeeded in strengthening this single seal while catastrophically weakening all others. The Devourer is the most securely imprisoned of the Bound Ancients"”and the most dangerous if freed.
 
@@ -22220,14 +22220,14 @@ Slight and bookish (5'7", 130 lbs) with dark brown hair usually in a messy bun. 
 }}
 }}
 
-*The Contested Lands, the war-torn frontier between Thaldros and Aethoria, has spawned unique creatures shaped by centuries of conflict.*
+*The Contested Lands — Thaldros's war-torn frontier territories — have spawned unique creatures shaped by centuries of conflict.*
 
 {{pageNumber,auto}}
 {{footnote Part VIII: Creatures "” Chapter 46: Border Creatures}}
 
 \page
 
-The Contested Lands, the war-torn frontier between Thaldros and Aethoria, has spawned unique creatures shaped by centuries of conflict. The constant violence, lingering death, and instability have transformed both the living and the dead into something distinct from what exists in either nation's heartland.
+The Contested Lands, Thaldros's war-torn frontier territories, have spawned unique creatures shaped by centuries of conflict. The constant violence, lingering death, and instability have transformed both the living and the dead into something distinct from what exists in either nation's heartland.
 
 These border creatures represent the cost of war made manifest, in flesh, in spirit, and in the very land itself.
 
@@ -22312,7 +22312,7 @@ They move with easy confidence, hands always visible, smiles ready. The best cap
 
 ### Origins
 
-The border between Thaldros and Aethoria is a maze of regulations, tariffs, and prohibitions. Anything that's legal on one side is restricted on the other. This creates profitable opportunities for those willing to ignore borders entirely.
+The frontier between Crown-controlled Thaldros and its lawless territories is a maze of regulations, tariffs, and prohibitions. Anything that's legal on one side is restricted on the other. This creates profitable opportunities for those willing to ignore borders entirely.
 
 Smuggler captains emerged from this chaos"”entrepreneurs who saw opportunity in connecting supply with demand regardless of national boundaries. Some began as legitimate merchants pushed into illegality by impossible regulations. Others were always criminals who found a new venue.
 
@@ -25531,7 +25531,7 @@ Corruption Spawn emerge from locations where war magic has gone catastrophically
 
 They're not created intentionally. No one summons Corruption Spawn; they simply appear where magical contamination reaches critical levels. They're symptoms of magical damage rather than creatures in any conventional sense.
 
-The Contested Lands between Thaldros and Aethoria produce Corruption Spawn regularly. Decades of magical warfare have poisoned the land itself, and these creatures bubble up from the corrupted earth like infections from wounded flesh.
+The Contested Lands of western Thaldros produce Corruption Spawn regularly. Decades of magical warfare have poisoned the land itself, and these creatures bubble up from the corrupted earth like infections from wounded flesh.
 
 \column
 
@@ -28451,7 +28451,7 @@ Mercy's Edge appearing would be seen as a divine sign. The worthy wielder would 
 
 **Dangers**
 
-The Contested Lands are dangerous"”a lawless region between the continents where anything might lurk. The sword's last battle was against dragon cultists, and their descendants may still guard the area. And the sword itself might not accept just anyone.
+The Contested Lands are dangerous — a lawless frontier region where anything might lurk. The sword's last battle was against dragon cultists, and their descendants may still guard the area. And the sword itself might not accept just anyone.
 
 **Religious Implications**
 
@@ -29189,7 +29189,7 @@ Classic adventure locations for treasure-hunting and monster-slaying.
 
 \column
 
-**The Obsidian Spire**: A tower of pure obsidian at the border between Thaldros and Aethoria, appeared after the Worldrend. No visible entrance"”the spire IS the prison for The Devourer, a Bound Ancient of entropy. The invisible door at the apex opens only to those carrying a Bound Ancient artifact.
+**The Obsidian Spire**: A tower of pure obsidian in the Contested Lands of Thaldros, appeared after the Worldrend. No visible entrance"”the spire IS the prison for The Devourer, a Bound Ancient of entropy. The invisible door at the apex opens only to those carrying a Bound Ancient artifact.
 
 **The Riftmaw**: Somewhere in the Sundering Sea, a massive wound in reality where two Bound Ancients escaped. Endless elemental spawns, reality instability, and portal access to the Elemental Planes.
 

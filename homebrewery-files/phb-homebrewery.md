@@ -274,7 +274,7 @@ Tirvandor is a world divided by history, politics, and magic. A catastrophic eve
 
 **Aethoria** - Free democratic states where personal liberty and self-governance are paramount. Merchant councils, elected leaders, and individual rights shape society.
 
-Between them lies **The Contested Lands** - a lawless border region where neither side holds sway, filled with refugees, mercenaries, and those who've chosen freedom over allegiance.
+Within Thaldros lie **The Contested Lands** — lawless frontier regions where Crown authority is nominal at best, filled with refugees, mercenaries, and those who've chosen freedom over allegiance.
 
 Magic in Tirvandor flows through **ley lines** - natural channels of energy that crisscross the world. These lines of power make some locations more magically potent than others and tie directly into the world's history.
 
@@ -5796,7 +5796,7 @@ extra 1d6 damage if you have advantage on the attack roll or if another enemy of
 
 ### Tirvandor Context
 
-**Origin:** Border regions between Thaldros and Aethoria ::
+**Origin:** The Contested Lands of western Thaldros ::
 </div>
 
 {{pageNumber,auto}}
@@ -6490,7 +6490,7 @@ Both domains provide strong martial + divine options for clerics!
 
 *Druids who protect the war-torn wilderness of the Border, adapting to any terrain and battlefield*
 
-The lands between Thaldros and Aethoria have become a scarred, contested wilderness where armies march and nature suffers. Druids of this circle are neutral guardians who protect what remains of the wild, adapting to any terrain and using the very tools of war against those who would destroy nature.
+The frontier territories of western Thaldros have become a scarred, contested wilderness where armies march and nature suffers. Druids of this circle are neutral guardians who protect what remains of the wild, adapting to any terrain and using the very tools of war against those who would destroy nature.
 
 
 ### Circle Spells
@@ -7205,7 +7205,7 @@ These oaths represent the ideological conflict at the heart of Tirvandor!
 
 ## Border Warden (Ranger)
 
-*Neutral scouts who patrol the contested frontier between nations*
+*Neutral scouts who patrol the contested frontier of Thaldros's lawless territories*
 
 Border Wardens are the eyes and ears of the contested lands, patrolling the dangerous contested frontier. They're neutral by necessity—attacking any army that threatens the Border's fragile ecosystem.
 
@@ -8408,7 +8408,7 @@ A collection of democratic free states where personal liberty and self-governanc
 
 ### The Contested Lands (the Border)
 
-The lawless region between Thaldros and Aethoria where neither side holds control. Home to refugees, mercenaries, bandits, and those who've chosen freedom over allegiance to either side.
+The lawless frontier regions within Thaldros where Crown authority holds no sway. Home to refugees, mercenaries, bandits, and those who've chosen freedom over allegiance to the Iron Crown.
 
 ### The Sundering Sea
 
@@ -9123,7 +9123,7 @@ ___
 ### Actions
 **Tusk.** :: *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
 
-*Named for their incredibly tough hides, these massive boars inhabit the borderlands between Thaldros and Aethoria. Hunting one is considered a rite of passage among many Border communities.*
+*Named for their incredibly tough hides, these massive boars inhabit the Contested Lands of western Thaldros. Hunting one is considered a rite of passage among many Border communities.*
 }}
 
 {{monster,frame,wide
