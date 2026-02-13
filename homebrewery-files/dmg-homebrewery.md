@@ -2872,10 +2872,9 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 **Properties:**
 
-- +2 to Persuasion checks
+- +2 to Persuasion checks with military personnel and guards
 - Free passage at borders
-- Command respect
-- Identifies wearer as
+- Commands respect — identifies the wearer as an authority figure
 
 **Signature NPC:** Border patrol officers  
 \column
@@ -2930,8 +2929,9 @@ Magic items are rare and significant. Each item has history and often ties to sp
 **Properties:**
 
 - 7 charges
-- Cast Magic Missile:
+- Cast Magic Missile
 - Regain 1d6+1 at dawn
+
 #### 5: Amulet of Health
 
 ![9: AMULET OF HEALTH](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-amulet-of-health.jpg) {width:200px,mix-blend-mode:multiply}
@@ -2942,10 +2942,9 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 **Properties:**
 
-- Constitution becomes 19
-- Does not stack with items
-- Perfect for frail wizards
-- Red gemstone design
+- Constitution becomes 19 (classic SRD mechanics)
+- Does not stack with other Constitution-setting items
+- Visually a silver chain with a heart-shaped ruby pendant in an intricate metalwork frame with a radiant glow
 
 \column
 
@@ -2976,9 +2975,15 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 **Properties:**
 
-- 4 amulets, each different:
-- Advantage vs Frightful
-- Protection Energy 1/day
+- Type: Set of 4 bronze amulets, each with a dragon head in profile and different glowing runic inscriptions
+- Each amulet grants resistance to one dragon damage type:
+  - Amulet 1: Fire (Red/Gold dragons)
+  - Amulet 2: Cold (White/Silver dragons)
+  - Amulet 3: Lightning (Blue/Bronze dragons)
+  - Amulet 4: Poison/Acid (Green/Black dragons)
+- Advantage on saves vs dragon Frightful Presence
+- Cast Protection from Energy 1/day (matching the amulet's type)
+- Set bonus: All 4 together grant immunity to dragon fear
 
 {{pageNumber,auto}}
 {{footnote Part III: Treasure}}
@@ -2995,10 +3000,12 @@ Magic items are rare and significant. Each item has history and often ties to sp
 **Properties:**
 
 - +1 longsword
-- Command word: ignite blade
-- While lit: +2d6 fire dmg
-- Bright light 40ft, dim 40'
-- Phoenix wing crossguard
+- 1d8+1 slashing base
+- Command word to ignite the blade
+- While ignited: +2d6 fire damage
+- Bright light 40 ft., dim light 40 ft.
+- Can ignite flammable objects
+- Phoenix wing-shaped crossguard, red leather grip, gold/brass fittings
 ---
 
 #### 9: Morningstar - Holy Radiant
@@ -3012,9 +3019,9 @@ Magic items are rare and significant. Each item has history and often ties to sp
 **Properties:**
 
 - +1 morningstar
-- 1d8+1 bludgeoning +
-- Advantage vs undead
-- Sheds light 10/20ft
+- 1d8+1 bludgeoning + 1d6 radiant damage
+- Advantage on attacks vs undead
+- Sheds bright light 10 ft., dim light 20 ft.
 - Cast Daylight 1/day
 ---
 
@@ -3044,8 +3051,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 **Properties:**
 
 - Strength becomes 23
-- Does not stack with items
-- Transforms weakling into
+- Does not stack with other Strength-setting items
 
 {{pageNumber,auto}}
 {{footnote Part III: Treasure}}
@@ -3058,15 +3064,16 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 **Type:** Wondrous Item  
 **Rarity:** Very Rare  
-**Attunement:** No Attunement  
+**Attunement:** Requires Attunement  
 
 **Properties:**
 
-- Material component
-- Resistance to cold damage
+- A fragment of the Dread King's power — a large ice crystal that never melts
+- Grants resistance to cold damage when held
 - Cast Ice Storm 1/day
-- Cold spells +1d6 damage
-- Freeze water permanently
+- Cold damage spells deal +1d6 extra damage
+- Can freeze water surfaces permanently
+- Described as a literal piece of the Elemental Plane of Ice
 ---
 
 #### 13: Staff of Dynasties
@@ -3079,11 +3086,11 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 **Properties:**
 
-- +2 quarterstaff/focus
-- Advantage Persuasion with
+- +2 quarterstaff that doubles as a spellcasting focus
+- Advantage on Persuasion checks when dealing with nobility
 - Cast Legend Lore 1/day
-- Reveals true bloodlines
-- Crown and emerald design
+- Reveals true bloodlines — can distinguish legitimate heirs from pretenders
+- Crown and emerald design aesthetic
 
 \column
 
@@ -3113,8 +3120,8 @@ Magic items are rare and significant. Each item has history and often ties to sp
 **Properties:**
 
 - +2 longsword
-- 1d8+2 slashing +
-- Ignores resistance to
+- 1d8+2 slashing plus 1d8 force damage
+- Ignores resistance to nonmagical damage
 - Dimension Door 1/day
 - Crits: +2d8 force damage
 
@@ -3133,12 +3140,12 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 **Properties:**
 
-- +3 plate armor (AC 21)
-- Resistance nonmagical dmg
+- +3 Plate Armor (AC 21)
+- Resistance to nonmagical damage
 - Immunity to critical hits
-- Advantage vs being prone
-- Cannot be broken/damaged
-- Cannot be moved vs will
+- Advantage on saves vs being knocked prone
+- Cannot be broken or damaged
+- Wearer cannot be moved against their will
 
 #### 17: Cloak of Invisibility
 
