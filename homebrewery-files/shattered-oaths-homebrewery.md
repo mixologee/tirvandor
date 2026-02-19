@@ -1714,13 +1714,15 @@ If captured alive, Garrett breaks under questioning:
 - Banners flying (black raven on silver field—Blackwood colors)
 - Heavy activity suggests major operation tonight
 
+{{pageNumber,auto}}{{pageNumber,auto}}
+\page
+
 **Perception DC 17 (Detailed Reconnaissance):** ::
 - Identify patrol patterns (guards walking perimeter every 15 minutes)
 - See wagons and supplies (they're planning something big)
 - Notice one tower still intact (possible lookout post)
 - Spot what looks like excavation site (digging in the ruins)
-{{pageNumber,auto}}{{pageNumber,auto}}
-\page
+
 
 **History DC 15 (Knowledge of Raven's Keep):** *"Raven's Keep was the primary Blackwood fortress. When House Blackwood rebelled 155 years ago, the King ordered it destroyed—pulled down stone by stone. The surviving Blackwoods lived in hiding until the Second Purge 43 years ago found and eliminated them. But the vaults beneath were rumored to be impregnable. If the First Component is anywhere, it's down there."* ::
 
@@ -12032,29 +12034,29 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 ## Session Prep Checklist
 
 ### Before Each Session
-â–¡ Review last session's events and major player choices ::
-â–¡ Prepare NPC voices and personalities (especially Lord Shadows) ::
-â–¡ Have stat blocks ready for likely encounters ::
-â–¡ Print/prepare handouts (prophecies, historical documents, maps) ::
-â–¡ Review World-Splitter component status ::
-â–¡ Check which allies are currently with party ::
-â–¡ Set up battle maps if dungeon/combat expected ::
+☐ Review last session's events and major player choices ::
+☐ Prepare NPC voices and personalities (especially Lord Shadows) ::
+☐ Have stat blocks ready for likely encounters ::
+☐ Print/prepare handouts (prophecies, historical documents, maps) ::
+☐ Review World-Splitter component status ::
+☐ Check which allies are currently with party ::
+☐ Set up battle maps if dungeon/combat expected ::
 
 ### During Session
-â–¡ Track World-Splitter assembly progress (if applicable) ::
-â–¡ Note player decisions affecting Lord Shadows' sympathy ::
-â–¡ Track initiative and conditions carefully ::
-â–¡ Award creative solutions and heroic roleplay ::
-â–¡ Monitor clue discovery (ensure players aren't stuck) ::
-â–¡ Track ally relationships (NPCs respond to party actions) ::
+☐ Track World-Splitter assembly progress (if applicable) ::
+☐ Note player decisions affecting Lord Shadows' sympathy ::
+☐ Track initiative and conditions carefully ::
+☐ Award creative solutions and heroic roleplay ::
+☐ Monitor clue discovery (ensure players aren't stuck) ::
+☐ Track ally relationships (NPCs respond to party actions) ::
 
 ### After Session
-â–¡ Note unresolved plot threads and player questions ::
-â–¡ Update faction relationships based on actions ::
-â–¡ Calculate XP/treasure awarded ::
-â–¡ Plan consequences for major decisions ::
-â–¡ Update Lord Shadows tracker (sympathy level, knows party's goals) ::
-â–¡ Ask for player feedback on pacing and difficulty ::
+☐ Note unresolved plot threads and player questions ::
+☐ Update faction relationships based on actions ::
+☐ Calculate XP/treasure awarded ::
+☐ Plan consequences for major decisions ::
+☐ Update Lord Shadows tracker (sympathy level, knows party's goals) ::
+☐ Ask for player feedback on pacing and difficulty ::
 
 ## Campaign Themes
 
@@ -13065,7 +13067,7 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 - Black Archive infiltration (heist/stealth sequence)
 - Discovering historical proof (truth revelation moment)
 - Meeting powerful allies (assembling the team)
-- Dragon's lair exploration (classic D&D moment)
+- Dragon's lair exploration (classic TTRPG moment)
 - First true meeting with Lord Shadows (villain reveal)
 - Lord Shadows explaining his motivation (sympathetic villain)
 - Mirror Fragment showing past events (witnessing injustice)
@@ -13163,9 +13165,9 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 ### World-Splitter Status
 
 **Components:** ::
-- **Component 1 (Crown):** â–¡Party Has  â–¡Enemy Has  â–¡Unknown Location
-- **Component 2 (Mirror):** â–¡Party Has  â–¡Enemy Has  â–¡Unknown Location
-- **Component 3 (Scepter):** â–¡Party Has  â–¡Enemy Has  â–¡Unknown Location
+- **Component 1 (Crown):** ☐Party Has  ☐Enemy Has  ☐Unknown Location
+- **Component 2 (Mirror):** ☐Party Has  ☐Enemy Has  ☐Unknown Location
+- **Component 3 (Scepter):** ☐Party Has  ☐Enemy Has  ☐Unknown Location
 
 **Activation Progress:** ____% 
 
@@ -13176,34 +13178,34 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 ### Lord Shadows (Corvus Blackwood) Tracker
 
 - **Current Location:** ______________________
-- **Status:** â–¡Active  â–¡In Hiding
+- **Status:** ☐Active  ☐In Hiding
 - **Minions Defeated:** ___/___
 - **Power Level:** ____%
-- **Party Knows True Identity:** â–¡Yes  â–¡No
-- **Knows Party's Goal:** â–¡Yes  â–¡No
-- **Sympathy Level:** â–¡Villain  â–¡Anti-Hero  â–¡Tragic Figure  â–¡Justified
+- **Party Knows True Identity:** ☐Yes  ☐No
+- **Knows Party's Goal:** ☐Yes  ☐No
+- **Sympathy Level:** ☐Villain  ☐Anti-Hero  ☐Tragic Figure  ☐Justified
 
 *(Track how players view him - affects final confrontation!)*
 
 ### Prophecy Fragments
 
-- **Fragment 1:** â–¡Found  â–¡Decoded  â–¡Understood | Location: ________________
-- **Fragment 2:** â–¡Found  â–¡Decoded  â–¡Understood | Location: ________________
-- **Fragment 3:** â–¡Found  â–¡Decoded  â–¡Understood | Location: ________________
+- **Fragment 1:** ☐Found  ☐Decoded  ☐Understood | Location: ________________
+- **Fragment 2:** ☐Found  ☐Decoded  ☐Understood | Location: ________________
+- **Fragment 3:** ☐Found  ☐Decoded  ☐Understood | Location: ________________
 
-**Full Prophecy Meaning:** â–¡Unknown  â–¡Partially Known  â–¡Fully Understood
+**Full Prophecy Meaning:** ☐Unknown  ☐Partially Known  ☐Fully Understood
 
 ### Noble House Alliances
 
 | House | Status | Influence |
 |-------|--------|-----------|
-| House Goldshore | â–¡Allied â–¡Neutral â–¡Enemy | ___/10 |
-| House Thandros | â–¡Allied â–¡Neutral â–¡Enemy | ___/10 |
-| House Blackwood | â–¡Allied â–¡Neutral â–¡Enemy | ___/10 |
-| House Ironforge | â–¡Allied â–¡Neutral â–¡Enemy | ___/10 |
-| House Silverpine | â–¡Allied â–¡Neutral â–¡Enemy | ___/10 |
+| House Goldshore | ☐Allied ☐Neutral ☐Enemy | ___/10 |
+| House Thandros | ☐Allied ☐Neutral ☐Enemy | ___/10 |
+| House Blackwood | ☐Allied ☐Neutral ☐Enemy | ___/10 |
+| House Ironforge | ☐Allied ☐Neutral ☐Enemy | ___/10 |
+| House Silverpine | ☐Allied ☐Neutral ☐Enemy | ___/10 |
 
-**Political Balance:** â–¡Thaldros â–¡Aethoria â–¡Balanced â–¡Chaos
+**Political Balance:** ☐Thaldros ☐Aethoria ☐Balanced ☐Chaos
 
 \column
 
@@ -13211,21 +13213,21 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 
 **Clues About Original Worldrend:** ___/15
 
-- â–¡ It was not natural
-- â–¡ Weapon of mass destruction existed
-- â–¡ Cover-up by current rulers
-- â–¡ Could happen again
-- â–¡ Gods were involved in First Worldrend
-- â–¡ World is still breaking
-- â–¡ Bloodlines matter
-- â–¡ Choice: Save world or get justice?
-- â–¡ Royal family knows truth
-- â–¡ Blackwoods were framed
-- â–¡ Someone activated it deliberately over a century ago
-- â–¡ Other continents may exist
-- â–¡ Can be prevented this time
-- â–¡ True villains still alive (or descendants)
-- â–¡ Prophecy is accurate
+- ☐ It was not natural
+- ☐ Weapon of mass destruction existed
+- ☐ Cover-up by current rulers
+- ☐ Could happen again
+- ☐ Gods were involved in First Worldrend
+- ☐ World is still breaking
+- ☐ Bloodlines matter
+- ☐ Choice: Save world or get justice?
+- ☐ Royal family knows truth
+- ☐ Blackwoods were framed
+- ☐ Someone activated it deliberately over a century ago
+- ☐ Other continents may exist
+- ☐ Can be prevented this time
+- ☐ True villains still alive (or descendants)
+- ☐ Prophecy is accurate
 
 **Party's Current Theory:** ____________________________________________
 
@@ -13233,19 +13235,19 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 
 **Party Leaning Towards:** ::
 
-- â–¡ Stop Lord Shadows at all costs (Traditional hero ending)
-- â–¡ Help Lord Shadows get justice, then stop Worldrend (Gray ending)
-- â–¡ Let him succeed - world deserves to burn (Dark ending)
-- â–¡ Find third option - save both Corvus and the world (Best ending)
+- ☐ Stop Lord Shadows at all costs (Traditional hero ending)
+- ☐ Help Lord Shadows get justice, then stop Worldrend (Gray ending)
+- ☐ Let him succeed - world deserves to burn (Dark ending)
+- ☐ Find third option - save both Corvus and the world (Best ending)
 
 **Required for Best Ending:** ::
 
-- â–¡ Prove Blackwood innocence
-- â–¡ Earn Corvus's trust
-- â–¡ Unite all noble houses
-- â–¡ Expose true villains/conspirators
-- â–¡ Find way to disable World-Splitter without killing Corvus
-- â–¡ All party members and key allies survive
+- ☐ Prove Blackwood innocence
+- ☐ Earn Corvus's trust
+- ☐ Unite all noble houses
+- ☐ Expose true villains/conspirators
+- ☐ Find way to disable World-Splitter without killing Corvus
+- ☐ All party members and key allies survive
 
 {{pageNumber,auto}}
 \page
@@ -13254,29 +13256,29 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 
 | Ally Name | Status | Location | Current Task |
 |-----------|--------|----------|--------------|
-| High Mage Arcturus | â–¡Alive â–¡Injured â–¡Dead | _____________ | _____________ |
-| Miranda Questseeker | â–¡Recruited â–¡Available â–¡Unavailable | _____________ | _____________ |
-| Kael Dragonsbane | â–¡Recruited â–¡Available â–¡Unavailable | _____________ | _____________ |
-| Thalia Lightbringer | â–¡Recruited â–¡Available â–¡Unavailable | _____________ | _____________ |
-| Old One-Eye (Dragon) | â–¡Allied â–¡Neutral â–¡Hostile | _____________ | _____________ |
-| Sage Cornelius | â–¡Recruited â–¡Available â–¡Unavailable | _____________ | _____________ |
-| Druid Silvaris | â–¡Recruited â–¡Available â–¡Unavailable | _____________ | _____________ |
+| High Mage Arcturus | ☐Alive ☐Injured ☐Dead | _____________ | _____________ |
+| Miranda Questseeker | ☐Recruited ☐Available ☐Unavailable | _____________ | _____________ |
+| Kael Dragonsbane | ☐Recruited ☐Available ☐Unavailable | _____________ | _____________ |
+| Thalia Lightbringer | ☐Recruited ☐Available ☐Unavailable | _____________ | _____________ |
+| Old One-Eye (Dragon) | ☐Allied ☐Neutral ☐Hostile | _____________ | _____________ |
+| Sage Cornelius | ☐Recruited ☐Available ☐Unavailable | _____________ | _____________ |
+| Druid Silvaris | ☐Recruited ☐Available ☐Unavailable | _____________ | _____________ |
 
 ### Truth Revelation Status
 
 **Public Knowledge:** ::
-- â–¡ Blackwood conspiracy is public knowledge
-- â–¡ Some nobles exposed as conspirators
-- â–¡ Historical documents released publicly
-- â–¡ Kingdoms acknowledging injustice
-- â–¡ Reforms enacted
+- ☐ Blackwood conspiracy is public knowledge
+- ☐ Some nobles exposed as conspirators
+- ☐ Historical documents released publicly
+- ☐ Kingdoms acknowledging injustice
+- ☐ Reforms enacted
 
 **Secret Knowledge (Party Knows):** ::
-- â–¡ Full list of conspirator families
-- â–¡ Mechanism of First Worldrend
-- â–¡ Location of Worldrend Vault
-- â–¡ Lord Shadows' true identity
-- â–¡ How to stop Second Worldrend without killing
+- ☐ Full list of conspirator families
+- ☐ Mechanism of First Worldrend
+- ☐ Location of Worldrend Vault
+- ☐ Lord Shadows' true identity
+- ☐ How to stop Second Worldrend without killing
 
 ### Session Tracker
 
@@ -13287,11 +13289,11 @@ Shattered Oaths and Blood & Coin occur simultaneously in the same world:
 **Last Session Cliffhanger:** _________________________________
 
 **Next Session Prep:** ::
-- â–¡ Prepare NPC voices/personalities
-- â–¡ Print handouts (if any)
-- â–¡ Set up battle maps
-- â–¡ Review stat blocks
-- â–¡ Plan consequences of last session's choices
+- ☐ Prepare NPC voices/personalities
+- ☐ Print handouts (if any)
+- ☐ Set up battle maps
+- ☐ Review stat blocks
+- ☐ Plan consequences of last session's choices
 
 ---
 
@@ -14446,12 +14448,12 @@ Recently, the dreams have intensified. She's discovered gaps in historical recor
 
 She's also noticed she's being watched. Someone's been following her. She doesn't know it's Shadows, checking on her from distance, making sure she's safe.
 
-### Connections
-- **Brother:** Lord Shadows Blackwood (doesn't remember him, might feel inexplicable connection if they meet)
-- **Guardians:** The scholar couple who raised her (dead now, deaths seemed natural but may have been silenced)
 {{pageNumber,auto}}
 \page
 
+### Connections
+- **Brother:** Lord Shadows Blackwood (doesn't remember him, might feel inexplicable connection if they meet)
+- **Guardians:** The scholar couple who raised her (dead now, deaths seemed natural but may have been silenced)
 - **Mentor:** Archmage Veridian Starweaver (University, sees potential, suspects something unusual about her)
 - **Friend:** Professor Elara Moonwhisper (Divination professor, notices her natural prophetic gifts)
 - **Admirer:** A student who has crush on her (she's oblivious)
