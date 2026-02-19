@@ -1704,6 +1704,8 @@ If captured alive, Garrett breaks under questioning:
 ::
 {{description,note
 *The third morning dawns gray and cold. The forest thins as you climb into rocky hills. Ahead, dark peaks rise against an overcast sky—the Shadowpeak Hills. The very air feels heavier here, as if the land itself remembers old tragedies. In the distance, perched on a crag like a crouching vulture, you glimpse the silhouette of Raven's Keep.*
+
+*You see a ruined medieval fortress perched on a rocky crag against an overcast grey sky, dark fantasy art style. Once-proud stone towers now stand as blackened fire-scorched stumps. Crumbling walls choked with thorny vines. Dozens of carved stone ravens perch on crumbling pedestals throughout a central courtyard. A dry fountain bears a heraldic raven crest, stained with centuries of soot. Torches flicker in glassless windows. Campfire smoke rises from within the ruins. One partially intact tower serves as a lookout. The fortress has a haunted, tragic grandeur — a monument to a destroyed noble house. Moody, atmospheric lighting. Mountains visible in the background.*
 }}
 
 **Perception DC 13 (Observing Raven's Keep):** ::
