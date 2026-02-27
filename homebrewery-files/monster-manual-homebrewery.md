@@ -5,7 +5,7 @@ ___
 
 {{banner 5th Edition Compatible}}
 
-![monster_manual_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/tirvandor-cover-filed-guide.png) {position:absolute,top:0px,left:0px,width:820px}
+![monster_manual_cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/tirvandor-cover-field-guide.png) {position:absolute,top:0px,left:0px,width:820px}
 \page
 {{insideCover}}
 
