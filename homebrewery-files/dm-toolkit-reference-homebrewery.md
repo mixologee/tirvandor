@@ -3984,7 +3984,7 @@ You don't have to join a faction, but understanding them helps navigate the worl
 - **Half-Orc** - Frontier settlements, mercenary bands
 
 **Rare (Special Permission):**
-- Genasi, Aasimar, Firbolg, Tabaxi, etc.
+- Genasi, Aasimar, Firbolg, Catfolk, etc.
 - Must have compelling backstory reason
 
 ---

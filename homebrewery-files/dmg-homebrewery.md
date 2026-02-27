@@ -9859,7 +9859,7 @@ Recently, her power is growing. Weather responds to her moods even when she's no
 
 {{monster,frame,wide
 ## Patriarch Zircon Crystalborn
-*Medium humanoid (genasi), lawful neutral*
+*Medium humanoid (elemental-touched), lawful neutral*
 ___
 **Armor Class** :: 16 (13 + Dex + Ring of Protection + Shield spell when cast)
 **Hit Points** :: 112 (16d6 + 48)
@@ -9910,7 +9910,7 @@ ___
 }}
 
 #### Basic Information
-- **Race:** Rock Genasi
+- **Race:** Rock Elemental-touched
 - **Age:** 87
 - **Location:** Crystalbrook (Crystal Palace on central island)
 - **Role:** Patriarch of House Crystalborn, Master Gem Merchant
@@ -9921,7 +9921,7 @@ ___
 \page
 
 #### Physical Description
-Distinctive and striking (5'10", 190 lbs), with the crystalline features of rock genasi. Skin has faint crystal formations - like geodes embedded in flesh. Eyes are literally crystalline - faceted like cut gems, reflecting light prismatically. White hair with crystal-like streaks. Moves with deliberate precision. Wears expensive robes with crystals sewn throughout - both decoration and functional spell components.
+Distinctive and striking (5'10", 190 lbs), with the crystalline features of rock elemental-touched. Skin has faint crystal formations - like geodes embedded in flesh. Eyes are literally crystalline - faceted like cut gems, reflecting light prismatically. White hair with crystal-like streaks. Moves with deliberate precision. Wears expensive robes with crystals sewn throughout - both decoration and functional spell components.
 
 #### Equipment
 - **Robes:** Robe of the Archmagi (AC 15 base, +2 spell DC)
@@ -9957,7 +9957,7 @@ Distinctive and striking (5'10", 190 lbs), with the crystalline features of rock
 - Judgmental - categorizes people like gems (flawless, acceptable, flawed)
 
 #### Background & History
-Born in 1160 CR as a rock genasi (rare bloodline in House Crystalborn), Zircon showed affinity for gems and transmutation early. At 20, he could identify any gem on sight. At 40, he'd mastered cutting techniques lost for centuries. At 60, he married into leadership and became Patriarch.
+Born in 1160 CR as a rock elemental-touched (rare bloodline in House Crystalborn), Zircon showed affinity for gems and transmutation early. At 20, he could identify any gem on sight. At 40, he'd mastered cutting techniques lost for centuries. At 60, he married into leadership and became Patriarch.
 
 For 27 years, he's ruled House Crystalborn with calculated precision. He transformed them from wealthy merchants into masters of gem-based magic - a unique niche making them indispensable.
 
@@ -9989,7 +9989,7 @@ Recently, he's discovered something troubling - evidence that certain gem format
 
 3. **The Dao Bargain:** His rare mineral source is a dao he summoned and bound 20 years ago. The dao provides materials but grows increasingly resentful. The binding weakens. Eventually, it will break. When it does, the dao's revenge will be catastrophic.
 
-4. **The Transmutation Limit:** There's a cost to transmutation magic Zircon has hidden - each transformation takes tiny piece of caster's life force. He's aged faster than normal genasi (should look 60, looks 87). He calculates he has maybe 30 years left. His obsession with perfecting techniques is race against mortality.
+4. **The Transmutation Limit:** There's a cost to transmutation magic Zircon has hidden - each transformation takes tiny piece of caster's life force. He's aged faster than normal elemental-touched (should look 60, looks 87). He calculates he has maybe 30 years left. His obsession with perfecting techniques is race against mortality.
 
 5. **The Failed Experiment:** Zircon once tried to transmute a person's flesh to crystal to achieve immortality. The subject (a volunteer) didn't die but exists in horrible half-transformed state in secret laboratory. They're conscious, suffering, begging for death. He can't reverse it, can't kill them, can't admit failure.
 
@@ -10917,7 +10917,7 @@ She's not evil—she protects the mountain communities from avalanches and warns
 
 {{monster,frame,wide
 ## Forge-Master Thordak Lavaheart
-*Medium humanoid (genasi), lawful neutral*
+*Medium humanoid (elemental-touched), lawful neutral*
 ___
 **Armor Class** :: 16 (chain mail)
 **Hit Points** :: 136 (16d8 + 64)
@@ -10978,7 +10978,7 @@ The Ashwardens are his primary clients, but anyone willing to pay his prices and
 - **Client:** Grand Warden Volcanus Rex (primary contract)
 - **Teacher:** Fire giant smith Ignak (still corresponds)
 - **Rival:** Forge-Master Rurik Ironanvil (respects but competitive)
-- **Apprentice:** One fire genasi who can survive the heat
+- **Apprentice:** One fire elemental-touched who can survive the heat
 - **Contact:** Something in the volcano (trades service for rare metals)
 
 {{descriptive
@@ -19458,7 +19458,7 @@ Legendary: Campaign-defining power ::
 - Example: Vorpal Sword, Ring of Three Wishes
 
 Artifact: Unique, world-shaping power ::
-- Example: Eye of Vecna, Orb of Dragonkind
+- Example: Orb of Dragonkind, Staff of the Magi
 
 {{pageNumber,auto}}
 {{footnote Part V: DM Tools}}

@@ -776,7 +776,6 @@ If you want to understand the vibe: ::
 - Avatar: The Last Airbender (found family, growth)
 - Dragon Age (prophecy, sacrifice)
 - The Wheel of Time (destiny vs. choice)
-- Critical Role Campaign 1 (heroic D&D)
 - Les Misérables (revolution, sacrifice)
 
 {{pageNumber,auto}}

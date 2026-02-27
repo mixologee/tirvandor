@@ -10,7 +10,7 @@ ___
 {{insideCover}}
 
 # Tirvandor
-## Monster Manual
+## Field Guide
 ___
 
 #### Creatures of the Sundered Realms
@@ -18,7 +18,7 @@ ___
 {{padding-top:450px}}
 #### Copyright & Attribution
 
-**Tirvandor Monster Manual** ::
+**Tirvandor Field Guide** ::
 
 Copyright Â© 2025 Jason "Mixologee" Scheponik. All rights reserved.
 
@@ -2339,14 +2339,14 @@ END OF LICENSE
 
 \page
 {{backCover}}
-Monster Manual: Creatures of Tirvandor
+Tirvandor Field Guide: Creatures of Tirvandor
 
 :
 The world of Tirvandor is home to creatures shaped by war, magic, and the lingering scars of the Worldrend. From battle-hardened soldiers to divine champions, from corrupted spawn to ancient guardiansâ€”every monster tells a story of this divided land.
 This compendium presents 50 creatures designed specifically for Tirvandor campaigns, organized by faction and origin for easy reference during play.
 
 :
-This Monster Manual contains:
+This Field Guide contains:
 
 - 50 unique creatures with full stat blocks
 - CR range from 1/8 to 15 for all tiers of play
