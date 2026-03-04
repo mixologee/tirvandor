@@ -15594,6 +15594,156 @@ If this goes bad, I don't know you.
 ---
 {{pageNumber,auto}}
 \page
+## Appendix F: Maps
+
+### Crossroads
+
+![crossroads](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-crossroads.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+
+### Contested Lands
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-contested-lands-region.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+
+### Oleg's Warehouse
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-olegs-warehouse.png){position:absolute,top:150px,left:0px,width:100%}
+
+
+{{pageNumber,auto}}
+\page
+### Forest Road Ambush
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-forest-road-ambush.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Elara's Cottage
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-elara-cottage.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Red Wolf's Bandit Camp
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-red-wolf-bandit.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Pembroke Estate (Grounds + Ground Floor)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-pembroke-gound.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Pembroke Estate (Upper)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-pembroke-upstairs.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+
+### Courtroom / Trial Hall
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-courtroom.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Supply Convoy Route
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-supply-convoy-route.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Intelligence HQ / Safe House
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-defector-hq.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Vault of Whispers (Entrance + Gallery)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-vault-of-whispers-entrance.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Vault of Whispers (Bridge + Guardian)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-vault-of-whispers-bridge.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Royal Vault Level 1 (Entry Hall)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-royal-vault-floor-1.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Royal Vault Level 2 (Ward Zone)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-royal-vault-floor-2.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Royal Vault Level 3 (Trap Gallery)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-royal-vault-floor-3.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Royal Vault Level 4 (Puzzle Locks)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-royal-vault-floor-4.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Royal Vault Level 5 (The Vault)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-royal-vault-floor-5.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Border of Judgment (Standoff)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-judgment-border.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Unbound Safehouse
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-unbound-safehouse.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Battlefield (Dreadhost Defense)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-dreadhost-defense.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Frozen Kingdom (Dead City)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-frozen-kingdom.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### Dread King's Throne Room
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-dread-king-throne-room.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
+### The Mediator's Rest (Grand Hall)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-mediators-rest.png){position:absolute,top:150px,left:0px,width:100%}
+
+{{pageNumber,auto}}
+\page
 
 # Legal Notices and Licenses
 
