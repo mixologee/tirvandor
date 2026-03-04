@@ -813,6 +813,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Appendix E: Player Handouts}}{{ 157}}](#p159)
     - [{{ Crime Family Letter - Intercepted}}{{ 157}}](#p159)
     - [{{ Red Wolf Ranger Badge}}{{ 157}}](#p159)
+  - #### [{{ Appendix F: Maps}}{{ 160}}](#p160)
 }}
 {{skipCounting}}
 \page
@@ -15599,13 +15600,6 @@ If this goes bad, I don't know you.
 ### Crossroads
 
 ![crossroads](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-crossroads.png){position:absolute,top:150px,left:0px,width:100%}
-
-{{pageNumber,auto}}
-\page
-
-### Contested Lands
-
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/BC-Maps/tirvandor-map-contested-lands-region.png){position:absolute,top:150px,left:0px,width:100%}
 
 {{pageNumber,auto}}
 \page
