@@ -811,8 +811,8 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Money & Assets}}{{ 155}}](#p157)
   - #### [{{ Relationship to Shattered Oaths Campaign}}{{ 156}}](#p158)
   - #### [{{ Appendix E: Player Handouts}}{{ 157}}](#p159)
-  - #### [{{ Crime Family Letter - Intercepted}}{{ 157}}](#p159)
-  - #### [{{ Red Wolf Ranger Badge}}{{ 157}}](#p159)
+    - [{{ Crime Family Letter - Intercepted}}{{ 157}}](#p159)
+    - [{{ Red Wolf Ranger Badge}}{{ 157}}](#p159)
 }}
 {{skipCounting}}
 \page
@@ -14493,26 +14493,26 @@ Blood & Coin and Shattered Oaths occur simultaneously in the same world:
 ## SESSION PREP CHECKLIST
 
 ### Before Each Session
-â–¡ Review last session's events and player choices
-â–¡ Prepare NPC voices and personalities
-â–¡ Have stat blocks ready for likely encounters
-â–¡ Print/prepare any handouts needed
-â–¡ Review player character abilities and backstories
-â–¡ Set up battle maps if combat likely
+☐ Review last session's events and player choices
+☐ Prepare NPC voices and personalities
+☐ Have stat blocks ready for likely encounters
+☐ Print/prepare any handouts needed
+☐ Review player character abilities and backstories
+☐ Set up battle maps if combat likely
 
 ### During Session
-â–¡ Track initiative and conditions
-â–¡ Note player decisions for future callbacks
-â–¡ Adjust DCs based on player creativity
-â–¡ Reward clever solutions
-â–¡ Track NPC reactions to player actions
+☐ Track initiative and conditions
+☐ Note player decisions for future callbacks
+☐ Adjust DCs based on player creativity
+☐ Reward clever solutions
+☐ Track NPC reactions to player actions
 
 ### After Session
-â–¡ Note unresolved plot threads
-â–¡ Update faction relationships
-â–¡ Calculate XP/treasure awarded
-â–¡ Plan consequences for next session
-â–¡ Ask for player feedback
+☐ Note unresolved plot threads
+☐ Update faction relationships
+☐ Calculate XP/treasure awarded
+☐ Plan consequences for next session
+☐ Ask for player feedback
 
 ## CAMPAIGN THEMES
 
@@ -15445,33 +15445,33 @@ When fighting in his sanctum, Arcanus can use lair actions:
 
 | Faction | Influence | Status |
 |---------|-----------|--------|
-| The Coin King's Network | ___%  | â–¡Ally â–¡Enemy |
-| Red Wolf Rangers | ___%  | â–¡Ally â–¡Enemy |
-| Merchant's Guild | ___%  | â–¡Ally â–¡Enemy |
-| City Watch (Corrupt) | ___%  | â–¡Ally â–¡Enemy |
-| House Goldshore | ___%  | â–¡Ally â–¡Enemy |
+| The Coin King's Network | ___%  | ☐Ally ☐Enemy |
+| Red Wolf Rangers | ___%  | ☐Ally ☐Enemy |
+| Merchant's Guild | ___%  | ☐Ally ☐Enemy |
+| City Watch (Corrupt) | ___%  | ☐Ally ☐Enemy |
+| House Goldshore | ___%  | ☐Ally ☐Enemy |
 
 ### Party Reputation in Goldreach
 
-- **Underworld:** ___/10 | â–¡Criminal Legend  â–¡Unknown  â–¡Marked for Death
-- **Nobility:** ___/10 | â–¡Respected  â–¡Unknown  â–¡Outcasts
-- **Merchants:** ___/10 | â–¡Trusted Partners  â–¡Unknown  â–¡Banned from Shops
-- **Common Folk:** ___/10 | â–¡Heroes  â–¡Unknown  â–¡Troublemakers
+- **Underworld:** ___/10 | ☐Criminal Legend  ☐Unknown  ☐Marked for Death
+- **Nobility:** ___/10 | ☐Respected  ☐Unknown  ☐Outcasts
+- **Merchants:** ___/10 | ☐Trusted Partners  ☐Unknown  ☐Banned from Shops
+- **Common Folk:** ___/10 | ☐Heroes  ☐Unknown  ☐Troublemakers
 
 ### Key Quest: Uncovering the Coin King's Identity
 
 **Clues Found:** ___/10
 
-- â–¡ Warehouse location
-- â–¡ Meeting schedule
-- â–¡ Financial records
-- â–¡ Witness testimony
-- â–¡ Crime scene photos
-- â–¡ Ledger book
-- â–¡ Corrupt official name
-- â–¡ Safe house address
-- â–¡ True identity
-- â–¡ Final confrontation location
+- ☐ Warehouse location
+- ☐ Meeting schedule
+- ☐ Financial records
+- ☐ Witness testimony
+- ☐ Crime scene photos
+- ☐ Ledger book
+- ☐ Corrupt official name
+- ☐ Safe house address
+- ☐ True identity
+- ☐ Final confrontation location
 
 **Current Theory:** _________________________________
 
@@ -15481,9 +15481,9 @@ When fighting in his sanctum, Arcanus can use lair actions:
 
 **Current Plot:** _________________________________
 
-**Progress:** ____% | Threat to Party: â–¡Low â–¡Med â–¡High
+**Progress:** ____% | Threat to Party: ☐Low ☐Med ☐High
 
-**Party Awareness:** â–¡Clueless  â–¡Suspicious  â–¡Investigating  â–¡Know Everything
+**Party Awareness:** ☐Clueless  ☐Suspicious  ☐Investigating  ☐Know Everything
 
 ### Money & Assets
 
@@ -15521,7 +15521,7 @@ Blood & Coin and Shattered Oaths occur simultaneously in the same world:
 
 ## Appendix E: Player Handouts
 
-## Crime Family Letter - Intercepted
+### Crime Family Letter - Intercepted
 
 
 
@@ -15554,7 +15554,7 @@ If this goes bad, I don't know you.
 **DM Note:** Give this to players if they intercept/steal/find it. Can lead to ambush opportunity or tracking the crime ring. 
 
 {{wide
-## Red Wolf Ranger Badge
+### Red Wolf Ranger Badge
 ```
 ╔═══════════════════════════════════════════╗
 ║                                           ║
