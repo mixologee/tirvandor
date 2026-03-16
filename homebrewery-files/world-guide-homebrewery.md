@@ -12381,6 +12381,10 @@ sometimes taking years to respond to questions.
 -   Has foreseen his own death within the next century, a short time for
     a treant, and has not chosen a successor
 
+{{pageNumber,auto}}
+{{footnote Chapter 25: Religious Orders}}
+\page
+
 **Circle Keeper Lunara** (age 234, wood elf)
 
 The moderate voice on the Council of Elders, Lunara works to bridge
@@ -12510,6 +12514,10 @@ negotiations have been less productive.
 logging, mining, and land development often clash with druidic
 protection of wilderness areas.
 
+{{pageNumber,auto}}
+{{footnote Chapter 25: Religious Orders}}
+\page
+
 ### 25.3 The Grave Wardens (Order of Mordain)
 
 
@@ -12624,6 +12632,10 @@ archives stretching back centuries.
 **Death Investigation:** When deaths occur under mysterious
 circumstances, Grave Wardens may investigate, both to ensure proper
 burial and to determine whether supernatural forces were involved.
+
+{{pageNumber,auto}}
+{{footnote Chapter 25: Religious Orders}}
+\page
 
 #### Interests and Goals
 
@@ -12750,6 +12762,10 @@ documenting millions of deaths stretching back centuries.
 -   Knows the locations of several powerful undead who have been
     "contained" rather than destroyed
 
+{{pageNumber,auto}}
+{{footnote Chapter 25: Religious Orders}}
+\page
+
 #### Headquarters: Hall of Final Rest
 
 
@@ -12779,7 +12795,7 @@ ensure complete destruction.
 
 *The Crypts:* Final resting place for the order's own dead. Extensive
 wards ensure that former Grave Wardens cannot be raised as undead.
-
+\column
 #### Relationships with Other Powers
 
 
@@ -12811,15 +12827,13 @@ Syndicate's other activities.
 force approaches necromantic territory. The Grave Wardens watch them
 carefully, ready to act if they cross the line.
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 26: Arcane Organizations}}
-
+{{footnote Chapter 25: Religious Orders}}
 \page
 
-![Chapter 26: Arcane Organizations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-spellcasting-with-ley-lines.jpg){position:absolute,top:0,left:0,width:100%,height:280px}
+![Chapter 26: Arcane Organizations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-spellcasting-with-ley-lines.jpg){position:absolute,top:0,left:0,width:100%,height:400px}
 
-{{margin-top:290px}}
+{{margin-top:350px}}
 
 ## Chapter 26: Arcane Organizations
 
@@ -12858,8 +12872,12 @@ The Arcanum traces its origins to the decades following the Worldrend,
 when surviving mages recognized the need to preserve magical knowledge
 that might otherwise be lost. The cataclysm had destroyed countless
 libraries, killed generations of teachers, and disrupted the
-apprenticeship traditions that had sustained magical education for
-millennia.
+apprenticeship traditions that had
+
+\column
+{{margin-top:350px}}
+
+sustained magical education for millennia.
 
 The legendary Archmage Celestine, a survivor of the Worldrend who would
 later retreat to the Feywild, gathered what remained of the magical
@@ -12890,6 +12908,10 @@ achieved the rank of Archmage at 250, the youngest in recorded history.
 He developed the Starweaver Synthesis, a technique for combining spells
 of different schools into hybrid effects now taught at every major
 magical academy.
+
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
 
 **Faculty Ranks:**
 
@@ -13008,8 +13030,9 @@ Tirvandor. Veridian was formally inducted into the Arcanum at age 40
 (young for an elf), became a full wizard at 100, and achieved the rank
 of Archmage at 250, the youngest in recorded history.
 
+
 His specialty is divination, but his true mastery lies in the
-intersection of magical schools. He developed the Starweaver Synthesis,
+intersection of magical schools. He developed the Starweaver Synthesis, 
 a technique for combining spells of different schools into hybrid
 effects. The technique is now taught at every major magical academy,
 though few can replicate his fluency.
@@ -13017,6 +13040,11 @@ though few can replicate his fluency.
 Despite his power, Veridian is approachable and patient with students.
 He remembers what it was like to struggle with concepts, even if it was
 four hundred years ago. His office door is always open, and he teaches
+
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
 at least one introductory class per term "to remember where magic
 begins."
 
@@ -13077,7 +13105,7 @@ eerily accurate; students are either fascinated or scared of her.
 
 -   Her correspondent in Aethoria is Archmage Eldrin Aethermere himself;
     they share data contradicting both continents' historical records
-
+\column
 **Sage Cornelius** (age 78, human)
 
 Researcher of ancient civilizations and pre-Worldrend history. He's
@@ -13144,6 +13172,10 @@ maintains official neutrality between Thaldros and Aethoria.
 
 *The Artificers' Consortium:* Professional rivalry mixed with
 cooperation. Both claim authority over magical item creation.
+
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
 
 *Religious Orders:* Generally positive. The Arcanum acknowledges divine
 magic as legitimate, and cooperation occurs on matters involving both
@@ -13273,7 +13305,12 @@ connections, and suspected knowledge of future events make him a prime
 candidate. He neither confirms nor denies.
 
 *Archmage Eldrin Aethermere:* The High Queen's court wizard and most
-powerful mage in Aethoria. His correspondence with western mages
+powerful mage in Aethoria. His 
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
+correspondence with western mages
 suggests connections beyond normal diplomatic channels.
 
 *The High Mages of Major Cities:* Several court wizards and
@@ -13407,6 +13444,10 @@ more dangerous because they think in centuries rather than years. The
 Winter Court prizes survival, memory, and the keeping of ancient
 bargains.
 
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
 *Unaligned:* Some Twilight Court members serve neither great court,
 instead maintaining independence or serving lesser fey powers. These
 individuals often face pressure from both sides.
@@ -13530,7 +13571,13 @@ action against threats to Summer Court interests.
 
 A warlock and Winter Court champion. Where Lady Silverleaf is open and
 warm, Lord Frost is secretive and cold. He appears rarely, speaks
-little, and acts with precise, terrifying efficiency. His presence
+little, and acts with
+
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
+precise, terrifying efficiency. His presence
 chills the air, and his eyes hold the patience of glaciers.
 
 Lord Frost handles Winter Court business that requires\... decisive
@@ -13661,6 +13708,9 @@ if those activities serve purposes mortals can't understand.
 appreciate agents who can slip between worlds, and the fey appreciate
 mortal information networks.
 
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
 
 {{pageNumber,auto}}
 {{footnote Chapter 27: Secret Societies}}
