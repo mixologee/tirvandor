@@ -13712,12 +13712,7 @@ mortal information networks.
 {{footnote Chapter 26: Arcane Organizations}}
 \page
 
-{{pageNumber,auto}}
-{{footnote Chapter 27: Secret Societies}}
-
-\page
-
-![Chapter 27: Secret Societies](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-factions-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:280px}
+![Chapter 27: Secret Societies](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-factions-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
 
 {{margin-top:290px}}
 
@@ -13762,9 +13757,13 @@ coordinated secretly to rebuild society.
 *Symbol:* A stylized hand with an eye in the palm has been found carved
 into stones at ancient sites, painted on walls in abandoned buildings,
 and tattooed on individuals who died under mysterious circumstances. The
-symbol predates the Worldrend, appearing in ruins across both
-continents. Whether this indicates an ancient organization or merely a
-common cultural motif remains debated.
+symbol predates the Worldrend, appearing in ruins
+
+\column
+{{margin-top:290px}}
+
+across both continents. Whether this indicates an ancient organization 
+or merely a common cultural motif remains debated.
 
 *Pattern of Activity:* Those who believe in the Unseen Hand point to a
 consistent pattern: events that should have been catastrophic are
@@ -13802,6 +13801,10 @@ their prisons.
 Hand is preparing for a specific prophesied event. They are not merely
 reacting to threats but positioning pieces for a confrontation they have
 foreseen.
+
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
 
 #### Alleged Activities
 
@@ -13923,6 +13926,10 @@ resources and knowledge.
 *The Pattern Revealed:* The party discovers evidence of the Hand's true
 purpose. What they learn changes everything they thought they knew about
 Tirvandor's history.
+
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
 
 ### 27.2 The Crimson Order
 
@@ -14056,8 +14063,14 @@ blood magic's positive applications.
 *Religious Orders:* The Lightbringers and Grave Wardens consider blood
 magic dangerously close to necromancy. They hunt blood mages with
 varying degrees of zeal depending on local leadership. Some paladins
-believe all blood mages should be executed; others are willing to
-tolerate those who restrict themselves to self-sacrifice.
+believe all blood mages should be executed;
+
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
+others are willing to tolerate those who restrict themselves to 
+self-sacrifice.
 
 *Vampirism Accusations:* Blood mages are constantly fighting
 associations with vampires. The two practices are distinct, vampires
@@ -14189,9 +14202,15 @@ that bind society together.
 
 
 *Primary: Justice for House Blackwood.* Corvus wants the truth exposed,
-that his family were guardians, not traitors; that they died protecting
-the realm from the very artifact they were accused of seeking to use. He
-wants their name cleared and their memory honored.
+that his family were guardians, not
+
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
+traitors; that they died protecting the realm from the very artifact 
+they were accused of seeking to use. He wants their name cleared and 
+their memory honored.
 
 *Secondary: Accountability for the Guilty.* Those who orchestrated the
 Blackwood destruction and its cover-up must face consequences. This
@@ -14314,6 +14333,10 @@ junctions
 
 **Also Known As:** The Circle, The Ley Watchers, The Neutral Mages
 
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
 The Silver Circle is not strictly a secret society, its existence is
 publicly known, and it maintains official relationships with both
 Thaldros and Aethoria. However, the Circle operates with significant
@@ -14371,6 +14394,8 @@ have their own beliefs and sometimes act on them. The institution turns
 a blind eye to certain activities as long as plausible deniability is
 maintained. But official neutrality remains the policy, and open
 political involvement would fracture the organization.
+
+\column
 
 #### Structure
 
@@ -14433,6 +14458,10 @@ theory.
 *The Circle of Eight:* The relationship between the Silver Circle and
 the Circle of Eight is unclear. They may be allied, overlapping, or
 entirely separate. The ambiguity is probably deliberate.
+
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
 
 ### 27.5 The Forgotten Monastery
 
@@ -14567,6 +14596,10 @@ opened by Keeper blood. This biological lock ensures that even if the
 vault's location is discovered, the Component cannot be retrieved
 without a Keeper's cooperation, or their death.
 
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
 *Sworn Secrecy:* Keepers are bound by oaths that prevent them from
 revealing their charge's nature or location, even under torture. The
 oaths are enforced by magic; breaking them brings consequences.
@@ -14608,6 +14641,8 @@ The secret societies of Tirvandor do not operate in isolation. Their
 goals sometimes align, sometimes conflict, and sometimes intersect in
 unexpected ways.
 
+\column
+
 *The Unseen Hand --- The Circle of Eight:* Possibly overlapping,
 possibly allied, possibly the same organization. Both claim to work
 toward preventing catastrophe, but their methods and membership remain
@@ -14638,10 +14673,8 @@ threat.
 organizations with shared research interests. Unofficially, both
 maintain secrets from the other.
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 28: Military Orders}}
-
+{{footnote Chapter 27: Secret Societies}}
 \page
 
 ## Chapter 28: Military Orders
@@ -14769,15 +14802,13 @@ Thaldros and undergo years of additional training.
 **Selection:** Only the finest soldiers may apply; the failure rate is
 over 80%
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 29: Inter-Faction Relationships}}
-
+{{footnote Chapter 28: Military Orders}}
 \page
 
-![Chapter 29: Inter-Faction Relationships](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-factions-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:280px}
+![Chapter 29: Inter-Faction Relationships](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-factions-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:400px}
 
-{{margin-top:290px}}
+{{margin-top:350px}}
 
 ## Chapter 29: Inter-Faction Relationships
 
@@ -14814,6 +14845,9 @@ death and the afterlife. The Grave Wardens are more pragmatic about
 mortality; the Lightbringers sometimes view this pragmatism as morbid.
 
 *Duration:* Centuries old, predating current organizational structures.
+
+\column
+{{margin-top:350px}}
 
 **Merchant League --- Free Cities Alliance**
 
@@ -14858,6 +14892,10 @@ compromises.
 Speaker Aquila Clearwater (Aethorian Council).
 
 *Duration:* Millennia, predates the Worldrend.
+
+{{pageNumber,auto}}
+{{footnote Chapter 29: Inter-Faction Relationships}}
+\page
 
 **Arcanum --- Artificers' Consortium**
 
@@ -14999,6 +15037,10 @@ intense; the Council is expansive and political. Limited contact means
 limited understanding.
 
 *Status:* Respectful but distant.
+
+{{pageNumber,auto}}
+{{footnote Chapter 29: Inter-Faction Relationships}}
+\page
 
 **Forgebound Guild --- Merchant League**
 
@@ -15151,6 +15193,10 @@ handle volcanic regions.
 *Key Dispute:* Are the volcanic seals protecting civilization or
 imprisoning something that should be free?
 
+{{pageNumber,auto}}
+{{footnote Chapter 29: Inter-Faction Relationships}}
+\page
+
 *Tension Level:* Low, philosophical disagreement, not active conflict.
 
 *Resolution Chance:* Low, fundamental disagreement on the nature of the
@@ -15292,6 +15338,10 @@ Aethorian Council)
 *Current Status:* Patrols from both sides regularly clash. Neither
 government has officially acknowledged a state of conflict.
 
+{{pageNumber,auto}}
+{{footnote Chapter 29: Inter-Faction Relationships}}
+\page
+
 *Risk:* Could escalate to declared war if a major incident occurs.
 
 *Potential Catalyst:* Crown Prince Thorin Thandris wishes to prove
@@ -15365,62 +15415,34 @@ accelerating
 *Complication:* The Unbound's cause has legitimate merit even if their
 methods are extreme
 
+\column
+
 ### 29.5 Faction Power Summary
 
 
-  **Faction**       **Type**             **Power        **Primary Resources**
-                                         Level**        
-  ----------------- -------------------- -------------- --------------------------
-  Iron Council      Military/Political   Very High      Armies, fortresses,
-  (Thaldros)                                            trained soldiers
+| Faction | Type | Power Level | Primary Resources |
+|:-------:|:----:|:-----------:|:-----------------:|
+|  Iron Council (Thaldros) |      Military/Political |  Very High   |   Armies, fortresses,trained soldiers|
+|  Merchant League  | Economic           |  Very High     | Wealth, trade routes, influence|
+|  Aethorian Council| Political/Magical  |  High          | Magic, ancient knowledge, diplomacy|
+|  Shadow Syndicate | Criminal           |  High          | Secrets, assassins, black market|
+|  Ashwardens       | Regional           |  Moderate      | Fire magic, volcanic control|
+|  Green Circle (Druids) |     Religious |  Moderate      | Natural forces, beast allies, sacred sites|
+|  Lightbringers   |  Religious          |  Moderate      | Divine magic, military training|
+|  Grave Wardens   |  Religious          |  Moderate      | Death magic, undead expertise|
+|  The Arcanum     |  Academic           |  Moderate      | Magical knowledge, trained wizards|
+|  Ironspine Rangers| Wilderness         |  Low-Moderate  | Scouts, guerrilla tactics, nature magic|
+|  Forgebound Guild|  Crafting           |  Moderate      | Masterwork items, dwarven connections|
+|  Iron Legion     |  Mercenary          |  Moderate      | Professional soldiers, flexibility|
+|  Silver Wardens  |  Monster Hunting    |  Low           | Expert hunters, monster knowledge|
+|  Twilight Court  |  Fey                |  Unknown       | Fey magic, archfey connections|
+|  Circle of Eight |  Secret             |  Unknown       | Legendary magical power (if they exist)|
+|  Unseen Hand     |  Secret             |  Unknown       | Influence networks (if they exist)|
+|  The Unbound     |  Revolutionary      |  Growing       | True believers, dangerous artifacts|
 
-  Merchant League   Economic             Very High      Wealth, trade routes,
-                                                        influence
-
-  Aethorian Council Political/Magical    High           Magic, ancient knowledge,
-                                                        diplomacy
-
-  Shadow Syndicate  Criminal             High           Secrets, assassins, black
-                                                        market
-
-  Ashwardens        Regional             Moderate       Fire magic, volcanic
-                                                        control
-
-  Green Circle      Religious            Moderate       Natural forces, beast
-  (Druids)                                              allies, sacred sites
-
-  Lightbringers     Religious            Moderate       Divine magic, military
-                                                        training
-
-  Grave Wardens     Religious            Moderate       Death magic, undead
-                                                        expertise
-
-  The Arcanum       Academic             Moderate       Magical knowledge, trained
-                                                        wizards
-
-  Ironspine Rangers Wilderness           Low-Moderate   Scouts, guerrilla tactics,
-                                                        nature magic
-
-  Forgebound Guild  Crafting             Moderate       Masterwork items, dwarven
-                                                        connections
-
-  Iron Legion       Mercenary            Moderate       Professional soldiers,
-                                                        flexibility
-
-  Silver Wardens    Monster Hunting      Low            Expert hunters, monster
-                                                        knowledge
-
-  Twilight Court    Fey                  Unknown        Fey magic, archfey
-                                                        connections
-
-  Circle of Eight   Secret               Unknown        Legendary magical power
-                                                        (if they exist)
-
-  Unseen Hand       Secret               Unknown        Influence networks (if
-                                                        they exist)
-
-  The Unbound       Revolutionary        Growing        True believers, dangerous
-                                                        artifacts
+{{pageNumber,auto}}
+{{footnote Chapter 29: Inter-Faction Relationships}}
+\page
 
 ### 29.6 Relationship Quick Reference
 
@@ -15428,62 +15450,40 @@ methods are extreme
 #### Who Allies with Whom
 
 
-  **Faction**     **Primary Allies**              **Reason**
-  --------------- ------------------------------- ------------------------
-  Lightbringers   Grave Wardens                   United against undead
-
-  Merchant League Free Cities Alliance, Iron      Trade and security
-                  Council                         
-
-  Green Circle    Aethorian Harmony, Ironspine    Shared environmental
-                  Rangers                         values
-
-  Arcanum         Artificers' Consortium, Silver Knowledge sharing
-                  Circle                          
-
-  Iron Council    Forgebound Guild, Merchant      Military supply and
-                  League                          economics
-
-  Druidic Circle  Ironspine Rangers, Aethorian    Nature protection
-                  Council                         
+| Faction | Primary Allies | Reason |
+|:-------:|:--------------:|:------:|
+|  Lightbringers  | Grave Wardens                  | United against undead|
+|  Merchant League| Free Cities Alliance, Iron Council    |  Trade and security|
+|  Green Circle   | Aethorian Harmony, Ironspine Rangers |   Shared environmental values|
+|  Arcanum        | Artificers' Consortium, Silver Circle|Knowledge sharing|
+|  Iron Council   | Forgebound Guild, Merchant League   |  Military supply and economics|
+|  Druidic Circle | Ironspine Rangers, Aethorian Council  | Nature protection|
+                  
 
 #### Who Opposes Whom
 
 
-  **Faction**     **Primary             **Reason**
-                  Rivals/Enemies**      
-  --------------- --------------------- ----------------------------------
-  Iron Council    Aethorian Council     Ideological (reunification
-                                        approach)
+| Faction | Primary Rivals/Enemies | Reason |
+|:--|:--|:--|
+| Iron Council | Aethorian Council | Ideological (reunification approach) |
+| Ironspine Rangers | Merchant League | Environmental (exploitation vs. conservation) |
+| Lightbringers | Twilight Court | Philosophical (law vs. chaos) |
+| Everyone | Shadow Syndicate | Criminal vs. lawful |
+| Druidic Circle | Ashwardens | Philosophical (nature of volcanic seals) |
+| Forgebound Guild | Merchant League | Economic (fair compensation) |
 
-  Ironspine       Merchant League       Environmental (exploitation vs.
-  Rangers                               conservation)
-
-  Lightbringers   Twilight Court        Philosophical (law vs. chaos)
-
-  Everyone        Shadow Syndicate      Criminal vs. lawful
-
-  Druidic Circle  Ashwardens            Philosophical (nature of volcanic
-                                        seals)
-
-  Forgebound      Merchant League       Economic (fair compensation)
-  Guild                                 
+\column
 
 #### Who Has Complex Relationships
 
 
-  **Pairing**                    **Nature**
-  ------------------------------ ----------------------------------------
-  Circle of Eight --- Arcanum    Overlapping membership, mutual secrecy
-
-  Iron Legion --- Everyone       Mercenary serves many masters
-
-  Twilight Court --- Everyone    Fey agendas are inscrutable
-
-  Silver Circle --- Both         Maintained neutrality
-  Continents                     
-
-  Unseen Hand --- Everyone       Unknown influence (if they exist)
+| Pairing | Nature |
+|:--|:--|
+| Circle of Eight — Arcanum | Overlapping membership, mutual secrecy |
+| Iron Legion — Everyone | Mercenary serves many masters |
+| Twilight Court — Everyone | Fey agendas are inscrutable |
+| Silver Circle — Both Continents | Maintained neutrality |
+| Unseen Hand — Everyone | Unknown influence (if they exist) |
 
 *The factions of Tirvandor are living organizations that grow, change,
 and respond to events. Alliances shift, rivalries intensify or fade, and
@@ -15492,21 +15492,14 @@ described here represent the current state of affairs in 1247 CR, a
 snapshot of a constantly evolving political landscape.*
 
 
-\page
-
-# Part VI: Settlements
-
-
-
 {{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-
+{{footnote Chapter 29: Inter-Faction Relationships}}
 \page
 
-![Chapter 30: Major Cities](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-goldreach-skyline.jpg){position:absolute,top:0,left:0,width:100%,height:280px}
+![Chapter 30: Major Cities](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-goldreach-skyline.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
 
 {{margin-top:290px}}
-
+# Part VI: Settlements
 ## Chapter 30: Major Cities
 
 
@@ -15568,6 +15561,10 @@ surface construction with dwarf deep halls. The name means "Thandris
 Hold" in Old Dwarvish. The location was strategic: controlling mountain
 passes, accessing mythril veins, and symbolically uniting human and
 dwarf.
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 **The Crown Forge (650 CR):** Thorin I commissioned a legendary forge
 capable of creating permanent magical items. The forge requires a master
