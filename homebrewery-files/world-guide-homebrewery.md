@@ -23612,6 +23612,10 @@ rather than from behind.
 -   Carries guilt over being groomed for kingship while others fight on
     the frontiers
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 #### Complete Background & History
 
 
@@ -23748,6 +23752,9 @@ accused of treason by hardliners on their respective sides. The letters
 are encoded using a cipher they developed together and delivered through
 trusted merchant intermediaries.
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
 **The Older Half-Brother**
 
 During his northern service, Thorin discovered evidence of a bastard
@@ -23868,7 +23875,13 @@ confrontation, Elanil is a master of enchantment magic capable of
 charming enemies, redirecting attacks, and controlling minds when
 necessary. Her true power lies in her diplomatic abilities---she has
 prevented three wars through negotiation alone. Anyone who mistakes her
-gentle demeanor for weakness has already lost whatever game they thought
+gentle
+
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
+demeanor for weakness has already lost whatever game they thought
 they were playing.
 
 #### Personality & Mannerisms
@@ -23996,6 +24009,10 @@ their shared dangerous mission.
 
 -   Survive the assassination attempts being made on her life
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 **Medium-Term Ambitions:**
 
 -   Advance the cause of reunification through gradual steps---trade
@@ -24060,7 +24077,7 @@ treason by hardliners on both continents. The letters discuss specific
 plans for gradual reunification---trade agreements leading to political
 alliance leading to eventual merger. If intercepted and decoded, both
 kingdoms could explode into crisis.
-
+\column
 **The Mother's Knowledge**
 
 High Queen Aelindra knows about the correspondence and quietly
@@ -24121,6 +24138,9 @@ is planned during a major diplomatic summit. Investigators must identify
 the conspirators and prevent an incident that could undo decades of
 careful diplomacy.
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
 **The Impossible Choice:** War threatens between the kingdoms. Elanil
 offers heroes a controversial mission that could prevent war but
 requires morally questionable actions. Will they help her, or refuse and
@@ -24139,6 +24159,7 @@ those in palaces who insist we must be enemies."*
 
 ### 36.5 Archmage Eldrin Aethermere
 
+![36.5 Eldrin Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-eldrin-aethermere.jpg){width:200px,float:right,margin:5px}
 
 **Royal Mage and Prince of Aethoria**
 
@@ -24173,7 +24194,7 @@ He usually wears elaborate robes covered in embroidered runes and
 astrological symbols, each with specific magical meaning. He carries an
 ancient staff that hums with barely contained arcane power. His fingers
 are perpetually stained with ink from constant research and note-taking.
-
+\column
 **Threat Level:** One of the most powerful wizards alive. His mastery of
 divination means he can often predict enemy actions before they occur,
 while his command of defensive and offensive magic can devastate armies.
@@ -24238,6 +24259,10 @@ spells to lethal force when possible.
 
 -   Struggles with emotional situations, strongly preferring logic
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 #### Complete Background & History
 
 
@@ -24298,7 +24323,7 @@ clearly---which disturbs him more than any specific threat would.
 -   Protect his family from the shadows gathering in his visions
 
 -   Continue his research into the magical causes of the Worldrend
-
+\column
 **Medium-Term Ambitions:**
 
 -   Identify the nature of the approaching crisis
@@ -24361,6 +24386,10 @@ in others his sister, sometimes both. He does not know if these futures
 are inevitable or preventable, and he is terrified that trying to
 prevent them might actually cause them to occur.
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 **The Forbidden Research**
 
 He has been studying the Celestial Compass fragments and the magic that
@@ -24401,7 +24430,7 @@ central to preventing catastrophe. He recruits them for a dangerous
 mission based purely on his visions of the future. They must trust his
 foresight while he cannot explain the full picture without potentially
 changing the outcomes he foresaw.
-
+\column
 **The Prophecy Investigation:** Eldrin predicts disaster at a specific
 place and time. Investigators must determine if the threat is real or
 another false alarm. If they prevent it, was it ever actually going to
@@ -24438,10 +24467,8 @@ it."*
 prunes some possibilities and grows others. My gift is to see the shape
 of the tree---my curse is knowing I cannot climb every branch."*
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-
+{{footnote Chapter 36: Royalty and Heads of State}}
 \page
 
 ## Chapter 37: Nobility and Aristocracy
@@ -24455,6 +24482,7 @@ alliances, and rivalries.
 
 ### 37.1 Thane Durin Ironforge
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-thane-durin-ironforge.jpg){width:200px,float:right,margin:5px}
 
 **Master of the Deep Mines, Lord of House Ironforge**
 
@@ -24573,6 +24601,9 @@ Thaldros' iron and most of its mythril. Their smiths are legendary
 across both continents. Other houses need Ironforge products, which
 translates directly to political power.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 But success brings new problems. The deeper they mine, the stranger
 things they find---ancient tunnels, sealed chambers, things that
 shouldn't exist. Durin has kept these discoveries secret, but he's
@@ -24643,7 +24674,7 @@ future for centuries.
 **Secret Arrangements:**
 
 -   A red dragon near one mythril vein---they have an arrangement
-
+\column
 #### Secrets
 
 
@@ -24713,6 +24744,10 @@ incinerated.
 inside. Durin must admit the truth and get help before whatever is down
 there escapes.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 #### Notable Quotes
 
 
@@ -24726,6 +24761,7 @@ rather not hear."*
 
 ### 37.2 Sultan Rashid Ashborne
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sultan-rashid-ashborne.jpg){width:200px,float:right,margin:5px}
 
 **Sultan of Sundara, Head of House Ashborne, Desert Trade Lord**
 
@@ -24840,6 +24876,10 @@ He immediately consolidated power by marrying two additional wives from
 competing clans, essentially holding their heirs as political hostages.
 This gave him leverage over the three most powerful nomad groups in the
 desert.
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 **The Seven Children**
 
@@ -24980,6 +25020,10 @@ previous expeditions disappeared.
 could destroy House Ashborne if it becomes public. He needs the problem
 to disappear quietly.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 #### Notable Quotes
 
 
@@ -25041,7 +25085,7 @@ soldiers would follow him into certain death.
 
 **Voice:** Deep, commanding. Thick dwarvish accent. Speaks in short,
 direct sentences.
-
+\column
 **Defining Principles:**
 
 -   Gruff but honorable
@@ -25116,6 +25160,10 @@ His first command was massacred because he trusted bad intelligence.
 Survivors were told it was enemy action. It was actually friendly fire
 from panicking human troops.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 #### Notable Quotes
 
 
@@ -25126,6 +25174,7 @@ that number through carelessness."*
 
 ### 37.4 General Marthos Thandris
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-general-marthos-thandris.jpg){width:200px,float:right,margin:5px}
 
 **General of the Royal Army, Distant Cousin to the King**
 
@@ -25248,6 +25297,10 @@ kingdom needs strong leadership.
 
 -   If necessary, that leadership might be his own
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 #### Relationships & Connections
 
 
@@ -25318,7 +25371,7 @@ tyrannical general?
 *"Victory justifies any sacrifice---except honor."*
 
 *"Strategy before sentiment."*
-
+\column
 ### 37.5 Lord Aldris Goldshore IV
 
 ![37.5 Lord Aldris Goldshore IV](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-aldris-goldshore-iv.jpg){width:200px,float:right,margin:5px}
@@ -25376,6 +25429,10 @@ mysterious "accidents."
 -   *"Every interaction is a transaction. Everyone wants something."*
 
 -   *"Morality is expensive. I prefer practical solutions."*
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 -   *"Gold buys freedom---from laws, from consequences, from limits."*
 
@@ -25517,6 +25574,10 @@ be destroyed---or transformed into something better.
 
 -   Increasingly troubled by her family's business practices
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 **Voice:** Warm, genuine, with a musical quality from bardic training.
 
 **Defining Principles:**
@@ -25615,6 +25676,7 @@ operations.
 
 ### 37.7 Merchant Prince Davos Goldshore
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-davos-goldshore.jpg){width:200px,float:right,margin:5px}
 
 **Leader of the Goldshore Branch Family, Trade Council Member**
 
@@ -25647,6 +25709,10 @@ million gold pieces. Controls approximately forty percent of maritime
 trade between continents. Has eliminated competitors through means legal
 and otherwise, and maintains extensive blackmail files on dozens of
 nobles, merchants, and officials.
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 #### Personality & Mannerisms
 
@@ -25730,6 +25796,7 @@ profitable investment."*
 
 ### 37.8 Lady Morgana Blackwater
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-morgana-blackwater.jpg){width:200px,float:right,margin:5px}
 
 **Ruler of Marshaven, Necromancer**
 
@@ -25787,6 +25854,10 @@ Blackwater name---the oldest family in Marshaven. Her husband died three
 years into the marriage under mysterious circumstances. She's ruled the
 city ever since.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 Marshaven has always been overlooked: too swampy, too poor, too strange.
 The continental powers take its taxes but provide nothing in return.
 Morgana decided to change that.
@@ -25834,6 +25905,7 @@ Needs five hundred undead for her plan. At current rate: five years.
 
 ### 37.9 Council Mistress Elara Silverleaf
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-mistress-elara-silverleaf.jpg){width:200px,float:right,margin:5px}
 
 **Head of Silverpine Council, University Rector**
 
@@ -25846,7 +25918,7 @@ Needs five hundred undead for her plan. At current rate: five years.
 
 -   Matriarch of House Silverleaf (former---passed duties to focus on
     academia)
-
+\column
 #### Age & Physical Description
 
 
@@ -25918,6 +25990,10 @@ The University has a vault of dangerous magical knowledge. Only she has
 access. Contains things that shouldn't exist---necromancy tomes, demon
 summoning, reality-breaking spells. She's studied them all "to know
 how to counter them."
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 **The Staff Fragment**
 
@@ -26037,6 +26113,10 @@ across miles. However, her powers are tied to her emotions, and when she
 loses control, ships sink and people die. She is simultaneously one of
 House Stormcrest's greatest assets and their greatest liability.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 #### Personality & Mannerisms
 
 
@@ -26090,7 +26170,7 @@ days.
 Recently, her power is growing. Weather responds to her moods even when
 she's not trying. She's starting to hear whispers in
 storms---something calling to her from deep weather patterns.
-
+\column
 #### Secrets
 
 
@@ -26126,17 +26206,15 @@ she'd accepted.
 
 *"I am the storm. You're just in it."*
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 38: Religious Leaders}}
-
+{{footnote Chapter 37: Nobility and Aristocracy}}
 \page
 
 ## Chapter 38: Religious Leaders
 
-
 ### 38.1 High Priest Rashid Al-Sahir
 
+![38.1 ](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-high-priest-rashid-al-sahir.jpg){width:195px,float:right,margin:5px}
 
 **Title:** High Priest of Sundara, Chief Spiritual Advisor to the Sultan
 
@@ -26175,7 +26253,7 @@ mentorship), Merchant Prince Davos Goldshore (cautious alliance)
 
 ### 38.2 Archdruid Silvaris Oakenheart
 
-![38.2 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silvaris.jpg){width:200px,float:right,margin:5px}
+![38.2 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silvaris.jpg){width:195px,float:right,margin:5px}
 
 
 **Title:** Chief Archdruid of the Silverwood Circle
@@ -26201,6 +26279,7 @@ traditions), House Verdantheart (fellow druids)
 
 ### 38.3 The Sand Prophet
 
+![38.3 ](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-sand-prophet.jpg){width:195px,float:right,margin:5px}
 
 **Title:** Desert Oracle
 
@@ -26219,10 +26298,8 @@ who rely on their guidance.
 **Secret:** The Sand Prophet may not be a single individual but rather a
 title passed down through generations---or something else entirely.
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 39: Military Commanders}}
-
+{{footnote Chapter 38: Religious Leaders}}
 \page
 
 ## Chapter 39: Military Commanders
