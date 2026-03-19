@@ -15626,7 +15626,7 @@ court and holiest site.
 
 **The Outer City:** Common housing, rebuilt after the dragon attack. A
 memorial to survival and resilience.
-
+\column
 #### Economy
 
 
@@ -15693,6 +15693,10 @@ civilians live in. The garrison outnumbers civilians. Everything serves
 the mission: hold the pass, stop invasions from the north, maintain
 trade route security.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 #### History
 
 
@@ -15754,7 +15758,7 @@ the Northern Pass.
 Year-round garrison of 3,000 soldiers. Massive walls spanning the
 valley. Multiple defensive levels, each independently defensible. The
 fortress has never fallen.
-
+\column
 ### 30.3 Silverpine (Forest Capital)
 
 ![30.3 Silverpine (Forest Capital)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-silverpine-university-city.jpg){width:325px}
@@ -15790,6 +15794,10 @@ city where non-elves are freely welcomed. Canopy level remains exclusive
 to elves and honored guests, a realm of light and leaves that most
 humans never see. At the city's heart stands the Heart Tree, an ancient
 world-tree considered sacred, where the most important rituals occur.
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 #### History
 
@@ -15848,7 +15856,7 @@ The Silverpine Council (city government) is chaired by Council Mistress
 Elara Silverleaf, who also serves as Rector of the University.
 Silverpine is unique---governed by a council of academics, merchants,
 and artisans rather than purely hereditary nobility.
-
+\column
 #### Districts
 
 
@@ -15911,6 +15919,10 @@ halfling, 5% other)
 and Lord Aldris IV Goldshore (acting lord)
 
 **Founded:** Pre-Worldrend (as Deepwater western hub); Reformed 698 CR
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 #### Character and Atmosphere
 
@@ -16037,7 +16049,11 @@ Harbor guard of 200 soldiers. 100 guards securing warehouses. 50 elite
 guards protecting banking vaults. The size of their spy network is
 unknown, but its reach extends across both continents.
 
-### 3.5 Crossvale (Trade Junction)
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+### 30.5 Crossvale (Trade Junction)
 
 
 **Region:** The Heartlands
@@ -16160,7 +16176,12 @@ during the seven sieges.
 Crossvale produces forty percent of Thaldros' grain and effectively
 controls grain prices across the kingdom. As a hub for all
 cross-continental trade, its merchants have connections in every major
-city from Kaer Thandros to Aethermere. The Heartwoods are wealthy but
+city from Kaer Thandros to
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+Aethermere. The Heartwoods are wealthy but
 unpretentious---their economic leverage speaks louder than any display
 of riches.
 
@@ -16223,7 +16244,7 @@ a city. He married into three major clans over fifteen years, binding
 their interests through blood. Through diplomacy, strategic marriages,
 and occasional violence, he united enough clans to make his vision
 reality.
-
+\column
 **The Founding (967 CR):** Malik proclaimed the founding of
 Sundara---the "City of the Sun"---at the great oasis cluster. He built
 initial structures himself alongside followers, demonstrating through
@@ -16283,6 +16304,10 @@ miraculous in the desert.
 
 **The Great Bazaar:** The largest covered market in Thaldros. The
 massive structure shields traders from the sun while they negotiate.
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 **The Clan Quarters:** Different nomadic clans maintain their own
 territories within the city, preserving traditional identities.
@@ -16404,9 +16429,14 @@ mistake.
 The dragon attacked in a single day. Her flames burned hotter than
 volcanic forges, reducing "fire-resistant" construction to slag. She
 destroyed half the city in hours, burned the "impregnable" Emberthorn
-fortress to a hollow shell, killed Lord Marcus and most of his family,
-enslaved survivors who surrendered, and looted family vaults called
-inviolable.
+fortress to a hollow shell, killed Lord Marcus and most
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+of his family, enslaved survivors who surrendered, and looted family 
+vaults called inviolable.
 
 **The Occupation (1156-1201 CR):** For forty-five years, Infernalix
 ruled Ashgate directly. Survivors paid tribute or died. Population
@@ -16469,6 +16499,8 @@ places.
 food storage (heat spoils food quickly above), refuge during eruptions,
 and secrets. Something from the dragon's time may remain hidden in
 deeper chambers.
+
+\column
 
 #### Economy
 
@@ -16536,7 +16568,13 @@ Aethermere doesn't sit in the forest---it IS the forest. The city grows
 organically from five great world-trees, the largest living things in
 the known world. Massive trees hundreds of feet tall form the framework.
 Buildings are shaped from living wood, grown rather than built over
-generations. Bridges of woven vines connect platforms at multiple canopy
+generations. Bridges of woven vines
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+connect platforms at multiple canopy
 levels. Roots the size of houses create natural archways and chambers.
 
 The entire city pulses with life. Leaves rustle constantly. Luminous
@@ -16646,6 +16684,10 @@ expansion pushes ever closer to Aethorian borders, and---a secret known
 only to the innermost circle---one of the five world-trees that form the
 city's heart is slowly dying.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 #### Government
 
 
@@ -16723,7 +16765,7 @@ belongs to an ancient family.
 -   **The Star Walk:** Highest bridges, walking among stars
 
 -   **Noble Groves:** Each house has sacred grove
-
+\column
 ##### The Living City (Middle Canopy)
 
 Where most citizens live and work. Woven platforms, shaped wood
@@ -16792,6 +16834,10 @@ clearings, sacred springs.
     invaders
 
 -   **Magic:** Druidic wards, tree magic, connection to fey realm
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 -   **The Trees Fight:** In crisis, world-trees themselves defend city
 
@@ -16931,6 +16977,10 @@ western kin (who became House Silverleaf). Strangely, meteor activity
 actually increased following the Worldrend, as if the cataclysm had
 enhanced whatever drew celestial objects here.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 #### House Starweaver Rule
 
 
@@ -17063,6 +17113,10 @@ Dangerous collection areas where celestial debris is harvested.
 
 -   Processing facilities
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 ##### The Market Circle (Ground Level)
 
 Small market for necessities. Most scholars ignore it.
@@ -17176,6 +17230,10 @@ is constant---musical, soothing.
 The lake itself is unnaturally clear---you can see 100 feet down. Fish
 swim in crystal waters. Water plants wave in currents. The
 Crystalborn's water-speaking magic maintains the purity.
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 **Atmosphere:** Peaceful, mystical, slightly alien. The Crystalborn have
 evolved beyond normal merchant concerns---they're water-speakers now,
@@ -17299,6 +17357,10 @@ legacy---and the same archives.
     mother's favorite
 
 Two heirs have died "accidentally" (actually murdered by siblings).
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 #### Districts
 
@@ -17457,6 +17519,10 @@ ships. Crystalborn watched from a distance and did nothing. In 1246 CR,
 pirates stole a crucial Goldshore map---Crystalborn arranged this theft
 but denied involvement.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 **The Vault Location:** Lady Aria has secretly discovered the location
 of the main Deepwater family vault beneath the Sundering Sea. Reaching
 it would prove their legitimacy---but getting there requires crossing
@@ -17583,6 +17649,10 @@ leaves, creaking branches, and---rarely---direct speech.
 **Fey Court:** Representatives maintain voice in council decisions,
 coming and going according to inscrutable schedules.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 **Governance Structure:**
 
 -   No laws, only traditions
@@ -17656,7 +17726,7 @@ Wildgrove has no traditional economy:
 -   Fey trade in favors, not goods
 
 -   Material wealth has no meaning here
-
+\column
 #### Defenses
 
 
@@ -17732,6 +17802,10 @@ The city smells of wet earth, decay, and growth simultaneously. The
 sound of frogs and insects is constant. By night, bioluminescent swamp
 life creates eerie glows.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 The city looks temporary but has stood 400 years. It's adapted, learned
 to thrive where others would fail. There's pride in that.
 
@@ -17791,7 +17865,7 @@ treasures, and they guarded those secrets jealously. Their poison craft
 became legendary---not just for killing, but for healing draughts
 derived from understanding toxins. By 1000 CR, Marshaven had grown to
 3,000 residents.
-
+\column
 **The Dubious Methods:** From founding, House Thornveil embraced gray
 morality. They hired necromancers to study the boundary between life and
 death. Employed dark druids expelled from their circles for forbidden
@@ -17853,8 +17927,11 @@ Something is being planned in Marshaven's laboratories.
 
 -   Dangerously ambitious
 
-#### Districts
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
+#### Districts
 
 ##### The Stilt City (Main Settlement)
 
@@ -18011,6 +18088,10 @@ Thornveils know because they've been feeding it---whether intentionally
 or accidentally, their alchemical waste has awakened something that
 shouldn't be awake.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 **The Radical Heir:** Lyra Thornveil's plans go far beyond what her
 father imagines. She doesn't just want political influence---she wants
 to overthrow the Chosen Heir system entirely and establish true
@@ -18133,8 +18214,15 @@ Crystalborn has intensified, and Port Myrthen sits directly between
 them. Each house pressures the Merchant Council to favor their
 interests; each threatens consequences for favoring the other. The
 neutrality that once seemed unshakeable now feels fragile. Population
-has grown to 9,000, but many residents worry the city is walking a
+has grown to 9,000, but many
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+residents worry the city is walking a
 political tightrope with no net below.
+
 
 #### Government
 
@@ -18287,6 +18375,10 @@ from seizing control.
 
 -   **Wealth:** Can afford the best mercenaries and defenses
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 #### Notable NPCs
 
 
@@ -18324,7 +18416,7 @@ wars.
 whether Port Myrthen could become something more than a neutral trading
 post---perhaps the nucleus of a third power, independent of both
 continents. This is dangerous thinking.
-
+\column
 **The Deepwater Archives:** Both Goldshore and Crystalborn use Port
 Myrthen as a staging ground for expeditions to the sunken Palace Port.
 The Merchant Council profits from both sides, but if either house ever
@@ -18334,36 +18426,22 @@ permanently.
 ### 30.14 SUMMARY TABLE: AETHORIAN MAJOR CITIES
 
 
-  **City**           **Region**    **Population**   **Government**   **Primary Character**
-  ------------------ ------------- ---------------- ---------------- ---------------------
-  **Aethermere**     Emerald Deeps 38,000           High Queen +     Living forest
-                                                    Councils         capital, elven
-                                                                     royalty
-
-  **Starfall**       Starwood      6,500            Archmagister     Observatory city,
-                                                                     celestial scholars
-
-  **Crystalbrook**   Crystalvale   12,000           Council of Waves Water-speaker
-                                                                     mystics, trade hub
-
-  **Wildgrove**      Split         5,000            Elder Council    Sacred neutral
-                     Peninsula                      (druids)         sanctuary
-
-  **Marshaven**      Thornmire     8,000            House Thornveil  Swamp fortress,
-                                                                     alchemy/poisons
-
-  **Port Myrthen**   Drifting      9,000            Merchant Council Neutral trade hub
-                     Chain                                           between continents
-
+| City | Region | Population | Government | Primary Character |
+|:--|:--|:--|:--|:--|
+| **Aethermere** | Emerald Deeps | 38,000 | High Queen + Councils | Living forest capital, elven royalty |
+| **Starfall** | Starwood | 6,500 | Archmagister | Observatory city, celestial scholars |
+| **Crystalbrook** | Crystalvale | 12,000 | Council of Waves | Water-speaker mystics, trade hub |
+| **Wildgrove** | Split Peninsula | 5,000 | Elder Council (druids) | Sacred neutral sanctuary |
+| **Marshaven** | Thornmire | 8,000 | House Thornveil | Swamp fortress, alchemy/poisons |
+| **Port Myrthen** | Drifting Chain | 9,000 | Merchant Council | Neutral trade hub between continents |
 
 {{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-
+{{footnote Chapter 30: Major Cities}}
 \page
 
-![Chapter 31: Towns and Regional Settlements](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-border-town-contested-lands.jpg){position:absolute,top:0,left:0,width:100%,height:280px}
+![Chapter 31: Towns and Regional Settlements](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-border-town-contested-lands.jpg){position:absolute,top:0,left:0,width:100%,height:440px}
 
-{{margin-top:290px}}
+{{margin-top:390px}}
 
 ## Chapter 31: Towns and Regional Settlements
 
@@ -18409,7 +18487,8 @@ warriors singing from beyond.
 **Population:** ~2,200
 
 **Character:** Mountain pass guard post
-
+\column
+{{margin-top:410px}}
 **Notable Features:**
 
 -   Warns of frost giant incursions
@@ -18459,6 +18538,9 @@ are home to rare magical ore veins that glow faintly at night.
 
 **Character:** Deep mining town, primarily dwarven
 
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
 **Notable Features:**
 
 -   Volcanic forges using natural geothermal heat
@@ -18476,6 +18558,7 @@ are home to rare magical ore veins that glow faintly at night.
 -   Population 75% dwarf, 20% human, 5% other
 
 -   Supplies mythril to the Crown Forge in Kaer Thandros
+
 
 ###### Stonehaven
 
@@ -18546,7 +18629,7 @@ threats. Ranger country with sustainable forestry practices.
 -   Respectful relationship with forest spirits
 
 -   Supplies lumber throughout Thaldros
-
+\column
 #### 31.4 FRONTIER REGION (The Border)
 
 
@@ -18636,6 +18719,10 @@ runs deep.
 -   Birch bark paper specialty
 
 -   Supplies the Silverpine Academy with paper and parchment
+
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
 
 -   Peaceful, prosperous community
 
@@ -18731,7 +18818,7 @@ with livestock, and prosperous farming communities. The most
 -   Fair courts settle disputes during market days
 
 -   Economic barometer for the Heartlands
-
+\column
 ###### Highfield
 
 **Population:** ~2,700
@@ -18823,6 +18910,10 @@ inland regions.
 
 -   Rough and dangerous but profitable
 
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
+
 #### 31.8 SOUTHERN REGION
 
 
@@ -18908,7 +18999,7 @@ ancient civilizations.
 -   Elders forbid entry (dangerous) but treasure hunters gathering
 
 -   Tension rising between cautious locals and eager adventurers
-
+\column
 ###### Oasis Rest
 
 **Population:** ~2,100
@@ -19001,6 +19092,10 @@ and obsidian---deadly but profitable for those brave enough.
 
 -   Last major settlement before badlands
 
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
+
 ###### Ashford
 
 **Population:** ~2,200
@@ -19045,72 +19140,38 @@ and obsidian---deadly but profitable for those brave enough.
 
 #### 31. 11 SUMMARY TABLE: ALL THALDROS TOWNS
 
+  | Region | Town | Population | Primary Character |
+|:--|:--|:--|:--|
+| **Frostmarches** | Frostholm | 2,500 | Ice fishing, seal hunting |
+| | Northwatch | 2,200 | Giant warning, trade checkpoint |
+| | Iceridge | 1,800 | Magical ice crystal mining |
+| **Ironspine Holds** | Deepforge | 3,500 | Mythril mining, volcanic forges |
+| | Stonehaven | 2,800 | Quarry, ancient ruins |
+| **Western Region** | Westmarch | 1,600 | Ranger base, frontier defense |
+| | Timberfall | 1,900 | Sustainable logging |
+| **The Border** | Crossroads | 2,400 | Mercenary town, lawless junction |
+| **Silverwood** | Oakenheart | 3,200 | Heart Oak, human-elf cooperation |
+| | Willowbrook | 2,600 | Paper mills, riverside industry |
+| **Heartlands** | Riverdale | 4,200 | Grain processing, river trade |
+| | Grainhaven | 3,800 | Wheat farming center |
+| | Millford | 2,900 | Flour production |
+| | Fairhaven | 3,400 | Quarterly market fair |
+| | Highfield | 2,700 | Sheep herding, wool trade |
+| **Goldcoast** | Saltmere | 2,400 | Salt harvesting, fish preservation |
+| | Harborview | 2,800 | Shipbuilding, naval supplies |
+| | Westport | 1,500 | Smuggler haven |
 
-  **Region**         **Town**      **Population**   **Primary Character**
-  ------------------ ------------- ---------------- ------------------------------
-  **Frostmarches**   Frostholm     2,500            Ice fishing, seal hunting
-
-                     Northwatch    2,200            Giant warning, trade
-                                                    checkpoint
-
-                     Iceridge      1,800            Magical ice crystal mining
-
-  **Ironspine        Deepforge     3,500            Mythril mining, volcanic
-  Holds**                                           forges
-
-                     Stonehaven    2,800            Quarry, ancient ruins
-
-  **Western Region** Westmarch     1,600            Ranger base, frontier defense
-
-                     Timberfall    1,900            Sustainable logging
-
-  **The Border**     Crossroads    2,400            Mercenary town, lawless
-                                                    junction
-
-  **Silverwood**     Oakenheart    3,200            Heart Oak, human-elf
-                                                    cooperation
-
-                     Willowbrook   2,600            Paper mills, riverside
-                                                    industry
-
-  **Heartlands**     Riverdale     4,200            Grain processing, river trade
-
-                     Grainhaven    3,800            Wheat farming center
-
-                     Millford      2,900            Flour production
-
-                     Fairhaven     3,400            Quarterly market fair
-
-                     Highfield     2,700            Sheep herding, wool trade
-
-  **Goldcoast**      Saltmere      2,400            Salt harvesting, fish
-                                                    preservation
-
-                     Harborview    2,800            Shipbuilding, naval supplies
-
-                     Westport      1,500            Smuggler haven
-
-  **Southern         Southwatch    1,700            Desert border fortress
-  Region**                                          
-
-                     Borderkeep    1,200            Southernmost fortification
-
-  **Sundaran         Sandstone     2,600            Caravan stop, buried temple
-  Expanse**                                         mystery
-
-                     Oasis Rest    2,100            Vital water source
-
-  **Ashfall          Cinderfall    2,300            Obsidian mining
-  Barrens**                                         
-
-                     Emberforge    2,800            Volcanic smithing
-
-                     Eastmarch     2,500            Volcanic glass trade
-
-                     Ashford       2,200            Volcanic crossroads, ash
-                                                    farming
-
-                     Flamekeep     1,900            Fire temple, eternal flame
+| Region | Town | Population | Primary Character |
+|:--|:--|:--|:--|
+| **Southern Region** | Southwatch | 1,700 | Desert border fortress |
+| | Borderkeep | 1,200 | Southernmost fortification |
+| **Sundaran Expanse** | Sandstone | 2,600 | Caravan stop, buried temple mystery |
+| | Oasis Rest | 2,100 | Vital water source |
+| **Ashfall Barrens** | Cinderfall | 2,300 | Obsidian mining |
+| | Emberforge | 2,800 | Volcanic smithing |
+| | Eastmarch | 2,500 | Volcanic glass trade |
+| | Ashford | 2,200 | Volcanic crossroads, ash farming |
+| | Flamekeep | 1,900 | Fire temple, eternal flame |
 
 ##### TOTAL: 27 Towns across 10 Regions
 
@@ -19137,6 +19198,7 @@ and obsidian---deadly but profitable for those brave enough.
 -   Ashfall Barrens: 5 towns (11,700 combined)
 
 **Total Town Population:** ~67,300
+
 
 ### Aethoria Towns by Region
 
@@ -19168,6 +19230,10 @@ proper respect for nature.
     daylight
 
 -   Grants visions to those who drink from it
+
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
 
 -   Elven councils govern by consensus
 
@@ -19257,7 +19323,7 @@ economically, and socially.
 **Population:** ~3,200
 
 **Character:** Lakeside trade town
-
+\column
 **Notable Features:**
 
 -   Primary fishing center for the Crystalvale
@@ -19350,6 +19416,11 @@ worlds.
 -   Fish markets and ship chandlers
 
 -   Information passes through here from sea routes
+
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
+
 
 ###### Highgarden
 
@@ -19444,7 +19515,7 @@ due to natural magic in the waters.
 -   Food supplies much of the continent
 
 -   Nature spirits actively honored
-
+\column
 ###### Vineheart
 
 **Population:** ~2,700
@@ -19539,6 +19610,11 @@ reeds creates eerie music.
 **Population:** ~5,500
 
 **Character:** Port city, gateway to Fractured Coast
+
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
+
 
 **Notable Features:**
 
@@ -19638,7 +19714,7 @@ thrive where others cannot survive.
 -   Center for reed harvesting
 
 -   Basket weaving industry
-
+\column
 -   Paper making from reeds
 
 -   Thatching materials exported
@@ -19737,6 +19813,10 @@ worship.
 
 -   Skilled guides for mountain crossings
 
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
+
 -   Pine lumber exports
 
 -   Alpine herbs cultivated
@@ -19768,84 +19848,37 @@ worship.
 #### 31.19 SUMMARY TABLE: ALL AETHORIA TOWNS
 
 
-  **Region**                **Town**       **Population**   **Primary Character**
-  ------------------------- -------------- ---------------- ---------------------
-  **Starwood (Northwest)**  Moonwatch      4,200            Moon druids, lunar
-                                                            shrine
+| Region | Town | Population | Primary Character |
+|:--|:--|:--|:--|
+| **Starwood (Northwest)** | Moonwatch | 4,200 | Moon druids, lunar shrine |
+| | Shimmerleaf | 2,800 | Fey-touched, thin boundaries |
+| | Mistwood | 2,400 | Perpetual mist, mushroom farming |
+| | Moonwell | 2,800 | Lunar well, druid sanctuary |
+| **Crystalvale (Lakes)** | Lakeshire | 3,200 | Fishing, boat building, ferries |
+| | Clearwater | 2,900 | Crystal springs, spa, bottled water |
+| **Mistwood Reaches (Northeast)** | Mistview | 3,500 | Highland mystics, House Windwhisper |
+| | Easthaven | 2,600 | Eastern coastal trade, lighthouse |
+| | Highgarden | 2,400 | Terraced gardens, exotic plants |
+| **Emerald Deeps/Brightwater (Central)** | Fernwatch | 3,200 | Forest guardians, ranger outpost |
+| | Riverrun | 4,500 | River confluence market |
+| | Harvest Hall | 3,800 | Agricultural center |
+| | Vineheart | 2,700 | Vine cultivation, rope making |
+| | Riverbend | 3,100 | River trading post, guides |
+| | Greenmeadow | 2,300 | Jungle clearing, perfume trade |
+| | Ferndale | 2,100 | Medicinal ferns, herbalists |
 
-                            Shimmerleaf    2,800            Fey-touched, thin
-                                                            boundaries
-
-                            Mistwood       2,400            Perpetual mist,
-                                                            mushroom farming
-
-                            Moonwell       2,800            Lunar well, druid
-                                                            sanctuary
-
-  **Crystalvale (Lakes)**   Lakeshire      3,200            Fishing, boat
-                                                            building, ferries
-
-                            Clearwater     2,900            Crystal springs, spa,
-                                                            bottled water
-
-  **Mistwood Reaches        Mistview       3,500            Highland mystics,
-  (Northeast)**                                             House Windwhisper
-
-                            Easthaven      2,600            Eastern coastal
-                                                            trade, lighthouse
-
-                            Highgarden     2,400            Terraced gardens,
-                                                            exotic plants
-
-  **Emerald                 Fernwatch      3,200            Forest guardians,
-  Deeps/Brightwater                                         ranger outpost
-  (Central)**                                               
-
-                            Riverrun       4,500            River confluence
-                                                            market
-
-                            Harvest Hall   3,800            Agricultural center
-
-                            Vineheart      2,700            Vine cultivation,
-                                                            rope making
-
-                            Riverbend      3,100            River trading post,
-                                                            guides
-
-                            Greenmeadow    2,300            Jungle clearing,
-                                                            perfume trade
-
-                            Ferndale       2,100            Medicinal ferns,
-                                                            herbalists
-
-  **East Coast**            Haven's Rest  5,500            Port city, smuggler
-                                                            connections
-
-                            Tidemark       2,800            Tide pools, shell
-                                                            trade, pearls
-
-                            Dawnshore      2,400            First sunrise, sun
-                                                            worshippers
-
-                            Reedwatch      2,800            Singing Fens gateway,
-                                                            reed crafts
-
-  **Thornmire (Swamps)**    Reedhaven      2,200            Reed harvesting,
-                                                            basket weaving
-
-  **Verdant Wall/Split      Highgrove      3,200            Mountain druids,
-  Peninsula (South)**                                       House Verdantheart
-
-                            Skyhaven       2,500            Griffin riders,
-                                                            aerial scouts
-
-                            Southvale      1,900            Tropical fruits,
-                                                            southern trade
-
-                            Mountainhome   1,800            Stone quarry,
-                                                            climbing school
-
-                            Thornhaven     1,800            Island monastery
+| Region | Town | Population | Primary Character |
+|:--|:--|:--|:--|
+| **East Coast** | Haven's Rest | 5,500 | Port city, smuggler connections |
+| | Tidemark | 2,800 | Tide pools, shell trade, pearls |
+| | Dawnshore | 2,400 | First sunrise, sun worshippers |
+| | Reedwatch | 2,800 | Singing Fens gateway, reed crafts |
+| **Thornmire (Swamps)** | Reedhaven | 2,200 | Reed harvesting, basket weaving |
+| **Verdant Wall/Split Peninsula (South)** | Highgrove | 3,200 | Mountain druids, House Verdantheart |
+| | Skyhaven | 2,500 | Griffin riders, aerial scouts |
+| | Southvale | 1,900 | Tropical fruits, southern trade |
+| | Mountainhome | 1,800 | Stone quarry, climbing school |
+| | Thornhaven | 1,800 | Island monastery |
 
 ##### TOTAL: 26 Towns across 7 Regions
 
@@ -19886,13 +19919,12 @@ to the south
 
 
 {{pageNumber,auto}}
-{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
-
+{{footnote Chapter 31: Towns and Regional Settlements}}
 \page
 
-![Chapter 32: Villages, Hamlets, Ruins, and Legendary Places](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ancient-precursor-ruins.jpg){position:absolute,top:0,left:0,width:100%,height:280px}
+![Chapter 32: Villages, Hamlets, Ruins, and Legendary Places](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ancient-precursor-ruins.jpg){position:absolute,top:0,left:0,width:100%,height:450px}
 
-{{margin-top:290px}}
+{{margin-top:410px}}
 
 ## Chapter 32: Villages, Hamlets, Ruins, and Legendary Places
 
@@ -19902,507 +19934,326 @@ to the south
 
 #### Far North (Frostmarches)
 
-
-  **Village**      **Pop.**   **Description**
-  ---------------- ---------- -----------------------------------------------
-  **Frostwatch**   ~350      Ice watch towers warn of blizzards
-
-  **Icegate**      ~280      Mountain pass village with guides for hire
-
-  **Snowmelt**     ~240      Spring water source in frozen north
-
-  **Coldpeak**     ~190      Ice climbers' base camp
-
-  **Winterhold**   ~220      Winter storage facility for the region
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Frostwatch** | ~350 | Ice watch towers warn of blizzards |
+| **Icegate** | ~280 | Mountain pass village with guides for hire |
+| **Snowmelt** | ~240 | Spring water source in frozen north |
+| **Coldpeak** | ~190 | Ice climbers' base camp |
+| **Winterhold** | ~220 | Winter storage facility for the region |
 
 #### Mountains (Ironspine Holds)
 
-
-  **Village**       **Pop.**   **Description**
-  ----------------- ---------- --------------------------------------------------
-  **Highpeak**      ~300      Highest permanent settlement in the region
-
-  **Crystalmine**   ~420      Crystal mining, produces gems and magical minerals
-
-  **Stonegard**     ~260      Guards ancient dwarven gates
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Highpeak** | ~300 | Highest permanent settlement in the region |
+| **Crystalmine** | ~420 | Crystal mining, produces gems and magical minerals |
+| **Stonegard** | ~260 | Guards ancient dwarven gates |
 
 #### Western Wilderness
 
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Deepwood** | ~180 | Deep forest settlement inhabited by hunters |
+| **Wildrun** | ~210 | Ranger outpost for wildlife tracking |
+| **Westreach** | ~240 | Westernmost settlement in Thaldros |
 
-  **Village**     **Pop.**   **Description**
-  --------------- ---------- ------------------------------------------------
-  **Deepwood**    ~180      Deep forest settlement inhabited by hunters
-
-  **Wildrun**     ~210      Ranger outpost for wildlife tracking
-
-  **Westreach**   ~240      Westernmost settlement in Thaldros
-
+\column
+{{margin-top:410px}}
 #### Coastal Villages (Goldcoast)
 
-
-  **Village**        **Pop.**   **Description**
-  ------------------ ---------- ------------------------------------------
-  **Shellcove**      ~320      Shell harvesting and pearl diving
-
-  **Tidepool**       ~280      Tide chart makers, navigation aid
-
-  **Seaview**        ~260      Clifftop village with lighthouse
-
-  **Dockside**       ~240      Fishing village with ship repairs
-
-  **Borderwood**     ~200      Forest-coast boundary
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Shellcove** | ~320 | Shell harvesting and pearl diving |
+| **Tidepool** | ~280 | Tide chart makers, navigation aid |
+| **Seaview** | ~260 | Clifftop village with lighthouse |
+| **Dockside** | ~240 | Fishing village with ship repairs |
+| **Borderwood** | ~200 | Forest-coast boundary |
 
 #### Southwest Frontier
 
-
-  **Village**      **Pop.**   **Description**
-  ---------------- ---------- --------------------------------------------
-  **Lastpost**     ~160      Last stop before the deep desert
-
-  **Westridge**    ~190      Ridge settlement, lookout post
-
-  **Southpoint**   ~140      Southernmost Thaldros settlement
-
-  **Endwatch**     ~120      Coastal watch tower village
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Lastpost** | ~160 | Last stop before the deep desert |
+| **Westridge** | ~190 | Ridge settlement, lookout post |
+| **Southpoint** | ~140 | Southernmost Thaldros settlement |
+| **Endwatch** | ~120 | Coastal watch tower village |
 
 #### Forest Communities (Silverwood)
 
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Greenleaf** | ~380 | Herbalist village, medicinal plants |
+| **Mapleshire** | ~340 | Maple syrup production |
+| **Birchwood** | ~300 | Birch bark paper production |
+| **Fernhaven** | ~290 | Fern harvesting and basket weaving |
+| **Pinegrove** | ~310 | Lumber, pine harvesting, resin collection |
+| **Elmwood** | ~270 | Craftsman village, elm wood instruments |
 
-  **Village**      **Pop.**   **Description**
-  ---------------- ---------- -----------------------------------------------
-  **Greenleaf**    ~380      Herbalist village, medicinal plants
-
-  **Mapleshire**   ~340      Maple syrup production
-
-  **Birchwood**    ~300      Birch bark paper production
-
-  **Fernhaven**    ~290      Fern harvesting and basket weaving
-
-  **Pinegrove**    ~310      Lumber, pine harvesting, resin collection
-
-  **Elmwood**      ~270      Craftsman village, elm wood instruments
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
 
 #### Heartland Villages
 
-
-  **Village**         **Pop.**   **Description**
-  ------------------- ---------- -------------------------------------------
-  **Wheatfield**      ~450      Wheat farming, breadbasket of region
-
-  **Copperhill**      ~380      Small copper mining village
-
-  **Brookside**       ~360      Stream fishing and watercress farming
-
-  **Hayworth**        ~400      Hay production for livestock feed
-
-  **Thornhill**       ~410      Famous for Thornberry wine
-
-  **Cornwell**        ~390      Corn farming with mill
-
-  **Millstream**      ~320      Water-powered mills
-
-  **Barleydale**      ~370      Barley farming and brewing
-
-  **Harvest**         ~340      Mixed farming, harvest festivals
-
-  **Meadowbrook**     ~360      Beekeeping, meadow honey
-
-  **Midvale**         ~330      Central valley crossroads
-
-  **Crossway**        ~310      Road junction with inn
-
-  **Plainview**       ~290      Open plains settlement
-
-  **Hillcrest**       ~280      Hill farming, terraces
-
-  **Valleyford**      ~260      River ford with toll bridge
-
-  **Riverside**       ~300      River fishing, ferry crossing
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Wheatfield** | ~450 | Wheat farming, breadbasket of region |
+| **Copperhill** | ~380 | Small copper mining village |
+| **Brookside** | ~360 | Stream fishing and watercress farming |
+| **Hayworth** | ~400 | Hay production for livestock feed |
+| **Thornhill** | ~410 | Famous for Thornberry wine |
+| **Cornwell** | ~390 | Corn farming with mill |
+| **Millstream** | ~320 | Water-powered mills |
+| **Barleydale** | ~370 | Barley farming and brewing |
+| **Harvest** | ~340 | Mixed farming, harvest festivals |
+| **Meadowbrook** | ~360 | Beekeeping, meadow honey |
+| **Midvale** | ~330 | Central valley crossroads |
+| **Crossway** | ~310 | Road junction with inn |
+| **Plainview** | ~290 | Open plains settlement |
+| **Hillcrest** | ~280 | Hill farming, terraces |
+| **Valleyford** | ~260 | River ford with toll bridge |
+| **Riverside** | ~300 | River fishing, ferry crossing |
 
 #### Eastern Villages
 
-
-  **Village**          **Pop.**   **Description**
-  -------------------- ---------- -----------------------------------------
-  **Eastridge**        ~290      Eastern frontier, sheep herding
-
-  **Highmeadow**       ~310      Highland pastures
-
-  **Farview**          ~270      Scenic overlook, artist colony
-
-  **Ridgetop**         ~250      Mountain ridge settlement
-
-  **Clearspring**      ~280      Natural spring water bottling
-
-  **Northfield**       ~320      Northern farmland
-
-  **Highvale**         ~290      High valley, goat herding
-
-  **Skyridge**         ~270      Mountain ridge trading post
-
-  **Cliffside**        ~250      Cliff dwelling settlement
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Eastridge** | ~290 | Eastern frontier, sheep herding |
+| **Highmeadow** | ~310 | Highland pastures |
+| **Farview** | ~270 | Scenic overlook, artist colony |
+| **Ridgetop** | ~250 | Mountain ridge settlement |
+| **Clearspring** | ~280 | Natural spring water bottling |
+| **Northfield** | ~320 | Northern farmland |
+| **Highvale** | ~290 | High valley, goat herding |
+| **Skyridge** | ~270 | Mountain ridge trading post |
+| **Cliffside** | ~250 | Cliff dwelling settlement |
 
 #### Desert Villages (Sundaran Expanse)
 
-
-  **Village**      **Pop.**   **Description**
-  ---------------- ---------- ---------------------------------------------
-  **Dustkeep**     ~230      Desert fort, sandstorm shelter
-
-  **Miragewell**   ~260      Unreliable oasis, transient population
-
-  **Sunwell**      ~240      Reliable oasis, permanent settlement
-
-  **Scorched**     ~180      Desert edge, harsh conditions
-
-  **Dryrock**      ~210      Rock quarry, building materials
-
-  **Sandrift**     ~170      Mobile settlement following water
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Dustkeep** | ~230 | Desert fort, sandstorm shelter |
+| **Miragewell** | ~260 | Unreliable oasis, transient population |
+| **Sunwell** | ~240 | Reliable oasis, permanent settlement |
+| **Scorched** | ~180 | Desert edge, harsh conditions |
+| **Dryrock** | ~210 | Rock quarry, building materials |
+| **Sandrift** | ~170 | Mobile settlement following water |
 
 #### Volcanic Villages (Ashfall Barrens)
 
-
-  **Village**        **Pop.**   **Description**
-  ------------------ ---------- -------------------------------------------
-  **Smokehollow**    ~290      Smoke-filled valley, sulfur mining
-
-  **Ashvale**        ~310      Ash farming for fertilizer
-
-  **Burnside**       ~270      Hot springs resort, healing waters
-
-  **Cindervale**     ~250      Farming on cinder cone
-
-  **Emberfall**      ~220      Ember crystal harvesting
-
-  **Firewatch**      ~240      Volcano monitoring station
-
-  **Lavabrook**      ~280      Settlement along cooled lava stream
-
-  **Scorchdale**     ~260      Fire-resistant crop farming
-
-  **Hotspring**      ~300      Geothermal hot springs, tourism
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Smokehollow** | ~290 | Smoke-filled valley, sulfur mining |
+| **Ashvale** | ~310 | Ash farming for fertilizer |
+| **Burnside** | ~270 | Hot springs resort, healing waters |
+| **Cindervale** | ~250 | Farming on cinder cone |
+| **Emberfall** | ~220 | Ember crystal harvesting |
+| **Firewatch** | ~240 | Volcano monitoring station |
+| **Lavabrook** | ~280 | Settlement along cooled lava stream |
+| **Scorchdale** | ~260 | Fire-resistant crop farming |
+| **Hotspring** | ~300 | Geothermal hot springs, tourism |
 
 ### 32.2 Villages of Aethoria
 
-
 #### Far Northwest
 
-
-  **Village**      **Pop.**   **Description**
-  ---------------- ---------- -----------------------------------------------
-  **Fogvale**      ~280      Permanent fog, navigation experts
-
-  **Northmist**    ~310      Northern mist forests, mushroom trade
-
-  **Silverleaf**   ~290      Silverleaf trees, rare wood
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Fogvale** | ~280 | Permanent fog, navigation experts |
+| **Northmist** | ~310 | Northern mist forests, mushroom trade |
+| **Silverleaf** | ~290 | Silverleaf trees, rare wood |
 
 #### Starwood (Northwest Forest)
 
-
-  **Village**         **Pop.**   **Description**
-  ------------------- ---------- --------------------------------------------
-  **Glowgrove**       ~320      Bioluminescent trees
-
-  **Nightshade**      ~320      Nightshade harvesting, poison antidotes
-
-  **Twilightwatch**   ~280      Twilight ceremonies
-
-  **Celestialvale**   ~300      Celestial magic concentration
-
-  **Dawngrove**       ~340      Dawn rituals, solar druids
-
-  **Moonshade**       ~300      Lunar druids, moon ceremonies
-
-  **Starlight**       ~280      Star gazing and astrology
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Glowgrove** | ~320 | Bioluminescent trees |
+| **Nightshade** | ~320 | Nightshade harvesting, poison antidotes |
+| **Twilightwatch** | ~280 | Twilight ceremonies |
+| **Celestialvale** | ~300 | Celestial magic concentration |
+| **Dawngrove** | ~340 | Dawn rituals, solar druids |
+| **Moonshade** | ~300 | Lunar druids, moon ceremonies |
+| **Starlight** | ~280 | Star gazing and astrology |
 
 #### Lakes (Crystalvale)
 
-
-  **Village**          **Pop.**   **Description**
-  -------------------- ---------- ------------------------------------------
-  **Lakehaven**        ~350      Lake shore community
-
-  **Deepwater**        ~320      Deep lake, diving competitions
-
-  **Mistshore**        ~300      Misty lake shore
-
-  **Purewater**        ~290      Pure water source
-
-  **Silverstream**     ~280      Silver-tinted stream
-
-  **Shimmerspring**    ~300      Shimmering spring waters
-
-  **Glasspool**        ~360      Glass-smooth lake, mirror magic
-
-  **Shimmershore**     ~340      Shimmering water, water elementals
-
-  **Pristine**         ~330      Pristine waters, pure water trade
-
-  **Quietshore**       ~310      Peaceful retreat, meditation
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Lakehaven** | ~350 | Lake shore community |
+| **Deepwater** | ~320 | Deep lake, diving competitions |
+| **Mistshore** | ~300 | Misty lake shore |
+| **Purewater** | ~290 | Pure water source |
+| **Silverstream** | ~280 | Silver-tinted stream |
+| **Shimmerspring** | ~300 | Shimmering spring waters |
+| **Glasspool** | ~360 | Glass-smooth lake, mirror magic |
+| **Shimmershore** | ~340 | Shimmering water, water elementals |
+| **Pristine** | ~330 | Pristine waters, pure water trade |
+| **Quietshore** | ~310 | Peaceful retreat, meditation |
 
 #### Northeast (Mistwood Reaches)
 
-
-  **Village**     **Pop.**   **Description**
-  --------------- ---------- ----------------------------------------------
-  **Cloudview**   ~290      Mountain village, weather prediction
-
-  **Windpeak**    ~270      Windy peak, wind magic research
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Cloudview** | ~290 | Mountain village, weather prediction |
+| **Windpeak** | ~270 | Windy peak, wind magic research |
 
 #### East Coast
 
-
-  **Village**       **Pop.**   **Description**
-  ----------------- ---------- --------------------------------------------
-  **Saltmist**      ~300      Salt spray collection
-
-  **Fogwatch**      ~280      Fog monitoring
-
-  **Tidebreak**     ~320      Tidal barrier community
-
-  **Seaspray**      ~290      Coastal spray collection
-
-  **Eastwatch**     ~280      Coastal watch, sea monster lookout
-
-  **Sunrise Bay**   ~300      Beautiful sunrises, artist colony
-
-  **Dawn Coast**    ~270      Fishing, lighthouse
-
-  **Seaforth**      ~280      Fishing, ocean trade
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Saltmist** | ~300 | Salt spray collection |
+| **Fogwatch** | ~280 | Fog monitoring |
+| **Tidebreak** | ~320 | Tidal barrier community |
+| **Seaspray** | ~290 | Coastal spray collection |
+| **Eastwatch** | ~280 | Coastal watch, sea monster lookout |
+| **Sunrise Bay** | ~300 | Beautiful sunrises, artist colony |
+| **Dawn Coast** | ~270 | Fishing, lighthouse |
+| **Seaforth** | ~280 | Fishing, ocean trade |
 
 #### Central Jungle (Emerald Deeps)
 
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Rootdeep** | ~280 | Root dwelling community |
+| **Mosswood** | ~290 | Moss harvesting |
+| **Greenveil** | ~300 | Green canopy cover |
+| **Canopy** | ~320 | Canopy dwellings, tree houses |
+| **Deepvine** | ~310 | Deep jungle, vine bridges |
+| **Thorntangle** | ~290 | Thorn bush protection |
+| **Wildroots** | ~300 | Root vegetables, underground farming |
+| **Mistfall** | ~270 | Waterfall mist, rainbow magic |
+| **Coralrest** | ~260 | Jungle clearing, rest stop |
+| **Vinewall** | ~280 | Vine walls, natural fortification |
+| **Jungleheart** | ~290 | Deep jungle center, druid circle |
+| **Heartwood** | ~310 | Heart of jungle, ancient trees |
+| **Deepvalley** | ~300 | Hidden deep valley |
+| **Leafshade** | ~290 | Shaded groves, cool refuge |
+| **Streamside** | ~280 | Stream village, fresh water |
+| **Wildwood** | ~270 | Wild forest, untamed magic |
+| **Forestgate** | ~280 | Forest entrance, guides available |
 
-  **Village**       **Pop.**   **Description**
-  ----------------- ---------- ---------------------------------------------
-  **Rootdeep**      ~280      Root dwelling community
-
-  **Mosswood**      ~290      Moss harvesting
-
-  **Greenveil**     ~300      Green canopy cover
-
-  **Canopy**        ~320      Canopy dwellings, tree houses
-
-  **Deepvine**      ~310      Deep jungle, vine bridges
-
-  **Thorntangle**   ~290      Thorn bush protection
-
-  **Wildroots**     ~300      Root vegetables, underground farming
-
-  **Mistfall**      ~270      Waterfall mist, rainbow magic
-
-  **Coralrest**     ~260      Jungle clearing, rest stop
-
-  **Vinewall**      ~280      Vine walls, natural fortification
-
-  **Jungleheart**   ~290      Deep jungle center, druid circle
-
-  **Heartwood**     ~310      Heart of jungle, ancient trees
-
-  **Deepvalley**    ~300      Hidden deep valley
-
-  **Leafshade**     ~290      Shaded groves, cool refuge
-
-  **Streamside**    ~280      Stream village, fresh water
-
-  **Wildwood**      ~270      Wild forest, untamed magic
-
-  **Forestgate**    ~280      Forest entrance, guides available
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
 
 #### Central Valley (Brightwater)
 
-
-  **Village**        **Pop.**   **Description**
-  ------------------ ---------- ------------------------------------------
-  **Goldfield**      ~330      Golden grain fields
-
-  **Brightshore**    ~310      Bright river shore
-
-  **Sunnybrook**     ~300      Sunny clearing, solar power
-
-  **Greenvale**      ~310      Green pastoral valley
-
-  **Meadowrun**      ~290      Meadow paths
-
-  **Cropstone**      ~280      Stone-bordered crop fields
-
-  **Waterside**      ~270      Waterfront community
-
-  **Fernvalley**     ~340      Fern valley, green dyes
-
-  **Greenheart**     ~350      Green magic center, nature spells
-
-  **Vinesong**       ~310      Musical vines, bard college
-
-  **Paddyfield**     ~360      Rice paddies, rice trade
-
-  **Watermill**      ~330      Water wheels, grain processing
-
-  **Ricebrook**      ~340      Rice cultivation, sake brewing
-
-  **Oakmeadow**      ~320      Oak trees, acorn flour
-
-  **Brightwood**     ~290      Luminescent trees, light wood
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Goldfield** | ~330 | Golden grain fields |
+| **Brightshore** | ~310 | Bright river shore |
+| **Sunnybrook** | ~300 | Sunny clearing, solar power |
+| **Greenvale** | ~310 | Green pastoral valley |
+| **Meadowrun** | ~290 | Meadow paths |
+| **Cropstone** | ~280 | Stone-bordered crop fields |
+| **Waterside** | ~270 | Waterfront community |
+| **Fernvalley** | ~340 | Fern valley, green dyes |
+| **Greenheart** | ~350 | Green magic center, nature spells |
+| **Vinesong** | ~310 | Musical vines, bard college |
+| **Paddyfield** | ~360 | Rice paddies, rice trade |
+| **Watermill** | ~330 | Water wheels, grain processing |
+| **Ricebrook** | ~340 | Rice cultivation, sake brewing |
+| **Oakmeadow** | ~320 | Oak trees, acorn flour |
+| **Brightwood** | ~290 | Luminescent trees, light wood |
 
 #### Swamps (Thornmire Marches)
 
-
-  **Village**      **Pop.**   **Description**
-  ---------------- ---------- -----------------------------------------------
-  **Bogwallow**    ~250      Bog dwelling, peat harvesting
-
-  **Murkwater**    ~260      Murky waters, swamp guides
-
-  **Reedfenn**     ~270      Reed marsh, thatching
-
-  **Marshlight**   ~280      Bioluminescent swamp, phosphorescence
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Bogwallow** | ~250 | Bog dwelling, peat harvesting |
+| **Murkwater** | ~260 | Murky waters, swamp guides |
+| **Reedfenn** | ~270 | Reed marsh, thatching |
+| **Marshlight** | ~280 | Bioluminescent swamp, phosphorescence |
 
 #### South (Verdant Wall)
 
-
-  **Village**          **Pop.**   **Description**
-  -------------------- ---------- ----------------------------------------
-  **Bordermark**       ~290      Southern border checkpoint
-
-  **Southshore**       ~270      Southern coast, warm waters
-
-  **Warmwater**        ~280      Warm springs, spa
-
-  **Sunvale**          ~300      Sunny tropical valley
-
-  **Cliffbloom**       ~280      Cliff-side flowering plants
-
-  **Junglepeak**       ~290      Jungle mountain peak
-
-  **Canopyrest**       ~270      Canopy level rest stop
-
-  **Vinespur**         ~260      Vine-covered spur
-
-  **Summitleaf**       ~250      Summit with leaf canopy
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Bordermark** | ~290 | Southern border checkpoint |
+| **Southshore** | ~270 | Southern coast, warm waters |
+| **Warmwater** | ~280 | Warm springs, spa |
+| **Sunvale** | ~300 | Sunny tropical valley |
+| **Cliffbloom** | ~280 | Cliff-side flowering plants |
+| **Junglepeak** | ~290 | Jungle mountain peak |
+| **Canopyrest** | ~270 | Canopy level rest stop |
+| **Vinespur** | ~260 | Vine-covered spur |
+| **Summitleaf** | ~250 | Summit with leaf canopy |
 
 #### Southern Mountains
 
-
-  **Village**        **Pop.**   **Description**
-  ------------------ ---------- ------------------------------------------
-  **Cliffhome**      ~280      Cliff dwelling, rock climbers
-
-  **Highwatch**      ~290      High mountain watch, lookout
-
-  **Stonetop**       ~270      Stone peak, quarry
-
-  **Peakview**       ~280      Mountain views, tourism
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Cliffhome** | ~280 | Cliff dwelling, rock climbers |
+| **Highwatch** | ~290 | High mountain watch, lookout |
+| **Stonetop** | ~270 | Stone peak, quarry |
+| **Peakview** | ~280 | Mountain views, tourism |
 
 #### Split Peninsula (Southwest)
 
-
-  **Village**         **Pop.**   **Description**
-  ------------------- ---------- ----------------------------------------
-  **Splitcove**       ~300      Peninsula cove community
-
-  **Jagged Bay**      ~270      Jagged coastline
-
-  **Cliffwatch**      ~260      Cliff observation post
-
-  **Searock**         ~250      Sea-worn rock formations
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Splitcove** | ~300 | Peninsula cove community |
+| **Jagged Bay** | ~270 | Jagged coastline |
+| **Cliffwatch** | ~260 | Cliff observation post |
+| **Searock** | ~250 | Sea-worn rock formations |
 
 #### Island Villages
 
-
-  **Village**        **Pop.**   **Description**
-  ------------------ ---------- -----------------------------------------
-  **Beacon**         ~180      Frostpeak Isle, lighthouse
-
-  **Anchorage**      ~420      Port Myrthen Isle, harbor
-
-  **Driftport**      ~290      Coralkeep Isle, drifting port
-
-  **Tidecrest**      ~240      Deepholm Isle, tidal pools
-
-  **Waverest**       ~260      Seafoam Isle, wave watching
+| Village | Pop. | Description |
+|:--|:--|:--|
+| **Beacon** | ~180 | Frostpeak Isle, lighthouse |
+| **Anchorage** | ~420 | Port Myrthen Isle, harbor |
+| **Driftport** | ~290 | Coralkeep Isle, drifting port |
+| **Tidecrest** | ~240 | Deepholm Isle, tidal pools |
+| **Waverest** | ~260 | Seafoam Isle, wave watching |
 
 ### 32.3 Hamlets (Both Continents)
 
-
 #### Thaldros Hamlets
 
-
-  **Hamlet**          **Pop.**   **Description**
-  ------------------- ---------- ------------------------------------------
-  **Coldwater**       ~45       Mountain spring
-
-  **Sunnydale**       ~60       Pleasant farming
-
-  **Cloverfield**     ~55       Clover farming, honey
-
-  **Driftwood**       ~40       Coastal, driftwood collection
-
-  **Hilltop**         ~50       Hilltop inn and stables
-
-  **Waypost**         ~48       Waystation on trade road
-
-  **Longridge**       ~42       Along a long ridge
-
-  **Pinerest**        ~38       Pine forest rest stop
-
-  **Sandypost**       ~35       Desert waystation
-
-  **Hotash**          ~40       Volcanic region outpost
-
-  **Edgewatch**       ~52       Eastern edge watchtower
-
-  **Northpost**       ~47       Northern waystation
-
-  **Southedge**       ~38       Southern boundary marker
+| Hamlet | Pop. | Description |
+|:--|:--|:--|
+| **Coldwater** | ~45 | Mountain spring |
+| **Sunnydale** | ~60 | Pleasant farming |
+| **Cloverfield** | ~55 | Clover farming, honey |
+| **Driftwood** | ~40 | Coastal, driftwood collection |
+| **Hilltop** | ~50 | Hilltop inn and stables |
+| **Waypost** | ~48 | Waystation on trade road |
+| **Longridge** | ~42 | Along a long ridge |
+| **Pinerest** | ~38 | Pine forest rest stop |
+| **Sandypost** | ~35 | Desert waystation |
+| **Hotash** | ~40 | Volcanic region outpost |
+| **Edgewatch** | ~52 | Eastern edge watchtower |
+| **Northpost** | ~47 | Northern waystation |
+| **Southedge** | ~38 | Southern boundary marker |
 
 #### Aethoria Hamlets
 
-
-  **Hamlet**           **Pop.**   **Description**
-  -------------------- ---------- ------------------------------------------
-  **Starglimmer**      ~35       Starwood, star viewing
-
-  **Moonglow**         ~40       Starwood, moon ceremonies
-
-  **Crystallake**      ~45       Crystalvale, lake hamlet
-
-  **Clearspring**      ~42       Crystalvale, spring water
-
-  **Coralkeep**        ~50       Fractured Coast
-
-  **Deepshade**        ~38       Emerald Deeps, deep shade
-
-  **Treehold**         ~45       Emerald Deeps, tree dwelling
-
-  **Wheathollow**      ~48       Brightwater, wheat storage
-
-  **Millcrest**        ~44       Brightwater, mill hamlet
-
-  **Stonegreen**       ~40       Verdant Wall
-
-  **Wavebreak**        ~35       Split Peninsula, wave barrier
-
-  **Stormrest**        ~38       Split Peninsula, storm shelter
-
-  **Quietglen**        ~48       Meditation retreat
-
-  **Softwater**        ~42       Soft water spring
-
-  **Dewmist**          ~40       Morning dew collection, alchemy
-
-  **Stillbrook**       ~45       Still water, fishing
-
-  **Leaffall**         ~38       Autumn leaf collection, dyes
-
-  **Trailend**         ~35       Trail terminus, rest stop
-
-  **Mosshollow**       ~40       Moss harvesting
-
-  **Brookbend**        ~44       Brook bend, fishing
-
-  **Ridgepost**        ~42       Ridge Waypost, mail station
-
-  **Summitwatch**      ~38       Summit watch, signal tower
+| Hamlet | Pop. | Description |
+|:--|:--|:--|
+| **Starglimmer** | ~35 | Starwood, star viewing |
+| **Moonglow** | ~40 | Starwood, moon ceremonies |
+| **Crystallake** | ~45 | Crystalvale, lake hamlet |
+| **Clearspring** | ~42 | Crystalvale, spring water |
+| **Coralkeep** | ~50 | Fractured Coast |
+| **Deepshade** | ~38 | Emerald Deeps, deep shade |
+| **Treehold** | ~45 | Emerald Deeps, tree dwelling |
+| **Wheathollow** | ~48 | Brightwater, wheat storage |
+| **Millcrest** | ~44 | Brightwater, mill hamlet |
+| **Stonegreen** | ~40 | Verdant Wall |
+| **Wavebreak** | ~35 | Split Peninsula, wave barrier |
+| **Stormrest** | ~38 | Split Peninsula, storm shelter |
+| **Quietglen** | ~48 | Meditation retreat |
+| **Softwater** | ~42 | Soft water spring |
+| **Dewmist** | ~40 | Morning dew collection, alchemy |
+| **Stillbrook** | ~45 | Still water, fishing |
+| **Leaffall** | ~38 | Autumn leaf collection, dyes |
+| **Trailend** | ~35 | Trail terminus, rest stop |
+| **Mosshollow** | ~40 | Moss harvesting |
+| **Brookbend** | ~44 | Brook bend, fishing |
+| **Ridgepost** | ~42 | Ridge waypost, mail station |
+| **Summitwatch** | ~38 | Summit watch, signal tower |
 
 ### 32.4 Ruins & Lost Cities
 
@@ -20423,6 +20274,10 @@ to the south
 House Blackwood established Raven's Keep as their seat of power. The
 Blackwood bloodline traced to Lord Garrett Blackwood (750 BW), but the
 formal noble house was established when the keep was built.
+
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
 
 **The Blackwood Legacy:**
 
@@ -20504,7 +20359,7 @@ formal noble house was established when the keep was built.
 -   Strong necromantic and abjuration auras linger
 
 -   Ravens still gather here unnaturally
-
+\column
 #### Palace Port (Sundering Sea)
 
 
@@ -20594,6 +20449,10 @@ formal noble house was established when the keep was built.
 
 **Survivors:** ~5,000 (those who fled in time, ships at sea)
 
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
+
 #### The Salvage Wars (100-1247 CR)
 
 
@@ -20678,7 +20537,7 @@ formal noble house was established when the keep was built.
 -   Both seeking Deepwater archives
 
 -   Naval war increasingly likely
-
+\column
 ### 32.5 Legendary & Sacred Locations
 
 
@@ -20769,6 +20628,10 @@ formal noble house was established when the keep was built.
 
 -   Ancient and possibly magical origin
 
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
+
 ##### The Whispering Dunes (Sundaran Expanse)
 
 -   Area of shifting sand dunes
@@ -20857,7 +20720,7 @@ formal noble house was established when the keep was built.
 -   Guarded by moon druids
 
 -   Pilgrimage site for lunar magic practitioners
-
+\column
 ##### The Crystal Caves (Crystalvale)
 
 -   Natural cavern system beneath Crystalbrook
@@ -20944,6 +20807,10 @@ formal noble house was established when the keep was built.
 
 -   Boundary between planes grows thin
 
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
+
 ##### Underwater & Planar Sites
 
 ##### The Nexus of Seven Sorrows
@@ -21004,7 +20871,7 @@ formal noble house was established when the keep was built.
 -   Locked portal to a demiplane
 
 -   May be feeding a Bound Ancient's prison deterioration
-
+\column
 ### 32.6 Summary Statistics
 
 
@@ -21046,10 +20913,8 @@ formal noble house was established when the keep was built.
 
 -   **Total: 26 legendary locations**
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
 \page
 
 ## Chapter 33: Settlement Histories and Founding Narratives
@@ -21122,7 +20987,7 @@ commissioned by Thorin I. It requires a master craftsman and specific
 cosmic alignments to operate. Secret techniques are known only to Houses
 Thandris and Ironforge. Used to forge royal regalia and artifacts of
 legendary power.
-
+\column
 **The Expansion Era (700-900 CR):**
 
 -   City grew to 20,000 population
@@ -21201,6 +21066,9 @@ Rebuilding took decades.
 
 -   **The Outer City:** Common housing, rebuilt after dragon
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
 **The Dragon's Secret:**
 
 Infernalix sleeps in caverns directly beneath the Royal Palace. The
@@ -21352,6 +21220,9 @@ eventually become House Starweaver. The magical disruption that
 accompanied the cataclysm killed several world-trees, an event the elves
 still mourn twelve centuries later.
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
 ##### The Western Branch Era (0-450 CR)
 
 **Rebuilding (0-200 CR):**
@@ -21478,6 +21349,9 @@ hub was managed by Aldris Deepwater, third daughter of the patriarch,
 commanding a fleet of over forty ships and a population of approximately
 5,000.
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
 **The Worldrend (Year 0 CR):**
 
 When the world split and the Sundering Sea swallowed the central lands,
@@ -21537,7 +21411,7 @@ When the red dragon Infernalix demanded tribute, the kingdom turned
 again to Goldshore financing. The house loaned massive sums for dragon
 defense---sums the crown still hasn't repaid. Today, King Aldric IV
 owes approximately 50,000 gold to House Goldshore.
-
+\column
 ##### Current Status (1247 CR)
 
 **Rulers:**
@@ -21604,6 +21478,9 @@ decision: they would build a planned city with a grid street pattern
 designed specifically for commerce. This was rare in Thaldros, where
 most cities grew organically around fortresses or temples.
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
 ##### The Early Era (698-850 CR)
 
 **The Three Families Period:**
@@ -21671,7 +21548,7 @@ reconstruction. By 1200 CR, Crossvale's population had recovered to
 A practical, no-nonsense ruler who lives simply despite his family's
 enormous wealth. Trained in farming before politics---as were all five
 of his children.
-
+\column
 **Government Structure:**
 
 The Council of Five governs, with one representative for each of the
@@ -21738,6 +21615,10 @@ through blood and kinship. Through diplomacy, strategic marriages, and
 occasional well-targeted violence, he united enough clans to make his
 vision reality.
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
 **The Founding (967 CR):**
 
 Malik proclaimed the founding of Sundara---the "City of the Sun"---at
@@ -21799,7 +21680,7 @@ Goldreach.
 Only the third generation of Ashborne nobility, but he acts as though
 his dynasty stretches back millennia. Ambitious, charismatic, and
 calculating.
-
+\column
 **The Seven Children:**
 
 A succession crisis brews. Rashid's seven children---born to three
@@ -21867,6 +21748,10 @@ legendary quality. Fire opal mines yielded gems that adorned noble
 fingers from Kaer Thandros to Aethermere. By 1100 CR, the population had
 reached 5,000.
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
 **The Emberthorn Fortress:**
 
 The family castle featured an actual moat formed by lave---active magma
@@ -21929,7 +21814,7 @@ interests.
 House Ashborne moved in with mercenary forces, claimed the city, and
 established nominal order. But their rule remains distant---governed
 from Sundara, hundreds of miles away.
-
+\column
 ##### Current Status (1247 CR)
 
 **Rulers:**
@@ -21996,6 +21881,10 @@ When the world tore itself apart, Aethermere survived intact. The great
 world-trees' roots ran too deep to be uprooted. In the chaos that
 followed, Prince Aethos---a druid of the royal bloodline---claimed the
 throne in Aethermere, declaring it the capital of a new eastern kingdom.
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
 
 ##### The Aethermere Dynasty (Year 0 - Present)
 
@@ -22128,8 +22017,13 @@ the Worldrend.
 
 For centuries, the eastern elves attempted to maintain contact with
 their western kin. Messages were sent across the Sundering Sea; none
-returned. The eastern branch evolved in its own direction, pursuing pure
-astronomical focus while abandoning forest magic. In 327 CR, a
+returned. The eastern branch evolved in its own direction, pursuing
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
+pure astronomical focus while abandoning forest magic. In 327 CR, a
 diplomatic mission from the west arrived---and was rejected. In 450 CR,
 they officially took the name "House Starweaver."
 
@@ -22191,7 +22085,7 @@ patterns aligned with star positions.
 
 -   **The Meteor Fields:** Dangerous collection areas where celestial
     debris is harvested
-
+\column
 **The Grand Observatory:**
 
 The largest telescope in the known world, the Grand Observatory can see
@@ -22254,6 +22148,10 @@ before the Worldrend, became increasingly common with each generation.
 By 450 CR, the transformation was complete---House Crystalborn had
 become something their Deepwater ancestors never were: mystics as much
 as merchants.
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
 
 ##### House Crystalborn Rule (450 CR - Present)
 
@@ -22326,7 +22224,7 @@ Marshaven was founded in the treacherous Thornmire Marches---swampland
 that most civilizations avoided. Those who built here did so for
 resources others couldn't reach: rare herbs, alchemical components, and
 the isolation itself.
-
+\column
 **The Founding (850 CR):**
 
 The first settlers were outcasts, refugees, and those seeking to escape
@@ -22397,6 +22295,10 @@ but swarms with life.
 
 **Status:** Neutral Trade Hub
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
 ##### Foundation (Pre-Worldrend)
 
 Port Myrthen existed as a minor trading post before the Worldrend. Its
@@ -22465,7 +22367,7 @@ accepted. No questions are asked.
 -   **The Black Market:** Unofficial but tolerated
 
 -   **The Embassies:** Representatives from major powers
-
+\column
 **Special Status:**
 
 -   Absolutely neutral territory
@@ -22549,6 +22451,10 @@ been recovered despite thousands of attempts.
 
 -   789 CR: Entire diving expedition vanished
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
 -   1156 CR: Dragon attacked salvagers
 
 -   1230 CR: Kraken destroyed Goldshore fleet
@@ -22586,49 +22492,28 @@ continent when the Worldrend struck. She never claimed the inheritance
 and was presumed dead. But what if she survived? What if there's a
 hidden lineage with legitimate claim to everything?
 
+\column
+
 ### 33.3 Summary Table
 
-
-  **Settlement**     **Region**    **Population**   **Founded**     **Ruling      **Status**
-                                                                    House**       
-  ------------------ ------------- ---------------- --------------- ------------- -------------
-  **Kaer Thandros™** Ironspine     45,000           612 CR          Thandris      Royal Capital
-
-  **Raven's Keep**  Silverwood    0                587 CR          Blackwood     Haunted Ruins
-                                                                    (fallen)      
-
-  **Silverpine**     Silverwood    32,000           Pre-Worldrend   Silverleaf    Forest
-                                                                                  Capital
-
-  **Goldreach**      Goldcoast     28,000           Pre-Worldrend   Goldshore     Maritime Hub
-
-  **Crossvale**      Heartlands    18,000           698 CR          Heartwood     Trade
-                                                                                  Junction
-
-  **Sundara**        Sundaran      18,000           967 CR          Ashborne      Desert
-                                                                                  Capital
-
-  **Ashgate**        Ashfall       9,000            920 CR          (contested)   Volcanic
-                                                                                  Gateway
-
-  **Aethermere**     Emerald Deeps 38,000           Pre-Worldrend   Aethermere    Eastern
-                                                                                  Capital
-
-  **Starfall**       Starwood      6,500            Pre-Worldrend   Starweaver    Observatory
-                                                                                  City
-
-  **Crystalbrook**   Crystalvale   12,000           Pre-Worldrend   Crystalborn   Trade Hub
-
-  **Marshaven**      Thornmire     8,000            850 CR          Thornveil     Swamp City
-
-  **Port Myrthen**   Island        9,000            Pre-Worldrend   (neutral)     Neutral Hub
-
-  **Palace Port**    Sundering Sea 0                Pre-Worldrend   (sunken)      Lost Capital
-
+| Settlement | Region | Population | Founded | Ruling House | Status |
+|:--|:--|:--|:--|:--|:--|
+| **Kaer Thandros™** | Ironspine | 45,000 | 612 CR | Thandris | Royal Capital |
+| **Raven's Keep** | Silverwood | 0 | 587 CR | Blackwood (fallen) | Haunted Ruins |
+| **Silverpine** | Silverwood | 32,000 | Pre-Worldrend | Silverleaf | Forest Capital |
+| **Goldreach** | Goldcoast | 28,000 | Pre-Worldrend | Goldshore | Maritime Hub |
+| **Crossvale** | Heartlands | 18,000 | 698 CR | Heartwood | Trade Junction |
+| **Sundara** | Sundaran | 18,000 | 967 CR | Ashborne | Desert Capital |
+| **Ashgate** | Ashfall | 9,000 | 920 CR | (contested) | Volcanic Gateway |
+| **Aethermere** | Emerald Deeps | 38,000 | Pre-Worldrend | Aethermere | Eastern Capital |
+| **Starfall** | Starwood | 6,500 | Pre-Worldrend | Starweaver | Observatory City |
+| **Crystalbrook** | Crystalvale | 12,000 | Pre-Worldrend | Crystalborn | Trade Hub |
+| **Marshaven** | Thornmire | 8,000 | 850 CR | Thornveil | Swamp City |
+| **Port Myrthen** | Island | 9,000 | Pre-Worldrend | (neutral) | Neutral Hub |
+| **Palace Port** | Sundering Sea | 0 | Pre-Worldrend | (sunken) | Lost Capital |
 
 {{pageNumber,auto}}
-{{footnote Chapter 34: Ruins, Hidden Sites, and Lost Places}}
-
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
 \page
 
 ## Chapter 34: Ruins, Hidden Sites, and Lost Places
@@ -22694,7 +22579,7 @@ his chief of security, and the architect who built it (now dead).
 
 -   A ledger proving the bank owner funds the Thornwood Syndicate's
     operations
-
+\column
 **Security:** Twenty bank guards patrol day and night. Magical locks
 require both password and key. A glyph of warding protects the door. A
 silent alarm alerts the owner upon entry.
@@ -22755,6 +22640,10 @@ dangerous if freed.
 offering incredible power in exchange for weakening just one seal
 mechanism. It is lying. Those who accept are consumed.
 
+{{pageNumber,auto}}
+{{footnote Chapter 34: Ruins, Hidden Sites, and Lost Places}}
+\page
+
 ### 34.5 The Riftmaw
 
 
@@ -22778,6 +22667,8 @@ any coherent form.
 **Opportunity:** Despite its dangers, the Riftmaw offers access to power
 found nowhere else---portals to the Elemental Planes, primordial essence
 for epic magic, crystallized planar energy valuable for enchanting.
+
+\column
 
 ### 34.6 The Wandering Tower
 
@@ -22804,10 +22695,8 @@ library with complete research on the Bound Ancients, a scrying chamber
 monitoring the integrity of all remaining seals, and Valdren's personal
 quarters where the guilt-ridden archmage rarely sleeps.
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 35: Sacred Sites and Hidden Sanctuaries}}
-
+{{footnote Chapter 34: Ruins, Hidden Sites, and Lost Places}}
 \page
 
 ## Chapter 35: Sacred Sites and Hidden Sanctuaries
@@ -22875,7 +22764,7 @@ before the Worldrend.
 **Guardians:** A circle of twelve druids guards the Singing Stones. They
 allow outsiders to use the stones only after completing a quest that
 benefits nature.
-
+\column
 ### 35.3 The Forgotten Monastery
 
 
@@ -22940,17 +22829,12 @@ and desire, viewing dissolution into void as liberation.
 exposure), High Voidcaller Malthus, and a portable altar that creates
 desecrated ground
 
-
+{{pageNumber,auto}}
+{{footnote Chapter 35: Sacred Sites and Hidden Sanctuaries}}
 \page
+
 
 # Part VII: Characters
-
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-
-\page
 
 ## Chapter 36: Royalty and Heads of State
 
@@ -23002,7 +22886,7 @@ combined with his formidable physical conditioning and masterful
 swordsmanship, make him one of the most dangerous combatants in
 Thaldros. He has personally led armies and fought on the front lines of
 multiple campaigns. Few would dare challenge him in single combat.
-
+\column
 #### Personality & Mannerisms
 
 
@@ -23069,8 +22953,14 @@ Aldric was born third in line for the Thaldros throne, never expecting
 to rule. His older brothers were the heirs apparent, leaving young
 Aldric free to pursue a military education without the pressures of
 succession. This freedom shaped him---he trained with common soldiers,
-learned tactics from veteran commanders, and developed a genuine
-connection with the military that would later define his reign.
+learned tactics from veteran commanders, and 
+
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
+
+developed a genuine connection with the military that would later define his reign.
 
 As a young prince with no expectation of wearing the crown, Aldric began
 a relationship with Lady Mara of House Ironforge---a love match rather
@@ -23126,7 +23016,7 @@ He and Queen Mara have three children:
 
 -   **Prince Marcus** (age 19) - Youngest child, currently training as a
     knight
-
+\column
 #### Goals & Motivations
 
 
@@ -23192,6 +23082,10 @@ He and Queen Mara have three children:
 
 -   Maintains a spy in the Aethorian court whose identity is known only
     to him
+
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
 
 #### Secrets
 
@@ -23316,8 +23210,13 @@ serene and in complete control, regardless of circumstances.
 avoids physical confrontation, her mastery of divination magic means she
 often knows what enemies will do before they act. Her ability to see
 possible futures, combined with centuries of magical study, makes her
-nearly impossible to surprise or outmaneuver. She could devastate an
-army if forced to defend herself, though she would consider such
+nearly impossible to surprise or outmaneuver. She could devastate
+
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
+an army if forced to defend herself, though she would consider such
 violence a personal failure.
 
 #### Personality & Mannerisms
@@ -23449,6 +23348,10 @@ Unlike King Aldric IV, Aelindra does not seek reunification through
 force. She genuinely believes it will happen naturally when the time is
 right, guided by the stars and the will of the world itself.
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 #### Goals & Motivations
 
 
@@ -23514,7 +23417,7 @@ right, guided by the stars and the will of the world itself.
 
 -   The increasingly "quiet" stars that no longer speak clearly to her
     divinations
-
+\column
 #### Secrets
 
 
@@ -23579,6 +23482,10 @@ Thaldros to discuss potential peace. They might represent her at crucial
 negotiations that could determine whether the continents move toward
 reunification or war.
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 **The Third Heir:** Evidence emerges of the mysterious third bloodline
 with legitimate claim to a unified crown. The Queen wants investigation
 without alerting the other noble houses---knowledge of this claim could
@@ -23608,7 +23515,7 @@ that perhaps this time, we might choose differently."*
 
 ### 36.3 Crown Prince Thorin Thandris
 
-
+![36.3 Crown Prince Thorin Thandris](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-prince-thorin-thandris.jpg){width:200px,float:right,margin:5px}
 **Heir to the Iron Crown of Thaldros**
 
 #### Titles & Aliases
