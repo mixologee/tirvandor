@@ -26305,40 +26305,7 @@ title passed down through generations---or something else entirely.
 ## Chapter 39: Military Commanders
 
 
-### 39.1 Lord Commander Thrain Ironoak
-
-![39.1 Lord Commander Thrain Ironoak](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-commander-thrain-ironoak.jpg){width:200px,float:right,margin:5px}
-
-
-**Title:** Lord Commander of the Royal Army of Thaldros
-
-**Location:** Kaer Thandros, Military Command Tower
-
-**Age:** 187 (dwarf)
-
-Gruff, honorable old soldier who commands with respect, not fear. Has
-served under three kings. Lost his right eye to a fire giant's thrown
-boulder during the Ashfall Uprising but refused magical healing---"Good
-dwarves earn their scars."
-
-Born in Kaer Thandros to the Ironoak clan, one of the oldest dwarven
-families. Joined the mountain guard at age 45, rose through ranks during
-the Post-Dragon Reconstruction. His tactical brilliance defending supply
-caravans caught King Aldric III's attention. Promoted to Lord Commander
-in 1225 CR---the first dwarf to hold the position in 200 years.
-
-**Secrets:** Negotiated the secret Northern Pact with frost
-giants---giants receive tribute of ale and metal, Thaldros gets safe
-northern borders. His grandmother sheltered Blackwood refugees after the
-rebellion, and he's found troubling evidence the crown's version of
-events isn't complete. He witnessed someone speaking to the red dragon
-Infernalix when it departed in 1201 CR but has never told anyone.
-
-**Connections:** King Aldric IV Thandris (near father-son relationship),
-General Marthos Thandris, Thane Durin Ironforge (old friend), Frost
-Giant Jarl Hrothgar (secret treaty partner)
-
-### 39.2 General Marthos Thandris
+### 39.1 General Marthos Thandris
 
 
 **Title:** General of the Border Legions
@@ -26355,7 +26322,7 @@ settlements in the frontier.
 Aldric married Queen Mara---the official records have been altered. He
 holds this information as leverage, though he has never used it.
 
-### 39.3 Captain Vex
+### 39.2 Captain Vex
 
 
 **Title:** Thaldrosian Border Officer
@@ -26367,7 +26334,9 @@ Contested Lands. Vex uses infiltrators and spies to set traps, though
 his overconfidence often leads to underestimating opponents. Has
 reinforcements available within one hour of any engagement.
 
-### 39.4 Scout Captain Finn Quickfoot
+\column
+
+### 39.3 Scout Captain Finn Quickfoot
 
 ![39.4 Scout Captain Finn Quickfoot](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-scout-captain-finn-quickfoot.jpg){width:200px,float:right,margin:5px}
 
@@ -26390,8 +26359,7 @@ for his size.
 
 
 {{pageNumber,auto}}
-{{footnote Chapter 40: Merchants and Guild Leaders}}
-
+{{footnote Chapter 39: Military Commanders}}
 \page
 
 ## Chapter 40: Merchants and Guild Leaders
@@ -26485,8 +26453,7 @@ ruthless methods.
 
 
 {{pageNumber,auto}}
-{{footnote Chapter 41: Criminals and Underworld Figures}}
-
+{{footnote Chapter 40: Merchants and Guild Leaders}}
 \page
 
 ## Chapter 41: Criminals and Underworld Figures
@@ -26575,8 +26542,7 @@ trigger a catastrophic release if successful.
 
 
 {{pageNumber,auto}}
-{{footnote Chapter 42: Scholars and Mages}}
-
+{{footnote Chapter 41: Criminals and Underworld Figures}}
 \page
 
 ## Chapter 42: Scholars and Mages
@@ -26689,8 +26655,7 @@ suppressed by authorities uncomfortable with their implications.
 
 
 {{pageNumber,auto}}
-{{footnote Chapter 43: Adventurers and Heroes}}
-
+{{footnote Chapter 42: Scholars and Mages}}
 \page
 
 ## Chapter 43: Adventurers and Heroes
@@ -26780,11 +26745,10 @@ completing jobs makes her services highly sought.
 
 
 {{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-
+{{footnote Chapter 43: Adventurers and Heroes}}
 \page
 
-![Chapter 44: Villains and Antagonists](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-house-blackwoods-execution.jpg){position:absolute,top:0,left:0,width:100%,height:280px}
+![Chapter 44: Villains and Antagonists](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-house-blackwoods-execution.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
 
 {{margin-top:290px}}
 
@@ -26798,8 +26762,9 @@ understanding the world's conflicts.
 
 ### 44.1 Corvus Blackwood (Lord Shadows)
 
-![44.1 Corvus Blackwood (Lord Shadows)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-corvus-blackwood.jpg){width:325px}
+![44.1 Corvus Blackwood (Lord Shadows)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-corvus-blackwood.jpg){width:305px}
 
+{{margin-top:290px}}
 
 **The Last Heir of House Blackwood, Leader of The Unbound**
 
@@ -26846,7 +26811,13 @@ spectacles, appearing as a harmless academic.
 
 A tattoo of the Blackwood family sigil covers his entire back---the only
 possession he retained from his childhood. The curse mark from Raven's
-Keep manifests as black veins spreading slowly from his left hand toward
+Keep 
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
+manifests as black veins spreading slowly from his left hand toward
 his heart.
 
 #### Personality
@@ -26920,6 +26891,8 @@ continents apart, was too dangerous to use and too powerful to destroy.
 The Blackwoods kept it sealed in vaults beneath Raven's Keep, their
 vigilance unbroken for centuries.
 
+\column
+
 **The Blackwood Rebellion (1089-1092 CR)**
 
 In 1089 CR, Lord Aldric Blackwood III claimed the throne of Thaldros
@@ -26982,10 +26955,14 @@ branded into his soul.
 For twenty-six years, Corvus survived in the shadows of society. He was
 a beggar, a thief, a dock worker, a sellsword---whatever kept him alive
 while he learned. He sought out those who could teach him the skills of
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 survival: assassins taught him to kill, spies taught him to gather
-information, forgers taught him to create false identities, and rogue
-scholars taught him the forbidden histories the Crown had tried to
-erase.
+information, forgers taught him to create false identities, and rogue 
+scholars taught him the forbidden histories the Crown had tried to erase.
 
 He found mentors among the desperate and the vengeful. An old assassin
 named Kaelar trained him in the killing arts before dying of plague. A
@@ -27042,7 +27019,7 @@ purpose, and the promise of accountability for those who had escaped
 justice.
 
 The Unbound was born.
-
+\column
 **The Present Day (1247 CR)**
 
 Now fifty-five years old, Corvus has spent forty-three years building
@@ -27102,6 +27079,10 @@ been fighting for forty-three years. Part of him simply wants to be
 done---to clear his family's name and finally rest. If he could achieve
 vindication without violence, he would. But he no longer believes such a
 path exists.
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
 
 #### Methods & Operations
 
@@ -27231,6 +27212,10 @@ requires the right platform to present.
 Goldshore Keepers, King Aldric III covered it up, and the current king
 knows nothing. This creates a moral dilemma---punish the dynasty through
 an innocent man?
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
 
 4\. **The Dying Curse:** The black veins spreading from his hand mark
 the curse killing him. He has perhaps five years to live. Only he and
@@ -27375,8 +27360,12 @@ patience. He began to plan.
 
 In 1156 CR, Infernalix emerged from volcanic chambers and attacked Kaer
 Thandros. The assault was devastating---outer districts destroyed,
-hundreds killed, royal family members among the casualties. House
-Emberthorn lost half their holdings in a single day when they refused to
+hundreds killed, royal family members among the casualties.
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+House Emberthorn lost half their holdings in a single day when they refused to
 pay tribute. House Ironforge saw three mines destroyed.
 
 For forty-five years, Infernalix terrorized Thaldros. But this was never
@@ -27518,6 +27507,10 @@ accessible only through specific rituals, protected from the Crown's
 destruction. For over a century, he existed alone, guardian of Blackwood
 secrets and prisoner of his oath.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 When Corvus Blackwood discovered Raven's Keep and proved his bloodline,
 Arcanus' oath compelled him to serve. The relationship is
 complex---Arcanus is bound to obey but has his own agenda, and his
@@ -27555,8 +27548,6 @@ immortality first. He will betray anyone to preserve his existence.
 
 ### 44.4 Captain Malthus Voidcaller
 
-![44.4 Captain Malthus Voidcaller](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-malthus-voidcaller.jpg){width:325px}
-
 
 **Military Commander of The Unbound**
 
@@ -27591,6 +27582,8 @@ conflict with Aethoria. When he protested, he was silenced. When he
 sought justice, he was discharged. When he went public, his family was
 "lost in a bandit raid."
 
+![44.4 Captain Malthus Voidcaller](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-malthus-voidcaller.jpg){width:325px}
+
 He knows the Crown ordered the attack. He knows the generals who
 abandoned the village are now lords. He knows the system will never hold
 them accountable.
@@ -27613,6 +27606,10 @@ command, referring to them as "my people" rather than followers.
 
 He fights not for personal glory but to protect those under his command
 and to ensure no other family suffers as his did.
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
 
 #### Connections
 
@@ -27737,10 +27734,7 @@ flee.
 
 ### 44.6 The Dread King
 
-![44.6 The Dread King](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-dread-king-undead-throne.jpg){width:325px}
-
-
-**Ancient Lich from the Northern Wastes**
+*Ancient Lich from the Northern Wastes**
 
 **True Name:** Unknown (lost to history)
 
@@ -27753,9 +27747,17 @@ Dreadhost
 
 **Current Location:** The Frozen Kingdom (Northern Wastes)
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 **Role:** External Existential Threat
 
 **Alignment:** Neutral Evil
+:
+
+![44.6 The Dread King](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-dread-king-undead-throne.jpg){width:325px}
+
 
 #### Physical Description
 
@@ -27819,7 +27821,6 @@ himself.
 
 ### 44.7 Merchant Prince Davos Goldshore
 
-
 **Ruthless Merchant and Primary Antagonist of Blood & Coin**
 
 **Full Name:** Davos Aldris Goldshore
@@ -27854,6 +27855,13 @@ of competitors, and strategic marriages (both wives died of
 "illness"), he built a trading empire controlling approximately 40% of
 maritime trade between continents.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
+![44.7 Prince Davos Goldshore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-davos-goldshore.jpg){width:325px}
+
+
 **The Takeover Plan:** Davos has spent decades positioning himself to
 seize control of the main Goldshore house. He has forged documents,
 bribed witnesses, compiled blackmail on Lord Aldris IV, and arranged the
@@ -27885,7 +27893,7 @@ the most profitable investment."*
 
 ### 44.8 Master Crimson (The Shadow Syndicate)
 
-![44.8 Master Crimson (The Shadow Syndicate)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-crimson.jpg){width:200px,float:right,margin:5px}
+![44.8 Master Crimson (The Shadow Syndicate)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-crimson.jpg){width:325px}
 
 
 **Mysterious Leader of the Criminal Underworld**
@@ -27915,6 +27923,10 @@ individuals. What's known: Master Crimson controls the Shadow
 Syndicate's operations across central Thaldros, coordinates regional
 operations through lieutenants, and appears in person only for the most
 important negotiations.
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
 
 #### The Shadow Syndicate
 
@@ -27983,6 +27995,8 @@ into the Blackwater name---the oldest family in Marshaven. Her husband
 died three years into the marriage under mysterious circumstances.
 She's ruled the city ever since.
 
+![44.9 Lady Morgana Blackwater](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-morgana-blackwater.jpg){width:325px}
+
 Marshaven has always been overlooked: too swampy, too poor, too strange.
 The continental powers take its taxes but provide nothing in return.
 Morgana decided to change that.
@@ -28006,8 +28020,12 @@ a liberator, not a villain, believing the ends justify the means. The
 continental powers have abandoned her people; she will give them the
 strength to survive alone.
 
-### 44.10 Dragon Morveth (The Thornmire Terror)
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
 
+### 44.10 Dragon Morveth (The Thornmire Terror)
+![44.10 Dragon Morveth](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-morveth-shadowmane.jpg){width:325px}
 
 **Ancient Black Dragon of the Thornmire Swamps**
 
@@ -28037,8 +28055,11 @@ accident. In truth, Morveth planted them, and now watches with amusement
 as the "liberator" builds an army that will eventually destroy
 everything she loves.
 
+\column
+
 ### 44.11 General Marthos Thandris
 
+![44.11 General Marthos Thandris](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-general-marthos-thandris.jpg){width:325px}
 
 **Military Commander with Contingency Plans**
 
@@ -28072,6 +28093,10 @@ developed a deep pragmatism that some call cynicism.
 military takeover should the succession fail catastrophically. Not
 ambition, insurance. He genuinely believes he'd be a better ruler, but
 he'll never act unless the alternative is chaos.
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
 
 ### 44.12 Warlock Kael Voidwhisper
 
@@ -28144,7 +28169,6 @@ require sacrificing someone else to take his place
 
 ### 44.13 Lord Crimson (Unbound Lieutenant)
 
-
 **Corrupt Noble Funding the Revolution**
 
 **True Name:** Lord Varen Ashford
@@ -28212,8 +28236,12 @@ the right price
 Syndicate, the shared name is coincidental and creates useful confusion
 that both find advantageous.
 
-### 44.14 The Faceless Assassin
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
 
+### 44.14 The Faceless Assassin
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/bc-faceless-assassin.jpg){width:325px}
 
 **Legendary Killer Without Identity**
 
@@ -28282,7 +28310,6 @@ dangerous information
 
 ### 44.15 The Ash Prophet
 
-
 **Fire Genasi Sorcerer with Apocalyptic Visions**
 
 **True Name:** Pyrius (fire genasi birth name)
@@ -28323,6 +28350,10 @@ following among those who believe the old world must burn for a new one
 to emerge. Lord Shadows recruited them for their genuine prophetic
 abilities, though the apocalyptic fervor is harder to control.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 **Quote:** *"I have seen the cleansing flame. It is beautiful. It is
 coming."*
 
@@ -28350,7 +28381,6 @@ they can't tell which ones
 rather than divine truth
 
 ### 44.16 Cultist-Commander Theron
-
 
 **Former Paladin Turned Unbound Leader**
 
@@ -28417,7 +28447,6 @@ them, old habits die hard
 
 ### 44.17 The Whispering Void
 
-
 **Aberration Bound to The Unbound**
 
 **True Name:** Unpronounceable (causes psychic damage to hear)
@@ -28473,6 +28502,10 @@ stimulus-response remains unclear.
 It seems to enjoy causing fear. Whether this is genuine emotion or just
 efficient feeding behavior, none can say.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 #### Secrets
 
 
@@ -28492,7 +28525,7 @@ These necromancers operate independently but may ally with various
 factions or serve as campaign antagonists.
 
 #### Glacius (The Ice Necromancer)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-necromancer-glacius-frost.jpg){width:325px}
 
 **True Name:** Unknown (possibly former academic name erased)
 
@@ -28528,7 +28561,7 @@ could freeze entire kingdoms.
 -   Knows the location of a pre-Worldrend frost giant tomb
 
 #### Kestra (The Blood Necromancer)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-necromancer-kestra-blood.jpg){width:325px}
 
 **True Name:** Kestra Sanguine
 
@@ -28549,6 +28582,10 @@ Seductive, hungry, every word drips with barely contained appetite.
 Views mortals as resources but isn't wasteful. Has her own twisted
 ethics about consent and worthy prey.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 **Secrets:**
 
 -   Was rejected by a vampire clan, her blood magic was deemed
@@ -28559,7 +28596,7 @@ ethics about consent and worthy prey.
 -   Has a forbidden attraction to a paladin who hunts her
 
 #### Mortis (The Plague Necromancer)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-necromancer-mortis-plague.jpg){width:325px}
 
 **True Name:** Abandoned
 
@@ -28580,7 +28617,7 @@ spreads disease, his breath carries contagion.
 
 Wheezing, punctuated by coughs, disturbingly friendly tone. Genuinely
 believes disease is natural selection and he's helping evolution.
-
+\column
 **Secrets:**
 
 -   Was a healer who watched plague destroy his village, his mind broke
@@ -28592,7 +28629,7 @@ believes disease is natural selection and he's helping evolution.
     collection
 
 #### Thraz (The Skeletal King)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-necromancer-thraz-king.jpg){width:325px}
 
 **True Name:** Unknown (slave name never recorded)
 
@@ -28614,6 +28651,10 @@ Rattling, commanding, speaks of liberation through undeath. Sees himself
 as revolutionary hero, freeing the dead from rest they never earned in
 life.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 **Secrets:**
 
 -   Remembers his slave life with perfect clarity, uses that rage to
@@ -28624,7 +28665,7 @@ life.
 -   Seeks the graves of legendary slave heroes to raise as his generals
 
 #### Varis (The Academic Necromancer)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-necromancer-varis-classic.jpg){width:325px}
 
 **Full Name:** Professor Varis Mordaine
 
@@ -28724,6 +28765,10 @@ forbidden research" after an experiment killed three students. What the
 Academy doesn't admit: the research worked, and the knowledge gained
 terrifies them.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 Aldric provides the Unbound with magical research, artifact
 identification, and forbidden knowledge. He believes he's advancing the
 cause of truth, though his definition of acceptable costs has expanded
@@ -28741,7 +28786,6 @@ considerably.
     views
 
 #### Mercenary Captain Vex Ironscar
-
 
 **Full Name:** Vex Ironscar
 
@@ -28780,7 +28824,6 @@ enough that it hasn't happened yet.
 
 #### Witch Morgana Shadowveil
 
-
 **True Name:** Unknown (fey names are power)
 
 **Titles:** Morgana Shadowveil, The Curse-Weaver
@@ -28806,8 +28849,14 @@ academic.
 
 She creates cursed items for the Unbound: weapons that corrupt their
 wielders, amulets that bring misfortune to enemies, trinkets that spread
-plague. Her prices are always strange, memories, names, promises, and
+plague. 
+
+\column
+
+Her prices are always strange, memories, names, promises, and
 her services are always effective.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-morgana-shadowveil.jpg){width:325px}
 
 **Secrets:**
 
@@ -28820,8 +28869,6 @@ her services are always effective.
     against clients who might betray her
 
 ### 44.20 Professor Miranda Questseeker
-
-![44.20 Professor Miranda Questseeker](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-professor-miranda-questseeker.jpg){width:200px,float:right,margin:5px}
 
 
 **Brilliant Scholar of Ancient Mysteries**
@@ -28843,10 +28890,15 @@ Probably-Shouldn't-Touch-This
 
 #### Physical Description
 
-
 Miranda is younger than expected for someone of her academic reputation,
 thirty-five, with wild auburn hair perpetually escaping whatever tie
-attempts to contain it. Spectacles perch crookedly on her nose, and ink
+attempts to contain it.
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
+Spectacles perch crookedly on her nose, and ink
 stains cover her fingers regardless of how recently she washed. She
 dresses in practical academic robes, pockets stuffed with books,
 scrolls, and mysterious artifacts.
@@ -28854,6 +28906,9 @@ scrolls, and mysterious artifacts.
 Her eyes light up with almost manic enthusiasm when discussing ancient
 mysteries. She speaks rapidly when excited (which is always), and tends
 to forget social niceties when focused on research.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-professor-miranda-questseeker.jpg){width:325px}
+
 
 #### Background & History
 
@@ -28870,7 +28925,7 @@ because they were too disturbing.
 
 **Quote:** *"Tell me it's dangerous. Please tell me it's dangerous. I
 haven't had proper excitement since the lich incident last year!"*
-
+\column
 #### Personality
 
 
@@ -28917,10 +28972,8 @@ contain significant fabrications
 several powerful institutions, assuming she survives long enough to
 publish
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 45: Common Folk and Supporting Characters}}
-
+{{footnote Chapter 44: Villains and Antagonists}}
 \page
 
 ## Chapter 45: Common Folk and Supporting Characters
@@ -29208,7 +29261,10 @@ but really, some small part of him is still ashamed.
 protect Gregor from Syndicate retaliation twice, at great personal risk.
 
 
+{{pageNumber,auto}}
+{{footnote Chapter 45: Common Folk and Supporting Characters}}
 \page
+
 
 # Part VIII: Creatures
 
