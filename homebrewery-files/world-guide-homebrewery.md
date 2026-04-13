@@ -5803,7 +5803,7 @@ perspective.
 
 The king's focus on external threats has left him blind to corruption
 within his own court and administration. Nobles abuse their authority,
-officials take bribes, and the Thornwood Syndicate operates within the
+officials take bribes, and the Shadow Syndicate operates within the
 capital itself. These problems fester because addressing them would
 require the king to admit he has been mistaken.
 
@@ -11168,7 +11168,7 @@ ended; pragmatists defend them.
 #### Notable Leaders
 
 
-**Trade Prince Lucian Goldfingers** (age 47, half-elf)
+**Trade Prince Lucian Goldfingers** (mid-sixties, half-elf)
 
 The most powerful of the three Trade Princes and effectively the
 League's leader. Born in Port Myrthen's gutters as the illegitimate
@@ -11201,8 +11201,7 @@ respect, and eventually to reshape the world's economy in his image.
 -   Maintains secret communication with Master Crimson of the Shadow
     Syndicate, a business relationship both officially deny
 
--   Funds both sides of several conflicts, profiting from war through
-    destabilization agents
+-   Manipulates trade routes and creates artificial scarcity during conflicts, profiting from economic instability through market manipulation agents
 
 **Captain Sylara Windchaser** (age 34, human)
 
@@ -13023,7 +13022,7 @@ unpredictable consequences.
 #### Notable Members
 
 
-**Archmage Veridian Starweaver** (age 467, high elf)
+**Archmage Veridian Starweaver** (age 612, high elf)
 
 Current headmaster and perhaps the most accomplished diviner in
 Tirvandor. Veridian was formally inducted into the Arcanum at age 40
@@ -20704,7 +20703,7 @@ formal noble house was established when the keep was built.
 
 -   Contains embezzled funds, blackmail material, stolen art
 
--   Proof linking bank owner to Thornwood Syndicate
+-   Proof linking bank owner to Shadow Syndicate
 
 #### Aethoria Legendary Sites
 
@@ -22577,7 +22576,7 @@ his chief of security, and the architect who built it (now dead).
 -   Stolen art worth 50,000 gold pieces, reported "lost" and claimed
     on insurance
 
--   A ledger proving the bank owner funds the Thornwood Syndicate's
+-   A ledger proving the bank owner funds the Shadow Syndicate's
     operations
 \column
 **Security:** Twenty bank guards patrol day and night. Magical locks
@@ -22586,7 +22585,7 @@ silent alarm alerts the owner upon entry.
 
 **Significance:** Exposing the vault would destroy the bank owner,
 destabilize Goldreach's economy (the bank handles 40% of the city's
-commerce), weaken the Thornwood Syndicate, and create political chaos as
+commerce), weaken the Shadow Syndicate, and create political chaos as
 twenty nobles face blackmail exposure.
 
 ### 34.3 The Nexus of Seven Sorrows
@@ -22857,7 +22856,7 @@ that would crush lesser souls.
 
 -   High King of Thaldros
 
--   Lord of the Iron Crown
+-   Lord of the Iron Throne
 
 -   Defender of the Mountain Realm
 
@@ -23541,7 +23540,7 @@ battle-scarred appearance, Thorin possesses the youthful vigor of a man
 not yet worn down by decades of kingship---but that vigor is tempered by
 the visible weight of future responsibility.
 
-He keeps himself clean-shaven, revealing intense gray eyes that assess
+He keeps himself clean-shaven, revealing intense brown eyes that assess
 situations with tactical precision. He wears practical armor even in
 court settings, always prepared for action should it become necessary.
 His one notable mark is a small scar on his left hand, earned during a
@@ -25176,26 +25175,26 @@ that number through carelessness."*
 
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-general-marthos-thandris.jpg){width:200px,float:right,margin:5px}
 
-**General of the Royal Army, Distant Cousin to the King**
+**Supreme Commander of the Thaldros Military, Distant Cousin to the King**
 
 #### Titles & Aliases
 
 
--   General of the Royal Army
+-   Supreme Commander of the Thaldros Military
 
--   The Young Wolf (military nickname)
+-   The Old Wolf (military nickname, originally "The Young Wolf" in his early career)
 
 -   Cousin to the Crown
 
 #### Age & Physical Description
 
 
-**Age:** 35 years old (born 1212 CR)
+**Age:** 58 years old (born 1189 CR)
 
 An imposing figure standing six feet three inches and weighing two
 hundred ten pounds, with a commanding presence that fills any room.
-Older than Crown Prince Thorin by seven years and looks it---weathered
-face, several scars, prematurely graying hair. Keeps a short military
+Older than Crown Prince Thorin by thirty years and looks it---weathered
+face, several scars, graying hair. Keeps a short military
 beard. Cold blue eyes assess everyone as either asset or threat.
 
 Always in uniform, even at formal events. Walks with a slight limp from
@@ -25903,6 +25902,16 @@ second chance. Some hate her.
 
 Needs five hundred undead for her plan. At current rate: five years.
 
+**The Dragon's Interest**
+
+Unknown to Morgana, the ancient black dragon Morveth has been secretly
+encouraging her necromantic experiments. Morveth planted the forbidden
+texts that taught Morgana to create intelligent undead, and now watches
+with amusement as the "liberator" builds an army of useful pawns.
+Morveth sees the undead forces as tools she can eventually turn to her
+own purposes, waiting for them to cause maximum suffering when they
+inevitably escape control. (See also Section 44.9 and 44.10.)
+
 ### 37.9 Council Mistress Elara Silverleaf
 
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-mistress-elara-silverleaf.jpg){width:200px,float:right,margin:5px}
@@ -26035,9 +26044,9 @@ flaunting it.
 **Threat Level:** Dangerous primarily through wealth and connections.
 Lucian controls a merchant empire spanning both continents and sits on
 the Merchant League's inner council as one of the three Trade Princes
-who truly control continental commerce. He funds both sides of several
-conflicts and has destabilization agents creating tensions across
-Tirvandor---not from patriotism, but profit.
+who truly control continental commerce. He manipulates trade routes,
+creates artificial scarcity, and employs agents who destabilize currency
+markets across Tirvandor---not from patriotism, but profit.
 
 #### Complete Background & History
 
@@ -26096,7 +26105,7 @@ Wants to revolutionize commerce.
 #### Age & Physical Description
 
 
-**Age:** 35 years old (born 1212 CR)
+**Age:** 58 years old (born 1189 CR)
 
 Wild and striking, standing five feet nine inches and weighing one
 hundred forty pounds, with an intensity that makes people step back.
@@ -26277,6 +26286,8 @@ imbalances in the world's natural order.
 Priest Rashid Al-Sahir (mutual respect between cleric and druid
 traditions), House Verdantheart (fellow druids)
 
+*Note: The title 'Silvaris' is also used in Aethoria as an inherited druidic title. The current Aethorian Silvaris is Caelindra (see Section 69.7). The Thaldros Silvaris and the Aethorian Silvaris are separate individuals.*
+
 ### 38.3 The Sand Prophet
 
 ![38.3 ](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-sand-prophet.jpg){width:195px,float:right,margin:5px}
@@ -26308,7 +26319,9 @@ title passed down through generations---or something else entirely.
 ### 39.1 General Marthos Thandris
 
 
-**Title:** General of the Border Legions
+**Title:** Supreme Commander of the Thaldros Military
+
+**Age:** 58
 
 **Location:** Contested Lands frontier
 
@@ -26345,7 +26358,7 @@ reinforcements available within one hour of any engagement.
 
 **Location:** Mobile, operates throughout Thaldros
 
-**Age:** 47 (halfling)
+**Age:** 50 (halfling)
 
 The fastest and most cunning scout in Thaldrosian service. Finn leads a
 network of rangers and scouts who gather intelligence across the realm.
@@ -26354,7 +26367,7 @@ infiltration missions.
 
 Despite his cheerful demeanor, Finn has survived more dangerous
 situations than most soldiers see in a lifetime. He is utterly loyal to
-Lord Commander Thrain, who gave him a chance when others dismissed him
+Commander Kael Stormwatcher, who gave him a chance when others dismissed him
 for his size.
 
 
@@ -26464,11 +26477,11 @@ ruthless methods.
 ![41.1 Master Crimson](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-crimson.jpg){width:200px,float:right,margin:5px}
 
 
-**Title:** Leader of the Thornwood Syndicate
+**Title:** Leader of the Shadow Syndicate
 
 **Location:** Unknown, operates throughout Thaldros
 
-The mysterious figure who controls the Thornwood Syndicate, the most
+The mysterious figure who controls the Shadow Syndicate, the most
 powerful criminal organization in western Tirvandor. No one knows Master
 Crimson's true identity---the name may be a title rather than an
 individual. The Syndicate operates in smuggling, protection rackets,
@@ -26478,15 +26491,15 @@ Master Crimson maintains a network of lieutenants who carry out
 operations while keeping the master's identity secret. The organization
 has infiltrated merchant guilds, noble houses, and even military units.
 They are particularly active in Goldreach, Crossvale, and the Contested
-Lands.
+Lands. Master Crimson operates independently and answers to no one.
 
-**Secret:** Master Crimson is actually being manipulated by Merchant
-Prince Davos Goldshore, though the Syndicate doesn't know this. Davos
-uses them for deniable operations while publicly opposing their
-activities.
+**Secret:** Master Crimson maintains a business relationship with Trade
+Prince Lucian Goldfingers, exchanging underworld services for financial
+backing. The partnership is built on mutual profit and mutual distrust---
+neither trusts the other, but both benefit too much to sever ties.
 
 **Connections:** Various noble patrons (blackmail), corrupt city
-officials, Merchant Prince Davos Goldshore (unknowing puppet)
+officials, Trade Prince Lucian Goldfingers (business partner, mutual distrust)
 
 ### 41.2 Whisper
 
@@ -26581,7 +26594,7 @@ possibility.
 
 **Location:** Silverpine
 
-**Age:** 342 (elf)
+**Age:** 182 (elf)
 
 An elven wizard who teaches at the famous Silverpine Magical Academy.
 Elara specializes in combining divination magic with natural lore,
@@ -26594,23 +26607,9 @@ continents.
 
 ### 42.3 Archmage Eldrin Aethermere
 
+*For Archmage Eldrin Aethermere's complete entry, see Section 36.5.*
 
-**Title:** Royal Archmage of Aethoria, Prince of House Aethermere
-
-**Location:** Aethermere, the World-Tree Palace
-
-**Age:** 158 (elf)
-
-Eldest child of High Queen Aelindra, Eldrin serves as the realm's most
-powerful wizard and chief magical advisor. Though he cannot inherit the
-throne (succession works differently in Aethoria), his magical and
-political influence is immense.
-
-Eldrin is methodical and scholarly, preferring research to court
-politics. He maintains the magical wards protecting Aethermere and
-studies the ancient magics of the World-Trees. His relationship with his
-mother is complex---he respects her but questions some of her more
-secretive decisions.
+Eldrin maintains the magical wards protecting Aethermere and studies World-Tree magics as part of his ongoing research.
 
 ### 42.4 Archmage Veridian Starweaver
 
@@ -26623,11 +26622,13 @@ secretive decisions.
 
 **Age:** 612 (elf)
 
-Ancient even by elven standards, Veridian leads House Starweaver and the
-famous Starfall Observatory. He is brilliant beyond question but
-deliberately cryptic in all communications. He cares more about stars
-than politics, dismissing continental conflicts as "brief fluctuations
-in the cosmic order."
+Ancient even by elven standards, Veridian formerly led House Starweaver
+and the famous Starfall Observatory, where he was brilliant beyond
+question but deliberately cryptic in all communications, caring more
+about stars than politics. He later accepted the position of Headmaster
+at the Silverpine Arcanum (see Section 69.4), where his personality
+evolved---becoming more approachable and patient as a teacher while
+retaining his vast celestial knowledge.
 
 **Secret:** Something terrifies Veridian---something he discovered long
 ago and has spent centuries trying to understand or prevent. The Sealed
@@ -26692,7 +26693,7 @@ vengeance beyond what wisdom would advise.
 
 **Location:** Silverwood
 
-**Age:** 487 (elf)
+**Age:** 156 (elf, born 1091 CR)
 
 The greatest ranger of the western continent, Arannis protects the
 Silverwood and serves as liaison between elven and human communities.
@@ -26726,7 +26727,7 @@ will and might be saved.
 into a vampire. He was forced to destroy her himself and has hunted
 undead ever since.
 
-### 43.4 Captain Lyra Stormwind
+### 43.4 Captain Lyra Swiftwind
 
 
 **Title:** Adventurer, Former Privateer
@@ -27829,7 +27830,7 @@ himself.
 
 **Race:** Half-elf
 
-**Age:** 67
+**Age:** 157
 
 **Current Location:** Goldreach
 
@@ -27840,7 +27841,7 @@ himself.
 #### Physical Description
 
 
-Davos is a half-elf in his late sixties who looks decades younger due to
+Davos is a half-elf of one hundred and fifty-seven years who looks decades younger due to
 his heritage. He dresses immaculately in expensive but tasteful
 clothing, projecting wealth without ostentation. His eyes are
 calculating, his smile warm but never reaching those eyes, and his hands
@@ -27874,10 +27875,10 @@ He maintains a poisoner on permanent staff (seven business rivals
 eliminated, never caught) and has insurance files on dozens of nobles
 and officials.
 
-**War Profiteering:** Davos funds both sides of several conflicts. He
-has destabilization agents creating tensions between Thaldros and
-Aethoria because war is profitable. He is not patriotic---purely
-mercenary.
+**War Profiteering:** Davos finances military engagements on both sides
+of the Thaldros-Aethoria conflicts through direct arms dealing, smuggled
+weapons shipments, and mercenary contracts. He profits from every battle
+fought with his steel. He is not patriotic---purely mercenary.
 
 #### Personality
 
@@ -27962,6 +27963,7 @@ operations under her direction.
 
 ### 44.9 Lady Morgana Blackwater
 
+*For Lady Morgana Blackwater's complete entry including full secrets and relationships, see Section 37.8.*
 
 **Necromancer Ruler of Marshaven**
 
@@ -28882,7 +28884,7 @@ Probably-Shouldn't-Touch-This
 
 **Age:** 35
 
-**Current Location:** Aethoria University, Aethermere
+**Current Location:** Silverpine Magical Academy
 
 **Role:** Scholar, Artifact Expert, Adventuring Academic
 
@@ -28914,8 +28916,8 @@ to forget social niceties when focused on research.
 
 
 Miranda showed prodigious talent for magical research from childhood,
-entering university at sixteen and earning her professorship at
-twenty-eight, the youngest in Aethoria's history. Her specialty is
+entering the academy at sixteen and earning her professorship at
+twenty-eight, the youngest in Silverpine's history. Her specialty is
 Pre-Worldrend artifacts and Primordial magic theory.
 
 She's survived more "academic expeditions" than most adventurers
@@ -28965,7 +28967,7 @@ theology!"*
 1\. **The Forbidden Archive:** Has memorized large portions of texts
 that were supposed to be destroyed
 
-2\. **The Truth About Aethoria:** Knows the founding myths of Aethoria
+2\. **The Truth About Silverpine:** Knows the founding myths of Silverpine
 contain significant fabrications
 
 3\. **The Book:** Is writing a comprehensive history that will expose
@@ -28980,7 +28982,7 @@ publish
 
 
 ### 45.1 Marta Goodbarrel
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/marta-goodbarrel-innkeeper.jpg){width:325px}
 
 **Title:** Owner of The Goodbarrel Inn
 
@@ -29002,9 +29004,9 @@ are banned for life, and in Goldreach, that's a serious social penalty.
 **Secret:** Marta still has contacts from her adventuring days,
 including a former party member who became a dragon. They correspond
 occasionally.
-
+\column
 ### 45.2 Old Barrett
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/old-barrett-mentor.jpg){width:325px}
 
 **Title:** Retired Adventurer, Village Elder
 
@@ -29027,9 +29029,13 @@ agreed to never speak of. One of them broke that oath. The others died
 within the year. Barrett is the last survivor, and he's never told
 anyone what they found.
 
+{{pageNumber,auto}}
+{{footnote Chapter 45: Common Folk and Supporting Characters}}
+\page
+
 ### 45.3 Watch Captain Gregor Ironhand
 
-![45.3 Watch Captain Gregor Ironhand](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-watch-captain-gregor-ironhand.jpg){width:200px,float:right,margin:5px}
+![45.3 Watch Captain Gregor Ironhand](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-watch-captain-gregor-ironhand.jpg){width:325px}
 
 
 **Title:** Captain of the Crossvale City Watch
@@ -29053,9 +29059,9 @@ Syndicate enforcer who handles their most violent problems. The brothers
 haven't spoken in years. Gregor doesn't know his brother's criminal
 identity. If he ever discovered the truth, it would break him---and
 he'd still make the arrest.
-
+\column
 ### 45.4 Harbor Master Tobias Saltwind
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-harbor-master-tobias-saltwind.jpg){width:325px}
 
 **Title:** Harbor Master of Goldreach
 
@@ -29064,8 +29070,10 @@ he'd still make the arrest.
 **Age:** 54 (human)
 
 A barrel-chested man with a booming voice who controls everything that
-enters or leaves Goldreach by sea. Tobias is scrupulously honest in his
-official duties, which makes him unusual among port officials. He runs a
+enters or leaves Goldreach by sea. Tobias is widely believed to be honest, though in truth he selectively
+accepts bribes from certain smugglers---funneling the coin quietly into
+orphanages and relief houses along the waterfront. He justifies the
+corruption as doing more good than rigid honesty ever could. He runs a
 tight operation and commands the respect of both sailors and merchants.
 
 Former naval officer who served with distinction before taking the
@@ -29075,9 +29083,11 @@ encyclopedic. Sailors trust his judgment about when it's safe to sail.
 **Secret:** Tobias lost his son to a sea monster years ago. He quietly
 funds expeditions to hunt such creatures and keeps a trophy room of
 their remains in his basement.
-
+{{pageNumber,auto}}
+{{footnote Chapter 45: Common Folk and Supporting Characters}}
+\page
 ### 45.5 Caravan Master Hassan
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-caravan-master-hassan.jpg){width:325px}
 
 **Title:** Master of the Desert Routes
 
@@ -29098,9 +29108,9 @@ operators---often end in disaster.
 **Secret:** Hassan has an arrangement with several bandit tribes. He
 pays them tribute, and they attack his competitors instead. It's pure
 business, and he feels no guilt about it.
-
+\column
 ### 45.6 Burgher-Master Wilhelm Von Handel
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-burgher-master-wilhelm-von-handel.jpg){width:325px}
 
 **Title:** Burgher-Master of Crossvale
 
@@ -29121,9 +29131,11 @@ the city running and the coin flowing.
 **Secret:** Wilhelm knows the Syndicate operates in his city. He's made
 a tacit arrangement: they don't cause public problems, he doesn't look
 too hard for them. It keeps the peace, but it weighs on him.
-
+{{pageNumber,auto}}
+{{footnote Chapter 45: Common Folk and Supporting Characters}}
+\page
 ### 45.7 Marcus Vrell
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/marcus-vrell-broker.jpg){width:325px}
 
 **Title:** Information Broker
 
@@ -29144,13 +29156,13 @@ is always accurate---his reputation depends on it.
 **Secret:** Marcus maintains detailed files on his clients as insurance.
 If anything happens to him, the files go to the most damaging possible
 recipients.
-
+\column
 ### 45.8 Silas the Fence
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/old-barrett-mentor.jpg){width:325px}
 
 **Title:** Receiver of Stolen Goods
 
-**Location:** Goldreach (underground markets)
+**Location:** Silverpine (underground markets)
 
 **Age:** 52 (halfling)
 
@@ -29168,8 +29180,12 @@ Everything else is fair game.
 enough money to buy his way out. He keeps his old skills sharp, just in
 case.
 
-### 45.9 Elder Tremont
+{{pageNumber,auto}}
+{{footnote Chapter 45: Common Folk and Supporting Characters}}
+\page
 
+### 45.9 Elder Tremont
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silas-the-fence.jpg){width:325px}
 
 **Title:** Village Elder and Retired Priest
 
@@ -29213,7 +29229,7 @@ society, and Pip is working their way up in it.
 kept quiet out of fear, but the guilt is eating at them.
 
 ### 45.11 Master Glasswright Zara
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-glasswright-zara.jpg){width:325px}
 
 **Title:** Master of the Sundaran Glasswright Guild
 
@@ -29236,9 +29252,13 @@ killed her as a child. She sometimes sees visions in molten
 glass---prophecies she's learned to encode in her artwork for those who
 know how to read them.
 
+{{pageNumber,auto}}
+{{footnote Chapter 45: Common Folk and Supporting Characters}}
+\page
+
 ### 45.12 The Iron Hand (Marcus Ironhand)
 
-![45.12 The Iron Hand (Marcus Ironhand)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-marcus.jpg){width:200px,float:right,margin:5px}
+![45.12 The Iron Hand (Marcus Ironhand)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-marcus.jpg){width:325px}
 
 
 **Title:** Syndicate Enforcer
@@ -32886,7 +32906,7 @@ futures.
 
 **Note:** *Garrick appears in the Monster Manual under Iron Guild
 Mercenaries but is actually the founder of the Smiths' Guild, not the
-Iron Guild. A full entry exists in Chapter 42: Goldreach NPCs (§42.3).
+Iron Guild. A full entry exists in Section 69.6.
 His connection to the Iron Guild stems from his legendary status in
 Goldreach, where both organizations maintain headquarters, and his
 occasional provision of weapons and equipment to Guild contracts.*
@@ -32923,7 +32943,7 @@ his endorsement carries weight in mercenary circles.
 
 **Cross-Reference:**
 
-See Chapter 42: Goldreach NPCs, §42.3 for Garrick's complete entry
+See Section 69.6 for Garrick's complete entry
 including:
 
 -   Full background and history
@@ -39389,7 +39409,7 @@ the Shadow Syndicate. The briber's identity could shake the kingdom.
 **Vault 13**: Goldreach Bank has twelve public vaults. Vault 13 is
 unacknowledged. It contains embezzled funds, blackmail material on
 twenty nobles, stolen art, and a ledger proving the bank owner funds the
-Thornwood Syndicate. Getting in isn't hard---getting out with proof
+Shadow Syndicate. Getting in isn't hard---getting out with proof
 before guards arrive is the challenge. Exposing the vault brings down
 the bank owner and destabilizes the economy, but weakens the Syndicate.
 
@@ -40693,7 +40713,7 @@ traitor.
 
 **Race:** Halfling
 
-**Age:** Approximately 50
+**Age:** 50
 
 **Location:** Ironhold, Northern Command
 
@@ -41702,7 +41722,7 @@ continents.*
 
 **Race:** Half-Elf
 
-**Age:** Unknown (appears middle-aged)
+**Age:** Mid-sixties (half-elf, appears mid-forties)
 
 **Location:** Port Myrthen (primary), offices across both continents
 
@@ -41807,9 +41827,9 @@ pre-Worldrend trade magic. Wants to revolutionize commerce.
 5\. **The Half-Sibling Solution:** Planning to eliminate or co-opt his
 half-siblings permanently. Tired of their interference.
 
-6\. **War Profiteering:** Funds both sides of several conflicts. Profits
-from war. Has destabilization agents creating tensions. Not
-patriotic---mercenary.
+6\. **War Profiteering:** Manipulates trade routes and creates artificial
+scarcity during conflicts. Profits from economic instability through
+currency manipulation and market cornering. Not patriotic---mercenary.
 
 ### 69.2 Master Crimson (Shadow Syndicate)
 
@@ -41994,7 +42014,7 @@ price. Volcanus hasn't revealed what he's promised in return.
 
 **Race:** High Elf
 
-**Age:** Over 400 years
+**Age:** 612 (elf)
 
 **Location:** Silverpine Arcanum (Headmaster's Tower)
 
@@ -42066,11 +42086,13 @@ light and is never far from his hand.
 #### Background & History
 
 
-Born over four centuries ago in the ancient elven city of Aethermere,
+Born over six centuries ago in the ancient elven city of Aethermere,
 Veridian showed prodigious magical talent before he could walk. He was
 formally inducted into the Arcanum at age forty (young for an elf),
 became a full wizard at one hundred, and achieved the rank of Archmage
-at two hundred and fifty---the youngest in recorded history.
+at two hundred and fifty---the youngest in recorded history. He spent
+his early centuries at Starfall Observatory, where he led House
+Starweaver and gained renown for his celestial research.
 
 His specialty is divination, but his true mastery lies in the
 intersection of magical schools. He developed the Starweaver
@@ -42441,6 +42463,8 @@ Archdruid. If she dies, the line may end.
 
 6\. **The Dying Forests:** The forests are dying slowly. Some disease or
 curse she can't identify. Race against time to find cure.
+
+*Note: The Thaldros continent has its own Archdruid Silvaris Oakenheart -- an individual rather than an inherited title (see Section 38.2). Despite sharing the name, they are separate figures.*
 
 ### 69.8 Elder Council Mother Talia Vinehart
 
@@ -43001,8 +43025,8 @@ happens nearby.
 
 **Physical Description**
 
-Aldric is an imposing figure standing six feet two inches, weighing two
-hundred fifteen pounds of solid muscle built through a lifetime of
+Aldric is an imposing figure standing six feet four inches, weighing two
+hundred twenty pounds of solid muscle built through a lifetime of
 military service. Steel-gray hair cut short, a neat beard, and deep-set
 brown eyes that miss nothing. A weathered face bears a scar across his
 left cheek from a border skirmish in his youth. He always stands with
@@ -43137,8 +43161,8 @@ missions)
 
 Tall and athletic at six feet and one hundred ninety pounds, with his
 father's strong features softened by his mother's warmth. Keeps his
-dark brown hair military-short and is usually clean-shaven. His blue
-eyes---his mother's contribution---are often the first thing people
+dark brown hair military-short and is usually clean-shaven. His brown
+eyes are often the first thing people
 notice. Dresses in practical military attire when working, formal court
 dress when required. Always carries a sword, even at formal events.
 
@@ -43259,98 +43283,20 @@ proving himself in battle.
 
 #### Lord Commander Thrain Ironoak
 
+*For Lord Commander Thrain Ironoak's complete entry, see Section 37.3.*
 
-**Title:** Lord Commander of the Royal Army, Shield of Kaer Thandros
+**Race:** Mountain Dwarf | **Age:** Approximately 280 | **Location:** Military Command Tower, Kaer Thandros
 
-**Race:** Mountain Dwarf
-
-**Age:** Approximately 280 years old
-
-**Location:** Military Command Tower, Kaer Thandros
-
-**Physical Description**
-
-A gruff, battle-scarred dwarf whose body tells the story of centuries of
-warfare. Lost his right eye to a fire giant's thrown boulder during the
-Ashfall Uprising but refused magical healing, declaring that "good
-dwarves earn their scars." Carries himself with the confident bearing
-of an old soldier who has seen everything, survived everything, and
-emerged stronger.
-
-**Personality**
-
-Commands with respect, not fear. Has served under three kings. Values
-loyalty above all other virtues. Hates cowardice. Speaks in short,
-direct sentences with a thick dwarvish accent.
-
-**Defining Principles:**
-
--   "Good dwarves earn their scars.".
-
--   "I've buried more soldiers than I care to count. I'll not add to
-    that number through carelessness.".
-
-**Background**
-
-Born in the deep halls of Kaer Thandros to the Ironoak clan, one of the
-oldest dwarven families in the Ironspine Holds. Joined the mountain
-guard at age forty-five and served in the Border Wars against orc
-incursions during the 1180s CR.
-
-Rose through ranks during the Post-Dragon Reconstruction, when his
-tactical brilliance defending supply caravans caught King Aldric III's
-attention. Fought alongside humans during the Ashfall Uprising (1210 CR)
-when volcanic creatures threatened Emberforge. Lost his right eye but
-refused to retreat until civilians evacuated.
-
-Promoted to Lord Commander in 1225 CR, making him the first dwarf to
-hold the position in two hundred years. Has served three Thandris
-kings---the late Aldric III, briefly the infant-king Marcus (who died of
-fever), and now Aldric IV. This continuity makes him one of the most
-trusted advisors in the realm.
-
-**Key Relationships:**
-
--   **King Aldric IV Thandris** --- Mutual respect, nearly father-son
-    relationship.
-
--   **General Marthos Thandris** --- Professional relationship,
-    sometimes clash over tactics.
-
--   **Thane Durin Ironforge** --- Old friend from the holds.
-
--   **Secret Contact:** Frost Giant Jarl Hrothgar (Northern Pact
-    partner).
-
-**Secrets:**
-
-*The Northern Pact:* Negotiated a secret non-aggression treaty with
-frost giants. Giants get tribute of ale and metal; Thaldros gets safe
-northern borders.
-
-*The Blackwood Sympathy:* His grandmother sheltered Blackwood refugees
-after the rebellion. He's quietly investigated their claims---and found
-troubling evidence the crown's version isn't complete.
-
-*The Dragon Deal:* Witnessed the moment the red dragon Infernalix
-departed in 1201 CR. Saw someone speaking to it from the walls. Has
-never told anyone, not even the king.
-
-*Failing Health:* The fire giant's boulder damaged more than his eye.
-Has recurring seizures he hides with medication from a discrete healer.
-
-*The Lost Company:* His first command was massacred because he trusted
-bad intelligence. Survivors were told it was enemy action. It was
-actually friendly fire from panicking human troops.
+A gruff, battle-scarred dwarf who has served as Lord Commander since 1225 CR under three Thandris kings. Lost his right eye to a fire giant during the Ashfall Uprising but refused magical healing. Commands with respect and values loyalty above all. His continuity of service makes him one of the realm's most trusted advisors.
 
 #### General Marthos Thandris
 
 
-**Title:** General of the Royal Army, Distant Cousin to the King
+**Title:** Supreme Commander of the Thaldros Military, Distant Cousin to the King
 
 **Race:** Human
 
-**Age:** 35 (born 1212 CR)
+**Age:** 58 (born 1189 CR)
 
 **Location:** Military Command, Kaer Thandros
 
@@ -43358,8 +43304,8 @@ actually friendly fire from panicking human troops.
 
 An imposing figure standing six feet three inches and weighing two
 hundred ten pounds, with a commanding presence that fills any room.
-Older than Crown Prince Thorin by seven years and looks it---weathered
-face, several scars, prematurely graying hair. Keeps a short military
+Older than Crown Prince Thorin by thirty years and looks it---weathered
+face, several scars, graying hair. Keeps a short military
 beard. Cold blue eyes assess everyone as either asset or threat. Always
 in uniform, even at formal events. Walks with a slight limp from an old
 battle wound.
@@ -43398,13 +43344,13 @@ was the King's great-uncle. While not in direct line for succession,
 he's close enough that in a catastrophic scenario, he could have a
 claim.
 
-Born in 1212 CR to a minor branch of House Thandris. Enlisted at
+Born in 1189 CR to a minor branch of House Thandris. Enlisted at
 sixteen, rose through ranks through sheer competence and tactical
 brilliance. At twenty-five, he led a crucial defense of a border
 fortress against a massive orc horde. Outnumbered five-to-one, he held
 for three days until reinforcements arrived.
 
-By thirty, he was General---youngest ever at the time. He modernized the
+By forty, he was Supreme Commander---a rank earned through decades of distinguished service. He modernized the
 army, improved training protocols, and increased efficiency. Under his
 command, Thaldros hasn't lost a single major engagement.
 
@@ -44109,7 +44055,7 @@ it.
 
 **Age:** Unknown (appears middle-aged)
 
-**Location:** Various establishments, Trade Quarter, Kaer Thandros
+**Location:** Various establishments, Silverpine
 
 **Role**
 
@@ -44534,7 +44480,7 @@ out.
 
 **Race:** High Elf
 
-**Age:** 467 years old
+**Age:** 612 years old
 
 **Location:** Silverpine Arcanum
 
@@ -44720,86 +44666,18 @@ deliberate---someone meant to tear the world apart.
 *Prevention Text:* One text appears to describe how to prevent a second
 Worldrend; he's still deciphering it.
 
+**Hidden Truth:** Cornelius's claimed age of 78 is a carefully maintained cover. See Section 73.4 for his true nature.
+
 ### 71.3 City Officials
 
 
 #### Captain Lyra Swiftwind
 
+*For Captain Lyra Swiftwind's complete entry, see Section 68.10.*
 
-**Title:** Captain of the Silverpine City Watch
+**Race:** Half-Elf | **Age:** Approximately 55 | **Location:** City Watch Headquarters, Silverpine
 
-**Race:** Half-Elf
-
-**Age:** Approximately 55 years old
-
-**Location:** City Watch Headquarters, Silverpine
-
-**Physical Description**
-
-Athletic and alert, with the mixed features of her half-elven heritage.
-Her bearing commands respect from criminals and citizens alike. Eyes
-that miss nothing.
-
-**Personality**
-
-Fair, tough, intelligent. Commands the City Watch with skill and has
-solved multiple high-profile cases. Incorruptible---the Shadow Syndicate
-has tried to bribe her dozens of times. She arrests the messengers.
-
-**Background**
-
-Born in Silverpine's lower district to a mixed-race family---human
-mother, elven father. Her father Marcus worked for the Shadow Syndicate
-as a fence, providing the family a comfortable but morally compromised
-living.
-
-Lyra joined the City Watch at twenty, believing she could do good from
-within the system. Rose quickly through the ranks, her mixed heritage
-giving her unique perspective on both human and elven concerns.
-
-At thirty-two, she uncovered a smuggling ring---and discovered her
-father at its center. She arrested him personally. He died of fever in
-prison two years later, never speaking to her again. Her mother hasn't
-forgiven her either.
-
-But the arrest---and her willingness to sacrifice family for duty---made
-her legend. Promoted to Captain at forty, she now commands the City
-Watch with the same unbending commitment to law that cost her
-everything.
-
-**Key Relationships:**
-
--   **Commands:** Two hundred City Watch officers across all districts.
-
--   **Reports To:** Council Mistress Elara Silverleaf (complicated
-    relationship).
-
--   **Ally:** Sage Thelmar Runescribe (provides magical support for
-    investigations).
-
--   **Enemy:** The Shadow Syndicate (multiple assassination attempts).
-
--   **Informant:** Silas the Fence (ironic, given her history).
-
-**Secrets:**
-
-*The Father's Legacy:* Found her father's hidden records after his
-death. The Syndicate doesn't know she has them---details of operations,
-contacts, safehouses.
-
-*The Mother's Blame:* Her mother still lives in Silverpine. They
-haven't spoken in fifteen years. Lyra watches over her secretly.
-
-*The Syndicate Offer:* They've offered to leave her alone if she
-returns the records. She's refused. They're getting desperate.
-
-*The Corrupt Officer:* One of her lieutenants is on the Syndicate
-payroll. She knows who but is gathering evidence for a clean
-prosecution.
-
-*The True Reason:* Her father wasn't just arrested for smuggling. He
-was about to turn crown's witness against Syndicate leadership. Someone
-silenced him in prison. She's still hunting his killer.
+Captain of the Silverpine City Watch. Incorruptible law enforcer who arrested her own father for Syndicate smuggling, an act that cost her everything personal but made her a legend. Commands two hundred officers and has survived multiple Syndicate assassination attempts.
 
 #### Councilor Mira Silvervein
 
@@ -45046,9 +44924,9 @@ druid who merged with the forest itself. He doesn't clarify.
 
 **Title:** Commander of the Ironspine Rangers (Silverpine Chapter)
 
-**Race:** Half-Elf
+**Race:** High Elf
 
-**Age:** Approximately 80 years old
+**Age:** Approximately 200 years old
 
 **Location:** Ranger Outpost, Silverpine
 
@@ -45381,13 +45259,13 @@ is done.
 
 **Title:** Head of the Goldshore Branch Family, Merchant Prince
 
-**Race:** Human
+**Race:** Half-Elf
 
-**Age:** Approximately 50 years old
+**Age:** 157 (born 1090 CR, appears early forties due to half-elf heritage)
 
 **Location:** Goldreach (Branch Family Estate)
 
-**Note:** Full entry appears in Chapter 39: Villains and Antagonists as
+**Note:** Full entry appears in Chapter 44: Villains and Antagonists as
 a major campaign antagonist.
 
 **Summary:**
@@ -45738,7 +45616,7 @@ succession.
 
 **Race:** Half-Elf
 
-**Age:** 47 years old (appears middle-aged)
+**Age:** Mid-sixties (half-elf, appears mid-forties)
 
 **Location:** Port Myrthen (primary), offices across both continents
 including Goldreach
@@ -45793,8 +45671,8 @@ control over the continental economy.
 *Hidden Wealth:* Maintains caches across both continents, enough to
 rebuild from nothing.
 
-*War Profiteering:* Funds both sides of several conflicts through
-destabilization agents.
+*War Profiteering:* Manipulates trade routes and creates artificial
+scarcity during conflicts, profiting through economic destabilization.
 
 ### 72.5 Pirates and Criminals
 
@@ -49233,7 +49111,7 @@ with this arrangement---for now.
 
 **Race/Ancestry:** Human
 
-**Age:** 89 years
+**Age:** 89 years (apparent -- true age over 400, sustained by an ancient fey bargain)
 
 **Location:** Remote valley in the Ironspine foothills
 
@@ -49289,6 +49167,12 @@ occasionally prophecies that prove disturbingly accurate.
 2.  Knows the location of several dangerous artifacts she's hidden
 3.  One of her prophecies concerns someone currently alive---she's
     watching them
+4.  Her "court mage" persona and apparent age of 89 are a cover---she is
+    actually the same person known in other accounts as the fey-bargain
+    spirit healer, and has lived for over four centuries. An ancient pact
+    with a fey power sustains her far beyond a normal human lifespan.
+    Both her divination abilities and her spirit communion are real; she
+    simply presents different facets of herself to different seekers.
 
 **Plot Hooks:**
 
@@ -49435,7 +49319,7 @@ intelligence for Aethoria. The crown has placed a bounty on her head.
 
 **Race:** Halfling
 
-**Age:** Approximately 50
+**Age:** 50
 
 **Location:** Ironhold
 
@@ -50709,7 +50593,7 @@ by her hand. Fifteen remain.
 
 **Race/Ancestry:** Human
 
-**Age:** 35 years (born 1212 CR)
+**Age:** 58 years (born 1189 CR)
 
 **Location:** Black Chains Compound, Crossroads
 
