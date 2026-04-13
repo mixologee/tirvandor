@@ -25853,12 +25853,14 @@ Blackwater name---the oldest family in Marshaven. Her husband died three
 years into the marriage under mysterious circumstances. She's ruled the
 city ever since.
 
+Marshaven has always been overlooked: too swampy, too poor, too strange.
+The continental powers
+
 {{pageNumber,auto}}
 {{footnote Chapter 37: Nobility and Aristocracy}}
 \page
 
-Marshaven has always been overlooked: too swampy, too poor, too strange.
-The continental powers take its taxes but provide nothing in return.
+take its taxes but provide nothing in return.
 Morgana decided to change that.
 
 Using forbidden texts found in swamp ruins, she's learned to create
@@ -25914,7 +25916,7 @@ inevitably escape control. (See also Section 44.9 and 44.10.)
 
 ### 37.9 Council Mistress Elara Silverleaf
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-mistress-elara-silverleaf.jpg){width:200px,float:right,margin:5px}
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-mistress-elara-silverleaf.jpg){width:220px,float:right,margin:5px}
 
 **Head of Silverpine Council, University Rector**
 
@@ -25927,7 +25929,7 @@ inevitably escape control. (See also Section 44.9 and 44.10.)
 
 -   Matriarch of House Silverleaf (former---passed duties to focus on
     academia)
-\column
+
 #### Age & Physical Description
 
 
@@ -25986,6 +25988,10 @@ Appointed Rector of the University at age 250 (1155 CR)---youngest
 Rector in university history. Under her leadership, the University has
 grown to be the premier magical institution in western Tirvandor.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 Also leads the Silverpine Council, making her both academic and
 political leader of the city. Never married---devoted entirely to her
 work. Considers her students her children.
@@ -25999,10 +26005,6 @@ The University has a vault of dangerous magical knowledge. Only she has
 access. Contains things that shouldn't exist---necromancy tomes, demon
 summoning, reality-breaking spells. She's studied them all "to know
 how to counter them."
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 **The Staff Fragment**
 
@@ -26047,7 +26049,7 @@ the Merchant League's inner council as one of the three Trade Princes
 who truly control continental commerce. He manipulates trade routes,
 creates artificial scarcity, and employs agents who destabilize currency
 markets across Tirvandor---not from patriotism, but profit.
-
+\column
 #### Complete Background & History
 
 
@@ -26113,6 +26115,10 @@ Long black hair that seems to move with static electricity even when
 there's no wind. Eyes that shift from gray to electric blue depending
 on her mood. Olive skin with lightning-bolt scars from channeling power.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 Wears flowing dark robes that billow dramatically. Has a presence that
 fills rooms---electric and slightly dangerous.
 
@@ -26122,9 +26128,6 @@ across miles. However, her powers are tied to her emotions, and when she
 loses control, ships sink and people die. She is simultaneously one of
 House Stormcrest's greatest assets and their greatest liability.
 
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 #### Personality & Mannerisms
 
@@ -26223,7 +26226,7 @@ she'd accepted.
 
 ### 38.1 High Priest Rashid Al-Sahir
 
-![38.1 ](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-high-priest-rashid-al-sahir.jpg){width:195px,float:right,margin:5px}
+![38.1 ](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-high-priest-rashid-al-sahir.jpg){width:325px,float:right,margin:5px}
 
 **Title:** High Priest of Sundara, Chief Spiritual Advisor to the Sultan
 
@@ -26262,7 +26265,7 @@ mentorship), Merchant Prince Davos Goldshore (cautious alliance)
 
 ### 38.2 Archdruid Silvaris Oakenheart
 
-![38.2 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silvaris.jpg){width:195px,float:right,margin:5px}
+![38.2 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silvaris.jpg){width:325px,float:right,margin:5px}
 
 
 **Title:** Chief Archdruid of the Silverwood Circle
@@ -26282,6 +26285,10 @@ firsthand. This ancient perspective gives her wisdom that few can match.
 She believes the current era's conflicts are symptoms of deeper
 imbalances in the world's natural order.
 
+{{pageNumber,auto}}
+{{footnote Chapter 38: Religious Leaders}}
+\page
+
 **Connections:** High Queen Aelindra Aethermere (distant respect), High
 Priest Rashid Al-Sahir (mutual respect between cleric and druid
 traditions), House Verdantheart (fellow druids)
@@ -26290,7 +26297,7 @@ traditions), House Verdantheart (fellow druids)
 
 ### 38.3 The Sand Prophet
 
-![38.3 ](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-sand-prophet.jpg){width:195px,float:right,margin:5px}
+![38.3 ](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-sand-prophet.jpg){width:325px,float:right,margin:5px}
 
 **Title:** Desert Oracle
 
@@ -26663,7 +26670,7 @@ suppressed by authorities uncomfortable with their implications.
 
 
 ### 43.1 Desert Ranger Khalid
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-desert-ranger-khalid.jpg){width:325px}
 
 **Title:** Warden of the Sundaran Expanse
 
@@ -26685,9 +26692,9 @@ him beloved by common folk and respected even by the bandits he hunts.
 **Secret:** Khalid's family was killed by bandits when he was young.
 His devotion to justice borders on obsession, and he sometimes pursues
 vengeance beyond what wisdom would advise.
-
+\column
 ### 43.2 Ranger-Lord Arannis Silverleaf
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-arannis-silverleaf.jpg){width:325px}
 
 **Title:** Warden of the Silverwood, Lord of House Silverleaf
 
@@ -26706,8 +26713,12 @@ secret contact with his distant cousins in House Starweaver across the
 sea, working quietly toward healing the schism between eastern and
 western elves.
 
-### 43.3 Ranger-Lord Silvanus
+{{pageNumber,auto}}
+{{footnote Chapter 43: Adventurers and Heroes}}
+\page
 
+### 43.3 Ranger-Lord Silvanus
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-ranger-lord-silvanus.jpg){width:325px}
 
 **Title:** The Vampire Slayer
 
@@ -26726,9 +26737,9 @@ will and might be saved.
 **Secret:** Silvanus' obsession stems from his wife's transformation
 into a vampire. He was forced to destroy her himself and has hunted
 undead ever since.
-
+\column
 ### 43.4 Captain Lyra Swiftwind
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-lyra-swiftwind.jpg){width:325px}
 
 **Title:** Adventurer, Former Privateer
 
@@ -29289,12 +29300,6 @@ protect Gregor from Syndicate retaliation twice, at great personal risk.
 # Part VIII: Creatures
 
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-
-\page
-
 ## Chapter 46: Border Creatures
 
 
@@ -29406,6 +29411,10 @@ against powers that have abandoned the border's people.
 
 -   A seemingly simple bandit attack reveals that someone powerful is
     directing these "random" raids
+
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
 
 ### 46.2 Smuggler Captain
 
