@@ -29793,6 +29793,10 @@ where the damage is worst, arising from soil mixed with the blood of too
 many battles. They exist to protect their domain from further
 destruction.
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 Unlike true elementals that embody a pure element, these creatures
 embody conflict itself. Their substance is inherently unstable because
 it's composed of materials that were never meant to mix.
@@ -29829,10 +29833,6 @@ emotion: rage, protectiveness, exhaustion, grief.
 These elementals are solitary; the land rarely produces more than one in
 a given area. When their territory overlaps with another's, they simply
 ignore each other.
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 
 **Abilities:**
 
@@ -29908,6 +29908,10 @@ armies are destroyed. Cities change hands and populations flee. People
 who had homes, jobs, and lives become homeless wanderers with nothing
 but what they can carry.
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 Most refugee groups remain peaceful, too exhausted and traumatized for
 violence. But sometimes a spark ignites them: a perceived injustice, a
 denial of desperately needed resources, a demagogue who channels their
@@ -29942,10 +29946,6 @@ seems most confident, and abandon leaders who show weakness.
 Individual mob members often have no idea what the group is doing until
 afterward. The crowd psychology takes over; people do things they'd
 never do alone. This isn't an excuse, but it is an explanation.
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 
 After a mob disperses, participants often experience shame and horror at
 their actions. They were themselves; they also weren't. The experience
@@ -29992,6 +29992,8 @@ people. This is heroically dangerous but sometimes works.
 
 ### 46.7 Scavenger Ghoul
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-scavenger-ghoul.jpg){width:325px}
+
 **Type:** Undead
 
 **Physical Description:**
@@ -30006,6 +30008,10 @@ They smell of death, old death, new death, every death in between. Their
 eyes have a faint phosphorescent glow that's visible in darkness. They
 move in a hunched, scuttling manner, closer to animals than the people
 they once were.
+
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
 
 Most retain some vestiges of the clothing they died in, though it's
 usually rotted to rags. Some still wear armor that's rusted to their
@@ -30025,7 +30031,6 @@ Most scavenger ghouls were created from people who died in the region
 and rose due to exposure to concentrated death energy. Others wandered
 in from elsewhere, drawn by the abundance of food.
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-scavenger-ghoul.jpg){width:325px}
 
 **Behavior and Ecology:**
 
@@ -30049,10 +30054,6 @@ Scavenger ghouls retain limited intelligence, enough to use pack
 tactics, recognize danger, and communicate through hissing and
 chittering sounds. They're cunning predators but not sophisticated
 thinkers.
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 
 Pack hierarchies exist based on age and strength. Older ghouls lead;
 younger ones follow. Disputes are settled through displays of aggression
@@ -30078,7 +30079,7 @@ Their pack tactics make them more dangerous than their individual
 weakness suggests. They coordinate attacks, with some ghouls
 immobilizing prey while others feed. They're also capable of healing by
 consuming corpses, even mid-combat.
-
+\column
 **Cultural Significance:**
 
 Both armies consider ghoul infestations a logistical problem requiring
@@ -30128,8 +30129,6 @@ Despite lacking wings, they're excellent climbers, scaling vertical
 surfaces with ease. They often attack from above, dropping onto prey
 from ruins or cliff faces.
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-territorial-drake.jpg){width:325px}
-
 **Origins:**
 
 Drakes have always existed in Tirvandor, but the Contested Lands have
@@ -30145,15 +30144,17 @@ Some scholars believe they were originally domesticated, war mounts or
 guard animals from pre-war settlements. Others argue they're simply
 wild drakes that adapted to available territory.
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-territorial-drake.jpg){width:325px}
+
 **Behavior and Ecology:**
 
 True to their name, these drakes fiercely defend claimed territories. A
 single drake might control several square miles of ruins, attacking
 anything that enters without permission.
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 
 They hunt through ambush, preferring to strike from concealment rather
 than chase prey openly. Their camouflage and climbing ability make them
@@ -30218,7 +30219,7 @@ away.
 
 -   The party discovers that drakes are more intelligent than commonly
     believed
-\column
+
 ### 46.9 War Beast
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-war-beast.jpg){width:325px}
 
@@ -30228,7 +30229,13 @@ away.
 
 War beasts are massive predators, wolves, hunting cats, or war dogs,
 bred and trained for military use. They average six feet at the
-shoulder, with heavy muscle, powerful jaws, and coats that range from
+shoulder, with heavy
+
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
+muscle, powerful jaws, and coats that range from
 dark gray to mottled brown depending on breeding lineage.
 
 Their eyes show unusual intelligence for animals, the result of
@@ -30261,10 +30268,6 @@ masters.
 Domesticated war beasts are extensions of their handlers, disciplined,
 obedient, focused on assigned tasks. They can follow complex commands,
 distinguish friend from enemy, and execute military tactics.
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 
 Feral war beasts retain their training while losing their restraint.
 They hunt in packs using military tactics, flanking, ambush, coordinated
@@ -30344,8 +30347,13 @@ beasts have escaped over the centuries.
 
 A haunted battlefield doesn't look particularly different from any
 other war-torn land at first glance. Churned earth, scattered debris,
-perhaps some remaining equipment and bones. The vegetation is often dead
-or stunted, but that's common in the Contested Lands.
+perhaps some remaining equipment and bones. The vegetation is often 
+
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
+dead or stunted, but that's common in the Contested Lands.
 
 The difference becomes apparent at night, or sometimes at dawn or dusk,
 when the light catches at odd angles. Ghostly figures flicker into view.
@@ -30378,10 +30386,6 @@ Haunted battlefields are static, the horror doesn't spread, doesn't
 migrate. But within their boundaries, they're extraordinarily
 dangerous.
 
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
-
 The battlefield "activates" at irregular intervals, though night is
 most common. Living creatures within the area experience the battle as
 if present, psychic damage from ghostly weapons, overwhelming terror
@@ -30407,7 +30411,7 @@ dissolving back into the general horror.
 The battlefields seem to have memory of a sort. Some respond more
 violently to soldiers wearing specific insignia, suggesting they
 "remember" who fought whom.
-
+\column
 **Abilities:**
 
 Anyone within a haunted battlefield when it activates experiences the
@@ -30419,7 +30423,7 @@ The battlefield can spontaneously generate spectral soldiers, not true
 ghosts, but temporary manifestations that attack and eventually
 dissolve. It can also summon phantom armies: waves of spectral
 combatants that overwhelm through numbers.
-\column
+
 Consecration suppresses battlefield activity temporarily. Priests can
 create safe zones within haunted areas through funeral rites, though the
 suppression is limited in duration and radius.
@@ -30557,8 +30561,13 @@ requires sacrifice, and conscription distributes that sacrifice
 
 Veterans of conscription rarely speak well of it, but many find that the
 experience bound them to comrades in ways peaceful life never could.
-Conscript reunions are common in Thaldros villages, where graying men
-remember those who didn't come home.
+Conscript reunions 
+
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
+are common in Thaldros villages, where graying men remember those who didn't come home.
 
 **Story Potential:**
 
@@ -30592,11 +30601,6 @@ and accepted its demands.
 
 Unlike conscripts, professional soldiers enlisted voluntarily. Many come
 from military families where
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
-
 service is tradition. Others joined seeking escape from poverty, opportunity 
 for advancement, or simply structure in chaotic lives.
 
@@ -30651,6 +30655,10 @@ technique provides mutual protection. Their discipline allows them to
 resist fear when comrades stand beside them. They can coordinate attacks
 effectively, with some soldiers pinning enemies while others strike.
 
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
 They're not individually remarkable fighters, but their training and
 coordination make them more effective than their individual skills would
 suggest. Fighting a Thaldros formation is significantly harder than
@@ -30680,7 +30688,7 @@ thinking and sometimes cruel enforcement.
 
 ### 47.3 Iron Legion Enforcer
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-iron-legion-enforcer.jpg){width:325px}
-
+\column
 **Type:** Humanoid (any ancestry)
 
 **Physical Description:**
@@ -30721,10 +30729,6 @@ easier to control than injured ones. They display their presence
 prominently, making examples of a few to cow the many. When violence is
 necessary, they're brutally efficient.
 
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
-
 They work in pairs or groups, backing each other and coordinating to
 overwhelm targets. They focus on defeating resistance quickly and
 publicly. The goal isn't justice; it's compliance.
@@ -30745,6 +30749,10 @@ Legion members are socially isolated. Other soldiers distrust them.
 Civilians fear them. Even their families often don't know the details
 of their work. This isolation creates intense internal loyalty, the
 Legion becomes the only community that accepts them.
+
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
 
 Advancement within the Legion requires demonstrated loyalty and
 effectiveness. Senior enforcers have usually done things they can never
@@ -30784,7 +30792,6 @@ in Thaldros society.
     colleagues
 
 ### 47.4 Royal Guard Elite
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-royal-guard-elite.jpg){width:325px}
 
 **Type:** Humanoid (any ancestry)
 
@@ -30812,6 +30819,8 @@ Training is equally demanding. Guard candidates undergo additional
 combat training, learn close protection protocols, study noble customs
 and court etiquette, and are thoroughly vetted for any compromising
 connections or tendencies.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-royal-guard-elite.jpg){width:325px}
 
 Those who pass become the kingdom's elite soldiers, assigned to protect
 royalty, secure important locations, and handle sensitive missions.
@@ -30843,6 +30852,10 @@ oath is to Thaldros and its legitimate government, not to whichever
 person currently wears the crown. This distinction has historically been
 important during succession disputes.
 
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
 Guards form a tight community, training together, socializing together,
 and often marrying within guard families. Retirement from the Guard
 typically leads to comfortable positions, security consulting, training
@@ -30853,10 +30866,6 @@ roles, noble household service.
 Guard elites are exceptional individual combatants and outstanding unit
 fighters. They inspire allies through example and command, projecting an
 aura of confidence that steadies nervous troops.
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
 
 Their leadership ability allows them to direct allied efforts, turning
 chaotic melees into coordinated actions. They're also skilled at
@@ -30886,7 +30895,7 @@ oppressors. This reputation is valuable and carefully maintained.
     seeking purpose
 
 ### 47.5 State Inquisitor
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-state-inquisitor.jpg){width:325px}
+
 
 **Type:** Humanoid (any ancestry)
 
@@ -30921,6 +30930,8 @@ Active inquisitors operate with minimal oversight. They're trusted to
 make decisions in the field, and they're held accountable for results
 rather than methods.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-state-inquisitor.jpg){width:325px}
+
 **Behavior and Combat:**
 
 Inquisitors prefer intelligence gathering to direct action. They
@@ -30946,8 +30957,13 @@ that could shake the foundations of power across the continent.
 
 Inquisitors live double lives, their official identities and their
 operational identities. Some maintain families who believe they're
-merchants or diplomats. Others have no personal lives at all, consumed
-entirely by their work.
+merchants or diplomats. Others 
+
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
+have no personal lives at all, consumed entirely by their work.
 
 They answer to the Crown through a structure deliberately obscured from
 external view. Even most government officials don't know the full
@@ -30989,12 +31005,7 @@ scrutiny. This chilling effect is intentional.
 -   The party must counter an Inquisition operation without being
     identified
 
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
-
 ### 47.6 War Mage of Thaldros
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-war-mage-of-thaldros.jpg){width:325px}
 
 **Type:** Humanoid (any ancestry, spellcaster)
 
@@ -31028,6 +31039,8 @@ War mages are attached to military units rather than operating
 independently. They answer to military commanders (who often don't
 understand magic) while maintaining standards set by the Magical Corps.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-war-mage-of-thaldros.jpg){width:325px}
+
 **Behavior and Combat:**
 
 War mages stay behind the front line, protected by soldiers while they
@@ -31043,10 +31056,17 @@ turn a battle.
 They're trained to counter enemy magic when present, using
 counterspells to protect allied formations from magical attacks.
 
+
 **Intelligence and Society:**
 
 War mages occupy an awkward social position. Regular soldiers respect
-their power but distrust magic. Commanders value their capabilities but
+their power but distrust magic. 
+
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
+Commanders value their capabilities but
 rarely understand their limitations. Academic mages look down on their
 "crude" applications of magical theory.
 
@@ -31099,7 +31119,7 @@ potential to serve mundane wars.
     magical philosophies
 
 ### 47.7 Siege Golem
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-siege-golem.jpg){width:325px}
+
 
 **Type:** Construct
 
@@ -31119,17 +31139,13 @@ to suggest direction, with glowing eyes providing magical sight.
 They move slowly but inexorably, each step shaking the ground. Nothing
 about them suggests humanity, they're weapons, not beings.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-siege-golem.jpg){width:325px}
+
 **Origins:**
 
 Thaldros war mages created siege golems to solve a specific problem:
 fortifications. Conventional siege warfare is expensive, time-consuming,
-and costly in 
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
-
-lives. Golems provide an alternative, constructs that can
+and costly in lives. Golems provide an alternative, constructs that can
 breach walls, absorb defensive fire, and clear fortifications without
 risking irreplaceable soldiers.
 
@@ -31148,6 +31164,11 @@ circumstances. They're tools that require competent direction.
 In combat, they advance slowly toward assigned targets, ignoring attacks
 that don't meaningfully damage them. Their primary weapons are
 devastating against structures and dangerous to anything nearby.
+
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
 Secondary targets receive attention only if they block the primary
 objective.
 
@@ -31201,7 +31222,7 @@ materials and techniques for their creation are closely guarded secrets.
 -   A golem's programming has been compromised, by accident or sabotage
 
 ### 47.8 General's Champion
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-generals-champion.jpg){width:325px}
+
 
 **Type:** Humanoid (any ancestry)
 
@@ -31220,6 +31241,8 @@ positioned for advantage.
 
 Most bear extensive scarring from their careers. These marks are
 displayed with pride rather than concealed.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-generals-champion.jpg){width:325px}
 
 **Origins:**
 
@@ -31242,6 +31265,10 @@ assault, and lead by devastating example. Their presence on a
 battlefield affects morale, their own troops are inspired, while enemies
 must account for a nearly unstoppable threat.
 
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
 They fight honorably by their understanding of honor, which includes
 lethal efficiency, tactical intelligence, and ruthless exploitation of
 any advantage. They're not interested in fair fights; they're
@@ -31258,10 +31285,6 @@ Champions occupy an elite social position, trusted agents of powerful
 generals, renowned warriors, living legends of military culture.
 They're invited to noble events, consulted on military matters, and
 generally treated with deference.
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
 
 This status comes with expectations. Champions must maintain their
 reputations through continued excellence. A champion who ages out of
@@ -31311,7 +31334,7 @@ embarrassment.
 
 -   A retired champion offers training or assistance in exchange for
     suitable compensation
-
+\column
 ### 47.9 Iron Crown Knight
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-iron-crown-knight.jpg){width:325px}
 
@@ -31328,7 +31351,7 @@ Their faces often reflect their philosophy's costs, hard eyes, grim
 expressions, the look of people who've made peace with doing unpleasant
 things for necessary reasons. They're not cruel by nature but have
 become comfortable with cruelty when they deem it necessary.
-\column
+
 **Origins:**
 
 The Iron Crown is a paladin order sworn to maintaining civilization
@@ -31342,9 +31365,14 @@ religious and martial training, swearing oaths that bind them to the
 order's philosophy.
 
 Their powers come from their conviction rather than divine favor in the
-traditional sense. They believe they serve the gods of order; whether
-those gods actually support their interpretation is theologically
-debated.
+traditional sense. They believe they 
+
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
+serve the gods of order; whether those gods actually support their 
+interpretation is theologically debated.
 
 **Behavior and Combat:**
 
@@ -31391,10 +31419,6 @@ the enforcement of their will.
 Their "Iron Command" channel divinity can paralyze enemies through
 pure authority, a supernatural assertion of dominance that overwhelms
 resistance.
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
 
 **Cultural Significance:**
 
@@ -31446,7 +31470,13 @@ abandoned, and developed tactical innovations that changed how Thaldros
 fights.
 
 His current position as Lord Commander, supreme military authority
-answering only to the Crown, represents the pinnacle of his career.
+answering only to the Crown, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
+represents the pinnacle of his career.
 He's served three monarchs in this role, providing continuity through
 succession transitions.
 
@@ -31480,7 +31510,7 @@ individual monarchs.
 His personal life is minimal, the military is his family, command is his
 purpose. He's outlived a wife and children, converting grief into
 focused dedication.
-
+\column
 **Abilities:**
 
 Varius' tactical genius allows him to direct battlefield events in ways
@@ -31580,7 +31610,7 @@ than seizing territory. They know their local terrain intimately, every
 hiding spot, every ambush position, every escape route. Fighting on
 familiar ground gives them advantages that partially offset their lack
 of professional training.
-\column
+
 They prefer guerrilla tactics: ambush, harassment, hit-and-run. They
 avoid pitched battles against professional soldiers, recognizing that
 they'll lose straight fights. Instead, they make occupation expensive,
@@ -31611,7 +31641,13 @@ creates both strong unit cohesion and complicated personal dynamics.
 **Abilities:**
 
 Militia are skilled at concealment and ambush, especially in their home
-terrain. They can hide effectively, strike from surprise, and fade away
+terrain. They can hide 
+
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
+
+effectively, strike from surprise, and fade away
 before enemies can respond effectively.
 
 They lack the training for sustained combat or coordinated formation
@@ -31640,9 +31676,6 @@ commitment to shared values.
 -   The party must convince suspicious militia that they're allies, not
     threats
 
-{{pageNumber,auto}}
-{{footnote Chapter 48: Aethorian Resistance}}
-\page
 
 ### 48.2 Resistance Fighter
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-resistance-fighter.jpg){width:325px}
@@ -31710,7 +31743,13 @@ dangerous; every contact is a potential point of betrayal.
 
 Many fighters struggle with the moral complexity of their work.
 Ambushing soldiers is clear enough. But what about collaborators who
-cooperate under threat? Informants who betrayed friends to save their
+cooperate under threat? 
+
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
+
+Informants who betrayed friends to save their
 own families? The line between justice and murder becomes blurred.
 
 **Abilities:**
@@ -31753,7 +31792,7 @@ ambiguous figures.
     resurface
 
 ### 48.3 People's Champion
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-peoples-champion.jpg){width:325px}
+
 
 **Type:** Humanoid (any ancestry)
 
@@ -31775,13 +31814,7 @@ enough.
 
 Champions emerge when communities face threats too great for collective
 response. Someone steps forward, a particularly skilled fighter, a
-particularly 
-
-{{pageNumber,auto}}
-{{footnote Chapter 48: Aethorian Resistance}}
-\page
-
-brave individual, someone who simply refuses to let their
+particularly brave individual, someone who simply refuses to let their
 neighbors suffer. They take on challenges others can't face.
 
 Their heroism creates reputation. Other communities hear of their deeds.
@@ -31793,6 +31826,7 @@ Most champions didn't seek this role. They responded to immediate need
 and found themselves unable to step back. The people's hopes become
 their responsibility.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-peoples-champion.jpg){width:325px}
 **Behavior and Combat:**
 
 Champions fight protectively, positioning themselves between threats and
@@ -31816,7 +31850,13 @@ is substantial. When a champion speaks, communities listen.
 
 Many struggle with this unofficial authority. They didn't want power;
 they wanted to help. Now they find that their words shape events, their
-opinions become policy, their preferences become priorities. Some handle
+opinions become 
+
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
+
+policy, their preferences become priorities. Some handle
 this responsibly; others are overwhelmed.
 
 They maintain close connections to their communities of origin while
@@ -31855,7 +31895,6 @@ demand and character permits.
 -   Someone is impersonating a champion for personal gain
 
 ### 48.4 Revolutionary Mage
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-revolutionary-mage.jpg){width:325px}
 
 **Type:** Humanoid (any ancestry, spellcaster)
 
@@ -31888,6 +31927,7 @@ They operate in loose networks, sharing information about techniques,
 threats, and opportunities. No central authority coordinates them, that
 would be contrary to their anti-authoritarian principles.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-revolutionary-mage.jpg){width:325px}
 **Behavior and Combat:**
 
 Revolutionary mages specialize in magic that serves liberation. They
@@ -31909,13 +31949,12 @@ first engagement is useless for the duration.
 Revolutionary mages often struggle with tensions between their magical
 training and their political commitments. Magic traditions are often
 hierarchical; revolution is anti-hierarchical. They must constantly
+negotiate between the discipline magic requires and the freedom
+revolution promises.
 
 {{pageNumber,auto}}
 {{footnote Chapter 48: Aethorian Resistance}}
 \page
-
-negotiate between the discipline magic requires and the freedom
-revolution promises.
 
 Many maintain secret identities. A known revolutionary mage is a target
 for Thaldros Inquisitors. The safest revolutionary mage is one nobody
@@ -31960,7 +31999,6 @@ when those goals are sympathetic.
     commitments conflict
 
 ### 48.5 Chain Breaker Monk
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-chain-breaker-monk.jpg){width:325px}
 
 **Type:** Humanoid (any ancestry, monk)
 
@@ -31993,6 +32031,7 @@ Training is demanding: physical conditioning, martial technique,
 meditation, and philosophical education in the meaning of freedom.
 Becoming a Chain Breaker takes years of dedication.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-chain-breaker-monk.jpg){width:325px}
 **Behavior and Combat:**
 
 Chain Breakers fight with their bodies. Their techniques are designed
@@ -32015,6 +32054,10 @@ The Chain Breaker order maintains monasteries in Aethoria and hidden
 throughout Thaldros territory. These serve as training facilities, safe
 houses for escaped prisoners, and coordination points for liberation
 operations.
+
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
 
 Members take vows of dedication to the cause of freedom. They own little
 personally, sharing resources with the order. They go where they're
@@ -32046,13 +32089,7 @@ existence is a promise to every prisoner, every slave, every person held
 against their will: help is possible. Someone is coming.
 
 In Thaldros, they're criminals, fugitives who free prisoners and attack
-lawful institutions of bondage. In 
-
-{{pageNumber,auto}}
-{{footnote Chapter 48: Aethorian Resistance}}
-\page
-
-Aethoria, they're heroes. This stark
+lawful institutions of bondage. In Aethoria, they're heroes. This stark
 difference reflects the deeper conflict between the nations.
 
 **Story Potential:**
@@ -32067,7 +32104,6 @@ difference reflects the deeper conflict between the nations.
     captors appear
 
 ### 48.6 Guerrilla Commander
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-guerrilla-commander.jpg){width:325px}
 
 **Type:** Humanoid (any ancestry)
 
@@ -32099,6 +32135,7 @@ They maintain networks that span regions, contacts in villages,
 informants in cities, allies among other resistance groups. Building
 these networks is their primary strategic contribution.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-guerrilla-commander.jpg){width:325px}
 **Behavior and Combat:**
 
 Commanders think strategically rather than tactically. Individual
@@ -32117,7 +32154,13 @@ whatever physical limitations age or injury have imposed.
 **Intelligence and Society:**
 
 Commanders occupy awkward positions in Aethorian culture. Democratic
-principles suggest that no one should have too much authority. Practical
+principles suggest that no one 
+
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
+
+should have too much authority. Practical
 necessity gives commanders substantial informal power over their
 networks.
 
@@ -32169,7 +32212,6 @@ influence.
 -   Intelligence suggests a commander may have been compromised
 
 ### 48.7 The Liberator
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-the-liberator.jpg){width:325px}
 
 **Type:** Humanoid (any ancestry, legendary)
 
@@ -32183,14 +32225,9 @@ found their way to a worthy bearer.
 
 They radiate presence. Entering a room, they become its focus. Speaking,
 they command attention. Fighting, they seem larger than physical form
-would suggest. 
+would suggest. Something about them transcends ordinary human limitation.
 
-{{pageNumber,auto}}
-{{footnote Chapter 48: Aethorian Resistance}}
-\page
-
-Something about them transcends ordinary human limitation.
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-the-liberator.jpg){width:325px}
 **Origins:**
 
 No one becomes the Liberator through normal paths. They emerge from
@@ -32219,7 +32256,13 @@ simultaneously and often prevail against forces that should overwhelm
 any individual.
 
 Their presence affects everyone nearby. Allies fight harder, believe
-more strongly, endure more than they could alone. Enemies face not just
+more strongly, endure more than they 
+
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
+
+could alone. Enemies face not just
 a fighter but a force of nature.
 
 **Intelligence and Society:**
@@ -32284,7 +32327,7 @@ unkillable.
 
 -   The party discovers they're caught up in one of the Liberator's
     operations without knowing it
-
+\column
 ### 48.8 Prophesied Hero
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-prophesied-hero.jpg){width:325px}
 
@@ -32316,12 +32359,14 @@ their significance.
 
 Identifying Prophesied Heroes is inexact. Various signs are supposed to
 mark them, but interpretation is subjective. Multiple individuals have
-been proclaimed as specific Prophesied Heroes, sometimes simultaneously.
-The prophecies themselves are vague enough to support various readings.
+been proclaimed as 
 
 {{pageNumber,auto}}
 {{footnote Chapter 48: Aethorian Resistance}}
 \page
+
+specific Prophesied Heroes, sometimes simultaneously.
+The prophecies themselves are vague enough to support various readings.
 
 **Behavior and Combat:**
 
@@ -32493,7 +32538,13 @@ exceptional. Their primary advantage is psychological conditioning that
 makes them resistant to fear when fighting alongside allies.
 
 Their professional training distinguishes them from untrained fighters
-of similar combat skill. They know tactics, recognize signals, and
+of similar combat skill. They know 
+
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
+tactics, recognize signals, and
 respond predictably to commands, all valuable in group combat.
 
 **Cultural Significance:**
@@ -32530,10 +32581,6 @@ Veterans look like survivors. Their equipment is personalized,
 modifications and additions accumulated over years of contracts. Their
 armor bears repair marks where damage was fixed. Their weapons show wear
 patterns from actual use rather than training.
-
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
 
 They move with economical confidence. No wasted motion. No unnecessary
 display. They've learned what matters and discarded what doesn't.
@@ -32595,6 +32642,10 @@ Veterans are experienced fighters with practical skills developed
 through actual combat. They know how to survive, literally. Their
 resistance to battlefield diseases and poisons reflects bodies that have
 adapted to campaign conditions.
+
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
 
 Their tactical retreat capability reflects hard-won wisdom: knowing when
 to disengage is as important as knowing when to fight. Veterans who
@@ -32665,10 +32716,6 @@ They work in pairs or groups, backing each other and providing witnesses
 for any actions taken. Solo enforcement is discouraged; it creates
 situations without accountability.
 
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
-
 When forced to fight, they're brutal and efficient. The Guild's
 internal reputation requires that resisting enforcers be obviously
 foolish. Those who try it receive object lessons that discourage future
@@ -32697,7 +32744,13 @@ standard Guild protocol. Members who don't respond when enforcers call
 face consequences.
 
 Their intimidating presence can paralyze opposition through implied
-threat of violence. This is trained capability, not supernatural power,
+threat of violence. This is trained 
+
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
+capability, not supernatural power,
 but it's remarkably effective.
 
 **Cultural Significance:**
@@ -32795,6 +32848,10 @@ in ways that normal fighters can't match. Combined with poisoned
 weapons, they can eliminate targets far above their apparent combat
 capability.
 
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
 **Cultural Significance:**
 
 Contract killers represent the darker side of mercenary work, the
@@ -32804,10 +32861,6 @@ the reason certain problems simply\... disappear.
 Their existence is officially denied. This denial is conventional and
 everyone involved understands it. The pretense maintains useful fictions
 for employers and the Guild alike.
-
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
 
 **Story Potential:**
 
@@ -32892,7 +32945,13 @@ improving overall unit performance.
 
 Their command capability allows coordinated actions, everyone striking
 at once, everyone moving together. This coordination is the difference
-between a mercenary company and a collection of individual fighters.
+between a 
+
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
+mercenary company and a collection of individual fighters.
 
 **Cultural Significance:**
 
@@ -32941,14 +33000,8 @@ mercenary profession.
 **Origins:**
 
 The Elite are selected from the best captains and specialists, those
-who've demonstrated not just 
-
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
-
-competence but excellence over extended careers. There are never more 
-than a dozen at any time.
+who've demonstrated not just competence but excellence over extended 
+careers. There are never more than a dozen at any time.
 
 Selection is by Guildmaster invitation only. Candidates have usually
 declined earlier opportunities for promotion, preferring active service
@@ -32995,9 +33048,14 @@ lesser warriors would be defeated.
 
 Their mercenary's pride makes them nearly immune to mental
 manipulation. Attempts to frighten or charm them typically fail.
+Their commanding presence 
 
-Their commanding presence enhances allies' effectiveness, less through
-tactical direction than through inspiring confidence by example.
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
+enhances allies' effectiveness, less through tactical direction 
+than through inspiring confidence by example.
 
 **Cultural Significance:**
 
@@ -33009,7 +33067,7 @@ They're also reminders that even legends eventually age. How they
 handle that transition, retiring gracefully, dying in service, or
 declining into parody, shapes how younger members understand their own
 futures.
-\column
+
 **Story Potential:**
 
 -   An Elite is assigned to a mission that intersects with the party's
@@ -33024,7 +33082,7 @@ futures.
 
 ### 49.7 Garrick "Ironheart" Hammerfist
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-garrick-ironheart-guildmaster.jpg){width:325px}
-
+\column
 **Type:** Humanoid (dwarf), legendary craftsman-warrior
 
 **Note:** *Garrick appears in the Monster Manual under Iron Guild
