@@ -33157,7 +33157,9 @@ terrible.
 **Physical Description:**
 
 Blessed paladins radiate subtle divine presence. Their eyes occasionally
-flash with inner light. Their voices carry undertones of authority that
+flash with inner light. Their voices 
+\column
+carry undertones of authority that
 transcend normal speech. They move with purpose that suggests divine
 direction, not mechanically, but with the confidence of those who
 believe their path is righteous.
@@ -33219,7 +33221,13 @@ divine recognition rather than institutional position.
 **Abilities:**
 
 Blessed paladins can channel divine energy through their attacks,
-dealing additional radiant damage that represents their patron's power
+dealing additional radiant damage that 
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
+represents their patron's power
 manifest in the physical world.
 
 Their divine connection provides some resistance to fear and mental
@@ -33250,12 +33258,8 @@ nations and faiths.
 
 -   Someone is falsely claiming paladin status for personal gain
 
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
-
 ### 50.2 Thandros' Justicar
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-thandross-justicar.jpg){width:325px}
+
 
 **Type:** Humanoid (any ancestry, divine champion of Thandros)
 
@@ -33288,6 +33292,7 @@ Training emphasizes both combat and legal knowledge. Justicars must
 understand law deeply enough to enforce it justly, and fight effectively
 enough to overcome those who resist lawful authority.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-thandross-justicar.jpg){width:325px}
 **Behavior and Combat:**
 
 Justicars prefer to resolve situations through proper legal procedure.
@@ -33318,7 +33323,13 @@ tension, they serve Law, but not all laws are just.
 
 Most recognize the difference between law and justice, and struggle when
 the two conflict. Some resolve this by working to change unjust laws;
-others enforce law regardless and trust that proper procedure will
+others 
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
+enforce law regardless and trust that proper procedure will
 eventually correct injustice.
 
 **Abilities:**
@@ -33354,7 +33365,7 @@ laws deserve defiance rather than enforcement.
 -   Someone the party needs is in Justicar custody awaiting judgment
 
 ### 50.3 Aethor's Liberator
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-aethors-liberator.jpg){width:325px}
+
 
 **Type:** Celestial (divine servant of Aethor)
 
@@ -33386,6 +33397,7 @@ interventions rather than every instance of injustice. Most oppression
 must be overcome by mortals themselves; Liberators address situations
 beyond mortal capability.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-aethors-liberator.jpg){width:325px}
 **Behavior and Combat:**
 
 Liberators prefer to free captives without violence when possible.
@@ -33415,6 +33427,10 @@ liberation.
 They don't hate oppressors the way mortals might. They see slavers and
 tyrants as obstacles to freedom rather than personal enemies. This
 perspective sometimes frustrates mortals who want righteous vengeance.
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
 
 **Abilities:**
 
@@ -33452,7 +33468,6 @@ social structures that Thaldros considers legitimate.
     respond
 
 ### 50.4 Moira's Seer
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-moira-seer.jpg){width:325px}
 
 **Type:** Humanoid (any ancestry, divine prophet of Moira)
 
@@ -33482,6 +33497,8 @@ The calling comes through visions of the Weaver's Loom, where Moira
 tends the threads of fate. Those who accept learn to read the threads
 themselves, imperfectly, partially, but genuinely. Those who refuse
 retain whatever natural sensitivity they had but don't develop further.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-moira-seer.jpg){width:325px}
 
 Training emphasizes interpretation rather than simple sight. Seeing
 possibilities is relatively easy; understanding what they mean and which
@@ -33514,6 +33531,10 @@ Many live as hermits or recluses, limiting contact with those who would
 demand impossible clarity. Others serve as advisors to leaders willing
 to accept ambiguity. A few become frauds, providing the simple
 predictions people want rather than the complicated truths they see.
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
 
 They maintain connections with each other, sharing techniques for
 managing the burden of sight. These informal networks span political
@@ -33554,7 +33575,6 @@ something.
 -   The party seeks a Seer for information about future events
 
 ### 50.5 Sylvara's Wild Hunter
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-sylvaras-wild-hunter.jpg){width:325px}
 
 **Type:** Fey (divine servant of Sylvara)
 
@@ -33582,6 +33602,8 @@ They appear where the wild is threatened: forests being clear-cut,
 rivers being poisoned, ecosystems being destroyed. Their arrival signals
 that nature itself is fighting back, that Sylvara has taken notice of
 offense against her domain.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-sylvaras-wild-hunter.jpg){width:325px}
 
 Individual Wild Hunters persist for centuries, becoming tied to
 particular regions they protect. Some are almost worshipped by local
@@ -33614,6 +33636,11 @@ destruction they oppose, not presence.
 They communicate in terms that emphasize natural cycles, predator-prey
 relationships, and ecological balance. Their perspective is genuinely
 alien to most mortals, focused on species and ecosystems rather than
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
 individuals.
 
 They maintain loose connections with each other and with other fey,
@@ -33657,7 +33684,7 @@ power.
     individual response
 
 ### 50.6 Sera's Mercy
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-seras-mercy.jpg){width:325px}
+
 
 **Type:** Celestial (divine messenger of Sera)
 
@@ -33681,6 +33708,8 @@ wounded, comforting the dying, and offering hope to the despairing.
 They appear in Tirvandor during times of great suffering: plagues,
 disasters, wars. Their presence doesn't prevent suffering but makes it
 bearable, ensuring that divine compassion accompanies mortal pain.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-seras-mercy.jpg){width:325px}
 
 Individual Mercies may linger in particular locations, hospitals,
 temples, sites of ongoing tragedy, providing continuous care for as long
@@ -33711,6 +33740,10 @@ They don't judge those they help. Their compassion extends to everyone:
 heroes and villains, saints and sinners. Some mortals find this
 troubling, shouldn't divine beings distinguish between deserving and
 undeserving suffering?
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
 
 Sera's theology answers that all suffering deserves compassion. Mercies
 embody this principle absolutely.
@@ -33749,7 +33782,6 @@ compassion has limits, it isn't truly compassion.
 -   The party seeks a Mercy for healing beyond normal capability
 
 ### 50.7 Mordain's Sentinel
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-mordains-sentinel.jpg){width:325px}
 
 **Type:** Undead (divine guardian of Mordain)
 
@@ -33779,6 +33811,8 @@ their duty isn't complete.
 They guard tombs, temples, sacred battlefields, and other sites
 significant to the cycle of death and memory. Their presence ensures
 that the dead are honored and the living respect proper boundaries.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-mordains-sentinel.jpg){width:325px}
 
 **Behavior and Combat:**
 
@@ -33810,6 +33844,10 @@ obstacles, engaging in conversation before (or instead of) combat.
 They maintain communication with other Sentinels through mysterious
 means, sharing information about threats and coordinating responses to
 desecration attempts.
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
 
 **Abilities:**
 
@@ -33847,7 +33885,6 @@ embody this principle.
     capability
 
 ### 50.8 Fallen Champion
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-fallen-champion.jpg){width:325px}
 
 **Type:** Undead (corrupted divine champion)
 
@@ -33894,6 +33931,8 @@ hopelessness outward. Those caught in this aura may find themselves
 unable to move, paralyzed by the Fallen Champion's communicated
 despair.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-fallen-champion.jpg){width:325px}
+
 **Intelligence and Society:**
 
 Fallen Champions retain their intelligence but their perspective is
@@ -33907,6 +33946,10 @@ few desperately seek redemption while fearing it's impossible.
 
 They're usually solitary, though some gather followers among those
 attracted to their power or convinced by their bitter philosophy.
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
 
 **Abilities:**
 
@@ -33926,7 +33969,7 @@ Fallen Champions are cautionary tales. Their existence reminds the
 faithful that even blessed heroes can fall, that righteousness requires
 constant vigilance, and that no one is immune to corruption's
 temptation.
-
+\column
 They're also tragedies, people who once served divine purpose reduced
 to monsters. Many who encounter Fallen Champions feel sorrow alongside
 fear, mourning what was lost as much as fearing what remains.
@@ -33942,12 +33985,8 @@ fear, mourning what was lost as much as fearing what remains.
 -   Information about current threats lies in a Fallen Champion's
     corrupted memories
 
-*End of Chapter 50: Ascended-Touched*
-
-
 {{pageNumber,auto}}
-{{footnote Chapter 51: Ancient and Prophetic Beings}}
-
+{{footnote Chapter 50: Ascended-Touched}}
 \page
 
 ## Chapter 51: Ancient and Prophetic Beings
@@ -34035,6 +34074,10 @@ apparently distinguish between different types of visitors. But they
 don't communicate beyond gestures, don't seem to learn from
 experience, and show no signs of goals beyond their assigned duties.
 
+{{pageNumber,auto}}
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
+\page
+
 They don't form societies. Each Guardian operates independently,
 following its own directives. If multiple Guardians protect the same
 site, they coordinate seamlessly but don't appear to communicate.
@@ -34084,7 +34127,7 @@ is stranger than the stories suggest.
     implications
 
 ### 51.2 Prophecy Keeper
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-prophecy-keeper.jpg){width:325px}
+
 
 **Type:** Aberration (cosmic entity)
 
@@ -34097,13 +34140,17 @@ surfaces that seem to extend in directions that don't exist, forms that
 the eye struggles to process and the mind struggles to remember.
 
 They hover rather than walk, their forms trailing wisps of what might be
-energy, might be memory, might be something entirely different. Looking
+energy, might be memory, might 
+\column
+be something entirely different. Looking
 at them too long causes headaches; looking away, the mind struggles to
 recall what was seen.
 
 Their "eyes," scattered across their forms in patterns that shift
 constantly, glow with light that seems to come from distant times rather
 than present sources.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-prophecy-keeper.jpg){width:325px}
 
 **Origins:**
 
@@ -34130,7 +34177,13 @@ what occurs for purposes they don't explain.
 
 However, they respond to threats. Those who attack a Prophecy Keeper
 discover that beings capable of perceiving all possible futures are very
-difficult to harm. They can project psychic attacks that strike with
+difficult to harm.
+
+{{pageNumber,auto}}
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
+\page
+
+They can project psychic attacks that strike with
 precision, anticipating attempts to dodge or block.
 
 Their most disturbing ability is Reveal Fate, showing a creature its
@@ -34228,7 +34281,13 @@ resist definition.
 
 The Forgotten King ruled a dynasty that flourished before the Worldrend,
 a kingdom so ancient that its name has been lost along with almost all
-records of its existence. According to fragmentary prophecy, he was one
+records of its existence. According to fragmentary prophecy, he was 
+
+{{pageNumber,auto}}
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
+\page
+
+one
 of an original "Seven" whose failure preceded the Worldrend and set
 the stage for the Seven Ascended's rise.
 
@@ -34327,7 +34386,7 @@ failure is necessary to prevent similar failure in the current age.
     to trade valuable knowledge
 
 ### 51.4 Herald of the Seven
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-herald-of-the-seven.jpg){width:325px}
+
 
 **Type:** Celestial (divine messenger)
 
@@ -34359,9 +34418,15 @@ essence when that purpose is fulfilled. They don't have ongoing
 existence between missions; they're temporary manifestations of
 combined divine will.
 
+{{pageNumber,auto}}
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
+\page
+
 Their appearance indicates that something of cosmic significance is
 occurring, something important enough to command the attention of all
 seven gods simultaneously.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-herald-of-the-seven.jpg){width:325px}
 
 **Behavior and Combat:**
 
@@ -34438,12 +34503,8 @@ necessary.
 -   A Herald's message is ambiguous, and the party must determine its
     true meaning
 
-*End of Chapter 51: Ancient and Prophetic Beings*
-
-
 {{pageNumber,auto}}
-{{footnote Chapter 52: Corrupted and Cursed}}
-
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
 \page
 
 ## Chapter 52: Corrupted and Cursed
@@ -34538,6 +34599,10 @@ and dissolve across their bodies.
 
 They can spit corrosive fluid that blinds targets, leaving them
 vulnerable to continued attack.
+
+{{pageNumber,auto}}
+{{footnote Chapter 52: Corrupted and Cursed}}
+\page
 
 Their Blinding Spittle can affect areas, potentially blinding multiple
 targets at once.
@@ -34635,7 +34700,13 @@ through the lens of the conflict that killed them.
 
 They often continue fighting their original war, attacking anyone who
 resembles their former enemies. This can make them dangerous to people
-who had nothing to do with the conflict that created them, wearing the
+who had 
+
+{{pageNumber,auto}}
+{{footnote Chapter 52: Corrupted and Cursed}}
+\page
+
+nothing to do with the conflict that created them, wearing the
 wrong colors or speaking the wrong language can trigger attacks.
 
 Some retain enough coherence to be communicated with, though such
@@ -34681,7 +34752,7 @@ to become monsters.
     original war
 
 ### 52.3 Curse Bearer
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-curse-bearer.jpg){width:325px}
+
 
 **Type:** Monstrosity (cursed transformation)
 
@@ -34702,6 +34773,8 @@ simply monsters.
 They move with predatory grace despite their distorted forms, climbing
 walls and ceilings as easily as walking on ground. Their claws and teeth
 are oversized and razor-sharp.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-curse-bearer.jpg){width:325px}
 
 **Origins:**
 
@@ -34732,6 +34805,10 @@ They're intelligent enough to be cunning predators, setting ambushes,
 targeting vulnerable prey, retreating from overwhelming opposition. But
 they're not rational in any normal sense. The curse dominates their
 thinking, making them perpetually aggressive and territorial.
+
+{{pageNumber,auto}}
+{{footnote Chapter 52: Corrupted and Cursed}}
+\page
 
 Their Curse Touch can spread their affliction to victims, potentially
 beginning the transformation process in those they wound. Their
@@ -34765,7 +34842,7 @@ beginning transformation processes.
 
 Their Terrifying Howl affects everyone nearby, potentially causing
 flight or paralysis.
-
+\column
 **Cultural Significance:**
 
 Curse Bearers represent the danger of dark magic and cursed places.
@@ -34797,10 +34874,8 @@ as expressions of fear about losing control of one's own identity.
 -   The party encounters a Curse Bearer that retains enough humanity to
     communicate and request help
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 53: Magical Creatures}}
-
+{{footnote Chapter 52: Corrupted and Cursed}}
 \page
 
 ## Chapter 53: Magical Creatures
@@ -34861,7 +34936,7 @@ death that wraith formation is common.
 **Laying to Rest:** If a wraith's mortal remains can be found and
 properly buried with Mordain's rites, the spirit may finally find
 peace.
-
+\column
 ### 54.2 Scavenger Ghouls
 
 
@@ -34880,11 +34955,6 @@ saturated with death that they develop a malevolent consciousness. These
 haunted battlefields can animate fallen warriors and drive the living
 mad with visions of war.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 55: Aberrations and Horrors}}
-
-\page
 
 ## Chapter 55: Aberrations and Horrors
 
@@ -34925,7 +34995,6 @@ presence of strong ley line energy.
 
 {{pageNumber,auto}}
 {{footnote Chapter 56: Constructs and Created Beings}}
-
 \page
 
 ## Chapter 56: Constructs and Created Beings
