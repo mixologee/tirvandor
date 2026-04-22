@@ -34894,6 +34894,8 @@ central conflicts of the current age.
 ### 53.1 The Complete World-Splitter
 
 
+![53.1 The Complete World-Splitter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-world-splitter.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description (Assembled)**
 
 When whole, the World-Splitter manifests as two pyramids of crystallized
@@ -34928,7 +34930,13 @@ cosmic scale.
 
 The World-Splitter was not merely a weapon of destruction. In Primordial
 hands, it served as a tool of creation, used to shape continents, birth
-oceans, raise mountains. It could unmake and remake reality according to
+oceans, raise mountains. It could unmake and remake reality 
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
+according to
 its wielder's will. The Primordials used it to sculpt the world itself.
 
 Then they tried to unmake the gods.
@@ -34944,10 +34952,6 @@ An alternative theory, popular among certain religious sects and
 apocalyptic cults, holds that the Components are fragments of divine
 power left behind when gods battled during a cataclysm called the
 "Godsfall." 
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 
 According to this interpretation, each Component contains
 a piece of actual godhood, raw divine essence crystallized into physical
@@ -34994,7 +34998,7 @@ bloodlines for all generations.
 For over twelve centuries, these oaths have held. The guardian houses
 have risen and fallen, but always, until recently, someone has
 maintained the vigil.
-
+\column
 **Powers (Assembled)**
 
 A complete World-Splitter can do exactly what its name suggests: split
@@ -35057,6 +35061,10 @@ the Second Worldrend, scholars who believe they can study the artifacts
 safely, and kings who want to ensure no one else can threaten their
 power.
 
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
 The race to gather or protect the Components drives much of Tirvandor's
 current conflict.
 
@@ -35072,12 +35080,8 @@ to use it caused the Worldrend. Every subsequent attempt to deal with
 it, hiding it, guarding it, seeking it, has created new problems. There
 may be no good solution, only choices between different types of danger.
 
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
-
 ### 53.2 The Shadow Shard (First Component)
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-shadow-shard.jpg){width:325px}
+![53.2 The Shadow Shard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-shadow-shard.jpg){width:200px,float:right,margin:5px}
 
 
 **Physical Description**
@@ -35167,14 +35171,14 @@ descendants were convenient scapegoats.
 
 Corvus survived. He became Lord Shadows.
 
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
-
 **Powers**
 
 The Shadow Shard grants dominion over shadow and darkness. Its wielder
 can:
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
 
 *Command Shadows:* Shadows become extensions of the wielder's will.
 They can move independently, take solid form, reach across distances. A
@@ -35247,7 +35251,7 @@ people didn't know existed. Was that sacrifice noble or foolish? The
 Shard holds the answer.
 
 ### 53.3 The Flame Heart (Second Component)
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-flame-heart.jpg){width:325px}
+![53.3 The Flame Heart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-flame-heart.jpg){width:200px,float:right,margin:5px}
 
 
 **Physical Description**
@@ -35262,9 +35266,6 @@ surroundings normally. Instead, it seems to pull light toward itself,
 creating an effect where the artifact appears brighter than its
 environment regardless of actual lighting conditions.
 
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 Those who have touched it directly (and survived) report feeling the
 heat of the world's core, not burning, but awareness of the molten
 heart beneath the earth's surface, the fires that have burned since the
@@ -35282,6 +35283,10 @@ The Keepers' existence was kept secret even from their own family. The
 main Goldshore line knew nothing of their cousins' true purpose, a
 precaution meant to protect both the Component and the unknowing
 relatives from those who might seek the artifact.
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
 
 For centuries, the Keepers maintained their watch. They lived near where
 the dragon Infernalix would later make its lair, possibly drawn by the
@@ -35382,12 +35387,7 @@ It also represents the corrupting influence of power. Prince Aldric
 wasn't born evil; he was corrupted by desire for what the Flame Heart
 offered. Anyone who seeks it risks the same corruption.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 ### 53.4 The Void Fragment (Third Component)
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-void-fragment.jpg){width:325px}
 
 **Physical Description**
 
@@ -35406,10 +35406,17 @@ The Fragment is roughly the size of a large grapefruit but weighs far
 more than it should, or far less, or nothing at all. Reports conflict,
 suggesting the Fragment manipulates its own physical properties.
 
+
 **History**
 
 After the Worldrend, the Void Fragment was entrusted to House Deepwater,
-a noble family whose headquarters stood at Palace Port on the western
+a noble family whose 
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-void-fragment.jpg){width:200px,float:right,margin:5px}
+headquarters stood at Palace Port on the western
 coast. The Deepwaters were masters of water magic, and their oceanic
 vaults were considered impregnable, protected by depth, pressure, and
 magical wards.
@@ -35480,10 +35487,6 @@ whether for vindication, leverage, or more desperate purposes.
 *Scholars of Reality:* Some mages believe understanding the Void
 Fragment would unlock secrets of planar travel and dimensional magic.
 They underestimate its dangers.
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 *The Sahuagin:* If the sea creatures have discovered what they're
 guarding, they may have their own plans for it. Sahuagin priests could
 interpret the Fragment as a gift from their dark gods.
@@ -35501,7 +35504,7 @@ the Shattered Oaths campaign requires, going deeper than is comfortable,
 facing things that have been hidden, emerging changed.
 
 ### 53.5 The Stone Crown (Fourth Component)
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-stone-crown.jpg){width:325px}
+![53.5 The Stone Crown](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-stone-crown.jpg){width:200px,float:right,margin:5px}
 
 
 **Physical Description**
@@ -35511,7 +35514,11 @@ its size. Those who have lifted it report it weighing more than
 mountains despite fitting in a single hand. This impossible weight seems
 to be conceptual rather than physical, the Stone Crown is heavy with
 authority, with permanence, with the weight of ages.
-\column
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
 The stone itself appears to be from no known geological formation. It is
 gray-brown, shot through with veins of what might be gold or might be
 solidified light. Its surface bears no decoration but seems to show
@@ -35574,10 +35581,6 @@ during ceremonial occasions by King Aldric IV. The exact chamber where
 it rests between uses is a closely guarded secret known to only a
 handful of people.
 
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
-
 Recovering it would require penetrating the most heavily guarded
 location in Thaldros. The royal treasury is protected by:
 
@@ -35619,12 +35622,18 @@ genuine competence versus the Component's influence?
 
 ### 53.6 The Storm Eye (Fifth Component)
 
+![53.6 The Storm Eye](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-storm-eye.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 The Storm Eye appears as a sphere of captured lightning, roughly six
 inches in diameter, crackling with contained apocalypse. It is never
 still, energy arcs constantly across its surface, occasionally
 discharging miniature lightning bolts that strike the air itself.
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
 
 Holding the Storm Eye (through proper containment) produces a sensation
 of standing in the heart of a hurricane. The air seems to move even in
@@ -35635,8 +35644,7 @@ The sphere appears to contain a storm in miniature, or perhaps a storm
 too large to comprehend, compressed into a space that cannot actually
 hold it. Looking into its depths shows clouds, lightning, wind, rain, a
 complete weather system that somehow fits within a handheld object.
-\column
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-storm-eye.jpg){width:325px}
+
 **History**
 
 After the Worldrend, the Storm Eye was entrusted to the Aethorian
@@ -35665,10 +35673,6 @@ The Storm Eye grants dominion over air and storms. Its wielder can:
 *Command Winds:* Air moves at the wielder's will. They can create
 breezes or hurricanes, calm storms or summon them, make air itself into
 a weapon or a shield.
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 
 *Summon Tempests:* The wielder can call weather from clear skies, storms
 of any type, of any intensity. They can concentrate hurricanes into
@@ -35729,7 +35733,7 @@ It also represents the Aethorian perspective on the Worldrend and its
 aftermath. While Thaldros focuses on the Components under their control,
 the Harmony has its own history with these artifacts, and its own
 opinions about what should be done with them.
-\column
+
 ### 53.7 The Sacred Oaths
 
 
@@ -35755,7 +35759,13 @@ those with need to know should learn of them.
 **The Binding:**
 
 The oaths were not merely promises but magical bindings. Those who
-violate them suffer consequences, curses that afflict the oathbreaker
+violate them suffer consequences, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
+curses that afflict the oathbreaker
 and potentially their descendants. The exact nature of these
 consequences varies; Corvus Blackwood bears a curse that is slowly
 killing him, triggered when he left Raven's Keep without fulfilling his
@@ -35795,14 +35805,10 @@ forests, the very map of the world could be rewritten.
 environmental transformation that renders current settlements
 uninhabitable.
 
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
-
 *Unmake reality:* Some interpretations suggest a fully activated
 World-Splitter could return Tirvandor to primordial chaos, undoing
 creation itself.
-
+\column
 **The Temptation:**
 
 The same power that threatens destruction also promises creation. A wise
@@ -35816,7 +35822,7 @@ governance, enforce peace through overwhelming power.
 
 *Build utopia:* Transform Tirvandor into a paradise through direct
 reality manipulation.
-\column
+
 This temptation is the World-Splitter's greatest danger. Even those who
 seek the Components with good intentions might convince themselves that
 using them is justified. "Just this once." "For a good cause." "To
@@ -35957,7 +35963,6 @@ have not returned at all.
 
 #### The Royal Scepter
 
-
 **Physical Description**
 
 A rod of gold and silver, approximately two feet long, topped with a
@@ -35969,6 +35974,8 @@ engraver was interrupted mid-stroke.
 {{pageNumber,auto}}
 {{footnote Chapter 54: Royal Regalia and Symbols of Office}}
 \page
+
+![The Royal Scepter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-scepter-of-rulership.jpg){width:200px,float:right,margin:5px}
 
 **History**
 
@@ -36062,6 +36069,8 @@ the truth.
 #### The Crown Jewels of Thaldros
 
 
+![The Crown Jewels of Thaldros](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-crown-jewels-of-thaldros.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 The Crown Jewels are a matched set of three items, created together
@@ -36075,6 +36084,10 @@ represents prosperity and civilization rather than conquest.
 High King's Scepter held by Aethermere. This scepter was created
 specifically for Thaldros, a rod of gold topped with a large ruby. It
 represents the king's authority to command.
+
+{{pageNumber,auto}}
+{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
+\page
 
 *The Orb of State:* A golden sphere representing the world, symbolizing
 the king's responsibility to his realm. It is held during coronation
@@ -36102,75 +36115,6 @@ losing any would damage that legitimacy.
 Stored in the Royal Vault beneath Kaer Thandros. They are among the most
 heavily guarded items in the kingdom, protected by physical barriers,
 magical wards, and elite guards.
-
-{{pageNumber,auto}}
-{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
-\page
-
-#### Thrandil's Edge
-
-
-**Physical Description**
-
-A longsword of exceptional craftsmanship, its blade inscribed with the
-Thandris family motto: "By Strength, Endurance." The hilt is wrapped
-in dragon leather, the pommel set with a sapphire said to have been a
-gift from the dwarves of Ironhold. The blade never loses its edge and
-seems to glow faintly in moonlight.
-
-**History**
-
-Thrandil's Edge was forged during the reign of King Thrandil II, the
-"Warrior King" who expanded Thaldros territory and defeated the last
-of the border kingdoms. The sword has been passed from king to king ever
-since, though not all have been warriors capable of wielding it
-effectively.
-
-**Significance**
-
-The sword represents the martial aspect of Thaldros kingship, the
-expectation that a king will lead from the front when necessary. Kings
-who are skilled warriors gain prestige from wielding it; those who are
-not face subtle questions about their fitness to rule.
-
-**Current Status**
-
-Currently wielded by King Aldric IV, who is a competent if not
-exceptional swordsman. He carries it during military reviews and when
-leading troops personally.
-
-#### The Heir's Blade
-
-
-**Physical Description**
-
-A longsword slightly smaller than Thrandil's Edge, designed to be
-wielded by a prince not yet grown to full strength. The blade bears the
-inscription "A crown is earned through deeds, not birthright alone."
-The hilt is wrapped in leather from the first horse each heir breaks,
-personalized to the current bearer.
-
-**History**
-
-The Heir's Blade tradition began with King Theron III, who wanted to
-ensure that his sons understood kingship was a duty to be earned, not a
-privilege to be assumed. Each heir receives the blade upon beginning
-martial training and carries it until coronation, when they transition
-to Thrandil's Edge.
-
-The current blade has been modified for Crown Prince Thorin, its leather
-grip tanned from his first warhorse's saddle.
-
-**Significance**
-
-The Heir's Blade represents the transition from prince to king, the
-period of preparation when the heir proves himself worthy. A prince who
-never masters the blade faces questions about his readiness to rule.
-
-**Current Status**
-
-Carried by Crown Prince Thorin, who has proven skilled in its use during
-his military service.
 
 #### The Royal Signet Ring
 
@@ -36208,7 +36152,7 @@ The Aethorian Harmony developed different symbols of authority,
 reflecting their different political philosophy. Where Thaldros
 emphasizes royal power, Aethoria emphasizes wisdom, connection to the
 land, and chosen leadership.
-
+\column
 #### The Wisdom Crown of Aethermere
 
 
@@ -36249,10 +36193,6 @@ A living staff that grows and changes over time, connected to the
 world-trees that form Aethoria's magical communication network. The
 staff is rooted in 
 
-{{pageNumber,auto}}
-{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
-\page
-
 wood from the original world-tree, grafted with
 branches from each subsequent tree planted during Aethorian expansion.
 Green leaves sprout from its length regardless of season.
@@ -36275,6 +36215,10 @@ receiving messages from far-distant groves.
 
 Carried by High Queen Aelindra III, who maintains daily communion with
 the world-tree network through its connection.
+
+{{pageNumber,auto}}
+{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
+\page
 
 #### The Eastern Sundered Crown (Aethermere Half)
 
@@ -36304,35 +36248,6 @@ Displayed in the Aethermere palace, brought out only for the most
 significant ceremonies. Like the western half, it is never worn, wearing
 half a crown would acknowledge incomplete authority.
 
-#### Valen's Pendant of Eloquence
-
-
-**Physical Description**
-
-A silver pendant set with an opal that shifts colors as the wearer
-speaks. The pendant is warm to the touch and seems to pulse slightly in
-rhythm with the wearer's heartbeat. It hangs from a chain of
-interlocking silver leaves.
-
-**History**
-
-Created by the founders of the Aethorian Republic (before the current
-Harmony structure) as a symbol of democratic leadership. It was given to
-the first elected speaker of the People's Council and has been passed
-to each subsequent leader of Aethorian diplomacy.
-
-**Significance**
-
-The Pendant represents Aethoria's commitment to persuasion over force,
-to winning hearts rather than breaking bodies. The current Envoy to
-Thaldros, Marcus Valen, wears it as symbol of his authority to speak for
-the Harmony.
-
-**Current Status**
-
-Worn by Envoy Marcus Valen during diplomatic missions. It is considered
-essential for legitimate Aethorian diplomatic representation.
-
 ### 54.4 Noble House Heirlooms
 
 
@@ -36344,6 +36259,7 @@ domains as royal regalia carries in the broader kingdom.
 
 
 **The Shadow Rapier (Vengeance)**
+![The Blackwood Family Shield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-shadow-rapier-_2.jpg){width:200px,float:right,margin:5px}
 
 Originally his mother's dress sword, reforged by Lord Shadows (Corvus
 Blackwood) after her murder. The blade is made of Blackwood ancestral
@@ -36354,8 +36270,10 @@ carved into a raven's head.
 The rapier represents what House Blackwood became after their
 destruction, instruments of vengeance rather than symbols of nobility.
 Corvus carries it as both weapon and reminder.
-
+\column
 **The Blackwood Family Shield**
+
+![The Blackwood Family Shield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-marcuss-family-shield.jpg){width:200px,float:left,margin:5px}
 
 A shield bearing the Blackwood family crest, a raven on a dark field.
 This shield survived the Second Purge and now belongs to Marcus
@@ -36373,34 +36291,23 @@ blood-locked vault beneath Raven's Keep.
 #### House Goldshore Relics
 
 
-**The Goldshore Ancestral Blade**
-
-A longsword with a blade of blue-tinted steel that always feels cold to
-the touch. The crossguard is shaped like ocean waves, and the pommel
-contains a sapphire that seems to hold a frozen wave inside it. Blessed
-by an ancient sea-god and tempered in water from the deepest ocean
-trench, the sword has defended Goldshore ships for six hundred years.
-
-The blade was recovered from the sunken Goldshore Manor during one of
-the plot events of the Shattered Oaths campaign.
-
 **The Crown of the Depths**
+
+![The Crown of the Depths](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-crown-of-the-depths.jpg){width:200px,float:right,margin:5px}
 
 A platinum crown set with blue-green pearls and aquamarines, styled to
 resemble waves cresting. Once worn by House Goldshore's matriarch when
-conducting 
+conducting underwater ceremonies, the crown allows its wearer to breathe
+underwater, swim with supernatural speed, and command the respect of
+aquatic creatures.
+
+The crown was lost when Goldshore Manor sank during the Keeper
+Massacre. It lies somewhere in the underwater ruins, guarded by whatever
+now dwells there.
 
 {{pageNumber,auto}}
 {{footnote Chapter 54: Royal Regalia and Symbols of Office}}
 \page
-
-underwater ceremonies, the crown allows its wearer to breathe
-underwater, swim with supernatural speed, and command the respect of
-aquatic creatures.
-
-The crown was lost when Goldshore Manor sank during the Worldrend. It
-lies somewhere in the underwater ruins, guarded by whatever now dwells
-there.
 
 #### House Ashborne Relics
 
@@ -36441,21 +36348,6 @@ the unbreakable trust of the dwarven house. The ring represents the
 alliance between Ironforge and Thandris, its continued existence proves
 the covenant remains in force.
 
-#### House Riverbrook Relics
-
-
-**The Riverbrook Rapier**
-
-A finely-crafted rapier that has been passed through the Riverbrook
-family for generations. The blade is etched with flowing water patterns,
-and the hilt is wrapped in blue leather. The current Lady Seraphina
-Riverbrook carries it, proving herself capable with the blade as well as
-the ledger.
-
-The rapier represents the Riverbrook commitment to both martial
-capability and administrative competence, the combination that has kept
-their house prosperous for centuries.
-
 ### 54.5 Faction Authority Symbols
 
 
@@ -36463,6 +36355,7 @@ Beyond noble houses, various factions use symbols to identify members
 and represent authority within their organizations.
 
 #### The Black Raven Token (The Unbound)
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/handouts/tirvandor-so-raven-token.png){width:200px,float:right,margin:5px}
 
 
 **Physical Description**
@@ -36472,7 +36365,7 @@ a raven in flight, wings spread wide, rendered in tarnished silver
 against black iron. The other side is smooth except for three words
 etched in ancient script: "TRUTH UNBINDS ALL." The metal seems to
 drink in light, and holding it too long makes fingers feel numb.
-
+\column
 **History**
 
 Lord Shadows created the Black Raven Token design as recognition symbols
@@ -36522,132 +36415,8 @@ Guild response.
 Issued to all Guild members in good standing. Lost tokens must be
 reported immediately; found tokens can be returned for bounty.
 
-#### The Magistrate's Robes of Office
-
-
-**Physical Description**
-
-Formal robes of deep purple with silver trim, worn by magistrates when
-rendering judgments. The robes are enchanted to aid in the detection of
-truth and lies. The silver trim depicts the scales of Thandros, god of
-law and justice.
-
 {{pageNumber,auto}}
 {{footnote Chapter 54: Royal Regalia and Symbols of Office}}
-\page
-
-**History**
-
-The robes were first created during the reign of King Aldric II, who
-wanted to ensure that royal judges could discern truth from deception.
-Each magistrate receives robes upon appointment and surrenders them upon
-retirement.
-
-**Significance**
-
-Wearing the robes marks someone as an authorized dispenser of royal
-justice. Verdicts rendered while wearing the robes carry the full weight
-of the crown's authority. Wearing the robes fraudulently is a capital
-offense.
-
-**Current Status**
-
-Worn by active magistrates throughout Thaldros during official
-proceedings.
-
-#### The Scales of Justice
-
-
-**Physical Description**
-
-An ancient artifact kept in the main courthouse of each major Thaldros
-city. The Scales are actual balanced scales made of an unknown golden
-metal that cannot be tarnished or damaged. When testimony is given near
-the Scales, they tip toward truth or falsehood, a lie causes them to
-swing dramatically.
-
-**History**
-
-The Scales predate the Worldrend; their origin is unknown. They were
-discovered in ruins during the early post-Worldrend period and have been
-used in courts ever since. No one knows how they work or who created
-them.
-
-**Significance**
-
-Testimony given in the presence of the Scales is considered absolutely
-reliable. Defendants and witnesses are brought before the Scales for
-crucial evidence. The Scales cannot be removed from their locations and
-cannot be deceived by any known magic.
-
-**Current Status**
-
-Permanently installed in major courthouses. Their presence is a major
-reason why Thaldros courts are considered relatively fair despite the
-kingdom's other problems.
-
-#### The Peacekeepers' Badge
-
-
-**Physical Description**
-
-A badge of silver and gold showing clasped hands, one human, one elven,
-above crossed swords. The badge is awarded to those who have served
-peace between the continents at great personal cost.
-\column
-**History**
-
-The Peacekeepers' Badge was created after the last major war between
-Thaldros and Aethoria, given to veterans who had fought for peace rather
-than victory. It has since become a general symbol of cross-continental
-cooperation.
-
-**Significance**
-
-Those who wear the Peacekeepers' Badge are recognized on both
-continents as having earned the respect of both sides. They can cross
-borders more easily, receive hospitality from either kingdom's
-officials, and speak with authority on matters of continental relations.
-
-**Current Status**
-
-Rarely awarded in the current era of cold peace. Those who still bear it
-are aging; a new generation has not yet earned the honor.
-
-#### The Monument Coins
-
-
-**Physical Description**
-
-Commemorative coins minted to honor particular heroes or events. Unlike
-regular currency, Monument Coins are not meant for spending, they are
-collectibles and proof of participation in significant events.
-
-**History**
-
-The tradition of Monument Coins began after the Dragon Crisis, when
-coins bearing the faces of heroes who drove back the dragons were minted
-and distributed. Since then, Monument Coins have been created for
-various occasions.
-
-**Significance**
-
-Possessing a Monument Coin proves the bearer was present for or involved
-in the commemorated event. They are valuable as collectors' items but
-far more valuable as proof of heroic service.
-
-**Current Status**
-
-New Monument Coins are minted when appropriate. Old coins from previous
-eras are highly valued by collectors and historians.
-
-{{pageNumber,auto}}
-{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
-\page
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 55: Weapons of Legend}}
 \page
 
 ## Chapter 55: Weapons of Legend
@@ -36663,6 +36432,8 @@ ownership are matters of political concern.
 
 #### Mercy's Edge
 
+
+![Mercy's Edge](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-mercys-edge.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -36728,6 +36499,8 @@ is truly needed, and not before.
 #### The Dawnblade of the Knight-Commander
 
 
+![The Dawnblade of the Knight-Commander](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-commander-dawnblades-longsword.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 A longsword with a blade that sheds light like the rising sun. The light
@@ -36743,6 +36516,10 @@ three hundred years ago, during the reign of King Aldric I. The king
 commissioned the blade from the legendary smith Durin Ironforge using
 metal recovered from a fallen star and consecrated by the high priests
 of all Seven temples.
+
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
 
 The first Knight-Commander, Sir Aldric Dawnblade (who took the blade's
 name as his own, establishing a tradition), wielded it to drive back a
@@ -36876,6 +36653,10 @@ The current blade has been modified for Crown Prince Thorin, its leather
 grip tanned from his first warhorse's saddle, a stallion named
 Stormhoof that he still rides.
 
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
 **Powers**
 
 The Heir's Blade is not magical but is of exceptional quality, light
@@ -36991,7 +36772,6 @@ leader of the Goldshore branch family.
 
 #### The Goldshore Ancestral Blade (Frost Brand)
 
-
 **Physical Description**
 
 A beautiful longsword with a blade of blue-tinted steel that always
@@ -37006,6 +36786,11 @@ branch), passed down through eight generations. It was blessed by an
 ancient sea-god during the Age of Recovery and tempered in water from
 the deepest ocean trench. The sword has defended Goldshore ships from
 pirates, sea monsters, and rival houses for six hundred years.
+
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+![The Goldshore Ancestral Blade](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-goldshore-ancestral-blade.jpg){width:200px,float:right,margin:5px}
 
 When the main Goldshore line died out during the Keeper Massacre (the
 secret guardians of the Flame Heart Component), the blade was believed
@@ -37055,7 +36840,7 @@ The blade saw action during several border disputes and at least one
 duel of honor. Lady Seraphina's father carried it into the Dragon
 Crisis, where he died defending a refugee column. Seraphina recovered it
 from his body.
-
+\column
 **Powers**
 
 The blade is of exceptional quality but not magical. However, its
@@ -37078,6 +36863,8 @@ Carried by Lady Seraphina Riverbrook.
 
 #### Vengeance (Lord Shadows' Rapier)
 
+
+![Vengeance (Lord Shadows' Rapier)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-shadow-rapier-_2.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -37108,6 +36895,10 @@ from the blade itself. The weapon feeds on justified anger, it grows
 stronger when wielded by someone with genuine grievances against their
 enemies.
 
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
 **Attunement**
 
 To attune to this weapon, one must spend a night in complete darkness
@@ -37135,6 +36926,8 @@ Carried by Lord Shadows (Corvus Blackwood).
 
 #### The Void Staff
 
+
+![The Void Staff](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-lord-shadows-void-staff.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -37178,6 +36971,8 @@ Carried by Lord Shadows (Corvus Blackwood).
 #### The Voidblade
 
 
+![The Voidblade](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-voidblade-longsword.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 A longsword with a matte black blade that seems to devour light. Runes
@@ -37217,7 +37012,13 @@ half-hoping to finally fall and end their torment.
 
 The Voidblade represents the danger of seeking power through grief.
 Captain Malthus thought he was creating a tool for vengeance; instead,
-he created a prison for his own soul and a trap for whoever came after.
+he created a 
+
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
+prison for his own soul and a trap for whoever came after.
 
 **Current Location**
 
@@ -37226,6 +37027,8 @@ approximately twenty years ago.
 
 #### The Unbound Dark Blade
 
+
+![The Unbound Dark Blade](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-unbound-dark-blade.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -37277,6 +37080,8 @@ after the last wielder had to be put down by his own allies.
 #### Red Wolf's Longbow
 
 
+![Red Wolf's Longbow](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-red-wolfs-longbow.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 A longbow carved from ancient oak, its wood dark with age and care. Wolf
@@ -37326,6 +37131,10 @@ surface shifts subtly, and those who hold it feel connected to every
 tree in the forest. Arrows fired from it seem guided by the forest
 itself.
 
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
 **History**
 
 Thornstrike was crafted by elven artisans in the Age of Dawn for a great
@@ -37363,6 +37172,8 @@ Silverleaf forces.
 #### Kael's Poisoned Blades
 
 
+![Kael's Poisoned Blades](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-kaels-poisoned-blades.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 A matched pair of shortswords with hollow cores containing concentrated
@@ -37377,7 +37188,7 @@ commissioned these blades from a poisoner who specializes in creating
 tools for professional killers. The blades have been used in dozens of
 assassinations, each kill adding to Kael's reputation and the blades'
 legend.
-
+\column
 **Powers**
 
 The blades can be coated with poison as a swift action by activating the
@@ -37444,11 +37255,17 @@ entirely, Taran is afraid to find out.
 Wielded by Commander Taran Steelheart, Commander of the Elite Guard of
 Thaldros.
 
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
 ### 55.6 Amulets and Magical Foci
 
 
 #### The Amulet of the Black Raven
 
+
+![The Amulet of the Black Raven](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-amulet-of-the-black-raven.jpg){width:325px}
 
 **Physical Description**
 
@@ -37466,7 +37283,7 @@ combined with shadow-pact power obtained at great personal cost.
 The amulet took years to create, requiring Corvus to sacrifice portions
 of his own life force to power it. This is one reason he appears older
 than his years, he has given pieces of himself to the amulet.
-
+\column
 **Powers**
 
 The amulet protects its wearer from all divination magic, scrying,
@@ -37489,12 +37306,8 @@ the last surviving examples of their ancestral traditions.
 Worn by Lord Shadows at all times. He would sooner lose a limb than the
 amulet.
 
-*End of Chapter 55: Weapons of Legend*
-
-
 {{pageNumber,auto}}
-{{footnote Chapter 56: Cursed Items}}
-
+{{footnote Chapter 55: Weapons of Legend}}
 \page
 
 ## Chapter 56: Cursed Items
@@ -37507,7 +37320,7 @@ them.
 
 ### 56.1 The Dread King's Crown
 
-![56.1 The Dread King's Crown](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-dread-king-undead-throne.jpg){width:200px,float:right,margin:5px}
+![56.1 The Dread King's Crown](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-dread-kings-crown.jpg){width:200px,float:right,margin:5px}
 
 
 **Physical Description**
@@ -37519,35 +37332,50 @@ ancient evil.
 
 **History**
 
-The Dread King's Crown belonged to the Undead King who nearly conquered
-the recovering civilizations during the Age of Recovery. When he was
-defeated by Aldric Lightbringer, the crown was seized but could not be
-destroyed. It has been sealed away ever since, but its whispers reach
-out to those susceptible to its influence.
+The Dread King's Crown was created by the original Undead King as his
+phylactery, the vessel containing his soul. Unlike most liches, who hide
+their phylacteries in secret locations, the Undead King wore his on his
+head, ensuring it would never be far from his grasp. When he was
+defeated by Aldric Lightbringer during the Age of Recovery, the crown
+was seized but could not be destroyed.
+
+**Powers**
+
+The crown grants massive mental enhancement, the ability to read and
+dominate minds, and immunity to aging. These powers are seductive, and
+they are the trap.
 
 **Curse**
 
-Anyone who wears the crown begins transforming into an undead creature.
-The process takes weeks but is irreversible once begun. The crown also
-corrupts the wearer's mind, filling it with the Undead King's memories
-and ambitions. Eventually, the wearer becomes a new vessel for the
-Undead King's consciousness.
+Wearing the crown begins an irreversible transformation into a lich. The
+process takes approximately one year, but becomes irreversible after one
+month. The wearer's alignment shifts to evil, their body decays while
+remaining animate, and eventually, the original Undead King's
+consciousness awakens within them.
 
 **Significance**
 
-The Dread King's Crown represents the persistent danger of ancient
-evils. It cannot be destroyed by known means and constantly seeks new
-wearers. Its prison must be maintained, its guardians must remain
-vigilant, and its location must be kept secret.
+The Dread King's Crown is both the source of the Dread King's power and
+the key to destroying him permanently. While it exists, he will
+eventually return, but destroying it while he "lives" is nearly
+impossible. The crown must be destroyed while the Dread King is defeated
+but before he regenerates.
+\column
+**Destruction**
+
+The crown can be destroyed by dealing massive damage from radiant or
+force sources, by disintegration magic, or by casting it into a volcano.
+These methods only work when the Dread King is currently "dead."
 
 **Current Location**
 
-Sealed in a hidden vault maintained by the Grave Wardens, a religious
-order dedicated to keeping the undead imprisoned. The exact location is
-known to only three people, none of whom can access the vault alone.
+Worn by the Dread King (the restored Undead King) in the Frostfell
+Crypts. It can be claimed by those who defeat him.
 
 ### 56.2 Lord Pembroke's Signet Ring
 
+
+![56.2 Lord Pembroke's Signet Ring](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-lord-pembrokes-signet-ring.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -37579,13 +37407,10 @@ produced so many insufferable nobles.
 Presumably still worn by the current Lord Pembroke, who is unaware of
 its effects and attributes his arrogance to natural superiority.
 
-*End of Chapter 56: Cursed Items*
-
-
 {{pageNumber,auto}}
-{{footnote Chapter 57: Objects of Power}}
-
+{{footnote Chapter 56: Cursed Items}}
 \page
+
 
 ## Chapter 57: Objects of Power
 
@@ -37600,6 +37425,8 @@ value.
 
 #### The Scales of Justice
 
+
+![The Scales of Justice](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-scales-of-justice.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -37636,9 +37463,11 @@ officially denies creating artifacts.
 The original set remains in Kaer Thandros. Secondary sets exist in
 Aethermere, Goldreach, Ironhold, and Sundara. All are permanently
 mounted and cannot be taken.
-
+\column
 #### The Magistrate's Robes of Office
 
+
+![The Magistrate's Robes of Office](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-magistrates-robes-of-office.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -37691,6 +37520,10 @@ treaty between Thaldros and Aethoria. Heroes who served the cause of
 peace, regardless of which side they originally came from, were honored
 with these badges as recognition of their service.
 
+{{pageNumber,auto}}
+{{footnote Chapter 57: Objects of Power}}
+\page
+
 **Powers**
 
 The badge grants its wearer authority recognized by officials on both
@@ -37704,6 +37537,8 @@ Peacekeepers' Badges cannot be bought, sold, or transferred. They are
 awarded for genuine service to peace between the continents. Possessing
 one marks the bearer as a hero trusted by both sides, a rare and
 valuable status in a world where continental loyalty is often assumed.
+Rarely awarded in the current era of cold peace, those who still bear
+it are aging; a new generation has not yet earned the honor.
 
 **Current Locations**
 
@@ -37715,6 +37550,8 @@ the Dragon Crisis and the events of the Blood & Coin campaign.
 
 #### The Prophecy Fragment
 
+
+![The Prophecy Fragment](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-prophecy-fragment.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -37768,6 +37605,8 @@ reveal the complete prediction, for good or ill.
 #### The Orb of Prophecy
 
 
+![The Orb of Prophecy](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-orb-of-prophecy.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 A crystal orb approximately six inches in diameter, filled with swirling
@@ -37802,8 +37641,13 @@ The orb's location changes. It has been reported in the Starfall
 Observatory, various Moira temples, and in the possession of private
 collectors. Some believe it moves itself.
 
+{{pageNumber,auto}}
+{{footnote Chapter 57: Objects of Power}}
+\page
+
 #### The Book of Forgotten Names
 
+![The Book of Forgotten Names](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-book-of-forgotten-names.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -37848,6 +37692,8 @@ Thandros, and in the possession of various powerful mages.
 #### The Staff of Dynasties
 
 
+![The Staff of Dynasties](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-staff-of-dynasties.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 A staff of pale wood topped with an emerald-studded crown design. The
@@ -37889,6 +37735,8 @@ possession of private collectors who understand its value, and danger.
 #### The Black Ledger
 
 
+![The Black Ledger](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-the-black-ledger.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 A leather-bound ledger, unremarkable in appearance except for a small
@@ -37902,6 +37750,10 @@ insurance policy. It contains records of every bribe, forged deed,
 fraudulent contract, and corrupt magistrate the Merchant Consortium has
 employed. Pembroke kept it as protection, if he fell, others would fall
 with him.
+
+{{pageNumber,auto}}
+{{footnote Chapter 57: Objects of Power}}
+\page
 
 **Powers**
 
@@ -37926,6 +37778,8 @@ future of Thaldros commerce.
 
 #### Ring of Shadows
 
+
+![Ring of Shadows](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-ring-of-shadows.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -37961,6 +37815,8 @@ powerful variant.
 
 #### The Cloak of the Thornwood
 
+
+![The Cloak of the Thornwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-cloak-of-the-thornwood.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -38014,10 +37870,18 @@ persuasion over force in Aethorian governance.
 **Powers**
 
 The pendant enhances persuasion and public speaking. It allows the
-casting of charm and suggestion spells, though using these on fellow
+casting of charm and suggestion 
+
+{{pageNumber,auto}}
+{{footnote Chapter 57: Objects of Power}}
+\page
+
+spells, though using these on fellow
 senators is considered deeply dishonorable. The opal glows when the
 wearer speaks truth and dims when they lie, a feature that makes
 deception difficult.
+
+![Valen's Pendant of Eloquence](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-valens-pendant-of-eloquence.jpg){width:200px,float:right,margin:5px}
 
 **Significance**
 
@@ -38073,54 +37937,6 @@ itself, but risks becoming death's servant rather than its master.
 Wielded by the current Dread King (the restored Undead King) in the
 Frostfell Crypts. It can be claimed by those who defeat him.
 
-#### The Dread Crown (Phylactery)
-
-
-**Physical Description**
-
-A crown of black ice that never melts, set with gems of frozen darkness.
-The crown whispers constantly, promises, threats, memories of ancient
-evil. Wearing it provides instant power and inevitable doom.
-
-**History**
-
-The Dread Crown was created by the original Undead King as his
-phylactery, the vessel containing his soul. Unlike most liches, who hide
-their phylacteries in secret locations, the Undead King wore his on his
-head, ensuring it would never be far from his grasp.
-
-**Powers**
-
-The crown grants massive mental enhancement, the ability to read and
-dominate minds, and immunity to aging. These powers are seductive, and
-they are the trap.
-
-**Curse**
-
-Wearing the crown begins an irreversible transformation into a lich. The
-process takes approximately one year, but becomes irreversible after one
-month. The wearer's alignment shifts to evil, their body decays while
-remaining animate, and eventually, the original Undead King's
-consciousness awakens within them.
-
-**Significance**
-
-The Dread Crown is both the source of the Dread King's power and the
-key to destroying him permanently. While it exists, he will eventually
-return, but destroying it while he "lives" is nearly impossible. The
-crown must be destroyed while the Dread King is defeated but before he
-regenerates.
-
-**Destruction**
-
-The crown can be destroyed by dealing massive damage from radiant or
-force sources, by disintegration magic, or by casting it into a volcano.
-These methods only work when the Dread King is currently "dead."
-
-**Current Location**
-
-Worn by the Dread King, even when he is temporarily destroyed.
-
 ### 57.5 Items of Ice and Winter
 
 
@@ -38163,6 +37979,8 @@ prices are substantial.
 #### The Eternal Winter Shard
 
 
+![The Eternal Winter Shard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-eternal-winter-shard.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 A shard of ice that never melts, even in fire. The shard is clear as
@@ -38175,7 +37993,13 @@ darkness.
 Eternal Winter Shards are fragments of primordial ice, the frozen
 essence of the concept of cold itself. They were created during the
 formation of the world and have survived unchanged since the beginning
-of time. How they come to be found is unknown; some believe they surface
+of time. How they come to be found 
+
+{{pageNumber,auto}}
+{{footnote Chapter 57: Objects of Power}}
+\page
+
+is unknown; some believe they surface
 during particularly harsh winters.
 
 **Powers**
@@ -38239,13 +38063,15 @@ creatures or in ancient northern ruins.
 #### Dragon-Warding Amulets
 
 
+![Dragon-Warding Amulets](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-dragon-warding-amulets.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 Small amulets made of dragonscale, each enchanted with protective wards.
 The amulets glow faintly when dragons are near and grow warm in the
 presence of dragon breath. Each is single-use but provides powerful
 protection when needed most.
-
+\column
 **History**
 
 Dragon-Warding Amulets were crafted by Professor Miranda Questseeker
@@ -38276,6 +38102,8 @@ those preparing for future dragon encounters.
 #### The Ring of Protection (Tirvandor Variant)
 
 
+![The Ring of Protection](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-ring-of-protection.jpg){width:200px,float:right,margin:5px}
+
 **Physical Description**
 
 A platinum ring set with a small diamond that sparkles with inner light.
@@ -38289,6 +38117,10 @@ This particular Ring of Protection was worn by a Goldshore family priest
 who drowned defending the manor during the Keeper Massacre. His spirit
 remained with the ring as a wraith until defeated by those investigating
 the manor's secrets. The ring retains his protective blessing.
+
+{{pageNumber,auto}}
+{{footnote Chapter 57: Objects of Power}}
+\page
 
 **Powers**
 
@@ -38321,7 +38153,7 @@ campaign events.
 Commemorative coins minted to honor particular heroes or events. Unlike
 regular currency, Monument Coins bear the faces and names of those they
 commemorate. Each is unique to its recipient and cannot be duplicated.
-
+\column
 **History**
 
 The tradition of Monument Coins began after the Dragon Crisis, when
@@ -38350,12 +38182,8 @@ events. Recent coins were minted following the Dragon Crisis and the
 peace established by the Blood & Coin campaign. Heroes who participated
 in these events carry their coins as proof of their service.
 
-*End of Chapter 57: Objects of Power*
-
-
 {{pageNumber,auto}}
-{{footnote Chapter 58: Lost and Sought Items}}
-
+{{footnote Chapter 57: Objects of Power}}
 \page
 
 ## Chapter 58: Lost and Sought Items
@@ -38423,7 +38251,7 @@ still within the sunken structure.
 A platinum crown set with blue-green pearls and aquamarines, styled to
 resemble cresting waves. The crown grants water breathing, swimming
 speed, control over water, and authority over aquatic creatures.
-
+\column
 **Why It Is Sought**
 
 The Crown of the Depths would grant its wearer significant power in
@@ -38494,6 +38322,10 @@ When the World-Splitter was activated and the continents were torn
 apart, pieces of the artifact scattered across the world. These
 fragments, distinct from the Components, are smaller pieces that retain
 traces of the original power.
+
+{{pageNumber,auto}}
+{{footnote Chapter 58: Lost and Sought Items}}
+\page
 
 **Description**
 
@@ -38634,24 +38466,15 @@ As of the campaign events:
 The hunt for these Components drives much of the conflict in the
 Shattered Oaths campaign.
 
-*End of Chapter 58: Lost and Sought Items*
-
-
+{{pageNumber,auto}}
+{{footnote Chapter 58: Lost and Sought Items}}
 \page
+
+![Chapter 59: The Blackwood Conspiracy (Shattered Oaths™ Campaign)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-house-blackwoods-execution.jpg){position:absolute,top:0,left:0,width:100%,height:450px}
+
+{{margin-top:400px}}
 
 # Part X: Stories & Narratives
-
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 59: The Blackwood Conspiracy (Shattered Oaths™ Campaign)}}
-
-\page
-
-![Chapter 59: The Blackwood Conspiracy (Shattered Oaths™ Campaign)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-house-blackwoods-execution.jpg){position:absolute,top:0,left:0,width:100%,height:280px}
-
-{{margin-top:290px}}
-
 ## Chapter 59: The Blackwood Conspiracy (Shattered Oaths™ Campaign)
 
 
@@ -38679,7 +38502,7 @@ victim? How do you protect a system built on murder and lies?
 
 -   **Justice vs. Vengeance:** They look similar from outside---the
     difference is in the aftermath
-
+\column
 ### 59.2 The Premise
 
 
@@ -38710,6 +38533,10 @@ One person survived: Corvus Blackwood, twelve years old, hidden in a
 barrel in the wine cellar. He listened to his family die. Smelled their
 flesh burning. When silence came, he crawled out to find everything
 gone. Everyone dead.
+
+{{pageNumber,auto}}
+{{footnote Chapter 59: The Blackwood Conspiracy (Shattered Oaths™ Campaign)}}
+\page
 
 For forty-three years, Corvus prepared his revenge. He became "Lord
 Shadows," founded the Unbound---an organization of those wronged by the
