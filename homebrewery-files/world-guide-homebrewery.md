@@ -25831,6 +25831,16 @@ Has compromising information on dozens of nobles, merchants, and
 officials. Files hidden in several locations. If he dies, they're
 released.
 
+**The Deepwater Heir**
+
+Davos knows the identity of Lord Aldris' fourth daughter Marina---the
+pre-Worldrend Deepwater heir who was presumed dead but whose lineage
+survived in secret. Whoever controls that bloodline controls the
+legitimate claim to everything both Goldshore and Crystalborn have
+fought over for centuries. He has not yet decided whether to expose
+her descendants, eliminate them, or use the knowledge as the ultimate
+leverage.
+
 #### Notable Quotes
 
 
@@ -28864,26 +28874,11 @@ he'd still make the arrest.
 ### 45.4 Harbor Master Tobias Saltwind
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-harbor-master-tobias-saltwind.jpg){width:325px}
 
-**Title:** Harbor Master of Goldreach
+*For Harbor Master Tobias Saltwind's complete entry, see Section 64.2.*
 
-**Location:** Goldreach Harbor
+**Title:** Harbor Master of Goldreach | **Location:** Goldreach Harbor | **Age:** Approximately 55 (human)
 
-**Age:** 54 (human)
-
-A barrel-chested man with a booming voice who controls everything that
-enters or leaves Goldreach by sea. Tobias is widely believed to be honest, though in truth he selectively
-accepts bribes from certain smugglers---funneling the coin quietly into
-orphanages and relief houses along the waterfront. He justifies the
-corruption as doing more good than rigid honesty ever could. He runs a
-tight operation and commands the respect of both sailors and merchants.
-
-Former naval officer who served with distinction before taking the
-harbor position. His knowledge of ships, tides, and weather is
-encyclopedic. Sailors trust his judgment about when it's safe to sail.
-
-**Secret:** Tobias lost his son to a sea monster years ago. He quietly
-funds expeditions to hunt such creatures and keeps a trophy room of
-their remains in his basement.
+A barrel-chested man with a booming voice who controls everything that enters or leaves Goldreach by sea. Widely believed to be honest, but selectively accepts bribes from smugglers dealing in victimless goods, funneling the coin quietly to the orphanage where he grew up. Former naval officer with encyclopedic knowledge of ships, tides, and weather.
 {{pageNumber,auto}}
 {{footnote Chapter 45: Common Folk and Supporting Characters}}
 \page
@@ -36932,7 +36927,7 @@ elven ranger-lord whose name is no longer spoken, he fell to corruption
 and was erased from elven records. The bow, however, was reclaimed and
 purified, passing through several worthy hands over the millennia.
 
-The current wielder, Ranger-Lord Thalion Silverleaf, received the bow
+The current wielder, Ranger-Lord Arannis Silverleaf, received the bow
 upon assuming command of House Silverleaf's military forces. He has
 carried it for over a century, defending the Silverwood from countless
 threats.
@@ -36953,7 +36948,7 @@ Worldrend, connections and powers that predate the catastrophe.
 
 **Current Location**
 
-Wielded by Ranger-Lord Thalion Silverleaf, military commander of House
+Wielded by Ranger-Lord Arannis Silverleaf, military commander of House
 Silverleaf forces.
 
 ### 55.5 Weapons of Shadow Organizations
@@ -42697,38 +42692,9 @@ See Section 37.6 for the complete entry.
 
 **Title:** Head of the Goldshore Branch Family, Merchant Prince
 
-**Race:** Half-Elf
+**Race:** Half-Elf | **Age:** 157 | **Location:** Goldreach (Branch Family Estate)
 
-**Age:** 157 (born 1090 CR, appears early forties due to half-elf heritage)
-
-**Location:** Goldreach (Branch Family Estate)
-
-**Note:** Full entry appears in Chapter 44: Villains and Antagonists as
-a major campaign antagonist.
-
-**Summary:**
-
-Controls approximately 40% of maritime trade between continents---more
-than the "main" branch of his own house. Has spent decades positioning
-himself to take control of the entire Goldshore house through forged
-documents, bribed witnesses, and compiled blackmail on Lord Aldris IV.
-
-Married twice (both wives died of "illness"). Currently widowed. Has
-no legitimate heirs---a deliberate choice. Planning to claim Lady Serina
-as his heir through adoption or marriage alliance when he takes over the
-main house.
-
-**Key Secrets:**
-
--   The Takeover Plan with forged succession documents.
-
--   Secret salvage expeditions to sunken palace.
-
--   Maintains a poisoner on permanent staff.
-
--   Knows the identity of Lord Aldris' fourth daughter Marina.
-
--   Secretly funds Syndicate operations while publicly opposing them.
+Controls approximately forty percent of maritime trade between continents---more than the main branch of his own house. Spent decades positioning himself to seize the entire Goldshore house through forged documents, blackmail on Lord Aldris Goldshore IV, and arranged deaths of rival heirs. See Section 37.7 for the complete entry; see also Section 44.7 for his role as a primary campaign antagonist.
 
 ### 64.2 Harbor and Maritime Officials
 
@@ -42812,6 +42778,10 @@ Mercy saved his life. He'll do anything to protect that place.
 soon---weapons for someone. He can't stop it without exposing himself.
 Needs help.
 
+*The Lost Son:* Tobias lost his son to a sea monster years ago. He
+quietly funds expeditions to hunt such creatures and keeps a trophy
+room of their remains in his basement.
+
 #### Admiral Theron Stormcrest
 
 
@@ -42837,6 +42807,10 @@ Leader of the premier mercenary organization in Thaldros. A veteran
 warrior who has expanded the Iron Guild's operations while maintaining
 its ironclad reputation for contract reliability. See Section 61.5 for
 the complete entry.
+
+{{pageNumber,auto}}
+{{footnote Chapter 64: Goldreach NPCs}}
+\page
 
 ### 64.4 Merchant League Presence
 
@@ -42896,7 +42870,7 @@ He's spent the last decade building a reputation as the most successful
 pirate in the Thornmire waters. He's never been caught because he's
 patient, well-informed, and knows when to fight and when to disappear
 into the swamp's countless waterways.
-
+\column
 **Key Relationships:**
 
 -   **Patron:** Lady Morgana Blackwater (protection arrangement, mutual
@@ -42949,15 +42923,13 @@ royal debt ledgers---records showing exactly how much the crown owes
 House Goldshore. This gives him access to some of the most sensitive
 financial information in the kingdom.
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-
+{{footnote Chapter 64: Goldreach NPCs}}
 \page
 
-![Chapter 65: Historical and Legendary Figures](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-history-timeline-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:280px}
+![Chapter 65: Historical and Legendary Figures](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-history-timeline-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:450px}
 
-{{margin-top:290px}}
+{{margin-top:400px}}
 
 ## Chapter 65: Historical and Legendary Figures
 
@@ -42998,7 +42970,8 @@ King Aldric and the Palace of Eternal Spring were destroyed in the
 cataclysm. Both princes survived---Theron in the west, Aethos in the
 east---each claiming the other had died and proclaiming themselves the
 rightful heir.
-
+\column
+{{margin-top:410px}}
 **Legacy:**
 
 The dispute between their descendants (House Thandris and House
@@ -43034,6 +43007,10 @@ According to Thandris history, Prince Theron was the legitimate
 firstborn heir, and King Aldric was preparing to formally announce his
 succession when the Worldrend occurred. They claim Prince Aethos caused
 the catastrophe through a forbidden magical experiment gone wrong.
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
 
 Theron rallied western survivors, established the foundation of what
 would become the Thaldros kingdom, and began the bloodline that
@@ -43096,7 +43073,7 @@ infrastructure, establishing the Arcanum as the premier magical
 institution, and training the next generation of wizards.
 
 Then she walked into the Feywild and never returned---until now.
-
+\column
 **Current Status:**
 
 Celestine isn't dead. In the Feywild, time moves strangely. She's been
@@ -43153,6 +43130,10 @@ Ancient village elder and guardian of the Heart Oak. She has led Oakheart Grove 
 **Era:** 612-689 CR (approximate)
 
 **Status:** Deceased
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
 
 The leader who finally united the fractured western territories during
 the Unification Wars (612-670 CR). While Prince Theron's bloodline had
@@ -43240,7 +43221,7 @@ desperate need---but the ritual requires a living Ironforge to sacrifice
 their own life.
 
 #### Aldric the Chain-Breaker
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/historical-aldric-chain-breaker.jpg){width:200px,float:right,margin:5px}
 
 **Title:** The Liberator, Folk Hero, Founder of Aethorian Democracy
 
@@ -43271,6 +43252,10 @@ surrounded by the children of people he'd freed.
 -   Both continents officially abolished slavery within fifty years of
     his death.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 -   Some temples honor him as an ascended saint of Aethor the Liberator.
 
 **Using Aldric in Stories:**
@@ -43298,7 +43283,7 @@ modern heroes to him.
 -   His spirit has appeared, warning of returning slavery.
 
 #### Radiant the First Paladin
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-paladin-radiant-dawnbringer.jpg){width:200px,float:right,margin:5px}
 
 **Title:** The First Paladin, Founder of the Lightbringers, Saint
 
@@ -43350,7 +43335,7 @@ since.
 many in succession could destroy her permanently.
 
 #### Saint Celestine the Healer
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-saint-celestine-the-pure.jpg){width:200px,float:right,margin:5px}
 
 **Title:** Saint, Celestial Being, Guardian of Healers
 
@@ -43387,6 +43372,10 @@ such appearances for times of desperate need---plagues that threaten
 civilizations, corruptions that poison the land, healers who face
 impossible choices.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 **Her Limitation:**
 
 Each physical appearance weakens her. Too many manifestations in
@@ -43397,7 +43386,7 @@ necessary, but one the world would mourn.
 
 
 #### King Thandris V (The Dragon's Debtor)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-king-thandris-v.jpg){width:200px,float:right,margin:5px}
 
 **Title:** King of Thaldros during the Dragon Crisis
 
@@ -43452,7 +43441,7 @@ he didn't fully understand.
 bargain's activation approaching. Those signs are now appearing.
 
 #### Lord Emberthorn the Defiant (The Martyr)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-emberthorn-the-defiant.jpg){width:200px,float:right,margin:5px}
 
 **Title:** Hero of the Blackwood Rebellion, The Martyr
 
@@ -43502,11 +43491,15 @@ Whoever holds it can rally considerable support.
 *The Spirit's Watch:* Some say Emberthorn's spirit still guards the
 gate he died defending, appearing when Kaer Thandros is threatened.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 ### 65.4 Scholars and Sages
 
 
 #### High Mage Arcturus (The Ghostly Keeper)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-high-mage-arcturus.jpg){width:200px,float:right,margin:5px}
 
 **Title:** High Mage, Ghostly Keeper of Knowledge
 
@@ -43552,7 +43545,7 @@ understanding, and pursue truth may earn his assistance.
 -   Warnings about threats that are returning.
 
 #### Sage Cornelius (The Immortal Historian)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sage-cornelius-the-elder.jpg){width:200px,float:right,margin:5px}
 
 **Title:** Elder Sage, Wandering Scholar
 
@@ -43603,7 +43596,6 @@ ritual that he finds increasingly distasteful.
 
 #### Hermit Sage Morganna
 
-
 **Title:** The Whispering Sage, Spirit Healer
 
 **Race:** Human (extended life through fey bargain)
@@ -43615,10 +43607,18 @@ ritual that he finds increasingly distasteful.
 **Status:** Alive
 
 Once a prominent healer in Silverpine, respected for her skill with both
-medicine and magic. Then she started hearing whispers---voices from
-dying patients, from the recently dead, from things that had never been
+medicine and magic. Then she 
+dying patients, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+started hearing whispers---voices from
+from the recently dead, from things that had never been
 alive. The voices drove her from the city, into the wilderness, where
 their chatter was quieter.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-morganna-whisperwind.jpg){width:200px,float:right,margin:5px}
 
 **Her Gift:**
 
@@ -43638,7 +43638,7 @@ know how to stop it.
 
 
 #### Infernalix (The Vanished Flame)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-dragon-infernalix.jpg){width:200px,float:right,margin:5px}
 
 **Title:** The Vanished Flame, The Sleeping Terror
 
@@ -43658,7 +43658,9 @@ ruled unchallenged for millennia before the Worldrend split the world.
 **The Dragon Crisis (1156-1201 CR):**
 
 His forty-five year campaign against Thaldros was never about territory
-or treasure---though he accumulated both. It was about finding something
+or treasure---though he 
+\column
+accumulated both. It was about finding something
 specific: a piece of the artifact that caused the Worldrend, which he
 believed could reunite the continents and restore his domain.
 
@@ -43690,7 +43692,7 @@ was for the king's bloodline. When it comes due, every Thandris will
 feel the call.
 
 #### Ryldak the Ancient
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/ancient-dragon-ryldak.jpg){width:200px,float:right,margin:5px}
 
 **Title:** Ancient Dragon, Pre-Worldrend Survivor
 
@@ -43718,9 +43720,14 @@ of the oldest and most powerful beings in the world.
 
 **Location:** Lost at sea (final voyage into the Sundering Sea)
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
 **Role:** Historical figure, founder of House Goldshore's naval empire
 
 **Historical Era:** Early Age of Recovery (approximately 200-320 CR)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-admiral-caspian-goldshore.jpg){width:200px,float:right,margin:5px}
 
 **Appearance:**
 
@@ -43781,7 +43788,7 @@ found on that third voyage.
     descendants.
 
 #### The Scarlet Knife (Verena Shadowblade)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-scarlet-knife.jpg){width:200px,float:right,margin:5px}
 
 **Full Name:** Verena Shadowblade (alias: "The Scarlet Knife")
 
@@ -43816,6 +43823,10 @@ abused her mother in their exile. Killed him at 16. Found she had
 talent. Joined the Shadow Syndicate at 18, rising quickly through their
 assassin ranks. By 25, she was their most reliable contractor.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 Now operates independently, taking contracts from anyone who meets her
 standards. Her code is absolute: no innocents, no children, and no one
 who doesn't deserve it by her judgment.
@@ -43833,6 +43844,7 @@ warning to others
 -   Former Employer: Shadow Syndicate (left on good terms, still takes
     referrals)
 -   Unknown Father: Merchant Prince Davos Goldshore
+
 -   Mother: Selena Shadowblade (alive, living in poverty in a distant
     village)
 -   Rivals: Other high-end assassins who resent her reputation
@@ -43861,7 +43873,7 @@ warning to others
     Still deciding.
 
 #### Wizard Merrick the Wise (The Last Scholar)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-wizard-merrick-the-wise.jpg){width:200px,float:right,margin:5px}
 
 **Full Name:** Merrick (full name lost to history)
 
@@ -43932,6 +43944,10 @@ or destroyed. Those who seek understanding find a patient teacher.
     certain magical techniques and historical events. He had good
     reasons.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 3.  **The Crystal Network:** The knowledge crystals he scattered can be
     connected to form a complete picture of pre-Worldrend civilization.
 
@@ -43943,7 +43959,8 @@ or destroyed. Those who seek understanding find a patient teacher.
     cataclysm---and destroyed most evidence to prevent repetition.
 
 #### Monk Serenity (The Enlightened One)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-monk-serenity.jpg
+){width:200px,float:right,margin:5px}
 
 **Full Name:** Serenity (born name unknown)
 
@@ -44041,15 +44058,14 @@ Celestine knows who they were and believes she may know what they
 became. This knowledge is part of why she retreated to the Feywild---and
 part of why she's preparing to return.
 
-
 {{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-
+{{footnote Chapter 65: Historical and Legendary Figures}}
 \page
 
-![Chapter 66: Miscellaneous NPCs](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-culture-and-society-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:280px}
 
-{{margin-top:290px}}
+![Chapter 66: Miscellaneous NPCs](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-culture-and-society-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:450px}
+
+{{margin-top:400px}}
 
 ## Chapter 66: Miscellaneous NPCs
 
@@ -44091,7 +44107,8 @@ He supplies the city guard with weapons, has earned the respect of
 Master Smith Garrick Ironheart (rare mutual respect between craftsmen),
 and treats his apprentices like family. He could clear his name---he has
 evidence proving his innocence---but hasn't used it.
-
+\column
+{{margin-top:420px}}
 **Secrets:**
 
 -   Was framed by his cousin for theft.
@@ -44137,6 +44154,10 @@ pure craft without politics. He travels, taking commissions, teaching,
 always learning. He's studied with every major smith in both kingdoms
 and beyond.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 His masterwork is Ironheart, his Steel Defender---a mechanical bear
 companion that took ten years to build, combining smithing, magic, and
 artifice.
@@ -44165,41 +44186,13 @@ Gundren tracks that sword obsessively, hoping to recover and destroy it.
 him humbly. He's kept this secret because both kingdoms would
 disapprove.
 
-#### Master Artisan Thalion Brightforge
+#### Master Artisan Silvanus Brightforge
 
+*For Master Artisan Silvanus Brightforge's complete entry, see Section 63.4.*
 
-**Title:** Master of the Silverpine Artisan Guild
+**Title:** Master of the Silverpine Artisan Guild | **Race:** Elf | **Age:** Approximately 250 | **Location:** Silverpine
 
-**Race:** Half-Elf
-
-**Age:** 247
-
-**Location:** Silverpine
-
-**Status:** Guild Master (67 years)
-
-Thalion's family has crafted fine jewelry and decorative weapons for
-six generations. He apprenticed to both elven woodcarvers and human
-jewelers, developing a unique style blending elven grace with human
-boldness.
-
-His breakthrough piece---a crown for the Lord Silverleaf
-wedding---established his reputation across both continents. Elected
-Master of the Artisan Guild in 1180 CR, he's maintained Silverpine's
-reputation as the center of artistic excellence. His waiting list is
-decades long.
-
-**Secrets:**
-
-*The Hidden Artifact:* Created a crown that enhances magical ability
-tenfold---too powerful to exist. Hidden in a location he's told no one.
-
-*The Pre-Worldrend Design:* Found ancient artifact designs in his
-research. One matches something that shouldn't exist---a weapon that
-could shatter continents.
-
-*The Failing Eyes:* His vision is deteriorating. He has perhaps five
-more years of detailed work left. He's told no one.
+Master of the Silverpine Artisan Guild for sixty-seven years (since 1180 CR), apprenticed to both elven woodcarvers and human jewelers. His breakthrough piece---a crown for the Lord Silverleaf wedding---established his reputation across both continents. Family has crafted fine jewelry and decorative weapons for six generations.
 
 #### Merchant Lord Cornelius Goldpurse
 
