@@ -44080,6 +44080,8 @@ nonetheless.*
 
 #### Kael Ironforge (Exiled Blacksmith)
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kael-ironforge-blacksmith.jpg){width:200px,float:right,margin:5px}
+
 
 **Title:** Master Blacksmith of Silverpine
 
@@ -44095,7 +44097,8 @@ Kael runs the finest smithy in Silverpine---not the fanciest, but the
 best. Self-taught after being exiled from his clan for a crime he
 didn't commit. His weapons are sought after by collectors and warriors
 alike.
-
+\column
+{{margin-top:410px}}
 **Background:**
 
 Kael was framed for theft by his cousin, who now runs the family forge
@@ -44107,8 +44110,6 @@ He supplies the city guard with weapons, has earned the respect of
 Master Smith Garrick Ironheart (rare mutual respect between craftsmen),
 and treats his apprentices like family. He could clear his name---he has
 evidence proving his innocence---but hasn't used it.
-\column
-{{margin-top:420px}}
 **Secrets:**
 
 -   Was framed by his cousin for theft.
@@ -44142,6 +44143,12 @@ evidence proving his innocence---but hasn't used it.
 **Status:** Independent master (left House Ironforge to pursue pure
 craft)
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-smith-gundren-ironforge.jpg){width:200px,float:right,margin:5px}
+
 The greatest living smith in Tirvandor---a claim few dispute. Born in
 1049 CR, Gundren showed talent young. By fifty, he crafted better blades
 than smiths twice his age. By one hundred, his work was famous. By one
@@ -44153,10 +44160,6 @@ Gundren left House Ironforge at age 120---not in anger, but to pursue
 pure craft without politics. He travels, taking commissions, teaching,
 always learning. He's studied with every major smith in both kingdoms
 and beyond.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 His masterwork is Ironheart, his Steel Defender---a mechanical bear
 companion that took ten years to build, combining smithing, magic, and
@@ -44195,6 +44198,8 @@ disapprove.
 Master of the Silverpine Artisan Guild for sixty-seven years (since 1180 CR), apprenticed to both elven woodcarvers and human jewelers. His breakthrough piece---a crown for the Lord Silverleaf wedding---established his reputation across both continents. Family has crafted fine jewelry and decorative weapons for six generations.
 
 #### Merchant Lord Cornelius Goldpurse
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-lord-cornelius-goldpurse.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** "Cornelius Goldpurse" (assumed identity)
@@ -44252,6 +44257,10 @@ Sundara while publicly maintaining a mask of amoral capitalism.
 
 -   Business network throughout Thaldros.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 -   Rivals including House Goldshore.
 
 -   Secret Alliance with anti-slavery networks.
@@ -44278,6 +44287,8 @@ Sundara while publicly maintaining a mask of amoral capitalism.
 -   His blackmail collection is a powder keg.
 
 #### Merchant-Prince Kael Icewind
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-kael-icewind.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** "Kael Icewind" (assumed identity)
@@ -44312,7 +44323,7 @@ What no one knows is that "Kael Icewind" murdered the real Kael thirty
 years ago and assumed his identity. The imposter was a skilled con
 artist who saw an opportunity and took it. He's played the role so long
 he's almost become the man he killed.
-
+\column
 **Capabilities:**
 
 -   Vast trade empire and wealth.
@@ -44355,6 +44366,8 @@ he's almost become the man he killed.
 
 #### Forge-Master Thordak Lavaheart
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-thordak-lavaheart.jpg){width:200px,float:right,margin:5px}
+
 
 **Full Name:** Thordak Lavaheart
 
@@ -44381,7 +44394,13 @@ clothing and a legendary red dragon hide apron.
 
 Thordak fell into a lava pool as a child and should have died. Instead,
 his latent fire genasi abilities awakened, and he emerged transformed.
-Since then, he's dedicated his life to the forge, becoming one of the
+Since then, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+he's dedicated his life to the forge, becoming one of the
 greatest smiths in Tirvandor.
 
 His forge complex in the Ashfall Barrens uses volcanic heat directly,
@@ -44429,6 +44448,8 @@ kings and heroes alike.
 -   His volcanic metal is valuable.
 
 #### Quarry-Master Borin Stonecutter
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-quarry-master-borin-stonecutter.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** Borin Stonecutter
@@ -44508,7 +44529,6 @@ His personal fortune rivals some noble houses, but he lives simply.
 
 #### Sister Marian (The Saint-in-Making)
 
-
 **Title:** Healer, Voice of Compassion
 
 **Race:** Human
@@ -44524,6 +44544,13 @@ His personal fortune rivals some noble houses, but he lives simply.
 Sister Marian runs a free clinic in Goldreach's poorest district. Known
 for healing anyone---criminals, monsters, enemies. Some call her a
 saint; others call her dangerously naive.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sister-marian-saint.jpg){width:200px,float:right,margin:5px}
+
 
 **Her Philosophy:**
 
@@ -44563,6 +44590,8 @@ A death priest of Mordain the Sentinel, recruited by the Unbound under false pre
 Former soldier turned priest who runs the temple of Mordain in Kaer Thandros. Counsels warriors about duty and sacrifice, and has received a prophetic vision of a coming battle. See Section 62.4 for the complete entry.
 
 #### Brother Marcus (The Faithless Chaplain)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-marcus.jpg){width:200px,float:right,margin:5px}
 
 
 **Title:** Military Chaplain, Ironhold Garrison
@@ -44620,6 +44649,8 @@ Mysterious information broker who runs the Silver Ear tavern, where secrets are 
 
 #### Silas the Fence (Syndicate Lieutenant)
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silas-the-fence.jpg){width:200px,float:right,margin:5px}
+
 
 **Title:** Regional Lieutenant of the Shadow Syndicate (Silverpine)
 
@@ -44636,6 +44667,10 @@ stolen goods and connecting thieves with buyers. His expertise in
 valuation and his network of contacts make him invaluable to the
 Syndicate.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **His Methods:**
 
 Silas is loyal to Master Crimson and efficient in his operations. He
@@ -44647,6 +44682,8 @@ He's the go-to fence for the party if they need to sell unusual items,
 and he can connect them to the broader underworld if necessary.
 
 #### Whisper (The Legendary Thief)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/master-thief-whisper.jpg){width:200px,float:right,margin:5px}
 
 
 **Title:** Legendary Thief, Independent Operator
@@ -44679,6 +44716,8 @@ They once stole from a dragon and lived.
 -   The dying sibling creates vulnerability and motivation.
 
 #### Thorne "The Butcher"
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/thorne-butcher-bandit.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** Thorne (surname unknown)
@@ -44748,7 +44787,13 @@ lose.
 
 -   His intelligence network might have useful information.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 #### Helena Duskmere
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/helena-duskmere-broker.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** Helena Duskmere
@@ -44817,6 +44862,8 @@ records. Everything is in her head.
 
 #### Miranda Ashwood
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/miranda-ashwood-rogue.jpg){width:200px,float:right,margin:5px}
+
 
 **Full Name:** Miranda Ashwood
 
@@ -44875,11 +44922,17 @@ matters.
 
 -   The mysterious stolen item creates plot hooks.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 -   Could fence items for the party.
 
 -   The farm redemption arc offers long-term story potential.
 
 #### Lydia Shadowstep
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/lydia-shadowstep-halfling-scout.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** Lydia Shadowstep
@@ -44944,6 +44997,8 @@ disappear into the forest like she never existed.
 
 #### Elena Ravencroft
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elena-ravencroft-fence.jpg){width:200px,float:right,margin:5px}
+
 
 **Full Name:** Elena Ravencroft
 
@@ -45005,7 +45060,13 @@ negotiable.
 
 -   Her noble past could become relevant.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 #### Alden Swiftfoot
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/alden-swiftfoot-courier.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** Alden Swiftfoot
@@ -45107,6 +45168,7 @@ Commands the largest private naval force in Tirvandor. A career sailor and brill
 
 #### Grizelda Mudfoot (The Swamp Guide)
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-swamp-guide-grizelda.jpg){width:200px,float:right,margin:5px}
 
 **Title:** Swamp Guide, Giant Crocodile Handler
 
@@ -45120,7 +45182,13 @@ Commands the largest private naval force in Tirvandor. A career sailor and brill
 
 The best guide in the Thornmire Swamps. Knows every hidden path, safe
 camp, and danger zone in the wetlands. She's also the only person who
-can reliably navigate the swamp's magical interference, which renders
+can reliably navigate 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+the swamp's magical interference, which renders
 compasses and divination unreliable.
 
 **Her Companion:**
@@ -45158,6 +45226,8 @@ Quiet and contemplative divination professor who has discovered that the stars a
 
 #### Merchant Princess Yasmin (The Secret Scholar)
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-princess-yasmin.jpg){width:200px,float:right,margin:5px}
+
 
 **Title:** Merchant Princess of Sundara, "Scholar Al-Rashidi"
 (pseudonym)
@@ -45174,7 +45244,7 @@ Born to the wealthiest merchant family in Sundara, trained from
 childhood to take over the family empire. But Yasmin always cared more
 about the desert's secrets than its profits. While learning trade, she
 secretly studied archaeology, history, and ancient languages.
-
+\column
 **Her Double Life:**
 
 Inherited the family business at twenty-five. Uses her merchant networks
@@ -45199,7 +45269,6 @@ actually a merchant princess.
     what it does, afraid to find out.
 
 #### Sage Veridian Runereader
-
 
 **Full Name:** Veridian Runereader
 
@@ -45254,6 +45323,10 @@ language used by the civilization that caused the Worldrend.
 
 -   Archaeological expeditions throughout Thaldros.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 -   Archmage Veridian Starweaver (namesake, has corresponded).
 
 -   Other scholars who consult him on difficult translations.
@@ -45277,6 +45350,8 @@ language used by the civilization that caused the Worldrend.
 -   The warning he found might be plot-relevant.
 
 #### Artificer Tobias Gearwise
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-artificer-tobias-gearwise.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** Tobias Gearwise
@@ -45369,8 +45444,7 @@ Incorruptible watch captain who rose through the ranks on competence and stubbor
 
 #### Viktor Coldstone (The Interrogator)
 
-
-**Title:** Royal Interrogator, Truth Seeker
+*Title:** Royal Interrogator, Truth Seeker
 
 **Race:** Human
 
@@ -45392,6 +45466,12 @@ state and likely motivations. His ability to break wills is supernatural
 in nature---targets find themselves compelled to answer questions
 truthfully.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/viktor-coldstone-interrogator.jpg){width:200px,float:right,margin:5px}
+
 **Secrets:**
 
 -   Has never tortured an innocent person\... that he knows of.
@@ -45404,6 +45484,7 @@ truthfully.
 
 #### Sir Garrett Ironhelm (The Idealist Knight)
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sir-garrett-iron-knight.jpg){width:200px,float:right,margin:5px}
 
 **Title:** Knight Errant, Paladin of Thandros
 
@@ -45444,6 +45525,8 @@ constantly collides with gray reality.
 -   Represents what paladins should be---and the cost of that ideal.
 
 #### Quartermaster Thorna Ironprice
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-quartermaster-thorna-ironprice.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** Thorna Ironprice
@@ -45503,6 +45586,10 @@ where every item she's ever handled ended up. They're not wrong.
 
 -   Every merchant who moves goods through Crossvale.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 -   Former customers who owe her favors.
 
 -   The Forgefire clan (distant relatives).
@@ -45527,6 +45614,8 @@ where every item she's ever handled ended up. They're not wrong.
 -   The blackmail creates potential drama.
 
 #### Korvan Steelhand
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/korvan-steelhand-quartermaster.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** Korvan Steelhand
@@ -45608,6 +45697,8 @@ soldiers under his watch have what they need, when they need it.
 
 #### Old Barrett (The Retired Adventurer)
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/old-barrett-mentor.jpg){width:200px,float:right,margin:5px}
+
 
 **Title:** Retired Adventurer, Village Elder
 
@@ -45629,6 +45720,10 @@ Was part of a legendary adventuring party. Still has contacts from the
 old days. Mentors promising young heroes who remind him of his younger
 self.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **Secrets:**
 
 -   His old party didn't all retire---some died, one turned evil, one
@@ -45649,6 +45744,8 @@ self.
 -   Source of old maps and forgotten knowledge.
 
 #### Elder Tremont (The Temple Elder)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elder-tremont-mentor.jpg){width:200px,float:right,margin:5px}
 
 
 **Title:** Temple Elder, Priest of Sera
@@ -45689,11 +45786,13 @@ comfort to anyone who needs it.
 -   The forbidden ritual could resurface.
 
 -   Source for healing or spiritual guidance.
-
+\column
 ### 66.8 Specialists and Researchers
 
 
 #### Aramil Starwarden (The Worldrend Scholar)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-aramil-starwarden.jpg){width:200px,float:right,margin:5px}
 
 
 **Title:** Wizard, Researcher, Worldrend Scholar
@@ -45736,7 +45835,6 @@ they're correct.
 
 #### Master Aldrick Woodwise (The Secret Keeper)
 
-
 **Title:** Master Carpenter, Structural Expert
 
 **Race:** Human
@@ -45756,6 +45854,13 @@ knows every secret passage and hidden room.
 Knows every builder in the city. Has worked for nobles and criminals
 alike. Can identify wood types and quality instantly. Can assess
 buildings for weaknesses or secret compartments.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-carpenter-aldrick-woodwise.jpg){width:200px,float:right,margin:5px}
+
 
 **Secrets:**
 
@@ -45779,6 +45884,8 @@ buildings for weaknesses or secret compartments.
 -   Source for understanding old buildings.
 
 #### The Guardian of Thresholds
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-guardian-of-thresholds.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** Unknown (no mortal name)
@@ -45874,12 +45981,21 @@ never find. Those who anger it tend to disappear entirely.
 
 #### Colony-Mind K'Thrax
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-colony-mind-kthrax.jpg){width:200px,float:right,margin:5px}
+
 
 **Full Name:** K'Thrax (collective designation)
 
 **Title:** The Hive Beneath, The Dreaming Hunger
 
 **Race/Ancestry:** Aberration (psionic horror collective)
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-colony-mind-kthrax.jpg){width:200px,float:right,margin:5px}
+
 
 **Age:** Over 2,000 years
 
@@ -45965,6 +46081,7 @@ with this arrangement---for now.
 
 #### Hermit Sage Morganna Whisperwind
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-morganna-whisperwind.jpg){width:200px,float:right,margin:5px}
 
 **Full Name:** Morganna Whisperwind
 
@@ -45996,8 +46113,13 @@ speaking in riddles when she does.
 
 Those who find her---and it's not easy---discover a woman of tremendous
 knowledge and power who has chosen to disconnect from the world. She
-offers wisdom to those who earn it, warnings to those who need them, and
-occasionally prophecies that prove disturbingly accurate.
+offers wisdom to those who earn it, warnings to those who need them, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+and occasionally prophecies that prove disturbingly accurate.
 
 **Capabilities:**
 
@@ -46050,6 +46172,8 @@ occasionally prophecies that prove disturbingly accurate.
 
 #### Magnus Ironroot (The People's Champion)
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/magnus-ironroot-rebel.jpg){width:200px,float:right,margin:5px}
+
 
 **Title:** Labor Organizer, Populist Leader
 
@@ -46097,6 +46221,8 @@ That anger fuels his work but also makes him vulnerable to manipulation.
 
 #### Katrina Ashfall
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/katrina-ashfall-guerrilla.jpg){width:200px,float:right,margin:5px}
+
 
 **Full Name:** Katrina Ashfall
 
@@ -46123,7 +46249,13 @@ Always armed, always watching.
 
 Katrina leads a small resistance cell in the border regions, fighting
 against what she sees as Thaldros's imperial ambitions. Her family was
-killed in a border raid---she blames the crown. What she doesn't know is
+killed in a border 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+raid---she blames the crown. What she doesn't know is
 that the raid wasn't random; it was connected to something larger.
 
 Her cell of 12 fighters has been a thorn in the side of border patrols
@@ -46182,6 +46314,8 @@ intelligence for Aethoria. The crown has placed a bounty on her head.
 Halfling Scout Captain obsessed with tracking an ancient dragon he discovered during a routine patrol. Commands a unit of thirty halfling and gnome scouts under Commander Kael Stormwatcher.
 
 #### Master Hunter Kael Dragonsbane
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-hunter-kael-dragonsbane.jpg){width:200px,float:right,margin:5px}
 
 
 **Title:** Master Hunter, Dragon Specialist
@@ -46243,7 +46377,6 @@ he was out hunting. Came home to ash and bones.
 
 #### Forester Galen Sustainharvest
 
-
 **Full Name:** Galen Sustainharvest
 
 **Title:** Senior Forester of the Silverwood
@@ -46262,9 +46395,18 @@ he was out hunting. Came home to ash and bones.
 
 Tall and lean with the patient stillness of someone who's spent a
 century among trees. Has weathered skin, green-brown eyes, and moves
-through the forest like he belongs there. His clothing is practical
+through the forest like he 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+belongs there. His clothing is practical
 forest colors, and he's always accompanied by an old brown bear named
 Moss.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forester-galen-sustainharvest.jpg){width:200px,float:right,margin:5px}
+
 
 **Background:**
 
@@ -46319,8 +46461,10 @@ consider him an honorary member, though he's never taken their oaths.
 -   His visions of corruption could be plot-relevant.
 
 -   Access to forest secrets and hidden places.
-
+\column
 #### Bard Finnegan Storyteller
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-bard-finnegan-storyteller.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** Finnegan (surname varies with the story)
@@ -46383,6 +46527,10 @@ position because stories need to travel to be alive.
 -   People who've become legends---he knew them when they were just
     people.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **Secrets:**
 
 1.  Knows which histories are lies---was there for the truth
@@ -46402,6 +46550,8 @@ position because stories need to travel to be alive.
 -   Might commission the party for a task related to a new story.
 
 #### Captain Marcus Frontiersman (Werewolf)
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-marcus-frontiersman.jpg){width:200px,float:right,margin:5px}
 
 
 **Full Name:** Marcus Frontiersman
@@ -46483,6 +46633,8 @@ nights, or why he insists on "private patrols" monthly.
 
 #### Lady Shadowleaf (True Name: Niriel)
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-shadowleaf-niriel.jpg){width:200px,float:right,margin:5px}
+
 
 **Title:** Spymaster of the Aethorian Harmony (unofficial)
 
@@ -46505,7 +46657,13 @@ She chose the shadows.
 
 Taking the name "Shadowleaf" as bitter reminder of what she'd lost,
 she spent centuries honing her craft. Now leads a network of forty-seven
-shadow agents across both continents, doing necessary evils so the
+shadow agents 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+across both continents, doing necessary evils so the
 Harmony can maintain its principles.
 
 **Her Secret:**
@@ -46539,6 +46697,7 @@ knows there are two. This is how she's "everywhere."
 
 #### Spy-Master Kaelen Shadowleaf
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-kaelen-shadowleaf.jpg){width:200px,float:right,margin:5px}
 
 **Full Name:** Kaelen Shadowleaf
 
@@ -46620,2389 +46779,13 @@ raised him.
 
 -   Could recruit the party against the cult.
 
-### 66.12 Blood & Coin Campaign NPCs
 
-
-The following NPCs appear primarily in the Blood & Coin campaign, which
-explores the political tensions between Thaldros and Aethoria through
-the lens of mercenary work, factional conflict, and eventual continental
-crisis.
-
-#### Sara Whitehaven
-
-
-**Full Name:** Sara Whitehaven
-
-**Title:** Sister Sara, The Shepherd
-
-**Race/Ancestry:** Human
-
-**Age:** 34 years
-
-**Location:** Mobile (travels with refugee convoys)
-
-**Role:** Priestess of Sera, convoy healer, refugee advocate
-
-**Alignment:** Lawful Good
-
-**Appearance:**
-
-A gentle-faced woman with kind eyes and the worn appearance of someone
-who gives more than she takes. Wears simple robes of a Sera
-priestess---practical rather than ceremonial. Her hands are always busy:
-healing, comforting, organizing. Despite exhaustion, her presence calms
-those around her.
-
-**Background:**
-
-Sara joined the priesthood of Sera after her village was destroyed in a
-border skirmish. She dedicated herself to healing those caught between
-the warring powers---refugees, displaced families, the forgotten victims
-of political conflict.
-
-She leads refugee convoys through dangerous territory, providing
-healing, protection, and hope. Her courage is quiet but absolute: she
-has faced down soldiers, bandits, and mercenaries to protect her people.
-She won't fight, but she won't abandon them either.
-
-**Capabilities:**
-
--   Healing magic (4th-level cleric of Sera).
-
--   Protective aura that calms the frightened.
-
--   Organizational skills for managing convoys.
-
--   Moral authority that makes others hesitate.
-
--   Unwavering courage in defense of innocents.
-
-**Connections:**
-
--   The Church of Sera (field priestess).
-
--   Refugee communities throughout the border regions.
-
--   Other priests and healers who share her mission.
-
--   Soldiers on both sides who've let her pass.
-
-**Secrets:**
-
-1.  Has seen atrocities committed by both sides---maintains neutrality
-    publicly but privately despairs
-2.  Smuggles orphaned children to safety when she can
-3.  One of the refugees she protects is someone important in hiding
-
-**Plot Hooks:**
-
--   Presents a moral challenge: will the party help or hinder her?
-
--   Her convoy might have someone the party is looking for.
-
--   Could need protection from a specific threat.
-
--   Offers healing and sanctuary to those who help her.
-
-**Campaign Note:** Sara appears in the Blood & Coin campaign during the
-convoy mission, presenting players with a moral choice about following
-orders versus protecting innocents.
-
-#### Varak Ironfist (Iron Guild Hall Master)
-
-
-**Full Name:** Varak Ironfist
-
-**Title:** Hall Master of the Crossroads Iron Guild
-
-**Race/Ancestry:** Dwarf
-
-**Age:** 180 years (middle-aged for a dwarf)
-
-**Location:** Iron Guild Hall, Crossroads
-
-**Role:** Local guild leader, contract broker, quest giver
-
-**Appearance:**
-
-Gray-streaked brown beard in tight braids, iron rings woven throughout
-each braid representing years of service. Always wears well-maintained
-chainmail, even indoors. Massive warhammer propped against his desk at
-all times. Hands scarred from decades of weapon work and combat. Hard,
-calculating eyes that measure everyone who enters his hall.
-
-**Personality:**
-
-Gruff and no-nonsense, Varak values competence above all else. He
-respects those who complete contracts cleanly and despises incompetence.
-Protective of guild members, not from sentiment, but because they're
-assets. Zero tolerance for contract-breakers.
-
-He speaks bluntly, wasting no words. When thinking, he taps his desk
-with an iron ring. Makes eye contact and holds it uncomfortably long.
-Quotes prices and terms immediately without preamble.
-
-**Philosophy:**
-
-"Honor in contracts, not morality." Varak doesn't care what a
-contract asks, he cares that it's completed. The Iron Guild's
-reputation depends on absolute reliability. Break a contract, break
-trust. Break trust, die.
-
-**Background:**
-
-Varak runs the Crossroads chapter of the Iron Guild, the largest
-mercenary organization in the Contested Lands. His hall handles
-entry-level contracts and recruitment, feeding promising mercenaries
-into the broader guild network overseen by Guildmaster Roderic Ironfist
-in Goldreach.
-
-Under Varak's leadership, Crossroads has become the premier hiring
-ground for new mercenaries. He's watched thousands come through his
-doors, most die within their first month. Those who survive earn his
-grudging respect.
-
-**Connections:**
-
--   **Guildmaster Roderic Ironfist:** His superior in the guild
-    hierarchy; respects the Guildmaster but runs Crossroads his own way.
-
--   **"Lucky" Finn:** Former mercenary who helps him identify
-    promising recruits.
-
--   **Mira Copperstone:** Local innkeeper who provides information about
-    incoming prospects.
-
--   **The Merchant Consortium:** Provides most of his contracts;
-    mutually profitable relationship.
-
-**Secrets:**
-
-1\. **The Blacklist:** Varak keeps a private record of every mercenary
-who's broken a contract and survived. He shares this list with other
-guild halls. Those on it find work increasingly scarce, and increasingly
-dangerous.
-
-2\. **The Retirement Fund:** He's been skimming 1% from every contract
-for thirty years, not for personal gain, but to provide death benefits
-for families of guild members killed in service. The guild officially
-offers no such benefit.
-
-3\. **The Favor Owed:** A nobleman's son joined the guild against his
-father's wishes and died on his first contract. Varak covered it up,
-claimed the boy left for Aethoria. The nobleman owes him, and Varak is
-saving that favor for something important.
-
-**Typical Quotes:**
-
--   "New blood. I can smell the desperation from here.".
-
--   "Complete one contract. Any contract. Don't die. Then we'll talk
-    about membership.".
-
--   "Break your word, the guild hunts you. We have a reputation to
-    maintain.".
-
-#### Elara "Red Wolf" Thornwood
-
-
-**Full Name:** Lady Elara Thornwood
-
-**Alias:** The Red Wolf
-
-**Title:** Leader of the Thornwood Syndicate
-
-**Race/Ancestry:** Human
-
-**Age:** Late 20s (born approximately 1218 CR)
-
-**Location:** Thornwood Forest (mobile camp) / Various Syndicate safe
-houses
-
-**Role:** Revolutionary leader, crime lord, dispossessed noble
-
-**Appearance:**
-
-Striking red hair that earned her the "Red Wolf" name. Wears a
-wolf-pelt cloak over practical leather armor. Despite years of rough
-living, she maintains the bearing of her noble upbringing, straight
-posture, clear voice, commanding presence. Determined eyes that have
-seen both ballrooms and battlefields.
-
-**Personality:**
-
-Noble training hardened by loss. Elara is tactical and intelligent,
-having served as a cavalry officer before her family's fall. She cares
-deeply for her followers, former peasants from Thornwood lands who lost
-everything when her family was destroyed. She wants justice rather than
-revenge, though the line between them blurs more each year.
-
-She would prefer peaceful solutions but expects violence. Will fight to
-the death to protect her people. Never attacks first if negotiation
-seems possible.
-
-**The Thornwood Syndicate:**
-
-What appears to be a bandit operation is actually the visible tip of
-Tirvandor's largest criminal network. After the Thornwood family's
-fall, loyalists built an underground organization that now spans both
-continents. Elara commands:
-
--   Eyes and ears in every major city.
-
--   Networks of smugglers, forgers, and information brokers.
-
--   Criminal contacts across Thaldros and Aethoria.
-
--   Thousands of operatives who don't know they serve a "bandit
-    queen".
-
-The forest camp is merely a base of operations. The Syndicate's true
-power lies in its invisible reach.
-
-**Background:**
-
-The Thornwood family held their lands for six generations before the
-Merchant Consortium engineered their destruction. Elara's father was
-murdered, debts were forged, judges were bribed, and everything was
-stolen through legal manipulation. She escaped the purge that killed
-most of her family and returned to reclaim what's hers, not through
-courts that can be bought, but through direct action.
-
-**The Cause:**
-
-Elara fights for the dispossessed. Her "bandits" are families,
-farmers, craftsmen, children, who lost their homes to the same corrupt
-system that destroyed the Thornwoods. She takes from the Consortium
-because they stole first.
-
-**Connections:**
-
--   **Elise "The Reaper" Thornwood:** Younger sister; leads Cell Beta;
-    consumed by vengeance.
-
--   **The Merchant Consortium:** Primary enemies who destroyed her
-    family.
-
--   **Master Crimson (Elena Thornwood):** Cousin who leads the Shadow
-    Syndicate; complicated alliance.
-
--   **The Iron Guild:** Sometimes works with, sometimes against;
-    mercenaries are tools.
-
-**Secrets:**
-
-1\. **The Syndicate's True Reach:** Most people think she commands a
-hundred forest bandits. She actually controls thousands of operatives
-across two continents through the Thornwood Syndicate's hidden network.
-
-2\. **The Evidence Cache:** She possesses proof of the Consortium's
-fraud, forgery analysis, witness statements, a magistrate's confession.
-Enough to reclaim her lands legally\... if she could get it before an
-honest court.
-
-3\. **The Sister's Madness:** Elise has become increasingly unstable,
-advocating for mass violence. Elara fears her sister will do something
-that turns public sympathy against their cause.
-
-4\. **The Noble Suitor:** A minor nobleman has been secretly courting
-her, promising to marry her and legitimize her claim. She suspects it's
-a trap but can't quite dismiss the possibility he's sincere.
-
-**Potential Uses:**
-
--   Offers an alternative to completing mercenary contracts against her.
-
--   Her evidence could expose Consortium corruption.
-
--   The Syndicate provides underground resources.
-
--   Mediating between her and authorities could prevent wider conflict.
-
-**Typical Quotes:**
-
--   "These are my people. Farmers. Craftsmen. Children. Do they look
-    like dangerous bandits to you?".
-
--   "I am Lady Elara Thornwood. My family owned these lands for six
-    generations. The consortium murdered my father, forged debts, bribed
-    judges, and stole everything.".
-
--   "I'll defend my people. And some of you will die for the
-    consortium's gold. Is that really worth it?".
-
-#### Commander Helena Dawnblade
-
-
-**Full Name:** Helena Dawnblade
-
-**Title:** Commander of the Royal Thaldros Military
-
-**Race/Ancestry:** Human
-
-**Age:** 45 years (born 1202 CR)
-
-**Location:** Royal Military Headquarters, Kaer Thandros
-
-**Role:** Thaldros faction leader, military commander, paladin
-
-**Appearance:**
-
-Tall and imposing in her signature enchanted plate armor (+2).
-Short-cropped iron-gray hair, military bearing, and piercing blue eyes
-that seem to evaluate everyone for combat potential. Carries a holy
-sword blessed by the Church of Thandros. A thin scar runs from her left
-temple to jaw, a wound she refused to have magically healed as a
-reminder of the cost of overconfidence.
-
-**Personality:**
-
-Duty-bound and honor-driven, Helena exemplifies the paladin's code
-applied to military service. She believes in order, discipline, and
-protecting the realm, but not blind obedience. She'll question orders
-she believes are unjust, even from the Crown. Values competence and
-courage above birth or station.
-
-Despite her stern demeanor, she genuinely cares for the soldiers under
-her command. Remembers names. Visits wounded. Writes personal letters to
-families of the fallen.
-
-**Background:**
-
-Born to a minor noble family with strong military traditions. Joined the
-army at sixteen, demonstrated tactical brilliance during border
-skirmishes, and rose through ranks on pure merit. Received paladin
-training at the Church of Thandros' military order.
-
-Her defining moment came during the Shadowmere Incursion of 1232 CR,
-when undead forces threatened the eastern frontier. Helena's defense of
-Thornhollow against overwhelming odds, holding the town for three days
-until reinforcements arrived, earned her the "Dawnblade" honorific and
-rapid promotion.
-
-Now she commands all Thaldros military forces, answering only to the
-Crown. In the growing tensions with Aethoria, she represents the faction
-that believes in negotiation from strength, maintaining military
-readiness while pursuing diplomatic solutions.
-
-**Military Philosophy:**
-
-"A soldier's first duty is to the realm, not the crown. We serve the
-people of Thaldros, and any order that betrays them betrays us." This
-philosophy has made her respected by troops and somewhat concerning to
-courtiers.
-
-**Connections:**
-
--   **King Aldric IV:** Serves the Crown loyally but isn't blind to the
-    king's flaws.
-
--   **Envoy Marcus Valen:** Her Aethorian counterpart; mutual respect
-    despite opposing positions.
-
--   **General Marthos Thandris:** Professional rivalry; she suspects his
-    contingency plans.
-
--   **Crown Prince Thorin:** Believes in the prince's potential;
-    quietly mentors him.
-
-**Secrets:**
-
-1\. **The Peace Preference:** Despite commanding the military, Helena
-believes war with Aethoria would be catastrophic for both nations.
-She's quietly working to ensure diplomatic channels remain open, even
-as she prepares for potential conflict.
-
-2\. **The Informant:** She has a source within the Unbound who provides
-intelligence about their movements. She's kept this from the Crown,
-uncertain whether the information is genuine or whether she's being
-manipulated.
-
-3\. **The Old Wound:** Her famous scar came not from battle but from an
-assassination attempt by someone within the palace. She never identified
-who ordered it. The investigation was\... discouraged.
-
-4\. **The Family Secret:** Her younger brother joined the Unbound years
-ago. She's not sure if he's alive or dead. If he is alive and their
-connection is revealed, it could destroy her career.
-
-**Potential Uses:**
-
--   Primary contact for characters who side with Thaldros.
-
--   Can provide military resources and legitimacy.
-
--   Her search for her brother creates personal hooks.
-
--   Represents the "honorable soldier" perspective on the conflict.
-
-**Typical Quotes:**
-
--   "Order and tradition aren't chains, they're the foundations that
-    let us build something lasting.".
-
--   "I've seen what chaos looks like. I've buried its victims. So
-    yes, I believe in the Crown, not because kings are perfect, but
-    because the alternative is worse.".
-
--   "You want to serve Thaldros? Then serve its people. Everything else
-    follows from that.".
-
-#### Envoy Marcus Valen
-
-
-**Full Name:** Marcus Valen
-
-**Title:** Chief Envoy of the Aethorian Republic
-
-**Race/Ancestry:** Human
-
-**Age:** 38 years (born 1209 CR)
-
-**Location:** Senate Building, Aethor's Reach (primary) / Various
-diplomatic postings
-
-**Role:** Aethoria faction leader, diplomat, bard
-
-**Appearance:**
-
-Handsome in a scholarly way, with warm brown eyes and an easy smile that
-puts people at ease. Dresses in the formal robes of Aethorian office but
-wears them casually, sleeves often rolled up. Carries no visible
-weapons, his words are his arsenal. Moves with the practiced grace of
-someone trained in performance.
-
-**Personality:**
-
-Idealistic but pragmatic. Marcus genuinely believes in Republican
-values, democracy, freedom, individual rights, but understands that
-ideals must be implemented through practical politics. He's an
-inspiring speaker who can move crowds to tears or action, yet prefers
-private negotiation to public confrontation.
-
-Deeply empathetic, he tries to understand opponents' perspectives
-before countering them. This makes him effective but sometimes
-frustrates more aggressive colleagues who want him to attack rather than
-persuade.
-
-**Background:**
-
-Born to a merchant family in Aethor's Reach. Showed early talent for
-music and rhetoric, studied at the Bardic College before entering
-politics. His gift for language made him invaluable as a translator and
-negotiator, and he rose through diplomatic ranks rapidly.
-
-Marcus was instrumental in negotiating the Sundering Sea Trade Accords
-that increased commerce between continents. This success made him the
-obvious choice to handle the increasingly tense relationship with
-Thaldros.
-
-He leads the faction that believes peaceful coexistence, even eventual
-reunification, is possible if both sides approach negotiations in good
-faith.
-
-**Political Philosophy:**
-
-"People aren't born wanting to be ruled by kings. They accept it
-because they've never been shown another way. Our job isn't to conquer
-Thaldros, it's to inspire them to choose freedom for themselves."
-
-**Connections:**
-
--   **Commander Helena Dawnblade:** His Thaldros counterpart; genuine
-    mutual respect.
-
--   **The Aethorian Senate:** His patrons and sometimes his obstacles.
-
--   **Corvus Blackwood:** Deeply concerned about the Unbound's
-    activities.
-
--   **Julia Redwind:** His top intelligence operative; complicated
-    relationship.
-
-**Secrets:**
-
-1\. **The Proposal:** Marcus has drafted a detailed plan for peaceful
-continental reunification, a federation that preserves both Thaldros
-tradition and Aethorian democracy. He's shared it with no one, waiting
-for the right moment.
-
-2\. **The Thaldros Sympathizer:** He was briefly married to a Thaldros
-noblewoman who died in childbirth along with their child. This loss left
-him with complicated feelings about the kingdom, anger at its rigid
-traditions but also lingering love.
-
-3\. **The Compromised Agent:** Julia Redwind, his best spy, has been
-feeding selected information to someone else. He knows but hasn't
-confronted her, trying to determine who's pulling her strings.
-
-4\. **The Doubt:** Recently, Marcus has begun questioning whether
-Aethoria's democracy is as pure as he once believed. Corruption,
-vote-buying, manipulation\... are they really so different from
-Thaldros?
-
-**Potential Uses:**
-
--   Primary contact for characters who side with Aethoria.
-
--   Can provide political resources and Republican backing.
-
--   His reunification proposal could be a campaign goal.
-
--   Represents the "reasonable idealist" perspective.
-
-**Typical Quotes:**
-
--   "Freedom isn't something you give people, it's something they
-    claim for themselves. We can only show them it's possible.".
-
--   "I've negotiated with warlords, criminals, and kings. Everyone
-    wants something. Find that something, and you find the path to
-    agreement.".
-
--   "Violence is the tool you use when words have failed. I prefer not
-    to fail.".
-
-#### Elara Corvus
-
-
-**Full Name:** Elara Corvus Blackwood
-
-**Aliases:** The Prophet (when empowered)
-
-**Title:** None officially; sometimes called "Corvus' Daughter"
-
-**Race/Ancestry:** Human
-
-**Age:** 24 years (born 1223 CR)
-
-**Location:** Various; often with Unbound cells
-
-**Role:** Corvus' daughter, reluctant revolutionary, potential ally or
-enemy
-
-**Appearance:**
-
-Dark hair inherited from her father, worn long and often unkempt from
-living on the run. Intelligent green eyes that hold both curiosity and
-sadness. Dresses practically, traveling clothes, sturdy boots, but
-occasionally reveals hints of magical training in her gestures. A silver
-locket around her neck contains her mother's portrait.
-
-As "The Prophet" (when empowered by a Component fragment): Her eyes
-glow with inner light, she hovers slightly above the ground, and her
-voice carries unnatural resonance. The transformation is as unsettling
-as it is impressive.
-
-**Personality:**
-
-Brilliant but conflicted. Elara inherited her father's magical talent
-and intellectual curiosity, but not his certainty. She believes the
-Blackwood family was wronged. She's not sure her father's methods are
-justified.
-
-She's drawn to knowledge and understanding, preferring research to
-violence. But circumstances keep forcing her into conflict. Each time
-she uses the Component's power, she feels herself changing, and she's
-not sure she likes who she's becoming.
-
-**Background:**
-
-Elara was young when the Blackwood Purge occurred. Corvus spirited her
-away before the worst of it, and she grew up in hiding, moving
-constantly, learning magic from her father, hearing stories of the
-family's greatness and their betrayal.
-
-As she matured, she began questioning the narrative. Were things really
-so simple? Was revenge truly justice? These doubts created tension with
-her father, who sees her questioning as weakness.
-
-Now she serves as a leader within the Unbound, not from conviction, but
-from family loyalty and a lack of alternatives. Part of her hopes the
-whole endeavor fails. Part of her wants to see the kingdom burn.
-
-**The Component Fragment:**
-
-Elara possesses a piece of one of the World-Splitter Components. When
-she channels its power, she becomes "The Prophet," vastly more powerful
-but increasingly detached from her humanity. Each use changes her.
-She's not sure how many transformations she can survive with her sense
-of self intact.
-
-**Connections:**
-
--   **Corvus Blackwood:** Her father; loves him but fears what he's
-    becoming.
-
--   **Marcus Blackwood:** Uncle she barely remembers; her father refuses
-    to discuss him.
-
--   **Brother Ash:** Unbound priest who creeps her out but follows her
-    father's orders.
-
--   **Commander Dawnblade:** Could have been a mentor in another life.
-
-**Secrets:**
-
-1\. **The Doubt:** She's increasingly convinced her father has lost
-sight of justice and is pursuing vengeance for its own sake. She hasn't
-acted on this doubt yet.
-
-2\. **The Contact:** She's been secretly communicating with someone in
-Aethoria, possibly a potential ally, possibly someone manipulating her.
-She's not sure which.
-
-3\. **The Vision:** When she uses the Component, she sometimes sees
-things, glimpses of what might be the future, the past, or something
-else entirely. One vision showed Tirvandor burning. She doesn't know if
-she was seeing destiny or causing it.
-
-4\. **The Escape Plan:** She has resources hidden away, gold, false
-identities, escape routes. If things go too far, she's prepared to
-disappear and let her father's crusade succeed or fail without her.
-
-**Potential Uses:**
-
--   Could be redeemed and turned against the Unbound.
-
--   Her Component fragment is both weapon and liability.
-
--   Represents the human cost of revenge.
-
--   Might become an ally, enemy, or tragic casualty depending on player
-    choices.
-
-**Typical Quotes:**
-
--   "My father isn't wrong about what happened to our family. I'm
-    just not sure he's right about what to do about it.".
-
--   "Power isn't the problem. The problem is what power makes you
-    willing to do.".
-
--   "Sometimes I don't know if I'm his daughter or just another
-    weapon in his arsenal.".
-
-#### Elise "The Reaper" Thornwood
-
-
-**Full Name:** Elise Thornwood
-
-**Alias:** The Reaper
-
-**Title:** Leader of Unbound Cell Beta
-
-**Race/Ancestry:** Human
-
-**Age:** 25 years (born 1222 CR)
-
-**Location:** Thornwood Ruins / Mobile operations
-
-**Role:** Revolutionary extremist, Red Wolf's sister, antagonist
-
-**Appearance:**
-
-Lithe and deadly, built for speed rather than strength. Dark hair
-cropped short for practicality. Her eyes hold a cold emptiness that
-unnerves even allies. Dresses in dark leather that blends with shadows.
-Twin scimitar handles visible over her shoulders. Moves with
-preternatural silence.
-
-Unlike her sister Elara, who maintains noble bearing, Elise has stripped
-away everything that doesn't serve the kill.
-
-**Personality:**
-
-Where Elara wants justice, Elise wants blood. The sisters' paths
-diverged after witnessing their family's destruction, Elara channeled
-her grief into building something new, while Elise let hatred consume
-her.
-
-She's nihilistic, functioning on pure vengeance. She fights to the
-death without hesitation, not because she's brave but because she
-genuinely doesn't care if she lives or dies. Every target killed is a
-small comfort; nothing will ever truly satisfy her.
-
-Mentioning Red Wolf triggers emotional instability, if Elara is dead,
-grief; if alive but separated, abandonment rage. Either way,
-disadvantage on Wisdom saves for one round.
-
-**Background:**
-
-The younger Thornwood sister watched her father die. Watched servants
-executed. Watched her world burn. She was fourteen.
-
-While Elara rebuilt through the Syndicate's patient expansion, Elise
-joined more direct operations, first as a fighter, then as an assassin,
-finally as a cell leader within the Unbound. Her alliance with Corvus
-Blackwood is one of convenience: they share enemies.
-
-She leads Cell Beta, a strike force specializing in high-profile
-eliminations and terror operations. Her methods have grown increasingly
-extreme, targeting not just the corrupt but their families, their
-servants, anyone connected to her enemies.
-
-**Combat Style:**
-
-The Reaper earned her name. Fast, brutal, efficient. She prefers ambush
-and shadow-step tactics, appearing from nowhere, killing, vanishing. Her
-twin scimitar technique is legendary among those who've witnessed it
-and survived (few have).
-
-**Connections:**
-
--   **Elara "Red Wolf" Thornwood:** Sister; complicated relationship
-    ranging from deep love to bitter resentment.
-
--   **Corvus Blackwood:** Ally of convenience; shares enemies, not
-    goals.
-
--   **The Unbound:** Uses them as a platform for her personal war.
-
--   **The Merchant Consortium:** Primary targets of her wrath.
-
-**Secrets:**
-
-1\. **The Death Wish:** Elise doesn't expect to survive her crusade.
-Doesn't want to. Every mission is undertaken with the understanding
-that it might be her last, and she's fine with that.
-
-2\. **The Line:** For all her extremism, Elise won't harm children.
-It's her only remaining moral limit. She's killed adults in front of
-their children but never touched the children themselves. This
-inconsistency troubles her.
-
-3\. **The Letter:** She carries a letter to Elara, to be delivered upon
-her death. Its contents are unknown, possibly an apology, possibly an
-accusation, possibly both.
-
-4\. **The Target List:** Elise has memorized every name connected to her
-family's destruction. Thirty-seven people. Twenty-two are already dead
-by her hand. Fifteen remain.
-
-**Potential Uses:**
-
--   Boss fight for characters who sided with Thaldros or Consortium.
-
--   Tragic figure who might be redeemed, or who might drag Elara down
-    with her.
-
--   Represents what happens when grief becomes identity.
-
--   Could be ally or enemy to Red Wolf depending on circumstances.
-
-**Typical Quotes:**
-
--   "Justice? I stopped believing in justice when they made my father
-    watch his children scream before they killed him.".
-
--   "Everyone dies. I'm just\... expediting the process for those who
-    deserve it.".
-
--   "My sister builds. I break. We're both doing necessary work.".
-
-#### Kael Shadowbane
-
-
-**Full Name:** Kael Shadowbane
-
-**Title:** Master of the Black Chains
-
-**Race/Ancestry:** Human
-
-**Age:** 58 years (born 1189 CR)
-
-**Location:** Black Chains Compound, Crossroads
-
-**Role:** Crime lord, assassin guild leader, antagonist
-
-**Appearance:**
-
-Lean and dangerous, with the coiled stillness of a predator at rest.
-Dark hair worn long, often obscuring one eye. Pale skin suggests he
-spends most of his time indoors or in shadows. Dresses in expensive but
-practical dark clothing. His hands never stop moving, flipping a coin,
-adjusting a ring, gesturing as he speaks.
-
-**Personality:**
-
-Charming on the surface, utterly ruthless beneath. Kael enjoys the game
-of crime as much as the profits, the manipulation, the betrayal, the
-satisfying moment when a rival realizes they've been outplayed. He's
-intelligent, patient, and completely amoral.
-
-He treats everyone as either an asset to be used or an obstacle to be
-removed. Loyalty is a commodity he purchases, not a virtue he values.
-His only consistent principle is self-interest.
-
-**The Black Chains:**
-
-An assassin's guild and criminal syndicate operating throughout the
-Contested Lands. The Chains offer discrete elimination services,
-smuggling, and "problem-solving" for those who can afford their rates.
-Unlike the Iron Guild, they have no code of honor, only the transaction
-matters.
-
-Kael built the organization from a small gang of thugs into a
-professional operation that rivals the Shadow Syndicate in some
-territories. The two organizations maintain an uneasy non-aggression
-pact, for now.
-
-**Background:**
-
-Born to a dock-worker father and a prostitute mother in a port slum.
-Learned early that strength meant nothing without cunning. Killed his
-first man at twelve, a pimp who beat his mother. Discovered he had a
-talent for it.
-
-He joined a small criminal gang, worked his way up by eliminating those
-above him, and eventually took control. Rebranded the operation as the
-Black Chains, imposed professional standards, and expanded aggressively.
-
-Now he controls a significant portion of the Contested Lands' criminal
-economy. The Iron Guild tolerates him because he pays his mercenary
-contracts. The authorities tolerate him because the alternatives might
-be worse.
-
-**Connections:**
-
--   **The Iron Guild:** Business relationship; Chains hire Guild
-    mercenaries for muscle.
-
--   **The Shadow Syndicate:** Rival organization; cold war status.
-
--   **Master Crimson:** Has never met but respects (and fears) her
-    reputation.
-
--   **Various Noble Houses:** Discreet clients who need problems to
-    disappear.
-
-**Secrets:**
-
-1\. **The Patron:** Someone powerful is funding Kael's expansion,
-providing gold and intelligence that's let him grow faster than
-natural. He doesn't know who. The payments arrive anonymously. He's
-not sure if he's a tool or a partner.
-
-2\. **The Brother:** His younger brother escaped the slums legitimately,
-became a priest of Moira. Kael secretly funds his brother's temple.
-It's the only selfless thing he does. No one knows about this
-connection.
-
-3\. **The Addiction:** Kael is addicted to a rare magical substance that
-enhances his reflexes and perception. Without it, he's ordinary. With
-it, he's deadly. His supplier holds significant leverage.
-
-4\. **The Exit:** He's building a legitimate identity in Aethoria,
-property, investments, contacts. When the criminal empire inevitably
-collapses, he'll vanish into respectability.
-
-**Potential Uses:**
-
--   Employer for morally flexible characters.
-
--   Antagonist for those who cross him.
-
--   Information source about the criminal underworld.
-
--   Could be rival, ally, or target depending on character choices.
-
-**Typical Quotes:**
-
--   "Everyone has a price. Most people just don't know what it is
-    yet.".
-
--   "Honor is a luxury for people who can afford it. I deal in
-    necessities.".
-
--   "I don't kill for pleasure. I kill for profit. The pleasure is
-    just a bonus.".
-
-#### Lady Seraphine Vale
-
-
-**Full Name:** Lady Seraphine Vale
-
-**Title:** Lady of House Vale
-
-**Race/Ancestry:** Human
-
-**Age:** 42 years (born 1205 CR)
-
-**Location:** Vale Manor, Kaer Thandros (noble quarter)
-
-**Role:** Noble patron, quest giver, political player
-
-**Appearance:**
-
-Elegant and refined, with silver-streaked dark hair worn in elaborate
-noble styles. Carries herself with practiced grace that speaks of
-lifetime training. Dresses expensively but tastefully, quality without
-ostentation. Her most striking feature is her eyes: sharp, intelligent,
-constantly assessing.
-
-Wears a ring of protection that she never removes, gift from her late
-husband.
-
-**Personality:**
-
-Sophisticated and politically astute. Lady Vale navigates court intrigue
-with practiced ease, maintaining connections across factional lines.
-She's genuinely kind to those she favors but can be ruthless when her
-interests are threatened.
-
-Values intelligence and competence over birth and breeding. Will sponsor
-talented commoners if they show promise, a habit that scandalized
-traditional nobles until her proteges started succeeding.
-
-**Background:**
-
-Born to a minor noble house, married into House Vale for love rather
-than political advantage, scandalous at the time. Her husband died eight
-years ago, leaving her with wealth, position, and enemies who expected a
-widow to retreat from public life.
-
-Instead, she expanded her influence. House Vale under her leadership has
-become a quiet power broker, hosting salons where deals are made,
-sponsoring artists and scholars, and cultivating a network of grateful
-proteges in positions throughout the government.
-
-She's particularly interested in the growing tensions with Aethoria.
-While publicly loyal to the Crown, she privately believes rigid
-opposition to Republican ideas will doom the kingdom.
-
-**Political Position:**
-
-Moderate reformist. Lady Vale thinks Thaldros must change or die, not
-adopt Aethorian democracy wholesale, but incorporate some flexibility
-into its rigid structures. She funds thinkers who explore middle paths
-and quietly supports officials who show progressive tendencies.
-
-**Connections:**
-
--   **King Aldric IV:** Cordial relations; he finds her useful but
-    doesn't fully trust her.
-
--   **Commander Dawnblade:** Mutual respect; sometimes collaborates on
-    matters of realm security.
-
--   **Envoy Valen:** Has met through diplomatic functions; intrigued by
-    his ideas.
-
--   **Various noble houses:** Complex web of alliances, rivalries, and
-    obligations.
-
-**Secrets:**
-
-1\. **The Correspondence:** She maintains secret correspondence with
-Aethorian republicans, exploring possibilities for peaceful
-reconciliation. If discovered, this could be construed as treason.
-
-2\. **The Husband's Death:** Lord Vale didn't die of illness as
-publicly claimed. He was poisoned, by someone she hired. He had become
-violent and dangerous. She doesn't regret it, but the truth would
-destroy her.
-
-3\. **The Heir:** She has a grown son she's never publicly
-acknowledged, born before her marriage, fostered with a farming family.
-He doesn't know his heritage. She's not sure whether to tell him.
-
-4\. **The Prophecy:** A seer once told her that her choices would
-determine whether Tirvandor reunified or burned. She doesn't believe in
-prophecy but can't quite dismiss it either.
-
-**Potential Uses:**
-
--   Patron for early quests.
-
--   Source of political intelligence.
-
--   Connection to noble society.
-
--   Her secrets provide plot hooks for longer campaigns.
-
-**Typical Quotes:**
-
--   "Power isn't about what you can do, it's about what others think
-    you can do.".
-
--   "The kingdom needs new blood, new ideas. The old ways are dying
-    whether we admit it or not.".
-
--   "I invest in people, not causes. People can adapt. Causes just drag
-    you down with them.".
-
-#### Captain Aldric Thorne
-
-
-**Full Name:** Aldric Thorne
-
-**Title:** Captain of the Royal Guard (Forest Division)
-
-**Race/Ancestry:** Human
-
-**Age:** 38 years (born 1209 CR)
-
-**Location:** Thornwood Forest region / Kaer Thandros
-
-**Role:** Royal guard captain, Red Wolf hunter, soldier
-
-**Appearance:**
-
-Solidly built warrior in well-maintained plate armor. Brown hair cropped
-short for military practicality. Square jaw, permanent stubble, and hard
-eyes that have seen too much violence to retain any softness. Carries
-himself with military precision even when off-duty.
-
-**Personality:**
-
-Duty-bound to a fault. Thorne follows orders even when he privately
-disagrees with them. He's been tasked with capturing or killing the Red
-Wolf, and he'll pursue that mission relentlessly, not because he thinks
-it's right, but because it's his duty.
-
-Underneath the soldier's discipline is a man with growing doubts. He's
-seen the Thornwood refugees. He knows their grievances are legitimate.
-But orders are orders, and the alternative is chaos.
-
-**Background:**
-
-Career soldier from a minor noble family. Rose through ranks on
-competence rather than connections. Assigned to the Thornwood situation
-because his superiors knew he'd pursue the mission without asking
-uncomfortable questions.
-
-He's been hunting the Red Wolf for two years. Killed dozens of her
-followers. Captured more. Watched some executed. Each time, he tells
-himself it's necessary for order. Each time, he believes it a little
-less.
-
-**The Assignment:**
-
-The Crown wants the Thornwood situation resolved. The Merchant
-Consortium wants its lands secure. The Red Wolf is an embarrassment and
-a symbol. Thorne's orders are to end her, capture preferred, death
-acceptable.
-
-He commands a company of soldiers and has authority to requisition
-additional forces. The Iron Guild occasionally provides mercenary
-support on larger operations.
-
-**Connections:**
-
--   **Commander Dawnblade:** His ultimate superior; respects her
-    immensely.
-
--   **The Red Wolf:** His quarry; has developed grudging respect.
-
--   **The Merchant Consortium:** His mission's beneficiaries; dislikes
-    them.
-
--   **Lord Pembroke:** Sometimes coordinates with the corrupt noble;
-    despises him.
-
-**Secrets:**
-
-1\. **The Warning:** He once deliberately let a patrol miss the Red
-Wolf's camp, giving the refugees time to escape. He's not sure why he
-did it. It haunts him.
-
-2\. **The Offer:** An Unbound agent approached him with an offer, join
-them, use his position to undermine the corrupt system from within. He
-refused. But he kept the contact information.
-
-3\. **The Family:** His sister married into a family that lost their
-lands to Consortium manipulation. She doesn't know her brother hunts
-people just like them.
-
-4\. **The Report:** He's been writing a detailed report on the actual
-situation in Thornwood, the legitimate grievances, the Consortium's
-corruption, the moral complexity. He hasn't submitted it. He doesn't
-know if he ever will.
-
-**Potential Uses:**
-
--   Antagonist for characters allied with Red Wolf.
-
--   Could be turned if convinced the cause is just.
-
--   Represents the moral conflict of "following orders".
-
--   His doubts make him vulnerable to persuasion.
-
-**Typical Quotes:**
-
--   "I don't make the laws. I enforce them. That's my duty.".
-
--   "You think I enjoy this? These people aren't criminals, they're
-    victims. But that doesn't change my orders.".
-
--   "Sometimes the best you can do is be the one who follows orders,
-    not the one who gives them. At least then you can show mercy.".
-
-#### Lord Pembroke
-
-
-**Full Name:** Lord Reginald Pembroke
-
-**Title:** Lord of Pembroke Estate, Member of the Merchant Consortium
-
-**Race/Ancestry:** Human
-
-**Age:** 55 years (born 1192 CR)
-
-**Location:** Pembroke Estate, near Kaer Thandros
-
-**Role:** Corrupt nobleman, antagonist, political schemer
-
-**Appearance:**
-
-Wealthy and soft, with the physique of someone who's never done
-physical labor. Graying hair carefully styled to hide thinning. Dresses
-in expensive fabrics that emphasize his wealth. Rings on every finger,
-some magical, most just ostentatious. His smile never reaches his
-calculating eyes.
-
-**Personality:**
-
-Charming when useful, ruthless when necessary. Pembroke sees the world
-in transactional terms, everyone has a price, every relationship is an
-exchange, every kindness is an investment expecting returns.
-
-He's intelligent enough to know he's corrupt and doesn't care. The
-system rewards corruption, so he plays the game better than anyone.
-Morality is for those who can't afford alternatives.
-
-**Background:**
-
-Born to wealth, expanded it through manipulation. The Pembroke family
-made their fortune through strategic marriages, land acquisitions of
-dubious legality, and close ties to the Merchant Consortium. Reginald
-perfected these methods.
-
-He was instrumental in the Thornwood family's destruction, not as the
-mastermind, but as a key participant. His forgers created the false
-debts. His bribes reached the right judges. He received Thornwood lands
-as his share of the spoils.
-
-Now he helps run the Consortium's political operations, leveraging
-wealth into influence and influence into more wealth.
-
-**Political Methods:**
-
-Pembroke maintains dossiers on everyone important, debts, affairs,
-illegitimate children, financial irregularities. He rarely uses this
-information directly; the threat of exposure is usually sufficient.
-
-He funds both major political factions secretly, ensuring he has friends
-regardless of who wins. His donations come with expectations of future
-favors.
-
-**Connections:**
-
--   **The Merchant Consortium:** Inner circle member; coordinates
-    political operations.
-
--   **The Crown Court:** Extensive bribery network among officials.
-
--   **Captain Thorne:** Uses guard resources for personal protection.
-
--   **The Red Wolf:** She knows exactly what he did; he knows she's
-    coming.
-
-**Secrets:**
-
-1\. **The Black Ledger:** He keeps records of every illegal transaction,
-bribe, and secret deal involving the Consortium. Insurance against being
-sacrificed as a scapegoat. The ledger is hidden in his estate vault.
-
-2\. **The Thornwood Evidence:** He has original documents proving the
-fraud against the Thornwoods, including his own involvement. Kept as
-leverage, these could also destroy him if released.
-
-3\. **The Escape Plan:** If things go bad, he has a ship prepared at
-Port Myrthen, a false identity established in Aethoria, and enough
-portable wealth to start over in comfort.
-
-4\. **The Blackmail Loop:** Someone is blackmailing him about the
-Thornwood affair, small payments, increasing demands. He doesn't know
-who. The irony isn't lost on him.
-
-**Potential Uses:**
-
--   Obvious antagonist for justice-oriented characters.
-
--   His black ledger is a major plot McGuffin.
-
--   Could be exposed, eliminated, or forced into cooperation.
-
--   Represents systemic corruption rather than individual evil.
-
-**Typical Quotes:**
-
--   "Everyone's guilty of something. I just know what it is.".
-
--   "Morality is a luxury for those who don't understand how the world
-    works.".
-
--   "The Thornwoods? Unfortunate business. But they couldn't pay their
-    debts. What were we supposed to do?".
-
-#### Magistrate Helena Ravens
-
-
-**Full Name:** Helena Ravens
-
-**Title:** High Magistrate of the Royal Courts
-
-**Race/Ancestry:** Human
-
-**Age:** 52 years (born 1195 CR)
-
-**Location:** Royal Courthouse, Kaer Thandros
-
-**Role:** Judge, legal authority, potential ally or obstacle
-
-**Appearance:**
-
-Stern and scholarly, with silver hair pulled back tightly and
-wire-rimmed spectacles perched on her nose. Wears the formal robes of
-judicial office with evident comfort. Her expression defaults to
-skeptical assessment, she's heard every excuse and believes none of
-them without evidence.
-
-**Personality:**
-
-Fiercely independent and incorruptible, a rarity in Thaldros courts.
-Helena rose to her position by being smarter, more diligent, and more
-stubborn than anyone who tried to compromise her. She believes in the
-law as an ideal, even when she despises how it's applied.
-
-Her courtroom manner is precise and demanding. She expects competence
-and punishes waste of court time. But she's also fair, genuinely trying
-to find truth rather than just render judgment.
-
-**Background:**
-
-Daughter of a court scribe, Helena grew up observing the legal system's
-workings. She saw corrupt judges, bribed witnesses, verdicts for sale.
-She resolved to be different.
-
-Her rise was slow and often opposed. Wealthy interests tried to block
-her appointments. Political patrons offered support with strings
-attached. She refused everything, building her reputation on integrity
-alone.
-
-Now she's the highest-ranking incorruptible judge in the kingdom, and
-thus the most dangerous to those who profit from corruption.
-
-**Legal Philosophy:**
-
-"The law isn't justice. The law is a tool that can produce justice if
-wielded properly. My job is to wield it as well as possible, knowing
-I'll sometimes fail."
-
-**Connections:**
-
--   **King Aldric IV:** Appointed her despite court opposition; she's
-    grateful but not beholden.
-
--   **Lord Pembroke:** Mutual enmity; he's tried to compromise her
-    repeatedly.
-
--   **Commander Dawnblade:** Respect for another woman who rose through
-    merit.
-
--   **Various lawyers:** Fear her, respect her, or both.
-
-**Secrets:**
-
-1\. **The Case File:** She has a private file documenting judicial
-corruption throughout the kingdom, names, cases, bribes. Too dangerous
-to use openly, too important to destroy.
-
-2\. **The Son:** Her son is a mid-level official in the Merchant
-Consortium. She's not sure if he's corrupt. She's afraid to
-investigate.
-
-3\. **The Threat:** She's received death threats tied to specific
-cases. She refuses protection, saying it would compromise her
-independence. She also keeps a loaded crossbow in her chambers.
-
-4\. **The Doubt:** Increasingly, she wonders if the legal system can be
-reformed at all, or if she's just providing legitimacy to an inherently
-unjust structure.
-
-**Potential Uses:**
-
--   Can provide legal solutions to problems.
-
--   Her corruption files could be valuable plot device.
-
--   Represents what "working within the system" looks like.
-
--   Could be ally against Consortium corruption.
-
-**Typical Quotes:**
-
--   "The truth doesn't care who profits from its suppression. Present
-    your evidence.".
-
--   "You're asking me to bend the law. The answer is no. It's always
-    no.".
-
--   "I've been threatened by better men than you. Sit down.".
-
-#### Prosecutor Brand
-
-
-**Full Name:** Aldric Brand
-
-**Title:** Royal Prosecutor
-
-**Race/Ancestry:** Human
-
-**Age:** 45 years (born 1202 CR)
-
-**Location:** Royal Courthouse, Kaer Thandros
-
-**Role:** Court antagonist, legal opponent, political tool
-
-**Appearance:**
-
-Tall and imposing, with a voice that fills courtrooms effortlessly. Dark
-hair graying at the temples in a distinguished way. Dresses in
-prosecutor's robes of immaculate quality. His most notable feature is
-his eyes, cold, assessing, looking for weakness.
-
-**Personality:**
-
-Ruthless and theatrical. Brand doesn't prosecute cases, he performs
-them. Every trial is an opportunity to demonstrate his brilliance, crush
-opponents, and advance his career. Truth is secondary to victory.
-
-He's not evil in a simple sense. He genuinely believes that his role is
-to win prosecutions, not to pursue justice. Justice is what the judge
-decides; his job is advocacy. The distinction matters to him.
-
-**Background:**
-
-Born to a minor noble family, Brand chose law over military service. He
-discovered he had a gift for rhetoric, the ability to make arguments
-seem obvious, to make opponents appear foolish, to make juries believe
-whatever he wanted.
-
-His conviction rate is legendary. So is his willingness to use
-questionable tactics. He's been accused of witness intimidation,
-evidence manipulation, and prosecutorial overreach. Nothing has stuck,
-he's too careful, too connected, too useful to powerful interests.
-
-**Legal Style:**
-
-Silver-tongued master of courtroom psychology. He reads witnesses,
-exploits weaknesses, builds narratives that juries find irresistible.
-His opening statements are legendary. His cross-examinations are brutal.
-
-When facing Brand in court, opponents find themselves on the defensive
-from the first moment. He controls the narrative, controls the pace, and
-usually controls the outcome.
-
-**Connections:**
-
--   **Magistrate Ravens:** Professional antagonist; she sees through his
-    theatrics.
-
--   **Lord Pembroke:** Client relationship; Brand prosecutes Pembroke's
-    enemies.
-
--   **The Merchant Consortium:** Major sponsor of his career.
-
--   **Various defense advocates:** Fear him or hate him, usually both.
-
-**Secrets:**
-
-1\. **The Innocent:** Five years ago, Brand prosecuted a man he knew was
-innocent, pressured by Consortium interests. The man was executed. Brand
-still has nightmares.
-
-2\. **The Evidence:** He keeps copies of manufactured evidence from
-various cases, insurance against the powerful interests who asked him to
-use it.
-
-3\. **The Daughter:** His daughter ran away from home three years ago.
-He's told everyone she's studying abroad. He doesn't know where she
-is.
-
-4\. **The Offer:** He's been approached about a judgeship. The
-promotion would end his prosecution career but provide security. He's
-tempted but uncertain.
-
-**Potential Uses:**
-
--   Court antagonist for trial-focused adventures.
-
--   Could be blackmailed or persuaded with right leverage.
-
--   His evidence copies could expose corruption.
-
--   Represents the system's weaponization against defendants.
-
-**Typical Quotes:**
-
--   "The law is clear. My client is the law. And the law demands
-    conviction.".
-
--   "Rhetoric is the art of making the weaker argument appear the
-    stronger. I've made it a science.".
-
--   "Innocent? In my experience, everyone is guilty of something. I
-    just have to find what.".
-
-#### General Marcus Thorne
-
-
-**Full Name:** General Marcus Thorne
-
-**Title:** Former General of the Eastern Army (now defector)
-
-**Race/Ancestry:** Human
-
-**Age:** 58 years (born 1189 CR)
-
-**Location:** Border region, various safe houses
-
-**Role:** Defector, informant, conscience
-
-**Appearance:**
-
-Still carries himself with military bearing despite years of running.
-Silver hair cropped short, weathered face lined with worry and hard
-decisions. Wears practical traveling clothes that were once fine but
-show wear. A scar across his left cheek marks his last official battle.
-
-**Personality:**
-
-Haunted by choices, driven by duty. Thorne was a career soldier who
-believed in Thaldros, until he saw too much. Now he's caught between
-loyalty to his country and horror at what it's become.
-
-He's deliberate and cautious, the instincts of command now turned
-toward survival. Speaks carefully, measures his words, considers
-consequences. Trusts slowly but completely once trust is earned.
-
-**Background:**
-
-Forty years of loyal service. Commands along every border. Victory in a
-dozen battles. Then assignment to "pacification" of a frontier region.
-
-What he saw there broke something. Villages burned. Civilians executed.
-Orders that violated everything he thought he served. He followed them,
-for a while. Then he couldn't anymore.
-
-He deserted, taking documentation of atrocities with him. Now he's
-hunted by the military he spent his life building, carrying evidence of
-crimes committed in Thaldros' name.
-
-**The Intelligence:**
-
-Thorne has detailed knowledge of Thaldros military operations, command
-structures, and, most dangerously, documented evidence of war crimes
-ordered by high officials. This makes him invaluable to Aethoria and
-lethal to powerful interests in Thaldros.
-
-**Connections:**
-
--   **Commander Dawnblade:** Former subordinate; complicated feelings.
-
--   **General Marthos Thandris:** Former rival; now his hunter.
-
--   **Envoy Valen:** Potential contact for his intelligence.
-
--   **Various soldiers:** Some would help him; others would execute him.
-
-**Secrets:**
-
-1\. **The Roster:** He knows the names of every soldier who participated
-in the atrocities. Some are now in positions of power. The roster is
-hidden separately from the other evidence.
-
-2\. **The Order Source:** The war crime orders he documented came from
-someone close to the Crown. He's not sure if the King knew. He's
-afraid to find out.
-
-3\. **The Family:** He left a wife and two adult children behind.
-They've been placed under "protective surveillance." He knows
-contacting them would endanger them, and possibly expose them as
-accomplices.
-
-4\. **The Doubt:** Sometimes he wonders if he should have stayed and
-fought for reform from within. Desertion feels like failure, even when
-it was the right choice.
-
-**Potential Uses:**
-
--   Source of critical intelligence for Aethoria-aligned characters.
-
--   Represents the personal cost of opposing corruption.
-
--   His evidence could trigger major political upheaval.
-
--   Moral touchstone for questions about duty and conscience.
-
-**Typical Quotes:**
-
--   "I served Thaldros for forty years. Then I learned I was serving
-    something else entirely.".
-
--   "There's a difference between following orders and committing
-    crimes. I found out too late where that line was.".
-
--   "If this evidence gets out, people will die. If it doesn't get
-    out, the crimes continue. I don't know which is worse.".
-
-#### Captain Sarah Vale
-
-
-**Full Name:** Sarah Vale
-
-**Title:** Captain, Thaldros Army (Intelligence Division)
-
-**Race/Ancestry:** Human
-
-**Age:** 32 years (born 1215 CR)
-
-**Location:** Various (intelligence operative)
-
-**Role:** Thaldros spy/informant, ally for Thaldros-aligned characters
-
-**Appearance:**
-
-Unremarkable by design. Average height, brown hair, forgettable
-features, the perfect qualities for an intelligence operative. Dresses
-appropriately for whatever role she's playing. Her only constant tell
-is her eyes, which observe everything while revealing nothing.
-
-**Personality:**
-
-Professional and precise. Sarah treats espionage as a craft requiring
-discipline and care. She's not coldly efficient, she has a dry sense of
-humor and genuine patriotism, but she never lets emotion compromise a
-mission.
-
-She believes in Thaldros despite its flaws, viewing reform as preferable
-to revolution. The kingdom's imperfections are problems to fix, not
-reasons to abandon it.
-
-**Background:**
-
-Recruited from the Army after demonstrating aptitude for languages and
-deception. Trained in observation, infiltration, and information
-extraction. Now one of Thaldros' best intelligence operatives.
-
-She's been embedded in various roles, merchant, scholar, servant,
-gathering information on Aethorian intentions, Unbound activities, and
-domestic threats. Her current assignment involves the growing
-continental tensions.
-
-**Connections:**
-
--   **Commander Dawnblade:** Her ultimate handler; reports through
-    intermediaries.
-
--   **Julia Redwind:** Aethorian counterpart; professional respect.
-
--   **Various covers:** Maintains multiple identities across regions.
-
--   **King's intelligence director:** Direct chain of command.
-
-**Secrets:**
-
-1\. **The Double Identity:** She maintains a deep-cover identity in
-Aethoria, a respected scholar named "Mira Thornley." This cover has
-taken years to build and provides access to Republican inner circles.
-
-2\. **The Question:** Extended time in Aethoria has exposed her to
-Republican ideas. She doesn't believe in them\... but she understands
-them better than most Thaldros officials. This understanding makes some
-of her superiors uncomfortable.
-
-3\. **The Brother:** Her younger brother joined the Unbound. She's been
-ordered to report any contact with him. She hasn't reported their
-single meeting six months ago.
-
-4\. **The Document:** During a mission, she acquired evidence of
-Thaldros war crimes. She was ordered to destroy it. She copied it first.
-Insurance, she tells herself.
-
-**Potential Uses:**
-
--   Contact for characters working with Thaldros.
-
--   Source of information about both sides.
-
--   Her moral struggles could become plot relevant.
-
--   The brother connection provides personal stakes.
-
-**Typical Quotes:**
-
--   "Information is the real weapon. Soldiers just clean up
-    afterward.".
-
--   "I don't have opinions. I have observations. What you do with them
-    is your concern.".
-
--   "Patriotism isn't about thinking your country is perfect. It's
-    about believing it can be better.".
-
-#### Julia Redwind
-
-
-**Full Name:** Julia Redwind
-
-**Title:** Senior Intelligence Operative, Aethorian Republic
-
-**Race/Ancestry:** Human
-
-**Age:** 29 years (born 1218 CR)
-
-**Location:** Various (intelligence operative)
-
-**Role:** Aethorian spy, ally for Republic-aligned characters
-
-**Appearance:**
-
-Striking rather than forgettable, which is its own kind of cover.
-Red-gold hair, sharp features, confident bearing. She uses her
-appearance to distract and disarm, making targets focus on her beauty
-rather than her questions.
-
-Dresses well, speaks multiple languages fluently, and plays the
-aristocratic visitor convincingly despite common birth.
-
-**Personality:**
-
-Bold and adaptable. Julia prefers direct approaches when possible,
-charm, persuasion, seduction, and reserves subtlety for when necessary.
-She's genuinely passionate about Republican ideals, which makes her
-recruiting pitch convincing.
-
-Quick-witted and faster on her feet than most operatives. When covers
-are blown, she improvises rather than panics. This has saved her life
-multiple times.
-
-**Background:**
-
-Born to a fishing family in a coastal town. Demonstrated intelligence
-that brought her to the attention of Republican recruiters. Offered
-education in exchange for service.
-
-She proved exceptional at intelligence work, natural actress, quick
-learner, comfortable with risk. Now she's one of Envoy Valen's most
-trusted operatives, handling sensitive missions throughout Thaldros.
-
-**Connections:**
-
--   **Envoy Marcus Valen:** Her handler and mentor; complicated personal
-    feelings.
-
--   **Captain Sarah Vale:** Thaldros counterpart; mutual professional
-    respect.
-
--   **Various contacts:** Maintains networks in multiple cities.
-
--   **The Senate Intelligence Committee:** Her ultimate authority.
-
-**Secrets:**
-
-1\. **The Divided Loyalty:** She's been feeding selected information to
-a third party, neither Thaldros nor Aethorian interests. She's not sure
-what this mysterious contact is building toward. The payments are
-excellent.
-
-2\. **The Former Love:** She had an affair with a Thaldros noble who she
-now suspects was also an operative. He disappeared. She doesn't know if
-he was eliminated, turned, or just moved on. It still bothers her.
-
-3\. **The Doubt:** Recent missions have exposed her to evidence that
-Aethorian interests aren't as pure as she believed. The Republic has
-its own corruptions. She's not sure what to do with this knowledge.
-
-4\. **The Escape:** She has contingencies in place if she needs to
-disappear, new identities, hidden resources, routes to neutral
-territory. An operative who doesn't plan for failure is an operative
-who doesn't survive.
-
-**Potential Uses:**
-
--   Contact for characters working with Aethoria.
-
--   Her mysterious third-party contact is a plot hook.
-
--   The rivalry/respect with Sarah Vale creates interesting dynamics.
-
--   Could be turned, exposed, or become a double agent.
-
-**Typical Quotes:**
-
--   "The truth is whatever people believe. I just help them believe
-    useful things.".
-
--   "Freedom isn't free. Sometimes you have to lie for it. Sometimes
-    you have to kill for it. The cause is worth the cost.".
-
--   "Trust is professional liability. But I'll work with you
-    anyway.".
-
-#### Razor
-
-
-**Full Name:** Unknown (assumes various names)
-
-**Alias:** Razor
-
-**Title:** None
-
-**Race/Ancestry:** Human
-
-**Age:** Approximately 35-40 years
-
-**Location:** Mobile; follows profitable opportunities
-
-**Role:** Master thief, heist team leader, rival or ally
-
-**Appearance:**
-
-Forgettable by design, average height, average build, average features.
-Changes appearance frequently. The only constant is the way he moves:
-smooth, precise, always aware of exits and angles.
-
-His hands are his identifying feature for those who know to look, long
-fingers with calluses in specific patterns that mark a career of
-lockpicking and trap-disarming.
-
-**Personality:**
-
-Professional and businesslike. Razor treats thievery as a technical
-discipline, not a lifestyle. He doesn't steal for thrills or to right
-wrongs, he steals because he's extremely good at it and it pays well.
-
-He's honor-bound within his profession: never betrays clients, always
-delivers contracted items, never kills unless absolutely necessary. This
-reputation makes him the preferred specialist for high-end theft.
-
-**Background:**
-
-Nobody knows where Razor came from or how he learned his skills. He
-appeared on the scene about fifteen years ago, pulled off several
-impossible heists, and established himself as the best independent thief
-in Tirvandor.
-
-He's not affiliated with any guild or syndicate, he works freelance,
-accepting contracts that interest him and declining those that don't.
-His rates are astronomical, and clients pay them without complaint.
-
-**The Method:**
-
-Razor is known for meticulous planning. He spends weeks or months
-studying targets before acting. He learns patrol schedules, maps
-security systems, identifies weaknesses, and prepares contingencies for
-contingencies.
-
-When he finally moves, it looks effortless, guards don't see him, locks
-don't slow him, traps don't trigger. By the time anyone realizes
-something is missing, he's in another city.
-
-**Connections:**
-
--   **Whisper:** Professional respect; they've worked together exactly
-    once.
-
--   **Various guilds:** Cordial relations but no allegiances.
-
--   **Wealthy collectors:** Repeat clients for specific acquisitions.
-
--   **Law enforcement:** Aware of him, never caught him.
-
-**Secrets:**
-
-1\. **The Retirement Fund:** He's been stealing toward a specific goal,
-a fortune large enough to disappear permanently. He's about 80% there.
-
-2\. **The Rules:** He refuses contracts that would harm children or
-require killing innocents. He's turned down several extremely lucrative
-jobs because of this. He doesn't advertise the limitation.
-
-3\. **The Original Sin:** His career began with a theft motivated by
-revenge rather than profit. The target was a noble who destroyed his
-family. He's never taken another personal job since.
-
-4\. **The Competitor:** Someone is mimicking his style, pulling heists
-designed to look like his work. He's not sure if it's flattery or a
-frame attempt. He's investigating.
-
-**Potential Uses:**
-
--   Rival during heist missions.
-
--   Could be hired as specialist for difficult infiltrations.
-
--   His mysterious background invites exploration.
-
--   Represents professional criminal excellence.
-
-**Typical Quotes:**
-
--   "I don't steal from people. I relocate property. The distinction
-    matters.".
-
--   "Violence is unprofessional. Dead guards are witnesses. Missing
-    items are mysteries. Mysteries don't trigger investigations.".
-
--   "I've never failed a contract. I've declined several that seemed
-    likely to fail. Know the difference.".
-
-#### Brother Ash
-
-
-**Full Name:** Unknown (religious name only)
-
-**Title:** Brother Ash
-
-**Race/Ancestry:** Human
-
-**Age:** 48 years (born 1199 CR)
-
-**Location:** Mobile; serves with Unbound operations
-
-**Role:** Unbound priest, religious justification, antagonist
-
-**Appearance:**
-
-Gaunt and intense, with hollow cheeks and burning eyes. Wears simple
-gray robes that were once a priest's vestments. His skin has an ashen
-pallor, hence the name. A holy symbol hangs around his neck,
-deliberately defaced to mark his break with the established church.
-
-**Personality:**
-
-Fanatical but articulate. Ash genuinely believes the Unbound cause is
-righteous, that the current order is corrupt, that the Seven have turned
-their backs on the powerful who abuse their gifts, and that revolution
-is holy work.
-
-He's not raving or irrational. He makes his arguments calmly and
-convincingly. This makes him more dangerous than a simple zealot, he can
-recruit where mad prophets would be ignored.
-
-**Background:**
-
-Once a respected priest of Moira, Ash lost his faith when the church
-refused to act against a noble who had committed atrocities. He saw the
-institution protect the powerful rather than comfort the afflicted.
-
-He didn't abandon religion, he redirected it. If the church wouldn't
-serve justice, he would serve it himself. The Unbound offered purpose
-and power. Corvus Blackwood offered a vision of transformation.
-
-Now he serves as the Unbound's spiritual advisor, providing theological
-justification for their actions, blessing operations, and maintaining
-morale among the faithful.
-
-**Religious Philosophy:**
-
-"The Seven didn't create the current order. Mortals did, and mortals
-corrupted it. True faith requires tearing down the false structure to
-build something worthy of divine intention."
-
-**Connections:**
-
--   **Corvus Blackwood:** His leader; Ash provides spiritual cover for
-    Corvus' vengeance.
-
--   **Elara Corvus:** Makes her uncomfortable; the feeling is mutual.
-
--   **The established churches:** Former colleagues now consider him
-    heretic.
-
--   **Unbound faithful:** Spiritual guide for true believers.
-
-**Secrets:**
-
-1\. **The Doubt:** Deep down, Ash isn't sure if his break with the
-church was righteous anger or wounded pride. He fills the uncertainty
-with greater fervor.
-
-2\. **The Contact:** He maintains secret correspondence with a bishop in
-the official church, someone sympathetic to reform if not to revolution.
-Insurance if the Unbound fails.
-
-3\. **The Vision:** He claims divine visions direct his actions. Some
-are genuine mystical experiences. Some are fabrications. He's not
-always sure which is which.
-
-4\. **The Limit:** He won't participate in operations targeting temples
-or clergy. "We fight the institution, not the faith." This has created
-tension with more radical Unbound members.
-
-**Potential Uses:**
-
--   Boss fight for characters opposing the Unbound.
-
--   Could be convinced to turn if shown the Unbound's excesses.
-
--   His theological arguments are actually worth engaging.
-
--   Represents corrupted idealism.
-
-**Typical Quotes:**
-
--   "The gods weep at what has been done in their name. We are their
-    tears made flesh, their cleansing flood.".
-
--   "I was a priest who served the powerful. Now I'm a priest who
-    serves the people. Tell me which is more faithful.".
-
--   "Corvus believes in justice. I believe in something higher. Our
-    alliance works because our goals align, for now.".
-
-#### Admiral Viktor Seaworth
-
-
-**Full Name:** Admiral Viktor Seaworth
-
-**Title:** Admiral of the Western Fleet
-
-**Race/Ancestry:** Human
-
-**Age:** 54 years (born 1193 CR)
-
-**Location:** Port Myrthen (primary); aboard flagship *Thandros' Pride*
-
-**Role:** Naval commander, political moderate, potential ally
-
-**Appearance:**
-
-Salt-weathered and commanding, with a captain's instinctive assessment
-of wind, tide, and personnel. Silver-streaked dark hair worn long enough
-to tie back. Skin bronzed by years of sun and sea. Moves with the
-rolling gait of someone who's spent more of his life afloat than
-ashore.
-
-**Personality:**
-
-Pragmatic and patient. Viktor has spent decades commanding ships and
-men, learning that panic solves nothing and that waiting for the right
-moment often matters more than acting quickly.
-
-He's loyal to Thaldros but not to any particular political faction. The
-sea doesn't care about court intrigue, and neither does he. What
-matters is protecting the realm's coast and maintaining naval
-supremacy.
-
-**Background:**
-
-Born to a shipbuilding family in Port Myrthen. Went to sea at fourteen,
-rose through naval ranks on competence. His decisive victory against the
-pirate fleet of Captain Blacksail (Unbound-affiliated) established his
-reputation.
-
-Now he commands Thaldros' entire western naval presence. His ships
-patrol the Sundering Sea, escort merchant vessels, and maintain the
-kingdom's ability to project power across water.
-
-**Naval Philosophy:**
-
-"The sea doesn't negotiate. It doesn't care about your politics or
-your claims. Learn to read it, respect it, and it'll carry you. Fight
-it, and it'll kill you. Same goes for most conflicts."
-
-**Connections:**
-
--   **Commander Dawnblade:** Professional respect; coordinates land-sea
-    operations.
-
--   **Diplomat Chen Aldermist:** Aethorian counterpart; surprisingly
-    cordial relations.
-
--   **Captain Blacksail (Unbound):** Nemesis; destroyed his original
-    fleet but he escaped.
-
--   **Merchant shipping interests:** Protect their vessels, receive
-    their gratitude.
-
-**Secrets:**
-
-1\. **The Treaty:** He's been quietly negotiating a maritime
-cooperation agreement with Aethorian naval commanders, mutual
-search-and-rescue, pirate interdiction. Technically unauthorized but
-practically essential.
-
-2\. **The Prize:** His flagship was captured from pirates, not built by
-Thaldros. The original owner was a famous Aethorian privateer. He's not
-eager for this to become widely known.
-
-3\. **The Son:** His only son chose to become a merchant rather than a
-sailor. Viktor publicly disowned him but secretly funds his business
-ventures.
-
-4\. **The Fleet Condition:** His ships are older and less numerous than
-official reports suggest. He's been warning about this for years. No
-one listens.
-
-**Potential Uses:**
-
--   Naval resources for sea-based adventures.
-
--   His unauthorized Aethorian contacts could be valuable.
-
--   Represents reasonable Thaldros interests.
-
--   The pirate nemesis provides ongoing threat.
-
-**Typical Quotes:**
-
--   "I've sailed these waters for forty years. I know every current,
-    every shoal, every hidden harbor. The sea tells me things. I
-    listen.".
-
--   "Politics are what happens on land. Out here, we cooperate with the
-    Aethorians or we die. Simple as that.".
-
--   "Give me ten good ships and I'll hold the Sundering Sea against
-    anything. Give me what I've actually got, and I'll do my best.".
-
-#### Mira Copperstone
-
-
-**Full Name:** Mira Copperstone
-
-**Title:** Proprietor of the Broken Blade
-
-**Race/Ancestry:** Halfling
-
-**Age:** 42 years (born 1205 CR)
-
-**Location:** The Broken Blade tavern, Crossroads
-
-**Role:** Innkeeper, information broker, quest facilitator
-
-**Appearance:**
-
-Small even for a halfling, but with a presence that fills her
-establishment. Practical clothes, sharp eyes, and a friendly smile that
-doesn't quite reach those eyes. Hands always busy, polishing glasses,
-counting coins, gesturing at staff.
-
-**Personality:**
-
-Friendly on the surface, mercenary underneath. Mira learned long ago
-that information is more valuable than ale, and she's built a
-profitable business trading in both.
-
-She knows everyone who matters in Crossroads and keeps track of who owes
-what to whom. This knowledge makes her valuable to those who need
-information and dangerous to those who have secrets.
-
-**Background:**
-
-Born in a halfling community in Heartlands, migrated to Crossroads
-seeking opportunity. Bought the Broken Blade after its previous owner
-died under mysterious circumstances. (Mira wasn't involved. Probably.)
-
-She's built the tavern into the town's primary social hub. Every
-mercenary passes through eventually. Every secret gets whispered over
-her ale. She collects both with professional efficiency.
-
-**The Business:**
-
-The Broken Blade offers standard tavern services, rooms, meals, drinks,
-but its real product is information. Mira sells intelligence on
-available contracts, trustworthy partners, dangerous clients, and local
-conditions. Her pricing is fair but firm.
-
-She also facilitates connections, introducing those who need work to
-those who provide it. For this matchmaking service, she takes a small
-percentage.
-
-**Connections:**
-
--   **Varak Ironfist:** Business relationship; guild members drink at
-    her tavern.
-
--   **"Lucky" Finn:** Old friend; he sends promising recruits her way.
-
--   **Various faction operatives:** All major powers have contacts in
-    her establishment.
-
--   **Local criminals:** Tolerated as long as they don't cause trouble.
-
-**Secrets:**
-
-1\. **The Records:** She keeps detailed notes on everyone who passes
-through, real names, known associates, suspected affiliations. Insurance
-and inventory both.
-
-2\. **The Debt:** She owes the Shadow Syndicate a significant favor from
-years ago. They haven't called it in yet. The waiting is deliberate.
-
-3\. **The Family:** She has three children being raised by relatives in
-the Heartlands. Their father is unknown. She sends money regularly and
-visits rarely.
-
-4\. **The Exit:** Like any good information broker, she has
-contingencies. Multiple identities, hidden wealth, escape routes. When
-Crossroads stops being profitable, she'll vanish.
-
-**Potential Uses:**
-
--   Source of local information and rumors.
-
--   Can facilitate introductions to other NPCs.
-
--   Her secrets provide plot hooks.
-
--   Represents the practical side of frontier life.
-
-**Typical Quotes:**
-
--   "First drink's on me. After that, we talk business.".
-
--   "I don't judge what people do with information. I just sell it.".
-
--   "Everyone's got secrets. I don't collect them to use, I collect
-    them because knowing things is how you survive.".
-
-#### "Lucky" Finn
-
-
-**Full Name:** Finnegan Marsh
-
-**Alias:** "Lucky" Finn
-
-**Title:** None (retired)
-
-**Race/Ancestry:** Human
-
-**Age:** 52 years (born 1195 CR)
-
-**Location:** The Broken Blade tavern, Crossroads
-
-**Role:** Mentor, retired mercenary, conscience
-
-**Appearance:**
-
-The wear of fifty-two hard years shows on every inch. An eyepatch covers
-a lost eye. Scars map his face and arms. Once-strong muscles have
-softened but not disappeared. Despite the damage, he carries himself
-with veteran's confidence.
-
-**Personality:**
-
-Gruff but genuinely kind. Finn has survived thirty years as a mercenary
-by being good at his job, but what kept him going was caring about the
-people he worked with. He's retired now, but he can't stop trying to
-help newcomers survive.
-
-He's honest to a fault, sometimes brutally so. Sugarcoating gets people
-killed in this business. Better to hear hard truths from him than learn
-them dying in a ditch.
-
-**Background:**
-
-Finn was a successful mercenary for three decades, working with the Iron
-Guild on dozens of contracts. He was good, not legendary, but reliable,
-competent, and lucky enough to survive when better warriors didn't.
-
-He retired after a contract went bad and left him with his current
-collection of scars and his missing eye. Now he helps Mira run the
-Broken Blade and spends his time advising new mercenaries who are
-willing to listen.
-
-**Why "Lucky":**
-
-The name is ironic. Finn has lost an eye, a finger, been stabbed seven
-times, broken most of his bones, and watched more friends die than he
-can remember. He calls himself "lucky" because he's still alive.
-
-"Lucky means surviving. Doesn't mean you don't get hurt."
-
-**Connections:**
-
--   **Mira Copperstone:** Close friend and business partner.
-
--   **Varak Ironfist:** Old comrade; Finn sends promising recruits.
-
--   **The Iron Guild:** Retired in good standing; respect from active
-    members.
-
--   **New mercenaries:** Tries to help them survive their first year.
-
-**Secrets:**
-
-1\. **The Real Retirement:** He didn't retire from choice. The contract
-that left him scarred also left him with recurring illness. He can't
-manage sustained combat anymore.
-
-2\. **The Guilt:** On his last job, he made a call that got two junior
-mercenaries killed. It was tactically sound; they would have died
-anyway. He can't quite believe that.
-
-3\. **The Investment:** He's been quietly funding promising young
-mercenaries, covering guild fees, equipment costs, without telling them.
-Mira helps him stay anonymous.
-
-4\. **The Name:** "Finn" isn't his original name. He was born Aldric
-Thornwood, a distant cousin of Elara's father. He changed his name
-after the family's fall to avoid association.
-
-**Potential Uses:**
-
--   Mentor for new adventurers.
-
--   Source of practical advice.
-
--   His Thornwood connection is a major revelation.
-
--   Represents what a mercenary career looks like long-term.
-
-**Typical Quotes:**
-
--   "Three rules: Join the guild. Never break a contract. Don't trust
-    anyone. Follow those, you might survive a month.".
-
--   "I'm not lucky because nothing bad happened. I'm lucky because I
-    lived through all the bad things that did.".
-
--   "You want advice? Here's advice: listen more than you talk, watch
-    more than you fight, and remember that gold spends the same whether
-    you earned it honorably or not.".
-
-### 66.13 Shattered Oaths Campaign NPCs
-
-
-The following NPCs appear primarily in the Shattered Oaths campaign,
-which explores the Blackwood Conspiracy through political intrigue,
-hidden identities, and questions of justice versus loyalty.
-
-#### Elowen Gray (The Lost Heir)
-
-
-**Full Name:** Elowen Gray (true name: Elowen Blackwood)
-
-**Title:** University Librarian (true identity: Heir to House Blackwood)
-
-**Race/Ancestry:** Human
-
-**Age:** 48 years
-
-**Location:** Silverpine (University District)
-
-**Role:** Scholar/librarian, secret Blackwood heir, identity magically
-suppressed
-
-**Alignment:** Neutral Good
-
-**Appearance:**
-
-Slight and bookish, with the kind of beauty that goes unnoticed behind
-spectacles and simple clothing. Dark brown hair usually in a messy bun,
-often with ink stains on fingers. Warm brown eyes that light up when
-discussing books or history. Wears practical scholar's robes in blues
-and grays.
-
-Has a birthmark on her left shoulder blade---the Blackwood family
-sigil---but doesn't know its significance.
-
-**Background:**
-
-Elowen Gray remembers her life starting at age 5. She was found
-wandering near Silverpine with no memory of before, taken in by a kindly
-scholar couple (actually contacts of the Shadows network). They raised
-her, discovered her intelligence, and encouraged her education.
-
-**The Hidden Survivor:** During the 1204 purge of House Blackwood, young
-Corvus (age 12) made a desperate choice. He couldn't protect his
-5-year-old sister in flight, so he entrusted her to a Blackwood loyalist
-mage who performed a deep memory suppression ritual. The child's
-identity was completely erased---she didn't know she was a Blackwood, so
-she couldn't reveal it under questioning. Corvus escaped openly and
-became "the only known survivor." Elowen vanished into anonymity.
-
-She excelled at University---particularly history and magic. She became
-fascinated with political intrigue, nobility, and particularly with
-cases of supposed treason. She doesn't know why these topics draw her so
-strongly.
-
-She's had recurring dreams all her life: fire, shouting, people being
-taken away, an older boy telling her everything will be okay. She thinks
-they're nightmares. They're memories trying to surface.
-
-**Capabilities:**
-
--   Powerful divination magic (Wizard 8, School of Divination)
--   Portent ability (can replace d20 rolls with pre-rolled dice)
--   Expertise in Arcana and History
--   Suppressed memories that could surface under stress
--   Unknowingly speaks the ancient Blackwood dialect
-
-**Connections:**
-
--   The University of Silverpine (respected scholar)
--   Corvus Blackwood/The Shadows (brother, watching over her secretly)
--   Her adoptive parents (deceased, were Blackwood loyalists)
--   The Blackwood family heirloom she wears without understanding
-
-**Secrets:**
-
-1.  **True Identity:** Is the secret heir to House Blackwood, identity
-    suppressed by magic
-2.  **The Memory Block:** A powerful ritual suppresses her childhood
-    memories---could be broken by trauma or deliberate dispelling
-3.  **The Research:** Her academic work is unknowingly assembling proof
-    of the conspiracy against her family
-4.  **The Amulet:** The necklace she found "by chance" is her mother's,
-    drawn to her by blood magic
-
-**Plot Hooks:**
-
-1.  **The Memory Trigger:** Something breaks the suppression. Elowen
-    remembers everything. Now what?
-2.  **The Research Discovery:** Someone wants to steal or destroy her
-    research---the party must decide whether to help
-3.  **The Assassination Attempt:** Someone tries to kill the "last
-    Blackwood heir"---before she even knows she is one
-4.  **The Brother's Return:** Corvus reveals himself---but should he
-    restore her memories or let her live in peace?
-5.  **The Heritage Claim:** If a Blackwood heir came forward with proof,
-    they'd have legal claim to confiscated lands
-
-**Personality:**
-
--   Curious and inquisitive, always asking "why"
--   Empathetic and kind, helps others naturally
--   Socially awkward but genuinely tries to connect
--   Surprisingly brave when defending knowledge or people she cares
-    about
--   Haunted by dreams and feelings she doesn't understand
-
-**Campaign Note:** Elowen is designed as an innocent character thrust
-into a complex situation. Her relationship to Corvus Blackwood (The
-Shadows) creates emotional stakes for the Shattered Oaths campaign. DMs
-should handle her memory recovery carefully---it's a pivotal moment that
-shouldn't be rushed.
-
-
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
 \page
 
 # Part X: Appendices
 
-
-
-{{pageNumber,auto}}
-{{footnote Appendix A: Glossary of Terms}}
-
-\page
 
 ## Appendix A: Glossary of Terms
 
@@ -49032,12 +46815,6 @@ Aethoria, created by the Worldrend.
 **World-Splitter:** The artifact that caused the Worldrend. Its five
 components were separated and entrusted to guardian houses.
 
-
-{{pageNumber,auto}}
-{{footnote Appendix B: Languages of Tirvandor}}
-
-\page
-
 ## Appendix B: Languages of Tirvandor
 
 
@@ -49056,11 +46833,6 @@ and legal documents.
 **Primordial:** Elemental languages spoken by druids and elementals.
 
 
-{{pageNumber,auto}}
-{{footnote Appendix C: Currency and Economics}}
-
-\page
-
 ## Appendix C: Currency and Economics
 
 
@@ -49073,11 +46845,6 @@ Equivalent value to Thaldros currency.
 **Trade Bars:** Standardized metal ingots used in large transactions.
 Issued by the Merchant League.
 
-
-{{pageNumber,auto}}
-{{footnote Appendix D: Heraldry and Symbols}}
-
-\page
 
 ## Appendix D: Heraldry and Symbols
 
@@ -49094,11 +46861,6 @@ Issued by the Merchant League.
 
 **House Silverleaf:** Silver leaves on forest green
 
-
-{{pageNumber,auto}}
-{{footnote Appendix E: Timeline Quick Reference}}
-
-\page
 
 ## Appendix E: Timeline Quick Reference
 
@@ -49119,11 +46881,6 @@ chapters (6-12). Key dates include:
 -   1247 CR: Present day.
 
 
-{{pageNumber,auto}}
-{{footnote Appendix F: Character Index}}
-
-\page
-
 ## Appendix F: Character Index
 
 
@@ -49139,12 +46896,6 @@ All characters are documented in their respective chapters:
 
 -   City NPCs: Chapters 62-66.
 
-
-{{pageNumber,auto}}
-{{footnote Appendix G: Location Index}}
-
-\page
-
 ## Appendix G: Location Index
 
 
@@ -49158,11 +46909,6 @@ All locations are documented in their respective chapters:
 
 -   Ruins and Hidden Sites: Chapters 34-35.
 
-
-{{pageNumber,auto}}
-{{footnote Appendix H: Faction Index}}
-
-\page
 
 ## Appendix H: Faction Index
 
@@ -49183,8 +46929,7 @@ All factions are documented in their respective chapters:
 
 
 {{pageNumber,auto}}
-{{footnote Appendix I: Cross-Reference Guide}}
-
+{{footnote Appendix}}
 \page
 
 ## Appendix I: Cross-Reference Guide
@@ -49198,12 +46943,6 @@ Major relationship webs include:
 -   Inter-faction relationships (Chapter 29).
 
 -   Character connections (individual NPC entries).
-
-
-{{pageNumber,auto}}
-{{footnote Appendix J: Hidden Lore and Historical Secrets}}
-
-\page
 
 ## Appendix J: Hidden Lore and Historical Secrets
 
@@ -49315,6 +47054,9 @@ unknown, and some scholars believe it was successfully destroyed during
 the Worldrend rather than merely imprisoned. Others note that an entity
 embodying Ending cannot truly end, and its silence may be the most
 dangerous sign of all.
+{{pageNumber,auto}}
+{{footnote Appendix}}
+\page
 
 ### J.2 Bound Corruption
 
@@ -49442,7 +47184,13 @@ Thandros. The Goldshore Keepers were a secret branch of House Goldshore
 charged with guarding the Flame Heart, the Second Component.
 
 Prince Aldric wanted the Component. He tried to sell it to dragon cults,
-promising to wake Dragon Infernalix in exchange for gold, power, and
+promising to wake Dragon Infernalix 
+
+{{pageNumber,auto}}
+{{footnote Appendix}}
+\page
+
+in exchange for gold, power, and
 alliance. When the Goldshore Keepers discovered his treachery and
 confronted him, Prince Aldric murdered them all---every last member of
 the Keeper bloodline, including children. He made the massacre look like
@@ -49568,6 +47316,10 @@ aren't evil---they genuinely seek knowledge. But their patron may be
 one of the Bound Ancients, and their devotion may be feeding its
 prison's deterioration.
 
+{{pageNumber,auto}}
+{{footnote Appendix}}
+\page
+
 **Celeste of the Silver Ear**
 
 The mysterious information broker known as Celeste, who runs an upscale
@@ -49595,10 +47347,12 @@ questions have no definitive answers. But the answers may be the key to
 preventing another Worldrend, or to understanding why the first one
 truly happened.
 
+![End](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-last-page.jpg){position:absolute,bottom:0,left:0,width:100%,height:550px}
+
+
+:
 © 2026 Jason Scheponik. All Rights Reserved.
 
 
 {{pageNumber,auto}}
 {{footnote Tirvandor World Bible — End}}
-
-![End](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-last-page.jpg){position:absolute,bottom:0,left:0,width:100%,height:400px}
