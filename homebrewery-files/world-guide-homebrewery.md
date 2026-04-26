@@ -44,47 +44,11 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 
 }}
 {{/insideCover}}
-
 \page
 
-## Legal Notice
-
-This work is protected under international copyright law. No portion of this document may be reproduced, distributed, transmitted, displayed, published, or broadcast without the express written permission of the copyright holder(s).
-
-The following are designated as **Product Identity** under applicable intellectual property law:
-
-- "Tirvandor™" and all derivative terms
-- All proper names of characters, locations, organizations, and factions
-- All storylines, plots, and narrative elements
-- All original creatures and their descriptions (excluding game statistics)
-- All artifacts and their histories (excluding game mechanics)
-- The Seven Ascended pantheon concept and all deity names
-- The Worldrend event and related historical framework
-- The World-Splitter artifact and Component system
-- The Bound Ancients concept and all associated entities
-- All original artwork, maps, and visual elements (if applicable)
-
-## Open Game Content Exclusion
-
-This document has been specifically curated to **exclude** all Open Gaming License content. No game mechanics, statistics, or rules content from the System Reference Document (SRD 5.2) or any Open Gaming License material is included. All content herein represents original creative work.
-
-\column
-
-## Document Information
-
-| Field | Value |
-|:------|:------|
-| **Document Title** | Tirvandor: The Complete World Bible |
-| **Version** | 1.0 |
-| **Date** | January 2026 |
-| **Total Chapters** | 66 |
-| **Total Sections** | 672+ |
-| **Source Material** | ~517,000 words across 9 source documents |
-| **Current Year (In-World)** | 1247 CR (Common Reckoning) |
-
-{{pageNumber,auto}}
-{{footnote Front Matter}}
-
+{{frame,wide
+I want to say a special thanks to the following people, without whom I probably wouldn't have been here to create this world for you. To the Norristown house for letting me be me (if you know, you know). To my Aunt Jan and Uncle Ed for always giving me a place to go when I was too far off the beaten path. To my Aunt Karen for literally saving my life, you are missed. To my parents for always having my back, even when it was hard. And finally to my wife who tries her best to push me to be better than I am and still chooses to live with my crazy.
+}}
 \page
 
 ![Chapter 1: Overview of Tirvandor™](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-geography-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:450px}
@@ -47332,7 +47296,7 @@ She's spent centuries seeking a way home. The Worldrend damaged planar
 boundaries, and she believes understanding it might allow her escape.
 Her interest in pre-Worldrend history and anyone who might know more is
 not mere scholarly curiosity---it's survival.
-
+\column
 **The Pattern**
 
 Certain ancient entities---including the Threshold Guardian that watches
@@ -47350,9 +47314,47 @@ truly happened.
 ![End](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-last-page.jpg){position:absolute,bottom:0,left:0,width:100%,height:550px}
 
 
-:
-© 2026 Jason Scheponik. All Rights Reserved.
-
-
 {{pageNumber,auto}}
 {{footnote Tirvandor World Bible — End}}
+
+## Legal Notice
+
+This work is protected under international copyright law. No portion of this document may be reproduced, distributed, transmitted, displayed, published, or broadcast without the express written permission of the copyright holder(s).
+
+The following are designated as **Product Identity** under applicable intellectual property law:
+
+- "Tirvandor™" and all derivative terms
+- All proper names of characters, locations, organizations, and factions
+- All storylines, plots, and narrative elements
+- All original creatures and their descriptions (excluding game statistics)
+- All artifacts and their histories (excluding game mechanics)
+- The Seven Ascended pantheon concept and all deity names
+- The Worldrend event and related historical framework
+- The World-Splitter artifact and Component system
+- The Bound Ancients concept and all associated entities
+- All original artwork, maps, and visual elements (if applicable)
+
+## Open Game Content Exclusion
+
+This document has been specifically curated to **exclude** all Open Gaming License content. No game mechanics, statistics, or rules content from the System Reference Document (SRD 5.2) or any Open Gaming License material is included. All content herein represents original creative work.
+
+\column
+
+## Document Information
+
+| Field | Value |
+|:------|:------|
+| **Document Title** | Tirvandor: The Complete World Bible |
+| **Version** | 1.0 |
+| **Date** | January 2026 |
+| **Total Chapters** | 66 |
+| **Total Sections** | 672+ |
+| **Source Material** | ~517,000 words across 9 source documents |
+| **Current Year (In-World)** | 1247 CR (Common Reckoning) |
+
+
+© 2026 Jason Scheponik. All Rights Reserved.
+
+{{pageNumber,auto}}
+{{footnote Licenses}}
+\page
