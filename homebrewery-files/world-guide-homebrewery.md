@@ -10935,7 +10935,7 @@ Harmony support against external threats.
 by the Harmony's cultural superiority and the Compact's commercial
 pragmatism. Trade and shared defense interests keep them aligned despite
 philosophical differences.
-
+\column
 *Concordat Marginalization:* The Thornmire Concordat exists on
 Aethoria's margins, viewed with suspicion by the more "civilized"
 powers. They survive through usefulness, their alchemical expertise is
@@ -25824,6 +25824,10 @@ profitable investment."*
 
 -   The Widow Blackwater
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 #### Age & Physical Description
 
 
@@ -25836,10 +25840,6 @@ gloom of Marshaven. Her features are sharp and her eyes miss nothing.
 **Threat Level:** Extremely dangerous. A powerful necromancer who has
 secretly created an army of intelligent undead hidden in the swamps. Her
 undead 
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 retain their memories and personalities---not shambling corpses,
 but thinking soldiers. She currently commands approximately two hundred
@@ -25899,7 +25899,7 @@ the swamps where no one looks, then declare independence.
 
 -   **Political Cover:** General Marthos Thandris (provides protection
     in exchange for intelligence)
-\column
+
 #### Secrets
 
 
@@ -25945,6 +25945,10 @@ inevitably escape control. (See also Section 44.9 and 44.10.)
 
 -   Rector of the University of Arcane Studies
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 -   Matriarch of House Silverleaf (former---passed duties to focus on
     academia)
 
@@ -25958,9 +25962,6 @@ hundred twenty-five pounds, with the timeless beauty of high elves.
 Auburn hair with silver highlights worn in a complex braided style.
 Bright silver eyes that miss nothing.
 
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 Always dressed in academic robes---burgundy with silver
 trim---indicating her rank as Rector. Wears spectacles for reading
@@ -26020,7 +26021,9 @@ work. Considers her students her children.
 **The Forbidden Vault**
 
 The University has a vault of dangerous magical knowledge. Only she has
-access. Contains things that shouldn't exist---necromancy tomes, demon
+access. Contains things that 
+\column
+shouldn't exist---necromancy tomes, demon
 summoning, reality-breaking spells. She's studied them all "to know
 how to counter them."
 
@@ -26029,7 +26032,7 @@ how to counter them."
 Her Staff of Power contains a fragment of an ancient artifact. If
 reassembled with other fragments, it would create a world-shattering
 weapon. She guards it carefully.
-\column
+
 **The Personal Ward**
 
 Created a permanent personal ward on herself years ago. It's slowly
@@ -26073,19 +26076,17 @@ Long black hair that seems to move with static electricity even when
 there's no wind. Eyes that shift from gray to electric blue depending
 on her mood. Olive skin with lightning-bolt scars from channeling power.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 Wears flowing dark robes that billow dramatically. Has a presence that
 fills rooms---electric and slightly dangerous.
 
 **Threat Level:** Terrifyingly powerful but unstable. Lady Tempest can
 summon hurricanes, call lightning from clear skies, and control weather
 across miles. However, her powers are tied to her emotions, and when she
-loses control, ships sink and people die. She is 
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
-
-simultaneously one of
+loses control, ships sink and people die. She is simultaneously one of
 House Stormcrest's greatest assets and their greatest liability.
 
 
@@ -47015,12 +47016,15 @@ unpredictable nature.
 The seventh Bound Ancient is spoken of only in the oldest texts. It
 embodies Ending, Cessation, and Final Peace. Its prison location is
 unknown, and some scholars believe it was successfully destroyed during
-the Worldrend rather than merely imprisoned. Others note that an entity
-embodying Ending cannot truly end, and its silence may be the most
-dangerous sign of all.
+the Worldrend rather than merely imprisoned. Others note 
+
 {{pageNumber,auto}}
 {{footnote Appendix}}
 \page
+
+that an entity
+embodying Ending cannot truly end, and its silence may be the most
+dangerous sign of all.
 
 ### J.2 Bound Corruption
 
@@ -47147,14 +47151,12 @@ current king---discovered the Goldshore Keeper vaults beneath Kaer
 Thandros. The Goldshore Keepers were a secret branch of House Goldshore
 charged with guarding the Flame Heart, the Second Component.
 
-Prince Aldric wanted the Component. He tried to sell it to dragon cults,
-promising to wake Dragon Infernalix 
-
 {{pageNumber,auto}}
 {{footnote Appendix}}
 \page
 
-in exchange for gold, power, and
+Prince Aldric wanted the Component. He tried to sell it to dragon cults,
+promising to wake Dragon Infernalix in exchange for gold, power, and
 alliance. When the Goldshore Keepers discovered his treachery and
 confronted him, Prince Aldric murdered them all---every last member of
 the Keeper bloodline, including children. He made the massacre look like
@@ -47277,12 +47279,14 @@ They believe this entity will return and bring enlightenment.
 The monks possess a library of erased histories, a ritual chamber with
 time distortion effects, and a locked portal to a demiplane. They
 aren't evil---they genuinely seek knowledge. But their patron may be
-one of the Bound Ancients, and their devotion may be feeding its
-prison's deterioration.
+one of the 
 
 {{pageNumber,auto}}
 {{footnote Appendix}}
 \page
+
+Bound Ancients, and their devotion may be feeding its
+prison's deterioration.
 
 **Celeste of the Silver Ear**
 
@@ -47316,6 +47320,7 @@ truly happened.
 
 {{pageNumber,auto}}
 {{footnote Tirvandor World Bible — End}}
+\page
 
 ## Legal Notice
 
