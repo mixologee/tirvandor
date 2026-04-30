@@ -28919,7 +28919,7 @@ If anything happens to him, the files go to the most damaging possible
 recipients.
 \column
 ### 45.8 Silas the Fence
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/old-barrett-mentor.jpg){width:325px}
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silas-the-fence.jpg){width:325px}
 
 **Title:** Receiver of Stolen Goods
 
@@ -28946,7 +28946,7 @@ case.
 \page
 
 ### 45.9 Elder Tremont
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silas-the-fence.jpg){width:325px}
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elder-tremont-mentor.jpg){width:325px}
 
 **Title:** Village Elder and Retired Priest
 
@@ -29018,8 +29018,6 @@ know how to read them.
 \page
 
 ### 45.12 The Iron Hand (Marcus Ironhand)
-
-![45.12 The Iron Hand (Marcus Ironhand)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-marcus.jpg){width:325px}
 
 
 **Title:** Syndicate Enforcer
@@ -42183,7 +42181,7 @@ The ancient founder of House Silverleaf, among the oldest living elves in existe
 Headmaster of the Silverpine Arcanum and one of the most powerful mages in Thaldros. Approachable despite his power, he developed the Starweaver Synthesis for combining spells across schools. A divination specialist who has tripled enrollment during his seventy-five-year tenure as headmaster.
 
 #### Professor Elara Moonwhisper
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-lady-cassandra-vantress.jpg){width:200px,float:right,margin:5px}
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-professor-elara-moonwhisper.jpg){width:200px,float:right,margin:5px}
 
 **Title:** Head of the Observatory, Professor of Advanced Divination
 
@@ -45958,8 +45956,6 @@ never find. Those who anger it tend to disappear entirely.
 {{pageNumber,auto}}
 {{footnote Chapter 66: Miscellaneous NPCs}}
 \page
-
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-colony-mind-kthrax.jpg){width:200px,float:right,margin:5px}
 
 
 **Age:** Over 2,000 years
