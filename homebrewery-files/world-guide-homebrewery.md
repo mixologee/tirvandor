@@ -2170,7 +2170,7 @@ to primal fears.
 \page
 
 
-![Chapter 7: The Age of Dawn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-pre-sundering-unity.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
+![Chapter 7: The Age of Dawn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-aethermere.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
 
 {{margin-top:290px}}
 
@@ -2355,7 +2355,7 @@ Peace prevailed across most of the known world. It could not last.
 {{footnote Chapter 7: The Age of Dawn}}
 \page
 
-![Chapter 8: The Age of Strife](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-history-timeline-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
+![Chapter 8: The Age of Strife](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-twin-rebellion.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
 
 {{margin-top:290px}}
 
@@ -2644,7 +2644,7 @@ who had paid attention. But it would be devastating nonetheless.
 {{footnote Chapter 8: The Age of Strife}}
 \page
 
-![Chapter 9: The Worldrend](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-sundering.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
+![Chapter 9: The Worldrend](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-sundering-scar.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
 
 {{margin-top:290px}}
 
@@ -3261,7 +3261,7 @@ Heartlands grain production. A new age of discovery and ambition began.
 {{footnote Chapter 11: The Age of Nations}}
 \page
 
-![Chapter 12: The Age of Ambition (Current Era: 1247 CR)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-history-timeline-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
+![Chapter 12: The Age of Ambition (Current Era: 1247 CR)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-healing-of-the-rift.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
 
 {{margin-top:290px}}
 
@@ -4314,7 +4314,7 @@ who must balance multiple religious interests.
 {{footnote Chapter 13: The Seven Ascended}}
 \page
 
-![Chapter 14: The Primordials](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ancient-precursor-ruins.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
+![Chapter 14: The Primordials](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ley-line-nexus.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
 
 {{margin-top:290px}}
 
@@ -9027,7 +9027,7 @@ historical accuracy, but the wounds remain raw.
 {{footnote Chapter 21: Noble Houses of Aethoria}}
 \page
 
-![Chapter 22: Pre-Worldrend Conflicts](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-house-blackwoods-execution.jpg){position:absolute,top:0,left:0,width:100%,height:550px}
+![Chapter 22: Pre-Worldrend Conflicts](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-pre-sundering-unity.jpg){position:absolute,top:0,left:0,width:100%,height:550px}
 
 {{margin-top:510px}}
 
@@ -26238,7 +26238,7 @@ mentorship), Merchant Prince Davos Goldshore (cautious alliance)
 
 ### 38.2 Archdruid Silvaris Oakenheart
 
-![38.2 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silvaris.jpg){width:325px,float:right,margin:5px}
+![38.2 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-druid-elder-silvaris.jpg){width:325px,float:right,margin:5px}
 
 
 **Title:** Chief Archdruid of the Silverwood Circle
@@ -36019,7 +36019,7 @@ domains as royal regalia carries in the broader kingdom.
 
 
 **The Shadow Rapier (Vengeance)**
-![The Blackwood Family Shield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-shadow-rapier-_2.jpg){width:200px,float:right,margin:5px}
+![The Shadow Rapier (Vengeance)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-shadow-rapier-_2.jpg){width:200px,float:right,margin:5px}
 
 Originally his mother's dress sword, reforged by Lord Shadows (Corvus
 Blackwood) after her murder. The blade is made of Blackwood ancestral
@@ -38331,7 +38331,7 @@ divided. Both Thaldros and Aethoria claim their ruler is this heir.
 {{footnote Chapter 59: Legends and Myths}}
 \page
 
-![Chapter 60: Military Leaders](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-kaer-thandros.jpg){position:absolute,top:0,left:0,width:100%,height:450px}
+![Chapter 60: Military Leaders](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-thaldros-military-borderlands.jpg){position:absolute,top:0,left:0,width:100%,height:450px}
 
 {{margin-top:400px}}
 
@@ -40519,7 +40519,7 @@ He's also testing them against each other. One of them might try to
 accelerate the succession.
 
 ### 61.6 Garrick "Ironheart" Hammerfist (Smiths' Guild)
-![61.7 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-garrick-ironheart-guildmaster.jpg){width:200px,float:right,margin:5px}
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-garrick-ironheart-guildmaster.jpg){width:200px,float:right,margin:5px}
 
 **Race:** Mountain Dwarf
 
@@ -40634,7 +40634,7 @@ his techniques will die with him.
 
 ### 61.7 Archdruid Silvaris Oakenheart
 
-![61.7 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silvaris.jpg){width:200px,float:right,margin:5px}
+![61.7 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-druid-elder-silvaris.jpg){width:200px,float:right,margin:5px}
 
 
 **Race:** Elf (the title, not the current holder)
