@@ -45,10 +45,22 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 }}
 {{/insideCover}}
 \page
+{{margin-top:250px}}
+
+<div style="text-align: center">
+
+# Acknowledgements
+
+</div>
+
+<div style="font-family: Garamond;font-size: 18px">
 
 {{frame,wide
 I want to say a special thanks to the following people, without whom I probably wouldn't have been here to create this world for you. To the Norristown house for letting me be me (if you know, you know). To my Aunt Jan and Uncle Ed for always giving me a place to go when I was too far off the beaten path. To my Aunt Karen for literally saving my life, you are missed. To my parents for always having my back, even when it was hard. And finally to my wife who tries her best to push me to be better than I am and still chooses to live with my crazy.
 }}
+
+</div>
+
 \page
 
 ![Chapter 1: Overview of Tirvandor™](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-geography-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:450px}
