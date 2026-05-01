@@ -17,29 +17,42 @@ ___
 \page
 
 {{insideCover}}
-{{wide,text-align:center,margin-top:60px
 
-## Copyright Notice
+{{wide,margin-top:350px
+
+### Copyright Notice
 
 © 2026 All Rights Reserved
 
-This document and all contents herein constitute original intellectual property. All rights are reserved by the author(s).
-
-## Trademark Notice
-
-TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™, SHATTERED OATHS™, and BLOOD & COIN™ are trademarks of the author(s). All other trademarks are the property of their respective owners.
-
-## Protected Elements Include:
-
-- The world name "Tirvandor" and all associated terminology
-- All proper nouns including character names, place names, faction names, and artifact names
-- All original creatures, deities, and supernatural entities
-- All storylines, plot structures, and narrative elements
-- All historical events and timeline concepts
-- All magical systems and cosmological concepts
-- All political structures and organizational hierarchies
+This document and all contents herein constitute original intellectual property. All rights are reserved by the author.
 
 }}
+
+{{wide,margin-top:100px
+### Trademark Notice
+
+TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™, SHATTERED OATHS™, and BLOOD & COIN™ are trademarks of the author. All other trademarks are the property of their respective owners.
+}}
+
+{{wide,margin-top:100px
+### Protected Elements Include:
+
+The world name "Tirvandor" and all associated terminology
+
+All proper nouns including character names, place names, faction names, and artifact names
+
+All original creatures, deities, and supernatural entities
+
+All storylines, plot structures, and narrative elements
+
+All historical events and timeline concepts
+
+All magical systems and cosmological concepts
+
+All political structures and organizational hierarchies
+
+}}
+
 {{/insideCover}}
 \page
 {{margin-top:250px}}
@@ -53,7 +66,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 <div style="font-family: Garamond;font-size: 18px">
 
 {{frame,wide
-I want to say a special thanks to the following people, without whom I probably wouldn't have been here to create this world for you. To the Norristown house for letting me be me (if you know, you know). To my Aunt Jan and Uncle Ed for always giving me a place to go when I was too far off the beaten path. To my Aunt Karen for literally saving my life, you are missed. To my parents for always having my back, even when it was hard. And finally to my wife who tries her best to push me to be better than I am and still chooses to live with my crazy.
+I want to say a special thanks to the following people, without whom I probably wouldn't have been here to create this world for you. To the Norristown house for letting me be me (if you know, you know). To my Aunt Jan and Uncle Ed for always giving me a place to go when I was too far off the beaten path. To my Aunt Karen for literally saving my life, you are missed. To my parents for always having my back, even when it was hard. And finally to my wife, who tries her best to push me to be better than I am and still chooses to live with my crazy.
 }}
 
 </div>
@@ -608,6 +621,7 @@ I want to say a special thanks to the following people, without whom I probably 
 - #### [{{ Legal Notice}}{{ 421}}](#p421)
 - #### [{{ Open Game Content Exclusion}}{{ 421}}](#p421)
 - #### [{{ Document Information}}{{ 421}}](#p421)
+- #### [{{ Index}}{{ 422}}](#p422)
 }}
 
 
@@ -47897,32 +47911,687 @@ The following are designated as **Product Identity** under applicable intellectu
 - The Bound Ancients concept and all associated entities
 - All original artwork, maps, and visual elements (if applicable)
 
-## Open Game Content Exclusion
 
-This document has been specifically curated to **exclude** all Open Gaming License content. No game mechanics, statistics, or rules content from the System Reference Document (SRD 5.2) or any Open Gaming License material is included. All content herein represents original creative work.
-
-\column
-
-## Document Information
-
-| Field | Value |
-|:------|:------|
-| **Document Title** | Tirvandor: The Complete World Bible |
-| **Version** | 1.0 |
-| **Date** | January 2026 |
-| **Total Chapters** | 66 |
-| **Total Sections** | 672+ |
-| **Source Material** | ~517,000 words across 9 source documents |
-| **Current Year (In-World)** | 1247 CR (Common Reckoning) |
-
-
-© 2026 Jason Scheponik. All Rights Reserved.
+© 2026 Jason Scheponik and Janky Games LLC. All Rights Reserved.
 
 {{pageNumber,auto}}
 {{footnote Licenses}}
 \page
-  
 
+{{index,wide,columns:5;
+##### Index
+- Aelindra Aethermere, 199
+- Aethermere
+  - profile, 151
+  - history, 188
+  - also 19, 22, 40, 57
+- Aethor, The Liberator
+  - profile, 45
+  - also 44, 46, 48, 52
+- Aethor's Liberator, 297
+- Aethoria
+  - kingdom overview, 66
+  - noble houses, 82
+  - political power, 102
+- The Aethorian Harmony, 102
+- Aethorian Militia, 279
+- Aethorian Resistance (creatures), 279
+- Aethos, 386
+- Age of Accord, 31
+- Age of Ambition, 42
+- Age of Dawn, 30
+- Age of Myth, 28
+- Age of Nations, 41
+- Age of Recovery, 40
+- Age of Strife, 32
+- Age of Tyrants, 33
+- Alden Swiftfoot, 403
+- Aldric IV Thandris
+  - profile, 197
+  - in Kaer Thandros, 370
+  - also 216, 235, 319, 328
+- Aldric the Chain-Breaker, 387
+- Aldric the Wise, 385
+- Aldrick Woodwise, 408
+- Aldris Goldshore III, 382
+- Aldris Goldshore IV
+  - profile, 216
+  - in Goldreach, 382
+- Ancient Guardian, 304
+- Aramil Starwarden, 408
+- Arannis Silverleaf
+  - profile, 230
+  - in Silverpine, 376
+- Arcane Revolution, 42
+- The Arcanum
+  - profile, 121
+  - also 122, 123, 124, 127
+- Arcanus the Undying, 237
+- Arcturus, 390
+- Aria Crystalborn, 157
+- The Artificers' Consortium, 108
+- Ascended-Touched, 295
+- The Ash Prophet, 244
+- Ashfall Barrens, 169
+- Ashgate
+  - profile, 150
+  - history, 187
+- The Ashgate Undercity, 194
+- Azaril Starlight, 109
+- Barrett
+  - profile, 251
+  - profile, 407
+- Before Worldrend (BW), 25
+- Black Archive, the
+  - library, 47
+  - sacred site, 196
+  - also 146
+- Blessed Paladin, 295
+- Blooming (month), 25
+- Bog Witch, the, 162
+- The Border, 167
+- Border Bandit, 257
+- Border Creatures, 257
+- Border Marches, the, 72
+- Border Wraith, 260
+- Borin Stonecutter, 398
+- Borin Stoneshield
+  - leader profile, 355
+  - in Kaer Thandros, 373
+- Bound Ancients
+  - chapter on, 304
+  - also 35, 134, 195, 227
+- Brenna Frostbeard, 356
+- Brenna Iceheart, 350
+- Broken Crown (Conflict), 93
+- Calendar (BW/CR), 25
+- Caspian Goldshore, 391
+- Cassandra Vantress, 374
+- Celeste
+  - in Silverpine, 380
+  - profile, 399
+- Celestia Starborn, 208
+- Celestine, 386
+- Celestine the Healer, 388
+- Central Heartlands, 168
+- Chain Breaker Monk, 283
+- The Circle of Eight, 124
+- Citadel of Oaths, 44
+- Colony-Mind K'Thrax, 409
+- Common Reckoning (CR), 25
+- Contested Land Elemental, 261
+- Contested Lands, the
+  - region overview, 17
+  - kingdom chapter, 72
+  - also 16, 65, 196, 225
+- Contract Killer, 291
+- Cornelius
+  - in Silverpine, 379
+  - historical figure, 390
+- Cornelius Goldpurse, 396
+- Corrupted and Cursed, 309
+- Corruption Spawn, 309
+- Corvus Blackwood
+  - profile, 232
+  - also 131, 132, 135, 141
+- Crimson
+  - profile, 227
+  - profile, 240
+  - profile, 243
+  - leader profile, 360
+- The Crimson Order, 130
+- Crossvale
+  - profile, 148
+  - history, 185
+- Crystalbrook
+  - profile, 156
+  - history, 190
+- The Crystalbrook Compact, 103
+- Crystalvale, 171
+- Cultural Geography, 17
+- Curse Bearer, 311
+- Darkening (month), 26
+- Davos Goldshore
+  - profile, 218
+  - profile, 226
+  - profile, 240
+  - in Goldreach, 383
+- Deep Frontier, the, 72
+- Deep Trenches, the, 10
+- Deepwinter (month), 26
+- Divine Silence, the, 33
+- Dragon Hegemony, 28
+- Dragon Infernalix, 236
+- Dragon Morveth, 241
+- The Dread King, 239
+- The Dread King's Crown, 335
+- Drowned Fortune (Conflict), 95
+- Durgan Forgefire
+  - profile, 226
+  - in Kaer Thandros, 373
+- Durgan Ironforge, 387
+- Durin Ironforge, 210
+- Dwarven Delving, the, 30
+- Elanil Aethermere, 204
+- Elara Moonwhisper
+  - profile, 228
+  - in Silverpine, 378
+  - profile, 404
+- Elara Silverleaf
+  - profile, 220
+  - in Silverpine, 377
+- Elara Thandris, 370
+- Elaris Starweaver
+  - Archmagister, Starfall, 155
+  - also, 156
+  - also, 190
+- Eldrin Aethermere
+  - profile, 207
+  - profile, 228
+- Elena Ravencroft, 402
+- Elenaris Starweaver, 154
+- Elindra Starborn, 165
+- Ember (Fire Priestess), 151
+- Emberthorn the Defiant, 389
+- Emerald Deeps & Brightwater Valley, 172
+- Erenna, 372
+- Ezra (Death Speaker), 119
+- The Faceless Assassin, 243
+- Fallen Champion, 302
+- Festival Days, 27
+- Finn Quickfoot
+  - profile, 225
+  - leader profile, 350
+  - profile, 412
+- Finnegan Storyteller, 413
+- First Elven Kingdom, 30
+- First Planar Incursions, 32
+- The Flame Heart, 316
+- Forgotten King, 306
+- The Forgotten Monastery, 134
+- Forgotten Ones, the, 55
+- Founder's Day, 27
+- Fractured Coast & Singing Fens, 172
+- The Free Cities Alliance, 100
+- Frost Witch of Iceridge, the, 127
+- Frostfall (month), 26
+- Frostmarch (month), 25
+- Frostmarches, 166
+- Galen Sustainharvest, 412
+- Gareth Lightbane
+  - leader profile, 346
+  - in Kaer Thandros, 372
+- Gareth Woodwise, 379
+- Garrett Ironhelm, 406
+- Garrick "Ironheart" Hammerfist
+  - Iron Guild mercenary, 294
+  - leader profile, 363
+- General's Champion, 275
+- Geography, 10
+- Giant Kingdoms, 29
+- Goldcoast, 168
+- Goldenfall (month), 26
+- Goldreach
+  - profile, 146
+  - history, 184
+  - also 18, 19, 63, 78
+- Goldreach Vault 13, 194
+- Goldweaver, Merchant Prince, 165
+- The Grave Wardens
+  - profile, 118
+  - profile, 136
+  - also 119, 120, 137
+- Great Dying, the, 34
+- Great Library of Silverpine, 31
+- The Green Circle
+  - profile, 115
+  - profile, 136
+  - also 57, 116, 117, 137
+- Green Lady, the, 154
+- Green Man, the, 127
+- Green Mother, the, 160
+- Gregor Ironhand
+  - profile, 252
+  - in Kaer Thandros, 373
+  - profile, 405
+- Greta Ironhand, 374
+- Grizelda Mudfoot, 403
+- The Guardian of Thresholds, 409
+- Guerrilla Commander, 284
+- Guild Enforcer, 290
+- Guild Recruit, 288
+- Guildmaster's Elite, 293
+- Gundren Ironforge, 395
+- Hall of Broken Chains, 45
+- Hall of Final Rest, 50
+- Hall of Ten Thousand Roads, 48
+- Harvest (month), 26
+- Harvest Moon, 26
+- Hassan, 253
+- Haunted Battlefield, 266
+- Helena Blackstone, 357
+- Helena Duskmere, 401
+- Herald of the Seven, 307
+- Highsun (month), 26
+- Holidays and Festivals, 26
+- House Aethermere
+  - profile, 84
+  - also 93, 322
+- House Ashborne, 77
+- House Blackwood
+  - profile, 75
+  - also 37, 76, 97, 131
+- House Brightwater, 89
+- House Crystalborn
+  - profile, 85
+  - also 78, 90, 95, 103
+- House Emberthorn, 80
+- House Goldshore
+  - profile, 78
+  - also 38, 41, 86, 95
+- House Heartwood, 79
+- House Ironforge, 74
+- House of Endless Mercy, 49
+- House Seawatch, 80
+- House Silverleaf
+  - profile, 76
+  - also 77, 83, 184, 366
+- House Splittide, 88
+- House Starweaver
+  - profile, 82
+  - also 83, 96, 155, 189
+- House Stonefist, 78
+- House Thandris
+  - profile, 73
+  - also 74, 76, 78, 79
+- House Thornveil, 86
+- House Verdantheart, 88
+- House Windwhisper, 87
+- Hrothgar (Frost Giant King), 371
+- Human Emergence, the, 31
+- Ignis Ashborn, 351
+- Infernalix, 391
+- Iron Crown Knight, 276
+- The Iron Crown Knights, 136
+- Iron Guild Captain, 292
+- Iron Guild Mercenaries (chapter)
+  - chapter, 288
+  - also 292, 294, 326, 362
+- The Iron Hand, 256
+- Iron Legion Enforcer, 270
+- Ironhold
+  - profile, 144
+  - also 127, 349, 350, 363
+- Ironspine Holds, 166
+- Island Chains, 10
+- Kael, The Wanderer, 47
+- Kael Dragonsbane, 412
+- Kael Ironforge, 395
+- Kael Stormwatcher, 349
+- Kael Voidwhisper, 242
+- Kaelen Shadowleaf, 415
+- Kaer Thandros
+  - profile, 143
+  - history, 182
+  - also 12, 18, 41, 60
+- Katrina Ashfall, 411
+- Keeper Bloodlines, 134
+- Khalid, 230
+- Korvan Steelhand, 407
+- Leafdrop (month), 26
+- Legends and Myths, 345
+- Ley Line Corruption, 24
+- Ley Line Nexuses, 22
+- Ley Lines
+  - magic system, 22
+  - nexuses, 22
+  - corruption, 24
+- The Liberator, 285
+- The Lightbringers
+  - profile, 113
+  - profile, 136
+  - also 57, 114, 115, 119
+- Lighthouse of Hope, 45
+- Lord Commander Varius, 277
+- Lord Pembroke's Signet Ring, 335
+- Lucian Goldfingers
+  - profile, 221
+  - profile, 226
+  - leader profile, 359
+  - in Goldreach, 384
+- Lumina Starweaver, 190
+- Lydia Shadowstep, 402
+- Lyra Swiftwind
+  - profile, 231
+  - leader profile, 354
+  - in Silverpine, 379
+- Lyrian Crystal, 208
+- Magic System, the, 22
+- Magnus Ironroot, 411
+- Major Cities, 143
+- Malthus, 227
+- Malthus Voidcaller, 238
+- Mara Thandris, 370
+- Mara, Smuggler Queen, 162
+- Marcus, 399
+- Marcus Frontiersman, 414
+- Marcus Marshborn, 162
+- Marcus Thandris, 370
+- Marcus Vrell, 254
+- Marcus, High Inquisitor, 115
+- Marian, 398
+- Maric Thornveil, 161
+- Marshaven
+  - profile, 160
+  - history, 191
+- Marta Goodbarrel, 251
+- Marthos Thandris
+  - profile, 215
+  - profile, 225
+  - profile, 242
+  - in Kaer Thandros, 371
+  - also 65
+- The Merchant League
+  - profile, 106
+  - also 69, 137, 138, 139
+- Merchant-Prince Kael Icewind, 397
+- Merrick the Wise, 393
+- Midsummer Celebration, 26
+- Mira Silvervein, 379
+- Mira Wavecrest, 355
+- Miranda Ashwood, 401
+- Miranda Questseeker
+  - profile, 229
+  - profile, 249
+- Mistwood Reaches, 171
+- Moira, The Weaver, 46
+- Moira's Seer, 298
+- Monster Resurgence, 41
+- Mordain, The Sentinel, 49
+- Mordain's Sentinel, 301
+- Morgana Blackwater
+  - profile, 219
+  - profile, 241
+- Morganna, 390
+- Morganna Whisperwind, 410
+- Morticia Ravenholt, 119
+- Mortua
+  - profile, 239
+  - profile, 399
+- The Nexus of Seven Sorrows, 194
+- Night of Remembrance, the, 26
+- The Northern Guard, 136
+- The Northern Kingdoms, 99
+- Obsidian Hand (Master Carver), 151
+- The Obsidian Spire, 194
+- Palace Port, 192
+- Pearl Diver, the, 158
+- People's Champion, 281
+- Pip, 255
+- Poison Prince, the, 219
+- Port Myrthen
+  - profile, 163
+  - history, 191
+- Pre-Worldrend Conflicts, 91
+- Primordials, the
+  - chapter, 53
+  - six known, 53
+  - cults, 54
+  - also 28, 29, 37, 196
+- Prophecy Keeper, 305
+- Prophesied Hero, 286
+- Radiant the First Paladin, 388
+- Rashid Al-Sahir, 223
+- Rashid Ashborne, 212
+- Rashid the Twice-Blessed, 368
+- Raven's Keep
+  - ruined seat of House Blackwood, 75
+  - history, 183
+  - Arcanus's lair, 237
+  - also 177, 233, 235, 315
+- Reaching Claws, the, 72
+- Reaping (month), 26
+- Reconnection, the, 40
+- Red Shadow, the, 151
+- Refugee Mob, 262
+- Regional Deities, 55
+}}
+
+{{pageNumber,auto}}
+{{footnote Index}}
+\page
+
+{{index,wide,columns:5;
+- Religious Structures, 56
+- Renewal (month), 25
+- Resistance Fighter, 280
+- Revolutionary Mage, 282
+- The Riftmaw, 195
+- Roads and Trade Routes, 18
+- Roderic Ironfist
+  - leader profile, 362
+  - in Goldreach, 383
+- Rothgar, Grand Duke, 374
+- Royal Guard Elite, 271
+- Ryldak the Ancient, 391
+- Sacred Sites, 196
+- Salvage Fleet Battle, 40
+- The Sand Prophet, 224
+- The Scarlet Knife, 392
+- Scavenger Ghoul, 263
+- Sera, The Healer, 48
+- Sera Emberthorn, 151
+- Sera Myrthen, 165
+- Sera's Mercy, 300
+- Seraphina Silverleaf
+  - leader profile, 366
+  - in Silverpine, 378
+  - historical figure, 386
+- Seraphina Thalia Lightbringer, 372
+- Seraphine Silverleaf, 375
+- Serenity, 394
+- Serina Goldshore
+  - profile, 217
+  - in Goldreach, 383
+- Settlement Histories, 182
+- Seven Ascended, the
+  - pantheon, 43
+  - council, 43
+  - legends, 345
+- Seven's Day, the, 27
+- The Shadow Shard, 315
+- The Shadow Syndicate
+  - profile, 110
+  - also 139, 141, 194, 227
+- Shadowleaf, 414
+- Shaelis the Whisperer, 56
+- Siege Golem, 274
+- Silas the Fence
+  - profile, 254
+  - in Kaer Thandros, 374
+  - profile, 399
+- Silvanus, 231
+- Silvanus Brightforge
+  - in Silverpine, 379
+  - profile, 396
+- Silvaris Oakenheart
+  - profile, 223
+  - leader profile, 364
+- The Silver Circle
+  - profile, 132
+  - also 24, 123, 129, 133
+- Silverpine
+  - profile, 145
+  - history, 183
+  - also 12, 18, 22, 47
+- Silverwood, 167
+- Singing Stones, the, 196
+- Singing Waters, the, 10
+- Smuggler Captain, 258
+- Southern Region, 169
+- Spring of Restoration, 49
+- Spring Renewal Festival, 26
+- Starfall
+  - profile, 154
+  - history, 189
+- Starwood, 170
+- State Inquisitor, 272
+- Stolen Relic (Conflict), 96
+- The Stone Crown, 318
+- Stoneforge, Grandmaster Elara, 109
+- Storm Belts, the, 10
+- The Storm Eye, 319
+- Sundara
+  - profile, 149
+  - history, 186
+- The Sundaran Clans, 101
+- Sundaran Expanse, 169
+- Sundered Bloodline (Conflict), 91
+- Sundering Sea
+  - geographic profile, 10
+  - also 12, 23, 38, 53
+- Sylara Windchaser, 226
+- Sylvan, Archdruid, 159
+- Sylvara, The Wild
+  - profile, 51
+  - also 26, 52, 115, 299
+- Sylvara's Wild Hunter, 299
+- Talia Quicksilver, 109
+- Talia Vinehart, 364
+- Tempest Stormcrest, 221
+- Temple of the Void Saints, 196
+- Territorial Drake, 264
+- Thaddeus Blackstone, 151
+- Thaelon Starlight
+  - Prince Consort, 201
+  - Council Elder, 206
+  - also, 376
+- Thaldros Conscript, 268
+- Thaldros Military (creatures), 268
+- Thaldros Soldier, 269
+- Thaldros, Kingdom of
+  - kingdom overview, 60
+  - noble houses, 73
+  - political power, 99
+- Thalia Lightbringer, 353
+- Thalia Moonbow
+  - leader profile, 351
+  - in Silverpine, 381
+- Thalindra Oakheart
+  - leader profile, 367
+  - historical figure, 386
+- Thandris V, 389
+- Thandros, The Lawbringer
+  - profile, 44
+  - also 12, 18, 38, 41
+- Thandros' Justicar, 296
+- Thawing (month), 25
+- Thelmar Runescribe
+  - profile, 228
+  - in Kaer Thandros, 372
+- Therin Quicksilver, 108
+- Theron
+  - profile, 244
+  - historical figure, 385
+- Theron Aethermere
+  - Chosen Heir, 154
+  - succession, 189
+  - Aethermere royal, 206
+- Theron Stormcrest
+  - leader profile, 347
+  - in Goldreach, 383
+  - profile, 403
+- Theron Westmarch, 165
+- Theros Coinwright, 384
+- Thordak Lavaheart, 397
+- Thorin I Thandris, 386
+- Thorin Thandris
+  - profile, 202
+  - in Kaer Thandros, 370
+- Thorna Ironprice, 406
+- Thornbark, 381
+- Thorne "The Butcher", 400
+- Thorne, Grave Warden Commander, 119
+- The Thornmire Concordat, 104
+- Thornmire Marches, 173
+- Thrain Ironoak
+  - profile, 214
+  - in Kaer Thandros, 370
+- Three Days of Destruction, 36
+- Tobias Gearwise, 405
+- Tobias Saltwind
+  - profile, 252
+  - in Goldreach, 383
+- Tormund
+  - in Kaer Thandros, 372
+  - profile, 399
+- Torren, Salvage Master, 158
+- Torvald Stoneshield, 352
+- Towns and Regional Settlements, 166
+- Trade Winds, the, 10
+- Tremont
+  - profile, 255
+  - profile, 408
+- Twelve Months, the, 25
+- The Twilight Court
+  - profile, 125
+  - also 126, 140, 142
+- Twin Rebellions, 42
+- The Unbound
+  - profile, 131
+  - also 132, 135, 141, 178
+- Unexplored Regions, 17
+- The Unseen Hand, 128
+- Valentin Rothgar, 371
+- Valley of Bones, 50
+- Verdant Wall & Split Peninsula, 173
+- Veridian Runereader, 404
+- Veridian Starweaver
+  - profile, 229
+  - leader profile, 361
+  - in Silverpine, 378
+- Veteran Mercenary, 289
+- Vex, 225
+- Vex Darkwater
+  - in Goldreach, 384
+  - profile, 403
+- Vexis Shadowmaw, 227
+- Victoria Seastone, 165
+- Viktor Coldstone, 405
+- The Void Fragment, 317
+- Volcanus Rex, 360
+- Vorthane the Conqueror, 55
+- The Wandering Tower, 195
+- War Beast, 265
+- War Mage of Thaldros, 273
+- War-Scarred Veteran, 259
+- War-Twisted Soldier, 310
+- Western Region, 167
+- Whisper
+  - profile, 227
+  - profile, 400
+- The Whispering Void, 245
+- Wildgrove, 159
+- Wilhelm Von Handel, 253
+- Winter Solstice, 27
+- Wizard Wars, the, 32
+- World-Splitter, the
+  - during Worldrend, 37
+  - artifact chapter, 313
+  - also 38, 76, 131, 132
+- Worldrend, the
+  - event chapter, 35
+  - Three Days of Destruction, 36
+  - theories on the cause, 37
+  - aftermath, 39
+  - also 9, 10, 23, 24
+- Yasmin, 404
+- Zalthar the Undying, 33
+- Zara, 255
+- Zircon Crystalborn, 365
+}}
+{{pageNumber,auto}}
+{{footnote Index}}
 \page
 
 {{backCover}}
@@ -47958,3 +48627,5 @@ One world. Two kingdoms. A thousand stories waiting to be told.
 
 Homebrewery.Naturalcrit.com
 }}
+
+\page
