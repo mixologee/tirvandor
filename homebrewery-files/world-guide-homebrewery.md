@@ -1,6 +1,34 @@
+<style>
+.page:nth-child(even) .pageNumber {
+    left: 7%;
+    bottom: 30px;
+    text-align: center;
+    color: gol ;
+}
+  
+.page:nth-child(even) .footnote {
+    width: 90%; /* Adjust width, e.g., 90-100% */
+    left: 485px;   /* Adjust to center (e.g., if width 90%, left should be 5%) */
+    bottom: 30px; /* Optional: adjusts vertical position */
+}
+  
+.page:nth-child(odd) .pageNumber {
+    right: 7%;
+    bottom: 30px;
+    text-align: center;
+    color: gol ;
+}
+
+.page:nth-child(odd) .footnote {
+    width: 90%; /* Adjust width, e.g., 90-100% */
+    left: -420px;   /* Adjust to center (e.g., if width 90%, left should be 5%) */
+    bottom: 30px; /* Optional: adjusts vertical position */
+}
+</style>
+
 {{frontCover}}
 
-![Cover Image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-guide-cover-converted.png){position:absolute,top:0,left:0,width:100%}
+![Cover Image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-guide-cover-converted.png){position:absolute,top:0,left:0px,width:100%}
 
 {{wide,text-align:center,margin-top:100px
 ___
@@ -16,10 +44,25 @@ ___
 
 \page
 
-{{insideCover}}
+<div style="text-align: center">
 
-{{wide,margin-top:350px
+# Acknowledgements
 
+</div>
+
+<div style="font-family: Garamond;font-size: 18px">
+
+{{frame,wide
+I want to say a special thanks to the following people, without whom I probably wouldn't have been here to create this world for you. To the Norristown house for letting me be me (if you know, you know). To my Aunt Jan and Uncle Ed for always giving me a place to go when I was too far off the beaten path. To my Aunt Karen for metaphorically saving my life, you are missed. To my sister-in-law Amanda for literally saving my life. To my parents for always having my back, even when it was hard. And finally to my wife, who tries her best to push me to be better than I am and still chooses to live with my crazy.
+}}
+
+</div>
+
+<div style="text-align: center">
+  
+{{wide,margin-top:150px
+
+ 
 ### Copyright Notice
 
 © 2026 All Rights Reserved
@@ -52,23 +95,6 @@ All magical systems and cosmological concepts
 All political structures and organizational hierarchies
 
 }}
-
-{{/insideCover}}
-\page
-{{margin-top:250px}}
-
-<div style="text-align: center">
-
-# Acknowledgements
-
-</div>
-
-<div style="font-family: Garamond;font-size: 18px">
-
-{{frame,wide
-I want to say a special thanks to the following people, without whom I probably wouldn't have been here to create this world for you. To the Norristown house for letting me be me (if you know, you know). To my Aunt Jan and Uncle Ed for always giving me a place to go when I was too far off the beaten path. To my Aunt Karen for literally saving my life, you are missed. To my parents for always having my back, even when it was hard. And finally to my wife, who tries her best to push me to be better than I am and still chooses to live with my crazy.
-}}
-
 </div>
 
 \page
@@ -176,13 +202,13 @@ I want to say a special thanks to the following people, without whom I probably 
   - [{{ 16.1 Major Religious Organizations}}{{ 56}}](#p56)
   - [{{ 16.2 The Divine Silence and Its Legacy}}{{ 57}}](#p57)
   - [{{ 16.3 Divine Magic in Practice}}{{ 58}}](#p58)
-  - [{{ 16.4 Faith and Culture by Region}}{{ 58}}](#p58)
-  - [{{ 16.5 Interaction with Other Planes}}{{ 58}}](#p58)
 }}
 \page
 
 {{toc,wide
 
+  - [{{ 16.4 Faith and Culture by Region}}{{ 58}}](#p58)
+  - [{{ 16.5 Interaction with Other Planes}}{{ 58}}](#p58)
 - ### [{{ Part IV: Civilizations}}{{ 60}}](#p60)
 - #### [{{ Chapter 17: The Kingdom of Thaldros}}{{ 60}}](#p60)
   - [{{ 17.1 Kingdom Overview}}{{ 60}}](#p60)
@@ -276,16 +302,15 @@ I want to say a special thanks to the following people, without whom I probably 
   - [{{ 28.3 The Grave Wardens (Order of Mordain)}}{{ 136}}](#p136)
   - [{{ 28.4 The Northern Guard}}{{ 136}}](#p136)
   - [{{ 28.5 The Iron Crown Knights}}{{ 136}}](#p136)
-- #### [{{ Chapter 29: Inter-Faction Relationships}}{{ 137}}](#p137)
-  - [{{ 29.1 Alliance Networks}}{{ 137}}](#p137)
-  - [{{ 29.2 Rivalries and Opposition}}{{ 139}}](#p139)
-  - [{{ 29.3 Complex and Ambiguous Relationships}}{{ 140}}](#p140)
 }}
 \page
 
 {{toc,wide
 
--
+- #### [{{ Chapter 29: Inter-Faction Relationships}}{{ 137}}](#p137)
+  - [{{ 29.1 Alliance Networks}}{{ 137}}](#p137)
+  - [{{ 29.2 Rivalries and Opposition}}{{ 139}}](#p139)
+  - [{{ 29.3 Complex and Ambiguous Relationships}}{{ 140}}](#p140)
   - [{{ 29.4 Current Political Tensions (1247 CR)}}{{ 140}}](#p140)
   - [{{ 29.5 Faction Power Summary}}{{ 141}}](#p141)
   - [{{ 29.6 Relationship Quick Reference}}{{ 142}}](#p142)
@@ -331,6 +356,7 @@ I want to say a special thanks to the following people, without whom I probably 
   - [{{ 35.2 The Singing Stones}}{{ 196}}](#p196)
   - [{{ 35.3 The Forgotten Monastery}}{{ 196}}](#p196)
   - [{{ 35.4 Temple of the Void Saints}}{{ 196}}](#p196)
+\column
 - ### [{{ Part VII: Characters}}{{ 197}}](#p197)
 - #### [{{ Chapter 36: Royalty and Heads of State}}{{ 197}}](#p197)
   - [{{ 36.1 King Aldric IV Thandris}}{{ 197}}](#p197)
@@ -382,6 +408,12 @@ I want to say a special thanks to the following people, without whom I probably 
 - #### [{{ Chapter 44: Villains and Antagonists}}{{ 232}}](#p232)
   - [{{ 44.1 Corvus Blackwood (Lord Shadows)}}{{ 232}}](#p232)
   - [{{ 44.2 Dragon Infernalix (The Vanished Flame)}}{{ 236}}](#p236)
+}}
+\page
+
+{{toc,wide
+
+-
   - [{{ 44.3 Arcanus the Undying (The Lich of Raven’s Keep)}}{{ 237}}](#p237)
   - [{{ 44.4 Captain Malthus Voidcaller}}{{ 238}}](#p238)
   - [{{ 44.5 Sister Mortua}}{{ 239}}](#p239)
@@ -390,12 +422,6 @@ I want to say a special thanks to the following people, without whom I probably 
   - [{{ 44.8 Master Crimson (The Shadow Syndicate)}}{{ 240}}](#p240)
   - [{{ 44.9 Lady Morgana Blackwater}}{{ 241}}](#p241)
   - [{{ 44.10 Dragon Morveth (The Thornmire Terror)}}{{ 241}}](#p241)
-}}
-\page
-
-{{toc,wide
-
--
   - [{{ 44.11 General Marthos Thandris}}{{ 242}}](#p242)
   - [{{ 44.12 Warlock Kael Voidwhisper}}{{ 242}}](#p242)
   - [{{ 44.13 Lord Crimson (Unbound Lieutenant)}}{{ 243}}](#p243)
@@ -493,6 +519,12 @@ I want to say a special thanks to the following people, without whom I probably 
   - [{{ 54.3 Aethorian Symbols of Leadership}}{{ 324}}](#p324)
   - [{{ 54.4 Noble House Heirlooms}}{{ 325}}](#p325)
   - [{{ 54.5 Faction Authority Symbols}}{{ 326}}](#p326)
+}}
+\page
+
+{{toc,wide
+
+-
 - #### [{{ Chapter 55: Weapons of Legend}}{{ 327}}](#p327)
   - [{{ 55.1 Holy and Blessed Weapons}}{{ 327}}](#p327)
   - [{{ 55.2 Royal and Noble Weapons}}{{ 328}}](#p328)
@@ -510,12 +542,6 @@ I want to say a special thanks to the following people, without whom I probably 
   - [{{ 57.4 Items of the Undead}}{{ 340}}](#p340)
   - [{{ 57.5 Items of Ice and Winter}}{{ 340}}](#p340)
   - [{{ 57.6 Items of Protection}}{{ 341}}](#p341)
-}}
-\page
-
-{{toc,wide
-
--
   - [{{ 57.7 Recognition and Honor Items}}{{ 342}}](#p342)
 - #### [{{ Chapter 58: Lost and Sought Items}}{{ 343}}](#p343)
   - [{{ 58.1 Items Lost Beneath the Waves}}{{ 343}}](#p343)
@@ -600,6 +626,11 @@ I want to say a special thanks to the following people, without whom I probably 
   - [{{ 66.9 Revolutionaries and Organizers}}{{ 411}}](#p411)
   - [{{ 66.10 Scouts and Hunters}}{{ 412}}](#p412)
   - [{{ 66.11 Spies and Operatives}}{{ 414}}](#p414)
+}}
+\page
+
+{{toc,wide
+
 - ### [{{ Part X: Appendices}}{{ 416}}](#p416)
 - #### [{{ Appendix A: Glossary of Terms}}{{ 416}}](#p416)
 - #### [{{ Appendix B: Languages of Tirvandor}}{{ 416}}](#p416)
@@ -23031,8 +23062,7 @@ continent when the Worldrend struck. She never claimed the inheritance
 and was presumed dead. But what if she survived? What if there's a
 hidden lineage with legitimate claim to everything?
 
-\column
-
+{{frame,wide
 ### 33.3 Summary Table
 
 | Settlement | Region | Population | Founded | Ruling House | Status |
@@ -23050,6 +23080,7 @@ hidden lineage with legitimate claim to everything?
 | **Marshaven** | Thornmire | 8,000 | 850 CR | Thornveil | Swamp City |
 | **Port Myrthen** | Island | 9,000 | Pre-Worldrend | (neutral) | Neutral Hub |
 | **Palace Port** | Sundering Sea | 0 | Pre-Worldrend | (sunken) | Lost Capital |
+}}
 
 {{pageNumber,auto}}
 {{footnote Chapter 33: Settlement Histories and Founding Narratives}}
