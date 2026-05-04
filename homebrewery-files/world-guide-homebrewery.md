@@ -1,44 +1,38 @@
 <style>
-.page:nth-child(even) .pageNumber {
-    left: 7%;
-    bottom: 30px;
-    text-align: center;
-    color: gol ;
-}
-  
-.page:nth-child(even) .footnote {
-    width: 90%; /* Adjust width, e.g., 90-100% */
-    left: 485px;   /* Adjust to center (e.g., if width 90%, left should be 5%) */
-    bottom: 30px; /* Optional: adjusts vertical position */
-}
-  
-.page:nth-child(odd) .pageNumber {
-    right: 7%;
-    bottom: 30px;
-    text-align: center;
-    color: gol ;
+.page {
+    width: 8.25in;
+    height: 11in;
 }
 
-.page:nth-child(odd) .footnote {
-    width: 90%; /* Adjust width, e.g., 90-100% */
-    left: -420px;   /* Adjust to center (e.g., if width 90%, left should be 5%) */
-    bottom: 30px; /* Optional: adjusts vertical position */
+.page .pageNumber,
+.page .footnote {
+    position: absolute;
+    bottom: 30px;
+    left: 0 !important;   /* Force start at the absolute left edge */
+    right: 0 !important;  /* Force end at the absolute right edge */
+    width: 100% !important;
+    display: block;
 }
+
+/* 2. Position the Footnote text slightly left of center */
+.page .footnote {
+    text-align: left;
+    padding-left: 70px; /* Adjust this to push the text further left */
+}
+
+/* 3. Position the Page Number slightly right of center */
+.page .pageNumber {
+    text-align: right;
+    padding-right: 100px; /* Adjust this to push the number further right */
+    color: gol;         /* Fixed typo from 'gol' */
+}
+  
 </style>
+
 
 {{frontCover}}
 
-![Cover Image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-guide-cover-converted.png){position:absolute,top:0,left:0px,width:100%}
-
-{{wide,text-align:center,margin-top:100px
-___
-
-}}
-
-{{wide,text-align:center,margin-top:800px
-## Tirvandor World Guide: Chronicle of a Sundered World
-}}
-
+![Cover Image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world-guide-cover-converted.png){position:absolute,top:0,left:0,width:100%,height:100%}
 
 {{/frontCover}}
 
@@ -198,15 +192,15 @@ All political structures and organizational hierarchies
 - #### [{{ Chapter 15: Regional Powers and the Forgotten Ones}}{{ 55}}](#p55)
   - [{{ 15.1 Regional Deities}}{{ 55}}](#p55)
   - [{{ 15.2 The Forgotten Ones}}{{ 55}}](#p55)
-- #### [{{ Chapter 16: Religious Structures and Faith}}{{ 56}}](#p56)
-  - [{{ 16.1 Major Religious Organizations}}{{ 56}}](#p56)
-  - [{{ 16.2 The Divine Silence and Its Legacy}}{{ 57}}](#p57)
-  - [{{ 16.3 Divine Magic in Practice}}{{ 58}}](#p58)
 }}
 \page
 
 {{toc,wide
 
+- #### [{{ Chapter 16: Religious Structures and Faith}}{{ 56}}](#p56)
+  - [{{ 16.1 Major Religious Organizations}}{{ 56}}](#p56)
+  - [{{ 16.2 The Divine Silence and Its Legacy}}{{ 57}}](#p57)
+  - [{{ 16.3 Divine Magic in Practice}}{{ 58}}](#p58)
   - [{{ 16.4 Faith and Culture by Region}}{{ 58}}](#p58)
   - [{{ 16.5 Interaction with Other Planes}}{{ 58}}](#p58)
 - ### [{{ Part IV: Civilizations}}{{ 60}}](#p60)
@@ -276,6 +270,7 @@ All political structures and organizational hierarchies
   - [{{ 23.5 The Crystalbrook Compact (Central Aethoria)}}{{ 103}}](#p103)
   - [{{ 23.6 The Thornmire Concordat (Southeastern Aethoria)}}{{ 104}}](#p104)
   - [{{ 23.7 Inter-Power Relationships}}{{ 104}}](#p104)
+  - 
 - #### [{{ Chapter 24: Economic Organizations}}{{ 106}}](#p106)
   - [{{ 24.1 The Merchant League}}{{ 106}}](#p106)
   - [{{ 24.2 The Artificers’ Consortium}}{{ 108}}](#p108)
@@ -288,6 +283,11 @@ All political structures and organizational hierarchies
   - [{{ 26.1 The Arcanum (Wizard Academy)}}{{ 121}}](#p121)
   - [{{ 26.2 The Circle of Eight}}{{ 124}}](#p124)
   - [{{ 26.3 The Twilight Court (Fey-Touched)}}{{ 125}}](#p125)
+}}
+\page
+
+{{toc,wide
+
 - #### [{{ Chapter 27: Secret Societies}}{{ 128}}](#p128)
   - [{{ 27.1 The Unseen Hand}}{{ 128}}](#p128)
   - [{{ 27.2 The Crimson Order}}{{ 130}}](#p130)
@@ -302,11 +302,6 @@ All political structures and organizational hierarchies
   - [{{ 28.3 The Grave Wardens (Order of Mordain)}}{{ 136}}](#p136)
   - [{{ 28.4 The Northern Guard}}{{ 136}}](#p136)
   - [{{ 28.5 The Iron Crown Knights}}{{ 136}}](#p136)
-}}
-\page
-
-{{toc,wide
-
 - #### [{{ Chapter 29: Inter-Faction Relationships}}{{ 137}}](#p137)
   - [{{ 29.1 Alliance Networks}}{{ 137}}](#p137)
   - [{{ 29.2 Rivalries and Opposition}}{{ 139}}](#p139)
@@ -356,7 +351,6 @@ All political structures and organizational hierarchies
   - [{{ 35.2 The Singing Stones}}{{ 196}}](#p196)
   - [{{ 35.3 The Forgotten Monastery}}{{ 196}}](#p196)
   - [{{ 35.4 Temple of the Void Saints}}{{ 196}}](#p196)
-\column
 - ### [{{ Part VII: Characters}}{{ 197}}](#p197)
 - #### [{{ Chapter 36: Royalty and Heads of State}}{{ 197}}](#p197)
   - [{{ 36.1 King Aldric IV Thandris}}{{ 197}}](#p197)
@@ -394,6 +388,11 @@ All political structures and organizational hierarchies
   - [{{ 41.2 Whisper}}{{ 227}}](#p227)
   - [{{ 41.3 Vexis Shadowmaw}}{{ 227}}](#p227)
   - [{{ 41.4 High Voidcaller Malthus}}{{ 227}}](#p227)
+}}
+\page
+
+{{toc,wide
+
 - #### [{{ Chapter 42: Scholars and Mages}}{{ 228}}](#p228)
   - [{{ 42.1 Sage Thelmar Runescribe}}{{ 228}}](#p228)
   - [{{ 42.2 Professor Elara Moonwhisper}}{{ 228}}](#p228)
@@ -408,12 +407,6 @@ All political structures and organizational hierarchies
 - #### [{{ Chapter 44: Villains and Antagonists}}{{ 232}}](#p232)
   - [{{ 44.1 Corvus Blackwood (Lord Shadows)}}{{ 232}}](#p232)
   - [{{ 44.2 Dragon Infernalix (The Vanished Flame)}}{{ 236}}](#p236)
-}}
-\page
-
-{{toc,wide
-
--
   - [{{ 44.3 Arcanus the Undying (The Lich of Raven’s Keep)}}{{ 237}}](#p237)
   - [{{ 44.4 Captain Malthus Voidcaller}}{{ 238}}](#p238)
   - [{{ 44.5 Sister Mortua}}{{ 239}}](#p239)
@@ -503,6 +496,11 @@ All political structures and organizational hierarchies
   - [{{ 52.1 Corruption Spawn}}{{ 309}}](#p309)
   - [{{ 52.2 War-Twisted Soldier}}{{ 310}}](#p310)
   - [{{ 52.3 Curse Bearer}}{{ 311}}](#p311)
+}}
+\page
+
+{{toc,wide
+
 - ### [{{ Part IX: Artifacts & Significant Items}}{{ 313}}](#p313)
 - #### [{{ Chapter 53: The World-Splitter™}}{{ 313}}](#p313)
   - [{{ 53.1 The Complete World-Splitter}}{{ 313}}](#p313)
@@ -519,12 +517,6 @@ All political structures and organizational hierarchies
   - [{{ 54.3 Aethorian Symbols of Leadership}}{{ 324}}](#p324)
   - [{{ 54.4 Noble House Heirlooms}}{{ 325}}](#p325)
   - [{{ 54.5 Faction Authority Symbols}}{{ 326}}](#p326)
-}}
-\page
-
-{{toc,wide
-
--
 - #### [{{ Chapter 55: Weapons of Legend}}{{ 327}}](#p327)
   - [{{ 55.1 Holy and Blessed Weapons}}{{ 327}}](#p327)
   - [{{ 55.2 Royal and Noble Weapons}}{{ 328}}](#p328)
@@ -614,6 +606,11 @@ All political structures and organizational hierarchies
   - [{{ 65.4 Scholars and Sages}}{{ 390}}](#p390)
   - [{{ 65.5 Ancient Dragons}}{{ 391}}](#p391)
   - [{{ 65.6 The Circle of Seven (Worldrend Perpetrators)}}{{ 394}}](#p394)
+}}
+\page
+
+{{toc,wide
+
 - #### [{{ Chapter 66: Miscellaneous NPCs}}{{ 395}}](#p395)
   - [{{ 66.1 Artisans and Craftsmen}}{{ 395}}](#p395)
   - [{{ 66.2 Religious Figures}}{{ 398}}](#p398)
@@ -626,11 +623,6 @@ All political structures and organizational hierarchies
   - [{{ 66.9 Revolutionaries and Organizers}}{{ 411}}](#p411)
   - [{{ 66.10 Scouts and Hunters}}{{ 412}}](#p412)
   - [{{ 66.11 Spies and Operatives}}{{ 414}}](#p414)
-}}
-\page
-
-{{toc,wide
-
 - ### [{{ Part X: Appendices}}{{ 416}}](#p416)
 - #### [{{ Appendix A: Glossary of Terms}}{{ 416}}](#p416)
 - #### [{{ Appendix B: Languages of Tirvandor}}{{ 416}}](#p416)
@@ -723,7 +715,6 @@ Worldrend to the present day. Ancient ruins dot the landscape, lost
 civilizations whisper secrets through crumbling stones, and lingering
 curses tie the present to the deep past in ways both subtle and
 profound.
-
 
 {{pageNumber,auto}}
 {{footnote Chapter 1: Overview of Tirvandor}}
@@ -928,15 +919,15 @@ venture into these heights. Yet the resources justify the risk: iron,
 silver, mythril ore, rare gemstones, and crystal formations of
 extraordinary purity.
 
+{{pageNumber,auto}}
+{{footnote Chapter 2: Geography}}
+\page
+
 Dwarven culture dominates the Ironspine. Clan loyalty supersedes all
 other bonds, and craftsmanship is considered the highest calling. The
 great halls of the dwarven holds are wonders of engineering---cities
 carved from living stone where the sound of hammers on anvils never
 ceases. Non-dwarves are tolerated in
-
-{{pageNumber,auto}}
-{{footnote Chapter 2: Geography}}
-\page
 trading posts but rarely welcomed deeper into the mountain kingdoms.
 
 **Major Settlements** include Kaer Thandros itself, the great mountain
@@ -1037,6 +1028,10 @@ surrounded by wheat fields stretching to every horizon; Millford
 across Thaldros; and Highfield (population 2,700), an elevated plateau
 town known for sheep herding.
 
+{{pageNumber,auto}}
+{{footnote Chapter 2: Geography}}
+\page
+
 **Notable Locations** include Crossvale Market Square, the largest
 market in the region where everything can be bought or sold; and the
 Standing Stones, an ancient monument of unknown origin where strange
@@ -1050,10 +1045,6 @@ Thaldros meets the Sundering Sea, making it the gateway for trade
 between continents. Coastal towns have grown wealthy from maritime
 commerce, and the smell of salt and opportunity hangs perpetually in the
 air.
-
-{{pageNumber,auto}}
-{{footnote Chapter 2: Geography}}
-\page
 
 The climate is temperate coastal with mild winters. Pirates, storms, and
 sea monsters pose threats to shipping, but the rewards of trade make the
@@ -1147,6 +1138,10 @@ uses volcanic heat for legendary smithing; the Black Spire, an
 impossibly smooth obsidian formation that defies explanation; and
 Hellmouth Crater, the largest active volcano in the region.
 
+{{pageNumber,auto}}
+{{footnote Chapter 2: Geography}}
+\page
+
 #### The Reaching Claws (Eastern Badlands)
 
 
@@ -1160,10 +1155,6 @@ bandits prey on travelers, and geological instability makes even the
 ground treacherous. Yet the region offers monster parts for alchemists
 and wizards, volcanic minerals, and salvage from those who came before
 and failed.
-
-{{pageNumber,auto}}
-{{footnote Chapter 2: Geography}}
-\page
 
 Frontier mentality dominates here. People who settle in the Reaching
 Claws are refugees, outcasts, adventurers, or those seeking fresh starts
@@ -1262,7 +1253,13 @@ underground caves.
 
 The Crystalvale is cosmopolitan by Aethorian standards. Humans, elves,
 halflings, and others coexist peacefully, united by their reverence for
-water. Water is central to life here---religiously, economically, and
+water. 
+
+{{pageNumber,auto}}
+{{footnote Chapter 2: Geography}}
+\page
+
+Water is central to life here---religiously, economically, and
 socially. Water mages practice their craft openly, and scrying services
 are a major export. People are generally friendly, educated, and
 sophisticated, governed by elected councils and powerful scrying guilds.
@@ -1276,10 +1273,6 @@ for miles and underground crystal caves; and Clearwater (population
 with magically resonant formations; and the Mirror Lake, perfectly still
 waters used for prophetic scrying that occasionally shows parallel
 timelines.
-
-{{pageNumber,auto}}
-{{footnote Chapter 2: Geography}}
-\page
 
 #### The Fractured Coast (Northwest Shore)
 
@@ -1375,6 +1368,10 @@ study the veil between worlds. The fog here is thick, magical, and
 sometimes sentient. Travelers report the mist showing visions, leading
 them astray, or protecting them from danger.
 
+{{pageNumber,auto}}
+{{footnote Chapter 2: Geography}}
+\page
+
 The climate consists of cool temperate highlands with perpetual mist.
 Will-o'-wisps lead travelers to their doom, hags lurk in hidden
 hollows, shadow creatures hunt in the fog, and the terrain itself is
@@ -1388,10 +1385,6 @@ are small, isolated, and often secretive.
 
 **Major Settlements** include Mistview (population 3,500), a highland
 town where fog-navigation is a required skill.
-
-{{pageNumber,auto}}
-{{footnote Chapter 2: Geography}}
-\page
 
 #### The Thornmire Marches (South-Central)
 
@@ -1495,6 +1488,10 @@ collection, no permanent Crown military presence, local justice systems
 Mercenary guilds often maintain what order exists, and the distinction
 between law enforcement and protection racket can be academic.
 
+{{pageNumber,auto}}
+{{footnote Chapter 2: Geography}}
+\page
+
 #### The Reaching Claws
 
 
@@ -1514,13 +1511,8 @@ The forest itself provides cover for those who wish to disappear.
 The transitional zone between the Heartlands and the Reaching Claws,
 where "frontier justice" is the norm and mercenary towns have sprung
 up to service those operating outside normal society. Crossroads
-(population 2,400) is the largest of these---a lawless 
-
-{{pageNumber,auto}}
-{{footnote Chapter 2: Geography}}
-\page
-
-mercenary town at the junction of three trade routes, governed by the Iron Guild where
+(population 2,400) is the largest of these---a lawless mercenary town 
+at the junction of three trade routes, governed by the Iron Guild where
 violence is common but regulated.
 
 **Political Significance:** The Crown periodically attempts to bring
@@ -1619,16 +1611,13 @@ Military garrisons maintain the route during travel season.
 **The Coastal Way** follows the western shore from Goldreach through
 Harborpoint to Port Silverfish. This western coastal trade route serves
 the fishing communities and smaller ports that dot the Goldcoast.
-
-**The Sundaran Road** stretches from Crossvale through Graincross to
-Sundara. This major desert trade route features fortified waystations at
-regular intervals
 \column
 
 {{margin-top:290px}}
 
-
-where travelers can find water, shelter, and
+**The Sundaran Road** stretches from Crossvale through Graincross to
+Sundara. This major desert trade route features fortified waystations at
+regular intervals where travelers can find water, shelter, and
 protection from both the elements and raiders.
 
 **The Ashgate Trail** runs from Crossvale through Ashgate to Emberforge.
@@ -1661,6 +1650,10 @@ Shattered Shore and provides access to the fishing grounds.
 via ferry services. This route facilitates trade with the Splintered
 Isles and provides access to island resources.
 
+{{pageNumber,auto}}
+{{footnote Chapter 3: Roads and Trade Routes}}
+\page
+
 **The Deep Desert Route** extends from Sundara through Oasis Rest to
 Dustkeep. This caravan route penetrates deep into the Sundaran Expanse,
 connecting the scattered oasis communities.
@@ -1669,10 +1662,6 @@ connecting the scattered oasis communities.
 Flamekeep. This specially constructed route was built to withstand the
 volcanic terrain and provides the only reliable path through the Ashfall
 Barrens.
-
-{{pageNumber,auto}}
-{{footnote Chapter 3: Roads and Trade Routes}}
-\page
 
 **The Western Loop** forms a coastal circuit from Goldreach through
 Harborview and Shellcove back to Goldreach. This route connects the
@@ -1782,6 +1771,10 @@ regions, serving the mining communities of the Ashfall Barrens.
 Barrens, providing local connections between obsidian mining
 communities.
 
+{{pageNumber,auto}}
+{{footnote Chapter 3: Roads and Trade Routes}}
+\page
+
 **The Eastern Frontier** is a loose network of roads serving multiple
 badlands settlements in the Reaching Claws region.
 
@@ -1794,10 +1787,6 @@ Ironspine region, connecting mountain communities to larger towns.
 
 **The Northern Settlements Road** serves the Frostwatch area, connecting
 the hardy communities of the Frostmarches.
-
-{{pageNumber,auto}}
-{{footnote Chapter 3: Roads and Trade Routes}}
-\page
 
 **The Desert Oasis Circuit** forms a loop connecting the desert towns of
 the Sundaran Expanse, allowing traders to visit multiple communities on
@@ -1912,6 +1901,11 @@ distance.
 **Seasonal Variations:** Winter closes mountain passes, floods swamp
 routes, and makes desert travel more practical during the day but
 dangerous at night. Spring flooding can make river crossings impossible
+
+{{pageNumber,auto}}
+{{footnote Chapter 3: Roads and Trade Routes}}
+\page
+
 for weeks. Summer heat makes desert travel best undertaken at night.
 Autumn is generally the best season for long-distance travel on most
 routes.
@@ -1926,13 +1920,7 @@ unstable terrain.
 **Political Considerations:** Some routes pass through contested
 territory where neither Crown nor council authority holds sway.
 Travelers on these roads must rely on their own resources or hire
-protection. Other
-
-{{pageNumber,auto}}
-{{footnote Chapter 3: Roads and Trade Routes}}
-\page
-
-routes cross boundaries between noble territories, and
+protection. Other routes cross boundaries between noble territories, and
 tolls or taxes may apply.
 
 **Magical Phenomena:** Certain areas experience wild magic surges that
@@ -1956,16 +1944,16 @@ functioning whole. Yet even the best-maintained highway passes through
 wild country, and travelers who forget this truth often do not complete
 their journeys.
 
-![Chapter 4: The Magic System](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations.jpg){position:absolute,bottom:250px,left:0,width:100%}
+![Chapter 4: The Magic System](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations.jpg){position:absolute,bottom:150px,left:5%,width:90%}
 
 
 {{pageNumber,auto}}
 {{footnote Chapter 3: Roads and Trade Routes}}
 \page
 
-![Chapter 4: The Magic System](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-magic-and-ley-lines-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:340px}
+![Chapter 4: The Magic System](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-magic-and-ley-lines-chapter-opener.jpg){position:absolute,top:0,left:0,width:100%,height:325px}
 
-{{margin-top:290px}}
+{{margin-top:275px}}
 
 ## Chapter 4: The Magic System
 
@@ -2003,11 +1991,13 @@ Ley lines are ancient channels of magical energy that run beneath the
 surface of Tirvandor. Their origins are debated---some scholars believe
 they formed during the world's creation, others that they are the
 remnants of the Primordials' power, and still others that they
-represent scars from the Worldrend, channels carved by
-\column
-{{margin-top:290px}}
+represent scars from the Worldrend, 
 
-the cataclysmic
+\column
+
+{{margin-top:275px}}
+
+channels carved by the cataclysmic
 release of magical energy that tore the continents apart.
 
 Whatever their origin, ley lines follow patterns that have remained
@@ -2154,14 +2144,15 @@ ancient sites exist partially in multiple planes simultaneously.
 
 **Magical Instability:** In the Contested Lands and other regions where
 ley lines have been disrupted---whether by the Worldrend, deliberate
-sabotage, or natural catastrophe---magic becomes unpredictable. Spells
-may fail without warning, produce unexpected effects, or trigger wild
-magical surges that reshape reality in their immediate vicinity. Mages
-who operate in such regions must exercise extreme caution.
+sabotage, or natural catastrophe---magic becomes unpredictable. 
 
 {{pageNumber,auto}}
 {{footnote Chapter 4: The Magic System}}
 \page
+
+Spells may fail without warning, produce unexpected effects, or trigger wild
+magical surges that reshape reality in their immediate vicinity. Mages
+who operate in such regions must exercise extreme caution.
 
 ### 4.5 Ley Line Corruption
 
@@ -2306,16 +2297,14 @@ This generational perspective creates significant cultural differences
 in how the various races view the Worldrend---for humans it is mythical
 history, for elves it is recent tragedy, and for dwarves it is recorded
 fact with grudges still maintained.
+\column
+{{margin-top:290px}}
 
 ### 5.2 The Calendar Structure
-
 
 The Tirvandor calendar consists of twelve months of thirty days each,
 yielding 360 standard days. An additional five to six festival days fall
 between seasons, bringing the total year to 365 or 366 days depending on
-\column
-{{margin-top:290px}}
-
 astronomical calculations made by the temples of Moira.
 
 Weeks consist of seven-day cycles, with the days named for the Seven
@@ -2360,15 +2349,15 @@ Winter's end begins, with the first signs of melting snow and
 lengthening days. A month of anticipation and preparation, when farmers
 begin planning for the coming planting season.
 
+{{pageNumber,auto}}
+{{footnote Chapter 5: Calendar & Timekeeping}}
+\page
+
 **Renewal** (corresponds roughly to March)
 
 Spring officially begins. The land awakens from winter slumber, streams
 swell with snowmelt, and the first green shoots appear. A month of hope
 and new beginnings throughout Tirvandor.
-
-{{pageNumber,auto}}
-{{footnote Chapter 5: Calendar & Timekeeping}}
-\page
 
 **Blooming** (corresponds roughly to April)
 
@@ -2487,6 +2476,10 @@ with maritime festivals, Aethermere with magical displays. Founder's
 Day is often the most important local holiday, superseding even the
 universal festivals in civic importance.
 
+{{pageNumber,auto}}
+{{footnote Chapter 5: Calendar & Timekeeping}}
+\page
+
 **The Seven's Day** (seventh day of the seventh month)
 
 A religious holiday honoring all Seven Ascended equally. Temples
@@ -2501,11 +2494,6 @@ chosen a patron.
 The five to six days that fall between seasons are not assigned to any
 month. These "festival days" exist outside normal time---debts cannot
 be collected, contracts cannot be enforced, and normal social rules
-
-{{pageNumber,auto}}
-{{footnote Chapter 5: Calendar & Timekeeping}}
-\page
-
 are suspended. Each culture fills these days differently: some with raucous
 celebration, others with solemn reflection, still others with complete
 rest. The festival days between Deepwinter and Frostmarch are
@@ -2538,14 +2526,12 @@ years from the founding of each hold, but participate in universal
 holidays when dealing with surface communities. Their celebrations tend
 to occur underground, featuring elaborate feasts and the ceremonial
 lighting of forge-fires.
-
+\column
 **Maritime Communities** observe additional holidays tied to fishing
 seasons, trade winds, and the movements of sea creatures. The Festival
 of the First Catch marks the beginning of fishing season, while the
 Storm's End celebration gives thanks for survival through the dangerous
 weather months.
-
-\column
 
 ### 5.6 Pre-Reckoning Dating (Before Worldrend)
 
@@ -2716,7 +2702,6 @@ fallen over the millennia, their ruins scattered across remote mountain
 ranges, but rumors persist of at least one that still drifts among the
 clouds.
 
-\column
 
 The age of giants ended not through war but through a diplomatic
 achievement: the Giant-Dragon Pact. The details vary by source, but the
@@ -3132,15 +3117,16 @@ Aethorian folklore and nightmares.
 
 **Morveth Shadowmane** was an ancient dragon who re-established draconic
 rule in the Ironspine Mountains around 1,800 BW. Unlike the tyrants of
+
+{{pageNumber,auto}}
+{{footnote Chapter 8: The Age of Strife}}
+\page
+
 other races, Morveth did not seek to dominate through terror but through
 the claim of ancient right---dragons had ruled before any mortal
 civilization, and he demanded tribute as their due. His dominion lasted
 until 1,550 BW, when a coalition of dwarf holds finally brought him down
 at tremendous cost.
-
-{{pageNumber,auto}}
-{{footnote Chapter 8: The Age of Strife}}
-\page
 
 Throughout this era, underground resistance movements kept hope alive.
 Secret societies preserved knowledge and trained warriors. Heroes
@@ -3184,7 +3170,7 @@ to maintain them. Roads became overgrown, trade routes forgotten,
 alliances irrelevant when there was no one left to ally with. The
 recovery from the Great Dying would be slow, and it would be incomplete
 when the next disaster struck.
-
+\column
 ### 8.6 The Path to Cataclysm (~1,200-1,000 BW)
 
 
@@ -3277,11 +3263,13 @@ power. The unified empire fragmented.
 Then came the Divine Silence of 250-200 BW---gods stopped responding to
 prayers, clerics lost their ability to cast divine magic, and religious
 institutions collapsed. Mass despair gripped the population. When the
-gods finally returned around 200 BW, their messages had changed, but by
-then the damage to social order was irreversible.
+gods finally returned around 200 BW, their 
 
 \column
 {{margin-top:290px}}
+
+messages had changed, but by
+then the damage to social order was irreversible.
 
 The Circle of Seven proposed a desperate solution: redirect ley line
 energy to reinforce the prison of the Devourer, the most dangerous of
@@ -3295,12 +3283,10 @@ requiring the concentrated power of the realm's greatest mages focused
 through the most powerful ley line nexus known to exist.
 
 ### 9.2 The Three Days of Destruction
-
-![9.2 The Three Days of Destruction](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-sundering.jpg){width:325px}
-
-
 The Worldrend occurred over three days, each more catastrophic than the
 last.
+
+![9.2 The Three Days of Destruction](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-sundering.jpg){width:325px}
 
 {{pageNumber,auto}}
 {{footnote Chapter 9: The Worldrend}}
@@ -3418,17 +3404,15 @@ become House Goldshore. Both branches claimed to be the legitimate heirs
 of House Deepwater, beginning a dispute that also continues to the
 present day.
 
-**House Starleaf** was divided when the continents separated. The
-eastern branch retained their astronomical knowledge, their star charts,
-and their Observatory Citadel (partially destroyed but rebuilt); they
-became House Starweaver. The western branch retained their sacred
-forests, their fey pacts, and their
-
 {{pageNumber,auto}}
 {{footnote Chapter 9: The Worldrend}}
 \page
 
-nature magic; they became House
+**House Starleaf** was divided when the continents separated. The
+eastern branch retained their astronomical knowledge, their star charts,
+and their Observatory Citadel (partially destroyed but rebuilt); they
+became House Starweaver. The western branch retained their sacred
+forests, their fey pacts, and their nature magic; they became House
 Silverleaf. An ancient family was sundered as completely as the
 continent itself.
 
@@ -3529,6 +3513,10 @@ artifact containing the forces unleashed during those three days. It
 shattered into five components, each retaining a fraction of its
 reality-altering power.
 
+{{pageNumber,auto}}
+{{footnote Chapter 9: The Worldrend}}
+\page
+
 **The Five Components**
 
 **The Shadow Shard (First Component)**
@@ -3544,10 +3532,6 @@ isolation, it is dangerous but not world-ending.
 House Blackwood guarded the Shadow Shard for over a thousand years in
 deep vaults beneath their ancestral fortress at Raven's Keep. Only
 Blackwood blood could open the final door to the vault. The house
-{{pageNumber,auto}}
-{{footnote Chapter 9: The Worldrend}}
-\page
-
 was destroyed in 1089 CR, officially for conspiracy to trigger a Second
 Worldrend. The true circumstances of their fall remain disputed.
 
@@ -3650,7 +3634,13 @@ before creation.
 
 There is one slim possibility of safety. According to certain ancient
 texts, a complete World-Splitter can be destroyed---but only from
-within. The artifact must be assembled and activated, then overloaded
+within. The artifact must 
+
+{{pageNumber,auto}}
+{{footnote Chapter 9: The Worldrend}}
+\page
+
+be assembled and activated, then overloaded
 before it completes its function. The window for this overload is
 approximately one second. Success would destroy the World-Splitter
 permanently. Failure would trigger the Second Worldrend.
@@ -3668,13 +3658,7 @@ separated by the Sundering Sea. The western portion became
 Thaldros---more mountainous, more volcanic, dominated by humans who had
 been concentrated in the western territories before the cataclysm. The
 eastern portion became Aethoria---more forested, more magical, with a
-stronger
-
-{{pageNumber,auto}}
-{{footnote Chapter 9: The Worldrend}}
-\page
-
-elven and fey presence that would shape its development for
+stronger elven and fey presence that would shape its development for
 centuries to come.
 
 The central regions that had connected east and west now formed the
@@ -3697,7 +3681,7 @@ in the immediate crisis. Warlords emerged. Survivor communities formed
 around whoever had resources and the will to defend them. The
 sophisticated governmental structures that had taken millennia to
 develop disappeared virtually overnight.
-
+\column
 **Knowledge Lost**
 
 The Great Library of Silverpine, the dragon archives, the records of the
@@ -3706,8 +3690,6 @@ kingdom---all were destroyed or scattered. Magical traditions that had
 been refined over thousands of years were suddenly represented by a
 handful of surviving practitioners, many of whom died in the Year of
 Darkness without passing on their knowledge.
-
-\column
 
 The refugees who survived knew how to farm, to fight, to build, to
 heal---but the specialized knowledge of advanced civilization was
@@ -3774,6 +3756,7 @@ on either continent.
 
 \column
 {{margin-top:290px}}
+
 **Major Cities Refounded:** Proto-Kaer Thandros was established around
 110 CR at an ancient dwarven fortress site. Proto-Aethermere was founded
 around 125 CR in the Emerald Deeps. The Great Libraries were founded
@@ -3948,8 +3931,6 @@ harvests while also praying to Sera when illness strikes and Kael before
 a long journey to market. A soldier might follow Thandros primarily but
 honor Mordain before battle.
 
-\column
-
 Temples often house shrines to multiple deities, allowing worshippers to
 address whichever god suits their current need. Only clergy typically
 serve one deity exclusively, though even this is not universal---some
@@ -4008,7 +3989,7 @@ Thandros believes in hierarchy, clear chains of command, and proper
 procedure. He values documentation, formal agreements, and transparent
 governance. He despises corruption, bribery, and those who use positions
 of power for personal gain rather than public service.
-
+\column
 **Symbol and Holy Days**
 
 His symbol is **golden scales balanced on a sword**---representing
@@ -4064,6 +4045,10 @@ Strife. His priests established the first post-Worldrend legal codes,
 created courts to resolve disputes without violence, and developed the
 systems of record-keeping that allowed complex society to function.
 
+{{pageNumber,auto}}
+{{footnote Chapter 13: The Seven Ascended}}
+\page
+
 **Relationship to Other Gods**
 
 Thandros stands in direct philosophical opposition to **Aethor**. Where
@@ -4071,10 +4056,6 @@ Thandros values order, Aethor champions freedom. This tension mirrors
 the political divide between Thaldros and Aethoria and creates genuine
 conflict between their followers. Despite this opposition, Thandros and
 Aethor are not enemies---they
-
-{{pageNumber,auto}}
-{{footnote Chapter 13: The Seven Ascended}}
-\page
 
 represent necessary poles of existence,
 and most theologians believe the world requires both.
@@ -4100,7 +4081,7 @@ Chains, The Dawn Lord, Champion of the Oppressed
 
 **Sphere of Influence:** Freedom, Light, Hope, Revolution, Liberation,
 Personal Choice
-
+\column
 **Personality and Values**
 
 Aethor stands in philosophical opposition to Thandros---where the
@@ -4161,6 +4142,10 @@ the Worldrend reached safety. The temple features the **Eternal
 Dawn**---a magical effect that ensures sunlight illuminates the central
 sanctuary regardless of time or weather.
 
+{{pageNumber,auto}}
+{{footnote Chapter 13: The Seven Ascended}}
+\page
+
 Other significant temples include the **Lighthouse of Hope** on the
 Drifting Chain (which guides ships and serves as a sanctuary for escaped
 slaves), the **Hall of Broken Chains** in Crystalbrook, and numerous
@@ -4171,10 +4156,6 @@ smaller temples throughout Aethoria.
 The eastern continent's name---Aethoria---echoes Aethor's influence.
 When the continents separated in the Worldrend, survivors in the east
 chose to build a
-
-{{pageNumber,auto}}
-{{footnote Chapter 13: The Seven Ascended}}
-\page
 
 society based on freedom rather than hierarchy. Aethor
 worship provided the philosophical foundation for the councils, the
@@ -4253,6 +4234,10 @@ especially accurate, and the veil between present and future grows thin.
 When the alignment is not occurring, she is honored on nights of meteor
 showers and celestial phenomena.
 
+{{pageNumber,auto}}
+{{footnote Chapter 13: The Seven Ascended}}
+\page
+
 **How She Is Worshipped**
 
 Moira's temples function as **libraries, archives, and centers of
@@ -4265,10 +4250,6 @@ guidance through various methods: reading the stars, interpreting
 dreams, casting runes, or entering meditative trances. The accuracy of
 these divinations varies---Moira reveals what she chooses to reveal, and
 her reasons are her own.
-
-{{pageNumber,auto}}
-{{footnote Chapter 13: The Seven Ascended}}
-\page
 
 The faith maintains **extensive archives** of prophecy, attempting to
 correlate predictions with eventual outcomes. These records span
@@ -4349,6 +4330,10 @@ journey matters more than the destination. His followers learn that
 adaptability, quick thinking, and a willingness to take calculated risks
 are the keys to success.
 
+{{pageNumber,auto}}
+{{footnote Chapter 13: The Seven Ascended}}
+\page
+
 His faith teaches that fortune favors the bold and the clever. Those who
 take no chances receive no rewards; those who adapt to circumstances
 rather than fighting them succeed where others fail. He has no patience
@@ -4358,10 +4343,6 @@ Kael is often depicted as a trickster, delighting in clever deceptions
 and unexpected reversals. However, his faith distinguishes between
 clever tricks that harm no innocents and malicious deception that causes
 suffering. The former earns his approval; the latter does not.
-
-{{pageNumber,auto}}
-{{footnote Chapter 13: The Seven Ascended}}
-\page
 
 He particularly values merchants and traders, seeing commerce as a form
 of connection that binds distant peoples together. Fair dealing is
@@ -4455,12 +4436,6 @@ frustrating. Kael prefers to make his own luck rather than rely on fate.
 
 ### 13.6 Sera, The Healer
 
-![13.6 Sera, The Healer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-sera-the-healer.jpg){width:325px}
-
-{{pageNumber,auto}}
-{{footnote Chapter 13: The Seven Ascended}}
-\page
-
 **Full Name and Titles:** Sera the Healer, Lady of Mercy, The
 Compassionate One, Mother of Restoration, Guardian of the Suffering
 
@@ -4474,6 +4449,12 @@ serve as hospitals, her clergy as healers, and her teaching that all
 life is sacred resonates across cultural and political boundaries. She
 represents compassion in its purest form---help for those in need
 without expectation of reward or judgment of worthiness.
+
+{{pageNumber,auto}}
+{{footnote Chapter 13: The Seven Ascended}}
+\page
+
+![13.6 Sera, The Healer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-sera-the-healer.jpg){width:325px}
 
 Her faith teaches that mercy is strength, not weakness. It takes courage
 to show compassion when anger would be easier, to heal an enemy, to
@@ -4502,7 +4483,7 @@ after winter's death. This festival celebrates birth, renewal, and the
 triumph of life over darkness. New children are traditionally blessed,
 convalescents give thanks for recovery, and communities honor those who
 provided healing throughout the year.
-
+\column
 **How She Is Worshipped**
 
 Sera's temples function primarily as **hospitals and hospices**.
@@ -4562,6 +4543,10 @@ opposed but actually complements hers. His followers ease the passing of
 those she cannot save, and both faiths cooperate on questions of what
 happens after death.
 
+{{pageNumber,auto}}
+{{footnote Chapter 13: The Seven Ascended}}
+\page
+
 Her relationship with **Aethor** is warm but occasionally complicated.
 She shares his compassion but sometimes disagrees with his followers'
 willingness to cause harm in pursuit of justice. Some wars might be
@@ -4574,6 +4559,8 @@ good.
 
 ### 13.7 Mordain, The Sentinel
 
+![13.7 Mordain, The Sentinel](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-mordain-sentinel-death.jpg){width:325px}
+
 **Full Name and Titles:** Mordain the Sentinel, Guardian of the Dead,
 The Judge of Souls, Lord of Memory, The Eternal Watcher, Enemy of the
 Undead
@@ -4585,18 +4572,14 @@ Afterlife, Opposition to Undeath
 
 Mordain guides souls to their proper rest and stands eternal guard
 against those who would disturb the dead. He is not evil---he is
-necessary. Death is natural, part of
-
-{{pageNumber,auto}}
-{{footnote Chapter 13: The Seven Ascended}}
-\page
-
-the cycle that makes room for new
+necessary. Death is natural, part of the cycle that makes room for new
 life, and Mordain ensures that cycle continues properly.
 
 His faith teaches that death should not be feared but accepted as the
 natural conclusion of mortal existence. The dead deserve honor and rest;
-disturbing their remains or trapping their souls is blasphemy. Most
+disturbing their remains or trapping their souls is 
+\column
+blasphemy. Most
 significantly, undeath---the state of being neither alive nor truly
 dead---is the greatest abomination against the natural order.
 
@@ -4611,8 +4594,6 @@ eventually comes before him; every life eventually ends. He cannot be
 bargained with, bribed, or deceived. But he is not cruel---he judges
 fairly and dispatches souls to the destinations they have earned through
 their choices.
-
-![13.7 Mordain, The Sentinel](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-mordain-sentinel-death.jpg){width:325px}
 
 **Symbol and Holy Days**
 
@@ -4660,6 +4641,11 @@ back over a thousand years.
 The **Valley of Bones** in the Contested Lands is a sacred site where
 battles during the Age of Strife left so many dead that the valley floor
 is still littered with remains. Mordain's followers maintain a temple
+
+{{pageNumber,auto}}
+{{footnote Chapter 13: The Seven Ascended}}
+\page
+
 there, ensuring proper rest for fallen warriors and preventing
 necromantic exploitation.
 
@@ -4684,13 +4670,8 @@ matters of justice.
 
 His relationship with **Sera** is complementary---she preserves life as
 long as possible; he ensures dignity and rest when life ends. They
-represent two aspects of
-
-{{pageNumber,auto}}
-{{footnote Chapter 13: The Seven Ascended}}
-\page
-
-caring for mortal beings, and their priests frequently work together.
+represent two aspects of caring for mortal beings, and their priests 
+frequently work together.
 
 He opposes **Kael's** more chaotic followers who might see death as
 just another obstacle to overcome through cleverness. The two gods are
@@ -4701,9 +4682,6 @@ what has passed, she through knowledge and he through memory. They share
 an interest in historical preservation.
 
 ### 13.8 Sylvara, The Wild
-
-![13.8 Sylvara, The Wild](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-sylvara-nature-wild.jpg){width:325px}
-
 
 **Full Name and Titles:** Sylvara the Wild, Lady of Storms, Mother of
 Beasts, The Green Goddess, Voice of the World, The Untamed One
@@ -4737,6 +4715,8 @@ incomprehensible to those who live entirely in civilization. Her moods
 shift like weather; her blessings are as likely to challenge as comfort;
 her followers accept that nature does not conform to mortal wishes.
 
+![13.8 Sylvara, The Wild](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/god-sylvara-nature-wild.jpg){width:325px}
+
 **Symbol and Holy Days**
 
 Her symbol is an **oak tree struck by lightning, still
@@ -4755,6 +4735,10 @@ Sylvara's temples are **sacred groves, stone circles, and natural
 places** rather than constructed buildings. Where structures exist, they
 incorporate living plants, open to sky and weather, designed to blur the
 boundary between civilization and wilderness.
+
+{{pageNumber,auto}}
+{{footnote Chapter 13: The Seven Ascended}}
+\page
 
 Her primary clergy are **druids** rather than traditional priests. These
 servants of nature learn to work with ley lines, shapeshift into animal
@@ -4783,13 +4767,8 @@ The **Wildgrove** is another major sacred site, home to an order of
 druids who serve as her primary clergy in western Thaldros.
 
 The **Storm Peaks** of the Ironspine Mountains host shrines to her storm
-aspect, maintained by priests who
-
-{{pageNumber,auto}}
-{{footnote Chapter 13: The Seven Ascended}}
-\page
-
-study weather patterns and seek to understand her most destructive moods.
+aspect, maintained by priests who study weather patterns and seek to 
+understand her most destructive moods.
 
 **Historical Role**
 
@@ -4846,8 +4825,6 @@ A world of pure order would stagnate; a world of pure freedom would
 collapse into chaos. The tension between these principles creates space
 for growth, change, and meaningful choice.
 
-\column
-
 **The Alliance of Duty: Thandros and Mordain**
 
 The two lawful gods share values and frequently cooperate. Both believe
@@ -4878,7 +4855,13 @@ ecosystems.
 The Weaver maintains cordial relationships with all the Seven,
 positioning herself as recorder and observer rather than participant in
 their conflicts. Her prophecies affect all equally, and her followers
-claim neutrality in divine politics. However, some theologians note that
+claim neutrality in divine politics. However, some 
+
+{{pageNumber,auto}}
+{{footnote Chapter 13: The Seven Ascended}}
+\page
+
+theologians note that
 her cryptic pronouncements often seem to influence outcomes in
 particular directions.
 
@@ -4890,7 +4873,7 @@ rigid rules (opposing Thandros) but also appreciates the order that
 makes trade possible (somewhat agreeing with Thandros). His position
 shifts depending on circumstances, which his followers see as wisdom and
 his critics see as inconsistency.
-
+\column
 **The Celestial Council**
 
 Established in 400 CR, the Celestial Council provides a forum for
@@ -4950,12 +4933,13 @@ away the old to make room for the new.
 Current theories suggest Ignar sleeps beneath volcanic regions, its
 presence causing the geothermal activity that characterizes the Ashfall
 Wastes and similar locations. The fire cults of Ashgate maintain that
-their city exists because Ignar tolerates it---that the
+their city exists because Ignar tolerates it---that 
 
 \column
 {{margin-top:290px}}
 
-volcano's eruptions are contained by the Primordial's slumbering will.
+
+the volcano's eruptions are contained by the Primordial's slumbering will.
 
 Druids who attune to Ignar's power can command flames and resist fire,
 but they also tend toward passionate temperaments and difficulty with
@@ -5052,7 +5036,7 @@ wielders maintain their sense of self against the pull of dissolution.
 
 
 The Primordials influence the modern world in several ways:
-
+\column
 **Primal Magic**
 
 Druids and certain other practitioners draw power directly from the
@@ -5240,12 +5224,14 @@ both continents through coordinated military and magical campaigns. The
 resulting wars caused massive casualties before the cult was broken.
 
 Secret cultists remain, drawn to his promise of power through
-domination. They operate in shadows, sometimes infiltrating legitimate
-power structures to advance their goals of conquest and control.
+domination. They operate in shadows, 
 
 {{pageNumber,auto}}
 {{footnote Chapter 15: Regional Powers and the Forgotten Ones}}
 \page
+
+sometimes infiltrating legitimate
+power structures to advance their goals of conquest and control.
 
 **Shaelis the Whisperer**
 
@@ -5274,7 +5260,7 @@ Mordain's clergy actively hunt Morthax worshippers, viewing undeath as
 the greatest blasphemy against the natural order. Necromancers may
 secretly serve Morthax, believing that death can be overcome through
 sufficient will and power.
-
+\column
 The conflict between Mordain and Morthax worshippers has lasted for
 millennia and shows no signs of resolution.
 
@@ -5294,6 +5280,10 @@ Some scholars believe the Bound God may be connected to the Bound
 Ancients imprisoned beneath Tirvandor. Others argue these are separate
 entities entirely. The truth, if known at all, is known only to the gods
 themselves.
+
+{{pageNumber,auto}}
+{{footnote Chapter 15: Regional Powers and the Forgotten Ones}}
+\page
 
 ## Chapter 16: Religious Structures and Faith
 
@@ -5365,10 +5355,6 @@ representing a different aspect of nature. Regional circles report to
 the council, but individual druids maintain significant autonomy.
 Decisions are made by consensus rather than decree.
 
-{{pageNumber,auto}}
-{{footnote Chapter 16: Religious Structures and Faith}}
-\page
-
 **Interests:**
 
 -   Protecting ancient forests and sacred sites
@@ -5427,7 +5413,13 @@ both continents.
 **The Grave Wardens (Order of Mordain)**
 
 Death clerics and undead hunters dedicated to Mordain, they ensure
-proper burial rites, comfort the bereaved, and most importantly, destroy
+proper burial rites, comfort the 
+
+{{pageNumber,auto}}
+{{footnote Chapter 16: Religious Structures and Faith}}
+\page
+
+bereaved, and most importantly, destroy
 undead wherever found. Grim but necessary, they command universal
 respect---and fear.
 
@@ -5437,8 +5429,6 @@ respect---and fear.
 The period when the gods stopped answering prayers (approximately
 2,400-2,200 BW) fundamentally changed divine-mortal relationships. Its
 effects persist to the present day.
-
-\column
 
 **What Happened**
 
@@ -5514,10 +5504,6 @@ Different faiths explain the Silence differently:
 
 -   Others maintain faith despite lacking explanations
 
-{{pageNumber,auto}}
-{{footnote Chapter 16: Religious Structures and Faith}}
-\page
-
 ### 16.3 Divine Magic in Practice
 
 
@@ -5562,7 +5548,13 @@ threatening and others find inspiring.
 
 Those who make pacts with celestial beings (angels, archons, etc.)
 access divine power through transactional relationships rather than
-devotional ones. They agree to perform certain services in exchange for
+devotional 
+
+{{pageNumber,auto}}
+{{footnote Chapter 16: Religious Structures and Faith}}
+\page
+
+ones. They agree to perform certain services in exchange for
 certain powers.
 
 This approach is viewed with suspicion by traditional clergy, who see it
@@ -5615,6 +5607,8 @@ Theological disputes that consume mainland scholars are largely
 irrelevant to those whose survival depends on placating whatever powers
 govern wind and wave.
 
+\column
+
 ### 16.5 Interaction with Other Planes
 
 
@@ -5645,10 +5639,6 @@ subtly, sometimes disguising themselves as legitimate organizations. The
 line between a devil cult and a corrupt merchant guild can be
 surprisingly thin.
 
-{{pageNumber,auto}}
-{{footnote Chapter 16: Religious Structures and Faith}}
-\page
-
 **Primordial Aspects**
 
 Elemental entities from the elemental planes sometimes take interest in
@@ -5664,15 +5654,13 @@ connections, and their motives cannot be understood in mortal terms.
 Most authorities consider Great Old One worship extremely dangerous,
 though the entities themselves may not even notice their worshippers.
 
-\column
+:
 
 *The gods of Tirvandor are real but not omnipotent. They have agendas,
 make mistakes, and compete with each other---sometimes subtly, sometimes
 openly. Mortals must navigate these divine politics while maintaining
 their own agency and pursuing their own goals. The religious landscape
 is complex, and simple answers are rare.*
-
-![Chapter 13: The Seven Ascended](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-seven-gods-council.jpg){position:absolute,bottom:60px,left:0,width:100%,height:580px}
 
 {{pageNumber,auto}}
 {{footnote Chapter 16: Religious Structures and Faith}}
@@ -5717,6 +5705,8 @@ the ancestors of modern Thaldros chose strength and structure over the
 uncertainty of freedom. Whether this was wisdom or a tragic mistake
 remains the central question dividing Thaldros from Aethoria.
 
+\column
+
 **Geography and Regions**
 
 The kingdom encompasses the entire western continent, though control is
@@ -5754,13 +5744,12 @@ Born in 1195 CR, he is now fifty-two years old---aging but still strong,
 weathered by decades of rule but not yet diminished. He took the throne
 in 1230 CR after his father died defending Ironhold from giant raids.
 
-Aldric's reign has been marked by stability and strength. He modernized
-the army through what historians call the "Iron Reforms," improved
-
 {{pageNumber,auto}}
 {{footnote Chapter 17: The Kingdom of Thaldros}}
 \page
 
+Aldric's reign has been marked by stability and strength. He modernized
+the army through what historians call the "Iron Reforms," improved
 fortifications throughout the kingdom, and established the Northern
 Guard as an elite force. Under his rule, Thaldros has not lost a single
 major engagement.
@@ -5876,6 +5865,10 @@ clans who maintain semi-autonomous governance within the Ironspine
 Holds. They technically owe allegiance to the crown but manage their own
 affairs with minimal interference.
 
+{{pageNumber,auto}}
+{{footnote Chapter 17: The Kingdom of Thaldros}}
+\page
+
 **Regional Administration**
 
 Thaldros is divided into regions ruled by noble houses who owe feudal
@@ -5885,11 +5878,6 @@ allegiance to the crown:
 Ashborne, etc.) control significant territories and maintain their own
 military forces. They collect taxes in the crown's name, administer
 justice in local matters, and provide troops when called. In
-
-{{pageNumber,auto}}
-{{footnote Chapter 17: The Kingdom of Thaldros}}
-\page
-
 exchange, they have near-absolute authority within their domains.
 
 **Lesser Lords:** Smaller noble houses hold territories as vassals of
@@ -6009,6 +5997,10 @@ kingdom as a whole is designed to be difficult to invade. The Deep Halls
 beneath Kaer Thandros can shelter the entire city population during
 sieges, complete with supplies, water, and escape tunnels.
 
+{{pageNumber,auto}}
+{{footnote Chapter 17: The Kingdom of Thaldros}}
+\page
+
 ### 17.5 Economy and Trade
 
 
@@ -6024,10 +6016,6 @@ Thandros produces standardized coins used throughout the kingdom:
 -   Gold pieces for major commerce
 
 -   Platinum pieces for large contracts and noble dealings
-
-{{pageNumber,auto}}
-{{footnote Chapter 17: The Kingdom of Thaldros}}
-\page
 
 The crown carefully controls the money supply, preventing the inflation
 that plagued earlier ages. Counterfeiting is punished severely, often by
@@ -6138,6 +6126,10 @@ livelihoods overnight.
 negotiating, and seeking profit. Successful merchants live better than
 many nobles, though they lack the social status that comes with titles.
 
+{{pageNumber,auto}}
+{{footnote Chapter 17: The Kingdom of Thaldros}}
+\page
+
 **Nobles:** Manage their estates, attend court functions, pursue
 military or political advancement, and engage in the elaborate social
 rituals that define noble society. Their lives are comfortable but
@@ -6160,10 +6152,6 @@ stories and songs.
 
 **Strength:** Physical, military, and political strength are respected.
 Weakness is pitied at best, despised at worst.
-
-{{pageNumber,auto}}
-{{footnote Chapter 17: The Kingdom of Thaldros}}
-\page
 
 **Order:** The belief that society functions best when everyone knows
 their place and performs their role. Disruption of order is dangerous
@@ -6227,7 +6215,7 @@ achieve abstract fairness.
 
 -   **Civil Matters:** Disputes between parties that don't rise to
     criminal level, resolved through arbitration or lord's judgment
-\column
+
 **Justice Administration**
 
 Justice is administered at multiple levels:
@@ -6271,6 +6259,10 @@ Torture is used to extract confessions but is supposed to be limited to
 serious cases. In practice, local authorities have significant
 discretion, and abuse is common in remote areas.
 
+{{pageNumber,auto}}
+{{footnote Chapter 17: The Kingdom of Thaldros}}
+\page
+
 **Rights and Protections**
 
 Commoners have few formal rights. They cannot bring legal action against
@@ -6293,10 +6285,6 @@ succession dispute. Both kingdoms claim legitimate descent from the
 pre-Worldrend High Kings; neither recognizes the other's claim. This
 makes formal diplomacy nearly impossible---every interaction becomes a
 protocol battle over who outranks whom.
-
-{{pageNumber,auto}}
-{{footnote Chapter 17: The Kingdom of Thaldros}}
-\page
 
 Despite political hostility, trade continues. Both continents need what
 the other produces, and merchants on both sides profit from commerce
@@ -6329,7 +6317,7 @@ between the continental powers. They serve as trading posts, meeting
 grounds, and refuges for those fleeing either kingdom's justice.
 Thaldros would prefer to bring them under control but lacks the naval
 power to do so.
-
+\column
 **Internal Factions**
 
 Within Thaldros, various factions compete for influence:
@@ -6358,8 +6346,6 @@ concealed facts about his birth. Those who know the truth---particularly
 General Marthos Thandris---hold dangerous leverage. Should this secret
 emerge, it could trigger succession crisis, civil conflict, or foreign
 intervention.
-
-\column
 
 **Military Ambition**
 
@@ -6394,6 +6380,10 @@ investment is low, and prosperity is concentrated among those already
 wealthy. Should economic conditions worsen, popular discontent might
 become unmanageable.
 
+{{pageNumber,auto}}
+{{footnote Chapter 17: The Kingdom of Thaldros}}
+\page
+
 **The Aethorian Question**
 
 King Aldric genuinely believes his claim to the High Kingship is
@@ -6409,7 +6399,7 @@ kingdom. The official story---that the Blackwoods were traitors who
 sought to trigger another Worldrend---is a lie concealing royal crimes.
 Should this truth emerge, it would shake the legitimacy of the entire
 Thandris dynasty.
-
+\column
 *The Kingdom of Thaldros presents itself as a model of order and
 strength. And in many ways, it is---stable, prosperous, and secure. But
 beneath the surface, secrets fester, ambitions simmer, and the rigid
@@ -6505,13 +6495,14 @@ Understanding Aethorian government requires abandoning western
 assumptions. There is no single ruler with absolute authority. There is
 no unified code of law applying everywhere equally. There is no standing
 army answering to a central command. Instead, there are overlapping
-systems of councils, compacts, and consensuses that somehow---despite or
-perhaps because of their complexity---have maintained peace and
-prosperity for over a millennium.
+systems of councils, compacts, and consensuses that somehow---despite 
 
 {{pageNumber,auto}}
 {{footnote Chapter 18: The Aethorian Harmony}}
 \page
+
+or perhaps because of their complexity---have maintained peace and
+prosperity for over a millennium.
 
 **The Aethorian Harmony**
 
@@ -47918,11 +47909,10 @@ questions have no definitive answers. But the answers may be the key to
 preventing another Worldrend, or to understanding why the first one
 truly happened.
 
-![End](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-last-page.jpg){position:absolute,bottom:0,left:0,width:100%,height:550px}
+![End](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-last-page.jpg){position:absolute,bottom:25px,left:5%,width:90%,height:450px}
 
 
 {{pageNumber,auto}}
-{{footnote Tirvandor World Bible — End}}
 \page
 
 ## Legal Notice
