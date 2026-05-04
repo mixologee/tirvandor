@@ -14303,7 +14303,6 @@ into stones at ancient sites, painted on walls in abandoned buildings,
 and tattooed on individuals who died under mysterious circumstances. The
 symbol predates the Worldrend, appearing in ruins
 
-\column
 {{margin-top:290px}}
 
 across both continents. Whether this indicates an ancient organization 
@@ -14605,16 +14604,16 @@ blood magic's positive applications.
 
 
 *Religious Orders:* The Lightbringers and Grave Wardens consider blood
-magic dangerously close to necromancy. They hunt blood mages with
-varying degrees of zeal depending on local leadership. Some paladins
-believe all blood mages should be executed;
+magic dangerously close to 
 
 {{pageNumber,auto}}
 {{footnote Chapter 27: Secret Societies}}
 \page
 
-others are willing to tolerate those who restrict themselves to 
-self-sacrifice.
+necromancy. They hunt blood mages with
+varying degrees of zeal depending on local leadership. Some paladins
+believe all blood mages should be executed; others are willing to 
+tolerate those who restrict themselves to self-sacrifice.
 
 *Vampirism Accusations:* Blood mages are constantly fighting
 associations with vampires. The two practices are distinct, vampires
@@ -14669,7 +14668,7 @@ eliminated.
 *Vampire Hunt:* The party is hunting vampires and discovers their target
 is actually a blood mage, one who may be innocent of the crimes
 attributed to them.
-
+\column
 ### 27.3 The Unbound
 
 
@@ -14730,6 +14729,10 @@ investigated his family's fall and discovered the truth: House
 Blackwood was destroyed because they were guardians of a World-Splitter
 Component, and the Crown wanted it.
 
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
 More than that, he discovered that Prince Aldric, eldest son of King
 Aldric III, murdered the Goldshore Keepers to steal another Component
 and blamed the Blackwoods. King Aldric III covered up his son's crimes
@@ -14746,13 +14749,7 @@ that bind society together.
 
 
 *Primary: Justice for House Blackwood.* Corvus wants the truth exposed,
-that his family were guardians, not
-
-{{pageNumber,auto}}
-{{footnote Chapter 27: Secret Societies}}
-\page
-
-traitors; that they died protecting the realm from the very artifact 
+that his family were guardians, not traitors; that they died protecting the realm from the very artifact 
 they were accused of seeking to use. He wants their name cleared and 
 their memory honored.
 
@@ -14858,6 +14855,10 @@ terrorist whose cause may be just.
 Blackwood without threatening the world? Can they convince Lord Shadows
 to try diplomacy before destruction?
 
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
 *The Final Confrontation:* The party faces Lord Shadows as he prepares
 to assemble the World-Splitter. They must stop him, but doing so means
 perpetuating the injustice his family suffered.
@@ -14876,10 +14877,6 @@ junctions
 **Influence:** Significant in magical and academic communities
 
 **Also Known As:** The Circle, The Ley Watchers, The Neutral Mages
-
-{{pageNumber,auto}}
-{{footnote Chapter 27: Secret Societies}}
-\page
 
 The Silver Circle is not strictly a secret society, its existence is
 publicly known, and it maintains official relationships with both
@@ -14939,10 +14936,7 @@ a blind eye to certain activities as long as plausible deniability is
 maintained. But official neutrality remains the policy, and open
 political involvement would fracture the organization.
 
-\column
-
 #### Structure
-
 
 *Circle Mages:* Full members who have completed their training and been
 accepted into the organization. They maintain autonomy in their research
@@ -14984,7 +14978,13 @@ them confidential, or, in extreme cases, have their memories modified.
 
 *Emergency Intervention:* When major threats emerge, the Circle
 sometimes takes direct action rather than waiting for governments to
-respond. These interventions are always conducted covertly and denied
+respond. 
+
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
+These interventions are always conducted covertly and denied
 afterward.
 
 #### Connections to Other Societies
@@ -15002,10 +15002,6 @@ theory.
 *The Circle of Eight:* The relationship between the Silver Circle and
 the Circle of Eight is unclear. They may be allied, overlapping, or
 entirely separate. The ambiguity is probably deliberate.
-
-{{pageNumber,auto}}
-{{footnote Chapter 27: Secret Societies}}
-\page
 
 ### 27.5 The Forgotten Monastery
 
@@ -15114,8 +15110,13 @@ Corvus Blackwood survives.
 
 *The Goldshore Keepers:* A secret branch of House Goldshore that guarded
 the Flame Heart (Second Component). Murdered by Prince Aldric when he
-sought the Component for himself. The main Goldshore line survived
-without ever knowing their cousins' true purpose.
+sought the Component for himself. The main 
+
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
+Goldshore line survived without ever knowing their cousins' true purpose.
 
 *The Deepwater Family:* Believed to guard the Tide Stone (Third
 Component). Located somewhere underwater, their current status is
@@ -15139,10 +15140,6 @@ Keeper bloodlines share certain characteristics:
 opened by Keeper blood. This biological lock ensures that even if the
 vault's location is discovered, the Component cannot be retrieved
 without a Keeper's cooperation, or their death.
-
-{{pageNumber,auto}}
-{{footnote Chapter 27: Secret Societies}}
-\page
 
 *Sworn Secrecy:* Keepers are bound by oaths that prevent them from
 revealing their charge's nature or location, even under torture. The
@@ -15172,6 +15169,8 @@ destruction severed communication with one branch. The Goldshore
 Keepers' murder eliminated another. The remaining Keepers may not even
 know each other's identities anymore.
 
+\column
+
 The World-Splitter's Components remain separated, for now. But if
 someone were to gather sufficient knowledge of the Keeper bloodlines,
 they could potentially recover all five Components. Lord Shadows has
@@ -15184,8 +15183,6 @@ one.
 The secret societies of Tirvandor do not operate in isolation. Their
 goals sometimes align, sometimes conflict, and sometimes intersect in
 unexpected ways.
-
-\column
 
 *The Unseen Hand --- The Circle of Eight:* Possibly overlapping,
 possibly allied, possibly the same organization. Both claim to work
@@ -15502,7 +15499,7 @@ the rangers as too aggressive.
 Silvaris Oakenheart (Green Circle).
 
 *Duration:* Natural alliance that developed organically over centuries.
-
+\column
 **Aethorian Council --- Druidic Circle**
 
 *Nature:* Magical and natural knowledge alliance
@@ -15573,6 +15570,10 @@ protection of civilization. The Ashwardens' work preventing volcanic
 catastrophe indirectly protects everyone, including the Council's
 territories.
 
+{{pageNumber,auto}}
+{{footnote Chapter 29: Inter-Faction Relationships}}
+\page
+
 *Joint Activities:* Resource sharing in emergencies, mutual defense
 agreements, occasional joint training.
 
@@ -15581,10 +15582,6 @@ intense; the Council is expansive and political. Limited contact means
 limited understanding.
 
 *Status:* Respectful but distant.
-
-{{pageNumber,auto}}
-{{footnote Chapter 29: Inter-Faction Relationships}}
-\page
 
 **Forgebound Guild --- Merchant League**
 
@@ -15721,10 +15718,13 @@ turned agents, information warfare.
 
 #### Philosophical Conflicts
 
-
 **Druidic Circle --- Ashwardens**
 
 *Nature:* Different views of "natural"
+
+{{pageNumber,auto}}
+{{footnote Chapter 29: Inter-Faction Relationships}}
+\page
 
 *Core Issue:* Druids believe volcanic activity is unnatural, a
 disruption that should be allowed to settle. Ashwardens believe the
@@ -15735,11 +15735,8 @@ assistance, arguments in shared councils, different positions on how to
 handle volcanic regions.
 
 *Key Dispute:* Are the volcanic seals protecting civilization or
-imprisoning something that should be free?
+imprisoning something that should be free? 
 
-{{pageNumber,auto}}
-{{footnote Chapter 29: Inter-Faction Relationships}}
-\page
 
 *Tension Level:* Low, philosophical disagreement, not active conflict.
 
@@ -15798,7 +15795,7 @@ Some suspect they themselves have been infiltrated without knowing it.
 *The Problem:* No one can be certain what the Hand's goals are, whether
 it actually exists as a unified organization, or whether they are acting
 in accordance with or opposition to its designs.
-
+\column
 **Iron Legion --- Various Powers**
 
 *Nature:* Mercenaries serve many masters
@@ -15870,6 +15867,10 @@ scout was recently killed by merchant guards.
 *Risk:* Violence is already occurring; could escalate to open warfare
 between the League's private forces and ranger guerrillas.
 
+{{pageNumber,auto}}
+{{footnote Chapter 29: Inter-Faction Relationships}}
+\page
+
 *Potential Catalyst:* Death of a prominent figure on either side.
 
 **Border Skirmishes**
@@ -15881,10 +15882,6 @@ Aethorian Council)
 
 *Current Status:* Patrols from both sides regularly clash. Neither
 government has officially acknowledged a state of conflict.
-
-{{pageNumber,auto}}
-{{footnote Chapter 29: Inter-Faction Relationships}}
-\page
 
 *Risk:* Could escalate to declared war if a major incident occurs.
 
@@ -15959,8 +15956,7 @@ accelerating
 *Complication:* The Unbound's cause has legitimate merit even if their
 methods are extreme
 
-\column
-
+{{wide
 ### 29.5 Faction Power Summary
 
 
@@ -15983,6 +15979,7 @@ methods are extreme
 |  Circle of Eight |  Secret             |  Unknown       | Legendary magical power (if they exist)|
 |  Unseen Hand     |  Secret             |  Unknown       | Influence networks (if they exist)|
 |  The Unbound     |  Revolutionary      |  Growing       | True believers, dangerous artifacts|
+}}
 
 {{pageNumber,auto}}
 {{footnote Chapter 29: Inter-Faction Relationships}}
@@ -15992,7 +15989,6 @@ methods are extreme
 
 
 #### Who Allies with Whom
-
 
 | Faction | Primary Allies | Reason |
 |:-------:|:--------------:|:------:|
@@ -16064,6 +16060,8 @@ and politics.*
 
 **Founded:** 612 CR
 
+\column
+
 #### Character and Atmosphere
 
 
@@ -16102,13 +16100,14 @@ permanence, and the fusion of human ambition with dwarven craftsmanship.
 **The Founding (612 CR):** Thorin I chose an ancient dwarven fortress
 site, building into living mountain rock. The city combined human
 surface construction with dwarf deep halls. The name means "Thandris
-Hold" in Old Dwarvish. The location was strategic: controlling mountain
-passes, accessing mythril veins, and symbolically uniting human and
-dwarf.
 
 {{pageNumber,auto}}
 {{footnote Chapter 30: Major Cities}}
 \page
+
+Hold" in Old Dwarvish. The location was strategic: controlling mountain
+passes, accessing mythril veins, and symbolically uniting human and
+dwarf.
 
 **The Crown Forge (650 CR):** Thorin I commissioned a legendary forge
 capable of creating permanent magical items. The forge requires a master
@@ -16400,7 +16399,7 @@ The Silverpine Council (city government) is chaired by Council Mistress
 Elara Silverleaf, who also serves as Rector of the University.
 Silverpine is unique---governed by a council of academics, merchants,
 and artisans rather than purely hereditary nobility.
-\column
+
 #### Districts
 
 
@@ -16585,6 +16584,10 @@ Thaldros. The king's massive debt gives them political leverage that
 mere wealth alone could not provide. Partial ownership of Port Myrthen
 extends their influence into cross-continental trade.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 #### Military
 
 
@@ -16592,10 +16595,6 @@ Private navy of eighteen merchant-warships, each armed for combat.
 Harbor guard of 200 soldiers. 100 guards securing warehouses. 50 elite
 guards protecting banking vaults. The size of their spy network is
 unknown, but its reach extends across both continents.
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 ### 30.5 Crossvale (Trade Junction)
 
@@ -16710,6 +16709,10 @@ markets.
 
 **The Heights:** Noble estates including Heartwood Manor.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 **Defensive Walls:** Rebuilt after civil war. Shows siege damage
 intentionally preserved. The Seven Scars mark wall sections damaged
 during the seven sieges.
@@ -16720,12 +16723,7 @@ during the seven sieges.
 Crossvale produces forty percent of Thaldros' grain and effectively
 controls grain prices across the kingdom. As a hub for all
 cross-continental trade, its merchants have connections in every major
-city from Kaer Thandros to
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
-Aethermere. The Heartwoods are wealthy but
+city from Kaer Thandros to Aethermere. The Heartwoods are wealthy but
 unpretentious---their economic leverage speaks louder than any display
 of riches.
 
@@ -16788,7 +16786,7 @@ a city. He married into three major clans over fifteen years, binding
 their interests through blood. Through diplomacy, strategic marriages,
 and occasional violence, he united enough clans to make his vision
 reality.
-\column
+
 **The Founding (967 CR):** Malik proclaimed the founding of
 Sundara---the "City of the Sun"---at the great oasis cluster. He built
 initial structures himself alongside followers, demonstrating through
@@ -16837,6 +16835,10 @@ interests carefully. The succession remains unclear among his seven
 children. High Priest Rashid Al-Sahir serves as spiritual counterweight
 to the Sultan's pragmatism.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 #### Districts
 
 
@@ -16848,10 +16850,6 @@ miraculous in the desert.
 
 **The Great Bazaar:** The largest covered market in Thaldros. The
 massive structure shields traders from the sun while they negotiate.
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 **The Clan Quarters:** Different nomadic clans maintain their own
 territories within the city, preserving traditional identities.
@@ -16962,6 +16960,10 @@ withstand dragonfire. Underground vaults protected treasures in chambers
 cooled by redirected underground streams. Called impregnable for two
 hundred years.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 **The Dragon's Wrath (1156 CR):** The ancient red dragon Infernalix
 emerged from a volcanic chamber deep in the Ashfall Barrens, claiming
 the entire volcanic region as her territory. She demanded tribute---half
@@ -16973,14 +16975,9 @@ mistake.
 The dragon attacked in a single day. Her flames burned hotter than
 volcanic forges, reducing "fire-resistant" construction to slag. She
 destroyed half the city in hours, burned the "impregnable" Emberthorn
-fortress to a hollow shell, killed Lord Marcus and most
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
-of his family, enslaved survivors who surrendered, and looted family 
-vaults called inviolable.
+fortress to a hollow shell, killed Lord Marcus and most of his family, 
+enslaved survivors who surrendered, and looted family vaults called 
+inviolable.
 
 **The Occupation (1156-1201 CR):** For forty-five years, Infernalix
 ruled Ashgate directly. Survivors paid tribute or died. Population
@@ -17044,10 +17041,7 @@ food storage (heat spoils food quickly above), refuge during eruptions,
 and secrets. Something from the dragon's time may remain hidden in
 deeper chambers.
 
-\column
-
 #### Economy
-
 
 Ashgate holds monopolies on obsidian and volcanic iron, exports fire
 opals and heat-resistant glass. But the dragon's occupation destroyed
@@ -17090,6 +17084,10 @@ distinct character, history, and role in the empire's politics and
 economy. Together they form a network of power, commerce, and culture
 that defines the western continent.*
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 ### 30.8 Aethermere (Capital)
 
 
@@ -17112,13 +17110,7 @@ Aethermere doesn't sit in the forest---it IS the forest. The city grows
 organically from five great world-trees, the largest living things in
 the known world. Massive trees hundreds of feet tall form the framework.
 Buildings are shaped from living wood, grown rather than built over
-generations. Bridges of woven vines
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
-connect platforms at multiple canopy
+generations. Bridges of woven vines connect platforms at multiple canopy
 levels. Roots the size of houses create natural archways and chambers.
 
 The entire city pulses with life. Leaves rustle constantly. Luminous
@@ -17215,6 +17207,11 @@ unquestioned center of eastern civilization.
 **The Splittide Rebellion (1089-1092 CR):** The same years that saw the
 Blackwood Rebellion in Thaldros brought civil war to Aethoria. House
 Splittide, ruling the southwestern peninsula, sided with fey claims to
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 territory they said had been stolen centuries earlier. Queen Elaria
 crushed the rebellion with brutal efficiency. House Splittide was
 destroyed, their surviving members executed for treason, their lands
@@ -17227,10 +17224,6 @@ declining in ways even powerful druids struggle to understand, western
 expansion pushes ever closer to Aethorian borders, and---a secret known
 only to the innermost circle---one of the five world-trees that form the
 city's heart is slowly dying.
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 #### Government
 
@@ -17309,7 +17302,7 @@ belongs to an ancient family.
 -   **The Star Walk:** Highest bridges, walking among stars
 
 -   **Noble Groves:** Each house has sacred grove
-\column
+
 ##### The Living City (Middle Canopy)
 
 Where most citizens live and work. Woven platforms, shaped wood
@@ -17363,6 +17356,10 @@ clearings, sacred springs.
 -   **Trade:** Minimal---elves don't value gold like others, trade in
     favors and knowledge
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 -   **Symbolic:** Queen doesn't rule through wealth but through
     forest's blessing
 
@@ -17378,10 +17375,6 @@ clearings, sacred springs.
     invaders
 
 -   **Magic:** Druidic wards, tree magic, connection to fey realm
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 -   **The Trees Fight:** In crisis, world-trees themselves defend city
 
@@ -17503,6 +17496,10 @@ territory---the same great house that would later split into Silverleaf
 Star Wardens, built the Grand Observatory here. Population estimates
 suggest 2,000 to 3,000 elven scholars.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 **Why Meteors Fall Here:** Even after centuries of study, the
 Starweavers cannot fully explain why meteors strike this region with
 unusual frequency. Most accepted theory involves intersection of
@@ -17513,17 +17510,12 @@ something in the region is actively attracting the meteors.
 
 #### The Worldrend (Year 0 CR)
 
-
 When the world tore itself apart, the Observatory Citadel was damaged
 but survived---its enchanted foundations proving stronger than
 cataclysmic forces. The Starweavers found themselves cut off from their
 western kin (who became House Silverleaf). Strangely, meteor activity
 actually increased following the Worldrend, as if the cataclysm had
 enhanced whatever drew celestial objects here.
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 #### House Starweaver Rule
 
@@ -17630,6 +17622,10 @@ Library containing pre-Worldrend texts, prophecies, forbidden knowledge.
 
 -   **The Study Chambers:** Where scholars research in isolation
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 -   **The Scripting Hall:** Where new observations recorded
 
 ##### The Tower District (Surrounding)
@@ -17656,10 +17652,6 @@ Dangerous collection areas where celestial debris is harvested.
 -   Collection platforms (hazardous work)
 
 -   Processing facilities
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 ##### The Market Circle (Ground Level)
 
@@ -17742,7 +17734,6 @@ to stop it.
 
 ### 30.10 Crystalbrook (Trade Hub)
 
-![30.10 Crystalbrook (Trade Hub)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ironhold-dwarven-mountain-city.jpg){width:325px}
 
 
 **Region:** The Crystalvale
@@ -17771,13 +17762,15 @@ rainbows, water reflects buildings, glass gleams. At night, magical
 lights beneath water create ethereal glows. The sound of flowing water
 is constant---musical, soothing.
 
-The lake itself is unnaturally clear---you can see 100 feet down. Fish
-swim in crystal waters. Water plants wave in currents. The
-Crystalborn's water-speaking magic maintains the purity.
-
 {{pageNumber,auto}}
 {{footnote Chapter 30: Major Cities}}
 \page
+
+![30.10 Crystalbrook (Trade Hub)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ironhold-dwarven-mountain-city.jpg){width:325px}
+
+The lake itself is unnaturally clear---you can see 100 feet down. Fish
+swim in crystal waters. Water plants wave in currents. The
+Crystalborn's water-speaking magic maintains the purity.
 
 **Atmosphere:** Peaceful, mystical, slightly alien. The Crystalborn have
 evolved beyond normal merchant concerns---they're water-speakers now,
@@ -17869,6 +17862,10 @@ to ruins of Palace Port, seeking the legendary Deepwater archives. This
 puts them on collision course with House Goldshore, who claim the same
 legacy---and the same archives.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 #### Government
 
 
@@ -17901,10 +17898,6 @@ legacy---and the same archives.
     mother's favorite
 
 Two heirs have died "accidentally" (actually murdered by siblings).
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 #### Districts
 
@@ -18020,6 +18013,10 @@ lake surface.
 
 -   **Flooded Defenses:** Can flood areas to stop invaders
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 -   **Lake Itself:** Attackers can't cross without Crystalborn
     permission
 
@@ -18062,10 +18059,6 @@ to stop without losing their power.
 ships. Crystalborn watched from a distance and did nothing. In 1246 CR,
 pirates stole a crucial Goldshore map---Crystalborn arranged this theft
 but denied involvement.
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 **The Vault Location:** Lady Aria has secretly discovered the location
 of the main Deepwater family vault beneath the Sundering Sea. Reaching
@@ -18159,6 +18152,10 @@ circles as neutral territory---a compromise satisfying no one entirely.
 Fey courts retreated to hidden realms, relations strained for
 generations.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 #### The Druidic Era (1092-Present)
 
 
@@ -18193,10 +18190,6 @@ leaves, creaking branches, and---rarely---direct speech.
 **Fey Court:** Representatives maintain voice in council decisions,
 coming and going according to inscrutable schedules.
 
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
 **Governance Structure:**
 
 -   No laws, only traditions
@@ -18229,7 +18222,7 @@ worlds are thinnest here.
 
 A place of medical and spiritual care, where sick and wounded are
 tended.
-
+\column
 ##### The Wild Heart
 
 The most sacred grove, restricted to elder druids. What occurs here is
@@ -18270,7 +18263,7 @@ Wildgrove has no traditional economy:
 -   Fey trade in favors, not goods
 
 -   Material wealth has no meaning here
-\column
+
 #### Defenses
 
 
@@ -18303,6 +18296,10 @@ Wildgrove has no traditional economy:
 -   **The Green Mother** (unknown): Mysterious entity appearing as
     dryad, treant, or elf depending on viewer---might be forest spirit
     or actual deity
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 #### Secrets
 
@@ -18345,10 +18342,6 @@ it's well-maintained---residents constantly repair, replace, rebuild.
 The city smells of wet earth, decay, and growth simultaneously. The
 sound of frogs and insects is constant. By night, bioluminescent swamp
 life creates eerie glows.
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 The city looks temporary but has stood 400 years. It's adapted, learned
 to thrive where others would fail. There's pride in that.
@@ -18409,7 +18402,7 @@ treasures, and they guarded those secrets jealously. Their poison craft
 became legendary---not just for killing, but for healing draughts
 derived from understanding toxins. By 1000 CR, Marshaven had grown to
 3,000 residents.
-\column
+
 **The Dubious Methods:** From founding, House Thornveil embraced gray
 morality. They hired necromancers to study the boundary between life and
 death. Employed dark druids expelled from their circles for forbidden
@@ -18430,7 +18423,13 @@ visible moral disapproval, but granted nonetheless. Population reached
 
 **The Expansion (1100-1200 CR):** New platforms rose above original
 structures, connected by spiral staircases and rope bridges. Alchemical
-gardens bloomed on every surface. A sprawling laboratory complex grew at
+gardens 
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+bloomed on every surface. A sprawling laboratory complex grew at
 city's heart, while secret facilities spread through the marsh in
 hidden locations. Population reached 7,000.
 
@@ -18470,10 +18469,6 @@ Something is being planned in Marshaven's laboratories.
 -   Planning major political moves---possibly coup against the queen
 
 -   Dangerously ambitious
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 #### Districts
 
@@ -18579,6 +18574,10 @@ Only area on actual solid ground. More expensive, coveted.
 
 -   **Growing Fastest:** Fastest economic growth in Aethoria
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 #### Military & Defenses
 
 
@@ -18631,10 +18630,6 @@ Only area on actual solid ground. More expensive, coveted.
 Thornveils know because they've been feeding it---whether intentionally
 or accidentally, their alchemical waste has awakened something that
 shouldn't be awake.
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 **The Radical Heir:** Lyra Thornveil's plans go far beyond what her
 father imagines. She doesn't just want political influence---she wants
@@ -18725,7 +18720,13 @@ factions---each insisting the island belonged to them.
 
 
 The refugees and original inhabitants, led by a merchant captain named
-Myrthen Seaborn, made an audacious choice. Rather than submit to any
+Myrthen Seaborn, made an 
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+audacious choice. Rather than submit to any
 continental power, they declared independence. "Neutral for all, owned
 by none" became their motto.
 
@@ -18758,13 +18759,7 @@ Crystalborn has intensified, and Port Myrthen sits directly between
 them. Each house pressures the Merchant Council to favor their
 interests; each threatens consequences for favoring the other. The
 neutrality that once seemed unshakeable now feels fragile. Population
-has grown to 9,000, but many
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
-residents worry the city is walking a
+has grown to 9,000, but many residents worry the city is walking a
 political tightrope with no net below.
 
 
@@ -18870,6 +18865,10 @@ Where permanent residents live.
 
 -   Growing distinct "Port Myrthen" culture
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 -   Children born here consider themselves neutral
 
 ##### The Heights
@@ -18919,10 +18918,6 @@ from seizing control.
 
 -   **Wealth:** Can afford the best mercenaries and defenses
 
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
 #### Notable NPCs
 
 
@@ -18960,13 +18955,14 @@ wars.
 whether Port Myrthen could become something more than a neutral trading
 post---perhaps the nucleus of a third power, independent of both
 continents. This is dangerous thinking.
-\column
+
 **The Deepwater Archives:** Both Goldshore and Crystalborn use Port
 Myrthen as a staging ground for expeditions to the sunken Palace Port.
 The Merchant Council profits from both sides, but if either house ever
 retrieved the legendary archives, it could upset the balance
 permanently.
 
+{{wide
 ### 30.14 SUMMARY TABLE: AETHORIAN MAJOR CITIES
 
 
@@ -18978,7 +18974,7 @@ permanently.
 | **Wildgrove** | Split Peninsula | 5,000 | Elder Council (druids) | Sacred neutral sanctuary |
 | **Marshaven** | Thornmire | 8,000 | House Thornveil | Swamp fortress, alchemy/poisons |
 | **Port Myrthen** | Drifting Chain | 9,000 | Merchant Council | Neutral trade hub between continents |
-
+}}
 {{pageNumber,auto}}
 {{footnote Chapter 30: Major Cities}}
 \page
@@ -19543,7 +19539,7 @@ ancient civilizations.
 -   Elders forbid entry (dangerous) but treasure hunters gathering
 
 -   Tension rising between cautious locals and eager adventurers
-\column
+
 ###### Oasis Rest
 
 **Population:** ~2,100
@@ -20258,7 +20254,7 @@ thrive where others cannot survive.
 -   Center for reed harvesting
 
 -   Basket weaving industry
-\column
+
 -   Paper making from reeds
 
 -   Thatching materials exported
@@ -20389,6 +20385,7 @@ worship.
 
 -   Peaceful, meditative atmosphere
 
+{{wide
 #### 31.19 SUMMARY TABLE: ALL AETHORIA TOWNS
 
 
@@ -20423,7 +20420,7 @@ worship.
 | | Southvale | 1,900 | Tropical fruits, southern trade |
 | | Mountainhome | 1,800 | Stone quarry, climbing school |
 | | Thornhaven | 1,800 | Island monastery |
-
+}}
 ##### TOTAL: 26 Towns across 7 Regions
 
 **Regional Distribution:**
@@ -20443,7 +20440,7 @@ worship.
 -   Verdant Wall/Split Peninsula (South): 5 towns (11,200 combined)
 
 **Total Town Population:** ~75,400
-
+\column
 ##### KEY NARRATIVE ELEMENTS
 
 **Moonwatch & Moonwell:** Lunar druid strongholds with sacred wells
@@ -21081,13 +21078,11 @@ formal noble house was established when the keep was built.
 -   Both seeking Deepwater archives
 
 -   Naval war increasingly likely
-\column
+
 ### 32.5 Legendary & Sacred Locations
 
-
 #### Thaldros Legendary Sites
-
-
+\column
 ##### The Crown Forge (Kaer Thandros)
 
 -   Located in the capital
@@ -21761,12 +21756,15 @@ When the world tore itself apart and the continents split, Silverpine
 remained anchored in the western forests. The elves found themselves
 suddenly, permanently cut off from their eastern kin---those who would
 eventually become House Starweaver. The magical disruption that
-accompanied the cataclysm killed several world-trees, an event the elves
-still mourn twelve centuries later.
+accompanied the cataclysm 
 
 {{pageNumber,auto}}
 {{footnote Chapter 33: Settlement Histories and Founding Narratives}}
 \page
+
+killed several world-trees, an event the elves
+still mourn twelve centuries later.
+
 ##### The Western Branch Era (0-450 CR)
 
 **Rebuilding (0-200 CR):**
@@ -21955,7 +21953,7 @@ When the red dragon Infernalix demanded tribute, the kingdom turned
 again to Goldshore financing. The house loaned massive sums for dragon
 defense---sums the crown still hasn't repaid. Today, King Aldric IV
 owes approximately 50,000 gold to House Goldshore.
-\column
+
 ##### Current Status (1247 CR)
 
 **Rulers:**
@@ -22019,12 +22017,15 @@ soil was among the most fertile in the kingdom.
 
 The three families jointly invested in the settlement, making an unusual
 decision: they would build a planned city with a grid street pattern
-designed specifically for commerce. This was rare in Thaldros, where
-most cities grew organically around fortresses or temples.
+designed 
 
 {{pageNumber,auto}}
 {{footnote Chapter 33: Settlement Histories and Founding Narratives}}
 \page
+
+specifically for commerce. This was rare in Thaldros, where
+most cities grew organically around fortresses or temples.
+
 ##### The Early Era (698-850 CR)
 
 **The Three Families Period:**
@@ -22092,7 +22093,7 @@ reconstruction. By 1200 CR, Crossvale's population had recovered to
 A practical, no-nonsense ruler who lives simply despite his family's
 enormous wealth. Trained in farming before politics---as were all five
 of his children.
-\column
+
 **Government Structure:**
 
 The Council of Five governs, with one representative for each of the
@@ -22156,12 +22157,13 @@ desert trade.
 Rather than trying to conquer the nomads by force, he married into three
 major clans over fifteen years, binding their interests to his own
 through blood and kinship. Through diplomacy, strategic marriages, and
-occasional well-targeted violence, he united enough clans to make his
-vision reality.
 
 {{pageNumber,auto}}
 {{footnote Chapter 33: Settlement Histories and Founding Narratives}}
 \page
+
+occasional well-targeted violence, he united enough clans to make his
+vision reality.
 
 **The Founding (967 CR):**
 
@@ -22555,6 +22557,10 @@ When the world tore itself apart, the Observatory Citadel was damaged
 but survived. Strangely, meteor activity actually increased following
 the Worldrend.
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
 ##### House Starweaver Rule (Year 0 - Present)
 
 **The Separation (0-450 CR):**
@@ -22562,11 +22568,6 @@ the Worldrend.
 For centuries, the eastern elves attempted to maintain contact with
 their western kin. Messages were sent across the Sundering Sea; none
 returned. The eastern branch evolved in its own direction, pursuing
-
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
-
 pure astronomical focus while abandoning forest magic. In 327 CR, a
 diplomatic mission from the west arrived---and was rejected. In 450 CR,
 they officially took the name "House Starweaver."
@@ -22629,7 +22630,7 @@ patterns aligned with star positions.
 
 -   **The Meteor Fields:** Dangerous collection areas where celestial
     debris is harvested
-\column
+
 **The Grand Observatory:**
 
 The largest telescope in the known world, the Grand Observatory can see
@@ -22687,15 +22688,17 @@ sites---an act that permanently poisoned relations.
 
 Something strange began happening to Crystalborn children around 200 CR.
 They began manifesting abilities to communicate with water, to sense
-through it, to breathe beneath it. These water-speaking powers, unknown
-before the Worldrend, became increasingly common with each generation.
-By 450 CR, the transformation was complete---House Crystalborn had
-become something their Deepwater ancestors never were: mystics as much
-as merchants.
+through it, to breathe beneath it. These water-speaking 
 
 {{pageNumber,auto}}
 {{footnote Chapter 33: Settlement Histories and Founding Narratives}}
 \page
+
+powers, unknown
+before the Worldrend, became increasingly common with each generation.
+By 450 CR, the transformation was complete---House Crystalborn had
+become something their Deepwater ancestors never were: mystics as much
+as merchants.
 
 ##### House Crystalborn Rule (450 CR - Present)
 
@@ -22768,7 +22771,7 @@ Marshaven was founded in the treacherous Thornmire Marches---swampland
 that most civilizations avoided. Those who built here did so for
 resources others couldn't reach: rare herbs, alchemical components, and
 the isolation itself.
-\column
+
 **The Founding (850 CR):**
 
 The first settlers were outcasts, refugees, and those seeking to escape
@@ -22830,6 +22833,10 @@ but swarms with life.
 -   Plague-resistant population (natural immunity developed over
     generations)
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
 #### Port Myrthen (Neutral Island City)
 
 
@@ -22838,10 +22845,6 @@ but swarms with life.
 **Population:** ~9,000
 
 **Status:** Neutral Trade Hub
-
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
 
 ##### Foundation (Pre-Worldrend)
 
@@ -22899,7 +22902,7 @@ not hereditary.
 Built around a natural harbor, the city serves ships from everywhere.
 Architecture mixes styles from both continents. Multiple currencies are
 accepted. No questions are asked.
-
+\column
 **Districts:**
 
 -   **The Harbor:** Main docking area for commercial vessels
@@ -22911,7 +22914,7 @@ accepted. No questions are asked.
 -   **The Black Market:** Unofficial but tolerated
 
 -   **The Embassies:** Representatives from major powers
-\column
+
 **Special Status:**
 
 -   Absolutely neutral territory
@@ -22979,6 +22982,10 @@ been recovered despite thousands of attempts.
 
 -   The Kraken (controlled by someone?)
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
 -   Water elementals
 
 -   Undead (drowned victims?)
@@ -22994,10 +23001,6 @@ been recovered despite thousands of attempts.
 -   412 CR: Map theft (Goldshore from Crystalborn)
 
 -   789 CR: Entire diving expedition vanished
-
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
 
 -   1156 CR: Dragon attacked salvagers
 
@@ -23123,7 +23126,7 @@ his chief of security, and the architect who built it (now dead).
 
 -   A ledger proving the bank owner funds the Shadow Syndicate's
     operations
-\column
+
 **Security:** Twenty bank guards patrol day and night. Magical locks
 require both password and key. A glyph of warding protects the door. A
 silent alarm alerts the owner upon entry.
@@ -23752,14 +23755,14 @@ serene and in complete control, regardless of circumstances.
 
 **Threat Level:** One of the most powerful spellcasters alive. While she
 avoids physical confrontation, her mastery of divination magic means she
-often knows what enemies will do before they act. Her ability to see
-possible futures, combined with centuries of magical study, makes her
-nearly impossible to surprise or outmaneuver. She could devastate
+often knows what enemies will do before they act. Her ability to 
 
 {{pageNumber,auto}}
 {{footnote Chapter 36: Royalty and Heads of State}}
 \page
 
+see possible futures, combined with centuries of magical study, makes her
+nearly impossible to surprise or outmaneuver. She could devastate
 an army if forced to defend herself, though she would consider such
 violence a personal failure.
 
@@ -24150,15 +24153,15 @@ rather than from behind.
 
 -   Sometimes too trusting of those who seem earnest
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 -   Struggles with political maneuvering---prefers direct action to
     subtle manipulation
 
 -   Carries guilt over being groomed for kingship while others fight on
     the frontiers
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
 
 #### Complete Background & History
 
@@ -24218,9 +24221,8 @@ the kingdom's fate will rest on his decisions.
 
 -   **Prince Marcus** (age 19) - His younger brother, still training as
     a knight
-
+\column
 #### Goals & Motivations
-
 
 **Immediate Goals:**
 
@@ -24285,6 +24287,10 @@ the kingdom's fate will rest on his decisions.
     future reunification; their relationship may be developing into
     something deeper
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 #### Secrets
 
 
@@ -24296,9 +24302,6 @@ accused of treason by hardliners on their respective sides. The letters
 are encoded using a cipher they developed together and delivered through
 trusted merchant intermediaries.
 
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
 **The Older Half-Brother**
 
 During his northern service, Thorin discovered evidence of a bastard
@@ -24404,7 +24407,13 @@ Princess Elanil embodies graceful elegance at five feet eight inches and
 one hundred twenty-five pounds. She possesses the ethereal beauty
 typical of high elves but warmed by genuine kindness that makes her
 approachable despite her royal status. Her long silver-blonde hair is
-usually styled in elaborate braids woven with flowers and crystal beads
+usually styled in elaborate braids woven 
+
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
+with flowers and crystal beads
 that catch the light when she moves.
 
 Her violet eyes are her most notable feature---they seem to see through
@@ -24419,13 +24428,7 @@ confrontation, Elanil is a master of enchantment magic capable of
 charming enemies, redirecting attacks, and controlling minds when
 necessary. Her true power lies in her diplomatic abilities---she has
 prevented three wars through negotiation alone. Anyone who mistakes her
-gentle
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
-
-demeanor for weakness has already lost whatever game they thought
+gentle demeanor for weakness has already lost whatever game they thought
 they were playing.
 
 #### Personality & Mannerisms
@@ -24536,6 +24539,10 @@ secret at border locations. This is dangerous---if exposed, both could
 be accused of treason---but they believe it is necessary for the future
 of both peoples.
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 Their relationship has grown beyond political alliance into genuine
 friendship, and possibly something deeper. Elanil is uncertain whether
 her feelings for Thorin are real or merely the romantic excitement of
@@ -24552,10 +24559,6 @@ their shared dangerous mission.
 -   Protect the secret correspondence with Prince Thorin
 
 -   Survive the assassination attempts being made on her life
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
 
 **Medium-Term Ambitions:**
 
@@ -24621,7 +24624,7 @@ treason by hardliners on both continents. The letters discuss specific
 plans for gradual reunification---trade agreements leading to political
 alliance leading to eventual merger. If intercepted and decoded, both
 kingdoms could explode into crisis.
-\column
+
 **The Mother's Knowledge**
 
 High Queen Aelindra knows about the correspondence and quietly
@@ -24669,7 +24672,13 @@ conspiracy operating across both continents.
 
 **The Artifact Hunt:** Elanil reveals her quest to find Celestial
 Compass fragments and requests help recovering one from a dangerous
-location. Others are also seeking these pieces---for potentially
+location. Others are 
+
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
+also seeking these pieces---for potentially
 apocalyptic purposes.
 
 **The Exposed Letters:** Someone steals the correspondence between
@@ -24682,9 +24691,6 @@ is planned during a major diplomatic summit. Investigators must identify
 the conspirators and prevent an incident that could undo decades of
 careful diplomacy.
 
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
 **The Impossible Choice:** War threatens between the kingdoms. Elanil
 offers heroes a controversial mission that could prevent war but
 requires morally questionable actions. Will they help her, or refuse and
@@ -24738,7 +24744,7 @@ He usually wears elaborate robes covered in embroidered runes and
 astrological symbols, each with specific magical meaning. He carries an
 ancient staff that hums with barely contained arcane power. His fingers
 are perpetually stained with ink from constant research and note-taking.
-\column
+
 **Threat Level:** One of the most powerful wizards alive. His mastery of
 divination means he can often predict enemy actions before they occur,
 while his command of defensive and offensive magic can devastate armies.
@@ -24792,6 +24798,10 @@ spells to lethal force when possible.
 -   *"Magic is truth made manifest. Reality bends to those who
     understand it."*
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 **Personal Flaws:**
 
 -   Can be condescending when others do not understand concepts he sees
@@ -24802,10 +24812,6 @@ spells to lethal force when possible.
 -   Uncomfortable with unpredictability and chaos
 
 -   Struggles with emotional situations, strongly preferring logic
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
 
 #### Complete Background & History
 
@@ -24867,7 +24873,7 @@ clearly---which disturbs him more than any specific threat would.
 -   Protect his family from the shadows gathering in his visions
 
 -   Continue his research into the magical causes of the Worldrend
-\column
+
 **Medium-Term Ambitions:**
 
 -   Identify the nature of the approaching crisis
@@ -24919,6 +24925,10 @@ clearly---which disturbs him more than any specific threat would.
 -   Multiple divinations show trouble emanating from Thaldros, but he
     cannot pinpoint the source
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 #### Secrets
 
 
@@ -24929,10 +24939,6 @@ family---but the details keep shifting. In some visions his mother dies,
 in others his sister, sometimes both. He does not know if these futures
 are inevitable or preventable, and he is terrified that trying to
 prevent them might actually cause them to occur.
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
 
 **The Forbidden Research**
 
