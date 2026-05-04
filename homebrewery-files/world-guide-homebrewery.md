@@ -6624,16 +6624,16 @@ Guild rivalries over resources and influence create ongoing tensions,
 but the system produces efficient governance focused on concrete results
 rather than abstract principles.
 
+{{pageNumber,auto}}
+{{footnote Chapter 18: The Aethorian Harmony}}
+\page
+
 **Notable Leaders:**
 
 -   *Guildmaster Theron Clearwater:* Head of the Merchant Guild, de
     facto leader of the Compact
 
 -   *Captain Mira Wavecrest:* Commands the lake patrol fleet
-
-{{pageNumber,auto}}
-{{footnote Chapter 18: The Aethorian Harmony}}
-\page
 
 -   *Sage Cornelius Reed:* Magical researcher and council advisor
 
@@ -6750,21 +6750,21 @@ unavailable anywhere else.
 
 **Natural Resources:** Rare woods from the ancient forests, alchemical
 components from the swamps, crystals with magical properties from the
-Crystalvale. These resources are harvested sustainably---druids ensure
-that extraction never exceeds what the land can bear.
+Crystalvale. These resources are harvested sustainably---druids 
+
+{{pageNumber,auto}}
+{{footnote Chapter 18: The Aethorian Harmony}}
+\page
+
+ensure that extraction never exceeds what the land can bear.
 
 **Agricultural Products:** The Brightwater Valley produces grain
 sufficient for Aethoria's needs with surplus for export. Specialty
 crops impossible to grow in Thaldros' climate bring additional revenue.
 
 **Knowledge:** Education itself is an export. Scholars travel to
-Aethoria to study at its academies. Research
-
-{{pageNumber,auto}}
-{{footnote Chapter 18: The Aethorian Harmony}}
-\page
-
-conducted here advances magical and mundane understanding alike.
+Aethoria to study at its academies. Research conducted here advances 
+magical and mundane understanding alike.
 
 **Trade Networks**
 
@@ -6818,7 +6818,7 @@ laborers.
 
 **By Community:** Each settlement has its own internal hierarchy. What
 matters in Aethermere differs from what matters in Marshaven.
-
+\column
 **Social Mobility**
 
 Movement between social strata is more possible in Aethoria than in
@@ -6878,6 +6878,10 @@ Blaming others for one's failures is contemptible.
 should consider consequences across generations, not just immediate
 effects. Rushing into action without reflection causes harm.
 
+{{pageNumber,auto}}
+{{footnote Chapter 18: The Aethorian Harmony}}
+\page
+
 **Religious Practice**
 
 Faith in Aethoria is personal rather than institutional. Druids serve as
@@ -6894,9 +6898,6 @@ venerated deities, their values aligning naturally with Aethorian
 culture. But all Seven find worshippers, and religious diversity is
 embraced rather than merely tolerated.
 
-{{pageNumber,auto}}
-{{footnote Chapter 18: The Aethorian Harmony}}
-\page
 
 ### 18.6 Laws and Justice
 
@@ -6947,6 +6948,8 @@ Punishments typically emphasize restoration over retribution:
 -   **Death:** Reserved for the most severe crimes, particularly those
     threatening community survival
 
+\column
+
 **Rights and Protections**
 
 Individual rights are taken seriously:
@@ -6964,8 +6967,6 @@ Individual rights are taken seriously:
 These rights are not absolute---they can be limited when they conflict
 with others' rights or community welfare. But the presumption favors
 liberty, with restrictions requiring justification.
-
-\column
 
 ### 18.7 Relations with Other Powers
 
@@ -7408,6 +7409,10 @@ expertise.
 wealthy. Suspicious of surface-dwellers despite human allies. Three sons
 in line for succession, following traditional dwarf rivalry patterns.
 
+{{pageNumber,auto}}
+{{footnote Chapter 20: Noble Houses of Thaldros}}
+\page
+
 **Three Sons:**
 
 -   *Thorin* (eldest) --- Traditional, expects to inherit
@@ -7415,10 +7420,6 @@ in line for succession, following traditional dwarf rivalry patterns.
 -   *Balin* (middle) --- Innovative, actually the most capable
 
 -   *Dwalin* (youngest) --- Aggressive, impatient
-
-{{pageNumber,auto}}
-{{footnote Chapter 20: Noble Houses of Thaldros}}
-\page
 
 **Holdings:**
 
@@ -7545,6 +7546,10 @@ in 1089 CR.
 
 *Legacy:* Name still whispered in Silverwood; some consider them heroes
 
+{{pageNumber,auto}}
+{{footnote Chapter 20: Noble Houses of Thaldros}}
+\page
+
 **The Lost Heir --- The Truth**
 
 The most credible information: Lord Shadows, leader of the revolutionary
@@ -7554,10 +7559,6 @@ twelve years old in 1204 CR when Crown intelligence discovered his
 family's identity. King Aldric III ordered the Second Blackwood
 Purge---soldiers came in the night, executed his parents, and burned
 their home.
-
-{{pageNumber,auto}}
-{{footnote Chapter 20: Noble Houses of Thaldros}}
-\page
 
 Young Corvus escaped through a secret passage. For 43 years, he has
 lived as a ghost, building a network of those wronged by the powerful.
@@ -7676,6 +7677,10 @@ conscience. Knows secrets of pre-Worldrend magic and history.
 
 -   Pre-Worldrend magical knowledge
 
+{{pageNumber,auto}}
+{{footnote Chapter 20: Noble Houses of Thaldros}}
+\page
+
 **Alliances:**
 
 -   House Thandris (marriage alliance, political necessity)
@@ -7693,10 +7698,6 @@ conscience. Knows secrets of pre-Worldrend magic and history.
 -   Those who remember their neutrality during crises
 
 -   House Starweaver (ancient family feud across the sea)
-
-{{pageNumber,auto}}
-{{footnote Chapter 20: Noble Houses of Thaldros}}
-\page
 
 **Secrets:**
 
@@ -7762,7 +7763,7 @@ choice but to grant them nobility in exchange for tax revenues.
 
 -   1050 CR: Granted nobility by King Thandris in exchange for tax
     revenues
-\column
+
 -   1156 CR: Profited enormously from dragon crisis by providing war
     supplies
 
@@ -7820,6 +7821,10 @@ are made and unmade.
 
 -   The Merchant's Guild (controls leadership)
 
+{{pageNumber,auto}}
+{{footnote Chapter 20: Noble Houses of Thaldros}}
+\page
+
 -   House Goldshore (trade partnership)
 
 **Rivalries:**
@@ -7836,10 +7841,6 @@ are made and unmade.
 planning to disinherit him in favor of a younger brother. Rashid acted
 first. Only his personal servant knows, and that servant is now very
 wealthy and very loyal.
-
-{{pageNumber,auto}}
-{{footnote Chapter 20: Noble Houses of Thaldros}}
-\page
 
 *The Eldest Son:* Rashid knows which of his sons killed the heir. It was
 the fourth son---only 12 at the time. Rashid is oddly proud. He's
@@ -7962,6 +7963,10 @@ effectively hold the Crown's financial future hostage.
 legitimate heirs of House Deepwater. Both claim the sunken vaults. The
 feud spans 1,247 years and shows no signs of resolution.
 
+{{pageNumber,auto}}
+{{footnote Chapter 20: Noble Houses of Thaldros}}
+\page
+
 ### 20.8 House Stonefist (Declining --- Mountain Clan)
 
 
@@ -7987,10 +7992,6 @@ succession crisis in 780 CR.
 -   780 CR: Backed losing claimant; punished with reduced territory
 
 -   Rival clan Ironforge granted their best mines as reward for loyalty
-
-{{pageNumber,auto}}
-{{footnote Chapter 20: Noble Houses of Thaldros}}
-\page
 
 -   893 CR: Ironforge discovered huge mythril deposit in former
     Stonefist land
@@ -8064,8 +8065,6 @@ House Stonefist---ending the feud but erasing the Stonefist name
 forever. Grimni refuses to consider it. Some younger Stonefists
 disagree.
 
-\column
-
 ### 20.9 House Heartwood (Dominant --- Agricultural Lords)
 
 **Status:** Dominant (The Breadbasket)
@@ -8126,6 +8125,10 @@ favorite regions.
 
 -   Produces 40% of Thaldros' food
 
+{{pageNumber,auto}}
+{{footnote Chapter 20: Noble Houses of Thaldros}}
+\page
+
 -   Controls grain prices
 
 -   Commands loyalty of farming communities
@@ -8145,10 +8148,6 @@ favorite regions.
 -   House Ashborne (desert vs. farmland resource conflicts)
 
 -   Merchant houses (price negotiations)
-
-{{pageNumber,auto}}
-{{footnote Chapter 20: Noble Houses of Thaldros}}
-\page
 
 -   Noble houses that need grain (resent the dependency)
 
@@ -8281,6 +8280,10 @@ bastard child with a servant woman before the dragon attack. If true,
 this heir might be found---but Lady Sera refuses to acknowledge the
 possibility.
 
+{{pageNumber,auto}}
+{{footnote Chapter 20: Noble Houses of Thaldros}}
+\page
+
 ### 20.11 House Seawatch (Declining --- Coastal Guardians)
 
 
@@ -8300,10 +8303,6 @@ Founded in 780 CR as a military house to defend against coastal raids,
 House Seawatch once controlled the entire Shattered Shore. They built
 fortresses, maintained a navy, and protected trade routes from pirates
 and raiders.
-
-{{pageNumber,auto}}
-{{footnote Chapter 20: Noble Houses of Thaldros}}
-\page
 
 But as external threats decreased and merchant wealth increased, the
 world changed around them. Merchant houses---especially
@@ -8373,8 +8372,6 @@ Two sons (both competent sailors, both broke).
 He's considered drastic measures---including making deals with pirates
 to create threats that require Seawatch protection---but his honor
 won't permit it.
-
-\column
 
 *The Naval Debt:* The Seawatch fleet is heavily indebted to House
 Goldshore. One more bad year and Goldshore could legally seize their
@@ -8513,15 +8510,15 @@ acceptance. The eastern branch evolved in its own direction, pursuing
 pure astronomical focus while abandoning the forest magic their
 ancestors had practiced. In 327 CR, a diplomatic mission from the west
 finally arrived, and was rejected. The Starweavers had become something
-different from their forest-dwelling cousins, and they no longer wished
-to reunite. In 450 CR, they officially took
+different from 
 
 {{pageNumber,auto}}
 {{footnote Chapter 21: Noble Houses of Aethoria}}
 \page
 
-the name "House Starweaver," severing the last symbolic connection to 
-their shared past.
+their forest-dwelling cousins, and they no longer wished
+to reunite. In 450 CR, they officially took the name "House Starweaver," 
+severing the last symbolic connection to their shared past.
 
 **The Building Era (450-800 CR):** With their identity settled, the
 Starweavers focused on construction. They reconstructed the Grand
@@ -8637,17 +8634,16 @@ such contact is an exile-worthy offense. If discovered, it could cause
 political crisis, or it could be the first step toward healing a
 1,200-year schism.
 
-*The Greenstar Codex:* Both Starweaver and Silverleaf search desperately
-for this lost spell book, written by the original Starleaf founders. It
-contains the "true path" both branches lost, combining star and forest
-magic. Supposedly it survived the Worldrend
-
 {{pageNumber,auto}}
 {{footnote Chapter 21: Noble Houses of Aethoria}}
 \page
 
-and lies hidden somewhere in Observatory Citadel. Whoever finds it gains 
-legitimacy over their estranged cousins.
+*The Greenstar Codex:* Both Starweaver and Silverleaf search desperately
+for this lost spell book, written by the original Starleaf founders. It
+contains the "true path" both branches lost, combining star and forest
+magic. Supposedly it survived the Worldrend and lies hidden somewhere in 
+Observatory Citadel. Whoever finds it gains legitimacy over their estranged 
+cousins.
 
 *The Returning Patterns:* The stars are showing strange patterns again,
 the same patterns that preceded the Sealed Prophecy. Senior Starweavers
@@ -8766,16 +8762,14 @@ untested.
 -   Neither child is heir; the Chosen Heir system supersedes blood
     succession
 
-**Holdings:**
-
--   Aethermere (capital, population ~38,000)
-
--   Direct authority over Emerald Deeps
-
 {{pageNumber,auto}}
 {{footnote Chapter 21: Noble Houses of Aethoria}}
 \page
 
+**Holdings:**
+
+-   Aethermere (capital, population ~38,000)
+-   Direct authority over Emerald Deeps
 -   Symbolic authority over all Aethoria
 -   Sacred groves and World-Tree network
 -   The Royal Scepter (from Pre-Worldrend High Kings)
@@ -8835,8 +8829,6 @@ Coincidence, or cosmic significance?
 **Sigil:** Blue crystal on white waves
 
 **Motto:** "Clear As Water"
-
-\column
 
 **History and Founding**
 
@@ -9197,11 +9189,13 @@ visions.
 
 *The Spreading Mist:* The supernatural mists of the Mistwood Reaches are
 spreading, slowly engulfing surrounding territories. The Windwhispers
-may be causing this, or they may be the only thing holding it back.
+may be causing this, or they may be 
 
 {{pageNumber,auto}}
 {{footnote Chapter 21: Noble Houses of Aethoria}}
 \page
+
+the only thing holding it back.
 
 *The Younger Generation:* Younger Windwhispers want more engagement with
 the outside world. They believe isolation has made the house irrelevant.
@@ -9275,7 +9269,7 @@ or killed.
 -   Sacred jungle groves
 
 -   Ape warrior bands (200+ trained war-apes)
-\column
+
 **Power Base:**
 
 -   Guardian tradition (respected and feared)
@@ -9413,7 +9407,7 @@ Persistent rumors claim:
     peninsula
 
 -   Secret supporters wait for restoration
-
+\column
 If true, any heir would have:
 
 -   Fey allies (powerful and otherworldly)
@@ -9486,17 +9480,15 @@ Aethoria that values results over bloodlines.
 *Heir (unnamed:* Even more radical than father, wants to accelerate the
 pace of change dramatically.
 
-**Holdings:**
-
--   Riverrun (town, growing fast, approaching city status)
-
--   60+ farming communities
-
 {{pageNumber,auto}}
 {{footnote Chapter 21: Noble Houses of Aethoria}}
 \page
--   Extensive irrigation network
 
+**Holdings:**
+
+-   Riverrun (town, growing fast, approaching city status)
+-   60+ farming communities
+-   Extensive irrigation network
 -   Experimental agricultural stations
 
 **Power Base:**
@@ -9557,8 +9549,6 @@ Houses Aethermere, Starweaver, and Crystalborn form the traditional
 power structure. Aethermere provides legitimacy, Starweaver provides
 magical expertise, and Crystalborn provides economic strength. This
 alliance has governed Aethoria for centuries.
-
-\column
 
 **The Progressive Coalition:**
 
@@ -9639,11 +9629,12 @@ traditions, grudges, and narratives that have been shaped by over a
 thousand years of retelling.
 
 **Distorted Histories:** Each side has a different version of events,
-and both claim absolute truth. Documents exist supporting both
-interpretations. Witnesses died
+and both claim absolute truth. 
 
 \column
 {{margin-top:510px}}
+
+Documents exist supporting both interpretations. Witnesses died
 
 centuries ago. The "historical record" is a battlefield of competing narratives.
 
@@ -9670,13 +9661,13 @@ legitimacy. The conflicts are not merely symbolic. Winning matters.
 **The Split:** Western branch became Silverleaf; Eastern branch became
 Starweaver
 
-**Years of Separation:** 1,247 years
-
-**Current Relationship:** Hostile strangers
-
 {{pageNumber,auto}}
 {{footnote Chapter 22: Pre-Worldrend Conflicts}}
 \page
+
+**Years of Separation:** 1,247 years
+
+**Current Relationship:** Hostile strangers
 
 #### The Original House Starleaf
 
@@ -9813,16 +9804,16 @@ divided or contested:
 
 -   *Starweaver Claim:* "Made by Star Wardens, ours by right"
 
+{{pageNumber,auto}}
+{{footnote Chapter 22: Pre-Worldrend Conflicts}}
+\page
+
 -   *Silverleaf Claim:* "Made by forest druids who channeled starlight
     through trees"
 
 -   Actually may have been a collaborative creation
 
 -   Symbolically important to both houses
-
-{{pageNumber,auto}}
-{{footnote Chapter 22: Pre-Worldrend Conflicts}}
-\page
 
 **The Celestial Compass:**
 
@@ -9893,7 +9884,7 @@ accurate
 
 -   Potential insight into understanding or even reversing the Worldrend
 
-\column
+
 
 ### 22.3 Conflict 2: The Broken Crown
 
@@ -9967,6 +9958,10 @@ Eternal Spring, now at the bottom of the Sundering Sea.
 -   Prince Aethos was the chosen heir (father's favorite, wiser, more
     suited to rule)
 
+{{pageNumber,auto}}
+{{footnote Chapter 22: Pre-Worldrend Conflicts}}
+\page
+
 -   King Aldric was disappointed in warlike Theron's "reckless"
     campaigns
 
@@ -9975,10 +9970,6 @@ Eternal Spring, now at the bottom of the Sundering Sea.
 -   Western nobles were power-hungry usurpers
 
 -   The Aethermere line are the true High Kings
-
-{{pageNumber,auto}}
-{{footnote Chapter 22: Pre-Worldrend Conflicts}}
-\page
 
 **The Truth:** Neither side knows for certain. All direct witnesses died
 1,247 years ago.
@@ -10055,8 +10046,6 @@ Eternal Spring, now at the bottom of the Sundering Sea.
 
 -   Thandris demands its return; Aethermere refuses
 
-\column
-
 #### Modern Implications (1247 CR)
 
 
@@ -10123,16 +10112,16 @@ rule?
 -   Some nobles on both continents think the dispute is absurd after
     1,200 years
 
+{{pageNumber,auto}}
+{{footnote Chapter 22: Pre-Worldrend Conflicts}}
+\page
+
 -   "We should build a new system, not fight over a dead kingdom"
 
 -   "Both houses are legitimate rulers of their respective continents"
 
 -   These voices are a minority but growing, especially among younger
     generations
-
-{{pageNumber,auto}}
-{{footnote Chapter 22: Pre-Worldrend Conflicts}}
-\page
 
 ### 22.4 Conflict 3: The Drowned Fortune
 
@@ -10284,6 +10273,10 @@ central landmass.
 
 -   Arguments over which is "true" heir
 
+{{pageNumber,auto}}
+{{footnote Chapter 22: Pre-Worldrend Conflicts}}
+\page
+
 -   Matter of profound pride and legitimacy
 
 #### The Salvage Wars (100-400 CR)
@@ -10297,10 +10290,6 @@ sunken wealth.
 -   Dozens of ships lost to salvage attempts
 
 -   Small fortunes recovered (perhaps 10% of total)
-
-{{pageNumber,auto}}
-{{footnote Chapter 22: Pre-Worldrend Conflicts}}
-\page
 
 -   Each side claimed exclusive salvage rights
 
@@ -10372,7 +10361,7 @@ sunken wealth.
 -   Goldshore lost three ships
 
 -   Hatred intensified dramatically
-
+\column
 *1246 CR: The Map Theft*
 
 -   Pirates stole ancient map from Goldshore
@@ -10440,8 +10429,13 @@ situation where multiple paths are possible.
 
 
 When the Worldrend struck, the Compass survived somehow. It ended up in
-eastern hands (now House Starweaver). How this happened is the heart of
-the dispute.
+eastern hands (now House 
+
+{{pageNumber,auto}}
+{{footnote Chapter 22: Pre-Worldrend Conflicts}}
+\page
+
+Starweaver). How this happened is the heart of the dispute.
 
 **Western Claims:**
 
@@ -10459,10 +10453,6 @@ the dispute.
 -   The Compass came east legitimately
 
 -   Its own "destiny sense" guided it to its rightful holders
-
-{{pageNumber,auto}}
-{{footnote Chapter 22: Pre-Worldrend Conflicts}}
-\page
 
 -   Starweaver's astronomical expertise makes them ideal guardians
 
@@ -10604,6 +10594,10 @@ independently.
 A third party manipulated both houses into rebellion, perhaps to weaken
 the noble structure on both continents.
 
+{{pageNumber,auto}}
+{{footnote Chapter 22: Pre-Worldrend Conflicts}}
+\page
+
 *Theory 4: Fey Coordination*
 
 House Splittide sided with fey claims. House Blackwood had fey ancestry.
@@ -10620,13 +10614,8 @@ intelligence, resources, and grievances.
 #### Rising vs. Falling
 
 A clear pattern emerges across both continents: ancient houses with
-proud bloodlines are slowly declining, 
-
-{{pageNumber,auto}}
-{{footnote Chapter 22: Pre-Worldrend Conflicts}}
-\page
-
-while new houses built on commerce and innovation are ascending.
+proud bloodlines are slowly declining, while new houses built on 
+commerce and innovation are ascending.
 
 **Declining Ancient Houses:**
 
@@ -10667,7 +10656,6 @@ revolution becomes possible.
 
 #### Dark Bargains
 
-
 A disturbing pattern emerges when examining how the most powerful houses
 maintained their positions: most made dubious deals at some point in
 their histories.
@@ -10688,7 +10676,6 @@ their histories.
 
 -   House Thornveil: Employs necromancers and deals with dark druids
 
-\column
 
 **The Pattern:**
 
@@ -10965,18 +10952,16 @@ vigorously for trade, talented workers, and prestige. Goldreach's
 wealth versus Silverpine's cultural authority creates particular
 tension.
 
+{{pageNumber,auto}}
+{{footnote Chapter 23: Political Powers}}
+\page
+
 *Autonomy vs. Unity:* Some advocate for stronger Alliance institutions;
 others resist any surrender of city independence. The current loose
 structure frustrates both camps.
 
 *Magical Regulation:* Silverpine's Academy attracts magical talent but
-also magical dangers. Some
-
-{{pageNumber,auto}}
-{{footnote Chapter 23: Political Powers}}
-\page
-
-members want stricter controls on what mages
+also magical dangers. Some members want stricter controls on what mages
 can practice; others defend academic freedom absolutely.
 
 *Crown Relations:* Some members prefer closer ties to the Crown for
@@ -11098,6 +11083,10 @@ nomadic clan. Advocates cautious modernization while preserving core
 traditions. Brilliant negotiator who has expanded her clan's influence
 through trade rather than conquest.
 
+{{pageNumber,auto}}
+{{footnote Chapter 23: Political Powers}}
+\page
+
 *Elder Rashid the Twice-Blessed* (age 71, human: Traditionalist
 spiritual leader who commands respect across clan lines. Called
 "Twice-Blessed" for surviving both a sandstorm and a fire elemental
@@ -11110,13 +11099,7 @@ tieflings, and half-orcs makes it a refuge for those rejected elsewhere.
 Ambitious and increasingly influential.
 
 *Sultan Rashid Ashborne* (age 41, human: Though technically a Thaldros
-noble, the Sultan's desert roots
-
-{{pageNumber,auto}}
-{{footnote Chapter 23: Political Powers}}
-\page
-
-and clan connections make him a power
+noble, the Sultan's desert roots and clan connections make him a power
 in Sundaran politics. His relationship with traditional clans is
 complicated, they respect his success but resent his assumption of
 superiority.
@@ -11226,7 +11209,13 @@ their elders. This tension plays out in debates about everything from
 foreign policy to local regulations.
 
 *The Controversial Heir:* Theron Aethermere's selection as heir has
-divided opinion. His half-elf status challenges traditional assumptions
+divided opinion. His half-elf 
+
+{{pageNumber,auto}}
+{{footnote Chapter 23: Political Powers}}
+\page
+
+status challenges traditional assumptions
 about elven leadership. Whether this represents necessary evolution or
 dangerous departure from tradition remains fiercely contested.
 
@@ -11243,14 +11232,8 @@ forests, maintaining elven customs, limiting engagement with outsiders.
 Her long memory includes events that humans experience only as history.
 
 *Speaker Arien Swiftbrook* (age 98, half-elf: Advocates for change,
-greater engagement with other races, and 
-
-{{pageNumber,auto}}
-{{footnote Chapter 23: Political Powers}}
-\page
-
-adaptation to evolving circumstances. Represents a growing faction 
-that believes isolation is no longer viable.
+greater engagement with other races, and adaptation to evolving circumstances. 
+Represents a growing faction that believes isolation is no longer viable.
 
 *Archdruid Thornbark* (age unknown, possibly millennia, treant-touched
 elf: Not officially in government, but his influence exceeds most
@@ -11292,7 +11275,7 @@ of Aethorian civilization.
 Navigators, and others) elect representatives to the governing council.
 Guild membership is open to anyone who practices the relevant trade and
 pays dues.
-
+\column
 *The Council of Guilds:* Representatives from each major guild meet to
 govern the Compact. Voting power is proportional to guild membership,
 giving economic weight to political voice.
@@ -11351,6 +11334,10 @@ Guild and current council chair. Pragmatic, efficient, and occasionally
 ruthless in pursuing Compact interests. His family has led the Merchant
 Guild for three generations.
 
+{{pageNumber,auto}}
+{{footnote Chapter 23: Political Powers}}
+\page
+
 *Captain Mira Wavecrest* (age 43, human: Commands the lake patrol fleet
 that maintains order on the great lakes. Technically subordinate to the
 council but commands personal loyalty from her sailors. Some whisper she
@@ -11373,10 +11360,6 @@ dominance. They cooperate with the Thornmire Concordat on regional
 matters. They trade with Thaldros through Port Myrthen, maintaining
 profitable commerce despite political tensions. House Crystalborn's
 ongoing feud with House Goldshore complicates cross-continental trade.
-
-{{pageNumber,auto}}
-{{footnote Chapter 23: Political Powers}}
-\page
 
 ### 23.6 The Thornmire Concordat (Southeastern Aethoria)
 
@@ -11472,6 +11455,10 @@ Concordat's most powerful individual. Morally flexible but genuinely
 committed to Concordat prosperity. His methods are questionable; his
 results are undeniable.
 
+{{pageNumber,auto}}
+{{footnote Chapter 23: Political Powers}}
+\page
+
 **Relationships with Other Powers**
 
 The Thornmire Concordat occupies Aethoria's margins, geographically and
@@ -11504,20 +11491,15 @@ relationship is cooperative but sometimes tense, particularly over
 taxation and military levies.
 
 *Crown and Free Cities:* The Free Cities Alliance maintains studied
-neutrality, cooperating with the
-
-{{pageNumber,auto}}
-{{footnote Chapter 23: Political Powers}}
-\page
-
-Crown on defense while resisting interference in internal affairs. 
-The Crown tolerates this because the cities are wealthy and well-defended.
+neutrality, cooperating with the Crown on defense while resisting 
+interference in internal affairs. The Crown tolerates this because 
+the cities are wealthy and well-defended.
 
 *Crown and Sundaran Clans:* The clans nominally acknowledge Crown
 authority but frequently ignore royal decrees. House Ashborne's rise
 has complicated this relationship, they are now formally part of the
 nobility while maintaining clan connections.
-
+\column
 *Cities and Clans:* The Free Cities trade with the Sundaran Clans while
 viewing them as semi-civilized. The clans view the cities as soft
 merchants ripe for manipulation. Both stereotypes contain some truth.
@@ -11533,7 +11515,7 @@ Harmony support against external threats.
 by the Harmony's cultural superiority and the Compact's commercial
 pragmatism. Trade and shared defense interests keep them aligned despite
 philosophical differences.
-\column
+
 *Concordat Marginalization:* The Thornmire Concordat exists on
 Aethoria's margins, viewed with suspicion by the more "civilized"
 powers. They survive through usefulness, their alchemical expertise is
@@ -11904,14 +11886,14 @@ abilities. The Consortium has approximately 400 active Journeymen.
 Apprenticeships typically last 7-15 years depending on the craft's
 complexity. Approximately 250 apprentices are currently training.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 **Associates:** Non-crafters who support Consortium operations,
 merchants who sell Consortium goods, suppliers of raw materials,
 administrators. Associates have no voting rights but benefit from
 Consortium protection.
-
-{{pageNumber,auto}}
-{{footnote Chapter 24: Economic Organizations}}
-\page
 
 #### Operations
 
@@ -11964,7 +11946,7 @@ encourage advancement while keeping new techniques within guild control.
 *Political Influence:* The Consortium maintains relationships with
 governments and noble houses who depend on their products. This
 influence protects their monopoly and ensures favorable treatment.
-
+\column
 #### Internal Conflicts
 
 
@@ -12028,6 +12010,10 @@ Azaril believes magic should serve protection rather than destruction.
 He's refused lucrative commissions for offensive items, a principle
 that earns him respect but limits his wealth.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 **Journeyman Talia Quicksilver** (age 28, human)
 
 A rising star whose innovative techniques have attracted attention from
@@ -12035,9 +12021,6 @@ Masters across the continent. Her specialty is combining different
 crafting traditions, dwarven metalwork with elven enchantment, for
 example, to create items neither tradition could produce alone.
 
-{{pageNumber,auto}}
-{{footnote Chapter 24: Economic Organizations}}
-\page
 Talia represents the new generation challenging traditional approaches.
 Some Masters see her as the future; others view her experimentation as
 dangerous deviation from proven methods.
@@ -12153,6 +12136,10 @@ lieutenants include Silas the Fence (Silverpine), The Iron Hand
 smuggling rings, protection rackets. They coordinate with regional
 lieutenants but handle day-to-day management independently.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 **Specialists:** Individuals with unique skills, master thieves, expert
 forgers, information brokers, occasional assassins. They operate across
 cell boundaries, available for hire by any Syndicate operation willing
@@ -12168,11 +12155,6 @@ leadership and law enforcement.
 **Smuggling:** The Syndicate's most profitable operation. They move
 contraband, restricted goods, people, information, through channels that
 bypass official oversight. Routes operate across both continents, with
-
-{{pageNumber,auto}}
-{{footnote Chapter 24: Economic Organizations}}
-\page
-
 transfer points at Port Myrthen and other neutral locations.
 
 **Theft and Burglary:** Organized theft operates under strict protocols.
@@ -12232,8 +12214,6 @@ These rules create predictability that benefits everyone. Criminals know
 what's expected; authorities can predict criminal behavior; citizens
 know that following certain precautions provides reasonable security.
 
-\column
-
 #### Interests and Goals
 
 
@@ -12281,6 +12261,10 @@ factions position themselves for potential transition.
 Watch notably refuses accommodation with the Syndicate. If her approach
 spreads, the carefully maintained tolerance could collapse.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 #### Notable Figures
 
 
@@ -12296,9 +12280,6 @@ intermediaries, appears in person only for the most important
 negotiations, and maintains rules that have made the Syndicate almost
 respectable in certain circles.
 
-{{pageNumber,auto}}
-{{footnote Chapter 24: Economic Organizations}}
-\page
 *Possible Truth (DM's Option):*
 
 The current Master Crimson is actually three people sharing the role, a
@@ -12413,6 +12394,10 @@ League chapters have "understandings" with local Syndicate operations
 that benefit both parties. Trade Prince Lucian maintains secret
 communication with Master Crimson.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 *Noble Houses:* Some houses use Syndicate services for operations they
 cannot officially conduct, espionage, elimination of rivals, acquisition
 of restricted goods. These arrangements are never acknowledged.
@@ -12426,10 +12411,6 @@ dangerous.
 (steals) high-value items; the Consortium occasionally hires Syndicate
 services for problems they cannot officially solve. Mutual usefulness
 maintains workable relations.
-
-{{pageNumber,auto}}
-{{footnote Chapter 24: Economic Organizations}}
-\page
 
 ## Chapter 25: Religious Orders
 
@@ -12536,6 +12517,10 @@ supernatural evil, undead, demons, devils, and other creatures that
 threaten innocent lives. They maintain expertise in identifying,
 tracking, and destroying such threats.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 **Sacred Site Protection:** The order guards temples, holy relics, and
 locations of divine significance across both continents.
 
@@ -12549,13 +12534,8 @@ order's code of conduct.
 
 **Crusades:** Rarely, when a threat becomes overwhelming, the order
 declares a crusade, a concentrated military campaign against a specific
-evil. These are devastating when launched but require years
-
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
-
-of preparation and the consent of multiple Chapter Masters.
+evil. These are devastating when launched but require years of preparation 
+and the consent of multiple Chapter Masters.
 
 **The Iron Council:** The military arm of the Lightbringers, commanded
 directly by Lord Commander Gareth Lightbane. This elite force handles
@@ -12659,6 +12639,10 @@ disaster that killed twenty-three Lightbringers and nearly released an
 imprisoned lich. Seraphina was one of seven survivors and the one who
 ultimately sealed the tomb, though it cost her left arm below the elbow.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 She now wears a blessed prosthetic forged by dwarven artificers and
 enchanted by the order's chaplains. At forty-two, she's considered a
 rising star, young enough to have decades of service ahead, experienced
@@ -12677,10 +12661,6 @@ enough to have earned respect.
 
 -   Swore to eventually return and destroy what's in the tomb when
     she's powerful enough
-
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
 
 **High Inquisitor Marcus** (age 55, human)
 
@@ -12722,7 +12702,7 @@ of their ability to pay.
 
 *The Archives:* Records of the order's history, monster lore, and
 tactical information accumulated over centuries.
-
+\column
 #### Relationships with Other Powers
 
 
@@ -12746,7 +12726,7 @@ when they intersect with supernatural activity.
 disagreements occasionally create friction. The Lightbringers'
 confidence in their own righteousness can alienate members of other
 faiths.
-\column
+
 ### 25.2 The Green Circle (Druids of Sylvara)
 
 
@@ -12784,6 +12764,10 @@ nature could recover even as civilizations rebuilt. Their knowledge of
 natural cycles, medicinal herbs, and sustainable practices proved
 invaluable to survivors.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 The Green Circle's political influence grew throughout the Age of
 Nations as Aethoria developed its nature-respecting culture. Today,
 druids hold advisory positions in most Aethorian governments and can
@@ -12812,10 +12796,6 @@ command.
 specific territories. Each circle maintains its sacred groves, monitors
 local ecosystems, and trains new members. Circle leaders report to the
 Council but maintain significant autonomy in day-to-day matters.
-
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
 
 **Individual Druids:** Full members maintain considerable independence.
 Unlike hierarchical orders, the Green Circle trusts its members to
@@ -12906,6 +12886,10 @@ interacts with arcane magic users.
 Some members wish for clearer guidance; others respect the tradition of
 individual discernment.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 *Climate Anxieties:* Some druids report disturbing changes in natural
 patterns, shifts that seem to echo conditions before the Worldrend. The
 Council debates whether these signs indicate genuine threat or normal
@@ -12941,10 +12925,6 @@ sometimes taking years to respond to questions.
 
 -   Has foreseen his own death within the next century, a short time for
     a treant, and has not chosen a successor
-
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
 
 **Circle Keeper Lunara** (age 234, wood elf)
 
@@ -13037,8 +13017,13 @@ roots extending deep into the earth and his branches sheltering the
 assembly area.
 
 *The Moon Pools:* Ritual pools that reflect moonlight for divination and
-communion with nature spirits. Major decisions are often made here
-during full moons.
+communion with nature spirits. 
+
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
+Major decisions are often made here during full moons.
 
 *The Ancestor Grove:* Where ancient druids are buried, their bodies
 returning to the forest. Some say their spirits remain, offering
@@ -13074,10 +13059,6 @@ negotiations have been less productive.
 *The Merchant League:* Generally hostile. Commercial interests in
 logging, mining, and land development often clash with druidic
 protection of wilderness areas.
-
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
 
 ### 25.3 The Grave Wardens (Order of Mordain)
 
@@ -13157,6 +13138,10 @@ rather than martial.
 path. Training typically lasts 3-5 years and includes extensive study of
 death rites, undead lore, and divine magic.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 **Lay Servants:** Non-ordained members who assist with temple
 operations, grave maintenance, and administrative duties.
 
@@ -13193,10 +13178,6 @@ archives stretching back centuries.
 **Death Investigation:** When deaths occur under mysterious
 circumstances, Grave Wardens may investigate, both to ensure proper
 burial and to determine whether supernatural forces were involved.
-
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
 
 #### Interests and Goals
 
@@ -13283,6 +13264,10 @@ personally destroyed three liches and countless lesser undead. His
 tactical brilliance and unwavering determination have made him legendary
 within the order.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 Thorne carries scars from decades of battle against the undead. His left
 eye was lost to a vampire lord; his replacement is enchanted to detect
 undead. He moves with the caution of someone who knows that his enemies
@@ -13323,10 +13308,6 @@ documenting millions of deaths stretching back centuries.
 -   Knows the locations of several powerful undead who have been
     "contained" rather than destroyed
 
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
-
 #### Headquarters: Hall of Final Rest
 
 
@@ -13341,7 +13322,7 @@ that makes even whispers audible.
 *The Archives:* Records of every documented death in the kingdom's
 history, millions of entries dating back over a thousand years.
 Maintaining these records is considered sacred duty.
-
+\column
 *The Training Facilities:* Where acolytes learn both clerical skills and
 combat techniques. The undead combat training uses consecrated practice
 areas where controlled undead can be safely studied and destroyed.
@@ -13356,9 +13337,8 @@ ensure complete destruction.
 
 *The Crypts:* Final resting place for the order's own dead. Extensive
 wards ensure that former Grave Wardens cannot be raised as undead.
-\column
-#### Relationships with Other Powers
 
+#### Relationships with Other Powers
 
 *The Lightbringers:* Strong alliance. Both orders hunt undead, and their
 cooperation during major incursions has saved countless lives. Joint
@@ -13392,9 +13372,9 @@ carefully, ready to act if they cross the line.
 {{footnote Chapter 25: Religious Orders}}
 \page
 
-![Chapter 26: Arcane Organizations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-spellcasting-with-ley-lines.jpg){position:absolute,top:0,left:0,width:100%,height:400px}
+![Chapter 26: Arcane Organizations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-spellcasting-with-ley-lines.jpg){position:absolute,top:0,left:0,width:100%,height:450px}
 
-{{margin-top:350px}}
+{{margin-top:400px}}
 
 ## Chapter 26: Arcane Organizations
 
@@ -13431,14 +13411,14 @@ and regulation.
 
 The Arcanum traces its origins to the decades following the Worldrend,
 when surviving mages recognized the need to preserve magical knowledge
-that might otherwise be lost. The cataclysm had destroyed countless
-libraries, killed generations of teachers, and disrupted the
-apprenticeship traditions that had
 
 \column
-{{margin-top:350px}}
+{{margin-top:410px}}
 
-sustained magical education for millennia.
+that might otherwise be lost. The cataclysm had destroyed countless
+libraries, killed generations of teachers, and disrupted the
+apprenticeship traditions that had sustained magical education for 
+millennia.
 
 The legendary Archmage Celestine, a survivor of the Worldrend who would
 later retreat to the Feywild, gathered what remained of the magical
@@ -13465,14 +13445,17 @@ interests.
 
 **Headmaster/Rector:** The chief administrator and public face of the
 Arcanum. Currently Archmage Veridian Starweaver, a high elf diviner who
-achieved the rank of Archmage at 250, the youngest in recorded history.
-He developed the Starweaver Synthesis, a technique for combining spells
-of different schools into hybrid effects now taught at every major
-magical academy.
+achieved the rank of Archmage at 250, the youngest in 
 
 {{pageNumber,auto}}
 {{footnote Chapter 26: Arcane Organizations}}
 \page
+
+recorded history.
+He developed the Starweaver Synthesis, a technique for combining spells
+of different schools into hybrid effects now taught at every major
+magical academy.
+
 
 **Faculty Ranks:**
 
@@ -13591,21 +13574,19 @@ Tirvandor. Veridian was formally inducted into the Arcanum at age 40
 (young for an elf), became a full wizard at 100, and achieved the rank
 of Archmage at 250, the youngest in recorded history.
 
-
 His specialty is divination, but his true mastery lies in the
 intersection of magical schools. He developed the Starweaver Synthesis, 
 a technique for combining spells of different schools into hybrid
 effects. The technique is now taught at every major magical academy,
 though few can replicate his fluency.
 
-Despite his power, Veridian is approachable and patient with students.
-He remembers what it was like to struggle with concepts, even if it was
-four hundred years ago. His office door is always open, and he teaches
-
 {{pageNumber,auto}}
 {{footnote Chapter 26: Arcane Organizations}}
 \page
 
+Despite his power, Veridian is approachable and patient with students.
+He remembers what it was like to struggle with concepts, even if it was
+four hundred years ago. His office door is always open, and he teaches
 at least one introductory class per term "to remember where magic
 begins."
 
@@ -13666,7 +13647,7 @@ eerily accurate; students are either fascinated or scared of her.
 
 -   Her correspondent in Aethoria is Archmage Eldrin Aethermere himself;
     they share data contradicting both continents' historical records
-\column
+
 **Sage Cornelius** (age 78, human)
 
 Researcher of ancient civilizations and pre-Worldrend history. He's
@@ -13731,12 +13712,12 @@ research on ley lines and magical infrastructure.
 expertise but sometimes resent its independence. The institution
 maintains official neutrality between Thaldros and Aethoria.
 
-*The Artificers' Consortium:* Professional rivalry mixed with
-cooperation. Both claim authority over magical item creation.
-
 {{pageNumber,auto}}
 {{footnote Chapter 26: Arcane Organizations}}
 \page
+
+*The Artificers' Consortium:* Professional rivalry mixed with
+cooperation. Both claim authority over magical item creation.
 
 *Religious Orders:* Generally positive. The Arcanum acknowledges divine
 magic as legitimate, and cooperation occurs on matters involving both
@@ -13861,17 +13842,16 @@ aren't full members but serve the organization's goals.
 
 Many archmages have been speculated to be members:
 
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
 *Archmage Veridian Starweaver:* His divination abilities, political
 connections, and suspected knowledge of future events make him a prime
 candidate. He neither confirms nor denies.
 
 *Archmage Eldrin Aethermere:* The High Queen's court wizard and most
-powerful mage in Aethoria. His 
-{{pageNumber,auto}}
-{{footnote Chapter 26: Arcane Organizations}}
-\page
-
-correspondence with western mages
+powerful mage in Aethoria. His correspondence with western mages
 suggests connections beyond normal diplomatic channels.
 
 *The High Mages of Major Cities:* Several court wizards and
@@ -13996,6 +13976,11 @@ relationships with both, though individual allegiances vary:
 
 *Summer Court Aligned:* Those connected to the Summer Court tend toward
 warmth, passion, growth, and change. They embrace emotion and action,
+
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
 sometimes to the point of recklessness. The Summer Court values
 creativity, beauty, and bold gestures.
 
@@ -14004,10 +13989,6 @@ patience, endurance, cold logic, and long-term planning. They are often
 more dangerous because they think in centuries rather than years. The
 Winter Court prizes survival, memory, and the keeping of ancient
 bargains.
-
-{{pageNumber,auto}}
-{{footnote Chapter 26: Arcane Organizations}}
-\page
 
 *Unaligned:* Some Twilight Court members serve neither great court,
 instead maintaining independence or serving lesser fey powers. These
@@ -14122,6 +14103,10 @@ action against threats to Summer Court interests.
 -   Her human name, abandoned when she embraced her fey nature, would
     reveal her as a member of a noble house presumed extinct
 
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
 -   She's far older than she appears, time in the Feywild has stretched
     her life beyond normal Eladrin spans
 
@@ -14132,13 +14117,7 @@ action against threats to Summer Court interests.
 
 A warlock and Winter Court champion. Where Lady Silverleaf is open and
 warm, Lord Frost is secretive and cold. He appears rarely, speaks
-little, and acts with
-
-{{pageNumber,auto}}
-{{footnote Chapter 26: Arcane Organizations}}
-\page
-
-precise, terrifying efficiency. His presence
+little, and acts with precise, terrifying efficiency. His presence
 chills the air, and his eyes hold the patience of glaciers.
 
 Lord Frost handles Winter Court business that requires\... decisive
@@ -14253,6 +14232,10 @@ theaters between shows.
 concern for wild places and natural balance. Many druids have Twilight
 Court connections.
 
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
 *The Arcanum:* Wary interest. The fey don't trust human institutions,
 but the Arcanum's knowledge of planar boundaries makes them useful
 allies, and potentially dangerous enemies.
@@ -14260,7 +14243,7 @@ allies, and potentially dangerous enemies.
 *Governments:* Complex and often hostile. Fey don't recognize mortal
 authority, and their agents often act without regard for laws. Wise
 rulers maintain diplomatic channels with the Court.
-
+\column
 *The Lightbringers:* Tension. The order's rigid morality clashes with
 fey amorality. Conflicts occur when fey activities harm innocents, even
 if those activities serve purposes mortals can't understand.
