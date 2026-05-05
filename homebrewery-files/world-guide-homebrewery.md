@@ -44715,10 +44715,14 @@ nonetheless.*
 
 Kael runs the finest smithy in Silverpine---not the fanciest, but the
 best. Self-taught after being exiled from his clan for a crime he
-didn't commit. His weapons are sought after by collectors and warriors
-alike.
+didn't commit. His 
+
 \column
 {{margin-top:410px}}
+
+weapons are sought after by collectors and warriors
+alike.
+
 **Background:**
 
 Kael was framed for theft by his cousin, who now runs the family forge
@@ -44758,14 +44762,14 @@ evidence proving his innocence---but hasn't used it.
 
 **Age:** 198
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **Location:** Travels extensively (based in Kaer Thandros)
 
 **Status:** Independent master (left House Ironforge to pursue pure
 craft)
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-smith-gundren-ironforge.jpg){width:200px,float:right,margin:5px}
 
@@ -44867,6 +44871,10 @@ Sundara while publicly maintaining a mask of amoral capitalism.
 
 -   Expert at maintaining false identities.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 -   Extensive blackmail material on nobles.
 
 -   Secret funding network for abolitionists.
@@ -44876,10 +44884,6 @@ Sundara while publicly maintaining a mask of amoral capitalism.
 **Connections:**
 
 -   Business network throughout Thaldros.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 -   Rivals including House Goldshore.
 
@@ -44943,7 +44947,7 @@ What no one knows is that "Kael Icewind" murdered the real Kael thirty
 years ago and assumed his identity. The imposter was a skilled con
 artist who saw an opportunity and took it. He's played the role so long
 he's almost become the man he killed.
-\column
+
 **Capabilities:**
 
 -   Vast trade empire and wealth.
@@ -45005,7 +45009,13 @@ he's almost become the man he killed.
 
 **Appearance:**
 
-Thordak's fire genasi heritage is unmistakable---skin with a slight
+Thordak's fire genasi heritage 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+is unmistakable---skin with a slight
 orange tint, hair that seems to smolder, and eyes like cooling lava.
 Massively built from centuries at the forge. Wears heat-resistant
 clothing and a legendary red dragon hide apron.
@@ -45014,13 +45024,7 @@ clothing and a legendary red dragon hide apron.
 
 Thordak fell into a lava pool as a child and should have died. Instead,
 his latent fire genasi abilities awakened, and he emerged transformed.
-Since then, 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-he's dedicated his life to the forge, becoming one of the
+Since then, he's dedicated his life to the forge, becoming one of the
 greatest smiths in Tirvandor.
 
 His forge complex in the Ashfall Barrens uses volcanic heat directly,
@@ -45144,6 +45148,10 @@ His personal fortune rivals some noble houses, but he lives simply.
 
 -   Could be a patron for underground exploration.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 ### 66.2 Religious Figures
 
 
@@ -45164,10 +45172,6 @@ His personal fortune rivals some noble houses, but he lives simply.
 Sister Marian runs a free clinic in Goldreach's poorest district. Known
 for healing anyone---criminals, monsters, enemies. Some call her a
 saint; others call her dangerously naive.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sister-marian-saint.jpg){width:200px,float:right,margin:5px}
 
@@ -45206,6 +45210,8 @@ A death priest of Mordain the Sentinel, recruited by the Unbound under false pre
 **Title:** High Priest of the Temple of Mordain
 
 **Race:** Human | **Age:** Mid-50s | **Location:** Temple of Mordain, Kaer Thandros
+
+\column
 
 Former soldier turned priest who runs the temple of Mordain in Kaer Thandros. Counsels warriors about duty and sacrifice, and has received a prophetic vision of a coming battle. See Section 62.4 for the complete entry.
 
@@ -45255,6 +45261,10 @@ given last rites to. He dreams their faces.
 
 -   Sometimes wishes for death just to know if gods exist.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 ### 66.3 Information Brokers and Criminals
 
 
@@ -45286,10 +45296,6 @@ Silas operates from behind a legitimate antiques business, purchasing
 stolen goods and connecting thieves with buyers. His expertise in
 valuation and his network of contacts make him invaluable to the
 Syndicate.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 **His Methods:**
 
@@ -45369,6 +45375,10 @@ Goldreach and Silverpine. Called "The Butcher" because he doesn't leave
 witnesses. Actually quite strategic---only attacks targets he can
 overwhelm completely.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 What most don't know is that Thorne was once a soldier. A good one. He
 served the crown for fifteen years before his family was killed by a
 noble who faced no consequences. Thorne snapped. Killed the noble's
@@ -45406,10 +45416,6 @@ lose.
 -   The revenge angle adds depth---not just a mindless killer.
 
 -   His intelligence network might have useful information.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 #### Helena Duskmere
 
@@ -45482,9 +45488,6 @@ records. Everything is in her head.
 
 #### Miranda Ashwood
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/miranda-ashwood-rogue.jpg){width:200px,float:right,margin:5px}
-
-
 **Full Name:** Miranda Ashwood
 
 **Title:** The Cat (underworld nickname)
@@ -45505,6 +45508,12 @@ Athletic and graceful, Miranda has the build of an acrobat---lean
 muscle, quick movements, always aware of exits. She has short dark hair,
 keen brown eyes, and calloused hands that reveal her profession. Dresses
 practically in dark clothing that allows freedom of movement.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/miranda-ashwood-rogue.jpg){width:200px,float:right,margin:5px}
 
 **Background:**
 
@@ -45541,10 +45550,6 @@ matters.
 -   Could be hired for heists.
 
 -   The mysterious stolen item creates plot hooks.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 -   Could fence items for the party.
 
@@ -45634,6 +45639,10 @@ disappear into the forest like she never existed.
 
 **Alignment:** Neutral
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **Appearance:**
 
 Elena presents as a respectable antique dealer---well-dressed, cultured,
@@ -45679,10 +45688,6 @@ negotiable.
 -   Needs help recovering the one thing she cares about.
 
 -   Her noble past could become relevant.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 #### Alden Swiftfoot
 
@@ -45763,6 +45768,10 @@ safe from everyone.
 
 -   His knowledge makes him a target.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 -   Could be hired to track someone's correspondence.
 
 ### 66.4 Maritime Characters
@@ -45802,13 +45811,7 @@ Commands the largest private naval force in Tirvandor. A career sailor and brill
 
 The best guide in the Thornmire Swamps. Knows every hidden path, safe
 camp, and danger zone in the wetlands. She's also the only person who
-can reliably navigate 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-the swamp's magical interference, which renders
+can reliably navigate the swamp's magical interference, which renders
 compasses and divination unreliable.
 
 **Her Companion:**
@@ -45817,6 +45820,8 @@ Controls a giant crocodile named "Sweetness." Uses it to eliminate
 troublemakers who hire her for nefarious purposes. Sweetness' eggs are
 about to hatch---when they do, Grizelda will control a pack of giant
 crocodiles.
+
+\column
 
 **Secrets:**
 
@@ -45864,13 +45869,17 @@ Born to the wealthiest merchant family in Sundara, trained from
 childhood to take over the family empire. But Yasmin always cared more
 about the desert's secrets than its profits. While learning trade, she
 secretly studied archaeology, history, and ancient languages.
-\column
+
 **Her Double Life:**
 
 Inherited the family business at twenty-five. Uses her merchant networks
 to fund desert excavations disguised as "trade expeditions." Every
 caravan that goes out comes back with legal goods---and hidden relics
 from ruins her workers have uncovered.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 Now has the largest private collection of pre-Worldrend artifacts in
 Thaldros. She's written scholarly papers under a pseudonym that have
@@ -45943,10 +45952,6 @@ language used by the civilization that caused the Worldrend.
 
 -   Archaeological expeditions throughout Thaldros.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 -   Archmage Veridian Starweaver (namesake, has corresponded).
 
 -   Other scholars who consult him on difficult translations.
@@ -46008,6 +46013,10 @@ spent a decade in Aethoria learning their approach to magical artifice.
 The result is a unique synthesis that's made him one of the most
 sought-after craftsmen in the kingdom.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **Capabilities:**
 
 -   Can craft magical items up to very rare quality.
@@ -46063,6 +46072,7 @@ sought-after craftsmen in the kingdom.
 Incorruptible watch captain who rose through the ranks on competence and stubborn honesty. His brother Marcus is secretly a Syndicate enforcer, though Gregor doesn't know it. See Sections 45.3 and 62.5 for the complete entries.
 
 #### Viktor Coldstone (The Interrogator)
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/viktor-coldstone-interrogator.jpg){width:200px,float:right,margin:5px}
 
 *Title:** Royal Interrogator, Truth Seeker
 
@@ -46086,11 +46096,6 @@ state and likely motivations. His ability to break wills is supernatural
 in nature---targets find themselves compelled to answer questions
 truthfully.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/viktor-coldstone-interrogator.jpg){width:200px,float:right,margin:5px}
 
 **Secrets:**
 
@@ -46133,6 +46138,10 @@ constantly collides with gray reality.
 -   Once let a guilty man go because the punishment was unjust.
 
 -   In love with someone completely inappropriate.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 **Using Sir Garrett:**
 
@@ -46206,10 +46215,6 @@ where every item she's ever handled ended up. They're not wrong.
 
 -   Every merchant who moves goods through Crossvale.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 -   Former customers who owe her favors.
 
 -   The Forgefire clan (distant relatives).
@@ -46265,6 +46270,10 @@ Korvan manages supplies for the Iron Legion's eastern garrison. Every
 bolt, every ration, every horseshoe passes through his hands. He's built
 a reputation for incorruptibility that makes some people nervous---those
 who profit from the usual supply chain corruption.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 Started as a common soldier, promoted for honesty when he reported his
 own captain for supply theft. Has spent 20 years making sure the
@@ -46340,10 +46349,6 @@ Was part of a legendary adventuring party. Still has contacts from the
 old days. Mentors promising young heroes who remind him of his younger
 self.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 **Secrets:**
 
 -   His old party didn't all retire---some died, one turned evil, one
@@ -46397,6 +46402,10 @@ comfort to anyone who needs it.
 
 -   Knows confessions from people who later became important.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **Potential Uses:**
 
 -   Quest-giver for religious matters.
@@ -46406,7 +46415,7 @@ comfort to anyone who needs it.
 -   The forbidden ritual could resurface.
 
 -   Source for healing or spiritual guidance.
-\column
+
 ### 66.8 Specialists and Researchers
 
 
@@ -46475,10 +46484,6 @@ Knows every builder in the city. Has worked for nobles and criminals
 alike. Can identify wood types and quality instantly. Can assess
 buildings for weaknesses or secret compartments.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-carpenter-aldrick-woodwise.jpg){width:200px,float:right,margin:5px}
 
 
@@ -46519,6 +46524,10 @@ buildings for weaknesses or secret compartments.
 **Location:** Exists at planar boundaries throughout Tirvandor
 
 **Role:** Planar guardian, threshold sentinel, cosmic watcher
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 **Alignment:** Lawful Good
 
@@ -46610,11 +46619,6 @@ never find. Those who anger it tend to disappear entirely.
 
 **Race/Ancestry:** Aberration (psionic horror collective)
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-
 **Age:** Over 2,000 years
 
 **Location:** Deep beneath the Ironspine Mountains
@@ -46648,6 +46652,10 @@ Its current territory spans a network of caverns connected to ancient
 dwarven deep roads. The dwarves know something terrible lurks below but
 have sealed those passages rather than confront it. K'Thrax is content
 with this arrangement---for now.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 **Capabilities:**
 
@@ -46732,11 +46740,6 @@ speaking in riddles when she does.
 Those who find her---and it's not easy---discover a woman of tremendous
 knowledge and power who has chosen to disconnect from the world. She
 offers wisdom to those who earn it, warnings to those who need them, 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 and occasionally prophecies that prove disturbingly accurate.
 
 **Capabilities:**
@@ -46780,6 +46783,10 @@ and occasionally prophecies that prove disturbingly accurate.
 -   Source of cryptic prophecy and guidance.
 
 -   Might send the party on quests related to her vision.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 -   Her hidden artifacts could be plot-relevant.
 
@@ -46867,13 +46874,7 @@ Always armed, always watching.
 
 Katrina leads a small resistance cell in the border regions, fighting
 against what she sees as Thaldros's imperial ambitions. Her family was
-killed in a border 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-raid---she blames the crown. What she doesn't know is
+killed in a border raid---she blames the crown. What she doesn't know is
 that the raid wasn't random; it was connected to something larger.
 
 Her cell of 12 fighters has been a thorn in the side of border patrols
@@ -46909,6 +46910,10 @@ intelligence for Aethoria. The crown has placed a bounty on her head.
 2.  She doesn't know about the giants, but she's getting close to the
     truth
 3.  Her brother serves in the very patrols hunting her
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 **Plot Hooks:**
 
@@ -47013,13 +47018,7 @@ he was out hunting. Came home to ash and bones.
 
 Tall and lean with the patient stillness of someone who's spent a
 century among trees. Has weathered skin, green-brown eyes, and moves
-through the forest like he 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-belongs there. His clothing is practical
+through the forest like he belongs there. His clothing is practical
 forest colors, and he's always accompanied by an old brown bear named
 Moss.
 
@@ -47037,7 +47036,13 @@ thrives.
 He knows every tree in his territory. Literally. He can tell you the
 age, health, and history of any tree he's touched. This connection
 extends to the forest's animals, plants, and spirits. The druids
-consider him an honorary member, though he's never taken their oaths.
+consider him 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+an honorary member, though he's never taken their oaths.
 
 **Capabilities:**
 
@@ -47079,7 +47084,7 @@ consider him an honorary member, though he's never taken their oaths.
 -   His visions of corruption could be plot-relevant.
 
 -   Access to forest secrets and hidden places.
-\column
+
 #### Bard Finnegan Storyteller
 
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-bard-finnegan-storyteller.jpg){width:200px,float:right,margin:5px}
@@ -47145,10 +47150,6 @@ position because stories need to travel to be alive.
 -   People who've become legends---he knew them when they were just
     people.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 **Secrets:**
 
 1.  Knows which histories are lies---was there for the truth
@@ -47169,7 +47170,7 @@ position because stories need to travel to be alive.
 
 #### Captain Marcus Frontiersman (Werewolf)
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-marcus-frontiersman.jpg){width:200px,float:right,margin:5px}
+
 
 
 **Full Name:** Marcus Frontiersman
@@ -47183,6 +47184,12 @@ position because stories need to travel to be alive.
 **Location:** Northern frontier (border region)
 
 **Role:** Military captain, frontier defender, secret lycanthrope
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-marcus-frontiersman.jpg){width:200px,float:right,margin:5px}
 
 **Alignment:** Chaotic Good
 
@@ -47235,7 +47242,7 @@ nights, or why he insists on "private patrols" monthly.
 2.  Has an arrangement with a mountain werewolf pack---non-aggression
 3.  His bite would curse others---he's terrified of losing control
 4.  The soldier who suspects plans to expose him
-
+\column
 **Plot Hooks:**
 
 -   Frontier guide who knows the dangerous paths.
@@ -47275,13 +47282,7 @@ She chose the shadows.
 
 Taking the name "Shadowleaf" as bitter reminder of what she'd lost,
 she spent centuries honing her craft. Now leads a network of forty-seven
-shadow agents 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-across both continents, doing necessary evils so the
+shadow agents across both continents, doing necessary evils so the
 Harmony can maintain its principles.
 
 **Her Secret:**
@@ -47302,6 +47303,10 @@ knows there are two. This is how she's "everywhere."
 
 -   Searching for an artifact that could let her walk in daylight
     again---shadow magic has made sunlight painful.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 **Potential Uses:**
 
@@ -47344,6 +47349,8 @@ Kaelen spent two centuries as one of the most effective agents the
 Unbound cult ever produced. He believed in their cause, executed their
 missions, and trained their assassins. Then he discovered what they
 truly planned---not reform or justice, but obliteration.
+
+\column
 
 His defection cost him everything. He's spent fifty years trying to undo
 the damage he caused, turning his skills against his former masters. He
@@ -47668,14 +47675,14 @@ unpredictable nature.
 
 The seventh Bound Ancient is spoken of only in the oldest texts. It
 embodies Ending, Cessation, and Final Peace. Its prison location is
-unknown, and some scholars believe it was successfully destroyed during
-the Worldrend rather than merely imprisoned. Others note 
+unknown, and some 
 
 {{pageNumber,auto}}
 {{footnote Appendix}}
 \page
 
-that an entity
+scholars believe it was successfully destroyed during
+the Worldrend rather than merely imprisoned. Others note that an entity
 embodying Ending cannot truly end, and its silence may be the most
 dangerous sign of all.
 
@@ -47796,6 +47803,10 @@ never let it fall into wrong hands.
 The destruction of House Blackwood was orchestrated to cover up crimes
 committed by the royal family itself.
 
+{{pageNumber,auto}}
+{{footnote Appendix}}
+\page
+
 **The True Conspiracy**
 
 Approximately forty-three years before the present day (1204 CR), Prince
@@ -47803,10 +47814,6 @@ Aldric---the eldest son of King Aldric III and older brother to the
 current king---discovered the Goldshore Keeper vaults beneath Kaer
 Thandros. The Goldshore Keepers were a secret branch of House Goldshore
 charged with guarding the Flame Heart, the Second Component.
-
-{{pageNumber,auto}}
-{{footnote Appendix}}
-\page
 
 Prince Aldric wanted the Component. He tried to sell it to dragon cults,
 promising to wake Dragon Infernalix in exchange for gold, power, and
@@ -47915,7 +47922,13 @@ depths---these may all be effects of the Void Fragment's proximity.
 **The Goldshore Manor**
 
 A sunken estate called Goldshore Manor, once belonging to the Goldshore
-Keepers, contains records that could prove the Blackwood conspiracy if
+Keepers, contains records 
+
+{{pageNumber,auto}}
+{{footnote Appendix}}
+\page
+
+that could prove the Blackwood conspiracy if
 recovered. It also contains the remains of Keeper family
 members---spirits who could testify to Prince Aldric's crimes if
 properly contacted.
@@ -47932,13 +47945,7 @@ They believe this entity will return and bring enlightenment.
 The monks possess a library of erased histories, a ritual chamber with
 time distortion effects, and a locked portal to a demiplane. They
 aren't evil---they genuinely seek knowledge. But their patron may be
-one of the 
-
-{{pageNumber,auto}}
-{{footnote Appendix}}
-\page
-
-Bound Ancients, and their devotion may be feeding its
+one of the Bound Ancients, and their devotion may be feeding its
 prison's deterioration.
 
 **Celeste of the Silver Ear**
@@ -47948,12 +47955,12 @@ tavern in Silverpine, is actually an ancient demon bound to the Material
 Plane seven hundred years ago. When the wizard who bound her died
 without descendants, she found a loophole---free to act but unable to
 leave.
-
+\column
 She's spent centuries seeking a way home. The Worldrend damaged planar
 boundaries, and she believes understanding it might allow her escape.
 Her interest in pre-Worldrend history and anyone who might know more is
 not mere scholarly curiosity---it's survival.
-\column
+
 **The Pattern**
 
 Certain ancient entities---including the Threshold Guardian that watches
