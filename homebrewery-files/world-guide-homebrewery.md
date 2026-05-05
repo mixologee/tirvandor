@@ -36253,6 +36253,8 @@ Aethos (who founded the Aethermere line) claimed their half as proof of
 succession. Neither would surrender their piece to the other. This
 standoff has continued for 1,247 years.
 
+\column
+
 **Significance**
 
 The Sundered Crown is the most potent symbol of the division between
@@ -36315,6 +36317,10 @@ the Palace of Eternal Spring. Both continents continue sponsoring
 occasional recovery expeditions. None have returned with the sword. Some
 have not returned at all.
 
+{{pageNumber,auto}}
+{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
+\page
+
 #### The Royal Scepter
 
 **Physical Description**
@@ -36324,10 +36330,6 @@ large ruby that seems to contain flickering fire. The shaft is inscribed
 with the names of every High King who wielded it. The final name,
 Aldric, was never completed, the final letters trailing off as if the
 engraver was interrupted mid-stroke.
-
-{{pageNumber,auto}}
-{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
-\page
 
 ![The Royal Scepter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-scepter-of-rulership.jpg){width:200px,float:right,margin:5px}
 
@@ -36786,7 +36788,6 @@ ownership are matters of political concern.
 
 #### Mercy's Edge
 
-
 ![Mercy's Edge](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-mercys-edge.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
@@ -36867,13 +36868,15 @@ slowly like a heartbeat. The blade never dulls and is warm to the touch.
 
 The Dawnblade was forged for the first Knight-Commander of Thaldros
 three hundred years ago, during the reign of King Aldric I. The king
-commissioned the blade from the legendary smith Durin Ironforge using
-metal recovered from a fallen star and consecrated by the high priests
-of all Seven temples.
+commissioned the blade from the legendary smith 
 
 {{pageNumber,auto}}
 {{footnote Chapter 55: Weapons of Legend}}
 \page
+
+Durin Ironforge using
+metal recovered from a fallen star and consecrated by the high priests
+of all Seven temples.
 
 The first Knight-Commander, Sir Aldric Dawnblade (who took the blade's
 name as his own, establishing a tradition), wielded it to drive back a
@@ -36997,6 +37000,10 @@ than a privilege to be assumed. The original blade was created
 specifically for this purpose, a training weapon that was nonetheless a
 serious instrument of war.
 
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
 Each heir receives the Heir's Blade upon beginning martial training
 (typically around age twelve) and carries it until coronation, when they
 transition to Thrandil's Edge. The blade's leather grip is replaced
@@ -37006,10 +37013,6 @@ successfully broken warhorse.
 The current blade has been modified for Crown Prince Thorin, its leather
 grip tanned from his first warhorse's saddle, a stallion named
 Stormhoof that he still rides.
-
-{{pageNumber,auto}}
-{{footnote Chapter 55: Weapons of Legend}}
-\page
 
 **Powers**
 
@@ -37061,7 +37064,7 @@ with problems.
 The blade has seen combat in border skirmishes, bandit suppression
 campaigns, and at least three assassination attempts where the sultan
 was forced to defend himself personally.
-
+\column
 **Powers**
 
 The blade's edge is coated with a slow-acting venom that the Ashborne
@@ -37124,7 +37127,13 @@ profit from them.
 Carried by Davos Goldshore, the current Merchant Prince of Goldreach and
 leader of the Goldshore branch family.
 
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
 #### The Goldshore Ancestral Blade (Frost Brand)
+
+![The Goldshore Ancestral Blade](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-goldshore-ancestral-blade.jpg){width:200px,float:right,margin:5px}
 
 **Physical Description**
 
@@ -37141,10 +37150,7 @@ ancient sea-god during the Age of Recovery and tempered in water from
 the deepest ocean trench. The sword has defended Goldshore ships from
 pirates, sea monsters, and rival houses for six hundred years.
 
-{{pageNumber,auto}}
-{{footnote Chapter 55: Weapons of Legend}}
-\page
-![The Goldshore Ancestral Blade](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-goldshore-ancestral-blade.jpg){width:200px,float:right,margin:5px}
+
 
 When the main Goldshore line died out during the Keeper Massacre (the
 secret guardians of the Flame Heart Component), the blade was believed
@@ -37172,7 +37178,7 @@ Flame Heart's guardians.
 
 Recovered from the sunken Goldshore Manor during the Shattered Oaths
 campaign. Current holder depends on campaign events.
-
+\column
 #### The Riverbrook Rapier
 
 
@@ -37194,7 +37200,7 @@ The blade saw action during several border disputes and at least one
 duel of honor. Lady Seraphina's father carried it into the Dragon
 Crisis, where he died defending a refugee column. Seraphina recovered it
 from his body.
-\column
+
 **Powers**
 
 The blade is of exceptional quality but not magical. However, its
@@ -37227,6 +37233,10 @@ reflect it. The hilt is wrapped in shadow-silk and topped with an
 obsidian pommel carved into a raven's head. When swung, the blade
 leaves trails of darkness in its wake.
 
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
 **History**
 
 The blade was originally Lady Elaine Blackwood's dress sword, an
@@ -37248,10 +37258,6 @@ enemies. The wielder can become invisible in shadow and cast darkness
 from the blade itself. The weapon feeds on justified anger, it grows
 stronger when wielded by someone with genuine grievances against their
 enemies.
-
-{{pageNumber,auto}}
-{{footnote Chapter 55: Weapons of Legend}}
-\page
 
 **Attunement**
 
@@ -37334,6 +37340,10 @@ of death glow faintly purple along the fuller. The crossguard is wrapped
 in void-silk, and the pommel is carved from dark crystal. Whispers
 emanate from the blade in combat, the voices of souls it has claimed.
 
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
 **History**
 
 Captain Malthus Voidcaller commissioned this blade after losing his
@@ -37366,13 +37376,7 @@ half-hoping to finally fall and end their torment.
 
 The Voidblade represents the danger of seeking power through grief.
 Captain Malthus thought he was creating a tool for vengeance; instead,
-he created a 
-
-{{pageNumber,auto}}
-{{footnote Chapter 55: Weapons of Legend}}
-\page
-
-prison for his own soul and a trap for whoever came after.
+he created a prison for his own soul and a trap for whoever came after.
 
 **Current Location**
 
@@ -37447,7 +37451,13 @@ flight nor the impact.
 
 The bow was blessed by forest spirits when Elara Thornwood, the Red
 Wolf, first took up arms against those who had stolen her family's
-lands. The spirits recognized her cause as just and her connection to
+lands. The spirits recognized her 
+
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
+cause as just and her connection to
 the forest as genuine, so they blessed her weapon with their power.
 
 Elara carved the wolf motifs herself during the long nights in hiding,
@@ -37485,10 +37495,6 @@ surface shifts subtly, and those who hold it feel connected to every
 tree in the forest. Arrows fired from it seem guided by the forest
 itself.
 
-{{pageNumber,auto}}
-{{footnote Chapter 55: Weapons of Legend}}
-\page
-
 **History**
 
 Thornstrike was crafted by elven artisans in the Age of Dawn for a great
@@ -37514,7 +37520,7 @@ generates them from forest matter.
 Thornstrike represents the ancient bond between elves and forest. Its
 existence proves that some things have survived from before the
 Worldrend, connections and powers that predate the catastrophe.
-
+\column
 **Current Location**
 
 Wielded by Ranger-Lord Arannis Silverleaf, military commander of House
@@ -37542,7 +37548,7 @@ commissioned these blades from a poisoner who specializes in creating
 tools for professional killers. The blades have been used in dozens of
 assassinations, each kill adding to Kael's reputation and the blades'
 legend.
-\column
+
 **Powers**
 
 The blades can be coated with poison as a swift action by activating the
@@ -37571,6 +37577,10 @@ A greatsword of dark metal that seems to drink in light. The blade is
 inscribed with runes that occasionally pulse with faint illumination.
 The weapon is heavy even for a greatsword, requiring exceptional
 strength to wield effectively.
+
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
 
 **History**
 
@@ -37609,10 +37619,6 @@ entirely, Taran is afraid to find out.
 Wielded by Commander Taran Steelheart, Commander of the Elite Guard of
 Thaldros.
 
-{{pageNumber,auto}}
-{{footnote Chapter 55: Weapons of Legend}}
-\page
-
 ### 55.6 Amulets and Magical Foci
 
 
@@ -37620,7 +37626,7 @@ Thaldros.
 
 
 ![The Amulet of the Black Raven](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-amulet-of-the-black-raven.jpg){width:325px}
-
+\column
 **Physical Description**
 
 An amulet bearing a raven design in black metal, hung on a chain of
@@ -37637,7 +37643,7 @@ combined with shadow-pact power obtained at great personal cost.
 The amulet took years to create, requiring Corvus to sacrifice portions
 of his own life force to power it. This is one reason he appears older
 than his years, he has given pieces of himself to the amulet.
-\column
+
 **Powers**
 
 The amulet protects its wearer from all divination magic, scrying,
@@ -37871,12 +37877,14 @@ personally crafted for its recipient.
 
 The Peacekeepers' Badge tradition began during the last major peace
 treaty between Thaldros and Aethoria. Heroes who served the cause of
-peace, regardless of which side they originally came from, were honored
-with these badges as recognition of their service.
+peace, regardless of which side they originally came from, 
 
 {{pageNumber,auto}}
 {{footnote Chapter 57: Objects of Power}}
 \page
+
+were honored
+with these badges as recognition of their service.
 
 **Powers**
 
@@ -38101,13 +38109,15 @@ names, numbers, and transactions in coded shorthand.
 
 The Black Ledger was created and maintained by Lord Pembroke as an
 insurance policy. It contains records of every bribe, forged deed,
-fraudulent contract, and corrupt magistrate the Merchant Consortium has
-employed. Pembroke kept it as protection, if he fell, others would fall
-with him.
+fraudulent contract, and corrupt magistrate the Merchant 
 
 {{pageNumber,auto}}
 {{footnote Chapter 57: Objects of Power}}
 \page
+
+Consortium has
+employed. Pembroke kept it as protection, if he fell, others would fall
+with him.
 
 **Powers**
 
@@ -38160,6 +38170,8 @@ the wearer, providing concealment even in moderate light.
 Possessing a Ring of Shadows without being a Black Chains member is
 dangerous, the organization protects its symbols jealously. However, the
 ring is useful enough that some take the risk.
+
+\column
 
 **Current Location**
 
@@ -38214,6 +38226,10 @@ A silver pendant containing a color-shifting opal that seems to hold
 captured sunlight. The pendant is warm to the touch and seems to vibrate
 slightly during important speeches or negotiations.
 
+{{pageNumber,auto}}
+{{footnote Chapter 57: Objects of Power}}
+\page
+
 **History**
 
 The Pendant of Eloquence was a gift from Aethoria's founders to the
@@ -38224,13 +38240,7 @@ persuasion over force in Aethorian governance.
 **Powers**
 
 The pendant enhances persuasion and public speaking. It allows the
-casting of charm and suggestion 
-
-{{pageNumber,auto}}
-{{footnote Chapter 57: Objects of Power}}
-\page
-
-spells, though using these on fellow
+casting of charm and suggestion spells, though using these on fellow
 senators is considered deeply dishonorable. The opal glows when the
 wearer speaks truth and dims when they lie, a feature that makes
 deception difficult.
@@ -38605,7 +38615,7 @@ still within the sunken structure.
 A platinum crown set with blue-green pearls and aquamarines, styled to
 resemble cresting waves. The crown grants water breathing, swimming
 speed, control over water, and authority over aquatic creatures.
-\column
+
 **Why It Is Sought**
 
 The Crown of the Depths would grant its wearer significant power in
@@ -38674,12 +38684,14 @@ represents a potential extinction-level threat.
 
 When the World-Splitter was activated and the continents were torn
 apart, pieces of the artifact scattered across the world. These
-fragments, distinct from the Components, are smaller pieces that retain
-traces of the original power.
+fragments, distinct 
 
 {{pageNumber,auto}}
 {{footnote Chapter 58: Lost and Sought Items}}
 \page
+
+from the Components, are smaller pieces that retain
+traces of the original power.
 
 **Description**
 
@@ -38956,10 +38968,11 @@ Lightbringers)
 
 **Affiliation:** The Lightbringers
 
-**Threat Level:** Extremely dangerous combatant and commander.
-
 \column
 {{margin-top:410px}}
+
+**Threat Level:** Extremely dangerous combatant and commander.
+
 
 One of the most formidable warriors in Tirvandor, enhanced by decades of holy
 warfare and something darker gained during the Demon Tide.
@@ -38995,16 +39008,16 @@ becoming something not entirely human.
 
 -   Questions his own faith but continues fighting.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 #### Background & History
 
 
 Born to farmers in the shadow of the Ironspine Mountains, Gareth was the
 third son with no prospects or inheritance. He joined the Lightbringers
 at sixteen 
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 seeking purpose, and found it in holy warfare against evil.
 For forty years he rose through their ranks, his tactical brilliance
@@ -39120,6 +39133,10 @@ Short salt-and-pepper hair, practical and maintained. Piercing blue eyes
 like the sea itself---calm on the surface but with depths that can turn
 deadly.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 Multiple scars mark his body: sword cuts from boarding actions, burns
 from naval battles, and a distinctive shark bite on his left forearm
 from an incident he refuses to discuss. Walks with the rolling gait of a
@@ -39127,10 +39144,6 @@ career sailor, never quite still even on solid ground.
 
 Usually wears a modified naval uniform---practical enough for combat but
 clearly marking his rank. Smells of saltwater and gunpowder.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 #### Personality
 
@@ -39256,14 +39269,14 @@ with a merfolk community. They provide intelligence about underwater
 threats; he protects them from surface vessels. If other nobles learned
 he's allied with "fish people," it would be scandal.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 6\. **The Personal Loss:** Theron has a daughter he's never met---born
 of an affair decades ago. He pays support through intermediaries but has
 never acknowledged her. She's now a sailor on a merchant vessel,
 unaware of her heritage. He watches her career from a distance.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 #### Story Potential
 
@@ -39387,6 +39400,11 @@ giants might break the pact.
 
 5\. **The Succession Question:** Giant King Hrothgar is aging. His heir
 is aggressive and wants war, not peace. The entire arrangement might not
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 survive the transition.
 
 #### Story Potential
@@ -39402,10 +39420,6 @@ survive the transition.
     without asking questions.
 
 -   The giant prince needs to be convinced peace is profitable.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 -   Someone suspects the truth and needs to be dealt with.
 
@@ -39510,6 +39524,10 @@ traitor.
 **Threat Level:** Dangerous scout and infiltrator. Expert at surviving
 where larger warriors fail.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 #### Physical Description
 
 
@@ -39529,10 +39547,6 @@ Enlisted in the Ironhold scouts at twenty-five---unusual for a halfling.
 Faced prejudice but proved himself by surviving missions that killed
 larger soldiers. His ability to move unseen through giant territory
 saved dozens of lives. Promoted to Scout Captain at forty.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 Six months ago, he found something during a routine patrol---tracks that
 shouldn't exist. Something large, ancient, and moving through areas it
@@ -39641,6 +39655,10 @@ decades, but when it does, nothing will stop it.
 catastrophic eruption. Hasn't told anyone in authority because they
 ordered him to stay silent.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 2\. **The Secret Plans:** Developing evacuation routes that could save
 most of the population---if there's enough warning.
 
@@ -39669,10 +39687,6 @@ ten years. Will stay himself to monitor the mountain until the end.
 
 **Threat Level:** Extremely dangerous. One of the finest archers and
 wilderness warriors in Tirvandor. Commands extensive ranger forces.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 ![60.7 Warden Commander Thalia Moonbow](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-warden-commander-thalia-moonbow.jpg){width:200px,float:right,margin:5px}
 
@@ -39745,8 +39759,6 @@ know what she saw.
 
 ### 60.8 Commander Torvald Stoneshield
 
-![60.8 Commander Torvald Stoneshield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-torvald-stoneshield.jpg){width:200px,float:right,margin:5px}
-
 
 **Title:** Commander of Stoneshield Keep
 
@@ -39770,6 +39782,12 @@ armor bears the runes of his family, passed down for eight generations.
 Carries "Mountain's Voice," an ancestral warhammer that resonates
 with thunder.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
+![60.8 Commander Torvald Stoneshield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-torvald-stoneshield.jpg){width:200px,float:right,margin:5px}
+
 #### Background & History
 
 
@@ -39783,10 +39801,6 @@ himself against orc raiders. For twenty years, he's maintained the most
 boring command in the Ironspines---which suits him perfectly. Boring
 means no deaths, no disasters, no families receiving terrible news.
 He's made boring into an art form.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 But the mountains are getting less boring. Patrols are finding tracks
 they can't identify, scouts are reporting lights in abandoned mines,
@@ -39883,6 +39897,10 @@ natural authority---clearly someone accustomed to being obeyed.
 
 -   Struggles visibly with moral gray areas.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 **Core Values:**
 
 -   *"The law must protect all equally, from peasant to king."*.
@@ -39924,10 +39942,6 @@ privilege but felt called to service. She joined the Lightbringers at
 eighteen, one of the few women in the order at the time, and proved
 herself through sheer determination and undeniable faith.
 
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
-
 Her defining moment came during the **Tomb of Shadows Expedition**---a
 disaster that killed twenty-three Lightbringers and nearly released an
 imprisoned lich. Thalia was one of seven survivors and the one who
@@ -39959,7 +39973,7 @@ she claims no such ambition.
 
 -   **Weapon:** Wields "Dawnbreaker," the legendary holy sword of
     Paladin Radiant.
-
+\column
 #### Secrets
 
 
@@ -40018,6 +40032,10 @@ Fair, tough, intelligent. Commands the City Watch with skill and has
 solved multiple high-profile cases. Incorruptible---the Shadow Syndicate
 has tried to bribe her dozens of times. She arrests the messengers.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 #### Background & History
 
 
@@ -40061,10 +40079,6 @@ everything.
 1\. **The Father's Legacy:** Found her father's hidden records after
 his death. The Syndicate doesn't know she has them---details of
 operations, contacts, safehouses.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 2\. **The Mother's Blame:** Her mother still lives in Silverpine. They
 haven't spoken in fifteen years. Lyra watches over her secretly.
@@ -40123,7 +40137,7 @@ her the captaincy. Now commands the entire lake patrol fleet---a dozen
 ships protecting trade across the Crystalvale.
 
 Every pirate captured feels like justice for Darian.
-\column
+
 #### Connections
 
 
@@ -40149,6 +40163,10 @@ years.
 
 2\. **The Letter:** Darian left a letter she's never opened. Carries it
 everywhere but can't bring herself to read his last words.
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
 
 3\. **The Offer:** The pirate who escaped offered to surrender---if she
 let his crew go free. She refused. Sometimes she wonders if she was
@@ -40185,10 +40203,6 @@ infiltrators and detecting lies.
 Solid and immovable as the gates he guards. His armor is always
 polished, his weapons always ready. Eyes that assess everyone who passes
 with professional suspicion.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 #### Personality
 
@@ -40267,9 +40281,6 @@ prophetic. He doesn't know how to stop it.
 
 ### 60.13 Captain Brenna Frostbeard
 
-![60.13 Captain Brenna Frostbeard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-brenna-frostbeard.jpg){width:200px,float:right,margin:5px}
-
-
 **Title:** Captain of the Frostholm Ice Fleet, Commander of the Winter
 Guard
 
@@ -40283,6 +40294,12 @@ Guard
 
 **Threat Level:** Highly dangerous in cold environments. Supernatural
 cold resistance. Expert ice navigator.
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
+![60.13 Captain Brenna Frostbeard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-brenna-frostbeard.jpg){width:200px,float:right,margin:5px}
 
 #### Physical Description
 
@@ -40329,10 +40346,6 @@ grace even on ice. Smells of fish, salt, and cold air.
 -   Hearing voices in the ice (might be going mad).
 
 -   Distrusts outsiders, especially southern merchants.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 #### Background & History
 
@@ -40400,7 +40413,6 @@ messages.
 Has conversations with him when alone on deck.
 
 ### 60.14 Commander Helena Blackstone
-![60.13 Captain Brenna Frostbeard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-helena-blackstone-iron-legion.jpg){width:200px,float:right,margin:5px}
 
 **Title:** Commander of the Iron Legion's Second Division, Warden of
 the Eastern Marches
@@ -40415,6 +40427,12 @@ the Eastern Marches
 
 **Threat Level:** Highly dangerous field commander. Survivor of
 assassination attempt. Leads from the front.
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
+![60.13 Captain Brenna Frostbeard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-helena-blackstone-iron-legion.jpg){width:200px,float:right,margin:5px}
 
 #### Physical Description
 
@@ -40468,18 +40486,12 @@ armor, always armed.
 -   Her daughter resents being sent away.
 
 -   Sometimes too willing to sacrifice herself.
-
+\column
 #### Background & History
 
 
 Enlisted at sixteen, lying about her age. Rose through ranks on pure
-ability---no noble sponsors, no political games. 
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
-
-Distinguished herself
+ability---no noble sponsors, no political games. Distinguished herself
 in border skirmishes and the Giant Wars.
 
 The throat wound came from an assassination attempt. The assassin was
@@ -40502,7 +40514,7 @@ the Legion---and a possible successor.
 
 -   **Family:** Daughter Sera, now 19, training as a healer in
     Silverpine.
-\column
+
 #### Secrets
 
 
@@ -40592,7 +40604,7 @@ ostentatiously---the quality speaks for itself.
 -   His ambition may exceed his reach.
 
 -   His past creates vulnerabilities he cannot eliminate.
-\column
+
 #### Background & History
 
 
@@ -40781,18 +40793,16 @@ to maintain underworld order.
 
 **Alignment:** Lawful Neutral
 
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 #### Physical Description
 
 
 Powerfully built with the weathered appearance of someone who has spent
 decades working near volcanic heat. Skin has a faint ruddy cast from
-constant exposure 
-
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
-
-to fire and ash. Eyes seem to glow faintly in
+constant exposure to fire and ash. Eyes seem to glow faintly in
 darkness---either a trick of the light or something more.
 
 ![61.3 Grand Warden Volcanus Rex (Ashwardens)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-grand-warden-volcanus-rex.jpg){width:200px,float:right,margin:5px}
@@ -40834,7 +40844,7 @@ decades. Volcanus knows but has been ordered to stay silent.
 
 3\. **The Elemental Bargain:** The fire elemental's warnings come at a
 price. Volcanus hasn't revealed what he's promised in return.
-
+\column
 ### 61.4 Archmage Veridian Starweaver (The Arcanum)
 
 ![61.4 Archmage Veridian Starweaver (The Arcanum)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-veridian-starweaver.jpg){width:200px,float:right,margin:5px}
@@ -40849,7 +40859,7 @@ price. Volcanus hasn't revealed what he's promised in return.
 **Role:** Headmaster of the Silverpine Arcanum, Archmage
 
 **Alignment:** Lawful Neutral
-\column
+
 #### Physical Description
 
 
@@ -40899,6 +40909,10 @@ light and is never far from his hand.
 
 -   Tower library (contains irreplaceable texts).
 
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 **Flaws:**
 
 -   Sometimes too cautious, overthinks decisions.
@@ -40908,10 +40922,6 @@ light and is never far from his hand.
 -   Secret guilt over not predicting something in the past.
 
 -   Workaholic---sleeps only 4 hours per night.
-
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
 
 -   Underestimates threats outside magical realm.
 
@@ -40968,6 +40978,9 @@ begins."
 -   **Matriarch Seraphina Silverleaf:** Has met her.
 
 -   **High Mage Arcturus:** Studied under his ghost through séances.
+
+\column
+
 
 #### Secrets
 
@@ -41028,6 +41041,10 @@ crest.
 
 -   Has a surprisingly dry sense of humor.
 
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 **Ideals:**
 
 -   "The Iron Guild's word is iron. Break it, and we break you.".
@@ -41045,10 +41062,6 @@ crest.
     family).
 
 -   Every guild member who's died under contract.
-
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
 
 -   The balance of power that keeps Thaldros stable.
 
@@ -41163,6 +41176,10 @@ amber color, seeming to glow near flames.
 
 -   The secrets of legendary crafting.
 
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 -   His late wife's memory.
 
 **Flaws:**
@@ -41181,10 +41198,6 @@ amber color, seeming to glow near flames.
 Born to a smithing family in Ironhold. Showed prodigious talent from
 childhood. Mastered mundane smithing by 50, began studying magical
 artifice.
-
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
 
 Spent decades traveling, learning techniques from dwarven holds, elven
 smiths, and even a dragon who taught metalworking. Returned to Goldreach
@@ -41243,6 +41256,8 @@ his techniques will die with him.
 
 **Alignment:** Neutral Good
 
+\column
+
 #### The Nature of the Title
 
 
@@ -41295,6 +41310,10 @@ portal to the Shadowfell. The seal is weakening.
 3\. **The Predecessor's Sin:** One previous Archdruid made a deal with
 dark powers. That debt is coming due.
 
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 4\. **The Heart's Desire:** Has fallen in love---something the role
 supposedly forbids. It's keeping her anchored to herself.
 
@@ -41308,19 +41327,13 @@ curse she can't identify. Race against time to find cure.
 
 ### 61.8 Elder Council Mother Talia Vinehart
 
-
-
+![61.8 Elder Council Mother Talia Vinehart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-council-mother-talia-vinehart.jpg){width:200px,float:right,margin:5px}
 
 **Race:** Half-Elf
 
 **Age:** ~150 (young by elven standards, old by human)
 
 **Location:** Aethorian Harmony (various council chambers)
-
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
-![61.8 Elder Council Mother Talia Vinehart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-council-mother-talia-vinehart.jpg){width:200px,float:right,margin:5px}
 
 **Role:** Council Elder representing non-pure-elven voices
 
@@ -41346,6 +41359,8 @@ Now she represents the interests of half-elves, human immigrants, and
 other minorities within the Harmony. It's a difficult position---too
 elven for outsiders, too human for traditionalists---but she navigates
 it with patience and occasional stubbornness.
+
+\column
 
 #### Connections
 
@@ -41406,7 +41421,13 @@ Distinctive and striking (5'10", 190 lbs.), with the crystalline
 features of rock genasi. Skin has faint crystal formations---like geodes
 embedded in flesh. Eyes are literally crystalline---faceted like cut
 gems, reflecting light prismatically. White hair with crystal-like
-streaks. Moves with deliberate precision. Wears expensive robes with
+streaks. Moves with deliberate precision. Wears expensive 
+
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
+robes with
 crystals sewn throughout---both decoration and functional components.
 
 #### Personality
@@ -41437,10 +41458,6 @@ crystals sewn throughout---both decoration and functional components.
 -   His personal gem collection (each piece has a story).
 
 -   His daughter Sapphira (pride and joy).
-
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
 
 -   The craft of gem-cutting and transmutation.
 
@@ -41475,6 +41492,8 @@ revolutionized crystal-based magic.
 His greatest work is his daughter Sapphira---not just training her in
 craft, but in patience, precision, and perfection. She'll inherit
 techniques refined over centuries.
+
+\column
 
 Recently, he's discovered something troubling---evidence that certain
 gem formations aren't natural. They're artifacts from before the
@@ -41530,9 +41549,6 @@ told her. Her real parents died in an accident; he took her in at age 2.
 
 ### 61.10 Matriarch Seraphina Silverleaf (The Ancient Elf)
 
-![61.10 Matriarch Seraphina Silverleaf (The Ancient Elf)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-matriarch-seraphina-silverleaf.jpg){width:200px,float:right,margin:5px}
-
-
 **Race:** High Elf
 
 **Age:** Over 2,000 years
@@ -41542,6 +41558,12 @@ told her. Her real parents died in an accident; he took her in at age 2.
 **Role:** Ancient Matriarch, Living Memory of the Elves, House Founder
 
 **Alignment:** Neutral Good
+
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
+![61.10 Matriarch Seraphina Silverleaf (The Ancient Elf)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-matriarch-seraphina-silverleaf.jpg){width:200px,float:right,margin:5px}
 
 #### Physical Description
 
@@ -41562,13 +41584,7 @@ She founded House Silverleaf not through conquest but through survival.
 When other noble houses fell to chaos, war, and madness in the
 Worldrend's aftermath, Seraphina gathered survivors, preserved
 knowledge, and built something that would endure. Her
-philosophy
-
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
-
----patience, wisdom, and balance with nature---became the
+philosophy---patience, wisdom, and balance with nature---became the
 foundation of modern elven society in Thaldros.
 
 She no longer leads House Silverleaf directly; that honor passed first
@@ -41637,8 +41653,6 @@ survive it.
 **Role:** Village Elder, Guardian of the Heart Oak
 
 **Alignment:** Neutral Good
-\column
-![61.11 Elder Thalindra Oakheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-thalindra-oakheart.jpg){width:325px}
 
 #### Physical Description
 
@@ -41672,6 +41686,8 @@ sprout from her footsteps when she stands still too long.
 {{pageNumber,auto}}
 {{footnote Chapter 61: Faction Leaders}}
 \page
+
+![61.11 Elder Thalindra Oakheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-thalindra-oakheart.jpg){width:325px}
 
 **Ideals:**
 
@@ -41772,9 +41788,6 @@ refuses to leave it.
 \colum
 ### 61.12 Elder Rashid the Twice-Blessed
 
-![61.12 Elder Rashid the Twice-Blessed](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-rashid-the-twice-blessed.jpg){width:325px}
-
-
 **Race:** Human
 
 **Age:** ~70s
@@ -41795,6 +41808,8 @@ miraculous events that defined his life.
 {{footnote Chapter 61: Faction Leaders}}
 \page
 
+![61.12 Elder Rashid the Twice-Blessed](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-rashid-the-twice-blessed.jpg){width:325px}
+
 **The First Blessing:** In his youth, during a sandstorm that claimed
 his entire caravan, he alone survived---found three days later by
 traders, unharmed and claiming a golden figure had sheltered him.
@@ -41808,6 +41823,8 @@ showed early aptitude for diplomacy and an uncanny ability to sense
 deception. He rose through the temple hierarchy not through ambition but
 through genuine wisdom and an almost supernatural calm that soothed
 conflicts before they could escalate.
+
+\column
 
 Now in his seventies, he serves as a senior spiritual advisor alongside
 High Priest Al-Sahir, counseling Sultan Rashid Ashborne (no
@@ -41834,7 +41851,7 @@ killed him.
 
 -   **The Assassin's Guild:** They've stopped accepting contracts on
     him after the third failure.
-\column
+
 #### Secrets
 
 
@@ -42156,14 +42173,14 @@ Born Marcus Tormund in Crossvale to a farming family. Joined the Royal
 Army at eighteen, served in the Northern Border Campaigns against orc
 raiders throughout his twenties.
 
+{{pageNumber,auto}}
+{{footnote Chapter 62: Kaer Thandros NPCs}}
+\page
+
 The turning point came during the Battle of Iron Pass (1223 CR) when his
 company was ambushed and nearly wiped out. Tormund held a defensive line
 for six hours, protecting wounded soldiers. During that stand, he prayed
 to every god he could name---and Mordain answered.
-
-{{pageNumber,auto}}
-{{footnote Chapter 62: Kaer Thandros NPCs}}
-\page
 
 After recovering, he took holy orders. Transferred to Kaer Thandros in
 1230 CR and built the temple's warrior-priest program from scratch.
@@ -42269,6 +42286,10 @@ the original Crown Forge in 650 CR under King Thorin I. The Forgefire
 clan has passed down techniques for three centuries---secrets whispered
 from father to son, never written.
 
+{{pageNumber,auto}}
+{{footnote Chapter 62: Kaer Thandros NPCs}}
+\page
+
 Durgan showed talent early, forging his first blade at age thirty (young
 for dwarves). Journeyed to study other techniques---twenty years in
 Emberforge learning volcanic smithing, ten years in the Sundaran Expanse
@@ -42278,10 +42299,6 @@ Returned to Kaer Thandros in 1157 CR and assumed his father's position
 after his death during the Dragon Crisis. The dragon Infernalix
 specifically targeted the Forge District---Durgan believes it was
 seeking something.
-
-{{pageNumber,auto}}
-{{footnote Chapter 62: Kaer Thandros NPCs}}
-\page
 
 His masterwork, the blade "Thrandil's Edge" carried by King Aldric
 IV, took seven years to complete.
@@ -42338,7 +42355,7 @@ Speaks in layers---every sentence has multiple meanings. Touches people
 when talking (establishes connection, reads reactions). Laughs easily
 and genuinely (even when planning someone's ruin). Remembers every
 name, every favor, every slight.
-\column
+
 **Defining Principles:**
 
 -   "Power isn't about what you can do---it's about what you can make
@@ -42396,6 +42413,10 @@ Aethoria---her father's affair.
 unsuitable---a common-born captain in the guard. She'll never act on
 it.
 
+{{pageNumber,auto}}
+{{footnote Chapter 62: Kaer Thandros NPCs}}
+\page
+
 ### 62.8 Criminal Elements
 
 
@@ -42439,11 +42460,14 @@ forest university city.*
 
 Ancient and ageless simultaneously, standing five feet six inches and
 weighing one hundred fifteen pounds. Silver-white hair (from age, not
-dye) flows to her waist, often woven with living flowers and vines. Eyes
-are deep green, like forest shadows, and seem to see through pretense to
-truth. 
+dye) flows to her waist, often woven with living 
+
 \column
 {{margin-top:410px}}
+
+flowers and vines. Eyes
+are deep green, like forest shadows, and seem to see through pretense to
+truth. 
 
 Skin has faint bark-like texture from centuries of druidic magic.
 Wears robes of living plants that grow and change with the seasons.
@@ -42484,11 +42508,12 @@ eventual reunification.
 
 She became Matriarch of House Silverleaf in 1102 CR when Council Mistress 
 Elara stepped down to lead Silverpine University. For 145 years, she's 
-guided the house through wars, droughts, plagues, and political upheaval.
 
 {{pageNumber,auto}}
 {{footnote Chapter 63: Silverpine NPCs}}
 \page
+
+guided the house through wars, droughts, plagues, and political upheaval.
 
 She transformed Silverpine from a small forest settlement into a major
 city---while ensuring it remained in harmony with the Silverwood. She
@@ -42548,6 +42573,8 @@ the fear of discovery---haunts her still.
 *Succession Doubt:* She's not sure Arannis should inherit. His
 aggression could destroy everything she's built. But who else is there?
 
+\column
+
 #### Ranger-Lord Arannis Silverleaf
 
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-arannis-silverleaf.jpg){width:200px,float:right,margin:5px}
@@ -42606,17 +42633,19 @@ all House Silverleaf's military forces.
 
 For fifty-six years, he's defended the Silverwood from threats his
 mother often doesn't acknowledge until too late. Goblin raids, orc
-incursions, aberrations from deep places, poachers, dark fey---he's
+incursions, aberrations 
+
+{{pageNumber,auto}}
+{{footnote Chapter 63: Silverpine NPCs}}
+\page
+
+from deep places, poachers, dark fey---he's
 fought them all.
 
 He's grown frustrated with his mother's diplomatic approach. While she
 negotiates, he acts. While she considers consequences, he eliminates
 threats. This creates tension---he respects her wisdom but questions her
 methods.
-
-{{pageNumber,auto}}
-{{footnote Chapter 63: Silverpine NPCs}}
-\page
 
 **Key Relationships:**
 
@@ -42736,6 +42765,10 @@ children. Has trained hundreds of wizards over the centuries.
 -   **Ally:** High Queen Aelindra Aethermere (mutual respect, occasional
     consultation).
 
+{{pageNumber,auto}}
+{{footnote Chapter 63: Silverpine NPCs}}
+\page
+
 -   **Concern:** The Syndicate (they've tried to infiltrate the
     University).
 
@@ -42745,10 +42778,6 @@ children. Has trained hundreds of wizards over the centuries.
 knowledge. Only she has access. Contains things that shouldn't
 exist---necromancy tomes, demon summoning rituals, reality-breaking
 spells. She's studied them all "to know how to counter them."
-
-{{pageNumber,auto}}
-{{footnote Chapter 63: Silverpine NPCs}}
-\page
 
 *The Failed Student:* One of her most promising students turned to dark
 magic. She tried to stop him. He died in the confrontation. She's never
@@ -42808,7 +42837,7 @@ notes on things others cannot perceive.
 Sees patterns others miss. Her predictions are eerily accurate. Students
 are either fascinated or scared of her. Speaks in riddles that often
 make sense only in retrospect.
-\column
+
 **Background**
 
 Born in Silverpine to House Silverleaf retainers. Showed magical talent
@@ -42849,7 +42878,13 @@ but she's been studying it for sixty years.
 **Secrets:**
 
 *The Returning Stars:* The sky is slowly reverting to its pre-Worldrend
-configuration. At current rate, it will match ancient records in
+configuration. At current rate, it will 
+
+{{pageNumber,auto}}
+{{footnote Chapter 63: Silverpine NPCs}}
+\page
+
+match ancient records in
 approximately one hundred years. What happens then?
 
 *The Hidden Observatory:* Maintains a secret observation post in the
@@ -42858,10 +42893,6 @@ Ironspine Mountains, away from Silverpine's light pollution.
 *The Prophecy Collection:* Has compiled every recorded prophecy about
 the Worldrend and its aftermath. Patterns suggest a second
 Worldrend---or something that prevents one.
-
-{{pageNumber,auto}}
-{{footnote Chapter 63: Silverpine NPCs}}
-\page
 
 *The Aethorian Connection:* Her correspondent is actually Archmage
 Eldrin Aethermere himself. They share astronomical data that contradicts
@@ -42970,6 +43001,10 @@ Serves as a bridge between the two cultures.
 
 **Race:** Elf
 
+{{pageNumber,auto}}
+{{footnote Chapter 63: Silverpine NPCs}}
+\page
+
 **Age:** Approximately 250 years old
 
 **Location:** Artisan Quarter, Silverpine
@@ -42985,10 +43020,6 @@ Apprenticed to both elven woodcarvers and human jewelers, developing a
 unique style blending elven grace with human boldness. His breakthrough
 piece---a crown for the Lord Silverleaf wedding---established his
 reputation across both continents.
-
-{{pageNumber,auto}}
-{{footnote Chapter 63: Silverpine NPCs}}
-\page
 
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-artisan-silvanus-brightforge.jpg){width:200px,float:right,margin:5px}
 
@@ -43082,6 +43113,10 @@ cataclysm itself, and anyone who might know more.
 -   **Neutral Contacts:** Both Shadow Syndicate and City Watch respect
     her neutrality.
 
+{{pageNumber,auto}}
+{{footnote Chapter 63: Silverpine NPCs}}
+\page
+
 -   **Secret Ally:** Another bound entity (identity unknown) shares
     information.
 
@@ -43100,10 +43135,6 @@ and perfect memory.
 *The Loophole's Limit:* Can act freely but cannot directly harm mortals
 without cause. The binding's protection still restricts her.
 
-{{pageNumber,auto}}
-{{footnote Chapter 63: Silverpine NPCs}}
-\page
-
 *The Church Hunter:* An Inquisitor suspects her nature. She's been
 feeding him false leads for decades, but he's getting close.
 
@@ -43114,7 +43145,6 @@ to go home. Everything else is means to that end.
 prison. A second Worldrend might free her---or destroy her.
 
 ### 63.6 Religious and Druidic Leaders
-
 
 #### Archdruid Thornbark
 
@@ -43127,6 +43157,7 @@ with the forest)
 **Age:** Unknown
 
 **Location:** Deep Silverwood (rarely seen)
+\column
 
 **Role**
 
@@ -43136,7 +43167,7 @@ enormous weight with Lady Seraphine, though they don't always agree.
 
 Some believe he is an ancient treant. Others think he was once an elven
 druid who merged with the forest itself. He doesn't clarify.
-\column
+
 ### 63.7 The Forest Guard
 
 
@@ -43195,14 +43226,16 @@ Has spent decades building House Goldshore's fortune while nursing an
 obsession with recovering the lost Deepwater legacy. He is currently
 planning a major salvage operation to the sunken Palace Port---one that
 will inevitably bring conflict with House Crystalborn, whom he views not
-as distant cousins but as enemies who stole what rightfully belonged to
+as distant cousins 
+
+\column
+{{margin-top:430px}}
+
+but as enemies who stole what rightfully belonged to
 the western branch.
 
 His late wife, Lady Mirella, died in 1214 CR---a loss that some say
-changed his temperament from merely 
-\column
-{{margin-top:430px}}
-ruthless to bitterly vindictive.
+changed his temperament from merely ruthless to bitterly vindictive.
 
 **Key Relationships:**
 
@@ -43237,12 +43270,14 @@ preserving.
 
 Son of Lord Aldris III, Aldris IV handles day-to-day operations of House
 Goldshore and its vast merchant fleet. One of the wealthiest individuals
-in Tirvandor, he runs both legitimate trade and a massive smuggling
-empire from Goldreach. See Section 37.5 for the complete entry.
+in Tirvandor, 
 
 {{pageNumber,auto}}
 {{footnote Chapter 64: Goldreach NPCs}}
 \page
+
+he runs both legitimate trade and a massive smuggling
+empire from Goldreach. See Section 37.5 for the complete entry.
 
 #### Lady Serina Goldshore
 
@@ -43372,14 +43407,14 @@ smuggling operations. See Section 60.2 for the complete entry.
 
 **Race:** Mountain Dwarf | **Age:** 187 | **Location:** Iron Guild Headquarters, Goldreach
 
+{{pageNumber,auto}}
+{{footnote Chapter 64: Goldreach NPCs}}
+\page
+
 Leader of the premier mercenary organization in Thaldros. A veteran
 warrior who has expanded the Iron Guild's operations while maintaining
 its ironclad reputation for contract reliability. See Section 61.5 for
 the complete entry.
-
-{{pageNumber,auto}}
-{{footnote Chapter 64: Goldreach NPCs}}
-\page
 
 ### 64.4 Merchant League Presence
 
@@ -43696,13 +43731,13 @@ Ancient village elder and guardian of the Heart Oak. She has led Oakheart Grove 
 
 **Title:** First King of United Thaldros, Founder of Kaer Thandros
 
-**Era:** 612-689 CR (approximate)
-
-**Status:** Deceased
-
 {{pageNumber,auto}}
 {{footnote Chapter 65: Historical and Legendary Figures}}
 \page
+
+**Era:** 612-689 CR (approximate)
+
+**Status:** Deceased
 
 The leader who finally united the fractured western territories during
 the Unification Wars (612-670 CR). While Prince Theron's bloodline had
@@ -43761,6 +43796,8 @@ dwarf. He survived three assassination attempts, two wars with surface
 kingdoms, and a volcanic eruption that destroyed his original hold. Each
 crisis made him stronger, more cunning, and more paranoid.
 
+\column
+
 **His Death and Legend:**
 
 Durgan died in battle against a demon incursion from the deep
@@ -43811,6 +43848,10 @@ the first free settlements that would eventually become the foundation
 of Aethorian democracy. He died not in battle, but peacefully,
 surrounded by the children of people he'd freed.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 **Historical Impact:**
 
 -   His "Chain-Breaker's Creed" forms the philosophical foundation of
@@ -43820,10 +43861,6 @@ surrounded by the children of people he'd freed.
 
 -   Both continents officially abolished slavery within fifty years of
     his death.
-
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
 
 -   Some temples honor him as an ascended saint of Aethor the Liberator.
 
@@ -43929,6 +43966,10 @@ As her body failed, her spirit was caught up and transformed. She became
 a celestial being---not a god, but something close. A saint in the
 truest sense: a mortal soul elevated to divine service.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 **Her Role Today:**
 
 She serves as a guardian of healers, an inspiration to the selfless, and
@@ -43940,10 +43981,6 @@ She can manifest physically, though it costs her greatly. She reserves
 such appearances for times of desperate need---plagues that threaten
 civilizations, corruptions that poison the land, healers who face
 impossible choices.
-
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
 
 **Her Limitation:**
 
@@ -44039,7 +44076,13 @@ charged their lines.
 **His Death:**
 
 He died on the walls of Kaer Thandros during the final battle, holding a
-gate long enough for reinforcements to arrive. His body was never
+gate long enough for 
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
+reinforcements to arrive. His body was never
 recovered---Blackwood forces destroyed it out of spite.
 
 His sacrifice became legend. His name became a rallying cry against
@@ -44059,10 +44102,6 @@ Whoever holds it can rally considerable support.
 
 *The Spirit's Watch:* Some say Emberthorn's spirit still guards the
 gate he died defending, appearing when Kaer Thandros is threatened.
-
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
 
 ### 65.4 Scholars and Sages
 
@@ -44095,6 +44134,8 @@ timelines. He sometimes says "three thousand years" or "centuries"
 interchangeably. His grasp on linear time has eroded---this is not
 madness but the natural consequence of existing outside normal mortality
 for so long.
+
+\column
 
 **His Purpose:**
 
@@ -44151,6 +44192,10 @@ research.
 combination of elven blood, alchemical treatments, and a binding to a
 genius loci that anchors his life force.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 *The Worldrend Witness:* He was alive during the Worldrend. He knows
 what caused it---and who.
 
@@ -44176,13 +44221,7 @@ ritual that he finds increasingly distasteful.
 **Status:** Alive
 
 Once a prominent healer in Silverpine, respected for her skill with both
-medicine and magic. Then she 
-dying patients, 
-
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
-started hearing whispers---voices from
+medicine and magic. Then she dying patients, started hearing whispers---voices 
 from the recently dead, from things that had never been
 alive. The voices drove her from the city, into the wilderness, where
 their chatter was quieter.
@@ -44227,9 +44266,7 @@ ruled unchallenged for millennia before the Worldrend split the world.
 **The Dragon Crisis (1156-1201 CR):**
 
 His forty-five year campaign against Thaldros was never about territory
-or treasure---though he 
-\column
-accumulated both. It was about finding something
+or treasure---though he accumulated both. It was about finding something
 specific: a piece of the artifact that caused the Worldrend, which he
 believed could reunite the continents and restore his domain.
 
@@ -44261,7 +44298,7 @@ was for the king's bloodline. When it comes due, every Thandris will
 feel the call.
 
 #### Ryldak the Ancient
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/ancient-dragon-ryldak.jpg){width:200px,float:right,margin:5px}
+
 
 **Title:** Ancient Dragon, Pre-Worldrend Survivor
 
@@ -44273,11 +44310,18 @@ feel the call.
 
 Another of the ancient dragons who survived the Worldrend. Unlike
 Infernalix, Ryldak's current activities and location are less certain.
-He is known to exist and to have survived the cataclysm, making him one
-of the oldest and most powerful beings in the world.
+He is known to exist and to have survived the cataclysm, making him 
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
+one of the oldest and most powerful beings in the world.
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/ancient-dragon-ryldak.jpg){width:325px}
 
 #### Admiral Caspian Goldshore (Maritime Dynasty Founder)
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-admiral-caspian-goldshore.jpg){width:200px,float:right,margin:5px}
 
 **Full Name:** Admiral Caspian Goldshore
 
@@ -44289,14 +44333,11 @@ of the oldest and most powerful beings in the world.
 
 **Location:** Lost at sea (final voyage into the Sundering Sea)
 
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
 **Role:** Historical figure, founder of House Goldshore's naval empire
 
 **Historical Era:** Early Age of Recovery (approximately 200-320 CR)
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-admiral-caspian-goldshore.jpg){width:200px,float:right,margin:5px}
+\column
 
 **Appearance:**
 
@@ -44356,6 +44397,10 @@ found on that third voyage.
     something that lives in the deep waters and watches over his
     descendants.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 #### The Scarlet Knife (Verena Shadowblade)
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-scarlet-knife.jpg){width:200px,float:right,margin:5px}
 
@@ -44391,10 +44436,6 @@ She trained herself in the arts of death, starting with the man who
 abused her mother in their exile. Killed him at 16. Found she had
 talent. Joined the Shadow Syndicate at 18, rising quickly through their
 assassin ranks. By 25, she was their most reliable contractor.
-
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
 
 Now operates independently, taking contracts from anyone who meets her
 standards. Her code is absolute: no innocents, no children, and no one
@@ -44464,7 +44505,13 @@ knowledge
 
 Merrick appears as an elderly human scholar in robes that shimmer with
 protective magic. His form is semi-translucent, revealing his spectral
-nature. His eyes glow with accumulated knowledge, and books and scrolls
+nature. His eyes glow with accumulated knowledge, and books 
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
+and scrolls
 seem to orbit him when he moves through the library. He speaks in a
 voice that echoes with multiple tones, as if many scholars speak through
 him.
@@ -44513,10 +44560,6 @@ or destroyed. Those who seek understanding find a patient teacher.
     certain magical techniques and historical events. He had good
     reasons.
 
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
-
 3.  **The Crystal Network:** The knowledge crystals he scattered can be
     connected to form a complete picture of pre-Worldrend civilization.
 
@@ -44526,6 +44569,8 @@ or destroyed. Those who seek understanding find a patient teacher.
 
 5.  **The Worldrend Cause:** He knows exactly what caused the
     cataclysm---and destroyed most evidence to prevent repetition.
+
+\column
 
 #### Monk Serenity (The Enlightened One)
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-monk-serenity.jpg
@@ -44577,7 +44622,13 @@ powerful, and burdened with knowledge she couldn't fully share.
 She spent her remaining years teaching, establishing monasteries, and
 occasionally intervening in world events when cosmic balance was
 threatened. Her body finally failed after two hundred and thirty years,
-but her spirit ascended rather than departed---becoming a celestial
+but her spirit ascended rather than 
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
+departed---becoming a celestial
 guide for those who follow her path.
 
 **Connections:**
@@ -44607,7 +44658,7 @@ guide for those who follow her path.
 4.  **The Reincarnation Cycle:** Has been reborn multiple times since
     her ascension, walking the world in mortal form when needed. No one
     knows who she currently is.
-
+\column
 ### 65.6 The Circle of Seven (Worldrend Perpetrators)
 
 
