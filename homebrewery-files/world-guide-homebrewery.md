@@ -25071,7 +25071,7 @@ combat experience makes him one of the most dangerous fighters in
 Thaldros. He has personally defended his mines from countless incursions
 and led dwarven forces in multiple campaigns. Few would challenge the
 Thane and fewer still would survive the attempt.
-
+\column
 #### Personality & Mannerisms
 
 
@@ -25144,6 +25144,10 @@ revitalized the house's fortunes. He modernized equipment, improved
 safety protocols, and trained a new generation of smiths in techniques
 his predecessors had allowed to fade.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 **Current Era (1182-Present)**
 
 Now House Ironforge thrives again. Their mines produce a third of
@@ -25151,9 +25155,6 @@ Thaldros' iron and most of its mythril. Their smiths are legendary
 across both continents. Other houses need Ironforge products, which
 translates directly to political power.
 
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 But success brings new problems. The deeper they mine, the stranger
 things they find---ancient tunnels, sealed chambers, things that
 shouldn't exist. Durin has kept these discoveries secret, but he's
@@ -25217,14 +25218,14 @@ future for centuries.
     relationship
 
 -   **General Marthos Thandris** - Military contracts; mutual respect
-
+\column
 -   **Master Smith Gundren Ironforge** - Distant cousin, legendary
     craftsman
 
 **Secret Arrangements:**
 
 -   A red dragon near one mythril vein---they have an arrangement
-\column
+
 #### Secrets
 
 
@@ -25281,6 +25282,10 @@ through dangerous challenges. He asks outsiders to monitor the
 competitions for cheating---but they discover the brothers are being
 manipulated by outside forces.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 **The Missing Miners:** A team disappears in the deep mines.
 Investigators find evidence of the old murder---and discover the killer
 is still active.
@@ -25293,10 +25298,6 @@ incinerated.
 **The Ancient Warning:** The sealed chambers start opening from the
 inside. Durin must admit the truth and get help before whatever is down
 there escapes.
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 #### Notable Quotes
 
@@ -25345,7 +25346,9 @@ of someone who knows something you don't.
 
 **Threat Level:** More dangerous in a negotiation than in combat, though
 far from helpless. Rashid's true weapon is his mind---his ability to
-manipulate, anticipate, and outmaneuver opponents makes him one of the
+manipulate, 
+\column
+anticipate, and outmaneuver opponents makes him one of the
 most formidable political operators in Thaldros. Those who underestimate
 him because he prefers words to swords find themselves outmaneuvered
 before they realize the game has begun.
@@ -25411,7 +25414,13 @@ not from strength but from making yourself indispensable.
 
 At fifteen, he negotiated his first trade deal---a water-rights
 agreement that quadrupled House Ashborne's income. By twenty, he had
-married his first wife (daughter of the strongest nomad chief) and begun
+married his first wife (daughter of the strongest nomad chief) and 
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
+begun
 building his own network of spies and merchants.
 
 **Ascension (1231 CR)**
@@ -25426,10 +25435,6 @@ He immediately consolidated power by marrying two additional wives from
 competing clans, essentially holding their heirs as political hostages.
 This gave him leverage over the three most powerful nomad groups in the
 desert.
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 **The Seven Children**
 
@@ -25479,7 +25484,7 @@ Sundara stable for sixteen years.
     recruit him)
 
 -   Build the desert empire his grandfather dreamed of
-
+\column
 **Ultimate Vision:**
 
 -   House Ashborne as a continental power rivaling House Thandris
@@ -25549,6 +25554,10 @@ it---probably a rival house. He's hunting the culprit.
 Has emergency escape routes, hidden funds, and a bolt-hole in Goldreach.
 If everything collapses, he'll survive. Ashbornes always survive.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 #### Story Potential
 
 
@@ -25569,10 +25578,6 @@ previous expeditions disappeared.
 **The Family Problem:** One of his children has done something that
 could destroy House Ashborne if it becomes public. He needs the problem
 to disappear quietly.
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 #### Notable Quotes
 
@@ -25635,7 +25640,7 @@ soldiers would follow him into certain death.
 
 **Voice:** Deep, commanding. Thick dwarvish accent. Speaks in short,
 direct sentences.
-\column
+
 **Defining Principles:**
 
 -   Gruff but honorable
@@ -25687,6 +25692,10 @@ Negotiated a secret non-aggression treaty with frost giants. Giants get
 tribute of ale and metal; Thaldros gets safe northern borders. Only King
 Aldric IV and High Diplomat Erenna know.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 **The Blackwood Sympathy**
 
 His grandmother sheltered Blackwood refugees after the rebellion. He's
@@ -25709,10 +25718,6 @@ seizures he hides with medication from a discrete healer.
 His first command was massacred because he trusted bad intelligence.
 Survivors were told it was enemy action. It was actually friendly fire
 from panicking human troops.
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 #### Notable Quotes
 
@@ -25814,6 +25819,11 @@ King's attention.
 
 By thirty, he was General---youngest ever at the time. He modernized the
 army, improved training protocols, and increased efficiency. Under his
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 command, Thaldros hasn't lost a single major engagement.
 
 But success breeds ambition. Marthos respects the King but sees Crown
@@ -25846,10 +25856,6 @@ kingdom needs strong leadership.
 -   A strong, unified Thaldros under competent leadership
 
 -   If necessary, that leadership might be his own
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 #### Relationships & Connections
 
@@ -25921,7 +25927,7 @@ tyrannical general?
 *"Victory justifies any sacrifice---except honor."*
 
 *"Strategy before sentiment."*
-\column
+
 ### 37.5 Lord Aldris Goldshore IV
 
 ![37.5 Lord Aldris Goldshore IV](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-aldris-goldshore-iv.jpg){width:200px,float:right,margin:5px}
@@ -25952,6 +25958,10 @@ Dresses in expensive but tasteful clothing---silk shirts, fine leather
 boots, gold jewelry that shows wealth without vulgarity. Always has a
 slight smile, as if he knows a secret you don't.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 **Threat Level:** Dangerous in ways that have nothing to do with combat.
 His wealth, connections, and information network make him nearly
 untouchable through conventional means. He could destroy a person's
@@ -25979,10 +25989,6 @@ mysterious "accidents."
 -   *"Every interaction is a transaction. Everyone wants something."*
 
 -   *"Morality is expensive. I prefer practical solutions."*
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 -   *"Gold buys freedom---from laws, from consequences, from limits."*
 
@@ -26098,7 +26104,13 @@ opportunities."*
 
 Beautiful and graceful, standing five feet seven inches and weighing one
 hundred thirty pounds, with her father's brown eyes but warmer, more
-genuine. Long dark hair usually in practical braids for travel. Dresses
+genuine. Long dark hair usually in practical braids for travel. 
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
+Dresses
 well but not ostentatiously---quality over flash.
 
 Has a disarming smile that's real, unlike her father's calculated one.
@@ -26121,10 +26133,6 @@ be destroyed---or transformed into something better.
 -   Idealistic but not naive---knows the world is complicated
 
 -   Uses charm to build real relationships, not manipulate
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 -   Increasingly troubled by her family's business practices
 
@@ -26244,6 +26252,10 @@ operations.
 
 **Age:** 157 years old (born 1090 CR); appears early forties
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 Distinguished and handsome, standing five feet eleven inches and
 weighing one hundred sixty-five pounds, with the ageless quality of
 half-elves. Dark hair streaked with silver, kept impeccably groomed.
@@ -26257,13 +26269,8 @@ tastefully---shows wealth without being gaudy.
 Tirvandor (excepting maybe dragons), worth an estimated eight to ten
 million gold pieces. Controls approximately forty percent of maritime
 trade between continents. Has eliminated competitors through means legal
-and otherwise, and maintains 
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
-
-extensive blackmail files on dozens of nobles, merchants, and officials.
+and otherwise, and maintains extensive blackmail files on dozens of 
+nobles, merchants, and officials.
 
 #### Personality & Mannerisms
 
@@ -26382,6 +26389,10 @@ Has compromising information on dozens of nobles, merchants, and
 officials. Files hidden in several locations. If he dies, they're
 released.
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 **The Deepwater Heir**
 
 Davos knows the identity of Lord Aldris' fourth daughter Marina---the
@@ -26400,6 +26411,8 @@ profitable investment."*
 
 ### 37.8 Lady Morgana Blackwater
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-morgana-blackwater.jpg){width:200px,float:right,margin:5px}
+
 **Ruler of Marshaven, Necromancer**
 
 #### Titles & Aliases
@@ -26410,10 +26423,6 @@ profitable investment."*
 -   Mistress of the Thornmire
 
 -   The Widow Blackwater
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 #### Age & Physical Description
 
@@ -26431,8 +26440,6 @@ undead
 retain their memories and personalities---not shambling corpses,
 but thinking soldiers. She currently commands approximately two hundred
 such servants, with the number growing.
-
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-morgana-blackwater.jpg){width:200px,float:right,margin:5px}
 
 #### Personality & Mannerisms
 
@@ -26519,6 +26526,10 @@ Morveth sees the undead forces as tools she can eventually turn to her
 own purposes, waiting for them to cause maximum suffering when they
 inevitably escape control. (See also Section 44.9 and 44.10.)
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 ### 37.9 Council Mistress Elara Silverleaf
 
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-mistress-elara-silverleaf.jpg){width:220px,float:right,margin:5px}
@@ -26531,10 +26542,6 @@ inevitably escape control. (See also Section 44.9 and 44.10.)
 -   Council Mistress of Silverpine
 
 -   Rector of the University of Arcane Studies
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 -   Matriarch of House Silverleaf (former---passed duties to focus on
     academia)
@@ -26608,9 +26615,7 @@ work. Considers her students her children.
 **The Forbidden Vault**
 
 The University has a vault of dangerous magical knowledge. Only she has
-access. Contains things that 
-\column
-shouldn't exist---necromancy tomes, demon
+access. Contains things that shouldn't exist---necromancy tomes, demon
 summoning, reality-breaking spells. She's studied them all "to know
 how to counter them."
 
@@ -26635,6 +26640,10 @@ her. She's trying to fix it without removing the protection.
 **Race:** Half-Elf | **Age:** Mid-sixties (appears mid-forties) | **Location:** Port Myrthen (primary), offices across both continents
 
 Self-made merchant prince who sits on the Merchant League's inner council as one of the three Trade Princes who truly control continental commerce. Born in the gutters of Port Myrthen, he built a merchant empire spanning both continents through ruthless cunning and prodigious commercial talent. His public persona is the charming rogue; privately, he's patient, dangerous, and never forgives a slight.
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 ### 37.11 Lady Tempest Stormcrest
 
@@ -26662,10 +26671,6 @@ hundred forty pounds, with an intensity that makes people step back.
 Long black hair that seems to move with static electricity even when
 there's no wind. Eyes that shift from gray to electric blue depending
 on her mood. Olive skin with lightning-bolt scars from channeling power.
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 Wears flowing dark robes that billow dramatically. Has a presence that
 fills rooms---electric and slightly dangerous.
@@ -26700,7 +26705,7 @@ emotional.
 -   *"Nature's fury flows through me. Why should I restrain it?"*
 
 -   *"The storm doesn't ask permission. Neither do I."*
-
+\column
 **Personal Flaws:**
 
 -   Volatile---anger can cause literal storms
@@ -26721,7 +26726,7 @@ Killed three people.
 House Stormcrest recognized sorcerous bloodline manifesting and hired
 teachers to help her control it. All failed to truly teach control
 because the power is tied to her emotions.
-\column
+
 By twenty, she could call storms. By twenty-five, she could control
 weather. By thirty, she could summon hurricanes. But control remains
 imperfect. When she's angry, ships sink. When she's sad, it rains for
@@ -26825,17 +26830,19 @@ mentorship), Merchant Prince Davos Goldshore (cautious alliance)
 Ancient elven druid who serves as the spiritual guide for the Silverwood
 and surrounding regions. Silvaris maintains the balance between
 civilization and nature in the Heartlands. She advises both Thaldrosian
-nobles and common folk on matters affecting the forest, and her counsel
+nobles and common folk on matters 
+
+{{pageNumber,auto}}
+{{footnote Chapter 38: Religious Leaders}}
+\page
+
+affecting the forest, and her counsel
 carries tremendous weight.
 
 Silvaris was born before the Worldrend and remembers the cataclysm
 firsthand. This ancient perspective gives her wisdom that few can match.
 She believes the current era's conflicts are symptoms of deeper
 imbalances in the world's natural order.
-
-{{pageNumber,auto}}
-{{footnote Chapter 38: Religious Leaders}}
-\page
 
 **Connections:** High Queen Aelindra Aethermere (distant respect), High
 Priest Rashid Al-Sahir (mutual respect between cleric and druid
@@ -26863,10 +26870,6 @@ who rely on their guidance.
 
 **Secret:** The Sand Prophet may not be a single individual but rather a
 title passed down through generations---or something else entirely.
-
-{{pageNumber,auto}}
-{{footnote Chapter 38: Religious Leaders}}
-\page
 
 ## Chapter 39: Military Commanders
 
@@ -26902,7 +26905,6 @@ Contested Lands. Vex uses infiltrators and spies to set traps, though
 his overconfidence often leads to underestimating opponents. Has
 reinforcements available within one hour of any engagement.
 
-\column
 
 ### 39.3 Scout Captain Finn Quickfoot
 
@@ -27370,8 +27372,6 @@ continents apart, was too dangerous to use and too powerful to destroy.
 The Blackwoods kept it sealed in vaults beneath Raven's Keep, their
 vigilance unbroken for centuries.
 
-\column
-
 **The Blackwood Rebellion (1089-1092 CR)**
 
 In 1089 CR, Lord Aldric Blackwood III claimed the throne of Thaldros
@@ -27429,15 +27429,15 @@ Corvus crawled from the ashes at dawn. His family was dead. His home was
 cinders. He had nothing but the clothes on his back and the truth
 branded into his soul.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 **The Lost Years (1204-1230 CR)**
 
 For twenty-six years, Corvus survived in the shadows of society. He was
 a beggar, a thief, a dock worker, a sellsword---whatever kept him alive
 while he learned. He sought out those who could teach him the skills of
-
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
 
 survival: assassins taught him to kill, spies taught him to gather
 information, forgers taught him to create false identities, and rogue 
@@ -27498,7 +27498,7 @@ purpose, and the promise of accountability for those who had escaped
 justice.
 
 The Unbound was born.
-\column
+
 **The Present Day (1247 CR)**
 
 Now fifty-five years old, Corvus has spent forty-three years building
@@ -27551,6 +27551,10 @@ Worldrend if justice is denied. Whether this threat is genuine or
 leverage depends on his desperation level. He doesn't want to destroy
 the world---but if the world refuses him justice, how far will he go?
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 **Hidden Motivation: Peace**
 
 Deep beneath his rage and determination, Corvus is exhausted. He has
@@ -27558,10 +27562,6 @@ been fighting for forty-three years. Part of him simply wants to be
 done---to clear his family's name and finally rest. If he could achieve
 vindication without violence, he would. But he no longer believes such a
 path exists.
-
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
 
 #### Methods & Operations
 
@@ -27682,6 +27682,10 @@ Raven's Keep. The Flame Heart is in vaults near Dragon Infernalix's
 lair. The Void Fragment sank with Palace Port. The Stone Crown is
 embedded in the Crown of Thaldros itself.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 2\. **The Evidence Cache:** Corvus possesses documented proof of the
 Blackwood conspiracy---forged documents, false witness testimonies,
 records of the cover-up. This evidence would shake the kingdom but
@@ -27691,10 +27695,6 @@ requires the right platform to present.
 Goldshore Keepers, King Aldric III covered it up, and the current king
 knows nothing. This creates a moral dilemma---punish the dynasty through
 an innocent man?
-
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
 
 4\. **The Dying Curse:** The black veins spreading from his hand mark
 the curse killing him. He has perhaps five years to live. Only he and
@@ -27748,10 +27748,11 @@ The truth survives. The question becomes what happens next.
 
 ### 44.2 Dragon Infernalix (The Vanished Flame)
 
-
 **Ancient Red Dragon Sleeping Beneath Kaer Thandros**
 
 **Full Name:** Infernalix the Eternal Flame (self-proclaimed title)
+
+![44.2 Dragon Infernalix](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-dragon-infernalix.jpg){width:305px}
 
 **Titles:** The Vanished Flame, The Dragon of Kaer Thandros, The
 Sleeping Terror
@@ -27786,6 +27787,9 @@ His hoard is legendary: gold coins by the millions, gems scattered like
 sand, ancient artifacts from fallen kingdoms, weapons, armor, art,
 jewelry---the accumulated wealth of two millennia of conquest and
 tribute.
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
 
 #### Personality
 
@@ -27841,9 +27845,6 @@ In 1156 CR, Infernalix emerged from volcanic chambers and attacked Kaer
 Thandros. The assault was devastating---outer districts destroyed,
 hundreds killed, royal family members among the casualties.
 
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
 House Emberthorn lost half their holdings in a single day when they refused to
 pay tribute. House Ironforge saw three mines destroyed.
 
@@ -27929,6 +27930,9 @@ pieces' locations.
 3\. **The True Bargain:** The deal with Thandris V wasn't just for
 peace---it was for the king's bloodline. When it comes due, every
 Thandris will feel an irresistible compulsion.
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
 
 4\. **The Dream Network:** While sleeping, Infernalix has been
 psychically influencing certain individuals, preparing agents for his
@@ -27939,7 +27943,7 @@ invisible and intangible---how he "withdrew" in 1201 CR. Few know this
 power exists.
 
 ### 44.3 Arcanus the Undying (The Lich of Raven's Keep)
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-arcanus-elder-lich.jpg){width:305px}
 
 **Ancient Lich Bound to House Blackwood**
 
@@ -27986,10 +27990,6 @@ accessible only through specific rituals, protected from the Crown's
 destruction. For over a century, he existed alone, guardian of Blackwood
 secrets and prisoner of his oath.
 
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
-
 When Corvus Blackwood discovered Raven's Keep and proved his bloodline,
 Arcanus' oath compelled him to serve. The relationship is
 complex---Arcanus is bound to obey but has his own agenda, and his
@@ -28027,12 +28027,15 @@ immortality first. He will betray anyone to preserve his existence.
 
 ### 44.4 Captain Malthus Voidcaller
 
-
 **Military Commander of The Unbound**
 
 **Full Name:** Malthus Voidcaller (adopted title; birth name abandoned)
 
 **Race:** Human
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
 
 **Age:** 45
 
@@ -28061,7 +28064,7 @@ conflict with Aethoria. When he protested, he was silenced. When he
 sought justice, he was discharged. When he went public, his family was
 "lost in a bandit raid."
 
-![44.4 Captain Malthus Voidcaller](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-malthus-voidcaller.jpg){width:325px}
+![44.4 Captain Malthus Voidcaller](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-malthus-voidcaller.jpg){width:300px}
 
 He knows the Crown ordered the attack. He knows the generals who
 abandoned the village are now lords. He knows the system will never hold
@@ -28085,10 +28088,6 @@ command, referring to them as "my people" rather than followers.
 
 He fights not for personal glory but to protect those under his command
 and to ensure no other family suffers as his did.
-
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
 
 #### Connections
 
@@ -28135,6 +28134,10 @@ targeting of civilians, Malthus has a plan to assassinate him and take
 command of the Unbound, redirecting them toward legitimate military
 targets only. He hopes it never comes to that.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 #### Plot Hooks
 
 
@@ -28160,7 +28163,7 @@ publicly, but only if guaranteed safety. Who can protect someone from a
 king's assassins?
 
 ### 44.5 Sister Mortua
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sister-mortua-dark-priest.jpg){width:305px}
 
 **Death Priest Deceived into Serving The Unbound**
 
@@ -28226,17 +28229,9 @@ Dreadhost
 
 **Current Location:** The Frozen Kingdom (Northern Wastes)
 
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
-
 **Role:** External Existential Threat
 
 **Alignment:** Neutral Evil
-:
-
-![44.6 The Dread King](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-dread-king-undead-throne.jpg){width:325px}
-
 
 #### Physical Description
 
@@ -28246,6 +28241,13 @@ once were royal finery, now tattered by a millennium of decay. A crown
 of bone adorns his skull, and a staff of dark crystal serves as both
 weapon and symbol of authority. His eyes glow with centuries of hatred
 and ambition.
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
+![44.6 The Dread King](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-dread-king-undead-throne.jpg){width:325px}
+
 
 Unlike many liches who preserve their physical form through magic, the
 Dread King wears his decay openly---a reminder that death is his domain.
@@ -28314,15 +28316,15 @@ Criminal mastermind behind approximately forty percent of cross-continental mari
 
 *For Master Crimson's complete entry including true identity, full background, personality, connections, and secrets, see Section 61.2.*
 
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
-
 **Mysterious Leader of the Criminal Underworld**
 
 **Race:** Human (current holder) | **Age:** Unknown (title has existed 40+ years) | **Location:** Unknown (rumored to be in the Free Cities)
 
 No one knows who Master Crimson really is---the name has been used for over forty years, possibly by multiple individuals. Controls the Shadow Syndicate's operations across central Thaldros through a network of regional lieutenants. The Syndicate operates as a criminal business providing smuggling, theft, assassination, information, and protection services.
+
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
 
 ### 44.9 Lady Morgana Blackwater
 
@@ -28382,8 +28384,9 @@ Independence for Marshaven---by any means necessary. She sees herself as
 a liberator, not a villain, believing the ends justify the means. The
 continental powers have abandoned her people; she will give them the
 strength to survive alone.
-
+\column
 ### 44.10 Dragon Morveth (The Thornmire Terror)
+
 ![44.10 Dragon Morveth](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-morveth-shadowmane.jpg){width:325px}
 
 **Ancient Black Dragon of the Thornmire Swamps**
@@ -28455,10 +28458,8 @@ military takeover should the succession fail catastrophically. Not
 ambition, insurance. He genuinely believes he'd be a better ruler, but
 he'll never act unless the alternative is chaos.
 
-\column
 
 ### 44.12 Warlock Kael Voidwhisper
-
 
 **Unbound Warlock Losing His Mind**
 
@@ -28523,12 +28524,12 @@ it aloud could summon something terrible
 2\. **The Prophecy:** The whispers have shown him glimpses of the
 future, including the party's role in coming events
 
-3\. **The Cure:** There may be a way to sever his pact, but it would
-require sacrificing someone else to take his place
-
 {{pageNumber,auto}}
 {{footnote Chapter 44: Villains and Antagonists}}
 \page
+
+3\. **The Cure:** There may be a way to sever his pact, but it would
+require sacrificing someone else to take his place
 
 ### 44.13 Lord Crimson (Unbound Lieutenant)
 
@@ -28635,13 +28636,15 @@ no one and everyone simultaneously.
 
 
 The Faceless Assassin has served multiple masters over decades, possibly
-centuries. Records of their kills stretch back further than any human
-lifespan, yet they show no signs of aging. They never speak, communicate
-only through written notes that self-destruct 
+centuries. Records of their kills 
 
 {{pageNumber,auto}}
 {{footnote Chapter 44: Villains and Antagonists}}
 \page
+
+stretch back further than any human
+lifespan, yet they show no signs of aging. They never speak, communicate
+only through written notes that self-destruct 
 
 after reading, and demand
 payment in unusual currencies: memories, names, promises.
@@ -28784,16 +28787,16 @@ covered up the truth. His faith didn't survive the revelation.
 **Quote:** *"I was a hero once. Now I know what heroes really are,
 murderers with better public relations."*
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 #### Personality
 
 
 Cold efficiency masking deep pain. Theron no longer believes in anything
 except the Unbound's mission. He recruits others by exposing
 institutional hypocrisy, and he's very good at it.
-
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
 
 He treats Unbound soldiers with the same care he once showed his
 paladins. He fights with the same skill. Only the cause has changed.
@@ -28866,7 +28869,7 @@ stimulus-response remains unclear.
 
 It seems to enjoy causing fear. Whether this is genuine emotion or just
 efficient feeding behavior, none can say.
-\column
+
 #### Secrets
 
 
@@ -28898,6 +28901,10 @@ factions or serve as campaign antagonists.
 
 **Current Location:** Frostfell Crypts, Northern Wastes
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 **Alignment:** Neutral Evil
 
 **Philosophy:** *"Cold preserves. Cold perfects. Death is merely warmth
@@ -28906,10 +28913,6 @@ leaving the body."*
 Pale as snow with veins visible beneath translucent skin. Frost forms
 where he walks. Eyes are chips of glacial ice. Formerly a scholar who
 sought to preserve knowledge forever, now preserves corpses instead.
-
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
 
 His frozen undead retain more personality than typical zombies, he
 considers this an improvement. Seeks the Everice Heart, an artifact that
@@ -28946,7 +28949,7 @@ way. Not a true vampire but uses blood magic that mimics their powers.
 Seductive, hungry, every word drips with barely contained appetite.
 Views mortals as resources but isn't wasteful. Has her own twisted
 ethics about consent and worthy prey.
-\column
+
 **Secrets:**
 
 -   Was rejected by a vampire clan, her blood magic was deemed
@@ -28976,12 +28979,12 @@ Covered in sores, wears layers of filthy robes. Flies constantly orbit.
 Somehow maintains cheerful demeanor about spreading death. His touch
 spreads disease, his breath carries contagion.
 
-Wheezing, punctuated by coughs, disturbingly friendly tone. Genuinely
-believes disease is natural selection and he's helping evolution.
-
 {{pageNumber,auto}}
 {{footnote Chapter 44: Villains and Antagonists}}
 \page
+
+Wheezing, punctuated by coughs, disturbingly friendly tone. Genuinely
+believes disease is natural selection and he's helping evolution.
 
 **Secrets:**
 
@@ -29015,8 +29018,7 @@ chains he died in as royal regalia.
 Rattling, commanding, speaks of liberation through undeath. Sees himself
 as revolutionary hero, freeing the dead from rest they never earned in
 life.
-
-
+\column
 **Secrets:**
 
 -   Remembers his slave life with perfect clarity, uses that rage to
@@ -29049,6 +29051,10 @@ Dry, academic, treats necromancy as scholarly pursuit. Genuinely
 believes he's advancing magical knowledge. Frustrated that others
 don't appreciate the elegance of his work.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 **Secrets:**
 
 -   Was denied tenure at legitimate academy, turned to forbidden arts
@@ -29056,10 +29062,6 @@ don't appreciate the elegance of his work.
 
 -   His research actually has valid applications if separated from
     ethical violations
-
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
 
 -   Keeps a journal addressing his dead mother, seeking her approval
 
@@ -29135,7 +29137,7 @@ Aldric provides the Unbound with magical research, artifact
 identification, and forbidden knowledge. He believes he's advancing the
 cause of truth, though his definition of acceptable costs has expanded
 considerably.
-\column
+
 **Secrets:**
 
 -   The experiment that killed his students also opened his mind to
@@ -29209,16 +29211,16 @@ influence seeps through from the Feywild. She's not a hag herself, yet,
 but she's bargained with them enough that the distinction grows
 academic.
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 She creates cursed items for the Unbound: weapons that corrupt their
 wielders, amulets that bring misfortune to enemies, trinkets that spread
 plague. 
 
 Her prices are always strange, memories, names, promises, and
 her services are always effective.
-
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
 
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-morgana-shadowveil.jpg){width:325px}
 
@@ -29251,7 +29253,7 @@ Probably-Shouldn't-Touch-This
 **Role:** Scholar, Artifact Expert, Adventuring Academic
 
 **Alignment:** Chaotic Good
-
+\column
 #### Physical Description
 
 Miranda is younger than expected for someone of her academic reputation,
@@ -29286,18 +29288,16 @@ because they were too disturbing.
 **Quote:** *"Tell me it's dangerous. Please tell me it's dangerous. I
 haven't had proper excitement since the lich incident last year!"*
 
+{{pageNumber,auto}}
+{{footnote Chapter 44: Villains and Antagonists}}
+\page
+
 #### Personality
 
 Brilliant but chaotically organized. Enthusiastic about anything that
 might kill her. Irreverent toward authority but genuinely kind beneath
 the chaos. Talks fast when excited, forgets to eat when researching, and
-has been 
-
-{{pageNumber,auto}}
-{{footnote Chapter 44: Villains and Antagonists}}
-\page
-
-known to break into restricted archives "for academic
+has been known to break into restricted archives "for academic
 purposes."
 
 **Traits:**
