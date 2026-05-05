@@ -29595,14 +29595,14 @@ fair, pushing her workers to excellence while ensuring they're
 well-compensated. Her guild is the most prestigious craft organization
 in Sundara.
 
+{{pageNumber,auto}}
+{{footnote Chapter 45: Common Folk and Supporting Characters}}
+\page
+
 **Secret:** Zara's gift for glasswork emerged after a fever nearly
 killed her as a child. She sometimes sees visions in molten
 glass---prophecies she's learned to encode in her artwork for those who
 know how to read them.
-
-{{pageNumber,auto}}
-{{footnote Chapter 45: Common Folk and Supporting Characters}}
-\page
 
 ### 45.12 The Iron Hand (Marcus Ironhand)
 
@@ -29617,7 +29617,7 @@ A brutal enforcer who handles the Syndicate's most violent problems.
 The Iron Hand earned his name through his signature method---crushing
 hands in a vice. He's feared throughout the underworld as someone who
 gets results without questions.
-
+\column
 What no one knows is that the Iron Hand is Marcus Ironhand---brother to
 Watch Captain Gregor. They haven't spoken in years, and Marcus has
 carefully hidden his identity. He tells himself it's to protect Gregor,
@@ -29752,7 +29752,7 @@ against powers that have abandoned the border's people.
 
 
 ### 46.2 Smuggler Captain
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-smuggler-captain.jpg){width:325px}
+
 
 **Type:** Humanoid (any ancestry)
 
@@ -29785,7 +29785,7 @@ venue.
 Most work for themselves or small networks rather than larger criminal
 organizations, though the Shadow Syndicate and Thornwood Syndicate both
 use smugglers for specific operations.
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-smuggler-captain.jpg){width:315px}
 **Behavior and Ecology:**
 
 Captains run operations that move people, goods, and information across
@@ -29882,7 +29882,7 @@ They often wear well-maintained but outdated armor, equipment they've
 repaired and modified over years of use. Their weapons are similarly
 veteran: blade edges that have been sharpened until the metal is
 noticeably thinner, hilts worn smooth by countless grips.
-
+\column
 **Origins:**
 
 The Contested Lands have seen fighting for over a century. Some veterans
@@ -29913,6 +29913,9 @@ They know that enthusiasm gets soldiers killed; discipline keeps them
 alive. They'll retreat from fights they can't win and wait for better
 opportunities.
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
 
 **Intelligence and Society:**
 
@@ -29921,9 +29924,6 @@ battlefields instinctively, seeing cover, escape routes, and tactical
 advantages that others miss. They understand violence in ways that
 civilians never will.
 
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 Veterans recognize each other instantly, something in the eyes, the
 stance, the way they scan rooms when entering. Informal networks exist
 among them, sharing information about contracts, threats, and
@@ -30014,6 +30014,10 @@ Some retain fragments of their former identity, names, loyalties, final
 words. These can sometimes be reached, reasoned with, even laid to rest.
 Others have lost everything but rage and hunger.
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 **Behavior and Ecology:**
 
 Wraiths are drawn to violence. Battle attracts them like blood attracts
@@ -30023,10 +30027,6 @@ sometimes participating in the carnage themselves.
 They hunt at night, when their power is greatest. Sunlight weakens them
 significantly; most remain hidden during day, emerging from walls or
 floors at dusk.
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 
 When they first manifest, wraiths sometimes speak, a single phrase from
 their death, a name, a fragment of orders. This echo of war gives
@@ -30112,6 +30112,10 @@ features shift constantly as their substance reorganizes itself. One arm
 might be Thaldros granite; the other, Aethorian sandstone. Their eyes
 are voids where the earth couldn't agree on what it should be.
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 When they move, the ground trembles. Their footsteps leave craters. They
 smell of freshly turned earth and ancient stone, and underneath, the
 copper tang of blood.
@@ -30127,10 +30131,6 @@ Contested land elementals are the earth's immune response. They form
 where the damage is worst, arising from soil mixed with the blood of too
 many battles. They exist to protect their domain from further
 destruction.
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 
 Unlike true elementals that embody a pure element, these creatures
 embody conflict itself. Their substance is inherently unstable because
@@ -30178,7 +30178,7 @@ know they're present.
 Their forms are unstable, occasionally erupting in small explosions when
 struck. They can cause localized earthquakes that knock targets prone
 and transform the terrain into difficult footing.
-
+\column
 They're particularly hostile toward those who damage structures or
 earth, siege engineers, miners, and arsonists tend to draw their
 attention quickly.
@@ -30216,6 +30216,8 @@ guardians.
 
 ### 46.6 Refugee Mob
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-refugee-mob.jpg){width:325px}
+
 **Type:** Humanoid swarm (any ancestry)
 
 **Physical Description:**
@@ -30223,6 +30225,10 @@ guardians.
 A refugee mob isn't a creature in the traditional sense, it's
 desperation given collective form. Dozens or hundreds of people, pushed
 past breaking point, acting as one terrified, angry organism.
+
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
 
 Individually, they're just people: families, workers, farmers displaced
 by war. Their clothes are worn, their faces gaunt, their eyes showing
@@ -30234,18 +30240,12 @@ But when fear or rage ignites them, they become something else. A mass
 of reaching hands, screaming voices, crushing bodies. The individuals
 disappear into the crowd.
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-refugee-mob.jpg){width:325px}
-
 **Origins:**
 
 The Contested Lands produce refugees constantly. Villages caught between
 armies are destroyed. Cities change hands and populations flee. People
 who had homes, jobs, and lives become homeless wanderers with nothing
 but what they can carry.
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 
 Most refugee groups remain peaceful, too exhausted and traumatized for
 violence. But sometimes a spark ignites them: a perceived injustice, a
@@ -30285,7 +30285,7 @@ never do alone. This isn't an excuse, but it is an explanation.
 After a mob disperses, participants often experience shame and horror at
 their actions. They were themselves; they also weren't. The experience
 is traumatic for everyone involved, victims and participants alike.
-
+\column
 **Abilities:**
 
 A mob's power is simple: numbers. They can overwhelm defenses, swarm
@@ -30327,8 +30327,6 @@ people. This is heroically dangerous but sometimes works.
 
 ### 46.7 Scavenger Ghoul
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-scavenger-ghoul.jpg){width:325px}
-
 **Type:** Undead
 
 **Physical Description:**
@@ -30344,10 +30342,6 @@ eyes have a faint phosphorescent glow that's visible in darkness. They
 move in a hunched, scuttling manner, closer to animals than the people
 they once were.
 
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
-
 Most retain some vestiges of the clothing they died in, though it's
 usually rotted to rags. Some still wear armor that's rusted to their
 flesh.
@@ -30356,6 +30350,12 @@ flesh.
 
 The Contested Lands are a ghoul paradise. Constant violence produces
 constant corpses. Where there are corpses, ghouls thrive.
+
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-scavenger-ghoul.jpg){width:325px}
 
 These particular ghouls have adapted to battlefield scavenging. They're
 drawn to the aftermath of violence, not the violence itself, but its
@@ -30414,7 +30414,7 @@ Their pack tactics make them more dangerous than their individual
 weakness suggests. They coordinate attacks, with some ghouls
 immobilizing prey while others feed. They're also capable of healing by
 consuming corpses, even mid-combat.
-\column
+
 **Cultural Significance:**
 
 Both armies consider ghoul infestations a logistical problem requiring
@@ -30453,6 +30453,11 @@ after dark, or the ghouls will get you."
 Territorial drakes are smaller cousins to true dragons, about the size
 of a large horse, with wingless serpentine bodies, powerful legs, and
 long tails. Their scales range from dusty brown to mottled gray,
+
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 providing natural camouflage in the rocky ruins they prefer.
 
 Their heads are wedge-shaped, with forward-facing eyes that provide
@@ -30478,10 +30483,6 @@ aggressive as they learned to prey on refugees, soldiers, and travelers.
 Some scholars believe they were originally domesticated, war mounts or
 guard animals from pre-war settlements. Others argue they're simply
 wild drakes that adapted to available territory.
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-territorial-drake.jpg){width:325px}
 
@@ -30555,6 +30556,10 @@ away.
 -   The party discovers that drakes are more intelligent than commonly
     believed
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 ### 46.9 War Beast
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-war-beast.jpg){width:325px}
 
@@ -30564,13 +30569,7 @@ away.
 
 War beasts are massive predators, wolves, hunting cats, or war dogs,
 bred and trained for military use. They average six feet at the
-shoulder, with heavy
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
-
-muscle, powerful jaws, and coats that range from
+shoulder, with heavy muscle, powerful jaws, and coats that range from
 dark gray to mottled brown depending on breeding lineage.
 
 Their eyes show unusual intelligence for animals, the result of
@@ -30661,6 +30660,10 @@ militaries. Their breeding programs are supposed to produce loyal
 servants, not uncontrolled threats. Neither nation admits how many
 beasts have escaped over the centuries.
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 **Story Potential:**
 
 -   A feral pack is threatening a settlement; can they be captured
@@ -30683,11 +30686,6 @@ beasts have escaped over the centuries.
 A haunted battlefield doesn't look particularly different from any
 other war-torn land at first glance. Churned earth, scattered debris,
 perhaps some remaining equipment and bones. The vegetation is often 
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
-
 dead or stunted, but that's common in the Contested Lands.
 
 The difference becomes apparent at night, or sometimes at dawn or dusk,
@@ -30746,7 +30744,7 @@ dissolving back into the general horror.
 The battlefields seem to have memory of a sort. Some respond more
 violently to soldiers wearing specific insignia, suggesting they
 "remember" who fought whom.
-\column
+
 **Abilities:**
 
 Anyone within a haunted battlefield when it activates experiences the
@@ -30772,7 +30770,13 @@ casualties.
 
 The Order of Moira considers battlefield consecration sacred work. Teams
 of priests periodically venture into the Contested Lands specifically to
-lay battlefields to rest. This requires performing comprehensive funeral
+lay battlefields to rest. This requires 
+
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
+performing comprehensive funeral
 rites for all the dead, identified and unidentified, while defending
 against the battlefield's manifestations.
 
@@ -30784,7 +30788,7 @@ some sites are simply too saturated with death to ever be cleansed.
 
 -   The party must cross a haunted battlefield, what route minimizes
     exposure?
-
+\column
 -   A battlefield is growing, absorbing new deaths and expanding its
     boundaries
 
@@ -30895,14 +30899,15 @@ requires sacrifice, and conscription distributes that sacrifice
 (theoretically) across all classes.
 
 Veterans of conscription rarely speak well of it, but many find that the
-experience bound them to comrades in ways peaceful life never could.
-Conscript reunions 
+experience bound them to 
 
 {{pageNumber,auto}}
 {{footnote Chapter 47: Thaldros Military}}
 \page
 
-are common in Thaldros villages, where graying men remember those who didn't come home.
+comrades in ways peaceful life never could.
+Conscript reunions are common in Thaldros villages, where graying men 
+remember those who didn't come home.
 
 **Story Potential:**
 
@@ -31182,14 +31187,14 @@ equivalent to minor nobility. Many guards come from noble families
 anyway, but commoner guards are treated with respect regardless of
 origin.
 
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
 They're loyal to the Crown rather than to individual monarchs. Their
 oath is to Thaldros and its legitimate government, not to whichever
 person currently wears the crown. This distinction has historically been
 important during succession disputes.
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
 
 Guards form a tight community, training together, socializing together,
 and often marrying within guard families. Retirement from the Guard
@@ -31283,6 +31288,10 @@ They're patient, sometimes spending months or years developing an
 operation. Quick action is for emergencies; careful planning is for
 success.
 
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
 **Intelligence and Society:**
 
 The Inquisition maintains the most extensive intelligence network in
@@ -31292,13 +31301,8 @@ that could shake the foundations of power across the continent.
 
 Inquisitors live double lives, their official identities and their
 operational identities. Some maintain families who believe they're
-merchants or diplomats. Others 
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
-
-have no personal lives at all, consumed entirely by their work.
+merchants or diplomats. Others have no personal lives at all, consumed 
+entirely by their work.
 
 They answer to the Crown through a structure deliberately obscured from
 external view. Even most government officials don't know the full
@@ -31379,7 +31383,13 @@ understand magic) while maintaining standards set by the Magical Corps.
 **Behavior and Combat:**
 
 War mages stay behind the front line, protected by soldiers while they
-rain destruction on enemy formations. Their primary role is area damage,
+rain destruction on enemy 
+
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
+formations. Their primary role is area damage,
 fireballs against clustered enemies, lightning bolts along enemy lines,
 creating conditions that favor Thaldros troops.
 
@@ -31395,13 +31405,7 @@ counterspells to protect allied formations from magical attacks.
 **Intelligence and Society:**
 
 War mages occupy an awkward social position. Regular soldiers respect
-their power but distrust magic. 
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
-
-Commanders value their capabilities but
+their power but distrust magic. Commanders value their capabilities but
 rarely understand their limitations. Academic mages look down on their
 "crude" applications of magical theory.
 
@@ -31484,6 +31488,10 @@ and costly in lives. Golems provide an alternative, constructs that can
 breach walls, absorb defensive fire, and clear fortifications without
 risking irreplaceable soldiers.
 
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
 Creating a siege golem requires months of work by skilled artificers,
 rare materials, and significant magical investment. Each represents a
 substantial military asset. They're not expendable despite being
@@ -31499,11 +31507,6 @@ circumstances. They're tools that require competent direction.
 In combat, they advance slowly toward assigned targets, ignoring attacks
 that don't meaningfully damage them. Their primary weapons are
 devastating against structures and dangerous to anything nearby.
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
-
 Secondary targets receive attention only if they block the primary
 objective.
 
@@ -31558,6 +31561,7 @@ materials and techniques for their creation are closely guarded secrets.
 
 ### 47.8 General's Champion
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-generals-champion.jpg){width:325px}
 
 **Type:** Humanoid (any ancestry)
 
@@ -31577,13 +31581,17 @@ positioned for advantage.
 Most bear extensive scarring from their careers. These marks are
 displayed with pride rather than concealed.
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-generals-champion.jpg){width:325px}
-
 **Origins:**
 
 When Thaldros generals face problems requiring individual excellence
 rather than unit strength, they send champions. These warriors are
-selected from the best soldiers across the military, then given advanced
+selected from the best soldiers across the military, then given 
+
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
+advanced
 training, superior equipment, and challenging assignments.
 
 Champions serve individual generals rather than the military structure.
@@ -31599,10 +31607,6 @@ They seek the strongest enemies, break enemy formations through personal
 assault, and lead by devastating example. Their presence on a
 battlefield affects morale, their own troops are inspired, while enemies
 must account for a nearly unstoppable threat.
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
 
 They fight honorably by their understanding of honor, which includes
 lethal efficiency, tactical intelligence, and ruthless exploitation of
@@ -31669,7 +31673,7 @@ embarrassment.
 
 -   A retired champion offers training or assistance in exchange for
     suitable compensation
-\column
+
 ### 47.9 Iron Crown Knight
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-iron-crown-knight.jpg){width:325px}
 
@@ -31681,6 +31685,10 @@ Iron Crown Knights wear their oath in their equipment: plate armor
 adorned with iron crown symbolism, shields bearing order insignia,
 weapons consecrated to their harsh philosophy. Their heraldry emphasizes
 authority and power, images of crowns, chains, and law.
+
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
 
 Their faces often reflect their philosophy's costs, hard eyes, grim
 expressions, the look of people who've made peace with doing unpleasant
@@ -31700,14 +31708,8 @@ religious and martial training, swearing oaths that bind them to the
 order's philosophy.
 
 Their powers come from their conviction rather than divine favor in the
-traditional sense. They believe they 
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
-
-serve the gods of order; whether those gods actually support their 
-interpretation is theologically debated.
+traditional sense. They believe they serve the gods of order; whether 
+those gods actually support their interpretation is theologically debated.
 
 **Behavior and Combat:**
 
@@ -31780,6 +31782,10 @@ faithful guardians. Most people prefer not to think about them at all.
 ### 47.10 Lord Commander Varius
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-lord-commander-varius-military-leader.jpg){width:325px}
 
+{{pageNumber,auto}}
+{{footnote Chapter 47: Thaldros Military}}
+\page
+
 **Type:** Humanoid (human, legendary commander)
 
 **Physical Description:**
@@ -31805,13 +31811,7 @@ abandoned, and developed tactical innovations that changed how Thaldros
 fights.
 
 His current position as Lord Commander, supreme military authority
-answering only to the Crown, 
-
-{{pageNumber,auto}}
-{{footnote Chapter 47: Thaldros Military}}
-\page
-
-represents the pinnacle of his career.
+answering only to the Crown, represents the pinnacle of his career.
 He's served three monarchs in this role, providing continuity through
 succession transitions.
 
@@ -31837,6 +31837,8 @@ Varius is the most respected military figure in Thaldros, and one of the
 most respected in Tirvandor. His reputation crosses factional lines;
 even Aethorian commanders acknowledge his capabilities.
 
+\column
+
 He maintains carefully managed relationships with political powers while
 preserving military independence. He serves the Crown but isn't
 anyone's tool. His loyalty is to Thaldros as a concept, not to
@@ -31845,7 +31847,7 @@ individual monarchs.
 His personal life is minimal, the military is his family, command is his
 purpose. He's outlived a wife and children, converting grief into
 focused dedication.
-\column
+
 **Abilities:**
 
 Varius' tactical genius allows him to direct battlefield events in ways
@@ -31973,16 +31975,14 @@ Most militia members are also neighbors, friends, and family. They know
 each other's strengths and weaknesses intimately. This familiarity
 creates both strong unit cohesion and complicated personal dynamics.
 
-**Abilities:**
-
-Militia are skilled at concealment and ambush, especially in their home
-terrain. They can hide 
-
 {{pageNumber,auto}}
 {{footnote Chapter 48: Aethorian Resistance}}
 \page
 
-effectively, strike from surprise, and fade away
+**Abilities:**
+
+Militia are skilled at concealment and ambush, especially in their home
+terrain. They can hide effectively, strike from surprise, and fade away
 before enemies can respond effectively.
 
 They lack the training for sustained combat or coordinated formation
@@ -32013,7 +32013,7 @@ commitment to shared values.
 
 
 ### 48.2 Resistance Fighter
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-resistance-fighter.jpg){width:325px}
+
 
 **Type:** Humanoid (any ancestry)
 
@@ -32048,6 +32048,8 @@ of communication and supply. They choose their own targets, plan their
 own operations, and answer to no central authority, though some
 coordinate with Republic military advisors.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-resistance-fighter.jpg){width:325px}
+
 **Behavior and Combat:**
 
 Resistance fighters specialize in making occupation painful. They attack
@@ -32072,6 +32074,10 @@ depend on each other for survival, who share constant danger, who've
 watched comrades die. The relationships formed in resistance are among
 the strongest people experience.
 
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
+
 They maintain support networks among sympathetic civilians, safe houses,
 supply sources, information pipelines. These networks are essential but
 dangerous; every contact is a potential point of betrayal.
@@ -32079,10 +32085,6 @@ dangerous; every contact is a potential point of betrayal.
 Many fighters struggle with the moral complexity of their work.
 Ambushing soldiers is clear enough. But what about collaborators who
 cooperate under threat? 
-
-{{pageNumber,auto}}
-{{footnote Chapter 48: Aethorian Resistance}}
-\page
 
 Informants who betrayed friends to save their
 own families? The line between justice and murder becomes blurred.
@@ -32173,6 +32175,10 @@ They're particularly effective against enemies threatening civilians.
 Something in their commitment translates to combat capability, perhaps
 divine favor, perhaps the focus that comes from clarity of purpose.
 
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
+
 They inspire through example rather than command. People follow them not
 because they must, but because they believe in what the champion
 represents.
@@ -32185,13 +32191,7 @@ is substantial. When a champion speaks, communities listen.
 
 Many struggle with this unofficial authority. They didn't want power;
 they wanted to help. Now they find that their words shape events, their
-opinions become 
-
-{{pageNumber,auto}}
-{{footnote Chapter 48: Aethorian Resistance}}
-\page
-
-policy, their preferences become priorities. Some handle
+opinions become policy, their preferences become priorities. Some handle
 this responsibly; others are overwhelmed.
 
 They maintain close connections to their communities of origin while
@@ -32270,6 +32270,10 @@ break chains and unlock cells. They counter enemy magic that would
 dominate or control. They provide support for fighters rather than
 seeking personal glory.
 
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
+
 In combat, they stay behind front lines, using magic to enhance allies
 and diminish enemies. They're not battle mages in the Thaldros sense,
 they're force multipliers who make others more effective rather than
@@ -32286,10 +32290,6 @@ training and their political commitments. Magic traditions are often
 hierarchical; revolution is anti-hierarchical. They must constantly
 negotiate between the discipline magic requires and the freedom
 revolution promises.
-
-{{pageNumber,auto}}
-{{footnote Chapter 48: Aethorian Resistance}}
-\page
 
 Many maintain secret identities. A known revolutionary mage is a target
 for Thaldros Inquisitors. The safest revolutionary mage is one nobody
@@ -32370,7 +32370,13 @@ Becoming a Chain Breaker takes years of dedication.
 **Behavior and Combat:**
 
 Chain Breakers fight with their bodies. Their techniques are designed
-for situations where weapons are unavailable, because prisoners rarely
+for situations where 
+
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
+
+weapons are unavailable, because prisoners rarely
 have access to weapons. They can disable opponents, escape restraints,
 and protect others with empty hands.
 
@@ -32389,10 +32395,6 @@ The Chain Breaker order maintains monasteries in Aethoria and hidden
 throughout Thaldros territory. These serve as training facilities, safe
 houses for escaped prisoners, and coordination points for liberation
 operations.
-
-{{pageNumber,auto}}
-{{footnote Chapter 48: Aethorian Resistance}}
-\page
 
 Members take vows of dedication to the cause of freedom. They own little
 personally, sharing resources with the order. They go where they're
@@ -32440,6 +32442,8 @@ difference reflects the deeper conflict between the nations.
 
 ### 48.6 Guerrilla Commander
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-guerrilla-commander.jpg){width:325px}
+
 **Type:** Humanoid (any ancestry)
 
 **Physical Description:**
@@ -32463,14 +32467,20 @@ from proven competence rather than appointed position.
 
 Most have been fighting for years, sometimes decades. They've lost
 friends, made terrible decisions, achieved remarkable victories, and
-survived failures that killed others. Their experience is written in
+survived failures 
+
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
+
+that killed others. Their experience is written in
 scars, gray hair, and the weight behind their eyes.
 
 They maintain networks that span regions, contacts in villages,
 informants in cities, allies among other resistance groups. Building
 these networks is their primary strategic contribution.
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-guerrilla-commander.jpg){width:325px}
+
 **Behavior and Combat:**
 
 Commanders think strategically rather than tactically. Individual
@@ -32489,13 +32499,7 @@ whatever physical limitations age or injury have imposed.
 **Intelligence and Society:**
 
 Commanders occupy awkward positions in Aethorian culture. Democratic
-principles suggest that no one 
-
-{{pageNumber,auto}}
-{{footnote Chapter 48: Aethorian Resistance}}
-\page
-
-should have too much authority. Practical
+principles suggest that no one should have too much authority. Practical
 necessity gives commanders substantial informal power over their
 networks.
 
@@ -32563,6 +32567,11 @@ they command attention. Fighting, they seem larger than physical form
 would suggest. Something about them transcends ordinary human limitation.
 
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-the-liberator.jpg){width:325px}
+
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
+
 **Origins:**
 
 No one becomes the Liberator through normal paths. They emerge from
@@ -32591,13 +32600,7 @@ simultaneously and often prevail against forces that should overwhelm
 any individual.
 
 Their presence affects everyone nearby. Allies fight harder, believe
-more strongly, endure more than they 
-
-{{pageNumber,auto}}
-{{footnote Chapter 48: Aethorian Resistance}}
-\page
-
-could alone. Enemies face not just
+more strongly, endure more than they could alone. Enemies face not just
 a fighter but a force of nature.
 
 **Intelligence and Society:**
@@ -32662,9 +32665,13 @@ unkillable.
 
 -   The party discovers they're caught up in one of the Liberator's
     operations without knowing it
-\column
+
 ### 48.8 Prophesied Hero
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-prophesied-hero.jpg){width:325px}
+
+{{pageNumber,auto}}
+{{footnote Chapter 48: Aethorian Resistance}}
+\page
 
 **Type:** Humanoid (any ancestry, chosen)
 
@@ -32694,13 +32701,7 @@ their significance.
 
 Identifying Prophesied Heroes is inexact. Various signs are supposed to
 mark them, but interpretation is subjective. Multiple individuals have
-been proclaimed as 
-
-{{pageNumber,auto}}
-{{footnote Chapter 48: Aethorian Resistance}}
-\page
-
-specific Prophesied Heroes, sometimes simultaneously.
+been proclaimed as specific Prophesied Heroes, sometimes simultaneously.
 The prophecies themselves are vague enough to support various readings.
 
 **Behavior and Combat:**
@@ -32727,6 +32728,8 @@ want to be associated with destiny, whether to share in it or to use it
 for their own purposes. Sorting genuine support from manipulation is a
 constant challenge.
 
+\column
+
 They often feel isolated despite constant attention. No one relates to
 them as ordinary people; everyone relates to them as symbols or tools.
 Finding genuine connection requires escaping their own significance.
@@ -32742,7 +32745,7 @@ Destiny seems to favor Prophesied Heroes. They're more likely to
 succeed, more likely to survive, more likely to be in the right place at
 the right time. Whether this is supernatural destiny or simply the
 results of being treated as significant is unclear.
-\column
+
 Their aura of destiny affects those around them, allies find themselves
 more fortunate, more protected, as if the hero's significance extends
 to their companions.
@@ -32975,12 +32978,14 @@ society. The Guild becomes their community.
 
 Veterans are experienced fighters with practical skills developed
 through actual combat. They know how to survive, literally. Their
-resistance to battlefield diseases and poisons reflects bodies that have
-adapted to campaign conditions.
+resistance to battlefield 
 
 {{pageNumber,auto}}
 {{footnote Chapter 49: Iron Guild Mercenaries}}
 \page
+
+diseases and poisons reflects bodies that have
+adapted to campaign conditions.
 
 Their tactical retreat capability reflects hard-won wisdom: knowing when
 to disengage is as important as knowing when to fight. Veterans who
@@ -33074,18 +33079,18 @@ valued.
 **Abilities:**
 
 Enforcers can call on Guild resources for backup, other members will
-respond to enforcement actions. This isn't special authority; it's
-standard Guild protocol. Members who don't respond when enforcers call
-face consequences.
-
-Their intimidating presence can paralyze opposition through implied
-threat of violence. This is trained 
+respond to enforcement actions. 
 
 {{pageNumber,auto}}
 {{footnote Chapter 49: Iron Guild Mercenaries}}
 \page
 
-capability, not supernatural power,
+This isn't special authority; it's
+standard Guild protocol. Members who don't respond when enforcers call
+face consequences.
+
+Their intimidating presence can paralyze opposition through implied
+threat of violence. This is trained capability, not supernatural power,
 but it's remarkably effective.
 
 **Cultural Significance:**
@@ -33178,14 +33183,14 @@ Contract killers are exceptional at killing from surprise. Their
 training provides advantages against unaware targets and ensures that
 ambush strikes are maximally lethal.
 
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
 Their precision attack capability allows them to exploit vulnerabilities
 in ways that normal fighters can't match. Combined with poisoned
 weapons, they can eliminate targets far above their apparent combat
 capability.
-
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
 
 **Cultural Significance:**
 
@@ -33211,6 +33216,8 @@ for employers and the Guild alike.
 
 ### 49.5 Iron Guild Captain
 ![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-iron-guild-captain.jpg){width:325px}
+
+\column
 
 **Type:** Humanoid (any ancestry)
 
@@ -33272,6 +33279,10 @@ competence rather than idealism. They understand that the Guild exists
 to profit from contracts, and they ensure their companies contribute to
 that profit.
 
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
 **Abilities:**
 
 Captains provide tactical bonuses to everyone fighting under their
@@ -33280,13 +33291,7 @@ improving overall unit performance.
 
 Their command capability allows coordinated actions, everyone striking
 at once, everyone moving together. This coordination is the difference
-between a 
-
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
-
-mercenary company and a collection of individual fighters.
+between a mercenary company and a collection of individual fighters.
 
 **Cultural Significance:**
 
@@ -33312,7 +33317,7 @@ The more problematic aspects of the profession happen at other levels.
     outside investigators
 
 ### 49.6 Guildmaster's Elite
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-guildmasters-elite.jpg){width:325px}
+
 
 **Type:** Humanoid (any ancestry)
 
@@ -33346,7 +33351,7 @@ Their duties include protecting the Guildmaster, handling the Guild's
 most sensitive and important contracts, and serving as final arbiters in
 internal disputes. They're the Guild's ultimate authority after the
 Guildmaster himself.
-
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-guildmasters-elite.jpg){width:325px}
 **Behavior and Combat:**
 
 Elite fight with refined technique developed over decades. Every motion
@@ -33371,6 +33376,10 @@ They maintain extensive networks built over career lifetimes. Former
 colleagues, former employers, former enemies who became allies, their
 contacts span Tirvandor.
 
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
 Many struggle with mortality. They've achieved everything the
 profession offers, yet time continues passing. What comes after being
 the best is a question without comfortable answers.
@@ -33383,14 +33392,8 @@ lesser warriors would be defeated.
 
 Their mercenary's pride makes them nearly immune to mental
 manipulation. Attempts to frighten or charm them typically fail.
-Their commanding presence 
-
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
-
-enhances allies' effectiveness, less through tactical direction 
-than through inspiring confidence by example.
+Their commanding presence enhances allies' effectiveness, less 
+through tactical direction than through inspiring confidence by example.
 
 **Cultural Significance:**
 
@@ -33416,8 +33419,7 @@ futures.
 -   An aging Elite seeks a worthy final mission.
 
 ### 49.7 Garrick "Ironheart" Hammerfist
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-garrick-ironheart-guildmaster.jpg){width:325px}
-\column
+
 **Type:** Humanoid (dwarf), legendary craftsman-warrior
 
 **Note:** *Garrick appears in the Monster Manual under Iron Guild
@@ -33449,6 +33451,8 @@ He maintains close ties with the Iron Guild because he supplies them
 with weapons and armor. Senior Guild members still remember his active
 service days. His fairness in dealings has earned respect across
 mercenary communities.
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-garrick-ironheart-guildmaster.jpg){width:325px}
 
 **Current Role:**
 
@@ -33492,9 +33496,7 @@ terrible.
 **Physical Description:**
 
 Blessed paladins radiate subtle divine presence. Their eyes occasionally
-flash with inner light. Their voices 
-\column
-carry undertones of authority that
+flash with inner light. Their voices carry undertones of authority that
 transcend normal speech. They move with purpose that suggests divine
 direction, not mechanically, but with the confidence of those who
 believe their path is righteous.
@@ -33553,16 +33555,14 @@ They maintain connections with temples and religious orders but aren't
 necessarily members of formal hierarchies. Their authority comes from
 divine recognition rather than institutional position.
 
-**Abilities:**
-
-Blessed paladins can channel divine energy through their attacks,
-dealing additional radiant damage that 
-
 {{pageNumber,auto}}
 {{footnote Chapter 50: Ascended-Touched}}
 \page
 
-represents their patron's power
+**Abilities:**
+
+Blessed paladins can channel divine energy through their attacks,
+dealing additional radiant damage that represents their patron's power
 manifest in the physical world.
 
 Their divine connection provides some resistance to fear and mental
@@ -33651,6 +33651,10 @@ authorities rather than replacing them. They advise judges, investigate
 complex cases, and handle matters beyond normal law enforcement's
 capability.
 
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
 They're controversial figures. Those who believe in law appreciate
 their incorruptibility. Those who've suffered under unjust laws see
 them as enforcers of oppression. Justicars themselves wrestle with this
@@ -33658,13 +33662,7 @@ tension, they serve Law, but not all laws are just.
 
 Most recognize the difference between law and justice, and struggle when
 the two conflict. Some resolve this by working to change unjust laws;
-others 
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
-
-enforce law regardless and trust that proper procedure will
+others enforce law regardless and trust that proper procedure will
 eventually correct injustice.
 
 **Abilities:**
@@ -33754,6 +33752,10 @@ Liberators operate independently, following Aethor's guidance rather
 than mortal authority. They respect those who work toward freedom but
 don't subordinate themselves to mortal movements or organizations.
 
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
 They communicate telepathically and can understand any language, freedom
 transcends linguistic barriers. Their conversations often focus on the
 nature of freedom, the causes of oppression, and the possibilities of
@@ -33762,10 +33764,6 @@ liberation.
 They don't hate oppressors the way mortals might. They see slavers and
 tyrants as obstacles to freedom rather than personal enemies. This
 perspective sometimes frustrates mortals who want righteous vengeance.
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
 
 **Abilities:**
 
@@ -33819,7 +33817,7 @@ glowing, sometimes seeming to look through rather than at whoever
 they're addressing. They speak in tenses that don't quite match the
 present, and their conversations often include references to events that
 haven't happened yet.
-
+\column
 **Origins:**
 
 Seers are chosen by Moira, goddess of fate, from among those who already
@@ -33850,6 +33848,10 @@ incoming attacks and avoiding them. Their Prophetic Vision can overwhelm
 opponents with visions of possible futures, incapacitating them through
 information overload.
 
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
 They're frustratingly cryptic even when trying to be clear. The nature
 of prophecy resists direct statement; the future changes when described,
 and seers learn to communicate in ways that preserve possibility rather
@@ -33866,10 +33868,6 @@ Many live as hermits or recluses, limiting contact with those who would
 demand impossible clarity. Others serve as advisors to leaders willing
 to accept ambiguity. A few become frauds, providing the simple
 predictions people want rather than the complicated truths they see.
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
 
 They maintain connections with each other, sharing techniques for
 managing the burden of sight. These informal networks span political
@@ -33948,7 +33946,13 @@ communities as forest spirits or nature gods.
 
 Wild Hunters judge mortals by their relationship with nature. Those who
 respect the wild receive guidance and protection. Those who harm it face
-relentless pursuit, Wild Hunters never forget offenses against nature
+relentless pursuit, Wild Hunters never forget offenses 
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
+against nature
 and never stop hunting until balance is restored.
 
 In combat, they're fierce and mobile, using their speed and
@@ -33971,11 +33975,6 @@ destruction they oppose, not presence.
 They communicate in terms that emphasize natural cycles, predator-prey
 relationships, and ecological balance. Their perspective is genuinely
 alien to most mortals, focused on species and ecosystems rather than
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
-
 individuals.
 
 They maintain loose connections with each other and with other fey,
@@ -34017,7 +34016,7 @@ power.
 
 -   A Wild Hunter seeks mortal help with a threat too large for
     individual response
-
+\column
 ### 50.6 Sera's Mercy
 
 
@@ -34050,6 +34049,10 @@ Individual Mercies may linger in particular locations, hospitals,
 temples, sites of ongoing tragedy, providing continuous care for as long
 as suffering continues.
 
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
 **Behavior and Combat:**
 
 Mercies avoid violence almost absolutely. They're healers, not
@@ -34075,10 +34078,6 @@ They don't judge those they help. Their compassion extends to everyone:
 heroes and villains, saints and sinners. Some mortals find this
 troubling, shouldn't divine beings distinguish between deserving and
 undeserving suffering?
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
 
 Sera's theology answers that all suffering deserves compassion. Mercies
 embody this principle absolutely.
@@ -34115,8 +34114,10 @@ compassion has limits, it isn't truly compassion.
 -   A Mercy's presence in an unexpected location raises questions
 
 -   The party seeks a Mercy for healing beyond normal capability
-
+\column
 ### 50.7 Mordain's Sentinel
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-mordains-sentinel.jpg){width:325px}
 
 **Type:** Undead (divine guardian of Mordain)
 
@@ -34147,7 +34148,9 @@ They guard tombs, temples, sacred battlefields, and other sites
 significant to the cycle of death and memory. Their presence ensures
 that the dead are honored and the living respect proper boundaries.
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-mordains-sentinel.jpg){width:325px}
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
 
 **Behavior and Combat:**
 
@@ -34179,10 +34182,6 @@ obstacles, engaging in conversation before (or instead of) combat.
 They maintain communication with other Sentinels through mysterious
 means, sharing information about threats and coordinating responses to
 desecration attempts.
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
 
 **Abilities:**
 
@@ -34221,6 +34220,8 @@ embody this principle.
 
 ### 50.8 Fallen Champion
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-fallen-champion.jpg){width:325px}
+
 **Type:** Undead (corrupted divine champion)
 
 **Physical Description:**
@@ -34250,6 +34251,10 @@ is the same: blessed champions become cursed monsters.
 Some fell centuries ago and continue their corrupted existence. Others
 are recent, their fall a tragedy that those who knew them still mourn.
 
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
 **Behavior and Combat:**
 
 Fallen Champions are driven by bitterness and resentment. They hate what
@@ -34266,8 +34271,6 @@ hopelessness outward. Those caught in this aura may find themselves
 unable to move, paralyzed by the Fallen Champion's communicated
 despair.
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-fallen-champion.jpg){width:325px}
-
 **Intelligence and Society:**
 
 Fallen Champions retain their intelligence but their perspective is
@@ -34282,9 +34285,7 @@ few desperately seek redemption while fearing it's impossible.
 They're usually solitary, though some gather followers among those
 attracted to their power or convinced by their bitter philosophy.
 
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
+\column
 
 **Abilities:**
 
@@ -34304,7 +34305,7 @@ Fallen Champions are cautionary tales. Their existence reminds the
 faithful that even blessed heroes can fall, that righteousness requires
 constant vigilance, and that no one is immune to corruption's
 temptation.
-\column
+
 They're also tragedies, people who once served divine purpose reduced
 to monsters. Many who encounter Fallen Champions feel sorrow alongside
 fear, mourning what was lost as much as fearing what remains.
@@ -34406,12 +34407,14 @@ scratch surfaces designed to endure ages.
 Whether Guardians are truly intelligent is debated. They respond to
 situations appropriately, adjust tactics during combat, and can
 apparently distinguish between different types of visitors. But they
-don't communicate beyond gestures, don't seem to learn from
-experience, and show no signs of goals beyond their assigned duties.
+don't communicate beyond gestures, don't seem to learn 
 
 {{pageNumber,auto}}
 {{footnote Chapter 51: Ancient and Prophetic Beings}}
 \page
+
+from
+experience, and show no signs of goals beyond their assigned duties.
 
 They don't form societies. Each Guardian operates independently,
 following its own directives. If multiple Guardians protect the same
@@ -34475,9 +34478,7 @@ surfaces that seem to extend in directions that don't exist, forms that
 the eye struggles to process and the mind struggles to remember.
 
 They hover rather than walk, their forms trailing wisps of what might be
-energy, might be memory, might 
-\column
-be something entirely different. Looking
+energy, might be memory, might be something entirely different. Looking
 at them too long causes headaches; looking away, the mind struggles to
 recall what was seen.
 
@@ -34507,16 +34508,18 @@ determine.
 **Behavior and Combat:**
 
 Prophecy Keepers don't initiate conflict. They're observers, not
-participants. They watch events unfold without interference, recording
+participants. They watch events unfold 
+
+{{pageNumber,auto}}
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
+\page
+
+without interference, recording
 what occurs for purposes they don't explain.
 
 However, they respond to threats. Those who attack a Prophecy Keeper
 discover that beings capable of perceiving all possible futures are very
 difficult to harm.
-
-{{pageNumber,auto}}
-{{footnote Chapter 51: Ancient and Prophetic Beings}}
-\page
 
 They can project psychic attacks that strike with
 precision, anticipating attempts to dodge or block.
@@ -34604,7 +34607,13 @@ visible: a circlet of black metal set with gems that glow with dim, sad
 light.
 
 He was handsome once, perhaps still is in a mournful way. His bearing
-remains royal despite millennia of death. His eyes burn with cold fire,
+remains royal despite 
+
+{{pageNumber,auto}}
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
+\page
+
+millennia of death. His eyes burn with cold fire,
 intelligence, regret, and determination still visible despite his undead
 state.
 
@@ -34616,13 +34625,7 @@ resist definition.
 
 The Forgotten King ruled a dynasty that flourished before the Worldrend,
 a kingdom so ancient that its name has been lost along with almost all
-records of its existence. According to fragmentary prophecy, he was 
-
-{{pageNumber,auto}}
-{{footnote Chapter 51: Ancient and Prophetic Beings}}
-\page
-
-one
+records of its existence. According to fragmentary prophecy, he was one
 of an original "Seven" whose failure preceded the Worldrend and set
 the stage for the Seven Ascended's rise.
 
@@ -34738,6 +34741,10 @@ divine light, eyes that reflect all seven divine domains. They represent
 the Ascended not individually but collectively, speaking for the
 pantheon rather than any single god.
 
+{{pageNumber,auto}}
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
+\page
+
 Their presence affects reality itself. Light brightens around them. Evil
 creatures feel uncomfortable. The faithful feel profound reassurance.
 
@@ -34753,15 +34760,11 @@ essence when that purpose is fulfilled. They don't have ongoing
 existence between missions; they're temporary manifestations of
 combined divine will.
 
-{{pageNumber,auto}}
-{{footnote Chapter 51: Ancient and Prophetic Beings}}
-\page
-
 Their appearance indicates that something of cosmic significance is
 occurring, something important enough to command the attention of all
 seven gods simultaneously.
 
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-herald-of-the-seven.jpg){width:325px}
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-herald-of-the-seven.jpg){width:305px}
 
 **Behavior and Combat:**
 
@@ -34930,14 +34933,16 @@ reassembled incorrectly by residual energy.
 **Abilities:**
 
 Corruption Spawn attack with multiple bite attacks from mouths that form
-and dissolve across their bodies.
-
-They can spit corrosive fluid that blinds targets, leaving them
-vulnerable to continued attack.
+and dissolve across their 
 
 {{pageNumber,auto}}
 {{footnote Chapter 52: Corrupted and Cursed}}
 \page
+
+bodies.
+
+They can spit corrosive fluid that blinds targets, leaving them
+vulnerable to continued attack.
 
 Their Blinding Spittle can affect areas, potentially blinding multiple
 targets at once.
@@ -34970,7 +34975,7 @@ schedules, and spawn-hunting traditions to manage the danger.
     why?
 
 ### 52.2 War-Twisted Soldier
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-war-twisted-soldier.jpg){width:325px}
+
 
 **Type:** Undead (battlefield risen)
 
@@ -35009,6 +35014,8 @@ They retain some memory of their living service but it's fragmentary
 and twisted. They remember fighting. They remember dying. They remember
 hatred for enemies they can no longer clearly identify.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-war-twisted-soldier.jpg){width:325px}
+
 **Behavior and Combat:**
 
 War-Twisted Soldiers fight with the skill they had in life, enhanced by
@@ -35030,18 +35037,18 @@ more dangerous than their individual capabilities suggest.
 
 War-Twisted Soldiers retain intelligence but it's corrupted by their
 traumatic deaths. They can speak, plan, and coordinate, but their
-thinking is dominated by rage and hatred. They interpret everything
-through the lens of the conflict that killed them.
-
-They often continue fighting their original war, attacking anyone who
-resembles their former enemies. This can make them dangerous to people
-who had 
+thinking is dominated 
 
 {{pageNumber,auto}}
 {{footnote Chapter 52: Corrupted and Cursed}}
 \page
 
-nothing to do with the conflict that created them, wearing the
+by rage and hatred. They interpret everything
+through the lens of the conflict that killed them.
+
+They often continue fighting their original war, attacking anyone who
+resembles their former enemies. This can make them dangerous to people
+who had nothing to do with the conflict that created them, wearing the
 wrong colors or speaking the wrong language can trigger attacks.
 
 Some retain enough coherence to be communicated with, though such
@@ -35129,6 +35136,10 @@ not casual magic but serious workings with lasting effects. Many date to
 the Worldrend or earlier, embedded in locations or objects that have
 cursed victims for centuries.
 
+{{pageNumber,auto}}
+{{footnote Chapter 52: Corrupted and Cursed}}
+\page
+
 **Behavior and Combat:**
 
 Curse Bearers are predators driven by hunger and pain. The curse that
@@ -35140,10 +35151,6 @@ They're intelligent enough to be cunning predators, setting ambushes,
 targeting vulnerable prey, retreating from overwhelming opposition. But
 they're not rational in any normal sense. The curse dominates their
 thinking, making them perpetually aggressive and territorial.
-
-{{pageNumber,auto}}
-{{footnote Chapter 52: Corrupted and Cursed}}
-\page
 
 Their Curse Touch can spread their affliction to victims, potentially
 beginning the transformation process in those they wound. Their
@@ -35167,6 +35174,8 @@ Curse Bearer that was once human might avoid its former home,
 recognizing that it would harm people it once loved. But this control is
 fragile and often fails when hunger or pain becomes overwhelming.
 
+\column
+
 **Abilities:**
 
 Curse Bearers are powerful physical combatants with claws and bite
@@ -35177,7 +35186,7 @@ beginning transformation processes.
 
 Their Terrifying Howl affects everyone nearby, potentially causing
 flight or paralysis.
-\column
+
 **Cultural Significance:**
 
 Curse Bearers represent the danger of dark magic and cursed places.
@@ -35265,13 +35274,13 @@ cosmic scale.
 
 The World-Splitter was not merely a weapon of destruction. In Primordial
 hands, it served as a tool of creation, used to shape continents, birth
-oceans, raise mountains. It could unmake and remake reality 
+oceans, raise 
 
 {{pageNumber,auto}}
 {{footnote Chapter 53: The World-Splitter™}}
 \page
 
-according to
+mountains. It could unmake and remake reality according to
 its wielder's will. The Primordials used it to sculpt the world itself.
 
 Then they tried to unmake the gods.
@@ -35333,7 +35342,7 @@ bloodlines for all generations.
 For over twelve centuries, these oaths have held. The guardian houses
 have risen and fallen, but always, until recently, someone has
 maintained the vigil.
-\column
+
 **Powers (Assembled)**
 
 A complete World-Splitter can do exactly what its name suggests: split
@@ -35387,7 +35396,13 @@ whether the oaths still bind them.
 Lord Shadows (Corvus Blackwood) actively seeks to gather all Components.
 His stated goal is vindication, proving his family's innocence as
 guardians rather than traitors, but his methods grow increasingly
-desperate as time runs out. A curse is slowly killing him; he may have
+desperate as time runs out. A curse is 
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
+slowly killing him; he may have
 only five years to achieve his goals.
 
 Others also seek the Components: dragon cults who believe the Flame
@@ -35395,10 +35410,6 @@ Heart can awaken ancient wyrms, apocalyptic sects who want to trigger
 the Second Worldrend, scholars who believe they can study the artifacts
 safely, and kings who want to ensure no one else can threaten their
 power.
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 
 The race to gather or protect the Components drives much of Tirvandor's
 current conflict.
@@ -35499,6 +35510,10 @@ identity. Soldiers came. Twelve-year-old Corvus watched from a hiding
 place as his parents were cut down and burned. He heard their screams
 proclaiming innocence as flames consumed them.
 
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
 This Second Purge was ordered by King Aldric III to cover up his own
 son's crimes, Prince Aldric had murdered the Goldshore Keepers to steal
 the Flame Heart and blamed the Blackwoods. The hidden Blackwood
@@ -35510,10 +35525,6 @@ Corvus survived. He became Lord Shadows.
 
 The Shadow Shard grants dominion over shadow and darkness. Its wielder
 can:
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 
 *Command Shadows:* Shadows become extensions of the wielder's will.
 They can move independently, take solid form, reach across distances. A
@@ -35572,7 +35583,7 @@ believing it will help achieve the justice they all desire.
 *Scholars:* Some academics want to study the Shard to understand the
 World-Splitter and the Worldrend. They believe knowledge is worth the
 risk.
-\column
+
 **Story Significance**
 
 The Shadow Shard is the key to the Blackwood conspiracy, physical proof
@@ -35610,7 +35621,13 @@ world began.
 
 After the Worldrend, the Flame Heart was entrusted to a secret branch of
 House Goldshore known as the Keepers. While the main Goldshore line
-became wealthy merchants and nobles in Goldreach, the Keepers lived
+became wealthy merchants and nobles in Goldreach, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
+the Keepers lived
 apart, maintaining their vigil over the Component in hidden vaults
 beneath Kaer Thandros.
 
@@ -35618,10 +35635,6 @@ The Keepers' existence was kept secret even from their own family. The
 main Goldshore line knew nothing of their cousins' true purpose, a
 precaution meant to protect both the Component and the unknowing
 relatives from those who might seek the artifact.
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 
 For centuries, the Keepers maintained their watch. They lived near where
 the dragon Infernalix would later make its lair, possibly drawn by the
@@ -35729,7 +35742,13 @@ offered. Anyone who seeks it risks the same corruption.
 The Void Fragment appears as liquid darkness in solid form, impossible
 to describe accurately because the eye refuses to process what it sees.
 It is cold as the deepest ocean trenches, cold enough to burn. Its
-surface seems to move even when still, as if containing depths that
+surface seems to move even when still, as if 
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
+containing depths that
 extend beyond its physical size.
 
 Looking into the Void Fragment is said to show glimpses of spaces
@@ -35741,17 +35760,12 @@ The Fragment is roughly the size of a large grapefruit but weighs far
 more than it should, or far less, or nothing at all. Reports conflict,
 suggesting the Fragment manipulates its own physical properties.
 
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-void-fragment.jpg){width:200px,float:right,margin:5px}
 
 **History**
 
 After the Worldrend, the Void Fragment was entrusted to House Deepwater,
-a noble family whose 
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
-
-![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-void-fragment.jpg){width:200px,float:right,margin:5px}
-headquarters stood at Palace Port on the western
+a noble family whose headquarters stood at Palace Port on the western
 coast. The Deepwaters were masters of water magic, and their oceanic
 vaults were considered impregnable, protected by depth, pressure, and
 magical wards.
@@ -35838,6 +35852,10 @@ figurative. The underwater journey mirrors the descent into truth that
 the Shattered Oaths campaign requires, going deeper than is comfortable,
 facing things that have been hidden, emerging changed.
 
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
 ### 53.5 The Stone Crown (Fourth Component)
 ![53.5 The Stone Crown](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-stone-crown.jpg){width:200px,float:right,margin:5px}
 
@@ -35850,9 +35868,6 @@ mountains despite fitting in a single hand. This impossible weight seems
 to be conceptual rather than physical, the Stone Crown is heavy with
 authority, with permanence, with the weight of ages.
 
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 
 The stone itself appears to be from no known geological formation. It is
 gray-brown, shot through with veins of what might be gold or might be
@@ -35884,6 +35899,8 @@ this knowledge faded. The current King Aldric IV believes the Stone
 Crown is merely an ancient ceremonial artifact with historical
 significance. He wears a World-Splitter Component without knowing what
 it truly is.
+
+\column
 
 **Powers**
 
@@ -35947,7 +35964,13 @@ it, or destroy it, or hide it more carefully.
 **Story Significance**
 
 The Stone Crown represents hidden dangers in positions of power. The
-king wears a weapon capable of ending civilization without knowing it.
+king wears a weapon capable 
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
+of ending civilization without knowing it.
 The government built to protect people is itself a threat.
 
 It also raises questions about legitimacy and authority. Does the
@@ -35965,10 +35988,6 @@ The Storm Eye appears as a sphere of captured lightning, roughly six
 inches in diameter, crackling with contained apocalypse. It is never
 still, energy arcs constantly across its surface, occasionally
 discharging miniature lightning bolts that strike the air itself.
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 
 Holding the Storm Eye (through proper containment) produces a sensation
 of standing in the heart of a hurricane. The air seems to move even in
@@ -36053,7 +36072,13 @@ reshape the world according to eastern principles, to fulfill various
 political goals.
 
 *Weather Mages:* Some practitioners believe studying the Storm Eye would
-advance their understanding of weather magic exponentially. They
+advance their 
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
+understanding of weather magic exponentially. They
 underestimate its dangers.
 
 **Story Significance**
@@ -36094,13 +36119,7 @@ those with need to know should learn of them.
 **The Binding:**
 
 The oaths were not merely promises but magical bindings. Those who
-violate them suffer consequences, 
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
-
-curses that afflict the oathbreaker
+violate them suffer consequences, curses that afflict the oathbreaker
 and potentially their descendants. The exact nature of these
 consequences varies; Corvus Blackwood bears a curse that is slowly
 killing him, triggered when he left Raven's Keep without fulfilling his
@@ -36143,7 +36162,7 @@ uninhabitable.
 *Unmake reality:* Some interpretations suggest a fully activated
 World-Splitter could return Tirvandor to primordial chaos, undoing
 creation itself.
-\column
+
 **The Temptation:**
 
 The same power that threatens destruction also promises creation. A wise
