@@ -92,10 +92,14 @@ All political structures and organizational hierarchies
 </div>
 
 \page
+
 {{toc,wide
 # Contents
 
-- ### [{{ Acknowledgements}}{{ 3}}](#p3)
+- ### [{{ Acknowledgements}}{{ 2}}](#p2)
+- #### [{{ Copyright Notice}}{{ 2}}](#p2)
+- #### [{{ Trademark Notice}}{{ 2}}](#p2)
+- #### [{{ Protected Elements Include:}}{{ 2}}](#p2)
 - ### [{{ Part I: The World}}{{ 9}}](#p9)
 - #### [{{ Chapter 1: Overview of Tirvandor™}}{{ 9}}](#p9)
   - [{{ 1.1 World Summary}}{{ 9}}](#p9)
@@ -156,7 +160,7 @@ All political structures and organizational hierarchies
   - [{{ 9.3 The Death Toll and Survivors}}{{ 36}}](#p36)
   - [{{ 9.4 Theories on the Cause}}{{ 37}}](#p37)
   - [{{ 9.5 The World-Splitter and Its Fragments}}{{ 37}}](#p37)
-  - [{{ 9.6 The Immediate Aftermath}}{{ 38}}](#p38)
+  - [{{ 9.6 The Immediate Aftermath}}{{ 39}}](#p39)
 - #### [{{ Chapter 10: The Age of Recovery}}{{ 40}}](#p40)
   - [{{ 10.1 The First Decade (0-10 CR)}}{{ 40}}](#p40)
   - [{{ 10.2 The Founding Era (10-100 CR)}}{{ 40}}](#p40)
@@ -181,470 +185,470 @@ All political structures and organizational hierarchies
   - [{{ 13.4 Moira, The Weaver}}{{ 46}}](#p46)
   - [{{ 13.5 Kael, The Wanderer}}{{ 47}}](#p47)
   - [{{ 13.6 Sera, The Healer}}{{ 48}}](#p48)
-  - [{{ 13.7 Mordain, The Sentinel}}{{ 49}}](#p49)
+  - [{{ 13.7 Mordain, The Sentinel}}{{ 50}}](#p50)
   - [{{ 13.8 Sylvara, The Wild}}{{ 51}}](#p51)
   - [{{ 13.9 Relationships Between the Seven}}{{ 52}}](#p52)
-- #### [{{ Chapter 14: The Primordials}}{{ 53}}](#p53)
-  - [{{ 14.1 Nature of the Primordials}}{{ 53}}](#p53)
-  - [{{ 14.2 The Six Known Primordials}}{{ 53}}](#p53)
-  - [{{ 14.3 Primordial Influence Today}}{{ 54}}](#p54)
-  - [{{ 14.4 Primordial Cults}}{{ 54}}](#p54)
-- #### [{{ Chapter 15: Regional Powers and the Forgotten Ones}}{{ 55}}](#p55)
-  - [{{ 15.1 Regional Deities}}{{ 55}}](#p55)
-  - [{{ 15.2 The Forgotten Ones}}{{ 55}}](#p55)
+- #### [{{ Chapter 14: The Primordials}}{{ 54}}](#p54)
+  - [{{ 14.1 Nature of the Primordials}}{{ 54}}](#p54)
+  - [{{ 14.2 The Six Known Primordials}}{{ 54}}](#p54)
+  - [{{ 14.3 Primordial Influence Today}}{{ 55}}](#p55)
+  - [{{ 14.4 Primordial Cults}}{{ 55}}](#p55)
+- #### [{{ Chapter 15: Regional Powers and the Forgotten Ones}}{{ 56}}](#p56)
+  - [{{ 15.1 Regional Deities}}{{ 56}}](#p56)
+  - [{{ 15.2 The Forgotten Ones}}{{ 56}}](#p56)
 }}
+
 \page
 
 {{toc,wide
 
-- #### [{{ Chapter 16: Religious Structures and Faith}}{{ 56}}](#p56)
-  - [{{ 16.1 Major Religious Organizations}}{{ 56}}](#p56)
-  - [{{ 16.2 The Divine Silence and Its Legacy}}{{ 57}}](#p57)
-  - [{{ 16.3 Divine Magic in Practice}}{{ 58}}](#p58)
-  - [{{ 16.4 Faith and Culture by Region}}{{ 58}}](#p58)
-  - [{{ 16.5 Interaction with Other Planes}}{{ 58}}](#p58)
-- ### [{{ Part IV: Civilizations}}{{ 60}}](#p60)
-- #### [{{ Chapter 17: The Kingdom of Thaldros}}{{ 60}}](#p60)
-  - [{{ 17.1 Kingdom Overview}}{{ 60}}](#p60)
-  - [{{ 17.2 The Crown and Succession}}{{ 60}}](#p60)
-  - [{{ 17.3 Government Structure}}{{ 61}}](#p61)
-  - [{{ 17.4 Military Forces}}{{ 62}}](#p62)
-  - [{{ 17.5 Economy and Trade}}{{ 62}}](#p62)
-  - [{{ 17.6 Society and Culture}}{{ 63}}](#p63)
-  - [{{ 17.7 Laws and Justice}}{{ 64}}](#p64)
-  - [{{ 17.8 Relations with Other Powers}}{{ 64}}](#p64)
-  - [{{ 17.9 Current Challenges}}{{ 65}}](#p65)
-- #### [{{ Chapter 18: The Aethorian Harmony}}{{ 66}}](#p66)
-  - [{{ 18.1 Overview of Aethoria}}{{ 66}}](#p66)
-  - [{{ 18.2 Government and Leadership}}{{ 66}}](#p66)
-  - [{{ 18.3 Military Forces}}{{ 68}}](#p68)
-  - [{{ 18.4 Economy and Trade}}{{ 68}}](#p68)
-  - [{{ 18.5 Society and Culture}}{{ 69}}](#p69)
-  - [{{ 18.6 Laws and Justice}}{{ 70}}](#p70)
-  - [{{ 18.7 Relations with Other Powers}}{{ 70}}](#p70)
-  - [{{ 18.8 Current Challenges}}{{ 71}}](#p71)
-- #### [{{ Chapter 19: The Contested Lands}}{{ 72}}](#p72)
-  - [{{ 19.1 Characteristics}}{{ 72}}](#p72)
-  - [{{ 19.2 The Reaching Claws}}{{ 72}}](#p72)
-  - [{{ 19.3 The Deep Frontier}}{{ 72}}](#p72)
-  - [{{ 19.4 The Border Marches}}{{ 72}}](#p72)
-  - [{{ 19.5 Political Significance}}{{ 72}}](#p72)
-- #### [{{ Chapter 20: Noble Houses of Thaldros}}{{ 73}}](#p73)
-  - [{{ 20.1 The Role of Nobility}}{{ 73}}](#p73)
-  - [{{ 20.2 House Thandris (Royal House)}}{{ 73}}](#p73)
-  - [{{ 20.3 House Ironforge (Dominant — Vassal Lords)}}{{ 74}}](#p74)
-  - [{{ 20.4 House Blackwood (Fallen — Lost Claimant)}}{{ 75}}](#p75)
-  - [{{ 20.5 House Silverleaf (Dominant — Forest Lords)}}{{ 76}}](#p76)
-  - [{{ 20.6 House Ashborne (Ascendant — Desert Lords)}}{{ 77}}](#p77)
-  - [{{ 20.7 House Goldshore (Dominant — Merchant Princes)}}{{ 78}}](#p78)
-  - [{{ 20.8 House Stonefist (Declining — Mountain Clan)}}{{ 78}}](#p78)
-  - [{{ 20.9 House Heartwood (Dominant — Agricultural Lords)}}{{ 79}}](#p79)
-  - [{{ 20.10 House Emberthorn (Fallen — Volcanic Lords)}}{{ 80}}](#p80)
-  - [{{ 20.11 House Seawatch (Declining — Coastal Guardians)}}{{ 80}}](#p80)
-  - [{{ 20.12 Inter-House Relationships}}{{ 81}}](#p81)
-- #### [{{ Chapter 21: Noble Houses of Aethoria}}{{ 82}}](#p82)
-  - [{{ 21.1 The Role of Nobility in Aethoria}}{{ 82}}](#p82)
-  - [{{ 21.2 House Starweaver (Dominant - Celestial Dynasty)}}{{ 82}}](#p82)
-  - [{{ 21.3 House Aethermere (Dominant - Forest Throne)}}{{ 84}}](#p84)
-  - [{{ 21.4 House Crystalborn (Dominant - Lake Lords)}}{{ 85}}](#p85)
-  - [{{ 21.5 House Thornveil (Ascendant - Shadow Court)}}{{ 86}}](#p86)
-  - [{{ 21.6 House Windwhisper (Dominant - Highland Mystics)}}{{ 87}}](#p87)
-  - [{{ 21.7 House Verdantheart (Dominant - Mountain Druids)}}{{ 88}}](#p88)
-  - [{{ 21.8 House Splittide (Fallen - Peninsula Lords)}}{{ 88}}](#p88)
-  - [{{ 21.9 House Brightwater (Ascendant - River Lords)}}{{ 89}}](#p89)
-  - [{{ 21.10 Inter-House Relationships (Aethoria)}}{{ 90}}](#p90)
-- #### [{{ Chapter 22: Pre-Worldrend Conflicts}}{{ 91}}](#p91)
-  - [{{ 22.1 The Ancient Grudges That Survived Continental Separation}}{{ 91}}](#p91)
-  - [{{ 22.2 Conflict 1: The Sundered Bloodline}}{{ 91}}](#p91)
-  - [{{ 22.3 Conflict 2: The Broken Crown}}{{ 93}}](#p93)
-  - [{{ 22.4 Conflict 3: The Drowned Fortune}}{{ 95}}](#p95)
-  - [{{ 22.5 Conflict 4: The Stolen Relic}}{{ 96}}](#p96)
-  - [{{ 22.6 Cross-Continental Patterns}}{{ 97}}](#p97)
-  - [{{ 22.7 The Price of Division}}{{ 98}}](#p98)
-- ### [{{ Part V: Factions & Organizations}}{{ 99}}](#p99)
-- #### [{{ Chapter 23: Political Powers}}{{ 99}}](#p99)
-  - [{{ 23.1 The Northern Kingdoms (Thaldros)}}{{ 99}}](#p99)
-  - [{{ 23.2 The Free Cities Alliance (Central Thaldros)}}{{ 100}}](#p100)
-  - [{{ 23.3 The Sundaran Clans (Southern Thaldros)}}{{ 101}}](#p101)
-  - [{{ 23.4 The Aethorian Harmony (Northern Aethoria)}}{{ 102}}](#p102)
-  - [{{ 23.5 The Crystalbrook Compact (Central Aethoria)}}{{ 103}}](#p103)
-  - [{{ 23.6 The Thornmire Concordat (Southeastern Aethoria)}}{{ 104}}](#p104)
-  - [{{ 23.7 Inter-Power Relationships}}{{ 104}}](#p104)
-  - 
-- #### [{{ Chapter 24: Economic Organizations}}{{ 106}}](#p106)
-  - [{{ 24.1 The Merchant League}}{{ 106}}](#p106)
-  - [{{ 24.2 The Artificers’ Consortium}}{{ 108}}](#p108)
-  - [{{ 24.3 The Shadow Syndicate}}{{ 110}}](#p110)
-- #### [{{ Chapter 25: Religious Orders}}{{ 113}}](#p113)
-  - [{{ 25.1 The Lightbringers (Order of Aethor)}}{{ 113}}](#p113)
-  - [{{ 25.2 The Green Circle (Druids of Sylvara)}}{{ 115}}](#p115)
-  - [{{ 25.3 The Grave Wardens (Order of Mordain)}}{{ 118}}](#p118)
-- #### [{{ Chapter 26: Arcane Organizations}}{{ 121}}](#p121)
-  - [{{ 26.1 The Arcanum (Wizard Academy)}}{{ 121}}](#p121)
-  - [{{ 26.2 The Circle of Eight}}{{ 124}}](#p124)
-  - [{{ 26.3 The Twilight Court (Fey-Touched)}}{{ 125}}](#p125)
+- #### [{{ Chapter 16: Religious Structures and Faith}}{{ 58}}](#p58)
+  - [{{ 16.1 Major Religious Organizations}}{{ 58}}](#p58)
+  - [{{ 16.2 The Divine Silence and Its Legacy}}{{ 59}}](#p59)
+  - [{{ 16.3 Divine Magic in Practice}}{{ 59}}](#p59)
+  - [{{ 16.4 Faith and Culture by Region}}{{ 60}}](#p60)
+  - [{{ 16.5 Interaction with Other Planes}}{{ 60}}](#p60)
+- ### [{{ Part IV: Civilizations}}{{ 61}}](#p61)
+- #### [{{ Chapter 17: The Kingdom of Thaldros}}{{ 61}}](#p61)
+  - [{{ 17.1 Kingdom Overview}}{{ 61}}](#p61)
+  - [{{ 17.2 The Crown and Succession}}{{ 61}}](#p61)
+  - [{{ 17.3 Government Structure}}{{ 62}}](#p62)
+  - [{{ 17.4 Military Forces}}{{ 63}}](#p63)
+  - [{{ 17.5 Economy and Trade}}{{ 64}}](#p64)
+  - [{{ 17.6 Society and Culture}}{{ 64}}](#p64)
+  - [{{ 17.7 Laws and Justice}}{{ 65}}](#p65)
+  - [{{ 17.8 Relations with Other Powers}}{{ 66}}](#p66)
+  - [{{ 17.9 Current Challenges}}{{ 66}}](#p66)
+- #### [{{ Chapter 18: The Aethorian Harmony}}{{ 68}}](#p68)
+  - [{{ 18.1 Overview of Aethoria}}{{ 68}}](#p68)
+  - [{{ 18.2 Government and Leadership}}{{ 68}}](#p68)
+  - [{{ 18.3 Military Forces}}{{ 70}}](#p70)
+  - [{{ 18.4 Economy and Trade}}{{ 70}}](#p70)
+  - [{{ 18.5 Society and Culture}}{{ 71}}](#p71)
+  - [{{ 18.6 Laws and Justice}}{{ 72}}](#p72)
+  - [{{ 18.7 Relations with Other Powers}}{{ 72}}](#p72)
+  - [{{ 18.8 Current Challenges}}{{ 73}}](#p73)
+- #### [{{ Chapter 19: The Contested Lands}}{{ 74}}](#p74)
+  - [{{ 19.1 Characteristics}}{{ 74}}](#p74)
+  - [{{ 19.2 The Reaching Claws}}{{ 74}}](#p74)
+  - [{{ 19.3 The Deep Frontier}}{{ 74}}](#p74)
+  - [{{ 19.4 The Border Marches}}{{ 74}}](#p74)
+  - [{{ 19.5 Political Significance}}{{ 74}}](#p74)
+- #### [{{ Chapter 20: Noble Houses of Thaldros}}{{ 75}}](#p75)
+  - [{{ 20.1 The Role of Nobility}}{{ 75}}](#p75)
+  - [{{ 20.2 House Thandris (Royal House)}}{{ 75}}](#p75)
+  - [{{ 20.3 House Ironforge (Dominant — Vassal Lords)}}{{ 76}}](#p76)
+  - [{{ 20.4 House Blackwood (Fallen — Lost Claimant)}}{{ 77}}](#p77)
+  - [{{ 20.5 House Silverleaf (Dominant — Forest Lords)}}{{ 78}}](#p78)
+  - [{{ 20.6 House Ashborne (Ascendant — Desert Lords)}}{{ 79}}](#p79)
+  - [{{ 20.7 House Goldshore (Dominant — Merchant Princes)}}{{ 80}}](#p80)
+  - [{{ 20.8 House Stonefist (Declining — Mountain Clan)}}{{ 81}}](#p81)
+  - [{{ 20.9 House Heartwood (Dominant — Agricultural Lords)}}{{ 81}}](#p81)
+  - [{{ 20.10 House Emberthorn (Fallen — Volcanic Lords)}}{{ 82}}](#p82)
+  - [{{ 20.11 House Seawatch (Declining — Coastal Guardians)}}{{ 83}}](#p83)
+  - [{{ 20.12 Inter-House Relationships}}{{ 83}}](#p83)
+- #### [{{ Chapter 21: Noble Houses of Aethoria}}{{ 84}}](#p84)
+  - [{{ 21.1 The Role of Nobility in Aethoria}}{{ 84}}](#p84)
+  - [{{ 21.2 House Starweaver (Dominant - Celestial Dynasty)}}{{ 84}}](#p84)
+  - [{{ 21.3 House Aethermere (Dominant - Forest Throne)}}{{ 86}}](#p86)
+  - [{{ 21.4 House Crystalborn (Dominant - Lake Lords)}}{{ 87}}](#p87)
+  - [{{ 21.5 House Thornveil (Ascendant - Shadow Court)}}{{ 88}}](#p88)
+  - [{{ 21.6 House Windwhisper (Dominant - Highland Mystics)}}{{ 89}}](#p89)
+  - [{{ 21.7 House Verdantheart (Dominant - Mountain Druids)}}{{ 90}}](#p90)
+  - [{{ 21.8 House Splittide (Fallen - Peninsula Lords)}}{{ 90}}](#p90)
+  - [{{ 21.9 House Brightwater (Ascendant - River Lords)}}{{ 91}}](#p91)
+  - [{{ 21.10 Inter-House Relationships (Aethoria)}}{{ 92}}](#p92)
+- #### [{{ Chapter 22: Pre-Worldrend Conflicts}}{{ 93}}](#p93)
+  - [{{ 22.1 The Ancient Grudges That Survived Continental Separation}}{{ 93}}](#p93)
+  - [{{ 22.2 Conflict 1: The Sundered Bloodline}}{{ 93}}](#p93)
+  - [{{ 22.3 Conflict 2: The Broken Crown}}{{ 95}}](#p95)
+  - [{{ 22.4 Conflict 3: The Drowned Fortune}}{{ 97}}](#p97)
+  - [{{ 22.5 Conflict 4: The Stolen Relic}}{{ 98}}](#p98)
+  - [{{ 22.6 Cross-Continental Patterns}}{{ 99}}](#p99)
+  - [{{ 22.7 The Price of Division}}{{ 100}}](#p100)
+- ### [{{ Part V: Factions & Organizations}}{{ 101}}](#p101)
+- #### [{{ Chapter 23: Political Powers}}{{ 101}}](#p101)
+  - [{{ 23.1 The Northern Kingdoms (Thaldros)}}{{ 101}}](#p101)
+  - [{{ 23.2 The Free Cities Alliance (Central Thaldros)}}{{ 102}}](#p102)
+  - [{{ 23.3 The Sundaran Clans (Southern Thaldros)}}{{ 103}}](#p103)
+  - [{{ 23.4 The Aethorian Harmony (Northern Aethoria)}}{{ 104}}](#p104)
+  - [{{ 23.5 The Crystalbrook Compact (Central Aethoria)}}{{ 105}}](#p105)
+  - [{{ 23.6 The Thornmire Concordat (Southeastern Aethoria)}}{{ 106}}](#p106)
+  - [{{ 23.7 Inter-Power Relationships}}{{ 107}}](#p107)
+- #### [{{ Chapter 24: Economic Organizations}}{{ 108}}](#p108)
+  - [{{ 24.1 The Merchant League}}{{ 108}}](#p108)
+  - [{{ 24.2 The Artificers’ Consortium}}{{ 110}}](#p110)
+  - [{{ 24.3 The Shadow Syndicate}}{{ 112}}](#p112)
+- #### [{{ Chapter 25: Religious Orders}}{{ 115}}](#p115)
+  - [{{ 25.1 The Lightbringers (Order of Aethor)}}{{ 115}}](#p115)
+  - [{{ 25.2 The Green Circle (Druids of Sylvara)}}{{ 117}}](#p117)
+  - [{{ 25.3 The Grave Wardens (Order of Mordain)}}{{ 120}}](#p120)
+- #### [{{ Chapter 26: Arcane Organizations}}{{ 123}}](#p123)
+  - [{{ 26.1 The Arcanum (Wizard Academy)}}{{ 123}}](#p123)
+  - [{{ 26.2 The Circle of Eight}}{{ 126}}](#p126)
+  - [{{ 26.3 The Twilight Court (Fey-Touched)}}{{ 127}}](#p127)
 }}
+
 \page
 
 {{toc,wide
 
-- #### [{{ Chapter 27: Secret Societies}}{{ 128}}](#p128)
-  - [{{ 27.1 The Unseen Hand}}{{ 128}}](#p128)
-  - [{{ 27.2 The Crimson Order}}{{ 130}}](#p130)
-  - [{{ 27.3 The Unbound}}{{ 131}}](#p131)
-  - [{{ 27.4 The Silver Circle (Semi-Secret)}}{{ 132}}](#p132)
-  - [{{ 27.5 The Forgotten Monastery}}{{ 134}}](#p134)
-  - [{{ 27.6 Keeper Bloodlines}}{{ 134}}](#p134)
-  - [{{ 27.7 Relationships Between Secret Societies}}{{ 135}}](#p135)
-- #### [{{ Chapter 28: Military Orders}}{{ 136}}](#p136)
-  - [{{ 28.1 The Lightbringers (Order of Aethor)}}{{ 136}}](#p136)
-  - [{{ 28.2 The Green Circle (Druids of Sylvara)}}{{ 136}}](#p136)
-  - [{{ 28.3 The Grave Wardens (Order of Mordain)}}{{ 136}}](#p136)
-  - [{{ 28.4 The Northern Guard}}{{ 136}}](#p136)
-  - [{{ 28.5 The Iron Crown Knights}}{{ 136}}](#p136)
-- #### [{{ Chapter 29: Inter-Faction Relationships}}{{ 137}}](#p137)
-  - [{{ 29.1 Alliance Networks}}{{ 137}}](#p137)
-  - [{{ 29.2 Rivalries and Opposition}}{{ 139}}](#p139)
-  - [{{ 29.3 Complex and Ambiguous Relationships}}{{ 140}}](#p140)
-  - [{{ 29.4 Current Political Tensions (1247 CR)}}{{ 140}}](#p140)
-  - [{{ 29.5 Faction Power Summary}}{{ 141}}](#p141)
-  - [{{ 29.6 Relationship Quick Reference}}{{ 142}}](#p142)
-- ### [{{ Part VI: Settlements}}{{ 143}}](#p143)
-- #### [{{ Chapter 30: Major Cities}}{{ 143}}](#p143)
-  - [{{ 30.1 Kaer Thandros (Royal Capital)}}{{ 143}}](#p143)
-  - [{{ 30.2 Ironhold (Fortress City)}}{{ 144}}](#p144)
-  - [{{ 30.3 Silverpine (Forest Capital)}}{{ 145}}](#p145)
-  - [{{ 30.4 Goldreach (Maritime Capital)}}{{ 146}}](#p146)
-  - [{{ 30.5 Crossvale (Trade Junction)}}{{ 148}}](#p148)
-  - [{{ 30.6 Sundara (Desert Capital)}}{{ 149}}](#p149)
-  - [{{ 30.7 Ashgate (Volcanic Gateway)}}{{ 150}}](#p150)
-  - [{{ 30.8 Aethermere (Capital)}}{{ 151}}](#p151)
-  - [{{ 30.9 Starfall (Observatory City)}}{{ 154}}](#p154)
-  - [{{ 30.10 Crystalbrook (Trade Hub)}}{{ 156}}](#p156)
-  - [{{ 30.11 Wildgrove (Sacred Site)}}{{ 159}}](#p159)
-  - [{{ 30.12 Marshaven (Swamp Fortress)}}{{ 160}}](#p160)
-  - [{{ 30.13 Port Myrthen (Neutral Island City)}}{{ 163}}](#p163)
-  - [{{ 30.14 SUMMARY TABLE: AETHORIAN MAJOR CITIES}}{{ 165}}](#p165)
-- #### [{{ Chapter 31: Towns and Regional Settlements}}{{ 166}}](#p166)
-  - [{{ Thaldros Towns by Region}}{{ 166}}](#p166)
-  - [{{ Aethoria Towns by Region}}{{ 170}}](#p170)
-- #### [{{ Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}{{ 175}}](#p175)
-  - [{{ 32.1 Villages of Thaldros}}{{ 175}}](#p175)
-  - [{{ 32.2 Villages of Aethoria}}{{ 176}}](#p176)
-  - [{{ 32.3 Hamlets (Both Continents)}}{{ 177}}](#p177)
-  - [{{ 32.4 Ruins & Lost Cities}}{{ 177}}](#p177)
-  - [{{ 32.5 Legendary & Sacred Locations}}{{ 179}}](#p179)
-  - [{{ 32.6 Summary Statistics}}{{ 181}}](#p181)
-- #### [{{ Chapter 33: Settlement Histories and Founding Narratives}}{{ 182}}](#p182)
-  - [{{ 33.1 Thaldros (Western Continent)}}{{ 182}}](#p182)
-  - [{{ 33.2 Aethoria (Eastern Continent)}}{{ 188}}](#p188)
-  - [{{ 33.3 Summary Table}}{{ 193}}](#p193)
-- #### [{{ Chapter 34: Ruins, Hidden Sites, and Lost Places}}{{ 194}}](#p194)
-  - [{{ 34.1 The Ashgate Undercity}}{{ 194}}](#p194)
-  - [{{ 34.2 Goldreach Vault 13}}{{ 194}}](#p194)
-  - [{{ 34.3 The Nexus of Seven Sorrows}}{{ 194}}](#p194)
-  - [{{ 34.4 The Obsidian Spire}}{{ 194}}](#p194)
-  - [{{ 34.5 The Riftmaw}}{{ 195}}](#p195)
-  - [{{ 34.6 The Wandering Tower}}{{ 195}}](#p195)
-- #### [{{ Chapter 35: Sacred Sites and Hidden Sanctuaries}}{{ 196}}](#p196)
-  - [{{ 35.1 The Black Archive}}{{ 196}}](#p196)
-  - [{{ 35.2 The Singing Stones}}{{ 196}}](#p196)
-  - [{{ 35.3 The Forgotten Monastery}}{{ 196}}](#p196)
-  - [{{ 35.4 Temple of the Void Saints}}{{ 196}}](#p196)
-- ### [{{ Part VII: Characters}}{{ 197}}](#p197)
-- #### [{{ Chapter 36: Royalty and Heads of State}}{{ 197}}](#p197)
-  - [{{ 36.1 King Aldric IV Thandris}}{{ 197}}](#p197)
-  - [{{ 36.2 High Queen Aelindra Aethermere}}{{ 199}}](#p199)
-  - [{{ 36.3 Crown Prince Thorin Thandris}}{{ 202}}](#p202)
-  - [{{ 36.4 Princess Elanil Aethermere}}{{ 204}}](#p204)
-  - [{{ 36.5 Archmage Eldrin Aethermere}}{{ 207}}](#p207)
-- #### [{{ Chapter 37: Nobility and Aristocracy}}{{ 210}}](#p210)
-  - [{{ 37.1 Thane Durin Ironforge}}{{ 210}}](#p210)
-  - [{{ 37.2 Sultan Rashid Ashborne}}{{ 212}}](#p212)
-  - [{{ 37.3 Lord Commander Thrain Ironoak}}{{ 214}}](#p214)
-  - [{{ 37.4 General Marthos Thandris}}{{ 215}}](#p215)
-  - [{{ 37.5 Lord Aldris Goldshore IV}}{{ 216}}](#p216)
-  - [{{ 37.6 Lady Serina Goldshore}}{{ 217}}](#p217)
-  - [{{ 37.7 Merchant Prince Davos Goldshore}}{{ 218}}](#p218)
-  - [{{ 37.8 Lady Morgana Blackwater}}{{ 219}}](#p219)
-  - [{{ 37.9 Council Mistress Elara Silverleaf}}{{ 220}}](#p220)
-  - [{{ 37.10 Trade Prince Lucian Goldfingers}}{{ 221}}](#p221)
-  - [{{ 37.11 Lady Tempest Stormcrest}}{{ 221}}](#p221)
-- #### [{{ Chapter 38: Religious Leaders}}{{ 223}}](#p223)
-  - [{{ 38.1 High Priest Rashid Al-Sahir}}{{ 223}}](#p223)
-  - [{{ 38.2 Archdruid Silvaris Oakenheart}}{{ 223}}](#p223)
-  - [{{ 38.3 The Sand Prophet}}{{ 224}}](#p224)
-- #### [{{ Chapter 39: Military Commanders}}{{ 225}}](#p225)
-  - [{{ 39.1 General Marthos Thandris}}{{ 225}}](#p225)
-  - [{{ 39.2 Captain Vex}}{{ 225}}](#p225)
-  - [{{ 39.3 Scout Captain Finn Quickfoot}}{{ 225}}](#p225)
-- #### [{{ Chapter 40: Merchants and Guild Leaders}}{{ 226}}](#p226)
-  - [{{ 40.1 Merchant Prince Davos Goldshore}}{{ 226}}](#p226)
-  - [{{ 40.2 Master Smith Durgan Forgefire}}{{ 226}}](#p226)
-  - [{{ 40.3 Trade Prince Lucian Goldfingers}}{{ 226}}](#p226)
-  - [{{ 40.4 Captain Sylara Windchaser}}{{ 226}}](#p226)
-- #### [{{ Chapter 41: Criminals and Underworld Figures}}{{ 227}}](#p227)
-  - [{{ 41.1 Master Crimson}}{{ 227}}](#p227)
-  - [{{ 41.2 Whisper}}{{ 227}}](#p227)
-  - [{{ 41.3 Vexis Shadowmaw}}{{ 227}}](#p227)
-  - [{{ 41.4 High Voidcaller Malthus}}{{ 227}}](#p227)
+- #### [{{ Chapter 27: Secret Societies}}{{ 131}}](#p131)
+  - [{{ 27.1 The Unseen Hand}}{{ 131}}](#p131)
+  - [{{ 27.2 The Crimson Order}}{{ 133}}](#p133)
+  - [{{ 27.3 The Unbound}}{{ 134}}](#p134)
+  - [{{ 27.4 The Silver Circle (Semi-Secret)}}{{ 136}}](#p136)
+  - [{{ 27.5 The Forgotten Monastery}}{{ 137}}](#p137)
+  - [{{ 27.6 Keeper Bloodlines}}{{ 137}}](#p137)
+  - [{{ 27.7 Relationships Between Secret Societies}}{{ 138}}](#p138)
+- #### [{{ Chapter 28: Military Orders}}{{ 139}}](#p139)
+  - [{{ 28.1 The Lightbringers (Order of Aethor)}}{{ 139}}](#p139)
+  - [{{ 28.2 The Green Circle (Druids of Sylvara)}}{{ 139}}](#p139)
+  - [{{ 28.3 The Grave Wardens (Order of Mordain)}}{{ 139}}](#p139)
+  - [{{ 28.4 The Northern Guard}}{{ 139}}](#p139)
+  - [{{ 28.5 The Iron Crown Knights}}{{ 139}}](#p139)
+- #### [{{ Chapter 29: Inter-Faction Relationships}}{{ 140}}](#p140)
+  - [{{ 29.1 Alliance Networks}}{{ 140}}](#p140)
+  - [{{ 29.2 Rivalries and Opposition}}{{ 142}}](#p142)
+  - [{{ 29.3 Complex and Ambiguous Relationships}}{{ 143}}](#p143)
+  - [{{ 29.4 Current Political Tensions (1247 CR)}}{{ 143}}](#p143)
+  - [{{ 29.5 Faction Power Summary}}{{ 144}}](#p144)
+  - [{{ 29.6 Relationship Quick Reference}}{{ 145}}](#p145)
+- ### [{{ Part VI: Settlements}}{{ 146}}](#p146)
+- #### [{{ Chapter 30: Major Cities}}{{ 146}}](#p146)
+  - [{{ 30.1 Kaer Thandros (Royal Capital)}}{{ 146}}](#p146)
+  - [{{ 30.2 Ironhold (Fortress City)}}{{ 147}}](#p147)
+  - [{{ 30.3 Silverpine (Forest Capital)}}{{ 148}}](#p148)
+  - [{{ 30.4 Goldreach (Maritime Capital)}}{{ 149}}](#p149)
+  - [{{ 30.5 Crossvale (Trade Junction)}}{{ 151}}](#p151)
+  - [{{ 30.6 Sundara (Desert Capital)}}{{ 152}}](#p152)
+  - [{{ 30.7 Ashgate (Volcanic Gateway)}}{{ 153}}](#p153)
+  - [{{ 30.8 Aethermere (Capital)}}{{ 155}}](#p155)
+  - [{{ 30.9 Starfall (Observatory City)}}{{ 157}}](#p157)
+  - [{{ 30.10 Crystalbrook (Trade Hub)}}{{ 159}}](#p159)
+  - [{{ 30.11 Wildgrove (Sacred Site)}}{{ 162}}](#p162)
+  - [{{ 30.12 Marshaven (Swamp Fortress)}}{{ 164}}](#p164)
+  - [{{ 30.13 Port Myrthen (Neutral Island City)}}{{ 166}}](#p166)
+  - [{{ 30.14 SUMMARY TABLE: AETHORIAN MAJOR CITIES}}{{ 168}}](#p168)
+- #### [{{ Chapter 31: Towns and Regional Settlements}}{{ 169}}](#p169)
+  - [{{ Thaldros Towns by Region}}{{ 169}}](#p169)
+  - [{{ Aethoria Towns by Region}}{{ 173}}](#p173)
+- #### [{{ Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}{{ 178}}](#p178)
+  - [{{ 32.1 Villages of Thaldros}}{{ 178}}](#p178)
+  - [{{ 32.2 Villages of Aethoria}}{{ 179}}](#p179)
+  - [{{ 32.3 Hamlets (Both Continents)}}{{ 180}}](#p180)
+  - [{{ 32.4 Ruins & Lost Cities}}{{ 180}}](#p180)
+  - [{{ 32.5 Legendary & Sacred Locations}}{{ 182}}](#p182)
+  - [{{ 32.6 Summary Statistics}}{{ 184}}](#p184)
+- #### [{{ Chapter 33: Settlement Histories and Founding Narratives}}{{ 185}}](#p185)
+  - [{{ 33.1 Thaldros (Western Continent)}}{{ 185}}](#p185)
+  - [{{ 33.2 Aethoria (Eastern Continent)}}{{ 191}}](#p191)
+  - [{{ 33.3 Summary Table}}{{ 196}}](#p196)
+- #### [{{ Chapter 34: Ruins, Hidden Sites, and Lost Places}}{{ 197}}](#p197)
+  - [{{ 34.1 The Ashgate Undercity}}{{ 197}}](#p197)
+  - [{{ 34.2 Goldreach Vault 13}}{{ 197}}](#p197)
+  - [{{ 34.3 The Nexus of Seven Sorrows}}{{ 197}}](#p197)
+  - [{{ 34.4 The Obsidian Spire}}{{ 197}}](#p197)
+  - [{{ 34.5 The Riftmaw}}{{ 198}}](#p198)
+  - [{{ 34.6 The Wandering Tower}}{{ 198}}](#p198)
+- #### [{{ Chapter 35: Sacred Sites and Hidden Sanctuaries}}{{ 199}}](#p199)
+  - [{{ 35.1 The Black Archive}}{{ 199}}](#p199)
+  - [{{ 35.2 The Singing Stones}}{{ 199}}](#p199)
+  - [{{ 35.3 The Forgotten Monastery}}{{ 199}}](#p199)
+  - [{{ 35.4 Temple of the Void Saints}}{{ 199}}](#p199)
+- ### [{{ Part VII: Characters}}{{ 200}}](#p200)
+- #### [{{ Chapter 36: Royalty and Heads of State}}{{ 200}}](#p200)
+  - [{{ 36.1 King Aldric IV Thandris}}{{ 200}}](#p200)
+  - [{{ 36.2 High Queen Aelindra Aethermere}}{{ 202}}](#p202)
+  - [{{ 36.3 Crown Prince Thorin Thandris}}{{ 205}}](#p205)
+  - [{{ 36.4 Princess Elanil Aethermere}}{{ 207}}](#p207)
+  - [{{ 36.5 Archmage Eldrin Aethermere}}{{ 210}}](#p210)
+- #### [{{ Chapter 37: Nobility and Aristocracy}}{{ 213}}](#p213)
+  - [{{ 37.1 Thane Durin Ironforge}}{{ 213}}](#p213)
+  - [{{ 37.2 Sultan Rashid Ashborne}}{{ 215}}](#p215)
+  - [{{ 37.3 Lord Commander Thrain Ironoak}}{{ 217}}](#p217)
+  - [{{ 37.4 General Marthos Thandris}}{{ 218}}](#p218)
+  - [{{ 37.5 Lord Aldris Goldshore IV}}{{ 219}}](#p219)
+  - [{{ 37.6 Lady Serina Goldshore}}{{ 220}}](#p220)
+  - [{{ 37.7 Merchant Prince Davos Goldshore}}{{ 221}}](#p221)
+  - [{{ 37.8 Lady Morgana Blackwater}}{{ 223}}](#p223)
+  - [{{ 37.9 Council Mistress Elara Silverleaf}}{{ 224}}](#p224)
+  - [{{ 37.10 Trade Prince Lucian Goldfingers}}{{ 224}}](#p224)
+  - [{{ 37.11 Lady Tempest Stormcrest}}{{ 225}}](#p225)
+- #### [{{ Chapter 38: Religious Leaders}}{{ 226}}](#p226)
+  - [{{ 38.1 High Priest Rashid Al-Sahir}}{{ 226}}](#p226)
+  - [{{ 38.2 Archdruid Silvaris Oakenheart}}{{ 226}}](#p226)
+  - [{{ 38.3 The Sand Prophet}}{{ 227}}](#p227)
+- #### [{{ Chapter 39: Military Commanders}}{{ 227}}](#p227)
+  - [{{ 39.1 General Marthos Thandris}}{{ 227}}](#p227)
+  - [{{ 39.2 Captain Vex}}{{ 227}}](#p227)
+  - [{{ 39.3 Scout Captain Finn Quickfoot}}{{ 227}}](#p227)
+- #### [{{ Chapter 40: Merchants and Guild Leaders}}{{ 228}}](#p228)
+  - [{{ 40.1 Merchant Prince Davos Goldshore}}{{ 228}}](#p228)
+  - [{{ 40.2 Master Smith Durgan Forgefire}}{{ 228}}](#p228)
+  - [{{ 40.3 Trade Prince Lucian Goldfingers}}{{ 228}}](#p228)
+  - [{{ 40.4 Captain Sylara Windchaser}}{{ 228}}](#p228)
+- #### [{{ Chapter 41: Criminals and Underworld Figures}}{{ 229}}](#p229)
+  - [{{ 41.1 Master Crimson}}{{ 229}}](#p229)
+  - [{{ 41.2 Whisper}}{{ 229}}](#p229)
+  - [{{ 41.3 Vexis Shadowmaw}}{{ 229}}](#p229)
+  - [{{ 41.4 High Voidcaller Malthus}}{{ 229}}](#p229)
 }}
+
 \page
 
 {{toc,wide
 
-- #### [{{ Chapter 42: Scholars and Mages}}{{ 228}}](#p228)
-  - [{{ 42.1 Sage Thelmar Runescribe}}{{ 228}}](#p228)
-  - [{{ 42.2 Professor Elara Moonwhisper}}{{ 228}}](#p228)
-  - [{{ 42.3 Archmage Eldrin Aethermere}}{{ 228}}](#p228)
-  - [{{ 42.4 Archmage Veridian Starweaver}}{{ 229}}](#p229)
-  - [{{ 42.5 Professor Miranda Questseeker}}{{ 229}}](#p229)
-- #### [{{ Chapter 43: Adventurers and Heroes}}{{ 230}}](#p230)
-  - [{{ 43.1 Desert Ranger Khalid}}{{ 230}}](#p230)
-  - [{{ 43.2 Ranger-Lord Arannis Silverleaf}}{{ 230}}](#p230)
-  - [{{ 43.3 Ranger-Lord Silvanus}}{{ 231}}](#p231)
-  - [{{ 43.4 Captain Lyra Swiftwind}}{{ 231}}](#p231)
-- #### [{{ Chapter 44: Villains and Antagonists}}{{ 232}}](#p232)
-  - [{{ 44.1 Corvus Blackwood (Lord Shadows)}}{{ 232}}](#p232)
-  - [{{ 44.2 Dragon Infernalix (The Vanished Flame)}}{{ 236}}](#p236)
-  - [{{ 44.3 Arcanus the Undying (The Lich of Raven’s Keep)}}{{ 237}}](#p237)
-  - [{{ 44.4 Captain Malthus Voidcaller}}{{ 238}}](#p238)
-  - [{{ 44.5 Sister Mortua}}{{ 239}}](#p239)
-  - [{{ 44.6 The Dread King}}{{ 239}}](#p239)
-  - [{{ 44.7 Merchant Prince Davos Goldshore}}{{ 240}}](#p240)
-  - [{{ 44.8 Master Crimson (The Shadow Syndicate)}}{{ 240}}](#p240)
-  - [{{ 44.9 Lady Morgana Blackwater}}{{ 241}}](#p241)
-  - [{{ 44.10 Dragon Morveth (The Thornmire Terror)}}{{ 241}}](#p241)
-  - [{{ 44.11 General Marthos Thandris}}{{ 242}}](#p242)
-  - [{{ 44.12 Warlock Kael Voidwhisper}}{{ 242}}](#p242)
-  - [{{ 44.13 Lord Crimson (Unbound Lieutenant)}}{{ 243}}](#p243)
-  - [{{ 44.14 The Faceless Assassin}}{{ 243}}](#p243)
-  - [{{ 44.15 The Ash Prophet}}{{ 244}}](#p244)
-  - [{{ 44.16 Cultist-Commander Theron}}{{ 244}}](#p244)
-  - [{{ 44.17 The Whispering Void}}{{ 245}}](#p245)
-  - [{{ 44.18 The Necromancer Villains}}{{ 245}}](#p245)
-  - [{{ 44.19 Unbound Agents and Allies}}{{ 248}}](#p248)
-  - [{{ 44.20 Professor Miranda Questseeker}}{{ 249}}](#p249)
-- #### [{{ Chapter 45: Common Folk and Supporting Characters}}{{ 251}}](#p251)
-  - [{{ 45.1 Marta Goodbarrel}}{{ 251}}](#p251)
-  - [{{ 45.2 Old Barrett}}{{ 251}}](#p251)
-  - [{{ 45.3 Watch Captain Gregor Ironhand}}{{ 252}}](#p252)
-  - [{{ 45.4 Harbor Master Tobias Saltwind}}{{ 252}}](#p252)
-  - [{{ 45.5 Caravan Master Hassan}}{{ 253}}](#p253)
-  - [{{ 45.6 Burgher-Master Wilhelm Von Handel}}{{ 253}}](#p253)
-  - [{{ 45.7 Marcus Vrell}}{{ 254}}](#p254)
-  - [{{ 45.8 Silas the Fence}}{{ 254}}](#p254)
-  - [{{ 45.9 Elder Tremont}}{{ 255}}](#p255)
-  - [{{ 45.10 Pip}}{{ 255}}](#p255)
-  - [{{ 45.11 Master Glasswright Zara}}{{ 255}}](#p255)
-  - [{{ 45.12 The Iron Hand (Marcus Ironhand)}}{{ 256}}](#p256)
-- ### [{{ Part VIII: Creatures}}{{ 257}}](#p257)
-- #### [{{ Chapter 46: Border Creatures}}{{ 257}}](#p257)
-  - [{{ 46.1 Border Bandit}}{{ 257}}](#p257)
-  - [{{ 46.2 Smuggler Captain}}{{ 258}}](#p258)
-  - [{{ 46.3 War-Scarred Veteran}}{{ 259}}](#p259)
-  - [{{ 46.4 Border Wraith}}{{ 260}}](#p260)
-  - [{{ 46.5 Contested Land Elemental}}{{ 261}}](#p261)
-  - [{{ 46.6 Refugee Mob}}{{ 262}}](#p262)
-  - [{{ 46.7 Scavenger Ghoul}}{{ 263}}](#p263)
-  - [{{ 46.8 Territorial Drake}}{{ 264}}](#p264)
-  - [{{ 46.9 War Beast}}{{ 265}}](#p265)
-  - [{{ 46.10 Haunted Battlefield}}{{ 266}}](#p266)
-- #### [{{ Chapter 47: Thaldros Military}}{{ 268}}](#p268)
-  - [{{ 47.1 Thaldros Conscript}}{{ 268}}](#p268)
-  - [{{ 47.2 Thaldros Soldier}}{{ 269}}](#p269)
-  - [{{ 47.3 Iron Legion Enforcer}}{{ 270}}](#p270)
-  - [{{ 47.4 Royal Guard Elite}}{{ 271}}](#p271)
-  - [{{ 47.5 State Inquisitor}}{{ 272}}](#p272)
-  - [{{ 47.6 War Mage of Thaldros}}{{ 273}}](#p273)
-  - [{{ 47.7 Siege Golem}}{{ 274}}](#p274)
-  - [{{ 47.8 General’s Champion}}{{ 275}}](#p275)
-  - [{{ 47.9 Iron Crown Knight}}{{ 276}}](#p276)
-  - [{{ 47.10 Lord Commander Varius}}{{ 277}}](#p277)
-- #### [{{ Chapter 48: Aethorian Resistance}}{{ 279}}](#p279)
-  - [{{ 48.1 Aethorian Militia}}{{ 279}}](#p279)
-  - [{{ 48.2 Resistance Fighter}}{{ 280}}](#p280)
-  - [{{ 48.3 People’s Champion}}{{ 281}}](#p281)
-  - [{{ 48.4 Revolutionary Mage}}{{ 282}}](#p282)
-  - [{{ 48.5 Chain Breaker Monk}}{{ 283}}](#p283)
-  - [{{ 48.6 Guerrilla Commander}}{{ 284}}](#p284)
-  - [{{ 48.7 The Liberator}}{{ 285}}](#p285)
-  - [{{ 48.8 Prophesied Hero}}{{ 286}}](#p286)
-- #### [{{ Chapter 49: Iron Guild Mercenaries}}{{ 288}}](#p288)
-  - [{{ 49.1 Guild Recruit}}{{ 288}}](#p288)
-  - [{{ 49.2 Veteran Mercenary}}{{ 289}}](#p289)
-  - [{{ 49.3 Guild Enforcer}}{{ 290}}](#p290)
-  - [{{ 49.4 Contract Killer}}{{ 291}}](#p291)
-  - [{{ 49.5 Iron Guild Captain}}{{ 292}}](#p292)
-  - [{{ 49.6 Guildmaster’s Elite}}{{ 293}}](#p293)
-  - [{{ 49.7 Garrick “Ironheart” Hammerfist}}{{ 294}}](#p294)
-- #### [{{ Chapter 50: Ascended-Touched}}{{ 295}}](#p295)
-  - [{{ 50.1 Blessed Paladin (General Ascended-Touched)}}{{ 295}}](#p295)
-  - [{{ 50.2 Thandros’ Justicar}}{{ 296}}](#p296)
-  - [{{ 50.3 Aethor’s Liberator}}{{ 297}}](#p297)
-  - [{{ 50.4 Moira’s Seer}}{{ 298}}](#p298)
-  - [{{ 50.5 Sylvara’s Wild Hunter}}{{ 299}}](#p299)
-  - [{{ 50.6 Sera’s Mercy}}{{ 300}}](#p300)
-  - [{{ 50.7 Mordain’s Sentinel}}{{ 301}}](#p301)
-  - [{{ 50.8 Fallen Champion}}{{ 302}}](#p302)
-- #### [{{ Chapter 51: Ancient and Prophetic Beings}}{{ 304}}](#p304)
-  - [{{ 51.1 Ancient Guardian}}{{ 304}}](#p304)
-  - [{{ 51.2 Prophecy Keeper}}{{ 305}}](#p305)
-  - [{{ 51.3 Forgotten King}}{{ 306}}](#p306)
-  - [{{ 51.4 Herald of the Seven}}{{ 307}}](#p307)
-- #### [{{ Chapter 52: Corrupted and Cursed}}{{ 309}}](#p309)
-  - [{{ 52.1 Corruption Spawn}}{{ 309}}](#p309)
-  - [{{ 52.2 War-Twisted Soldier}}{{ 310}}](#p310)
-  - [{{ 52.3 Curse Bearer}}{{ 311}}](#p311)
+- #### [{{ Chapter 42: Scholars and Mages}}{{ 230}}](#p230)
+  - [{{ 42.1 Sage Thelmar Runescribe}}{{ 230}}](#p230)
+  - [{{ 42.2 Professor Elara Moonwhisper}}{{ 230}}](#p230)
+  - [{{ 42.3 Archmage Eldrin Aethermere}}{{ 230}}](#p230)
+  - [{{ 42.4 Archmage Veridian Starweaver}}{{ 231}}](#p231)
+  - [{{ 42.5 Professor Miranda Questseeker}}{{ 231}}](#p231)
+- #### [{{ Chapter 43: Adventurers and Heroes}}{{ 232}}](#p232)
+  - [{{ 43.1 Desert Ranger Khalid}}{{ 232}}](#p232)
+  - [{{ 43.2 Ranger-Lord Arannis Silverleaf}}{{ 232}}](#p232)
+  - [{{ 43.3 Ranger-Lord Silvanus}}{{ 233}}](#p233)
+  - [{{ 43.4 Captain Lyra Swiftwind}}{{ 233}}](#p233)
+- #### [{{ Chapter 44: Villains and Antagonists}}{{ 234}}](#p234)
+  - [{{ 44.1 Corvus Blackwood (Lord Shadows)}}{{ 234}}](#p234)
+  - [{{ 44.2 Dragon Infernalix (The Vanished Flame)}}{{ 238}}](#p238)
+  - [{{ 44.3 Arcanus the Undying (The Lich of Raven’s Keep)}}{{ 240}}](#p240)
+  - [{{ 44.4 Captain Malthus Voidcaller}}{{ 240}}](#p240)
+  - [{{ 44.5 Sister Mortua}}{{ 242}}](#p242)
+  - [{{ 44.6 The Dread King}}{{ 242}}](#p242)
+  - [{{ 44.7 Merchant Prince Davos Goldshore}}{{ 243}}](#p243)
+  - [{{ 44.8 Master Crimson (The Shadow Syndicate)}}{{ 243}}](#p243)
+  - [{{ 44.9 Lady Morgana Blackwater}}{{ 244}}](#p244)
+  - [{{ 44.10 Dragon Morveth (The Thornmire Terror)}}{{ 244}}](#p244)
+  - [{{ 44.11 General Marthos Thandris}}{{ 245}}](#p245)
+  - [{{ 44.12 Warlock Kael Voidwhisper}}{{ 245}}](#p245)
+  - [{{ 44.13 Lord Crimson (Unbound Lieutenant)}}{{ 246}}](#p246)
+  - [{{ 44.14 The Faceless Assassin}}{{ 246}}](#p246)
+  - [{{ 44.15 The Ash Prophet}}{{ 247}}](#p247)
+  - [{{ 44.16 Cultist-Commander Theron}}{{ 247}}](#p247)
+  - [{{ 44.17 The Whispering Void}}{{ 248}}](#p248)
+  - [{{ 44.18 The Necromancer Villains}}{{ 248}}](#p248)
+  - [{{ 44.19 Unbound Agents and Allies}}{{ 251}}](#p251)
+  - [{{ 44.20 Professor Miranda Questseeker}}{{ 252}}](#p252)
+- #### [{{ Chapter 45: Common Folk and Supporting Characters}}{{ 254}}](#p254)
+  - [{{ 45.1 Marta Goodbarrel}}{{ 254}}](#p254)
+  - [{{ 45.2 Old Barrett}}{{ 254}}](#p254)
+  - [{{ 45.3 Watch Captain Gregor Ironhand}}{{ 255}}](#p255)
+  - [{{ 45.4 Harbor Master Tobias Saltwind}}{{ 255}}](#p255)
+  - [{{ 45.5 Caravan Master Hassan}}{{ 256}}](#p256)
+  - [{{ 45.6 Burgher-Master Wilhelm Von Handel}}{{ 256}}](#p256)
+  - [{{ 45.7 Marcus Vrell}}{{ 257}}](#p257)
+  - [{{ 45.8 Silas the Fence}}{{ 257}}](#p257)
+  - [{{ 45.9 Elder Tremont}}{{ 258}}](#p258)
+  - [{{ 45.10 Pip}}{{ 258}}](#p258)
+  - [{{ 45.11 Master Glasswright Zara}}{{ 258}}](#p258)
+  - [{{ 45.12 The Iron Hand (Marcus Ironhand)}}{{ 259}}](#p259)
+- ### [{{ Part VIII: Creatures}}{{ 260}}](#p260)
+- #### [{{ Chapter 46: Border Creatures}}{{ 260}}](#p260)
+  - [{{ 46.1 Border Bandit}}{{ 260}}](#p260)
+  - [{{ 46.2 Smuggler Captain}}{{ 261}}](#p261)
+  - [{{ 46.3 War-Scarred Veteran}}{{ 262}}](#p262)
+  - [{{ 46.4 Border Wraith}}{{ 263}}](#p263)
+  - [{{ 46.5 Contested Land Elemental}}{{ 264}}](#p264)
+  - [{{ 46.6 Refugee Mob}}{{ 265}}](#p265)
+  - [{{ 46.7 Scavenger Ghoul}}{{ 266}}](#p266)
+  - [{{ 46.8 Territorial Drake}}{{ 267}}](#p267)
+  - [{{ 46.9 War Beast}}{{ 269}}](#p269)
+  - [{{ 46.10 Haunted Battlefield}}{{ 270}}](#p270)
+- #### [{{ Chapter 47: Thaldros Military}}{{ 272}}](#p272)
+  - [{{ 47.1 Thaldros Conscript}}{{ 272}}](#p272)
+  - [{{ 47.2 Thaldros Soldier}}{{ 273}}](#p273)
+  - [{{ 47.3 Iron Legion Enforcer}}{{ 274}}](#p274)
+  - [{{ 47.4 Royal Guard Elite}}{{ 275}}](#p275)
+  - [{{ 47.5 State Inquisitor}}{{ 276}}](#p276)
+  - [{{ 47.6 War Mage of Thaldros}}{{ 277}}](#p277)
+  - [{{ 47.7 Siege Golem}}{{ 278}}](#p278)
+  - [{{ 47.8 General’s Champion}}{{ 279}}](#p279)
+  - [{{ 47.9 Iron Crown Knight}}{{ 280}}](#p280)
+  - [{{ 47.10 Lord Commander Varius}}{{ 281}}](#p281)
+- #### [{{ Chapter 48: Aethorian Resistance}}{{ 283}}](#p283)
+  - [{{ 48.1 Aethorian Militia}}{{ 283}}](#p283)
+  - [{{ 48.2 Resistance Fighter}}{{ 284}}](#p284)
+  - [{{ 48.3 People’s Champion}}{{ 285}}](#p285)
+  - [{{ 48.4 Revolutionary Mage}}{{ 286}}](#p286)
+  - [{{ 48.5 Chain Breaker Monk}}{{ 287}}](#p287)
+  - [{{ 48.6 Guerrilla Commander}}{{ 288}}](#p288)
+  - [{{ 48.7 The Liberator}}{{ 289}}](#p289)
+  - [{{ 48.8 Prophesied Hero}}{{ 290}}](#p290)
+- #### [{{ Chapter 49: Iron Guild Mercenaries}}{{ 292}}](#p292)
+  - [{{ 49.1 Guild Recruit}}{{ 292}}](#p292)
+  - [{{ 49.2 Veteran Mercenary}}{{ 293}}](#p293)
+  - [{{ 49.3 Guild Enforcer}}{{ 294}}](#p294)
+  - [{{ 49.4 Contract Killer}}{{ 295}}](#p295)
+  - [{{ 49.5 Iron Guild Captain}}{{ 296}}](#p296)
+  - [{{ 49.6 Guildmaster’s Elite}}{{ 297}}](#p297)
+  - [{{ 49.7 Garrick “Ironheart” Hammerfist}}{{ 298}}](#p298)
+- #### [{{ Chapter 50: Ascended-Touched}}{{ 299}}](#p299)
+  - [{{ 50.1 Blessed Paladin (General Ascended-Touched)}}{{ 299}}](#p299)
+  - [{{ 50.2 Thandros’ Justicar}}{{ 300}}](#p300)
+  - [{{ 50.3 Aethor’s Liberator}}{{ 301}}](#p301)
+  - [{{ 50.4 Moira’s Seer}}{{ 302}}](#p302)
+  - [{{ 50.5 Sylvara’s Wild Hunter}}{{ 303}}](#p303)
+  - [{{ 50.6 Sera’s Mercy}}{{ 304}}](#p304)
+  - [{{ 50.7 Mordain’s Sentinel}}{{ 305}}](#p305)
+  - [{{ 50.8 Fallen Champion}}{{ 306}}](#p306)
+- #### [{{ Chapter 51: Ancient and Prophetic Beings}}{{ 308}}](#p308)
+  - [{{ 51.1 Ancient Guardian}}{{ 308}}](#p308)
+  - [{{ 51.2 Prophecy Keeper}}{{ 309}}](#p309)
+  - [{{ 51.3 Forgotten King}}{{ 310}}](#p310)
+  - [{{ 51.4 Herald of the Seven}}{{ 311}}](#p311)
+- #### [{{ Chapter 52: Corrupted and Cursed}}{{ 313}}](#p313)
+  - [{{ 52.1 Corruption Spawn}}{{ 313}}](#p313)
+  - [{{ 52.2 War-Twisted Soldier}}{{ 314}}](#p314)
+  - [{{ 52.3 Curse Bearer}}{{ 315}}](#p315)
 }}
+
 \page
 
 {{toc,wide
 
-- ### [{{ Part IX: Artifacts & Significant Items}}{{ 313}}](#p313)
-- #### [{{ Chapter 53: The World-Splitter™}}{{ 313}}](#p313)
-  - [{{ 53.1 The Complete World-Splitter}}{{ 313}}](#p313)
-  - [{{ 53.2 The Shadow Shard (First Component)}}{{ 315}}](#p315)
-  - [{{ 53.3 The Flame Heart (Second Component)}}{{ 316}}](#p316)
-  - [{{ 53.4 The Void Fragment (Third Component)}}{{ 317}}](#p317)
-  - [{{ 53.5 The Stone Crown (Fourth Component)}}{{ 318}}](#p318)
-  - [{{ 53.6 The Storm Eye (Fifth Component)}}{{ 319}}](#p319)
-  - [{{ 53.7 The Sacred Oaths}}{{ 320}}](#p320)
-  - [{{ 53.8 The Danger of Reunification}}{{ 321}}](#p321)
-- #### [{{ Chapter 54: Royal Regalia and Symbols of Office}}{{ 322}}](#p322)
-  - [{{ 54.1 The Pre-Worldrend High King’s Regalia}}{{ 322}}](#p322)
-  - [{{ 54.2 Thaldros Royal Regalia}}{{ 323}}](#p323)
-  - [{{ 54.3 Aethorian Symbols of Leadership}}{{ 324}}](#p324)
-  - [{{ 54.4 Noble House Heirlooms}}{{ 325}}](#p325)
-  - [{{ 54.5 Faction Authority Symbols}}{{ 326}}](#p326)
-- #### [{{ Chapter 55: Weapons of Legend}}{{ 327}}](#p327)
-  - [{{ 55.1 Holy and Blessed Weapons}}{{ 327}}](#p327)
-  - [{{ 55.2 Royal and Noble Weapons}}{{ 328}}](#p328)
-  - [{{ 55.3 Weapons of Shadow and Vengeance}}{{ 330}}](#p330)
-  - [{{ 55.4 Weapons of Nature and Forest}}{{ 332}}](#p332)
-  - [{{ 55.5 Weapons of Shadow Organizations}}{{ 333}}](#p333)
-  - [{{ 55.6 Amulets and Magical Foci}}{{ 334}}](#p334)
-- #### [{{ Chapter 56: Cursed Items}}{{ 335}}](#p335)
-  - [{{ 56.1 The Dread King’s Crown}}{{ 335}}](#p335)
-  - [{{ 56.2 Lord Pembroke’s Signet Ring}}{{ 335}}](#p335)
-- #### [{{ Chapter 57: Objects of Power}}{{ 336}}](#p336)
-  - [{{ 57.1 Items of Justice and Authority}}{{ 336}}](#p336)
-  - [{{ 57.2 Items of Prophecy and Knowledge}}{{ 337}}](#p337)
-  - [{{ 57.3 Faction-Specific Items}}{{ 338}}](#p338)
-  - [{{ 57.4 Items of the Undead}}{{ 340}}](#p340)
-  - [{{ 57.5 Items of Ice and Winter}}{{ 340}}](#p340)
-  - [{{ 57.6 Items of Protection}}{{ 341}}](#p341)
-  - [{{ 57.7 Recognition and Honor Items}}{{ 342}}](#p342)
-- #### [{{ Chapter 58: Lost and Sought Items}}{{ 343}}](#p343)
-  - [{{ 58.1 Items Lost Beneath the Waves}}{{ 343}}](#p343)
-  - [{{ 58.2 Items of Ancient Evil}}{{ 343}}](#p343)
-  - [{{ 58.3 Items of the Pre-Worldrend Era}}{{ 343}}](#p343)
-  - [{{ 58.4 Items of Legendary Heroes}}{{ 344}}](#p344)
-  - [{{ 58.5 Items Hidden by Design}}{{ 344}}](#p344)
-- #### [{{ Chapter 59: Legends and Myths}}{{ 345}}](#p345)
-  - [{{ 59.1 The Seven Before They Ascended}}{{ 345}}](#p345)
-  - [{{ 59.2 Tales of Heroes Past}}{{ 345}}](#p345)
-  - [{{ 59.3 Cautionary Tales}}{{ 345}}](#p345)
-  - [{{ 59.4 Origin Myths}}{{ 345}}](#p345)
-  - [{{ 59.5 Prophecies and Foretelling}}{{ 345}}](#p345)
-- #### [{{ Chapter 60: Military Leaders}}{{ 346}}](#p346)
-  - [{{ 60.1 Lord Commander Gareth Lightbane}}{{ 346}}](#p346)
-  - [{{ 60.2 Admiral Theron Stormcrest}}{{ 347}}](#p347)
-  - [{{ 60.3 Commander Kael Stormwatcher}}{{ 349}}](#p349)
-  - [{{ 60.4 Sergeant Brenna Iceheart}}{{ 350}}](#p350)
-  - [{{ 60.5 Scout Captain Finn Quickfoot}}{{ 350}}](#p350)
-  - [{{ 60.6 Warden Commander Ignis Ashborn}}{{ 351}}](#p351)
-  - [{{ 60.7 Warden Commander Thalia Moonbow}}{{ 351}}](#p351)
-  - [{{ 60.8 Commander Torvald Stoneshield}}{{ 352}}](#p352)
-  - [{{ 60.9 Captain Thalia Lightbringer}}{{ 353}}](#p353)
-  - [{{ 60.10 Captain Lyra Swiftwind}}{{ 354}}](#p354)
-  - [{{ 60.11 Captain Mira Wavecrest}}{{ 355}}](#p355)
-  - [{{ 60.12 Captain Borin Stoneshield}}{{ 355}}](#p355)
-  - [{{ 60.13 Captain Brenna Frostbeard}}{{ 356}}](#p356)
-  - [{{ 60.14 Commander Helena Blackstone}}{{ 357}}](#p357)
-- #### [{{ Chapter 61: Faction Leaders}}{{ 359}}](#p359)
-  - [{{ 61.1 Trade Prince Lucian Goldfingers (Merchant League)}}{{ 359}}](#p359)
-  - [{{ 61.2 Master Crimson (Shadow Syndicate)}}{{ 360}}](#p360)
-  - [{{ 61.3 Grand Warden Volcanus Rex (Ashwardens)}}{{ 360}}](#p360)
-  - [{{ 61.4 Archmage Veridian Starweaver (The Arcanum)}}{{ 361}}](#p361)
-  - [{{ 61.5 Guildmaster Roderic Ironfist (Iron Guild)}}{{ 362}}](#p362)
-  - [{{ 61.6 Garrick “Ironheart” Hammerfist (Smiths’ Guild)}}{{ 363}}](#p363)
-  - [{{ 61.7 Archdruid Silvaris Oakenheart}}{{ 364}}](#p364)
-  - [{{ 61.8 Elder Council Mother Talia Vinehart}}{{ 364}}](#p364)
-  - [{{ 61.9 Patriarch Zircon Crystalborn (House Crystalborn)}}{{ 365}}](#p365)
-  - [{{ 61.10 Matriarch Seraphina Silverleaf (The Ancient Elf)}}{{ 366}}](#p366)
-  - [{{ 61.11 Elder Thalindra Oakheart}}{{ 367}}](#p367)
-  - [{{ 61.12 Elder Rashid the Twice-Blessed}}{{ 368}}](#p368)
-- #### [{{ Chapter 62: Kaer Thandros NPCs}}{{ 370}}](#p370)
-  - [{{ 62.1 The Royal Family}}{{ 370}}](#p370)
-  - [{{ 62.2 Military Leadership}}{{ 370}}](#p370)
-  - [{{ 62.3 Government Officials}}{{ 371}}](#p371)
-  - [{{ 62.4 Religious Leaders}}{{ 372}}](#p372)
-  - [{{ 62.5 Watch and Security}}{{ 373}}](#p373)
-  - [{{ 62.6 Guild Leaders and Craftsmen}}{{ 373}}](#p373)
-  - [{{ 62.7 Court Figures}}{{ 374}}](#p374)
-  - [{{ 62.8 Criminal Elements}}{{ 374}}](#p374)
-- #### [{{ Chapter 63: Silverpine NPCs}}{{ 375}}](#p375)
-  - [{{ 63.1 House Silverleaf Leadership}}{{ 375}}](#p375)
-  - [{{ 63.2 University Faculty}}{{ 378}}](#p378)
-  - [{{ 63.3 City Officials}}{{ 379}}](#p379)
-  - [{{ 63.4 Guild Leaders}}{{ 379}}](#p379)
-  - [{{ 63.5 Information Brokers and Underworld}}{{ 380}}](#p380)
-  - [{{ 63.6 Religious and Druidic Leaders}}{{ 381}}](#p381)
-  - [{{ 63.7 The Forest Guard}}{{ 381}}](#p381)
-- #### [{{ Chapter 64: Goldreach NPCs}}{{ 382}}](#p382)
-  - [{{ 64.1 House Goldshore Leadership}}{{ 382}}](#p382)
-  - [{{ 64.2 Harbor and Maritime Officials}}{{ 383}}](#p383)
-  - [{{ 64.3 Guild Leaders}}{{ 383}}](#p383)
-  - [{{ 64.4 Merchant League Presence}}{{ 384}}](#p384)
-  - [{{ 64.5 Pirates and Criminals}}{{ 384}}](#p384)
-  - [{{ 64.6 Banking and Finance}}{{ 384}}](#p384)
-- #### [{{ Chapter 65: Historical and Legendary Figures}}{{ 385}}](#p385)
-  - [{{ 65.1 Pre-Worldrend Figures}}{{ 385}}](#p385)
-  - [{{ 65.2 Post-Worldrend Founders and Heroes}}{{ 386}}](#p386)
-  - [{{ 65.3 Historical Monarchs and Lords}}{{ 389}}](#p389)
-  - [{{ 65.4 Scholars and Sages}}{{ 390}}](#p390)
-  - [{{ 65.5 Ancient Dragons}}{{ 391}}](#p391)
-  - [{{ 65.6 The Circle of Seven (Worldrend Perpetrators)}}{{ 394}}](#p394)
+- ### [{{ Part IX: Artifacts & Significant Items}}{{ 317}}](#p317)
+- #### [{{ Chapter 53: The World-Splitter™}}{{ 317}}](#p317)
+  - [{{ 53.1 The Complete World-Splitter}}{{ 317}}](#p317)
+  - [{{ 53.2 The Shadow Shard (First Component)}}{{ 319}}](#p319)
+  - [{{ 53.3 The Flame Heart (Second Component)}}{{ 320}}](#p320)
+  - [{{ 53.4 The Void Fragment (Third Component)}}{{ 321}}](#p321)
+  - [{{ 53.5 The Stone Crown (Fourth Component)}}{{ 323}}](#p323)
+  - [{{ 53.6 The Storm Eye (Fifth Component)}}{{ 324}}](#p324)
+  - [{{ 53.7 The Sacred Oaths}}{{ 325}}](#p325)
+  - [{{ 53.8 The Danger of Reunification}}{{ 325}}](#p325)
+- #### [{{ Chapter 54: Royal Regalia and Symbols of Office}}{{ 326}}](#p326)
+  - [{{ 54.1 The Pre-Worldrend High King’s Regalia}}{{ 326}}](#p326)
+  - [{{ 54.2 Thaldros Royal Regalia}}{{ 327}}](#p327)
+  - [{{ 54.3 Aethorian Symbols of Leadership}}{{ 328}}](#p328)
+  - [{{ 54.4 Noble House Heirlooms}}{{ 329}}](#p329)
+  - [{{ 54.5 Faction Authority Symbols}}{{ 330}}](#p330)
+- #### [{{ Chapter 55: Weapons of Legend}}{{ 331}}](#p331)
+  - [{{ 55.1 Holy and Blessed Weapons}}{{ 331}}](#p331)
+  - [{{ 55.2 Royal and Noble Weapons}}{{ 332}}](#p332)
+  - [{{ 55.3 Weapons of Shadow and Vengeance}}{{ 334}}](#p334)
+  - [{{ 55.4 Weapons of Nature and Forest}}{{ 336}}](#p336)
+  - [{{ 55.5 Weapons of Shadow Organizations}}{{ 337}}](#p337)
+  - [{{ 55.6 Amulets and Magical Foci}}{{ 338}}](#p338)
+- #### [{{ Chapter 56: Cursed Items}}{{ 339}}](#p339)
+  - [{{ 56.1 The Dread King’s Crown}}{{ 339}}](#p339)
+  - [{{ 56.2 Lord Pembroke’s Signet Ring}}{{ 339}}](#p339)
+- #### [{{ Chapter 57: Objects of Power}}{{ 340}}](#p340)
+  - [{{ 57.1 Items of Justice and Authority}}{{ 340}}](#p340)
+  - [{{ 57.2 Items of Prophecy and Knowledge}}{{ 341}}](#p341)
+  - [{{ 57.3 Faction-Specific Items}}{{ 342}}](#p342)
+  - [{{ 57.4 Items of the Undead}}{{ 344}}](#p344)
+  - [{{ 57.5 Items of Ice and Winter}}{{ 344}}](#p344)
+  - [{{ 57.6 Items of Protection}}{{ 345}}](#p345)
+  - [{{ 57.7 Recognition and Honor Items}}{{ 346}}](#p346)
+- #### [{{ Chapter 58: Lost and Sought Items}}{{ 347}}](#p347)
+  - [{{ 58.1 Items Lost Beneath the Waves}}{{ 347}}](#p347)
+  - [{{ 58.2 Items of Ancient Evil}}{{ 347}}](#p347)
+  - [{{ 58.3 Items of the Pre-Worldrend Era}}{{ 347}}](#p347)
+  - [{{ 58.4 Items of Legendary Heroes}}{{ 348}}](#p348)
+  - [{{ 58.5 Items Hidden by Design}}{{ 348}}](#p348)
+- #### [{{ Chapter 59: Legends and Myths}}{{ 349}}](#p349)
+  - [{{ 59.1 The Seven Before They Ascended}}{{ 349}}](#p349)
+  - [{{ 59.2 Tales of Heroes Past}}{{ 349}}](#p349)
+  - [{{ 59.3 Cautionary Tales}}{{ 349}}](#p349)
+  - [{{ 59.4 Origin Myths}}{{ 349}}](#p349)
+  - [{{ 59.5 Prophecies and Foretelling}}{{ 349}}](#p349)
+- #### [{{ Chapter 60: Military Leaders}}{{ 350}}](#p350)
+  - [{{ 60.1 Lord Commander Gareth Lightbane}}{{ 350}}](#p350)
+  - [{{ 60.2 Admiral Theron Stormcrest}}{{ 351}}](#p351)
+  - [{{ 60.3 Commander Kael Stormwatcher}}{{ 353}}](#p353)
+  - [{{ 60.4 Sergeant Brenna Iceheart}}{{ 354}}](#p354)
+  - [{{ 60.5 Scout Captain Finn Quickfoot}}{{ 354}}](#p354)
+  - [{{ 60.6 Warden Commander Ignis Ashborn}}{{ 355}}](#p355)
+  - [{{ 60.7 Warden Commander Thalia Moonbow}}{{ 356}}](#p356)
+  - [{{ 60.8 Commander Torvald Stoneshield}}{{ 356}}](#p356)
+  - [{{ 60.9 Captain Thalia Lightbringer}}{{ 357}}](#p357)
+  - [{{ 60.10 Captain Lyra Swiftwind}}{{ 358}}](#p358)
+  - [{{ 60.11 Captain Mira Wavecrest}}{{ 359}}](#p359)
+  - [{{ 60.12 Captain Borin Stoneshield}}{{ 360}}](#p360)
+  - [{{ 60.13 Captain Brenna Frostbeard}}{{ 360}}](#p360)
+  - [{{ 60.14 Commander Helena Blackstone}}{{ 361}}](#p361)
+- #### [{{ Chapter 61: Faction Leaders}}{{ 363}}](#p363)
+  - [{{ 61.1 Trade Prince Lucian Goldfingers (Merchant League)}}{{ 363}}](#p363)
+  - [{{ 61.2 Master Crimson (Shadow Syndicate)}}{{ 364}}](#p364)
+  - [{{ 61.3 Grand Warden Volcanus Rex (Ashwardens)}}{{ 364}}](#p364)
+  - [{{ 61.4 Archmage Veridian Starweaver (The Arcanum)}}{{ 365}}](#p365)
+  - [{{ 61.5 Guildmaster Roderic Ironfist (Iron Guild)}}{{ 366}}](#p366)
+  - [{{ 61.6 Garrick “Ironheart” Hammerfist (Smiths’ Guild)}}{{ 367}}](#p367)
+  - [{{ 61.7 Archdruid Silvaris Oakenheart}}{{ 368}}](#p368)
+  - [{{ 61.8 Elder Council Mother Talia Vinehart}}{{ 369}}](#p369)
+  - [{{ 61.9 Patriarch Zircon Crystalborn (House Crystalborn)}}{{ 369}}](#p369)
+  - [{{ 61.10 Matriarch Seraphina Silverleaf (The Ancient Elf)}}{{ 370}}](#p370)
+  - [{{ 61.11 Elder Thalindra Oakheart}}{{ 371}}](#p371)
+  - [{{ 61.12 Elder Rashid the Twice-Blessed}}{{ 372}}](#p372)
+- #### [{{ Chapter 62: Kaer Thandros NPCs}}{{ 374}}](#p374)
+  - [{{ 62.1 The Royal Family}}{{ 374}}](#p374)
+  - [{{ 62.2 Military Leadership}}{{ 374}}](#p374)
+  - [{{ 62.3 Government Officials}}{{ 375}}](#p375)
+  - [{{ 62.4 Religious Leaders}}{{ 376}}](#p376)
+  - [{{ 62.5 Watch and Security}}{{ 377}}](#p377)
+  - [{{ 62.6 Guild Leaders and Craftsmen}}{{ 377}}](#p377)
+  - [{{ 62.7 Court Figures}}{{ 378}}](#p378)
+  - [{{ 62.8 Criminal Elements}}{{ 379}}](#p379)
+- #### [{{ Chapter 63: Silverpine NPCs}}{{ 380}}](#p380)
+  - [{{ 63.1 House Silverleaf Leadership}}{{ 380}}](#p380)
+  - [{{ 63.2 University Faculty}}{{ 383}}](#p383)
+  - [{{ 63.3 City Officials}}{{ 384}}](#p384)
+  - [{{ 63.4 Guild Leaders}}{{ 384}}](#p384)
+  - [{{ 63.5 Information Brokers and Underworld}}{{ 385}}](#p385)
+  - [{{ 63.6 Religious and Druidic Leaders}}{{ 386}}](#p386)
+  - [{{ 63.7 The Forest Guard}}{{ 386}}](#p386)
+- #### [{{ Chapter 64: Goldreach NPCs}}{{ 387}}](#p387)
+  - [{{ 64.1 House Goldshore Leadership}}{{ 387}}](#p387)
+  - [{{ 64.2 Harbor and Maritime Officials}}{{ 388}}](#p388)
+  - [{{ 64.3 Guild Leaders}}{{ 388}}](#p388)
+  - [{{ 64.4 Merchant League Presence}}{{ 389}}](#p389)
+  - [{{ 64.5 Pirates and Criminals}}{{ 389}}](#p389)
+  - [{{ 64.6 Banking and Finance}}{{ 389}}](#p389)
+- #### [{{ Chapter 65: Historical and Legendary Figures}}{{ 390}}](#p390)
+  - [{{ 65.1 Pre-Worldrend Figures}}{{ 390}}](#p390)
+  - [{{ 65.2 Post-Worldrend Founders and Heroes}}{{ 391}}](#p391)
+  - [{{ 65.3 Historical Monarchs and Lords}}{{ 394}}](#p394)
+  - [{{ 65.4 Scholars and Sages}}{{ 395}}](#p395)
+  - [{{ 65.5 Ancient Dragons}}{{ 396}}](#p396)
+  - [{{ 65.6 The Circle of Seven (Worldrend Perpetrators)}}{{ 400}}](#p400)
 }}
+
 \page
 
 {{toc,wide
-
-- #### [{{ Chapter 66: Miscellaneous NPCs}}{{ 395}}](#p395)
-  - [{{ 66.1 Artisans and Craftsmen}}{{ 395}}](#p395)
-  - [{{ 66.2 Religious Figures}}{{ 398}}](#p398)
-  - [{{ 66.3 Information Brokers and Criminals}}{{ 399}}](#p399)
-  - [{{ 66.4 Maritime Characters}}{{ 403}}](#p403)
-  - [{{ 66.5 Scholars and Seers}}{{ 404}}](#p404)
-  - [{{ 66.6 Law Enforcement and Military}}{{ 405}}](#p405)
-  - [{{ 66.7 Mentors and Elders}}{{ 407}}](#p407)
-  - [{{ 66.8 Specialists and Researchers}}{{ 408}}](#p408)
-  - [{{ 66.9 Revolutionaries and Organizers}}{{ 411}}](#p411)
-  - [{{ 66.10 Scouts and Hunters}}{{ 412}}](#p412)
-  - [{{ 66.11 Spies and Operatives}}{{ 414}}](#p414)
-- ### [{{ Part X: Appendices}}{{ 416}}](#p416)
-- #### [{{ Appendix A: Glossary of Terms}}{{ 416}}](#p416)
-- #### [{{ Appendix B: Languages of Tirvandor}}{{ 416}}](#p416)
-- #### [{{ Appendix C: Currency and Economics}}{{ 416}}](#p416)
-- #### [{{ Appendix D: Heraldry and Symbols}}{{ 416}}](#p416)
-- #### [{{ Appendix E: Timeline Quick Reference}}{{ 416}}](#p416)
-- #### [{{ Appendix F: Character Index}}{{ 416}}](#p416)
-- #### [{{ Appendix G: Location Index}}{{ 416}}](#p416)
-- #### [{{ Appendix H: Faction Index}}{{ 416}}](#p416)
-- #### [{{ Appendix I: Cross-Reference Guide}}{{ 417}}](#p417)
-- #### [{{ Appendix J: Hidden Lore and Historical Secrets}}{{ 417}}](#p417)
-  - [{{ J.1 The Seven Bound Ancients}}{{ 417}}](#p417)
-  - [{{ J.2 Bound Corruption}}{{ 418}}](#p418)
-  - [{{ J.3 The Circle of Seven and Their Legacy}}{{ 418}}](#p418)
-  - [{{ J.4 The Blackwood Conspiracy}}{{ 418}}](#p418)
-  - [{{ J.5 Dragon Infernalix}}{{ 419}}](#p419)
-  - [{{ J.6 The Salvage Wars Secrets}}{{ 419}}](#p419)
-  - [{{ J.7 Historical Mysteries}}{{ 419}}](#p419)
-- #### [{{ Legal Notice}}{{ 421}}](#p421)
-- #### [{{ Open Game Content Exclusion}}{{ 421}}](#p421)
-- #### [{{ Document Information}}{{ 421}}](#p421)
-- #### [{{ Index}}{{ 422}}](#p422)
+- #### [{{ Chapter 66: Miscellaneous NPCs}}{{ 401}}](#p401)
+  - [{{ 66.1 Artisans and Craftsmen}}{{ 401}}](#p401)
+  - [{{ 66.2 Religious Figures}}{{ 405}}](#p405)
+  - [{{ 66.3 Information Brokers and Criminals}}{{ 406}}](#p406)
+  - [{{ 66.4 Maritime Characters}}{{ 410}}](#p410)
+  - [{{ 66.5 Scholars and Seers}}{{ 410}}](#p410)
+  - [{{ 66.6 Law Enforcement and Military}}{{ 412}}](#p412)
+  - [{{ 66.7 Mentors and Elders}}{{ 414}}](#p414)
+  - [{{ 66.8 Specialists and Researchers}}{{ 415}}](#p415)
+  - [{{ 66.9 Revolutionaries and Organizers}}{{ 418}}](#p418)
+  - [{{ 66.10 Scouts and Hunters}}{{ 419}}](#p419)
+  - [{{ 66.11 Spies and Operatives}}{{ 421}}](#p421)
+- ### [{{ Part X: Appendices}}{{ 423}}](#p423)
+- #### [{{ Appendix A: Glossary of Terms}}{{ 423}}](#p423)
+- #### [{{ Appendix B: Languages of Tirvandor}}{{ 423}}](#p423)
+- #### [{{ Appendix C: Currency and Economics}}{{ 423}}](#p423)
+- #### [{{ Appendix D: Heraldry and Symbols}}{{ 423}}](#p423)
+- #### [{{ Appendix E: Timeline Quick Reference}}{{ 423}}](#p423)
+- #### [{{ Appendix F: Character Index}}{{ 423}}](#p423)
+- #### [{{ Appendix G: Location Index}}{{ 423}}](#p423)
+- #### [{{ Appendix H: Faction Index}}{{ 423}}](#p423)
+- #### [{{ Appendix I: Cross-Reference Guide}}{{ 424}}](#p424)
+- #### [{{ Appendix J: Hidden Lore and Historical Secrets}}{{ 424}}](#p424)
+  - [{{ J.1 The Seven Bound Ancients}}{{ 424}}](#p424)
+  - [{{ J.2 Bound Corruption}}{{ 425}}](#p425)
+  - [{{ J.3 The Circle of Seven and Their Legacy}}{{ 425}}](#p425)
+  - [{{ J.4 The Blackwood Conspiracy}}{{ 425}}](#p425)
+  - [{{ J.5 Dragon Infernalix}}{{ 426}}](#p426)
+  - [{{ J.6 The Salvage Wars Secrets}}{{ 426}}](#p426)
+  - [{{ J.7 Historical Mysteries}}{{ 427}}](#p427)
+- #### [{{ Legal Notice}}{{ 428}}](#p428)
 }}
 
 
@@ -7016,13 +7020,13 @@ Thornmire Concordat is cooperative but not without friction:
 
 -   Some advocate for formal unification; others defend independence
 
-For now, cooperation outweighs conflict. External pressure from Thaldros
-encourages internal unity. But the alliance is voluntary, and any member
-could theoretically withdraw.
-
 {{pageNumber,auto}}
 {{footnote Chapter 18: The Aethorian Harmony}}
 \page
+
+For now, cooperation outweighs conflict. External pressure from Thaldros
+encourages internal unity. But the alliance is voluntary, and any member
+could theoretically withdraw.
 
 ### 18.8 Current Challenges
 
@@ -7061,7 +7065,7 @@ insult, each trade dispute reminds Aethorians that they cannot match
 western power in conventional terms. Some advocate for building a real
 army. Others insist that abandoning Aethorian principles to oppose
 Thaldros would mean Thaldros had already won.
-
+\column
 **Generational Tension**
 
 The very long lives of elves create an unusual problem. Elders who
@@ -7069,8 +7073,6 @@ remember events from centuries ago hold power and influence. Younger
 generations---still young after a century---feel stifled by those who
 refuse to adapt to changed circumstances. This tension plays out in
 debates about everything from foreign policy to local regulations.
-
-\column
 
 Human and half-elf populations feel this more acutely. They see
 opportunities closing because elven decision-making operates on
@@ -39266,12 +39268,14 @@ negotiations secret.
 
 5\. **The Depth Pact:** During the kraken battle, Theron made a pact
 with a merfolk community. They provide intelligence about underwater
-threats; he protects them from surface vessels. If other nobles learned
-he's allied with "fish people," it would be scandal.
+threats; he protects them from surface vessels. If other nobles 
 
 {{pageNumber,auto}}
 {{footnote Chapter 60: Military Leaders}}
 \page
+
+learned
+he's allied with "fish people," it would be scandal.
 
 6\. **The Personal Loss:** Theron has a daughter he's never met---born
 of an affair decades ago. He pays support through intermediaries but has
@@ -39398,13 +39402,12 @@ commanders think they're alone in their deception.
 territory---something they fear. They're getting nervous, and nervous
 giants might break the pact.
 
-5\. **The Succession Question:** Giant King Hrothgar is aging. His heir
-is aggressive and wants war, not peace. The entire arrangement might not
-
 {{pageNumber,auto}}
 {{footnote Chapter 60: Military Leaders}}
 \page
 
+5\. **The Succession Question:** Giant King Hrothgar is aging. His heir
+is aggressive and wants war, not peace. The entire arrangement might not
 survive the transition.
 
 #### Story Potential
@@ -39508,7 +39511,7 @@ traitor.
 
 ### 60.5 Scout Captain Finn Quickfoot
 
-![60.5 Scout Captain Finn Quickfoot](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-scout-captain-finn-quickfoot.jpg){width:200px,float:right,margin:5px}
+
 
 
 **Title:** Scout Captain
@@ -39524,12 +39527,7 @@ traitor.
 **Threat Level:** Dangerous scout and infiltrator. Expert at surviving
 where larger warriors fail.
 
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
-
 #### Physical Description
-
 
 Small even for a halfling, which has saved his life more times than he
 can count. Light on his feet, quick to hide, and possessed of an uncanny
@@ -39540,7 +39538,15 @@ ability to move unseen through territory that kills larger soldiers.
 
 Born to a halfling trading family that traveled between Crossvale and
 the Ironspine settlements. Grew up on the road, learning to read trails
-before he could read books. His small size and light feet made him
+before he could read 
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
+![60.5 Scout Captain Finn Quickfoot](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-scout-captain-finn-quickfoot.jpg){width:200px,float:right,margin:5px}
+
+books. His small size and light feet made him
 perfect for scouting dangerous territory.
 
 Enlisted in the Ironhold scouts at twenty-five---unusual for a halfling.
@@ -39648,16 +39654,16 @@ decades, but when it does, nothing will stop it.
 -   **The Mountain:** The volcano itself---his lifelong study and
     greatest threat.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 #### Secrets
 
 
 1\. **The Big One Coming:** Has mathematical proof of eventual
 catastrophic eruption. Hasn't told anyone in authority because they
 ordered him to stay silent.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 2\. **The Secret Plans:** Developing evacuation routes that could save
 most of the population---if there's enough warning.
@@ -39777,14 +39783,16 @@ defenses. Experienced giant diplomat.
 
 
 Powerfully built even for a dwarf, with a left hand that's a runic
-magical prosthetic (lost the original to a frost giant's axe). His
-armor bears the runes of his family, passed down for eight generations.
-Carries "Mountain's Voice," an ancestral warhammer that resonates
-with thunder.
+magical prosthetic (lost the original to a 
 
 {{pageNumber,auto}}
 {{footnote Chapter 60: Military Leaders}}
 \page
+
+frost giant's axe). His
+armor bears the runes of his family, passed down for eight generations.
+Carries "Mountain's Voice," an ancestral warhammer that resonates
+with thunder.
 
 ![60.8 Commander Torvald Stoneshield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-torvald-stoneshield.jpg){width:200px,float:right,margin:5px}
 
@@ -39889,6 +39897,10 @@ natural authority---clearly someone accustomed to being obeyed.
 
 -   Makes direct eye contact, hard to look away.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 -   Touches her holy symbol when praying (often).
 
 -   Radiates warmth and hope.
@@ -39896,10 +39908,6 @@ natural authority---clearly someone accustomed to being obeyed.
 -   Quick to defend the innocent.
 
 -   Struggles visibly with moral gray areas.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 **Core Values:**
 
@@ -39973,7 +39981,7 @@ she claims no such ambition.
 
 -   **Weapon:** Wields "Dawnbreaker," the legendary holy sword of
     Paladin Radiant.
-\column
+
 #### Secrets
 
 
@@ -48007,23 +48015,23 @@ The following are designated as **Product Identity** under applicable intellectu
 
 {{index,wide,columns:5;
 ##### Index
-- Aelindra Aethermere, 199
+- Aelindra Aethermere, 202
 - Aethermere
-  - profile, 151
-  - history, 188
-  - also 19, 22, 40, 57
+  - profile, 155
+  - history, 191
+  - also 19, 22, 40, 58
 - Aethor, The Liberator
   - profile, 45
-  - also 44, 46, 48, 52
-- Aethor's Liberator, 297
+  - also 46, 48, 52, 53
+- Aethor's Liberator, 301
 - Aethoria
-  - kingdom overview, 66
-  - noble houses, 82
-  - political power, 102
-- The Aethorian Harmony, 102
-- Aethorian Militia, 279
-- Aethorian Resistance (creatures), 279
-- Aethos, 386
+  - kingdom overview, 68
+  - noble houses, 84
+  - political power, 104
+- The Aethorian Harmony, 104
+- Aethorian Militia, 283
+- Aethorian Resistance (creatures), 283
+- Aethos, 391
 - Age of Accord, 31
 - Age of Ambition, 42
 - Age of Dawn, 30
@@ -48032,416 +48040,410 @@ The following are designated as **Product Identity** under applicable intellectu
 - Age of Recovery, 40
 - Age of Strife, 32
 - Age of Tyrants, 33
-- Alden Swiftfoot, 403
+- Alden Swiftfoot, 409
 - Aldric IV Thandris
-  - profile, 197
-  - in Kaer Thandros, 370
-  - also 216, 235, 319, 328
-- Aldric the Chain-Breaker, 387
-- Aldric the Wise, 385
-- Aldrick Woodwise, 408
-- Aldris Goldshore III, 382
+  - profile, 200
+  - in Kaer Thandros, 374
+  - also 219, 237, 323, 332
+- Aldric the Chain-Breaker, 392
+- Aldric the Wise, 390
+- Aldrick Woodwise, 415
+- Aldris Goldshore III, 387
 - Aldris Goldshore IV
-  - profile, 216
-  - in Goldreach, 382
-- Ancient Guardian, 304
-- Aramil Starwarden, 408
+  - profile, 219
+  - in Goldreach, 387
+- Ancient Guardian, 308
+- Aramil Starwarden, 415
 - Arannis Silverleaf
-  - profile, 230
-  - in Silverpine, 376
+  - profile, 232
+  - in Silverpine, 381
 - Arcane Revolution, 42
 - The Arcanum
-  - profile, 121
-  - also 122, 123, 124, 127
-- Arcanus the Undying, 237
-- Arcturus, 390
-- Aria Crystalborn, 157
-- The Artificers' Consortium, 108
-- Ascended-Touched, 295
-- The Ash Prophet, 244
-- Ashfall Barrens, 169
+  - profile, 123
+  - also 124, 125, 126, 130
+- Arcanus the Undying, 240
+- Arcturus, 395
+- Aria Crystalborn, 88
+- The Artificers' Consortium, 110
+- Ascended-Touched, 299
+- The Ash Prophet, 247
+- Ashfall Barrens, 172
 - Ashgate
-  - profile, 150
-  - history, 187
-- The Ashgate Undercity, 194
-- Azaril Starlight, 109
+  - profile, 153
+  - history, 190
+- The Ashgate Undercity, 197
+- Azaril Starlight, 110
 - Barrett
-  - profile, 251
-  - profile, 407
-- Before Worldrend (BW), 25
+  - profile, 254
+  - profile, 414
+- Before Worldrend (BW), 27
 - Black Archive, the
   - library, 47
-  - sacred site, 196
-  - also 146
-- Blessed Paladin, 295
-- Blooming (month), 25
-- Bog Witch, the, 162
-- The Border, 167
-- Border Bandit, 257
-- Border Creatures, 257
-- Border Marches, the, 72
-- Border Wraith, 260
-- Borin Stonecutter, 398
+  - sacred site, 124
+  - also 149
+- Blessed Paladin, 299
+- Blooming (month), 26
+- Bog Witch, the, 166
+- The Border, 170
+- Border Bandit, 260
+- Border Creatures, 260
+- Border Marches, the, 74
+- Border Wraith, 263
+- Borin Stonecutter, 404
 - Borin Stoneshield
-  - leader profile, 355
-  - in Kaer Thandros, 373
-- Bound Ancients
-  - chapter on, 304
-  - also 35, 134, 195, 227
-- Brenna Frostbeard, 356
-- Brenna Iceheart, 350
-- Broken Crown (Conflict), 93
-- Calendar (BW/CR), 25
-- Caspian Goldshore, 391
-- Cassandra Vantress, 374
-- Celeste
-  - in Silverpine, 380
-  - profile, 399
-- Celestia Starborn, 208
-- Celestine, 386
-- Celestine the Healer, 388
-- Central Heartlands, 168
-- Chain Breaker Monk, 283
-- The Circle of Eight, 124
-- Citadel of Oaths, 44
-- Colony-Mind K'Thrax, 409
-- Common Reckoning (CR), 25
-- Contested Land Elemental, 261
-- Contested Lands, the
-  - region overview, 17
-  - kingdom chapter, 72
-  - also 16, 65, 196, 225
-- Contract Killer, 291
-- Cornelius
-  - in Silverpine, 379
-  - historical figure, 390
-- Cornelius Goldpurse, 396
-- Corrupted and Cursed, 309
-- Corruption Spawn, 309
-- Corvus Blackwood
-  - profile, 232
-  - also 131, 132, 135, 141
-- Crimson
-  - profile, 227
-  - profile, 240
-  - profile, 243
   - leader profile, 360
-- The Crimson Order, 130
+  - in Kaer Thandros, 377
+- Bound Ancients
+  - chapter on, 308
+  - also 35, 137, 198, 229
+- Brenna Frostbeard, 360
+- Brenna Iceheart, 354
+- Broken Crown (Conflict), 95
+- Calendar (BW/CR), 25
+- Caspian Goldshore, 397
+- Cassandra Vantress, 378
+- Celeste
+  - in Silverpine, 385
+  - profile, 406
+- Celestia Starborn, 211
+- Celestine, 391
+- Celestine the Healer, 393
+- Central Heartlands, 171
+- Chain Breaker Monk, 287
+- The Circle of Eight, 126
+- Citadel of Oaths, 44
+- Colony-Mind K'Thrax, 416
+- Common Reckoning (CR), 25
+- Contested Land Elemental, 264
+- Contested Lands, the
+  - region overview, 16
+  - kingdom chapter, 74
+  - also 66, 199, 227, 229
+- Contract Killer, 295
+- Cornelius
+  - in Silverpine, 384
+  - historical figure, 395
+- Cornelius Goldpurse, 402
+- Corrupted and Cursed, 313
+- Corruption Spawn, 313
+- Corvus Blackwood
+  - profile, 234
+  - also 134, 135, 138, 144
+- Crimson
+  - profile, 229
+  - profile, 243
+  - profile, 246
+  - leader profile, 364
+- The Crimson Order, 133
 - Crossvale
-  - profile, 148
-  - history, 185
+  - profile, 151
+  - history, 188
 - Crystalbrook
-  - profile, 156
-  - history, 190
-- The Crystalbrook Compact, 103
-- Crystalvale, 171
+  - profile, 159
+  - history, 193
+- The Crystalbrook Compact, 105
+- Crystalvale, 174
 - Cultural Geography, 17
-- Curse Bearer, 311
+- Curse Bearer, 315
 - Darkening (month), 26
 - Davos Goldshore
-  - profile, 218
-  - profile, 226
-  - profile, 240
-  - in Goldreach, 383
-- Deep Frontier, the, 72
+  - profile, 221
+  - profile, 228
+  - profile, 243
+  - in Goldreach, 388
+- Deep Frontier, the, 74
 - Deep Trenches, the, 10
 - Deepwinter (month), 26
 - Divine Silence, the, 33
-- Dragon Hegemony, 28
-- Dragon Infernalix, 236
-- Dragon Morveth, 241
-- The Dread King, 239
-- The Dread King's Crown, 335
-- Drowned Fortune (Conflict), 95
+- Dragon Hegemony, 27
+- Dragon Infernalix, 238
+- Dragon Morveth, 244
+- The Dread King, 242
+- The Dread King's Crown, 339
+- Drowned Fortune (Conflict), 97
 - Durgan Forgefire
-  - profile, 226
-  - in Kaer Thandros, 373
-- Durgan Ironforge, 387
-- Durin Ironforge, 210
+  - profile, 228
+  - in Kaer Thandros, 377
+- Durgan Ironforge, 392
+- Durin Ironforge, 213
 - Dwarven Delving, the, 30
-- Elanil Aethermere, 204
+- Elanil Aethermere, 207
 - Elara Moonwhisper
-  - profile, 228
-  - in Silverpine, 378
-  - profile, 404
+  - profile, 230
+  - in Silverpine, 383
+  - profile, 410
 - Elara Silverleaf
-  - profile, 220
-  - in Silverpine, 377
-- Elara Thandris, 370
-- Elaris Starweaver
-  - Archmagister, Starfall, 155
-  - also, 156
-  - also, 190
+  - profile, 224
+  - in Silverpine, 382
+- Elara Thandris, 374
+- Elaris Starweaver, 85
 - Eldrin Aethermere
-  - profile, 207
-  - profile, 228
-- Elena Ravencroft, 402
-- Elenaris Starweaver, 154
-- Elindra Starborn, 165
-- Ember (Fire Priestess), 151
-- Emberthorn the Defiant, 389
-- Emerald Deeps & Brightwater Valley, 172
-- Erenna, 372
-- Ezra (Death Speaker), 119
-- The Faceless Assassin, 243
-- Fallen Champion, 302
-- Festival Days, 27
+  - profile, 210
+  - profile, 230
+- Elena Ravencroft, 408
+- Elenaris Starweaver, 157
+- Elindra Starborn, 168
+- Ember (Fire Priestess), 154
+- Emberthorn the Defiant, 394
+- Emerald Deeps & Brightwater Valley, 175
+- Erenna, 376
+- Ezra (Death Speaker), 122
+- The Faceless Assassin, 246
+- Fallen Champion, 306
+- Festival Days, 25
 - Finn Quickfoot
-  - profile, 225
-  - leader profile, 350
-  - profile, 412
-- Finnegan Storyteller, 413
+  - profile, 227
+  - leader profile, 354
+  - profile, 419
 - First Elven Kingdom, 30
 - First Planar Incursions, 32
-- The Flame Heart, 316
-- Forgotten King, 306
-- The Forgotten Monastery, 134
-- Forgotten Ones, the, 55
-- Founder's Day, 27
-- Fractured Coast & Singing Fens, 172
-- The Free Cities Alliance, 100
-- Frost Witch of Iceridge, the, 127
+- The Flame Heart, 320
+- Forgotten King, 310
+- The Forgotten Monastery, 137
+- Forgotten Ones, the, 56
+- Founder's Day, 26
+- Fractured Coast & Singing Fens, 175
+- The Free Cities Alliance, 102
+- Frost Witch of Iceridge, the, 129
 - Frostfall (month), 26
 - Frostmarch (month), 25
-- Frostmarches, 166
-- Galen Sustainharvest, 412
+- Frostmarches, 169
+- Galen Sustainharvest, 419
 - Gareth Lightbane
-  - leader profile, 346
-  - in Kaer Thandros, 372
-- Gareth Woodwise, 379
-- Garrett Ironhelm, 406
+  - leader profile, 350
+  - in Kaer Thandros, 376
+- Gareth Woodwise, 384
+- Garrett Ironhelm, 412
 - Garrick "Ironheart" Hammerfist
-  - Iron Guild mercenary, 294
-  - leader profile, 363
-- General's Champion, 275
+  - Iron Guild mercenary, 298
+  - leader profile, 367
+- General's Champion, 279
 - Geography, 10
-- Giant Kingdoms, 29
-- Goldcoast, 168
+- Giant Kingdoms, 27
+- Goldcoast, 171
 - Goldenfall (month), 26
 - Goldreach
-  - profile, 146
-  - history, 184
-  - also 18, 19, 63, 78
-- Goldreach Vault 13, 194
-- Goldweaver, Merchant Prince, 165
+  - profile, 149
+  - history, 187
+  - also 18, 19, 20, 64
+- Goldreach Vault 13, 197
+- Goldweaver, Merchant Prince, 168
 - The Grave Wardens
-  - profile, 118
-  - profile, 136
-  - also 119, 120, 137
+  - profile, 120
+  - profile, 139
+  - also 121, 122, 140
 - Great Dying, the, 34
 - Great Library of Silverpine, 31
 - The Green Circle
-  - profile, 115
-  - profile, 136
-  - also 57, 116, 117, 137
-- Green Lady, the, 154
-- Green Man, the, 127
-- Green Mother, the, 160
+  - profile, 117
+  - profile, 139
+  - also 58, 118, 119, 140
+- Green Lady, the, 157
+- Green Man, the, 129
+- Green Mother, the, 163
 - Gregor Ironhand
-  - profile, 252
-  - in Kaer Thandros, 373
-  - profile, 405
-- Greta Ironhand, 374
-- Grizelda Mudfoot, 403
-- The Guardian of Thresholds, 409
-- Guerrilla Commander, 284
-- Guild Enforcer, 290
-- Guild Recruit, 288
-- Guildmaster's Elite, 293
-- Gundren Ironforge, 395
-- Hall of Broken Chains, 45
+  - profile, 255
+  - in Kaer Thandros, 377
+  - profile, 412
+- Greta Ironhand, 378
+- Grizelda Mudfoot, 410
+- The Guardian of Thresholds, 415
+- Guerrilla Commander, 288
+- Guild Enforcer, 294
+- Guild Recruit, 292
+- Guildmaster's Elite, 297
+- Gundren Ironforge, 401
+- Hall of Broken Chains, 46
 - Hall of Final Rest, 50
 - Hall of Ten Thousand Roads, 48
-- Harvest (month), 26
+- Harvest (month), 12
 - Harvest Moon, 26
-- Hassan, 253
-- Haunted Battlefield, 266
-- Helena Blackstone, 357
-- Helena Duskmere, 401
-- Herald of the Seven, 307
+- Hassan, 256
+- Haunted Battlefield, 270
+- Helena Blackstone, 361
+- Helena Duskmere, 407
+- Herald of the Seven, 311
 - Highsun (month), 26
 - Holidays and Festivals, 26
 - House Aethermere
-  - profile, 84
-  - also 93, 322
-- House Ashborne, 77
+  - profile, 86
+  - also 95, 326
+- House Ashborne, 79
 - House Blackwood
-  - profile, 75
-  - also 37, 76, 97, 131
-- House Brightwater, 89
+  - profile, 77
+  - also 38, 78, 100, 134
+- House Brightwater, 91
 - House Crystalborn
-  - profile, 85
-  - also 78, 90, 95, 103
-- House Emberthorn, 80
+  - profile, 87
+  - also 80, 92, 97, 105
+- House Emberthorn, 82
 - House Goldshore
-  - profile, 78
-  - also 38, 41, 86, 95
-- House Heartwood, 79
-- House Ironforge, 74
+  - profile, 80
+  - also 38, 41, 88, 97
+- House Heartwood, 81
+- House Ironforge, 76
 - House of Endless Mercy, 49
-- House Seawatch, 80
+- House Seawatch, 83
 - House Silverleaf
-  - profile, 76
-  - also 77, 83, 184, 366
-- House Splittide, 88
+  - profile, 78
+  - also 80, 85, 158, 187
+- House Splittide, 90
 - House Starweaver
-  - profile, 82
-  - also 83, 96, 155, 189
-- House Stonefist, 78
+  - profile, 84
+  - also 85, 158, 193, 231
+- House Stonefist, 81
 - House Thandris
-  - profile, 73
-  - also 74, 76, 78, 79
-- House Thornveil, 86
-- House Verdantheart, 88
-- House Windwhisper, 87
-- Hrothgar (Frost Giant King), 371
+  - profile, 75
+  - also 76, 78, 80, 87
+- House Thornveil, 88
+- House Verdantheart, 90
+- House Windwhisper, 89
+- Hrothgar (Frost Giant King), 217
 - Human Emergence, the, 31
-- Ignis Ashborn, 351
-- Infernalix, 391
-- Iron Crown Knight, 276
-- The Iron Crown Knights, 136
-- Iron Guild Captain, 292
+- Ignis Ashborn, 355
+- Infernalix, 396
+- Iron Crown Knight, 280
+- The Iron Crown Knights, 139
+- Iron Guild Captain, 296
 - Iron Guild Mercenaries (chapter)
-  - chapter, 288
-  - also 292, 294, 326, 362
-- The Iron Hand, 256
-- Iron Legion Enforcer, 270
+  - chapter, 292
+  - also 296, 298, 330, 366
+- The Iron Hand, 259
+- Iron Legion Enforcer, 274
 - Ironhold
-  - profile, 144
-  - also 127, 349, 350, 363
-- Ironspine Holds, 166
+  - profile, 147
+  - also 129, 353, 354, 401
+- Ironspine Holds, 169
 - Island Chains, 10
 - Kael, The Wanderer, 47
-- Kael Dragonsbane, 412
-- Kael Ironforge, 395
-- Kael Stormwatcher, 349
-- Kael Voidwhisper, 242
-- Kaelen Shadowleaf, 415
+- Kael Dragonsbane, 419
+- Kael Ironforge, 401
+- Kael Stormwatcher, 353
+- Kael Voidwhisper, 245
 - Kaer Thandros
-  - profile, 143
-  - history, 182
-  - also 12, 18, 41, 60
-- Katrina Ashfall, 411
-- Keeper Bloodlines, 134
-- Khalid, 230
-- Korvan Steelhand, 407
+  - profile, 146
+  - history, 185
+  - also 12, 18, 41, 61
+- Katrina Ashfall, 418
+- Keeper Bloodlines, 137
+- Khalid, 232
+- Korvan Steelhand, 413
 - Leafdrop (month), 26
-- Legends and Myths, 345
+- Legends and Myths, 349
 - Ley Line Corruption, 24
 - Ley Line Nexuses, 22
 - Ley Lines
   - magic system, 22
   - nexuses, 22
   - corruption, 24
-- The Liberator, 285
+- The Liberator, 289
 - The Lightbringers
-  - profile, 113
-  - profile, 136
-  - also 57, 114, 115, 119
-- Lighthouse of Hope, 45
-- Lord Commander Varius, 277
-- Lord Pembroke's Signet Ring, 335
+  - profile, 115
+  - profile, 139
+  - also 58, 116, 117, 121
+- Lighthouse of Hope, 46
+- Lord Commander Varius, 281
+- Lord Pembroke's Signet Ring, 339
 - Lucian Goldfingers
-  - profile, 221
-  - profile, 226
-  - leader profile, 359
-  - in Goldreach, 384
-- Lumina Starweaver, 190
-- Lydia Shadowstep, 402
+  - profile, 224
+  - profile, 228
+  - leader profile, 363
+  - in Goldreach, 389
+- Lumina Starweaver, 85
+- Lydia Shadowstep, 408
 - Lyra Swiftwind
-  - profile, 231
-  - leader profile, 354
-  - in Silverpine, 379
-- Lyrian Crystal, 208
+  - profile, 233
+  - leader profile, 358
+  - in Silverpine, 384
+- Lyrian Crystal, 211
 - Magic System, the, 22
-- Magnus Ironroot, 411
-- Major Cities, 143
-- Malthus, 227
-- Malthus Voidcaller, 238
-- Mara Thandris, 370
-- Mara, Smuggler Queen, 162
-- Marcus, 399
-- Marcus Frontiersman, 414
-- Marcus Marshborn, 162
-- Marcus Thandris, 370
-- Marcus Vrell, 254
-- Marcus, High Inquisitor, 115
-- Marian, 398
-- Maric Thornveil, 161
+- Magnus Ironroot, 418
+- Major Cities, 146
+- Malthus, 229
+- Malthus Voidcaller, 240
+- Mara Thandris, 374
+- Mara, Smuggler Queen, 166
+- Marcus, 405
+- Marcus Marshborn, 166
+- Marcus Thandris, 374
+- Marcus Vrell, 257
+- Marcus, High Inquisitor, 116
+- Marian, 405
+- Maric Thornveil, 88
 - Marshaven
-  - profile, 160
-  - history, 191
-- Marta Goodbarrel, 251
+  - profile, 164
+  - history, 194
+- Marta Goodbarrel, 254
 - Marthos Thandris
-  - profile, 215
-  - profile, 225
-  - profile, 242
-  - in Kaer Thandros, 371
-  - also 65
+  - profile, 218
+  - profile, 227
+  - profile, 245
+  - in Kaer Thandros, 375
+  - also 66
 - The Merchant League
-  - profile, 106
-  - also 69, 137, 138, 139
-- Merchant-Prince Kael Icewind, 397
-- Merrick the Wise, 393
+  - profile, 108
+  - also 71, 140, 141, 142
+- Merchant-Prince Kael Icewind, 403
+- Merrick the Wise, 398
 - Midsummer Celebration, 26
-- Mira Silvervein, 379
-- Mira Wavecrest, 355
-- Miranda Ashwood, 401
+- Mira Silvervein, 384
+- Mira Wavecrest, 359
+- Miranda Ashwood, 407
 - Miranda Questseeker
-  - profile, 229
-  - profile, 249
-- Mistwood Reaches, 171
+  - profile, 231
+  - profile, 252
+- Mistwood Reaches, 174
 - Moira, The Weaver, 46
-- Moira's Seer, 298
+- Moira's Seer, 302
 - Monster Resurgence, 41
-- Mordain, The Sentinel, 49
-- Mordain's Sentinel, 301
+- Mordain, The Sentinel, 50
+- Mordain's Sentinel, 305
 - Morgana Blackwater
-  - profile, 219
-  - profile, 241
-- Morganna, 390
-- Morganna Whisperwind, 410
-- Morticia Ravenholt, 119
+  - profile, 223
+  - profile, 244
+- Morganna, 396
+- Morganna Whisperwind, 417
+- Morticia Ravenholt, 120
 - Mortua
-  - profile, 239
-  - profile, 399
-- The Nexus of Seven Sorrows, 194
+  - profile, 242
+  - profile, 405
+- The Nexus of Seven Sorrows, 197
 - Night of Remembrance, the, 26
-- The Northern Guard, 136
-- The Northern Kingdoms, 99
-- Obsidian Hand (Master Carver), 151
-- The Obsidian Spire, 194
-- Palace Port, 192
-- Pearl Diver, the, 158
-- People's Champion, 281
-- Pip, 255
-- Poison Prince, the, 219
+- The Northern Guard, 139
+- The Northern Kingdoms, 101
+- Obsidian Hand (Master Carver), 154
+- The Obsidian Spire, 197
+- Palace Port, 195
+- Pearl Diver, the, 162
+- People's Champion, 285
+- Pip, 258
+- Poison Prince, the, 222
 - Port Myrthen
-  - profile, 163
-  - history, 191
-- Pre-Worldrend Conflicts, 91
+  - profile, 166
+  - history, 195
+- Pre-Worldrend Conflicts, 93
 - Primordials, the
-  - chapter, 53
-  - six known, 53
-  - cults, 54
-  - also 28, 29, 37, 196
-- Prophecy Keeper, 305
-- Prophesied Hero, 286
-- Radiant the First Paladin, 388
-- Rashid Al-Sahir, 223
-- Rashid Ashborne, 212
-- Rashid the Twice-Blessed, 368
+  - chapter, 54
+  - six known, 54
+  - cults, 55
+  - also 28, 29, 37, 199
+- Prophecy Keeper, 309
+- Prophesied Hero, 290
+- Radiant the First Paladin, 393
+- Rashid Al-Sahir, 226
+- Rashid Ashborne, 215
+- Rashid the Twice-Blessed, 372
 - Raven's Keep
-  - ruined seat of House Blackwood, 75
-  - history, 183
-  - Arcanus's lair, 237
-  - also 177, 233, 235, 315
-- Reaching Claws, the, 72
+  - ruined seat of House Blackwood, 38
+  - history, 186
+  - Arcanus's lair, 240
+  - also 77, 180, 235, 237
+- Reaching Claws, the, 74
 - Reaping (month), 26
 - Reconnection, the, 40
-- Red Shadow, the, 151
-- Refugee Mob, 262
-- Regional Deities, 55
+- Red Shadow, the, 154
+- Refugee Mob, 265
+- Regional Deities, 56
 }}
 
 {{pageNumber,auto}}
@@ -48449,233 +48451,230 @@ The following are designated as **Product Identity** under applicable intellectu
 \page
 
 {{index,wide,columns:5;
-- Religious Structures, 56
-- Renewal (month), 25
-- Resistance Fighter, 280
-- Revolutionary Mage, 282
-- The Riftmaw, 195
+- Religious Structures, 58
+- Renewal (month), 26
+- Resistance Fighter, 284
+- Revolutionary Mage, 286
+- The Riftmaw, 198
 - Roads and Trade Routes, 18
 - Roderic Ironfist
-  - leader profile, 362
-  - in Goldreach, 383
-- Rothgar, Grand Duke, 374
-- Royal Guard Elite, 271
-- Ryldak the Ancient, 391
-- Sacred Sites, 196
-- Salvage Fleet Battle, 40
-- The Sand Prophet, 224
-- The Scarlet Knife, 392
-- Scavenger Ghoul, 263
-- Sera, The Healer, 48
-- Sera Emberthorn, 151
-- Sera Myrthen, 165
-- Sera's Mercy, 300
-- Seraphina Silverleaf
   - leader profile, 366
-  - in Silverpine, 378
-  - historical figure, 386
-- Seraphina Thalia Lightbringer, 372
-- Seraphine Silverleaf, 375
-- Serenity, 394
+  - in Goldreach, 388
+- Rothgar, Grand Duke, 378
+- Royal Guard Elite, 275
+- Ryldak the Ancient, 396
+- Sacred Sites, 199
+- Salvage Fleet Battle, 40
+- The Sand Prophet, 227
+- The Scarlet Knife, 398
+- Scavenger Ghoul, 266
+- Sera, The Healer, 48
+- Sera Emberthorn, 82
+- Sera Myrthen, 167
+- Sera's Mercy, 304
+- Seraphina Silverleaf
+  - leader profile, 370
+  - in Silverpine, 383
+  - historical figure, 391
+- Seraphina Thalia Lightbringer, 376
+- Seraphine Silverleaf, 380
+- Serenity, 399
 - Serina Goldshore
-  - profile, 217
-  - in Goldreach, 383
-- Settlement Histories, 182
+  - profile, 220
+  - in Goldreach, 388
+- Settlement Histories, 185
 - Seven Ascended, the
   - pantheon, 43
   - council, 43
-  - legends, 345
+  - legends, 349
 - Seven's Day, the, 27
-- The Shadow Shard, 315
+- The Shadow Shard, 319
 - The Shadow Syndicate
-  - profile, 110
-  - also 139, 141, 194, 227
-- Shadowleaf, 414
-- Shaelis the Whisperer, 56
-- Siege Golem, 274
+  - profile, 112
+  - also 142, 144, 197, 229
+- Shaelis the Whisperer, 57
+- Siege Golem, 278
 - Silas the Fence
-  - profile, 254
-  - in Kaer Thandros, 374
-  - profile, 399
-- Silvanus, 231
+  - profile, 257
+  - in Kaer Thandros, 379
+  - profile, 406
+- Silvanus, 233
 - Silvanus Brightforge
-  - in Silverpine, 379
-  - profile, 396
+  - in Silverpine, 384
+  - profile, 402
 - Silvaris Oakenheart
-  - profile, 223
-  - leader profile, 364
+  - profile, 226
+  - leader profile, 368
 - The Silver Circle
-  - profile, 132
-  - also 24, 123, 129, 133
+  - profile, 136
+  - also 24, 125, 132, 138
 - Silverpine
-  - profile, 145
-  - history, 183
+  - profile, 148
+  - history, 186
   - also 12, 18, 22, 47
-- Silverwood, 167
-- Singing Stones, the, 196
+- Silverwood, 170
+- Singing Stones, the, 23
 - Singing Waters, the, 10
-- Smuggler Captain, 258
-- Southern Region, 169
+- Smuggler Captain, 261
+- Southern Region, 172
 - Spring of Restoration, 49
 - Spring Renewal Festival, 26
 - Starfall
-  - profile, 154
-  - history, 189
-- Starwood, 170
-- State Inquisitor, 272
-- Stolen Relic (Conflict), 96
-- The Stone Crown, 318
-- Stoneforge, Grandmaster Elara, 109
+  - profile, 157
+  - history, 192
+- Starwood, 173
+- State Inquisitor, 276
+- Stolen Relic (Conflict), 95
+- The Stone Crown, 323
+- Stoneforge, Grandmaster Elara, 111
 - Storm Belts, the, 10
-- The Storm Eye, 319
+- The Storm Eye, 324
 - Sundara
-  - profile, 149
-  - history, 186
-- The Sundaran Clans, 101
-- Sundaran Expanse, 169
-- Sundered Bloodline (Conflict), 91
+  - profile, 152
+  - history, 189
+- The Sundaran Clans, 103
+- Sundaran Expanse, 172
+- Sundered Bloodline (Conflict), 93
 - Sundering Sea
   - geographic profile, 10
-  - also 12, 23, 38, 53
-- Sylara Windchaser, 226
-- Sylvan, Archdruid, 159
+  - also 23, 38, 39, 54
+- Sylara Windchaser, 228
+- Sylvan, Archdruid, 163
 - Sylvara, The Wild
   - profile, 51
-  - also 26, 52, 115, 299
-- Sylvara's Wild Hunter, 299
-- Talia Quicksilver, 109
-- Talia Vinehart, 364
-- Tempest Stormcrest, 221
-- Temple of the Void Saints, 196
-- Territorial Drake, 264
-- Thaddeus Blackstone, 151
+  - also 26, 52, 58, 117
+- Sylvara's Wild Hunter, 303
+- Talia Quicksilver, 112
+- Talia Vinehart, 369
+- Tempest Stormcrest, 225
+- Temple of the Void Saints, 199
+- Territorial Drake, 267
+- Thaddeus Blackstone, 154
 - Thaelon Starlight
-  - Prince Consort, 201
-  - Council Elder, 206
-  - also, 376
-- Thaldros Conscript, 268
-- Thaldros Military (creatures), 268
-- Thaldros Soldier, 269
+  - Prince Consort, 203
+  - Council Elder, 204
+- Thaldros Conscript, 272
+- Thaldros Military (creatures), 272
+- Thaldros Soldier, 273
 - Thaldros, Kingdom of
-  - kingdom overview, 60
-  - noble houses, 73
-  - political power, 99
-- Thalia Lightbringer, 353
+  - kingdom overview, 61
+  - noble houses, 75
+  - political power, 101
+- Thalia Lightbringer, 357
 - Thalia Moonbow
-  - leader profile, 351
-  - in Silverpine, 381
+  - leader profile, 356
+  - in Silverpine, 386
 - Thalindra Oakheart
-  - leader profile, 367
-  - historical figure, 386
-- Thandris V, 389
+  - leader profile, 371
+  - historical figure, 391
+- Thandris V, 394
 - Thandros, The Lawbringer
   - profile, 44
   - also 12, 18, 38, 41
-- Thandros' Justicar, 296
+- Thandros' Justicar, 300
 - Thawing (month), 25
 - Thelmar Runescribe
-  - profile, 228
-  - in Kaer Thandros, 372
-- Therin Quicksilver, 108
+  - profile, 230
+  - in Kaer Thandros, 376
+- Therin Quicksilver, 110
 - Theron
-  - profile, 244
-  - historical figure, 385
+  - profile, 247
+  - historical figure, 390
 - Theron Aethermere
-  - Chosen Heir, 154
-  - succession, 189
-  - Aethermere royal, 206
+  - Aethermere royal, 69
+  - Chosen Heir, 192
 - Theron Stormcrest
-  - leader profile, 347
-  - in Goldreach, 383
-  - profile, 403
-- Theron Westmarch, 165
-- Theros Coinwright, 384
-- Thordak Lavaheart, 397
-- Thorin I Thandris, 386
+  - leader profile, 351
+  - in Goldreach, 388
+  - profile, 410
+- Theron Westmarch, 168
+- Theros Coinwright, 389
+- Thordak Lavaheart, 403
+- Thorin I Thandris, 391
 - Thorin Thandris
-  - profile, 202
-  - in Kaer Thandros, 370
-- Thorna Ironprice, 406
-- Thornbark, 381
-- Thorne "The Butcher", 400
-- Thorne, Grave Warden Commander, 119
-- The Thornmire Concordat, 104
-- Thornmire Marches, 173
+  - profile, 205
+  - in Kaer Thandros, 374
+- Thorna Ironprice, 413
+- Thornbark, 386
+- Thorne "The Butcher", 406
+- Thorne, Grave Warden Commander, 121
+- The Thornmire Concordat, 106
+- Thornmire Marches, 176
 - Thrain Ironoak
-  - profile, 214
-  - in Kaer Thandros, 370
-- Three Days of Destruction, 36
-- Tobias Gearwise, 405
+  - profile, 217
+  - in Kaer Thandros, 374
+- Three Days of Destruction, 35
+- Tobias Gearwise, 411
 - Tobias Saltwind
-  - profile, 252
-  - in Goldreach, 383
+  - profile, 255
+  - in Goldreach, 388
 - Tormund
-  - in Kaer Thandros, 372
-  - profile, 399
-- Torren, Salvage Master, 158
-- Torvald Stoneshield, 352
-- Towns and Regional Settlements, 166
+  - in Kaer Thandros, 376
+  - profile, 405
+- Torren, Salvage Master, 162
+- Torvald Stoneshield, 356
+- Towns and Regional Settlements, 169
 - Trade Winds, the, 10
 - Tremont
-  - profile, 255
-  - profile, 408
+  - profile, 258
+  - profile, 414
 - Twelve Months, the, 25
 - The Twilight Court
-  - profile, 125
-  - also 126, 140, 142
+  - profile, 127
+  - also 128, 143, 145
 - Twin Rebellions, 42
 - The Unbound
-  - profile, 131
-  - also 132, 135, 141, 178
+  - profile, 134
+  - also 135, 138, 144, 181
 - Unexplored Regions, 17
-- The Unseen Hand, 128
-- Valentin Rothgar, 371
+- The Unseen Hand, 131
+- Valentin Rothgar, 375
 - Valley of Bones, 50
-- Verdant Wall & Split Peninsula, 173
-- Veridian Runereader, 404
+- Verdant Wall & Split Peninsula, 176
+- Veridian Runereader, 411
 - Veridian Starweaver
-  - profile, 229
-  - leader profile, 361
-  - in Silverpine, 378
-- Veteran Mercenary, 289
-- Vex, 225
+  - profile, 231
+  - leader profile, 365
+  - in Silverpine, 383
+- Veteran Mercenary, 293
+- Vex, 227
 - Vex Darkwater
-  - in Goldreach, 384
-  - profile, 403
-- Vexis Shadowmaw, 227
-- Victoria Seastone, 165
-- Viktor Coldstone, 405
-- The Void Fragment, 317
-- Volcanus Rex, 360
-- Vorthane the Conqueror, 55
-- The Wandering Tower, 195
-- War Beast, 265
-- War Mage of Thaldros, 273
-- War-Scarred Veteran, 259
-- War-Twisted Soldier, 310
-- Western Region, 167
+  - in Goldreach, 389
+  - profile, 410
+- Vexis Shadowmaw, 229
+- Victoria Seastone, 168
+- Viktor Coldstone, 412
+- The Void Fragment, 321
+- Volcanus Rex, 364
+- Vorthane the Conqueror, 56
+- The Wandering Tower, 198
+- War Beast, 269
+- War Mage of Thaldros, 277
+- War-Scarred Veteran, 262
+- War-Twisted Soldier, 314
+- Western Region, 170
 - Whisper
-  - profile, 227
-  - profile, 400
-- The Whispering Void, 245
-- Wildgrove, 159
-- Wilhelm Von Handel, 253
-- Winter Solstice, 27
+  - profile, 229
+  - profile, 406
+- The Whispering Void, 248
+- Wildgrove, 162
+- Wilhelm Von Handel, 256
+- Winter Solstice, 26
 - Wizard Wars, the, 32
 - World-Splitter, the
   - during Worldrend, 37
-  - artifact chapter, 313
-  - also 38, 76, 131, 132
+  - artifact chapter, 317
+  - also 38, 78, 134, 135
 - Worldrend, the
   - event chapter, 35
-  - Three Days of Destruction, 36
+  - Three Days of Destruction, 35
   - theories on the cause, 37
   - aftermath, 39
   - also 9, 10, 23, 24
-- Yasmin, 404
+- Yasmin, 410
 - Zalthar the Undying, 33
-- Zara, 255
-- Zircon Crystalborn, 365
+- Zara, 258
+- Zircon Crystalborn, 369
 }}
 {{pageNumber,auto}}
 {{footnote Index}}
