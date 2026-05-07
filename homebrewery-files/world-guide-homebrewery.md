@@ -28125,7 +28125,7 @@ too far. The cause is just, but innocent people have died in Unbound
 operations. He suppresses these thoughts, but they're growing stronger
 with each civilian casualty.
 
-4\. **The Daughter:** Has a daughter he's never met. now 19 years old.
+4\. **The Daughter:** Has a daughter he's never met. Now 19 years old.
 Her mother fled when she discovered what Marcus had become. The
 daughter, Sera Thornwood, is now a paladin of Aethor actively hunting
 the Unbound. Malthus has been secretly protecting her from a distance,
