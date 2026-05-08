@@ -4395,7 +4395,7 @@ d20 Roll | Encounter
 15 | Merchant prince's bodyguards testing security, aggressive
 16 | Syndicate operative conducting "business" in alley, notices party
 17 | Cargo ship attacked by pirates in harbor, crew needs rescue
-18 | Merchant caravandisappears, merchant offers reward for investigation
+18 | Merchant caravan disappears, merchant offers reward for investigation
 19 | Warehouse contains illegal goods, guards won't let anyone near
 20 | Assassination attempt on merchant prince in crowded market
 

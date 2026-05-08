@@ -11226,7 +11226,7 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 
 **PCs can request almost anything:** ::
 - Pardon for past crimes
-- Ressurect dead allies
+- Resurrect dead allies
 - Hunt down specific enemies
 - Change specific laws
 - Free specific prisoners
