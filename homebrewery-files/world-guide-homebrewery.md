@@ -743,7 +743,7 @@ All political structures and organizational hierarchies
 ### 1.1 World Summary
 
 
-Tirvandor™ is a world divided---two great continents separated by the
+Tirvandor™ is a world divided: two great continents separated by the
 Sundering Sea™, each representing fundamentally different philosophies
 of civilization and magic. In the west lies Thaldros™, a militaristic
 empire built on order, central authority, and feudal tradition. In the
@@ -751,7 +751,7 @@ east sprawls Aethoria™, a confederation of free cities and ancient
 forests where independence, democratic ideals, and harmony with nature
 reign supreme.
 
-Between these continental powers stretch the Contested Lands---war-torn
+Between these continental powers stretch the Contested Lands, war-torn
 frontiers where neither power holds sway, and adventurers find both
 opportunity and danger in equal measure. The current year is 1247 CR
 (Common Reckoning), with Year 0 marking the catastrophic Worldrend™ that
@@ -776,15 +776,15 @@ complexity, and morally gray choices. Heroes are not always virtuous,
 villains may possess legitimate grievances, and every decision carries
 weight that echoes through time.
 
-**Natural Magic:** Magic flows through ley lines---ancient channels of
+**Natural Magic:** Magic flows through ley lines, ancient channels of
 power that crisscross the world like invisible rivers beneath the earth.
 Where these lines intersect, they create nodes of particular power.
 Spellcasters who understand these currents can amplify their abilities,
 though the lines also create areas of wild magic and unpredictable
 effects that have shaped civilization's development.
 
-**Political Intrigue:** The great powers of Tirvandor---kingdoms, noble
-houses, merchant guilds, and secret societies---all pursue their own
+**Political Intrigue:** The great powers of Tirvandor (kingdoms, noble
+houses, merchant guilds, and secret societies) all pursue their own
 agendas with ruthless determination. Webs of alliance and betrayal
 connect every center of power, and the actions of individuals can
 reshape the political landscape of nations.
@@ -813,7 +813,7 @@ profound.
 The vast ocean that separates the two continents of Tirvandor serves as
 both highway and barrier between worlds. Ancient mariners claim it was
 created in a cataclysm millennia ago when the continents were torn apart
-by warring primordial forces---an event now known as the Worldrend. The
+by warring primordial forces, an event now known as the Worldrend. The
 waters run deep, prone to violent storms, and unpredictable in ways that
 command respect from sailors and fear from the superstitious.
 
@@ -871,12 +871,12 @@ has made it a prize worth fighting over throughout history.
 
 **Western Haven** has earned its reputation as a pirate haven and
 smuggler's port, where those who operate outside the law find
-sanctuary---for the right price.
+sanctuary—for the right price.
 
 #### The Drifting Chain (Central Archipelago)
 
 The islands between Thaldros and Aethoria are crucial for maritime trade
-and have developed their own distinct culture---a unique blend of
+and have developed their own distinct culture, a unique blend of
 eastern and western influences that belongs wholly to neither continent.
 
 {{pageNumber,auto}}
@@ -939,7 +939,7 @@ though few expeditions return with concrete evidence.
 
 
 The Western Continent, called Thaldros by its inhabitants, is a land of
-dramatic contrasts---snow-capped mountains give way to arid deserts,
+dramatic contrasts. Snow-capped mountains give way to arid deserts,
 which transition into temperate woodlands. The continent bears scars of
 ancient conflicts, with ruins dotting the landscape and ley lines
 running through its heart like veins of magical power.
@@ -962,7 +962,7 @@ tundra, and frozen coastline dominate a landscape of harsh beauty. The
 aurora borealis dances in winter skies, and 
 
 locals claim they can hear
-voices in the lights---the souls of great warriors, they say, singing
+voices in the lights: the souls of great warriors, they say, singing
 from beyond.
 
 The climate is arctic to sub-arctic, with extreme cold that tests the
@@ -972,7 +972,7 @@ and the rare but terrifying white dragon. Yet the Frostmarches offer
 valuable resources: furs, walrus ivory, ice crystals with magical
 properties, and whale oil for lamps and heating.
 
-The population remains very sparse---only the hardiest humans and
+The population remains very sparse; only the hardiest humans and
 goliaths make their homes here. The people of the Frostmarches are
 survivors above all else. They hunt seals, fish through ice holes, and
 trade furs and ivory with southern merchants. Communities are tight-knit
@@ -1004,7 +1004,7 @@ extraordinary purity.
 
 Dwarven culture dominates the Ironspine. Clan loyalty supersedes all
 other bonds, and craftsmanship is considered the highest calling. The
-great halls of the dwarven holds are wonders of engineering---cities
+great halls of the dwarven holds are wonders of engineering: cities
 carved from living stone where the sound of hammers on anvils never ceases. Non-dwarves are tolerated in 
 
 {{pageNumber,auto}}
@@ -1049,7 +1049,7 @@ respect its power.
 The Silverwood is an ancient forest of silver birch and oak trees, where
 dappled sunlight creates ever-shifting patterns on the forest floor.
 Unlike the wild forests of Aethoria, the Silverwood has been carefully
-managed for generations---thinned, cultivated, and respected by those
+managed for generations, thinned, cultivated, and respected by those
 who live within and around it. It is a place of beauty and tranquility,
 though old magic still runs deep beneath the roots.
 
@@ -1080,7 +1080,7 @@ Old Oak Circle, an ancient druid site marked by standing stones.
 #### The Heartlands (Central Plains)
 
 
-The Heartlands are the agricultural engine of Thaldros---endless fields
+The Heartlands are the agricultural engine of Thaldros, endless fields
 of grain, pastures dotted with livestock, and prosperous farming
 communities connected by well-maintained roads. This is the most
 "civilized" part of the continent, crisscrossed by trade routes and
@@ -1094,7 +1094,7 @@ manageable compared to the frontier regions. The resources are the
 foundation of Thaldrosian prosperity: grain, livestock, wool, leather,
 and processed food that feeds the entire continent.
 
-Heartland culture represents "normal" medieval life---feudal
+Heartland culture represents "normal" medieval life, feudal
 structure, seasonal rhythms dictated by farming, strong community bonds,
 and traditional values. People here are pragmatic and hardworking,
 somewhat provincial in outlook. They view mountain-dwellers as eccentric
@@ -1139,7 +1139,7 @@ trade goods from across the world, ships, and fish.
 Coastal culture is more cosmopolitan than inland Thaldros. Sailors bring
 news and exotic goods from distant lands, and the population includes
 immigrants from across Tirvandor. Locals are traders and
-sailors---practical, shrewd, and deeply superstitious about the sea.
+sailors: practical, shrewd, and deeply superstitious about the sea.
 Social mobility is higher here than elsewhere; wealth matters more than
 birth, and a clever merchant can rise higher than a minor noble.
 
@@ -1155,7 +1155,7 @@ unofficial smuggler haven.
 #### The Sundaran Expanse (Desert)
 
 
-The southern reaches of Thaldros transform into a vast desert---the
+The southern reaches of Thaldros transform into a vast desert, the
 Sundaran Expanse. Golden sand dunes stretch to the horizon, broken by
 rocky outcroppings and the occasional life-giving oasis. Beneath the
 sand lie the ruins of ancient civilizations that flourished before
@@ -1191,7 +1191,7 @@ valley floor of fused glass from some ancient cataclysm.
 #### The Ashfall Barrens (Volcanic Southeast)
 
 
-The southeastern region of Thaldros is a land of fire and ash---a
+The southeastern region of Thaldros is a land of fire and ash, a
 volcanic wasteland where the earth seethes with heat and the ground
 itself cannot be trusted. Active and dormant volcanoes dot the
 landscape, and rivers of lava create temporary lakes of molten rock that
@@ -1245,7 +1245,7 @@ Frontier mentality dominates here. People who settle in the Reaching Claws are r
 \page
 
 Everyone is armed, everyone is cautious, and everyone helps during
-monster attacks---because monsters are common enough that cooperation is
+monster attacks, because monsters are common enough that cooperation is
 survival.
 
 ### 2.4 Thaldros Climate Patterns
@@ -1254,7 +1254,7 @@ survival.
 Thaldros experiences distinct seasonal changes across its varied
 terrain. The Ironspine Mountains create a rain shadow effect that
 contributes significantly to the Sundaran Expanse's
-aridity---moisture-laden clouds from the sea drop their rain on the
+aridity, moisture-laden clouds from the sea drop their rain on the
 western slopes, leaving little for the lands beyond.
 
 The Heartlands receive moderate rainfall year-round, supporting the
@@ -1289,7 +1289,7 @@ Thornhaven
 
 Ancient forests of tremendous age where massive star-trees grow so tall
 their canopies seem to touch the heavens. The wood glows faintly at
-night, and celestial events have unusual effects here---meteor showers
+night, and celestial events have unusual effects here, meteor showers
 are brighter, eclipses last longer, and the stars themselves seem closer
 than they should be. The elves claim this is because the trees
 themselves are blessed by celestial forces.
@@ -1307,7 +1307,7 @@ live in harmony with the forest, building homes among the branches and
 on the forest floor. Outsiders are viewed with suspicion unless they
 show proper respect for nature. Decisions are made by consensus in elven
 councils, druids advise on matters affecting the natural world, and age
-grants authority---for elves can live over seven hundred years.
+grants authority, for elves can live over seven hundred years.
 
 **Major Settlements** include Starfall (population 6,500), an
 observatory city built in a meteor impact clearing where frequent meteor
@@ -1340,7 +1340,7 @@ The Crystalvale is cosmopolitan by Aethorian standards. Humans, elves,
 halflings, and others coexist peacefully, united by their reverence for
 water. 
 
-Water is central to life here---religiously, economically, and
+Water is central to life here: religiously, economically, and
 socially. Water mages practice their craft openly, and scrying services
 are a major export. People are generally friendly, educated, and
 sophisticated, governed by elected councils and powerful scrying guilds.
@@ -1358,7 +1358,7 @@ timelines.
 #### The Fractured Coast (Northwest Shore)
 
 The western shore of Aethoria is a broken coastline of islands, coves,
-and hidden bays---a maze of small islands, hidden coves, and treacherous
+and hidden bays, a maze of small islands, hidden coves, and treacherous
 reefs where thick fog is common and navigation treacherous. The region
 bears the scars of the Worldrend most clearly. This "fractured" nature
 makes it perfect for those seeking to hide, and pirates, smugglers, and
@@ -1376,7 +1376,7 @@ certain rocks.
 
 Communities here are insular and independent. Each island has its own
 culture, often distrusting even nearby islands. Piracy and smuggling are
-open secrets---most coastal towns have "arrangements" with
+open secrets, most coastal towns have "arrangements" with
 freebooters. Life is hard, and loyalty is to family and crew, not
 distant governments.
 
@@ -1488,7 +1488,7 @@ plants, exotic leathers, and swamp gas with alchemical applications.
 Swamp-dwellers are hardy, independent, and resourceful. Humans,
 lizardfolk, and others have adapted to the environment. They navigate by
 boat, build on stilts, and know which plants are edible versus deadly.
-Outsiders are viewed with suspicion---many who enter the swamp never
+Outsiders are viewed with suspicion, many who enter the swamp never
 leave.
 
 **Major Settlements** include Marshaven (population 8,000), a fortified
@@ -1577,7 +1577,7 @@ between law enforcement and protection racket can be academic.
 
 The southwestern badlands peninsula, where volcanic terrain and distance
 from Kaer Thandros make royal control impractical. Settlements here
-answer to whoever can enforce their will---which changes frequently.
+answer to whoever can enforce their will, which changes frequently.
 
 #### The Deep Frontier
 
@@ -1591,7 +1591,7 @@ The forest itself provides cover for those who wish to disappear.
 The transitional zone between the Heartlands and the Reaching Claws,
 where "frontier justice" is the norm and mercenary towns have sprung
 up to service those operating outside normal society. Crossroads
-(population 2,400) is the largest of these---a lawless mercenary town 
+(population 2,400) is the largest of these, a lawless mercenary town 
 at the junction of three trade routes, governed by the Iron Guild where
 violence is common but regulated.
 
@@ -1599,7 +1599,7 @@ violence is common but regulated.
 these regions under control, while frontier leaders resist
 centralization. This ongoing tension creates opportunities for
 mercenaries, adventurers, and those seeking to profit from
-instability---and ensures these regions remain dangerous but profitable
+instability, and ensures these regions remain dangerous but profitable
 for those bold enough to operate there.
 
 ### 2.8 Cultural Geography
@@ -1653,7 +1653,7 @@ other lost places. Various small islands remain uncharted on any map.
 
 These regions hold secrets, ancient ruins, lost civilizations, and
 dangers unknown to most inhabitants of Tirvandor. They represent both
-threat and opportunity---for those brave or foolish enough to venture
+threat and opportunity, for those brave or foolish enough to venture
 into the unknown.
 
 {{pageNumber,auto}}
@@ -1768,7 +1768,7 @@ isolated communities of the badland's peninsula.
 
 
 The eastern continent's road network reflects its different geography
-and culture---more emphasis on forest paths and causeways, fewer
+and culture, more emphasis on forest paths and causeways, fewer
 straight imperial highways.
 
 **The Greenway** is the primary forest road running from Aethermere
@@ -2022,7 +2022,7 @@ resupply points.
 
 
 The road network of Tirvandor represents one of civilization's greatest
-achievements---the binding together of distant communities into a
+achievements—the binding together of distant communities into a
 functioning whole. Yet even the best-maintained highway passes through
 wild country, and travelers who forget this truth often do not complete
 their journeys.
@@ -2062,7 +2062,7 @@ their journeys.
 ### 4.1 The Nature of Magic in Tirvandor
 
 
-Magic in Tirvandor is not merely a force to be commanded---it is woven
+Magic in Tirvandor is not merely a force to be commanded. It is woven
 into the very fabric of reality, flowing through the world like blood
 through a living body. This magical energy courses through channels
 called ley lines, invisible rivers of power that crisscross both
@@ -2070,7 +2070,7 @@ continents, run beneath the Sundering Sea, and connect to forces that
 predate mortal civilization.
 
 The world's magical saturation varies by region. Natural
-areas---ancient forests, untouched mountains, primordial swamps---tend
+areas, ancient forests, untouched mountains, primordial swamps, tend
 to have high magical saturation, their environments shaped over
 millennia by the energies flowing through them. Settled regions where
 civilization has taken root typically show moderate saturation, the
@@ -2081,7 +2081,7 @@ flow may be disrupted, weakened, or twisted into something dangerous.
 Those trained in the arcane arts perceive ley lines as faint threads of
 luminous energy, visible only to those who know how to look. Druids and
 rangers, attuned to the natural world, sense them as part of the
-landscape itself---as natural and obvious as the flow of water downhill.
+landscape itself, as natural and obvious as the flow of water downhill.
 For ordinary folk, ley lines remain invisible, though their effects
 shape daily life in countless subtle ways.
 
@@ -2092,7 +2092,7 @@ shape daily life in countless subtle ways.
 
 
 Ley lines are ancient channels of magical energy that run beneath the
-surface of Tirvandor. Their origins are debated---some scholars believe
+surface of Tirvandor. Their origins are debated, some scholars believe
 they formed during the world's creation, others that they are the
 remnants of the Primordials' power, and still others that they
 represent scars from the Worldrend, channels carved by the cataclysmic
@@ -2102,7 +2102,7 @@ Whatever their origin, ley lines follow patterns that have remained
 largely stable since the earliest records. They flow like underground
 rivers, invisible to ordinary sight but perceptible to those with
 magical training. Where multiple ley lines cross, they form
-nexuses---nodes of concentrated power that have attracted settlement,
+nexuses, nodes of concentrated power that have attracted settlement,
 worship, and conflict throughout history.
 
 The major settlements of Tirvandor were often built on or near ley line
@@ -2116,7 +2116,7 @@ cannot be coincidental.
 
 
 Throughout Tirvandor, certain locations have been identified as major
-ley line nexuses---places where multiple lines of magical energy
+ley line nexuses, places where multiple lines of magical energy
 converge, creating concentrations of power that have shaped history and
 continue to influence the present.
 
@@ -2149,14 +2149,14 @@ much of their reputation as master craftsmen.
 
 **The Ironspine Peaks** contain multiple ley lines that converge within
 the mountain range. This concentration of magical energy explains the
-presence of magical ores found nowhere else---veins of mythril, deposits
+presence of magical ores found nowhere else, veins of mythril, deposits
 of crystals that glow with inner light, and metals that take enchantment
 with unusual ease. The mountains themselves seem to hum with power to
 those sensitive enough to perceive it.
 
 **The Kaer Thandros Vault** is a secret nexus known only to the royal
 family and their most trusted advisors. Located deep beneath the
-fortress-city, this nexus serves as an emergency power source---a
+fortress-city, this nexus serves as an emergency power source, a
 reserve of magical energy that could theoretically be tapped in times of
 desperate need. Its existence is one of the Crown's most closely
 guarded secrets.
@@ -2170,7 +2170,7 @@ difficult to access but also difficult for enemies to target.
 **35.2 The Singing Stones** mark a nexus maintained by druidic circles
 in the wilderness of Thaldros. This ancient site serves as a portal to
 the Feywild, and the stones themselves produce haunting melodies when
-the wind passes through them---sounds that change with the phase of the
+the wind passes through them, sounds that change with the phase of the
 moon and the alignment of the stars. The druids who tend this nexus
 guard it against those who would misuse its power.
 
@@ -2188,7 +2188,7 @@ city of Palace Port. This is where the first seal was broken during the
 events leading to the Worldrend, and the nexus now radiates void energy
 that warps reality in its vicinity. The site is considered mythical by
 most, its exact coordinates lost to history, but those who seek to
-prevent another catastrophe---or cause one---search for it still.
+prevent another catastrophe, or cause one, search for it still.
 
 **The Deep Wildwood Nexus** lies somewhere in the heart of Aethoria's
 southern rainforests, an unnamed convergence of power considered sacred
@@ -2213,7 +2213,7 @@ evolve.
 
 **Settlement Patterns:** Throughout history, sentient beings have been
 drawn to settle near ley lines and nexuses. Sometimes this was
-deliberate---mages seeking power, temples seeking connection to divine
+deliberate, mages seeking power, temples seeking connection to divine
 forces. More often, it was unconscious, early settlers simply feeling
 that a place was "right" without understanding why. The result is that
 the great cities and sacred sites of Tirvandor cluster along ley lines
@@ -2222,7 +2222,7 @@ with remarkable consistency.
 **Magical Flora and Fauna:** Creatures and plants that evolve near ley
 lines often develop magical properties. The glowing forests of the
 Starwood, the singing crystals of the Crystalvale, the fire-resistant
-flora of the Ashfall Barrens---all reflect the influence of ley line
+flora of the Ashfall Barrens, all reflect the influence of ley line
 energy on natural development over countless generations. Some creatures
 have become so attuned to ley lines that they cannot survive far from
 them.
@@ -2230,7 +2230,7 @@ them.
 **Weather and Climate:** Ley lines influence weather patterns in ways
 that meteorologists still struggle to explain. The perpetual mists of
 the Mistwood Reaches, the unusual storm patterns of the Sundering Sea,
-the localized climatic effects found throughout Aethoria---all correlate
+the localized climatic effects found throughout Aethoria, all correlate
 with ley line flows. Some scholars believe that major ley line
 disruptions could alter climate on a continental scale.
 
@@ -2248,8 +2248,8 @@ corrupted nexuses. Some
 ancient sites exist partially in multiple planes simultaneously.
 
 **Magical Instability:** In the Contested Lands and other regions where
-ley lines have been disrupted---whether by the Worldrend, deliberate
-sabotage, or natural catastrophe---magic becomes unpredictable. 
+ley lines have been disrupted, whether by the Worldrend, deliberate
+sabotage, or natural catastrophe, magic becomes unpredictable. 
 
 Spells may fail without warning, produce unexpected effects, or trigger wild
 magical surges that reshape reality in their immediate vicinity. Mages
@@ -2259,11 +2259,11 @@ who operate in such regions must exercise extreme caution.
 
 
 Not all ley lines flow clean and pure. Some have become
-corrupted---their energies twisted by catastrophe, deliberate malice, or
+corrupted, their energies twisted by catastrophe, deliberate malice, or
 the influence of dark powers. Corrupted ley lines and nexuses pose
 unique dangers to Tirvandor and its inhabitants.
 
-The most common cause of corruption is trauma---the magical equivalent
+The most common cause of corruption is trauma, the magical equivalent
 of scar tissue forming where the world has been wounded. The Worldrend
 left numerous corrupted ley lines in its wake, and smaller catastrophes
 have added to their number over the centuries. Some corruption is the
@@ -2274,7 +2274,7 @@ the cumulative effect of necromancy and other forbidden practices.
 Corrupted nexuses amplify magical power but at a price. The energy they
 provide is tainted, prone to wild fluctuations and dangerous side
 effects. Those who draw upon corrupted ley lines risk more than magical
-backlash---prolonged exposure can twist the mind and body, gradually
+backlash, prolonged exposure can twist the mind and body, gradually
 transforming the user into something no longer entirely mortal.
 
 The Ashgate Catacombs represent a partially corrupted nexus, unstable
@@ -2294,8 +2294,8 @@ centuries following the Worldrend, the Circle maintains political
 neutrality, operating in both Thaldros and Aethoria without allegiance
 to either power.
 
-Circle members---called Initiates during training and simply Circle
-Mages thereafter---devote their lives to mapping ley lines, monitoring
+Circle members, called Initiates during training and simply Circle
+Mages thereafter, devote their lives to mapping ley lines, monitoring
 nexuses, and responding to magical disturbances. They maintain
 chapterhouses near major nexuses and ley line junctions, staffed by
 researchers who spend years studying the flows of magical energy.
@@ -2304,7 +2304,7 @@ The Circle's political neutrality is both its greatest strength and its
 most controversial aspect. By refusing to take sides in the ongoing
 tensions between Thaldros and Aethoria, the Circle can operate freely
 across both continents. Critics argue that this neutrality amounts to
-cowardice---that the Circle should use its knowledge and power to
+cowardice. That the Circle should use its knowledge and power to
 actively shape events rather than merely observing and containing
 dangers.
 
@@ -2312,8 +2312,8 @@ Among the Circle's most important functions is the identification and
 remediation of ley line corruption. When a nexus shows signs of
 instability or taint, Circle mages respond, working to stabilize the
 flow and contain any dangerous effects. Their success rate is
-imperfect---some corrupted sites prove beyond their ability to
-cleanse---but without their efforts, the magical infrastructure of
+imperfect, some corrupted sites prove beyond their ability to
+cleanse, but without their efforts, the magical infrastructure of
 Tirvandor would likely have degraded significantly since the Worldrend.
 
 ### 4.7 Magic and the Worldrend
@@ -2322,7 +2322,7 @@ Tirvandor would likely have degraded significantly since the Worldrend.
 The Worldrend was, at its core, a magical catastrophe of unprecedented
 scale. The event tore the continents apart, created the Sundering Sea,
 and disrupted ley lines across the entire world. Understanding what
-happened---and preventing it from happening again---remains one of the
+happened, and preventing it from happening again, remains one of the
 central concerns of magical scholarship in Tirvandor.
 
 Before the Worldrend, magic flowed more freely and predictably. The
@@ -2331,7 +2331,7 @@ to harness ley line energy on a massive scale, powering cities, enabling
 communication across vast distances, and achieving feats that modern
 mages can only dream of replicating.
 
-Then something went wrong. The details remain disputed---records from
+Then something went wrong. The details remain disputed, records from
 that era are fragmentary at best, deliberately destroyed at worst. What
 is known is that a ritual of unprecedented power was attempted at a
 major nexus, that the ritual failed catastrophically, and that the
@@ -2340,12 +2340,12 @@ resulting release of magical energy tore the world apart.
 The ley lines never fully recovered. While they continue to flow, they
 do so with less power and less stability than before the Worldrend. Some
 scholars believe this weakening is temporary, that given enough
-time---perhaps millennia---the magical infrastructure will heal. Others
+time, perhaps millennia, the magical infrastructure will heal. Others
 argue that the damage is permanent, that Tirvandor will never again know
 the magical abundance of the pre-Worldrend era.
 
 Most concerning are those who believe that the instability is growing
-worse---that the Worldrend set in motion a slow degradation that will
+worse. That the Worldrend set in motion a slow degradation that will
 eventually lead to a second catastrophe. These scholars point to
 increasing reports of wild magic surges, the difficulty of cleansing
 corrupted nexuses, and subtle changes in ley line flow patterns as
@@ -2373,8 +2373,8 @@ what is truly at stake.
 
 Tirvandor measures time using the Common Reckoning calendar, established
 in the aftermath of the Worldrend as survivors sought to create order
-from chaos. The calendar uses Year 0 as its anchor point---the year of
-the cataclysm that tore the world apart---with years before designated
+from chaos. The calendar uses Year 0 as its anchor point, the year of
+the cataclysm that tore the world apart, with years before designated
 as "Before Worldrend" (BW) and years after as the current era (CR).
 
 **Current Year:** 1247 CR
@@ -2382,20 +2382,20 @@ as "Before Worldrend" (BW) and years after as the current era (CR).
 This means the Worldrend occurred 1,247 years ago. For perspective:
 
 In human terms, this represents approximately 30-40
-generations---ancient history, comparable to how modern humans view the
+generations, ancient history, comparable to how modern humans view the
 Bronze Age. No living human has personal memory of the event.
 
 In elven terms, this represents only 6-7 elven lifespans. Some elves
 alive today remember great-grandparents who survived the Worldrend. High
 Queen Aelindra herself was born 247 years before the cataclysm and
-witnessed it firsthand at age 247---she is now 1,494 years old.
+witnessed it firsthand at age 247. She is now 1,494 years old.
 
 In dwarven terms, this represents approximately 10-12 dwarf lifespans.
 Clan histories record the event clearly, and some artifacts from before
 the Worldrend remain in active use.
 
 This generational perspective creates significant cultural differences
-in how the various races view the Worldrend---for humans it is mythical
+in how the various races view the Worldrend, for humans it is mythical
 history, for elves it is recent tragedy, and for dwarves it is recorded
 fact with grudges still maintained.
 \column
@@ -2411,23 +2411,23 @@ astronomical calculations made by the temples of Moira.
 Weeks consist of seven-day cycles, with the days named for the Seven
 Ascended:
 
-1\. **Thandrosday** --- First day of the week, associated with law and
+1\. **Thandrosday**,  First day of the week, associated with law and
 new beginnings
 
-2\. **Aethorday** --- Day of freedom and light
+2\. **Aethorday**,  Day of freedom and light
 
-3\. **Moiraday** --- Day of fate and knowledge, when divinations are
+3\. **Moiraday**—Day of fate and knowledge, when divinations are
 most potent
 
-4\. **Kaelday** --- Day of travel and trade, when merchants prefer to
+4\. **Kaelday**,  Day of travel and trade, when merchants prefer to
 begin journeys
 
-5\. **Seraday** --- Day of healing, when the sick visit temples
+5\. **Seraday**,  Day of healing, when the sick visit temples
 
-6\. **Mordainday** --- Day of death and remembrance, when graves are
+6\. **Mordainday**,  Day of death and remembrance, when graves are
 tended
 
-7\. **Sylvaraday** --- Day of nature, when druids gather and farmers
+7\. **Sylvaraday**,  Day of nature, when druids gather and farmers
 rest
 
 ### 5.3 The Twelve Months
@@ -2501,7 +2501,7 @@ seasons. The dead are honored, and families gather.
 **Darkening** (corresponds roughly to October)
 
 Winter approaches as days shorten noticeably. The last preparations for
-the cold months are completed---wood is stacked, food is preserved,
+the cold months are completed, wood is stacked, food is preserved,
 animals are brought to shelter. A month of anticipation tinged with
 unease.
 
@@ -2513,7 +2513,7 @@ the boundary between autumn's activity and winter's rest.
 
 **Deepwinter** (corresponds roughly to December)
 
-The longest nights of the year. Despite---or perhaps because of---the
+The longest nights of the year. Despite, or perhaps because of, the
 darkness, this month contains some of the most important celebrations,
 as communities gather to share warmth and light against the cold.
 
@@ -2530,7 +2530,7 @@ faiths.
 
 Celebrated on the fifteenth day of Renewal, this festival marks the
 official beginning of spring. It is considered the most auspicious day
-for new beginnings---weddings, business ventures, and journeys started
+for new beginnings: weddings, business ventures, and journeys started
 on this day are believed to be blessed. Communities gather for feasts,
 plant ceremonial seeds, and make offerings to Sylvara and Sera. Young
 couples who wish to marry often announce their intentions on this day.
@@ -2567,15 +2567,15 @@ wandering spirits.
 The longest night of the year, celebrated as a triumph of light and
 community over darkness. Families gather, gifts are exchanged, and every
 window displays candles or lanterns to push back the night. Temples of
-all the Seven hold services, and the following day---when light begins
-its return---is treated as a second celebration. In many communities,
+all the Seven hold services, and the following day, when light begins
+its return, is treated as a second celebration. In many communities,
 the Solstice feast is the largest and most important meal of the year.
 
 **Founder's Day** (varies by settlement)
 
 Each major city and many smaller communities celebrate the anniversary
 of their founding. These local holidays vary widely in their
-observances---Kaer Thandros celebrates with military parades, Goldreach
+observances, Kaer Thandros celebrates with military parades, Goldreach
 with maritime festivals, Aethermere with magical displays. Founder's
 Day is often the most important local holiday, superseding even the
 universal festivals in civic importance.
@@ -2596,7 +2596,7 @@ chosen a patron.
 **Festival Days** (between seasons)
 
 The five to six days that fall between seasons are not assigned to any
-month. These "festival days" exist outside normal time---debts cannot
+month. These "festival days" exist outside normal time, debts cannot
 be collected, contracts cannot be enforced, and normal social rules
 are suspended. Each culture fills these days differently: some with raucous
 celebration, others with solemn reflection, still others with complete
@@ -2649,7 +2649,7 @@ BW.
 
 This system presents challenges for historians, as pre-Worldrend
 civilizations used their own calendars that must be converted. The
-process of conversion is imperfect---different sources sometimes
+process of conversion is imperfect, different sources sometimes
 disagree on the exact timing of ancient events by decades or even
 centuries. The further back one goes, the less precise the dating
 becomes.
@@ -2671,7 +2671,7 @@ Major historical eras in BW dating:
 -   **Age of Strife** (3,000--0 BW): Well-documented through multiple
     sources
 
-The transition from BW to CR dating is absolute---there is no Year 1 BW
+The transition from BW to CR dating is absolute, there is no Year 1 BW
 or Year 1 CR. Events occurred either before the Worldrend (BW) or after
 it (CR), with the cataclysm itself occupying Year 0.
 
@@ -2697,7 +2697,7 @@ and more remains unknown.
 
 
 In the beginning, according to the oldest myths, Tirvandor was a single
-landmass---a perfect world where the Primordials, entities of pure
+landmass, a perfect world where the Primordials, entities of pure
 elemental power, walked alongside beings that some call the First Gods.
 The land was raw and wild in those days, and magic was not something
 learned or studied but inherent to all things, flowing through rock and
@@ -2707,13 +2707,13 @@ The Primordials shaped the terrain through their very existence.
 Volcanoes rose where fire walked. Oceans formed from the tears of water.
 Forests grew in the footsteps of life itself. The world was not yet
 divided into the careful categories that later civilizations would
-impose upon it---there was no distinction between the magical and the
+impose upon it. There was no distinction between the magical and the
 mundane, the natural and the supernatural. Everything simply was.
 
 From this primordial chaos emerged the first living creatures. Dragons
 were born from the blood of the earth itself, inheriting something of
-the Primordials' elemental nature. Giants were created---by whom, the
-myths disagree---to tend the world-trees that connected earth to sky.
+the Primordials' elemental nature. Giants were created, by whom, the
+myths disagree, to tend the world-trees that connected earth to sky.
 And the first mortal races emerged from elemental unions, though their
 forms bore little resemblance to the peoples who would later inherit the
 world.
@@ -2723,7 +2723,7 @@ ley lines that crisscross the world may be remnants of paths walked by
 Primordials. Certain mountains retain an awareness that suggests they
 were once something more than stone. And in the deepest places of the
 world, scholars have found ruins that predate any known
-civilization---structures built by hands that were not quite hands, for
+civilization, structures built by hands that were not quite hands, for
 purposes that remain unfathomable.
 
 ### 6.2 The Dragon Hegemony (~12,000--8,000 BW)
@@ -2741,7 +2741,7 @@ inscriptions that scholars still struggle to fully translate. They
 established the foundations of arcane magic as a discipline that could
 be studied and mastered, codifying the wild power that had flowed freely
 since creation. And they built monuments that would endure for
-millennia---structures of stone and magic that still dot the landscape,
+millennia, structures of stone and magic that still dot the landscape,
 weathered but unbroken.
 
 {{pageNumber,auto}}
@@ -2760,8 +2760,8 @@ hunting grounds rather than the order of civilization.
 
 The dragons also created the first magical artifacts, items of power
 that would outlast their makers by thousands of years. The Dragon
-Libraries---repositories of ancient knowledge accumulated over
-millennia---were established during this period. Some have been found in
+Libraries, repositories of ancient knowledge accumulated over
+millennia, were established during this period. Some have been found in
 the centuries since; others remain undiscovered, their locations known
 only to dragons who remember their creation.
 
@@ -2770,7 +2770,7 @@ erupted when philosophical differences between chromatic and metallic
 dragons escalated into violence. The chromatic dragons, led by the
 Conclave, believed in dominion over lesser creatures. The metallic
 dragons argued for guidance and protection. The war scarred the
-landscape---entire mountain ranges bear the marks of dragonfire battles
+landscape, entire mountain ranges bear the marks of dragonfire battles
 that occurred eight thousand years before the first human kingdom arose.
 
 The war ended not in victory for either side but in exhaustion. Both
@@ -2783,14 +2783,14 @@ history, but their age of collective dominance had passed.
 
 As dragons withdrew from active rulership, the giant-kin rose to fill
 the void. Where dragons had been solitary lords, each ruling their own
-domain, the giants built true civilizations---cities, trade networks,
+domain, the giants built true civilizations: cities, trade networks,
 and cultural institutions that would influence every race to follow.
 
 The giants built massive cities of stone structures scaled for beings
 that stood twenty to thirty feet tall. Their architecture favored
 durability over aesthetics, using blocks of granite and basalt that no
 lesser creature could move without magic. Many ruins in Tirvandor's
-mountains and deep forests are remnants of this era---stairs too tall
+mountains and deep forests are remnants of this era, stairs too tall
 for human legs, doorways that could admit a dragon, chambers that echo
 with the memory of voices like thunder.
 
@@ -2798,14 +2798,14 @@ During this period, the giants established the Ordning System, a strict
 social hierarchy based on type and individual achievement. Storm giants
 stood at the apex, followed by cloud, fire, frost, stone, and hill
 giants in descending order. This system brought stability to giant
-society but also rigidity---giants who defied the Ordning faced exile or
+society but also rigidity, giants who defied the Ordning faced exile or
 worse. The system still influences giant culture in the present day,
 though millennia of isolation have caused different giant communities to
 interpret it in different ways.
 \column
 The giants developed runic magic, a tradition of inscribing power into
 stone that would later influence dwarven magical traditions. They
-constructed the legendary Sky Fortresses---floating citadels held aloft
+constructed the legendary Sky Fortresses, floating citadels held aloft
 by magic that modern scholars can barely comprehend. Most of these have
 fallen over the millennia, their ruins scattered across remote mountain
 ranges, but rumors persist of at least one that still drifts among the
@@ -2814,7 +2814,7 @@ clouds.
 
 The age of giants ended not through war but through a diplomatic
 achievement: the Giant-Dragon Pact. The details vary by source, but the
-essence remains consistent---giants and dragons agreed to withdraw from
+essence remains consistent, giants and dragons agreed to withdraw from
 active dominion over the world, leaving room for the mortal races that
 were beginning to emerge in significant numbers. Whether this was
 altruism, exhaustion, or recognition that the world was changing in ways
@@ -2831,8 +2831,8 @@ Beyond the broad historical movements of this era, certain events stand
 out in the fragmentary records that have survived.
 
 The Primordial Binding occurred at some point during the Age of Myth,
-though precisely when remains unclear. The Primordials---entities of
-such power that their very presence reshaped reality---were somehow
+though precisely when remains unclear. The Primordials, entities of
+such power that their very presence reshaped reality, were somehow
 contained or constrained. Some sources suggest the First Gods
 accomplished this binding; others credit the dragons; still others claim
 the Primordials chose to withdraw voluntarily. Whatever the truth, the
@@ -2842,13 +2842,13 @@ ordered existence that mortal civilizations would require.
 The World-Trees were planted during the Giant Kingdoms era, enormous
 living things that connected the material world to other planes of
 existence. Most were destroyed or diminished over the millennia that
-followed, but some survive---the world-trees of Aethermere trace their
+followed, but some survive, the world-trees of Aethermere trace their
 lineage to this planting, as do certain sacred groves maintained by
 druids who remember what others have forgotten.
 
 The First Sealing refers to events that are more rumor than history.
 Certain sources suggest that during this era, beings of terrible power
-were imprisoned beneath the earth---entities too dangerous to destroy,
+were imprisoned beneath the earth, entities too dangerous to destroy,
 too powerful to ignore. If these accounts are accurate, the prisons
 still exist somewhere beneath Tirvandor, their seals weakening with each
 passing millennium. But this may be nothing more than myth giving form
@@ -2867,8 +2867,8 @@ to primal fears.
 
 
 The withdrawal of dragons and giants left the world ready for new powers
-to emerge. The Age of Dawn marks the rise of the mortal races---elves,
-dwarves, and humans---from scattered tribes to true civilizations.
+to emerge. The Age of Dawn marks the rise of the mortal races, elves,
+dwarves, and humans, from scattered tribes to true civilizations.
 During this era, the foundations of everything that would follow were
 laid: the great kingdoms, the magical traditions, the relationships
 between peoples that would shape history for thousands of years.
@@ -2949,7 +2949,7 @@ lit during this era, fires that would burn for millennia without need of
 fuel.
 
 But the delving also brought dangers. The dwarves encountered things
-that lived in the deep places---aberrations, mind flayers, and worse.
+that lived in the deep places: aberrations, mind flayers, and worse.
 The first conflicts with these underground horrors shaped dwarven
 military traditions: heavy armor, disciplined formations, and a
 willingness to seal tunnels behind them rather than risk corruption
@@ -2978,7 +2978,7 @@ Human magical traditions developed differently from those of elves or
 dwarves. Where elves worked with natural magic and dwarves inscribed
 power into material objects, humans developed divine magic through
 worship of the gods. The exact origins of this connection remain
-debated---some scholars believe humans were granted this ability by the
+debated, some scholars believe humans were granted this ability by the
 gods themselves, while others argue that humans discovered a way to tap
 into divine power through faith and ritual. Whatever the truth, human
 priests could call upon powers that matched or exceeded those of elven
@@ -2994,8 +2994,8 @@ other major race.
 \column
 
 Cultural exchange between the races began during this period. Humans
-learned from elves and dwarves---agricultural techniques, metallurgy,
-written language---and contributed their own innovations in return. The
+learned from elves and dwarves, agricultural techniques, metallurgy,
+written language, and contributed their own innovations in return. The
 shorter human lifespan, once seen as a disadvantage, proved to have
 benefits: humans were less bound by tradition, more willing to
 experiment, more driven to accomplish things quickly because they had
@@ -3017,7 +3017,7 @@ mechanisms for resolving disputes without warfare. For the first time,
 the three great civilizations recognized each other as equals and
 committed to peaceful coexistence.
 
-Mixed-race cities were founded during this period---settlements where
+Mixed-race cities were founded during this period—settlements where
 elves, dwarves, and humans lived and worked together. These cities
 became centers of innovation, as craftsmen and scholars from different
 traditions exchanged ideas and techniques. The magical traditions began
@@ -3072,7 +3072,7 @@ rifts came demons, devils, aberrations, and things for which mortal
 languages had no names.
 
 The causes of these incursions remain debated. Some scholars blame
-reckless magical experimentation during the Age of Accord---mages
+reckless magical experimentation during the Age of Accord, mages
 pushing boundaries without understanding the consequences. Others
 believe the planes themselves were shifting, that the barriers between
 worlds were weakening due to cosmic forces beyond mortal comprehension.
@@ -3092,7 +3092,7 @@ enslaved by creatures from beyond.
 Others held firm, becoming refuges
 for those who fled the worst of the fighting.
 
-The first paladin orders were formed during this period---holy warriors
+The first paladin orders were formed during this period, holy warriors
 who dedicated themselves to fighting extraplanar evil. These orders
 would survive the crises that followed, evolving over millennia into the
 militant religious organizations that exist in the present day. Their
@@ -3100,7 +3100,7 @@ traditions trace directly to warriors who stood against demons thirty
 centuries before the current era.
 
 The incursions left permanent scars on the land. Certain regions remain
-planar scars to this day---places where the boundary between worlds is
+planar scars to this day, places where the boundary between worlds is
 thin, where strange phenomena occur without warning, where even the
 bravest travelers avoid if they can find another path. The concentration
 of these scars in what is now the Contested Lands is no coincidence;
@@ -3111,7 +3111,7 @@ those regions were hit hardest during the Demon Wars.
 
 The Demon Wars weakened the established kingdoms but left power vacuums
 that ambitious individuals rushed to fill. In the aftermath of the
-planar incursions, mage-lords rose to prominence---arcane practitioners
+planar incursions, mage-lords rose to prominence, arcane practitioners
 who had accumulated power fighting demons and now sought to use that
 power to rule.
 
@@ -3130,22 +3130,22 @@ The mage-lord dynasties rose and fell with bewildering speed. A wizard
 might conquer a dozen cities in a decade, only to be overthrown by a
 former apprentice or destroyed by a rival's subtle curse. Alliances
 shifted constantly. No border remained fixed for more than a generation.
-The common people---those who survived---learned to keep their heads
+The common people, those who survived, learned to keep their heads
 down and serve whatever master currently claimed their territory.
 
 During this period, the Spellplague swept across both continents. This
 magical disease killed thousands of arcane practitioners, seemingly at
 random. A wizard might wake one morning and find their magic turned
 against them, their own power consuming them from within. The
-Spellplague's cause was never definitively determined---some blamed
+Spellplague's cause was never definitively determined, some blamed
 deliberate magical warfare, others thought the fabric of magic itself
 had become infected by the planar incursions. Whatever the truth, the
 plague killed as many mage-lords as warfare did, and left the survivors
 weakened and paranoid.
 
 The First Warforged were created during the Wizard Wars. These
-constructed soldiers---beings of metal and magic animated to
-serve---were meant to provide armies that required no food, felt no
+constructed soldiers, beings of metal and magic animated to
+serve, were meant to provide armies that required no food, felt no
 fear, and obeyed without question. The experiment was partially
 successful; Warforged proved formidable warriors. But they also
 developed something unexpected: consciousness. In later centuries,
@@ -3173,7 +3173,7 @@ fill the void.
 Theories about the cause proliferated. Some said the gods were fighting
 their own war, too occupied with cosmic conflict to attend to mortal
 prayers. Others believed mortals had displeased the gods through their
-warfare and cruelty---the Divine Silence as punishment for their sins.
+warfare and cruelty, the Divine Silence as punishment for their sins.
 Still others argued that something was blocking the divine connection,
 some entity or phenomenon preventing prayers from reaching their
 intended recipients.
@@ -3184,8 +3184,8 @@ available through divine magic became rare and expensive. People who had
 relied on their faith for comfort found themselves alone in a seemingly
 godless world. Many lost hope entirely.
 
-When the gods finally returned---or when the connection was finally
-restored---around 2,200 BW, their messages had changed. The faiths that
+When the gods finally returned, or when the connection was finally
+restored, around 2,200 BW, their messages had changed. The faiths that
 emerged from the Divine Silence were different from those that had
 preceded it. More emphasis on individual responsibility, less certainty
 about divine will, more acceptance that the gods could be absent even
@@ -3209,7 +3209,7 @@ around 2,100 BW and ruled for three hundred years. His dominion was
 built on terror and necromancy; the dead of his realm served him even
 after death, and the living existed only at his sufferance. The desert
 that now characterizes the Sundaran Expanse is partly his
-legacy---Zalthar's magic drained the life from the land, leaving behind
+legacy, Zalthar's magic drained the life from the land, leaving behind
 the arid waste that persists millennia later.
 
 **The Crimson Court** was a cabal of ancient vampires who controlled
@@ -3218,11 +3218,11 @@ overt tyranny, the Crimson Court ruled through infiltration and
 manipulation. Their agents held positions in every remaining
 institution; their influence shaped policy even in regions that believed
 themselves free. The Court's fall came not through military defeat but
-through internal conflict---the vampires turned on each other, their
+through internal conflict, the vampires turned on each other, their
 alliance fragmenting into feuding bloodlines that would never reunite.
 
 **The Colony of K'thrax** represented a different kind of horror. Mind
-flayers---aberrations from the Far Realm---established a colony beneath
+flayers, aberrations from the Far Realm, established a colony beneath
 what is now eastern Aethoria around 2,100 BW. For two centuries, they
 enslaved the surface populations, using their psionic powers to dominate
 minds and their tentacles to consume brains. The K'thrax colony was
@@ -3238,7 +3238,7 @@ rule in the Ironspine Mountains around 1,800 BW. Unlike the tyrants of
 \page
 
 other races, Morveth did not seek to dominate through terror but through
-the claim of ancient right---dragons had ruled before any mortal
+the claim of ancient right, dragons had ruled before any mortal
 civilization, and he demanded tribute as their due. His dominion lasted
 until 1,550 BW, when a coalition of dwarf holds finally brought him down
 at tremendous cost.
@@ -3259,7 +3259,7 @@ across both continents beginning around 1,500 BW, killing without
 discrimination based on race, age, power, or morality.
 
 The plague was neither entirely magical nor entirely natural. Healers
-who studied it reported characteristics of both---mundane symptoms that
+who studied it reported characteristics of both, mundane symptoms that
 resisted divine magic, magical effects that ignored natural immunity.
 Some victims simply faded away over weeks; others were taken in hours.
 The pattern of spread made no sense: remote villages might be devastated
@@ -3328,8 +3328,8 @@ a degree not seen since the Age of Accord.
 
 But beneath this surface prosperity, the ley lines were becoming
 unstable. Mages reported disturbing dreams. Some nexuses flickered in
-ways they had never flickered before. The Circle of Seven---a council of
-the realm's most powerful archmages---discovered that ancient prisons
+ways they had never flickered before. The Circle of Seven, a council of
+the realm's most powerful archmages, discovered that ancient prisons
 were weakening, seals that had held for millennia beginning to fail.
 Their warnings went largely unheeded. Most people preferred to focus on
 the immediate prosperity rather than distant threats.
@@ -3348,7 +3348,7 @@ who had paid attention. But it would be devastating nonetheless.
 ## Chapter 9: The Worldrend
 
 
-The Worldrend stands as the defining event of Tirvandor's history---the
+The Worldrend stands as the defining event of Tirvandor's history, the
 cataclysm that tore a single continent in two, created the Sundering
 Sea, killed over forty million people, and reshaped reality itself. What
 follows represents the most complete account that can be assembled from
@@ -3358,8 +3358,8 @@ surviving records, though much was lost in the catastrophe itself.
 
 
 The centuries leading to the Worldrend saw growing instability in the
-fabric of magic itself. The Circle of Seven---the realm's most powerful
-archmages---discovered that ancient prisons were weakening, seals that
+fabric of magic itself. The Circle of Seven, the realm's most powerful
+archmages, discovered that ancient prisons were weakening, seals that
 had held for millennia beginning to fail. The entities bound beneath the
 earth, beings that had been imprisoned since the Age of Myth, were
 stirring.
@@ -3368,7 +3368,7 @@ Between 500 and 400 BW, a major ley line surge destroyed an entire city
 without warning. Public panic began as the Circle of Seven confirmed
 what they had long suspected: the Bound Ancients' prisons were failing.
 The Empire mobilized to reinforce the seals, but their attempts
-backfired---two more cities were destroyed by magical backlash.
+backfired, two more cities were destroyed by magical backlash.
 
 Social breakdown followed. Trade networks failed. Food shortages swept
 the cities. Mass migration began as people fled population centers,
@@ -3376,7 +3376,7 @@ seeking safety in remote regions. Between 300 and 250 BW, government
 authority weakened to the point where regional warlords began seizing
 power. The unified empire fragmented.
 
-Then came the Divine Silence of 250-200 BW---gods stopped responding to
+Then came the Divine Silence of 250-200 BW, gods stopped responding to
 prayers, clerics lost their ability to cast divine magic, and religious
 institutions collapsed. 
 
@@ -3411,7 +3411,7 @@ last.
 At dawn, the Circle of Seven began their ritual. Ley lines across the
 continent began to glow, visible to the naked eye for the first time in
 recorded history. Animals fled the region in mass migrations. The ground
-began to shake---not a single earthquake but a continuous trembling that
+began to shake, not a single earthquake but a continuous trembling that
 built throughout the day.
 
 Buildings collapsed in cities across the realm. Mountains shifted, their
@@ -3431,8 +3431,8 @@ vaporized instantly, along with the Circle of Seven and everything
 within fifty miles. The shockwave killed an estimated ten million people
 in the first moments.
 
-The Bound Ancients' prisons breached simultaneously. What emerged---or
-what nearly emerged---is unclear from surviving records, but the release
+The Bound Ancients' prisons breached simultaneously. What emerged, or
+what nearly emerged, is unclear from surviving records, but the release
 of imprisoned entities compounded the magical catastrophe already
 underway.
 
@@ -3441,7 +3441,7 @@ underway.
 The continent began to split apart. What had been solid earth became a
 wound in reality itself, a fissure that widened throughout the day. The
 eastern third of the landmass began to separate and drift, though
-"drift" implies a gradual process---witnesses described it as violent,
+"drift" implies a gradual process, witnesses described it as violent,
 grinding, the earth screaming as it tore.
 
 Massive tsunamis destroyed coastal cities. The waves that accompanied
@@ -3450,9 +3450,9 @@ cities that had survived the initial shockwave. The sea rushed in to
 fill the widening gap, giving birth to what would become the Sundering
 Sea.
 
-Palace Port---the greatest trading city in the world, headquarters of
+Palace Port, the greatest trading city in the world, headquarters of
 House Deepwater, home to the Palace of Eternal Spring where High Kings
-ruled---sank beneath the waves in hours. With it went King Aldric the
+ruled, sank beneath the waves in hours. With it went King Aldric the
 Wise, most of the royal court, the Crystal Throne, the royal treasury,
 and over forty thousand souls. The city's survivors numbered perhaps
 five thousand, most of whom had been at sea or had fled at the first
@@ -3472,7 +3472,7 @@ what survivors would later call the Year of Darkness. Crops failed
 globally. Starvation began to claim those whom the cataclysm had spared.
 
 Magical storms raged for weeks in the region where the continents had
-separated. Reality itself seemed unstable---planar boundaries weakened,
+separated. Reality itself seemed unstable, planar boundaries weakened,
 and brief tears opened to other worlds before slowly healing. Wild magic
 surges continued for decades afterward, making spellcasting
 unpredictable and dangerous.
@@ -3483,7 +3483,7 @@ unpredictable and dangerous.
 The Worldrend's toll defies easy comprehension:
 
 **Direct Casualties:** Approximately 35 million people died from the
-immediate effects of the cataclysm---the shockwave, the earthquakes, the
+immediate effects of the cataclysm, the shockwave, the earthquakes, the
 tsunamis, the volcanic eruptions. This represented roughly 70% of
 Tirvandor's pre-Worldrend population.
 
@@ -3493,7 +3493,7 @@ volcanic winter made agriculture impossible, and stored food ran out
 within months.
 
 **Survivors:** The population stabilized at approximately 5
-million---roughly 10% of what it had been. Civilization as it had
+million, roughly 10% of what it had been. Civilization as it had
 existed was effectively destroyed. Cities that had stood for millennia
 were ruins. Knowledge accumulated over thousands of years was lost as
 libraries burned and scholars died.
@@ -3509,8 +3509,8 @@ years later.
 
 **House Deepwater** was destroyed as a unified entity. The patriarch,
 Lord Aldris Deepwater, died with Palace Port. Seventy percent of the
-house's immense wealth---accumulated over five centuries of dominating
-maritime trade---was lost in a single day. The eastern branch, led by
+house's immense wealth, accumulated over five centuries of dominating
+maritime trade, was lost in a single day. The eastern branch, led by
 Marius Deepwater, survived in what became Aethoria; they would
 eventually become House Crystalborn. The western branch, led by Aldris
 the Younger, survived in what became Thaldros; they would eventually
@@ -3537,7 +3537,7 @@ with a population over 50,000, now lies six hundred feet beneath the
 Sundering Sea. The Crystal Throne, the royal treasury (estimated at over
 500,000 gold pieces), the Deepwater banking records, centuries of trade
 agreements, the High King's Sword, and countless cultural
-treasures---all lost. Over 1,100 years of salvage expeditions have
+treasures, all lost. Over 1,100 years of salvage expeditions have
 recovered perhaps 10% of what lies beneath, at a cost of thousands of
 additional lives lost to the depths.
 
@@ -3548,8 +3548,8 @@ Scholars and theologians have debated the cause of the Worldrend for
 over twelve centuries. Several major theories persist:
 
 **The Weapon Theory** is the most widely accepted explanation. This
-theory holds that a magical weapon of unprecedented power---the
-World-Splitter---was detonated during the Circle of Seven's ritual,
+theory holds that a magical weapon of unprecedented power, the
+World-Splitter—was detonated during the Circle of Seven's ritual,
 whether intentionally or through catastrophic misuse. The weapon was
 forged by Primordials in ages past, designed to reshape reality itself.
 When activated in conjunction with the massive magical working at
@@ -3558,7 +3558,7 @@ bear.
 
 **The Divine Intervention Theory** holds that the gods themselves
 sundered the continents. According to this interpretation, mortal hubris
-had grown too great---the attempt to manipulate ley lines on a
+had grown too great, the attempt to manipulate ley lines on a
 continental scale was the final transgression. The gods split the world
 to separate the warring factions, to humble mortal ambition, or to
 prevent an even greater catastrophe. This theory is particularly popular
@@ -3579,7 +3579,7 @@ theory, though it raises more questions than it answers.
 
 **The Dragon Prophecy Theory** claims that ancient dragons foresaw the
 Worldrend and actually facilitated it. According to this interpretation,
-the cataclysm was necessary to prevent something worse---an awakening of
+the cataclysm was necessary to prevent something worse, an awakening of
 Primordials that would have destroyed the world entirely. The dragons
 sacrificed much of their remaining influence to ensure the Worldrend
 occurred in a "controlled" manner, preserving at least some of
@@ -3590,7 +3590,7 @@ certain circles.
 restricted archives, suggests that the Worldrend was caused by the
 simultaneous breach of multiple Primordial prisons. The Circle of
 Seven's ritual was an attempt to prevent this breach, not cause
-it---but the ritual failed, and the release of imprisoned entities
+it, but the ritual failed, and the release of imprisoned entities
 provided the energy that tore the world apart. This theory implies that
 other Bound Ancients remain imprisoned, their seals weakening with each
 passing century.
@@ -3607,8 +3607,8 @@ the World-Splitter.
 **Origins**
 
 According to ancient texts recovered from pre-Worldrend ruins, the
-World-Splitter was forged by Primordials---elemental beings who predate
-the gods themselves---as a weapon to reshape reality. Some scholars
+World-Splitter was forged by Primordials, elemental beings who predate
+the gods themselves, as a weapon to reshape reality. Some scholars
 believe it was created during the War of Shattering, when Primordials
 and gods battled for control of the world in the Age of Myth. Others
 suggest it dates to an even earlier conflict.
@@ -3623,7 +3623,7 @@ based on textual evidence, but the Divine Fragments theory persists.
 **The Shattering**
 
 The World-Splitter survived the Worldrend but was broken in the
-process---whether deliberately by the gods, by the Circle of Seven's
+process, whether deliberately by the gods, by the Circle of Seven's
 desperate final act, or by the simple impossibility of any single
 artifact containing the forces unleashed during those three days. It
 shattered into five components, each retaining a fraction of its
@@ -3633,7 +3633,7 @@ reality-altering power.
 
 **The Shadow Shard (First Component)**
 
-The Shadow Shard appears as a fragment of crystallized void---a piece of
+The Shadow Shard appears as a fragment of crystallized void, a piece of
 darkness made solid that drinks all light touching it. It grants
 dominion over shadow and darkness: control of shadows, the ability to
 see through darkness, the power to summon creatures of shadow. In
@@ -3661,7 +3661,7 @@ the world's core.
 
 *Entrusted to: The Goldshore Keepers (secret branch of House Goldshore)*
 
-A hidden branch of House Goldshore---the Keepers---were charged with
+A hidden branch of House Goldshore, the Keepers, were charged with
 guarding the Flame Heart. They maintained their vigil in vaults beneath
 Kaer Thandros, near where the dragon Infernalix now sleeps. The Keepers
 were wiped out approximately forty-three years ago under mysterious
@@ -3682,13 +3682,13 @@ House Deepwater guarded the Void Fragment in oceanic vaults accessible
 only from their headquarters at Palace Port. When the Worldrend
 destroyed Palace Port, the Void Fragment sank with the city. It now lies
 somewhere in the ruins, six hundred feet beneath the Sundering Sea.
-Whether the Fragment's containment survived the sinking is unknown---as
+Whether the Fragment's containment survived the sinking is unknown, as
 is whether anything guards it now.
 
 **The Stone Crown (Fourth Component)**
 
 The Stone Crown is a circlet of primordial stone, impossibly heavy for
-its size---those who have lifted it report it weighing more than
+its size. Those who have lifted it report it weighing more than
 mountains despite fitting in a single hand. It grants dominion over
 earth and stability: command of stone, authority over foundations, the
 power to make permanent or to unmake what was permanent.
@@ -3697,7 +3697,7 @@ power to make permanent or to unmake what was permanent.
 
 The Stone Crown has been held by the royal family of Thaldros since the
 Worldrend, passed from monarch to monarch as a royal heirloom. Few know
-its true nature---most believe it to be merely an ancient ceremonial
+its true nature, most believe it to be merely an ancient ceremonial
 artifact. Its current location is the royal treasury beneath Kaer
 Thandros, though the exact chamber is a closely guarded secret.
 
@@ -3709,11 +3709,11 @@ winds, the summoning of tempests, authority over the sky itself.
 
 *Entrusted to: The Aethorian Harmony*
 
-The eastern survivors of the Worldrend---who became the Aethorian
-Harmony---were charged with guarding the Storm Eye. It remains in their
+The eastern survivors of the Worldrend, who became the Aethorian
+Harmony, were charged with guarding the Storm Eye. It remains in their
 keeping across the Sundering Sea, its exact location known only to the
 highest authorities of the Harmony. The separation of continents serves
-as an additional protection---anyone seeking to reunite the Components
+as an additional protection, anyone seeking to reunite the Components
 must cross the dangerous sea.
 
 **The Sacred Oaths**
@@ -3728,7 +3728,7 @@ Never use them for any purpose. Never speak of them to those outside the
 guardian lines.
 
 For over twelve centuries, these oaths have held. The guardian houses
-have risen and fallen, but always---until recently---someone has
+have risen and fallen, but always, until recently, someone has
 maintained the vigil. The oaths have become frayed, however. Some
 guardian lines have died out entirely. Others have forgotten why their
 ancestors made such promises. And some have begun to question whether
@@ -3738,7 +3738,7 @@ be revealed.
 **The Danger of Reunification**
 
 Each Component alone grants significant but limited power. Together,
-they form the complete World-Splitter---and a complete World-Splitter
+they form the complete World-Splitter, and a complete World-Splitter
 can do exactly what its name suggests.
 
 If all five Components were reunited and activated, the resulting
@@ -3749,7 +3749,7 @@ reality itself, returning Tirvandor to the primordial chaos that existed
 before creation.
 
 There is one slim possibility of safety. According to certain ancient
-texts, a complete World-Splitter can be destroyed---but only from
+texts, a complete World-Splitter can be destroyed, but only from
 within. The artifact must be assembled and activated, then overloaded
 before it completes its function. The window for this overload is
 approximately one second. Success would destroy the World-Splitter
@@ -3765,9 +3765,9 @@ world transformed beyond recognition.
 
 Where there had been one great continent, there were now two landmasses
 separated by the Sundering Sea. The western portion became
-Thaldros---more mountainous, more volcanic, dominated by humans who had
+Thaldros, more mountainous, more volcanic, dominated by humans who had
 been concentrated in the western territories before the cataclysm. The
-eastern portion became Aethoria---more forested, more magical, with a
+eastern portion became Aethoria, more forested, more magical, with a
 stronger elven and fey presence that would shape its development for
 centuries to come.
 
@@ -3801,7 +3801,7 @@ develop disappeared virtually overnight.
 
 The Great Library of Silverpine, the dragon archives, the records of the
 Circle of Seven, the administrative documents of the unified
-kingdom---all were destroyed or scattered. Magical traditions that had
+kingdom, all were destroyed or scattered. Magical traditions that had
 been refined over thousands of years were suddenly represented by a
 handful of surviving practitioners, many of whom died in the Year of
 Darkness without passing on their knowledge.
@@ -3809,7 +3809,7 @@ Darkness without passing on their knowledge.
 \column
 
 The refugees who survived knew how to farm, to fight, to build, to
-heal---but the specialized knowledge of advanced civilization was
+heal, but the specialized knowledge of advanced civilization was
 largely gone. Metallurgy regressed. Architecture simplified. Magic
 became rarer and less refined. Literacy itself became uncommon outside
 of the few remaining centers of learning.
@@ -3827,7 +3827,7 @@ resources was common. Some communities turned to cannibalism. Others
 simply gave up and died.
 
 When the skies finally cleared enough for farming to resume, the
-survivors who remained faced the work of rebuilding---a task that would
+survivors who remained faced the work of rebuilding, a task that would
 take centuries and is, in many ways, not yet complete.
 
 {{pageNumber,auto}}
@@ -3850,7 +3850,7 @@ continents.
 
 **Immediate Survival:** In the years following the Worldrend, survivors
 struggled merely to stay alive. The calendar itself had to be
-reestablished---the Common Reckoning was adopted around 10 CR to mark
+reestablished, the Common Reckoning was adopted around 10 CR to mark
 the new era. Survivor communities formed around resources and defensible
 positions. Farming and basic crafts were rediscovered as civilization
 rebuilt from near-collapse. Magical disruption slowly stabilized, though
@@ -3861,7 +3861,7 @@ ley line chaos persisted in some regions.
 
 **Early Reconstruction (10-50 CR):** Communities struggled to maintain
 even basic civilization. Knowledge preservation became the paramount
-priority---oral traditions strengthened as written records grew scarce.
+priority, oral traditions strengthened as written records grew scarce.
 Around 50 CR, the first tentative sea voyages were attempted between the
 continents.
 
@@ -3928,8 +3928,8 @@ capital. King Thorin II recognized Silverleaf as Lords of Silverwood in
 
 ### 11.2 Trade Center Founding (695-750 CR)
 
-Crossvale was founded in 698 CR by three merchant families---Heartwood,
-Grainson, and Millford---at the intersection of five major trade routes.
+Crossvale was founded in 698 CR by three merchant families, Heartwood,
+Grainson, and Millford, at the intersection of five major trade routes.
 House Goldshore was formalized and granted nobility for financing wars.
 Regular shipping lanes were established between continents by 800 CR.
 
@@ -3980,7 +3980,7 @@ nobility for feeding the kingdom during famines.
 
 Breakthrough advances in magical theory emerged around 1010 CR. Mage
 academies were established in all major cities. Warnings about magical
-hubris circulated---comparisons to pre-Worldrend times. House Ashborne
+hubris circulated, comparisons to pre-Worldrend times. House Ashborne
 was granted nobility and controlled the desert trade monopoly.
 
 \column
@@ -3992,17 +3992,17 @@ was granted nobility and controlled the desert trade monopoly.
 Lord Aldric Blackwood III claimed the throne in 1089 CR, sparking civil
 war. Half the nobility backed Blackwood. House Splittide simultaneously
 rebelled in Aethoria. Both rebellions were crushed in 1092
-CR---Blackwood and Splittide declared extinct. Sympathizers were hunted
+CR, Blackwood and Splittide declared extinct. Sympathizers were hunted
 for decades.
 
 ### 12.4 Recent Crises (1120-1247 CR)
 
 
 The Griefshade plague (1120-1125 CR) devastated economies. The Dragon
-Crisis (1156 CR) saw Infernalix attack Kaer Thandros---nearly destroying
+Crisis (1156 CR) saw Infernalix attack Kaer Thandros, nearly destroying
 the royal line, burning Emberthorn holdings, bankrupting Ironforge. A
 secret treaty ended the attacks. The Second Blackwood Purge (1204 CR)
-eliminated known survivors---except twelve-year-old Corvus, who escaped.
+eliminated known survivors, except twelve-year-old Corvus, who escaped.
 
 ### 12.5 Present Day (1247 CR)
 
@@ -4027,7 +4027,7 @@ Something is coming.
 The gods of Tirvandor are real, present forces that grant power to their
 faithful and occasionally manifest in the world. They are called "The
 Seven Ascended" because ancient texts suggest they were once mortal
-heroes who transcended to divinity during the Age of Dawn---ordinary
+heroes who transcended to divinity during the Age of Dawn, ordinary
 beings who achieved something extraordinary and became something
 greater.
 
@@ -4049,7 +4049,7 @@ honor Mordain before battle.
 
 Temples often house shrines to multiple deities, allowing worshippers to
 address whichever god suits their current need. Only clergy typically
-serve one deity exclusively, though even this is not universal---some
+serve one deity exclusively, though even this is not universal, some
 priests serve the pantheon as a whole rather than any single member.
 \column
 **The Ascension**
@@ -4067,7 +4067,7 @@ forces of the universe. A minority position holds that the Ascension
 story is a myth and the Seven have always existed in their current form.
 
 What is certain is that the Seven demonstrate personality, memory, and
-growth---characteristics more consistent with beings who were once
+growth, characteristics more consistent with beings who were once
 mortal than with eternal cosmic forces. They remember favors and
 slights. They form opinions about mortal affairs. They disagree with
 each other, sometimes publicly.
@@ -4088,7 +4088,7 @@ Contracts, Government
 Thandros embodies the ideal of lawful civilization. He believes that
 order and structure are necessary for society to flourish, that chaos
 leads to suffering, and that even imperfect laws are better than no laws
-at all. He is not cruel, but he is unyielding---the law must be upheld
+at all. He is not cruel, but he is unyielding, the law must be upheld
 even when mercy might seem kinder.
 
 {{pageNumber,auto}}
@@ -4110,7 +4110,7 @@ of power for personal gain rather than public service.
 
 **Symbol and Holy Days**
 
-His symbol is **golden scales balanced on a sword**---representing
+His symbol is **golden scales balanced on a sword**, representing
 justice enforced by authority. The scales must be perfectly balanced;
 any depiction showing them tilted is considered blasphemous.
 
@@ -4152,7 +4152,7 @@ courthouse-temples throughout Thaldros.
 
 **Historical Role**
 
-The western continent bears Thandros' name---Thaldros---testament to his
+The western continent bears Thandros' name, Thaldros—testament to his
 influence on that empire's founding. When the first kingdoms formed
 after the Worldrend, followers of Thandros provided the legal
 frameworks, administrative systems, and governmental structures that
@@ -4170,7 +4170,7 @@ Thandros stands in direct philosophical opposition to **Aethor**. Where
 Thandros values order, Aethor champions freedom. This tension mirrors
 the political divide between Thaldros and Aethoria and creates genuine
 conflict between their followers. Despite this opposition, Thandros and
-Aethor are not enemies---they represent necessary poles of existence,
+Aethor are not enemies. They represent necessary poles of existence,
 and most theologians believe the world requires both.
 
 Thandros works closely with **Mordain**, who shares his lawful nature.
@@ -4180,7 +4180,7 @@ cosmic rules. Their priesthoods often cooperate.
 He respects **Moira** as the keeper of fate but sometimes chafes at
 prophecies that seem to undermine the importance of law and choice.
 
-His relationship with **Kael** is strained---the Wanderer's love of
+His relationship with **Kael** is strained, the Wanderer's love of
 trickery and situational ethics offends Thandros' preference for clear
 rules and consistent application.
 
@@ -4201,7 +4201,7 @@ Personal Choice
 
 **Personality and Values**
 
-Aethor stands in philosophical opposition to Thandros---where the
+Aethor stands in philosophical opposition to Thandros, where the
 Lawbringer values order, the Liberator champions freedom. His followers
 believe that tyranny is the greatest evil, that every being has the
 right to determine their own destiny, and that hope must never be
@@ -4213,14 +4213,14 @@ comfort and safety for principles. He despises slavery, oppression, and
 any system that treats people as property or denies them agency over
 their own lives.
 
-His faith teaches that light---both literal and metaphorical---reveals
+His faith teaches that light, both literal and metaphorical, reveals
 truth and drives away the shadows where oppression hides. Transparency,
 openness, and honesty are virtues; secrecy, manipulation, and deception
 are tools of tyrants.
 
 **Symbol and Holy Days**
 
-His symbol is a **broken chain wreathed in sunlight**---the chain
+His symbol is a **broken chain wreathed in sunlight**, the chain
 representing bondage overcome, the sunlight representing the hope and
 freedom that follow liberation.
 
@@ -4256,7 +4256,7 @@ slaves reach safety.
 The holiest site is the **Temple of First Light** in Aethermere, built
 on the spot where (according to tradition) the first slaves freed after
 the Worldrend reached safety. The temple features the **Eternal
-Dawn**---a magical effect that ensures sunlight illuminates the central
+Dawn**, a magical effect that ensures sunlight illuminates the central
 sanctuary regardless of time or weather.
 
 Other significant temples include the **Lighthouse of Hope** on the
@@ -4266,7 +4266,7 @@ smaller temples throughout Aethoria.
 
 **Historical Role**
 
-The eastern continent's name---Aethoria---echoes Aethor's influence.
+The eastern continent's name, Aethoria, echoes Aethor's influence.
 When the continents separated in the Worldrend, survivors in the east
 chose to build a society based on freedom rather than hierarchy. Aethor
 worship provided the philosophical foundation for the councils, the
@@ -4282,7 +4282,7 @@ independence. This event is celebrated as the founding of free Aethoria.
 
 Aethor's opposition to **Thandros** defines much of his faith.
 Followers of the Liberator see Thandros worship as providing cover for
-tyranny---after all, oppressive regimes often justify themselves through
+tyranny, after all, oppressive regimes often justify themselves through
 law and order. This theological conflict maps directly onto the
 political tensions between Thaldros and Aethoria.
 
@@ -4299,7 +4299,7 @@ He respects **Sera's** compassion but sometimes conflicts with her
 pacifist followers, who may prioritize peace over justice. Aethor's
 faith teaches that some conflicts are necessary and righteous.
 
-His relationship with **Kael** is generally positive---both gods value
+His relationship with **Kael** is generally positive, both gods value
 individual freedom and distrust excessive authority. However, Aethor's
 earnest idealism can clash with Kael's more pragmatic approach.
 
@@ -4312,7 +4312,7 @@ Lady of Threads, Guardian of Knowledge, The Three-Faced One
 
 **Personality and Values**
 
-Moira sees the threads of fate that bind all things---past, present, and
+Moira sees the threads of fate that bind all things: past, present, and
 future woven together in a tapestry of incomprehensible complexity. She
 grants visions to her faithful but never reveals the full pattern,
 believing that mortals must find their own way through the weave.
@@ -4323,7 +4323,7 @@ occurs. This paradox lies at the heart of her teachings: fate exists and
 can be perceived, but choice also exists and can change what was
 foreseen.
 
-Moira values knowledge above all---the seeking of it, the preservation
+Moira values knowledge above all, the seeking of it, the preservation
 of it, and the wisdom to use it properly. She despises the destruction
 of knowledge, whether through book-burning, the murder of scholars, or
 the suppression of uncomfortable truths. Her temples serve as libraries
@@ -4336,7 +4336,7 @@ unexpected ways.
 
 **Symbol and Holy Days**
 
-Her symbol is a **spindle with three threads**---representing past,
+Her symbol is a **spindle with three threads**, representing past,
 present, and future. The threads are often depicted as silver, gold, and
 black, symbolizing what was, what is, and what might be.
 
@@ -4359,7 +4359,7 @@ research, and the preservation of knowledge.
 **Divination rituals** are central to her faith. Worshippers seek
 guidance through various methods: reading the stars, interpreting
 dreams, casting runes, or entering meditative trances. The accuracy of
-these divinations varies---Moira reveals what she chooses to reveal, and
+these divinations varies, Moira reveals what she chooses to reveal, and
 her reasons are her own.
 
 The faith maintains **extensive archives** of prophecy, attempting to
@@ -4367,7 +4367,7 @@ correlate predictions with eventual outcomes. These records span
 centuries and represent one of the most valuable historical resources in
 Tirvandor.
 
-Ceremonies often occur during celestial events---eclipses, meteor
+Ceremonies often occur during celestial events: eclipses, meteor
 showers, planetary alignments. The faith maintains sophisticated
 astronomical knowledge to predict these occasions.
 
@@ -4391,7 +4391,7 @@ sometimes clash
 with secular authorities over the role of magic in society.
 
 The **Black Archive** beneath Silverpine Magical Academy is a sacred
-site of a different sort---a repository of forbidden knowledge, texts
+site of a different sort, a repository of forbidden knowledge, texts
 too dangerous for general access but too valuable to destroy.
 
 **Historical Role**
@@ -4420,11 +4420,11 @@ She works closely with **Mordain**, whose domain of Memory overlaps with
 her concern for preserving the past. Their priesthoods often cooperate
 on historical matters.
 
-Her relationship with **Thandros** is complex---he values the order that
+Her relationship with **Thandros** is complex. He values the order that
 comes from knowing the future, but also values free will, which prophecy
 seems to undermine. Their theological debates continue across centuries.
 
-**Sylvara** represents her opposite in some ways---wild nature versus
+**Sylvara** represents her opposite in some ways, wild nature versus
 studied knowledge, intuition versus analysis. Yet Moira respects the
 wild goddess' understanding of cycles and patterns in nature.
 
@@ -4459,12 +4459,12 @@ suffering. The former earns his approval; the latter does not.
 
 He particularly values merchants and traders, seeing commerce as a form
 of connection that binds distant peoples together. Fair dealing is
-important---not because of abstract principles, but because merchants
+important, not because of abstract principles, but because merchants
 who cheat their customers eventually run out of customers.
 
 **Symbol and Holy Days**
 
-His symbol is a **compass rose with a winding road**---representing both
+His symbol is a **compass rose with a winding road**, representing both
 the many directions one might travel and the twisting path that actual
 journeys follow.
 
@@ -4479,7 +4479,7 @@ traditional exchange of travelers' tales.
 Kael worship is **decentralized and informal**. Rather than great
 temples, his faith maintains countless **roadside shrines** at
 crossroads, mountain passes, and harbor approaches. Travelers leave
-small offerings---coins, food, tokens of their journey---in exchange for
+small offerings, coins, food, tokens of their journey, in exchange for
 blessings of safe passage.
 
 **Blessing ceremonies** for caravans, ships, and individual travelers
@@ -4518,7 +4518,7 @@ exits, emphasizing that there are always multiple paths forward.
 sailors throughout the Sundering Sea.
 
 The most sacred sites, however, are the **ancient crossroads** scattered
-throughout both continents---places where major trade routes have
+throughout both continents, places where major trade routes have
 intersected since before the Worldrend. These locations are marked by
 standing stones, weathered statues, or simple cairns, maintained by
 local followers regardless of political boundaries.
@@ -4548,7 +4548,7 @@ He gets along well with **Aethor**, sharing appreciation for individual
 freedom and distrust of excessive authority. However, Kael's pragmatism
 can conflict with Aethor's idealism.
 
-His relationship with **Sera** is warm---both gods value those who help
+His relationship with **Sera** is warm, both gods value those who help
 strangers, and travelers often depend on the kindness of healers in
 unfamiliar places.
 
@@ -4570,7 +4570,7 @@ Comfort
 Sera is the most universally beloved of the Seven Ascended. Her temples
 serve as hospitals, her clergy as healers, and her teaching that all
 life is sacred resonates across cultural and political boundaries. She
-represents compassion in its purest form---help for those in need
+represents compassion in its purest form, help for those in need
 without expectation of reward or judgment of worthiness.
 
 Her faith teaches that mercy is strength, not weakness. It takes courage
@@ -4597,7 +4597,7 @@ it.
 
 **Symbol and Holy Days**
 
-Her symbol is a **golden chalice overflowing with water**---representing
+Her symbol is a **golden chalice overflowing with water**, representing
 healing that flows abundantly to all who need it, without limit or
 restriction.
 
@@ -4620,7 +4620,7 @@ are often conducted in wards where patients can participate from their
 beds. Donations to the temple fund care for those who cannot pay.
 
 **Comfort of the dying** is equally important. When healing is
-impossible, Sera's followers provide what comfort they can---physical
+impossible, Sera's followers provide what comfort they can, physical
 ease, emotional support, and spiritual preparation for what lies beyond.
 The faith teaches that death itself is not an enemy, only unnecessary
 suffering.
@@ -4690,7 +4690,7 @@ Afterlife, Opposition to Undeath
 **Personality and Values**
 
 Mordain guides souls to their proper rest and stands eternal guard
-against those who would disturb the dead. He is not evil---he is
+against those who would disturb the dead. He is not evil. He is
 necessary. Death is natural, part of 
 
 {{pageNumber,auto}}
@@ -4703,8 +4703,8 @@ life, and Mordain ensures that cycle continues properly.
 His faith teaches that death should not be feared but accepted as the
 natural conclusion of mortal existence. The dead deserve honor and rest;
 disturbing their remains or trapping their souls is blasphemy. Most
-significantly, undeath---the state of being neither alive nor truly
-dead---is the greatest abomination against the natural order.
+significantly, undeath, the state of being neither alive nor truly
+dead, is the greatest abomination against the natural order.
 
 Mordain values memory, the preservation of what the dead accomplished
 during their lives. His temples maintain records of the departed,
@@ -4714,13 +4714,13 @@ preservation.
 
 He is portrayed as solemn, fair, and absolutely implacable. Every soul
 eventually comes before him; every life eventually ends. He cannot be
-bargained with, bribed, or deceived. But he is not cruel---he judges
+bargained with, bribed, or deceived. But he is not cruel. He judges
 fairly and dispatches souls to the destinations they have earned through
 their choices.
 
 **Symbol and Holy Days**
 
-His symbol is a **shield bearing a closed eye**---representing both
+His symbol is a **shield bearing a closed eye**, representing both
 protection (the shield) and the eternal rest of death (the closed eye).
 Some variants show the eye slightly open, suggesting vigilance against
 those who would disturb the dead.
@@ -4741,7 +4741,7 @@ rather than fear.
 **Funeral rites** are central to the faith. Mordain's priests conduct
 services that ease souls' passage to the afterlife, comfort the
 bereaved, and ensure proper treatment of remains. The specific practices
-vary by culture---burial, cremation, sky burial, or sea burial are all
+vary by culture: burial, cremation, sky burial, or sea burial are all
 acceptable if performed with proper respect.
 
 **Memorial services** maintain connections with the departed. The faith
@@ -4758,7 +4758,7 @@ warrior-priests comparable to paladins of other gods.
 
 Major temples are found near major graveyards throughout Tirvandor. The
 **Hall of Final Rest** in Kaer Thandros maintains records of every
-documented death in the kingdom's history---millions of entries dating
+documented death in the kingdom's history, millions of entries dating
 back over a thousand years.
 
 The **Valley of Bones** in the Contested Lands is a sacred site where
@@ -4785,7 +4785,7 @@ respect for proper procedure. Both gods value judgment, cosmic rules,
 and appropriate consequences. Their priesthoods often cooperate on
 matters of justice.
 
-His relationship with **Sera** is complementary---she preserves life as
+His relationship with **Sera** is complementary. She preserves life as
 long as possible; he ensures dignity and rest when life ends. They
 represent two aspects of caring for mortal beings, and their priests 
 frequently work together.
@@ -4794,7 +4794,7 @@ He opposes **Kael's** more chaotic followers who might see death as
 just another obstacle to overcome through cleverness. The two gods are
 not enemies, but their approaches to cosmic order differ significantly.
 
-His relationship with **Moira** is collegial---both serve as keepers of
+His relationship with **Moira** is collegial, both serve as keepers of
 what has passed, she through knowledge and he through memory. They share
 an interest in historical preservation.
 
@@ -4809,7 +4809,7 @@ Primal World
 **Personality and Values**
 
 Sylvara embodies the natural world in all its beauty and brutality. She
-represents the cycle of life, death, and rebirth---the storm that
+represents the cycle of life, death, and rebirth—the storm that
 destroys and the rain that nourishes. Her worship predates written
 history, and some believe she is not a god at all but the world itself
 given voice.
@@ -4826,8 +4826,8 @@ catastrophe.
 \page
 
 Sylvara is neither good nor evil by mortal standards. She values
-strength and adaptation---those who survive demonstrate fitness to
-continue. But she also values protection---the strong defending the weak
+strength and adaptation. Those who survive demonstrate fitness to
+continue. But she also values protection, the strong defending the weak
 until the weak become strong themselves. The wolf that guards her pups
 and the mother bear defending her cubs both demonstrate her principles.
 
@@ -4841,7 +4841,7 @@ her followers accept that nature does not conform to mortal wishes.
 **Symbol and Holy Days**
 
 Her symbol is an **oak tree struck by lightning, still
-growing**---representing resilience, the creative power of destruction,
+growing**, representing resilience, the creative power of destruction,
 and the continuation of life through apparent catastrophe.
 
 She is honored on **both Equinoxes**, the balance points of the year.
@@ -4912,7 +4912,7 @@ She shares common ground with **Aethor**, whose love of freedom
 resonates with her untamed nature. Their followers often cooperate
 against civilizations that would control both people and nature.
 
-Her relationship with **Sera** is complex---both value life, but Sylvara
+Her relationship with **Sera** is complex, both value life, but Sylvara
 accepts death as natural where Sera fights against it. Sylvara's storms
 kill; Sera's healers save. Yet both serve the continuation of life in
 their own ways.
@@ -4923,7 +4923,7 @@ their own ways.
 
 **Moira's** ordered knowledge of fate contrasts with Sylvara's wild
 unpredictability. They represent different ways of understanding the
-world---through study and through experience, through pattern-seeking
+world, through study and through experience, through pattern-seeking
 and through acceptance of chaos.
 
 ### 13.9 Relationships Between the Seven
@@ -4937,7 +4937,7 @@ shape both divine and mortal politics throughout Tirvandor.
 
 The tension between the Lawbringer and the Liberator represents the
 central theological conflict of Tirvandor. Order versus freedom, law
-versus liberty, structure versus spontaneity---these opposing principles
+versus liberty, structure versus spontaneity. These opposing principles
 manifest in everything from individual moral choices to the cold war
 between continents.
 
@@ -4967,7 +4967,7 @@ to death.
 
 **The Freedom Alliance: Aethor and Sylvara**
 
-Both gods value freedom from constraint---Aethor for people, Sylvara for
+Both gods value freedom from constraint, Aethor for people, Sylvara for
 nature. Their followers often find common cause against civilizations
 that would control both. The druid circles and the liberation movements
 have cooperated historically on issues affecting both populations and
@@ -4996,7 +4996,7 @@ his critics see as inconsistency.
 Established in 400 CR, the Celestial Council provides a forum for
 coordination among the major religious institutions. Representatives of
 all Seven meet periodically to discuss matters of common
-concern---responding to threats against the faithful, coordinating
+concern, responding to threats against the faithful, coordinating
 relief efforts during disasters, and maintaining some semblance of
 inter-faith cooperation.
 
@@ -5026,7 +5026,7 @@ before creation itself took its current form. They are worshipped not
 through temples but through primal magic and druidic rites.
 
 The relationship between Primordials and gods remains unclear. Some
-scholars believe the gods emerged from the Primordials---that the Seven
+scholars believe the gods emerged from the Primordials. That the Seven
 Ascended drew their original power from these elemental forces before
 transcending to true divinity. Others argue that Primordials and gods
 represent fundamentally different categories of existence, coexisting in
@@ -5034,7 +5034,7 @@ ways mortals cannot fully comprehend.
 
 Unlike the Seven Ascended, Primordials do not have personalities in the
 mortal sense. They do not make moral judgments, answer prayers, or take
-sides in conflicts. They simply *are*---vast, impersonal forces that
+sides in conflicts. They simply *are*: vast, impersonal forces that
 shape reality through their existence rather than their will.
 
 ### 14.2 The Six Known Primordials
@@ -5055,7 +5055,7 @@ presence causing the geothermal activity that
 
 characterizes the Ashfall
 Wastes and similar locations. The fire cults of Ashgate maintain that
-their city exists because Ignar tolerates it---that the volcano's eruptions are contained by the Primordial's slumbering will.
+their city exists because Ignar tolerates it. That the volcano's eruptions are contained by the Primordial's slumbering will.
 
 Druids who attune to Ignar's power can command flames and resist fire,
 but they also tend toward passionate temperaments and difficulty with
@@ -5070,7 +5070,7 @@ tide.
 
 Thalassia is believed to be aware but distant, its consciousness
 embodied in the Sundering Sea itself. Some sailors claim to have
-glimpsed its attention during storms---a vast awareness that notices
+glimpsed its attention during storms, a vast awareness that notices
 mortal ships the way a human might notice an ant on their arm. Whether
 it cares about mortals at all remains debated.
 
@@ -5080,12 +5080,12 @@ dreaming presence.
 
 **Terrax, the Stone That Dreams**
 
-The Primordial of Earth embodies the bones of the world---eternal,
+The Primordial of Earth embodies the bones of the world, eternal,
 patient, and fundamentally stable. Terrax represents permanence,
 endurance, and the slow processes that shape landscapes over millennia.
 
 Terrax is ever-present in the deep places beneath Tirvandor. Dwarven
-legends speak of encountering its awareness in the deepest delves---not
+legends speak of encountering its awareness in the deepest delves, not
 as a being but as a pervasive sense that the stone itself is alive and
 watching. Whether this represents true consciousness or merely the
 attribution of intent to natural phenomena, none can say.
@@ -5110,7 +5110,7 @@ vast distances, and the invisible force that shapes weather and climate.
 Unlike the other Primordials, Zephyros cannot be localized. It is
 constantly moving, never contained, present wherever air flows. This
 makes it perhaps the most accessible Primordial to mortal
-perception---every breath taken is an interaction with Zephyros' domain.
+perception, every breath taken is an interaction with Zephyros' domain.
 
 Those who attune to air magic often become restless, uncomfortable with
 confinement, and possessed of wanderlust that can never be fully
@@ -5119,7 +5119,7 @@ satisfied.
 **Verdania, the Ever-Growing**
 
 The Primordial of Life (sometimes called Wood or Growth) embodies the
-force of living things---the drive to survive, reproduce, and spread.
+force of living things, the drive to survive, reproduce, and spread.
 Verdania represents the cycle of growth and decay, the competition for
 resources, and the overwhelming fecundity of nature.
 
@@ -5136,14 +5136,14 @@ artificial constraints of civilization.
 **Noctis, the Void Between**
 
 The Primordial of Darkness (sometimes called Shadow or Void) embodies
-the spaces between existence---potential unrealized, secrets hidden, and
+the spaces between existence, potential unrealized, secrets hidden, and
 the mystery of what lies beyond the known. Noctis represents not evil
 but absence, not malice but mystery.
 
 Noctis lurks in shadows, neither good nor evil but simply *other*. It is
 the Primordial most difficult to understand because understanding
 requires illumination, and Noctis is the absence of light. Some scholars
-believe it represents possibility---the infinite potential of what has
+believe it represents possibility, the infinite potential of what has
 not yet been determined.
 
 Those who attune to shadow magic must be careful not to lose themselves
@@ -5158,7 +5158,7 @@ The Primordials influence the modern world in several ways:
 
 Druids and certain other practitioners draw power directly from the
 Primordials rather than from the gods. This magic tends to be less
-refined than divine magic---rawer, more powerful, and more dangerous. A
+refined than divine magic: rawer, more powerful, and more dangerous. A
 cleric channels their deity's will; a druid channels elemental force
 that has no will to channel.
 
@@ -5203,7 +5203,7 @@ culturally acceptable, but are suppressed in most other regions due to
 their tendency toward destructive rituals.
 
 Some fire cultists genuinely seek to honor the creative aspect of
-flame---the forge-fire and hearth-fire. Others are drawn to destruction,
+flame, the forge-fire and hearth-fire. Others are drawn to destruction,
 believing that burning away the corrupt world will allow something
 better to emerge.
 
@@ -5350,7 +5350,7 @@ power structures to advance their goals of conquest and control.
 **Shaelis the Whisperer**
 
 Once the goddess of Secrets, Poison, and Assassination, Shaelis
-represented the dark side of information---knowledge used to kill rather
+represented the dark side of information, knowledge used to kill rather
 than enlighten. Her symbol was a dagger in shadow, and her alignment was
 Neutral Evil.
 
@@ -5365,14 +5365,14 @@ cells still operate in
 shadows, offering services to those who need
 enemies removed quietly.
 
-Her remaining followers claim she represents necessary evil---that some
+Her remaining followers claim she represents necessary evil. That some
 secrets must be kept, some poisons administered, some threats eliminated
 before they can cause greater harm.
 
 **Morthax the Ever-Dying**
 
 Once the god of Undeath, Decay, and Entropy, Morthax offered an
-alternative to Mordain's natural death---eternal existence through
+alternative to Mordain's natural death, eternal existence through
 undeath. His symbol was a skull with green flames, and his alignment was
 Neutral Evil.
 
@@ -5388,13 +5388,13 @@ millennia and shows no signs of resolution.
 
 The most mysterious of the Forgotten Ones, the Bound God's former
 domains are unknown because records were deliberately destroyed. Its
-symbol is unknown. Speaking its true name is taboo---forbidden not
+symbol is unknown. Speaking its true name is taboo, forbidden not
 merely by law but by divine decree from the other gods.
 
 According to fragmentary accounts, the Bound God was imprisoned before
 the Worldrend by the combined action of the other deities. What it did
 to merit such punishment, what powers it once wielded, and whether it
-might someday escape---these questions have no public answers.
+might someday escape. These questions have no public answers.
 
 Some scholars believe the Bound God may be connected to the Bound
 Ancients imprisoned beneath Tirvandor. Others argue these are separate
@@ -5431,7 +5431,7 @@ maintaining basic inter-faith cooperation.
 
 The Council's decisions are advisory rather than binding, but temples
 that ignore Council pronouncements risk losing the cooperation of other
-faiths---a significant penalty in a world where most people worship
+faiths, a significant penalty in a world where most people worship
 multiple gods.
 
 **The Order of the Threefold Path**
@@ -5444,7 +5444,7 @@ the innocent.
 The philosophy holds that Aethor brings light that reveals truth, Moira
 weaves the threads of fate that determine outcomes, and Mordain ensures
 proper endings. Together, they represent the full span of
-existence---birth through death, illumination through obscurity.
+existence, birth through death, illumination through obscurity.
 
 The Order specializes in hunting supernatural threats: undead, demons,
 aberrations, and other beings that threaten the natural order. Their
@@ -5470,7 +5470,7 @@ sites are threatened.
 
 **Structure:**
 
-The Green Faith is governed by a Council of Elders---seven druids, each
+The Green Faith is governed by a Council of Elders, seven druids, each
 representing a different aspect of nature. Regional circles report to
 the council, but individual druids maintain significant autonomy.
 Decisions are made by consensus rather than decree.
@@ -5535,7 +5535,7 @@ both continents.
 Death clerics and undead hunters dedicated to Mordain, they ensure
 proper burial rites, comfort the bereaved, and most importantly, destroy
 undead wherever found. Grim but necessary, they command universal
-respect---and fear.
+respect, and fear.
 
 {{pageNumber,auto}}
 {{footnote Chapter 16: Religious Structures and Faith}}
@@ -5587,7 +5587,7 @@ divine reliability.
 When divine magic failed, arcane magic filled the void. Wizard schools
 expanded, sorcerous bloodlines were cultivated, and magical research
 accelerated. The relationship between divine and arcane traditions was
-never quite the same---arcane practitioners retained the prestige gained
+never quite the same, arcane practitioners retained the prestige gained
 during the Silence, and some viewed their magic as more reliable than
 that of clerics.
 
@@ -5603,7 +5603,7 @@ exposure to unreliable followers.
 
 Where did the gods go? Why did they return? Are they as powerful as they
 claim? These questions haunt theological scholars. The gods' silence on
-the matter itself speaks volumes---or perhaps says nothing at all.
+the matter itself speaks volumes, or perhaps says nothing at all.
 \column
 *Diverse Interpretations*
 
@@ -5647,14 +5647,14 @@ personal commitments rather than direct divine service. Their power
 comes from the strength of their conviction as much as from any deity.
 
 A paladin might serve Thandros without being a cleric of
-Thandros---their oath of justice aligns with his principles without
+Thandros, their oath of justice aligns with his principles without
 requiring direct service. This makes paladins somewhat independent of
 temple hierarchies, which creates occasional tension.
 
 **Divine Soul Sorcerers**
 
 Some individuals are born with an innate connection to divine energy,
-often seen as chosen or blessed. They don't pray for power---it's
+often seen as chosen or blessed. They don't pray for power. It's
 inherent to their nature. The gods may have selected them, or they may
 simply have been born at the right confluence of cosmic forces.
 
@@ -5716,7 +5716,7 @@ but the emphasis on religious freedom means all faiths flourish.
 Island communities practice syncretic religion, blending eastern and
 western traditions into practical faith focused on immediate needs. A
 sailor might invoke Kalythra for storms, Kael for navigation, Sera for
-healing, and local spirits for luck---all in the same voyage.
+healing, and local spirits for luck, all in the same voyage.
 
 Faith in the islands is pragmatic. What works is what matters.
 Theological disputes that consume mainland scholars are largely
@@ -5728,7 +5728,7 @@ govern wind and wave.
 ### 16.5 Interaction with Other Planes
 
 
-The gods reside in the Celestial Realms---planes of existence adjacent
+The gods reside in the Celestial Realms, planes of existence adjacent
 to the material world. However, they are not the only powers mortals
 might encounter or serve.
 
@@ -5752,7 +5752,7 @@ terrible prices.
 **Devil Archdukes**
 
 Lawful evil entities of the Nine Hells offer more structured bargains
-than demons---contracts rather than chaos. Their cults operate more
+than demons, contracts rather than chaos. Their cults operate more
 subtly, sometimes disguising themselves as legitimate organizations. The
 line between a devil cult and a corrupt merchant guild can be
 surprisingly thin.
@@ -5761,7 +5761,7 @@ surprisingly thin.
 
 Elemental entities from the elemental planes sometimes take interest in
 mortal affairs. Those who serve them gain access to elemental magic, but
-the relationship is impersonal---elements don't care about their
+the relationship is impersonal, elements don't care about their
 servants the way gods do.
 
 **Great Old Ones**
@@ -5775,7 +5775,7 @@ though the entities themselves may not even notice their worshippers.
 :
 
 *The gods of Tirvandor are real but not omnipotent. They have agendas,
-make mistakes, and compete with each other---sometimes subtly, sometimes
+make mistakes, and compete with each other, sometimes subtly, sometimes
 openly. Mortals must navigate these divine politics while maintaining
 their own agency and pursuing their own goals. The religious landscape
 is complex, and simple answers are rare.*
@@ -5799,14 +5799,14 @@ on military tradition, rigid social order, and the belief that law and
 discipline create the foundation for civilization. From the
 fortress-capital of Kaer Thandros in the Ironspine Mountains to the
 merchant ports of the Goldcoast, Thaldros represents one vision of how
-society should function---orderly, hierarchical, and strong.
+society should function—orderly, hierarchical, and strong.
 
 **Character of the Kingdom**
 
 Thaldros is first and foremost a martial culture. Military service is
 honored above almost all other callings, discipline is valued as the
 highest virtue, and the kingdom's history is measured in battles won
-and enemies defeated. The architecture reflects this---massive stone
+and enemies defeated. The architecture reflects this, massive stone
 fortifications, defensive walls around every major settlement, and civic
 buildings designed to withstand siege.
 
@@ -5860,7 +5860,7 @@ Thaldros culture.
 **The Current Monarch**
 
 King Aldric IV Thandris rules from the Iron Throne in Kaer Thandros.
-Born in 1195 CR, he is now fifty-two years old---aging but still strong,
+Born in 1195 CR, he is now fifty-two years old, aging but still strong,
 weathered by decades of rule but not yet diminished. He took the throne
 in 1230 CR after his father died defending Ironhold from giant raids.
 
@@ -5872,7 +5872,7 @@ major engagement.
 
 But stability has come at a cost. Aldric's focus on external threats
 has left him blind to internal corruption. His rigid refusal to
-compromise---a trait he considers strength---has worsened relations with
+compromise, a trait he considers strength, has worsened relations with
 Aethoria. And secrets from his family's past hang over the succession
 like storm clouds.
 
@@ -5882,7 +5882,7 @@ Aldric speaks in clipped, military tones; every word has purpose. He
 stands when others enter the room out of both respect and dominance. He
 constantly assesses threats and tactical situations, viewing every
 problem through a martial lens. He values loyalty above all other
-virtues---and struggles to accept that loyal subordinates might still
+virtues, and struggles to accept that loyal subordinates might still
 give him unwelcome news.
 
 His greatest flaw is stubbornness. Once he makes a decision, he refuses
@@ -5917,7 +5917,7 @@ promise as a warrior.
 
 **The Succession Secret**
 
-Crown Prince Thorin was born in 1222 CR---three years before King Aldric
+Crown Prince Thorin was born in 1222 CR, three years before King Aldric
 officially married Queen Mara in 1225 CR. The marriage was hastened when
 Aldric's two older brothers died in rapid succession, making him heir
 apparent with an illegitimate son about to be born.
@@ -5932,7 +5932,7 @@ legitimate" claimants.
 **The High King Question**
 
 King Aldric claims not just rulership of Thaldros but the title of High
-King---legitimate ruler of the unified realm that existed before the
+King, legitimate ruler of the unified realm that existed before the
 Worldrend. He believes that Prince Theron (the ancestor of House
 Thandris) was the rightful heir to the old kingdom, making his
 descendants the only legitimate rulers of Tirvandor.
@@ -5940,7 +5940,7 @@ descendants the only legitimate rulers of Tirvandor.
 House Aethermere of the eastern continent makes the same claim based on
 Prince Aethos (Theron's brother). This dispute has simmered for 1,247
 years and shows no sign of resolution. The question of which heir was
-legitimate---if either was---may never be answered, but it shapes every
+legitimate, if either was, may never be answered, but it shapes every
 diplomatic interaction between the continents.
 
 ### 17.3 Government Structure
@@ -5950,7 +5950,7 @@ diplomatic interaction between the continents.
 
 In theory, the King of Thaldros holds absolute authority over his realm.
 He commands the military, appoints officials, dispenses justice, and
-sets policy. His word is law, literally---royal decrees carry the same
+sets policy. His word is law, literally, royal decrees carry the same
 weight as statutes passed by any council.
 
 In practice, royal power is constrained by nobles who control their own
@@ -6032,7 +6032,7 @@ levies.
 
 The permanent army is stationed primarily at Kaer Thandros, with
 garrisons at major fortresses throughout the kingdom. These are career
-soldiers---well-trained, well-equipped, and loyal to the crown. They
+soldiers, well-trained, well-equipped, and loyal to the crown. They
 form the backbone of Thaldros military power.
 
 **Organization**
@@ -6056,7 +6056,7 @@ highest ranks remain firmly in noble hands.
 **The Iron Legion**
 
 The name "Iron Legion" is used for Thaldros' internal security
-force---distinct from the mercenary company of the same name. These
+force, distinct from the mercenary company of the same name. These
 enforcers maintain order through fear and violence, called upon when the
 regular army isn't harsh enough.
 
@@ -6095,7 +6095,7 @@ of pity and contempt.
 
 Each noble house is required to provide troops when called by the crown.
 The size of the levy depends on the house's wealth and holdings. These
-troops vary widely in quality---some houses maintain professional forces
+troops vary widely in quality, some houses maintain professional forces
 nearly equal to the Royal Army, while others send barely-armed peasants.
 
 **City Watches**
@@ -6231,12 +6231,12 @@ For most Thaldros citizens, life follows predictable patterns:
 **Peasants and Serfs:** Rise at dawn, work the fields or perform their
 assigned tasks, eat simple meals of bread, vegetables, and occasional
 meat, attend local religious observances, and sleep when darkness falls.
-Their lives are hard but not necessarily brutal---a wise lord protects
+Their lives are hard but not necessarily brutal, a wise lord protects
 his peasants because their labor produces his wealth.
 
 **Urban Commoners:** Shop-keepers, artisans, and laborers work from dawn
 to dusk in cities. They have more variety in their lives than rural
-peasants but also more uncertainty---economic downturns can destroy
+peasants but also more uncertainty, economic downturns can destroy
 livelihoods overnight.
 
 **Merchants:** The most dynamic class, constantly traveling,
@@ -6300,7 +6300,7 @@ authorities rather than left to individual conscience.
 
 Thaldros culture is somewhat provincial. Foreigners are tolerated but
 rarely fully accepted. Aethorians are viewed with particular
-suspicion---their rejection of proper order marks them as dangerous or
+suspicion, their rejection of proper order marks them as dangerous or
 foolish. The coastal cities are more cosmopolitan, but even there,
 merchants from across the sea are business partners rather than social
 equals.
@@ -6317,7 +6317,7 @@ both sides. Other races are judged individually, usually with suspicion.
 
 Thaldros law is a complex mixture of royal decrees, traditional customs,
 and local regulations. The fundamental principle is that law serves
-order---justice exists to maintain social stability rather than to
+order, justice exists to maintain social stability rather than to
 achieve abstract fairness.
 \column
 **Categories of Crime:**
@@ -6351,7 +6351,7 @@ Justice is administered at multiple levels:
     serious cases, crimes against the crown, and disputes between nobles
 
 Nobles accused of crimes are judged by their peers or by the king
-himself. Commoners have no such protection---they face whatever justice
+himself. Commoners have no such protection. They face whatever justice
 their local lord sees fit to dispense.
 
 **Punishment**
@@ -6385,7 +6385,7 @@ nobles without noble sponsorship. Their testimony is worth less than
 noble testimony in court. They can be conscripted, taxed, and punished
 largely at their lord's discretion.
 
-Nobles have more protections---they cannot be imprisoned without trial,
+Nobles have more protections. They cannot be imprisoned without trial,
 they are judged by peers rather than inferiors, and their property
 cannot be seized without due process. But even nobles can be broken by a
 king determined to destroy them.
@@ -6402,7 +6402,7 @@ king determined to destroy them.
 The relationship between Thaldros and Aethoria is defined by the ancient
 succession dispute. Both kingdoms claim legitimate descent from the
 pre-Worldrend High Kings; neither recognizes the other's claim. This
-makes formal diplomacy nearly impossible---every interaction becomes a
+makes formal diplomacy nearly impossible, every interaction becomes a
 protocol battle over who outranks whom.
 
 Despite political hostility, trade continues. Both continents need what
@@ -6462,8 +6462,8 @@ agenda.
 **The Succession Question**
 
 Crown Prince Thorin's legitimacy, while publicly unquestioned, rests on
-concealed facts about his birth. Those who know the truth---particularly
-General Marthos Thandris---hold dangerous leverage. Should this secret
+concealed facts about his birth. Those who know the truth, particularly
+General Marthos Thandris, hold dangerous leverage. Should this secret
 emerge, it could trigger succession crisis, civil conflict, or foreign
 intervention.
 
@@ -6487,7 +6487,7 @@ require the king to admit he has been mistaken.
 **Religious Tensions**
 
 The state church system creates stability but also resentment. Those who
-worship differently---followers of Aethor particularly---face official
+worship differently, followers of Aethor particularly, face official
 disapproval. Underground religious movements challenge the established
 order, and some reformers question whether the state should control
 religion at all.
@@ -6505,19 +6505,19 @@ become unmanageable.
 King Aldric genuinely believes his claim to the High Kingship is
 legitimate. He wants reunification under Thandris rule, believing it
 would benefit both continents. But Aethoria will never willingly submit,
-and forcing the issue would mean war---a war Thaldros might not win and
+and forcing the issue would mean war, a war Thaldros might not win and
 would certainly find costly.
 
 **Historical Secrets**
 
 The truth about House Blackwood's destruction (1089 CR) haunts the
-kingdom. The official story---that the Blackwoods were traitors who
-sought to trigger another Worldrend---is a lie concealing royal crimes.
+kingdom. The official story. That the Blackwoods were traitors who
+sought to trigger another Worldrend, is a lie concealing royal crimes.
 Should this truth emerge, it would shake the legitimacy of the entire
 Thandris dynasty.
 
 *The Kingdom of Thaldros presents itself as a model of order and
-strength. And in many ways, it is---stable, prosperous, and secure. But
+strength. And in many ways, it is: stable, prosperous, and secure. But
 beneath the surface, secrets fester, ambitions simmer, and the rigid
 structures that provide stability also prevent necessary change. Whether
 Thaldros will adapt to meet its challenges or crack under their weight
@@ -6538,7 +6538,7 @@ remains to be seen.*
 
 
 The eastern continent of Aethoria stands as the philosophical opposite
-of Thaldros---a land where personal freedom, natural harmony, and
+of Thaldros, a land where personal freedom, natural harmony, and
 democratic governance define civilization. Where Thaldros chose order
 after the Worldrend, Aethoria chose liberty. Where the west-built
 fortresses and hierarchies, the east built councils and grew cities
@@ -6549,7 +6549,7 @@ among ancient trees.
 Aethoria is not a single unified nation like Thaldros. It is a loose
 confederation of allied states, each maintaining significant autonomy
 while cooperating on matters of mutual concern. The largest and most
-influential of these is the Aethorian Harmony---an elven-dominated
+influential of these is the Aethorian Harmony, an elven-dominated
 council system based in the capital city of Aethermere. But the
 Crystalbrook Compact, the Thornmire Concordat, and numerous independent
 communities all contribute to the complex political tapestry of the
@@ -6584,7 +6584,7 @@ of living wood.
 
 **The Starwood:** Northwestern forests where the trees grow tall enough
 to seemingly touch the stars. Celestial magic concentrates here, and
-meteor falls are common enough that a city---Starfall---was built in an
+meteor falls are common enough that a city, Starfall, was built in an
 impact crater.
 
 **The Crystalvale:** Central lake country, home to the Crystalbrook
@@ -6645,7 +6645,7 @@ world-trees.
 
 **Decision-Making:**
 
-Consensus is required for major decisions. This can take years---even
+Consensus is required for major decisions. This can take years, even
 decades for the most significant choices. Elven patience and long
 lifespans make this feasible in ways that would paralyze a human
 government. The process frustrates shorter-lived races, but it also
@@ -6653,25 +6653,25 @@ means that when the Harmony finally acts, it acts with genuine unity.
 
 **Notable Leaders:**
 
-*Speaker Ellandris Starweaver* --- High elf, over 400 years old. The
+*Speaker Ellandris Starweaver*,  High elf, over 400 years old. The
 most influential voice among the Seven, she represents traditionalist
 values: preserving ancient forests, maintaining elven customs, limiting
 engagement with outsiders. Her long memory includes events that humans
 experience only as history.
 
-*Speaker Arien Swiftbrook* --- Half-elf, much younger by elven
+*Speaker Arien Swiftbrook*,  Half-elf, much younger by elven
 standards. Advocates for change, greater engagement with other races,
 and adaptation to evolving circumstances. Represents a growing faction
 that believes isolation is no longer viable.
 
-*Archdruid Thornbark* --- Not officially part of government, but his
+*Archdruid Thornbark*,  Not officially part of government, but his
 influence exceeds most Speakers. When he expresses an opinion, the
-forest itself seems to listen. Age unknown---possibly centuries,
+forest itself seems to listen. Age unknown, possibly centuries,
 possibly millennia.
 
 **The Royal House of Aethermere**
 
-Complicating the democratic structure is House Aethermere---the royal
+Complicating the democratic structure is House Aethermere, the royal
 dynasty that claims descent from Prince Aethos, younger son of the last
 High King before the Worldrend. They are technically monarchs, but they
 rule very differently than western kings.
@@ -6681,8 +6681,8 @@ rule very differently than western kings.
 Unlike hereditary succession in Thaldros, Aethermere's rulers are
 chosen through ritual communion with the world-trees themselves. When a
 ruler grows old or prepares to step down, candidates undergo a sacred
-ceremony. The world-trees---through means no outsider has
-witnessed---select the next monarch. The chosen heir need not be a blood
+ceremony. The world-trees—through means no outsider has
+witnessed, select the next monarch. The chosen heir need not be a blood
 relative; indeed, several rulers throughout history have been complete
 outsiders to the royal family.
 
@@ -6696,7 +6696,7 @@ know its secrets. The truth is likely somewhere between.
 Age 1,494, one of the oldest living elves in Tirvandor. A powerful druid
 and accomplished statesperson, Aelindra was chosen by the world-trees
 over a century ago. Since her coronation, she has been rendered
-childless by the ritual's magic---a price all chosen rulers pay. She
+childless by the ritual's magic, a price all chosen rulers pay. She
 has two adult children from before taking the throne: Eldrin (158) and
 Elanil (142), neither of whom is eligible to inherit by tradition.
 
@@ -6709,16 +6709,16 @@ debates about Aethoria's future direction.
 
 The Queen has already chosen her heir through the world-tree ritual, and
 the choice has divided the court. Theron Aethermere is not a blood
-relative---he was chosen by the world-trees themselves, supposedly. More
+relative. He was chosen by the world-trees themselves, supposedly. More
 controversially, he is a half-elf, the first non-pure-blooded heir in
-Aethorian history. His name---the same as a legendary western
-prince---has raised suspicious eyebrows.
+Aethorian history. His name, the same as a legendary western
+prince, has raised suspicious eyebrows.
 
 Some claim the Queen selected him herself and merely used the ritual to
 legitimize her choice. Others believe the world-trees chose
 deliberately, signaling that old divisions between races must end if the
 forest is to survive. The debate continues, and Theron's eventual
-coronation---whenever it comes---will be a defining moment for Aethoria.
+coronation, whenever it comes, will be a defining moment for Aethoria.
 
 **The Crystalbrook Compact**
 
@@ -6788,7 +6788,7 @@ adapted to swamp life, developing unique cultures and expertise.
 **Philosophy of Defense**
 
 Aethoria has no standing army in the Thaldros sense. The very concept
-runs counter to Aethorian values---a permanent military force implies
+runs counter to Aethorian values, a permanent military force implies
 permanent authority over those who serve in it, which conflicts with
 principles of individual freedom. Instead, Aethoria relies on a
 decentralized system of militia, rangers, and druids who serve when
@@ -6798,9 +6798,9 @@ This approach has worked for centuries, primarily because Aethoria's
 geography provides natural defenses. The Sundering Sea separates it from
 Thaldros, making invasion difficult. The deep forests and swamps are
 nightmarish terrain for conventional armies. And the magical beings who
-call Aethoria home---druids who can call upon nature itself, rangers who
+call Aethoria home, druids who can call upon nature itself, rangers who
 fight as guerrillas, creatures of the forest who answer to those who
-respect the land---provide unconventional capabilities that compensate
+respect the land, provide unconventional capabilities that compensate
 for lack of professional soldiers.
 
 **Military Assets**
@@ -6817,7 +6817,7 @@ animal companions or druidic training.
 
 **Druids:** Not soldiers in the conventional sense, but formidable in
 defense of their lands. A druid circle defending its sacred grove can
-call upon the forest itself---trees that entangle enemies, animals that
+call upon the forest itself, trees that entangle enemies, animals that
 attack in coordinated swarms, weather that turns against invaders. No
 conventional army wants to fight druids on their home ground.
 
@@ -6826,8 +6826,8 @@ ranger skills with formal organization. They patrol the borders of the
 Emerald Deeps and respond to threats against the capital.
 
 **Beast Companions:** Aethoria's forces include trained
-animals---wolves, bears, great cats, and more exotic
-creatures---fighting alongside their humanoid allies. Some druids can
+animals: wolves, bears, great cats, and more exotic
+creatures, fighting alongside their humanoid allies. Some druids can
 assume animal forms themselves, adding another dimension to Aethorian
 military capability.
 
@@ -6838,7 +6838,7 @@ reconnaissance, rapid response, and strikes against high-value targets.
 **Strengths and Weaknesses**
 
 Aethoria's military is superb at defense, guerrilla warfare, and
-unconventional operations. Invading Aethoria is a nightmare---the land
+unconventional operations. Invading Aethoria is a nightmare, the land
 itself fights back. But Aethoria cannot project power effectively. It
 lacks the logistical infrastructure for sustained offensive campaigns.
 Its forces are poorly suited to siege warfare or set-piece battles.
@@ -6868,7 +6868,7 @@ unavailable anywhere else.
 
 **Natural Resources:** Rare woods from the ancient forests, alchemical
 components from the swamps, crystals with magical properties from the
-Crystalvale. These resources are harvested sustainably---druids ensure that extraction never exceeds what the land can bear.
+Crystalvale. These resources are harvested sustainably, druids ensure that extraction never exceeds what the land can bear.
 
 **Agricultural Products:** The Brightwater Valley produces grain
 sufficient for Aethoria's needs with surplus for export. Specialty
@@ -6886,7 +6886,7 @@ magical and mundane understanding alike.
 
 The Merchant League operates across both continents, maintaining
 relationships that transcend political hostility. Aethoria trades with
-Thaldros despite the cold war---both sides need what the other produces.
+Thaldros despite the cold war, both sides need what the other produces.
 The islands of the Sundering Sea serve as neutral meeting grounds where
 merchants from east and west can conduct business without their
 nations' conflicts interfering.
@@ -6923,8 +6923,8 @@ cannot match. A 400-year-old elf has seen historical events that humans
 experience only through books. This creates an implicit power imbalance
 even in ostensibly equal relationships.
 
-**By Magical Ability:** Those who can work magic---druids, wizards,
-sorcerers---command respect that the magically inert do not. Magic is so
+**By Magical Ability:** Those who can work magic: druids, wizards,
+sorcerers, command respect that the magically inert do not. Magic is so
 woven into Aethorian life that lacking it is a genuine disadvantage.
 
 **By Profession:** Guild membership and professional status matter,
@@ -6950,7 +6950,7 @@ through service. The barriers are real but permeable.
 Life moves at a pace dictated by centuries-long perspectives. Decisions
 that seem urgent to humans appear as momentary concerns to elves who
 remember events from before human grandparents were born. Cities exist
-in harmony with nature---buildings grow from living wood, streets follow
+in harmony with nature, buildings grow from living wood, streets follow
 natural contours, and the boundary between settlement and forest blurs.
 
 Daily rhythms follow natural cycles rather than rigid schedules. Markets
@@ -6967,7 +6967,7 @@ familiar to humans while retaining Aethorian freedom.
 
 **In the Thornmire:**
 
-Adapted to swamp rhythms---tides, floods, seasons. Communities are small
+Adapted to swamp rhythms: tides, floods, seasons. Communities are small
 and tight-knit. Everyone contributes to survival. Outsiders are viewed
 with suspicion until they prove themselves. Life is harder than in the
 interior but produces fierce independence.
@@ -7080,7 +7080,7 @@ Individual rights are taken seriously:
 
 -   Right to practice faith as one chooses
 
-These rights are not absolute---they can be limited when they conflict
+These rights are not absolute. They can be limited when they conflict
 with others' rights or community welfare. But the presumption favors
 liberty, with restrictions requiring justification.
 
@@ -7090,24 +7090,24 @@ liberty, with restrictions requiring justification.
 **Thaldros**
 
 The defining relationship in Aethorian foreign policy. The ancient
-succession dispute---both kingdoms claiming descent from the
-pre-Worldrend High Kings---creates permanent tension. Neither recognizes
+succession dispute, both kingdoms claiming descent from the
+pre-Worldrend High Kings, creates permanent tension. Neither recognizes
 the other's legitimacy. Diplomatic protocols become battles over
 precedence.
 
 Aethoria views Thaldros as tyranny dressed in noble clothes. The rigid
 hierarchy, the military discipline, the suppression of
-dissent---everything Aethoria rejected after the Worldrend. That
+dissent, everything Aethoria rejected after the Worldrend. That
 Thaldros functions, even prospers, does not redeem it. Functional
 oppression is still oppression.
 
 Yet trade continues. The Sundering Sea makes invasion impractical. Cold
-war has become the natural state---neither peace nor active conflict,
+war has become the natural state, neither peace nor active conflict,
 just endless tension and occasional provocations.
 
 If Thaldros somehow invaded successfully, Aethoria would never submit.
 The population would resist, the land itself would fight, and occupation
-would be impossible. But Aethoria also cannot threaten Thaldros---its
+would be impossible. But Aethoria also cannot threaten Thaldros, its
 decentralized military cannot project power across the sea.
 
 **The Islands**
@@ -7144,7 +7144,7 @@ could theoretically withdraw.
 Theron Aethermere's selection as heir has divided Aethorian society.
 Traditionalists see a half-elf inheriting the throne as an insult to
 ancient customs. Progressives see it as a necessary evolution. The
-debate touches on fundamental questions about Aethorian identity---is it
+debate touches on fundamental questions about Aethorian identity, is it
 an elven civilization that tolerates other 
 
 {{pageNumber,auto}}
@@ -7162,7 +7162,7 @@ chosen-heir system can survive its most controversial selection.
 
 A secret known only to the innermost circle: one of the five world-trees
 that form Aethermere's heart is slowly dying. The cause is unknown. The
-implications are terrifying. These trees are more than buildings---they
+implications are terrifying. These trees are more than buildings. They
 are the spiritual and magical foundation of elven civilization. If one
 can die, others might follow. The forest's health seems to be declining
 in ways even powerful druids struggle to understand.
@@ -7184,7 +7184,7 @@ Thaldros would mean Thaldros had already won.
 
 The very long lives of elves create an unusual problem. Elders who
 remember events from centuries ago hold power and influence. Younger
-generations---still young after a century---feel stifled by those who
+generations, still young after a century, feel stifled by those who
 refuse to adapt to changed circumstances. This tension plays out in
 debates about everything from foreign policy to local regulations.
 
@@ -7207,14 +7207,14 @@ Others argue that magical solutions can overcome natural limits.
 
 Like Thaldros, Aethoria claims the legitimate succession from the
 pre-Worldrend High Kings. If the continents ever reunified, who would
-rule? The question seems academic---reunification appears
-impossible---but it shapes every interaction between east and west. And
+rule? The question seems academic, reunification appears
+impossible, but it shapes every interaction between east and west. And
 some quietly wonder whether the succession dispute might someday be
 resolved, creating opportunities or dangers that current policies don't
 anticipate.
 
 
-*Aethoria presents itself as freedom's champion---a realm where
+*Aethoria presents itself as freedom's champion, a realm where
 individual liberty and natural harmony create flourishing civilization.
 And in many ways, it is. But freedom creates its own challenges.
 Consensus takes time. Decentralization limits power. And the very
@@ -7260,7 +7260,7 @@ civilized heartlands:
 
 The southwestern badlands peninsula, where volcanic terrain and distance
 from Kaer Thandros make royal control impractical. Settlements here
-answer to whoever can enforce their will. The land is harsh---volcanic
+answer to whoever can enforce their will. The land is harsh, volcanic
 rock formations rise like clawed fingers from the earth, and the soil is
 poor for farming. Those who live here are miners, outlaws, or those
 seeking to disappear.
@@ -7297,8 +7297,8 @@ profit from instability.
 **Life in the Contested Lands:** For those who dwell here, survival
 depends on self-reliance, knowing who to pay, and maintaining useful
 alliances. The law is whatever the strongest faction declares it to be.
-Justice is swift, often brutal, and rarely fair. Yet for many---outlaws,
-refugees, those with dark pasts---this lawlessness represents freedom.
+Justice is swift, often brutal, and rarely fair. Yet for many, outlaws,
+refugees, those with dark pasts. This lawlessness represents freedom.
 
 {{pageNumber,auto}}
 {{footnote Chapter 19: The Contested Lands}}
@@ -7326,7 +7326,7 @@ CR), when King Thorin I Thandris consolidated the fractured
 post-Worldrend territories under a single crown. Houses that supported
 the unification were rewarded with legitimacy and land; those that
 resisted were destroyed or absorbed. This origin shapes noble culture to
-this day---loyalty to the Crown is the supreme virtue, and rebellion is
+this day, loyalty to the Crown is the supreme virtue, and rebellion is
 the ultimate crime.
 
 **House Status Categories:**
@@ -7349,7 +7349,7 @@ the ultimate crime.
 ### 20.2 House Thandris (Royal House)
 
 
-**Status:** Dominant --- Royal House of Thaldros
+**Status:** Dominant,  Royal House of Thaldros
 
 **Region:** The Ironspine Holds
 
@@ -7364,7 +7364,7 @@ the ultimate crime.
 **History and Founding**
 
 House Thandris claims descent from the western bloodline of the
-Pre-Worldrend High Kings---specifically from Prince Theron, elder son of
+Pre-Worldrend High Kings—specifically from Prince Theron, elder son of
 the last unified ruler. Whether this claim is historically accurate
 remains one of Tirvandor's greatest controversies, but it has served as
 the foundation of Thandris legitimacy for over twelve centuries.
@@ -7402,24 +7402,24 @@ artifacts), and their claim to royal legitimacy.
 
 **Current Leadership**
 
-*King Aldric IV Thandris* (age 52, human) --- Strong but aging ruler.
+*King Aldric IV Thandris* (age 52, human),  Strong but aging ruler.
 Military reformer who established the Northern Guard and modernized the
 army through his "Iron Reforms." Three children secure succession
 (seemingly). Frustrated by Aethermere's refusal to recognize his
 legitimacy as High King. Stubborn, views compromise as weakness, blind
 to internal corruption.
 
-*Queen Mara Thandris* (née Ironforge, dwarven alliance) --- Moderating
+*Queen Mara Thandris* (née Ironforge, dwarven alliance),  Moderating
 influence on the king, connects the throne to the dwarven clans.
 
-*Crown Prince Thorin* (age 25) --- Heir apparent, popular with soldiers
+*Crown Prince Thorin* (age 25),  Heir apparent, popular with soldiers
 and common people. Proving himself through military service and
 diplomacy. Carries a dangerous secret regarding his birth.
 
-*Princess Elara* (age 22) --- Diplomatic and intelligent, building her
+*Princess Elara* (age 22),  Diplomatic and intelligent, building her
 own network of contacts.
 
-*Prince Marcus* (age 19) --- Youngest, currently training as a knight.
+*Prince Marcus* (age 19):  Youngest, currently training as a knight.
 
 **Holdings:**
 
@@ -7467,7 +7467,7 @@ own network of contacts.
 
 **Secrets:**
 
-*The Succession Secret:* Crown Prince Thorin was born in 1222 CR---three
+*The Succession Secret:* Crown Prince Thorin was born in 1222 CR, three
 years BEFORE King Aldric officially married Queen Mara in 1225 CR. When
 the king's two older brothers died in rapid succession, the hasty
 legitimization marriage was arranged to obscure the timing. Official
@@ -7477,18 +7477,18 @@ exposed, this could fuel challenges to Thorin's succession rights from
 "more legitimate" claimants.
 
 *The High King Question:* Aldric claims the title of High
-King---legitimate ruler of the unified pre-Worldrend realm. He believes
+King, legitimate ruler of the unified pre-Worldrend realm. He believes
 Prince Theron (ancestor of House Thandris) was the rightful heir. House
 Aethermere makes the same claim based on Prince Aethos (Theron's
-brother). No one knows the truth---all direct witnesses died 1,247 years
+brother). No one knows the truth, all direct witnesses died 1,247 years
 ago. The dispute is now about pride, politics, and power, not historical
 accuracy.
 
 *The Third Bloodline:* The king privately possesses evidence suggesting
 neither Thandris nor Aethermere has clear claim to the High King
-title---a third bloodline might exist. He keeps this hidden.
+title, a third bloodline might exist. He keeps this hidden.
 
-### 20.3 House Ironforge (Dominant --- Vassal Lords)
+### 20.3 House Ironforge (Dominant — Vassal Lords)
 
 
 **Status:** Dominant (Sworn to Thandris)
@@ -7506,7 +7506,7 @@ title---a third bloodline might exist. He keeps this hidden.
 Originally a minor dwarven clan, House Ironforge rose to prominence
 during the Unification Wars by providing superior weapons to Thorin
 Thandris. In 780 CR, Thane Durgan Ironforge swore an eternal oath to
-House Thandris---an unbreakable bond that has defined the house ever
+House Thandris, an unbreakable bond that has defined the house ever
 since. Granted eastern mining territories as reward, they transformed
 from craftsmen to nobility through shrewd management and mining
 expertise.
@@ -7529,7 +7529,7 @@ expertise.
 
 **Current Leadership**
 
-*Thane Durin Ironforge* (age 245, dwarf) --- Conservative, traditional,
+*Thane Durin Ironforge* (age 245, dwarf):  Conservative, traditional,
 wealthy. Suspicious of surface-dwellers despite human allies. Three sons
 in 
 
@@ -7541,11 +7541,11 @@ line for succession, following traditional dwarf rivalry patterns.
 
 **Three Sons:**
 
--   *Thorin* (eldest) --- Traditional, expects to inherit
+-   *Thorin* (eldest):  Traditional, expects to inherit
 
--   *Balin* (middle) --- Innovative, actually the most capable
+-   *Balin* (middle):  Innovative, actually the most capable
 
--   *Dwalin* (youngest) --- Aggressive, impatient
+-   *Dwalin* (youngest):  Aggressive, impatient
 
 **Holdings:**
 
@@ -7587,7 +7587,7 @@ line for succession, following traditional dwarf rivalry patterns.
 **Secrets:**
 
 *The Deep Things:* Miners have found ancient dwarven ruins beneath
-current mines---from before the Worldrend, possibly before recorded
+current mines, from before the Worldrend, possibly before recorded
 history. The architecture is wrong, the symbols unknown. Durin has
 sealed seven chambers and told no one. Something down there feels wrong.
 
@@ -7602,11 +7602,11 @@ eldest Thorin. Revealing his choice will cause family crisis and
 possibly violence among the brothers.
 
 *The Dragon Pact:* Durin discovered a red dragon lair near one mythril
-vein. He made a deal---Ironforge doesn't mine that vein, the dragon
+vein. He made a deal, Ironforge doesn't mine that vein, the dragon
 doesn't attack the mines. The dragon occasionally provides information
 about deep threats. If this became known, it would be scandal.
 
-### 20.4 House Blackwood (Fallen --- Lost Claimant)
+### 20.4 House Blackwood (Fallen — Lost Claimant)
 
 
 **Status:** Officially Extinct (Rumored Survivor)
@@ -7644,7 +7644,7 @@ in 1089 CR.
 -   Initial victories gave Blackwood control of Silverwood and
     Heartlands
 
--   1092 CR: Battle of Raven's Keep---Blackwood forces crushed
+-   1092 CR: Battle of Raven's Keep, Blackwood forces crushed
 
 -   Lord Aldric and all known heirs executed for treason
 
@@ -7665,7 +7665,7 @@ in 1089 CR.
 
 **Current Status**
 
-*Official:* Extinct---no living members
+*Official:* Extinct, no living members
 
 *Rumored:* A hidden heir survived, protected by loyalist house
 
@@ -7673,14 +7673,14 @@ in 1089 CR.
 
 *Legacy:* Name still whispered in Silverwood; some consider them heroes
 
-**The Lost Heir --- The Truth**
+**The Lost Heir,  The Truth**
 
 The most credible information: Lord Shadows, leader of the revolutionary
 group called "The Unbound," is actually Corvus Blackwood. Born in 1192
 CR to Blackwood survivors living in hiding under assumed names, he was
 twelve years old in 1204 CR when Crown intelligence discovered his
 family's identity. King Aldric III ordered the Second Blackwood
-Purge---soldiers came 
+Purge, soldiers came 
 
 {{pageNumber,auto}}
 {{footnote Chapter 20: Noble Houses of Thaldros}}
@@ -7693,8 +7693,8 @@ Young Corvus escaped through a secret passage. For 43 years, he has
 lived as a ghost, building a network of those wronged by the powerful.
 His investigation revealed a terrible truth: House Blackwood wasn't
 destroyed for treason. They were destroyed because they were guardians
-of the First Component of the World-Splitter---an artifact from before
-the Worldrend---and the Crown wanted it. The original rebellion of 1089
+of the First Component of the World-Splitter, an artifact from before
+the Worldrend, and the Crown wanted it. The original rebellion of 1089
 CR was manufactured. The Second Purge of 1204 CR was murder to tie up
 loose ends.
 
@@ -7705,12 +7705,12 @@ centuries of lies.
 **The Hidden Truth**
 
 House Blackwood was not guilty of treason. They were
-guardians---protectors of dangerous artifacts that the royal family
+guardians, protectors of dangerous artifacts that the royal family
 wanted for themselves. The "evidence" of their conspiracy was planted.
 The trial was rigged. An innocent family was destroyed to cover up royal
 crimes.
 
-### 20.5 House Silverleaf (Dominant --- Forest Lords)
+### 20.5 House Silverleaf (Dominant — Forest Lords)
 
 
 **Status:** Dominant (Controls Silverwood)
@@ -7740,7 +7740,7 @@ magic, retained forest holdings and fey pacts.
 **Post-Worldrend Evolution (0-450 CR):** Attempted to maintain contact
 with eastern branch (which became Starweaver). Communication failed;
 houses grew apart. In 327 CR, a diplomatic mission attempted
-reunion---they were rejected. In 450 CR, they officially adopted the
+reunion. They were rejected. In 450 CR, they officially adopted the
 name "Silverleaf."
 
 Unlike most elven houses that shun human politics, Silverleaf
@@ -7762,24 +7762,24 @@ Wars, securing their autonomy through cooperation rather than conflict.
 
 **Current Leadership**
 
-*Lady Seraphine Silverleaf* (age 1,394, wood elf) --- Matriarch of House
+*Lady Seraphine Silverleaf* (age 1,394, wood elf),  Matriarch of House
 Silverleaf. Born before the Worldrend, she remembers the unified
 kingdoms. Current political leader since 1102 CR. Supports eventual
 reunification of the continents. Grooming her son Arannis to inherit,
 but worries he's too aggressive. One of the oldest living beings in
 Thaldros.
 
-*Ranger-Lord Arannis Silverleaf* (age 156, elf) --- Seraphine's son,
+*Ranger-Lord Arannis Silverleaf* (age 156, elf),  Seraphine's son,
 commands all House Silverleaf military forces. Leads the Forest Guard
-with fierce determination. More militant than his mother---prefers
+with fierce determination. More militant than his mother, prefers
 action over negotiation. Protective of the Silverwood to a fault.
 
-*Council Mistress Elara Silverleaf* (age 342, high elf) --- Former House
+*Council Mistress Elara Silverleaf* (age 342, high elf),  Former House
 Matriarch, now Rector of Silverpine University. Most powerful wizard in
 western Tirvandor. Maintains political connections across both
 continents.
 
-*Matriarch Seraphina Silverleaf* (age 2,000+, high elf) --- The ancient
+*Matriarch Seraphina Silverleaf* (age 2,000+, high elf),  The ancient
 founder, among the oldest living elves. Remembers the world before the
 Worldrend clearly. No longer leads directly but remains family
 conscience. Knows secrets of pre-Worldrend magic and history.
@@ -7827,7 +7827,7 @@ conscience. Knows secrets of pre-Worldrend magic and history.
 **Secrets:**
 
 *The Forest Disease:* The tree deaths spreading through the Silverwood
-aren't natural---it's a magical plague from before the Worldrend,
+aren't natural. It's a magical plague from before the Worldrend,
 sealed away and 
 
 {{pageNumber,auto}}
@@ -7841,7 +7841,7 @@ entire Silverwood could die.
 *The Blackwood Survivors:* Lady Seraphine secretly helped some Blackwood
 survivors escape the king's justice in 1092 CR, spiriting them through
 secret forest paths to safety in the east. The guilt of not doing
-more---and the fear of discovery---haunts her still.
+more, and the fear of discovery, haunts her still.
 
 *The Ancient Pact:* House Silverleaf's power comes from a pact with
 ancient fey made before the Worldrend. The pact requires "stewardship"
@@ -7853,7 +7853,7 @@ recognizes the other as legitimate successors to House Starleaf. The 327
 CR schism made it permanent. Younger generation members are curious
 about their eastern cousins, but elders forbid contact.
 
-### 20.6 House Ashborne (Ascendant --- Desert Lords)
+### 20.6 House Ashborne (Ascendant — Desert Lords)
 
 
 **Status:** Ascendant (Rapidly gaining power)
@@ -7874,14 +7874,14 @@ Unlike northern houses built on ancient bloodlines, Ashborne's power
 comes from trade control, oasis rights, desert knowledge, and pragmatic
 governance.
 
-In 920 CR, Malik Ashborne---a charismatic human trader---united the
+In 920 CR, Malik Ashborne, a charismatic human trader, united the
 three largest nomad clans through marriage, trade agreements, and
 occasionally force. He discovered the largest oasis cluster in the
 desert and realized that whoever controlled those oases could control
 all desert trade.
 
-In 967 CR, Malik proclaimed the founding of Sundara---the "City of the
-Sun"---at the great oasis cluster. By 1050 CR, House Ashborne had so
+In 967 CR, Malik proclaimed the founding of Sundara, the "City of the
+Sun", at the great oasis cluster. By 1050 CR, House Ashborne had so
 thoroughly dominated desert commerce that King Thandris III had little
 choice but to grant them nobility in exchange for tax revenues.
 
@@ -7903,23 +7903,23 @@ choice but to grant them nobility in exchange for tax revenues.
 
 **Current Leadership**
 
-*Sultan Rashid Ashborne* (age 41, human) --- Ambitious, charismatic,
+*Sultan Rashid Ashborne* (age 41, human):  Ambitious, charismatic,
 calculating. Third-generation noble but acts like ancient dynasty. Seven
 children from three wives (succession unclear). Wants more than the
-desert his grandfather built---wants a seat at the table when kingdoms
+desert his grandfather built—wants a seat at the table when kingdoms
 are made and unmade.
 
 **The Seven Children:**
 
--   Eldest son (deceased 1245 CR, "riding accident"---actually
+-   Eldest son (deceased 1245 CR, "riding accident", actually
     poisoned by a sibling)
 
--   Second son (age 18) --- Current heir by default, competent but
+-   Second son (age 18),  Current heir by default, competent but
     uninspired
 
--   Three daughters --- Married or betrothed to useful allies
+-   Three daughters,  Married or betrothed to useful allies
 
--   Two younger sons --- Still children, but already showing ambition
+-   Two younger sons,  Still children, but already showing ambition
 
 **Holdings:**
 
@@ -7943,7 +7943,7 @@ are made and unmade.
 
 -   Alliance with nomad clans (through marriage/bribery)
 
--   Water rights---and in the desert, controlling water means
+-   Water rights, and in the desert, controlling water means
     controlling everything
 
 **Alliances:**
@@ -7970,11 +7970,11 @@ first. Only his personal servant knows, and that servant is now very
 wealthy and very loyal.
 
 *The Eldest Son:* Rashid knows which of his sons killed the heir. It was
-the fourth son---only 12 at the time. Rashid is oddly proud. He's
+the fourth son, only 12 at the time. Rashid is oddly proud. He's
 watching to see if the boy has what it takes.
 
 *The Empire Plan:* Rashid isn't content with Sundara. He's slowly
-positioning House Ashborne to claim all of the Ashfall Barrens---and
+positioning House Ashborne to claim all of the Ashfall Barrens, and
 possibly challenge House Thandris for dominance in Thaldros.
 
 *The Hidden City:* Pre-Worldrend ruins exist beneath Sundara. The Sultan
@@ -7985,7 +7985,7 @@ found.
 {{footnote Chapter 20: Noble Houses of Thaldros}}
 \page
 
-### 20.7 House Goldshore (Dominant --- Merchant Princes)
+### 20.7 House Goldshore (Dominant — Merchant Princes)
 
 
 **Status:** Dominant (Controls western trade)
@@ -8029,14 +8029,14 @@ exchange for financing the realm's wars.
 
 **Current Leadership**
 
-*Lord Aldris Goldshore III* (age 178, half-elf) --- Brilliant merchant
+*Lord Aldris Goldshore III* (age 178, half-elf),  Brilliant merchant
 and ruthless negotiator. More interested in profit than politics
 (publicly). Semi-retired patriarch who delegates daily operations to his
 son. Obsessed with recovering the Deepwater vaults from sunken Palace
 Port. Sees House Crystalborn (Aethoria) as thieves who stole family
 legacy.
 
-*Lord Aldris Goldshore IV* (age 45, human) --- Son of Aldris III and his
+*Lord Aldris Goldshore IV* (age 45, human),  Son of Aldris III and his
 late human wife. Handles day-to-day operations. More politically
 ambitious than his father. Runs the family's "gray market" operations
 personally.
@@ -8087,14 +8087,14 @@ expeditions despite the dangers (sea monsters, magical guardians, the
 kraken).
 
 *The Royal Debt:* The king owes House Goldshore 50,000 gold from the
-dragon crisis. This gives Goldshore enormous political leverage---they
+dragon crisis. This gives Goldshore enormous political leverage. They
 effectively hold the Crown's financial future hostage.
 
 *The Crystalborn Feud:* Both Goldshore and Crystalborn claim to be the
 legitimate heirs of House Deepwater. Both claim the sunken vaults. The
 feud spans 1,247 years and shows no signs of resolution.
 
-### 20.8 House Stonefist (Declining --- Mountain Clan)
+### 20.8 House Stonefist (Declining — Mountain Clan)
 
 
 **Status:** Declining (Losing to House Ironforge)
@@ -8127,11 +8127,11 @@ succession crisis in 780 CR.
 
 -   Forced to diversify into quarrying, stonework, mercenary services
 
--   1243 CR: Discovered new mythril vein---disputed with Ironforge
+-   1243 CR: Discovered new mythril vein, disputed with Ironforge
 
 **Current Leadership**
 
-*Thane Grimni Stonefist* (age 312, dwarf) --- Bitter, proud, desperate.
+*Thane Grimni Stonefist* (age 312, dwarf):  Bitter, proud, desperate.
 Obsessed with reclaiming family glory. Two daughters (unusual for dwarf
 succession).
 
@@ -8192,11 +8192,11 @@ succession and strategy. One advocates accommodation with Ironforge; the
 other advocates violent resistance. The clan may split.
 
 *The Merger Offer:* House Ironforge has privately offered to absorb
-House Stonefist---ending the feud but erasing the Stonefist name
+House Stonefist, ending the feud but erasing the Stonefist name
 forever. Grimni refuses to consider it. Some younger Stonefists
 disagree.
 
-### 20.9 House Heartwood (Dominant --- Agricultural Lords)
+### 20.9 House Heartwood (Dominant — Agricultural Lords)
 
 **Status:** Dominant (The Breadbasket)
 
@@ -8211,8 +8211,8 @@ disagree.
 **History and Founding**
 
 The Heartlands were fractured among dozens of small landholders until
-the great consolidation (850-900 CR). House Heartwood---originally a
-minor agricultural family---systematically married, purchased, or
+the great consolidation (850-900 CR). House Heartwood, originally a
+minor agricultural family, systematically married, purchased, or
 conquered their way to dominance.
 
 \column
@@ -8235,7 +8235,7 @@ conquered their way to dominance.
 
 **Current Leadership**
 
-*Lord Gareth Heartwood* (age 56, human) --- Practical, no-nonsense,
+*Lord Gareth Heartwood* (age 56, human):  Practical, no-nonsense,
 farmer-king. Wealthy but lives simply. Commands respect rather than
 fear. All five of his children were taught farming before politics.
 
@@ -8293,7 +8293,7 @@ uncertainty.
 *The Civil War Scars:* During the Blackwood Rebellion, Crossvale changed
 hands seven times. The city's walls still show the damage, deliberately
 preserved as memorial. The Heartwoods survived by pragmatic
-neutrality---switching allegiance as needed. Some consider this wisdom;
+neutrality, switching allegiance as needed. Some consider this wisdom;
 others consider it cowardice.
 
 {{pageNumber,auto}}
@@ -8318,7 +8318,7 @@ others consider it cowardice.
 House Emberthorn rose to power during the volcanic settlement period
 (920-1156 CR), mastering the art of living in the Ashfall Barrens. They
 built Ashgate in 920 CR as a gateway to the volcanic
-wastes---controlling obsidian quarries, fire opal mines, and volcanic
+wastes, controlling obsidian quarries, fire opal mines, and volcanic
 forges that produced steel of legendary quality. Their fortress featured
 an actual lava moat, making it seemingly impregnable.
 
@@ -8355,7 +8355,7 @@ Thaldros. Then the dragon came.
 
 **Current Leadership**
 
-*Lady Sera Emberthorn* (age 89, human) --- Last of main bloodline.
+*Lady Sera Emberthorn* (age 89, human),  Last of main bloodline.
 Obsessed with reclaiming family glory. Childless; line ends with her
 unless she finds heir. Lives in the ruins of the family castle,
 maintaining dignity through poverty.
@@ -8405,15 +8405,15 @@ Infernalix suddenly vanished in 1201 CR. She's never spoken of it, but
 she's never seemed surprised either.
 
 *The Sealed Vault:* Beneath the ruined castle lies an Emberthorn vault
-that no one has accessed since 1156 CR. What's inside---treasures,
-secrets, or something dangerous---remains unknown.
+that no one has accessed since 1156 CR. What's inside, treasures,
+secrets, or something dangerous, remains unknown.
 
 *The Bastard Heir:* Rumors persist that Lady Sera's father sired a
 bastard child with a servant woman before the dragon attack. If true,
-this heir might be found---but Lady Sera refuses to acknowledge the
+this heir might be found, but Lady Sera refuses to acknowledge the
 possibility.
 
-### 20.11 House Seawatch (Declining --- Coastal Guardians)
+### 20.11 House Seawatch (Declining — Coastal Guardians)
 
 
 **Status:** Declining (Overshadowed by Goldshore)
@@ -8434,8 +8434,8 @@ fortresses, maintained a navy, and protected trade routes from pirates
 and raiders.
 
 But as external threats decreased and merchant wealth increased, the
-world changed around them. Merchant houses---especially
-Goldshore---became more important than military guardians. Houses that
+world changed around them. Merchant houses, especially
+Goldshore, became more important than military guardians. Houses that
 once paid Seawatch for protection now hired their own security or simply
 paid Goldshore's insurance rates.
 
@@ -8459,7 +8459,7 @@ paid Goldshore's insurance rates.
 
 **Current Leadership**
 
-*Lord Admiral Marcus Seawatch* (age 62, human) --- Career naval officer,
+*Lord Admiral Marcus Seawatch* (age 62, human),  Career naval officer,
 stubborn traditionalist. Refuses to adapt to merchant-dominated world.
 Two sons (both competent sailors, both broke).
 
@@ -8502,8 +8502,8 @@ Two sons (both competent sailors, both broke).
 **Secrets:**
 
 *The Obsolescence:* Lord Marcus knows his house is becoming irrelevant.
-He's considered drastic measures---including making deals with pirates
-to create threats that require Seawatch protection---but his honor
+He's considered drastic measures, including making deals with pirates
+to create threats that require Seawatch protection, but his honor
 won't permit it.
 
 *The Naval Debt:* The Seawatch fleet is heavily indebted to House
@@ -8555,7 +8555,7 @@ Sundering Sea.
 
 *Everyone vs. Blackwood:* The officially extinct house whose destruction
 conceals royal crimes. The Thandris dynasty's legitimacy partly depends
-on Blackwood remaining destroyed---which makes Corvus Blackwood's
+on Blackwood remaining destroyed, which makes Corvus Blackwood's
 survival an existential threat.
 
 {{pageNumber,auto}}
@@ -10884,9 +10884,9 @@ crisis destroys what the Worldrend merely divided?
 {{footnote Chapter 22: Pre-Worldrend Conflicts}}
 \page
 
-<div class="cvr-img-top">![Chapter 23: Political Powers](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-factions-chapter-opener.jpg){height:400px,object-position:bottom}</div>
+<div class="cvr-img-top">![Chapter 23: Political Powers](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-factions-chapter-opener.jpg){height:450px,object-position:bottom}</div>
 
-{{margin-top:390px}}
+{{margin-top:370px}}
 # Part V: Factions & Organizations
 ## Chapter 23: Political Powers
 
@@ -10923,9 +10923,6 @@ The Northern Kingdoms operate through overlapping layers of authority:
 *The High Council:* Meets quarterly in Kaer Thandros to address matters
 affecting all member territories. 
 
-\column
-
-
 The Crown holds permanent chairmanship, but decisions require majority approval from attending
 lords. Major actions, declaring war, imposing kingdom-wide taxes,
 changing fundamental laws, require supermajority consensus.
@@ -10958,10 +10955,6 @@ threatened.
 -   Preserving the dwarven-human cooperation that has sustained the
     region since the Unification Wars
 
-{{pageNumber,auto}}
-{{footnote Chapter 23: Political Powers}}
-\page
-
 -   Expanding trade networks to increase prosperity
 
 -   Supporting House Thandris' claim to the High Kingship (at least
@@ -10970,7 +10963,13 @@ threatened.
 **Internal Conflicts**
 
 *Succession Disputes:* Human lordships pass through hereditary lines
-that frequently produce competing claimants. These disputes occasionally
+that frequently produce competing 
+
+{{pageNumber,auto}}
+{{footnote Chapter 23: Political Powers}}
+\page
+
+claimants. These disputes occasionally
 escalate to violence, requiring Crown intervention.
 
 *Surface-Underground Tensions:* Human surface kingdoms and dwarven holds
@@ -11103,13 +11102,13 @@ vigorously for trade, talented workers, and prestige. Goldreach's
 wealth versus Silverpine's cultural authority creates particular
 tension.
 
-*Autonomy vs. Unity:* Some advocate for stronger Alliance institutions;
-others resist any surrender of city independence. The current loose
-structure frustrates both camps.
-
 {{pageNumber,auto}}
 {{footnote Chapter 23: Political Powers}}
 \page
+
+*Autonomy vs. Unity:* Some advocate for stronger Alliance institutions;
+others resist any surrender of city independence. The current loose
+structure frustrates both camps.
 
 *Magical Regulation:* Silverpine's Academy attracts magical talent but
 also magical dangers. Some members want stricter controls on what mages
@@ -11177,7 +11176,7 @@ accumulated respect.
 providing warriors and economic tribute in exchange for access to
 resources and trade routes. These alignments shift as circumstances
 change.
-\column
+
 *The Council:* Major clan chiefs meet in Sundara during the annual trade
 season to resolve disputes, negotiate agreements, and coordinate
 responses to external threats. The council has no permanent leadership;
@@ -11378,6 +11377,10 @@ among the Seven. Represents traditionalist values: preserving ancient
 forests, maintaining elven customs, limiting engagement with outsiders.
 Her long memory includes events that humans experience only as history.
 
+{{pageNumber,auto}}
+{{footnote Chapter 23: Political Powers}}
+\page
+
 *Speaker Arien Swiftbrook* (age 98, half-elf: Advocates for change,
 greater engagement with other races, and adaptation to evolving circumstances. 
 Represents a growing faction that believes isolation is no longer viable.
@@ -11386,10 +11389,6 @@ Represents a growing faction that believes isolation is no longer viable.
 elf: Not officially in government, but his influence exceeds most
 Speakers. When he expresses an opinion, the forest itself seems to
 listen.
-
-{{pageNumber,auto}}
-{{footnote Chapter 23: Political Powers}}
-\page
 
 **Relationships with Other Powers**
 
@@ -11517,6 +11516,10 @@ ongoing feud with House Goldshore complicates cross-continental trade.
 
 **Government:** Loose alliance with local autonomy
 
+{{pageNumber,auto}}
+{{footnote Chapter 23: Political Powers}}
+\page
+
 **Population:** Humans, lizardfolk, half-orcs, approximately 100,000
 total
 
@@ -11527,10 +11530,6 @@ Communities that have adapted to swamp life, developing unique cultures
 and expertise that outsiders often underestimate. The Concordat is the
 least unified of Aethoria's major political entities, bound more by
 shared environment than formal governance.
-
-{{pageNumber,auto}}
-{{footnote Chapter 23: Political Powers}}
-\page
 
 **Structure**
 
@@ -11585,7 +11584,7 @@ involved. Accidents and misuse create periodic scandals.
 Concordat members. Lord Maric's daughter Lyra is even more ambitious
 than her father, and some fear she would try to impose genuine central
 authority if she inherited.
-
+\column
 **Notable Leaders**
 
 *Lady Morgana Blackwater* (age 52, human: Governor of Marshaven, the
@@ -11647,6 +11646,10 @@ authority but frequently ignore royal decrees. House Ashborne's rise
 has complicated this relationship, they are now formally part of the
 nobility while maintaining clan connections.
 
+{{pageNumber,auto}}
+{{footnote Chapter 23: Political Powers}}
+\page
+
 *Cities and Clans:* The Free Cities trade with the Sundaran Clans while
 viewing them as semi-civilized. The clans view the cities as soft
 merchants ripe for manipulation. Both stereotypes contain some truth.
@@ -11664,15 +11667,12 @@ by the Harmony's cultural superiority and the Compact's commercial
 pragmatism. Trade and shared defense interests keep them aligned despite
 philosophical differences.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 23: Political Powers}}
-\page
-
 *Concordat Marginalization:* The Thornmire Concordat exists on
 Aethoria's margins, viewed with suspicion by the more "civilized"
 powers. They survive through usefulness, their alchemical expertise is
 valued, rather than respect.
+
+\column
 
 *House Conflicts:* The inter-house feuds described in earlier chapters
 (Crystalborn vs. Goldshore, Starweaver vs. Silverleaf) cut across
@@ -11684,7 +11684,7 @@ cannot resolve.
 *Port Myrthen:* The island city serves as neutral ground where eastern
 and western interests can interact without their governments' conflicts
 interfering. Both sides value this neutrality and work to preserve it.
-\column
+
 *Trade Routes:* Despite political hostility, trade continues across the
 Sundering Sea. Merchants of both continents profit from this commerce;
 governments tolerate it because they benefit from the goods and taxes it
@@ -11903,15 +11903,14 @@ from coastal traders to ocean-crossing cargo vessels. She rose from
 cabin girl to captain through skill, ruthlessness, and an uncanny
 ability to predict weather and market conditions. Her fleet moves more cargo across the Sundering Sea than any other single operator.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 Sylara is more interested in sailing than politics, but her economic
 importance gives her significant influence whether she wants it or not.
 She's known for fair treatment of crews, brutal efficiency against
 pirates, and absolute reliability on contracts.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 24: Economic Organizations}}
-\page
 
 **Factor Therin Quicksilver** (age 156, half-elf)
 
@@ -12037,7 +12036,13 @@ complexity. Approximately 250 apprentices are currently training.
 
 **Associates:** Non-crafters who support Consortium operations,
 merchants who sell Consortium goods, suppliers of raw materials,
-administrators. Associates have no voting rights but benefit from
+administrators. Associates 
+
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
+have no voting rights but benefit from
 Consortium protection.
 
 #### Operations
@@ -12052,10 +12057,6 @@ an item does what it claims to do.
 categories of goods in most jurisdictions. This monopoly, enforced
 through political connections and economic pressure, protects members
 from competition while ensuring quality standards.
-
-{{pageNumber,auto}}
-{{footnote Chapter 24: Economic Organizations}}
-\page
 
 **Training:** The Consortium operates the most comprehensive crafting
 education system in Tirvandor. Apprenticeships include not just
@@ -12167,7 +12168,13 @@ crafting traditions, dwarven metalwork with elven enchantment, for
 example, to create items neither tradition could produce alone.
 
 Talia represents the new generation challenging traditional approaches.
-Some Masters see her as the future; others view her experimentation as
+Some Masters see her as the 
+
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
+future; others view her experimentation as
 dangerous deviation from proven methods.
 
 #### Headquarters: The Silverpine Guildhall
@@ -12188,11 +12195,6 @@ the Restricted Collection.
 *Training Workshops:* Where apprentices and journeymen learn under
 Master supervision. Each craft has dedicated facilities with specialized
 equipment.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 24: Economic Organizations}}
-\page
 
 *The Testing Chamber:* Where items are evaluated for certification.
 Failed items are destroyed rather than sold, the Consortium's
@@ -12303,6 +12305,10 @@ contraband, restricted goods, people, information, through channels that
 bypass official oversight. Routes operate across both continents, with
 transfer points at Port Myrthen and other neutral locations.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 **Theft and Burglary:** Organized theft operates under strict protocols.
 Random crime draws attention; targeted operations against specific marks
 generate better returns with less heat. The Syndicate arbitrates who can
@@ -12328,10 +12334,6 @@ competence. Unnecessary violence is discouraged, it attracts attention.
 for stolen goods, money laundering for illegal profits, and financial
 services for criminals who cannot use legitimate banks. This
 infrastructure makes criminal enterprise possible.
-
-{{pageNumber,auto}}
-{{footnote Chapter 24: Economic Organizations}}
-\page
 
 #### The Code
 
@@ -12433,6 +12435,10 @@ human, an elf, and a half-orc who rotate duties. This arrangement has
 allowed the title to persist for over forty years while confusing those
 who try to identify or assassinate the leader.
 
+{{pageNumber,auto}}
+{{footnote Chapter 24: Economic Organizations}}
+\page
+
 *Alternative Truth (DM's Option):*
 
 Master Crimson is Elena Thornwood, Captain Vex Darkwater's sister, who
@@ -12467,10 +12473,6 @@ maintains good relations with the city watch through selective
 information sharing, giving up amateurs and competitors while protecting
 professional Syndicate operations.
 
-{{pageNumber,auto}}
-{{footnote Chapter 24: Economic Organizations}}
-\page
-
 **The Whisperer** (age unknown, race unknown)
 
 The Syndicate's premier information broker. The Whisperer knows secrets
@@ -12501,7 +12503,7 @@ with it. Blackheart's fleet raids ships, the Syndicate identifies as
 targets, sharing proceeds according to negotiated agreements. In
 exchange, the Syndicate provides intelligence, fencing services, and
 protection from naval authorities.
-
+\column
 This arrangement benefits everyone except Blackheart's victims. The
 Syndicate gains access to maritime crime without maintaining ships;
 Blackheart gains support infrastructure and protection.
@@ -12515,9 +12517,6 @@ decapitation strikes. Operations center in several locations:
 *Silverpine:* Silas the Fence coordinates central Thaldros operations
 from his antique shop. A network of safe houses, dead drops, and meeting
 locations supports operations.
-
-
-\column
 
 *Goldreach:* Red Mask's guild operates from the lower city, with
 legitimate businesses providing cover. The port district offers
@@ -12626,6 +12625,8 @@ wherever communities needed protection from supernatural threats. By 400
 CR, the Lightbringers had become the most organized militant religious
 force in Tirvandor.
 
+\column
+
 #### Structure
 
 
@@ -12687,6 +12688,10 @@ declares a crusade, a concentrated military campaign against a specific
 evil. These are devastating when launched but require years of preparation 
 and the consent of multiple Chapter Masters.
 
+{{pageNumber,auto}}
+{{footnote Chapter 25: Religious Orders}}
+\page
+
 **The Iron Council:** The military arm of the Lightbringers, commanded
 directly by Lord Commander Gareth Lightbane. This elite force handles
 the most dangerous missions and maintains readiness for major
@@ -12698,11 +12703,6 @@ supernatural threats.
 *Destroying Undead and Fiends:* The primary mission. Every Lightbringer
 is trained to recognize and combat these threats, and destroying them is
 considered sacred duty.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
 
 *Protecting the Innocent:* The order exists to shield those who cannot
 protect themselves. This mandate sometimes brings them into conflict
@@ -12816,7 +12816,13 @@ enough to have earned respect.
 **High Inquisitor Marcus** (age 55, human)
 
 Leads the order's investigative branch, examining accusations of
-heresy, corruption, and infiltration. His methods are thorough, his
+heresy, corruption, and infiltration. His 
+
+{{pageNumber,auto}}
+{{footnote Chapter 25: Religious Orders}}
+\page
+
+methods are thorough, his
 judgments fair, and his dedication to rooting out evil absolute.
 
 Marcus believes that the greatest threat to the order comes from within,
@@ -12843,10 +12849,6 @@ when he's in residence.
 *The Training Grounds:* Where squires learn combat and magic. The
 facilities are extensive, including practice yards, an indoor arena, and
 specialized areas for training against specific monster types.
-
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
 
 *The Reliquary:* Secured vault holding holy artifacts, including items
 associated with Radiant herself. Access is restricted to senior members.
@@ -12953,6 +12955,10 @@ interpret Sylvara's will in their local contexts. This autonomy
 reflects the belief that nature itself is decentralized, no single
 authority controls the forest.
 
+{{pageNumber,auto}}
+{{footnote Chapter 25: Religious Orders}}
+\page
+
 **Initiates:** Those training in druidic arts. Training typically lasts
 7-15 years, conducted primarily in wilderness settings under experienced
 mentors. Initiation concludes with a vision quest where the candidate
@@ -12980,10 +12986,6 @@ health and vulnerable to exploitation.
 **Training New Druids:** Identifying and training those with aptitude
 for primal magic ensures the order's continuity. Training emphasizes
 connection with nature over formal instruction.
-
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
 
 **Opposing Development Projects:** When civilization threatens sacred
 sites or critical ecosystems, the Green Circle intervenes, sometimes
@@ -13081,6 +13083,11 @@ sometimes taking years to respond to questions.
 The moderate voice on the Council of Elders, Lunara works to bridge
 differences between factions and maintain the order's unity. She
 believes the Green Circle's greatest strength is its ability to sustain
+
+{{pageNumber,auto}}
+{{footnote Chapter 25: Religious Orders}}
+\page
+
 consensus across centuries, a capacity that radical action would
 undermine.
 
@@ -13123,10 +13130,6 @@ one questions his effectiveness or his dedication to Sylvara.
 
 -   Believes the moderate approach has failed and that only strength
     will protect nature
-
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
 
 **Elder Druid Silvaris Oakenheart** (age 342, firbolg)
 
@@ -13221,6 +13224,10 @@ is the Hall of Final Rest in Kaer Thandros
 
 **Membership:** Approximately 3,000 clerics and paladins
 
+{{pageNumber,auto}}
+{{footnote Chapter 25: Religious Orders}}
+\page
+
 **Influence:** Universal respect and fear across both continents
 
 **Also Known As:** The Order of Mordain, Silent Sentinels, Guardians of
@@ -13264,11 +13271,6 @@ The Grave Wardens maintain a semi-autonomous temple structure:
 interpreting Mordain's will and coordinating the order's spiritual
 mission. Currently Morticia Ravenholt, a human woman known for her
 unsettling calm in the face of death and horror.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
 
 **Death Speakers:** Senior priests who lead regional operations. Each
 major temple has a Death Speaker who manages local clergy, coordinates
@@ -13330,9 +13332,8 @@ archives stretching back centuries.
 **Death Investigation:** When deaths occur under mysterious
 circumstances, Grave Wardens may investigate, both to ensure proper
 burial and to determine whether supernatural forces were involved.
-\column
-#### Interests and Goals
 
+#### Interests and Goals
 
 *Proper Treatment of the Dead:* Every person deserves dignified burial
 and remembrance. The order works to ensure this regardless of the
@@ -13343,7 +13344,13 @@ against the natural order, and destroying undead is sacred duty. No
 exceptions, no negotiations, no mercy.
 
 *Investigating Necromancy:* Understanding how necromancers operate helps
-prevent their activities. The order studies necromantic magic, purely
+prevent their activities. 
+
+{{pageNumber,auto}}
+{{footnote Chapter 25: Religious Orders}}
+\page
+
+The order studies necromantic magic, purely
 for counter-purposes, though this research sometimes raises eyebrows.
 
 *Maintaining the Boundary:* Life and death are meant to be separate. The
@@ -13395,10 +13402,6 @@ than typical for the role and came from a minor temple rather than one
 of the major centers. But her demonstrated abilities and her uncanny
 connection to Mordain's power silenced most critics.
 
-{{pageNumber,auto}}
-{{footnote Chapter 25: Religious Orders}}
-\page
-
 *Secrets:*
 
 -   Can sense when death approaches someone nearby, an ability that
@@ -13412,7 +13415,7 @@ connection to Mordain's power silenced most critics.
 
 -   Her calm is genuine but also a coping mechanism, she has seen things
     that would break most minds
-
+\column
 **Grave Warden Commander Thorne** (age 67, half-elf)
 
 The most accomplished undead hunter of his generation, Thorne has
@@ -13480,6 +13483,10 @@ Maintaining these records is considered sacred duty.
 combat techniques. The undead combat training uses consecrated practice
 areas where controlled undead can be safely studied and destroyed.
 
+{{pageNumber,auto}}
+{{footnote Chapter 25: Religious Orders}}
+\page
+
 *The Reliquary:* Contains items recovered from destroyed undead,
 including phylacteries (safely destroyed), undead-slaying weapons, and
 artifacts used in the order's history.
@@ -13502,7 +13509,7 @@ intelligence about supernatural threats.
 order's services, proper death rites maintain social stability, and
 undead outbreaks threaten everyone. The order maintains political
 neutrality, serving all powers equally.
-
+\column
 *The Green Circle:* Respectful cooperation. Death is part of nature's
 cycle; the orders share this understanding. Druids sometimes assist in
 cleansing undead corruption from natural areas.
@@ -13527,7 +13534,7 @@ carefully, ready to act if they cross the line.
 
 <div class="cvr-img-top">![Chapter 26: Arcane Organizations](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-spellcasting-with-ley-lines.jpg){height:450px,object-position:top}</div>
 
-{{margin-top:400px}}
+{{margin-top:370px}}
 
 ## Chapter 26: Arcane Organizations
 
@@ -13563,14 +13570,18 @@ and regulation.
 
 The Arcanum traces its origins to the decades following the Worldrend,
 when surviving mages recognized the need to preserve magical knowledge
-
 that might otherwise be lost. The cataclysm had destroyed countless
-libraries, killed generations of teachers, and disrupted the
+libraries, killed generations of teachers, and 
+
+\column
+{{margin-top:370px}}
+
+disrupted the
 apprenticeship traditions that had sustained magical education for 
 millennia.
 
-\column
-{{margin-top:455px}}
+
+
 
 The legendary Archmage Celestine, a survivor of the Worldrend who would
 later retreat to the Feywild, gathered what remained of the magical
@@ -13673,7 +13684,7 @@ general access.
 noble houses, and wealthy clients. These contracts generate significant
 revenue and political connections.
 
-\column
+
 
 #### Interests and Goals
 
@@ -13740,6 +13751,10 @@ four hundred years ago. His office door is always open, and he teaches
 at least one introductory class per term "to remember where magic
 begins."
 
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
 *Secrets:*
 
 -   Is indeed one of the Circle of Eight, though the organization
@@ -13747,10 +13762,6 @@ begins."
 
 -   Has foreseen something catastrophic approaching within the next
     decade, but the vision is unclear
-
-{{pageNumber,auto}}
-{{footnote Chapter 26: Arcane Organizations}}
-\page
 
 -   Corresponds secretly with Archmage Eldrin Aethermere, developing a
     way to safely cross the Sundering Sea
@@ -13821,8 +13832,6 @@ that caused the Worldrend.
 -   One text appears to describe how to prevent a second Worldrend;
     he's still deciphering it
 
-\column
-
 #### Headquarters: The Silverpine Campus
 
 
@@ -13876,6 +13885,10 @@ cooperation. Both claim authority over magical item creation.
 magic as legitimate, and cooperation occurs on matters involving both
 arcane and divine elements.
 
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
 *The Circle of Eight:* Archmage Veridian is rumored to be a member. The
 Arcanum's relationship with this secret society, if it exists, remains
 unclear.
@@ -13896,11 +13909,6 @@ unclear.
 A mysterious group of incredibly powerful wizards who supposedly guide
 magical development and prevent magical catastrophes. Their existence is
 rumored but not proven, the Circle neither confirms nor denies anything.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 26: Arcane Organizations}}
-\page
 
 
 #### Origins and History
@@ -14013,6 +14021,10 @@ suggests connections beyond normal diplomatic channels.
 institutional leaders have been suspected, though evidence remains
 circumstantial.
 
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
 *Celestine Herself:* If she survived in the Feywild, she might still
 guide the Circle she founded. Feywild time works differently, she might
 have been away for what feels like decades while centuries passed in the
@@ -14038,10 +14050,6 @@ specific tasks.
 *Institutional Memory:* The Arcanum's oldest records mention the Circle
 as an established fact. Either the organization exists or the conspiracy
 to fabricate it is itself centuries old.
-
-{{pageNumber,auto}}
-{{footnote Chapter 26: Arcane Organizations}}
-\page
 
 #### Skeptical Views
 
@@ -14083,6 +14091,8 @@ How do you fight an enemy you can't identify?
 
 *The Prophecy Connection:* Professor Moonwhisper's prophecy research
 suggests the Circle knows something about a coming catastrophe.
+
+\column
 
 ### 26.3 The Twilight Court (Fey-Touched)
 
@@ -14134,7 +14144,8 @@ Summer Court and Winter Court that rule the Feywild. Members maintain
 relationships with both, though individual allegiances vary:
 
 *Summer Court Aligned:* Those connected to the Summer Court tend toward
-warmth, passion, growth, and change. They embrace emotion and action, sometimes to the point of recklessness. The Summer Court values
+warmth, passion, growth, and change. They embrace emotion and action, 
+sometimes to the point of recklessness. The Summer Court values
 creativity, beauty, and bold gestures.
 
 *Winter Court Aligned:* Those connected to the Winter Court value
@@ -14146,6 +14157,10 @@ bargains.
 *Unaligned:* Some Twilight Court members serve neither great court,
 instead maintaining independence or serving lesser fey powers. These
 individuals often face pressure from both sides.
+
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
 
 The great courts use Twilight Court members as agents in the mortal
 world, where direct fey intervention is limited by ancient treaties.
@@ -14185,11 +14200,6 @@ relations broadly, require wider consultation.
 Feywild must be preserved. Too much mingling causes problems for both
 sides. The Twilight Court monitors crossing points and intervenes when
 the boundary is threatened.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 26: Arcane Organizations}}
-\page
 
 *Protecting Thin Places:* Locations where the boundary grows thin are
 sacred and dangerous. The Court guards these sites from those who would
@@ -14276,7 +14286,13 @@ chills the air, and his eyes hold the patience of glaciers.
 
 Lord Frost handles Winter Court business that requires\... decisive
 action. He's an assassin, a spy, and an enforcer of ancient bargains.
-Those who break promises to the Winter Court eventually receive his
+Those who break 
+
+{{pageNumber,auto}}
+{{footnote Chapter 26: Arcane Organizations}}
+\page
+
+promises to the Winter Court eventually receive his
 attention.
 
 *Secrets:*
@@ -14327,11 +14343,6 @@ cannot refuse calls for help. The original pact was for "a hundred
 winters, "but the commander's descendants keep renewing it through
 ritual.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 26: Arcane Organizations}}
-\page
-
 *Secrets:*
 
 -   Has served for 300 years and watched generations live and die; hates
@@ -14342,6 +14353,8 @@ ritual.
 
 -   Believes a specific phrase or action could break the pact; has been
     studying it for centuries
+
+\column
 
 **Helga Thornwood** (age 73, human warlock)
 
@@ -14372,8 +14385,6 @@ worlds grows thin:
 *The Moonwell:* A sacred pool in the Starwood that reflects the moon
 perfectly even in daylight. Major gatherings occur here during certain
 lunar phases.
-
-\column
 
 *The Standing Stones:* Ancient circles predating human civilization
 where the courts once held audience with mortal kings. Now used for
@@ -14414,9 +14425,9 @@ mortal information networks.
 {{footnote Chapter 26: Arcane Organizations}}
 \page
 
-<div class="cvr-img-top">![Chapter 27: Secret Societies](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-secret-societies.jpg){height:400px,object-position:center}</div>
+<div class="cvr-img-top">![Chapter 27: Secret Societies](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-secret-societies.jpg){height:450px,object-position:center}</div>
 
-{{margin-top:350px}}
+{{margin-top:370px}}
 
 ## Chapter 27: Secret Societies
 
@@ -14456,7 +14467,7 @@ civilization who sought to prevent similar catastrophes. Others believe
 it emerged in the chaos following the cataclysm, when desperate leaders
 coordinated secretly to rebuild society.
 
-{{margin-top:350px}}
+{{margin-top:370px}}
 
 *Symbol:* A stylized hand with an eye in the palm has been found carved
 into stones at ancient sites, painted on walls in abandoned buildings,
@@ -14622,6 +14633,10 @@ without knowing their ultimate purpose.
 themselves opposed by invisible enemies with seemingly unlimited
 resources and knowledge.
 
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
 *The Pattern Revealed:* The party discovers evidence of the Hand's true
 purpose. What they learn changes everything they thought they knew about
 Tirvandor's history.
@@ -14639,10 +14654,6 @@ Tirvandor's history.
 
 **Also Known As:** The Blood Circle, The Scarlet Brotherhood, The
 Life-Weavers
-
-{{pageNumber,auto}}
-{{footnote Chapter 27: Secret Societies}}
-\page
 
 The Crimson Order is an organization of practitioners who study and
 develop blood magic, the manipulation of life force itself. They are not
@@ -14760,10 +14771,14 @@ blood magic's positive applications.
 
 
 *Religious Orders:* The Lightbringers and Grave Wardens consider blood
-magic dangerously close to 
+magic dangerously close to necromancy. They hunt blood mages with
+varying degrees of zeal depending on local leadership. Some 
 
-necromancy. They hunt blood mages with
-varying degrees of zeal depending on local leadership. Some paladins
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
+paladins
 believe all blood mages should be executed; others are willing to 
 tolerate those who restrict themselves to self-sacrifice.
 
@@ -14778,11 +14793,6 @@ acceptable to use blood from willing donors? What about criminals
 condemned to death? What about enemies in combat? Different factions
 within the Order draw different lines, and these disagreements sometimes
 turn violent.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 27: Secret Societies}}
-\page
 
 *The Shadow Syndicate Connection:* The Order's name coincidentally
 matches the alias used by the Syndicate's leader. Some blood mages are
@@ -14898,8 +14908,11 @@ injustice, survivors of persecution, those who have lost everything to
 corruption. Together, they form the Unbound: those freed from the lies
 that bind society together.
 
-#### Goals
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
 
+#### Goals
 
 *Primary: Justice for House Blackwood.* Corvus wants the truth exposed,
 that his family were guardians, not traitors; that they died protecting the realm from the very artifact 
@@ -14921,11 +14934,6 @@ Whether this threat is genuine or leverage for negotiation depends on
 how desperate he becomes. He doesn't actually want to destroy the
 world, he wants justice. But desperation can change even the most
 principled person.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 27: Secret Societies}}
-\page
 
 #### Methods
 
@@ -14992,8 +15000,6 @@ about his followers or views them as tools is unclear.
 goals, they may have become what they oppose, a powerful faction willing
 to use any means to achieve its ends.
 
-\column
-
 #### Plot Hooks
 
 
@@ -15032,6 +15038,10 @@ junctions
 
 **Influence:** Significant in magical and academic communities
 
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
 **Also Known As:** The Circle, The Ley Watchers, The Neutral Mages
 
 The Silver Circle is not strictly a secret society, its existence is
@@ -15057,10 +15067,6 @@ areas of instability.
 *Nexus Monitoring:* The Circle maintains observation posts near major
 nexuses, watching for signs of instability, corruption, or unauthorized
 manipulation. When problems are detected, Circle mages respond.
-
-{{pageNumber,auto}}
-{{footnote Chapter 27: Secret Societies}}
-\page
 
 *Corruption Remediation:* When ley lines or nexuses become corrupted,
 Circle mages work to cleanse or contain the damage. Their success rate
@@ -15095,6 +15101,8 @@ have their own beliefs and sometimes act on them. The institution turns
 a blind eye to certain activities as long as plausible deniability is
 maintained. But official neutrality remains the policy, and open
 political involvement would fracture the organization.
+
+\column
 
 #### Structure
 
@@ -15159,6 +15167,10 @@ theory.
 the Circle of Eight is unclear. They may be allied, overlapping, or
 entirely separate. The ambiguity is probably deliberate.
 
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
 ### 27.5 The Forgotten Monastery
 
 
@@ -15199,13 +15211,7 @@ even if it is misguided.
 
 
 The monastery itself is ancient, predating the Worldrend. It was built
-over a ley line nexus that has a weak connection to 
-
-{{pageNumber,auto}}
-{{footnote Chapter 27: Secret Societies}}
-\page
-
-the prison of the
+over a ley line nexus that has a weak connection to the prison of the
 Bound God. The monks can sometimes hear whispers through this
 connection, fragments of communication that they interpret as divine
 guidance.
@@ -15299,6 +15305,10 @@ opened by Keeper blood. This biological lock ensures that even if the
 vault's location is discovered, the Component cannot be retrieved
 without a Keeper's cooperation, or their death.
 
+{{pageNumber,auto}}
+{{footnote Chapter 27: Secret Societies}}
+\page
+
 *Sworn Secrecy:* Keepers are bound by oaths that prevent them from
 revealing their charge's nature or location, even under torture. The
 oaths are enforced by magic; breaking them brings consequences.
@@ -15333,6 +15343,7 @@ they could potentially recover all five Components. Lord Shadows has
 spent decades piecing together this information. He may not be the only
 one.
 
+\column
 
 ### 27.7 Relationships Between Secret Societies
 
@@ -15341,41 +15352,35 @@ The secret societies of Tirvandor do not operate in isolation. Their
 goals sometimes align, sometimes conflict, and sometimes intersect in
 unexpected ways.
 
-*The Unseen Hand --- The Circle of Eight:* Possibly overlapping,
+*The Unseen Hand,  The Circle of Eight:* Possibly overlapping,
 possibly allied, possibly the same organization. Both claim to work
 toward preventing catastrophe, but their methods and membership remain
 obscure.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 27: Secret Societies}}
-\page
-
-
-*The Unseen Hand --- The Silver Circle:* Individual Silver Circle
+*The Unseen Hand,  The Silver Circle:* Individual Silver Circle
 members may have Hand connections. The organizations share concerns
 about ley line stability and Worldrend prevention.
 
-*The Crimson Order --- The Shadow Syndicate:* Some blood mages are
+*The Crimson Order,  The Shadow Syndicate:* Some blood mages are
 Syndicate members. The organizations cooperate opportunistically but
 have different goals.
 
-*The Unbound --- The Crimson Order:* Lord Shadows has blood mage
+*The Unbound,  The Crimson Order:* Lord Shadows has blood mage
 contacts who have provided assistance. The Order appreciates anyone
 willing to challenge established powers.
 
-\column
 
-*The Unbound --- The Keeper Bloodlines:* Lord Shadows seeks the
+
+*The Unbound,  The Keeper Bloodlines:* Lord Shadows seeks the
 Components the Keepers guard. He believes exposing the truth about his
 family's Keeper role will vindicate their memory.
 
-*The Forgotten Monastery --- Everyone:* The monks' activities threaten
+*The Forgotten Monastery,  Everyone:* The monks' activities threaten
 everyone, but few know they exist. The Unseen Hand and the Circle of
 Eight, if they know about the monastery, would consider it a priority
 threat.
 
-*The Silver Circle --- The Arcanum:* Officially cooperative
+*The Silver Circle,  The Arcanum:* Officially cooperative
 organizations with shared research interests. Unofficially, both
 maintain secrets from the other.
 
@@ -15399,7 +15404,7 @@ maintain secrets from the other.
 
 The Lightbringers are the militant arm of Aethor's church, dedicated to
 fighting evil and protecting the innocent. They are paragons of lawful
-good ideals---inspiring to some, insufferable to others.
+good ideals, inspiring to some, insufferable to others.
 
 **Structure:** The order maintains a hierarchical, military-style
 organization with ranks from initiate to Lord Commander. They report to
@@ -15438,7 +15443,7 @@ maintaining balance between civilization and nature. They have
 significant political influence in Aethoria and can mobilize formidable
 forces if threatened.
 
-**Structure:** Governed by a Council of Elders---seven druids, each
+**Structure:** Governed by a Council of Elders, seven druids, each
 representing a different aspect of nature. Regional circles report to
 the council, though individual druids maintain autonomy. Decisions are
 made by consensus.
@@ -15513,9 +15518,9 @@ over 80%
 {{footnote Chapter 28: Military Orders}}
 \page
 
-<div class="cvr-img-top">![Chapter 29: Inter-Faction Relationships](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-inter-faction-relationships.jpg){height:400px}</div>
+<div class="cvr-img-top">![Chapter 29: Inter-Faction Relationships](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-inter-faction-relationships.jpg){height:450px}</div>
 
-{{margin-top:400px}}
+{{margin-top:370px}}
 
 ## Chapter 29: Inter-Faction Relationships
 
@@ -15533,7 +15538,7 @@ political landscape.
 #### Strong Alliances (Trusted Partners)
 
 
-**Lightbringers --- Grave Wardens**
+**Lightbringers,  Grave Wardens**
 
 *Nature:* Religious alliance against undead
 
@@ -15553,16 +15558,18 @@ mortality; the Lightbringers sometimes view this pragmatism as morbid.
 
 *Duration:* Centuries old, predating current organizational structures.
 
-\column
-{{margin-top:400px}}
-
-**Merchant League --- Free Cities Alliance**
+**Merchant League—Free Cities Alliance**
 
 *Nature:* Economic partnership for mutual prosperity
 
 *Why They Cooperate:* The Merchant League needs stable, law-abiding
 cities where trade can flourish. The Free Cities need the League's
-trade networks to maintain their economic independence. Both benefit
+trade networks to 
+
+\column
+{{margin-top:370px}}
+
+maintain their economic independence. Both benefit
 from standardized commercial practices and secure trade routes.
 
 *Joint Activities:* Trade agreements, shared banking systems,
@@ -15578,7 +15585,7 @@ Elisandra Brightblade (Silverpine).
 
 *Duration:* Formalized 150 years ago; informal cooperation much older.
 
-**Green Circle --- Aethorian Harmony**
+**Green Circle,  Aethorian Harmony**
 
 *Nature:* Shared values alliance
 
@@ -15591,10 +15598,6 @@ environmental protection.
 coordinated response to ecological threats, exchange of knowledge about
 natural and magical phenomena.
 
-{{pageNumber,auto}}
-{{footnote Chapter 29: Inter-Faction Relationships}}
-\page
-
 *Tensions:* The Harmony sometimes must balance environmental concerns
 against political necessity. The Green Circle can be inflexible about
 compromises.
@@ -15604,13 +15607,19 @@ Speaker Aquila Clearwater (Aethorian Council).
 
 *Duration:* Millennia, predates the Worldrend.
 
-**Arcanum --- Artificers' Consortium**
+**Arcanum,  Artificers' Consortium**
 
 *Nature:* Knowledge-sharing partnership
 
 *Why They Cooperate:* The Arcanum focuses on magical theory; the
 Consortium focuses on magical practice. Each needs what the other
-offers, researchers need craftspeople to realize their designs, and
+offers, researchers 
+
+{{pageNumber,auto}}
+{{footnote Chapter 29: Inter-Faction Relationships}}
+\page
+
+need craftspeople to realize their designs, and
 craftspeople need theoretical breakthroughs to advance their art.
 
 *Joint Activities:* Collaborative research projects, shared libraries,
@@ -15623,7 +15632,7 @@ applications), institutional rivalry for prestige.
 *Duration:* Formalized 300 years ago with the founding of the
 Consortium.
 
-**Iron Council --- Forgebound Guild**
+**Iron Council,  Forgebound Guild**
 
 *Nature:* Military supply alliance
 
@@ -15643,7 +15652,7 @@ Forge-Master Rurik Ironanvil (Forgebound Guild).
 
 *Duration:* Ancient pact dating to the founding of both organizations.
 
-**Ironspine Rangers --- Druidic Circle (Green Circle)**
+**Ironspine Rangers,  Druidic Circle (Green Circle)**
 
 *Nature:* Wilderness protection coalition
 
@@ -15661,14 +15670,12 @@ against those who harm the wilderness; the druids prefer to seek
 balance. Some rangers view the druids as too passive; some druids view
 the rangers as too aggressive.
 
-\column
-
 *Key Figures:* Warden Commander Thalia Moonbow (Rangers) and Archdruid
 Silvaris Oakenheart (Green Circle).
 
 *Duration:* Natural alliance that developed organically over centuries.
 
-**Aethorian Council --- Druidic Circle**
+**Aethorian Council,  Druidic Circle**
 
 *Nature:* Magical and natural knowledge alliance
 
@@ -15690,7 +15697,7 @@ affairs when they speak against development.
 #### Weak Alliances (Convenience, Not Trust)
 
 
-**Iron Council --- Merchant League**
+**Iron Council,  Merchant League**
 
 *Nature:* Military protection for trade routes
 
@@ -15710,7 +15717,7 @@ Goldfingers (respectful but wary of each other).
 
 *Duration:* Ongoing; renegotiated every few years.
 
-**Merchant League --- Aethorian Council**
+**Merchant League,  Aethorian Council**
 
 *Nature:* Trade relationship only
 
@@ -15729,7 +15736,7 @@ frustrating.
 *Status:* Profitable but fragile, could collapse if either side feels
 cheated.
 
-**Ashwardens --- Iron Council**
+**Ashwardens,  Iron Council**
 
 *Nature:* Mutual defense understanding
 
@@ -15737,10 +15744,6 @@ cheated.
 protection of civilization. The Ashwardens' work preventing volcanic
 catastrophe indirectly protects everyone, including the Council's
 territories.
-
-{{pageNumber,auto}}
-{{footnote Chapter 29: Inter-Faction Relationships}}
-\page
 
 *Joint Activities:* Resource sharing in emergencies, mutual defense
 agreements, occasional joint training.
@@ -15751,7 +15754,7 @@ limited understanding.
 
 *Status:* Respectful but distant.
 
-**Forgebound Guild --- Merchant League**
+**Forgebound Guild,  Merchant League**
 
 *Nature:* Trade in crafted goods
 
@@ -15760,6 +15763,10 @@ Guild provides masterwork goods that command premium prices.
 
 *Joint Activities:* Trade contracts, quality certification, joint
 ventures in specific markets.
+
+{{pageNumber,auto}}
+{{footnote Chapter 29: Inter-Faction Relationships}}
+\page
 
 *Tensions:* The Guild holds resentment towards the League's markup on
 their goods, they believe merchants profit excessively from dwarven
@@ -15774,7 +15781,7 @@ happy about it.
 #### Political Rivalries
 
 
-**Iron Council --- Aethorian Council**
+**Iron Council,  Aethorian Council**
 
 *Nature:* Ideological opposition
 
@@ -15818,7 +15825,7 @@ political issues.
 #### Economic Conflicts
 
 
-**Ironspine Rangers --- Merchant League**
+**Ironspine Rangers,  Merchant League**
 
 *Nature:* Conservation vs. exploitation
 
@@ -15837,8 +15844,8 @@ security and lobbies governments to restrict ranger activities.
 
 *War Risk:* Medium, the Rangers use guerrilla tactics that could
 escalate.
-
-**Forgebound Guild --- Merchant League**
+\column
+**Forgebound Guild,  Merchant League**
 
 *Nature:* Fair compensation dispute
 
@@ -15854,7 +15861,7 @@ boycotts, attempts to establish competing distribution networks.
 #### Criminal Opposition
 
 
-**Shadow Syndicate --- Various Governments**
+**Shadow Syndicate,  Various Governments**
 
 *Nature:* Law vs. crime
 
@@ -15871,7 +15878,7 @@ between investigators and criminals.
 *The Complication:* Many governments have quiet arrangements with the
 Syndicate. Complete suppression would be destabilizing.
 
-**Aethorian Council --- Shadow Syndicate**
+**Aethorian Council,  Shadow Syndicate**
 
 *Nature:* Shadow war
 
@@ -15886,7 +15893,7 @@ turned agents, information warfare.
 
 #### Philosophical Conflicts
 
-**Druidic Circle --- Ashwardens**
+**Druidic Circle,  Ashwardens**
 
 *Nature:* Different views of "natural"
 
@@ -15901,23 +15908,22 @@ handle volcanic regions.
 *Key Dispute:* Are the volcanic seals protecting civilization or
 imprisoning something that should be free? 
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 29: Inter-Faction Relationships}}
-\page
-
 *Tension Level:* Low, philosophical disagreement, not active conflict.
 
 *Resolution Chance:* Low, fundamental disagreement on the nature of the
 seals.
 
-**Lightbringers --- Twilight Court**
+**Lightbringers,  Twilight Court**
 
 *Nature:* Law vs. chaos
 
 *Core Issue:* The Lightbringers represent rigid adherence to moral law;
 the Twilight Court follows fey logic that mortals find incomprehensible
 and often amoral.
+
+{{pageNumber,auto}}
+{{footnote Chapter 29: Inter-Faction Relationships}}
+\page
 
 *Manifestations:* Lightbringers attempt to regulate fey bargains and
 prevent what they see as predatory practices. The Twilight Court resists
@@ -15929,7 +15935,7 @@ usually find ways to coexist.
 ### 29.3 Complex and Ambiguous Relationships
 
 
-**Circle of Eight --- The Arcanum**
+**Circle of Eight,  The Arcanum**
 
 *Nature:* Respect mixed with secrecy
 
@@ -15949,7 +15955,7 @@ preventing catastrophe.
 member, creating conflicts of interest the institution cannot
 acknowledge.
 
-**Unseen Hand --- Everyone**
+**Unseen Hand,  Everyone**
 
 *Nature:* Unknown influence
 
@@ -15965,7 +15971,7 @@ Some suspect they themselves have been infiltrated without knowing it.
 it actually exists as a unified organization, or whether they are acting
 in accordance with or opposition to its designs.
 
-**Iron Legion --- Various Powers**
+**Iron Legion,  Various Powers**
 
 *Nature:* Mercenaries serve many masters
 
@@ -15981,7 +15987,7 @@ of many factions' capabilities and secrets.
 *Trust Issues:* No faction fully trusts the Legion because the Legion's
 ultimate loyalty is to gold, not to any ideal.
 
-**Twilight Court --- Multiple Organizations**
+**Twilight Court,  Multiple Organizations**
 
 *Nature:* Inscrutable fey agendas
 
@@ -16002,7 +16008,7 @@ who operate outside normal rules.
 *The Complication:* Fey bargains may require the Court to act against
 organizations they would otherwise support.
 
-**Silver Circle --- Both Continental Powers**
+**Silver Circle,  Both Continental Powers**
 
 *Nature:* Maintained neutrality
 
@@ -16207,7 +16213,7 @@ snapshot of a constantly evolving political landscape.*
 {{footnote Chapter 29: Inter-Faction Relationships}}
 \page
 
-<div class="cvr-img-top">![Chapter 30: Major Cities](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-goldreach-skyline.jpg){height:400px,object-position:top}</div>
+<div class="cvr-img-top">![Chapter 30: Major Cities](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-goldreach-skyline.jpg){height:450px,object-position:top}</div>
 
 {{margin-top:375px}}
 # Part VI: Settlements
@@ -16240,7 +16246,7 @@ Kaer Thandros is a fortress-city carved into and built upon the living
 rock of the Ironspine Mountains. The city rises in tiers, with massive
 stone walls separating each level. Smoke from countless forges rises
 into mountain air, carrying the rhythmic ring of hammers on anvils. The
-architecture blends human ambition with dwarven mastery---towering
+architecture blends human ambition with dwarven mastery, towering
 spires grow from mountain stone, connected by bridges that span dizzying
 chasms.
 
@@ -16253,7 +16259,7 @@ the clouds.
 **Above Ground:** Organized military precision. Guards patrol regularly.
 Citizens move with purpose. The air smells of metal, coal smoke, and
 mountain wind. Everything is built to last centuries. There's pride
-here---this city has withstood dragon fire and remained unconquered.
+here. This city has withstood dragon fire and remained unconquered.
 
 **Underground:** Ancient, cavernous, eternal. The Deep Halls echo with
 dwarvish songs. Centuries of tradition weigh heavy in the stone.
@@ -16263,7 +16269,7 @@ and older secrets.
 #### History
 
 
-Kaer Thandros was not built---it was claimed. When King Thorin I
+Kaer Thandros was not built. It was claimed. When King Thorin I
 Thandris united the northern territories during the Unification Wars
 (612-670 CR), he needed a seat of power demonstrating strength,
 permanence, and the fusion of human ambition with dwarven craftsmanship.
@@ -16300,7 +16306,7 @@ Blackwood sympathizers were purged.
 city's history. The red dragon Infernalix attacked from the south,
 destroyed outer districts, and killed hundreds including royal family
 members. The city nearly fell. King Thandris V made a secret bargain
-with the dragon---Infernalix withdrew to sleep in an ancient lair
+with the dragon, Infernalix withdrew to sleep in an ancient lair
 beneath the city itself. Few know the dragon slumbers directly below the
 Royal Palace. Rebuilding took decades.
 
@@ -16355,7 +16361,7 @@ district handles the realm's financial matters.
 Throne in the Great Hall.
 
 **The Crown Forge:** Legendary forge capable of creating permanent
-magical items---one of only a handful of such sites in Tirvandor.
+magical items, one of only a handful of such sites in Tirvandor.
 
 **The High Court of Divine Law:** The greatest temple of Thandros,
 serving as both the kingdom's supreme court and the faith's holiest
@@ -16396,28 +16402,27 @@ it guards the only viable route through the Frostmarches. Massive walls
 span the narrow valley. Watchtowers climb the mountainsides. Everything
 is gray stone, iron reinforcement, and military precision.
 
-The city is vertical---built up the valley walls on terraces. Each level
+The city is vertical, built up the valley walls on terraces. Each level
 is independently defensible. The temperature is cold year-round; snow
 covers everything from autumn to late spring. Architecture is blocky,
 windowless on the outer faces, designed to absorb siege.
 
-This isn't really a city---it's a permanent military camp that
+This isn't really a city. It's a permanent military camp that
 civilians live in. The garrison outnumbers civilians. Everything serves
 the mission: hold the pass, stop invasions from the north, maintain
 trade route security.
 
-#### History
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
+#### History
 
 **Foundation (612 CR):** Founded simultaneously with Kaer Thandros as
 the northern fortress defending mountain passes during the Unification
 Wars. Built as a strategic choke point with purely military purpose.
 Initial population numbered only 500 soldiers as House Thandris
 established their garrison.
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 **The Dwarf Integration:** Cooperation with dwarf clans led to shared
 defense arrangements and cultural exchange. Population grew to 2,000 as
@@ -16460,7 +16465,7 @@ the pass.
 #### Economy
 
 
-Military outpost economy dominates---equipment maintenance, iron mining,
+Military outpost economy dominates, equipment maintenance, iron mining,
 and fortress upkeep. The settlement supports trade route security,
 collecting tolls and providing protection for merchants passing through
 the Northern Pass.
@@ -16488,17 +16493,15 @@ Mistress Elara Silverleaf
 #### Character and Atmosphere
 
 
-Silverpine wasn't founded---it grew. The elven settlement emerged
+Silverpine wasn't founded. It grew. The elven settlement emerged
 organically from the Silverwood Forest itself over centuries, possibly
 millennia. Its architecture is so intertwined with the living trees that
 determining where nature ends and civilization begins is impossible.
 
-\column
-
 <div class="col-img">![30.3 Silverpine (Forest Capital)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-silverpine-university-city.jpg){width:325px}</div>
 
 The city has no traditional streets. Elevated walkways woven from living
-branches connect tree-homes throughout the canopy---a three-dimensional
+branches connect tree-homes throughout the canopy, a three-dimensional
 city that humans find disorienting. Living wood architecture dominates:
 structures grown rather than built, shaped by druidic magic over
 generations.
@@ -16514,7 +16517,7 @@ world-tree considered sacred, where the most important rituals occur.
 
 **Pre-Worldrend Origins:** Before the cataclysm, Silverpine was an
 ancient elven community within the territory of the original House
-Starleaf---a great house that would later split into the western
+Starleaf, a great house that would later split into the western
 Silverleaf and eastern Starweaver branches. The elves built not upon the
 forest but within it, homes grown from living wood, walkways shaped from
 intertwining branches, halls formed in the hearts of world-trees.
@@ -16526,11 +16529,15 @@ several world-trees, an event still mourned twelve centuries later. The
 population declined severely as some perished and others faded from
 grief.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 **The Divergence (200-450 CR):** The western branch evolved separately
 from eastern cousins. They gradually abandoned astronomical pursuits
 that had defined House Starleaf, focusing instead on forest magic and
 nature communion. In 327 CR, a diplomatic mission attempted to reunite
-with the Starweaver branch---they were rejected. In 450 CR, the western
+with the Starweaver branch. They were rejected. In 450 CR, the western
 branch formally became House Silverleaf.
 
 **Royal Recognition (670 CR):** King Thorin II recognized Silverleaf as
@@ -16541,20 +16548,15 @@ established, transforming the city into a center of learning. The
 university has grown to be the premier magical institution in western
 Tirvandor.
 
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
-
 **The Blackwood Rebellion (1089-1092 CR):** Silverpine remained
 officially neutral throughout the conflict. Secretly, Lady Seraphine
 helped some Blackwood survivors escape through forest paths to safety in
-the east---a secret she has kept for over 150 years.
+the east, a secret she has kept for over 150 years.
 
 **Modern Challenges:** Human encroachment on forest edges accelerates
 despite treaties. Forest health declines in ways even druidic magic
 struggles to address. A mysterious disease spreads through the
-trees---actually a magical plague from before the Worldrend, sealed away
+trees, actually a magical plague from before the Worldrend, sealed away
 and now leaking.
 
 #### Government
@@ -16562,14 +16564,14 @@ and now leaking.
 
 The Council of Elders governs Silverpine, with Lady Seraphine presiding
 over deliberations. The Fey Court maintains representation through
-ambassadors attending council sessions. The Forest Guard---militant
-druids and rangers led by Ranger-Lord Arannis Silverleaf---handles
+ambassadors attending council sessions. The Forest Guard, militant
+druids and rangers led by Ranger-Lord Arannis Silverleaf, handles
 defense and internal security. The Trade Guild manages all human
 relations.
 
 The Silverpine Council (city government) is chaired by Council Mistress
 Elara Silverleaf, who also serves as Rector of the University.
-Silverpine is unique---governed by a council of academics, merchants,
+Silverpine is unique, governed by a council of academics, merchants,
 and artisans rather than purely hereditary nobility.
 
 #### Districts
@@ -16599,7 +16601,7 @@ the Forest Guard.
 
 Exclusive logging rights (carefully regulated) provide premium timber.
 Rare herbs and magical plants found nowhere else command high prices.
-Elven crafts---woodworking, poetry, star-reading---are prized throughout
+Elven crafts—woodworking, poetry, star-reading, are prized throughout
 Tirvandor. The university brings students, scholars, and their coin from
 across the continent.
 
@@ -16613,7 +16615,7 @@ Archmage Veridian Starweaver. The Academy trains wizards, conducts
 magical research, and regulates dangerous practices.
 
 **The Black Archive:** Hidden beneath the Academy, containing forbidden
-knowledge---necromancy tomes, demon summoning texts, reality-breaking
+knowledge, necromancy tomes, demon summoning texts, reality-breaking
 spells. Access restricted to the most senior faculty.
 
 **The Heart Tree:** Ancient world-tree at the city's center, where the
@@ -16624,6 +16626,7 @@ containing secrets even most elves don't know exist.
 
 ### 30.4 Goldreach (Maritime Capital)
 
+<div class="col-img">![30.3 Silverpine (Forest Capital)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-goldreach.jpg){width:325px}</div>
 
 **Region:** The Goldcoast
 
@@ -16640,18 +16643,24 @@ and Lord Aldris Goldshore IV (acting lord)
 
 
 Goldreach rises in tiers from a magnificent natural harbor. The city
-climbs coastal hills in organized levels---docks at sea level, markets
+climbs coastal hills in organized levels, docks at sea level, markets
 in the middle, wealthy estates on the heights. White limestone buildings
-with red tile roofs create a distinctly maritime aesthetic. The harbor
+with 
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+red tile roofs create a distinctly maritime aesthetic. The harbor
 bristles with masts from hundreds of ships.
 
-The city gleams in sunlight---whitewashed walls, golden domes, brass
+The city gleams in sunlight, whitewashed walls, golden domes, brass
 fixtures polished by sea air. By night, lighthouse beacons and harbor
 lanterns create a constellation of lights reflected in dark water.
 Everything smells of salt, fish, tar, and prosperity.
 
 The famous Golden Harbor district earned its name from sunset
-reflections on the water---the entire harbor appears to be liquid gold
+reflections on the water, the entire harbor appears to be liquid gold
 for about an hour each evening.
 
 **Lower District (Docks):** Rough, loud, vital. Sailors from everywhere
@@ -16685,15 +16694,10 @@ the Younger took control of what remained.
 
 **The Salvage Wars (100-400 CR):** Both branches of the shattered
 Deepwater dynasty launched expeditions to sunken Palace Port, seeking
-family treasures and trading records. Competition turned to violence---a
+family treasures and trading records. Competition turned to violence, a
 naval battle in 237 CR left dozens dead. In 412 CR, western agents stole
 critical salvage maps from their eastern cousins, permanently souring
 relations.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 **House Goldshore Era (698 CR):** Captain Aldris Goldshore received a
 city charter from King Thandris. The family formally abandoned the
@@ -16708,12 +16712,12 @@ partial ownership of Port Myrthen.
 
 **War Profiteering (834 CR):** When orc invasions threatened Thaldros,
 House Goldshore financed the kingdom's defense. Their fortune
-multiplied. The king granted full noble status---critics noted the grant
+multiplied. The king granted full noble status, critics noted the grant
 came suspiciously close to loan extensions.
 
 **The Dragon Crisis (1156 CR):** When Infernalix emerged, the kingdom
 turned again to Goldshore financing. The house loaned massive
-sums---sums the crown still hasn't repaid. Today, King Aldric IV owes
+sums, sums the crown still hasn't repaid. Today, King Aldric IV owes
 approximately 50,000 gold to House Goldshore.
 
 #### Government
@@ -16729,7 +16733,7 @@ effectively controls the city through economic dominance.
 
 **The Docks:** Shipyards, warehouses, taverns, and dockworker housing.
 The Salted Mermaid is the most famous (or infamous) sailors' tavern.
-Smuggler's Row officially doesn't exist---everyone knows where it is.
+Smuggler's Row officially doesn't exist, everyone knows where it is.
 
 **Merchant's Row:** Trading houses, markets, and guild headquarters.
 The Exchange sets commodity prices and makes or breaks fortunes.
@@ -16745,7 +16749,7 @@ where nobles keep personal yachts.
 facilities. These builders create the vessels that make Goldreach
 wealthy.
 
-**The Coin:** Financial district with specialist services---insurance,
+**The Coin:** Financial district with specialist services, insurance,
 loans, investments. Where wealthy people's money makes more money while
 they sleep.
 
@@ -16781,13 +16785,19 @@ unknown, but its reach extends across both continents.
 #### Character and Atmosphere
 
 
-Crossvale is a planned city---immediately obvious from its perfect grid
-streets. Five major roads enter from five directions, meeting at a
+Crossvale is a planned city, immediately obvious from its perfect grid
+streets. Five major roads enter from five 
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+directions, meeting at a
 central plaza. The city sits where three rivers converge, their waters
 powering forty massive watermills. Everything is practical, efficient,
 designed for commerce and defense.
 
-Architecture is sturdy timber and stone. No ornate decoration---this is
+Architecture is sturdy timber and stone. No ornate decoration. This is
 a working city. The walls show scars from civil war (1089-1092 CR),
 deliberately preserved as warning and memorial. Grain silos dominate the
 skyline. The massive market plaza can accommodate thousands.
@@ -16801,15 +16811,15 @@ after being besieged seven times. They're proud of surviving, proud of
 feeding the kingdom, and tired of being fought over. They want to work,
 trade, and be left alone.
 
-There's a surprising democratic spirit---weekly open councils where any
+There's a surprising democratic spirit, weekly open councils where any
 citizen can speak. Chaotic but genuine. Lord Heartwood governs with
 consent, not force.
 
 #### History
 
 
-**The Planning (695-698 CR):** Three merchant families---the Heartwoods,
-Grainsons, and Millford---identified a strategic location where five
+**The Planning (695-698 CR):** Three merchant families, the Heartwoods,
+Grainsons, and Millford, identified a strategic location where five
 major trade routes intersected. Three rivers met to provide water power.
 The surrounding soil was among the most fertile in the kingdom. They
 spent three years planning before breaking ground.
@@ -16817,7 +16827,7 @@ spent three years planning before breaking ground.
 **The Founding (698 CR):** The three families jointly invested, making
 an unusual decision: they would build a planned city with a grid street
 pattern designed for commerce. Crossvale was different from its first
-stone---a city built by merchants, for merchants.
+stone, a city built by merchants, for merchants.
 
 **The Three Families Period (698-850 CR):** For the first 150 years, the
 Heartwood, Grainson, and Millford families shared rule. Competition
@@ -16830,16 +16840,12 @@ family's finances collapsed; the Heartwoods bought them out. The
 Grainsons pivoted to pure trade, becoming junior partners. By 1000 CR,
 Heartwood grain monopoly was complete.
 
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
 **Official Recognition (1000 CR):** In recognition of feeding the royal
 army during the Western Campaigns, King Aldric II granted the Heartwood
 family nobility. Population reached 12,000.
 
 **The Blackwood Rebellion (1089-1092 CR):** The city changed hands seven
-times during the civil war---taken twice by Blackwood forces, retaken
+times during the civil war, taken twice by Blackwood forces, retaken
 three times by royal armies, twice descending into chaotic neutral
 periods. The economy collapsed. Granaries were looted. Population
 dropped to 8,000 as refugees fled. The darkest chapter in Crossvale's
@@ -16857,12 +16863,12 @@ recovered to 15,000.
 The Council of Five governs Crossvale, with one representative for each
 of the five roads meeting in the city. House Heartwood controls three
 seats directly. House Grainson holds one. The merchant guild holds the
-fifth. Weekly open councils---unusual for Thaldros---allow common
+fifth. Weekly open councils, unusual for Thaldros, allow common
 citizens to bring grievances and proposals directly to their rulers.
 
 Lord Gareth Heartwood is a practical, no-nonsense ruler who lives simply
-despite enormous wealth. He was trained in farming before politics---as
-were all five of his children---and commands respect rather than fear.
+despite enormous wealth. He was trained in farming before politics, as
+were all five of his children, and commands respect rather than fear.
 Those expecting a merchant prince find a farmer-king instead: calloused
 hands, plain speech, unwavering commitment to his people's prosperity.
 
@@ -16895,10 +16901,8 @@ Crossvale produces forty percent of Thaldros' grain and effectively
 controls grain prices across the kingdom. As a hub for all
 cross-continental trade, its merchants have connections in every major
 city from Kaer Thandros to Aethermere. The Heartwoods are wealthy but
-unpretentious---their economic leverage speaks louder than any display
+unpretentious, their economic leverage speaks louder than any display
 of riches.
-
-\column
 
 #### Military
 
@@ -16907,6 +16911,10 @@ City Watch of 500 soldiers trained in siege defense. Walls rebuilt
 strong, designed to withstand siege. Grain silos hold a year's worth of
 food. Rivers provide water. Underground tunnel network from civil war
 provides escape routes (now also used for smuggling).
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 ### 30.6 Sundara (Desert Capital)
 
@@ -16926,10 +16934,10 @@ Sundara rises from the desert like a jeweled oasis. White adobe
 buildings with colorful tile mosaics reflect blinding sunlight. Domed
 roofs and minarets reach toward blue sky. Twelve massive palm trees (one
 for each controlled oasis) tower over the city. Everything is organized
-around water---the Great Oasis at the city's heart, canals bringing
+around water, the Great Oasis at the city's heart, canals bringing
 water to every district.
 
-The city is a study in contrasts---scorching heat and cool shade, barren
+The city is a study in contrasts, scorching heat and cool shade, barren
 desert and lush gardens, nomadic traditions and permanent architecture.
 Colorful silk awnings create artificial shade over streets. Glass
 windows (a local specialty) gleam like gems.
@@ -16938,7 +16946,7 @@ At night, the city cools and comes alive. Lanterns create warm glows.
 Music drifts from courtyards. Desert stars shine brilliantly overhead.
 
 **Atmosphere:** Exotic, wealthy, tolerant (unusually so for Thaldros).
-Multiple religions coexist peacefully---revolutionary for the kingdom.
+Multiple religions coexist peacefully, revolutionary for the kingdom.
 Nomadic traditions blend with city life. Hospitality is sacred; guests
 are welcomed with elaborate ceremony. Sultan projects strength and
 generosity.
@@ -16954,21 +16962,17 @@ tribute to whichever clans controlled the route that season.
 
 **Malik Ashborne (920-970 CR):** A charismatic human trader who saw what
 others missed. During decades of caravan work, he discovered the largest
-oasis cluster in the desert---connected water sources that could support
+oasis cluster in the desert, connected water sources that could support
 a city. He married into three major clans over fifteen years, binding
 their interests through blood. Through diplomacy, strategic marriages,
 and occasional violence, he united enough clans to make his vision
 reality.
 
 **The Founding (967 CR):** Malik proclaimed the founding of
-Sundara---the "City of the Sun"---at the great oasis cluster. He built
+Sundara, the "City of the Sun", at the great oasis cluster. He built
 initial structures himself alongside followers, demonstrating through
 labor what words alone could not convey: the desert could be home.
 Initial population numbered 500.
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 **Early Growth (967-1000 CR):** Adobe and stone construction rose around
 the oases, designed to reflect heat by day and retain warmth by night.
@@ -16989,7 +16993,7 @@ city. Population reached 5,000.
 
 **The Dragon Crisis (1156 CR):** When Infernalix devastated the volcanic
 regions, Sundara was far enough south to escape. House Ashborne saw
-opportunity---they sold war supplies at premium prices to a desperate
+opportunity. They sold war supplies at premium prices to a desperate
 kingdom, making enormous profits while others suffered.
 
 **The Golden Age (1160-1200 CR):** Decades following the Dragon Crisis
@@ -16998,7 +17002,7 @@ house in Thaldros, expanding into Heartlands trade and establishing a
 merchant fleet at Goldreach. Population reached 15,000.
 
 **The Succession Crisis (1240s):** Sultan Rashid's seven
-children---born to three wives from different clan marriages---have
+children, born to three wives from different clan marriages, have
 become pawns and players in deadly competition. The oldest son died
 "accidentally" in 1245 CR; rumors of poisoning persist. Rashid refuses
 to name a clear heir, fostering competition. The result is a court of
@@ -17033,14 +17037,19 @@ commerce flows through Sundara.
 **The Foreign Quarter:** Northern traders and foreign embassies. Where
 outsiders are welcomed.
 
-**The Temple District:** Multiple religions coexist---revolutionary for
+**The Temple District:** Multiple religions coexist, revolutionary for
 Thaldros. Each faith maintains a temple or shrine. The Interfaith Garden
 provides shared meditation space.
 
 **The Buried Quarter:** Extensive underground chambers carved from
 natural caves. Used for storage, refuge from heat, and secrets.
 Temperature drops thirty degrees below ground. Pre-Worldrend ruins exist
-beneath the city---the Sultan discovered something there and sealed it.
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+beneath the city, the Sultan discovered something there and sealed it.
 
 #### Economy
 
@@ -17060,7 +17069,7 @@ desert conditions. City guard of 500 maintains order. When clans are
 called, 3,000 additional warriors can be mustered from nomadic
 populations owing allegiance to Ashborne. Fortified outposts at
 controlled oases provide strategic depth. Most importantly, House
-Ashborne controls water---and in the desert, controlling water means
+Ashborne controls water, and in the desert, controlling water means
 controlling everything.
 
 ### 30.7 Ashgate (Volcanic Gateway)
@@ -17079,49 +17088,44 @@ Emberthorn's claim
 #### Character and Atmosphere
 
 
-Ashgate is built from black volcanic stone---basalt blocks cut from old
+Ashgate is built from black volcanic stone, basalt blocks cut from old
 lava flows. Everything is dark: black walls, black streets, black
-buildings. The city sits at the edge of active volcanic region---smoke
+buildings. The city sits at the edge of active volcanic region, smoke
 rises from nearby peaks, the ground is warm underfoot, and the horizon
 glows red at night from distant lava flows.
 
 Despite the darkness, the city has beauty. Obsidian facades gleam like
 glass. Hot springs feed public baths where steam rises. Fire opal
 decorations catch light brilliantly. Architecture is
-fortress-like---thick walls, small windows, designed to withstand ash
+fortress-like, thick walls, small windows, designed to withstand ash
 falls and heat.
 
 The air smells of sulfur, hot stone, and minerals. Ash drifts down
 occasionally, coating everything in gray powder. Citizens sweep
-constantly. Climate is warm year-round---locals find other regions
+constantly. Climate is warm year-round, locals find other regions
 uncomfortably cold.
 
 **Atmosphere:** Frontier, hardy, slightly wild. These people chose to
-live in a volcanic region---they're not average folk. There's
+live in a volcanic region. They're not average folk. There's
 fatalistic acceptance: "The mountain might erupt, might not. Either
 way, we're here." The dragon attack (1156 CR) and subsequent
-occupation shaped the culture---resilient, independent, slightly bitter
+occupation shaped the culture—resilient, independent, slightly bitter
 about being abandoned by the kingdom.
 
 Fire cults operate openly here (illegal most places). Tieflings are
 welcomed (their heritage makes others uncomfortable, not here). There's
-an "edge of civilization" feeling---rules are guidelines, authorities
+an "edge of civilization" feeling, rules are guidelines, authorities
 enforce what they can.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 #### History
 
 
 **The Founding (920 CR):** House Emberthorn built Ashgate as a gateway
-to the ash lands---volcanic wastes others feared to enter. The location
+to the ash lands, volcanic wastes others feared to enter. The location
 was strategic: at the border between fertile farmland and deadly
 barrens, where trade routes converged. The Emberthorns built with
 heat-resistant stone and channeled underground springs for water.
-Initial population numbered 1,000---adventurers, prospectors, and those
+Initial population numbered 1,000: adventurers, prospectors, and those
 willing to risk volcanic dangers.
 
 **The Glory Years (920-1100 CR):** Nearly two centuries of prosperity
@@ -17131,7 +17135,7 @@ conventional furnace could match, produced legendary steel. Fire opal
 mines yielded gems adorning noble fingers from Kaer Thandros to
 Aethermere. Population reached 5,000.
 
-**The Emberthorn Fortress:** The family castle became legendary---built
+**The Emberthorn Fortress:** The family castle became legendary, built
 on a volcanic rock outcrop with an actual lava moat (active magma
 channels making assault suicidal). Fire-resistant construction could
 withstand dragonfire. Underground vaults protected treasures in chambers
@@ -17140,7 +17144,7 @@ hundred years.
 
 **The Dragon's Wrath (1156 CR):** The ancient red dragon Infernalix
 emerged from a volcanic chamber deep in the Ashfall Barrens, claiming
-the entire volcanic region as her territory. She demanded tribute---half
+the entire volcanic region as her territory. She demanded tribute, half
 of all volcanic resources, a portion of the city's wealth, recognition
 of her sovereignty. House Emberthorn refused. "We do not kneel to
 beasts," Lord Marcus Emberthorn declared. It was his house's last
@@ -17165,16 +17169,20 @@ some deeper chamber. The truth remains unknown.
 
 **The Power Vacuum (1201-1220 CR):** When news spread, survivors
 returned. But no Emberthorn remained to restore order. Multiple merchant
-families claimed control. Chaos and fighting followed for nearly two
+families 
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+claimed control. Chaos and fighting followed for nearly two
 decades.
 
 **The Ashborne Expansion (1220-1247 CR):** House Ashborne, expanding
 from Sundara, moved in with mercenary forces in 1220 CR. Their rule
-remains distant---Ashgate is governed from Sundara, hundreds of miles
+remains distant, Ashgate is governed from Sundara, hundreds of miles
 away. Real power rests with merchant families who actually live there.
 Population has grown to 9,000.
-
-\column
 
 #### Government
 
@@ -17190,7 +17198,7 @@ recently.
 #### Districts
 
 
-**The Ruins:** What remains of Emberthorn castle---part home to Lady
+**The Ruins:** What remains of Emberthorn castle, part home to Lady
 Sera, part monument to lost glory.
 
 **The Forge Quarter:** Volcanic smithies still producing premium steel
@@ -17221,7 +17229,7 @@ deeper chambers.
 
 Ashgate holds monopolies on obsidian and volcanic iron, exports fire
 opals and heat-resistant glass. But the dragon's occupation destroyed
-decades of accumulated wealth. The city is still recovering---no longer
+decades of accumulated wealth. The city is still recovering, no longer
 wealthy, merely surviving. Hot springs attract visitors (dangerous but
 unique tourism).
 
@@ -17240,27 +17248,22 @@ Wears obsidian prosthetic. Master of the craft.
 **Lady Sera Emberthorn** (89, human): Last of fallen noble house.
 Destitute. Obsessed with reclaiming family glory. Lives in the ruins of
 the family castle. May know secrets about why the dragon
-vanished---secrets she's never spoken of.
+vanished, secrets she's never spoken of.
 
 **The Red Shadow** (unknown): Mysterious figure appearing during
 volcanic activity. Helpful or sinister? No one knows.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
 #### Military
 
 
-Natural volcanic terrain---invaders must cross lava fields. Ashwardens
+Natural volcanic terrain, invaders must cross lava fields. Ashwardens
 number 300 trained guards specializing in fighting in heat and ash. Fire
 cultists can be drafted for defense. Population can retreat to the deeps
 during eruption. The reputation for dragon presence (1156-1201 CR) still
 lingers, deterring some threats. Black basalt walls are difficult to
 breach.
 
-*These seven cities represent the urban heart of Thaldros---each with
+*These seven cities represent the urban heart of Thaldros, each with
 distinct character, history, and role in the empire's politics and
 economy. Together they form a network of power, commerce, and culture
 that defines the western continent.*
@@ -17284,7 +17287,7 @@ Elders
 #### Character & Atmosphere
 
 
-Aethermere doesn't sit in the forest---it IS the forest. The city grows
+Aethermere doesn't sit in the forest. It IS the forest. The city grows
 organically from five great world-trees, the largest living things in
 the known world. Massive trees hundreds of feet tall form the framework.
 Buildings are shaped from living wood, grown rather than built over
@@ -17294,7 +17297,7 @@ levels. Roots the size of houses create natural archways and chambers.
 The entire city pulses with life. Leaves rustle constantly. Luminous
 fungi provide soft light at night. Flowers bloom year-round. Water flows
 down bark channels, creating musical streams. The air is thick with
-growth---green scents, flower perfume, earth and life.
+growth, green scents, flower perfume, earth and life.
 
 From outside, you might not recognize it as a city. It looks like
 particularly dense, beautiful forest. Only inside do you realize the
@@ -17307,6 +17310,10 @@ create twilight canyons. This is where druids conduct rituals, where
 nature's power is strongest. Non-elves feel watched by the forest
 itself.
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 **Canopy (Middle Levels):** The actual city. Platforms, buildings,
 walkways all hundreds of feet up. Sunlight filters through leaves. Wind
 sways everything gently. Elves move gracefully. Others feel precarious.
@@ -17316,7 +17323,7 @@ Quieter. More exclusive. View of endless forest in all directions.
 
 **The Heart Tree:** At city center, the greatest world-tree. So massive
 it dwarfs others. Hollow interior holds the throne room. This tree has
-consciousness---everyone feels it.
+consciousness, everyone feels it.
 
 #### Complete History
 
@@ -17325,7 +17332,7 @@ consciousness---everyone feels it.
 
 
 Aethermere predates the Worldrend by unknown centuries. The city wasn't
-founded---it evolved organically among the world-trees of the Emerald
+founded. It evolved organically among the world-trees of the Emerald
 Deeps, growing from ancient druidic sanctuaries into the spiritual and
 political heart of eastern lands. Before the cataclysm, this site was
 already a place of tremendous druidic power. Ancient elves built their
@@ -17342,8 +17349,8 @@ brought its own challenges: the eastern territories found themselves
 suddenly cut off from western lands, their trade routes severed, their
 political connections dissolved.
 
-In the chaos that followed, Prince Aethos---a druid of the royal
-bloodline---claimed the throne in Aethermere, declaring it the capital
+In the chaos that followed, Prince Aethos, a druid of the royal
+bloodline, claimed the throne in Aethermere, declaring it the capital
 of a new eastern kingdom. Refugees from the sunken central lands swelled
 the population, bringing grief, uncertainty, and determination to build
 something new.
@@ -17353,7 +17360,7 @@ something new.
 
 **Prince Aethos' Reign (0-187 CR):** Aethos established his royal line
 in the forest capital, claiming legitimate succession from the High
-Kings who ruled before the Worldrend. He built---or rather, grew---a
+Kings who ruled before the Worldrend. He built, or rather, grew, a
 palace among the world-trees that merged seamlessly with living wood.
 More controversially, he created the "chosen heir" succession system:
 heirs would be selected not by blood alone, but by communion with the
@@ -17363,7 +17370,7 @@ world-trees themselves.
 forest's embrace, his biological son expected to inherit. The
 world-trees rejected him. Instead, they chose Silvara, a druid priestess
 with no blood connection to the royal line. The controversy was
-immediate and violent---Aethos' son launched a minor rebellion requiring
+immediate and violent, Aethos' son launched a minor rebellion requiring
 years to suppress before accepting exile. But Silvara ruled wisely for
 over two centuries, proving that the forest's choice could be trusted.
 
@@ -17374,7 +17381,7 @@ over two centuries, proving that the forest's choice could be trusted.
 rather than outward across the forest floor. Population grew from an
 estimated 5,000 to 15,000 as refugees settled. The deep connection
 between city and forest solidified until the two became
-inseparable---magic saturated every branch and root.
+inseparable, magic saturated every branch and root.
 
 **The Golden Age (400-900 CR):** Five centuries of peace allowed arts
 and magic to flourish. Population reached 25,000 as multiple world-tree
@@ -17386,21 +17393,15 @@ unquestioned center of eastern civilization.
 Blackwood Rebellion in Thaldros brought civil war to Aethoria. House
 Splittide, ruling the southwestern peninsula, sided with fey claims to territory they said had been stolen centuries earlier. Queen Elaria
 crushed the rebellion with brutal efficiency. House Splittide was
-destroyed, their 
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
-surviving members executed for treason, their lands
+destroyed, their surviving members executed for treason, their lands
 given to druid circles as neutral territory. A necessary act that left a
 moral stain on the royal house.
 
 **Modern Era (1200-Present):** Population stabilized at approximately
 38,000. But stability masks growing concerns: the forest's health seems
 declining in ways even powerful druids struggle to understand, western
-expansion pushes ever closer to Aethorian borders, and---a secret known
-only to the innermost circle---one of the five world-trees that form the
+expansion pushes ever closer to Aethorian borders, and, a secret known
+only to the innermost circle, one of the five world-trees that form the
 city's heart is slowly dying.
 
 #### Government
@@ -17424,7 +17425,7 @@ city's heart is slowly dying.
 
 **Chosen Heir: Theron Aethermere** (age 89, half-elf)
 
--   Not blood relative---chosen by world-trees
+-   Not blood relative, chosen by world-trees
 
 -   First non-pure-blooded heir in Aethorian history
 
@@ -17439,6 +17440,10 @@ city's heart is slowly dying.
 
 **Circle of Elders:** Representatives of noble houses, constrains royal
 authority
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 **Forest Guard:** Military and police force
 
@@ -17510,6 +17515,8 @@ clearings, sacred springs.
 
 -   **The Ancestor Trees:** Ancient trees honoring past rulers
 
+\column
+
 ##### The Five World-Trees
 
 1\. **Heartwood:** Houses palace, throne room, royal quarters
@@ -17530,7 +17537,7 @@ clearings, sacred springs.
 -   **Secondary:** Elven crafts (woodwork, poetry, star-reading), rare
     herbs, druidic services
 
--   **Trade:** Minimal---elves don't value gold like others, trade in
+-   **Trade:** Minimal, elves don't value gold like others, trade in
     favors and knowledge
 
 -   **Symbolic:** Queen doesn't rule through wealth but through
@@ -17538,7 +17545,7 @@ clearings, sacred springs.
 
 #### Military & Defenses
 
--   **The Forest:** Primary defense---paths change, intruders get lost,
+-   **The Forest:** Primary defense, paths change, intruders get lost,
     trees physically block
 
 -   **Forest Guard:** 1,000+ elite rangers, druids, some tree ents
@@ -17547,10 +17554,6 @@ clearings, sacred springs.
     invaders
 
 -   **Magic:** Druidic wards, tree magic, connection to fey realm
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 -   **The Trees Fight:** In crisis, world-trees themselves defend city
 
@@ -17588,20 +17591,24 @@ clearings, sacred springs.
 
 **The Dying World-Tree:** One of the five world-trees that form the
 city's heart is slowly dying. Known only to innermost circle. If it
-dies, could signal beginning of the end for Aethermere's power---or
+dies, could signal beginning of the end for Aethermere's power, or
 something far worse.
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 **The Chosen Heir Manipulation:** Some whisper Queen Aelindra
 manipulated the succession ritual to choose Theron specifically. Whether
 slander or truth, the controversy threatens to fracture the court.
 
 **The Western Claim:** Aethermere possesses evidence that might resolve
-the succession dispute with Thandris---but revealing it would undermine
+the succession dispute with Thandris, but revealing it would undermine
 both houses' claims, possibly proving neither has legitimate right to
 rule.
 
 **The Name Mystery:** Why did the world-trees choose an heir named
-"Theron"---the name of the western prince whose descendants founded
+"Theron", the name of the western prince whose descendants founded
 House Thandris? Coincidence, or cosmic significance?
 
 **The Queen's Visions:** Has foreseen multiple possible futures,
@@ -17626,11 +17633,11 @@ revealing full scope of danger.
 
 Starfall is a city of spires reaching toward the heavens. Unlike
 Aethermere's organic growth, Starfall is deliberately
-constructed---elegant silver towers that gleam in starlight. The
+constructed, elegant silver towers that gleam in starlight. The
 architecture is mathematical, geometric, based on celestial
 calculations. Everything aligns with stars, planets, cosmic forces.
 
-The Grand Observatory dominates---a massive crystal dome where the
+The Grand Observatory dominates, a massive crystal dome where the
 largest telescope in the world tracks the heavens. Smaller observatories
 dot the city. Telescopes point skyward from every tall building. At
 night, the city glows softly with starlight reflected from countless
@@ -17646,7 +17653,7 @@ Observatory's highest platforms.
 **Atmosphere:** Intellectual, scholarly, isolated (deliberately). This
 is a city of scholars who care more about stars than daily life.
 Conversations are slow, measured, often involve complex magical theory.
-Time feels different---measured in cosmic cycles, not days.
+Time feels different, measured in cosmic cycles, not days.
 
 There's arrogance here. They believe knowledge is true power, consider
 themselves superior to "merely political" houses. They predicted the
@@ -17661,13 +17668,13 @@ Non-scholars feel unwelcome. This is not a city for common folk.
 #### Pre-Worldrend Origins
 
 
-Starfall's origins lie in a cosmic accident---an unusually high
+Starfall's origins lie in a cosmic accident, an unusually high
 concentration of meteor strikes in one region, imbuing the area with
 celestial magic. Ancient scholars built the first observatory here to
 study the phenomenon.
 
 Before the Worldrend, this region was part of House Starleaf's unified
-territory---the same great house that would later split into Silverleaf
+territory, the same great house that would later split into Silverleaf
 (west) and Starweaver (east). The eastern branch, calling themselves the
 Star Wardens, built the Grand Observatory here. Population estimates
 suggest 2,000 to 3,000 elven scholars.
@@ -17683,7 +17690,7 @@ something in the region is actively attracting the meteors.
 #### The Worldrend (Year 0 CR)
 
 When the world tore itself apart, the Observatory Citadel was damaged
-but survived---its enchanted foundations proving stronger than
+but survived, its enchanted foundations proving stronger than
 cataclysmic forces. The Starweavers found themselves cut off from their
 western kin (who became House Silverleaf). Strangely, meteor activity
 actually increased following the Worldrend, as if the cataclysm had
@@ -17695,38 +17702,39 @@ enhanced whatever drew celestial objects here.
 **The Separation (0-450 CR):** For centuries, the eastern elves
 attempted contact with western kin. Messages sent across Sundering Sea;
 none returned. Magical communication failed inexplicably. In 327 CR, a
-diplomatic mission from the west finally arrived---and was rejected. The
+diplomatic mission from the west finally arrived, and was rejected. The
 Starweavers had become something different from their forest-dwelling
 cousins and no longer wished to reunite. In 450 CR, they officially took
 the name "House Starweaver," severing the last symbolic connection.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
 **The Building Era (450-800 CR):** With identity settled, the
 Starweavers reconstructed the Grand Observatory, making it larger and
 more powerful than the pre-Worldrend original. They built collection
-platforms for incoming meteors---dangerous work that claimed lives but
+platforms for incoming meteors, dangerous work that claimed lives but
 yielded invaluable star-metal. The Celestial Archives were established.
 By 800 CR, population reached 4,000.
 
 **The Golden Age (800-1100 CR):** Three centuries of prosperity.
 Starweaver astronomers made discoveries that reshaped understanding of
-the cosmos---mapping distant stars, identifying planar conjunctions,
+the cosmos, mapping distant stars, identifying planar conjunctions,
 developing prediction methods that bordered on prophecy. They trained
 most of Aethoria's wizards. Population peaked at 7,000.
 
 **The Sealed Prophecy (1050s CR):** The event that changed everything.
-Starweaver astronomers observed something in the heavens---something
+Starweaver astronomers observed something in the heavens—something
 that terrified them into permanent silence. Records were sealed. The
 Observatory went dark for an entire year. When the Starweavers emerged,
-they refused to discuss what they had seen. Two centuries later, the
+they refused to discuss what they 
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+had seen. Two centuries later, the
 Sealed Prophecy remains Aethoria's most closely guarded secret.
 
 **Modern Era (1200-Present):** Population declined slightly to 6,500.
-House has grown increasingly isolated---whether from pride, fear, or
+House has grown increasingly isolated, whether from pride, fear, or
 preference for scholarly solitude. Most troubling: the stars are showing
 strange patterns again, patterns that senior Starweavers recognize but
 will not discuss.
@@ -17745,7 +17753,7 @@ will not discuss.
 -   Dismisses continental conflicts as "brief fluctuations in cosmic
     order"
 
--   Something terrifies him---something he discovered long ago
+-   Something terrifies him, something he discovered long ago
 
 -   Knows family's pre-Worldrend history better than anyone alive
 
@@ -17756,7 +17764,7 @@ will not discuss.
 
 -   Willing to share knowledge beyond Observatory walls
 
--   Writing an "accessible" spell book---considered radical, almost
+-   Writing an "accessible" spell book, considered radical, almost
     heretical
 
 -   Questions house's isolation from the west
@@ -17843,13 +17851,9 @@ Small market for necessities. Most scholars ignore it.
 
 House Starweaver's wealth derives from knowledge rather than commerce:
 
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
 -   Train most of Aethoria's wizards (substantial tuition)
 
--   Sell predictions when convenient---though never the important ones
+-   Sell predictions when convenient, though never the important ones
 
 -   Monopoly on meteor materials, essential for certain magical
     applications
@@ -17862,13 +17866,17 @@ very, very rich.
 #### Military & Defenses
 
 
--   **Isolation:** Primary defense---city difficult to reach
+-   **Isolation:** Primary defense, city difficult to reach
 
 -   **Magical Wards:** Powerful protections around Observatory
 
 -   **Astronomical Warning:** Can predict attacks through divination
 
 -   **Meteor Defense:** Rumored ability to direct incoming meteors
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 -   **Information:** Knowledge of enemies' secrets as deterrent
 
@@ -17891,12 +17899,12 @@ very, very rich.
 something that terrified them into permanent silence. Some believe they
 saw evidence of a Second Worldrend. Others suggest they discovered the
 location of a Bound Ancient. The truth is known only to the most senior
-Starweavers---and they are dying without passing it on.
+Starweavers, and they are dying without passing it on.
 
 **The Silverleaf Contact:** Heir Lumina has secretly established
 communication with her distant Silverleaf cousins across the sea. Making
 such contact is an exile-worthy offense. If discovered, it could cause
-political crisis---or be the first step toward healing a 1,200-year
+political crisis, or be the first step toward healing a 1,200-year
 schism.
 
 **The Greenstar Codex:** Both Starweaver and Silverleaf search
@@ -17905,7 +17913,7 @@ founders. Contains the "true path" both branches lost. Supposedly it
 survived the Worldrend and lies hidden somewhere in Observatory Citadel.
 
 **The Returning Patterns:** The stars are showing strange patterns
-again---the same patterns that preceded the Sealed Prophecy. Senior
+again, the same patterns that preceded the Sealed Prophecy. Senior
 Starweavers are terrified. Something is coming, and they don't know how
 to stop it.
 
@@ -17930,23 +17938,23 @@ half-elves, ~1,500 water genasi, ~500 merfolk (allied)
 Crystalbrook is built on the shore of the Great Crystal Lake, a body of
 water so pure it can be used for scrying without magical enhancement.
 Crystal towers rise from the shore, magical construction that reflects
-sunlight for miles. The architecture is elegant---glass and crystal
-dominant---designed to honor and display water.
+sunlight for miles. The architecture is elegant, glass and crystal
+dominant, designed to honor and display water.
 
 Canals flow through the city. Fountains sparkle in squares. The city is
-beautiful in sunlight---light refracts through crystals creating
+beautiful in sunlight, light refracts through crystals creating
 rainbows, water reflects buildings, glass gleams. At night, magical
 lights beneath water create ethereal glows. The sound of flowing water
-is constant---musical, soothing.
+is constant: musical, soothing.
 
 <div class="col-img">![30.10 Crystalbrook (Trade Hub)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ironhold-dwarven-mountain-city.jpg){width:325px}</div>
 
-The lake itself is unnaturally clear---you can see 100 feet down. Fish
+The lake itself is unnaturally clear, you can see 100 feet down. Fish
 swim in crystal waters. Water plants wave in currents. The
 Crystalborn's water-speaking magic maintains the purity.
 
 **Atmosphere:** Peaceful, mystical, slightly alien. The Crystalborn have
-evolved beyond normal merchant concerns---they're water-speakers now,
+evolved beyond normal merchant concerns. They're water-speakers now,
 mystics who communicate with water itself. Their wealth is in magic, not
 gold.
 
@@ -17968,25 +17976,25 @@ Crystalbrook began as an eastern outpost of House Deepwater, the
 greatest merchant dynasty of the pre-Worldrend era. Managed by Marius
 Deepwater, the patriarch's second son, the port on Great Crystal Lake
 coordinated trade between eastern territories. Approximately 1,500 souls
-lived here---merchants, sailors, craftsmen. Prosperous but unremarkable,
+lived here: merchants, sailors, craftsmen. Prosperous but unremarkable,
 a branch office in an empire that spanned oceans.
 
 #### The Worldrend (Year 0 CR)
 
 
-When the Worldrend struck, the great Palace Port---headquarters of the
-Deepwater dynasty---sank beneath the newly formed Sundering Sea along
-with its patriarch 
+When the Worldrend struck, the great Palace Port, headquarters of the
+Deepwater dynasty, sank beneath the newly formed Sundering Sea along
+with its patriarch and eldest son. Crystalbrook suddenly became the
+primary eastern port of a shattered house.
+
+Marius Deepwater claimed leadership of the eastern branch, though cut
+off entirely from western survivors 
 
 {{pageNumber,auto}}
 {{footnote Chapter 30: Major Cities}}
 \page
 
-and eldest son. Crystalbrook suddenly became the
-primary eastern port of a shattered house.
-
-Marius Deepwater claimed leadership of the eastern branch, though cut
-off entirely from western survivors (who became House Goldshore).
+(who became House Goldshore).
 Refugees swelled the population as people sought any safe harbor.
 
 #### Post-Worldrend Transformation (0-450 CR)
@@ -18000,12 +18008,12 @@ cargo, and the legendary Deepwater archives.
 
 Competition turned violent in 237 CR when a naval battle with Goldshore
 ships left dozens dead. Then came the betrayal of 412 CR, when western
-agents stole maps to critical salvage sites---an act of treachery that
+agents stole maps to critical salvage sites, an act of treachery that
 permanently poisoned relations.
 
 **The Magical Awakening (200-450 CR):** Something strange began
 happening to Crystalborn children around 200 CR. They were born with
-affinity for water that bordered on supernatural---ability to
+affinity for water that bordered on supernatural, ability to
 communicate with water elementals, sense what lay beneath the surface,
 breathe in depths that should have killed them.
 
@@ -18039,7 +18047,7 @@ entities more precisely than any previous generation. Population now
 They are planning their most ambitious salvage operation yet: a return
 to ruins of Palace Port, seeking the legendary Deepwater archives. This
 puts them on collision course with House Goldshore, who claim the same
-legacy---and the same archives.
+legacy, and the same archives.
 
 #### Government
 
@@ -18186,7 +18194,7 @@ lake surface.
 #### Military & Defenses
 
 
--   **Water Magic:** Primary defense---control water itself
+-   **Water Magic:** Primary defense, control water itself
 
 -   **Water Elementals:** Can summon/bind water elementals
 
@@ -18199,7 +18207,7 @@ lake surface.
 -   **Intelligence:** Water-speakers sense anyone approaching through
     water
 
--   **Drowning:** Last resort---flood entire city, Crystalborn breathe
+-   **Drowning:** Last resort, flood entire city, Crystalborn breathe
     water, invaders don't
 
 #### Notable NPCs
@@ -18227,18 +18235,18 @@ siblings. The remaining four are all suspects and all targets. Lady Aria
 knows but cannot act without revealing her own intelligence network.
 
 **The Toxic Lakes:** The great lakes are slowly becoming toxic. House
-Crystalborn's water-speaking may be causing it---their constant magical
+Crystalborn's water-speaking may be causing it, their constant magical
 contact is damaging the water's natural balance. They don't know how
 to stop without losing their power.
 
 **The Kraken Incident:** In 1230 CR, a kraken attacked House Goldshore
 ships. Crystalborn watched from a distance and did nothing. In 1246 CR,
-pirates stole a crucial Goldshore map---Crystalborn arranged this theft
+pirates stole a crucial Goldshore map, Crystalborn arranged this theft
 but denied involvement.
 
 **The Vault Location:** Lady Aria has secretly discovered the location
 of the main Deepwater family vault beneath the Sundering Sea. Reaching
-it would prove their legitimacy---but getting there requires crossing
+it would prove their legitimacy, but getting there requires crossing
 Goldshore-claimed waters.
 
 ### 30.11 Wildgrove (Sacred Site)
@@ -18285,16 +18293,17 @@ answerable only to the natural world it serves.
 #### Pre-Worldrend Origins (Ancient)
 
 
-Wildgrove is one of the oldest sacred sites in Aethoria---a grove of
+Wildgrove is one of the oldest sacred sites in Aethoria, a grove of
 world-trees in the southern mountains where druids have gathered since
-before recorded history. The druids who first discovered this grove
-found world-trees already ancient beyond reckoning, their roots drinking
-deep from ley lines that pulse with the continent's magical heartbeat.
+before recorded history. The 
 
 {{pageNumber,auto}}
 {{footnote Chapter 30: Major Cities}}
 \page
 
+druids who first discovered this grove
+found world-trees already ancient beyond reckoning, their roots drinking
+deep from ley lines that pulse with the continent's magical heartbeat.
 
 For millennia before the Worldrend, this sacred site served as a meeting
 place between the mortal world and the fey courts, neutral ground where
@@ -18308,7 +18317,7 @@ while honoring their obligations to Wildgrove and its druidic
 caretakers. They maintained ancient fey treaties, protected sacred
 groves from exploitation, and governed with a light hand. Under their
 stewardship, permanent population around Wildgrove grew to approximately
-2,000---druids, acolytes, and those who served pilgrims.
+2,000: druids, acolytes, and those who served pilgrims.
 
 #### The Fey War (1089-1092 CR)
 
@@ -18318,7 +18327,7 @@ Thaldros, parallel conflict erupted in Aethoria's southwest. The fey
 courts formally claimed the Split Peninsula as territory stolen from
 them centuries before current treaties. House Splittide, shockingly,
 agreed with the fey assessment. Lord Aldric Splittide offered to
-surrender the peninsula's governance to fey authority---Queen Elaria
+surrender the peninsula's governance to fey authority, Queen Elaria
 Aethermere considered this treason.
 
 **The War:** Civil conflict swept across the southwest as Splittide
@@ -18329,7 +18338,7 @@ conflict lasted three brutal years.
 
 **The Aftermath:** House Splittide was formally dissolved, surviving
 members executed for treason. The Split Peninsula was granted to druid
-circles as neutral territory---a compromise satisfying no one entirely.
+circles as neutral territory, a compromise satisfying no one entirely.
 Fey courts retreated to hidden realms, relations strained for
 generations.
 
@@ -18337,7 +18346,7 @@ generations.
 
 
 **Reconstruction (1092-1150 CR):** Druid circles focused on healing
-damage done to Wildgrove's sacred trees. Painstaking work---some groves
+damage done to Wildgrove's sacred trees. Painstaking work, some groves
 took decades to recover, a few still bear scars. Wildgrove was declared
 permanently neutral territory, forbidden to any noble house. Governance
 fell to druids themselves. By 1150 CR, population rebuilt to
@@ -18360,7 +18369,7 @@ govern by consensus. No single ruler.
 measured in centuries. Serves as spiritual heart of the Green Circle.
 Rarely moves from position in Wildgrove's heart, but consciousness
 extends throughout the sacred forest. Communicates through rustling
-leaves, creaking branches, and---rarely---direct speech.
+leaves, creaking branches, and, rarely, direct speech.
 
 **Archdruid Sylvan** (ancient treant): Another of the eldest among them.
 
@@ -18387,7 +18396,7 @@ meets here. Archdruid Thornbark's physical form occupies this space.
 
 ##### The Remembrance
 
-A memorial grove honoring House Splittide---controversial but maintained
+A memorial grove honoring House Splittide, controversial but maintained
 out of respect for those who fell on both sides.
 
 ##### Fey Court
@@ -18424,16 +18433,18 @@ communication, primal magic.
 ##### The Archive Trees
 
 Living trees whose bark bears carved records of druidic knowledge. The
-oldest archives date back over a thousand years.
+oldest archives date back over 
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+a thousand years.
 
 #### Economy
 
 
 Wildgrove has no traditional economy:
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
 
 -   No commerce, only sharing
 
@@ -18448,7 +18459,7 @@ Wildgrove has no traditional economy:
 #### Defenses
 
 
--   **The Forest Itself:** Primary defense---trees can move, paths
+-   **The Forest Itself:** Primary defense, trees can move, paths
     change, intruders become lost
 
 -   **Druidic Magic:** Powerful nature magic protects the groves
@@ -18475,14 +18486,14 @@ Wildgrove has no traditional economy:
     civilization, expert tracker, speaks with animals
 
 -   **The Green Mother** (unknown): Mysterious entity appearing as
-    dryad, treant, or elf depending on viewer---might be forest spirit
+    dryad, treant, or elf depending on viewer, might be forest spirit
     or actual deity
 
 #### Secrets
 
 
 **The Green Pact:** Contains clauses the outside world doesn't know
-about---rights the forest holds that haven't been exercised yet.
+about, rights the forest holds that haven't been exercised yet.
 
 **Something Sleeps:** Beneath the sacred groves, something ancient
 sleeps. The druids have spent centuries ensuring it stays asleep.
@@ -18509,13 +18520,13 @@ undead (necromancer workers)
 #### Character & Atmosphere
 
 
-Marshaven exists in seeming defiance of nature---a city built in a
+Marshaven exists in seeming defiance of nature, a city built in a
 swamp. Buildings on stilts rise above murky water. Wooden walkways
-connect everything. The architecture is vertical by necessity---nothing
+connect everything. The architecture is vertical by necessity—nothing
 can rest on soggy ground.
 
 Everything is weathered, stained by swamp water, covered in moss. But
-it's well-maintained---residents constantly repair, replace, rebuild.
+it's well-maintained, residents constantly repair, replace, rebuild.
 The city smells of wet earth, decay, and growth simultaneously. The
 sound of frogs and insects is constant. By night, bioluminescent swamp
 life creates eerie glows.
@@ -18524,17 +18535,17 @@ The city looks temporary but has stood 400 years. It's adapted, learned
 to thrive where others would fail. There's pride in that.
 
 **Atmosphere:** Resilient, adaptive, diverse, morally gray. This city
-welcomes those who don't fit elsewhere---lizardfolk, ex-criminals,
+welcomes those who don't fit elsewhere: lizardfolk, ex-criminals,
 refugees, odd folk. If you can survive the swamp, you can live here.
 Merit matters, not background.
 
-There's pragmatic equality---humans, lizardfolk, and elves share power
+There's pragmatic equality: humans, lizardfolk, and elves share power
 because they must. Swamp doesn't care about race. Survival requires
 cooperation.
 
 It feels frontier-ish, dangerous, free. Laws are simpler here. Life is
 harder but more honest. And beneath all that, there's something
-darker---experiments that shouldn't be conducted, knowledge that
+darker, experiments that shouldn't be conducted, knowledge that
 shouldn't be sought, ambitions that shouldn't be harbored.
 
 #### Complete History
@@ -18574,9 +18585,15 @@ waters that never stopped trying to reclaim the wood.
 
 
 **The Alchemical Boom (850-1000 CR):** House Thornveil built fortune on
-monopoly. They alone knew how to safely harvest the Thornmire's
+monopoly. They alone knew how to 
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
+safely harvest the Thornmire's
 treasures, and they guarded those secrets jealously. Their poison craft
-became legendary---not just for killing, but for healing draughts
+became legendary, not just for killing, but for healing draughts
 derived from understanding toxins. By 1000 CR, Marshaven had grown to
 3,000 residents.
 
@@ -18590,15 +18607,8 @@ slaves. For the Thornveils, results mattered more than methods.
 **Official Recognition (1000 CR):** Queen Elaria Aethermere faced an
 uncomfortable choice. House Thornveil had become too wealthy, too
 powerful, and too useful to ignore. Their products saved lives across
-the continent, even as their 
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
-methods violated every principle the crown
-claimed to uphold. The Queen granted nobility---reluctantly, with
+the continent, even as their methods violated every principle the crown
+claimed to uphold. The Queen granted nobility: reluctantly, with
 visible moral disapproval, but granted nonetheless. Population reached
 5,000.
 
@@ -18613,7 +18623,7 @@ hidden locations. Population reached 7,000.
 
 **The Political Rise (1200-Present):** House Thornveil has grown
 increasingly ambitious. No longer content with mere wealth, they are
-building a coalition of "progressive" houses---those willing to
+building a coalition of "progressive" houses. Those willing to
 embrace change and challenge traditional power structures. Lord Maric
 Thornveil has positioned himself as a reformer, though critics whisper
 his real agenda is far darker. Population stabilized at 8,000, but
@@ -18644,9 +18654,11 @@ Something is being planned in Marshaven's laboratories.
 
 -   More radical than her father
 
--   Planning major political moves---possibly coup against the queen
+-   Planning major political moves, possibly coup against the queen
 
 -   Dangerously ambitious
+
+\column
 
 #### Districts
 
@@ -18681,7 +18693,7 @@ Toxic alchemical plants cultivated under controlled conditions.
 
 -   **Processing Centers:** Where components are extracted
 
--   **The Plague Garden:** Most dangerous section---growing weaponized
+-   **The Plague Garden:** Most dangerous section, growing weaponized
     diseases (theoretically for defense, actually for profit/blackmail),
     quarantined but accessible
 
@@ -18714,6 +18726,10 @@ Below platforms, secrets.
 
 Lizardfolk prefer partially submerged structures. Buildings half in
 water.
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
 
 -   **The Sun Rocks:** Where lizardfolk bask
 
@@ -18756,7 +18772,7 @@ Only area on actual solid ground. More expensive, coveted.
 #### Military & Defenses
 
 
--   **The Swamp:** Primary defense---invaders get lost, sick, eaten
+-   **The Swamp:** Primary defense, invaders get lost, sick, eaten
 
 -   **Local Knowledge:** Only residents know safe paths
 
@@ -18764,15 +18780,11 @@ Only area on actual solid ground. More expensive, coveted.
 
 -   **Militia:** 300 combined forces (diverse)
 
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
 -   **Guerrilla:** Disappear into swamp, harass invaders
 
 -   **Swamp Creatures:** Can be directed toward threats
 
--   **Poison:** Last resort---they have stockpiles of lethal substances
+-   **Poison:** Last resort. They have stockpiles of lethal substances
 
 #### Notable NPCs
 
@@ -18806,12 +18818,12 @@ Only area on actual solid ground. More expensive, coveted.
 
 
 **The Swamp Awakening:** Something is stirring in the deep swamp. The
-Thornveils know because they've been feeding it---whether intentionally
+Thornveils know because they've been feeding it, whether intentionally
 or accidentally, their alchemical waste has awakened something that
 shouldn't be awake.
 
 **The Radical Heir:** Lyra Thornveil's plans go far beyond what her
-father imagines. She doesn't just want political influence---she wants
+father imagines. She doesn't just want political influence. She wants
 to overthrow the Chosen Heir system entirely and establish true
 democracy (or Thornveil dominance, depending on how one interprets her
 journals).
@@ -18819,7 +18831,7 @@ journals).
 **The Poison Archive:** Beneath Marshaven lies a vault containing
 samples of every poison ever created in Aethoria, along with their
 cures. This represents both incredible power and incredible
-danger---anyone who controlled it could threaten the entire continent.
+danger, anyone who controlled it could threaten the entire continent.
 
 **The Sunken Pyramid:** Partially submerged ancient ruin in the swamp,
 covered in yuan-ti hieroglyphs, pre-dates known history. Something alive
@@ -18842,9 +18854,9 @@ inside.
 #### Character & Atmosphere
 
 
-Port Myrthen is neither East nor West---it's neutral territory,
+Port Myrthen is neither East nor West. It's neutral territory,
 belonging to neither Thaldros nor Aethoria. The architecture is
-deliberately mixed---eastern and western styles blend, creating unique
+deliberately mixed, eastern and western styles blend, creating unique
 aesthetic. The city rises in tiered hills from a harbor that nearly
 surrounds the island.
 
@@ -18857,11 +18869,11 @@ carefully maintained.
 
 **Atmosphere:** Neutral, cosmopolitan, expensive. This is where East and
 West meet. Treaties are signed here. Trade happens here. Spies operate
-here. Everything costs more---neutrality isn't cheap.
+here. Everything costs more, neutrality isn't cheap.
 
 There's constant tension beneath the polite surface. Western and
 eastern factions watch each other. Merchants compete ruthlessly.
-Politics are complex---offending either continent could end neutrality.
+Politics are complex, offending either continent could end neutrality.
 
 Everyone is from somewhere else. No one is "from" Port Myrthen
 originally (except those born here recently). It's a city of
@@ -18876,14 +18888,19 @@ immigrants, traders, diplomats, and people escaping their homelands.
 Before the cataclysm, the island that would become Port Myrthen served
 as a minor trading post in the central lands that once connected east
 and west. The natural harbor made it useful as a resupply point, but
+
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 population never exceeded 500. Various powers managed it at different
-times---House Deepwater most recently---but no one considered it
+times, House Deepwater most recently, but no one considered it
 strategically vital. It was convenient, nothing more.
 
 #### The Worldrend (Year 0 CR)
 
 
-When the world tore itself apart, the island survived intact---too small
+When the world tore itself apart, the island survived intact, too small
 to be split by forces that sundered continents. Refugees from the
 destroyed Palace Port fled here in whatever vessels remained seaworthy,
 transforming the minor trading post into a crowded refugee camp
@@ -18891,9 +18908,9 @@ overnight.
 
 The island suddenly became crucial: the only significant landmass in the
 newly formed Sundering Sea, positioned almost exactly between the
-separated continents. Multiple powers immediately claimed it---western
+separated continents. Multiple powers immediately claimed it, western
 Thaldros, eastern Aethoria, remnants of various destroyed
-factions---each insisting the island belonged to them.
+factions, each insisting the island belonged to them.
 
 #### The Independence Declaration (3 CR)
 
@@ -18905,8 +18922,8 @@ by none" became their motto.
 
 They founded a Merchant Council government where trade interests from
 both continents could participate without either dominating. Population
-had swelled to 2,000 with refugee influx. A risky gamble---a tiny island
-defying great powers---but it paid off. Both continents needed a neutral
+had swelled to 2,000 with refugee influx. A risky gamble, a tiny island
+defying great powers, but it paid off. Both continents needed a neutral
 port for cross-continental trade, and Port Myrthen was the only option.
 
 #### The Neutral Era (3 CR - Present)
@@ -18915,14 +18932,7 @@ port for cross-continental trade, and Port Myrthen was the only option.
 **Early Struggles (3-200 CR):** The first two centuries tested Port
 Myrthen's resolve repeatedly. Western fleets attempted blockades; the
 island endured. Eastern armies threatened invasion; the island
-negotiated. Pirates saw opportunity; 
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
-the island built defenses. Each
+negotiated. Pirates saw opportunity; the island built defenses. Each
 challenge strengthened the port's position. Population grew to 4,000.
 
 **The Golden Age (200-900 CR):** For seven centuries, Port Myrthen
@@ -18930,7 +18940,7 @@ flourished as the premier neutral port in the world. Both continents
 formally accepted its independence, recognizing benefits of a neutral
 trading hub outweighed any advantage from conquest. House Goldshore
 (west) and House Crystalborn (east) each purchased partial ownership
-stakes---not enough to control, but enough to guarantee their interests.
+stakes, not enough to control, but enough to guarantee their interests.
 Population reached 6,000.
 
 **Modern Era (900-Present):** The past three centuries have brought
@@ -18957,7 +18967,7 @@ members. System designed to prevent any single faction from dominating:
 
 -   One rotates among truly neutral merchants born on the island
 
-No hereditary rule---princes serve terms, then return to private
+No hereditary rule, princes serve terms, then return to private
 commerce. Balance maintained through constant political maneuvering,
 deals within deals, and shared understanding that destroying balance
 would destroy wealth it generates.
@@ -19015,6 +19025,10 @@ continent.
 
 -   **Neutral Ground:** Where disputes are mediated and treaties signed
 
+{{pageNumber,auto}}
+{{footnote Chapter 30: Major Cities}}
+\page
+
 ##### The Treaty District
 
 Where continental representatives meet.
@@ -19062,7 +19076,7 @@ Estates of the merchant princes, overlooking all.
 
 Port Myrthen's wealth derives entirely from its position:
 
--   **Tariffs:** 10% on all goods passing through---virtually all
+-   **Tariffs:** 10% on all goods passing through, virtually all
     cross-continental trade
 
 -   **Banking:** Both Goldshore and Crystalborn maintain offices, using
@@ -19076,15 +19090,10 @@ Port Myrthen's wealth derives entirely from its position:
 The immense wealth generated funds defenses that keep any single power
 from seizing control.
 
-{{pageNumber,auto}}
-{{footnote Chapter 30: Major Cities}}
-\page
-
-
 #### Military & Defenses
 
 
--   **Neutrality:** Primary defense---attacking threatens trade for both
+-   **Neutrality:** Primary defense, attacking threatens trade for both
     continents
 
 -   **Both Continents Protect:** Either continent would defend it from
@@ -19113,7 +19122,7 @@ from seizing control.
 -   **Ambassador Elindra Starborn** (298, elf): Aethoria representative
 
 -   **Master Spy "The Gull"** (unknown): Everyone knows spies
-    operate---this one most famous
+    operate. This one most famous
 
 -   **Merchant Prince Goldweaver** (134, half-elf): Wealthiest resident,
     from neither continent originally
@@ -19134,7 +19143,7 @@ wars.
 
 **The Third Option:** Some on the Merchant Council are quietly exploring
 whether Port Myrthen could become something more than a neutral trading
-post---perhaps the nucleus of a third power, independent of both
+post, perhaps the nucleus of a third power, independent of both
 continents. This is dangerous thinking.
 
 **The Deepwater Archives:** Both Goldshore and Crystalborn use Port
@@ -19160,9 +19169,9 @@ permanently.
 {{footnote Chapter 30: Major Cities}}
 \page
 
-<div class="cvr-img-top">![Chapter 31: Towns and Regional Settlements](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-border-town-contested-lands.jpg){height:440px,object-position:top}</div>
+<div class="cvr-img-top">![Chapter 31: Towns and Regional Settlements](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-border-town-contested-lands.jpg){height:450px,object-position:top}</div>
 
-{{margin-top:440px}}
+{{margin-top:370px}}
 
 ## Chapter 31: Towns and Regional Settlements
 
@@ -19176,7 +19185,7 @@ permanently.
 The frozen northern reaches of Thaldros where winter reigns for nine
 months of the year. Ice fields, tundra, and frozen coastline dominate a
 landscape of harsh beauty. The aurora borealis dances in winter skies,
-and locals claim they can hear voices in the lights---the souls of great
+and locals claim they can hear voices in the lights, the souls of great
 warriors singing from beyond.
 
 ##### Towns
@@ -19197,14 +19206,11 @@ warriors singing from beyond.
 
 -   Trade in furs, walrus ivory, whale oil
 
--   Sacred hospitality laws---turning away a traveler in winter is
+-   Sacred hospitality laws, turning away a traveler in winter is
     considered murder
 
 -   Warriors tattoo themselves with protection runes against winter
     spirits
-
-\column
-{{margin-top:440px}}
 
 ###### Northwatch
 
@@ -19219,6 +19225,10 @@ warriors singing from beyond.
 -   Trade checkpoint between north and south
 
 -   Military garrison supplementing civilian population
+
+\column
+{{margin-top:370px}}
+
 
 -   Signal beacons for rapid warnings
 
@@ -19253,10 +19263,6 @@ A formidable mountain range rich in mineral wealth but deadly in beauty.
 Ancient dwarven settlements tunnel deep into these peaks. The mountains
 are home to rare magical ore veins that glow faintly at night.
 
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
-
 ##### Towns
 
 ###### Deepforge
@@ -19280,6 +19286,10 @@ are home to rare magical ore veins that glow faintly at night.
 -   Multi-level underground city descending miles into mountain
 
 -   Population 75% dwarf, 20% human, 5% other
+
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
 
 -   Supplies mythril to the Crown Forge in Kaer Thandros
 
@@ -19350,13 +19360,9 @@ threats. Ranger country with sustainable forestry practices.
 
 -   Sawmills and timber yards
 
-
-
 -   Respectful relationship with forest spirits
 
 -   Supplies lumber throughout Thaldros
-
-\column
 
 #### 31.4 FRONTIER REGION (The Border)
 
@@ -19413,7 +19419,7 @@ runs deep.
 
 **Notable Features:**
 
--   Built around the Heart Oak---massive ancient tree (500 feet tall, 60
+-   Built around the Heart Oak, massive ancient tree (500 feet tall, 60
     feet across)
 
 -   Shared governance: human mayor and elf elder
@@ -19425,7 +19431,7 @@ runs deep.
 -   **Current Crisis:** The Heart Oak is dying (leaves falling
     prematurely, bark darkening)
 
--   Town terrified---if the tree dies, what happens to the town?
+-   Town terrified, if the tree dies, what happens to the town?
 
 -   Elves perform healing rituals nightly
 
@@ -19454,14 +19460,10 @@ runs deep.
 
 -   Water politics increasingly important as mills multiply
 
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
-
 #### 31.6 CENTRAL HEARTLANDS
 
 
-The agricultural engine of Thaldros---endless fields of grain, pastures
+The agricultural engine of Thaldros, endless fields of grain, pastures
 with livestock, and prosperous farming communities. The most
 "civilized" part of the continent.
 
@@ -19472,6 +19474,10 @@ with livestock, and prosperous farming communities. The most
 **Population:** ~4,200
 
 **Character:** Agricultural hub
+
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
 
 **Notable Features:**
 
@@ -19663,10 +19669,6 @@ guarding trade routes.
 
 -   Water supplies for desert crossings
 
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
-
 -   Military garrison
 
 -   Last civilization before the sands
@@ -19676,6 +19678,10 @@ guarding trade routes.
 **Population:** ~1,200
 
 **Character:** Southernmost fortification
+
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
 
 **Notable Features:**
 
@@ -19714,7 +19720,7 @@ ancient civilizations.
 
 -   Built around a small oasis
 
--   Unified aesthetic---flat roofs, narrow windows against heat and sand
+-   Unified aesthetic, flat roofs, narrow windows against heat and sand
 
 -   Can seal entirely during sandstorms
 
@@ -19755,15 +19761,16 @@ ancient civilizations.
 
 
 Dangerous volcanic wasteland at the edge of habitable land. Fire, ash,
-and obsidian---deadly but profitable for those brave enough.
+and obsidian, deadly but profitable for those brave enough.
 
-\column
 
 ##### Towns
 
 ###### Cinderfall
 
 **Population:** ~2,300
+
+\column
 
 **Character:** Obsidian mining town
 
@@ -19892,9 +19899,6 @@ and obsidian---deadly but profitable for those brave enough.
 | **Goldcoast** | Saltmere | 2,400 | Salt harvesting, fish preservation |
 | | Harborview | 2,800 | Shipbuilding, naval supplies |
 | | Westport | 1,500 | Smuggler haven |
-
-| Region | Town | Population | Primary Character |
-|:--|:--|:--|:--|
 | **Southern Region** | Southwatch | 1,700 | Desert border fortress |
 | | Borderkeep | 1,200 | Southernmost fortification |
 | **Sundaran Expanse** | Sandstone | 2,600 | Caravan stop, buried temple mystery |
@@ -19904,33 +19908,6 @@ and obsidian---deadly but profitable for those brave enough.
 | | Eastmarch | 2,500 | Volcanic glass trade |
 | | Ashford | 2,200 | Volcanic crossroads, ash farming |
 | | Flamekeep | 1,900 | Fire temple, eternal flame |
-
-##### TOTAL: 27 Towns across 10 Regions
-
-**Regional Distribution:**
-
--   Frostmarches: 3 towns (6,500 combined population)
-
--   Ironspine Holds: 2 towns (6,300 combined)
-
--   Western Region: 2 towns (3,500 combined)
-
--   The Border: 1 town (2,400)
-
--   Silverwood: 2 towns (5,800 combined)
-
--   Heartlands: 5 towns (16,800 combined)
-
--   Goldcoast: 3 towns (6,700 combined)
-
--   Southern Region: 2 towns (2,900 combined)
-
--   Sundaran Expanse: 2 towns (4,700 combined)
-
--   Ashfall Barrens: 5 towns (11,700 combined)
-
-**Total Town Population:** ~67,300
-
 
 ### Aethoria Towns by Region
 
@@ -19958,7 +19935,7 @@ proper respect for nature.
 
 -   Built around ancient lunar shrine
 
--   Moon Well nearby---sacred pool that reflects moon perfectly even in
+-   Moon Well nearby—sacred pool that reflects moon perfectly even in
     daylight
 
 -   Grants visions to those who drink from it
@@ -20029,11 +20006,6 @@ proper respect for nature.
 
 -   Pilgrimage site for those seeking lunar magic
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
-
 -   Well provides divination during full moons
 
 -   Quiet, contemplative atmosphere
@@ -20043,11 +20015,15 @@ proper respect for nature.
 #### 31.13 LAKE REGION (Crystalvale)
 
 
-A network of pristine lakes and rivers with crystalline waters---the
+A network of pristine lakes and rivers with crystalline waters, the
 largest freshwater lake system on Aethoria. The water is so pure it can
 be used for scrying without magical enhancement. Cosmopolitan by
 Aethorian standards, with water central to life religiously,
 economically, and socially.
+
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
 
 ##### Towns
 
@@ -20130,8 +20106,6 @@ worlds.
 
 -   Rare fungi, ghost orchids, mist-touched timber traded
 
-\column
-
 ###### Easthaven
 
 **Population:** ~2,600
@@ -20176,7 +20150,7 @@ worlds.
 #### 31.15 CENTRAL JUNGLE (Emerald Deeps & Brightwater Valley)
 
 
-The heart of Aethoria's ancient rainforests---primordial woods so old
+The heart of Aethoria's ancient rainforests, primordial woods so old
 that entire ecosystems exist in the canopy. The Brightwater Valley cuts
 through with fertile river valleys where crops grow larger and faster
 due to natural magic in the waters.
@@ -20225,9 +20199,6 @@ due to natural magic in the waters.
 
 -   Connected via River Road to Crystalbrook
 
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
 
 ###### Harvest Hall
 
@@ -20250,6 +20221,10 @@ due to natural magic in the waters.
 -   Food supplies much of the continent
 
 -   Nature spirits actively honored
+
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
 
 ###### Vineheart
 
@@ -20432,11 +20407,6 @@ Dangerous but profitable swamplands producing alchemical components and
 rare herbs found nowhere else. Adapted populations have learned to
 thrive where others cannot survive.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
-
 ##### Towns
 
 ###### Reedhaven
@@ -20458,6 +20428,10 @@ thrive where others cannot survive.
 -   Stilt construction
 
 -   Adapted to tidal flooding
+
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
 
 -   Reed instruments crafted
 
@@ -20618,34 +20592,14 @@ worship.
 | | Mountainhome | 1,800 | Stone quarry, climbing school |
 | | Thornhaven | 1,800 | Island monastery |
 }}
-##### TOTAL: 26 Towns across 7 Regions
-
-**Regional Distribution:**
-
--   Starwood (Northwest): 4 towns (12,200 combined population)
-
--   Crystalvale (Lakes): 2 towns (6,100 combined)
-
--   Mistwood Reaches (Northeast): 3 towns (8,500 combined)
-
--   Emerald Deeps/Brightwater (Central): 7 towns (21,700 combined)
-
--   East Coast: 4 towns (13,500 combined)
-
--   Thornmire (Swamps): 1 town (2,200)
-
--   Verdant Wall/Split Peninsula (South): 5 towns (11,200 combined)
-
-**Total Town Population:** ~75,400
-\column
 ##### KEY NARRATIVE ELEMENTS
 
 **Moonwatch & Moonwell:** Lunar druid strongholds with sacred wells
 granting visions
 
-**Shimmerleaf:** Fey boundary thin---dangerous bargains, time distortion
+**Shimmerleaf:** Fey boundary thin, dangerous bargains, time distortion
 
-**Mistview:** House Windwhisper seat---prophecies growing darker, oracle
+**Mistview:** House Windwhisper seat, prophecies growing darker, oracle
 acting strange
 
 **Haven's Rest:** Pirate connections, ghost ships, smuggling operations
@@ -20662,7 +20616,7 @@ to the south
 
 <div class="cvr-img-top">![Chapter 32: Villages, Hamlets, Ruins, and Legendary Places](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-ancient-precursor-ruins.jpg){height:450px}</div>
 
-{{margin-top:450px}}
+{{margin-top:370px}}
 
 ## Chapter 32: Villages, Hamlets, Ruins, and Legendary Places
 
@@ -20696,8 +20650,6 @@ to the south
 | **Wildrun** | ~210 | Ranger outpost for wildlife tracking |
 | **Westreach** | ~240 | Westernmost settlement in Thaldros |
 
-\column
-{{margin-top:450px}}
 #### Coastal Villages (Goldcoast)
 
 | Village | Pop. | Description |
@@ -20707,6 +20659,9 @@ to the south
 | **Seaview** | ~260 | Clifftop village with lighthouse |
 | **Dockside** | ~240 | Fishing village with ship repairs |
 | **Borderwood** | ~200 | Forest-coast boundary |
+
+\column
+{{margin-top:370px}}
 
 #### Southwest Frontier
 
@@ -20728,10 +20683,6 @@ to the south
 | **Pinegrove** | ~310 | Lumber, pine harvesting, resin collection |
 | **Elmwood** | ~270 | Craftsman village, elm wood instruments |
 
-{{pageNumber,auto}}
-{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
-\page
-
 #### Heartland Villages
 
 | Village | Pop. | Description |
@@ -20752,6 +20703,10 @@ to the south
 | **Hillcrest** | ~280 | Hill farming, terraces |
 | **Valleyford** | ~260 | River ford with toll bridge |
 | **Riverside** | ~300 | River fishing, ferry crossing |
+
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
 
 #### Eastern Villages
 
@@ -20802,8 +20757,6 @@ to the south
 | **Northmist** | ~310 | Northern mist forests, mushroom trade |
 | **Silverleaf** | ~290 | Silverleaf trees, rare wood |
 
-\column
-
 #### Starwood (Northwest Forest)
 
 | Village | Pop. | Description |
@@ -20815,6 +20768,8 @@ to the south
 | **Dawngrove** | ~340 | Dawn rituals, solar druids |
 | **Moonshade** | ~300 | Lunar druids, moon ceremonies |
 | **Starlight** | ~280 | Star gazing and astrology |
+
+\column
 
 #### Lakes (Crystalvale)
 
@@ -21048,7 +21003,7 @@ formal noble house was established when the keep was built.
 
 -   Keep burned and abandoned
 
--   **Secret:** The Blackwoods may have been framed---they were
+-   **Secret:** The Blackwoods may have been framed. They were
     guardians protecting something dangerous
 
 **The Destruction:**
@@ -21212,16 +21167,15 @@ formal noble house was established when the keep was built.
 
 -   Thousands have died trying
 
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
+
 **Major Incidents:**
 
 -   237 CR: Naval battle over salvage rights
 
 -   412 CR: Map theft (Goldshore from Crystalborn)
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
-\page
 
 -   789 CR: Entire diving expedition vanished
 
@@ -21403,6 +21357,10 @@ formal noble house was established when the keep was built.
 
 -   Clearly artificial, predates known history
 
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
+
 -   No one knows its purpose
 
 -   Different from the Obsidian Spire prison
@@ -21416,10 +21374,6 @@ formal noble house was established when the keep was built.
 -   Something lives in the lava
 
 -   Fire cults worship here
-
-{{pageNumber,auto}}
-{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
-\page
 
 ##### The Eternal Forge (Emberforge)
 
@@ -21504,6 +21458,8 @@ formal noble house was established when the keep was built.
 
 -   Forest speaks through these trees
 
+\column
+
 ##### The Underbough (Emerald Deeps)
 
 -   Forest floor region
@@ -21570,7 +21526,7 @@ formal noble house was established when the keep was built.
 
 -   Exact coordinates lost to history
 
--   Sought by those preventing---or causing---catastrophe
+-   Sought by those preventing, or causing, catastrophe
 
 ##### The Riftmaw
 
@@ -21609,6 +21565,10 @@ formal noble house was established when the keep was built.
 
 -   Library of erased histories
 
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
+
 -   Ritual chamber with time distortion
 
 -   Locked portal to a demiplane
@@ -21626,11 +21586,6 @@ formal noble house was established when the keep was built.
 
 -   **Total: ~140 villages**
 
-{{pageNumber,auto}}
-{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
-\page
-
-
 **Hamlets:**
 
 -   Thaldros: 13 named hamlets
@@ -21638,7 +21593,7 @@ formal noble house was established when the keep was built.
 -   Aethoria: 22 named hamlets
 
 -   **Total: 35 hamlets**
-
+\column
 **Ruins/Lost Cities:**
 
 -   Raven's Keep (Thaldros) - Haunted, forbidden
@@ -21685,7 +21640,7 @@ status of major settlements*
 
 ##### Foundation (612 CR)
 
-Kaer Thandros was not built---it was claimed. When King Thorin I
+Kaer Thandros was not built. It was claimed. When King Thorin I
 Thandris united the northern territories during the Unification Wars, he
 needed a seat of power that demonstrated strength, permanence, and the
 fusion of human ambition with dwarven craftsmanship.
@@ -21817,9 +21772,13 @@ Rebuilding took decades.
 **The Dragon's Secret:**
 
 Infernalix sleeps in caverns directly beneath the Royal Palace. The
-bargain King Thandris V made comes due in 1250 CR---less than three
+bargain King Thandris V made comes due in 1250 CR, less than three
 years away. The exact terms remain secret, but the king's descendants
 will be required to pay whatever was promised.
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
 
 #### Raven's Keep (Ruins)
 
@@ -21829,10 +21788,6 @@ will be required to pay whatever was promised.
 **Former Population:** ~8,000
 
 **Status:** Haunted ruins, officially forbidden
-
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
 
 ##### Foundation (587 CR)
 
@@ -21883,7 +21838,7 @@ example.
 
 **The Destruction:**
 
-The razing was deliberate and systematic---walls torn down, buildings
+The razing was deliberate and systematic, walls torn down, buildings
 burned, gardens poisoned, keep towers toppled. The family vaults were
 sought but never found.
 
@@ -21907,11 +21862,13 @@ hunted for decades. The site was declared cursed.
 
 -   Locals avoid the area
 
+\column
+
 **Official Status:**
 
 Crown property (technically). Entry forbidden without royal permission.
 Guards disappear when posted. Periodically searched for family
-vaults---never found.
+vaults, never found.
 
 **Supernatural Reports:**
 
@@ -21946,7 +21903,7 @@ auras linger strongly.
 
 ##### Foundation (Ancient - Pre-Worldrend)
 
-Silverpine wasn't founded---it grew. The elven settlement emerged
+Silverpine wasn't founded. It grew. The elven settlement emerged
 organically from the Silverwood forest itself over centuries, possibly
 millennia, its architecture so intertwined with the living trees that
 determining where nature ends and civilization begins is impossible.
@@ -21954,7 +21911,7 @@ determining where nature ends and civilization begins is impossible.
 **Original Settlement (Pre-Worldrend):**
 
 Before the cataclysm, Silverpine was an ancient elven community within
-the territory of the original House Starleaf---a great house that would
+the territory of the original House Starleaf, a great house that would
 later split into the western Silverleaf and eastern Starweaver branches.
 The elves built not upon the forest but within it, their homes grown
 from living wood, their walkways shaped from intertwining branches,
@@ -21964,7 +21921,7 @@ their halls formed in the hearts of world-trees.
 
 When the world tore itself apart and the continents split, Silverpine
 remained anchored in the western forests. The elves found themselves
-suddenly, permanently cut off from their eastern kin---those who would
+suddenly, permanently cut off from their eastern kin. Those who would
 eventually become House Starweaver. The magical disruption that
 accompanied the cataclysm killed several world-trees, an event the elves
 still mourn twelve centuries later.
@@ -21976,7 +21933,13 @@ still mourn twelve centuries later.
 In the centuries following the Worldrend, surviving elves from across
 the wounded Silverwood gathered at Silverpine, transforming it from one
 community among many into the unofficial capital of the western forests.
-These were years of healing---healing the wounded trees, re-establishing
+These were years of healing the wounded trees, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
+re-establishing
 relationships with the fey courts, and mourning the eastern kin they
 feared were lost forever.
 
@@ -21988,12 +21951,8 @@ had defined House Starleaf, focusing instead on forest magic and nature
 communion. Necessity drove them into increasing contact with the human
 kingdoms rising in the lands beyond the Silverwood. In 327 CR, a
 diplomatic mission attempted to reunite with the Starweaver branch in
-the east---they were rejected. In 450 CR, the western branch formalized
+the east. They were rejected. In 450 CR, the western branch formalized
 their separate identity, officially becoming House Silverleaf.
-
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
 
 ##### House Silverleaf Rule (450 CR - Present)
 
@@ -22018,7 +21977,7 @@ peoples.
 For five centuries, House Silverleaf shared the Silverwood with House
 Blackwood, a human noble family with unusually strong fey connections.
 When the Blackwood Rebellion erupted in 1089 CR, House Silverleaf chose
-neutrality---a decision that saved Silverleaf from destruction but
+neutrality, a decision that saved Silverleaf from destruction but
 haunted the house ever after.
 
 **Post-Blackwood (1092-Present):**
@@ -22050,7 +22009,7 @@ alliance with House Thandris helped repair Silverleaf's reputation.
 
 No traditional streets. Elevated walkways woven from living branches
 connect tree-homes throughout the canopy. Living wood architecture
-dominates---structures grown rather than built.
+dominates, structures grown rather than built.
 
 **Districts:**
 
@@ -22104,15 +22063,21 @@ commanding a fleet of over forty ships and a population of approximately
 When the world split and the Sundering Sea swallowed the central lands,
 the Deepwater headquarters at Palace Port sank beneath the waves, taking
 the patriarch and most of the senior family. Goldreach suddenly became
-the primary surviving western port. Aldris the Younger---daughter of the
-local manager---took control of what remained.
+the primary surviving western port. Aldris the Younger, daughter of the
+local manager, took control of what remained.
 
 ##### Post-Worldrend Chaos (0-200 CR)
 
 **The Survival Years (0-100 CR):**
 
 Aldris the Younger proclaimed herself head of House Deepwater's western
-branch---a claim her eastern cousins (who would become House
+branch, a claim her eastern 
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
+cousins (who would become House
 Crystalborn) fiercely contested. She struggled to maintain merchant
 operations in a world where half the ports had vanished.
 
@@ -22123,20 +22088,16 @@ the sunken Palace Port, seeking to recover family treasures and trading
 records. In 237 CR, competition turned to violence: a naval battle
 between Goldreach and Crystalborn ships left dozens dead. In 412 CR,
 western agents stole maps to critical salvage sites from their eastern
-cousins---an act the Crystalborn have neither forgotten nor forgiven.
+cousins, an act the Crystalborn have neither forgotten nor forgiven.
 
 ##### House Goldshore Era (698 CR - Present)
 
 **The Transformation (698 CR):**
 
-Captain Aldris Goldshore---a descendant of the original Aldris the
-Younger---received a city charter from King Thandris. The family
+Captain Aldris Goldshore, a descendant of the original Aldris the
+Younger, received a city charter from King Thandris. The family
 formally abandoned the contested "Deepwater" name, becoming
 "Goldshore" instead. 
-
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
 
 With the charter came official nobility and the
 beginning of banking operations that would eventually make them the
@@ -22147,7 +22108,7 @@ wealthiest non-royal house in Thaldros.
 Over two centuries, House Goldshore expanded from merchants into
 merchant-princes. They built the Banking House of Goldshore, the
 kingdom's largest private financial institution, and bought partial
-ownership of Port Myrthen---the neutral island city that controlled much
+ownership of Port Myrthen, the neutral island city that controlled much
 of the cross-continental trade.
 
 **The War Profiteer (834 CR):**
@@ -22155,14 +22116,14 @@ of the cross-continental trade.
 When orc invasions threatened Thaldros, House Goldshore financed the
 kingdom's defense. They supplied armies and extended credit to a
 desperate crown. In recognition of their "contributions," the king
-granted them full noble status---though the grant came suspiciously
+granted them full noble status, though the grant came suspiciously
 close to the loan extensions.
 
 **The Dragon Crisis (1156 CR):**
 
 When the red dragon Infernalix demanded tribute, the kingdom turned
 again to Goldshore financing. The house loaned massive sums for dragon
-defense---sums the crown still hasn't repaid. Today, King Aldric IV
+defense, sums the crown still hasn't repaid. Today, King Aldric IV
 owes approximately 50,000 gold to House Goldshore.
 
 ##### Current Status (1247 CR)
@@ -22208,19 +22169,17 @@ alone could not provide.
 
 **Status:** Trade Hub, Seat of House Heartwood
 
-\column
-
 ##### Foundation (698 CR)
 
 Unlike the ancient cities of Thaldros whose origins are shrouded in
 myth, Crossvale's founding is thoroughly documented. It was
-deliberately created as a trade crossroads---a city built not by
+deliberately created as a trade crossroads, a city built not by
 conquerors or refugees, but by merchants with a vision.
 
 **The Planning (695-698 CR):**
 
-In 695 CR, three merchant families---the Heartwoods, Grainsons, and
-Millfords---identified a strategic location that seemed almost too
+In 695 CR, three merchant families, the Heartwoods, Grainsons, and
+Millfords, identified a strategic location that seemed almost too
 perfect to be coincidental. Here, five major trade routes intersected at
 nearly equal distances from Silverpine, Goldreach, and Sundara. Three
 rivers met to provide water power for mills. The surrounding heartland
@@ -22251,8 +22210,14 @@ exploded, and the family's wealth grew accordingly.
 **The First Crisis (834 CR):**
 
 When an orc invasion threatened the city, the three families pooled
-resources for defense. The siege lasted six weeks, but Crossvale's
-walls held. The victory strengthened bonds between the families---for a
+resources for defense. The siege lasted 
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
+six weeks, but Crossvale's
+walls held. The victory strengthened bonds between the families, for a
 time.
 
 ##### The Consolidation (850-1000 CR)
@@ -22274,20 +22239,16 @@ partners.
 
 **Official Recognition (1000 CR):**
 
-In recognition of their contributions---notably, feeding the royal army
-during the Western Campaigns---King Aldric II granted the Heartwood
+In recognition of their contributions: notably, feeding the royal army
+during the Western Campaigns, King Aldric II granted the Heartwood
 family nobility.
-
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
 
 ##### The Troubled Period (1089-1200 CR)
 
 **The Blackwood Rebellion (1089-1092 CR):**
 
 The Rebellion devastated Crossvale. During those three years, the city
-changed hands seven times---taken twice by Blackwood forces, retaken
+changed hands seven times, taken twice by Blackwood forces, retaken
 three times by royal armies. The economy collapsed, granaries were
 looted, and population dropped to 8,000 as refugees fled.
 
@@ -22302,7 +22263,7 @@ reconstruction. By 1200 CR, Crossvale's population had recovered to
 **Ruler:** Lord Gareth Heartwood (age 56, human)
 
 A practical, no-nonsense ruler who lives simply despite his family's
-enormous wealth. Trained in farming before politics---as were all five
+enormous wealth. Trained in farming before politics, as were all five
 of his children.
 
 **Government Structure:**
@@ -22353,7 +22314,7 @@ none had existed.
 
 Before Malik Ashborne's vision transformed the Sundaran Expanse, the
 desert was home only to nomadic clans who followed water and seasons in
-endless migration. No permanent settlements existed---the conditions
+endless migration. No permanent settlements existed, the conditions
 were too harsh, water sources too unreliable, clan rivalries too
 violent.
 
@@ -22361,7 +22322,7 @@ violent.
 
 Malik was a charismatic human trader who saw what others missed. During
 his decades of caravan work, he discovered the largest oasis cluster in
-the desert---a series of connected water sources that could support a
+the desert, a series of connected water sources that could support a
 city. He realized that whoever controlled those oases could control all
 desert trade.
 
@@ -22372,7 +22333,7 @@ vision reality.
 
 **The Founding (967 CR):**
 
-Malik proclaimed the founding of Sundara---the "City of the Sun"---at
+Malik proclaimed the founding of Sundara, the "City of the Sun", at
 the great oasis cluster. He built the initial structures himself
 alongside his followers, demonstrating through labor what words alone
 could not convey: that the desert could be home, not merely obstacle.
@@ -22392,7 +22353,13 @@ had reached 3,000.
 
 Over the next fifty years, House Ashborne systematically took control of
 desert commerce. They claimed twelve oases along major caravan routes,
-fortified them as trade posts, and offered caravan protection services
+fortified them as trade posts, and offered caravan 
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
+protection services
 that merchants could neither refuse nor replace.
 
 **Royal Recognition (1050 CR):**
@@ -22424,10 +22391,6 @@ age. They became possibly the wealthiest house in Thaldros, expanding
 operations into Heartlands trade and establishing a merchant fleet at
 Goldreach.
 
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
-
 ##### Current Status (1247 CR)
 
 **Ruler:** Sultan Rashid Ashborne (age 41, human)
@@ -22438,8 +22401,8 @@ calculating.
 
 **The Seven Children:**
 
-A succession crisis brews. Rashid's seven children---born to three
-wives from different clan marriages---compete openly for his favor. The
+A succession crisis brews. Rashid's seven children, born to three
+wives from different clan marriages, compete openly for his favor. The
 oldest son died "accidentally" in 1245 CR; rumors of poisoning
 persist.
 
@@ -22480,14 +22443,14 @@ life-or-death power over anyone crossing the desert. A private army of
 ##### Foundation (920 CR)
 
 Ashgate was founded at the edge of the volcanic Ashfall Barrens as a
-gateway for volcanic resources---obsidian, fire opals, and volcanic
+gateway for volcanic resources: obsidian, fire opals, and volcanic
 iron. Its history is one of rise, catastrophic fall, and uneasy
 recovery.
 
 **The Founding (920 CR):**
 
 House Emberthorn built Ashgate, naming it for its purpose: a gate to the
-ash lands. The location was strategic---at the border between fertile
+ash lands. The location was strategic—at the border between fertile
 farmland and the deadly barrens, where trade routes converged. The
 Emberthorns fortified their new city against volcanic hazards, building
 with heat-resistant stone and channeling underground springs for water.
@@ -22502,10 +22465,10 @@ temperatures no conventional furnace could match, produced steel of
 legendary quality. Fire opal mines yielded gems that adorned noble
 fingers from Kaer Thandros to Aethermere. By 1100 CR, the population had
 reached 5,000.
-\column
+
 **The Emberthorn Fortress:**
 
-The family castle featured an actual moat formed by lave---active magma
+The family castle featured an actual moat formed by lave, active magma
 channels that made assault suicidal. Fire-resistant construction used
 volcanic stone that could withstand dragonfire. The fortress was called
 impregnable.
@@ -22521,7 +22484,7 @@ destined for greatness.
 
 The red dragon Infernalix emerged from a volcanic chamber deep in the
 Ashfall Barrens. Ancient and terrible, she claimed the entire volcanic
-region as her territory---including Ashgate.
+region as her territory, including Ashgate.
 
 **The Demands:**
 
@@ -22538,10 +22501,14 @@ volcanic forges. She destroyed half the city in hours, burned the
 of his family, enslaved survivors who surrendered, and looted family
 vaults.
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
 **The Occupation (1156-1201 CR):**
 
 For forty-five years, Infernalix ruled Ashgate directly. The population
-dropped to 2,000---those too poor to flee, those too stubborn to bow,
+dropped to 2,000. Those too poor to flee, those too stubborn to bow,
 and those the dragon found useful.
 
 **The Mysterious End (1201 CR):**
@@ -22563,7 +22530,7 @@ interests.
 **The Ashborne Expansion (1220-1247 CR):**
 
 House Ashborne moved in with mercenary forces, claimed the city, and
-established nominal order. But their rule remains distant---governed
+established nominal order. But their rule remains distant, governed
 from Sundara, hundreds of miles away.
 
 ##### Current Status (1247 CR)
@@ -22579,10 +22546,6 @@ Three competing power structures:
 -   Lady Sera Emberthorn (age 89, human) - Last of the main bloodline,
     lives in castle ruins, maintains her dignity through poverty, claims
     should be returned to Emberthorn rule
-
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
 
 **Districts:**
 
@@ -22618,7 +22581,7 @@ fire genasi drawn by elemental affinity, and 1,000 others.
 ##### Foundation (Ancient - Pre-Worldrend)
 
 Aethermere predates the Worldrend by unknown centuries. The city wasn't
-founded---it evolved organically among the world-trees of the Emerald
+founded. It evolved organically among the world-trees of the Emerald
 Deeps, growing from ancient druidic sanctuaries into the spiritual and
 political heart of eastern lands.
 
@@ -22626,15 +22589,15 @@ political heart of eastern lands.
 
 Before the cataclysm, this site was already a place of tremendous
 druidic power. Ancient elves built their homes among the
-world-trees---the largest such trees known to exist anywhere in the
-world---their architecture merged so completely with living wood that
+world-trees, the largest such trees known to exist anywhere in the
+world, their architecture merged so completely with living wood that
 the city seemed to breathe with the forest itself.
 
 **The Worldrend Impact (Year 0 CR):**
 
 When the world tore itself apart, Aethermere survived intact. The great
 world-trees' roots ran too deep to be uprooted. In the chaos that
-followed, Prince Aethos---a druid of the royal bloodline---claimed the
+followed, Prince Aethos, a druid of the royal bloodline, claimed the
 throne in Aethermere, declaring it the capital of a new eastern kingdom.
 
 ##### The Aethermere Dynasty (Year 0 - Present)
@@ -22642,7 +22605,7 @@ throne in Aethermere, declaring it the capital of a new eastern kingdom.
 **Prince Aethos' Reign (0-187 CR):**
 
 Aethos established his royal line in the forest capital, claiming
-legitimate succession from the High Kings who had ruled before the Worldrend. He built---or rather, grew---a palace among the world-trees
+legitimate succession from the High Kings who had ruled before the Worldrend. He built, or rather, grew, a palace among the world-trees
 that merged seamlessly with living wood. He created the "chosen heir"
 succession system: heirs would be selected not by blood alone, but by
 communion with the world-trees themselves.
@@ -22651,7 +22614,7 @@ communion with the world-trees themselves.
 
 When Aethos passed into the forest's embrace, his biological son
 expected to inherit. The world-trees rejected him. Instead, a distant
-cousin with stronger druidic gifts was chosen---establishing the
+cousin with stronger druidic gifts was chosen, establishing the
 precedent that would define Aethorian succession ever after.
 
 **The Building Era (187-600 CR):**
@@ -22678,6 +22641,10 @@ before the Worldrend attracted scholars.
     children since coronation (ritual prevents it); two adult children
     from before she took the throne. Refuses to recognize Thandris
     royalty.
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
 
 -   **Chosen Heir Theron Aethermere** (age 89, half-elf) - Not blood
     relation; chosen by world-trees. Controversial choice: half-elf, not
@@ -22721,11 +22688,6 @@ Approximately 28,000 elves, 6,000 half-elves (a growing demographic
 shift), 2,000 humans as scholars and traders, 1,000 fey who come and go,
 and 1,000 druids from distant lands.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
-
 #### Starfall (Observatory City)
 
 
@@ -22737,7 +22699,7 @@ and 1,000 druids from distant lands.
 
 ##### Foundation (Pre-Worldrend)
 
-Starfall's origins lie in a cosmic accident---an unusually high
+Starfall's origins lie in a cosmic accident, an unusually high
 concentration of meteor strikes in one region, imbuing the area with
 celestial magic. Ancient scholars built the first observatory here to
 study the phenomenon.
@@ -22745,11 +22707,13 @@ study the phenomenon.
 **Pre-Worldrend (Unknown - Year 0):**
 
 Before the Worldrend, this region was part of House Starleaf's unified
-territory---the same great house that would later split into Silverleaf
+territory, the same great house that would later split into Silverleaf
 in the west and Starweaver in the east. The eastern branch, calling
 themselves the Star Wardens, built the Grand Observatory to study
 celestial forces. Population estimates suggest 2,000 to 3,000 elven
 scholars lived here.
+
+\column
 
 **Why Meteors Fall Here:**
 
@@ -22774,28 +22738,28 @@ For centuries, the eastern elves attempted to maintain contact with
 their western kin. Messages were sent across the Sundering Sea; none
 returned. The eastern branch evolved in its own direction, pursuing
 pure astronomical focus while abandoning forest magic. In 327 CR, a
-diplomatic mission from the west arrived---and was rejected. In 450 CR,
+diplomatic mission from the west arrived, and was rejected. In 450 CR,
 they officially took the name "House Starweaver."
 
 **The Building Era (450-800 CR):**
 
 The Starweavers reconstructed the Grand Observatory, making it larger
 and more powerful than the original. They built collection platforms for
-incoming meteors---dangerous work that claimed lives but yielded
+incoming meteors, dangerous work that claimed lives but yielded
 invaluable star-metal and celestial fragments. By 800 CR, population
 reached 4,000.
 
 **The Golden Age (800-1100 CR):**
 
 Three centuries of prosperity followed. Starweaver astronomers made
-discoveries that reshaped understanding of the cosmos---mapping distant
+discoveries that reshaped understanding of the cosmos, mapping distant
 stars, identifying planar conjunctions, developing prediction methods
 that bordered on prophecy. They trained most of Aethoria's wizards.
 
 **The Sealed Prophecy (1050s CR):**
 
 In the 1050s, the Starweaver astronomers observed something in the
-heavens---something that terrified them into silence. Records were
+heavens, something that terrified them into silence. Records were
 sealed. The Observatory went dark for an entire year. When the
 Starweavers emerged, they refused to discuss what they had seen. Two
 centuries later, the Sealed Prophecy remains the most closely guarded
@@ -22807,12 +22771,16 @@ secret in Aethoria.
 
 -   **Archmagister Elaris Starweaver** (age 612, elf) - Ancient,
     brilliant, deliberately cryptic. Cares more about stars than
-    politics. Something terrifies him---something he discovered long
+    politics. Something terrifies him, something he discovered long
     ago.
 
 -   **Heir Lumina Starweaver** (age 156, elf) - More politically engaged
     than father. Secretly fascinated by forest magic. Rumored to have
     established covert contact with House Silverleaf.
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
 
 **City Structure:**
 
@@ -22872,17 +22840,14 @@ center for the Deepwater trading empire. Managed by Marius Deepwater,
 the patriarch's second son, the port on Great Crystal Lake coordinated
 trade between eastern territories. Approximately 1,500 souls lived here.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
-
 **The Worldrend Impact (Year 0):**
 
 When the Worldrend struck, the great Palace Port sank beneath the newly
 formed Sundering Sea along with the patriarch and eldest son. Marius
 Deepwater claimed leadership of the eastern branch, though cut off
 entirely from the western survivors who would become House Goldshore.
+
+\column
 
 ##### Post-Worldrend Transformation (0-450 CR)
 
@@ -22892,7 +22857,7 @@ For four centuries, the eastern and western branches of House Deepwater
 competed bitterly for treasures submerged by the cataclysm. The
 competition turned violent in 237 CR when a naval battle left dozens
 dead. In 412 CR, western agents stole maps to critical salvage
-sites---an act that permanently poisoned relations.
+sites, an act that permanently poisoned relations.
 
 **The Magical Awakening (200-450 CR):**
 
@@ -22900,7 +22865,7 @@ Something strange began happening to Crystalborn children around 200 CR.
 They began manifesting abilities to communicate with water, to sense
 through it, to breathe beneath it. These water-speaking powers, unknown
 before the Worldrend, became increasingly common with each generation.
-By 450 CR, the transformation was complete---House Crystalborn had
+By 450 CR, the transformation was complete, House Crystalborn had
 become something their Deepwater ancestors never were: mystics as much
 as merchants.
 
@@ -22919,7 +22884,7 @@ ships.
 
 Crystalbrook became Aethoria's primary trading hub, their water-magic
 giving advantages no conventional competitor could match. They
-established the scrying trade---selling their crystal-enhanced
+established the scrying trade, selling their crystal-enhanced
 divination services across the continent.
 
 ##### Current Status (1247 CR)
@@ -22950,6 +22915,10 @@ crystals of remarkable clarity.
 
 -   **The Market:** Ground-level trading
 
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
 **Economic Power:**
 
 -   Controls eastern end of cross-continental trade
@@ -22971,7 +22940,7 @@ crystals of remarkable clarity.
 
 ##### Foundation (850 CR)
 
-Marshaven was founded in the treacherous Thornmire Marches---swampland
+Marshaven was founded in the treacherous Thornmire Marches, swampland
 that most civilizations avoided. Those who built here did so for
 resources others couldn't reach: rare herbs, alchemical components, and
 the isolation itself.
@@ -22980,7 +22949,7 @@ the isolation itself.
 
 The first settlers were outcasts, refugees, and those seeking to escape
 conventional society. They built on stilts and platforms, learning to
-navigate the deadly swamp. The founders formed House Thornveil---not
+navigate the deadly swamp. The founders formed House Thornveil, not
 from nobility but from survival.
 
 ##### The Rise (850-1100 CR)
@@ -22995,7 +22964,7 @@ outsiders willing to pay premium prices.
 **The Poison Trade (950-1100 CR):**
 
 Marshaven became the continent's primary supplier of poisons and
-antidotes---both sold openly. Assassins, healers, and alchemists all
+antidotes, both sold openly. Assassins, healers, and alchemists all
 came to Marshaven for supplies no one else could provide. House
 Thornveil grew wealthy from this dark trade.
 
@@ -23025,10 +22994,6 @@ but swarms with life.
 -   **The Alchemy Rows:** Potion-makers and poison-crafters
 
 -   **The Docks:** Flat-bottomed boats navigate swamp channels
-
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
 
 **Economic Power:**
 
@@ -23065,7 +23030,7 @@ continents. Population was perhaps 1,000.
 **The Worldrend Impact (Year 0 CR):**
 
 The cataclysm that separated the continents left Port Myrthen's island
-intact---one of the few central landmasses to survive. Suddenly, this
+intact, one of the few central landmasses to survive. Suddenly, this
 minor port sat exactly between the separated lands, the last neutral
 ground in a divided world.
 
@@ -23076,7 +23041,7 @@ ground in a divided world.
 In 3 CR, the survivors of Port Myrthen made a crucial decision: they
 would belong to neither continent. They declared absolute neutrality,
 offering safe harbor to all ships regardless of origin. This decision
-saved them---both emerging powers found the neutral port too valuable to
+saved them, both emerging powers found the neutral port too valuable to
 claim.
 
 **The Treaty of Seven Harbors (156 CR):**
@@ -23104,7 +23069,13 @@ not hereditary.
 **City Structure:**
 
 Built around a natural harbor, the city serves ships from everywhere.
-Architecture mixes styles from both continents. Multiple currencies are
+Architecture mixes styles from both 
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
+
+continents. Multiple currencies are
 accepted. No questions are asked.
 
 **Districts:**
@@ -23124,7 +23095,7 @@ accepted. No questions are asked.
 
 -   Absolutely neutral territory
 
--   No extradition---criminals can hide here legally
+-   No extradition, criminals can hide here legally
 
 -   Information brokerage is a major industry
 
@@ -23145,7 +23116,7 @@ accepted. No questions are asked.
 **The Greatest City:**
 
 Before the Worldrend, Palace Port was the greatest trading city in the
-world---the headquarters of House Deepwater and the seat of the High
+world, the headquarters of House Deepwater and the seat of the High
 Kings. The Palace of Eternal Spring housed the unified throne. The
 Crystal Throne sat in its heart. Population reached 50,000 at its
 height.
@@ -23153,7 +23124,7 @@ height.
 **The Worldrend (Year 0 CR):**
 
 When the cataclysm struck, Palace Port was directly over the point where
-the continents separated. The city didn't merely sink---it was
+the continents separated. The city didn't merely sink. It was
 swallowed. Over 40,000 died in hours. Seventy percent of the world's
 liquid wealth was destroyed or drowned.
 
@@ -23201,10 +23172,6 @@ been recovered despite thousands of attempts.
 
 -   412 CR: Map theft (Goldshore from Crystalborn)
 
-{{pageNumber,auto}}
-{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
-\page
-
 -   789 CR: Entire diving expedition vanished
 
 -   1156 CR: Dragon attacked salvagers
@@ -23237,12 +23204,16 @@ increasingly likely.
 
 **The Hidden Truth:**
 
-The will exists and names the true heir---but it's neither Goldshore
+The will exists and names the true heir, but it's neither Goldshore
 nor Crystalborn. Lord Aldris left everything to his youngest child,
 fourth daughter Marina, who was supposedly visiting the southern
 continent when the Worldrend struck. She never claimed the inheritance
 and was presumed dead. But what if she survived? What if there's a
 hidden lineage with legitimate claim to everything?
+
+{{pageNumber,auto}}
+{{footnote Chapter 33: Settlement Histories and Founding Narratives}}
+\page
 
 {{frame,wide
 ### 33.3 Summary Table
@@ -23291,7 +23262,7 @@ contraband and avoid customs. A functional black market operates here.
 **The Ancient Sewers (Forgotten Ways):** Abandoned approximately 200
 years ago when the city built new drainage. These tunnels have become
 lairs for creatures that thrive in darkness. Passages are
-treacherous---collapsing in places, flooded in others.
+treacherous, collapsing in places, flooded in others.
 
 **The Imperial Ruins (Old City):** The original pre-Worldrend city,
 partially flooded and eerily preserved. Stone buildings stand in
@@ -23299,7 +23270,7 @@ underground caverns, their architecture unlike anything in modern
 Ashgate. Undead of ancient imperial guards patrol these halls,
 maintaining their posts after twelve hundred years.
 
-**The Deep Vault:** The city's portion of the imperial treasury---a
+**The Deep Vault:** The city's portion of the imperial treasury, a
 fortune in old currency that collectors would pay triple face value to
 acquire. A modified iron golem of pre-Worldrend construction guards the
 vault.
@@ -23314,7 +23285,7 @@ vault.
 **Era:** Modern construction (hidden within existing bank)
 
 Goldreach Bank maintains twelve public vaults. Vault 13 is
-unacknowledged---appearing on no ledger, no architectural plan, no
+unacknowledged, appearing on no ledger, no architectural plan, no
 official document. Only three people know it exists: the bank's owner,
 his chief of security, and the architect who built it (now dead).
 
@@ -23352,7 +23323,7 @@ twenty nobles face blackmail exposure.
 
 Somewhere beneath the Sundering Sea lies where the first seal broke
 during the Worldrend. The Nexus of Seven Sorrows was once a major ley
-line junction---now a corrupted wound in reality, radiating void energy
+line junction, now a corrupted wound in reality, radiating void energy
 that warps everything it touches.
 
 **The Environment:** Reaching the Nexus requires water breathing,
@@ -23362,8 +23333,8 @@ waters above.
 
 **The Seal Chamber:** At the heart of the Nexus lies the location where
 the original binding was performed and where it first failed. The
-Chamber offers the possibility of repair---with proper rituals and
-components---or exploitation, as the corrupted energy can be harvested
+Chamber offers the possibility of repair, with proper rituals and
+components, or exploitation, as the corrupted energy can be harvested
 for immense power at terrible cost.
 
 ### 34.4 The Obsidian Spire
@@ -23376,7 +23347,7 @@ for immense power at terrible cost.
 **Era:** Appeared after the Worldrend
 
 A tower of pure obsidian rises at the border between the
-continents---appearing after the Worldrend in a location where nothing
+continents, appearing after the Worldrend in a location where nothing
 stood before. The tower has no visible entrance, no windows, no seams.
 It is not a building constructed on the land. It IS the land, reshaped
 into a prison.
@@ -23385,7 +23356,7 @@ into a prison.
 Bound Ancient of entropy and consumption. The Circle of Seven's
 desperate ritual during the Worldrend succeeded in strengthening this
 single seal while catastrophically weakening all others. The Devourer is
-the most securely imprisoned of the Bound Ancients---and the most
+the most securely imprisoned of the Bound Ancients—and the most
 dangerous if freed.
 
 **The Devourer's Bargain:** The entity will speak to those who enter,
@@ -23402,23 +23373,23 @@ mechanism. It is lying. Those who accept are consumed.
 **Era:** Created during the Worldrend
 
 Somewhere in the Sundering Sea, reality itself is torn open. The Riftmaw
-is a massive wound in existence---a location where two Bound Ancients
+is a massive wound in existence, a location where two Bound Ancients
 may have partially escaped during the Worldrend. The area is a maelstrom
 of planar chaos where the rules of reality no longer apply.
 
+{{pageNumber,auto}}
+{{footnote Chapter 34: Ruins, Hidden Sites, and Lost Places}}
+\page
+
 **Hazards:** Ships are drawn toward the Riftmaw by currents both
-physical and metaphysical. Reality is unstable---gravity may reverse,
+physical and metaphysical. Reality is unstable, gravity may reverse,
 time may slow or accelerate, elementals pour through endless rifts.
 Those who approach risk more than death; they risk ceasing to exist in
 any coherent form.
 
 **Opportunity:** Despite its dangers, the Riftmaw offers access to power
-found nowhere else---portals to the Elemental Planes, primordial essence
+found nowhere else, portals to the Elemental Planes, primordial essence
 for epic magic, crystallized planar energy valuable for enchanting.
-
-{{pageNumber,auto}}
-{{footnote Chapter 34: Ruins, Hidden Sites, and Lost Places}}
-\page
 
 ### 34.6 The Wandering Tower
 
@@ -23431,11 +23402,13 @@ for epic magic, crystallized planar energy valuable for enchanting.
 
 A tower that teleports across the continent, appearing near ley nexuses
 seemingly at random. It is the home and refuge of Archmagus Valdren, the
-last surviving member of the Circle of Seven---the mages whose failed
+last surviving member of the Circle of Seven, the mages whose failed
 ritual caused the Worldrend.
 
+\column
+
 **The Occupant:** Valdren is approximately 150 years old, sustained by
-magic and consumed by guilt. He attacks intruders first---too many have
+magic and consumed by guilt. He attacks intruders first, too many have
 sought him to steal his secrets or blame him for the Worldrend. But he
 can be convinced to help those who prove they're trying to repair his
 mistakes.
@@ -23493,7 +23466,7 @@ Archmage, and trapped books that curse unauthorized readers.
 
 In a hidden valley stands a circle of ancient standing stones that hum
 with ley line energy. The stones produce haunting melodies when the wind
-passes through them---sounds that change with the phase of the moon and
+passes through them, sounds that change with the phase of the moon and
 the alignment of the stars. Druids have maintained this site since
 before the Worldrend.
 
@@ -23525,13 +23498,13 @@ benefits nature.
 **Sacred To:** A Bound Ancient (name taboo)
 
 Deep in the Ironspine Mountains, an unmarked monastery houses monks who
-worship a deity whose name is taboo---one of the Bound Ancients,
+worship a deity whose name is taboo, one of the Bound Ancients,
 imprisoned since before the Worldrend. They believe their patron was
 unjustly imprisoned and will return to share transformative knowledge.
 
 **The Truth:** These beliefs are almost certainly wrong. The Bound
 Ancients were sealed away because their influence corrupted everything
-they touched. But the monks are not evil---they genuinely seek knowledge
+they touched. But the monks are not evil. They genuinely seek knowledge
 and believe their patron is benevolent. Their faith is sincere even if
 misguided.
 
@@ -23590,7 +23563,7 @@ desecrated ground.
 
 
 This chapter documents the supreme rulers of Tirvandor's two great
-continents---those who wear the crowns that command nations, shape
+continents. Those who wear the crowns that command nations, shape
 history, and whose decisions echo across generations. These are the most
 powerful individuals in the known world, carrying burdens of leadership
 that would crush lesser souls.
@@ -23622,7 +23595,7 @@ King Aldric IV stands tall and powerfully built at six feet four inches
 and two hundred twenty pounds, with broad shoulders and a commanding
 presence that fills any throne room. His steel-gray hair is cut short in
 military fashion, and he keeps his beard neat and precisely trimmed.
-Deep-set brown eyes miss nothing---they assess everyone who enters his
+Deep-set brown eyes miss nothing. They assess everyone who enters his
 presence with the practiced evaluation of a veteran commander.
 
 His weathered face bears a scar across the left cheek, earned during a
@@ -23644,7 +23617,7 @@ multiple campaigns. Few would dare challenge him in single combat.
 
 -   Speaks in clipped, military tones where every word has purpose
 
--   Stands when others enter the room---a gesture of both respect and
+-   Stands when others enter the room, a gesture of both respect and
     dominance
 
 -   Constantly assesses threats and tactical situations, even in
@@ -23681,18 +23654,17 @@ humor that catches people off-guard.
 -   *"My ancestors built this kingdom; I will not be the one to lose
     it."*
 
--   *"The mountain bows to no one---neither shall we."*
+-   *"The mountain bows to no one, neither shall we."*
 
 **Personal Flaws:**
 
 -   Stubbornly refuses to admit mistakes once a decision is made
 
--   Views compromise as weakness, especially regarding House Aethermere
-
 {{pageNumber,auto}}
 {{footnote Chapter 36: Royalty and Heads of State}}
 \page
 
+-   Views compromise as weakness, especially regarding House Aethermere
 
 -   So focused on external threats that he often misses internal
     corruption
@@ -23707,11 +23679,11 @@ humor that catches people off-guard.
 Aldric was born third in line for the Thaldros throne, never expecting
 to rule. His older brothers were the heirs apparent, leaving young
 Aldric free to pursue a military education without the pressures of
-succession. This freedom shaped him---he trained with common soldiers,
+succession. This freedom shaped him. He trained with common soldiers,
 learned tactics from veteran commanders, and developed a genuine connection with the military that would later define his reign.
 
 As a young prince with no expectation of wearing the crown, Aldric began
-a relationship with Lady Mara of House Ironforge---a love match rather
+a relationship with Lady Mara of House Ironforge, a love match rather
 than a political arrangement. She became pregnant in 1221 CR, but
 marriage wasn't urgent for a third son. Their union could wait.
 
@@ -23720,7 +23692,7 @@ marriage wasn't urgent for a third son. Their union could wait.
 Then disaster struck in rapid succession. His eldest brother disappeared
 under mysterious circumstances during the Dragon Crisis era, his fate
 never confirmed. His second brother died of plague the same year. At age
-twenty-seven, Aldric suddenly became heir apparent---with an
+twenty-seven, Aldric suddenly became heir apparent, with an
 illegitimate son about to be born.
 
 Crown Prince Thorin arrived in 1222 CR, before his parents were wed. The
@@ -23729,7 +23701,7 @@ arranged in 1225 CR, officially recorded in documents as a "political
 alliance" with House Ironforge. The exact timing of Thorin's birth has
 been quietly obscured in official records, and most assume the Crown
 Prince was born after the wedding. But certain parties know the
-truth---and that knowledge is dangerous.
+truth, and that knowledge is dangerous.
 
 **Coronation and Early Reign (1230-1240 CR)**
 
@@ -23738,7 +23710,7 @@ defending Ironhold from giant raids. His first decade as king was spent
 consolidating power and rebuilding the military, which had been weakened
 during the succession chaos.
 
-This period saw the "Iron Reforms"---a comprehensive modernization of
+This period saw the "Iron Reforms", a comprehensive modernization of
 the Thaldros military. He restructured the army along more efficient
 lines, improved fortifications throughout the realm, and established the
 Northern Guard as an elite force specifically trained to handle threats
@@ -23750,7 +23722,7 @@ His reign has been marked by stability and strength, but also by
 increased tensions with Aethoria over the "High King" title. Aldric
 genuinely believes his claim to rule over a unified realm is legitimate,
 tracing his lineage to the pre-Worldrend unified monarchy. He believes
-reunification under Thandris rule would benefit both continents---not
+reunification under Thandris rule would benefit both continents, not
 out of mere ambition, but from sincere conviction that only strong
 central authority can prevent another cataclysm.
 
@@ -23787,7 +23759,7 @@ He and Queen Mara have three children:
 
 **Ultimate Vision:**
 
--   Reunify the realms under Thandris rule---but only if it is truly
+-   Reunify the realms under Thandris rule, but only if it is truly
     best for all peoples
 
 -   Establish a lasting dynasty that will endure for generations
@@ -23826,6 +23798,10 @@ He and Queen Mara have three children:
 -   **The Syndicate** - Criminal organization that once attempted his
     assassination
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 **Secret Contacts:**
 
 -   Maintains a spy in the Aethorian court whose identity is known only
@@ -23838,14 +23814,8 @@ He and Queen Mara have three children:
 **The Succession Document**
 
 The King privately possesses evidence suggesting that neither House
-Thandris nor House Aethermere has clear claim to the High King title---a
-third bloodline might exist 
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
-
-with superior claim. He keeps this hidden,
+Thandris nor House Aethermere has clear claim to the High King title, a
+third bloodline might exist with superior claim. He keeps this hidden,
 uncertain what to do with information that could destabilize everything
 he's built.
 
@@ -23861,21 +23831,21 @@ northern border stable for years.
 
 Crown Prince Thorin was born three years before Aldric married Queen
 Mara. Official records have been altered to obscure this fact, but
-General Marthos Thandris---a distant cousin with his own
-ambitions---knows the truth and holds it as leverage. If exposed, this
+General Marthos Thandris, a distant cousin with his own
+ambitions, knows the truth and holds it as leverage. If exposed, this
 could fuel challenges to Thorin's succession rights from claimants who
 consider themselves more "legitimate."
 
 **The Black Budget**
 
 The King maintains a secret treasury for "special
-operations"---intelligence gathering, covert missions, and payments
+operations", intelligence gathering, covert missions, and payments
 that cannot appear in official accounts. It is funded by seizing
 Syndicate assets. Not all council members know of its existence.
 
 **The Recurring Nightmare**
 
-Aldric suffers recurring nightmares about the Worldrend---visions of the
+Aldric suffers recurring nightmares about the Worldrend, visions of the
 continents tearing apart, cities falling into the sea. He consulted a
 diviner secretly and was told he would one day face a choice between
 crown and realm. This prophecy haunts him.
@@ -23884,25 +23854,25 @@ crown and realm. This prophecy haunts him.
 
 
 **The High King's Quest:** The King seeks adventurers to find legendary
-proof of succession---the High King's Sword or crown jewels from the
+proof of succession, the High King's Sword or crown jewels from the
 Sundered Palace that sank during the Worldrend. Whoever recovers these
 artifacts could reshape the political landscape.
 
 **Assassination Conspiracy:** The Syndicate makes another attempt on
 Aldric's life. Heroes must protect him or investigate who truly hired
-the killers---the trail may lead to unexpected places.
+the killers, the trail may lead to unexpected places.
 
 **Northern Crisis:** The frost giants are pushing the boundaries of the
 secret treaty. The King needs deniable agents who can resolve the
 situation without revealing that a treaty exists at all.
 
-**The Lost Heir:** Evidence surfaces of the third bloodline---potential
+**The Lost Heir:** Evidence surfaces of the third bloodline, potential
 claimants to the High Crown. The King wants quiet investigation before
 this becomes public knowledge.
 
 **Dragon's Legacy:** A dragon attacks the border, seemingly without
 provocation. Investigation reveals it might be connected to secrets from
-the King's family history---debts incurred generations ago.
+the King's family history, debts incurred generations ago.
 
 **The Unity Summit:** The King arranges an unprecedented summit with
 High Queen Aelindra to discuss the realm's future. He needs trustworthy
@@ -23912,7 +23882,7 @@ toward favorable outcomes.
 #### Notable Quotes
 
 
-*"The mountain bows to no one---neither shall we."*
+*"The mountain bows to no one, neither shall we."*
 
 *"The crown is a burden I bear for my people, not a treasure I
 enjoy."*
@@ -23938,29 +23908,26 @@ shall, until my last breath."*
 
 -   Voice of the World-Trees
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 #### Age & Physical Description
 
-
-**Age:** 1,494 years old (born 247 BW---Before Worldrend); appears to be
+**Age:** 1,494 years old (born 247 BW, Before Worldrend); appears to be
 in her mid-thirties by human standards
 
 High Queen Aelindra embodies the ethereal grace of the high elves. She
 stands five feet eight inches tall and weighs only one hundred twenty
 pounds, yet her presence fills any chamber she enters. Her silver hair
 seems to shimmer with starlight, worn long and unbound as befits elven
-tradition. Her violet-blue eyes are her most striking feature---they
+tradition. Her violet-blue eyes are her most striking feature. They
 seem to see through you, past you, into possibilities that haven't yet
 occurred.
 
 Her pale skin bears faint silver patterns, natural elven markings (not
 tattoos) that catch the light when she moves. She carries herself with
-liquid grace, every movement 
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
-
-precise and unhurried. She always appears
+liquid grace, every movement precise and unhurried. She always appears
 serene and in complete control, regardless of circumstances.
 
 **Threat Level:** One of the most powerful spellcasters alive. While she
@@ -23986,7 +23953,7 @@ violence a personal failure.
 -   Often pauses mid-conversation, as if listening to something others
     cannot hear
 
--   Smiles knowingly---a expression that can be either comforting or
+-   Smiles knowingly, a expression that can be either comforting or
     deeply unnerving
 
 **Voice:** Soft and melodious, measured and formal. Speaks in complete
@@ -24029,12 +23996,12 @@ prepare responses in advance.
 -   Can appear cold or detached because she has seen so many possible
     outcomes
 
--   Trusts her divinations absolutely---sometimes to her detriment when
+-   Trusts her divinations absolutely, sometimes to her detriment when
     magic fails or is blocked
 
 -   Carries secret guilt over her role (however small) in the Worldrend
     itself
-\column
+
 #### Complete Background & History
 
 
@@ -24046,7 +24013,7 @@ Arcane Studies in Silverpine when both continents were one landmass,
 studying alongside humans, dwarves, and other races in an era of
 relative peace.
 
-She was 247 years old when the Worldrend occurred---still young by elven
+She was 247 years old when the Worldrend occurred, still young by elven
 standards, but old enough to remember the unified world. She witnessed
 the cataclysm firsthand, watching the land split apart and civilizations
 crumble. She is one of the few elves still alive who remembers the world
@@ -24055,7 +24022,7 @@ before the sundering.
 **The Long Recovery (0-1100 CR)**
 
 For over a millennium, Aelindra served Aethoria in various
-capacities---as scholar, advisor, diplomat, and mage. She watched the
+capacities, as scholar, advisor, diplomat, and mage. She watched the
 separated continents slowly rebuild, saw generations of shorter-lived
 races rise and fall, and accumulated wisdom that only centuries of
 observation can provide.
@@ -24068,7 +24035,7 @@ countless crises.
 **Ascension to the Throne (1110 CR)**
 
 In 1110 CR, Aelindra was chosen by the world-trees to wear the Crown of
-Stars---the ancient method by which Aethoria selects its rulers. This
+Stars, the ancient method by which Aethoria selects its rulers. This
 was not a decision she sought, but one she accepted as duty.
 
 Her reign has been marked by wisdom, peace, and prosperity. Under her
@@ -24088,13 +24055,17 @@ children before her coronation:
 -   **Archmage Eldrin Aethermere** (age 158) - The Royal Mage, a wizard
     like his mother
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 -   **Princess Elanil Aethermere** (age 142) - Ambassador and Chief
     Diplomat
 
 *Note on Succession:* Neither of her children is heir to the throne.
 When Aelindra took the crown in 1110 CR, she underwent the coronation
 ritual that prevents the ruling monarch from having additional
-children---a safeguard against succession conflicts. Aethoria follows
+children, a safeguard against succession conflicts. Aethoria follows
 the Chosen Heir system, in which the world-trees select the next ruler.
 The current Chosen Heir is Theron Aethermere (age 89, a half-elf),
 selected by the world-trees through ancient divination.
@@ -24102,11 +24073,6 @@ selected by the world-trees through ancient divination.
 Unlike King Aldric IV, Aelindra does not seek reunification through
 force. She genuinely believes it will happen naturally when the time is
 right, guided by the stars and the will of the world itself.
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
-
 
 #### Goals & Motivations
 
@@ -24129,7 +24095,7 @@ right, guided by the stars and the will of the world itself.
 
 **Ultimate Vision:**
 
--   Guide the realms toward eventual reunification---when the time is
+-   Guide the realms toward eventual reunification, when the time is
     right, not forced
 
 -   Ensure that no Second Worldrend ever occurs
@@ -24196,7 +24162,7 @@ over twelve centuries.
 **The True Heir Mystery**
 
 Her divinations have revealed that neither House Thandris nor House
-Aethermere may be the "true" heir to the unified realm---but they have
+Aethermere may be the "true" heir to the unified realm—but they have
 also shown three different people who could claim that title. She is
 quietly trying to identify these individuals and determine what this
 means for the future.
@@ -24224,9 +24190,13 @@ prophecy that promises revelation but requires a dangerous journey into
 pre-Worldrend ruins. What they find could change everything.
 
 **Stolen Futures:** Her divination abilities suddenly stop
-working---someone or something is blocking all magical foresight. Heroes
+working, someone or something is blocking all magical foresight. Heroes
 must discover why fate itself has gone dark before catastrophe strikes
 unseen.
+
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
 
 **The Lost Prince:** Archmage Eldrin goes missing while researching
 ancient magic. The Queen needs discreet heroes who can find him without
@@ -24240,23 +24210,17 @@ reunification or war.
 
 **The Third Heir:** Evidence emerges of the mysterious third bloodline
 with legitimate claim to a unified crown. The Queen wants investigation
-without alerting the other noble houses---knowledge of this claim could
+without alerting the other noble houses, knowledge of this claim could
 trigger civil war.
 
 **Worldrend Anniversary:** On the anniversary of the original cataclysm,
-reality begins weakening again---the same planar instabilities that tore
+reality begins weakening again, the same planar instabilities that tore
 the world apart. The Queen knows how to reinforce the barriers, but
 needs rare components and capable hands.
 
-**The Darkening Star:** A star literally goes out in the night sky---not
+**The Darkening Star:** A star literally goes out in the night sky, not
 a metaphor, but astronomical reality. The Queen's divinations indicate
-this is connected to an ancient evil 
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
-
-stirring. If it wakes fully, the
+this is connected to an ancient evil stirring. If it wakes fully, the
 Worldrend will seem gentle by comparison.
 
 #### Notable Quotes
@@ -24275,8 +24239,6 @@ that perhaps this time, we might choose differently."*
 
 ### 36.3 Crown Prince Thorin Thandris
 
-<div class="col-img">![36.3 Crown Prince Thorin Thandris](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-prince-thorin-thandris.jpg){width:325px}
-**Heir to the Iron Crown of Thaldros**</div>
 
 #### Titles & Aliases
 
@@ -24298,23 +24260,27 @@ Crown Prince Thorin stands tall and athletic at six feet two inches and
 one hundred ninety pounds, bearing the Thandris dark hair and strong
 features that mark his bloodline. Unlike his father's weathered,
 battle-scarred appearance, Thorin possesses the youthful vigor of a man
-not yet worn down by decades of kingship---but that vigor is tempered by
+not yet worn down by decades of kingship, but that vigor is tempered by
 the visible weight of future responsibility.
 
 He keeps himself clean-shaven, revealing intense brown eyes that assess
 situations with tactical precision. He wears practical armor even in
 court settings, always prepared for action should it become necessary.
 His one notable mark is a small scar on his left hand, earned during a
-training accident at age sixteen---a reminder of the price of
+training accident at age sixteen, a reminder of the price of
 carelessness.
 
 **Threat Level:** A formidable warrior in his own right, capable of
 defeating most professional soldiers. His combination of military
 training and martial skill makes him dangerous in single combat, and his
-battlefield experience---though less extensive than his father's---has
+battlefield experience, though less extensive than his father's, has
 proven his courage under fire. More significantly, his status as heir
 means any attack on him would trigger the full response of Thaldros'
 military might.
+
+<div class="col-img">![36.3 Crown Prince Thorin Thandris](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-prince-thorin-thandris.jpg){width:325px}
+**Heir to the Iron Crown of Thaldros**</div>
+
 
 #### Personality & Mannerisms
 
@@ -24333,6 +24299,10 @@ military might.
 
 **Voice:** Clear and strong, projecting natural command. Drops formality
 when speaking with soldiers he has served alongside.
+
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
 
 **Physical Tells:**
 
@@ -24366,16 +24336,11 @@ rather than from behind.
 
 -   Sometimes too trusting of those who seem earnest
 
--   Struggles with political maneuvering---prefers direct action to
+-   Struggles with political maneuvering, prefers direct action to
     subtle manipulation
 
 -   Carries guilt over being groomed for kingship while others fight on
     the frontiers
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
-
 
 #### Complete Background & History
 
@@ -24384,8 +24349,8 @@ rather than from behind.
 
 Thorin was born in 1222 CR as the first child of Aldric (then Crown
 Prince, not yet King) and Lady Mara of House Ironforge. The
-circumstances of his birth---three years before his parents officially
-married---have been obscured in official records, but certain parties
+circumstances of his birth, three years before his parents officially
+married, have been obscured in official records, but certain parties
 know the truth.
 
 From his earliest years, Thorin was groomed for eventual kingship.
@@ -24410,7 +24375,7 @@ supervision.
 **Knighthood and the Oath (1242 CR)**
 
 At twenty, Thorin was formally knighted and took the sacred Oath of the
-Iron Crown---swearing to protect the kingdom and uphold its laws. This
+Iron Crown, swearing to protect the kingdom and uphold its laws. This
 oath binds him spiritually as well as legally, and he takes it with
 absolute seriousness.
 
@@ -24425,7 +24390,7 @@ Now twenty-five, Thorin serves as his father's chief military advisor
 and occasional ambassador. He has proven himself in border skirmishes,
 diplomatic negotiations, and crisis management. The nobility respects
 his capability. The common people love his accessibility. But he carries
-the weight of knowing that one day, he will wear the Iron Crown---and
+the weight of knowing that one day, he will wear the Iron Crown, and
 the kingdom's fate will rest on his decisions.
 
 **Siblings:**
@@ -24445,8 +24410,6 @@ the kingdom's fate will rest on his decisions.
 -   Protect his family and the realm from immediate threats
 
 -   Maintain his secret correspondence with Princess Elanil of Aethoria
-
-\column
 
 **Medium-Term Ambitions:**
 
@@ -24478,6 +24441,10 @@ the kingdom's fate will rest on his decisions.
 -   **Princess Elara** - His sister, age 22, whom he protects fiercely
 
 -   **Prince Marcus** - His brother, age 19, whom he mentors
+
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
 
 **Allies and Friends:**
 
@@ -24519,25 +24486,18 @@ trusted merchant intermediaries.
 **The Older Half-Brother**
 
 During his northern service, Thorin discovered evidence of a bastard
-half-brother---a son his father sired with a servant woman before
+half-brother, a son his father sired with a servant woman before
 courting Lady Mara. This man is older than Thorin, and if Thorin's own
 pre-marriage birth becomes public knowledge, this half-brother could
 press a stronger claim to the throne. 
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
-
-
-The half-brother is now a
-mercenary somewhere in the Contested Lands. Thorin has kept this
-discovery secret, but the man may eventually surface.
+The half-brother is now a mercenary somewhere in the Contested Lands. 
+Thorin has kept this discovery secret, but the man may eventually surface.
 
 **The Dragon Pact**
 
 Thorin has secretly met with a bronze dragon named Aerthis who lives in
-the northern mountain peaks. They have formed a tentative alliance---the
+the northern mountain peaks. They have formed a tentative alliance, the
 dragon provides intelligence on giant movements and potential threats,
 while Thorin ensures that miners stay away from the dragon's territory.
 His father knows nothing of this arrangement.
@@ -24563,7 +24523,7 @@ succession.
 
 **The Assassination Attempt:** Someone tries to kill Crown Prince Thorin
 during a public ceremony. Heroes must investigate who ordered it and
-why---political rivals, foreign agents, or something more sinister
+why, political rivals, foreign agents, or something more sinister
 connected to his secrets.
 
 **The Secret Border Meeting:** Thorin needs discreet escort to a
@@ -24573,7 +24533,7 @@ both kingdoms, and handle unexpected complications.
 
 **The Bastard Brother Resurfaces:** Thorin's illegitimate half-brother
 appears and is kidnapped by enemies who plan to use him to destabilize
-the succession. Thorin needs someone to rescue him quietly---without
+the succession. Thorin needs someone to rescue him quietly, without
 revealing the family connection.
 
 **The Dragon Alliance Tested:** Giants are mobilizing in the north.
@@ -24583,7 +24543,7 @@ price for her aid.
 
 **The Test of Worth:** King Aldric assigns heroes to accompany the
 prince on a dangerous mission. The king secretly wants an honest
-assessment of whether his son is truly ready to rule---and the truth may
+assessment of whether his son is truly ready to rule, and the truth may
 be complicated.
 
 **The Romantic Crisis:** Mira the healer is kidnapped by those who
@@ -24601,12 +24561,7 @@ enemies use her against him.
 *"I would rather be a good king than a legitimate one. Legitimacy can
 be manufactured; goodness cannot."*
 
-\column
-
 ### 36.4 Princess Elanil Aethermere
-
-<div class="col-img">![36.4 Princess Elanil Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-princess-elanil-aethermere.jpg){width:325px}</div>
-
 
 **Chief Diplomat of Aethoria**
 
@@ -24631,26 +24586,26 @@ Princess Elanil embodies graceful elegance at five feet eight inches and
 one hundred twenty-five pounds. She possesses the ethereal beauty
 typical of high elves but warmed by genuine kindness that makes her
 approachable despite her royal status. Her long silver-blonde hair is
-usually styled in elaborate braids woven 
-
-with flowers and crystal beads
+usually styled in elaborate braids woven with flowers and crystal beads
 that catch the light when she moves.
 
-Her violet eyes are her most notable feature---they seem to see through
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
+Her violet eyes are her most notable feature. They seem to see through
 pretense to the truth beneath. She dresses in flowing robes of blue and
 silver, the colors of House Aethermere, and somehow her garments remain
 pristine even after days of diplomatic travel. She wears a circlet of
 silver leaves that marks her royal status, simple compared to her
 mother's crown but unmistakably regal.
 
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
+<div class="col-img">![36.4 Princess Elanil Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-princess-elanil-aethermere.jpg){width:325px}</div>
 
 **Threat Level:** Deceptively formidable. While she avoids physical
 confrontation, Elanil is a master of enchantment magic capable of
 charming enemies, redirecting attacks, and controlling minds when
-necessary. Her true power lies in her diplomatic abilities---she has
+necessary. Her true power lies in her diplomatic abilities. She has
 prevented three wars through negotiation alone. Anyone who mistakes her
 gentle demeanor for weakness has already lost whatever game they thought
 they were playing.
@@ -24722,7 +24677,7 @@ world, she remembers stories from elders about the unified realm and
 believes reunification is both inevitable and necessary.
 
 She showed magical talent from an early age, with particular aptitude
-for enchantment---the school of magic concerned with influencing minds
+for enchantment, the school of magic concerned with influencing minds
 and emotions. Her mother recognized both her magical gifts and her
 diplomatic temperament.
 
@@ -24734,10 +24689,14 @@ history, languages, and the art of negotiation. She also observed how
 common people on both continents lived similarly, wanted similar things,
 and were divided primarily by politics rather than genuine differences.
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 **Appointment as Chief Diplomat (1190 CR)**
 
-At age eighty-five---young for such responsibility by elven
-standards---Elanil was appointed Chief Diplomat of Aethoria. Her mother
+At age eighty-five, young for such responsibility by elven
+standards, Elanil was appointed Chief Diplomat of Aethoria. Her mother
 recognized that her combination of magical ability, genuine empathy, and
 political insight made her uniquely suited for the role.
 
@@ -24751,7 +24710,7 @@ dealing is her greatest asset.
 
 She has walked a careful line between her mother's cautious wisdom and
 her own push for faster change. Some in Aethoria see her as the
-future---a leader who can bridge the continental divide. Others fear she
+future, a leader who can bridge the continental divide. Others fear she
 is too close to Thaldros and might compromise Aethoria's independence
 for the sake of peace.
 
@@ -24759,8 +24718,8 @@ for the sake of peace.
 
 For five years, Elanil has maintained coded correspondence with Crown
 Prince Thorin Thandris about reunification. They have met three times in
-secret at border locations. This is dangerous---if exposed, both could
-be accused of treason---but they believe it is necessary for the future
+secret at border locations. This is dangerous, if exposed, both could
+be accused of treason, but they believe it is necessary for the future
 of both peoples.
 
 Their relationship has grown beyond political alliance into genuine
@@ -24782,7 +24741,7 @@ their shared dangerous mission.
 
 **Medium-Term Ambitions:**
 
--   Advance the cause of reunification through gradual steps---trade
+-   Advance the cause of reunification through gradual steps, trade
     agreements leading to political alliance leading to eventual merger
 
 -   Recover fragments of the Celestial Compass before they fall into
@@ -24790,9 +24749,6 @@ their shared dangerous mission.
 
 -   Build a coalition of moderate voices on both continents
 
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
 
 **Ultimate Vision:**
 
@@ -24801,6 +24757,8 @@ their shared dangerous mission.
 -   Create lasting institutions that will prevent future division
 
 -   Prove that understanding and patience accomplish more than force
+
+\column
 
 #### Relationships & Connections
 
@@ -24845,14 +24803,14 @@ their shared dangerous mission.
 
 The encoded correspondence with Crown Prince Thorin would be seen as
 treason by hardliners on both continents. The letters discuss specific
-plans for gradual reunification---trade agreements leading to political
+plans for gradual reunification, trade agreements leading to political
 alliance leading to eventual merger. If intercepted and decoded, both
 kingdoms could explode into crisis.
 
 **The Mother's Knowledge**
 
 High Queen Aelindra knows about the correspondence and quietly
-approves---but publicly must maintain plausible deniability. Mother and
+approves, but publicly must maintain plausible deniability. Mother and
 daughter have an understanding: Elanil does what must be done, and
 Aelindra provides political cover. This arrangement could itself be seen
 as conspiracy if discovered.
@@ -24860,11 +24818,11 @@ as conspiracy if discovered.
 **The Artifact Mission**
 
 Elanil knows the location of a piece of the artifact that caused the
-Worldrend---a fragment of the Celestial Compass. She has been quietly
+Worldrend, a fragment of the Celestial Compass. She has been quietly
 trying to gather all pieces, either to destroy them or to use them to
 reverse the damage. She has told no one about this mission, not even her
 mother.
-\column
+
 **The Assassination Attempts**
 
 Three attempts have been made on Elanil's life by anti-reunification
@@ -24872,9 +24830,13 @@ extremists. She has kept these attacks secret to avoid diplomatic
 incidents and to prevent her mother from restricting her travel. Lady
 Shadowleaf knows and provides covert protection.
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 **The Heart's Confusion**
 
-Elanil has developed genuine feelings for Crown Prince Thorin---feelings
+Elanil has developed genuine feelings for Crown Prince Thorin, feelings
 that go beyond political alliance. She is uncertain whether this is real
 love or merely the romantic excitement of their shared dangerous
 mission. She fears these emotions could cloud her judgment or be
@@ -24886,7 +24848,7 @@ weaponized against both of them.
 **The Secret Border Meeting:** Elanil needs escort to a clandestine
 meeting with Crown Prince Thorin. Protectors must safeguard both royals
 while maintaining absolute secrecy, navigate patrols from both kingdoms,
-and handle unexpected complications---assassins, border incidents, or
+and handle unexpected complications: assassins, border incidents, or
 worse.
 
 **The Diplomatic Crisis:** A treaty Elanil negotiated is about to
@@ -24896,7 +24858,7 @@ conspiracy operating across both continents.
 
 **The Artifact Hunt:** Elanil reveals her quest to find Celestial
 Compass fragments and requests help recovering one from a dangerous
-location. Others are also seeking these pieces---for potentially
+location. Others are also seeking these pieces, for potentially
 apocalyptic purposes.
 
 **The Exposed Letters:** Someone steals the correspondence between
@@ -24922,16 +24884,10 @@ watch conflict escalate?
 *"Wisdom blooms in patience; force withers what it touches."*
 
 *"I have spoken with farmers in Thaldros and Aethoria. They want the
-same things---peace, prosperity, a future for their children. It is only
+same things: peace, prosperity, a future for their children. It is only
 those in palaces who insist we must be enemies."*
 
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
-
 ### 36.5 Archmage Eldrin Aethermere
-
-<div class="col-img">![36.5 Eldrin Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-eldrin-aethermere.jpg){width:325px}</div>
 
 **Royal Mage and Prince of Aethoria**
 
@@ -24948,6 +24904,8 @@ those in palaces who insist we must be enemies."*
 
 -   The Diviner (informal title among scholars)
 
+<div class="col-img">![36.5 Eldrin Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-eldrin-aethermere.jpg){width:325px}</div>
+
 #### Age & Physical Description
 
 
@@ -24958,7 +24916,7 @@ Archmage Eldrin stands tall and elegant at six feet one inch and one
 hundred forty-five pounds, carrying himself with the bearing of both
 royalty and scholarly authority. His long silver hair is pulled back in
 a practical ponytail, though strands often escape to frame his sharp
-features. His eyes are gold---unusual even among high elves---and seem
+features. His eyes are gold, unusual even among high elves, and seem
 to see multiple possible futures simultaneously, giving observers the
 uncomfortable sense of being examined across time.
 
@@ -24971,9 +24929,15 @@ are perpetually stained with ink from constant research and note-taking.
 divination means he can often predict enemy actions before they occur,
 while his command of defensive and offensive magic can devastate armies.
 His ability to cast the most powerful spells known to
-wizardry---including manipulations of time and reality---makes him a
+wizardry, including manipulations of time and reality—makes him a
 force that kingdoms must account for in their strategic planning. Only
-his commitment to scholarship over conflict keeps him from being
+his commitment to 
+
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
+scholarship over conflict keeps him from being
 actively terrifying.
 
 #### Personality & Mannerisms
@@ -25037,19 +25001,13 @@ spells to lethal force when possible.
 **Early Life and Education (1089-1169 CR)**
 
 Eldrin was born in 1089 CR and showed exceptional magical talent from
-childhood. By age thirty---still considered a child by elven
-standards---he had mastered spells that most elves take a century to
+childhood. By age thirty, still considered a child by elven
+standards. He had mastered spells that most elves take a century to
 learn. His mother, recognizing both his genius and the limitations of
 Aethorian education, sent him to study across both continents.
 
 He attended Silverpine Magical Academy, spent years at the Starfall
-Observatory studying the relationship between 
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
-
-celestial bodies and
+Observatory studying the relationship between celestial bodies and
 divination, and even undertook a controversial stint in Kaer Thandros
 studying dwarven runecraft. This cross-continental education gave him
 perspectives that most mages, limited to their own cultures, never
@@ -25058,7 +25016,7 @@ develop.
 **Rise to Court Wizard (1169-1184 CR)**
 
 Eldrin returned home at age eighty and was appointed Court Wizard at
-ninety-five---one of the youngest ever to hold the position. He
+ninety-five, one of the youngest ever to hold the position. He
 transformed the role from largely ceremonial to genuinely essential,
 providing his mother with magical intelligence, divination insights, and
 arcane counsel that proved invaluable in navigating Aethoria's
@@ -25067,7 +25025,7 @@ political challenges.
 **Scholarly Career (1184-Present)**
 
 His specialty in divination means he often sees possible
-futures---glimpses of what might be that inform his advice. This gift
+futures, glimpses of what might be that inform his advice. This gift
 has prevented disasters but has also made him cautious to the point of
 paralysis. He sees all the ways that plans can fail. Unlike his
 sister's optimism about reunification, Eldrin approaches the question
@@ -25076,16 +25034,16 @@ the timing and methodology.
 
 He has published dozens of magical treatises, advanced divination theory
 significantly, and trained three generations of court wizards. He is
-respected and feared in equal measure---brilliant but cold, powerful but
+respected and feared in equal measure, brilliant but cold, powerful but
 emotionally distant.
 
 **Recent Concerns**
 
-Recently, Eldrin's divinations have shown troubling patterns---shadows
+Recently, Eldrin's divinations have shown troubling patterns, shadows
 gathering, timelines converging on a crisis point. He is trying to
 understand what is coming, but the future keeps shifting in ways it
 should not. Something significant is approaching, but he cannot see it
-clearly---which disturbs him more than any specific threat would.
+clearly, which disturbs him more than any specific threat would.
 
 #### Goals & Motivations
 
@@ -25112,8 +25070,12 @@ clearly---which disturbs him more than any specific threat would.
 
 -   Ensure his mother and sister survive whatever is coming
 
+{{pageNumber,auto}}
+{{footnote Chapter 36: Royalty and Heads of State}}
+\page
+
 -   Leave a legacy of knowledge that will benefit future generations
-\column
+
 #### Relationships & Connections
 
 
@@ -25155,7 +25117,7 @@ clearly---which disturbs him more than any specific threat would.
 **The Dark Vision**
 
 Eldrin's divinations repeatedly show a catastrophic event involving his
-family---but the details keep shifting. In some visions his mother dies,
+family, but the details keep shifting. In some visions his mother dies,
 in others his sister, sometimes both. He does not know if these futures
 are inevitable or preventable, and he is terrified that trying to
 prevent them might actually cause them to occur.
@@ -25172,7 +25134,7 @@ investigators.
 
 Eldrin has created a magical duplicate of himself that handles routine
 court duties while he focuses on research. Only his mother and sister
-know. If discovered, it would be a significant scandal---he is
+know. If discovered, it would be a significant scandal. He is
 technically deceiving the court by sending a copy to meetings while he
 works in his tower.
 
@@ -25182,16 +25144,11 @@ Twenty years ago, Eldrin predicted a major threat that never
 materialized. Based on his warnings, a city was evacuated, causing panic
 and significant economic damage. He was ultimately wrong. This failure
 haunts him, and he is desperate to ensure his current visions are
-accurate before acting on them---even as delay might prove fatal.
-
-{{pageNumber,auto}}
-{{footnote Chapter 36: Royalty and Heads of State}}
-\page
-
+accurate before acting on them, even as delay might prove fatal.
 
 **The Time Loop Research**
 
-He has theorized a way to create a limited time loop---a magical
+He has theorized a way to create a limited time loop, a magical
 construct that would allow him to relive a short period to achieve
 perfect outcomes. The magic is incredibly dangerous and possibly
 blasphemous. But his visions suggest he might need it to save his
@@ -25214,8 +25171,8 @@ happen? The philosophical implications are troubling.
 
 **The Forbidden Knowledge:** Eldrin needs retrieval of a dangerous
 magical tome from a forbidden location. The knowledge inside could save
-thousands---or doom everyone, depending on how it is used.
-\column
+thousands, or doom everyone, depending on how it is used.
+
 **The Simulacrum Exposed:** Someone discovers that Eldrin has been
 sending a magical duplicate to court functions. They are blackmailing
 him. He needs the situation resolved without exposing the truth to the
@@ -25223,10 +25180,10 @@ broader court.
 
 **The Celestial Compass:** Eldrin reveals his forbidden research and
 requests help gathering the Compass fragments. But his visions show this
-quest could either save or doom the world---he genuinely does not know
+quest could either save or doom the world. He genuinely does not know
 which outcome his actions will produce.
 
-**The Time Loop:** Reality begins fracturing---people experience the
+**The Time Loop:** Reality begins fracturing, people experience the
 same day repeatedly. Eldrin admits he created the loop to save someone
 but cannot end it. Help is needed to repair reality before it collapses
 entirely.
@@ -25241,7 +25198,7 @@ it."*
 
 *"The future is not a straight line but a branching tree. Every choice
 prunes some possibilities and grows others. My gift is to see the shape
-of the tree---my curse is knowing I cannot climb every branch."*
+of the tree, my curse is knowing I cannot climb every branch."*
 
 {{pageNumber,auto}}
 {{footnote Chapter 36: Royalty and Heads of State}}
@@ -25287,7 +25244,7 @@ physical labor at both forge and mine face.
 
 \column
 
-One eye is slightly milky from a cave-in injury decades ago---he refused
+One eye is slightly milky from a cave-in injury decades ago. He refused
 magical healing, believing that "good dwarves earn their scars." He
 wears practical work clothes even at formal events, typically a leather
 apron over a sturdy tunic. He perpetually carries the scent of coal
@@ -25311,7 +25268,7 @@ Thane and fewer still would survive the attempt.
 
 -   Judges people by their work ethic and demonstrated skill
 
--   Traditional but not inflexible---respects those who prove themselves
+-   Traditional but not inflexible, respects those who prove themselves
     regardless of origin
 
 **Voice:** Deep and gravelly with a thick dwarvish accent. Speaks slowly
@@ -25355,9 +25312,13 @@ and deliberately.
 
 Born to a mining family in Deepforge, Durin learned smithing at twenty,
 mining at fifty, and leadership at one hundred. He worked every position
-in the mines---hauler, digger, surveyor, foreman---learning the
+in the mines, hauler, digger, surveyor, foreman, learning the
 operation from the ground up before any thought of inheriting
 leadership.
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 **Rise to Leadership (1100-1182 CR)**
 
@@ -25365,11 +25326,6 @@ When Durin inherited the Thanedom at one hundred eighty years of age
 (sixty-five years ago), House Ironforge was in decline. The mines were
 depleting, skilled workers were leaving for other holds, and finances
 were poor. Lesser leaders would have managed the decline. Durin refused.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 He personally explored the deepest tunnels, going where no dwarf had
 ventured in generations. He discovered three new mythril veins that
@@ -25387,7 +25343,7 @@ across both continents. Other houses need Ironforge products, which
 translates directly to political power.
 
 But success brings new problems. The deeper they mine, the stranger
-things they find---ancient tunnels, sealed chambers, things that
+things they find, ancient tunnels, sealed chambers, things that
 shouldn't exist. Durin has kept these discoveries secret, but he's
 worried. Some doors were sealed for reasons.
 
@@ -25455,14 +25411,14 @@ future for centuries.
 
 **Secret Arrangements:**
 
--   A red dragon near one mythril vein---they have an arrangement
+-   A red dragon near one mythril vein. They have an arrangement
 
 #### Secrets
 
 
 **The Deep Things**
 
-Miners have found ancient dwarven ruins beneath the current mines---from
+Miners have found ancient dwarven ruins beneath the current mines, from
 before the Worldrend, possibly before recorded history. The architecture
 is wrong, the symbols unknown. Durin has sealed seven chambers and told
 no one. Something down there feels wrong.
@@ -25476,7 +25432,7 @@ ancient ruins.
 
 **The Chosen Heir**
 
-Durin has secretly decided his middle son Balin should inherit---he's
+Durin has secretly decided his middle son Balin should inherit. He's
 the most balanced and capable. But tradition demands the eldest Thorin
 receive the Thanedom. Revealing his choice will cause family crisis and
 possibly violence among the brothers.
@@ -25484,21 +25440,21 @@ possibly violence among the brothers.
 **The Betrayal**
 
 Twenty years ago, a House Ironforge survey team disappeared in the deep
-mines. Durin found evidence they were murdered---by someone who didn't
+mines. Durin found evidence they were murdered, by someone who didn't
 want them discovering what was down there. The murderer was never found
 and might still be in the mines.
 
 **The Dragon Pact**
 
 Durin discovered a red dragon lair near one mythril vein. He made a
-deal---Ironforge doesn't mine that vein, and the dragon doesn't attack
+deal, Ironforge doesn't mine that vein, and the dragon doesn't attack
 the mines. The dragon occasionally provides Durin with information about
 threats from the deep. If this became known, it would be scandal.
 
 **The Ancestral Shame**
 
 Durin discovered records suggesting House Ironforge's founder obtained
-their first mine through treachery---possibly murder. The evidence is
+their first mine through treachery, possibly murder. The evidence is
 fragmentary but damning. He's hidden the documents, but they haunt him.
 
 #### Story Potential
@@ -25506,26 +25462,25 @@ fragmentary but damning. He's hidden the documents, but they haunt him.
 
 **The Deep Expedition:** Durin hires adventurers to explore the ancient
 ruins beneath his mines. What they find challenges understanding of
-history---and suggests something terrible is waking up.
-
-**The Succession Crisis:** Durin's three sons compete for inheritance
-through dangerous challenges. He asks outsiders to monitor the
-competitions for cheating---but they discover the brothers are being
-manipulated by outside forces.
-
-**The Missing Miners:** A team disappears in the deep mines.
-Investigators find evidence of the old murder---and discover the killer
-is still active.
-
-**The Dragon Negotiation:** The dragon wants renegotiation of the
-pact---more territory or she starts raiding. Durin needs intermediaries
-who can negotiate with an ancient red dragon without getting
-incinerated.
-
+history and suggests something terrible is waking up.
 
 {{pageNumber,auto}}
 {{footnote Chapter 37: Nobility and Aristocracy}}
 \page
+
+**The Succession Crisis:** Durin's three sons compete for inheritance
+through dangerous challenges. He asks outsiders to monitor the
+competitions for cheating, but they discover the brothers are being
+manipulated by outside forces.
+
+**The Missing Miners:** A team disappears in the deep mines.
+Investigators find evidence of the old murder, and discover the killer
+is still active.
+
+**The Dragon Negotiation:** The dragon wants renegotiation of the
+pact, more territory or she starts raiding. Durin needs intermediaries
+who can negotiate with an ancient red dragon without getting
+incinerated.
 
 **The Ancient Warning:** The sealed chambers start opening from the
 inside. Durin must admit the truth and get help before whatever is down
@@ -25559,6 +25514,8 @@ rather not hear."*
 
 -   Head of House Ashborne
 
+\column
+
 #### Age & Physical Description
 
 
@@ -25573,11 +25530,11 @@ advantage.
 He dresses in the finest white silk robes with gold embroidery and
 turquoise jewelry. Every gesture is deliberate, every word chosen with
 precision. He moves with the casual confidence of a man who has never
-been told "no." A faint smile plays constantly at his lips---the smile
+been told "no." A faint smile plays constantly at his lips, the smile
 of someone who knows something you don't.
 
 **Threat Level:** More dangerous in a negotiation than in combat, though
-far from helpless. Rashid's true weapon is his mind---his ability to
+far from helpless. Rashid's true weapon is his mind, his ability to
 manipulate, anticipate, and outmaneuver opponents makes him one of the
 most formidable political operators in Thaldros. Those who underestimate
 him because he prefers words to swords find themselves outmaneuvered
@@ -25588,7 +25545,7 @@ before they realize the game has begun.
 
 **Core Traits:**
 
--   Never raises his voice---whispers are more threatening than shouts
+-   Never raises his voice, whispers are more threatening than shouts
 
 -   Treats everyone like a business proposition
 
@@ -25603,7 +25560,7 @@ negotiation. Occasional dry humor. Uses silence effectively.
 
 -   Strokes beard when thinking
 
--   Makes direct eye contact---uncomfortably long
+-   Makes direct eye contact, uncomfortably long
 
 -   Offers refreshments before business (it's rude to refuse)
 
@@ -25625,11 +25582,15 @@ negotiation. Occasional dry humor. Uses silence effectively.
 
 -   Paranoid about assassination (with good reason)
 
--   Cannot accept being outmaneuvered---takes setbacks personally
+-   Cannot accept being outmaneuvered, takes setbacks personally
 
--   Underestimates religious influence---thinks everything is politics
+-   Underestimates religious influence, thinks everything is politics
 
 -   His succession crisis is partially his own making
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 #### Complete Background & History
 
@@ -25642,7 +25603,7 @@ marriage alliances with nomad clans, strategic elimination of rivals,
 and monopolization of desert trade routes. He learned that power comes
 not from strength but from making yourself indispensable.
 
-At fifteen, he negotiated his first trade deal---a water-rights
+At fifteen, he negotiated his first trade deal, a water-rights
 agreement that quadrupled House Ashborne's income. By twenty, he had
 married his first wife (daughter of the strongest nomad chief) and begun
 building his own network of spies and merchants.
@@ -25655,11 +25616,6 @@ administered by Rashid himself, though nothing was ever proven. His
 father had been planning to disinherit him in favor of a younger
 brother. Rashid acted first.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
-
 He immediately consolidated power by marrying two additional wives from
 competing clans, essentially holding their heirs as political hostages.
 This gave him leverage over the three most powerful nomad groups in the
@@ -25670,7 +25626,7 @@ desert.
 Rashid's marriages produced seven children:
 
 -   **Eldest Son** (deceased 1245 CR) - Heir apparent until his "riding
-    accident." Actually poisoned by one of his brothers---Rashid knows
+    accident." Actually poisoned by one of his brothers, Rashid knows
     which one but hasn't acted.
 
 -   **Second Son** (age 18) - Current heir by default. Competent but
@@ -25681,7 +25637,7 @@ Rashid's marriages produced seven children:
 -   **Two Younger Sons** - Still children, but already showing ambition.
 
 The succession crisis is intentional. Rashid believes competition makes
-stronger heirs. He'll choose his successor when he's ready---or let
+stronger heirs. He'll choose his successor when he's ready, or let
 them fight for it after he's gone.
 
 **Partnership with High Priest Al-Sahir**
@@ -25690,8 +25646,8 @@ Rashid appointed Rashid Al-Sahir as High Priest shortly after becoming
 Sultan. They share a first name (common in Sundara) but no blood
 relation. Rashid respects Al-Sahir's spiritual authority and genuine
 popularity with the people, while Al-Sahir provides moral legitimacy to
-Rashid's pragmatic rule. They disagree frequently---Rashid favors harsh
-justice, Al-Sahir advocates mercy---but their partnership has kept
+Rashid's pragmatic rule. They disagree frequently—Rashid favors harsh
+justice, Al-Sahir advocates mercy, but their partnership has kept
 Sundara stable for sixteen years.
 
 #### Goals & Motivations
@@ -25762,13 +25718,13 @@ now very wealthy and very loyal.
 **The Eldest Son**
 
 Rashid knows which of his sons killed the heir. It was the fourth
-son---only twelve at the time. Rashid is oddly proud. He's watching to
+son, only twelve at the time. Rashid is oddly proud. He's watching to
 see if the boy has what it takes to rule.
 
 **The Empire Plan**
 
 Rashid isn't content with Sundara. He's slowly positioning House
-Ashborne to claim all of the Ashfall Barrens---and possibly challenge
+Ashborne to claim all of the Ashfall Barrens, and possibly challenge
 House Thandris for dominance in Thaldros. This will take decades, but
 he's patient.
 
@@ -25776,7 +25732,11 @@ he's patient.
 
 He's aware the Great Oasis is failing (High Priest Al-Sahir told him).
 Unlike Al-Sahir, Rashid suspects someone is deliberately cursing
-it---probably a rival house. He's hunting the culprit.
+it, probably a rival house. He's hunting the culprit.
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 **The Escape Plan**
 
@@ -25787,7 +25747,7 @@ If everything collapses, he'll survive. Ashbornes always survive.
 
 
 **The Succession Crisis:** Rashid needs an outside party to investigate
-his children---which one is truly plotting against him, and which would
+his children, which one is truly plotting against him, and which would
 make the best heir?
 
 **The Trade War:** Competition with the Merchant League has turned
@@ -25797,7 +25757,7 @@ violent. Rashid needs mercenaries who can't be traced back to him.
 handsomely for anyone who can find and stop whoever is responsible.
 
 **The Desert Expansion:** Rashid is claiming new oases in the deep
-desert. Adventurers could help establish outposts---or investigate why
+desert. Adventurers could help establish outposts, or investigate why
 previous expeditions disappeared.
 
 **The Family Problem:** One of his children has done something that
@@ -25810,11 +25770,6 @@ to disappear quietly.
 *"In the desert, the patient vulture eats well. I am very patient."*
 
 *"The Sultan does not forget\..."*
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 *"Gold opens doors that armies cannot breach, and silence is the most
 profitable investment."*
@@ -25830,10 +25785,6 @@ profitable investment."*
 -   Shield of Kaer Thandros
 
 -   The One-Eyed General
-
-<div class="col-img">![37.3 Lord Commander Thrain Ironoak](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-commander-thrain-ironoak.jpg){width:260px}</div>
-
-
 
 
 #### Age & Physical Description
@@ -25855,6 +25806,8 @@ His tactical brilliance has won campaigns that should have been
 unwinnable, and his personal combat prowess remains formidable despite
 his age. He commands with respect rather than fear, and thousands of
 soldiers would follow him into certain death.
+
+<div class="col-img">![37.3 Lord Commander Thrain Ironoak](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-commander-thrain-ironoak.jpg){width:260px}</div>
 
 #### Personality & Mannerisms
 
@@ -25896,9 +25849,13 @@ refused to retreat until civilians evacuated.
 
 Promoted to Lord Commander in 1225 CR, making him the first dwarf to
 hold the position in two hundred years. Has served three Thandris
-kings---the late Aldric III, briefly the infant-king Marcus (who died of
+kings, the late Aldric III, briefly the infant-king Marcus (who died of
 fever), and now Aldric IV. This continuity makes him one of the most
 trusted advisors in the realm.
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 #### Relationships & Connections
 
@@ -25926,7 +25883,7 @@ Aldric IV and High Diplomat Erenna know.
 **The Blackwood Sympathy**
 
 His grandmother sheltered Blackwood refugees after the rebellion. He's
-quietly investigated their claims---and found troubling evidence the
+quietly investigated their claims, and found troubling evidence the
 crown's version isn't complete.
 
 **The Dragon Deal**
@@ -25946,10 +25903,6 @@ His first command was massacred because he trusted bad intelligence.
 Survivors were told it was enemy action. It was actually friendly fire
 from panicking human troops.
 
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
-
 #### Notable Quotes
 
 
@@ -25960,7 +25913,6 @@ that number through carelessness."*
 
 ### 37.4 General Marthos Thandris
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-general-marthos-thandris.jpg){width:260px}</div>
 
 **Supreme Commander of the Thaldros Military, Distant Cousin to the King**
 
@@ -25980,7 +25932,7 @@ that number through carelessness."*
 
 An imposing figure standing six feet three inches and weighing two
 hundred ten pounds, with a commanding presence that fills any room.
-Older than Crown Prince Thorin by thirty years and looks it---weathered
+Older than Crown Prince Thorin by thirty years and looks it, weathered
 face, several scars, graying hair. Keeps a short military
 beard. Cold blue eyes assess everyone as either asset or threat.
 
@@ -25990,8 +25942,10 @@ an old battle wound.
 **Threat Level:** One of the most dangerous warriors in Thaldros. His
 tactical genius has never lost a major engagement, and his personal
 combat skills match his strategic brilliance. More dangerous still is
-his ambition---he believes he could rule better than the current line
+his ambition. He believes he could rule better than the current line
 and has positioned himself accordingly.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-general-marthos-thandris.jpg){width:260px}</div>
 
 #### Personality & Mannerisms
 
@@ -26018,22 +25972,26 @@ attention. Uses military terminology in casual conversation.
 
 -   *"Only through military might can we ensure lasting peace."*
 
--   *"Victory justifies any sacrifice---except honor."*
+-   *"Victory justifies any sacrifice, except honor."*
 
 **Personal Flaws:**
 
--   Ambition---believes he could rule better than the current line
+-   Ambition, believes he could rule better than the current line
 
--   Ruthless---willing to sacrifice individuals for strategic gains
+-   Ruthless, willing to sacrifice individuals for strategic gains
 
 -   Jealous of Crown Prince Thorin's popularity
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 -   Struggles to understand diplomacy and "soft power"
 
 #### Complete Background & History
 
 
-Marthos is a distant cousin of King Aldric IV---his great-grandfather
+Marthos is a distant cousin of King Aldric IV, his great-grandfather
 was the King's great-uncle. While not in direct line for succession,
 he's close enough that in a catastrophic scenario, he could have a
 claim.
@@ -26048,11 +26006,11 @@ massive orc horde. Outnumbered five-to-one, he held for three days until
 reinforcements arrived. This earned him promotion to Captain and the
 King's attention.
 
-By thirty, he was General---youngest ever at the time. He modernized the
+By thirty, he was General, youngest ever at the time. He modernized the
 army, improved training protocols, and increased efficiency. Under his command, Thaldros hasn't lost a single major engagement.
 
 But success breeds ambition. Marthos respects the King but sees Crown
-Prince Thorin as soft---too concerned with being loved rather than being
+Prince Thorin as soft, too concerned with being loved rather than being
 effective. He doesn't actively plot against the prince, but he's
 quietly positioning himself. If Thorin proves unworthy\... well, the
 kingdom needs strong leadership.
@@ -26073,11 +26031,6 @@ kingdom needs strong leadership.
 -   Ensure the succession produces a strong ruler
 
 -   Expand his influence in court politics
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
-
 
 -   Prepare contingencies for various scenarios
 
@@ -26108,8 +26061,8 @@ kingdom needs strong leadership.
 **The Contingency Plan**
 
 Marthos has a detailed plan for taking control of the government if the
-royal line fails or proves incompetent. It's not treason per se---he
-frames it as emergency succession protocol---but it could be seen as
+royal line fails or proves incompetent. It's not treason per se. He
+frames it as emergency succession protocol, but it could be seen as
 such. The plan is hidden in encoded military documents.
 
 **The Blackwater Alliance**
@@ -26136,8 +26089,8 @@ soldier's journal.
 
 Through genealogical research, Marthos discovered that due to an obscure
 historical marriage, his claim to the throne might actually be stronger
-than King Aldric IV's under ancient law. He's kept this secret---using
-it would destabilize everything---but it haunts him.
+than King Aldric IV's under ancient law. He's kept this secret, using
+it would destabilize everything, but it haunts him.
 
 #### Story Potential
 
@@ -26147,22 +26100,18 @@ Is it legitimate emergency planning or treason? Investigation must
 proceed without tipping him off.
 
 **The Succession Crisis:** If something happens to Crown Prince Thorin,
-Marthos is positioned to seize power. Heroes must choose---support the
+Marthos is positioned to seize power. Heroes must choose, support the
 rightful but possibly weak heir, or the competent but potentially
 tyrannical general?
 
 #### Notable Quotes
 
 
-*"Victory justifies any sacrifice---except honor."*
+*"Victory justifies any sacrifice, except honor."*
 
 *"Strategy before sentiment."*
 
-\column
-
 ### 37.5 Lord Aldris Goldshore IV
-
-<div class="col-img">![37.5 Lord Aldris Goldshore IV](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-aldris-goldshore-iv.jpg){width:260px}</div>
 
 
 **Lord of House Goldshore, Trade Magnate**
@@ -26186,7 +26135,11 @@ one hundred seventy-five pounds, with the practiced charm of a
 successful merchant. Brown hair styled fashionably, neat beard, warm
 brown eyes that calculate value even while smiling.
 
-Dresses in expensive but tasteful clothing---silk shirts, fine leather
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
+Dresses in expensive but tasteful clothing, silk shirts, fine leather
 boots, gold jewelry that shows wealth without vulgarity. Always has a
 slight smile, as if he knows a secret you don't.
 
@@ -26197,6 +26150,8 @@ reputation, business, or family with a few well-placed words. Those who
 threaten him tend to suffer financial ruin, social ostracism, or
 mysterious "accidents."
 
+<div class="col-img">![37.5 Lord Aldris Goldshore IV](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-aldris-goldshore-iv.jpg){width:325px}</div>
+
 #### Personality & Mannerisms
 
 
@@ -26206,16 +26161,13 @@ mysterious "accidents."
 
 -   Treats business as a game, enjoys outsmarting competitors
 
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
-
-
 -   Generous to those useful to him, ruthless to those who aren't
 
 -   Sees everything and everyone as either asset or liability
 
-**Voice:** Smooth, confident, warm---like talking to an old friend.
+**Voice:** Smooth, confident, warm, like talking to an old friend.
+
+\column
 
 **Defining Principles:**
 
@@ -26223,26 +26175,26 @@ mysterious "accidents."
 
 -   *"Morality is expensive. I prefer practical solutions."*
 
--   *"Gold buys freedom---from laws, from consequences, from limits."*
+-   *"Gold buys freedom, from laws, from consequences, from limits."*
 
 -   *"Everything has a price."*
 
 **Personal Flaws:**
 
--   Arrogance---believes he can buy or manipulate his way out of
+-   Arrogance, believes he can buy or manipulate his way out of
     anything
 
--   Greed---always wants more, even when he has enough
+-   Greed, always wants more, even when he has enough
 
--   Paranoid---trusts no one fully
+-   Paranoid, trusts no one fully
 
--   Cold---values people by utility, struggles with genuine emotion
+-   Cold, values people by utility, struggles with genuine emotion
 
 #### Complete Background & History
 
 
 Born in 1202 CR to Lord Aldris Goldshore III (half-elf) and Lady Mirella
-Goldshore (human). His mother died when he was twelve---officially
+Goldshore (human). His mother died when he was twelve, officially
 illness, though whispers suggest poison from rivals.
 
 His father taught him business ruthlessly; the streets of Goldreach
@@ -26256,7 +26208,7 @@ more control. Now at forty-five, he is one of the wealthiest individuals
 in Tirvandor, controls a vast merchant fleet, and has influence in both
 kingdoms.
 
-His daughter Serina is his one genuine emotional attachment---he loves
+His daughter Serina is his one genuine emotional attachment. He loves
 her truly. But he's grooming her for leadership while hiding his
 methods, fearing she'll turn against him if she discovers his crimes.
 
@@ -26279,14 +26231,18 @@ methods, fearing she'll turn against him if she discovers his crimes.
 **The Smuggling Empire**
 
 Beyond legal trade, Aldris runs a massive smuggling
-operation---restricted goods, weapons, information, people. He uses
+operation, restricted goods, weapons, information, people. He uses
 legitimate merchant ships as cover.
 
 **The Mother's Murder**
 
 Aldris suspects his mother was poisoned by rivals when he was
-twelve---but he's recently discovered evidence it may have been his own
+twelve, but he's recently discovered evidence it may have been his own
 father who arranged it. She threatened to expose his illegal operations.
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 **The Syndicate Alliance**
 
@@ -26295,7 +26251,7 @@ He provides shipping, they handle enforcement and dirty work.
 
 **The Leverage Collection**
 
-He maintains files on every important person he's dealt with---their
+He maintains files on every important person he's dealt with, their
 vices, debts, affairs, crimes. This blackmail material is his insurance
 policy.
 
@@ -26310,12 +26266,12 @@ doesn't understand.
 
 *"Everything has a price."*
 
-*"Gold flows where opportunity blooms---and I cultivate
+*"Gold flows where opportunity blooms, and I cultivate
 opportunities."*
 
 ### 37.6 Lady Serina Goldshore
 
-<div class="col-img">![37.6 Lady Serina Goldshore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-serina-goldshore.jpg){width:260px}</div>
+<div class="col-img">![37.6 Lady Serina Goldshore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-serina-goldshore.jpg){width:325px}</div>
 
 
 **Trade Minister of House Goldshore, Heir Apparent**
@@ -26338,12 +26294,7 @@ Beautiful and graceful, standing five feet seven inches and weighing one
 hundred thirty pounds, with her father's brown eyes but warmer, more
 genuine. Long dark hair usually in practical braids for travel. 
 
-Dresses
-well but not ostentatiously---quality over flash.
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
+Dresses well but not ostentatiously, quality over flash.
 
 Has a disarming smile that's real, unlike her father's calculated one.
 Often carries a lute or violin case. Ink stains on fingers from writing
@@ -26353,7 +26304,7 @@ correspondence.
 training make her more dangerous than she appears, but her true threat
 lies in her integrity. She is systematically investigating her own
 father's criminal empire, and if she exposes him, House Goldshore will
-be destroyed---or transformed into something better.
+be destroyed, or transformed into something better.
 
 #### Personality & Mannerisms
 
@@ -26362,7 +26313,7 @@ be destroyed---or transformed into something better.
 
 -   Genuinely kind and empathetic, cares about people's wellbeing
 
--   Idealistic but not naive---knows the world is complicated
+-   Idealistic but not naive, knows the world is complicated
 
 -   Uses charm to build real relationships, not manipulate
 
@@ -26398,7 +26349,7 @@ be destroyed---or transformed into something better.
 
 Born in 1224 CR, Serina grew up in luxury but saw wealth as
 responsibility rather than power. Her mother (deceased when Serina was
-ten) instilled values of kindness and service before she died---values
+ten) instilled values of kindness and service before she died—values
 her father dismisses as impractical.
 
 At fifteen, she traveled with a merchant caravan and saw poverty,
@@ -26407,13 +26358,19 @@ on others' backs. She tried to discuss this with her father; he laughed
 and called it "naive idealism she'd outgrow."
 
 She didn't outgrow it. She studied music, diplomacy, and trade law. At
-twenty, her father made her Trade Minister---thinking she'd learn
-"practical business." Instead, she's been using the position to
+twenty, her father made her Trade Minister, thinking she'd learn
+"practical business." 
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
+Instead, she's been using the position to
 reform practices, improve worker conditions, and investigate suspicious
 activities.
 
 She suspects her father of illegal operations but hasn't found proof.
-She's walking a tightrope---maintaining family loyalty while quietly
+She's walking a tightrope, maintaining family loyalty while quietly
 undermining corrupt practices.
 
 #### Relationships & Connections
@@ -26425,7 +26382,7 @@ undermining corrupt practices.
 -   **Secret Contact:** Crown Prince Thorin Thandris (corresponding
     about reforms)
 
--   **Secret Love:** "Darin"---actually an undercover investigator
+-   **Secret Love:** "Darin", actually an undercover investigator
     gathering evidence on House Goldshore
 
 #### Secrets
@@ -26440,14 +26397,14 @@ is compiled in a coded journal.
 **The Hidden Fortune**
 
 She's been quietly diverting profits from legitimate operations into a
-secret fund---money that will be "clean" if she ever breaks from her
+secret fund, money that will be "clean" if she ever breaks from her
 father. Currently ten thousand gold pieces hidden across multiple
 cities.
 
 **The Underground Railroad**
 
 Serina has been helping people escape her father's smuggling
-operations---workers trapped in debt, captives being transported. She
+operations, workers trapped in debt, captives being transported. She
 uses family resources to spirit them away. If discovered, her father
 might kill her.
 
@@ -26466,13 +26423,9 @@ operations.
 
 ### 37.7 Merchant Prince Davos Goldshore
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-davos-goldshore.jpg){width:260px}</div>
+
 
 **Leader of the Goldshore Branch Family, Trade Council Member**
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 #### Titles & Aliases
 
@@ -26494,7 +26447,7 @@ Green eyes that calculate your worth when they look at you.
 
 Always impeccably dressed in the finest clothes worth five hundred gold
 pieces or more per outfit. Wears expensive jewelry but
-tastefully---shows wealth without being gaudy.
+tastefully, shows wealth without being gaudy.
 
 **Threat Level:** Extraordinarily dangerous. The richest individual in
 Tirvandor (excepting maybe dragons), worth an estimated eight to ten
@@ -26503,12 +26456,14 @@ trade between continents. Has eliminated competitors through means legal
 and otherwise, and maintains extensive blackmail files on dozens of 
 nobles, merchants, and officials.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-davos-goldshore.jpg){width:325px}</div>
+
 #### Personality & Mannerisms
 
 
 **Core Traits:**
 
--   Everything is a negotiation---every conversation has an angle
+-   Everything is a negotiation, every conversation has an angle
 
 -   Smiles constantly, even when discussing violence (especially then)
 
@@ -26518,6 +26473,10 @@ nobles, merchants, and officials.
 
 **Voice:** Smooth, cultured, friendly. Uses people's names frequently.
 Never raises voice.
+
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
 **Defining Principles:**
 
@@ -26547,7 +26506,7 @@ day-to-day commerce while the Aldris line maintains noble legitimacy.
 In practice, he wields more actual power than the main branch and
 secretly resents being denied the title that matches his influence.
 
-Married twice---both wives died of "illness." Currently widowed with
+Married twice, both wives died of "illness." Currently widowed with
 no legitimate heirs by deliberate choice. He believes legitimate
 children would be targets, liabilities, or rivals. Instead, he's
 positioning himself to claim Lord Aldris IV's daughter Serina through
@@ -26565,7 +26524,7 @@ used as agents but never acknowledged.
 -   **Target of Claim:** Lady Serina Goldshore (plans to adopt or marry
     her to consolidate the house)
 
--   **Syndicate Tool:** Master Crimson (unwitting partner---Davos funds
+-   **Syndicate Tool:** Master Crimson (unwitting partner, Davos funds
     Syndicate operations for deniable leverage)
 
 -   **Trade Partner:** Sultan Rashid Ashborne (lucrative trade
@@ -26592,7 +26551,7 @@ house.
 **The Salvage Operation**
 
 Has secret expeditions searching the sunken palace for treasures. Found
-several artifacts, kept quiet. One might be the Crown Jewels---which he
+several artifacts, kept quiet. One might be the Crown Jewels, which he
 plans to use as leverage.
 
 **The Poison Prince**
@@ -26605,7 +26564,7 @@ business rivals. Never caught.
 Davos finances military engagements on both sides of the
 Thaldros--Aethoria tensions through direct arms dealing, smuggled
 weapons shipments, and mercenary contracts. He profits from every
-battle fought with his steel---not patriotic, purely mercenary.
+battle fought with his steel, not patriotic, purely mercenary.
 
 **The Double Game with the Syndicate**
 
@@ -26622,17 +26581,13 @@ released.
 
 **The Deepwater Heir**
 
-Davos knows the identity of Lord Aldris' fourth daughter Marina---the
+Davos knows the identity of Lord Aldris' fourth daughter Marina, the
 pre-Worldrend Deepwater heir who was presumed dead but whose lineage
 survived in secret. Whoever controls that bloodline controls the
 legitimate claim to everything both Goldshore and Crystalborn have
 fought over for centuries. He has not yet decided whether to expose
 her descendants, eliminate them, or use the knowledge as the ultimate
 leverage.
-
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
 
 #### Notable Quotes
 
@@ -26663,11 +26618,9 @@ gloom of Marshaven. Her features are sharp and her eyes miss nothing.
 
 **Threat Level:** Extremely dangerous. A powerful necromancer who has
 secretly created an army of intelligent undead hidden in the swamps. Her
-undead retain their memories and personalities---not shambling corpses,
+undead retain their memories and personalities, not shambling corpses,
 but thinking soldiers. She currently commands approximately two hundred
 such servants, with the number growing.
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-morgana-blackwater.jpg){width:260px}</div>
 
 #### Personality & Mannerisms
 
@@ -26678,10 +26631,14 @@ such servants, with the number growing.
 
 -   Sees herself as a liberator, not a villain
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
+
 -   Believes the ends justify the means
 
 -   Genuinely cares about Marshaven's independence
-\column
+
 **Defining Principles:**
 
 -   The continental powers take Marshaven's taxes but provide nothing
@@ -26691,11 +26648,13 @@ such servants, with the number growing.
 
 -   The dead are a resource, like any other
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-morgana-blackwater.jpg){width:325px}</div>
+
 #### Complete Background & History
 
 
 Born to a minor noble family in the Thornmire swamps. Married into the
-Blackwater name---the oldest family in Marshaven. Her husband died three
+Blackwater name, the oldest family in Marshaven. Her husband died three
 years into the marriage under mysterious circumstances. She's ruled the
 city ever since.
 
@@ -26704,7 +26663,7 @@ The continental powers take its taxes but provide nothing in return.
 Morgana decided to change that.
 
 Using forbidden texts found in swamp ruins, she's learned to create
-undead that retain their intelligence and free will---not shambling
+undead that retain their intelligence and free will, not shambling
 corpses, but thinking soldiers. Her plan is elegant: build an army in
 the swamps where no one looks, then declare independence.
 
@@ -26732,7 +26691,7 @@ modified binding ritual.
 
 **The Husband's Death**
 
-He discovered her early experiments. She didn't kill him---her first
+He discovered her early experiments. She didn't kill him, her first
 creation did. She's never forgiven herself.
 
 **The Intelligence Ritual**
@@ -26754,13 +26713,8 @@ Morveth sees the undead forces as tools she can eventually turn to her
 own purposes, waiting for them to cause maximum suffering when they
 inevitably escape control. (See also Section 44.9 and 44.10.)
 
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
-
 ### 37.9 Council Mistress Elara Silverleaf
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-mistress-elara-silverleaf.jpg){width:260px}</div>
 
 **Head of Silverpine Council, University Rector**
 
@@ -26771,7 +26725,7 @@ inevitably escape control. (See also Section 44.9 and 44.10.)
 
 -   Rector of the University of Arcane Studies
 
--   Matriarch of House Silverleaf (former---passed duties to focus on
+-   Matriarch of House Silverleaf (former, passed duties to focus on
     academia)
 
 #### Age & Physical Description
@@ -26784,26 +26738,29 @@ Auburn hair with silver highlights worn in a complex braided style.
 Bright silver eyes that miss nothing.
 
 
-Always dressed in academic robes---burgundy with silver
-trim---indicating her rank as Rector. Wears spectacles for reading
+Always dressed in academic robes, burgundy with silver
+trim, indicating her rank as Rector. Wears spectacles for reading
 (doesn't actually need them, but they make her look scholarly).    
 
 **Threat Level:** One of the most powerful abjuration mages alive. Her
 protective magic makes her nearly impossible to kill, and her mastery of
-counterspell and  
+counterspell and dispel magic means she can shut down most magical threats. 
 
-dispel magic means she can shut down most magical threats. 
-
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 More significantly, she controls the premier magical
 institution in western Tirvandor and has trained hundreds of wizards now
 in positions of power.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-mistress-elara-silverleaf.jpg){width:325px}</div>
 
 #### Personality & Mannerisms
 
 
 **Core Traits:**
 
--   Precise and organized---everything in its place
+-   Precise and organized, everything in its place
 
 -   Listens carefully before speaking, then speaks with authority
 
@@ -26822,21 +26779,21 @@ complete paragraphs.
 
 -   *"Good enough is the enemy of great."*
 
--   *"Knowledge is not power---applied knowledge is power."*
+-   *"Knowledge is not power, applied knowledge is power."*
 
 #### Complete Background & History
 
 
 Born in 905 CR in Aethermere. Showed magical talent young. Sent to
 Silverpine Magical Academy at age forty. Proved to be a prodigy in
-abjuration magic---by age eighty, was a full professor.
+abjuration magic, by age eighty, was a full professor.
 
-Appointed Rector of the University at age 250 (1155 CR)---youngest
+Appointed Rector of the University at age 250 (1155 CR), youngest
 Rector in university history. Under her leadership, the University has
 grown to be the premier magical institution in western Tirvandor.
 
 Also leads the Silverpine Council, making her both academic and
-political leader of the city. Never married---devoted entirely to her
+political leader of the city. Never married, devoted entirely to her
 work. Considers her students her children.
 
 #### Secrets
@@ -26845,7 +26802,7 @@ work. Considers her students her children.
 **The Forbidden Vault**
 
 The University has a vault of dangerous magical knowledge. Only she has
-access. Contains things that shouldn't exist---necromancy tomes, demon
+access. Contains things that shouldn't exist, necromancy tomes, demon
 summoning, reality-breaking spells. She's studied them all "to know
 how to counter them."
 
@@ -26871,13 +26828,7 @@ her. She's trying to fix it without removing the protection.
 
 Self-made merchant prince who sits on the Merchant League's inner council as one of the three Trade Princes who truly control continental commerce. Born in the gutters of Port Myrthen, he built a merchant empire spanning both continents through ruthless cunning and prodigious commercial talent. His public persona is the charming rogue; privately, he's patient, dangerous, and never forgives a slight.
 
-{{pageNumber,auto}}
-{{footnote Chapter 37: Nobility and Aristocracy}}
-\page
-
 ### 37.11 Lady Tempest Stormcrest
-
-<div class="col-img">![37.11 Lady Tempest Stormcrest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-tempest-stormcrest.jpg){width:260px}</div>
 
 
 **Storm-Caller of House Stormcrest**
@@ -26900,12 +26851,16 @@ Wild and striking, standing five feet nine inches and weighing one
 hundred forty pounds, with an intensity that makes people step back.
 Long black hair that seems to move with static electricity even when
 there's no wind. Eyes that shift from gray to electric blue depending
-on her mood. Olive skin with lightning-bolt scars from channeling power.
+on 
 
+{{pageNumber,auto}}
+{{footnote Chapter 37: Nobility and Aristocracy}}
+\page
 
+her mood. Olive skin with lightning-bolt scars from channeling power.
 
 Wears flowing dark robes that billow dramatically. Has a presence that
-fills rooms---electric and slightly dangerous.
+fills rooms, electric and slightly dangerous.
 
 **Threat Level:** Terrifyingly powerful but unstable. Lady Tempest can
 summon hurricanes, call lightning from clear skies, and control weather
@@ -26913,6 +26868,7 @@ across miles. However, her powers are tied to her emotions, and when she
 loses control, ships sink and people die. She is simultaneously one of
 House Stormcrest's greatest assets and their greatest liability.
 
+<div class="col-img">![37.11 Lady Tempest Stormcrest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-tempest-stormcrest.jpg){width:260px}</div>
 
 #### Personality & Mannerisms
 
@@ -26921,9 +26877,9 @@ House Stormcrest's greatest assets and their greatest liability.
 
 -   Passionate and intense, everything at 100%
 
--   Impulsive---acts on instinct rather than thought
+-   Impulsive, acts on instinct rather than thought
 
--   Moody---temperament literally matches the weather
+-   Moody, temperament literally matches the weather
 
 -   Generous with power but careless about consequences
 
@@ -26932,19 +26888,21 @@ emotional.
 
 **Defining Principles:**
 
--   *"I am the storm---wild, untamed, free. No one controls me."*
+-   *"I am the storm: wild, untamed, free. No one controls me."*
 
 -   *"Nature's fury flows through me. Why should I restrain it?"*
 
 -   *"The storm doesn't ask permission. Neither do I."*
 
+\column
+
 **Personal Flaws:**
 
--   Volatile---anger can cause literal storms
+-   Volatile, anger can cause literal storms
 
--   Reckless---doesn't think about collateral damage
+-   Reckless, doesn't think about collateral damage
 
--   Addicted to power---the rush of controlling weather
+-   Addicted to power, the rush of controlling weather
 
 -   Struggles with controlling her abilities
 
@@ -26966,7 +26924,7 @@ days.
 
 Recently, her power is growing. Weather responds to her moods even when
 she's not trying. She's starting to hear whispers in
-storms---something calling to her from deep weather patterns.
+storms, something calling to her from deep weather patterns.
 
 #### Secrets
 
@@ -26979,7 +26937,7 @@ continental weather. Is she becoming something inhuman?
 
 **The Calling**
 
-Something in storms is calling to her---an ancient presence, possibly an
+Something in storms is calling to her, an ancient presence, possibly an
 elder elemental or sleeping god. The calling is seductive. It promises
 ultimate power and freedom. She's tempted.
 
@@ -26991,7 +26949,7 @@ accident because she was ashamed and scared.
 
 **The Bargain**
 
-A storm elemental once offered her a pact---merge with it, become purely
+A storm elemental once offered her a pact, merge with it, become purely
 elemental, have perfect control and unlimited power. She'd stop being
 human but become an eternal storm. She refused but sometimes wishes
 she'd accepted.
@@ -27026,7 +26984,7 @@ Moves with surprising grace for his age. Always dressed in white robes
 with gold trim.
 
 Born in Sundara in 1179 CR to a merchant family. Experienced divine
-vision at age 16---saw Sera in the sun and dedicated his life to
+vision at age 16, saw Sera in the sun and dedicated his life to
 service. Trained as cleric, became respected spiritual leader by age 30.
 Appointed High Priest at age 45 (1224 CR) by the newly crowned Sultan
 Rashid Ashborne.
@@ -27036,11 +26994,11 @@ surviving two lethal situations through divine intervention. During a
 plague at age 22, he healed hundreds until he collapsed from exhaustion.
 Sera himself appeared and restored him. At age 50, during a sandstorm,
 he went into the desert to rescue a lost child. Caught in the storm,
-nearly dying of dehydration, Sera sent rain in the desert---saving both.
+nearly dying of dehydration, Sera sent rain in the desert, saving both.
 These miracles make him a living legend.
 
 **Secrets:** Rashid knows he can call Divine Intervention one more time
-before he dies---Sera told him so. He is saving it for the moment of
+before he dies, Sera told him so. He is saving it for the moment of
 greatest need. He also knows the Great Oasis is slowly dying from a
 curse, but hasn't told anyone to avoid causing panic.
 \column
@@ -27091,7 +27049,7 @@ traditions), House Verdantheart (fellow druids)
 A mysterious oracle who dwells somewhere in the deep desert. The Sand
 Prophet delivers cryptic prophecies that sometimes confirm and sometimes
 contradict the visions of other seers. Few have met the Prophet
-directly---most receive their wisdom through intermediaries or dreams.
+directly—most receive their wisdom through intermediaries or dreams.
 
 High Priest Al-Sahir has regular contact with the Sand Prophet, though
 he does not fully understand the oracle's nature or motivations.
@@ -27099,7 +27057,7 @@ Recently, the Sand Prophet has gone silent, causing concern among those
 who rely on their guidance.
 
 **Secret:** The Sand Prophet may not be a single individual but rather a
-title passed down through generations---or something else entirely.
+title passed down through generations, or something else entirely.
 
 {{pageNumber,auto}}
 {{footnote Chapter 38: Religious Leaders}}
@@ -27124,7 +27082,7 @@ Aethoria and manages the complex relationships with independent
 settlements in the frontier.
 
 **Secret:** Marthos knows Crown Prince Thorin was born before King
-Aldric married Queen Mara---the official records have been altered. He
+Aldric married Queen Mara, the official records have been altered. He
 holds this information as leverage, though he has never used it.
 
 \column
@@ -27173,7 +27131,7 @@ The richest individual in Tirvandor, worth an estimated eight to ten million gol
 **Age:** 234 (dwarf)
 
 The finest smith in Thaldros and possibly all of Tirvandor. Durgan's
-work is legendary---kings and archmages pay fortunes for his creations.
+work is legendary, kings and archmages pay fortunes for his creations.
 He operates the Crown Forge, one of only three forges in the world
 capable of creating permanent magical items.
 \column
@@ -27201,7 +27159,7 @@ Leader of the Merchant League, a coalition of independent traders who compete wi
 
 **Location:** Goldreach Harbor
 
-Commands Davos Goldshore's merchant fleet---the largest private naval
+Commands Davos Goldshore's merchant fleet, the largest private naval
 force on the western continent. Sylara is a skilled navigator who knows
 every current and reef in the Sundering Sea. Her loyalty to Davos is
 absolute, though she has growing concerns about some of his more
@@ -27221,7 +27179,7 @@ ruthless methods.
 
 **Title:** Leader of the Shadow Syndicate | **Location:** Unknown, operates throughout Thaldros
 
-The mysterious figure who controls the Shadow Syndicate, the most powerful criminal organization in western Tirvandor. No one knows Master Crimson's true identity---the name may be a title rather than an individual. The Syndicate operates in smuggling, protection rackets, assassination, and information brokerage. Maintains a business relationship with Trade Prince Lucian Goldfingers built on mutual profit and mutual distrust.
+The mysterious figure who controls the Shadow Syndicate, the most powerful criminal organization in western Tirvandor. No one knows Master Crimson's true identity, the name may be a title rather than an individual. The Syndicate operates in smuggling, protection rackets, assassination, and information brokerage. Maintains a business relationship with Trade Prince Lucian Goldfingers built on mutual profit and mutual distrust.
 
 ### 41.2 Whisper
 
@@ -27230,10 +27188,10 @@ The mysterious figure who controls the Shadow Syndicate, the most powerful crimi
 
 **Location:** Mobile, often in Goldreach
 
-The most famous thief in Tirvandor---Whisper's exploits are legendary.
+The most famous thief in Tirvandor, Whisper's exploits are legendary.
 She has stolen from dragon hoards, royal treasuries, and wizard towers.
 No vault is considered truly secure until Whisper has failed to crack
-it---and she has yet to fail.
+it, and she has yet to fail.
 
 Whisper works independently, taking contracts that interest her rather
 than for pure profit. She has a code: no theft that would cause innocent
@@ -27241,7 +27199,7 @@ deaths, no jobs targeting orphanages or temples of good deities, and no
 working with slavers. These principles have earned her grudging respect
 even from those she's robbed.
 \column
-**Appearance:** Average height, forgettable features---the perfect
+**Appearance:** Average height, forgettable features, the perfect
 qualities for a thief. Those who have seen her describe different
 appearances, suggesting she is a master of disguise.
 
@@ -27294,8 +27252,8 @@ trigger a catastrophic release if successful.
 
 The most accomplished divination wizard in Thaldros, Thelmar serves as
 advisor to King Aldric IV on matters of prophecy and magical
-intelligence. His Portent ability---seeing glimpses of the future each
-morning---has saved the kingdom from disaster multiple times.
+intelligence. His Portent ability, seeing glimpses of the future each
+morning, has saved the kingdom from disaster multiple times.
 
 Thelmar is an elderly human with a scholar's stoop and ink-stained
 fingers. He cares more for knowledge than politics, though he
@@ -27415,7 +27373,7 @@ vengeance beyond what wisdom would advise.
 
 The greatest ranger of the western continent, Arannis protects the
 Silverwood and serves as liaison between elven and human communities.
-His tracking skills are legendary---it's said he can follow a bird
+His tracking skills are legendary. It's said he can follow a bird
 through the sky by the disturbance it leaves in the air.
 
 Arannis leads the Silverwood Rangers, an elite force that patrols the
@@ -27464,7 +27422,7 @@ Myrthen. Lyra knows the Sundering Sea better than most and has contacts
 on both continents. Her ship, the *Storm's Edge*, is available for hire
 to those with interesting jobs and sufficient coin.
 
-Lyra operates in moral gray areas---she won't transport slaves or help
+Lyra operates in moral gray areas. She won't transport slaves or help
 genuine villains, but she's not above smuggling or bending laws that
 she considers unjust. Her crew is fiercely loyal, and her reputation for
 completing jobs makes her services highly sought.
@@ -27481,7 +27439,7 @@ completing jobs makes her services highly sought.
 ## Chapter 44: Villains and Antagonists
 
 The antagonists of Tirvandor represent moral complexity at its
-finest---many are victims themselves, driven by legitimate grievances to
+finest, many are victims themselves, driven by legitimate grievances to
 terrible ends. Understanding their motivations is essential to
 understanding the world's conflicts.
 
@@ -27512,11 +27470,11 @@ A gaunt man in his mid-fifties who moves like someone two decades
 younger. Corvus has sharp features with angular cheekbones and a strong
 jaw softened only slightly by age. His hair, once raven-black like all
 Blackwoods, is now streaked with gray, worn longer than fashion dictates
-and often tied back. His eyes are his most striking feature---dark gray,
+and often tied back. His eyes are his most striking feature, dark gray,
 almost silver, with an intensity that makes people uncomfortable. When
 angry, they seem to absorb light.
 
-His hands are those of someone who has learned to kill---precise,
+His hands are those of someone who has learned to kill, precise,
 steady, scarred from decades of clandestine work. He moves with a
 predator's economy, never wasted motion, always aware of exits and
 threats. Despite his revolutionary role, he carries himself with the
@@ -27526,7 +27484,7 @@ threats. Despite his revolutionary role, he carries himself with the
 
 <div class="col-img">![44.1 Corvus Blackwood (Lord Shadows)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/villain-corvus-blackwood.jpg){width:325px}</div>
 
-unconscious grace of nobility---an inheritance he cannot shed no matter
+unconscious grace of nobility, an inheritance he cannot shed no matter
 how far he's fallen.
 
 When operating openly, he wears practical dark clothing with the
@@ -27542,7 +27500,7 @@ light, and a mask that conceals his features. When adopting his
 "scholar" persona for recruitment, he wears elegant robes and
 spectacles, appearing as a harmless academic.
 
-A tattoo of the Blackwood family sigil covers his entire back---the only
+A tattoo of the Blackwood family sigil covers his entire back, the only
 possession he retained from his childhood. The curse mark from Raven's
 Keep 
 
@@ -27578,14 +27536,14 @@ his heart.
 
 -   Speaks softly when most dangerous
 
--   Uses people's names frequently---a manipulation technique
+-   Uses people's names frequently, a manipulation technique
 
 **Philosophical Foundation:**
 
 Corvus believes the powerful inevitably abuse their authority, and that
 systems designed to deliver justice are merely tools of oppression
 dressed in legitimacy. He sees himself not as a villain but as an
-accountant---the bill for centuries of lies is due, and he intends to
+accountant, the bill for centuries of lies is due, and he intends to
 collect.
 
 **Defining Quotes:**
@@ -27610,7 +27568,7 @@ House Blackwood was one of the oldest noble houses in Thaldros, tracing
 their lineage to Lord Garrett Blackwood in 750 BW. They claimed descent
 from the First Men who settled Thaldros after the Worldrend, and their
 bloodline carried traces of fey ancestry that manifested as unusual
-magical talents---particularly an affinity for shadow magic and
+magical talents, particularly an affinity for shadow magic and
 divination.
 
 What few knew was the Blackwoods' sacred trust: for generations, they
@@ -27632,7 +27590,7 @@ manufactured. The Crown had discovered the existence of the Shadow Shard
 and wanted it. When Lord Aldric refused to surrender his family's
 sacred charge, false evidence was planted, witnesses were threatened or
 killed, and the Blackwoods were branded traitors conspiring to trigger a
-Second Worldrend---the very catastrophe they had spent centuries
+Second Worldrend, the very catastrophe they had spent centuries
 preventing.
 
 The war lasted three years. At the Battle of Raven's Keep in 1092 CR,
@@ -27644,7 +27602,7 @@ The family line was declared extinct.
 **The Hidden Survivors**
 
 But some Blackwoods escaped the purge. Distant relatives, minor
-branches, servants who had married into the family---they fled to remote
+branches, servants who had married into the family. They fled to remote
 regions, adopted new names, and lived in hiding. For over a century,
 these survivors maintained their secret identity, passing down the truth
 from parent to child.
@@ -27659,8 +27617,8 @@ hiding.
 They were wrong.
 
 In 1204 CR, Crown intelligence discovered the Ashford family's true
-identity. King Aldric III---whose eldest son Prince Aldric had recently
-committed a terrible crime involving the World-Splitter Components---saw
+identity. King Aldric III, whose eldest son Prince Aldric had recently
+committed a terrible crime involving the World-Splitter Components, saw
 an opportunity. By eliminating the surviving Blackwoods and blaming them
 for Prince Aldric's crimes, he could protect his son and tie up loose
 ends from a century ago.
@@ -27680,7 +27638,7 @@ branded into his soul.
 **The Lost Years (1204-1230 CR)**
 
 For twenty-six years, Corvus survived in the shadows of society. He was
-a beggar, a thief, a dock worker, a sellsword---whatever kept him alive
+a beggar, a thief, a dock worker, a sellsword, whatever kept him alive
 while he learned. He sought out those who could teach him the skills of
 
 {{pageNumber,auto}}
@@ -27711,8 +27669,8 @@ Through decades of investigation, Corvus pieced together the terrible
 truth:
 
 **The Goldshore Keepers:** A cadet branch of House Goldshore had
-secretly served as guardians of the Second Component---the Flame
-Heart---hidden in vaults beneath Kaer Thandros. For centuries, they
+secretly served as guardians of the Second Component, the Flame
+Heart, hidden in vaults beneath Kaer Thandros. For centuries, they
 fulfilled this trust alongside the Blackwoods.
 
 **Prince Aldric's Crime:** Around 1200 CR, Crown Prince Aldric (eldest
@@ -27731,17 +27689,17 @@ a convenient explanation for the Keeper deaths.
 **The Execution:** When Prince Aldric's instability threatened to
 expose everything, King Aldric III secretly had his own son killed in a
 staged "hunting accident." The middle son Marcus briefly inherited but
-died of fever as an infant-king. The current King Aldric IV---the third
-son---knows nothing of his family's crimes. He believes the official
+died of fever as an infant-king. The current King Aldric IV, the third
+son, knows nothing of his family's crimes. He believes the official
 history completely.
 
 **The Birth of Lord Shadows (1230 CR)**
 
 Armed with the truth and trained in deadly arts, Corvus began building
-his network. He adopted the title "Lord Shadows"---the shadow of House
-Blackwood, refusing to die---and sought out others wronged by the
+his network. He adopted the title "Lord Shadows", the shadow of House
+Blackwood, refusing to die, and sought out others wronged by the
 powerful. Former servants of destroyed houses, victims of noble
-injustice, survivors of Crown brutality---he offered them community,
+injustice, survivors of Crown brutality. He offered them community,
 purpose, and the promise of accountability for those who had escaped
 justice.
 
@@ -27756,7 +27714,7 @@ his family's innocence, documented the Crown's crimes, and located the
 World-Splitter Components.
 
 But time is running out. During his escape from Raven's Keep years ago,
-he triggered an ancient curse---Blackwood blood cannot leave the
+he triggered an ancient curse, Blackwood blood cannot leave the
 ancestral seat without permission from the living head of house. Since
 no such person exists to grant permission, the curse slowly kills any
 Blackwood who departs. The black veins spreading from his left hand
@@ -27764,7 +27722,7 @@ toward his heart mark his remaining time: perhaps five years at most.
 
 This desperation drives his timeline. What might have been decades of
 careful planning must now be compressed into years. The threat of the
-Second Worldrend---of actually reassembling the World-Splitter---is
+Second Worldrend, of actually reassembling the World-Splitter, is
 leverage, not genuine intent. Corvus doesn't want to destroy the world;
 he wants justice. But desperation can change even the most principled
 person.
@@ -27775,7 +27733,7 @@ person.
 **Primary Goal: Vindication**
 
 Above all else, Corvus wants the truth exposed. House Blackwood was
-innocent---guardians who died protecting the realm from the very
+innocent, guardians who died protecting the realm from the very
 artifact they were accused of seeking. He wants their name cleared,
 their memory honored, and history corrected.
 
@@ -27789,7 +27747,7 @@ generations, and the noble houses that profited from Blackwood lands.
 
 The Unbound believe House Blackwood's fate reveals fundamental
 corruption in the kingdom's power structures. They seek to tear down
-systems that allow such injustice---though members disagree on what
+systems that allow such injustice, though members disagree on what
 should replace them.
 
 **The World-Splitter Threat**
@@ -27799,13 +27757,13 @@ Worldrend if justice is denied.
 
 Whether this threat is genuine or
 leverage depends on his desperation level. He doesn't want to destroy
-the world---but if the world refuses him justice, how far will he go?
+the world, but if the world refuses him justice, how far will he go?
 
 **Hidden Motivation: Peace**
 
 Deep beneath his rage and determination, Corvus is exhausted. He has
 been fighting for forty-three years. Part of him simply wants to be
-done---to clear his family's name and finally rest. If he could achieve
+done—to clear his family's name and finally rest. If he could achieve
 vindication without violence, he would. But he no longer believes such a
 path exists.
 
@@ -27814,7 +27772,7 @@ path exists.
 
 **Recruitment**
 
-The Unbound target the desperate---those who have lost hope in
+The Unbound target the desperate. Those who have lost hope in
 legitimate systems, victims of injustice who see no other path to
 redress. Corvus approaches potential recruits using his "scholar"
 persona: a brilliant academic offering a better world. He speaks of
@@ -27832,7 +27790,7 @@ conspiracies that would shake kingdoms.
 \page
 
 Information is their greatest
-weapon---and their greatest currency.
+weapon, and their greatest currency.
 
 **Component Recovery**
 
@@ -27847,7 +27805,7 @@ Shard) and seeks the others.
 When diplomacy and negotiation fail, the Unbound resorts to violence.
 They have conducted assassinations, kidnappings, sabotage, and terrorist
 attacks against targets they consider complicit in injustice. These
-actions are surgical rather than indiscriminate---Corvus has rules his
+actions are surgical rather than indiscriminate, Corvus has rules his
 predecessors did not.
 
 #### The Dual Persona
@@ -27855,7 +27813,7 @@ predecessors did not.
 
 **Lord Shadows (True Identity)**
 
-As Lord Shadows, Corvus is a terrifying figure---a ghost who commands
+As Lord Shadows, Corvus is a terrifying figure, a ghost who commands
 loyalty through fear and respect. He wears a dark hooded cloak and mask,
 speaks in measured tones, and demonstrates lethal competence. This is
 his identity among the Unbound leadership and when dealing with enemies.
@@ -27866,7 +27824,7 @@ When recruiting potential allies, Corvus adopts a completely different
 persona. He wears scholar's robes, speaks of philosophy and history,
 and appears as a brilliant but harmless academic passionate about
 changing the world. This "recruiter persona" is how he appears
-throughout normal society---and how players in the Blood & Coin campaign
+throughout normal society, and how players in the Blood & Coin campaign
 first encounter him. The deadly assassin beneath the scholarly mask is a
 deliberate shock.
 
@@ -27878,7 +27836,7 @@ deliberate shock.
 -   **Marcus Blackwood (brother):** Corvus has a younger brother who
     survived the purge separately. Marcus now leads refugees in the
     western frontier near Crossroads under an assumed identity. He is
-    the "Lost Heir" mentioned in prophecy---and Corvus would die to
+    the "Lost Heir" mentioned in prophecy, and Corvus would die to
     protect him.
 
 -   **Parents (deceased):** Marcus and Elaine Blackwood haunt his
@@ -27888,7 +27846,7 @@ deliberate shock.
 
 -   **The Lich of Raven's Keep (Arcanus):** His most powerful
     lieutenant, bound to serve House Blackwood beyond death. Their
-    relationship is complex---Arcanus serves out of oath but has his own
+    relationship is complex, Arcanus serves out of oath but has his own
     agenda.
 
 -   **Captain Malthus Voidcaller:** Military commander of Unbound
@@ -27917,12 +27875,12 @@ deliberate shock.
     exchange for considerations. Their alliance is pragmatic, not
     ideological.
 
--   **Master Crimson (Shadow Syndicate):** An uneasy relationship---the
+-   **Master Crimson (Shadow Syndicate):** An uneasy relationship, the
     Syndicate is useful but has its own agenda.
 
 -   **King Aldric IV:** The current king is innocent of his family's
     crimes and genuinely tries to be a good ruler. Corvus struggles with
-    this---how do you punish a dynasty through someone who did nothing
+    this, how do you punish a dynasty through someone who did nothing
     wrong?
 
 #### Secrets
@@ -27934,13 +27892,13 @@ lair. The Void Fragment sank with Palace Port. The Stone Crown is
 embedded in the Crown of Thaldros itself.
 
 2\. **The Evidence Cache:** Corvus possesses documented proof of the
-Blackwood conspiracy---forged documents, false witness testimonies,
+Blackwood conspiracy, forged documents, false witness testimonies,
 records of the cover-up. This evidence would shake the kingdom but
 requires the right platform to present.
 
 3\. **The True Conspiracy:** He knows Prince Aldric murdered the
 Goldshore Keepers, King Aldric III covered it up, and the current king
-knows nothing. This creates a moral dilemma---punish the dynasty through
+knows nothing. This creates a moral dilemma, punish the dynasty through
 an innocent man?
 
 4\. **The Dying Curse:** The black veins spreading from his hand mark
@@ -27958,7 +27916,7 @@ another Blackwood heir\...
 
 7\. **The Possible Redemption:** Corvus knows that King Aldric IV, if
 presented with evidence of his family's crimes, might actually choose
-justice over dynasty. But he's afraid to hope---and afraid of what
+justice over dynasty. But he's afraid to hope, and afraid of what
 failure would mean.
 
 #### Story Potential
@@ -27983,7 +27941,7 @@ hardest ending to achieve but creates the best outcome.
 **Information Source:**
 
 His knowledge of conspiracies, ancient history, and noble house secrets
-makes him invaluable as an information source---if heroes can navigate
+makes him invaluable as an information source, if heroes can navigate
 his agenda.
 
 **Alliance Possibility:**
@@ -28021,22 +27979,22 @@ Sleeping Terror
 #### Physical Description
 
 
-Infernalix is gargantuan even by ancient dragon standards---his wingspan
+Infernalix is gargantuan even by ancient dragon standards, his wingspan
 could shelter a village, and each scale is the size of a warrior's
 shield. His coloration is deep crimson darkening to near-black along his
 spine and wing edges, with golden-orange undertones that glow when he
-stirs. His horns curve back like obsidian spears, and his eyes---when
-open---burn with intelligence and ancient malice.
+stirs. His horns curve back like obsidian spears, and his eyes, when
+open, burn with intelligence and ancient malice.
 
 Age has not diminished him. If anything, centuries of slumber have
 allowed his power to concentrate. His breath alone heats the caverns
 beneath the palace; the warmth that rises through the Royal Palace's
 lower levels comes from his presence. The faint sulfur smell in certain
-cellars is not geological---it is him.
+cellars is not geological. It is him.
 
 His hoard is legendary: gold coins by the millions, gems scattered like
 sand, ancient artifacts from fallen kingdoms, weapons, armor, art,
-jewelry---the accumulated wealth of two millennia of conquest and
+jewelry, the accumulated wealth of two millennia of conquest and
 tribute.
 
 #### Personality
@@ -28066,7 +28024,7 @@ simultaneously fascinated by their accomplishments.
 Infernalix sees himself as a force of nature rather than a villain.
 Dragons ruled before mortals crawled from caves; they will rule again
 when mortal civilizations crumble. His actions are not evil from his
-perspective---merely the natural order reasserting itself.
+perspective, merely the natural order reasserting itself.
 
 **Defining Quote:** *"I am eternal. I am patient. I am inevitable."*
 
@@ -28090,7 +28048,7 @@ patience. He began to plan.
 **The Dragon Crisis (1156-1201 CR)**
 
 In 1156 CR, Infernalix emerged from volcanic chambers and attacked Kaer
-Thandros. The assault was devastating---outer districts destroyed,
+Thandros. The assault was devastating, outer districts destroyed,
 hundreds killed, royal family members among the casualties.
 
 House Emberthorn lost half their holdings in a single day when they refused to
@@ -28103,7 +28061,7 @@ For forty-five years, Infernalix terrorized Thaldros. But this
 \page
 
 was never
-random destruction---he was searching for something. He had learned of
+random destruction. He was searching for something. He had learned of
 the World-Splitter Components and believed one could reunite the
 continents, restoring his domain.
 
@@ -28111,7 +28069,7 @@ continents, restoring his domain.
 
 In 1201 CR, King Thandris V made a secret bargain with Infernalix. The
 exact terms are lost, but the dragon withdrew to slumber in ancient
-caverns beneath Kaer Thandros itself. He found what he sought---the
+caverns beneath Kaer Thandros itself. He found what he sought, the
 Flame Heart, Second Component of the World-Splitter, hidden in nearby
 vaults. Now he sleeps, dreaming of the other pieces, waiting for his
 bargain to come due.
@@ -28123,7 +28081,7 @@ warms the palace's lower levels. Few know the dragon slumbers directly
 below the Royal Palace. Fewer still know what he found, what he dreams,
 or when he will wake.
 
-The bargain with House Thandris comes due in 1250 CR---just three years
+The bargain with House Thandris comes due in 1250 CR, just three years
 away. When it does, every Thandris will feel the call.
 
 #### Goals & Motivations
@@ -28131,7 +28089,7 @@ away. When it does, every Thandris will feel the call.
 
 **Primary Goal: Continental Reunification**
 
-Infernalix doesn't want to destroy civilization---he wants to reshape
+Infernalix doesn't want to destroy civilization. He wants to reshape
 the world by reuniting Thaldros and Aethoria, with himself as
 god-emperor of the restored supercontinent. He believes the
 World-Splitter Components can accomplish this.
@@ -28145,13 +28103,13 @@ while he sleeps.
 **Tertiary Goal: The Bargain's Fulfillment**
 
 The deal with Thandris V involves the royal bloodline. When it comes
-due, every Thandris will feel the call---an obligation written into
+due, every Thandris will feel the call, an obligation written into
 their very blood.
 
 **Hidden Agenda: Legacy**
 
 Ancient even by dragon standards, Infernalix thinks about what he will
-leave behind. His plan isn't just conquest---it's the establishment of
+leave behind. His plan isn't just conquest. It's the establishment of
 a new world order that will persist for millennia.
 
 #### Connections
@@ -28169,7 +28127,7 @@ a new world order that will persist for millennia.
     prematurely.
 
 -   **Kael Dragonsbane:** Master hunter who has studied Infernalix for
-    decades---the only mortal who might know his weaknesses.
+    decades, the only mortal who might know his weaknesses.
 
 #### Secrets
 
@@ -28182,7 +28140,7 @@ Second Component of the World-Splitter. He's been dreaming of the other
 pieces' locations.
 
 3\. **The True Bargain:** The deal with Thandris V wasn't just for
-peace---it was for the king's bloodline. When it comes due, every
+peace. It was for the king's bloodline. When it comes due, every
 Thandris will feel an irresistible compulsion.
 
 4\. **The Dream Network:** While sleeping, Infernalix has been
@@ -28190,7 +28148,7 @@ psychically influencing certain individuals, preparing agents for his
 awakening.
 
 5\. **The Vanishing Flame:** He possesses the ability to become
-invisible and intangible---how he "withdrew" in 1201 CR. Few know this
+invisible and intangible, how he "withdrew" in 1201 CR. Few know this
 power exists.
 
 ### 44.3 Arcanus the Undying (The Lich of Raven's Keep)
@@ -28229,7 +28187,7 @@ topped with a void-black crystal.
 \page
 
 Despite his undead nature, he moves with surprising grace, and his
-voice---though hollow---retains the cultured tones of the court wizard
+voice, though hollow, retains the cultured tones of the court wizard
 he once was.
 
 #### Background & History
@@ -28238,7 +28196,7 @@ he once was.
 Three centuries ago, Magistar Corvellian served as Court Wizard to House
 Blackwood during their glory days. A brilliant wizard obsessed with
 immortality, he performed the ritual to become a lich with the Blackwood
-lord's blessing---on the condition that he serve the house eternally.
+lord's blessing, on the condition that he serve the house eternally.
 
 When House Blackwood fell in 1092 CR, Arcanus survived in the deepest
 vaults of Raven's Keep. His phylactery was hidden in a pocket dimension
@@ -28248,7 +28206,7 @@ secrets and prisoner of his oath.
 
 When Corvus Blackwood discovered Raven's Keep and proved his bloodline,
 Arcanus' oath compelled him to serve. The relationship is
-complex---Arcanus is bound to obey but has his own agenda, and his
+complex, Arcanus is bound to obey but has his own agenda, and his
 centuries of experience often clash with Corvus' more urgent timeline.
 
 **Dark Secret:** Arcanus has spent three centuries studying soul
@@ -28276,7 +28234,7 @@ simply take what he needs when the time comes.
 curse finally kills him.
 
 2\. **The Hidden Archives:** Possesses knowledge of pre-Worldrend magic
-that could change everything---if he chose to share it.
+that could change everything, if he chose to share it.
 
 3\. **The True Loyalty:** Despite his oath, Arcanus serves his own
 immortality first. He will betray anyone to preserve his existence.
@@ -28303,14 +28261,14 @@ immortality first. He will betray anyone to preserve his existence.
 Malthus is a scarred veteran in his mid-forties with the bearing of
 someone who has spent his life at war. His face bears the marks of
 countless battles, and his eyes carry the weight of every soldier he's
-commanded---and lost. He wears consecrated plate armor of excellent
+commanded, and lost. He wears consecrated plate armor of excellent
 quality, clearly taken from a previous life of legitimate service.
 
 #### Background & History
 
 
 Malthus was once a decorated officer in the Thaldros army, serving with
-distinction for two decades. His family---wife and two children---lived
+distinction for two decades. His family, wife and two children, lived
 in a border village that was sacrificed to military strategy during a
 conflict with Aethoria. When he protested, he was silenced. When he
 sought justice, he was discharged. When he went public, his family was
@@ -28322,7 +28280,7 @@ He knows the Crown ordered the attack. He knows the generals who
 abandoned the village are now lords. He knows the system will never hold
 them accountable.
 
-Lord Shadows offered him something better than justice---he offered
+Lord Shadows offered him something better than justice—he offered
 vengeance with purpose. Now Malthus commands the Unbound's military
 arm, bringing tactical brilliance and genuine conviction to their cause.
 
@@ -28446,7 +28404,7 @@ misuse them. She doesn't know about Lord Shadows' true goals or the
 plan to wake Dragon Infernalix. In her mind, she's preventing
 catastrophe, not enabling it.
 
-**The Dark Past:** She was once a necromancer herself---converted after
+**The Dark Past:** She was once a necromancer herself, converted after
 her experiments killed her parents. Her younger sister was turned into a
 vampire that Mortua has been unable to destroy. This guilt drove her to
 The Unbound's "proactive" approach.
@@ -28502,24 +28460,24 @@ weapon and symbol of authority. His eyes glow with centuries of hatred
 and ambition.
 
 Unlike many liches who preserve their physical form through magic, the
-Dread King wears his decay openly---a reminder that death is his domain.
+Dread King wears his decay openly, a reminder that death is his domain.
 \column
 #### Background & History
 
 
 Over a thousand years ago, during the chaos following the Worldrend, an
 ambitious king in the far north attempted to achieve immortality through
-forbidden necromancy. He succeeded---becoming a lich. His kingdom fell,
+forbidden necromancy. He succeeded, becoming a lich. His kingdom fell,
 its citizens converted to undead servants. For centuries, he remained
 isolated in the frozen wastes, building his forces, refining his magic,
 and preparing.
 
-Now, the Dread King moves south. His Dreadhost---an army of over 10,000
-undead commanded by six Necromancer Lords---advances steadily,
+Now, the Dread King moves south. His Dreadhost, an army of over 10,000
+undead commanded by six Necromancer Lords, advances steadily,
 converting every settlement they encounter. Villages become new
 soldiers. The dead serve purpose.
 
-**The Phylactery:** The Dread King's crown IS his phylactery---he wears
+**The Phylactery:** The Dread King's crown IS his phylactery. He wears
 his own soul-prison, ensuring it's always with him. To truly destroy
 him, the crown must be destroyed: either by dealing massive damage
 (resistant to all but radiant and force), successful disintegration
@@ -28529,7 +28487,7 @@ magic, or casting it into volcanic fire.
 
 
 The Dread King seeks conquest and conversion. He views the living as raw
-material---soldiers waiting to be recruited. His Dreadhost grows with
+material, soldiers waiting to be recruited. His Dreadhost grows with
 every battle because the enemy's dead become his reinforcements.
 
 His ultimate vision: a world of perfect order under his eternal rule,
@@ -28576,7 +28534,7 @@ Criminal mastermind behind approximately forty percent of cross-continental mari
 
 **Race:** Human (current holder) | **Age:** Unknown (title has existed 40+ years) | **Location:** Unknown (rumored to be in the Free Cities)
 
-No one knows who Master Crimson really is---the name has been used for over forty years, possibly by multiple individuals. Controls the Shadow Syndicate's operations across central Thaldros through a network of regional lieutenants. The Syndicate operates as a criminal business providing smuggling, theft, assassination, information, and protection services.
+No one knows who Master Crimson really is, the name has been used for over forty years, possibly by multiple individuals. Controls the Shadow Syndicate's operations across central Thaldros through a network of regional lieutenants. The Syndicate operates as a criminal business providing smuggling, theft, assassination, information, and protection services.
 
 ### 44.9 Lady Morgana Blackwater
 
@@ -28609,7 +28567,7 @@ gloom of Marshaven. Her features are sharp, and her eyes miss nothing.
 
 
 Born to a minor noble family in the Thornmire swamps, Morgana married
-into the Blackwater name---the oldest family in Marshaven. Her husband
+into the Blackwater name, the oldest family in Marshaven. Her husband
 died three years into the marriage under mysterious circumstances.
 She's ruled the city ever since.
 
@@ -28619,18 +28577,18 @@ Morgana decided to change that.
 
 **The Undead Army:** Using forbidden texts found in swamp ruins, she's
 learned to create undead that retain their intelligence and free
-will---not shambling corpses, but thinking soldiers. She currently
+will, not shambling corpses, but thinking soldiers. She currently
 commands approximately two hundred such servants, hidden in the swamps,
 with the number growing. Her plan: build an army where no one looks,
 then declare independence.
 
 **The Dragon's Interest:** Unknown to Morgana, the ancient black dragon
-Morveth has been secretly encouraging her experiments---and waiting for
+Morveth has been secretly encouraging her experiments, and waiting for
 them to cause maximum suffering when they inevitably escape control.
 
 #### Goals
 
-Independence for Marshaven---by any means necessary. She sees herself as
+Independence for Marshaven, by any means necessary. She sees herself as
 a liberator, not a villain, believing the ends justify the means. The
 continental powers have abandoned her people; she will give them the
 strength to survive alone.
@@ -28922,7 +28880,7 @@ identity, or one immortal being
 dangerous information
 
 3\. **The Weakness:** The magic erasing their identity requires periodic
-"renewal---" they're vulnerable during these moments
+"renewal, " they're vulnerable during these moments
 
 ### 44.15 The Ash Prophet
 
@@ -29612,13 +29570,13 @@ publish
 
 A rotund, cheerful halfling woman who has run the Goodbarrel Inn for
 thirty years. Her establishment serves as neutral ground where deals get
-made---she hears everything and shares nothing. Former adventurer who
+made. She hears everything and shares nothing. Former adventurer who
 retired after losing her party to a dragon. Keeps a loaded crossbow
 under the bar and knows how to use it.
 
 Marta's inn attracts merchants, adventurers, and shadier characters
 alike. She treats everyone the same: good food, fair prices, and
-absolute discretion. The only rule is "no fighting inside"---violators
+absolute discretion. The only rule is "no fighting inside", violators
 are banned for life, and in Goldreach, that's a serious social penalty.
 
 **Secret:** Marta still has contacts from her adventuring days,
@@ -29666,19 +29624,19 @@ anyone what they found.
 **Age:** 42 (human)
 
 Born to a blacksmith and a seamstress, Gregor rose through the Watch
-ranks through competence and stubborn honesty. He cannot be bribed---not
+ranks through competence and stubborn honesty. He cannot be bribed, not
 because he's rich, but because he genuinely believes in the law. Made
 Watch Captain at 38 after his predecessor was murdered by the Syndicate.
 He swore to clean up Crossvale and has been trying ever since.
 
 Gregor commands 80 City Watch officers and reports to Burgher-Master
-Wilhelm Von Handel. He has an informant---a street urchin named
-Pip---who reports suspicious activity.
+Wilhelm Von Handel. He has an informant, a street urchin named
+Pip, who reports suspicious activity.
 
-**Secret:** Gregor's older brother Marcus is "The Iron Hand"---a
+**Secret:** Gregor's older brother Marcus is "The Iron Hand", a
 Syndicate enforcer who handles their most violent problems. The brothers
 haven't spoken in years. Gregor doesn't know his brother's criminal
-identity. If he ever discovered the truth, it would break him---and
+identity. If he ever discovered the truth, it would break him, and
 he'd still make the arrest.
 \column
 ### 45.4 Harbor Master Tobias Saltwind
@@ -29708,8 +29666,8 @@ or the elements.
 
 Hassan employs a network of scouts, guards, and desert guides. He treats
 his people well and they're fiercely loyal. Merchants pay extra to
-travel with his caravans because the alternative---cheaper
-operators---often end in disaster.
+travel with his caravans because the alternative, cheaper
+operators, often end in disaster.
 
 **Secret:** Hassan has an arrangement with several bandit tribes. He
 pays them tribute, and they attack his competitors instead. It's pure
@@ -29731,7 +29689,7 @@ to make deals with anyone who can help Crossvale prosper.
 
 Wilhelm maintains a delicate balance between the noble houses, merchant
 guilds, and criminal elements that all want influence in Crossvale.
-He's neither corrupt nor honest---he's practical, doing whatever keeps
+He's neither corrupt nor honest. He's practical, doing whatever keeps
 the city running and the coin flowing.
 
 **Secret:** Wilhelm knows the Syndicate operates in his city. He's made
@@ -29751,7 +29709,7 @@ too hard for them. It keeps the peace, but it weighs on him.
 
 **Age:** 39 (human)
 
-A nondescript man with forgettable features---perfect for his
+A nondescript man with forgettable features, perfect for his
 profession. Marcus can find information on almost any topic within a few
 days. He knows someone in every major organization and maintains strict
 neutrality, selling information to anyone who can pay.
@@ -29759,7 +29717,7 @@ neutrality, selling information to anyone who can pay.
 Marcus charges based on the difficulty and danger of obtaining
 information. Simple facts are cheap; secrets that could get people
 killed are expensive. He never reveals his sources, and his information
-is always accurate---his reputation depends on it.
+is always accurate, his reputation depends on it.
 
 **Secret:** Marcus maintains detailed files on his clients as insurance.
 If anything happens to him, the files go to the most damaging possible
@@ -29857,7 +29815,7 @@ in Sundara.
 
 **Secret:** Zara's gift for glasswork emerged after a fever nearly
 killed her as a child. She sometimes sees visions in molten
-glass---prophecies she's learned to encode in her artwork for those who
+glass, prophecies she's learned to encode in her artwork for those who
 know how to read them.
 
 {{pageNumber,auto}}
@@ -29874,11 +29832,11 @@ know how to read them.
 **Age:** 45 (human)
 
 A brutal enforcer who handles the Syndicate's most violent problems.
-The Iron Hand earned his name through his signature method---crushing
+The Iron Hand earned his name through his signature method, crushing
 hands in a vice. He's feared throughout the underworld as someone who
 gets results without questions.
 \column
-What no one knows is that the Iron Hand is Marcus Ironhand---brother to
+What no one knows is that the Iron Hand is Marcus Ironhand, brother to
 Watch Captain Gregor. They haven't spoken in years, and Marcus has
 carefully hidden his identity. He tells himself it's to protect Gregor,
 but really, some small part of him is still ashamed.
@@ -39120,7 +39078,7 @@ tricked every trickster. When there were no more roads to walk, he
 became the road itself.
 
 **Sera:** A healer who could cure any wound except her own. When she
-finally healed herself---forgiving an ancient wrong---mercy itself took
+finally healed herself, forgiving an ancient wrong, mercy itself took
 mortal form no more.
 
 **Mordain:** A soldier who guarded the gates between life and death. He
@@ -39128,7 +39086,7 @@ stood so long that the boundary became his home and he became its
 eternal sentinel.
 
 **Sylvara:** Some say she was a druid who became one with the forest.
-Others say she was never mortal at all---merely the wild given voice.
+Others say she was never mortal at all, merely the wild given voice.
 The truth is known only to the oldest trees.
 
 ### 59.2 Tales of Heroes Past
@@ -39152,7 +39110,7 @@ of 1156 CR. His name was erased from history as part of the bargain.
 
 
 **The Hubris of Mages:** Every culture tells variations of this
-tale---wizards who reached too far and caused the Worldrend. The
+tale, wizards who reached too far and caused the Worldrend. The
 specific details vary, but the warning is consistent: there are powers
 mortals should not grasp.
 
@@ -39168,13 +39126,13 @@ inhabited by the darkness that ate him.
 
 
 **The Sundering:** Every culture has a story of why the world was
-broken. Most agree on what---the Worldrend---but disagree on why. Some
+broken. Most agree on what, the Worldrend, but disagree on why. Some
 blame hubris, others divine punishment, others enemy action.
 
 **The First Fire:** How mortals gained fire from Ignar, the First Flame.
 Different versions credit different heroes with the theft or gift.
 
-**The Pact of Seasons:** Why the seasons change---usually involving a
+**The Pact of Seasons:** Why the seasons change, usually involving a
 bargain between Sylvara and other powers.
 
 ### 59.5 Prophecies and Foretelling
@@ -39185,7 +39143,7 @@ Starweaver. According to rumor, it predicts either the salvation or
 destruction of Tirvandor. The Archmage will not speak of its contents.
 
 **The Dream of Seven Flames:** A recurring vision reported by seers
-across both continents---seven flames burning, then six, then five,
+across both continents, seven flames burning, then six, then five,
 counting down to either ending or beginning.
 
 **The Return of the High King:** A prophecy suggesting that one day, the
@@ -39234,7 +39192,7 @@ warfare and something darker gained during the Demon Tide.
 
 
 A weathered warrior bearing the marks of forty years of holy warfare.
-His body is a testament to survival---scarred, powerful, and unyielding
+His body is a testament to survival, scarred, powerful, and unyielding
 despite his age. Eyes that have seen the Abyss itself and never fully
 recovered. Wears the consecrated armor of the Iron Council's commander,
 blessed against demonic corruption.
@@ -39286,7 +39244,7 @@ matched only by his absolute faith.
 His defining moment came during the **Demon Tide of 1198 CR**, when a
 portal to the Abyss opened in the northern mountains. Gareth led the
 defense for three months, suffering wounds that should have killed him,
-before finally sealing the portal. He emerged a hero---and changed.
+before finally sealing the portal. He emerged a hero, and changed.
 
 The demons had shown him things during those months. Whispered truths
 that shook his simple faith to its foundations. He survived, but
@@ -39295,7 +39253,7 @@ something of what he faced followed him back.
 Now he leads the Iron Council, the military arm of the Lightbringers. He
 commands with absolute authority, his forces the most disciplined holy
 warriors in Thaldros. But those who knew him before the Demon Tide see
-the change---the harder edge, the quicker judgment, the mercy that once
+the change—the harder edge, the quicker judgment, the mercy that once
 defined him now conspicuously absent.
 
 #### Connections
@@ -39318,13 +39276,13 @@ defined him now conspicuously absent.
 
 
 1\. **The Demon Fragment:** A piece of demonic essence lodged in his
-soul during the Demon Tide. It grants him power---enhanced endurance,
-resistance to fear, supernatural awareness of evil---but it slowly
+soul during the Demon Tide. It grants him power, enhanced endurance,
+resistance to fear, supernatural awareness of evil, but it slowly
 corrupts. He can feel it working, changing him.
 
 2\. **The Mercy Killings:** Has executed prisoners who would have been
 shown mercy under normal circumstances. He justified it as
-necessity---some evils cannot be allowed to spread. But each execution
+necessity, some evils cannot be allowed to spread. But each execution
 takes something from him.
 
 3\. **The Doubt:** No longer certain his god exists. The demons showed
@@ -39333,7 +39291,7 @@ fights on anyway because the evil definitely exists, even if good might
 not.
 
 4\. **The Successor Concern:** Fears what will happen to the Iron
-Council after he dies---or falls to the demon within. None of his
+Council after he dies, or falls to the demon within. None of his
 potential successors understand what they would face.
 
 5\. **The Sealed Portal:** The Demon Tide portal wasn't fully sealed.
@@ -39388,7 +39346,7 @@ been defeated in a major engagement.
 Weather-beaten and imposing (6'2", 210 lbs. of muscle and scars).
 Sun-darkened skin speaks to a life spent on deck under harsh conditions.
 Short salt-and-pepper hair, practical and maintained. Piercing blue eyes
-like the sea itself---calm on the surface but with depths that can turn
+like the sea itself, calm on the surface but with depths that can turn
 deadly.
 
 Multiple scars mark his body: sword cuts from boarding actions, burns
@@ -39402,7 +39360,7 @@ career sailor, never quite still even on solid ground.
 
 <div class="col-img">![60.2 Admiral Theron Stormcrest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-admiral-theron-stormcrest.jpg){width:260px}</div>
 
-Usually wears a modified naval uniform---practical enough for combat but
+Usually wears a modified naval uniform, practical enough for combat but
 clearly marking his rank. Smells of saltwater and gunpowder.
 
 
@@ -39417,7 +39375,7 @@ clearly marking his rank. Smells of saltwater and gunpowder.
 
 -   Direct and honest, dislikes deception and political games.
 
--   Protective of his fleet and crew---they're his true family.
+-   Protective of his fleet and crew. They're his true family.
 
 **Core Values:**
 
@@ -39440,37 +39398,37 @@ clearly marking his rank. Smells of saltwater and gunpowder.
 
 **Flaws:**
 
--   Rigid---struggles with flexibility and improvisation.
+-   Rigid, struggles with flexibility and improvisation.
 
--   Judgmental---quick to categorize people as competent or incompetent.
+-   Judgmental, quick to categorize people as competent or incompetent.
 
 -   Haunted by those lost at sea under his command.
 
--   Workaholic---neglects personal relationships for duty.
+-   Workaholic, neglects personal relationships for duty.
 
 #### Background & History
 
 
 Born in 1199 CR to House Stormcrest, Theron went to sea at age ten.
 Cabin boy became sailor became officer became captain became admiral.
-He's spent thirty-eight years at sea---more time on water than on land.
+He's spent thirty-eight years at sea, more time on water than on land.
 
 At twenty-five, he captained his first ship. At thirty, he won his first
 major naval engagement against pirates. At thirty-five, he commanded a
-squadron. At forty, he became Admiral of the Stormcrest fleet---the
+squadron. At forty, he became Admiral of the Stormcrest fleet, the
 youngest ever to hold that position.
 
 For eight years, he's commanded the largest private fleet in Tirvandor.
 Officially, they protect Stormcrest trade interests. Unofficially,
 they're a naval power that rivals kingdom fleets. He's fought pirates,
 foreign raiders, sea monsters, and once, a kraken. His tactical
-brilliance is matched by personal courage---he leads from the front
+brilliance is matched by personal courage. He leads from the front
 during boarding actions.
 
 His crews worship him. But success breeds enemies. He's discovered
 smuggling operations that may be tied to House Goldshore. He's
 intercepted suspicious cargo. He suspects someone powerful is using
-trade routes for illegal purposes, but investigation is difficult---he
+trade routes for illegal purposes, but investigation is difficult. He
 can't be everywhere.
 
 He's also concerned about his sister Tempest. Her weather magic is
@@ -39511,18 +39469,18 @@ Goldshore is slippery. If exposed prematurely, evidence disappears.
 2\. **The Mutiny:** Fifteen years ago, his first major command nearly
 ended in mutiny. He made a tactical decision that seemed to sacrifice
 crew to save ship. The mutiny was stopped, ringleaders executed. He was
-right tactically, but it haunts him---were his orders truly justified?
+right tactically, but it haunts him, were his orders truly justified?
 
 3\. **The Sister's Power:** Tempest's weather magic is growing
 stronger and more unstable. Theron has documented incidents where she
-lost control---ships nearly destroyed by sudden storms when she was
+lost control, ships nearly destroyed by sudden storms when she was
 angry. He's considering whether she's too dangerous to remain with the
 fleet.
 
 4\. **The Foreign Contact:** Has been approached by a foreign naval
 power interested in hiring the Stormcrest fleet. The pay would be
 incredible, but it would mean operating against Tirvandor interests.
-He's tempted---not for the money but for the challenge. He's kept
+He's tempted, not for the money but for the challenge. He's kept
 negotiations secret.
 
 {{pageNumber,auto}}
@@ -39536,7 +39494,7 @@ threats; he protects them from surface vessels. If other nobles
 learned
 he's allied with "fish people," it would be scandal.
 
-6\. **The Personal Loss:** Theron has a daughter he's never met---born
+6\. **The Personal Loss:** Theron has a daughter he's never met, born
 of an affair decades ago. He pays support through intermediaries but has
 never acknowledged her. She's now a sailor on a merchant vessel,
 unaware of her heritage. He watches her career from a distance.
@@ -39547,7 +39505,7 @@ unaware of her heritage. He watches her career from a distance.
 -   Hires adventurers to infiltrate a suspected smuggling operation on
     ships he can't officially board.
 
--   New evidence surfaces about the old mutiny---suggesting it was
+-   New evidence surfaces about the old mutiny, suggesting it was
     orchestrated by outside forces.
 
 -   Tempest loses control during a storm, endangering multiple ships.
@@ -39594,7 +39552,7 @@ diplomatic nuance with equal skill.
 
 Kael learned from his family's history that the north requires both
 strength and wisdom. His grandfather fought frost giants; his father
-negotiated with them. Kael mastered both approaches---knowing when to
+negotiated with them. Kael mastered both approaches, knowing when to
 draw steel and when to extend an open hand.
 
 **Defining Traits:**
@@ -39616,7 +39574,7 @@ rose to command by thirty-five through competence and determination.
 
 During a brutal winter campaign that killed hundreds, Kael was captured
 by frost giants. Instead of executing him, their
-king---Hrothgar---wanted to talk. That conversation changed everything.
+king, Hrothgar, wanted to talk. That conversation changed everything.
 
 Kael realized the giants weren't invading for conquest or cruelty. They
 were desperate. Their hunting grounds were dying. They raided because
@@ -39624,7 +39582,7 @@ they were starving. Against all protocol, Kael negotiated a secret
 agreement: controlled hunting rights in exchange for peace.
 
 The raids stopped. His superiors think he's a tactical genius who
-crushed the giant threat. The truth would end his career---and probably
+crushed the giant threat. The truth would end his career, and probably
 his life.
 
 #### Connections
@@ -39663,7 +39621,7 @@ has his own, separate pact with the giants at a higher level. Both
 commanders think they're alone in their deception.
 
 4\. **The Growing Threat:** Something is disturbing the giants'
-territory---something they fear. They're getting nervous, and nervous
+territory, something they fear. They're getting nervous, and nervous
 giants might break the pact.
 
 5\. **The Succession Question:** Giant King Hrothgar is aging. His heir
@@ -39709,7 +39667,7 @@ survivor's guilt to become the perfect soldier.
 
 Athletic and battle-hardened, with the lean build of someone who
 survives on the frontier. Bears old wounds that never healed
-properly---injuries she hides to remain on active duty. Eyes that have
+properly, injuries she hides to remain on active duty. Eyes that have
 seen too much death and expect to see more.
 \column
 #### Background & History
@@ -39725,7 +39683,7 @@ only survivor, dragging herself back through the snow with three broken
 ribs and a shattered leg. The healers saved her body. Nothing saved her
 mind.
 
-Now she trains obsessively---because she's possessed by guilt. Every
+Now she trains obsessively, because she's possessed by guilt. Every
 morning starts before dawn. Every night ends with weapons practice.
 She's made herself into the perfect soldier because she refuses to be
 the reason anyone else dies.
@@ -39754,12 +39712,12 @@ dreams. Has considered taking her own life. Training is what keeps her
 alive.
 
 2\. **The Reckless Courage:** Takes the most dangerous assignments
-hoping to prove herself---or die trying. She doesn't know which outcome
+hoping to prove herself, or die trying. She doesn't know which outcome
 she wants.
 
 3\. **The Memory Gap:** Doesn't remember how she escaped the ambush.
 Just woke up in the snow, walking. Sometimes wonders if she really
-survived---or if something else is wearing her body.
+survived, or if something else is wearing her body.
 
 4\. **The Hidden Injury:** Old wounds never healed right. She's in
 constant pain but hides it because she'd be removed from field duty.
@@ -39808,12 +39766,12 @@ before he could read
 books. His small size and light feet made him
 perfect for scouting dangerous territory.
 
-Enlisted in the Ironhold scouts at twenty-five---unusual for a halfling.
+Enlisted in the Ironhold scouts at twenty-five, unusual for a halfling.
 Faced prejudice but proved himself by surviving missions that killed
 larger soldiers. His ability to move unseen through giant territory
 saved dozens of lives. Promoted to Scout Captain at forty.
 
-Six months ago, he found something during a routine patrol---tracks that
+Six months ago, he found something during a routine patrol, tracks that
 shouldn't exist. Something large, ancient, and moving through areas it
 never used before. He's been tracking it obsessively since, going on
 "solo patrols" that take him deeper into dangerous territory. He
@@ -39837,7 +39795,7 @@ believe him.
 
 
 1\. **The Ancient Tracks:** He's tracking what he believes is an
-ancient dragon---not Infernalix, but something older. The tracks suggest
+ancient dragon, not Infernalix, but something older. The tracks suggest
 it's been dormant for centuries and recently awakened.
 
 2\. **The Hermit's Warning:** The mountain hermit told him some things
@@ -39883,7 +39841,7 @@ mountain's moods as easily as written text.
 Born in Ashgate to a family that has served as volcano wardens for eight
 generations. Learned to read the mountain's moods before he could walk.
 His grandmother used to say the volcano was their family's oldest
-child---temperamental but not malicious.
+child, temperamental but not malicious.
 
 Rose through the Ashwarden ranks by being right when everyone else was
 wrong. Predicted the 1220 CR eruption six months early, allowing full
@@ -39898,7 +39856,7 @@ signal imminent
 {{footnote Chapter 60: Military Leaders}}
 \page
 
-eruption---something much larger, much slower. He's
+eruption, something much larger, much slower. He's
 done the calculations. The volcano is building toward an eruption that
 could destroy everything within fifty miles. It won't happen for
 decades, but when it does, nothing will stop it.
@@ -39916,7 +39874,7 @@ decades, but when it does, nothing will stop it.
 -   **Family:** Wife and three children in Ashgate (part of why he's so
     careful).
 
--   **The Mountain:** The volcano itself---his lifelong study and
+-   **The Mountain:** The volcano itself, his lifelong study and
     greatest threat.
 
 #### Secrets
@@ -39927,7 +39885,7 @@ catastrophic eruption. Hasn't told anyone in authority because they
 ordered him to stay silent.
 
 2\. **The Secret Plans:** Developing evacuation routes that could save
-most of the population---if there's enough warning.
+most of the population, if there's enough warning.
 
 3\. **The Acceleration Risk:** Certain activities could trigger early
 eruption. He's been quietly blocking mining operations and construction
@@ -39975,8 +39933,8 @@ single-handedly tracked and killed a troll chieftain.
 
 The Ironspine Rangers patrol the mountains' lower slopes and forest
 boundaries, protecting travelers and settlements from creatures that
-emerge from the peaks. It's unglamorous work---more about prevention
-and patrol than heroic battles---but Thalia has shaped them into the
+emerge from the peaks. It's unglamorous work, more about prevention
+and patrol than heroic battles, but Thalia has shaped them into the
 most effective wilderness force in Thaldros.
 
 Her command style is quiet competence; she leads by example and rarely
@@ -40007,12 +39965,12 @@ someone on a mission they can't handle.
 
 
 1\. **The Monster Migration:** Has noticed monsters moving downward from
-the peaks---fleeing something above. Whatever is driving them down is
+the peaks, fleeing something above. Whatever is driving them down is
 worse than what's coming down.
 
 2\. **The Lost Patrol:** A patrol disappeared three months ago. She's
 been searching secretly, fearing the worst. No bodies, no tracks, no
-signs of struggle---just gone.
+signs of struggle—just gone.
 
 3\. **The Ranger Corruption:** Suspects one of her rangers is feeding
 information to bandits. Building a case carefully before she acts.
@@ -40021,7 +39979,7 @@ information to bandits. Building a case carefully before she acts.
 could have prevented. Still blames herself decades later.
 
 5\. **The Mountain Summit:** Has seen something at the highest
-peak---lights, movement. Hasn't reported it yet because she doesn't
+peak: lights, movement. Hasn't reported it yet because she doesn't
 know what she saw.
 
 {{pageNumber,auto}}
@@ -40065,13 +40023,13 @@ and he intends to pass it on with his family's honor intact.
 
 He took command of Stoneshield Keep at forty after distinguishing
 himself against orc raiders. For twenty years, he's maintained the most
-boring command in the Ironspines---which suits him perfectly. Boring
+boring command in the Ironspines, which suits him perfectly. Boring
 means no deaths, no disasters, no families receiving terrible news.
 He's made boring into an art form.
 
 But the mountains are getting less boring. Patrols are finding tracks
 they can't identify, scouts are reporting lights in abandoned mines,
-and something killed a giant last month---something bigger than a giant.
+and something killed a giant last month, something bigger than a giant.
 Torvald is preparing for war while hoping desperately it never comes.
 \column
 #### Connections
@@ -40091,7 +40049,7 @@ Torvald is preparing for war while hoping desperately it never comes.
 
 
 1\. **The Ancient Map:** Found an old map showing tunnels beneath his
-keep. Something is marked in the deepest level---and whatever it is, it
+keep. Something is marked in the deepest level, and whatever it is, it
 predates the current fortress.
 
 2\. **The Garrison Weakness:** His forces are spread too thin. One
@@ -40099,7 +40057,7 @@ determined attack could overwhelm them, and reinforcements are days
 away.
 
 3\. **The Family Shame:** His grandfather didn't die in battle
-defending the pass---he abandoned his post. Torvald found the truth in
+defending the pass. He abandoned his post. Torvald found the truth in
 old records and has told no one.
 
 4\. **The Enemy Approach:** Has evidence that whatever's in the mines
@@ -40140,7 +40098,7 @@ shine with conviction. Wears gleaming silvered plate armor that's
 clearly well-maintained.
 
 A faint golden radiance surrounds her, especially noticeable in dim
-light---a sign of her divine connection. The radiance increases when she
+light, a sign of her divine connection. The radiance increases when she
 uses her abilities. "Dawnbreaker," her holy sword, is always at her
 side, the blade catching light even in shadow.
 
@@ -40150,7 +40108,7 @@ as well as flesh and serves as a symbol of sacrifice in the line of
 duty.
 
 Small scar on her chin from a training accident. Stands straight with
-natural authority---clearly someone accustomed to being obeyed.
+natural authority, clearly someone accustomed to being obeyed.
 
 
 #### Personality
@@ -40176,7 +40134,7 @@ natural authority---clearly someone accustomed to being obeyed.
 
 -   *"Even the fallen can rise again if they choose to."*.
 
--   *"I serve something greater than myself---that's what gives life
+-   *"I serve something greater than myself. That's what gives life
     meaning."*.
 
 **Bonds:**
@@ -40211,13 +40169,13 @@ privilege but felt called to service. She joined the Lightbringers at
 eighteen, one of the few women in the order at the time, and proved
 herself through sheer determination and undeniable faith.
 
-Her defining moment came during the **Tomb of Shadows Expedition**---a
+Her defining moment came during the **Tomb of Shadows Expedition**, a
 disaster that killed twenty-three Lightbringers and nearly released an
 imprisoned lich. Thalia was one of seven survivors and the one who
 ultimately sealed the tomb, though it cost her left arm below the elbow.
 
 She now commands a company of sixty Lightbringers. At forty-two, she's
-considered a rising star in the order---young enough to have decades of
+considered a rising star in the order, young enough to have decades of
 service ahead, experienced enough to have earned respect. Some whisper
 she might eventually challenge for the Iron Council leadership, though
 she claims no such ambition.
@@ -40302,13 +40260,13 @@ that miss nothing.
 
 
 Fair, tough, intelligent. Commands the City Watch with skill and has
-solved multiple high-profile cases. Incorruptible---the Shadow Syndicate
+solved multiple high-profile cases. Incorruptible, the Shadow Syndicate
 has tried to bribe her dozens of times. She arrests the messengers.
 
 #### Background & History
 
 
-Born in Silverpine's lower district to a mixed-race family---human
+Born in Silverpine's lower district to a mixed-race family, human
 mother, elven father. Her father Marcus worked for the Shadow Syndicate
 as a fence, providing the family a comfortable but morally compromised
 living.
@@ -40317,12 +40275,12 @@ Lyra joined the City Watch at twenty, believing she could do good from
 within the system. Rose quickly through the ranks, her mixed heritage
 giving her unique perspective on both human and elven concerns.
 
-At thirty-two, she uncovered a smuggling ring---and discovered her
+At thirty-two, she uncovered a smuggling ring, and discovered her
 father at its center. She arrested him personally. He died of fever in
 prison two years later, never speaking to her again. Her mother hasn't
 forgiven her either.
 
-But the arrest---and her willingness to sacrifice family for duty---made
+But the arrest, and her willingness to sacrifice family for duty, made
 her legend. Promoted to Captain at forty, she now commands the City
 Watch with the same unbending commitment to law that cost her
 everything.
@@ -40346,7 +40304,7 @@ everything.
 
 
 1\. **The Father's Legacy:** Found her father's hidden records after
-his death. The Syndicate doesn't know she has them---details of
+his death. The Syndicate doesn't know she has them, details of
 operations, contacts, safehouses.
 
 2\. **The Mother's Blame:** Her mother still lives in Silverpine. They
@@ -40400,13 +40358,13 @@ She was practically raised on boats, learning navigation before she
 could read.
 
 Married young to another patrol officer, Darian. They served together on
-the same ship---the perfect partnership. Then pirates from the Fractured
-Coast raided their patrol---rare but devastating. Darian died holding
+the same ship, the perfect partnership. Then pirates from the Fractured
+Coast raided their patrol, rare but devastating. Darian died holding
 the deck so the crew could escape.
 
 Mira took command of the survivors, hunted the pirates for three months,
 and sank their ship personally. That pursuit made her legend and earned
-her the captaincy. Now commands the entire lake patrol fleet---a dozen
+her the captaincy. Now commands the entire lake patrol fleet, a dozen
 ships protecting trade across the Crystalvale.
 
 Every pirate captured feels like justice for Darian.
@@ -40437,12 +40395,12 @@ years.
 2\. **The Letter:** Darian left a letter she's never opened. Carries it
 everywhere but can't bring herself to read his last words.
 
-3\. **The Offer:** The pirate who escaped offered to surrender---if she
+3\. **The Offer:** The pirate who escaped offered to surrender, if she
 let his crew go free. She refused. Sometimes she wonders if she was
 wrong.
 
 4\. **The New Threat:** Something is stirring in the deep lakes. Ships
-disappearing without wreckage. Not pirates---something worse.
+disappearing without wreckage. Not pirates, something worse.
 
 5\. **The Forbidden Zone:** Knows the location of a sunken pre-Worldrend
 city beneath the lake. Officially it doesn't exist. She's seen its
@@ -40492,7 +40450,7 @@ beat during the worst post-Dragon reconstruction years.
 Earned his reputation during the **Merchant Riot of 1185 CR** when grain
 prices spiked and hungry citizens stormed the Trade Quarter. Borin held
 the gates with twelve guardsmen against hundreds, never drawing
-blood---just talking them down while reinforcements arrived. The king
+blood, just talking them down while reinforcements arrived. The king
 himself commended him.
 
 Took holy oaths to the Lightbringers after a near-death experience
@@ -40537,18 +40495,18 @@ the Royal Quarter is selling information. The code is unbroken, but the
 drop point is a noble's estate.
 
 2\. **The Third Assassin:** The third assassin he stopped wasn't aiming
-for the king---they were aiming for Crown Prince Thorin specifically.
+for the king. They were aiming for Crown Prince Thorin specifically.
 Why target the heir?
 
 3\. **The Gate Records:** Keeps secret logs of everyone entering the
-city. Has noticed patterns---certain people arrive before certain
+city. Has noticed patterns, certain people arrive before certain
 "accidents" happen.
 
 4\. **The Bribe Offers:** Has been offered enormous bribes to "not
 notice" certain visitors. He's declined, but he's recorded every
 offer and who made it.
 
-5\. **The Divine Vision:** During his healing, he saw something---a
+5\. **The Divine Vision:** During his healing, he saw something, a
 moment of darkness swallowing Kaer Thandros. He believes it's
 prophetic. He doesn't know how to stop it.
 
@@ -40618,22 +40576,22 @@ grace even on ice. Smells of fish, salt, and cold air.
 #### Background & History
 
 
-Born in a snowstorm on the coldest night in a century---an omen, the
+Born in a snowstorm on the coldest night in a century, an omen, the
 village elders said. They were right; she was born with the cold in her
 blood, able to endure temperatures that would kill others and shrug off
 frostbite like minor inconvenience.
 
 Joined the northern garrison at twenty and quickly proved herself in
 conflicts with frost giants and ice trolls. Her fearlessness in
-cold-weather combat earned her command of the Winter Guard---the elite
+cold-weather combat earned her command of the Winter Guard, the elite
 unit that patrols the frozen north during months when normal soldiers
 cannot operate.
 
-Lost her brother to an ice collapse---an event that made her obsessive
+Lost her brother to an ice collapse, an event that made her obsessive
 about safety. Now commands a fleet of twelve ice fishing vessels in
 addition to her military duties.
 
-Now forty, she's a legend among northern troops---part commander, part
+Now forty, she's a legend among northern troops, part commander, part
 force of nature. Her tactical brilliance in winter conditions is matched
 only by her struggle to connect with people in peacetime.
 
@@ -40655,7 +40613,7 @@ only by her struggle to connect with people in peacetime.
 -   **Rival:** Warden Commander Thalia Moonbow (mutual professional
     respect).
 
--   **Enemy:** Frost Giant Jarl Grimtusk (personal vendetta---killed her
+-   **Enemy:** Frost Giant Jarl Grimtusk (personal vendetta, killed her
     brother).
 
 #### Secrets
@@ -40664,7 +40622,7 @@ only by her struggle to connect with people in peacetime.
 1\. **The Frost Giant Vendetta:** Jarl Grimtusk killed her brother.
 She's planning assassination, not mere combat.
 
-2\. **The Ice Blessing:** Her cold resistance isn't natural---a frost
+2\. **The Ice Blessing:** Her cold resistance isn't natural, a frost
 spirit blessed her at birth. It's slowly changing her into something
 not entirely human.
 
@@ -40675,7 +40633,7 @@ pacts are weakness. Would expose them if she had proof.
 collect on its blessing. She doesn't know what it wants.
 
 5\. **The Deep Catch:** Her crews have been pulling up strange frozen
-artifacts---pre-Worldrend relics frozen in the ice for centuries.
+artifacts, pre-Worldrend relics frozen in the ice for centuries.
 
 6\. **The Ice Whispers:** Hearing voices in the ice at night, speaking
 in old tongues. Not sure if she's going mad or receiving genuine
@@ -40709,7 +40667,7 @@ Tall and commanding (5'11", 170 lbs.), with the weathered look of
 someone who's spent decades on campaign. Iron-gray hair cut short.
 Sharp gray eyes that have seen too much death.
 
-A distinctive scar runs across her throat---a near-fatal wound that left
+A distinctive scar runs across her throat, a near-fatal wound that left
 her voice permanently hoarse, reduced to a raspy whisper. Always in
 armor, always armed.
 
@@ -40759,17 +40717,17 @@ armor, always armed.
 
 
 Enlisted at sixteen, lying about her age. Rose through ranks on pure
-ability---no noble sponsors, no political games. Distinguished herself
+ability, no noble sponsors, no political games. Distinguished herself
 in border skirmishes and the Giant Wars.
 
 The throat wound came from an assassination attempt. The assassin was
 sent by a noble whose incompetent son she'd disciplined for endangering
 soldiers. She survived. The assassin didn't. The noble's
-family---House Valdren---still holds a grudge.
+family, House Valdren, still holds a grudge.
 
 Now commands the Legion's Second Division, responsible for the eastern
 marches. General Steelheart considers her the best field commander in
-the Legion---and a possible successor.
+the Legion, and a possible successor.
 
 #### Connections
 
@@ -40792,7 +40750,7 @@ the Legion---and a possible successor.
 
 
 1\. **The Assassination:** House Valdren's heir was the assassin. She
-killed him in self-defense. The official story is different---and House
+killed him in self-defense. The official story is different, and House
 Valdren knows the truth.
 
 2\. **Her Daughter:** Sera doesn't know the full truth about why she
@@ -40806,7 +40764,7 @@ the entire Legion.
 her she has maybe ten years before it kills her.
 
 5\. **The Offer:** An Aethorian general offered her command of a
-revolutionary army. She refused. She's still not sure why---the cause
+revolutionary army. She refused. She's still not sure why—the cause
 was just.
 
 {{pageNumber,auto}}
@@ -40839,7 +40797,7 @@ continents.*
 
 Charming and well-groomed, with the refined appearance of old money
 despite his gutter origins. Dresses immaculately but never
-ostentatiously---the quality speaks for itself.
+ostentatiously, the quality speaks for itself.
 
 #### Personality
 
@@ -40888,14 +40846,14 @@ his education. He proved to be a prodigy of commerce, multiplying his
 starting funds a hundredfold within a decade.
 
 When his father died, Lucian revealed the blackmail material
-anyway---not for revenge, but to eliminate rivals who knew the truth. He
+anyway, not for revenge, but to eliminate rivals who knew the truth. He
 absorbed his father's trading company and used it as foundation to
 build a merchant empire spanning both continents. Now he sits on the
 Merchant League's inner council, one of the three Trade Princes who
 truly control continental commerce.
 
 His public persona is the charming rogue, the common-born success story.
-He doesn't want money---he has more than he could spend in several
+He doesn't want money. He has more than he could spend in several
 lifetimes. He wants power, respect, and eventually to reshape the
 world's economy in his image.
 
@@ -40933,7 +40891,7 @@ half-siblings permanently. Tired of their interference.
 
 6\. **War Profiteering:** Manipulates trade routes and creates artificial
 scarcity during conflicts. Profits from economic instability through
-currency manipulation and market cornering. Not patriotic---mercenary.
+currency manipulation and market cornering. Not patriotic, mercenary.
 
 ### 61.2 Master Crimson (Shadow Syndicate)
 
@@ -40957,7 +40915,7 @@ currency manipulation and market cornering. Not patriotic---mercenary.
 #### Physical Description
 
 
-Unknown. The mask defines the persona entirely---who or what lies
+Unknown. The mask defines the persona entirely, who or what lies
 beneath is the Syndicate's most closely guarded secret.
 
 #### Personality
@@ -40985,14 +40943,14 @@ beneath is the Syndicate's most closely guarded secret.
 #### Background & History
 
 
-No one knows who Master Crimson really is---that's rather the point.
+No one knows who Master Crimson really is. That's rather the point.
 The name has been used for over forty years, possibly by multiple
 individuals, possibly by one very careful person. What's known is that
 Master Crimson controls the Shadow Syndicate's operations across
 central Thaldros.
 
 The Shadow Syndicate isn't a traditional thieves' guild. It's a
-business---criminal business, but business nonetheless. They provide
+business, criminal business, but business nonetheless. They provide
 services: smuggling, theft, assassination, information, protection.
 Everything has a price, and Master Crimson sets the prices.
 
@@ -41012,14 +40970,14 @@ person only for the most important negotiations.
 -   **Regional Lieutenants:** Silas the Fence (Silverpine), The Iron
     Hand (Crossvale), Whisper (Goldreach), and others.
 
--   **Trade Prince Lucian:** Business arrangement---mutual benefit,
+-   **Trade Prince Lucian:** Business arrangement, mutual benefit,
     mutual distrust.
 
 -   **City Watch Commanders:** Several have quiet understandings.
     Captain Lyra Swiftwind is notably NOT one of them.
 
 -   **The Crimson Order:** The blood mage society chose their name
-    coincidentally---or did they? Crimson finds the confusion useful.
+    coincidentally, or did they? Crimson finds the confusion useful.
 
 -   **Lady Morgana Blackwater:** Has used Syndicate services. Crimson
     finds her increasingly concerning.
@@ -41028,7 +40986,7 @@ person only for the most important negotiations.
 
 
 1\. **Crimson's Identity:** The current Master Crimson is actually
-Elena Thornwood---Captain Vex Darkwater's sister, who he believes lives
+Elena Thornwood, Captain Vex Darkwater's sister, who he believes lives
 a quiet life in Silverpine.
 
 2\. **The Succession:** The title has been held by three people over
@@ -41042,14 +41000,14 @@ Syndicate members.
 4\. **Lucian's Secret:** Knows about the Trade Prince's assassination
 of his rival. The evidence is part of Crimson's insurance collection.
 
-5\. **The Moral Line:** Elena has rules her predecessors didn't---no
+5\. **The Moral Line:** Elena has rules her predecessors didn't, no
 children, no killing for revenge only, no slavery. Some lieutenants
 chafe at these restrictions.
 
 **Alternative Version (lines 7600-7625):**
 
 Some accounts suggest Master Crimson is actually three people sharing
-the role---a human, an elf, and a half-orc who rotate duties. In this
+the role, a human, an elf, and a half-orc who rotate duties. In this
 version, they have been slowly preparing to dissolve the Syndicate and
 transform it into legitimate business. Some of those they "protect"
 are actually hostages. Multiple governments secretly pay the Syndicate
@@ -41074,7 +41032,7 @@ to maintain underworld order.
 Powerfully built with the weathered appearance of someone who has spent
 decades working near volcanic heat. Skin has a faint ruddy cast from
 constant exposure to fire and ash. Eyes seem to glow faintly in
-darkness---either a trick of the light or something more.
+darkness, either a trick of the light or something more.
 
 {{pageNumber,auto}}
 {{footnote Chapter 61: Faction Leaders}}
@@ -41111,7 +41069,7 @@ He's been Grand Warden for fifteen years.
 
 1\. **The Primordial Contact:** Has direct communication with a
 primordial fire elemental living beneath the main volcano. It warns him
-of eruptions. This is his "divine" ability---not divine at all.
+of eruptions. This is his "divine" ability, not divine at all.
 
 2\. **The Coming Catastrophe:** Warden Commander Ignis Ashborn has
 detected slow pressure build indicating a super-eruption coming in
@@ -41140,7 +41098,7 @@ price. Volcanus hasn't revealed what he's promised in return.
 
 Tall and slender (6'1", 145 lbs.) with the timeless grace of high
 elves. Silver-white hair worn long and loose, often floating slightly as
-if in an invisible breeze. Eyes shift color with his mood---blue when
+if in an invisible breeze. Eyes shift color with his mood, blue when
 calm, violet when using divination, gold when angry. Pale, ageless
 features marked with faint runic tattoos along his temples (warding
 glyphs). Wears flowing robes of deep midnight blue with silver star
@@ -41162,7 +41120,7 @@ light and is never far from his hand.
 
 -   Has a dry, understated sense of humor.
 
--   Never panics---has seen too much.
+-   Never panics, has seen too much.
 
 **Ideals:**
 
@@ -41170,7 +41128,7 @@ light and is never far from his hand.
 
 -   "Understanding magic prevents its misuse.".
 
--   "Neither kingdom should dominate---equilibrium preserves peace."
+-   "Neither kingdom should dominate, equilibrium preserves peace."
 
 {{pageNumber,auto}}
 {{footnote Chapter 61: Faction Leaders}}
@@ -41196,7 +41154,7 @@ light and is never far from his hand.
 
 -   Secret guilt over not predicting something in the past.
 
--   Workaholic---sleeps only 4 hours per night.
+-   Workaholic, sleeps only 4 hours per night.
 
 -   Underestimates threats outside magical realm.
 
@@ -41207,13 +41165,13 @@ Born over six centuries ago in the ancient elven city of Aethermere,
 Veridian showed prodigious magical talent before he could walk. He was
 formally inducted into the Arcanum at age forty (young for an elf),
 became a full wizard at one hundred, and achieved the rank of Archmage
-at two hundred and fifty---the youngest in recorded history. He spent
+at two hundred and fifty, the youngest in recorded history. He spent
 his early centuries at Starfall Observatory, where he led House
 Starweaver and gained renown for his celestial research.
 
 His specialty is divination, but his true mastery lies in the
 intersection of magical schools. He developed the Starweaver
-Synthesis---a technique for combining spells of different schools into
+Synthesis, a technique for combining spells of different schools into
 hybrid effects. The technique is now taught at every major magical
 academy, though few can replicate his fluency.
 
@@ -41266,7 +41224,7 @@ within the next decade, but the vision is unclear and he fears acting on
 incomplete information.
 
 3\. **Aethorian Contact:** His correspondence with Archmage Eldrin
-involves more than research---they're developing a way to safely cross
+involves more than research. They're developing a way to safely cross
 the Sundering Sea.
 
 4\. **Mortality's Approach:** Despite elven longevity, he can feel his
@@ -41360,7 +41318,7 @@ unusual but respected end). Has expanded the Guild's operations while
 maintaining its reputation for reliability.
 
 The Iron Guild under his leadership is the premier mercenary
-organization in Thaldros---professional, well-equipped, and absolutely
+organization in Thaldros: professional, well-equipped, and absolutely
 bound by contract. They've fought for kings and merchants, nobles and
 commoners. They don't ask why. They just deliver.
 
@@ -41380,7 +41338,7 @@ commoners. They don't ask why. They just deliver.
 
 1\. **The Refused Contract:** He once refused a contract to assassinate
 a king. The client went elsewhere. That king was later killed. He
-wonders if he should have taken it---at least he would have done it
+wonders if he should have taken it, at least he would have done it
 cleanly.
 
 2\. **Guild Funds:** The Guild maintains a massive hidden treasury for
@@ -41478,7 +41436,7 @@ Spent decades traveling, learning techniques from dwarven holds, elven
 smiths, and even a dragon who taught metalworking. Returned to Goldreach
 to establish the Grand Forge.
 
-His masterwork is Ironheart---a steel defender so sophisticated it's
+His masterwork is Ironheart, a steel defender so sophisticated it's
 nearly alive. The creation process took ten years and, he claims, "a
 piece of my soul." It's not metaphorical.
 
@@ -41508,7 +41466,7 @@ sleeping beneath Kaer Thandros. They correspond occasionally.
 who wanted his secrets. He knows who.
 
 4\. **The Ultimate Weapon:** King Aldric asked him to forge a
-dragon-killing weapon. He's not sure it's possible---or if he should
+dragon-killing weapon. He's not sure it's possible, or if he should
 try.
 
 5\. **The Successor:** None of his students are good enough. He fears
@@ -41537,7 +41495,7 @@ his techniques will die with him.
 "Silvaris" is not one druid but a title passed down through a line of
 oak-bonded druids stretching back to before the Worldrend. The role
 requires bonding with the Great Oak at the heart of Aethoria's oldest
-forest---a tree whose roots touch the ley lines connecting all life on
+forest, a tree whose roots touch the ley lines connecting all life on
 the continent.
 
 
@@ -41569,7 +41527,7 @@ duties, and secretly searches for a way to preserve her sense of self.
 
 -   **Circle:** Twenty-three druids who serve under her guidance.
 
--   **Enemy:** The Blight---a spreading corruption in the eastern
+-   **Enemy:** The Blight, a spreading corruption in the eastern
     forests.
 
 {{pageNumber,auto}}
@@ -41589,7 +41547,7 @@ portal to the Shadowfell. The seal is weakening.
 3\. **The Predecessor's Sin:** One previous Archdruid made a deal with
 dark powers. That debt is coming due.
 
-4\. **The Heart's Desire:** Has fallen in love---something the role
+4\. **The Heart's Desire:** Has fallen in love, something the role
 supposedly forbids. It's keeping her anchored to herself.
 
 5\. **The Succession Crisis:** No suitable candidate exists for the next
@@ -41619,8 +41577,8 @@ curse she can't identify. Race against time to find cure.
 
 Talia came to Aethoria as a refugee from Thaldros, one of the half-elf
 children displaced by conflicts following the Dragon Crisis. The elves
-took her in reluctantly---half-breeds often struggled to find
-acceptance---but she won them over with determination and wisdom beyond
+took her in reluctantly, half-breeds often struggled to find
+acceptance, but she won them over with determination and wisdom beyond
 her years.
 \column
 She became a druid of considerable power, specializing in agricultural
@@ -41631,8 +41589,8 @@ created an advisory position for non-pure-elven voices, she was the
 obvious choice.
 
 Now she represents the interests of half-elves, human immigrants, and
-other minorities within the Harmony. It's a difficult position---too
-elven for outsiders, too human for traditionalists---but she navigates
+other minorities within the Harmony. It's a difficult position, too
+elven for outsiders, too human for traditionalists, but she navigates
 it with patience and occasional stubbornness.
 
 #### Connections
@@ -41668,8 +41626,8 @@ it.
 5\. **The Dream of Return:** Wants to visit Thaldros before she dies but
 fears what she'll find.
 
-6\. **The Jungle's Voice:** The jungle is sentient---a collective
-consciousness of all plants. She's its voice. Not metaphor---literal
+6\. **The Jungle's Voice:** The jungle is sentient, a collective
+consciousness of all plants. She's its voice. Not metaphor, literal
 truth.
 
 ### 61.9 Patriarch Zircon Crystalborn (House Crystalborn)
@@ -41688,11 +41646,11 @@ truth.
 
 
 Distinctive and striking (5'10", 190 lbs.), with the crystalline
-features of rock genasi. Skin has faint crystal formations---like geodes
-embedded in flesh. Eyes are literally crystalline---faceted like cut
+features of rock genasi. Skin has faint crystal formations, like geodes
+embedded in flesh. Eyes are literally crystalline, faceted like cut
 gems, reflecting light prismatically. White hair with crystal-like
 streaks. Moves with deliberate precision. Wears expensive robes with
-crystals sewn throughout---both decoration and functional components.
+crystals sewn throughout, both decoration and functional components.
 
 
 {{pageNumber,auto}}
@@ -41710,7 +41668,7 @@ crystals sewn throughout---both decoration and functional components.
 
 -   Values knowledge and craftsmanship over emotion.
 
--   Patient---has spent decades perfecting techniques.
+-   Patient, has spent decades perfecting techniques.
 
 -   Generous with knowledge to those who prove worthy.
 
@@ -41734,13 +41692,13 @@ crystals sewn throughout---both decoration and functional components.
 
 **Flaws:**
 
--   Obsessive about perfection---can't tolerate flaws.
+-   Obsessive about perfection—can't tolerate flaws.
 
--   Emotionally distant---relates better to crystals than people.
+-   Emotionally distant, relates better to crystals than people.
 
--   Greedy for rare specimens---will take risks for unique gems.
+-   Greedy for rare specimens, will take risks for unique gems.
 
--   Judgmental---categorizes people like gems (flawless, acceptable,
+-   Judgmental, categorizes people like gems (flawless, acceptable,
     flawed).
 
 #### Background & History
@@ -41753,18 +41711,18 @@ for centuries. At 60, he married into leadership and became Patriarch.
 
 For 27 years, he's ruled House Crystalborn with calculated precision.
 He transformed them from wealthy merchants into masters of gem-based
-magic---a unique niche making them indispensable.
+magic, a unique niche making them indispensable.
 
 He discovered that perfect gems amplify magic. He developed techniques
 to grow synthetic crystals with superior properties. He created new gem
 cuts that focus magical energy more efficiently. His innovations
 revolutionized crystal-based magic.
 
-His greatest work is his daughter Sapphira---not just training her in
+His greatest work is his daughter Sapphira, not just training her in
 craft, but in patience, precision, and perfection. She'll inherit
 techniques refined over centuries.
 
-Recently, he's discovered something troubling---evidence that certain
+Recently, he's discovered something troubling, evidence that certain
 gem formations aren't natural. They're artifacts from before the
 Worldrend, possibly dangerous.
 
@@ -41787,12 +41745,12 @@ Worldrend, possibly dangerous.
 
 
 1\. **The Synthetic Breakthrough:** Can now create perfect synthetic
-gems indistinguishable from natural ones---even to magical detection.
+gems indistinguishable from natural ones, even to magical detection.
 This would crash gem markets if revealed. Using it sparingly to maintain
 prices while building secret reserves.
 
 2\. **The Worldrend Crystals:** He's found gem formations that predate
-the Worldrend. They contain trapped magical energy---enormous amounts.
+the Worldrend. They contain trapped magical energy, enormous amounts.
 One crystal could power a city for years or level a battlefield. He's
 collecting them secretly.
 
@@ -41802,7 +41760,7 @@ increasingly resentful. The binding weakens. Eventually, it will break.
 When it does, the dao's revenge will be catastrophic.
 
 4\. **The Transmutation Limit:** There's a cost to transmutation magic
-Zircon has hidden---each transformation takes a tiny piece of the
+Zircon has hidden, each transformation takes a tiny piece of the
 caster's life force. He's aged faster than normal genasi (should look
 60, looks 87). He calculates he has maybe 30 years left.
 
@@ -41813,7 +41771,7 @@ They're conscious, suffering, begging for death. He can't reverse it,
 can't kill them, can't admit failure.
 
 6\. **The Succession Secret:** Sapphira isn't his biological
-daughter---she's adopted after his wife couldn't conceive. He's never
+daughter. She's adopted after his wife couldn't conceive. He's never
 told her. Her real parents died in an accident; he took her in at age 2.
 
 {{pageNumber,auto}}
@@ -41845,7 +41803,7 @@ she has witnessed things no living being should remember.
 #### Background & History
 
 
-Seraphina is among the oldest living elves---over two thousand years
+Seraphina is among the oldest living elves, over two thousand years
 old, with clear memories of the world before the Worldrend. She was
 already ancient when the cataclysm struck, and she's spent the
 centuries since as the living memory of her people.
@@ -41854,7 +41812,7 @@ She founded House Silverleaf not through conquest but through survival.
 When other noble houses fell to chaos, war, and madness in the
 Worldrend's aftermath, Seraphina gathered survivors, preserved
 knowledge, and built something that would endure. Her
-philosophy---patience, wisdom, and balance with nature---became the
+philosophy, patience, wisdom, and balance with nature, became the
 foundation of modern elven society in Thaldros.
 
 She no longer leads House Silverleaf directly; that honor passed first
@@ -41864,7 +41822,7 @@ Seraphina remains the family's conscience, advisor, and last resort.
 When the house faces decisions that will echo for centuries, they seek
 her counsel.
 
-Age has diminished her in some ways---she sleeps more, moves slower, and
+Age has diminished her in some ways. She sleeps more, moves slower, and
 sometimes confuses past and present. But her mind remains sharp when it
 matters, and her magical power is undiminished. She is, quite possibly,
 the most powerful living mortal in Thaldros. She simply chooses not to
@@ -41902,7 +41860,7 @@ historical understanding.
 and expects her return. Has been preparing for centuries.
 
 3\. **The Artifact Truth:** The artifact wasn't designed to
-destroy---it was designed to reshape. The Worldrend was an accident. The
+destroy. It was designed to reshape. The Worldrend was an accident. The
 artifact could theoretically reverse it.
 
 4\. **Her Own Death:** Has foreseen when and how she'll die. It's
@@ -42081,7 +42039,7 @@ miraculous events that defined his life.
 <div class="col-img">![61.12 Elder Rashid the Twice-Blessed](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-rashid-the-twice-blessed.jpg){width:260px}</div>
 
 **The First Blessing:** In his youth, during a sandstorm that claimed
-his entire caravan, he alone survived---found three days later by
+his entire caravan, he alone survived, found three days later by
 traders, unharmed and claiming a golden figure had sheltered him.
 
 **The Second Blessing:** Decades later, assassins poisoned his wine at a
@@ -42098,7 +42056,7 @@ conflicts before they could escalate.
 
 Now in his seventies, he serves as a senior spiritual advisor alongside
 High Priest Al-Sahir, counseling Sultan Rashid Ashborne (no
-relation---Rashid is simply a common name in Sundara) and mediating
+relation, Rashid is simply a common name in Sundara) and mediating
 disputes between the great trading houses. His reputation for fairness
 is matched only by his reputation for surviving things that should have
 killed him.
@@ -42125,11 +42083,11 @@ killed him.
 #### Secrets
 
 
-1\. **The True First Blessing:** The golden figure wasn't a god---it
+1\. **The True First Blessing:** The golden figure wasn't a god. It
 was something older. Rashid has spent decades trying to understand what
 saved him, and why.
 
-2\. **Immunity's Cost:** His poison immunity isn't divine---it's the
+2\. **Immunity's Cost:** His poison immunity isn't divine. It's the
 result of whatever touched him in that sandstorm. It's slowly changing
 him in other ways.
 
@@ -42249,7 +42207,7 @@ with silver-streaked black hair swept back from a high forehead. Hawkish
 features with a prominent nose and thin lips often curved in an
 enigmatic smile. Pale blue eyes that seem to calculate every
 interaction. Immaculately dressed in expensive but understated clothing.
-A dueling scar on his left cheek that he refuses to have healed---"a
+A dueling scar on his left cheek that he refuses to have healed, "a
 reminder of youthful arrogance."
 
 **Personality**
@@ -42279,7 +42237,7 @@ other nobles collect art.
 
 -   Underestimates those he considers beneath his station.
 
--   The giant treaty weighs on him---he knows what he's hiding.
+-   The giant treaty weighs on him. He knows what he's hiding.
 
 **Background**
 
@@ -42292,27 +42250,27 @@ hundreds.
 Appointed Duke of the Northern Provinces at thirty-five after his
 father's death. Inherited a border constantly raided by giants and
 barbarian tribes. Within five years, he reduced raids by ninety
-percent---officially through superior military positioning, but actually
+percent, officially through superior military positioning, but actually
 through the secret Northern Pact with Frost Giant King Hrothgar.
 
 Now serves as the Crown's chief diplomat and unofficial spymaster. His
 network of informants spans both continents. He knows secrets about
-almost every noble family in Thaldros---and quite a few in Aethoria.
+almost every noble family in Thaldros, and quite a few in Aethoria.
 
 **Key Relationships:**
 
--   **King Aldric IV** --- Mutual respect, shared secrets.
+-   **King Aldric IV**,  Mutual respect, shared secrets.
 
--   **Frost Giant King Hrothgar** --- Secret ally through the Pact.
+-   **Frost Giant King Hrothgar**,  Secret ally through the Pact.
 
--   **Lady Cassandra Vantress** --- Rival for influence at court.
+-   **Lady Cassandra Vantress**,  Rival for influence at court.
 
--   **His daughter Lyria** --- Grooming as successor.
+-   **His daughter Lyria**,  Grooming as successor.
 
 **Secrets:**
 
 *The Northern Pact:* The frost giant treaty is his greatest secret. If
-revealed, it could destroy his reputation---or save the realm, depending
+revealed, it could destroy his reputation, or save the realm, depending
 on how it's framed.
 
 *The Succession Crisis:* He knows King Aldric has evidence that neither
@@ -42329,7 +42287,7 @@ destroying them ever since.
 
 
 *Aethorian Contact:* Has a secret communication channel with a
-highly-placed Aethorian official. Not treason---"diplomatic
+highly-placed Aethorian official. Not treason, "diplomatic
 insurance."
 
 *The Giant's Request:* Hrothgar has asked for help with something in
@@ -42383,7 +42341,7 @@ early that "enemies" are just people you haven't understood yet.
 
 Joined the diplomatic corps at twenty-one. Her language skills and
 cultural sensitivity made her invaluable. Negotiated three minor
-treaties before being named Chief Ambassador at thirty---the youngest
+treaties before being named Chief Ambassador at thirty, the youngest
 ever.
 
 Has prevented at least two wars through back-channel negotiations.
@@ -42395,7 +42353,7 @@ Neither side knows how close they came.
 information with her Aethorian counterpart. Technically treason. She'd
 do it again.
 
-*Personal Cost:* She was engaged once. He gave her an ultimatum---him or
+*Personal Cost:* She was engaged once. He gave her an ultimatum, him or
 the job. She chose the job.
 
 *The Third Party:* She's discovered evidence that someone is actively
@@ -42443,7 +42401,7 @@ Commander of the Lightbringers Elite Strike Force. A determined holy warrior who
 
 **Physical Description**
 
-Former soldier turned priest---broad-shouldered, scarred, with the
+Former soldier turned priest, broad-shouldered, scarred, with the
 bearing of someone who has seen combat. Wears practical clerical garb
 that doubles as light armor.
 
@@ -42456,7 +42414,7 @@ raiders throughout his twenties.
 The turning point came during the Battle of Iron Pass (1223 CR) when his
 company was ambushed and nearly wiped out. Tormund held a defensive line
 for six hours, protecting wounded soldiers. During that stand, he prayed
-to every god he could name---and Mordain answered.
+to every god he could name, and Mordain answered.
 
 After recovering, he took holy orders. Transferred to Kaer Thandros in
 1230 CR and built the temple's warrior-priest program from scratch.
@@ -42466,7 +42424,7 @@ struggling with the weight of their duties.
 
 **Secrets:**
 
-*The Vision:* Saw a massive battle coming to Kaer Thandros---worse than
+*The Vision:* Saw a massive battle coming to Kaer Thandros, worse than
 the Dragon Crisis. Siege weapons, dark magic, armies beyond counting.
 He's quietly stockpiling supplies.
 
@@ -42501,7 +42459,7 @@ Bears the scars of street fights and investigations gone wrong.
 
 **Personality**
 
-Can't be bribed---not because he's rich, but because he genuinely
+Can't be bribed, not because he's rich, but because he genuinely
 believes in the law. Stubborn, honest, relentless.
 
 **Background**
@@ -42516,7 +42474,7 @@ Watch Captain at thirty-eight after his predecessor was murdered by the
 Shadow Syndicate. Gregor swore to clean up the city. He's been trying
 ever since.
 
-**Secret:** Doesn't know his brother Marcus is "The Iron Hand"---a
+**Secret:** Doesn't know his brother Marcus is "The Iron Hand", a
 Syndicate enforcer who handles their most violent problems. If Gregor
 ever discovered the truth, it would break him. And he'd still make the
 arrest.
@@ -42558,11 +42516,11 @@ worth it.
 
 Fourth generation Crown Forge smith. His great-grandfather helped build
 the original Crown Forge in 650 CR under King Thorin I. The Forgefire
-clan has passed down techniques for three centuries---secrets whispered
+clan has passed down techniques for three centuries, secrets whispered
 from father to son, never written.
 
 Durgan showed talent early, forging his first blade at age thirty (young
-for dwarves). Journeyed to study other techniques---twenty years in
+for dwarves). Journeyed to study other techniques—twenty years in
 Emberforge learning volcanic smithing, ten years in the Sundaran Expanse
 studying desert-forged steel.
 
@@ -42575,7 +42533,7 @@ studying desert-forged steel.
 
 Returned to Kaer Thandros in 1157 CR and assumed his father's position
 after his death during the Dragon Crisis. The dragon Infernalix
-specifically targeted the Forge District---Durgan believes it was
+specifically targeted the Forge District, Durgan believes it was
 seeking something.
 
 His masterwork, the blade "Thrandil's Edge" carried by King Aldric
@@ -42583,11 +42541,11 @@ IV, took seven years to complete.
 
 **Key Relationships:**
 
--   **King Aldric IV Thandris** --- Primary client, respects his work.
+-   **King Aldric IV Thandris**,  Primary client, respects his work.
 
--   **Forge-Master Rurik Ironanvil** --- Bitter professional rival.
+-   **Forge-Master Rurik Ironanvil**,  Bitter professional rival.
 
--   **Apprentice Greta Ironhand** --- Talented but impatient.
+-   **Apprentice Greta Ironhand**,  Talented but impatient.
 
 **Secrets:**
 
@@ -42595,7 +42553,7 @@ IV, took seven years to complete.
 mythril. The technique is dying.
 
 *The Dragon's Purpose:* Found slag in the Forge District that
-shouldn't exist---dragon fire alone couldn't create it. Something else
+shouldn't exist, dragon fire alone couldn't create it. Something else
 burned here.
 
 *The Incomplete Blade:* His father died mid-forge on a commissioned
@@ -42603,7 +42561,7 @@ blade. Durgan has kept the unfinished weapon for ninety years. It
 whispers to him sometimes.
 
 *The Royal Request:* King Aldric IV has asked him to forge something
-unprecedented---a weapon that could kill an ancient dragon.
+unprecedented, a weapon that could kill an ancient dragon.
 
 ### 62.7 Court Figures
 
@@ -42624,18 +42582,18 @@ Elegant and poised at five feet six inches and one hundred thirty
 pounds, with auburn hair typically arranged in elaborate court styles.
 Green eyes that sparkle with intelligence and barely concealed
 amusement. Heart-shaped face, flawless complexion. Dresses in the height
-of fashion---always appropriate, always memorable.
+of fashion, always appropriate, always memorable.
 
 **Personality**
 
-Speaks in layers---every sentence has multiple meanings. Touches people
+Speaks in layers, every sentence has multiple meanings. Touches people
 when talking (establishes connection, reads reactions). Laughs easily
 and genuinely (even when planning someone's ruin). Remembers every
 name, every favor, every slight.
 
 **Defining Principles:**
 
--   "Power isn't about what you can do---it's about what you can make
+-   "Power isn't about what you can do. It's about what you can make
     others do for you.".
 
 -   "Violence is crude. Information is elegant. I prefer elegance.".
@@ -42647,7 +42605,7 @@ name, every favor, every slight.
 
 Born to a minor noble house, third daughter with no marriage prospects
 and no inheritance. Rather than accept obscurity, she made herself
-indispensable to more powerful nobles---first as a companion, then as an
+indispensable to more powerful nobles, first as a companion, then as an
 advisor, then as a dealer in secrets.
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-lady-cassandra-vantress.jpg){width:260px}</div>
@@ -42657,7 +42615,7 @@ members did. By thirty, she'd arranged three marriages, prevented two
 assassinations, and orchestrated the downfall of a duke who'd insulted
 her family.
 
-Now she's the unofficial "social secretary" of the court---the person
+Now she's the unofficial "social secretary" of the court, the person
 nobles come to when they need something done discreetly. Marriage
 arrangements, scandal suppression, reputation rehabilitation, quiet
 destruction of rivals. She provides all services, for appropriate
@@ -42673,13 +42631,13 @@ influence them all?"
 
 **Key Relationships:**
 
--   **King Aldric IV** --- Appreciates her usefulness.
+-   **King Aldric IV**,  Appreciates her usefulness.
 
--   **Grand Duke Rothgar** --- Rival for the King's ear.
+-   **Grand Duke Rothgar**,  Rival for the King's ear.
 
--   **Her sister Meridia** --- Being groomed for advantageous marriage.
+-   **Her sister Meridia**,  Being groomed for advantageous marriage.
 
--   **Baron Harwick** --- Enemy (she ruined his father).
+-   **Baron Harwick**,  Enemy (she ruined his father).
 
 **Secrets:**
 
@@ -42691,10 +42649,10 @@ anyone but her.
 title when she was a child.
 
 *The Aethorian Connection:* She has a half-sister raised in
-Aethoria---her father's affair.
+Aethoria, her father's affair.
 
 *Genuine Affection:* She's secretly in love with someone completely
-unsuitable---a common-born captain in the guard. She'll never act on
+unsuitable, a common-born captain in the guard. She'll never act on
 it.
 
 ### 62.8 Criminal Elements
@@ -42786,18 +42744,18 @@ progress.
 
 Born before the Worldrend, Seraphine remembers the unified kingdoms. She
 was young when the cataclysm happened (147 years old) but old enough to
-understand the tragedy. That memory shapes her politics---she supports
+understand the tragedy. That memory shapes her politics. She supports
 eventual reunification.
 
 She became Matriarch of House Silverleaf in 1102 CR when Council Mistress 
 Elara stepped down to lead Silverpine University. For 145 years, she's guided the house through wars, droughts, plagues, and political upheaval.
 
 She transformed Silverpine from a small forest settlement into a major
-city---while ensuring it remained in harmony with the Silverwood. She
+city, while ensuring it remained in harmony with the Silverwood. She
 established the University, attracted scholars and artisans, and created
 a model of urban-forest coexistence that others try to emulate.
 
-But she's tired. Nearly 1,400 years is ancient even for elves---she's
+But she's tired. Nearly 1,400 years is ancient even for elves. She's
 among the oldest living beings in Thaldros. She's grooming her son
 Arannis to inherit, but worries he's too aggressive, too willing to
 fight rather than negotiate.
@@ -42809,31 +42767,31 @@ Worldrend is awakening.
 
 **Key Relationships:**
 
--   **Ranger-Lord Arannis Silverleaf** --- Her son, whom she loves but
+-   **Ranger-Lord Arannis Silverleaf**,  Her son, whom she loves but
     worries about his methods.
 
--   **Council Mistress Elara Silverleaf** --- Manages house affairs, now
+-   **Council Mistress Elara Silverleaf**,  Manages house affairs, now
     focuses on academia.
 
--   **Matriarch Seraphina Silverleaf** --- The ancient founder, sought
+-   **Matriarch Seraphina Silverleaf**,  The ancient founder, sought
     for counsel on great matters.
 
--   **Council Elder Thaelon Starlight** (Aethermere) --- Old friend from
+-   **Council Elder Thaelon Starlight** (Aethermere),  Old friend from
     before Worldrend.
 
--   **Princess Elanil Aethermere** --- Supports her diplomatic efforts.
+-   **Princess Elanil Aethermere**,  Supports her diplomatic efforts.
 
--   **Archdruid Silvaris Oakenheart** (Aethermere) --- Trained by her.
+-   **Archdruid Silvaris Oakenheart** (Aethermere),  Trained by her.
 
 **Secrets:**
 
-*The Forest Disease:* The tree deaths aren't natural---it's a magical
+*The Forest Disease:* The tree deaths aren't natural. It's a magical
 plague from before the Worldrend, sealed away and now leaking. She's
 trying to find the source before it spreads catastrophically. If it
 reaches the Heartwood, the entire Silverwood could die.
 
 *The Reunion Vision:* Seraphine had a druidic vision of the kingdoms
-reuniting---but the vision showed it happening through catastrophe, not
+reuniting, but the vision showed it happening through catastrophe, not
 diplomacy. She's desperately trying to prevent the disaster while
 enabling peaceful reunification.
 
@@ -42844,8 +42802,8 @@ might be darker. Breaking it would strip the house of power.
 
 *The Blackwood Survivors:* She secretly helped some Blackwood survivors
 escape the king's justice in 1092 CR, spiriting them through secret
-forest paths to safety in the east. The guilt of not doing more---and
-the fear of discovery---haunts her still.
+forest paths to safety in the east. The guilt of not doing more, and
+the fear of discovery, haunts her still.
 
 *Succession Doubt:* She's not sure Arannis should inherit. His
 aggression could destroy everything she's built. But who else is there?
@@ -42867,14 +42825,14 @@ aggression could destroy everything she's built. But who else is there?
 Lean and dangerous, standing six feet two inches and weighing one
 hundred seventy pounds of corded muscle. Dark green eyes that never stop
 scanning for threats. Brown hair worn short (unusual for
-elves---practical for combat). Face bears scars from deep forest
+elves, practical for combat). Face bears scars from deep forest
 encounters. Moves with predatory grace. Wears practical forest leathers
 rather than noble finery.
 
 **Personality**
 
 Direct and action-oriented. Protective of the Silverwood to a fault.
-More militant than his mother---prefers action over negotiation.
+More militant than his mother, prefers action over negotiation.
 Dismissive of diplomatic solutions.
 
 {{pageNumber,auto}}
@@ -42902,36 +42860,36 @@ Dismissive of diplomatic solutions.
 **Background**
 
 Born in 1091 CR to Matriarch Seraphine, Arannis grew up knowing he'd
-inherit House Silverleaf. But he never wanted politics---he wanted to
+inherit House Silverleaf. But he never wanted politics. He wanted to
 protect the forest.
 
 At thirty, he joined the ranger corps. At fifty, he led his first
-patrol. At eighty, he'd killed his first aberration---something that
+patrol. At eighty, he'd killed his first aberration, something that
 came from deep forest. At one hundred, he was Ranger-Lord, commanding
 all House Silverleaf's military forces.
 
 For fifty-six years, he's defended the Silverwood from threats his
 mother often doesn't acknowledge until too late. Goblin raids, orc
-incursions, aberrations from deep places, poachers, dark fey---he's
+incursions, aberrations from deep places, poachers, dark fey. He's
 fought them all.
 
 He's grown frustrated with his mother's diplomatic approach. While she
 negotiates, he acts. While she considers consequences, he eliminates
-threats. This creates tension---he respects her wisdom but questions her
+threats. This creates tension. He respects her wisdom but questions her
 methods.
 
 **Key Relationships:**
 
--   **Matriarch Seraphine Silverleaf** --- Respects, disagrees with
+-   **Matriarch Seraphine Silverleaf**:  Respects, disagrees with
     frequently.
 
--   **General Marthos Thandris** --- Competitive relationship, mutual
+-   **General Marthos Thandris**,  Competitive relationship, mutual
     respect as warriors.
 
--   **Commander Kael Stormwatcher** (Ironhold) --- Bonded over northern
+-   **Commander Kael Stormwatcher** (Ironhold)—Bonded over northern
     threats.
 
--   **Crown Prince Thorin Thandris** --- Mutual respect, trained
+-   **Crown Prince Thorin Thandris**,  Mutual respect, trained
     together once.
 
 -   **Rangers:** Fifty elite forest guardians under his command.
@@ -42942,7 +42900,7 @@ methods.
 
 *The Kill Count:* Arannis has personally killed over two hundred
 intelligent creatures (goblins, orcs, bandits) defending the forest. He
-keeps a private record---not from pride but from guilt. He questions if
+keeps a private record, not from pride but from guilt. He questions if
 he's become what he fights against.
 
 *The Forbidden Alliance:* He's made a deal with a green dragon named
@@ -42951,12 +42909,12 @@ coordinate against common threats. His mother would be furious if she
 knew.
 
 *The Deep Threat:* He's seen things in the deep forest his mother
-won't acknowledge---creatures that shouldn't exist, ruins that predate
+won't acknowledge, creatures that shouldn't exist, ruins that predate
 the Worldrend. He's been quietly preparing for a war she doesn't
 believe is coming.
 
 *The Succession Doubt:* He knows his mother questions whether he should
-inherit. Part of him agrees---he's a better soldier than leader. But
+inherit. Part of him agrees. He's a better soldier than leader. But
 who else is there?
 
 #### Council Mistress Elara Silverleaf
@@ -42977,13 +42935,13 @@ Elegant and composed, standing five feet seven inches and weighing one
 hundred twenty-five pounds, with the timeless beauty of high elves.
 Auburn hair with silver highlights worn in complex braided style. Bright
 silver eyes that miss nothing. Always dressed in academic
-robes---burgundy with silver trim---indicating her rank as Rector. Wears
+robes, burgundy with silver trim, indicating her rank as Rector. Wears
 spectacles for reading (doesn't actually need them, but they make her
 look scholarly).
 
 **Personality**
 
-Precise and organized---everything in its place. Listens carefully
+Precise and organized, everything in its place. Listens carefully
 before speaking, then speaks with authority. Uses hand gestures when
 explaining complex concepts. Corrects people politely when they're
 wrong.
@@ -42994,17 +42952,17 @@ wrong.
 
 -   "Magic should be used to protect, not destroy.".
 
--   "Knowledge is not power---applied knowledge is power.".
+-   "Knowledge is not power, applied knowledge is power.".
 
 **Personal Flaws:**
 
--   Perfectionist---can be harsh on self and others.
+-   Perfectionist, can be harsh on self and others.
 
--   Somewhat elitist---believes educated opinions matter more.
+-   Somewhat elitist, believes educated opinions matter more.
 
 -   Underestimates non-magical solutions to problems.
 
--   Workaholic---hasn't taken vacation in fifty years.
+-   Workaholic, hasn't taken vacation in fifty years.
 
 
 {{pageNumber,auto}}
@@ -43015,14 +42973,14 @@ wrong.
 
 Born in 905 CR in Aethermere. Showed magical talent young. Sent to
 Silverpine Magical Academy at age forty (young for an elf). Proved to be
-a prodigy in abjuration magic---by age eighty, was full professor.
+a prodigy in abjuration magic, by age eighty, was full professor.
 
 Appointed Rector of the University at age 250 (1155 CR). Youngest Rector
 in university history. Under her leadership, the University has grown to
 be the premier magical institution in western Tirvandor.
 
 Also leads the Silverpine Council (city government). Silverpine is
-unique---governed by a council of academics, merchants, and artisans.
+unique, governed by a council of academics, merchants, and artisans.
 Elara chairs it. She's a good administrator but sometimes frustrated by
 politics.
 
@@ -43031,7 +42989,7 @@ children. Has trained hundreds of wizards over the centuries.
 
 **Key Relationships:**
 
--   **House Silverleaf** --- Lady Seraphine (passed house duties to
+-   **House Silverleaf**,  Lady Seraphine (passed house duties to
     focus on academia).
 
 -   **Colleague:** Archmage Veridian Starweaver (fellow faculty,
@@ -43050,7 +43008,7 @@ children. Has trained hundreds of wizards over the centuries.
 
 *The Forbidden Vault:* The University has a vault of dangerous magical
 knowledge. Only she has access. Contains things that shouldn't
-exist---necromancy tomes, demon summoning rituals, reality-breaking
+exist, necromancy tomes, demon summoning rituals, reality-breaking
 spells. She's studied them all "to know how to counter them."
 
 *The Failed Student:* One of her most promising students turned to dark
@@ -43063,7 +43021,7 @@ world-shattering weapon. She guards it carefully.
 
 *The Secret Research:* Privately researching a way to prevent another
 Worldrend. Has a theory that requires massive magical energy. Hasn't
-told anyone---sounds too much like what caused the first Worldrend.
+told anyone, sounds too much like what caused the first Worldrend.
 
 *The Personal Ward:* Created a permanent personal ward on herself years
 ago. It's slowly draining her life force. In fifty to one hundred
@@ -43127,14 +43085,14 @@ passion for divination and celestial magic.
 \page
 
 Her thesis work connected astronomical observations to ley line
-fluctuations---proving that celestial events influence magical currents.
+fluctuations, proving that celestial events influence magical currents.
 This groundbreaking research earned her a professorship at age one
 hundred twenty, making her one of the youngest tenured faculty in the
 university's history.
 
 The real turning point came in 1190 CR during a rare celestial
 alignment. Her observations that night showed her something that
-shouldn't exist---a pattern in the stars that matched ancient House
+shouldn't exist, a pattern in the stars that matched ancient House
 Starleaf records of the pre-Worldrend sky. The stars are slowly
 returning to their ancient positions. She doesn't know what this means,
 but she's been studying it for sixty years.
@@ -43166,7 +43124,7 @@ Ironspine Mountains, away from Silverpine's light pollution.
 
 *The Prophecy Collection:* Has compiled every recorded prophecy about
 the Worldrend and its aftermath. Patterns suggest a second
-Worldrend---or something that prevents one.
+Worldrend, or something that prevents one.
 
 *The Aethorian Connection:* Her correspondent is actually Archmage
 Eldrin Aethermere himself. They share astronomical data that contradicts
@@ -43213,7 +43171,7 @@ heritage. Dresses in professional but understated clothing.
 **Background**
 
 Grew up in Silverpine, attended the university on scholarship. Showed
-talent for both magic and politics---a rare combination.
+talent for both magic and politics, a rare combination.
 
 
 Joined the city council at forty, youngest member in a century. Has
@@ -43249,7 +43207,7 @@ remember why they were angry. She does.
 about the Worldrend. If discovered, it could be called treason.
 
 *The Forbidden Text:* She has access to a book that shouldn't
-exist---pre-Worldrend records that contradict official history.
+exist, pre-Worldrend records that contradict official history.
 
 *Magic Addiction:* Enchantment magic is seductive. She casts more than
 she should. It's becoming a problem.
@@ -43296,7 +43254,7 @@ constantly evaluating materials, proportions, and quality.
 
 Apprenticed to both elven woodcarvers and human jewelers, developing a
 unique style blending elven grace with human boldness. His breakthrough
-piece---a crown for the Lord Silverleaf wedding---established his
+piece, a crown for the Lord Silverleaf wedding, established his
 reputation across both continents.
 
 Elected Master of the Artisan Guild in 1180 CR after his predecessor
@@ -43321,18 +43279,18 @@ astronomical; his work is priceless.
 **Secrets:**
 
 *The Hidden Artifact:* Created a crown that enhances magical ability
-tenfold---too powerful to exist. Hidden in a location he's told no one.
+tenfold, too powerful to exist. Hidden in a location he's told no one.
 
 *The Aethorian Connection:* Still corresponds with artists in
 Aethermere. Has secretly smuggled techniques across the Sundering Sea
 despite trade restrictions.
 
 *The Guild Corruption:* Some guild members are selling inferior work
-under guild seals. He knows but hasn't acted---they're relatives of
+under guild seals. He knows but hasn't acted. They're relatives of
 powerful patrons.
 
 *The Pre-Worldrend Design:* Found ancient artifact designs in his
-research. One matches something that shouldn't exist---a weapon that
+research. One matches something that shouldn't exist, a weapon that
 could shatter continents.
 
 *The Failing Eyes:* His vision is deteriorating. He has perhaps five
@@ -43354,7 +43312,7 @@ more years of detailed work left. He's told no one.
 **Physical Description**
 
 Mysterious and ever-changing. Her face shifts slightly every time you
-see her---glamour magic. Elegant and composed, with an otherworldly
+see her, glamour magic. Elegant and composed, with an otherworldly
 beauty that hints at her true nature.
 
 **Personality**
@@ -43373,7 +43331,7 @@ arbiter of the underworld. Even the Syndicate respects her neutrality.
 
 The being called "Celeste" was bound to the Material Plane seven
 hundred years ago by a wizard seeking a servant. When the wizard died,
-she discovered a loophole---the binding required service to "the
+she discovered a loophole, the binding required service to "the
 wizard's line." His last descendant died childless. She was free to
 act, but not to leave.
 
@@ -43383,7 +43341,7 @@ neutral ground where secrets could be traded. Her supernatural nature
 helps her detect lies, read emotions, and remember everything.
 
 She's spent centuries seeking a way home. The answer might lie in
-understanding the Worldrend---that continental-splitting catastrophe
+understanding the Worldrend. That continental-splitting catastrophe
 damaged the planar boundaries. If she could understand it, she might
 escape. So she gathers information about the pre-Worldrend world, the
 cataclysm itself, and anyone who might know more.
@@ -43420,7 +43378,7 @@ feeding him false leads for decades, but he's getting close.
 to go home. Everything else is means to that end.
 
 *The Worldrend Connection:* Believes the Worldrend weakened her planar
-prison. A second Worldrend might free her---or destroy her.
+prison. A second Worldrend might free her, or destroy her.
 
 ### 63.6 Religious and Druidic Leaders
 
@@ -43493,14 +43451,14 @@ have assessed the value of thousands of deals over nearly two centuries.
 **Personality**
 
 A brilliant merchant and ruthless negotiator. More interested in profit
-than politics---publicly. Semi-retired but still makes all major
+than politics, publicly. Semi-retired but still makes all major
 decisions for the house.
 
 **Background**
 
 Has spent decades building House Goldshore's fortune while nursing an
 obsession with recovering the lost Deepwater legacy. He is currently
-planning a major salvage operation to the sunken Palace Port---one that
+planning a major salvage operation to the sunken Palace Port, one that
 will inevitably bring conflict with House Crystalborn, whom he views not
 as distant cousins 
 
@@ -43510,17 +43468,17 @@ as distant cousins
 but as enemies who stole what rightfully belonged to
 the western branch.
 
-His late wife, Lady Mirella, died in 1214 CR---a loss that some say
+His late wife, Lady Mirella, died in 1214 CR, a loss that some say
 changed his temperament from merely ruthless to bitterly vindictive.
 
 **Key Relationships:**
 
--   **Lord Aldris Goldshore IV** --- Son and heir, handles daily
+-   **Lord Aldris Goldshore IV**,  Son and heir, handles daily
     operations.
 
--   **Lady Serina Goldshore** --- Granddaughter, his potential weakness.
+-   **Lady Serina Goldshore**:  Granddaughter, his potential weakness.
 
--   **House Crystalborn** --- Considers them thieves who stole family
+-   **House Crystalborn**,  Considers them thieves who stole family
     legacy.
 
 **Secrets:**
@@ -43534,7 +43492,7 @@ wasn't entirely natural. Aldris III has never discussed the
 circumstances.
 
 *The Royal Debt:* Holds approximately 50,000 gold in royal debt from the
-dragon crisis---enormous political leverage he's been carefully
+dragon crisis, enormous political leverage he's been carefully
 preserving.
 
 #### Lord Aldris Goldshore IV
@@ -43571,7 +43529,7 @@ See Section 37.6 for the complete entry.
 
 **Race:** Half-Elf | **Age:** 157 | **Location:** Goldreach (Branch Family Estate)
 
-Controls approximately forty percent of maritime trade between continents---more than the main branch of his own house. Spent decades positioning himself to seize the entire Goldshore house through forged documents, blackmail on Lord Aldris Goldshore IV, and arranged deaths of rival heirs. See Section 37.7 for the complete entry; see also Section 44.7 for his role as a primary campaign antagonist.
+Controls approximately forty percent of maritime trade between continents, more than the main branch of his own house. Spent decades positioning himself to seize the entire Goldshore house through forged documents, blackmail on Lord Aldris Goldshore IV, and arranged deaths of rival heirs. See Section 37.7 for the complete entry; see also Section 44.7 for his role as a primary campaign antagonist.
 
 ### 64.2 Harbor and Maritime Officials
 
@@ -43596,7 +43554,7 @@ and the permanent tan of a man who works outdoors regardless of season.
 **Personality**
 
 Competent, pragmatic, and morally gray. Has constructed a careful
-compromise between complete corruption and complete honesty---one that
+compromise between complete corruption and complete honesty—one that
 lets him sleep at night while keeping dangerous forces at bay.
 
 **Background**
@@ -43611,7 +43569,7 @@ carefully maintained neutrality.
 
 Became Harbormaster at forty-five when
 his predecessor died in a "warehouse accident" (Syndicate punishment
-for being too strict). Tobias learned from that example---not to be
+for being too strict). Tobias learned from that example, not to be
 corrupt, but to be flexible.
 
 His compromise: accept bribes from smugglers dealing in victimless goods
@@ -43642,7 +43600,7 @@ themselves.
 **Secrets:**
 
 *The Bribery System:* Has carefully constructed rules for which bribes
-he accepts. Anything harmful is refused---and reported to the Watch.
+he accepts. Anything harmful is refused, and reported to the Watch.
 
 *The Leverage:* Keeps records of every smuggler he's helped. If he goes
 down, so do they. Mutual assured destruction.
@@ -43654,7 +43612,7 @@ quietly gathering evidence for years.
 Mercy saved his life. He'll do anything to protect that place.
 
 *The Big Shipment:* A very large illegal cargo is coming through
-soon---weapons for someone. He can't stop it without exposing himself.
+soon, weapons for someone. He can't stop it without exposing himself.
 Needs help.
 
 *The Lost Son:* Tobias lost his son to a sea monster years ago. He
@@ -43740,7 +43698,7 @@ merchant vessel, and was discovered three days out. Rather than throw
 him overboard, Captain Sylas Darkwater saw potential and made him cabin
 boy.
 
-For fifteen years, Vex learned everything about ships---sailing,
+For fifteen years, Vex learned everything about ships, sailing,
 fighting, smuggling, and eventually piracy when Sylas turned to raiding.
 When Sylas was killed by the Goldreach navy, Vex took command of the
 Serpent's Coil and the Darkwater name.
@@ -43767,7 +43725,7 @@ into the swamp's countless waterways.
 
 **Secrets:**
 
-*The Sylas Truth:* Captain Sylas didn't die fighting the navy---Vex
+*The Sylas Truth:* Captain Sylas didn't die fighting the navy, Vex
 poisoned him after discovering Sylas was planning to sell the crew into
 slavery.
 
@@ -43775,7 +43733,7 @@ slavery.
 Harbor Authority who provides shipping schedules.
 
 *Morgana's Deal:* His arrangement with Lady Morgana involves more than
-just protection money---he helps transport her "special cargo" (undead
+just protection money. He helps transport her "special cargo" (undead
 soldiers).
 
 *The Code's Limit:* His code has exceptions. He's done terrible things
@@ -43798,7 +43756,7 @@ when survival required it. The crew doesn't know about all of them.
 **Role**
 
 Manages the largest private financial institution in Thaldros. Keeps the
-royal debt ledgers---records showing exactly how much the crown owes
+royal debt ledgers, records showing exactly how much the crown owes
 House Goldshore. This gives him access to some of the most sensitive
 financial information in the kingdom.
 
@@ -43832,16 +43790,16 @@ the present.*
 
 The last ruler of the unified continent before the Worldrend tore the
 world apart. King Aldric the Wise ruled from the Crystal Throne in the
-Palace of Eternal Spring---now at the bottom of the Sundering Sea.
+Palace of Eternal Spring, now at the bottom of the Sundering Sea.
 
 **The Succession Crisis:**
 
 King Aldric had two sons:
 
--   **Prince Theron** (Elder) --- Military commander who defended the
+-   **Prince Theron** (Elder),  Military commander who defended the
     western borders. Favored by the military and western nobility.
 
--   **Prince Aethos** (Younger) --- Scholar and druid who studied with
+-   **Prince Aethos** (Younger),  Scholar and druid who studied with
     eastern mystics. Favored by mages and eastern nobility.
 
 The Worldrend struck during a succession crisis between the brothers.
@@ -43852,8 +43810,8 @@ King Aldric and the Palace of
 {{margin-top:450px}}
 
 Eternal Spring were destroyed in the
-cataclysm. Both princes survived---Theron in the west, Aethos in the
-east---each claiming the other had died and proclaiming themselves the
+cataclysm. Both princes survived, Theron in the west, Aethos in the
+east, each claiming the other had died and proclaiming themselves the
 rightful heir.
 
 **Legacy:**
@@ -43865,13 +43823,13 @@ in the Worldrend.
 
 **The Lost Regalia:**
 
--   The Sundered Crown --- Broken in two, each half held by a different
+-   The Sundered Crown,  Broken in two, each half held by a different
     royal house.
 
--   The High King's Sword --- Last seen with King Aldric, supposedly at
+-   The High King's Sword,  Last seen with King Aldric, supposedly at
     the bottom of the Sundering Sea.
 
--   The Royal Scepter --- Held by House Aethermere; House Thandris
+-   The Royal Scepter,  Held by House Aethermere; House Thandris
     claims it was stolen.
 
 #### Prince Theron (Founder of House Thandris)
@@ -43914,20 +43872,20 @@ The younger son of King Aldric the Wise. A scholar, druid, and mystic
 who studied with eastern sages. When the Worldrend struck, Aethos was in
 the eastern territories and survived the cataclysm.
 
-According to Aethermere history, Prince Aethos was the chosen heir---his
+According to Aethermere history, Prince Aethos was the chosen heir, his
 father's favorite, wiser and more suited to rule than his warlike
 brother. They claim Prince Theron caused the Worldrend through a
 superweapon that went catastrophically wrong.
 
 Aethos established the eastern throne in the Emerald Deeps, choosing the
-World-Trees as his seat---symbolic of being rooted, growing, eternal. He
+World-Trees as his seat, symbolic of being rooted, growing, eternal. He
 created the "chosen heir" succession system, where rulers would be
 selected not by blood alone but by communion with the World-Trees
 themselves.
 
 When Aethos died in 187 CR, the World-Trees rejected his biological son
 and instead chose a distant cousin with stronger druidic
-gifts---establishing the precedent that merit and mystical selection
+gifts, establishing the precedent that merit and mystical selection
 mattered more than pure bloodline.
 
 #### Archmage Celestine (The Worldrend Survivor)
@@ -43940,10 +43898,10 @@ Eight
 
 **Age:** Over 1,600 years old (over 400 at the time of the Worldrend)
 
-**Status:** STILL ALIVE --- Currently in the Feywild, recovering from
+**Status:** STILL ALIVE,  Currently in the Feywild, recovering from
 psychic wounds
 
-The most powerful wizard of her age---a claim verified by the fact that
+The most powerful wizard of her age, a claim verified by the fact that
 she survived the Worldrend. When the cataclysm struck, her quick
 thinking saved thousands. The magical barriers she erected around
 Silverpine held against the reality-warping chaos that destroyed lesser
@@ -43955,7 +43913,7 @@ fundamentally changed. She spent the next century rebuilding magical
 infrastructure, establishing the Arcanum as the premier magical
 institution, and training the next generation of wizards.
 
-Then she walked into the Feywild and never returned---until now.
+Then she walked into the Feywild and never returned, until now.
 \column
 **Current Status:**
 
@@ -43968,11 +43926,11 @@ took centuries to heal. She's almost ready to return.
 -   The exact cause of the Worldrend: a ritual intended to grant
     immortality that tore reality instead.
 
--   The mages who caused the Worldrend weren't destroyed---some
+-   The mages who caused the Worldrend weren't destroyed, some
     survived in forms twisted by their failed ritual.
 
 -   A prophecy that she'll need to return when "shadows rise and
-    dragons wake"---that time approaches.
+    dragons wake". That time approaches.
 
 **Connections:**
 
@@ -43992,7 +43950,7 @@ took centuries to heal. She's almost ready to return.
 
 **Race:** High Elf | **Age:** Over 2,000 years | **Location:** Silverpine (rarely seen in public) | **Status:** Alive but approaching natural death
 
-The oldest known living elf in Thaldros---possibly in the world. Founder of House Silverleaf and the living memory of her people. She remembers the unified world before the Worldrend and remains the family's conscience, advisor, and last resort.
+The oldest known living elf in Thaldros, possibly in the world. Founder of House Silverleaf and the living memory of her people. She remembers the unified world before the Worldrend and remains the family's conscience, advisor, and last resort.
 
 #### Elder Thalindra Oakheart
 
@@ -44017,7 +43975,7 @@ Ancient village elder and guardian of the Heart Oak. She has led Oakheart Grove 
 The leader who finally united the fractured western territories during
 the Unification Wars (612-670 CR). While Prince Theron's bloodline had
 survived for six centuries, the western lands remained divided into
-competing kingdoms and warlords---each claiming legitimate succession.
+competing kingdoms and warlords, each claiming legitimate succession.
 
 {{pageNumber,auto}}
 {{footnote Chapter 65: Historical and Legendary Figures}}
@@ -44026,7 +43984,7 @@ competing kingdoms and warlords---each claiming legitimate succession.
 Thorin I ended that chaos. Through military might, political marriage,
 and sheer determination, he conquered or allied with every major western
 power. In 612 CR, he chose an ancient dwarven fortress site as his seat
-of power---a location that would become Kaer Thandros.
+of power, a location that would become Kaer Thandros.
 
 **His Accomplishments:**
 
@@ -44067,7 +44025,7 @@ Compact
 The legendary dwarf who united the fractured dwarven holds into a
 confederation. Through a combination of military might, political
 marriage, and sheer stubborn endurance that impressed even other
-dwarves, he forged the Ironforge Compact---the agreement that bound the
+dwarves, he forged the Ironforge Compact, the agreement that bound the
 holds into a single political entity.
 
 His rule lasted two hundred years, an unprecedented length even for a
@@ -44078,7 +44036,7 @@ crisis made him stronger, more cunning, and more paranoid.
 **His Death and Legend:**
 
 Durgan died in battle against a demon incursion from the deep
-roads---not from the demons themselves, but from the collapse of the
+roads, not from the demons themselves, but from the collapse of the
 tunnel he brought down to stop them. His sacrifice saved the holds, and
 his tomb became a shrine that dwarves still pilgrimage to.
 
@@ -44096,11 +44054,11 @@ that granted him strength in exchange for eternal service.
 *The Spectral Guardian:* His ghost truly does patrol the deep roads,
 bound by his pact to protect the holds forever.
 
-*The Demon Seal:* The tunnel collapse didn't just stop the demons---it
+*The Demon Seal:* The tunnel collapse didn't just stop the demons. It
 sealed something worse. Durgan died maintaining that seal.
 
 *The Awakening Condition:* Durgan can be truly summoned in times of
-desperate need---but the ritual requires a living Ironforge to sacrifice
+desperate need, but the ritual requires a living Ironforge to sacrifice
 their own life.
 
 #### Aldric the Chain-Breaker
@@ -44116,7 +44074,7 @@ their own life.
 **Status:** Deceased (spirit may appear to inspire heroes)
 
 Born a slave in the mines of what is now Ironhold. At age twenty, he led
-a revolt that freed over three thousand slaves---the largest slave
+a revolt that freed over three thousand slaves, the largest slave
 rebellion in recorded history. What began as survival became a movement
 that changed the world.
 
@@ -44159,10 +44117,10 @@ modern heroes to him.
 
 **Potential Discoveries:**
 
--   His personal journal was lost---finding it could reveal truths about
+-   His personal journal was lost, finding it could reveal truths about
     the Worldrend era.
 
--   A direct descendant has been found---some want them as a political
+-   A direct descendant has been found, some want them as a political
     symbol, others want them dead.
 
 -   His spirit has appeared, warning of returning slavery.
@@ -44178,7 +44136,7 @@ cataclysm)
 
 **Status:** Deceased (spirit watches over the Lightbringers)
 
-The first mortal to receive Aethor's direct blessing---the original
+The first mortal to receive Aethor's direct blessing, the original
 paladin, from whom all holy warriors trace their spiritual lineage. She
 lived during the chaos following the Worldrend, when gods were silent
 and monsters roamed freely.
@@ -44213,7 +44171,7 @@ greatest need.
 *The Living Spirit:* Radiant's spirit truly does exist, bound to the
 material plane by her duty. She can manifest to Lightbringers in crisis.
 
-*The Unfinished Victory:* Maltharok wasn't destroyed---merely banished.
+*The Unfinished Victory:* Maltharok wasn't destroyed, merely banished.
 Her death prevented the final blow. He's been gathering strength ever
 since.
 
@@ -44231,7 +44189,7 @@ many in succession could destroy her permanently.
 **Status:** Exists as a celestial being in the divine realm
 
 Not to be confused with Archmage Celestine. Saint Celestine was mortal
-once---a healer in a small village who tended the sick without thought
+once, a healer in a small village who tended the sick without thought
 of payment or recognition.
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-saint-celestine-the-pure.jpg){width:260px}</div>
@@ -44244,7 +44202,7 @@ magic. The gods noticed. Such selfless sacrifice, such pure dedication,
 transcended mortality.
 
 As her body failed, her spirit was caught up and transformed. She became
-a celestial being---not a god, but something close. A saint in the
+a celestial being, not a god, but something close. A saint in the
 truest sense: a mortal soul elevated to divine service.
 
 **Her Role Today:**
@@ -44261,14 +44219,14 @@ Tirvandor, where her blessing makes
 treatments more effective and gives strength to those who serve.
 
 She can manifest physically, though it costs her greatly. She reserves
-such appearances for times of desperate need---plagues that threaten
+such appearances for times of desperate need, plagues that threaten
 civilizations, corruptions that poison the land, healers who face
 impossible choices.
 
 **Her Limitation:**
 
 Each physical appearance weakens her. Too many manifestations in
-succession could destroy her permanently---a cost she would pay if
+succession could destroy her permanently—a cost she would pay if
 necessary, but one the world would mourn.
 
 ### 65.3 Historical Monarchs and Lords
@@ -44300,7 +44258,7 @@ In desperation, Thandris V sought out the dragon and proposed a bargain.
 The terms were secret, known only to him and Infernalix. But the result
 was immediate: the dragon stopped his attacks and withdrew to sleep.
 
-The kingdom was saved---at a price.
+The kingdom was saved, at a price.
 
 Thandris V spent his remaining years haunted by what he'd agreed to. He
 left cryptic warnings in his journals, established contingency measures,
@@ -44313,7 +44271,7 @@ The full terms remain secret, but certain elements are known:
 
 -   The dragon gained the right to sleep beneath Kaer Thandros itself
 
--   The bargain comes due in 1250 CR---three years from the current date
+-   The bargain comes due in 1250 CR, three years from the current date
 
 -   Every Thandris monarch inherits the debt
 
@@ -44344,7 +44302,7 @@ bargain's activation approaching. Those signs are now appearing.
 
 The most celebrated hero of the resistance against House Blackwood
 during their attempted coup. He was a minor lord from the volcanic
-regions near Ashfall---not wealthy, not well-connected, but absolutely
+regions near Ashfall, not wealthy, not well-connected, but absolutely
 unwilling to bend to Blackwood intimidation.
 
 {{pageNumber,auto}}
@@ -44366,7 +44324,7 @@ charged their lines.
 
 He died on the walls of Kaer Thandros during the final battle, holding a
 gate long enough for reinforcements to arrive. His body was never
-recovered---Blackwood forces destroyed it out of spite.
+recovered, Blackwood forces destroyed it out of spite.
 
 His sacrifice became legend. His name became a rallying cry against
 tyranny.
@@ -44415,13 +44373,13 @@ same mistakes repeated across millennia. He is very, very tired.
 
 After over a thousand years as a ghost, Arcturus frequently confuses
 timelines. He sometimes says "three thousand years" or "centuries"
-interchangeably. His grasp on linear time has eroded---this is not
+interchangeably. His grasp on linear time has eroded. This is not
 madness but the natural consequence of existing outside normal mortality
 for so long.
 
 **His Purpose:**
 
-He guards forbidden truth---knowledge too dangerous for the general
+He guards forbidden truth, knowledge too dangerous for the general
 public but too important to destroy. He judges those who seek his wisdom
 not by their words but by their past actions. Those who show mercy, seek
 understanding, and pursue truth may earn his assistance.
@@ -44464,7 +44422,7 @@ been multiple people using the name. He claims the former.
 
 **His Expertise:**
 
-His specialty is ancient civilizations---not the recent ancient, but the
+His specialty is ancient civilizations, not the recent ancient, but the
 truly old. Pre-Worldrend cultures, the Primordials, the First Age. He
 reads languages no one else can identify, recognizes artifacts others
 dismiss as rocks, and occasionally references events from millennia ago
@@ -44482,7 +44440,7 @@ combination of elven blood, alchemical treatments, and a binding to a
 genius loci that anchors his life force.
 
 *The Worldrend Witness:* He was alive during the Worldrend. He knows
-what caused it---and who.
+what caused it, and who.
 
 *The Burden:* His knowledge of history includes things that must remain
 secret for civilization's safety. This burden weighs heavily.
@@ -44508,7 +44466,7 @@ ritual that he finds increasingly distasteful.
 **Status:** Alive
 
 Once a prominent healer in Silverpine, respected for her skill with both
-medicine and magic. Then she dying patients, started hearing whispers---voices 
+medicine and magic. Then she dying patients, started hearing whispers, voices 
 from the recently dead, from things that had never been
 alive. The voices drove her from the city, into the wilderness, where
 their chatter was quieter.
@@ -44517,14 +44475,14 @@ their chatter was quieter.
 
 She communes with spirits, ghosts, and stranger things. She can hear
 both sides of the living and dead. This has made her invaluable for
-certain problems---healing for curses, potions that normal apothecaries
+certain problems, healing for curses, potions that normal apothecaries
 can't make, counsel from someone who understands both mortal and
 spiritual concerns.
 
 **The Whispers:**
 
 The voices are getting louder. They're telling her about a massive
-influx of spirits approaching. Mass death is coming---and she doesn't
+influx of spirits approaching. Mass death is coming, and she doesn't
 know how to stop it.
 
 ### 65.5 Ancient Dragons
@@ -44552,7 +44510,7 @@ ruled unchallenged for millennia before the Worldrend split the world.
 **The Dragon Crisis (1156-1201 CR):**
 
 His forty-five year campaign against Thaldros was never about territory
-or treasure---though he accumulated both. It was about finding something
+or treasure, though he accumulated both. It was about finding something
 specific: a piece of the artifact that caused the Worldrend, which he
 believed could reunite the continents and restore his domain.
 
@@ -44584,7 +44542,7 @@ lower levels.
 *The Artifact Fragment:* His hoard contains a piece of the ancient
 artifact that may have caused the Worldrend.
 
-*The True Bargain:* The deal with Thandris V wasn't just for peace---it
+*The True Bargain:* The deal with Thandris V wasn't just for peace. It
 was for the king's bloodline. When it comes due, every Thandris will
 feel the call.
 
@@ -44634,13 +44592,13 @@ finery, even after amassing his fortune.
 
 Caspian began as a fisherman's son who dreamed of horizons. He built his
 first boat at fourteen, captained a trading vessel at twenty, and
-commanded a fleet by thirty. His wealth came from risk-taking---voyages
+commanded a fleet by thirty. His wealth came from risk-taking, voyages
 others deemed too dangerous, routes others feared to try.
 
 The Goldshore fortune was built on three legendary voyages: - The first
 discovered new fishing grounds that fed Goldreach for generations - The
 second established trade routes with distant Sundaran ports - The
-third---the one Caspian rarely discussed---found something in the deep
+third, the one Caspian rarely discussed, found something in the deep
 waters of the Sundering Sea
 
 He used that discovery to establish House Goldshore as the preeminent
@@ -44648,7 +44606,7 @@ maritime power of Thaldros. The family's ships were faster, their
 navigation more precise, their sailors more loyal. Rivals suspected
 magic or cheating; the truth was stranger.
 
-Caspian died at sea, as he always said he would---but not from storm or
+Caspian died at sea, as he always said he would, but not from storm or
 battle. He sailed into the Sundering Sea one final time, alone, and
 never returned. His descendants believe he went to meet whatever he'd
 found on that third voyage.
@@ -44670,17 +44628,17 @@ found on that third voyage.
 **Secrets:**
 
 1.  **The Deep Pact:** Found a surviving fragment of pre-Worldrend
-    civilization beneath the waves---and made a bargain with what lived
+    civilization beneath the waves, and made a bargain with what lived
     there.
 
 2.  **The Navigation Secret:** Goldshore ships use charts marked with
-    coordinates no normal sailor can read---directions in three
+    coordinates no normal sailor can read, directions in three
     dimensions, for waters above and below.
 
 3.  **The Blood Price:** Every generation, a Goldshore must return
     something to the deep. Those who refuse have accidents at sea.
 
-4.  **The Final Voyage:** Caspian didn't die---he transformed, becoming
+4.  **The Final Voyage:** Caspian didn't die. He transformed, becoming
     something that lives in the deep waters and watches over his
     descendants.
 
@@ -44703,7 +44661,7 @@ found on that third voyage.
 **Appearance:**
 
 Verena is described in underworld tales as a shadow with crimson
-edges---her signature is leaving a single red mark on her targets. She
+edges, her signature is leaving a single red mark on her targets. She
 has elven features softened by human blood, dark hair she keeps short
 for practicality, and eyes that seem to change color depending on the
 light. She favors dark, practical clothing that allows freedom of
@@ -44714,7 +44672,7 @@ movement.
 Born to a servant in the Goldshore household who caught Merchant Prince
 Davos's eye. Her mother was paid off and sent away when the pregnancy
 showed. Verena grew up in poverty knowing her father was one of the
-wealthiest men in Thaldros---and that he'd thrown her away.
+wealthiest men in Thaldros, and that he'd thrown her away.
 
 She trained herself in the arts of death, starting with the man who
 abused her mother in their exile. Killed him at 16. Found she had
@@ -44730,7 +44688,7 @@ who doesn't deserve it by her judgment.
 The Scarlet Knife follows a strict personal code: - No innocents or
 children - Every target must "deserve" death by her judgment - Clean
 kills preferred; suffering only when deserved - Never break a contract
-once accepted - Leave her signature---a small red knife mark---as
+once accepted - Leave her signature, a small red knife mark, as
 warning to others
 
 **Connections:**
@@ -44752,13 +44710,13 @@ warning to others
     revenge and audition.
 
 2.  **The Mother's Location:** Sends money anonymously. Her mother
-    doesn't know she's an assassin---thinks she married well.
+    doesn't know she's an assassin, thinks she married well.
 
 3.  **The Goldshore Files:** Has compiled extensive information about
     her father's criminal activities. Could destroy him. Might save it
     for leverage instead.
 
-4.  **The One Who Got Away:** Failed to kill one target---a child who
+4.  **The One Who Got Away:** Failed to kill one target, a child who
     was supposed to be with the mark. Let the child go. The child is now
     adult and hunting her.
 
@@ -44801,13 +44759,13 @@ him.
 
 **Background and Legend:**
 
-Merrick was the greatest historian of the pre-Worldrend era---a wizard
+Merrick was the greatest historian of the pre-Worldrend era, a wizard
 who dedicated his long life to preserving knowledge rather than pursuing
 power. He maintained the Grand Library of Aethermere, the largest
 repository of information in the world.
 
 When the Worldrend struck, Merrick faced an impossible choice. He
-couldn't save everything---the cataclysm was too vast, too sudden. So he
+couldn't save everything, the cataclysm was too vast, too sudden. So he
 chose what to preserve: genealogies, magical formulas, historical
 records, maps of ley lines. And he chose what to destroy: knowledge too
 dangerous for a shattered world.
@@ -44818,7 +44776,7 @@ himself in the library's ruins, becoming its eternal guardian. The
 library still exists, hidden in an extradimensional space, and Merrick's
 spirit still tends its shelves.
 
-Those who find the library can access knowledge lost for millennia---but
+Those who find the library can access knowledge lost for millennia, but
 Merrick judges visitors carefully. Those who seek power are turned away
 or destroyed. Those who seek understanding find a patient teacher.
 
@@ -44851,7 +44809,7 @@ or destroyed. Those who seek understanding find a patient teacher.
     recorded.
 
 5.  **The Worldrend Cause:** He knows exactly what caused the
-    cataclysm---and destroyed most evidence to prevent repetition.
+    cataclysm, and destroyed most evidence to prevent repetition.
 
 #### Monk Serenity (The Enlightened One)
 
@@ -44873,7 +44831,7 @@ monastic traditions
 
 **Appearance:**
 
-In life, Serenity was described as ageless from her 90s onward---a small
+In life, Serenity was described as ageless from her 90s onward, a small
 woman with serene features and eyes that seemed to see through illusion
 to truth. She moved with perfect grace and economy. In her spiritual
 form, she appears as a figure of gentle light, her form adapting to what
@@ -44902,13 +44860,13 @@ their remote monastery. She never knew any other life.
 Her enlightenment came at age ninety-two, after seventy-five years of
 dedicated practice. The experience lasted three days, during which her
 body glowed with inner light and her voice spoke truths in languages no
-living person understood. When she emerged, she was changed---ageless,
+living person understood. When she emerged, she was changed, ageless,
 powerful, and burdened with knowledge she couldn't fully share.
 
 She spent her remaining years teaching, establishing monasteries, and
 occasionally intervening in world events when cosmic balance was
 threatened. Her body finally failed after two hundred and thirty years,
-but her spirit ascended rather than departed---becoming a celestial
+but her spirit ascended rather than departed, becoming a celestial
 guide for those who follow her path.
 
 **Connections:**
@@ -44925,7 +44883,7 @@ guide for those who follow her path.
 
 **Secrets:**
 
-1.  **The Ascended State:** Serenity didn't die---she transcended,
+1.  **The Ascended State:** Serenity didn't die. She transcended,
     becoming a spiritual entity that can still interact with the
     devoted.
 \column
@@ -44934,7 +44892,7 @@ guide for those who follow her path.
 
     
 4.  **The Forbidden Technique:** Developed a method to achieve instant
-    enlightenment. Destroyed it because the cost was too high---it
+    enlightenment. Destroyed it because the cost was too high. It
     required consuming other souls.
 
 5.  **The Reincarnation Cycle:** Has been reborn multiple times since
@@ -44952,12 +44910,12 @@ powerful mages known as the Circle of Seven. Their ritual tore reality
 instead.
 
 What no one else knows is that the Circle of Seven wasn't
-destroyed---some of them survived in forms twisted by their failed
+destroyed, some of them survived in forms twisted by their failed
 ritual. These beings, whatever they have become, may still exist
 somewhere, nursing millennia-old grudges and plans.
 
 Celestine knows who they were and believes she may know what they
-became. This knowledge is part of why she retreated to the Feywild---and
+became. This knowledge is part of why she retreated to the Feywild, and
 part of why she's preparing to return.
 
 {{pageNumber,auto}}
@@ -44971,7 +44929,7 @@ part of why she's preparing to return.
 ## Chapter 66: Miscellaneous NPCs
 
 
-*Additional characters who populate Tirvandor---artisans, religious
+*Additional characters who populate Tirvandor—artisans, religious
 figures, information brokers, pirates, thieves, scholars, and others who
 don't fit neatly into previous categories but enrich the world
 nonetheless.*
@@ -44992,7 +44950,7 @@ nonetheless.*
 
 **Status:** Exiled from Clan Ironforge
 
-Kael runs the finest smithy in Silverpine---not the fanciest, but the
+Kael runs the finest smithy in Silverpine, not the fanciest, but the
 best. Self-taught after being exiled from his clan for a crime he
 didn't commit. His weapons are sought after by collectors and warriors
 alike.
@@ -45006,8 +44964,8 @@ and dedication have made him successful despite his disgrace.
 
 He supplies the city guard with weapons, has earned the respect of
 Master Smith Garrick Ironheart (rare mutual respect between craftsmen),
-and treats his apprentices like family. He could clear his name---he has
-evidence proving his innocence---but hasn't used it.
+and treats his apprentices like family. He could clear his name. He has
+evidence proving his innocence, but hasn't used it.
 
 \column
 {{margin-top:425px}}
@@ -45052,19 +45010,19 @@ evidence proving his innocence---but hasn't used it.
 **Status:** Independent master (left House Ironforge to pursue pure
 craft)
 
-The greatest living smith in Tirvandor---a claim few dispute. Born in
+The greatest living smith in Tirvandor, a claim few dispute. Born in
 1049 CR, Gundren showed talent young. By fifty, he crafted better blades
 than smiths twice his age. By one hundred, his work was famous. By one
 hundred fifty, he was legendary.
 
 **His Philosophy:**
 
-Gundren left House Ironforge at age 120---not in anger, but to pursue
+Gundren left House Ironforge at age 120, not in anger, but to pursue
 pure craft without politics. He travels, taking commissions, teaching,
 always learning. He's studied with every major smith in both kingdoms
 and beyond.
 
-His masterwork is Ironheart, his Steel Defender---a mechanical bear
+His masterwork is Ironheart, his Steel Defender, a mechanical bear
 companion that took ten years to build, combining smithing, magic, and
 artifice.
 
@@ -45080,7 +45038,7 @@ artifice.
 \column
 **Secrets:**
 
-*The Masterpiece Quest:* Has a secret project---recreating a legendary
+*The Masterpiece Quest:* Has a secret project, recreating a legendary
 artifact called the "Worldforge Hammer" lost centuries ago. He's
 gathered fragments of lore and is close to understanding its creation.
 
@@ -45098,7 +45056,7 @@ disapprove.
 
 **Title:** Master of the Silverpine Artisan Guild | **Race:** Elf | **Age:** Approximately 250 | **Location:** Silverpine
 
-Master of the Silverpine Artisan Guild for sixty-seven years (since 1180 CR), apprenticed to both elven woodcarvers and human jewelers. His breakthrough piece---a crown for the Lord Silverleaf wedding---established his reputation across both continents. Family has crafted fine jewelry and decorative weapons for six generations.
+Master of the Silverpine Artisan Guild for sixty-seven years (since 1180 CR), apprenticed to both elven woodcarvers and human jewelers. His breakthrough piece, a crown for the Lord Silverleaf wedding, established his reputation across both continents. Family has crafted fine jewelry and decorative weapons for six generations.
 
 #### Merchant Lord Cornelius Goldpurse
 
@@ -45128,7 +45086,7 @@ Master of the Silverpine Artisan Guild for sixty-seven years (since 1180 CR), ap
 A well-dressed halfling with an expensive wardrobe and the confident
 bearing of old money. Pleasant face, shrewd eyes, and hands soft from
 counting coins rather than labor. Everything about him projects
-successful merchant---which is exactly the point.
+successful merchant, which is exactly the point.
 
 **Background:**
 
@@ -45140,7 +45098,7 @@ wealth worked, and how to hate.
 When his master died (of "natural causes" involving poisoned wine), the
 slave stole his identity papers, emergency fund, and ship. Fled to
 Goldreach where no one knew the real Cornelius. Built an empire from
-nothing using skills learned watching his master---and a ruthlessness
+nothing using skills learned watching his master, and a ruthlessness
 born from suffering.
 
 Now he's one of the wealthiest merchants in Thaldros. Controls shipping
@@ -45174,7 +45132,7 @@ Sundara while publicly maintaining a mask of amoral capitalism.
 
 **Secrets:**
 
-1.  Murdered his master---the body is buried under his first warehouse
+1.  Murdered his master, the body is buried under his first warehouse
 2.  The "Cornelius Goldpurse" identity is stolen
 3.  Funds abolition efforts throughout Sundara
 4.  Has enough blackmail material to destabilize the kingdom
@@ -45258,9 +45216,9 @@ he's almost become the man he killed.
 **Secrets:**
 
 1.  Murdered the real Kael Icewind 30 years ago
-2.  The body was never found---hidden in a glacier
+2.  The body was never found, hidden in a glacier
 3.  Has been slowly eliminating anyone who knew the real Kael
-4.  Starting to wonder if he should reveal the truth---tired of the
+4.  Starting to wonder if he should reveal the truth, tired of the
     pretense
 
 **Plot Hooks:**
@@ -45294,7 +45252,7 @@ he's almost become the man he killed.
 
 **Appearance:**
 
-Thordak's fire genasi heritage is unmistakable---skin with a slight
+Thordak's fire genasi heritage is unmistakable, skin with a slight
 orange tint, hair that seems to smolder, and eyes like cooling lava.
 Massively built from centuries at the forge. Wears heat-resistant
 clothing and a legendary red dragon hide apron.
@@ -45315,7 +45273,7 @@ kings and heroes alike.
 
 -   Can craft items up to very rare quality.
 
--   Immune to extreme heat---can handle molten metal.
+-   Immune to extreme heat, can handle molten metal.
 
 -   Expert at identifying and repairing magical weapons.
 
@@ -45335,7 +45293,7 @@ kings and heroes alike.
 
 **Secrets:**
 
-1.  Unknowingly forged a cursed weapon for a cult agent---the guilt
+1.  Unknowingly forged a cursed weapon for a cult agent, the guilt
     haunts him
 2.  Has a stockpile of volcanic metal that could equip an army
 3.  Knows how to forge weapons that can harm normally immune creatures
@@ -45415,7 +45373,7 @@ His personal fortune rivals some noble houses, but he lives simply.
 
 **Secrets:**
 
-1.  His quarries have breached something ancient---he's sealed it rather
+1.  His quarries have breached something ancient. He's sealed it rather
     than report it
 2.  Knows about mineral deposits worth more than some kingdoms
 3.  Has been approached by multiple factions wanting exclusive access
@@ -45450,7 +45408,7 @@ His personal fortune rivals some noble houses, but he lives simply.
 **Status:** Running a free clinic
 
 Sister Marian runs a free clinic in Goldreach's poorest district. Known
-for healing anyone---criminals, monsters, enemies. Some call her a
+for healing anyone: criminals, monsters, enemies. Some call her a
 saint; others call her dangerously naive.
 
 
@@ -45461,12 +45419,12 @@ and Inquisition prisoners alike. She has harbored fugitives she knew
 were guilty. She believes Sera's mercy extends to everyone.
 
 The poor love her. The church hierarchy is uncomfortable with her
-methods. The Syndicate leaves her clinic alone---even criminals need
+methods. The Syndicate leaves her clinic alone, even criminals need
 healers.
 
 **Secrets:**
 
--   Has healed both Syndicate bosses and Inquisition prisoners---never
+-   Has healed both Syndicate bosses and Inquisition prisoners, never
     refuses.
 
 -   Once harbored a fugitive she knew was guilty.
@@ -45525,7 +45483,7 @@ That was fifteen years ago. He stayed because the soldiers needed him.
 Somewhere along the way, his faith cracked. He prays the words but feels
 nothing. Performs the rituals but wonders if anyone listens. He
 continues because the soldiers need someone to believe in
-something---and he won't abandon them to despair even as he drowns in
+something, and he won't abandon them to despair even as he drowns in
 his own.
 
 **What Broke Him:**
@@ -45536,7 +45494,7 @@ given last rites to. He dreams their faces.
 
 **Secrets:**
 
--   Hasn't felt divine presence in years---fakes it for the soldiers.
+-   Hasn't felt divine presence in years, fakes it for the soldiers.
 
 -   Dreams the faces of every soldier he's given last rites.
 
@@ -45578,7 +45536,7 @@ Syndicate.
 
 Silas is loyal to Master Crimson and efficient in his operations. He
 maintains good relations with the city watch through selective
-information sharing---giving up amateurs and competitors while
+information sharing, giving up amateurs and competitors while
 protecting professional Syndicate operations.
 
 {{pageNumber,auto}}
@@ -45604,14 +45562,14 @@ and he can connect them to the broader underworld if necessary.
 
 **Status:** Independent (not affiliated with Syndicate)
 
-Nobody knows Whisper's real name, face, or gender---they use disguises
+Nobody knows Whisper's real name, face, or gender. They use disguises
 constantly. Known only by reputation: if it can be stolen, Whisper can
 steal it. Never kills. Takes jobs purely for the challenge. Has
 humiliated the Shadow Syndicate twice.
 
 **The Truth:**
 
-Whisper is actually three people working together---siblings who share
+Whisper is actually three people working together, siblings who share
 the identity. One of them is dying, and they're searching for a cure.
 They once stole from a dragon and lived.
 
@@ -45647,15 +45605,15 @@ They once stole from a dragon and lived.
 
 Massive and heavily scarred, Thorne is built like a man who's spent his
 life in violence. He has a shaved head, a thick beard, and cold gray
-eyes that show no mercy. He wears functional armor---chain shirt under
-leathers---and carries a well-used greataxe that's seen more blood than
+eyes that show no mercy. He wears functional armor, chain shirt under
+leathers, and carries a well-used greataxe that's seen more blood than
 most battlefields.
 
 **Background:**
 
 Thorne leads a band of 30 bandits operating in the wilderness between
 Goldreach and Silverpine. Called "The Butcher" because he doesn't leave
-witnesses. Actually quite strategic---only attacks targets he can
+witnesses. Actually quite strategic, only attacks targets he can
 overwhelm completely.
 
 What most don't know is that Thorne was once a soldier. A good one. He
@@ -45664,8 +45622,8 @@ noble who faced no consequences. Thorne snapped. Killed the noble's
 guards, fled into the wilderness, and never looked back.
 
 Now he takes from the rich, kills those who resist, and shares the
-spoils with his loyal band. He's not a folk hero---he's too brutal for
-that---but he's consistent. He only attacks those who can afford to
+spoils with his loyal band. He's not a folk hero. He's too brutal for
+that, but he's consistent. He only attacks those who can afford to
 lose.
 
 **Connections:**
@@ -45696,7 +45654,7 @@ lose.
 
 -   Could be redirected toward his real target.
 
--   The revenge angle adds depth---not just a mindless killer.
+-   The revenge angle adds depth, not just a mindless killer.
 
 -   His intelligence network might have useful information.
 
@@ -45721,7 +45679,7 @@ quarter)
 
 **Appearance:**
 
-Helena is unremarkable by design---middle-aged, medium build,
+Helena is unremarkable by design, middle-aged, medium build,
 forgettable features. She dresses as a respectable merchant woman and
 runs what appears to be a legitimate tea shop. Her eyes, however, are
 sharp and calculating, missing nothing.
@@ -45729,7 +45687,7 @@ sharp and calculating, missing nothing.
 **Background:**
 
 Helena arranges the movement of goods that can't move through legal
-channels. Not a smuggler herself---she connects smugglers with clients.
+channels. Not a smuggler herself. She connects smugglers with clients.
 Her tea shop is a front, but the tea is actually excellent, which
 provides cover for the constant stream of visitors.
 
@@ -45751,10 +45709,10 @@ records. Everything is in her head.
 
 **Secrets:**
 
-1.  Her brother is a customs officer she hasn't spoken to in years---the
+1.  Her brother is a customs officer she hasn't spoken to in years, the
     family rift stems from her chosen profession
-2.  Uses some profits to fund an orphanage---guilt from her past
-3.  Once helped smuggle refugees from Aethoria---pro bono, pure
+2.  Uses some profits to fund an orphanage, guilt from her past
+3.  Once helped smuggle refugees from Aethoria, pro bono, pure
     conscience
 
 **Plot Hooks:**
@@ -45763,7 +45721,7 @@ records. Everything is in her head.
 
 -   Might need help with a complicated job that requires deniability.
 
--   The brother creates potential drama---what if he's assigned to
+-   The brother creates potential drama, what if he's assigned to
     investigate her?
 
 -   Could be a useful contact for morally gray parties.
@@ -45792,7 +45750,7 @@ records. Everything is in her head.
 
 **Appearance:**
 
-Athletic and graceful, Miranda has the build of an acrobat---lean
+Athletic and graceful, Miranda has the build of an acrobat—lean
 muscle, quick movements, always aware of exits. She has short dark hair,
 keen brown eyes, and calloused hands that reveal her profession. Dresses
 practically in dark clothing that allows freedom of movement.
@@ -45821,9 +45779,9 @@ matters.
 
 **Secrets:**
 
-1.  Saving money to buy her family's farm back---lost to debt when she
+1.  Saving money to buy her family's farm back, lost to debt when she
     was a child
-2.  Stole something she shouldn't have---doesn't know what it is, but
+2.  Stole something she shouldn't have, doesn't know what it is, but
     powerful people are looking for it
 3.  Has a soft spot for street kids who remind her of herself
 
@@ -45889,9 +45847,9 @@ disappear into the forest like she never existed.
 **Secrets:**
 
 1.  Discovered something in the deep forest that should not
-    exist---hasn't told anyone
+    exist, hasn't told anyone
 2.  Her departure from the Forest Guard involved exposing
-    corruption---they want her silenced
+    corruption. They want her silenced
 3.  Has a network of animal friends who report to her
 
 **Plot Hooks:**
@@ -45922,7 +45880,7 @@ disappear into the forest like she never existed.
 
 **Appearance:**
 
-Elena presents as a respectable antique dealer---well-dressed, cultured,
+Elena presents as a respectable antique dealer, well-dressed, cultured,
 with gray-streaked dark hair and refined features. Her shop is cluttered
 with genuine antiques and art. Her eyes are calculating but warm, making
 clients feel at ease.
@@ -45938,7 +45896,7 @@ clients feel at ease.
 
 Elena runs Goldreach's best fence operation from behind a legitimate
 antique shop. Professional, discreet, never asks questions. She was once
-a minor noble who lost everything to gambling---rebuilt from nothing
+a minor noble who lost everything to gambling, rebuilt from nothing
 using skills learned watching her father's merchants.
 
 She has two rules: no stolen religious items (bad luck) and no items
@@ -45957,11 +45915,11 @@ negotiable.
 
 **Secrets:**
 
-1.  Still owns her family's title (in exile)---could theoretically
+1.  Still owns her family's title (in exile), could theoretically
     reclaim it
-2.  Has one item she'll never sell---her mother's necklace, which
+2.  Has one item she'll never sell, her mother's necklace, which
     contains a map to something valuable
-3.  Quietly helps escaped slaves---provides new identities and passage
+3.  Quietly helps escaped slaves, provides new identities and passage
 
 **Plot Hooks:**
 
@@ -45995,12 +45953,12 @@ negotiable.
 
 Lean and athletic, built for speed rather than strength. Has quick eyes
 that are always checking exits and routes. Dresses in practical running
-clothes and soft-soled boots. Nothing about him stands out---which is
+clothes and soft-soled boots. Nothing about him stands out, which is
 intentional.
 
 **Background:**
 
-Alden is the fastest courier in Kaer Thandros---known for delivering
+Alden is the fastest courier in Kaer Thandros, known for delivering
 messages when teleportation isn't an option and discretion is required.
 Delivers to anyone, no questions asked. His neutrality is absolute: he's
 carried love letters, death threats, ransom demands, and peace
@@ -46008,7 +45966,7 @@ offerings, all with the same professional detachment.
 
 He started running messages as a street kid and discovered he had two
 gifts: speed and the ability to be forgettable. He's built a reputation
-for reliability that makes him valuable to everyone---which keeps him
+for reliability that makes him valuable to everyone, which keeps him
 safe from everyone.
 
 **Capabilities:**
@@ -46021,7 +45979,7 @@ safe from everyone.
 
 -   Knows every alley, rooftop, and shortcut in the city.
 
--   Completely neutral---delivers for anyone.
+-   Completely neutral, delivers for anyone.
 
 {{pageNumber,auto}}
 {{footnote Chapter 66: Miscellaneous NPCs}}
@@ -46039,12 +45997,12 @@ safe from everyone.
 
 **Secrets:**
 
-1.  Has delivered messages that changed kingdoms---knows it, says
+1.  Has delivered messages that changed kingdoms, knows it, says
     nothing
 2.  Knows which nobles are corresponding with which enemies
-3.  Keeps a mental record of every delivery---potential blackmail
+3.  Keeps a mental record of every delivery, potential blackmail
     material he's never used
-4.  Once delivered a message that led to someone's death---still haunted
+4.  Once delivered a message that led to someone's death, still haunted
     by it
 
 **Plot Hooks:**
@@ -46101,22 +46059,22 @@ compasses and divination unreliable.
 
 Controls a giant crocodile named "Sweetness." Uses it to eliminate
 troublemakers who hire her for nefarious purposes. Sweetness' eggs are
-about to hatch---when they do, Grizelda will control a pack of giant
+about to hatch, when they do, Grizelda will control a pack of giant
 crocodiles.
 
 **Secrets:**
 
 -   Knows the location of a hidden village of escaped slaves deep in the
-    swamp---protects their secret absolutely.
+    swamp, protects their secret absolutely.
 
 -   Has transported "sleeping" people for Lady Morgana, suspects they
     become her undead servants.
 
 -   Discovered a pre-Worldrend temple beneath the black water, took one
-    artifact and never returned---something down there is still alive.
+    artifact and never returned, something down there is still alive.
 
 -   Knows a route through the swamp that leads to a tear between
-    worlds---fey creatures use it.
+    worlds, fey creatures use it.
 
 ### 66.5 Scholars and Seers
 
@@ -46161,7 +46119,7 @@ caravan that goes out comes
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-princess-yasmin.jpg){width:260px}</div>
 
-back with legal goods---and hidden relics
+back with legal goods, and hidden relics
 from ruins her workers have uncovered.
 
 Now has the largest private collection of pre-Worldrend artifacts in
@@ -46172,12 +46130,12 @@ actually a merchant princess.
 
 **Secrets:**
 
--   Over 200 artifacts hidden in a secret vault---some dangerous, some
+-   Over 200 artifacts hidden in a secret vault, some dangerous, some
     priceless, all technically illegal.
 
 -   Has published twelve papers under her pseudonym.
 
--   One piece in her collection pulses with energy---she doesn't know
+-   One piece in her collection pulses with energy. She doesn't know
     what it does, afraid to find out.
 \column
 #### Sage Veridian Runereader
@@ -46205,7 +46163,7 @@ ink-stained fingers. Carries notebooks everywhere.
 
 **Background:**
 
-Veridian's name honors Archmage Veridian Starweaver---his parents were
+Veridian's name honors Archmage Veridian Starweaver, his parents were
 scribes who hoped naming their son after the famous University wizard
 would bring him luck. It worked; he's become one of the foremost
 scholars of runic magic in Thaldros, able to read inscriptions that have
@@ -46244,7 +46202,7 @@ language used by the civilization that caused the Worldrend.
 1.  Has translated texts that reveal truths about the Worldrend that
     could destabilize kingdoms
 2.  Knows the location of at least three sealed pre-Worldrend vaults
-3.  One inscription he translated was a warning---and he's not sure if
+3.  One inscription he translated was a warning, and he's not sure if
     it's already come true or is still coming
 
 **Plot Hooks:**
@@ -46280,7 +46238,7 @@ language used by the civilization that caused the Worldrend.
 **Appearance:**
 
 A gnome with wild gray hair that seems to have its own plans, Tobias has
-the look of someone who's survived multiple explosions---because he has.
+the look of someone who's survived multiple explosions, because he has.
 Soot-stained apron, thick goggles pushed up on his forehead, and fingers
 that are constantly twitching as if assembling something invisible.
 
@@ -46291,7 +46249,7 @@ that are constantly twitching as if assembling something invisible.
 Tobias represents the cutting edge of magical craftsmanship in Thaldros.
 He combines traditional enchanting with mechanical innovation, creating
 items that blur the line between magic and engineering. His workshop is
-famous for its controlled chaos---every surface covered with works in
+famous for its controlled chaos, every surface covered with works in
 progress.
 
 He trained under dwarven smiths, studied with elven enchanters, and
@@ -46324,11 +46282,11 @@ sought-after craftsmen in the kingdom.
 
 **Secrets:**
 
-1.  Unknowingly forged a cursed weapon for a cult agent---the guilt
+1.  Unknowingly forged a cursed weapon for a cult agent, the guilt
     haunts him
 2.  Has reverse-engineered several pre-Worldrend artifacts
 
-3.  Keeps a prototype that could revolutionize warfare locked away---too
+3.  Keeps a prototype that could revolutionize warfare locked away, too
     dangerous to release
 4.  His "failures" are hidden in a vault; some aren't as failed as he
     claims
@@ -46374,7 +46332,7 @@ Incorruptible watch captain who rose through the ranks on competence and stubbor
 **Status:** Crown servant
 
 Viktor extracts confessions for the Crown. Works alongside High
-Inquisitor Mordain but serves a different master---pure pragmatism, not
+Inquisitor Mordain but serves a different master, pure pragmatism, not
 faith. Believes everyone is guilty of something; his job is finding out
 what.
 
@@ -46382,7 +46340,7 @@ what.
 
 After one minute of conversation, Viktor knows a target's emotional
 state and likely motivations. His ability to break wills is supernatural
-in nature---targets find themselves compelled to answer questions
+in nature, targets find themselves compelled to answer questions
 truthfully.
 
 
@@ -46410,7 +46368,7 @@ truthfully.
 
 **Status:** Active knight
 
-Sir Garrett is the ideal knight---brave, honest, and completely unsuited
+Sir Garrett is the ideal knight: brave, honest, and completely unsuited
 to politics. Quests for justice, protects the weak, and struggles with a
 world more complicated than his code allows.
 
@@ -46438,7 +46396,7 @@ constantly collides with gray reality.
 
 -   The inappropriate love interest creates drama.
 
--   Represents what paladins should be---and the cost of that ideal.
+-   Represents what paladins should be, and the cost of that ideal.
 
 #### Quartermaster Thorna Ironprice
 
@@ -46478,7 +46436,7 @@ what's been stolen.
 \page
 
 Worked her way up through the Merchant League, eventually being posted
-to Crossvale---the most important distribution hub in Thaldros. Has
+to Crossvale, the most important distribution hub in Thaldros. Has
 managed the League warehouse for 80 years, outlasting five
 Burgher-Masters and three regional directors.
 
@@ -46512,7 +46470,7 @@ where every item she's ever handled ended up. They're not wrong.
 
 **Secrets:**
 
-1.  Her photographic memory includes every suspicious shipment---she
+1.  Her photographic memory includes every suspicious shipment. She
     knows who's smuggling what
 2.  Has been blackmailing three nobles for decades over "misdelivered"
     packages
@@ -46548,7 +46506,7 @@ where every item she's ever handled ended up. They're not wrong.
 
 **Appearance:**
 
-A soldier's soldier---disciplined posture, practical uniform, everything
+A soldier's soldier, disciplined posture, practical uniform, everything
 in perfect order. Has the calloused hands of someone who inspects every
 shipment personally. Gray-streaked brown hair, honest eyes, and a
 reputation for being absolutely incorruptible.
@@ -46558,7 +46516,7 @@ reputation for being absolutely incorruptible.
 
 Korvan manages supplies for the Iron Legion's eastern garrison. Every
 bolt, every ration, every horseshoe passes through his hands. He's built
-a reputation for incorruptibility that makes some people nervous---those
+a reputation for incorruptibility that makes some people nervous. Those
 who profit from the usual supply chain corruption.
 
 \column
@@ -46579,7 +46537,7 @@ soldiers under his watch have what they need, when they need it.
 
 -   Maintains perfect inventory records.
 
--   Incorruptible---multiple attempts have failed.
+-   Incorruptible, multiple attempts have failed.
 
 **Connections:**
 
@@ -46587,7 +46545,7 @@ soldiers under his watch have what they need, when they need it.
 
 -   Works with the Merchant League for supplies.
 
--   Has caught corruption before---made enemies.
+-   Has caught corruption before—made enemies.
 
 -   Iron Legion soldiers respect him.
 
@@ -46596,9 +46554,9 @@ soldiers under his watch have what they need, when they need it.
 **Secrets:**
 
 1.  Has evidence of a supply fraud scheme involving a noble house
-2.  Someone is stealing from the military---he's building a case quietly
+2.  Someone is stealing from the military. He's building a case quietly
 3.  Keeps copies of evidence in multiple locations
-4.  Has been approached by foreign agents---reported them, but they're
+4.  Has been approached by foreign agents, reported them, but they're
     persistent
 
 **Plot Hooks:**
@@ -46646,7 +46604,7 @@ self.
 
 **Secrets:**
 
--   His old party didn't all retire---some died, one turned evil, one
+-   His old party didn't all retire, some died, one turned evil, one
     is now a lich.
 
 -   He knows where their final quest ended and what they found there.
@@ -46691,7 +46649,7 @@ comfort to anyone who needs it.
 
 **Secrets:**
 
--   Performed a forbidden ritual once to save a dying child---it worked,
+-   Performed a forbidden ritual once to save a dying child. It worked,
     but he's never been sure if he did right.
 
 -   That child is now a powerful figure in the city.
@@ -46731,7 +46689,7 @@ comfort to anyone who needs it.
 
 **Status:** Tenured but eccentric faculty
 
-Aramil studies the Worldrend---not its history, but its ongoing effects
+Aramil studies the Worldrend, not its history, but its ongoing effects
 on magic. Believes residual damage to reality is still spreading. Most
 scholars think he's paranoid.
 
@@ -46743,7 +46701,7 @@ they're correct.
 
 **Secrets:**
 
--   His research is correct---reality is still damaged.
+-   His research is correct, reality is still damaged.
 
 -   He's found evidence of deliberate sabotage of repair efforts.
 
@@ -46772,7 +46730,7 @@ they're correct.
 **Status:** Master craftsman
 
 Aldrick builds homes, ships, and siege equipment with equal skill. His
-father built the royal palace, and Aldrick maintains it---meaning he
+father built the royal palace, and Aldrick maintains it, meaning he
 knows every secret passage and hidden room.
 
 **His Knowledge:**
@@ -46841,7 +46799,7 @@ white robes with silver constellations that slowly move.
 **Background:**
 
 The Guardian has no name that mortal tongues can speak. It exists at the
-intersection of the material world and the planes beyond---a sentinel
+intersection of the material world and the planes beyond, a sentinel
 that watches the places where reality grows thin. It has stood guard
 since before the Worldrend, perhaps since before recorded history.
 
@@ -46851,7 +46809,7 @@ politics, doesn't distinguish between good and evil, only between
 authorized and unauthorized, stable and unstable, safe and dangerous.
 
 It can be bargained with, though the currency it accepts is
-unusual---memories, promises, years of life, or services rendered. Those
+unusual: memories, promises, years of life, or services rendered. Those
 who earn its favor gain access to knowledge and passages others can
 never find. Those who anger it tend to disappear entirely.
 
@@ -46898,7 +46856,7 @@ never find. Those who anger it tend to disappear entirely.
 
 **Plot Hooks:**
 
--   Could grant access to other planes---for a price.
+-   Could grant access to other planes, for a price.
 
 -   Might warn of planar threats.
 
@@ -46927,7 +46885,7 @@ never find. Those who anger it tend to disappear entirely.
 
 **Appearance:**
 
-K'Thrax has no single form---it is a collective consciousness housed in
+K'Thrax has no single form. It is a collective consciousness housed in
 a massive organic hive structure deep underground. The central mass is a
 pulsing network 
 
@@ -46941,7 +46899,7 @@ mouths.
 
 **Background:**
 
-K'Thrax has existed for over two thousand years---not as an individual,
+K'Thrax has existed for over two thousand years, not as an individual,
 but as a collective consciousness. It began as a single psionic horror
 colony that grew, absorbed others, and eventually achieved a form of
 immortality through the hive mind's preservation of all absorbed minds.
@@ -46949,13 +46907,13 @@ immortality through the hive mind's preservation of all absorbed minds.
 The colony was driven underground during the Worldrend, when surface
 races united against the "mind plague." For centuries, K'Thrax rebuilt
 in the deep places, consuming minds and growing in power. It developed
-patience that individual psionic horrors lack---the ability to plan
+patience that individual psionic horrors lack, the ability to plan
 across centuries.
 
 Its current territory spans a network of caverns connected to ancient
 dwarven deep roads. The dwarves know something terrible lurks below but
 have sealed those passages rather than confront it. K'Thrax is content
-with this arrangement---for now.
+with this arrangement, for now.
 
 **Capabilities:**
 
@@ -47037,7 +46995,7 @@ that broke her faith in civilization. She retreated to a remote valley
 and has lived as a hermit for sixty years, seeing visitors rarely and
 speaking in riddles when she does.
 
-Those who find her---and it's not easy---discover a woman of tremendous
+Those who find her, and it's not easy, discover a woman of tremendous
 knowledge and power who has chosen to disconnect from the world. She
 offers wisdom to those who earn it, warnings to those who need them, 
 and occasionally prophecies that prove disturbingly accurate.
@@ -47067,16 +47025,16 @@ and occasionally prophecies that prove disturbingly accurate.
 
 -   The valley itself seems to protect her.
 
--   Something she saw in her vision---she won't say what.
+-   Something she saw in her vision. She won't say what.
 
 **Secrets:**
 
-1.  Saw a vision of how the world ends---has spent sixty years trying to
+1.  Saw a vision of how the world ends, has spent sixty years trying to
     prevent it
 2.  Knows the location of several dangerous artifacts she's hidden
-3.  One of her prophecies concerns someone currently alive---she's
+3.  One of her prophecies concerns someone currently alive. She's
     watching them
-4.  Her "court mage" persona and apparent age of 89 are a cover---she is
+4.  Her "court mage" persona and apparent age of 89 are a cover. She is
     actually the same person known in other accounts as the fey-bargain
     spirit healer, and has lived for over four centuries. An ancient pact
     with a fey power sustains her far beyond a normal human lifespan.
@@ -47112,7 +47070,7 @@ and occasionally prophecies that prove disturbingly accurate.
 **Status:** Rising political figure
 
 Magnus organizes workers against unfair treatment. Not a
-revolutionary---yet---but he's moving in that direction as conditions
+revolutionary, yet, but he's moving in that direction as conditions
 worsen. Charismatic and genuinely cares about common people.
 
 **His Movement:**
@@ -47128,7 +47086,7 @@ That anger fuels his work but also makes him vulnerable to manipulation.
 
 **Secrets:**
 
--   Has been approached by Aethorian agents---he refused but didn't
+-   Has been approached by Aethorian agents. He refused but didn't
     report it.
 
 -   His wife was killed by hired thugs, not accidental violence.
@@ -47179,7 +47137,7 @@ Always armed, always watching.
 
 Katrina leads a small resistance cell in the border regions, fighting
 against what she sees as Thaldros's imperial ambitions. Her family was
-killed in a border raid---she blames the crown. What she doesn't know is
+killed in a border raid. She blames the crown. What she doesn't know is
 that the raid wasn't random; it was connected to something larger.
 
 Her cell of 12 fighters has been a thorn in the side of border patrols
@@ -47196,7 +47154,7 @@ intelligence for Aethoria. The crown has placed a bounty on her head.
 
 -   Inspires fierce loyalty in her followers.
 
--   Escape artist---has evaded capture multiple times.
+-   Escape artist, has evaded capture multiple times.
 
 **Connections:**
 
@@ -47204,13 +47162,13 @@ intelligence for Aethoria. The crown has placed a bounty on her head.
 
 -   Commands 12 fighters (the Embers).
 
--   Hated by border patrols---several have personal grudges.
+-   Hated by border patrols, several have personal grudges.
 
--   Her brother survived the raid---he's now a Thaldros soldier.
+-   Her brother survived the raid. He's now a Thaldros soldier.
 
 **Secrets:**
 
-1.  Her family's death wasn't a simple raid---it was connected to the
+1.  Her family's death wasn't a simple raid. It was connected to the
     Northern Pact
 2.  She doesn't know about the giants, but she's getting close to the
     truth
@@ -47259,7 +47217,7 @@ young red dragon, Kael lost half his family before he turned twelve.
 Combines scholarly research with practical hunting. Knows dragon
 anatomy, behavior patterns, territorial instincts, and weaknesses. Has
 written the definitive guide to dragon hunting (circulation
-restricted---they don't want amateurs trying).
+restricted. They don't want amateurs trying).
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-hunter-kael-dragonsbane.jpg){width:260px}</div>
 
@@ -47277,16 +47235,16 @@ he was out hunting. Came home to ash and bones.
 
 **Secrets:**
 
--   Knows about King Thandris V's bargain with Infernalix---suspects
+-   Knows about King Thandris V's bargain with Infernalix, suspects
     it's coming due soon.
 
 -   There's one dragon he befriended rather than killed, who shares
     information about dragonkind.
 
--   His injuries are worse than he lets on---some days he can barely
+-   His injuries are worse than he lets on, some days he can barely
     grip a sword.
 
--   Part of him wants to die fighting dragons---a death wish.
+-   Part of him wants to die fighting dragons, a death wish.
 
 {{pageNumber,auto}}
 {{footnote Chapter 66: Miscellaneous NPCs}}
@@ -47330,7 +47288,7 @@ Moss.
 
 **Background:**
 
-Galen's family name isn't inherited---it's earned. Three generations
+Galen's family name isn't inherited. It's earned. Three generations
 ago, his grandmother proved that forests could be harvested sustainably,
 that logging and preservation weren't enemies. Galen has continued her
 work, managing the Silverwood's timber trade while ensuring the forest
@@ -47367,7 +47325,7 @@ consider him an honorary member, though he's never taken their oaths.
 
 **Secrets:**
 
-1.  The forest has shown him visions of a coming threat---corruption
+1.  The forest has shown him visions of a coming threat, corruption
     spreading from an unknown source
 2.  Knows locations of hidden groves even the druids have forgotten
 3.  Has befriended a treant who sleeps in the deep forest
@@ -47408,7 +47366,7 @@ consider him an honorary member, though he's never taken their oaths.
 
 **Appearance:**
 
-Finnegan changes his appearance with his stories---sometimes a young
+Finnegan changes his appearance with his stories, sometimes a young
 minstrel, sometimes an old sage, always entertaining. His true form is a
 middle-aged half-elf 
 
@@ -47451,15 +47409,15 @@ position because stories need to travel to be alive.
 
 -   The University of Silverpine (honorary lecturer).
 
--   People who've become legends---he knew them when they were just
+-   People who've become legends. He knew them when they were just
     people.
 
 **Secrets:**
 
-1.  Knows which histories are lies---was there for the truth
+1.  Knows which histories are lies, was there for the truth
 2.  Has composed songs that have never been performed because they're
     too dangerous
-3.  Was present at several pivotal moments in history---some of which he
+3.  Was present at several pivotal moments in history, some of which he
     influenced
 
 **Plot Hooks:**
@@ -47468,7 +47426,7 @@ position because stories need to travel to be alive.
 
 -   His songs could reveal hidden truths.
 
--   Knows legends personally---could provide introductions.
+-   Knows legends personally—could provide introductions.
 
 -   Might commission the party for a task related to a new story.
 
@@ -47500,7 +47458,7 @@ Moves with controlled power, like a caged wolf.
 
 **Background:**
 
-Marcus protects the frontier from monsters---the irony isn't lost on
+Marcus protects the frontier from monsters, the irony isn't lost on
 him. Bitten three years ago by a werewolf he was hunting, he managed to
 keep his condition secret through sheer willpower and careful planning.
 He's learned to control the beast, mostly, but full moons are dangerous.
@@ -47541,8 +47499,8 @@ nights, or why he insists on "private patrols" monthly.
 **Secrets:**
 
 1.  Is a werewolf who's maintained control through discipline
-2.  Has an arrangement with a mountain werewolf pack---non-aggression
-3.  His bite would curse others---he's terrified of losing control
+2.  Has an arrangement with a mountain werewolf pack, non-aggression
+3.  His bite would curse others. He's terrified of losing control
 4.  The soldier who suspects plans to expose him
 
 **Plot Hooks:**
@@ -47574,7 +47532,7 @@ nights, or why he insists on "private patrols" monthly.
 **Status:** Chief of covert operations
 
 Niriel was born to a minor elven house five centuries ago and showed
-early talent for shadow magic---rare among elves, who typically favor
+early talent for shadow magic, rare among elves, who typically favor
 light and nature. Her family gave her a choice: abandon shadow magic or
 abandon the family.
 
@@ -47594,17 +47552,17 @@ knows there are two. This is how she's "everywhere."
 
 **Other Secrets:**
 
--   Maintains records of every operation---insurance against the Council
+-   Maintains records of every operation, insurance against the Council
     denying her existence.
 
--   Was once ordered to kill a member of her birth family---she faked
+-   Was once ordered to kill a member of her birth family. She faked
     the death instead.
 
 -   One of her agents is feeding information to someone; she's waiting
     to see where it leads.
 
 -   Searching for an artifact that could let her walk in daylight
-    again---shadow magic has made sunlight painful.
+    again, shadow magic has made sunlight painful.
 
 **Potential Uses:**
 
@@ -47636,7 +47594,7 @@ knows there are two. This is how she's "everywhere."
 
 **Appearance:**
 
-Kaelen's appearance is whatever he needs it to be---his skill with
+Kaelen's appearance is whatever he needs it to be, his skill with
 disguise is legendary. In his true form, he's a sharp-featured elf with
 silver-gray hair and eyes that seem 
 
@@ -47652,14 +47610,14 @@ a shadow, speaks rarely, and watches everything.
 Kaelen spent two centuries as one of the most effective agents the
 Unbound cult ever produced. He believed in their cause, executed their
 missions, and trained their assassins. Then he discovered what they
-truly planned---not reform or justice, but obliteration.
+truly planned, not reform or justice, but obliteration.
 
 His defection cost him everything. He's spent fifty years trying to undo
 the damage he caused, turning his skills against his former masters. He
 knows all their codes, their hidden bases, their members. They know he
 knows, and they've tried to kill him forty-three times.
 
-Now he works for the Aethorian Harmony---officially. Unofficially, he
+Now he works for the Aethorian Harmony, officially. Unofficially, he
 answers to no one, pursuing his own agenda of dismantling the cult that
 raised him.
 
@@ -47691,10 +47649,10 @@ raised him.
 
 **Secrets:**
 
-1.  Has a complete list of Unbound agents---including some in high
+1.  Has a complete list of Unbound agents, including some in high
     positions
 2.  Knows the location of the cult's main stronghold
-3.  One of his former students is now the cult's deadliest assassin---he
+3.  One of his former students is now the cult's deadliest assassin. He
     taught her everything
 4.  Has evidence that could topple governments
 
@@ -47729,7 +47687,7 @@ are further in the past.
 **The Seven Ascended:** The seven gods of Tirvandor, believed to have
 been mortal heroes who achieved divinity during the Age of Dawn.
 
-**The Primordials:** Elemental forces that predate the gods---Ignar
+**The Primordials:** Elemental forces that predate the gods, Ignar
 (Fire), Thalassia (Water), Terrax (Earth), Zephyros (Air), Verdania
 (Life), and Noctis (Shadow).
 
@@ -47885,7 +47843,7 @@ original IP that drives core storylines.
 
 
 The greatest secret of Tirvandor's cosmology involves seven imprisoned
-Primordial entities---beings of such power that they predate the gods
+Primordial entities, beings of such power that they predate the gods
 themselves. These Bound Ancients were sealed away during the Age of
 Myth, their prisons scattered beneath the world. The Worldrend weakened
 most of these prisons, and in the present day, the seals continue to
@@ -47895,15 +47853,15 @@ deteriorate.
 
 Imprisoned beneath Ironvault in the northern reaches of Thaldros, the
 Devourer embodies Hunger, Consumption, and Void. Its prison was the only
-one reinforced during the Worldrend---the Circle of Seven's desperate
+one reinforced during the Worldrend, the Circle of Seven's desperate
 ritual succeeded in strengthening this single seal while
 catastrophically weakening all others.
 
 Current prison status estimates breach in 20-30 years if no intervention
 occurs. Those corrupted by the Devourer's influence experience
 insatiable hunger that ultimately causes victims to consume themselves.
-The Obsidian Spire---a tower of pure obsidian that appeared after the
-Worldrend---is actually the visible portion of the Devourer's prison.
+The Obsidian Spire, a tower of pure obsidian that appeared after the
+Worldrend, is actually the visible portion of the Devourer's prison.
 No entrance exists; the structure IS the prison. Touching the spire
 requires a Wisdom save to avoid temporary madness.
 
@@ -47916,7 +47874,7 @@ weaken the seals.
 
 Imprisoned beneath Cloudspire in the remote regions of Aethoria, the
 Dreamer embodies Madness, Sleep, and Unreality. Its prison is in
-critical condition, estimated to breach in 10-15 years---the shortest
+critical condition, estimated to breach in 10-15 years, the shortest
 timeline of any Bound Ancient.
 
 Those corrupted by the Dreamer lose the ability to distinguish dreams
@@ -47932,7 +47890,7 @@ Threads, and Control. Its prison is in severe condition, estimated to
 breach in 15-20 years.
 
 Those corrupted by the Weaver experience a progressive loss of free
-will. First, small compulsions appear---the urge to take a particular
+will. First, small compulsions appear, the urge to take a particular
 path, to speak particular words. Eventually, victims become puppets,
 their every action dictated by strings they cannot see. The Weaver's
 corruption is particularly insidious because victims often believe they
@@ -47944,7 +47902,7 @@ Imprisoned beneath the Highcrown Ruins in the Contested Lands, the
 Tyrant embodies Dominion, Subjugation, and Absolute Authority. Its
 prison remains unstable but has not yet reached critical status.
 
-Those corrupted by the Tyrant become obsessed with control---first over
+Those corrupted by the Tyrant become obsessed with control, first over
 their own lives, then over others. The corruption manifests as an
 inability to tolerate any challenge to authority and a growing
 conviction that only total control can bring safety. Many petty tyrants
@@ -47960,18 +47918,18 @@ mask the entity's emanations.
 
 The Grand Warden of the Ashwardens, Volcanus Rex, maintains direct
 communication with the fire elemental that dwells beneath the
-volcano---but few know this, and fewer know that the elemental's true
+volcano, but few know this, and fewer know that the elemental's true
 purpose may be to guard against something far worse than eruptions.
 
 **The Storm**
 
 Imprisoned somewhere beneath the Sundering Sea, this Ancient embodies
 Destruction, Chaos, and Annihilation. The exact location has been lost,
-but the Riftmaw---a massive wound in reality where reality becomes
-unstable---may mark where this prison breached during the Worldrend.
+but the Riftmaw, a massive wound in reality where reality becomes
+unstable, may mark where this prison breached during the Worldrend.
 
 Ships pulled toward the Riftmaw rarely return. Those that do report
-reality itself becoming unstable---gravity reversing, time slowing,
+reality itself becoming unstable, gravity reversing, time slowing,
 elementals pouring through endless rifts. The Storm may have partially
 escaped during the Worldrend, which would explain the sea's
 unpredictable nature.
@@ -47994,7 +47952,7 @@ through ritual or misfortune.
 
 **Stage One: Touched**
 
-Initial exposure manifests as subtle physical changes---eye color
+Initial exposure manifests as subtle physical changes, eye color
 shifting, skin temperature fluctuating, subtle alterations to features.
 The victim gains resistance to fear but becomes more susceptible to the
 Ancient's influence. At this stage, the corruption can be removed
@@ -48007,7 +47965,7 @@ through standard curse-breaking magic.
 **Stage Two: Corrupted**
 
 Extended exposure or failure to resist causes the corruption to deepen.
-Physical changes become pronounced---tentacles, extra eyes, unnatural
+Physical changes become pronounced: tentacles, extra eyes, unnatural
 growths appropriate to the specific Ancient. The victim's personality
 begins to fade as the Ancient's nature overwrites their own. Removal
 now requires both Greater Restoration and curse-breaking magic in
@@ -48029,8 +47987,8 @@ direction to the prison.
 Within 100 feet of a breach, saves must be made hourly with
 disadvantage. Physical changes become visible immediately.
 
-Touching a corruption source---artifact, ichor, or the prison
-itself---triggers an immediate save with disadvantage, with failure
+Touching a corruption source: artifact, ichor, or the prison
+itself, triggers an immediate save with disadvantage, with failure
 advancing corruption by one stage instantly.
 
 ### J.3 The Circle of Seven and Their Legacy
@@ -48078,7 +48036,7 @@ first seal broke during the Worldrend. Now a corrupted ley nexus
 radiating void energy, reaching it requires water breathing, endurance
 against crushing pressure, and the will to resist constant corruption
 saves. Those who reach the Seal Chamber can attempt to repair the
-damage---or drain power from it for their own purposes, further
+damage, or drain power from it for their own purposes, further
 weakening the seal.
 
 ### J.4 The Blackwood Conspiracy
@@ -48098,8 +48056,8 @@ was executed, their lands seized, their name forbidden.
 **The Actual Truth**
 
 House Blackwood were guardians, not traitors. They had been sworn to
-protect the Shadow Shard---the First Component of the
-World-Splitter---since the aftermath of the Worldrend. Their sacred duty
+protect the Shadow Shard, the First Component of the
+World-Splitter, since the aftermath of the Worldrend. Their sacred duty
 was passed down through generations: never speak of it, never use it,
 never let it fall into wrong hands.
 
@@ -48109,15 +48067,15 @@ committed by the royal family itself.
 **The True Conspiracy**
 
 Approximately forty-three years before the present day (1204 CR), Prince
-Aldric---the eldest son of King Aldric III and older brother to the
-current king---discovered the Goldshore Keeper vaults beneath Kaer
+Aldric, the eldest son of King Aldric III and older brother to the
+current king, discovered the Goldshore Keeper vaults beneath Kaer
 Thandros. The Goldshore Keepers were a secret branch of House Goldshore
 charged with guarding the Flame Heart, the Second Component.
 
 Prince Aldric wanted the Component. He tried to sell it to dragon cults,
 promising to wake Dragon Infernalix in exchange for gold, power, and
 alliance. When the Goldshore Keepers discovered his treachery and
-confronted him, Prince Aldric murdered them all---every last member of
+confronted him, Prince Aldric murdered them all, every last member of
 the Keeper bloodline, including children. He made the massacre look like
 plague, and the main House Goldshore line survived without ever knowing
 their cousins' true purpose or their fate.
@@ -48126,9 +48084,9 @@ King Aldric III faced a choice: execute his own son for genocide and
 dragon-cult conspiracy, or find a scapegoat. He chose his son over
 justice.
 
-The surviving hidden Blackwood descendants---those who had escaped the
+The surviving hidden Blackwood descendants. Those who had escaped the
 original purge of 1089 CR and lived under assumed identities in remote
-regions---were targeted. They were hunted down, framed anew, and burned
+regions, were targeted. They were hunted down, framed anew, and burned
 alive where they hid. The Second Blackwood Purge of 1204 CR eliminated
 nearly all remaining members of the bloodline.
 
@@ -48148,7 +48106,7 @@ silence when it was over.
 
 
 For 43 years, Corvus has lived as a ghost. "Lord Shadows" is what his
-followers call him---the shadow of House Blackwood, refusing to die. He
+followers call him, the shadow of House Blackwood, refusing to die. He
 built a network called The Unbound, composed of others wronged by the
 powerful.
 
@@ -48156,8 +48114,8 @@ His investigation revealed the truth: Prince Aldric murdered the
 Goldshore Keepers and was protected by his father. King Aldric III then
 secretly executed Prince Aldric twenty years ago, making it look like a
 hunting accident. The middle son Marcus briefly inherited but died of
-fever as an infant-king. The current King Aldric IV---the third
-son---knows nothing of his family's crimes.
+fever as an infant-king. The current King Aldric IV, the third
+son—knows nothing of his family's crimes.
 
 **Lord Shadows' Goals**
 
@@ -48167,7 +48125,7 @@ Blackwood blood can open certain vaults, demonstrating the family were
 guardians), and expose the Thandris dynasty's centuries of lies.
 
 The threat of triggering a Second Worldrend is leverage. Despite his
-rhetoric, he doesn't actually want to destroy the world---he wants
+rhetoric, he doesn't actually want to destroy the world. He wants
 justice, the truth exposed, his family exonerated, those responsible
 punished.
 
@@ -48178,7 +48136,7 @@ would otherwise reject.
 
 **The Fourth Component's Secret**
 
-The Crown of Thaldros holds the Fourth Component---the Stone Crown---as
+The Crown of Thaldros holds the Fourth Component, the Stone Crown, as
 a royal heirloom. Few know its true nature, including the current king,
 who believes it to be merely ceremonial. The Stone Crown is embedded in
 the ceremonial helm worn at royal functions, hiding in plain sight.
@@ -48194,12 +48152,12 @@ withdrawing in 1201 CR to slumber beneath the royal palace.
 **The Secret**
 
 Infernalix's lair lies near the Goldshore Keeper vaults where the Flame
-Heart---the Second Component---was hidden. The dragon may be aware of
+Heart, the Second Component, was hidden. The dragon may be aware of
 the Component's presence, may be guarding it, or may be drawn by its
 power. The connection between the sleeping dragon and the World-Splitter
 Component is not coincidental.
 
-Some factions---particularly certain fire cults---seek to wake
+Some factions, particularly certain fire cults, seek to wake
 Infernalix deliberately. The Unbound plan involves recruiting fire
 cultists who can survive dragonfire to retrieve the Second Component
 from vaults dangerously close to the dragon's sleeping form.
@@ -48213,7 +48171,7 @@ secrets.
 
 **What Lies Beneath**
 
-The Void Fragment---the Third Component of the World-Splitter---sank
+The Void Fragment, the Third Component of the World-Splitter, sank
 with Palace Port during the Worldrend. It lies somewhere in the ruins,
 600 feet beneath the Sundering Sea. Whether its containment survived the
 sinking is unknown, as is whether anything now guards it.
@@ -48221,14 +48179,14 @@ sinking is unknown, as is whether anything now guards it.
 Both houses have unknowingly been searching near Component-adjacent
 areas during their salvage operations. The magical interference they've
 experienced, the unexplained deaths, the sense of being watched in the
-depths---these may all be effects of the Void Fragment's proximity.
+depths. These may all be effects of the Void Fragment's proximity.
 
 **The Goldshore Manor**
 
 A sunken estate called Goldshore Manor, once belonging to the Goldshore
 Keepers, contains records that could prove the Blackwood conspiracy if
 recovered. It also contains the remains of Keeper family
-members---spirits who could testify to Prince Aldric's crimes if
+members, spirits who could testify to Prince Aldric's crimes if
 properly contacted.
 
 {{pageNumber,auto}}
@@ -48241,12 +48199,12 @@ properly contacted.
 **The Forgotten Monastery**
 
 In the Ironspine Mountains, unmarked on any map, exists a monastery of
-monks who worship the Bound God---a forgotten deity whose name is taboo.
+monks who worship the Bound God, a forgotten deity whose name is taboo.
 They believe this entity will return and bring enlightenment.
 
 The monks possess a library of erased histories, a ritual chamber with
 time distortion effects, and a locked portal to a demiplane. They
-aren't evil---they genuinely seek knowledge. But their patron may be
+aren't evil. They genuinely seek knowledge. But their patron may be
 one of the Bound Ancients, and their devotion may be feeding its
 prison's deterioration.
 
@@ -48255,24 +48213,24 @@ prison's deterioration.
 The mysterious information broker known as Celeste, who runs an upscale
 tavern in Silverpine, is actually an ancient demon bound to the Material
 Plane seven hundred years ago. When the wizard who bound her died
-without descendants, she found a loophole---free to act but unable to
+without descendants, she found a loophole, free to act but unable to
 leave.
 \column
 She's spent centuries seeking a way home. The Worldrend damaged planar
 boundaries, and she believes understanding it might allow her escape.
 Her interest in pre-Worldrend history and anyone who might know more is
-not mere scholarly curiosity---it's survival.
+not mere scholarly curiosity. It's survival.
 
 **The Pattern**
 
-Certain ancient entities---including the Threshold Guardian that watches
-over planar crossings---serve a greater design that even they don't
+Certain ancient entities, including the Threshold Guardian that watches
+over planar crossings, serve a greater design that even they don't
 fully understand. They follow instructions from before the Worldrend,
 maintaining patterns whose purpose has been lost. The Worldrend damaged
 this pattern, and these beings have been improvising ever since.
 
 What the Pattern was meant to accomplish, what would happen if it were
-completed, and what the Bound Ancients' role in it might be---these
+completed, and what the Bound Ancients' role in it might be. These
 questions have no definitive answers. But the answers may be the key to
 preventing another Worldrend, or to understanding why the first one
 truly happened.
