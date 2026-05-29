@@ -42377,14 +42377,13 @@ on how it's framed.
 Thandris nor Aethermere has clear claim to High King. He's helping the
 King hide it.
 
-*His Wife's Death:* His wife died twenty years ago in what was ruled an
-accident. He knows it was murder. He knows who did it. He's been slowly
-destroying them ever since.
-
 {{pageNumber,auto}}
 {{footnote Chapter 62: Kaer Thandros NPCs}}
 \page
 
+*His Wife's Death:* His wife died twenty years ago in what was ruled an
+accident. He knows it was murder. He knows who did it. He's been slowly
+destroying them ever since.
 
 *Aethorian Contact:* Has a secret communication channel with a
 highly-placed Aethorian official. Not treason, "diplomatic
@@ -42483,9 +42482,6 @@ Commander of the Lightbringers Elite Strike Force. A determined holy warrior who
 
 #### Brother Tormund
 
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-tormund.jpg){width:325px}</div>
-
 **Title:** High Priest of the Temple of Mordain
 
 **Race:** Human
@@ -42493,10 +42489,6 @@ Commander of the Lightbringers Elite Strike Force. A determined holy warrior who
 **Age:** Mid-50s
 
 **Location:** Temple of Mordain, Kaer Thandros
-
-{{pageNumber,auto}}
-{{footnote Chapter 62: Kaer Thandros NPCs}}
-\page
 
 
 **Physical Description**
@@ -42522,6 +42514,12 @@ After recovering, he took holy orders. Transferred to Kaer Thandros in
 Now serves as the temple's head priest and chief counselor to soldiers
 struggling with the weight of their duties.
 
+{{pageNumber,auto}}
+{{footnote Chapter 62: Kaer Thandros NPCs}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-tormund.jpg){width:325px}</div>
+
 **Secrets:**
 
 *The Vision:* Saw a massive battle coming to Kaer Thandros, worse than
@@ -42542,7 +42540,6 @@ knows the name of someone who should be investigated.
 
 
 #### Watch Captain Gregor Ironhand
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-watch-captain-gregor-ironhand.jpg){width:325px}</div>
 
 **Title:** Watch Captain of the City Guard
 
@@ -42557,10 +42554,13 @@ knows the name of someone who should be investigated.
 Solid and dependable, with the weathered look of a career guardsman.
 Bears the scars of street fights and investigations gone wrong.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-watch-captain-gregor-ironhand.jpg){width:325px}</div>
+
 **Personality**
 
 Can't be bribed, not because he's rich, but because he genuinely
 believes in the law. Stubborn, honest, relentless.
+
 
 **Background**
 
@@ -42587,8 +42587,11 @@ arrest.
 
 Captain of the Outer Gates and Lightbringer affiliate. A vigilant dwarven guardsman with an uncanny ability to spot lies and forged documents, who has personally prevented three assassination attempts at the city gates.
 
-### 62.6 Guild Leaders and Craftsmen
+{{pageNumber,auto}}
+{{footnote Chapter 62: Kaer Thandros NPCs}}
+\page
 
+### 62.6 Guild Leaders and Craftsmen
 
 #### Master Smith Durgan Forgefire
 
@@ -42623,10 +42626,6 @@ Durgan showed talent early, forging his first blade at age thirty (young
 for dwarves). Journeyed to study other techniques: twenty years in
 Emberforge learning volcanic smithing, ten years in the Sundaran Expanse
 studying desert-forged steel.
-
-{{pageNumber,auto}}
-{{footnote Chapter 62: Kaer Thandros NPCs}}
-\page
 
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-smith-durgan-forgefire.jpg){width:325px}</div>
@@ -42704,7 +42703,13 @@ name, every favor, every slight.
 **Background**
 
 Born to a minor noble house, third daughter with no marriage prospects
-and no inheritance. Rather than accept obscurity, she made herself
+and no inheritance. Rather than 
+
+{{pageNumber,auto}}
+{{footnote Chapter 62: Kaer Thandros NPCs}}
+\page
+
+accept obscurity, she made herself
 indispensable to more powerful nobles, first as a companion, then as an
 advisor, then as a dealer in secrets.
 
@@ -42715,6 +42720,8 @@ members did. By thirty, she'd arranged three marriages, prevented two
 assassinations, and orchestrated the downfall of a duke who'd insulted
 her family.
 
+\column
+
 Now she's the unofficial "social secretary" of the court, the person
 nobles come to when they need something done discreetly. Marriage
 arrangements, scandal suppression, reputation rehabilitation, quiet
@@ -42724,10 +42731,6 @@ compensation.
 Never married herself. "Why bind myself to one house when I can
 influence them all?"
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 62: Kaer Thandros NPCs}}
-\page
 
 **Key Relationships:**
 
@@ -42772,7 +42775,7 @@ Information broker and criminal middleman who operates as a fence for stolen goo
 
 <div class="cvr-img-top">![Chapter 63: Silverpine NPCs](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-silverpine-university-city.jpg){height:450px}</div>
 
-{{margin-top:450px}}
+{{margin-top:370px}}
 
 ## Chapter 63: Silverpine NPCs
 
@@ -42812,18 +42815,16 @@ pragmatic about civilization's needs. Excellent judge of character who
 sees through deception. Values balance between preservation and
 progress.
 
-\column
-{{margin-top:555px}}
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-seraphine-silverleaf.jpg){width:260px}</div>
-
-{{pageNumber,auto}}
-{{footnote Chapter 63: Silverpine NPCs}}
-\page
 
 **Defining Principles:**
 
 -   "All life is interconnected. Harm one, harm all.".
+
+\column
+{{margin-top:370px}}
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-seraphine-silverleaf.jpg){width:325px}</div>
 
 -   "We don't own the forest. We're custodians for future
     generations.".
@@ -42833,6 +42834,10 @@ progress.
 **Personal Flaws:**
 
 -   Can be inflexible about protecting nature.
+
+{{pageNumber,auto}}
+{{footnote Chapter 63: Silverpine NPCs}}
+\page
 
 -   Holds ancient grudges (typical of her people).
 
@@ -42910,7 +42915,7 @@ aggression could destroy everything she's built. But who else is there?
 
 #### Ranger-Lord Arannis Silverleaf
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-arannis-silverleaf.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-arannis-silverleaf.jpg){width:325px}</div>
 
 **Title:** Commander of the Forest Guard, Heir to House Silverleaf
 
@@ -43018,7 +43023,7 @@ inherit. Part of him agrees. He's a better soldier than leader. But
 who else is there?
 
 #### Council Mistress Elara Silverleaf
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-mistress-elara-silverleaf.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-mistress-elara-silverleaf.jpg){width:325px}</div>
 
 **Title:** Rector of the University of Arcane Studies, Head of the
 Silverpine Council
@@ -43046,6 +43051,10 @@ before speaking, then speaks with authority. Uses hand gestures when
 explaining complex concepts. Corrects people politely when they're
 wrong.
 
+{{pageNumber,auto}}
+{{footnote Chapter 63: Silverpine NPCs}}
+\page
+
 **Defining Principles:**
 
 -   "An educated populace is a free populace.".
@@ -43063,11 +43072,6 @@ wrong.
 -   Underestimates non-magical solutions to problems.
 
 -   Workaholic, hasn't taken vacation in fifty years.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 63: Silverpine NPCs}}
-\page
 
 **Background**
 
@@ -43170,8 +43174,6 @@ are either fascinated or scared of her. Speaks in riddles that often
 make sense only in retrospect.
 
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-professor-elara-moonwhisper.jpg){width:260px}</div>
-
 **Background**
 
 Born in Silverpine to House Silverleaf retainers. Showed magical talent
@@ -43180,15 +43182,17 @@ young age of forty-five (for elves). Studied under the legendary Council
 Mistress Elara Silverleaf (her namesake, no relation), developing a
 passion for divination and celestial magic.
 
-{{pageNumber,auto}}
-{{footnote Chapter 63: Silverpine NPCs}}
-\page
-
 Her thesis work connected astronomical observations to ley line
 fluctuations, proving that celestial events influence magical currents.
 This groundbreaking research earned her a professorship at age one
 hundred twenty, making her one of the youngest tenured faculty in the
 university's history.
+
+{{pageNumber,auto}}
+{{footnote Chapter 63: Silverpine NPCs}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-professor-elara-moonwhisper.jpg){width:325px}</div>
 
 The real turning point came in 1190 CR during a rare celestial
 alignment. Her observations that night showed her something that
@@ -43279,11 +43283,16 @@ spent twenty-seven years balancing the interests of academics,
 merchants, and common folk. Generally respected by all factions, trusted
 by most.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sp-councilor-mira-silvervein.jpg){width:260px}</div>
 
 Her defining moment: during a student riot fifteen years ago, she used
 mass enchantment to prevent bloodshed. Saved lives, but some call it
 mind control. She's never fully reconciled with it.
+
+{{pageNumber,auto}}
+{{footnote Chapter 63: Silverpine NPCs}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sp-councilor-mira-silvervein.jpg){width:325px}</div>
 
 **Key Relationships:**
 
@@ -43293,10 +43302,6 @@ mind control. She's never fully reconciled with it.
     university funding).
 
 -   **Contact:** Has connections to every major faction in Silverpine.
-
-{{pageNumber,auto}}
-{{footnote Chapter 63: Silverpine NPCs}}
-\page
 
 **Secrets:**
 
@@ -43334,7 +43339,7 @@ Serves as a bridge between the two cultures.
 
 #### Master Artisan Silvanus Brightforge
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-artisan-silvanus-brightforge.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-artisan-silvanus-brightforge.jpg){width:325px}</div>
 
 
 **Title:** Master of the Silverpine Artisan Guild
@@ -43349,7 +43354,7 @@ Serves as a bridge between the two cultures.
 
 Precise and meticulous, with the hands of a master craftsman. Eyes
 constantly evaluating materials, proportions, and quality.
-\column
+
 **Background**
 
 Apprenticed to both elven woodcarvers and human jewelers, developing a
@@ -43362,6 +43367,10 @@ died without an heir. Has led the guild for sixty-seven years,
 maintaining Silverpine's reputation as the center of artistic
 excellence. His waiting list is decades long; his prices are
 astronomical; his work is priceless.
+
+{{pageNumber,auto}}
+{{footnote Chapter 63: Silverpine NPCs}}
+\page
 
 **Key Relationships:**
 
@@ -43420,13 +43429,6 @@ beauty that hints at her true nature.
 Never takes sides. Sells information to anyone who can pay. Neutral
 arbiter of the underworld. Even the Syndicate respects her neutrality.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 63: Silverpine NPCs}}
-\page
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-madame-celeste.jpg){width:260px}</div>
-
 **Background**
 
 The being called "Celeste" was bound to the Material Plane seven
@@ -43445,6 +43447,8 @@ understanding the Worldrend. That continental-splitting catastrophe
 damaged the planar boundaries. If she could understand it, she might
 escape. So she gathers information about the pre-Worldrend world, the
 cataclysm itself, and anyone who might know more.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-madame-celeste.jpg){width:325px}</div>
 
 **Key Relationships:**
 
@@ -43474,6 +43478,10 @@ without cause. The binding's protection still restricts her.
 *The Church Hunter:* An Inquisitor suspects her nature. She's been
 feeding him false leads for decades, but he's getting close.
 
+{{pageNumber,auto}}
+{{footnote Chapter 63: Silverpine NPCs}}
+\page
+
 *The Real Goal:* Doesn't care about Material Plane politics. Only wants
 to go home. Everything else is means to that end.
 
@@ -43500,9 +43508,11 @@ Rarely seen in humanoid form, communicates through proxies. Leads the
 druidic circles that protect the deep forest. His opinions carry
 enormous weight with Lady Seraphine, though they don't always agree.
 
+\column
+
 Some believe he is an ancient treant. Others think he was once an elven
 druid who merged with the forest itself. He doesn't clarify.
- 
+
 ### 63.7 The Forest Guard
 
 
@@ -43520,7 +43530,7 @@ Commands the Silverpine chapter of the Ironspine Rangers, elite wilderness defen
 
 <div class="cvr-img-top">![Chapter 64: Goldreach NPCs](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-goldreach-docks-at-dawn.jpg){height:450px}</div>
 
-{{margin-top:450px}}
+{{margin-top:370px}}
 
 ## Chapter 64: Goldreach NPCs
 
@@ -43560,16 +43570,14 @@ Has spent decades building House Goldshore's fortune while nursing an
 obsession with recovering the lost Deepwater legacy. He is currently
 planning a major salvage operation to the sunken Palace Port, one that
 will inevitably bring conflict with House Crystalborn, whom he views not
-as distant cousins 
-
-\column
-{{margin-top:450px}}
-
-but as enemies who stole what rightfully belonged to
+as distant cousins but as enemies who stole what rightfully belonged to
 the western branch.
 
 His late wife, Lady Mirella, died in 1214 CR, a loss that some say
 changed his temperament from merely ruthless to bitterly vindictive.
+
+\column
+{{margin-top:370px}}
 
 **Key Relationships:**
 
@@ -43602,10 +43610,6 @@ preserving.
 
 **Race:** Human (half-elf heritage) | **Age:** 45 | **Location:** Goldshore Palace, Goldreach
 
-{{pageNumber,auto}}
-{{footnote Chapter 64: Goldreach NPCs}}
-\page
-
 Son of Lord Aldris III, Aldris IV handles day-to-day operations of House
 Goldshore and its vast merchant fleet. One of the wealthiest individuals
 in Tirvandor, he runs both legitimate trade and a massive smuggling
@@ -43619,7 +43623,13 @@ empire from Goldreach. See Section 37.5 for the complete entry.
 
 Idealistic heir to House Goldshore who sees wealth as responsibility
 rather than power. Secretly investigating her own father's criminal
-empire while trying to reform the family business from within.
+empire while 
+
+{{pageNumber,auto}}
+{{footnote Chapter 64: Goldreach NPCs}}
+\page
+
+trying to reform the family business from within.
 See Section 37.6 for the complete entry.
 
 #### Merchant Prince Davos Goldshore
@@ -43745,10 +43755,6 @@ warrior who has expanded the Iron Guild's operations while maintaining
 its ironclad reputation for contract reliability. See Section 61.5 for
 the complete entry.
 
-{{pageNumber,auto}}
-{{footnote Chapter 64: Goldreach NPCs}}
-\page
-
 ### 64.4 Merchant League Presence
 
 
@@ -43760,7 +43766,13 @@ the complete entry.
 **Race:** Half-Elf | **Age:** Mid-sixties | **Location:** Port Myrthen (primary), Goldreach offices
 
 Self-made merchant prince who sits on the Merchant League's inner
-council. Born in the gutters of Port Myrthen, now controls a trade
+council. Born in the gutters of Port 
+
+{{pageNumber,auto}}
+{{footnote Chapter 64: Goldreach NPCs}}
+\page
+
+Myrthen, now controls a trade
 empire spanning both continents. See Section 61.1 for the complete
 entry.
 
@@ -43866,7 +43878,7 @@ financial information in the kingdom.
 
 <div class="cvr-img-top">![Chapter 65: Historical and Legendary Figures](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-history-timeline-chapter-opener.jpg){height:450px,object-position:bottom}</div>
 
-{{margin-top:450px}}
+{{margin-top:370px}}
 
 ## Chapter 65: Historical and Legendary Figures
 
@@ -43903,13 +43915,7 @@ King Aldric had two sons:
     eastern mystics. Favored by mages and eastern nobility.
 
 The Worldrend struck during a succession crisis between the brothers.
-King Aldric and the Palace of 
-
-\column
-
-{{margin-top:450px}}
-
-Eternal Spring were destroyed in the
+King Aldric and the Palace of Eternal Spring were destroyed in the
 cataclysm. Both princes survived, Theron in the west, Aethos in the
 east, each claiming the other had died and proclaiming themselves the
 rightful heir.
@@ -43917,7 +43923,12 @@ rightful heir.
 **Legacy:**
 
 The dispute between their descendants (House Thandris and House
-Aethermere) continues 1,247 years later. Neither side knows the truth
+Aethermere) continues 1,247 years 
+
+\column
+{{margin-top:370px}}
+
+later. Neither side knows the truth
 about which brother was meant to inherit. All direct witnesses perished
 in the Worldrend.
 
@@ -43945,10 +43956,6 @@ The elder son of King Aldric the Wise. When the Worldrend struck, Theron
 was commanding military forces in the western territories. He survived
 the cataclysm and immediately claimed the throne as rightful High King.
 
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
-
 According to Thandris history, Prince Theron was the legitimate
 firstborn heir, and King Aldric was preparing to formally announce his
 succession when the Worldrend occurred. They claim Prince Aethos caused
@@ -43959,6 +43966,10 @@ would become the Thaldros kingdom, and began the bloodline that
 eventually produced the modern Thandris dynasty. His descendants
 fragmented into competing claims for centuries until King Thorin I
 Thandris finally united the western territories in 612 CR.
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
 
 #### Prince Aethos (Founder of House Aethermere)
 
@@ -44014,7 +44025,7 @@ infrastructure, establishing the Arcanum as the premier magical
 institution, and training the next generation of wizards.
 
 Then she walked into the Feywild and never returned, until now.
-\column
+
 **Current Status:**
 
 Celestine isn't dead. In the Feywild, time moves strangely. She's been
@@ -44077,13 +44088,15 @@ the Unification Wars (612-670 CR). While Prince Theron's bloodline had
 survived for six centuries, the western lands remained divided into
 competing kingdoms and warlords, each claiming legitimate succession.
 
+Thorin I ended that chaos. Through military might, political marriage,
+and sheer determination, he conquered or allied with every major western
+power. In 612 CR, he chose an ancient dwarven fortress site as 
+
 {{pageNumber,auto}}
 {{footnote Chapter 65: Historical and Legendary Figures}}
 \page
 
-Thorin I ended that chaos. Through military might, political marriage,
-and sheer determination, he conquered or allied with every major western
-power. In 612 CR, he chose an ancient dwarven fortress site as his seat
+his seat
 of power, a location that would become Kaer Thandros.
 
 **His Accomplishments:**
@@ -44163,7 +44176,7 @@ their own life.
 
 #### Aldric the Chain-Breaker
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/historical-aldric-chain-breaker.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/historical-aldric-chain-breaker.jpg){width:325px}</div>
 
 **Title:** The Liberator, Folk Hero, Founder of Aethorian Democracy
 
@@ -44189,6 +44202,10 @@ surrounded by the children of people he'd freed.
 -   His "Chain-Breaker's Creed" forms the philosophical foundation of
     Aethorian democracy.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 -   The Order of the Broken Chain (paladins) was founded in his memory.
 
 -   Both continents officially abolished slavery within fifty years of
@@ -44203,11 +44220,6 @@ inspire heroes fighting tyranny.
 
 *As a Vision:* Characters might receive prophetic visions of his life
 during crucial decisions.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
 
 *As a Legacy:* His descendants or the Order of the Broken Chain might
 play important roles.
@@ -44227,7 +44239,11 @@ modern heroes to him.
 
 #### Radiant the First Paladin
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-paladin-radiant-dawnbringer.jpg){width:325px}</div>
+
 **Title:** The First Paladin, Founder of the Lightbringers, Saint
+
+\column
 
 **Race:** Human
 
@@ -44247,8 +44263,6 @@ Born a farmer's daughter in what would become Silverpine, Radiant
 witnessed her village destroyed by undead. With nothing but a makeshift
 weapon and desperate faith, she stood against the horde and prayed to
 any god listening.
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-paladin-radiant-dawnbringer.jpg){width:260px}</div>
 
 Aethor answered. Light poured through her.
 
@@ -44292,8 +44306,6 @@ Not to be confused with Archmage Celestine. Saint Celestine was mortal
 once, a healer in a small village who tended the sick without thought
 of payment or recognition.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-saint-celestine-the-pure.jpg){width:260px}</div>
-
 **Her Ascension:**
 
 When plague struck during the post-Worldrend chaos, she worked herself
@@ -44305,15 +44317,17 @@ As her body failed, her spirit was caught up and transformed. She became
 a celestial being, not a god, but something close. A saint in the
 truest sense: a mortal soul elevated to divine service.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-saint-celestine-the-pure.jpg){width:325px}</div>
+
 **Her Role Today:**
 
 She serves as a guardian of healers, an inspiration to the selfless, and
 an enemy of plagues and corruption. Her presence is felt in hospitals
 and healing temples across 
-
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
 
 Tirvandor, where her blessing makes
 treatments more effective and gives strength to those who serve.
@@ -44350,7 +44364,7 @@ destruction.
 He tried military force, magical countermeasures, even assassination
 attempts. All failed. His kingdom was slowly dying.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-king-thandris-v.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-king-thandris-v.jpg){width:325px}</div>
 
 **The Bargain:**
 
@@ -44377,6 +44391,10 @@ The full terms remain secret, but certain elements are known:
 
 -   The consequences of default would be catastrophic
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 **His Secrets:**
 
 *The Contingency:* He created a weapon or countermeasure against the
@@ -44390,7 +44408,7 @@ bargain's activation approaching. Those signs are now appearing.
 
 #### Lord Emberthorn the Defiant (The Martyr)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-emberthorn-the-defiant.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-emberthorn-the-defiant.jpg){width:325px}</div>
 
 **Title:** Hero of the Blackwood Rebellion, The Martyr
 
@@ -44405,10 +44423,6 @@ during their attempted coup. He was a minor lord from the volcanic
 regions near Ashfall, not wealthy, not well-connected, but absolutely
 unwilling to bend to Blackwood intimidation.
 
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
-
 **His Defiance:**
 
 When Blackwood agents threatened his family, he sent them away and
@@ -44419,6 +44433,8 @@ from the ruins.
 
 When they offered him amnesty in exchange for surrender, he laughed and
 charged their lines.
+
+\column
 
 **His Death:**
 
@@ -44446,16 +44462,19 @@ gate he died defending, appearing when Kaer Thandros is threatened.
 
 ### 65.4 Scholars and Sages
 
-
 #### High Mage Arcturus (The Ghostly Keeper)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-high-mage-arcturus.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-high-mage-arcturus.jpg){width:325px}</div>
 
 **Title:** High Mage, Ghostly Keeper of Knowledge
 
 **Race:** Human (Ghost)
 
 **Lived:** Died approximately 3,000 years ago (timeline uncertain)
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
 
 **Location:** The Hidden Library (beneath Silverpine)
 
@@ -44496,8 +44515,6 @@ understanding, and pursue truth may earn his assistance.
 
 #### Sage Cornelius (The Immortal Historian)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sage-cornelius-the-elder.jpg){width:260px}</div>
-
 **Title:** Elder Sage, Wandering Scholar
 
 **Race:** Human (one-quarter elf, sustained by magical means)
@@ -44512,10 +44529,6 @@ genius loci)
 Records from a hundred years ago describe him as "the elderly sage
 Cornelius." Records from two hundred years ago say the same thing.
 Either he's found a way to extend his life 
-
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
 
 considerably, or there have
 been multiple people using the name. He claims the former.
@@ -44539,6 +44552,9 @@ research.
 combination of elven blood, alchemical treatments, and a binding to a
 genius loci that anchors his life force.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sage-cornelius-the-elder.jpg){width:325px}</div>
+
+
 *The Worldrend Witness:* He was alive during the Worldrend. He knows
 what caused it, and who.
 
@@ -44553,7 +44569,7 @@ ritual that he finds increasingly distasteful.
 
 #### Hermit Sage Morganna
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-morganna-whisperwind.jpg){width:260px}</div>
+
 
 **Title:** The Whispering Sage, Spirit Healer
 
@@ -44570,6 +44586,12 @@ medicine and magic. Then she dying patients, started hearing whispers, voices
 from the recently dead, from things that had never been
 alive. The voices drove her from the city, into the wilderness, where
 their chatter was quieter.
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-morganna-whisperwind.jpg){width:325px}</div>
 
 **Her Gift:**
 
@@ -44589,8 +44611,6 @@ know how to stop it.
 
 
 #### Infernalix (The Vanished Flame)
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-dragon-infernalix.jpg){width:210px}</div>
 
 **Title:** The Vanished Flame, The Sleeping Terror
 
@@ -44614,14 +44634,11 @@ or treasure, though he accumulated both. It was about finding something
 specific: a piece of the artifact that caused the Worldrend, which he
 believed could reunite the continents and restore his domain.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-dragon-infernalix.jpg){width:325px}</div>
+
 The deal he struck with King Thandris V in 1201 CR gave him time to
 search while ensuring the kingdom couldn't rebuild enough to threaten
 him.
-
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
-
 
 He found what he sought. Now he sleeps beneath Kaer Thandros itself, in
 caverns no dwarf has mapped, waiting for his bargain to come due in 1250
@@ -44648,13 +44665,17 @@ feel the call.
 
 #### Ryldak the Ancient
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/ancient-dragon-ryldak.jpg){width:210px}</div>
-
 **Title:** Ancient Dragon, Pre-Worldrend Survivor
 
 **Race:** Ancient Dragon
 
 **Age:** Over 3,000 years old
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/ancient-dragon-ryldak.jpg){width:325px}</div>
 
 **Status:** Alive (location uncertain)
 
@@ -44677,8 +44698,6 @@ He is known to exist and to have survived the cataclysm, making him one of the o
 **Role:** Historical figure, founder of House Goldshore's naval empire
 
 **Historical Era:** Early Age of Recovery (approximately 200-320 CR)
-\column
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-admiral-caspian-goldshore.jpg){width:200px}</div>
 
 **Appearance:**
 
@@ -44711,6 +44730,8 @@ battle. He sailed into the Sundering Sea one final time, alone, and
 never returned. His descendants believe he went to meet whatever he'd
 found on that third voyage.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-admiral-caspian-goldshore.jpg){width:325px}</div>
+
 **Connections:**
 
 -   House Goldshore: His descendants, including current Lord Aldris IV
@@ -44719,11 +44740,12 @@ found on that third voyage.
 -   The Maritime Guilds: Organizations he founded that still shape
     Goldreach
 -   Rival Houses: Especially House Thandris, who envied his wealth
--   The Sea Itself: Caspian claimed the ocean spoke to him
 
 {{pageNumber,auto}}
 {{footnote Chapter 65: Historical and Legendary Figures}}
 \page
+
+-   The Sea Itself: Caspian claimed the ocean spoke to him
 
 **Secrets:**
 
@@ -44744,7 +44766,7 @@ found on that third voyage.
 
 #### The Scarlet Knife (Verena Shadowblade)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-scarlet-knife.jpg){width:200px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-scarlet-knife.jpg){width:325px}</div>
 
 **Full Name:** Verena Shadowblade (alias: "The Scarlet Knife")
 
@@ -44824,6 +44846,10 @@ warning to others
     completely. Or to reveal herself to her father and take everything.
     Still deciding.
 
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
 #### Wizard Merrick the Wise (The Last Scholar)
 
 **Full Name:** Merrick (full name lost to history)
@@ -44851,11 +44877,7 @@ seem to orbit him when he moves through the library. He speaks in a
 voice that echoes with multiple tones, as if many scholars speak through
 him.
 
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-wizard-merrick-the-wise.jpg){width:200px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-wizard-merrick-the-wise.jpg){width:325px}</div>
 
 **Background and Legend:**
 
@@ -44934,11 +44956,17 @@ monastic traditions
 In life, Serenity was described as ageless from her 90s onward, a small
 woman with serene features and eyes that seemed to see through illusion
 to truth. She moved with perfect grace and economy. In her spiritual
-form, she appears as a figure of gentle light, her form adapting to what
+form, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 65: Historical and Legendary Figures}}
+\page
+
+she appears as a figure of gentle light, her form adapting to what
 each seeker needs to see.
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-monk-serenity.jpg
-){width:200px}</div>
+){width:325px}</div>
 
 **Background and Legend:**
 
@@ -44953,15 +44981,13 @@ realities. Everyone else died; she survived as an infant, somehow
 protected. Monks of the Celestial Order found her and raised her in
 their remote monastery. She never knew any other life.
 
-{{pageNumber,auto}}
-{{footnote Chapter 65: Historical and Legendary Figures}}
-\page
-
 Her enlightenment came at age ninety-two, after seventy-five years of
 dedicated practice. The experience lasted three days, during which her
 body glowed with inner light and her voice spoke truths in languages no
 living person understood. When she emerged, she was changed, ageless,
 powerful, and burdened with knowledge she couldn't fully share.
+
+\column
 
 She spent her remaining years teaching, establishing monasteries, and
 occasionally intervening in world events when cosmic balance was
@@ -44986,7 +45012,7 @@ guide for those who follow her path.
 1.  **The Ascended State:** Serenity didn't die. She transcended,
     becoming a spiritual entity that can still interact with the
     devoted.
-\column
+
 2.  **The Cosmic Warning:** During her enlightenment, she received
     knowledge of a coming threat. She spent her life preparing defenses.
 
@@ -45024,7 +45050,7 @@ part of why she's preparing to return.
 
 <div class="cvr-img-top">![Chapter 66: Miscellaneous NPCs](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-culture-and-society-chapter-opener.jpg){height:425px}</div>
 
-{{margin-top:425px}}
+{{margin-top:370px}}
 
 ## Chapter 66: Miscellaneous NPCs
 
@@ -45067,10 +45093,7 @@ Master Smith Garrick Ironheart (rare mutual respect between craftsmen),
 and treats his apprentices like family. He could clear his name. He has
 evidence proving his innocence, but hasn't used it.
 
-\column
-{{margin-top:425px}}
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kael-ironforge-blacksmith.jpg){width:260px}</div>
 
 **Secrets:**
 
@@ -45078,12 +45101,13 @@ evidence proving his innocence, but hasn't used it.
 
 -   The cousin now runs the family forge in Ironhold.
 
+\column
+{{margin-top:370px}}
+
 -   Has evidence that could clear his name but hasn't used it
     (protecting the clan from scandal).
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kael-ironforge-blacksmith.jpg){width:325px}</div>
 
 **Potential Uses:**
 
@@ -45091,13 +45115,17 @@ evidence proving his innocence, but hasn't used it.
 
 -   Needs help clearing his name.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 -   Might know about rare metals or ancient techniques.
 
 -   Connection to House Ironforge politics.
 
 #### Gundren Ironforge (Legendary Artificer)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-smith-gundren-ironforge.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-smith-gundren-ironforge.jpg){width:325px}</div>
 
 **Title:** Master Artificer, Legendary Craftsman
 
@@ -45135,7 +45163,7 @@ artifice.
 -   Masterwork Smith's Tools +2 (infused).
 
 -   Steel Defender "Ironheart" (mechanical bear companion).
-\column
+
 **Secrets:**
 
 *The Masterpiece Quest:* Has a secret project, recreating a legendary
@@ -45160,8 +45188,6 @@ Master of the Silverpine Artisan Guild for sixty-seven years (since 1180 CR), ap
 
 #### Merchant Lord Cornelius Goldpurse
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-lord-cornelius-goldpurse.jpg){width:260px}</div>
-
 
 **Full Name:** "Cornelius Goldpurse" (assumed identity)
 
@@ -45172,10 +45198,6 @@ Master of the Silverpine Artisan Guild for sixty-seven years (since 1180 CR), ap
 **Age:** 62 years
 
 **Location:** Goldreach (merchant district mansion)
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 **Role:** Wealthy merchant, secret abolitionist, former slave
 
@@ -45205,6 +45227,12 @@ Now he's one of the wealthiest merchants in Thaldros. Controls shipping
 routes, warehouses, and a network of legitimate and less-legitimate
 businesses. Uses his fortune to secretly fund abolition efforts in
 Sundara while publicly maintaining a mask of amoral capitalism.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-lord-cornelius-goldpurse.jpg){width:325px}</div>
 
 **Capabilities:**
 
@@ -45251,7 +45279,7 @@ Sundara while publicly maintaining a mask of amoral capitalism.
 
 #### Merchant-Prince Kael Icewind
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-kael-icewind.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-kael-icewind.jpg){width:325px}</div>
 
 
 **Full Name:** "Kael Icewind" (assumed identity)
@@ -45333,7 +45361,7 @@ he's almost become the man he killed.
 
 #### Forge-Master Thordak Lavaheart
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-thordak-lavaheart.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-thordak-lavaheart.jpg){width:325px}</div>
 
 
 **Full Name:** Thordak Lavaheart
@@ -45424,6 +45452,10 @@ kings and heroes alike.
 
 **Alignment:** Lawful Neutral
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **Appearance:**
 
 A stout dwarf with a gray-streaked beard and the calloused hands of
@@ -45431,11 +45463,7 @@ someone who's worked stone for two centuries. His eyes are the color of
 granite, and he moves with the patient deliberation of someone who
 thinks in geological time.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-quarry-master-borin-stonecutter.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-quarry-master-borin-stonecutter.jpg){width:325px}</div>
 
 **Background:**
 
@@ -45493,7 +45521,7 @@ His personal fortune rivals some noble houses, but he lives simply.
 
 #### Sister Marian (The Saint-in-Making)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sister-marian-saint.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sister-marian-saint.jpg){width:325px}</div>
 
 **Title:** Healer, Voice of Compassion
 
@@ -45508,9 +45536,14 @@ His personal fortune rivals some noble houses, but he lives simply.
 **Status:** Running a free clinic
 
 Sister Marian runs a free clinic in Goldreach's poorest district. Known
-for healing anyone: criminals, monsters, enemies. Some call her a
-saint; others call her dangerously naive.
+for healing anyone: criminals, monsters, 
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+enemies. Some call her a
+saint; others call her dangerously naive.
 
 **Her Philosophy:**
 
@@ -45538,13 +45571,10 @@ healers.
 
 **Race:** Human | **Age:** 45 | **Location:** With the Unbound
 
-A death priest of Mordain the Sentinel, recruited by the Unbound under false pretenses. She believes she is preventing the Second Worldrend, not enabling it. A former 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-necromancer whose guilt drives her to extreme measures. See Section 44.5 for the complete entry.
+A death priest of Mordain the Sentinel, recruited by the Unbound 
+under false pretenses. She believes she is preventing the Second 
+Worldrend, not enabling it. A former necromancer whose guilt drives 
+her to extreme measures. See Section 44.5 for the complete entry.
 
 #### Brother Tormund (The War Priest)
 
@@ -45555,8 +45585,6 @@ necromancer whose guilt drives her to extreme measures. See Section 44.5 for the
 Former soldier turned priest who runs the temple of Mordain in Kaer Thandros. Counsels warriors about duty and sacrifice, and has received a prophetic vision of a coming battle. See Section 62.4 for the complete entry.
 
 #### Brother Marcus (The Faithless Chaplain)
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-marcus.jpg){width:260px}</div>
 
 
 **Title:** Military Chaplain, Ironhold Garrison
@@ -45592,6 +45620,8 @@ Prayed desperately to save a child during a giant raid. The child died.
 That was when his faith broke. He knows exactly how many soldiers he's
 given last rites to. He dreams their faces.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-marcus.jpg){width:325px}</div>
+
 **Secrets:**
 
 -   Hasn't felt divine presence in years, fakes it for the soldiers.
@@ -45615,13 +45645,17 @@ Mysterious information broker who runs the Silver Ear tavern, where secrets are 
 
 #### Silas the Fence (Syndicate Lieutenant)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silas-the-fence.jpg){width:215px}</div>
-
 **Title:** Regional Lieutenant of the Shadow Syndicate (Silverpine)
 
 **Race:** Halfling
 
 **Age:** Fifties
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silas-the-fence.jpg){width:325px}</div>
 
 **Location:** Silverpine (operates from an antiques shop)
 
@@ -45639,17 +45673,13 @@ maintains good relations with the city watch through selective
 information sharing, giving up amateurs and competitors while
 protecting professional Syndicate operations.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 
 He's the go-to fence for the party if they need to sell unusual items,
 and he can connect them to the broader underworld if necessary.
 
 #### Whisper (The Legendary Thief)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/master-thief-whisper.jpg){width:260px}</div>
+
 
 
 **Title:** Legendary Thief, Independent Operator
@@ -45666,6 +45696,8 @@ Nobody knows Whisper's real name, face, or gender. They use disguises
 constantly. Known only by reputation: if it can be stolen, Whisper can
 steal it. Never kills. Takes jobs purely for the challenge. Has
 humiliated the Shadow Syndicate twice.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/master-thief-whisper.jpg){width:325px}</div>
 
 **The Truth:**
 
@@ -45697,9 +45729,6 @@ They once stole from a dragon and lived.
 
 **Alignment:** Chaotic Evil
 
-\column
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/thorne-butcher-bandit.jpg){width:260px}</div>
 
 **Appearance:**
 
@@ -45713,8 +45742,16 @@ most battlefields.
 
 Thorne leads a band of 30 bandits operating in the wilderness between
 Goldreach and Silverpine. Called "The Butcher" because he doesn't leave
-witnesses. Actually quite strategic, only attacks targets he can
+witnesses. 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+Actually quite strategic, only attacks targets he can
 overwhelm completely.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/thorne-butcher-bandit.jpg){width:325px}</div>
 
 What most don't know is that Thorne was once a soldier. A good one. He
 served the crown for fifteen years before his family was killed by a
@@ -45736,10 +45773,6 @@ lose.
 
 -   The noble who destroyed his family is still alive and powerful.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 **Secrets:**
 
 1.  Was a decorated soldier who snapped after his family was killed
@@ -45760,7 +45793,7 @@ lose.
 
 #### Helena Duskmere
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/helena-duskmere-broker.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/helena-duskmere-broker.jpg){width:325px}</div>
 
 **Full Name:** Helena Duskmere
 
@@ -45787,7 +45820,13 @@ sharp and calculating, missing nothing.
 **Background:**
 
 Helena arranges the movement of goods that can't move through legal
-channels. Not a smuggler herself. She connects smugglers with clients.
+channels. Not a smuggler herself. 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+She connects smugglers with clients.
 Her tea shop is a front, but the tea is actually excellent, which
 provides cover for the constant stream of visitors.
 
@@ -45828,8 +45867,6 @@ records. Everything is in her head.
 
 #### Miranda Ashwood
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/miranda-ashwood-rogue.jpg){width:260px}</div>
-
 **Full Name:** Miranda Ashwood
 
 **Title:** The Cat (underworld nickname)
@@ -45838,9 +45875,6 @@ records. Everything is in her head.
 
 **Age:** 28 years
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 **Location:** Goldreach (no fixed address)
 
@@ -45866,6 +45900,8 @@ second-story artists in Thaldros.
 She works freelance, refusing to join the Syndicate because she values
 her independence. This makes her useful for jobs where deniability
 matters.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/miranda-ashwood-rogue.jpg){width:325px}</div>
 
 **Connections:**
 
@@ -45907,6 +45943,10 @@ matters.
 
 **Location:** Silverpine and surrounding forests
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **Role:** Scout, ranger, wilderness guide, occasional spy
 
 **Alignment:** Chaotic Good
@@ -45929,9 +45969,7 @@ trusts.
 Her reputation is for two things: she can track anything, and she can
 disappear into the forest like she never existed.
 
-\column
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/lydia-shadowstep-halfling-scout.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/lydia-shadowstep-halfling-scout.jpg){width:325px}</div>
 
 
 **Connections:**
@@ -45985,17 +46023,20 @@ with gray-streaked dark hair and refined features. Her shop is cluttered
 with genuine antiques and art. Her eyes are calculating but warm, making
 clients feel at ease.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elena-ravencroft-fence.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elena-ravencroft-fence.jpg){width:325px}</div>
 
 
 **Background:**
 
 Elena runs Goldreach's best fence operation from behind a legitimate
-antique shop. Professional, discreet, never asks questions. She was once
+antique shop. Professional, discreet, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+never asks questions. She was once
 a minor noble who lost everything to gambling, rebuilt from nothing
 using skills learned watching her father's merchants.
 
@@ -46030,10 +46071,9 @@ negotiable.
 -   Needs help recovering the one thing she cares about.
 
 -   Her noble past could become relevant.
-\column
+
 #### Alden Swiftfoot
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/alden-swiftfoot-courier.jpg){width:260px}</div>
 
 **Full Name:** Alden Swiftfoot
 
@@ -46081,9 +46121,7 @@ safe from everyone.
 
 -   Completely neutral, delivers for anyone.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/alden-swiftfoot-courier.jpg){width:325px}</div>
 
 **Connections:**
 
@@ -46114,6 +46152,10 @@ safe from everyone.
 -   His knowledge makes him a target.
 
 -   Could be hired to track someone's correspondence.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 ### 66.4 Maritime Characters
 
@@ -46153,8 +46195,6 @@ camp, and danger zone in the wetlands. She's also the only person who
 can reliably navigate the swamp's magical interference, which renders
 compasses and divination unreliable.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-swamp-guide-grizelda.jpg){width:260px}</div>
-
 **Her Companion:**
 
 Controls a giant crocodile named "Sweetness." Uses it to eliminate
@@ -46176,6 +46216,8 @@ crocodiles.
 -   Knows a route through the swamp that leads to a tear between
     worlds, fey creatures use it.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-swamp-guide-grizelda.jpg){width:325px}</div>
+
 ### 66.5 Scholars and Seers
 
 
@@ -46187,11 +46229,6 @@ crocodiles.
 **Race:** Elf | **Age:** 182 | **Location:** The Observatory, Silverpine Arcanum
 
 Quiet and contemplative divination professor who has discovered that the stars are slowly returning to their pre-Worldrend configuration. Her predictions are eerily accurate. See Section 63.2 for the complete entry.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 #### Merchant Princess Yasmin (The Secret Scholar)
 
@@ -46211,15 +46248,17 @@ childhood to take over the family empire. But Yasmin always cared more
 about the desert's secrets than its profits. While learning trade, she
 secretly studied archaeology, history, and ancient languages.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-princess-yasmin.jpg){width:325px}</div>
+
 **Her Double Life:**
 
 Inherited the family business at twenty-five. Uses her merchant networks
 to fund desert excavations disguised as "trade expeditions." Every
-caravan that goes out comes 
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-princess-yasmin.jpg){width:260px}</div>
-
-back with legal goods, and hidden relics
+caravan that goes out comes back with legal goods, and hidden relics
 from ruins her workers have uncovered.
 
 Now has the largest private collection of pre-Worldrend artifacts in
@@ -46237,7 +46276,7 @@ actually a merchant princess.
 
 -   One piece in her collection pulses with energy. She doesn't know
     what it does, afraid to find out.
-\column
+
 #### Sage Veridian Runereader
 
 **Full Name:** Veridian Runereader
@@ -46315,10 +46354,6 @@ language used by the civilization that caused the Worldrend.
 
 -   The warning he found might be plot-relevant.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 #### Artificer Tobias Gearwise
 
 **Full Name:** Tobias Gearwise
@@ -46335,6 +46370,10 @@ language used by the civilization that caused the Worldrend.
 
 **Alignment:** Neutral Good
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **Appearance:**
 
 A gnome with wild gray hair that seems to have its own plans, Tobias has
@@ -46342,7 +46381,7 @@ the look of someone who's survived multiple explosions, because he has.
 Soot-stained apron, thick goggles pushed up on his forehead, and fingers
 that are constantly twitching as if assembling something invisible.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-artificer-tobias-gearwise.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-artificer-tobias-gearwise.jpg){width:325px}</div>
 
 **Background:**
 
@@ -46368,6 +46407,9 @@ sought-after craftsmen in the kingdom.
 -   Creates items in half the normal time.
 
 -   Can etch permanent runes onto metal items.
+
+\column
+
 
 **Connections:**
 
@@ -46415,17 +46457,11 @@ Incorruptible watch captain who rose through the ranks on competence and stubbor
 
 #### Viktor Coldstone (The Interrogator)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/viktor-coldstone-interrogator.jpg){width:260px}</div>
-
 *Title:** Royal Interrogator, Truth Seeker
 
 **Race:** Human
 
 **Age:** Fifty
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 **Location:** Kaer Thandros
 
@@ -46454,9 +46490,13 @@ truthfully.
 -   His son was executed for a crime Viktor now suspects he didn't
     commit.
 
-#### Sir Garrett Ironhelm (The Idealist Knight)
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sir-garrett-iron-knight.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/viktor-coldstone-interrogator.jpg){width:325px}</div>
+
+#### Sir Garrett Ironhelm (The Idealist Knight)
 
 **Title:** Knight Errant, Paladin of Thandros
 
@@ -46478,7 +46518,7 @@ world more complicated than his code allows.
 He is oath-bound to the crown but admires General Steelheart and
 distrusts the Inquisition's methods. His black-and-white worldview
 constantly collides with gray reality.
-\column
+
 **Secrets:**
 
 -   Has doubts about his faith he can't voice.
@@ -46498,10 +46538,9 @@ constantly collides with gray reality.
 
 -   Represents what paladins should be, and the cost of that ideal.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sir-garrett-iron-knight.jpg){width:325px}</div>
+
 #### Quartermaster Thorna Ironprice
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-quartermaster-thorna-ironprice.jpg){width:260px}</div>
-
 
 **Full Name:** Thorna Ironprice
 
@@ -46531,18 +46570,21 @@ daughter before discovering her true talent: logistics. Can look at a
 warehouse and tell you exactly what's missing, what's overstock, and
 what's been stolen.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 Worked her way up through the Merchant League, eventually being posted
 to Crossvale, the most important distribution hub in Thaldros. Has
 managed the League warehouse for 80 years, outlasting five
 Burgher-Masters and three regional directors.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 Her warehouse is legendary: nothing is lost, nothing is wasted,
 everything is accounted for to the last copper nail. Some say she knows
 where every item she's ever handled ended up. They're not wrong.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-quartermaster-thorna-ironprice.jpg){width:325px}</div>
+
 
 **Capabilities:**
 
@@ -46619,9 +46661,11 @@ bolt, every ration, every horseshoe passes through his hands. He's built
 a reputation for incorruptibility that makes some people nervous. Those
 who profit from the usual supply chain corruption.
 
-\column
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/korvan-steelhand-quartermaster.jpg){width:325px}</div>
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/korvan-steelhand-quartermaster.jpg){width:260px}</div>
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 Started as a common soldier, promoted for honesty when he reported his
 own captain for supply theft. Has spent 20 years making sure the
@@ -46669,18 +46713,11 @@ soldiers under his watch have what they need, when they need it.
 
 -   His evidence could be politically explosive.
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 
 ### 66.7 Mentors and Elders
 
 
 #### Old Barrett (The Retired Adventurer)
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/old-barrett-mentor.jpg){width:260px}</div>
-
 
 **Title:** Retired Adventurer, Village Elder
 
@@ -46711,6 +46748,7 @@ self.
 
 -   The evil former companion is still out there.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/old-barrett-mentor.jpg){width:325px}</div>
 
 **Potential Uses:**
 
@@ -46721,11 +46759,8 @@ self.
 -   The evil former companion creates drama.
 
 -   Source of old maps and forgotten knowledge.
-\column
+
 #### Elder Tremont (The Temple Elder)
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elder-tremont-mentor.jpg){width:260px}</div>
-
 
 **Title:** Temple Elder, Priest of Sera
 
@@ -46756,6 +46791,12 @@ comfort to anyone who needs it.
 
 -   Knows confessions from people who later became important.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elder-tremont-mentor.jpg){width:325px}</div>
+
 **Potential Uses:**
 
 -   Quest-giver for religious matters.
@@ -46766,18 +46807,10 @@ comfort to anyone who needs it.
 
 -   Source for healing or spiritual guidance.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 ### 66.8 Specialists and Researchers
 
 
 #### Aramil Starwarden (The Worldrend Scholar)
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-aramil-starwarden.jpg){width:260px}</div>
-
 
 **Title:** Wizard, Researcher, Worldrend Scholar
 
@@ -46806,6 +46839,8 @@ they're correct.
 -   He's found evidence of deliberate sabotage of repair efforts.
 
 -   Someone doesn't want the Worldrend healed.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-aramil-starwarden.jpg){width:325px}</div>
 
 **Potential Uses:**
 
@@ -46839,9 +46874,6 @@ Knows every builder in the city. Has worked for nobles and criminals
 alike. Can identify wood types and quality instantly. Can assess
 buildings for weaknesses or secret compartments.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-carpenter-aldrick-woodwise.jpg){width:260px}</div>
-
-
 **Secrets:**
 
 -   Has the original palace blueprints showing passages not on any
@@ -46850,7 +46882,13 @@ buildings for weaknesses or secret compartments.
 -   Built a hidden room for a noble that he later learned was used for
     murder.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 -   Knows which buildings in the city have secret basements.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-carpenter-aldrick-woodwise.jpg){width:325px}</div>
 
 **Potential Uses:**
 
@@ -46882,19 +46920,13 @@ buildings for weaknesses or secret compartments.
 **Appearance:**
 
 The Guardian's appearance varies depending on the viewer and the
-situation. Some see a towering figure of light, others a
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-guardian-of-thresholds.jpg){width:260px}</div>
-
-swirling mass
+situation. Some see a towering figure of light, others a swirling mass
 of shadows, others something geometric and impossible. It communicates
 through impressions and visions rather than words, making conversations
 challenging but memorable. In most encounters, it appears wearing pure
 white robes with silver constellations that slowly move.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-guardian-of-thresholds.jpg){width:325px}</div>
 
 **Background:**
 
@@ -46929,6 +46961,10 @@ never find. Those who anger it tend to disappear entirely.
 
 -   The Circle of Eight: They have an arrangement; the details are
     unclear.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 -   Sage Cornelius the Elder: One of the few mortals who can communicate
     with it reliably.
@@ -46967,7 +47003,7 @@ never find. Those who anger it tend to disappear entirely.
 #### Colony-Mind K'Thrax
 
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-colony-mind-kthrax.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-colony-mind-kthrax.jpg){width:325px}</div>
 
 **Full Name:** K'Thrax (collective designation)
 
@@ -46987,13 +47023,7 @@ never find. Those who anger it tend to disappear entirely.
 
 K'Thrax has no single form. It is a collective consciousness housed in
 a massive organic hive structure deep underground. The central mass is a
-pulsing network 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-of neural tissue spanning hundreds of feet, connected to
+pulsing network of neural tissue spanning hundreds of feet, connected to
 countless smaller psionic horrors that serve as its eyes, hands, and
 mouths.
 
@@ -47050,6 +47080,10 @@ with this arrangement, for now.
 3.  **The Transcendence Goal:** Wants to become a god-brain capable of
     touching all minds simultaneously.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 4.  **The Fear:** Something sleeps in the deepest caverns that even
     K'Thrax won't disturb.
 
@@ -47062,10 +47096,10 @@ with this arrangement, for now.
 -   The dwarves might need help sealing breaches.
 
 -   The thing it fears could be worse.
-\column
+
 #### Hermit Sage Morganna Whisperwind
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-morganna-whisperwind.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-morganna-whisperwind.jpg){width:325px}</div>
 
 **Full Name:** Morganna Whisperwind
 
@@ -47112,11 +47146,6 @@ and occasionally prophecies that prove disturbingly accurate.
 
 -   Her valley is hidden and protected.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 **Connections:**
 
 -   Former colleagues in the magical community (estranged).
@@ -47156,9 +47185,6 @@ and occasionally prophecies that prove disturbingly accurate.
 
 #### Magnus Ironroot (The People's Champion)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/magnus-ironroot-rebel.jpg){width:260px}</div>
-
-
 **Title:** Labor Organizer, Populist Leader
 
 **Race:** Human
@@ -47172,6 +47198,12 @@ and occasionally prophecies that prove disturbingly accurate.
 Magnus organizes workers against unfair treatment. Not a
 revolutionary, yet, but he's moving in that direction as conditions
 worsen. Charismatic and genuinely cares about common people.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/magnus-ironroot-rebel.jpg){width:325px}</div>
 
 **His Movement:**
 
@@ -47205,8 +47237,6 @@ That anger fuels his work but also makes him vulnerable to manipulation.
 
 #### Katrina Ashfall
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/katrina-ashfall-guerrilla.jpg){width:260px}</div>
-
 
 **Full Name:** Katrina Ashfall
 
@@ -47218,13 +47248,11 @@ That anger fuels his work but also makes him vulnerable to manipulation.
 
 **Location:** Border regions between Thaldros and Aethoria
 
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
 **Role:** Resistance fighter, Aethorian sympathizer, guerrilla leader
 
 **Alignment:** Chaotic Good
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/katrina-ashfall-guerrilla.jpg){width:325px}</div>
 
 **Appearance:**
 
@@ -47255,6 +47283,10 @@ intelligence for Aethoria. The crown has placed a bounty on her head.
 -   Inspires fierce loyalty in her followers.
 
 -   Escape artist, has evaded capture multiple times.
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
 
 **Connections:**
 
@@ -47294,7 +47326,7 @@ intelligence for Aethoria. The crown has placed a bounty on her head.
 **Race:** Halfling | **Age:** 50 | **Location:** Ironhold
 
 Halfling Scout Captain obsessed with tracking an ancient dragon he discovered during a routine patrol. Commands a unit of thirty halfling and gnome scouts under Commander Kael Stormwatcher.
-\column
+
 #### Master Hunter Kael Dragonsbane
 
 **Title:** Master Hunter, Dragon Specialist
@@ -47319,8 +47351,6 @@ anatomy, behavior patterns, territorial instincts, and weaknesses. Has
 written the definitive guide to dragon hunting (circulation
 restricted. They don't want amateurs trying).
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-hunter-kael-dragonsbane.jpg){width:260px}</div>
-
 **His Burden:**
 
 At sixty-four, his body is failing faster than his spirit. Old injuries
@@ -47332,6 +47362,8 @@ focused now on passing his knowledge to the next generation.
 Village called Thornwatch. A blue dragon named Azurewrath burned it.
 Killed his parents, his sister, forty-three others. He survived because
 he was out hunting. Came home to ash and bones.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-hunter-kael-dragonsbane.jpg){width:325px}</div>
 
 **Secrets:**
 
@@ -47345,10 +47377,6 @@ he was out hunting. Came home to ash and bones.
     grip a sword.
 
 -   Part of him wants to die fighting dragons, a death wish.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 **Potential Uses:**
 
@@ -47370,13 +47398,17 @@ he was out hunting. Came home to ash and bones.
 
 **Age:** 120 years
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forester-galen-sustainharvest.jpg){width:260px}</div>
-
 **Location:** Silverwood (central forest region)
 
 **Role:** Forest warden, sustainable forestry expert, wilderness guide
 
 **Alignment:** Neutral Good
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forester-galen-sustainharvest.jpg){width:325px}</div>
 
 **Appearance:**
 
@@ -47398,7 +47430,7 @@ He knows every tree in his territory. Literally. He can tell you the
 age, health, and history of any tree he's touched. This connection
 extends to the forest's animals, plants, and spirits. The druids
 consider him an honorary member, though he's never taken their oaths.
-\column
+
 **Capabilities:**
 
 -   Can assess forest health with perfect accuracy.
@@ -47410,6 +47442,8 @@ consider him an honorary member, though he's never taken their oaths.
 -   Expert tracker and wilderness survival.
 
 -   Network of animal and druid contacts.
+
+\column
 
 **Connections:**
 
@@ -47442,7 +47476,7 @@ consider him an honorary member, though he's never taken their oaths.
 
 #### Bard Finnegan Storyteller
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-bard-finnegan-storyteller.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-bard-finnegan-storyteller.jpg){width:325px}</div>
 
 
 **Full Name:** Finnegan (surname varies with the story)
@@ -47454,7 +47488,6 @@ consider him an honorary member, though he's never taken their oaths.
 **Age:** 223 years
 
 **Location:** Traveling (no fixed home)
-
 
 {{pageNumber,auto}}
 {{footnote Chapter 66: Miscellaneous NPCs}}
@@ -47545,7 +47578,7 @@ position because stories need to travel to be alive.
 
 **Role:** Military captain, frontier defender, secret lycanthrope
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-marcus-frontiersman.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-marcus-frontiersman.jpg){width:325px}</div>
 
 **Alignment:** Chaotic Good
 
@@ -47578,6 +47611,10 @@ nights, or why he insists on "private patrols" monthly.
 
 -   Commands loyal frontier soldiers.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 -   Understands monsters from the inside.
 
 **Connections:**
@@ -47591,10 +47628,6 @@ nights, or why he insists on "private patrols" monthly.
 -   A werewolf pack in the mountains (uneasy truce).
 
 -   One soldier who suspects the truth.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 **Secrets:**
 
@@ -47618,7 +47651,7 @@ nights, or why he insists on "private patrols" monthly.
 
 #### Lady Shadowleaf (True Name: Niriel)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-shadowleaf-niriel.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-shadowleaf-niriel.jpg){width:325px}</div>
 
 
 **Title:** Spymaster of the Aethorian Harmony (unofficial)
@@ -47644,7 +47677,7 @@ Taking the name "Shadowleaf" as bitter reminder of what she'd lost,
 she spent centuries honing her craft. Now leads a network of forty-seven
 shadow agents across both continents, doing necessary evils so the
 Harmony can maintain its principles.
-\column
+
 **Her Secret:**
 
 Niriel is actually twin sisters taking turns. Both named Niriel. No one
@@ -47676,8 +47709,6 @@ knows there are two. This is how she's "everywhere."
 
 #### Spy-Master Kaelen Shadowleaf
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-kaelen-shadowleaf.jpg){width:260px}</div>
-
 **Full Name:** Kaelen Shadowleaf
 
 **Title:** The Phantom (former cult name, now reclaimed)
@@ -47696,20 +47727,20 @@ knows there are two. This is how she's "everywhere."
 
 Kaelen's appearance is whatever he needs it to be, his skill with
 disguise is legendary. In his true form, he's a sharp-featured elf with
-silver-gray hair and eyes that seem 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Spies and Operatives}}
-\page
-
-to see through deception. Moves like
+silver-gray hair and eyes that seem to see through deception. Moves like
 a shadow, speaks rarely, and watches everything.
 
 **Background:**
 
 Kaelen spent two centuries as one of the most effective agents the
 Unbound cult ever produced. He believed in their cause, executed their
-missions, and trained their assassins. Then he discovered what they
+missions, and 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Spies and Operatives}}
+\page
+
+trained their assassins. Then he discovered what they
 truly planned, not reform or justice, but obliteration.
 
 His defection cost him everything. He's spent fifty years trying to undo
@@ -47720,6 +47751,8 @@ knows, and they've tried to kill him forty-three times.
 Now he works for the Aethorian Harmony, officially. Unofficially, he
 answers to no one, pursuing his own agenda of dismantling the cult that
 raised him.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-kaelen-shadowleaf.jpg){width:325px}</div>
 
 **Capabilities:**
 
@@ -47732,8 +47765,6 @@ raised him.
 -   Expert assassin (skills used defensively now).
 
 -   Has "kill switches" on several cult members.
-
-\column
 
 **Connections:**
 
@@ -47770,7 +47801,6 @@ raised him.
 {{footnote Chapter 66: Spies and Operatives}}
 \page
 
-\page
 
 # Part X: Appendices
 
@@ -47916,6 +47946,10 @@ All factions are documented in their respective chapters:
 -   Military Orders: Chapter 28.
 
 
+{{pageNumber,auto}}
+{{footnote Appendix}}
+\page
+
 ## Appendix I: Cross-Reference Guide
 
 
@@ -47927,10 +47961,6 @@ Major relationship webs include:
 -   Inter-faction relationships (Chapter 29).
 
 -   Character connections (individual NPC entries).
-
-{{pageNumber,auto}}
-{{footnote Appendix}}
-\page
 
 ## Appendix J: Hidden Lore and Historical Secrets
 
@@ -48043,6 +48073,10 @@ the Worldrend rather than merely imprisoned. Others note that an entity
 embodying Ending cannot truly end, and its silence may be the most
 dangerous sign of all.
 
+{{pageNumber,auto}}
+{{footnote Appendix}}
+\page
+
 ### J.2 Bound Corruption
 
 
@@ -48057,10 +48091,6 @@ shifting, skin temperature fluctuating, subtle alterations to features.
 The victim gains resistance to fear but becomes more susceptible to the
 Ancient's influence. At this stage, the corruption can be removed
 through standard curse-breaking magic.
-
-{{pageNumber,auto}}
-{{footnote Appendix}}
-\page
 
 **Stage Two: Corrupted**
 
@@ -48174,7 +48204,13 @@ charged with guarding the Flame Heart, the Second Component.
 
 Prince Aldric wanted the Component. He tried to sell it to dragon cults,
 promising to wake Dragon Infernalix in exchange for gold, power, and
-alliance. When the Goldshore Keepers discovered his treachery and
+alliance. When the 
+
+{{pageNumber,auto}}
+{{footnote Appendix}}
+\page
+
+Goldshore Keepers discovered his treachery and
 confronted him, Prince Aldric murdered them all, every last member of
 the Keeper bloodline, including children. He made the massacre look like
 plague, and the main House Goldshore line survived without ever knowing
@@ -48199,11 +48235,6 @@ He watched from a barrel in the wine cellar as his parents were cut down
 and burned. He heard their screams proclaiming innocence as flames
 consumed them. A servant hid him, and he crawled out into ashes and
 silence when it was over.
-
-{{pageNumber,auto}}
-{{footnote Appendix}}
-\page
-
 
 For 43 years, Corvus has lived as a ghost. "Lord Shadows" is what his
 followers call him, the shadow of House Blackwood, refusing to die. He
@@ -48241,6 +48272,8 @@ a royal heirloom. Few know its true nature, including the current king,
 who believes it to be merely ceremonial. The Stone Crown is embedded in
 the ceremonial helm worn at royal functions, hiding in plain sight.
 
+\column
+
 ### J.5 Dragon Infernalix
 
 
@@ -48248,7 +48281,7 @@ Beneath Kaer Thandros, in chambers that predate the current city, sleeps
 an ancient red dragon of terrifying power. Dragon Infernalix attacked
 the city in 1156 CR, devastating the region before mysteriously
 withdrawing in 1201 CR to slumber beneath the royal palace.
-\column
+
 **The Secret**
 
 Infernalix's lair lies near the Goldshore Keeper vaults where the Flame
@@ -48289,10 +48322,6 @@ recovered. It also contains the remains of Keeper family
 members, spirits who could testify to Prince Aldric's crimes if
 properly contacted.
 
-{{pageNumber,auto}}
-{{footnote Appendix}}
-\page
-
 ### J.7 Historical Mysteries
 
 
@@ -48308,6 +48337,10 @@ aren't evil. They genuinely seek knowledge. But their patron may be
 one of the Bound Ancients, and their devotion may be feeding its
 prison's deterioration.
 
+{{pageNumber,auto}}
+{{footnote Appendix}}
+\page
+
 **Celeste of the Silver Ear**
 
 The mysterious information broker known as Celeste, who runs an upscale
@@ -48315,11 +48348,13 @@ tavern in Silverpine, is actually an ancient demon bound to the Material
 Plane seven hundred years ago. When the wizard who bound her died
 without descendants, she found a loophole, free to act but unable to
 leave.
-\column
+
 She's spent centuries seeking a way home. The Worldrend damaged planar
 boundaries, and she believes understanding it might allow her escape.
 Her interest in pre-Worldrend history and anyone who might know more is
 not mere scholarly curiosity. It's survival.
+
+\column
 
 **The Pattern**
 
