@@ -96,7 +96,7 @@
 
 .col-img-item img {display: block;  z-index:0; width: 50%; margin:1%;} /*Item images*/
 
-.page#p23:after, .page#p24:after, .page#p25:after {
+.page#p24:after, .page#p25:after, .page#p26:after {
   background-image: none;
 }
   
@@ -1188,6 +1188,8 @@ in the desert whose mysterious well never runs dry; the Whispering
 Dunes, where voices speak in the wind; and the Glass Valley, an entire
 valley floor of fused glass from some ancient cataclysm.
 
+\column
+
 #### The Ashfall Barrens (Volcanic Southeast)
 
 
@@ -2027,26 +2029,26 @@ functioning whole. Yet even the best-maintained highway passes through
 wild country, and travelers who forget this truth often do not complete
 their journeys.
 
-![Chapter 4: The Magic System](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations.jpg){position:absolute,top:unset,bottom:1in,left:.5in,width:90%}
+![Tirvandor](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations.jpg){position:absolute,top:unset,bottom:1in,left:1in,width:80%}
 
 
 {{pageNumber,auto}}
 {{footnote Chapter 3: Roads and Trade Routes}}
 \page
 
-![Thaldros](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_thaldros.jpg){position:absolute,top:0.5in,left:.5in,width:90%,height:90%}
+![Thaldros](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_thaldros.jpg){position:absolute,top:1in,left:1in,width:80%,height:84%}
 
 {{pageNumber,auto}}
 {{footnote Chapter 3: Roads and Trade Routes}}
 \page
 
-![SunderingSea](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_sundering_sea.jpg){position:absolute,top:0.5in,left:.5in,width:90%,height:90%}
+![SunderingSea](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_sundering_sea.jpg){position:absolute,top:1in,left:1in,width:80%,height:84%}
 
 {{pageNumber,auto}}
 {{footnote Chapter 3: Roads and Trade Routes}}
 \page
 
-![Aethoria](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_aethoria.jpg){position:absolute,top:0.5in,left:.5in,width:90%,height:90%}
+![Aethoria](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_locations_aethoria.jpg){position:absolute,top:1in,left:1in,width:80%,height:84%}
 
 {{pageNumber,auto}}
 {{footnote Chapter 3: Roads and Trade Routes}}
@@ -2899,6 +2901,7 @@ pathways between the
 
 \column
 {{margin-top:370px}}
+
 material world and the realm of the fey that remain
 open to this day.
 
@@ -3400,7 +3403,7 @@ through the most powerful ley line nexus known to exist.
 The Worldrend occurred over three days, each more catastrophic than the
 last.
 
-<div class="col-img">![9.2 The Three Days of Destruction](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-sundering.jpg){width:240px}</div>
+<div class="col-img">![9.2 The Three Days of Destruction](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-sundering.jpg){width:250px}</div>
 
 {{pageNumber,auto}}
 {{footnote Chapter 9: The Worldrend}}
@@ -30282,6 +30285,10 @@ cases might be reached through negotiation, convinced to pass on through
 completing unfinished business, or (unfortunately) becoming more
 dangerous due to retained intelligence.
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 **Abilities:**
 
 Border wraiths can pass through solid objects, making walls and doors
@@ -30313,10 +30320,6 @@ The Order of Moira considers wraith-laying sacred work. Their priests
 sometimes venture into the Contested Lands specifically to consecrate
 haunted ground and help trapped spirits pass on.
 
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
-
 **Story Potential:**
 
 -   A wraith retains crucial information about a historical event, but
@@ -30332,7 +30335,7 @@ haunted ground and help trapped spirits pass on.
     living past
 
 ### 46.5 Contested Land Elemental
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-contested-land-elemental.jpg){width:325px}</div>
+
 
 **Type:** Elemental
 
@@ -30368,6 +30371,8 @@ Unlike true elementals that embody a pure element, these creatures
 embody conflict itself. Their substance is inherently unstable because
 it's composed of materials that were never meant to mix.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-contested-land-elemental.jpg){width:325px}</div>
+
 **Behavior and Ecology:**
 
 These elementals are territorial in a literal sense, they defend
@@ -30390,6 +30395,11 @@ territory.
 
 Contested land elementals possess limited intelligence, about as much as
 a guard animal. They recognize threats, distinguish between harmful and
+
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 harmless behavior, and can be avoided by those who understand their
 triggers.
 
@@ -30422,10 +30432,6 @@ elementals into their planning. Major battles in certain regions
 guarantee elemental response, which sometimes damages both armies
 equally.
 
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
-
 Some scholars theorize that the elementals represent the land's attempt
 to end the war by making it too costly to continue. If so, the land is
 losing, the war continues despite elemental interference.
@@ -30452,8 +30458,6 @@ guardians.
 
 ### 46.6 Refugee Mob
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-refugee-mob.jpg){width:325px}</div>
-
 **Type:** Humanoid swarm (any ancestry)
 
 **Physical Description:**
@@ -30471,6 +30475,8 @@ by those who can still walk.
 But when fear or rage ignites them, they become something else. A mass
 of reaching hands, screaming voices, crushing bodies. The individuals
 disappear into the crowd.
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-refugee-mob.jpg){width:325px}</div>
 
 **Origins:**
 
@@ -30504,6 +30510,10 @@ defuse them. Addressing legitimate grievances, really addressing them,
 not just promising to, transforms mobs back into refugees. The violence
 isn't natural; it's a response to unnatural conditions.
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 **Intelligence and Society:**
 
 Mobs have a kind of collective intelligence, or collective stupidity,
@@ -30536,13 +30546,7 @@ people to be helped. This creates the desperation that enables mobs to
 form, a self-fulfilling prophecy.
 
 Soldiers on both sides have disturbing stories about mob encounters.
-Killing refugees, even rioters, haunts 
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
-
-those who do it. The violence is
+Killing refugees, even rioters, haunts those who do it. The violence is
 rarely clean or justified-feeling.
 
 Priests and healers sometimes specialize in mob defusing, walking into
@@ -30563,8 +30567,6 @@ people. This is heroically dangerous but sometimes works.
 
 ### 46.7 Scavenger Ghoul
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-scavenger-ghoul.jpg){width:325px}</div>
-
 **Type:** Undead
 
 **Physical Description:**
@@ -30584,12 +30586,12 @@ Most retain some vestiges of the clothing they died in, though it's
 usually rotted to rags. Some still wear armor that's rusted to their
 flesh.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-scavenger-ghoul.jpg){width:325px}</div>
+
 **Origins:**
 
 The Contested Lands are a ghoul paradise. Constant violence produces
 constant corpses. Where there are corpses, ghouls thrive.
-
-
 
 These particular ghouls have adapted to battlefield scavenging. They're
 drawn to the aftermath of violence, not the violence itself, but its
@@ -30612,7 +30614,13 @@ if they can avoid it; corpses don't fight back, and ghouls prefer easy
 meals.
 
 But they're also opportunistic. Wounded travelers, isolated soldiers,
-anyone weak enough to be easy prey, all are potential food sources. They
+anyone weak enough to be easy prey, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
+all are potential food sources. They
 prefer dead flesh, but they're willing to kill to eat when hungry
 enough.
 
@@ -30648,10 +30656,6 @@ weakness suggests. They coordinate attacks, with some ghouls
 immobilizing prey while others feed. They're also capable of healing by
 consuming corpses, even mid-combat.
 
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
-
 **Cultural Significance:**
 
 Both armies consider ghoul infestations a logistical problem requiring
@@ -30680,13 +30684,13 @@ after dark, or the ghouls will get you."
 -   A ghoul pack's behavior suggests they're being directed by
     something intelligent
 
+\column
+
 ### 46.8 Territorial Drake
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-territorial-drake.jpg){width:325px}</div>
 
 **Type:** Dragon (lesser)
-
-\column
 
 **Physical Description:**
 
@@ -30715,6 +30719,10 @@ humanoid).
 Territorial drakes claimed these spaces as war destroyed former human
 settlements. They've thrived in the chaos, growing more numerous and
 aggressive as they learned to prey on refugees, soldiers, and travelers.
+
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
 
 Some scholars believe they were originally domesticated, war mounts or
 guard animals from pre-war settlements. Others argue they're simply
@@ -30753,10 +30761,6 @@ boundaries.
 Drakes are powerful ambush predators. Their initial strike from
 concealment is devastating, powerful jaws combined with raking claws can
 bring down prey much larger than themselves.
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 
 Their tail attacks can knock opponents prone, creating openings for
 follow-up bites. They coordinate with pack members when present, with
@@ -30832,6 +30836,10 @@ abandoned. The Contested Lands are home to substantial populations of
 feral war beasts, dangerous predators with combat training and no human
 masters.
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 **Behavior and Ecology:**
 
 Domesticated war beasts are extensions of their handlers, disciplined,
@@ -30872,10 +30880,6 @@ War beasts are trained killers. They know how to knock targets prone,
 coordinate with pack members, and focus on vulnerable enemies. Their
 intimidating howls can paralyze opponents with fear, a deliberately bred
 trait.
-
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
 
 They're particularly dangerous against frightened targets, having been
 trained to recognize and exploit fear responses. Those who panic when
@@ -30953,6 +30957,10 @@ The Contested Lands have dozens of haunted battlefields, some dating
 back centuries. New ones form periodically as particularly brutal
 engagements add to the region's collection of horrors.
 
+{{pageNumber,auto}}
+{{footnote Chapter 46: Border Creatures}}
+\page
+
 **Behavior and Ecology:**
 
 Haunted battlefields are static, the horror doesn't spread, doesn't
@@ -30993,20 +31001,16 @@ battle directly. Phantom weapons cause psychic damage that feels
 completely real. Spectral charges can knock victims prone. The
 overwhelming sensory assault leaves survivors shaken and disoriented.
 
-{{pageNumber,auto}}
-{{footnote Chapter 46: Border Creatures}}
-\page
-
 The battlefield can spontaneously generate spectral soldiers, not true
 ghosts, but temporary manifestations that attack and eventually
 dissolve. It can also summon phantom armies: waves of spectral
 combatants that overwhelm through numbers.
 
+\column
+
 Consecration suppresses battlefield activity temporarily. Priests can
 create safe zones within haunted areas through funeral rites, though the
 suppression is limited in duration and radius.
-
-
 
 **Cultural Significance:**
 
@@ -31020,8 +31024,6 @@ of priests periodically venture into the Contested Lands specifically to
 lay battlefields to rest. This requires performing comprehensive funeral
 rites for all the dead, identified and unidentified, while defending
 against the battlefield's manifestations.
-
-\column
 
 Some battlefields have been consecrated repeatedly but always reawaken.
 Scholars debate whether permanent pacification is possible or whether
@@ -33160,6 +33162,10 @@ Their professional training distinguishes them from untrained fighters
 of similar combat skill. They know tactics, recognize signals, and
 respond predictably to commands, all valuable in group combat.
 
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
 **Cultural Significance:**
 
 Guild recruits represent the mercenary profession's accessibility.
@@ -33177,10 +33183,6 @@ their first contracts.
     observed
 
 -   A recruit cohort is in over their head and needs help
-
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
 
 -   Someone the party knows has joined the Guild as a recruit
 
@@ -33223,7 +33225,7 @@ appropriate.
 Many veterans have served on both sides of various conflicts at
 different times. This isn't considered problematic, professional
 soldiers go where contracts take them.
-\column
+
 **Behavior and Combat:**
 
 Veterans fight efficiently rather than dramatically. They know that
@@ -33265,6 +33267,10 @@ Their tactical retreat capability reflects hard-won wisdom: knowing when
 to disengage is as important as knowing when to fight. Veterans who
 didn't learn this lesson didn't become veterans.
 
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
 **Cultural Significance:**
 
 Veterans are the Guild's backbone. Captains and elites get glory;
@@ -33285,10 +33291,6 @@ survive long enough become veterans. Most never become more.
     professionally
 
 -   A veteran is trying to leave the profession and needs help
-
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
 
 ### 49.3 Guild Enforcer
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-guild-enforcer.jpg){width:325px}</div>
@@ -33371,6 +33373,10 @@ Enforcers represent the Guild's self-governance. Unlike national armies
 that rely on external authority, the Guild polices itself. This
 self-regulation is central to its reputation and independence.
 
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
 They're controversial within the Guild. Some members appreciate the
 order enforcers maintain. Others resent their authority and view them as
 internal tyrants.
@@ -33390,6 +33396,8 @@ internal tyrants.
 
 ### 49.4 Contract Killer
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-contract-killer.jpg){width:325px}</div>
+
 **Type:** Humanoid (any ancestry)
 
 **Physical Description:**
@@ -33404,6 +33412,8 @@ into shadows. Their weapons are concealable. Their movements are quiet
 and controlled. Everything about them is optimized for not being noticed
 until it's too late.
 
+\column
+
 **Origins:**
 
 The Guild officially doesn't employ assassins. Assassination is illegal
@@ -33413,13 +33423,6 @@ legitimacy. Officially, contract killers don't exist.
 Unofficially, certain specialized operatives handle "personal security
 contracts" that sometimes require "preemptive neutralization of
 threats." The language is careful. The results are fatal.
-
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
-
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-contract-killer.jpg){width:325px}</div>
 
 Selection draws from veterans who've demonstrated relevant
 capabilities: stealth, patience, precision, and the ability to kill
@@ -33477,6 +33480,10 @@ Their existence is officially denied. This denial is conventional and
 everyone involved understands it. The pretense maintains useful fictions
 for employers and the Guild alike.
 
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
 **Story Potential:**
 
 -   A contract killer is targeting someone the party needs to protect
@@ -33504,12 +33511,6 @@ projects authority earned through demonstrated capability.
 They're typically in their thirties or forties, old enough to have
 accumulated experience, young enough to remain physically effective.
 Scars and wear marks testify to the contracts they've survived.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
-
 
 **Origins:**
 
@@ -33578,6 +33579,10 @@ They represent mercenary work's legitimate aspirations: professional
 soldiers commanding professional companies for professional purposes.
 The more problematic aspects of the profession happen at other levels.
 
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
 **Story Potential:**
 
 -   A captain offers the party contract work as temporary additions to
@@ -33612,7 +33617,7 @@ replaced with experience and equipment.
 Each Elite is recognizable. They have individual reputations built over
 careers that span decades. Their names are known throughout the
 mercenary profession.
-
+\column
 **Origins:**
 
 The Elite are selected from the best captains and specialists, those
@@ -33631,13 +33636,7 @@ Guildmaster himself.
 **Behavior and Combat:**
 
 Elite fight with refined technique developed over decades. Every motion
-is purposeful. Every attack is efficient. 
-
-{{pageNumber,auto}}
-{{footnote Chapter 49: Iron Guild Mercenaries}}
-\page
-
-They've long since abandoned
+is purposeful. Every attack is efficient. They've long since abandoned
 flashy techniques in favor of what actually works.
 
 They're remarkably difficult to defeat through psychological means.
@@ -33685,6 +33684,10 @@ handle that transition, retiring gracefully, dying in service, or
 declining into parody, shapes how younger members understand their own
 futures.
 
+{{pageNumber,auto}}
+{{footnote Chapter 49: Iron Guild Mercenaries}}
+\page
+
 **Story Potential:**
 
 -   An Elite is assigned to a mission that intersects with the party's
@@ -33699,6 +33702,8 @@ futures.
 
 ### 49.7 Garrick "Ironheart" Hammerfist
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-garrick-ironheart-guildmaster.jpg){width:325px}</div>
+
 **Type:** Humanoid (dwarf), legendary craftsman-warrior
 
 **Note:** *Garrick appears in the Monster Manual under Iron Guild
@@ -33707,9 +33712,7 @@ Iron Guild. A full entry exists in Section 61.6.
 His connection to the Iron Guild stems from his legendary status in
 Goldreach, where both organizations maintain headquarters, and his
 occasional provision of weapons and equipment to Guild contracts.*
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-garrick-ironheart-guildmaster.jpg){width:325px}</div>
-
+\column
 **Physical Description:**
 
 Powerfully built even by dwarven standards, with arms like tree trunks
@@ -33769,6 +33772,8 @@ terrible.
 
 ### 50.1 Blessed Paladin (General Ascended-Touched)
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-blessed-paladin.jpg){width:325px}</div>
+
 **Type:** Humanoid (any ancestry, divine champion)
 
 **Physical Description:**
@@ -33813,10 +33818,6 @@ additional harm that seems to burn with holy light. This divine smite is
 particularly effective against evil creatures, especially undead and
 fiends.
 
-\column
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-blessed-paladin.jpg){width:325px}</div>
-
 They often lead from the front, inspiring others through example. Their
 presence in a conflict signals that at least one of the Ascended has
 interest in the outcome.
@@ -33847,6 +33848,10 @@ Their divine connection provides some resistance to fear and mental
 manipulation. The blessing seems to anchor their minds against
 supernatural influence.
 
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
 **Cultural Significance:**
 
 Blessed paladins are living proof of divine attention. Their existence
@@ -33859,10 +33864,6 @@ champions but views Aethor's liberators with suspicion. Aethoria
 celebrates champions of freedom while questioning those who serve order
 too rigidly. These tensions reflect the broader conflicts between
 nations and faiths.
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
 
 **Story Potential:**
 
@@ -33877,6 +33878,7 @@ nations and faiths.
 
 ### 50.2 Thandros' Justicar
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-thandross-justicar.jpg){width:325px}</div>
 
 **Type:** Humanoid (any ancestry, divine champion of Thandros)
 
@@ -33925,8 +33927,6 @@ They're not cruel or sadistic. Justice, in Thandros' understanding, is
 about proper order, not punishment for its own sake. Justicars enforce
 law; they don't enjoy doing so.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-thandross-justicar.jpg){width:325px}</div>
-
 
 **Intelligence and Society:**
 
@@ -33951,6 +33951,10 @@ The Mace of Justice deals additional divine damage against those who've
 committed crimes, as if guilt itself makes one vulnerable to law's
 enforcement.
 
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
 Their Gavel Strike can temporarily incapacitate opponents, a moment
 where judgment renders the guilty unable to act, frozen by law's
 authority.
@@ -33964,11 +33968,6 @@ at fair governance, and Justicars embody that ideal.
 In Aethoria, they're viewed with suspicion as potential tyrants. Law
 can be used to oppress, and Aethorian culture emphasizes that unjust
 laws deserve defiance rather than enforcement.
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
-
 
 **Story Potential:**
 
@@ -33984,6 +33983,7 @@ laws deserve defiance rather than enforcement.
 
 ### 50.3 Aethor's Liberator
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-aethors-liberator.jpg){width:325px}</div>
 
 **Type:** Celestial (divine servant of Aethor)
 
@@ -34036,8 +34036,6 @@ Liberators operate independently, following Aethor's guidance rather
 than mortal authority. They respect those who work toward freedom but
 don't subordinate themselves to mortal movements or organizations.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-aethors-liberator.jpg){width:325px}</div>
-
 They communicate telepathically and can understand any language, freedom
 transcends linguistic barriers. Their conversations often focus on the
 nature of freedom, the causes of oppression, and the possibilities of
@@ -34054,7 +34052,13 @@ mundane, within their presence. Chains shatter, locks spring open, and
 magical bindings dissolve.
 
 Their presence provides allies with resistance to mental compulsion and
-fear. Freedom, in their company, extends beyond physical restraint to
+fear. Freedom, in their company, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
+extends beyond physical restraint to
 psychological liberation as well.
 
 **Cultural Significance:**
@@ -34082,11 +34086,9 @@ social structures that Thaldros considers legitimate.
 -   The party witnesses a Liberator's appearance and must decide how to
     respond
 
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
-
 ### 50.4 Moira's Seer
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-moira-seer.jpg){width:325px}</div>
 
 **Type:** Humanoid (any ancestry, divine prophet of Moira)
 
@@ -34153,14 +34155,17 @@ They maintain connections with each other, sharing techniques for
 managing the burden of sight. These informal networks span political
 boundaries, prophecy doesn't care about nations.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-moira-seer.jpg){width:325px}</div>
-
-
 **Abilities:**
 
 Seers can share visions with others, potentially overwhelming them with
 possible futures. This is usually defensive, attackers caught in
-prophetic vision can't act effectively, but can also be used to
+prophetic vision 
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
+can't act effectively, but can also be used to
 communicate complex information.
 
 Their Weaver's Warning allows them to grant others brief prescience,
@@ -34192,20 +34197,16 @@ something.
 
 ### 50.5 Sylvara's Wild Hunter
 
-**Type:** Fey (divine servant of Sylvara)
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-sylvaras-wild-hunter.jpg){width:325px}</div>
 
+**Type:** Fey (divine servant of Sylvara)
+\column
 **Physical Description:**
 
 Wild Hunters are fey beings who serve Sylvara, goddess of nature and the
 wild. They appear as lithe, fierce humanoids with features suggesting
 various predatory animals, wolf-like eyes, antlered brows, or fingers
-that end 
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
-
-in subtle claws. Leaves and vines often grow directly from
+that end in subtle claws. Leaves and vines often grow directly from
 their skin, and their hair moves like living things.
 
 They're naturally camouflaged in wild environments, their appearance
@@ -34246,8 +34247,6 @@ They're not evil or sadistic, they don't enjoy killing. But they're
 absolutely dedicated to nature's protection and will destroy threats
 without hesitation or remorse.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-sylvaras-wild-hunter.jpg){width:325px}</div>
-
 **Intelligence and Society:**
 
 Wild Hunters understand mortal speech and customs but don't share
@@ -34267,7 +34266,13 @@ large-scale environmental destruction.
 **Abilities:**
 
 Wild Hunters can summon predatory animals to fight alongside them,
-calling wolves, bears, or other appropriate creatures depending on
+calling wolves, bears, or other 
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
+appropriate creatures depending on
 environment.
 
 Their Lightning Leap allows them to teleport short distances, leaving
@@ -34302,6 +34307,8 @@ power.
 
 ### 50.6 Sera's Mercy
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-seras-mercy.jpg){width:325px}</div>
+
 **Type:** Celestial (divine messenger of Sera)
 
 **Physical Description:**
@@ -34324,11 +34331,6 @@ wounded, comforting the dying, and offering hope to the despairing.
 They appear in Tirvandor during times of great suffering: plagues,
 disasters, wars. Their presence doesn't prevent suffering but makes it
 bearable, ensuring that divine compassion accompanies mortal pain.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
 
 Individual Mercies may linger in particular locations, hospitals,
 temples, sites of ongoing tragedy, providing continuous care for as long
@@ -34355,8 +34357,6 @@ Mercies communicate telepathically in any language, conveying emotion as
 much as words. They speak of suffering, healing, hope, and comfort,
 their vocabulary is shaped by their purpose.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-seras-mercy.jpg){width:325px}</div>
-
 They don't judge those they help. Their compassion extends to everyone:
 heroes and villains, saints and sinners. Some mortals find this
 troubling, shouldn't divine beings distinguish between deserving and
@@ -34375,6 +34375,10 @@ harm, extending Sera's protection to those in immediate danger.
 
 Their Peaceful Presence can calm entire groups, temporarily suppressing
 violence and aggression.
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
 
 **Cultural Significance:**
 
@@ -34414,10 +34418,6 @@ skeletal or desiccated but project power rather than horror.
 Their eye sockets glow with cold white light, not the malevolent fire of
 evil undead, but the steady radiance of duty fulfilled. They move with
 military precision, and their presence is solemn rather than terrifying.
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
 
 **Origins:**
 
@@ -34481,7 +34481,13 @@ to assist in protecting sacred sites.
 
 Sentinels are respected as honorable guardians rather than feared as
 monsters. Communities near Sentinel-protected sites maintain proper
-relationships with them, providing offerings and maintenance for guarded
+relationships with them, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
+
+providing offerings and maintenance for guarded
 tombs in exchange for protection.
 
 They represent the possibility of meaningful existence after death, not
@@ -34537,13 +34543,7 @@ are recent, their fall a tragedy that those who knew them still mourn.
 **Behavior and Combat:**
 
 Fallen Champions are driven by bitterness and resentment. They hate what
-they were, hate those who remain faithful, and 
-
-{{pageNumber,auto}}
-{{footnote Chapter 50: Ascended-Touched}}
-\page
-
-hate the divine beings
+they were, hate those who remain faithful, and hate the divine beings
 whose standards they couldn't meet. This hatred fuels their violence.
 
 In combat, they're dangerous opponents, retaining combat skills from
@@ -34588,6 +34588,10 @@ Fallen Champions are cautionary tales. Their existence reminds the
 faithful that even blessed heroes can fall, that righteousness requires
 constant vigilance, and that no one is immune to corruption's
 temptation.
+
+{{pageNumber,auto}}
+{{footnote Chapter 50: Ascended-Touched}}
+\page
 
 They're also tragedies, people who once served divine purpose reduced
 to monsters. Many who encounter Fallen Champions feel sorrow alongside
@@ -34697,6 +34701,10 @@ They don't form societies. Each Guardian operates independently,
 following its own directives. If multiple Guardians protect the same
 site, they coordinate seamlessly but don't appear to communicate.
 
+{{pageNumber,auto}}
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
+\page
+
 Some scholars believe Guardians contain fragments of their creators'
 consciousness, not true intelligence but echoes of ancient minds. Others
 think they're simply extraordinarily sophisticated automata following
@@ -34714,10 +34722,6 @@ the attempt.
 
 Their truesight allows them to perceive reality directly, seeing through
 illusions, shapeshifting, and magical concealment.
-
-{{pageNumber,auto}}
-{{footnote Chapter 51: Ancient and Prophetic Beings}}
-\page
 
 **Cultural Significance:**
 
@@ -34784,8 +34788,6 @@ They claim no allegiance to any god, nation, or cause. They observe.
 They record. They remember. That's their purpose, as far as anyone can
 determine.
 
-\column
-
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-prophecy-keeper.jpg){width:325px}</div>
 
 **Behavior and Combat:**
@@ -34796,7 +34798,7 @@ what occurs for purposes they don't explain.
 
 However, they respond to threats. Those who attack a Prophecy Keeper
 discover that beings capable of perceiving all possible futures are very
-difficult to harm.
+difficult to harm. 
 
 They can project psychic attacks that strike with
 precision, anticipating attempts to dodge or block.
@@ -34805,6 +34807,10 @@ Their most disturbing ability is Reveal Fate, showing a creature its
 destined future. For many, this knowledge is overwhelming, leaving them
 stunned as their minds process what they've seen. Those who withstand
 the vision gain brief advantage from knowing what's coming.
+
+{{pageNumber,auto}}
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
+\page
 
 They can also alter memories, adjusting what creatures remember about
 events the Keepers witnessed. The purposes of this ability are unclear,
@@ -34823,10 +34829,6 @@ They don't form communities in any recognizable sense. Multiple Keepers
 might be present at significant events, but they don't appear to
 interact with each other. Perhaps they don't need to, if they share
 perception of all possibilities, communication would be redundant.
-
-{{pageNumber,auto}}
-{{footnote Chapter 51: Ancient and Prophetic Beings}}
-\page
 
 They can speak any language and communicate telepathically, though their
 communications often include information that doesn't parse in normal
@@ -34876,6 +34878,8 @@ their choices and their place in fate's design.
 
 ### 51.3 Forgotten King
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-forgotten-king.jpg){width:325px}</div>
+
 **Type:** Undead (ancient royalty)
 
 **Physical Description:**
@@ -34903,11 +34907,15 @@ records of its existence. According to fragmentary prophecy, he was one
 of an original "Seven" whose failure preceded the Worldrend and set
 the stage for the Seven Ascended's rise.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-forgotten-king.jpg){width:325px}</div>
-
 What the original Seven were supposed to accomplish, and how they
 failed, remains unclear. The Forgotten King himself seems unable or
-unwilling to explain. He exists in a state of eternal waiting, convinced
+unwilling to explain. He exists in a state of eternal waiting, 
+
+{{pageNumber,auto}}
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
+\page
+
+convinced
 that prophecy will eventually restore his dynasty, or at least conclude
 his story.
 
@@ -34948,10 +34956,6 @@ He's isolated. Whatever court he once commanded has crumbled. Whatever
 subjects once served him are dust. He exists alone with his memories,
 his regrets, and his desperate hope that prophecy will finally deliver
 what it promised.
-
-{{pageNumber,auto}}
-{{footnote Chapter 51: Ancient and Prophetic Beings}}
-\page
 
 He can be reasoned with, his intelligence permits negotiation, but his
 goals are fundamentally incompatible with the current world. He wants
@@ -35005,6 +35009,8 @@ failure is necessary to prevent similar failure in the current age.
 
 ### 51.4 Herald of the Seven
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-herald-of-the-seven.jpg){width:325px}</div>
+
 **Type:** Celestial (divine messenger)
 
 **Physical Description:**
@@ -35013,6 +35019,10 @@ Heralds of the Seven are awe-inspiring celestial beings, standing nine
 feet tall with wings of pure light that span twenty feet or more. Their
 features are beautiful beyond mortal standard, their forms radiating
 divine presence that commands attention and respect.
+
+{{pageNumber,auto}}
+{{footnote Chapter 51: Ancient and Prophetic Beings}}
+\page
 
 They appear in the regalia of all seven Ascended simultaneously, armor
 that shifts between their symbols, weapons that glow with combined
@@ -35023,7 +35033,6 @@ pantheon rather than any single god.
 Their presence affects reality itself. Light brightens around them. Evil
 creatures feel uncomfortable. The faithful feel profound reassurance.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-herald-of-the-seven.jpg){width:325px}</div>
 
 **Origins:**
 
@@ -35064,11 +35073,7 @@ Heralds possess intelligence drawn from all seven Ascended, making them
 remarkably wise and insightful. They understand mortal concerns while
 maintaining divine perspective. They can address theological questions
 with authority that no mortal priest can match.
-
-{{pageNumber,auto}}
-{{footnote Chapter 51: Ancient and Prophetic Beings}}
-\page
-
+\column
 They don't form societies, they're temporary manifestations rather
 than ongoing beings. Each Herald exists for the duration of its mission
 and knows it will cease existing when that mission concludes. This gives
@@ -35223,7 +35228,13 @@ targets at once.
 **Cultural Significance:**
 
 Corruption Spawn are living reminders of war's hidden costs. They
-demonstrate that magical warfare damages more than immediate targets, it
+demonstrate that magical warfare 
+
+{{pageNumber,auto}}
+{{footnote Chapter 52: Corrupted and Cursed}}
+\page
+
+damages more than immediate targets, it
 poisons land, water, and the fabric of reality itself.
 
 They're used in anti-war rhetoric by those who oppose the continental
@@ -35232,10 +35243,6 @@ spawn-infested regions. "This is the legacy we're leaving."
 
 For those living near corrupted areas, spawn are constant threats that
 require ongoing vigilance. 
-
-{{pageNumber,auto}}
-{{footnote Chapter 52: Corrupted and Cursed}}
-\page
 
 Communities develop warning systems, patrol
 schedules, and spawn-hunting traditions to manage the danger.
@@ -35327,6 +35334,10 @@ Some retain enough coherence to be communicated with, though such
 conversations are disturbing. They describe their deaths, their hatred,
 their inability to stop fighting even though they know they're dead.
 
+{{pageNumber,auto}}
+{{footnote Chapter 52: Corrupted and Cursed}}
+\page
+
 **Abilities:**
 
 War-Twisted Soldiers are skilled combatants with weapons they used in
@@ -35352,10 +35363,6 @@ Military forces on both sides train soldiers in practices meant to
 ensure proper death and burial, specifically to prevent War-Twisted
 rising. 
 
-{{pageNumber,auto}}
-{{footnote Chapter 52: Corrupted and Cursed}}
-\page
-
 These practices are taken seriously, no one wants their comrades
 to become monsters.
 
@@ -35372,8 +35379,6 @@ to become monsters.
     original war
 
 ### 52.3 Curse Bearer
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-curse-bearer.jpg){width:325px}</div>
 
 **Type:** Monstrosity (cursed transformation)
 
@@ -35413,6 +35418,8 @@ not casual magic but serious workings with lasting effects. Many date to
 the Worldrend or earlier, embedded in locations or objects that have
 cursed victims for centuries.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-monster-curse-bearer.jpg){width:325px}</div>
+
 **Behavior and Combat:**
 
 Curse Bearers are predators driven by hunger and pain. The curse that
@@ -35434,7 +35441,13 @@ outward to affect everyone nearby.
 
 Curse Bearers retain memories of their former lives but experience them
 as torment rather than comfort. They remember being human (or whatever
-they were), remember having families and homes and purposes. These
+they were), 
+
+{{pageNumber,auto}}
+{{footnote Chapter 52: Corrupted and Cursed}}
+\page
+
+remember having families and homes and purposes. These
 memories make their current existence more painful rather than less.
 
 They can sometimes communicate, though doing so is difficult for them.
@@ -35464,18 +35477,12 @@ Curse Bearers represent the danger of dark magic and cursed places.
 Their existence warns against tampering with certain powers, entering
 certain locations, or taking certain objects.
 
+\column
+
 They're also figures of tragedy. Unlike creatures born as monsters,
 Curse Bearers were transformed against their will. Many communities feel
 obligated to put them down mercifully rather than simply killing them as
-threats, 
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 52: Corrupted and Cursed}}
-\page
-
-
-recognizing that victims deserve compassion even when they've
+threats, recognizing that victims deserve compassion even when they've
 become dangerous.
 
 Stories of Curse Bearers often focus on transformation rather than
@@ -35503,7 +35510,7 @@ as expressions of fear about losing control of one's own identity.
 
 <div class="cvr-img-top">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-sundering.jpg){height:450px}</div>
 
-{{margin-top:450px}}
+{{margin-top:370px}}
 
 # Part IX: Artifacts & Significant Items
 ## Chapter 53: The World-Splitter™
@@ -35517,8 +35524,6 @@ over twelve centuries ago. The threat of their reunification drives the
 central conflicts of the current age.
 
 ### 53.1 The Complete World-Splitter
-
-<div class="col-img-item">![53.1 The Complete World-Splitter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-world-splitter.jpg){float:right}</div>
 
 **Physical Description (Assembled)**
 
@@ -35539,6 +35544,14 @@ Each of the five Components forms part of this whole. Separately, they
 appear as distinct artifacts. Together, they merge into a configuration
 that predates mortal understanding of magic or physics.
 
+\column
+
+<div class="col-img-item">![53.1 The Complete World-Splitter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-world-splitter.jpg){width:325px}</div>
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
 **Origins and History**
 
 *The Primordial Theory (Academic Consensus)*
@@ -35558,10 +35571,6 @@ oceans, raise mountains. It could unmake and remake reality according to
 its wielder's will. The Primordials used it to sculpt the world itself.
 
 Then they tried to unmake the gods.
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 
 The gods fought back. The conflict between divine and primordial forces
 nearly destroyed everything. In the end, both sides withdrew, exhausted,
@@ -35668,6 +35677,11 @@ of opportunity.
 The World-Splitter remains separated into five Components, scattered
 across Tirvandor. The guardian oaths have frayed over twelve centuries,
 some guardian lines have died out entirely, others have forgotten why
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
 their ancestors made such promises, and some have begun to question
 whether the oaths still bind them.
 
@@ -35698,15 +35712,8 @@ to use it caused the Worldrend. Every subsequent attempt to deal with
 it, hiding it, guarding it, seeking it, has created new problems. There
 may be no good solution, only choices between different types of danger.
 
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
-
 
 ### 53.2 The Shadow Shard (First Component)
-
-<div class="col-img-item">![53.2 The Shadow Shard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-shadow-shard.jpg){float:right}</div>
-
 
 **Physical Description**
 
@@ -35745,6 +35752,8 @@ built elaborate defenses around the vault, trained each generation in
 the sacred duty, and kept the Shard's existence secret even from close
 allies. Their vigilance was unbroken, until it was betrayed.
 
+<div class="col-img-item">![53.2 The Shadow Shard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-shadow-shard.jpg){width:325px}</div>
+
 *The Fall of House Blackwood*
 
 In 1089 CR, Lord Aldric Blackwood III claimed the throne of Thaldros
@@ -35767,6 +35776,10 @@ distributed to loyalist houses, and the Blackwood name was forbidden.
 
 But the Shard remained in its vault. The Crown could not open the
 blood-locked door without a Blackwood to do it.
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
 
 *The Hidden Survivors*
 
@@ -35829,11 +35842,6 @@ The Shadow Shard remains in the deep vaults beneath Raven's Keep, where
 the Blackwoods placed it centuries ago. The vault is blood-locked, only
 Blackwood blood can open the final door.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
-
 Lord Shadows (Corvus Blackwood) is the last known person who can access
 the vault. Whether he has retrieved the Shard or left it in place varies
 depending on campaign timeline; in the Shattered Oaths campaign,
@@ -35877,9 +35885,6 @@ Shard holds the answer.
 
 ### 53.3 The Flame Heart (Second Component)
 
-<div class="col-img-item">![53.3 The Flame Heart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-flame-heart.jpg){float:right}</div>
-
-
 **Physical Description**
 
 The Flame Heart is a pulsing ember that never dies, roughly the size of
@@ -35901,7 +35906,13 @@ world began.
 
 After the Worldrend, the Flame Heart was entrusted to a secret branch of
 House Goldshore known as the Keepers. While the main Goldshore line
-became wealthy merchants and nobles in Goldreach, the Keepers lived
+became wealthy merchants and nobles in Goldreach, the 
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
+Keepers lived
 apart, maintaining their vigil over the Component in hidden vaults
 beneath Kaer Thandros.
 
@@ -35909,6 +35920,8 @@ The Keepers' existence was kept secret even from their own family. The
 main Goldshore line knew nothing of their cousins' true purpose, a
 precaution meant to protect both the Component and the unknowing
 relatives from those who might seek the artifact.
+
+<div class="col-img-item">![53.3 The Flame Heart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-flame-heart.jpg){width:325px}</div>
 
 For centuries, the Keepers maintained their watch. They lived near where
 the dragon Infernalix would later make its lair, possibly drawn by the
@@ -35958,10 +35971,6 @@ dragonkind. It can stir sleeping dragons to wakefulness, command lesser
 drakes, and communicate with ancient wyrms. Whether it can truly control
 dragons or merely influence them is debated.
 
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
-
 *Authority Over Things That Burn:* At deeper levels of mastery, the
 wielder gains authority over everything connected to fire, forges,
 volcanoes, the sun's light, the spark of life itself. They can ignite
@@ -35999,6 +36008,10 @@ some other purpose remains ambiguous.
 *The Crown:* Would prefer the Component secured and hidden, removing the
 dragon-cult threat and ensuring no one can use it against the kingdom.
 
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
 *Dragon Infernalix:* If the dragon knows of the Flame Heart, it may have
 its own plans. Ancient dragons pursue agendas that span centuries.
 
@@ -36014,6 +36027,8 @@ wasn't born evil; he was corrupted by desire for what the Flame Heart
 offered. Anyone who seeks it risks the same corruption.
 
 ### 53.4 The Void Fragment (Third Component)
+
+<div class="col-img-item">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-void-fragment.jpg){width:325px}</div>
 
 **Physical Description**
 
@@ -36032,7 +36047,6 @@ The Fragment is roughly the size of a large grapefruit but weighs far
 more than it should, or far less, or nothing at all. Reports conflict,
 suggesting the Fragment manipulates its own physical properties.
 
-<div class="col-img-item">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-void-fragment.jpg){float:right}</div>
 
 **History**
 
@@ -36084,11 +36098,6 @@ The Void Fragment lies in the ruins of Palace Port, approximately three
 hundred feet underwater in the Sundering Sea. In the Shattered Oaths
 campaign, reaching it requires:
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
-
 *Water-breathing magic or equipment:* The depth and duration make
 mundane diving impossible.
 
@@ -36097,6 +36106,10 @@ drowned remains are a labyrinth.
 
 *Dealing with inhabitants:* Sahuagin have claimed parts of the wreck.
 Other, stranger things may lurk in the deeper sections.
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
 
 *Racing the Unbound:* Lord Shadows' agents are also seeking the
 Fragment; they may arrive first.
@@ -36130,9 +36143,6 @@ the Shattered Oaths campaign requires, going deeper than is comfortable,
 facing things that have been hidden, emerging changed.
 
 ### 53.5 The Stone Crown (Fourth Component)
-
-<div class="col-img-item">![53.5 The Stone Crown](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-stone-crown.jpg){float:right}</div>
-
 
 **Physical Description**
 
@@ -36174,6 +36184,8 @@ Crown is merely an ancient ceremonial artifact with historical
 significance. He wears a World-Splitter Component without knowing what
 it truly is.
 
+<div class="col-img-item">![53.5 The Stone Crown](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-stone-crown.jpg){width:325px}</div>
+
 **Powers**
 
 The Stone Crown grants dominion over earth and stability. Its wielder
@@ -36195,7 +36207,13 @@ structures, ending seemingly eternal conditions).
 
 *Dominion Over Kingdoms:* The Crown's connection to political authority
 is not metaphorical. Those who possess it find that others naturally
-defer to their leadership. Whether this is magical compulsion or simply
+defer to their 
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
+leadership. Whether this is magical compulsion or simply
 the weight of its authority expressed is unclear.
 
 **Current Location/Status**
@@ -36217,11 +36235,6 @@ held by different people.
 
 *Political consequences:* Even if successful, stealing the Crown would
 make the thieves enemies of the entire kingdom.
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
-
 
 **Who Seeks It and Why**
 
@@ -36253,8 +36266,6 @@ genuine competence versus the Component's influence?
 
 ### 53.6 The Storm Eye (Fifth Component)
 
-<div class="col-img-item">![53.6 The Storm Eye](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-storm-eye.jpg){float:right}</div>
-
 **Physical Description**
 
 The Storm Eye appears as a sphere of captured lightning, roughly six
@@ -36271,6 +36282,8 @@ The sphere appears to contain a storm in miniature, or perhaps a storm
 too large to comprehend, compressed into a space that cannot actually
 hold it. Looking into its depths shows clouds, lightning, wind, rain, a
 complete weather system that somehow fits within a handheld object.
+
+<div class="col-img-item">![53.6 The Storm Eye](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-storm-eye.jpg){width:325px}</div>
 
 **History**
 
@@ -36292,6 +36305,10 @@ The Aethorian Guardians, the secret order charged with protecting the
 Storm Eye, remain active today. Their identities are hidden even from
 most Aethorian leadership, an additional layer of security against
 infiltration or betrayal.
+
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
 
 **Powers**
 
@@ -36347,10 +36364,6 @@ political goals.
 *Weather Mages:* Some practitioners believe studying the Storm Eye would
 advance their understanding of weather magic exponentially. They
 underestimate its dangers.
-
-{{pageNumber,auto}}
-{{footnote Chapter 53: The World-Splitter™}}
-\page
 
 **Story Significance**
 
@@ -36425,6 +36438,10 @@ but shatter them into fragments.
 *Reshape geography:* Mountains could become seas, deserts could become
 forests, the very map of the world could be rewritten.
 
+{{pageNumber,auto}}
+{{footnote Chapter 53: The World-Splitter™}}
+\page
+
 *Destroy civilization:* Not through direct attack but through
 environmental transformation that renders current settlements
 uninhabitable.
@@ -36443,7 +36460,7 @@ the Worldrend's destruction.
 
 *Remake corrupt systems:* Destroy unjust kingdoms, create better
 governance, enforce peace through overwhelming power.
-
+\column
 *Build utopia:* Transform Tirvandor into a paradise through direct
 reality manipulation.
 
@@ -36595,17 +36612,16 @@ with the names of every High King who wielded it. The final name,
 Aldric, was never completed, the final letters trailing off as if the
 engraver was interrupted mid-stroke.
 
+{{pageNumber,auto}}
+{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
+\page
+
 <div class="col-img-item">![The Royal Scepter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-scepter-of-rulership.jpg){float:right}</div>
 
 **History**
 
 Unlike the crown and sword, the Royal Scepter survived the Worldrend
 intact. How it came to the east is disputed:
-
-{{pageNumber,auto}}
-{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
-\page
-
 
 *Thandris Version:* Prince Aethos stole the scepter during the chaos of
 the cataclysm, taking advantage of the disaster to grab symbols of
@@ -36724,6 +36740,10 @@ unified realm.
 The jewels have been used in every coronation since, and their presence
 validates the transfer of power from one king to the next.
 
+{{pageNumber,auto}}
+{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
+\page
+
 **Significance**
 
 Together, the Crown Jewels represent complete royal authority, the right
@@ -36739,17 +36759,12 @@ magical wards, and elite guards.
 
 #### The Royal Signet Ring
 
-
 **Physical Description**
 
 A heavy gold ring bearing the Thandris family crest, a mountain peak
 with a crown above it. The ring can be pressed into wax to seal official
 documents, creating a mark that is legally equivalent to the king's
 personal signature.
-
-{{pageNumber,auto}}
-{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
-\page
 
 **History**
 
@@ -36796,6 +36811,8 @@ Aethermere royal line, as a deliberate contrast to western martial
 symbolism. She wanted a crown that represented thought rather than
 force, guidance rather than command.
 
+\column
+
 **Significance**
 
 The Wisdom Crown is worn by the reigning monarch of the Aethorian
@@ -36821,7 +36838,7 @@ staff is rooted in
 wood from the original world-tree, grafted with
 branches from each subsequent tree planted during Aethorian expansion.
 Green leaves sprout from its length regardless of season.
-\column
+
 **History**
 
 The Staff was first carried by Queen Aelindra I, who planted the
@@ -36866,7 +36883,13 @@ these symbols prove it.
 **Current Status**
 
 Displayed in the Aethermere palace, brought out only for the most
-significant ceremonies. Like the western half, it is never worn, wearing
+significant ceremonies. Like the western 
+
+{{pageNumber,auto}}
+{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
+\page
+
+half, it is never worn, wearing
 half a crown would acknowledge incomplete authority.
 
 ### 54.4 Noble House Heirlooms
@@ -36892,11 +36915,6 @@ carved into a raven's head.
 The rapier represents what House Blackwood became after their
 destruction, instruments of vengeance rather than symbols of nobility.
 Corvus carries it as both weapon and reminder.
-
-{{pageNumber,auto}}
-{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
-\page
-
 
 **The Blackwood Family Shield**
 
@@ -36985,7 +37003,13 @@ and represent authority within their organizations.
 
 A cold metal disc barely larger than a coin. One side bears the image of
 a raven in flight, wings spread wide, rendered in tarnished silver
-against black iron. The other side is smooth except for three words
+against black iron. The 
+
+{{pageNumber,auto}}
+{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
+\page
+
+other side is smooth except for three words
 etched in ancient script: "TRUTH UNBINDS ALL." The metal seems to
 drink in light, and holding it too long makes fingers feel numb.
 
@@ -37010,6 +37034,8 @@ Actively distributed among Unbound members. The tokens are magical; they
 cannot be perfectly counterfeited, and Unbound leadership can sense when
 one is destroyed.
 
+\column
+
 #### Iron Guild Membership Tokens
 
 
@@ -37019,11 +37045,6 @@ Bronze medallions bearing the Iron Guild crest, an anvil crossed with a
 sword, on one side and the member's identification number on the other.
 Higher-ranking members have silver or gold tokens. The Guild Master's
 token is platinum.
-
-{{pageNumber,auto}}
-{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
-\page
-
 
 **History**
 
@@ -37042,6 +37063,10 @@ Guild response.
 
 Issued to all Guild members in good standing. Lost tokens must be
 reported immediately; found tokens can be returned for bounty.
+
+{{pageNumber,auto}}
+{{footnote Chapter 54: Royal Regalia and Symbols of Office}}
+\page
 
 ## Chapter 55: Weapons of Legend
 
@@ -37143,13 +37168,7 @@ of all Seven temples.
 The first Knight-Commander, Sir Aldric Dawnblade (who took the blade's
 name as his own, establishing a tradition), wielded it to drive back a
 vampire lord who had been terrorizing the northern territories. Since
-then, the blade 
-
-{{pageNumber,auto}}
-{{footnote Chapter 55: Weapons of Legend}}
-\page
-
-has been passed to each subsequent Knight-Commander at
+then, the blade has been passed to each subsequent Knight-Commander at
 their investiture ceremony.
 
 The blade has seen service in every major conflict since its creation.
@@ -37157,6 +37176,10 @@ It was carried into the Dragon Crisis, where its light drove back the
 shadow that Infernalix used to conceal his approach. It has been wielded
 against demon incursions, undead risings, and human enemies who served
 darker powers.
+
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
 
 **Powers**
 
@@ -37416,8 +37439,6 @@ ancient sea-god during the Age of Recovery and tempered in water from
 the deepest ocean trench. The sword has defended Goldshore ships from
 pirates, sea monsters, and rival houses for six hundred years.
 
-
-
 When the main Goldshore line died out during the Keeper Massacre (the
 secret guardians of the Flame Heart Component), the blade was believed
 lost. It actually sank with Goldshore Manor during that disaster and
@@ -37427,14 +37448,16 @@ campaign events.
 **Powers**
 
 The blade deals severe cold damage on every strike. On a perfect strike,
-it can encase enemies in ice. Its wielder is immune to fire damage, a
-protection that proved invaluable in battles against fire-breathing sea
-serpents. The blade can freeze water it touches, creating ice bridges,
-and glows brilliantly in cold environments.
+it can encase enemies in ice. Its 
 
 {{pageNumber,auto}}
 {{footnote Chapter 55: Weapons of Legend}}
 \page
+
+wielder is immune to fire damage, a
+protection that proved invaluable in battles against fire-breathing sea
+serpents. The blade can freeze water it touches, creating ice bridges,
+and glows brilliantly in cold environments.
 
 **Significance**
 
@@ -37503,6 +37526,8 @@ reflect it. The hilt is wrapped in shadow-silk and topped with an
 obsidian pommel carved into a raven's head. When swung, the blade
 leaves trails of darkness in its wake.
 
+\column
+
 **History**
 
 The blade was originally Lady Elaine Blackwood's dress sword, an
@@ -37562,17 +37587,15 @@ reflect it. The top is set with a purple crystal that pulses with dark
 energy. Shadows seem to deepen around the staff, and those nearby feel a
 subtle chill and occasional whispers at the edge of hearing.
 
-**History**
-
-Lord Shadows created the Void Staff using shadow magic and fragments of
-void energy obtained through dangerous pacts with entities that exist in
-the spaces between planes. It took him three 
-
 {{pageNumber,auto}}
 {{footnote Chapter 55: Weapons of Legend}}
 \page
 
-years to complete the
+**History**
+
+Lord Shadows created the Void Staff using shadow magic and fragments of
+void energy obtained through dangerous pacts with entities that exist in
+the spaces between planes. It took him three years to complete the
 staff, during which he nearly lost himself to the void twice.
 
 The staff was crafted specifically to channel the shadow magic that
@@ -37626,13 +37649,15 @@ died in battle, the sword was taken by his killer, who was in turn
 corrupted by it. The blade has passed through several hands since,
 always leaving tragedy in its wake.
 
+\column
+
 **Powers**
 
 The blade deals severe necrotic damage on every strike. On critical
 hits, it can paralyze enemies as death energy courses through them. The
 blade whispers to its wielder, urging them toward violence and feeding
 on their grief. It grows stronger the more enemies it kills.
-\column
+
 **Curse**
 
 The Voidblade feeds on grief and loss. Wielders become increasingly
@@ -37689,6 +37714,10 @@ convinced that they alone understand true freedom and that everyone else
 is either an obstacle or a potential convert. The whispers encourage
 ever-more-extreme actions in the name of "liberation."
 
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
 **Significance**
 
 The Unbound Dark Blade represents the dark side of the Unbound cause.
@@ -37699,11 +37728,6 @@ blade is both weapon and warning.
 
 Believed to be in Unbound possession, though some claim it was destroyed
 after the last wielder had to be put down by his own allies.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 55: Weapons of Legend}}
-\page
 
 ### 55.4 Weapons of Nature and Forest
 
@@ -37773,7 +37797,7 @@ The current wielder, Ranger-Lord Arannis Silverleaf, received the bow
 upon assuming command of House Silverleaf's military forces. He has
 carried it for over a century, defending the Silverwood from countless
 threats.
-\column
+
 **Powers**
 
 In forest terrain, arrows from Thornstrike never miss their intended
@@ -37820,7 +37844,13 @@ legend.
 
 The blades can be coated with poison as a swift action by activating the
 reservoir mechanism. The poison causes severe damage to those struck,
-and the reservoirs refill naturally from the venom sacs built into the
+and the reservoirs 
+
+{{pageNumber,auto}}
+{{footnote Chapter 55: Weapons of Legend}}
+\page
+
+refill naturally from the venom sacs built into the
 handles, a disturbing innovation that required harvesting glands from
 venomous creatures.
 
@@ -37834,11 +37864,6 @@ ended many lives.
 **Current Location**
 
 Wielded by Kael Shadowbane, master assassin of the Black Chains.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 55: Weapons of Legend}}
-\page
 
 #### Blackblade
 
@@ -37899,6 +37924,7 @@ An amulet bearing a raven design in black metal, hung on a chain of
 shadow-links that seem to shift between solid and insubstantial. The
 raven's eyes are set with black opals that occasionally seem to blink.
 
+\column
 
 **History**
 
@@ -37910,8 +37936,6 @@ combined with shadow-pact power obtained at great personal cost.
 The amulet took years to create, requiring Corvus to sacrifice portions
 of his own life force to power it. This is one reason he appears older
 than his years, he has given pieces of himself to the amulet.
-
-\column
 
 <div class="col-img">![The Amulet of the Black Raven](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-amulet-of-the-black-raven.jpg){width:325px}</div>
 
@@ -38255,9 +38279,6 @@ The Orb of Prophecy was created by the Temple of Moira centuries ago as
 a tool for their seers. It has passed through many hands since, some
 worthy, some not. The orb seems to 
 
-\column
-
-
 <div class="col-img-item">![The Orb of Prophecy](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-orb-of-prophecy.jpg){float:right}</div>
 
 choose its own path, appearing where
@@ -38315,15 +38336,15 @@ resistance to avoid corruption. The true names it reveals carry their
 own dangers, knowing a being's true name grants power over it, but also
 draws its attention.
 
+{{pageNumber,auto}}
+{{footnote Chapter 57: Objects of Power}}
+\page
+
 **Significance**
 
 The Book of Forgotten Names is sought by scholars, wizards, and those
 who wish to control others. Possessing it marks one as either a great
 sage or a dangerous fool, sometimes both.
-
-{{pageNumber,auto}}
-{{footnote Chapter 57: Objects of Power}}
-\page
 
 **Current Location**
 
@@ -38376,7 +38397,6 @@ possession of private collectors who understand its value, and danger.
 
 #### The Black Ledger
 
-
 <div class="col-img-item">![The Black Ledger](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-the-black-ledger.jpg){float:right}</div>
 
 **Physical Description**
@@ -38384,6 +38404,8 @@ possession of private collectors who understand its value, and danger.
 A leather-bound ledger, unremarkable in appearance except for a small
 symbol on the cover, a coin split by a dagger. The pages are filled with
 names, numbers, and transactions in coded shorthand.
+
+\column
 
 **History**
 
@@ -38441,7 +38463,13 @@ the wearer, providing concealment even in moderate light.
 **Significance**
 
 Possessing a Ring of Shadows without being a Black Chains member is
-dangerous, the organization protects its symbols jealously. However, the
+dangerous, the 
+
+{{pageNumber,auto}}
+{{footnote Chapter 57: Objects of Power}}
+\page
+
+organization protects its symbols jealously. However, the
 ring is useful enough that some take the risk.
 
 **Current Location**
@@ -38449,12 +38477,6 @@ ring is useful enough that some take the risk.
 Worn by senior Black Chains assassins throughout Tirvandor. Kael
 Shadowbane, master assassin of the organization, wears a particularly
 powerful variant.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 57: Objects of Power}}
-\page
-
 
 #### The Cloak of the Thornwood
 
@@ -38574,6 +38596,10 @@ itself, but risks becoming death's servant rather than its master.
 Wielded by the current Dread King (the restored Undead King) in the
 Frostfell Crypts. It can be claimed by those who defeat him.
 
+{{pageNumber,auto}}
+{{footnote Chapter 57: Objects of Power}}
+\page
+
 ### 57.5 Items of Ice and Winter
 
 
@@ -38593,10 +38619,6 @@ Ice Golem Hearts are harvested from destroyed Ice Golems, massive
 constructs created by ancient frost magic. Each heart represents the
 core of a being that was never truly alive but was animated by elemental
 cold.
-
-{{pageNumber,auto}}
-{{footnote Chapter 57: Objects of Power}}
-\page
 
 **Powers**
 
@@ -38664,7 +38686,7 @@ A heavy cloak of white fur that seems to blend with snow and ice. The
 fur is from no identifiable animal, and it never gets wet or dirty. The
 cloak is surprisingly warm, protecting its wearer from the worst cold
 while remaining light and easy to wear.
-\column
+
 **History**
 
 Cloaks of the Frozen Wastes were created by the frost giants for their
@@ -38714,6 +38736,10 @@ using scales donated by a brass dragon ally. They were created
 specifically for the Unbound crisis when confronting Dragon Infernalix
 became necessary.
 
+{{pageNumber,auto}}
+{{footnote Chapter 57: Objects of Power}}
+\page
+
 **Powers**
 
 While worn, the amulets enhance perception of dragons, provide
@@ -38733,10 +38759,6 @@ limiting production.
 Dragon-Warding Amulets were distributed during the Dragon Crisis. Some
 remain with the heroes who carried them; others have been collected by
 those preparing for future dragon encounters.
-
-{{pageNumber,auto}}
-{{footnote Chapter 57: Objects of Power}}
-\page
 
 #### The Ring of Protection (Tirvandor Variant)
 
@@ -38765,6 +38787,8 @@ suffers a mortal wound, the diamond shatters in a burst of radiant
 energy that damages nearby enemies and automatically stabilizes the
 wearer.
 
+\column
+
 **Significance**
 
 This ring represents the sacrifice of a priest who died protecting
@@ -38776,7 +38800,7 @@ this power activates, the priest's final blessing expended.
 
 Recovered from the sunken Goldshore Manor. Current holder depends on
 campaign events.
-\column
+
 ### 57.7 Recognition and Honor Items
 
 
@@ -38888,14 +38912,14 @@ A platinum crown set with blue-green pearls and aquamarines, styled to
 resemble cresting waves. The crown grants water breathing, swimming
 speed, control over water, and authority over aquatic creatures.
 
+\column
+
 **Why It Is Sought**
 
 The Crown of the Depths would grant its wearer significant power in
 coastal and maritime affairs. It would also prove the legitimacy of any
 Goldshore heir who recovered it, relevant to those investigating the
 truth about the Keeper Massacre.
-
-\column
 
 **Dangers**
 
@@ -38961,6 +38985,10 @@ apart, pieces of the artifact scattered across the world. These
 fragments, distinct from the Components, are smaller pieces that retain
 traces of the original power.
 
+{{pageNumber,auto}}
+{{footnote Chapter 58: Lost and Sought Items}}
+\page
+
 **Description**
 
 Small crystalline shards that shimmer with reality-bending energy. Each
@@ -38972,10 +39000,6 @@ dangerous. Prolonged exposure causes mental instability.
 Scholars seek the fragments to understand what happened during the
 Worldrend. Mages seek them for their power. The Unbound may be
 collecting them as part of Lord Shadows' plans.
-
-{{pageNumber,auto}}
-{{footnote Chapter 58: Lost and Sought Items}}
-\page
 
 **Dangers**
 
@@ -39037,6 +39061,8 @@ The sword blessed by all Seven Ascended was lost approximately two
 centuries ago during a battle with dragon cultists in the Contested
 Lands. The exact location is unknown, the battle was chaotic, and
 survivors couldn't agree on where the sword fell.
+
+\column
 
 **Description**
 
@@ -39161,6 +39187,8 @@ reliable trade routes. Her journals, if they exist, would be priceless.
 as equals. He negotiated the secret treaty that ended the Dragon Crisis
 of 1156 CR. His name was erased from history as part of the bargain.
 
+\column
+
 ### 59.3 Cautionary Tales
 
 
@@ -39211,7 +39239,7 @@ divided. Both Thaldros and Aethoria claim their ruler is this heir.
 
 <div class="cvr-img-top">![Chapter 60: Military Leaders](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-thaldros-military-borderlands.jpg){height:450px}</div>
 
-{{margin-top:400px}}
+{{margin-top:370px}}
 
 ## Chapter 60: Military Leaders
 
@@ -39253,14 +39281,9 @@ recovered. Wears the consecrated armor of the Iron Council's commander,
 blessed against demonic corruption.
 
 \column
+{{margin-top:370px}}
 
-{{margin-top:460px}}
-
-<div class="col-img">![60.1 Lord Commander Gareth Lightbane](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-gareth-lightbane.jpg){width:260px}</div>
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
+<div class="col-img">![60.1 Lord Commander Gareth Lightbane](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-gareth-lightbane.jpg){width:325px}</div>
 
 
 #### Personality
@@ -39269,7 +39292,13 @@ blessed against demonic corruption.
 Gareth embodies the paradox of a holy warrior who has seen too much.
 Once possessed of simple, pure faith, his confrontation with true
 demonic evil during the Demon Tide changed him fundamentally. He remains
-devoted to protecting the innocent, but his methods have become harder,
+devoted to protecting the innocent, but his methods have become 
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
+harder,
 his mercy rarer. He knows that fighting monsters sometimes requires
 becoming something not entirely human.
 
@@ -39397,7 +39426,6 @@ been defeated in a major engagement.
 
 #### Physical Description
 
-
 Weather-beaten and imposing (6'2", 210 lbs. of muscle and scars).
 Sun-darkened skin speaks to a life spent on deck under harsh conditions.
 Short salt-and-pepper hair, practical and maintained. Piercing blue eyes
@@ -39409,15 +39437,15 @@ from naval battles, and a distinctive shark bite on his left forearm
 from an incident he refuses to discuss. Walks with the rolling gait of a
 career sailor, never quite still even on solid ground.
 
+Usually wears a modified naval uniform, practical enough for combat but
+clearly marking his rank. Smells 
 {{pageNumber,auto}}
 {{footnote Chapter 60: Military Leaders}}
 \page
 
-<div class="col-img">![60.2 Admiral Theron Stormcrest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-admiral-theron-stormcrest.jpg){width:260px}</div>
+of saltwater and gunpowder.
 
-Usually wears a modified naval uniform, practical enough for combat but
-clearly marking his rank. Smells of saltwater and gunpowder.
-
+<div class="col-img">![60.2 Admiral Theron Stormcrest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-admiral-theron-stormcrest.jpg){width:325px}</div>
 
 #### Personality
 
@@ -39450,6 +39478,8 @@ clearly marking his rank. Smells of saltwater and gunpowder.
 -   His sister Tempest (complicated relationship).
 
 -   House Stormcrest's naval legacy.
+
+\column
 
 **Flaws:**
 
@@ -39523,7 +39553,13 @@ Goldshore is slippery. If exposed prematurely, evidence disappears.
 
 2\. **The Mutiny:** Fifteen years ago, his first major command nearly
 ended in mutiny. He made a tactical decision that seemed to sacrifice
-crew to save ship. The mutiny was stopped, ringleaders executed. He was
+crew to save ship. The 
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
+mutiny was stopped, ringleaders executed. He was
 right tactically, but it haunts him, were his orders truly justified?
 
 3\. **The Sister's Power:** Tempest's weather magic is growing
@@ -39537,10 +39573,6 @@ power interested in hiring the Stormcrest fleet. The pay would be
 incredible, but it would mean operating against Tirvandor interests.
 He's tempted, not for the money but for the challenge. He's kept
 negotiations secret.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 5\. **The Depth Pact:** During the kraken battle, Theron made a pact
 with a merfolk community. They provide intelligence about underwater
@@ -39577,9 +39609,6 @@ unaware of her heritage. He watches her career from a distance.
 measure. So do I."*
 
 ### 60.3 Commander Kael Stormwatcher
-
-<div class="col-img">![60.3 Commander Kael Stormwatcher](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-kael-stormwatcher.jpg){width:260px}</div>
-
 
 **Title:** Commander of the Northern Garrison
 
@@ -39620,6 +39649,8 @@ draw steel and when to extend an open hand.
 
 -   Genuinely cares about both his soldiers and his unlikely allies.
 
+<div class="col-img">![60.3 Commander Kael Stormwatcher](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-kael-stormwatcher.jpg){width:325px}</div>
+
 #### Background & History
 
 
@@ -39634,6 +39665,11 @@ king, Hrothgar, wanted to talk. That conversation changed everything.
 Kael realized the giants weren't invading for conquest or cruelty. They
 were desperate. Their hunting grounds were dying. They raided because
 they were starving. Against all protocol, Kael negotiated a secret
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 agreement: controlled hunting rights in exchange for peace.
 
 The raids stopped. His superiors think he's a tactical genius who
@@ -39666,11 +39702,6 @@ treason against the crown.
 deliveries to giant camps. His soldiers think they're on extended
 reconnaissance.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
-
 3\. **The Overlapping Pact:** Doesn't know that Lord Commander Thrain
 has his own, separate pact with the giants at a higher level. Both
 commanders think they're alone in their deception.
@@ -39701,9 +39732,6 @@ survive the transition.
 
 ### 60.4 Sergeant Brenna Iceheart
 
-<div class="col-img">![60.4 Sergeant Brenna Iceheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sergeant-brenna-iceheart.jpg){width:260px}</div>
-
-
 **Title:** Sergeant, Elite Scout Squad Commander
 
 **Race:** Human
@@ -39724,7 +39752,9 @@ Athletic and battle-hardened, with the lean build of someone who
 survives on the frontier. Bears old wounds that never healed
 properly, injuries she hides to remain on active duty. Eyes that have
 seen too much death and expect to see more.
-\column
+
+<div class="col-img">![60.4 Sergeant Brenna Iceheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sergeant-brenna-iceheart.jpg){width:325px}</div>
+
 #### Background & History
 
 
@@ -39754,6 +39784,10 @@ stopped.
     fully trust).
 
 -   **Troops:** Fiercely loyal squad who'd follow her anywhere.
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
 
 -   **Rival:** A veteran sergeant who thinks she pushes too hard.
 
@@ -39803,14 +39837,6 @@ Small even for a halfling, which has saved his life more times than he
 can count. Light on his feet, quick to hide, and possessed of an uncanny
 ability to move unseen through territory that kills larger soldiers.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
-
-
-<div class="col-img">![60.5 Scout Captain Finn Quickfoot](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-scout-captain-finn-quickfoot.jpg){width:260px}</div>
-
 #### Background & History
 
 
@@ -39832,6 +39858,8 @@ never used before. He's been tracking it obsessively since, going on
 "solo patrols" that take him deeper into dangerous territory. He
 won't tell anyone what he's hunting because he's not sure they'd
 believe him.
+
+\column
 
 #### Connections
 
@@ -39867,10 +39895,13 @@ him and let him go. He doesn't know why.
 
 ### 60.6 Warden Commander Ignis Ashborn
 
-<div class="col-img">![60.6 Warden Commander Ignis Ashborn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-warden-commander-ignis-ashborn.jpg){width:260px}</div>
-
+<div class="col-img">![60.6 Warden Commander Ignis Ashborn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-warden-commander-ignis-ashborn.jpg){width:325px}</div>
 
 **Title:** Warden Commander of the Ashwarden Order
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
 
 **Race:** Human
 
@@ -39905,13 +39936,7 @@ immediately after.
 
 Five years ago, his deep sensors detected something new: a slow, steady
 pressure build beneath the main caldera. Not the quick patterns that
-signal imminent 
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
-
-eruption, something much larger, much slower. He's
+signal imminent eruption, something much larger, much slower. He's
 done the calculations. The volcano is building toward an eruption that
 could destroy everything within fifty miles. It won't happen for
 decades, but when it does, nothing will stop it.
@@ -39955,7 +39980,7 @@ ten years. Will stay himself to monitor the mountain until the end.
 
 ### 60.7 Warden Commander Thalia Moonbow
 
-<div class="col-img">![60.7 Warden Commander Thalia Moonbow](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-warden-commander-thalia-moonbow.jpg){width:260px}</div>
+<div class="col-img">![60.7 Warden Commander Thalia Moonbow](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-warden-commander-thalia-moonbow.jpg){width:325px}</div>
 
 **Title:** Warden Commander of the Ironspine Rangers
 
@@ -39979,7 +40004,6 @@ constantly scanning her surroundings for threats or opportunities.
 
 #### Background & History
 
-
 Thalia grew up in the forests bordering the Ironspine Mountains,
 daughter of two rangers who taught her to track before she could read.
 She joined the Ironspine Rangers at sixteen, the youngest in their
@@ -39988,7 +40012,13 @@ single-handedly tracked and killed a troll chieftain.
 
 The Ironspine Rangers patrol the mountains' lower slopes and forest
 boundaries, protecting travelers and settlements from creatures that
-emerge from the peaks. It's unglamorous work, more about prevention
+emerge from the peaks. 
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
+It's unglamorous work, more about prevention
 and patrol than heroic battles, but Thalia has shaped them into the
 most effective wilderness force in Thaldros.
 
@@ -40037,14 +40067,8 @@ could have prevented. Still blames herself decades later.
 peak: lights, movement. Hasn't reported it yet because she doesn't
 know what she saw.
 
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
-
 
 ### 60.8 Commander Torvald Stoneshield
-
-<div class="col-img">![60.8 Commander Torvald Stoneshield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-torvald-stoneshield.jpg){width:260px}</div>
 
 **Title:** Commander of Stoneshield Keep
 
@@ -40068,6 +40092,8 @@ armor bears the runes of his family, passed down for eight generations.
 Carries "Mountain's Voice," an ancestral warhammer that resonates
 with thunder.
 
+<div class="col-img">![60.8 Commander Torvald Stoneshield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-torvald-stoneshield.jpg){width:325px}</div>
+
 #### Background & History
 
 
@@ -40086,7 +40112,7 @@ But the mountains are getting less boring. Patrols are finding tracks
 they can't identify, scouts are reporting lights in abandoned mines,
 and something killed a giant last month, something bigger than a giant.
 Torvald is preparing for war while hoping desperately it never comes.
-\column
+
 #### Connections
 
 
@@ -40095,6 +40121,10 @@ Torvald is preparing for war while hoping desperately it never comes.
 -   **Superior:** Lord Commander Thrain Ironoak (respects immensely).
 
 -   **Ally:** Master Miner Grimnir Deepdelve (childhood friend).
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
 
 -   **Wife:** Helena Stoneshield (handles logistics, keeps him sane).
 
@@ -40123,7 +40153,7 @@ never will while there's duty to serve.
 
 ### 60.9 Captain Thalia Lightbringer
 
-<div class="col-img">![60.9 Captain Thalia Lightbringer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-thalia-lightbringer.jpg){width:260px}</div>
+<div class="col-img">![60.9 Captain Thalia Lightbringer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-thalia-lightbringer.jpg){width:325px}</div>
 
 
 **Title:** Captain of the Lightbringers, Champion of the Iron Council
@@ -40135,11 +40165,6 @@ never will while there's duty to serve.
 **Location:** Travels across Thaldros on Council business
 
 **Affiliation:** The Lightbringers, Iron Council
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
-
 
 **Threat Level:** Extremely dangerous. High-level paladin with legendary
 holy weapon. Divine auras protect allies and strike terror into evil.
@@ -40221,7 +40246,13 @@ natural authority, clearly someone accustomed to being obeyed.
 
 Born to a minor noble family in Silverpine, Thalia was raised with
 privilege but felt called to service. She joined the Lightbringers at
-eighteen, one of the few women in the order at the time, and proved
+eighteen, one of the few women in 
+
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
+the order at the time, and proved
 herself through sheer determination and undeniable faith.
 
 Her defining moment came during the **Tomb of Shadows Expedition**, a
@@ -40305,11 +40336,7 @@ Athletic and alert, with the mixed features of her half-elven heritage.
 Her bearing commands respect from criminals and citizens alike. Eyes
 that miss nothing.
 
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
-
-<div class="col-img">![60.10 Captain Lyra Swiftwind](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-lyra-swiftwind.jpg){width:260px}</div>
+<div class="col-img">![60.10 Captain Lyra Swiftwind](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-lyra-swiftwind.jpg){width:325px}</div>
 
 #### Personality
 
@@ -40335,6 +40362,10 @@ father at its center. She arrested him personally. He died of fever in
 prison two years later, never speaking to her again. Her mother hasn't
 forgiven her either.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 But the arrest, and her willingness to sacrifice family for duty, made
 her legend. Promoted to Captain at forty, she now commands the City
 Watch with the same unbending commitment to law that cost her
@@ -40354,7 +40385,7 @@ everything.
 -   **Enemy:** The Shadow Syndicate (multiple assassination attempts).
 
 -   **Informant:** Silas the Fence (ironic, given her history).
-\column
+
 #### Secrets
 
 
@@ -40378,9 +40409,6 @@ Someone silenced him in prison. She's still hunting his killer.
 
 ### 60.11 Captain Mira Wavecrest
 
-<div class="col-img">![60.11 Captain Mira Wavecrest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-mira-wavecrest.jpg){width:260px}</div>
-
-
 **Title:** Captain of the Lake Patrol Fleet
 
 **Race:** Half-Elf
@@ -40399,10 +40427,6 @@ and pursuit tactics.
 
 Weathered by years on the water, with the practical bearing of someone
 who has spent her life on ships. Eyes that constantly scan the horizon.
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 #### Background & History
 
@@ -40423,6 +40447,8 @@ her the captaincy. Now commands the entire lake patrol fleet, a dozen
 ships protecting trade across the Crystalvale.
 
 Every pirate captured feels like justice for Darian.
+
+<div class="col-img">![60.11 Captain Mira Wavecrest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-mira-wavecrest.jpg){width:325px}</div>
 
 #### Connections
 
@@ -40454,6 +40480,10 @@ everywhere but can't bring herself to read his last words.
 let his crew go free. She refused. Sometimes she wonders if she was
 wrong.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 4\. **The New Threat:** Something is stirring in the deep lakes. Ships
 disappearing without wreckage. Not pirates, something worse.
 
@@ -40482,7 +40512,7 @@ infiltrators and detecting lies.
 Solid and immovable as the gates he guards. His armor is always
 polished, his weapons always ready. Eyes that assess everyone who passes
 with professional suspicion.
-\column
+
 #### Personality
 
 
@@ -40492,7 +40522,7 @@ Prevented three assassination attempts by catching infiltrators at the
 gates. Never off duty. Sleeps at the gatehouse. His entire life is the
 defense of Kaer Thandros.
 
-<div class="col-img">![60.12 Captain Borin Stoneshield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-borin-stoneshield.jpg){width:260px}</div>
+<div class="col-img">![60.12 Captain Borin Stoneshield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-borin-stoneshield.jpg){width:325px}</div>
 
 #### Background & History
 
@@ -40527,11 +40557,6 @@ He knows there are more enemies inside the walls than outside.
 
 -   **Religious Superior:** Lord Commander Gareth Lightbane of the
     Lightbringers.
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
 
 -   **Partner:** Watch Commander Gregor Ironhand (human, trusts with his
     life).
@@ -40570,6 +40595,10 @@ prophetic. He doesn't know how to stop it.
 **Title:** Captain of the Frostholm Ice Fleet, Commander of the Winter
 Guard
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 **Race:** Human
 
 **Age:** 40
@@ -40580,6 +40609,8 @@ Guard
 
 **Threat Level:** Highly dangerous in cold environments. Supernatural
 cold resistance. Expert ice navigator.
+
+<div class="col-img">![60.13 Captain Brenna Frostbeard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-brenna-frostbeard.jpg){width:325px}</div>
 
 #### Physical Description
 
@@ -40616,7 +40647,6 @@ grace even on ice. Smells of fish, salt, and cold air.
 
 -   *"My great-grandfather taught me these waters. I honor his memory."*.
 
-<div class="col-img">![60.13 Captain Brenna Frostbeard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-brenna-frostbeard.jpg){width:260px}</div>
 
 **Flaws:**
 
@@ -40661,10 +40691,6 @@ only by her struggle to connect with people in peacetime.
 
 -   **Ally:** The Frost Seer Eirlys (provides strategic intelligence).
 
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
-
 -   **Rival:** Warden Commander Thalia Moonbow (mutual professional
     respect).
 
@@ -40690,6 +40716,10 @@ collect on its blessing. She doesn't know what it wants.
 5\. **The Deep Catch:** Her crews have been pulling up strange frozen
 artifacts, pre-Worldrend relics frozen in the ice for centuries.
 
+{{pageNumber,auto}}
+{{footnote Chapter 60: Military Leaders}}
+\page
+
 6\. **The Ice Whispers:** Hearing voices in the ice at night, speaking
 in old tongues. Not sure if she's going mad or receiving genuine
 messages.
@@ -40699,7 +40729,7 @@ Has conversations with him when alone on deck.
 
 ### 60.14 Commander Helena Blackstone
 
-<div class="col-img">![60.13 Captain Brenna Frostbeard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-helena-blackstone-iron-legion.jpg){width:260px}</div>
+<div class="col-img">![60.13 Captain Brenna Frostbeard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-helena-blackstone-iron-legion.jpg){width:325px}</div>
 
 **Title:** Commander of the Iron Legion's Second Division, Warden of
 the Eastern Marches
@@ -40725,6 +40755,8 @@ Sharp gray eyes that have seen too much death.
 A distinctive scar runs across her throat, a near-fatal wound that left
 her voice permanently hoarse, reduced to a raspy whisper. Always in
 armor, always armed.
+
+\column
 
 #### Personality
 
@@ -40796,17 +40828,15 @@ the Legion, and a possible successor.
 -   **Family:** Daughter Sera, now 19, training as a healer in
     Silverpine.
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 60: Military Leaders}}
-\page
-
 #### Secrets
-
 
 1\. **The Assassination:** House Valdren's heir was the assassin. She
 killed him in self-defense. The official story is different, and House
 Valdren knows the truth.
+
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
 
 2\. **Her Daughter:** Sera doesn't know the full truth about why she
 was sent away. She thinks her mother abandoned her for the military.
@@ -40835,7 +40865,7 @@ continents.*
 ### 61.1 Trade Prince Lucian Goldfingers (Merchant League)
 
 
-<div class="col-img">![61.1 Trade Prince Lucian Goldfingers (Merchant League)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lucian-goldfingers.jpg){width:260px}</div>
+<div class="col-img">![61.1 Trade Prince Lucian Goldfingers (Merchant League)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lucian-goldfingers.jpg){width:325px}</div>
 
 **Race:** Half-Elf
 
@@ -40866,7 +40896,7 @@ ostentatiously, the quality speaks for itself.
 -   Calculates every interaction for advantage.
 
 -   Genuinely intelligent, not merely cunning.
-
+\column
 **Ideals:**
 
 -   Power and respect matter more than wealth.
@@ -40938,6 +40968,10 @@ eventually give him control over the continental economy.
 3\. **The Emergency Fortune:** Has hidden caches of wealth across both
 continents, enough to rebuild from nothing.
 
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 4\. **The Legacy Project:** Funding archaeological expeditions to find
 pre-Worldrend trade magic. Wants to revolutionize commerce.
 
@@ -40950,6 +40984,8 @@ currency manipulation and market cornering. Not patriotic, mercenary.
 
 ### 61.2 Master Crimson (Shadow Syndicate)
 
+<div class="col-img">![61.2 Master Crimson (Shadow Syndicate)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-crimson.jpg){width:325px}</div>
+
 **Race:** Human (current identity)
 
 **Age:** Unknown
@@ -40959,13 +40995,6 @@ currency manipulation and market cornering. Not patriotic, mercenary.
 **Role:** Leader of the Shadow Syndicate's central council
 
 **Alignment:** Neutral Evil (organization), but with moral lines
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
-
-<div class="col-img">![61.2 Master Crimson (Shadow Syndicate)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-crimson.jpg){width:260px}</div>
 
 #### Physical Description
 
@@ -41055,6 +41084,10 @@ Syndicate members.
 4\. **Lucian's Secret:** Knows about the Trade Prince's assassination
 of his rival. The evidence is part of Crimson's insurance collection.
 
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 5\. **The Moral Line:** Elena has rules her predecessors didn't, no
 children, no killing for revenge only, no slavery. Some lieutenants
 chafe at these restrictions.
@@ -41069,6 +41102,8 @@ are actually hostages. Multiple governments secretly pay the Syndicate
 to maintain underworld order.
 
 ### 61.3 Grand Warden Volcanus Rex (Ashwardens)
+
+<div class="col-img">![61.3 Grand Warden Volcanus Rex (Ashwardens)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-grand-warden-volcanus-rex.jpg){width:325px}</div>
 
 **Race:** Human
 
@@ -41088,13 +41123,7 @@ Powerfully built with the weathered appearance of someone who has spent
 decades working near volcanic heat. Skin has a faint ruddy cast from
 constant exposure to fire and ash. Eyes seem to glow faintly in
 darkness, either a trick of the light or something more.
-
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
-
-<div class="col-img">![61.3 Grand Warden Volcanus Rex (Ashwardens)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-grand-warden-volcanus-rex.jpg){width:260px}</div>
-
+\column
 #### Background & History
 
 
@@ -41132,10 +41161,10 @@ decades. Volcanus knows but has been ordered to stay silent.
 
 3\. **The Elemental Bargain:** The fire elemental's warnings come at a
 price. Volcanus hasn't revealed what he's promised in return.
-\column
+
 ### 61.4 Archmage Veridian Starweaver (The Arcanum)
 
-<div class="col-img">![61.4 Archmage Veridian Starweaver (The Arcanum)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-veridian-starweaver.jpg){width:260px}</div>
+
 
 
 **Race:** High Elf
@@ -41169,6 +41198,10 @@ light and is never far from his hand.
 
 -   Makes direct eye contact that seems to see through deception.
 
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 -   Often pauses mid-conversation to consult magical sensors.
 
 -   Gestures create small sparkles of light.
@@ -41177,6 +41210,8 @@ light and is never far from his hand.
 
 -   Never panics, has seen too much.
 
+<div class="col-img">![61.4 Archmage Veridian Starweaver (The Arcanum)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-veridian-starweaver.jpg){width:325px}</div>
+
 **Ideals:**
 
 -   "Those with power must use it to protect the powerless.".
@@ -41184,10 +41219,6 @@ light and is never far from his hand.
 -   "Understanding magic prevents its misuse.".
 
 -   "Neither kingdom should dominate, equilibrium preserves peace."
-
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
 
 **Bonds:**
 
@@ -41212,6 +41243,9 @@ light and is never far from his hand.
 -   Workaholic, sleeps only 4 hours per night.
 
 -   Underestimates threats outside magical realm.
+
+\column
+
 
 #### Background & History
 
@@ -41282,6 +41316,10 @@ incomplete information.
 involves more than research. They're developing a way to safely cross
 the Sundering Sea.
 
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 4\. **Mortality's Approach:** Despite elven longevity, he can feel his
 time ending within the century. He's quietly preparing for succession.
 
@@ -41291,7 +41329,7 @@ share.
 
 ### 61.5 Guildmaster Roderic Ironfist (Iron Guild)
 
-<div class="col-img">![61.5 Guildmaster Roderic Ironfist (Iron Guild)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-roderic-ironfist.jpg){width:260px}</div>
+<div class="col-img">![61.5 Guildmaster Roderic Ironfist (Iron Guild)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-roderic-ironfist.jpg){width:325px}</div>
 
 
 **Race:** Mountain Dwarf
@@ -41314,9 +41352,6 @@ warriors. Face weathered like old leather, hands scarred from centuries
 of weapon work. Always wears his ceremonial armor with the Ironfist clan
 crest.
 
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
 
 #### Personality
 
@@ -41396,8 +41431,14 @@ a king. The client went elsewhere. That king was later killed. He
 wonders if he should have taken it, at least he would have done it
 cleanly.
 
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 2\. **Guild Funds:** The Guild maintains a massive hidden treasury for
-emergency operations. Only he knows the full amount and location.
+emergency operations. Only he 
+
+knows the full amount and location.
 
 3\. **The Betrayer:** Twenty years ago, a guild member broke contract
 and killed their employer. Roderic hunted him personally. The body was
@@ -41413,7 +41454,7 @@ accelerate the succession.
 
 ### 61.6 Garrick "Ironheart" Hammerfist (Smiths' Guild)
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-garrick-ironheart-guildmaster.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-garrick-ironheart-guildmaster.jpg){width:325px}</div>
 
 **Race:** Mountain Dwarf
 
@@ -41434,6 +41475,8 @@ heat exposure, copper-red beard braided with metal rings. Missing the
 last two fingers of his left hand (forge accident). Eyes are an unusual
 amber color, seeming to glow near flames.
 
+\column
+
 #### Personality
 
 
@@ -41450,11 +41493,6 @@ amber color, seeming to glow near flames.
 **Ideals:**
 
 -   "A thing made well honors maker and user both."
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
 
 -   "I'll be dead someday. My work will outlast kingdoms."
 
@@ -41520,6 +41558,10 @@ sleeping beneath Kaer Thandros. They correspond occasionally.
 3\. **His Wife:** She didn't die naturally. She was killed by rivals
 who wanted his secrets. He knows who.
 
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 4\. **The Ultimate Weapon:** King Aldric asked him to forge a
 dragon-killing weapon. He's not sure it's possible, or if he should
 try.
@@ -41529,7 +41571,7 @@ his techniques will die with him.
 
 ### 61.7 Archdruid Silvaris Oakenheart
 
-<div class="col-img">![61.7 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-druid-elder-silvaris.jpg){width:260px}</div>
+<div class="col-img">![61.7 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-druid-elder-silvaris.jpg){width:325px}</div>
 
 
 **Race:** Elf (the title, not the current holder)
@@ -41585,11 +41627,6 @@ duties, and secretly searches for a way to preserve her sense of self.
 -   **Enemy:** The Blight, a spreading corruption in the eastern
     forests.
 
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
-
-
 #### Secrets
 
 
@@ -41625,7 +41662,6 @@ curse she can't identify. Race against time to find cure.
 
 **Alignment:** Neutral Good
 
-<div class="col-img">![61.8 Elder Council Mother Talia Vinehart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-council-mother-talia-vinehart.jpg){width:260px}</div>
 
 #### Background & History
 
@@ -41633,9 +41669,15 @@ curse she can't identify. Race against time to find cure.
 Talia came to Aethoria as a refugee from Thaldros, one of the half-elf
 children displaced by conflicts following the Dragon Crisis. The elves
 took her in reluctantly, half-breeds often struggled to find
-acceptance, but she won them over with determination and wisdom beyond
+acceptance, but she 
+
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
+won them over with determination and wisdom beyond
 her years.
-\column
+
 She became a druid of considerable power, specializing in agricultural
 magic that helped communities thrive. Her practical approach and
 understanding of non-elven perspectives made her valuable as a bridge
@@ -41647,6 +41689,8 @@ Now she represents the interests of half-elves, human immigrants, and
 other minorities within the Harmony. It's a difficult position, too
 elven for outsiders, too human for traditionalists, but she navigates
 it with patience and occasional stubbornness.
+
+<div class="col-img">![61.8 Elder Council Mother Talia Vinehart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-council-mother-talia-vinehart.jpg){width:325px}</div>
 
 #### Connections
 
@@ -41687,6 +41731,8 @@ truth.
 
 ### 61.9 Patriarch Zircon Crystalborn (House Crystalborn)
 
+<div class="col-img">![61.9 Patriarch Zircon Crystalborn (House Crystalborn)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-patriarch-zircon-crystalborn.jpg){width:325px}</div>
+
 **Race:** Rock Genasi
 
 **Age:** 87
@@ -41699,20 +41745,18 @@ truth.
 
 #### Physical Description
 
-
 Distinctive and striking (5'10", 190 lbs.), with the crystalline
-features of rock genasi. Skin has faint crystal formations, like geodes
-embedded in flesh. Eyes are literally crystalline, faceted like cut
-gems, reflecting light prismatically. White hair with crystal-like
-streaks. Moves with deliberate precision. Wears expensive robes with
-crystals sewn throughout, both decoration and functional components.
-
+features of rock genasi. Skin has faint 
 
 {{pageNumber,auto}}
 {{footnote Chapter 61: Faction Leaders}}
 \page
 
-<div class="col-img">![61.9 Patriarch Zircon Crystalborn (House Crystalborn)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-patriarch-zircon-crystalborn.jpg){width:260px}</div>
+crystal formations, like geodes
+embedded in flesh. Eyes are literally crystalline, faceted like cut
+gems, reflecting light prismatically. White hair with crystal-like
+streaks. Moves with deliberate precision. Wears expensive robes with
+crystals sewn throughout, both decoration and functional components.
 
 #### Personality
 
@@ -41829,10 +41873,6 @@ can't kill them, can't admit failure.
 daughter. She's adopted after his wife couldn't conceive. He's never
 told her. Her real parents died in an accident; he took her in at age 2.
 
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
-
 ### 61.10 Matriarch Seraphina Silverleaf (The Ancient Elf)
 
 **Race:** High Elf
@@ -41846,7 +41886,11 @@ told her. Her real parents died in an accident; he took her in at age 2.
 **Alignment:** Neutral Good
 
 
-<div class="col-img">![61.10 Matriarch Seraphina Silverleaf (The Ancient Elf)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-matriarch-seraphina-silverleaf.jpg){width:260px}</div>
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
+<div class="col-img">![61.10 Matriarch Seraphina Silverleaf (The Ancient Elf)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-matriarch-seraphina-silverleaf.jpg){width:325px}</div>
 
 #### Physical Description
 
@@ -41970,7 +42014,7 @@ sprout from her footsteps when she stands still too long.
 
 -   Never raises her voice, yet commands absolute attention.
 
-<div class="col-img">![61.11 Elder Thalindra Oakheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-thalindra-oakheart.jpg){width:260px}</div>
+<div class="col-img">![61.11 Elder Thalindra Oakheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-thalindra-oakheart.jpg){width:325px}</div>
 
 **Ideals:**
 
@@ -42068,8 +42112,14 @@ only because she's needed.
 
 6\. **Dying With the Tree:** Knows she's dying with the Heart Oak but
 refuses to leave it.
-\colum
+
+{{pageNumber,auto}}
+{{footnote Chapter 61: Faction Leaders}}
+\page
+
 ### 61.12 Elder Rashid the Twice-Blessed
+
+<div class="col-img">![61.12 Elder Rashid the Twice-Blessed](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-rashid-the-twice-blessed.jpg){width:325px}</div>
 
 **Race:** Human
 
@@ -42083,15 +42133,9 @@ refuses to leave it.
 
 #### Background & History
 
-
 Elder Rashid earned his title "the Twice-Blessed" through two
 miraculous events that defined his life.
 
-{{pageNumber,auto}}
-{{footnote Chapter 61: Faction Leaders}}
-\page
-
-<div class="col-img">![61.12 Elder Rashid the Twice-Blessed](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-rashid-the-twice-blessed.jpg){width:260px}</div>
 
 **The First Blessing:** In his youth, during a sandstorm that claimed
 his entire caravan, he alone survived, found three days later by
@@ -42101,13 +42145,13 @@ traders, unharmed and claiming a golden figure had sheltered him.
 diplomatic dinner; he drank deeply, felt nothing, and continued his
 speech while his would-be killers fled in terror.
 
+\column
+
 Born to a minor merchant family in the oasis city of Sundara, Rashid
 showed early aptitude for diplomacy and an uncanny ability to sense
 deception. He rose through the temple hierarchy not through ambition but
 through genuine wisdom and an almost supernatural calm that soothed
 conflicts before they could escalate.
-
-\column
 
 Now in his seventies, he serves as a senior spiritual advisor alongside
 High Priest Al-Sahir, counseling Sultan Rashid Ashborne (no
@@ -42162,7 +42206,7 @@ happens nearby.
 
 <div class="cvr-img-top">![Chapter 62: Kaer Thandros NPCs](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-kaer-thandros-throne-room.jpg){position:absolute,top:0,left:0,width:100%,height:450px}</div>
 
-{{margin-top:450px}}
+{{margin-top:370px}}
 
 ## Chapter 62: Kaer Thandros NPCs
 
@@ -42188,15 +42232,14 @@ The High King of Thaldros and Lord of the Iron Throne. A warrior-king and former
 
 Queen of Thaldros, from the dwarven-allied House Ironforge. A diplomatic and pragmatic partner to King Aldric who connects the throne to the dwarven clans and serves as a moderating influence on his rigid positions.
 
-\column
-
-{{margin-top:450px}}
-
 #### Crown Prince Thorin Thandris
 
 *For Crown Prince Thorin's complete entry, see Section 36.3.*
 
 **Race:** Human | **Age:** 25 (born 1222 CR) | **Location:** Kaer Thandros (often traveling)
+
+\column
+{{margin-top:370px}}
 
 Heir to the Iron Throne, a direct and capable young leader who serves as his father's chief military advisor and ambassador. Beloved by common people, he secretly corresponds with Princess Elanil Aethermere about reunification and harbors a forbidden romance with a common healer.
 
@@ -42216,10 +42259,6 @@ The King's daughter, intelligent and diplomatic, who often represents the crown 
 
 The youngest royal child, currently training as a knight. Focused on martial excellence rather than politics, he dreams of proving himself in battle.
 
-{{pageNumber,auto}}
-{{footnote Chapter 62: Kaer Thandros NPCs}}
-\page
-
 
 ### 62.2 Military Leadership
 
@@ -42230,7 +42269,13 @@ The youngest royal child, currently training as a knight. Focused on martial exc
 
 **Race:** Mountain Dwarf | **Age:** Approximately 280 | **Location:** Military Command Tower, Kaer Thandros
 
-A gruff, battle-scarred dwarf who has served as Lord Commander since 1225 CR under three Thandris kings. Lost his right eye to a fire giant during the Ashfall Uprising but refused magical healing. Commands with respect and values loyalty above all. His continuity of service makes him one of the realm's most trusted advisors.
+A gruff, battle-scarred dwarf who has served as Lord Commander since 1225 CR under three Thandris kings. Lost his right eye to a fire giant during the Ashfall Uprising but refused magical healing. Commands with respect and values loyalty above all. His continuity 
+
+{{pageNumber,auto}}
+{{footnote Chapter 62: Kaer Thandros NPCs}}
+\page
+
+of service makes him one of the realm's most trusted advisors.
 
 #### General Marthos Thandris
 
@@ -42244,7 +42289,7 @@ Supreme Commander of the Thaldros Military and distant cousin to the King. A bri
 
 
 #### Grand Duke Valentin Rothgar
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-grand-duke-valentin-rothgar.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-grand-duke-valentin-rothgar.jpg){width:325px}</div>
 
 
 **Title:** Grand Duke of the Northern Provinces, King's Chief Diplomat
@@ -42439,7 +42484,7 @@ Commander of the Lightbringers Elite Strike Force. A determined holy warrior who
 #### Brother Tormund
 
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-tormund.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-tormund.jpg){width:325px}</div>
 
 **Title:** High Priest of the Temple of Mordain
 
@@ -42497,7 +42542,7 @@ knows the name of someone who should be investigated.
 
 
 #### Watch Captain Gregor Ironhand
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-watch-captain-gregor-ironhand.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-watch-captain-gregor-ironhand.jpg){width:325px}</div>
 
 **Title:** Watch Captain of the City Guard
 
@@ -42584,7 +42629,7 @@ studying desert-forged steel.
 \page
 
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-smith-durgan-forgefire.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-smith-durgan-forgefire.jpg){width:325px}</div>
 
 Returned to Kaer Thandros in 1157 CR and assumed his father's position
 after his death during the Dragon Crisis. The dragon Infernalix
@@ -42663,7 +42708,7 @@ and no inheritance. Rather than accept obscurity, she made herself
 indispensable to more powerful nobles, first as a companion, then as an
 advisor, then as a dealer in secrets.
 
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-lady-cassandra-vantress.jpg){width:260px}</div>
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-lady-cassandra-vantress.jpg){width:325px}</div>
 
 By twenty-five, she knew more about the noble houses than their own
 members did. By thirty, she'd arranged three marriages, prevented two
