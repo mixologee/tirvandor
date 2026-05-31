@@ -278,6 +278,7 @@ All political structures and organizational hierarchies
 \page
 
 {{toc,wide
+# Contents
 
 - #### [{{ Chapter 16: Religious Structures and Faith}}{{ 62}}](#p62)
   - [{{ 16.1 Major Religious Organizations}}{{ 62}}](#p62)
@@ -321,7 +322,7 @@ All political structures and organizational hierarchies
   - [{{ 20.7 House Goldshore (Dominant — Merchant Princes)}}{{ 83}}](#p83)
   - [{{ 20.8 House Stonefist (Declining — Mountain Clan)}}{{ 83}}](#p83)
   - [{{ 20.9 House Heartwood (Dominant — Agricultural Lords)}}{{ 84}}](#p84)
-  - [{{ 20.10 House Emberthorn (Fallen — Volcanic Lords)}}{{ 85}}](#p85)
+  - [{{ 20.10 House Emberthorn (Fallen Volcanic Lords)}}{{ 85}}](#p85)
   - [{{ 20.11 House Seawatch (Declining — Coastal Guardians)}}{{ 85}}](#p85)
   - [{{ 20.12 Inter-House Relationships}}{{ 86}}](#p86)
 - #### [{{ Chapter 21: Noble Houses of Aethoria}}{{ 87}}](#p87)
@@ -369,6 +370,7 @@ All political structures and organizational hierarchies
 \page
 
 {{toc,wide
+# Contents
 
 - #### [{{ Chapter 27: Secret Societies}}{{ 133}}](#p133)
   - [{{ 27.1 The Unseen Hand}}{{ 133}}](#p133)
@@ -475,6 +477,7 @@ All political structures and organizational hierarchies
 \page
 
 {{toc,wide
+# Contents
 
 - #### [{{ Chapter 42: Scholars and Mages}}{{ 233}}](#p233)
   - [{{ 42.1 Sage Thelmar Runescribe}}{{ 233}}](#p233)
@@ -584,6 +587,7 @@ All political structures and organizational hierarchies
 \page
 
 {{toc,wide
+# Contents
 
 - ### [{{ Part IX: Artifacts & Significant Items}}{{ 318}}](#p318)
 - #### [{{ Chapter 53: The World-Splitter™}}{{ 318}}](#p318)
@@ -695,6 +699,8 @@ All political structures and organizational hierarchies
 \page
 
 {{toc,wide
+# Contents
+
 - #### [{{ Chapter 66: Miscellaneous NPCs}}{{ 406}}](#p406)
   - [{{ 66.1 Artisans and Craftsmen}}{{ 406}}](#p406)
   - [{{ 66.2 Religious Figures}}{{ 410}}](#p410)
@@ -727,7 +733,6 @@ All political structures and organizational hierarchies
   - [{{ J.7 Historical Mysteries}}{{ 436}}](#p436)
 - #### [{{ Legal Notice}}{{ 438}}](#p438)
 }}
-
 
 \page
 
@@ -45223,14 +45228,14 @@ Goldreach where no one knew the real Cornelius. Built an empire from
 nothing using skills learned watching his master, and a ruthlessness
 born from suffering.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 Now he's one of the wealthiest merchants in Thaldros. Controls shipping
 routes, warehouses, and a network of legitimate and less-legitimate
 businesses. Uses his fortune to secretly fund abolition efforts in
 Sundara while publicly maintaining a mask of amoral capitalism.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-lord-cornelius-goldpurse.jpg){width:325px}</div>
 
@@ -45275,8 +45280,6 @@ Sundara while publicly maintaining a mask of amoral capitalism.
 
 -   His blackmail collection is a powder keg.
 
-\column
-
 #### Merchant-Prince Kael Icewind
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-kael-icewind.jpg){width:325px}</div>
@@ -45312,7 +45315,13 @@ nobles pay fortunes for frozen luxuries.
 
 What no one knows is that "Kael Icewind" murdered the real Kael thirty
 years ago and assumed his identity. The imposter was a skilled con
-artist who saw an opportunity and took it. He's played the role so long
+artist who saw an 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+opportunity and took it. He's played the role so long
 he's almost become the man he killed.
 
 **Capabilities:**
@@ -45320,10 +45329,6 @@ he's almost become the man he killed.
 -   Vast trade empire and wealth.
 
 -   Master of disguise and deception.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 -   Network of informants throughout the north.
 
@@ -45360,9 +45365,6 @@ he's almost become the man he killed.
 -   Could be blackmailed or exposed.
 
 #### Forge-Master Thordak Lavaheart
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-thordak-lavaheart.jpg){width:325px}</div>
-
 
 **Full Name:** Thordak Lavaheart
 
@@ -45409,6 +45411,8 @@ kings and heroes alike.
 
 -   Can etch permanent runes onto metal.
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-thordak-lavaheart.jpg){width:325px}</div>
+
 **Connections:**
 
 -   Royal clients throughout Thaldros.
@@ -45444,6 +45448,10 @@ kings and heroes alike.
 
 **Race/Ancestry:** Shield Dwarf
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **Age:** 210 years
 
 **Location:** Quarries south of the Ironspine Mountains
@@ -45451,10 +45459,6 @@ kings and heroes alike.
 **Role:** Quarry operator, stone merchant, construction magnate
 
 **Alignment:** Lawful Neutral
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 **Appearance:**
 
@@ -45529,6 +45533,10 @@ His personal fortune rivals some noble houses, but he lives simply.
 
 **Age:** Mid-thirties
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 **Location:** Goldreach (poorest district)
 
 **Deity:** Sera the Healer
@@ -45536,13 +45544,7 @@ His personal fortune rivals some noble houses, but he lives simply.
 **Status:** Running a free clinic
 
 Sister Marian runs a free clinic in Goldreach's poorest district. Known
-for healing anyone: criminals, monsters, 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-enemies. Some call her a
+for healing anyone: criminals, monsters, enemies. Some call her a
 saint; others call her dangerously naive.
 
 **Her Philosophy:**
@@ -45643,6 +45645,10 @@ given last rites to. He dreams their faces.
 
 Mysterious information broker who runs the Silver Ear tavern, where secrets are traded. An ancient demon bound to mortal form, she never takes sides and sells information to anyone who can pay. See Section 63.5 for the complete entry.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 #### Silas the Fence (Syndicate Lieutenant)
 
 **Title:** Regional Lieutenant of the Shadow Syndicate (Silverpine)
@@ -45650,10 +45656,6 @@ Mysterious information broker who runs the Silver Ear tavern, where secrets are 
 **Race:** Halfling
 
 **Age:** Fifties
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silas-the-fence.jpg){width:325px}</div>
 
@@ -45735,20 +45737,20 @@ They once stole from a dragon and lived.
 Massive and heavily scarred, Thorne is built like a man who's spent his
 life in violence. He has a shaved head, a thick beard, and cold gray
 eyes that show no mercy. He wears functional armor, chain shirt under
-leathers, and carries a well-used greataxe that's seen more blood than
+leathers, and 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+carries a well-used greataxe that's seen more blood than
 most battlefields.
 
 **Background:**
 
 Thorne leads a band of 30 bandits operating in the wilderness between
 Goldreach and Silverpine. Called "The Butcher" because he doesn't leave
-witnesses. 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-Actually quite strategic, only attacks targets he can
+witnesses. Actually quite strategic, only attacks targets he can
 overwhelm completely.
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/thorne-butcher-bandit.jpg){width:325px}</div>
@@ -45813,20 +45815,20 @@ quarter)
 **Appearance:**
 
 Helena is unremarkable by design, middle-aged, medium build,
-forgettable features. She dresses as a respectable merchant woman and
+forgettable features. She dresses as a 
+
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
+respectable merchant woman and
 runs what appears to be a legitimate tea shop. Her eyes, however, are
 sharp and calculating, missing nothing.
 
 **Background:**
 
 Helena arranges the movement of goods that can't move through legal
-channels. Not a smuggler herself. 
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
-
-She connects smugglers with clients.
+channels. Not a smuggler herself. She connects smugglers with clients.
 Her tea shop is a front, but the tea is actually excellent, which
 provides cover for the constant stream of visitors.
 
@@ -45931,6 +45933,10 @@ matters.
 
 -   The farm redemption arc offers long-term story potential.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 #### Lydia Shadowstep
 
 **Full Name:** Lydia Shadowstep
@@ -45942,10 +45948,6 @@ matters.
 **Age:** 45 years
 
 **Location:** Silverpine and surrounding forests
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 **Role:** Scout, ranger, wilderness guide, occasional spy
 
@@ -46002,6 +46004,8 @@ disappear into the forest like she never existed.
 
 #### Elena Ravencroft
 
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elena-ravencroft-fence.jpg){width:325px}</div>
+
 **Full Name:** Elena Ravencroft
 
 **Title:** The Antiquarian
@@ -46020,23 +46024,20 @@ disappear into the forest like she never existed.
 
 Elena presents as a respectable antique dealer, well-dressed, cultured,
 with gray-streaked dark hair and refined features. Her shop is cluttered
-with genuine antiques and art. Her eyes are calculating but warm, making
-clients feel at ease.
-
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elena-ravencroft-fence.jpg){width:325px}</div>
-
-
-**Background:**
-
-Elena runs Goldreach's best fence operation from behind a legitimate
-antique shop. Professional, discreet, 
+with genuine 
 
 {{pageNumber,auto}}
 {{footnote Chapter 66: Miscellaneous NPCs}}
 \page
 
-never asks questions. She was once
+antiques and art. Her eyes are calculating but warm, making
+clients feel at ease.
+
+
+**Background:**
+
+Elena runs Goldreach's best fence operation from behind a legitimate
+antique shop. Professional, discreet, never asks questions. She was once
 a minor noble who lost everything to gambling, rebuilt from nothing
 using skills learned watching her father's merchants.
 
@@ -46147,15 +46148,15 @@ safe from everyone.
 
 -   Can deliver messages anywhere, anytime.
 
+{{pageNumber,auto}}
+{{footnote Chapter 66: Miscellaneous NPCs}}
+\page
+
 -   Might witness something important.
 
 -   His knowledge makes him a target.
 
 -   Could be hired to track someone's correspondence.
-
-{{pageNumber,auto}}
-{{footnote Chapter 66: Miscellaneous NPCs}}
-\page
 
 ### 66.4 Maritime Characters
 
@@ -47754,6 +47755,8 @@ raised him.
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-kaelen-shadowleaf.jpg){width:325px}</div>
 
+\column
+
 **Capabilities:**
 
 -   Master of disguise and infiltration.
@@ -48737,7 +48740,7 @@ The following are designated as **Product Identity** under applicable intellectu
   - leader profile, 365
   - in Goldreach, 392
 - Lumina Starweaver, 88
-- Lydia Shadowstep, 414
+- Lydia Shadowstep, 415
 - Lyra Swiftwind
   - profile, 236
   - leader profile, 359
