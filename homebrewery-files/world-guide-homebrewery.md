@@ -42516,12 +42516,12 @@ to every god he could name, and Mordain answered.
 After recovering, he took holy orders. Transferred to Kaer Thandros in
 1230 CR and built the temple's warrior-priest program from scratch.
 
-Now serves as the temple's head priest and chief counselor to soldiers
-struggling with the weight of their duties.
-
 {{pageNumber,auto}}
 {{footnote Chapter 62: Kaer Thandros NPCs}}
 \page
+
+Now serves as the temple's head priest and chief counselor to soldiers
+struggling with the weight of their duties.
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-tormund.jpg){width:325px}</div>
 
@@ -42590,15 +42590,22 @@ arrest.
 
 **Race:** Mountain Dwarf | **Age:** Approximately 150 | **Location:** Outer Gate, Kaer Thandros
 
-Captain of the Outer Gates and Lightbringer affiliate. A vigilant dwarven guardsman with an uncanny ability to spot lies and forged documents, who has personally prevented three assassination attempts at the city gates.
+Captain of the Outer Gates and Lightbringer affiliate. A 
+vigilant dwarven guardsman with an uncanny ability to 
 
 {{pageNumber,auto}}
 {{footnote Chapter 62: Kaer Thandros NPCs}}
 \page
 
+spot lies and forged documents, who has personally prevented 
+three assassination attempts at the city gates.
+
+
 ### 62.6 Guild Leaders and Craftsmen
 
 #### Master Smith Durgan Forgefire
+
+<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-smith-durgan-forgefire.jpg){width:325px}</div>
 
 **Title:** Master of the Crown Forge
 
@@ -42632,8 +42639,6 @@ for dwarves). Journeyed to study other techniques: twenty years in
 Emberforge learning volcanic smithing, ten years in the Sundaran Expanse
 studying desert-forged steel.
 
-
-<div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-smith-durgan-forgefire.jpg){width:325px}</div>
 
 Returned to Kaer Thandros in 1157 CR and assumed his father's position
 after his death during the Dragon Crisis. The dragon Infernalix
@@ -42705,16 +42710,15 @@ name, every favor, every slight.
 -   "House Vantress will rise. Not through war, but through
     weddings.".
 
-**Background**
-
-Born to a minor noble house, third daughter with no marriage prospects
-and no inheritance. Rather than 
 
 {{pageNumber,auto}}
 {{footnote Chapter 62: Kaer Thandros NPCs}}
 \page
 
-accept obscurity, she made herself
+**Background**
+
+Born to a minor noble house, third daughter with no marriage prospects
+and no inheritance. Rather than accept obscurity, she made herself
 indispensable to more powerful nobles, first as a companion, then as an
 advisor, then as a dealer in secrets.
 
@@ -48409,10 +48413,10 @@ The following are designated as **Product Identity** under applicable intellectu
 - Aethermere
   - profile, 156
   - history, 192
-  - also 19, 27, 45, 62
+  - also 17, 27, 45, 62
 - Aethor, The Liberator
   - profile, 50
-  - also 46, 53, 57, 58
+  - also 50
 - Aethor's Liberator, 302
 - Aethoria
   - kingdom overview, 71
@@ -48450,10 +48454,10 @@ The following are designated as **Product Identity** under applicable intellectu
 - Arcane Revolution, 47
 - The Arcanum
   - profile, 126
-  - also 124, 128, 129, 132
+  - also 126, 128, 129, 132
 - Arcanus the Undying, 243
 - Arcturus, 399
-- Aria Crystalborn, 91
+- Aria Crystalborn, 90
 - The Artificers' Consortium, 113
 - Ascended-Touched, 300
 - The Ash Prophet, 249
@@ -48484,8 +48488,8 @@ The following are designated as **Product Identity** under applicable intellectu
   - leader profile, 361
   - in Kaer Thandros, 380
 - Bound Ancients
-  - chapter on, 309
-  - also 35, 139, 198, 232
+  - chapter on, 310
+  - also 40, 139, 198, 232
 - Brenna Frostbeard, 361
 - Brenna Iceheart, 354
 - Broken Crown (Conflict), 98
@@ -48495,30 +48499,30 @@ The following are designated as **Product Identity** under applicable intellectu
 - Celeste
   - in Silverpine, 389
   - profile, 411
-- Celestia Starborn, 212
+- Celestia Starborn, 213
 - Celestine, 395
 - Celestine the Healer, 397
-- Central Heartlands, 172
+- Central Heartlands, 171
 - Chain Breaker Monk, 288
 - The Circle of Eight, 129
-- Citadel of Oaths, 48
-- Colony-Mind K'Thrax, 424
+- Citadel of Oaths, 49
+- Colony-Mind K'Thrax, 425
 - Common Reckoning (CR), 30
 - Contested Land Elemental, 266
 - Contested Lands, the
   - region overview, 18
   - kingdom chapter, 77
-  - also 66, 200, 229, 232
+  - also 66, 200, 230, 232
 - Contract Killer, 296
 - Cornelius
   - in Silverpine, 387
-  - historical figure, 399
+  - historical figure, 400
 - Cornelius Goldpurse, 407
 - Corrupted and Cursed, 314
 - Corruption Spawn, 314
 - Corvus Blackwood
   - profile, 237
-  - also 134, 136, 140, 146
+  - also 136, 139
 - Crimson
   - profile, 232
   - profile, 246
@@ -48547,13 +48551,13 @@ The following are designated as **Product Identity** under applicable intellectu
 - Divine Silence, the, 38
 - Dragon Hegemony, 32
 - Dragon Infernalix, 241
-- Dragon Morveth, 246
+- Dragon Morveth, 247
 - The Dread King, 245
 - The Dread King's Crown, 340
 - Drowned Fortune (Conflict), 99
 - Durgan Forgefire
   - profile, 231
-  - in Kaer Thandros, 380
+  - in Kaer Thandros, 381
 - Durgan Ironforge, 396
 - Durin Ironforge, 214
 - Dwarven Delving, the, 35
@@ -48569,28 +48573,28 @@ The following are designated as **Product Identity** under applicable intellectu
 - Elaris Starweaver, 88
 - Eldrin Aethermere
   - profile, 211
-  - profile, 233
+  - profile, 234
 - Elena Ravencroft, 414
-- Elenaris Starweaver, 159
+- Elenaris Starweaver, 158
 - Elindra Starborn, 169
 - Ember (Fire Priestess), 156
-- Emberthorn the Defiant, 398
-- Emerald Deeps & Brightwater Valley, 176
+- Emberthorn the Defiant, 399
+- Emerald Deeps & Brightwater Valley, 175
 - Erenna, 379
-- Ezra (Death Speaker), 125
-- The Faceless Assassin, 248
+- Ezra (Death Speaker), 124
+- The Faceless Assassin, 249
 - Fallen Champion, 307
 - Festival Days, 30
 - Finn Quickfoot
-  - profile, 229
-  - leader profile, 354
+  - profile, 230
+  - leader profile, 355
   - profile, 428
 - First Elven Kingdom, 35
 - First Planar Incursions, 37
 - The Flame Heart, 321
 - Forgotten King, 311
 - The Forgotten Monastery, 139
-- Forgotten Ones, the, 60
+- Forgotten Ones, the, 61
 - Founder's Day, 31
 - Fractured Coast & Singing Fens, 176
 - The Free Cities Alliance, 105
@@ -48602,8 +48606,8 @@ The following are designated as **Product Identity** under applicable intellectu
 - Gareth Lightbane
   - leader profile, 350
   - in Kaer Thandros, 379
-- Gareth Woodwise, 387
-- Garrett Ironhelm, 419
+- Gareth Woodwise, 388
+- Garrett Ironhelm, 420
 - Garrick "Ironheart" Hammerfist
   - Iron Guild mercenary, 299
   - leader profile, 370
@@ -48615,80 +48619,80 @@ The following are designated as **Product Identity** under applicable intellectu
 - Goldreach
   - profile, 151
   - history, 188
-  - also 18, 21, 22, 68
+  - also 20, 21, 22, 68
 - Goldreach Vault 13, 198
 - Goldweaver, Merchant Prince, 169
 - The Grave Wardens
   - profile, 122
   - profile, 141
-  - also 121, 125, 142
+  - also 120, 125, 142
 - Great Dying, the, 39
 - Great Library of Silverpine, 36
 - The Green Circle
   - profile, 120
   - profile, 141
-  - also 58, 121, 142
-- Green Lady, the, 159
+  - also 62, 121, 142
+- Green Lady, the, 158
 - Green Man, the, 132
-- Green Mother, the, 164
+- Green Mother, the, 165
 - Gregor Ironhand
   - profile, 257
   - in Kaer Thandros, 380
   - profile, 419
 - Greta Ironhand, 381
 - Grizelda Mudfoot, 417
-- The Guardian of Thresholds, 423
+- The Guardian of Thresholds, 424
 - Guerrilla Commander, 289
 - Guild Enforcer, 295
 - Guild Recruit, 293
 - Guildmaster's Elite, 298
-- Gundren Ironforge, 406
-- Hall of Broken Chains, 51
-- Hall of Final Rest, 54
+- Gundren Ironforge, 407
+- Hall of Broken Chains, 50
+- Hall of Final Rest, 55
 - Hall of Ten Thousand Roads, 53
 - Harvest (month), 14
 - Harvest Moon, 31
 - Hassan, 258
 - Haunted Battlefield, 271
 - Helena Blackstone, 363
-- Helena Duskmere, 412
+- Helena Duskmere, 413
 - Herald of the Seven, 312
 - Highsun (month), 31
 - Holidays and Festivals, 31
 - House Aethermere
   - profile, 89
-  - also 95, 328
+  - also 94, 328
 - House Ashborne, 82
 - House Blackwood
   - profile, 80
-  - also 38, 81, 103, 136
+  - also 42, 81, 103, 136
 - House Brightwater, 94
 - House Crystalborn
   - profile, 90
-  - also 80, 95, 99, 108
+  - also 83, 95, 99, 108
 - House Emberthorn, 85
 - House Goldshore
   - profile, 83
-  - also 38, 46, 91, 99
-- House Heartwood, 83
+  - also 41, 46, 91, 99
+- House Heartwood, 84
 - House Ironforge, 79
 - House of Endless Mercy, 54
 - House Seawatch, 85
 - House Silverleaf
   - profile, 81
-  - also 80, 88, 160, 188
-- House Splittide, 92
+  - also 79, 88, 160, 188
+- House Splittide, 93
 - House Starweaver
   - profile, 87
-  - also 85, 160, 194, 234
+  - also 87, 160, 193, 234
 - House Stonefist, 83
 - House Thandris
   - profile, 78
-  - also 76, 81, 83, 90
+  - also 78, 81, 83, 90
 - House Thornveil, 91
 - House Verdantheart, 92
 - House Windwhisper, 92
-- Hrothgar (Frost Giant King), 218
+- Hrothgar (Frost Giant King), 219
 - Human Emergence, the, 36
 - Ignis Ashborn, 355
 - Infernalix, 401
@@ -48702,22 +48706,22 @@ The following are designated as **Product Identity** under applicable intellectu
 - Iron Legion Enforcer, 275
 - Ironhold
   - profile, 149
-  - also 129, 353, 354, 406
+  - also 132, 353, 354, 406
 - Ironspine Holds, 170
 - Island Chains, 12
 - Kael, The Wanderer, 52
 - Kael Dragonsbane, 428
 - Kael Ironforge, 406
 - Kael Stormwatcher, 353
-- Kael Voidwhisper, 247
+- Kael Voidwhisper, 248
 - Kaer Thandros
   - profile, 148
   - history, 186
-  - also 12, 20, 46, 65
-- Katrina Ashfall, 426
+  - also 13, 20, 46, 65
+- Katrina Ashfall, 427
 - Keeper Bloodlines, 139
 - Khalid, 235
-- Korvan Steelhand, 420
+- Korvan Steelhand, 421
 - Leafdrop (month), 31
 - Legends and Myths, 349
 - Ley Line Corruption, 29
@@ -48730,12 +48734,12 @@ The following are designated as **Product Identity** under applicable intellectu
 - The Lightbringers
   - profile, 118
   - profile, 141
-  - also 58, 119, 120, 123
-- Lighthouse of Hope, 51
+  - also 62, 119, 120, 122
+- Lighthouse of Hope, 50
 - Lord Commander Varius, 282
 - Lord Pembroke's Signet Ring, 340
 - Lucian Goldfingers
-  - profile, 225
+  - profile, 224
   - profile, 231
   - leader profile, 365
   - in Goldreach, 392
@@ -48745,7 +48749,7 @@ The following are designated as **Product Identity** under applicable intellectu
   - profile, 236
   - leader profile, 359
   - in Silverpine, 387
-- Lyrian Crystal, 212
+- Lyrian Crystal, 213
 - Magic System, the, 27
 - Magnus Ironroot, 426
 - Major Cities, 148
@@ -48753,7 +48757,7 @@ The following are designated as **Product Identity** under applicable intellectu
 - Malthus Voidcaller, 243
 - Mara Thandris, 377
 - Mara, Smuggler Queen, 167
-- Marcus, 410
+- Marcus, 411
 - Marcus Marshborn, 167
 - Marcus Thandris, 377
 - Marcus Vrell, 259
@@ -48766,19 +48770,19 @@ The following are designated as **Product Identity** under applicable intellectu
 - Marta Goodbarrel, 256
 - Marthos Thandris
   - profile, 219
-  - profile, 229
+  - profile, 230
   - profile, 247
   - in Kaer Thandros, 378
   - also 70
 - The Merchant League
   - profile, 111
-  - also 71, 142, 143, 144
+  - also 70, 142, 145
 - Merchant-Prince Kael Icewind, 408
-- Merrick the Wise, 403
+- Merrick the Wise, 404
 - Midsummer Celebration, 31
 - Mira Silvervein, 387
 - Mira Wavecrest, 360
-- Miranda Ashwood, 412
+- Miranda Ashwood, 414
 - Miranda Questseeker
   - profile, 234
   - profile, 255
@@ -48792,11 +48796,11 @@ The following are designated as **Product Identity** under applicable intellectu
   - profile, 224
   - profile, 246
 - Morganna, 401
-- Morganna Whisperwind, 425
-- Morticia Ravenholt, 122
+- Morganna Whisperwind, 426
+- Morticia Ravenholt, 123
 - Mortua
   - profile, 245
-  - profile, 410
+  - profile, 411
 - The Nexus of Seven Sorrows, 198
 - Night of Remembrance, the, 31
 - The Northern Guard, 141
@@ -48810,13 +48814,13 @@ The following are designated as **Product Identity** under applicable intellectu
 - Poison Prince, the, 224
 - Port Myrthen
   - profile, 167
-  - history, 196
+  - history, 195
 - Pre-Worldrend Conflicts, 96
 - Primordials, the
   - chapter, 58
   - six known, 58
-  - cults, 59
-  - also 28, 34, 42, 200
+  - cults, 58
+  - also 28, 32, 42, 200
 - Prophecy Keeper, 310
 - Prophesied Hero, 291
 - Radiant the First Paladin, 397
@@ -48827,7 +48831,7 @@ The following are designated as **Product Identity** under applicable intellectu
   - ruined seat of House Blackwood, 42
   - history, 187
   - Arcanus's lair, 243
-  - also 77, 181, 238, 240
+  - also 80, 181, 238, 240
 - Reaching Claws, the, 77
 - Reaping (month), 31
 - Reconnection, the, 45
@@ -48850,7 +48854,7 @@ The following are designated as **Product Identity** under applicable intellectu
 - Roderic Ironfist
   - leader profile, 369
   - in Goldreach, 392
-- Rothgar, Grand Duke, 381
+- Rothgar, Grand Duke, 382
 - Royal Guard Elite, 276
 - Ryldak the Ancient, 401
 - Sacred Sites, 200
@@ -48871,42 +48875,42 @@ The following are designated as **Product Identity** under applicable intellectu
 - Serenity, 404
 - Serina Goldshore
   - profile, 222
-  - in Goldreach, 392
+  - in Goldreach, 391
 - Settlement Histories, 186
 - Seven Ascended, the
   - pantheon, 48
   - council, 48
-  - legends, 349
+  - legends, 355
 - Seven's Day, the, 32
 - The Shadow Shard, 320
 - The Shadow Syndicate
   - profile, 115
-  - also 142, 146, 198, 232
-- Shaelis the Whisperer, 61
+  - also 140, 198, 232
+- Shaelis the Whisperer, 60
 - Siege Golem, 279
 - Silas the Fence
   - profile, 259
   - in Kaer Thandros, 382
-  - profile, 411
+  - profile, 412
 - Silvanus, 236
 - Silvanus Brightforge
-  - in Silverpine, 387
+  - in Silverpine, 388
   - profile, 407
 - Silvaris Oakenheart
   - profile, 228
   - leader profile, 371
 - The Silver Circle
   - profile, 137
-  - also 24, 128, 134, 140
+  - also 29, 128, 134, 140
 - Silverpine
   - profile, 150
   - history, 187
-  - also 12, 20, 27, 52
+  - also 13, 20, 28, 52
 - Silverwood, 171
 - Singing Stones, the, 28
 - Singing Waters, the, 12
 - Smuggler Captain, 263
-- Southern Region, 173
+- Southern Region, 172
 - Spring of Restoration, 54
 - Spring Renewal Festival, 31
 - Starfall
@@ -48914,7 +48918,7 @@ The following are designated as **Product Identity** under applicable intellectu
   - history, 193
 - Starwood, 174
 - State Inquisitor, 277
-- Stolen Relic (Conflict), 98
+- Stolen Relic (Conflict), 97
 - The Stone Crown, 324
 - Stoneforge, Grandmaster Elara, 114
 - Storm Belts, the, 12
@@ -48927,21 +48931,21 @@ The following are designated as **Product Identity** under applicable intellectu
 - Sundered Bloodline (Conflict), 96
 - Sundering Sea
   - geographic profile, 12
-  - also 23, 42, 43, 58
+  - also 22, 42, 43, 58
 - Sylara Windchaser, 231
 - Sylvan, Archdruid, 164
 - Sylvara, The Wild
   - profile, 55
-  - also 26, 57, 62, 120
+  - also 28, 56, 73, 120
 - Sylvara's Wild Hunter, 304
-- Talia Quicksilver, 115
+- Talia Quicksilver, 114
 - Talia Vinehart, 371
 - Tempest Stormcrest, 226
 - Temple of the Void Saints, 200
 - Territorial Drake, 269
 - Thaddeus Blackstone, 156
 - Thaelon Starlight
-  - Prince Consort, 204
+  - Prince Consort, 205
   - Council Elder, 205
 - Thaldros Conscript, 273
 - Thaldros Military (creatures), 273
@@ -48960,15 +48964,15 @@ The following are designated as **Product Identity** under applicable intellectu
 - Thandris V, 398
 - Thandros, The Lawbringer
   - profile, 48
-  - also 12, 20, 42, 46
+  - also 13, 20, 48
 - Thandros' Justicar, 301
-- Thawing (month), 30
+- Thawing (month), 31
 - Thelmar Runescribe
   - profile, 233
   - in Kaer Thandros, 379
 - Therin Quicksilver, 113
 - Theron
-  - profile, 249
+  - profile, 250
   - historical figure, 394
 - Theron Aethermere
   - Aethermere royal, 72
@@ -48978,18 +48982,18 @@ The following are designated as **Product Identity** under applicable intellectu
   - in Goldreach, 392
   - profile, 417
 - Theron Westmarch, 169
-- Theros Coinwright, 392
-- Thordak Lavaheart, 408
+- Theros Coinwright, 393
+- Thordak Lavaheart, 409
 - Thorin I Thandris, 395
 - Thorin Thandris
   - profile, 206
   - in Kaer Thandros, 377
 - Thorna Ironprice, 420
 - Thornbark, 390
-- Thorne "The Butcher", 411
+- Thorne "The Butcher", 412
 - Thorne, Grave Warden Commander, 123
 - The Thornmire Concordat, 108
-- Thornmire Marches, 177
+- Thornmire Marches, 176
 - Thrain Ironoak
   - profile, 218
   - in Kaer Thandros, 377
@@ -49000,9 +49004,9 @@ The following are designated as **Product Identity** under applicable intellectu
   - in Goldreach, 392
 - Tormund
   - in Kaer Thandros, 379
-  - profile, 410
+  - profile, 411
 - Torren, Salvage Master, 163
-- Torvald Stoneshield, 356
+- Torvald Stoneshield, 357
 - Towns and Regional Settlements, 170
 - Trade Winds, the, 12
 - Tremont
@@ -49011,15 +49015,15 @@ The following are designated as **Product Identity** under applicable intellectu
 - Twelve Months, the, 30
 - The Twilight Court
   - profile, 130
-  - also 128, 145, 147
+  - also 130, 145
 - Twin Rebellions, 47
 - The Unbound
   - profile, 136
-  - also 135, 140, 146, 182
-- Unexplored Regions, 18
+  - also 136, 140, 146, 182
+- Unexplored Regions, 19
 - The Unseen Hand, 133
 - Valentin Rothgar, 378
-- Valley of Bones, 54
+- Valley of Bones, 55
 - Verdant Wall & Split Peninsula, 177
 - Veridian Runereader, 418
 - Veridian Starweaver
@@ -49027,17 +49031,17 @@ The following are designated as **Product Identity** under applicable intellectu
   - leader profile, 367
   - in Silverpine, 386
 - Veteran Mercenary, 294
-- Vex, 229
+- Vex, 230
 - Vex Darkwater
-  - in Goldreach, 392
+  - in Goldreach, 393
   - profile, 417
 - Vexis Shadowmaw, 232
 - Victoria Seastone, 169
 - Viktor Coldstone, 419
 - The Void Fragment, 323
-- Volcanus Rex, 366
+- Volcanus Rex, 367
 - Vorthane the Conqueror, 60
-- The Wandering Tower, 198
+- The Wandering Tower, 199
 - War Beast, 270
 - War Mage of Thaldros, 278
 - War-Scarred Veteran, 264
@@ -49045,27 +49049,28 @@ The following are designated as **Product Identity** under applicable intellectu
 - Western Region, 171
 - Whisper
   - profile, 232
-  - profile, 411
+  - profile, 412
 - The Whispering Void, 250
 - Wildgrove, 163
 - Wilhelm Von Handel, 258
 - Winter Solstice, 31
 - Wizard Wars, the, 37
 - World-Splitter, the
-  - during Worldrend, 42
+  - during Worldrend, 38
   - artifact chapter, 318
-  - also 38, 81, 136
+  - also 38, 81, 134
 - Worldrend, the
-  - event chapter, 40
-  - Three Days of Destruction, 40
-  - theories on the cause, 42
+  - event chapter, 43
+  - Three Days of Destruction, 43
+  - theories on the cause, 43
   - aftermath, 43
-  - also 9, 12, 28, 29
+  - also 11, 15, 43
 - Yasmin, 417
 - Zalthar the Undying, 38
 - Zara, 260
-- Zircon Crystalborn, 371
+- Zircon Crystalborn, 372
 }}
+
 {{pageNumber,auto}}
 {{footnote Index}}
 \page
