@@ -408,7 +408,6 @@ All political structures and organizational hierarchies
   - [{{ 30.11 Wildgrove (Sacred Site)}}{{ 163}}](#p163)
   - [{{ 30.12 Marshaven (Swamp Fortress)}}{{ 165}}](#p165)
   - [{{ 30.13 Port Myrthen (Neutral Island City)}}{{ 167}}](#p167)
-  - [{{ 30.14 SUMMARY TABLE: AETHORIAN MAJOR CITIES}}{{ 169}}](#p169)
 - #### [{{ Chapter 31: Towns and Regional Settlements}}{{ 170}}](#p170)
   - [{{ Thaldros Towns by Region}}{{ 170}}](#p170)
   - [{{ Aethoria Towns by Region}}{{ 174}}](#p174)
@@ -19220,9 +19219,7 @@ warriors singing from beyond.
 
 -   Military garrison supplementing civilian population
 
-\column
 {{margin-top:370px}}
-
 
 -   Signal beacons for rapid warnings
 
@@ -19871,7 +19868,7 @@ and obsidian, deadly but profitable for those brave enough.
 {{footnote Chapter 31: Towns and Regional Settlements}}
 \page
 
-#### 31. 11 SUMMARY TABLE: ALL THALDROS TOWNS
+#### 31.11 SUMMARY TABLE: ALL THALDROS TOWNS
 
   | Region | Town | Population | Primary Character |
 |:--|:--|:--|:--|
@@ -19916,9 +19913,7 @@ territory where outsiders are viewed with suspicion unless they show
 proper respect for nature.
 
 ##### Towns
-
 ###### Moonwatch
-
 **Population:** ~4,200
 
 **Character:** Elven settlement, moon druid headquarters
@@ -25760,8 +25755,9 @@ giant's thrown boulder during the Ashfall Uprising but refused magical
 healing, declaring that "good dwarves earn their scars."
 
 He carries himself with the confident bearing of an old soldier who has
-seen everything, survived everything, and emerged stronger. Every
-movement is economical, every word purposeful.
+seen everything, survived everything, and emerged stronger. Every movement is 
+
+economical, every word purposeful.
 
 **Threat Level:** One of the most experienced military commanders alive.
 His tactical brilliance has won campaigns that should have been
