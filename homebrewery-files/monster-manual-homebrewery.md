@@ -95,8 +95,22 @@
 .col-img img {display: block; z-index:1; margin: 0 auto;} /*Characters and Creatures*/
 
 .col-img-item img {display: block;  z-index:0; width: 50%; margin:1%;} /*Item images*/
+
+.page#p24:after, .page#p25:after, .page#p26:after {
+  background-image: none;
+}
   
 </style>
+
+
+{{frontCover}}
+
+![Cover Image](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/tirvandor-cover-field-guide.png){position:absolute,top:0,left:0,width:100%,height:100%}
+
+{{/frontCover}}
+
+\page
+\page
 
 {{insideCover}}
 
@@ -4007,10 +4021,31 @@ END OF LICENSE
 
 {{backCover}}
 
+Tirvandor Field Guide: Creatures of Tirvandor
+
+The world of Tirvandor is home to creatures shaped by war, magic, and the lingering scars of the Worldrend. From battle-hardened soldiers to divine champions, from corrupted spawn to ancient guardians every monster tells a story of this divided land. This compendium presents 50 creatures designed specifically for Tirvandor campaigns, organized by faction and origin for easy reference during play.
+
+This Field Guide contains:
+
+- 50 unique creatures with full stat blocks
+- CR range from 1/8 to 15 for all tiers of play
+- Border Creatures: bandits, smugglers, wraiths, and war-born horrors
+- Thaldros Military: conscripts to elite Royal Guards and Inquisitors
+- Aethorian Forces: militia, revolutionaries, and freedom fighters
+- Iron Guild operatives and mercenary companies
+- Ascended-touched champions of the Seven Ascended
+- Ancient beings and Worldrend-scarred entities
+- Habitat maps showing typical lairs and encounter locations
+- Tactical notes for running each creature effectively
+
+Populate your world with creatures that belong there.
 
 ![backpage](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-monster-habitat-environments.jpg){position:absolute,bottom:0,right:-250px,height:100%}
 
+
 {{logo
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/janky-games-llc-logo.png){position:absolute,left:50px}
 
 ![](https://homebrewery.naturalcrit.com/assets/naturalCritLogoWhite.svg){position:absolute,right:110px}
  :: 
