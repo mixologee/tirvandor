@@ -4027,7 +4027,7 @@ Something is coming.
 {{footnote Chapter 12: The Age of Ambition (Current Era: 1247 CR)}}
 \page
 
-<div class="cvr-img-top">![Chapter 13: The Seven Ascended](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-seven-gods-council.jpg){height:450px}</div>
+<div class="cvr-img-top">![Chapter 13: The Seven Ascended](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-seven-gods-council.jpg){height:450px,object-position:top}</div>
 
 {{margin-top:370px}}
 # Part III: Religion
@@ -28239,11 +28239,13 @@ Malthus is a scarred veteran in his mid-forties with the bearing of
 someone who has spent his life at war. His face bears the marks of
 countless battles, and his eyes carry the weight of every soldier he's
 commanded, and lost. He wears consecrated plate armor of excellent
-quality, clearly taken from a previous life of legitimate service.
 
 {{pageNumber,auto}}
 {{footnote Chapter 44: Villains and Antagonists}}
 \page
+
+quality, clearly taken from a previous life of legitimate service.
+
 #### Background & History
 
 
@@ -28339,12 +28341,14 @@ very organization she hunts. Does the party tell her? Use her? Protect
 her?
 
 3\. **The List:** Party discovers Malthus' kill list. Some names are
-people they know, a kindly innkeeper, a retired guardsman, a beloved
-teacher. Do they warn the targets or let justice play out?
+people they know, a kindly innkeeper, a 
 
 {{pageNumber,auto}}
 {{footnote Chapter 44: Villains and Antagonists}}
 \page
+
+retired guardsman, a beloved
+teacher. Do they warn the targets or let justice play out?
 
 4\. **The Defection:** If shown proof that Shadows plans mass civilian
 casualties, Malthus may switch sides, bringing troops, intelligence, and
@@ -40051,7 +40055,7 @@ know what she saw.
 **Location:** Stoneshield Keep, Ironspine Mountains
 
 **Affiliation:** Thaldros Royal Army
-
+\column
 **Threat Level:** Highly dangerous warrior. Commands mountain fortress
 defenses. Experienced giant diplomat.
 
@@ -40083,11 +40087,13 @@ He's made boring into an art form.
 But the mountains are getting less boring. Patrols are finding tracks
 they can't identify, scouts are reporting lights in abandoned mines,
 and something killed a giant last month, something bigger than a giant.
-Torvald is preparing for war while hoping desperately it never comes.
+Torvald is 
 
 {{pageNumber,auto}}
 {{footnote Chapter 60: Military Leaders}}
 \page
+
+preparing for war while hoping desperately it never comes.
 
 #### Connections
 
@@ -40125,9 +40131,6 @@ never will while there's duty to serve.
 
 ### 60.9 Captain Thalia Lightbringer
 
-<div class="col-img">![60.9 Captain Thalia Lightbringer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-thalia-lightbringer.jpg){width:325px}</div>
-
-
 **Title:** Captain of the Lightbringers, Champion of the Iron Council
 
 **Race:** Human
@@ -40162,6 +40165,9 @@ duty.
 Small scar on her chin from a training accident. Stands straight with
 natural authority, clearly someone accustomed to being obeyed.
 
+\column
+
+<div class="col-img">![60.9 Captain Thalia Lightbringer](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-thalia-lightbringer.jpg){width:325px}</div>
 
 #### Personality
 
@@ -40209,11 +40215,11 @@ natural authority, clearly someone accustomed to being obeyed.
 
 -   Can be manipulated through her compassion.
 
--   Overworks herself.
-
 {{pageNumber,auto}}
 {{footnote Chapter 60: Military Leaders}}
 \page
+
+-   Overworks herself.
 
 -   Secretly doubts her worthiness of wielding Dawnbreaker.
 
@@ -42524,7 +42530,7 @@ knows the name of someone who should be investigated.
 **Age:** Mid-40s
 
 **Location:** City Watch Headquarters, Kaer Thandros (or Crossvale)
-
+\column
 **Physical Description**
 
 Solid and dependable, with the weathered look of a career guardsman.
@@ -42555,6 +42561,10 @@ Syndicate enforcer who handles their most violent problems. If Gregor
 ever discovered the truth, it would break him. And he'd still make the
 arrest.
 
+{{pageNumber,auto}}
+{{footnote Chapter 62: Kaer Thandros NPCs}}
+\page
+
 #### Captain Borin Stoneshield
 
 *For Captain Borin Stoneshield's complete entry, see Section 60.12.*
@@ -42563,11 +42573,6 @@ arrest.
 
 Captain of the Outer Gates and Lightbringer affiliate. A 
 vigilant dwarven guardsman with an uncanny ability to 
-
-{{pageNumber,auto}}
-{{footnote Chapter 62: Kaer Thandros NPCs}}
-\page
-
 spot lies and forged documents, who has personally prevented 
 three assassination attempts at the city gates.
 
@@ -42597,7 +42602,7 @@ events.
 Obsessed with his craft. Creates each piece personally. Refuses to
 mass-produce. Waiting list is two to three years. Charges a fortune but
 worth it.
-
+\column
 **Background**
 
 Fourth generation Crown Forge smith. His great-grandfather helped build
@@ -42671,6 +42676,10 @@ when talking (establishes connection, reads reactions). Laughs easily
 and genuinely (even when planning someone's ruin). Remembers every
 name, every favor, every slight.
 
+{{pageNumber,auto}}
+{{footnote Chapter 62: Kaer Thandros NPCs}}
+\page
+
 **Defining Principles:**
 
 -   "Power isn't about what you can do. It's about what you can make
@@ -42681,11 +42690,6 @@ name, every favor, every slight.
 -   "House Vantress will rise. Not through war, but through
     weddings.".
 
-
-{{pageNumber,auto}}
-{{footnote Chapter 62: Kaer Thandros NPCs}}
-\page
-
 **Background**
 
 Born to a minor noble house, third daughter with no marriage prospects
@@ -42695,12 +42699,12 @@ advisor, then as a dealer in secrets.
 
 <div class="col-img">![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kt-lady-cassandra-vantress.jpg){width:325px}</div>
 
+\column
+
 By twenty-five, she knew more about the noble houses than their own
 members did. By thirty, she'd arranged three marriages, prevented two
 assassinations, and orchestrated the downfall of a duke who'd insulted
 her family.
-
-\column
 
 Now she's the unofficial "social secretary" of the court, the person
 nobles come to when they need something done discreetly. Marriage
@@ -43307,7 +43311,7 @@ she should. It's becoming a problem.
 **Age:** 54 years old
 
 **Location:** The Market Ground, Silverpine
-
+\column
 **Role**
 
 Manages all human trade relations for House Silverleaf. Respected by
@@ -45584,7 +45588,7 @@ garrison at twenty-five. Expected to serve a few years and transfer to a
 comfortable temple position.
 
 That was fifteen years ago. He stayed because the soldiers needed him.
-
+\column
 **His Crisis:**
 
 Somewhere along the way, his faith cracked. He prays the words but feels
@@ -46179,7 +46183,7 @@ Controls a giant crocodile named "Sweetness." Uses it to eliminate
 troublemakers who hire her for nefarious purposes. Sweetness' eggs are
 about to hatch, when they do, Grizelda will control a pack of giant
 crocodiles.
-
+\column
 **Secrets:**
 
 -   Knows the location of a hidden village of escaped slaves deep in the
@@ -46715,6 +46719,8 @@ soldiers under his watch have what they need, when they need it.
 Barrett was an adventurer forty years ago. Now he runs a small shop and
 advises young adventurers. Knows more about dungeons, monsters, and
 treasure than anyone should.
+
+\column
 
 **His Past:**
 
