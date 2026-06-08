@@ -10567,7 +10567,7 @@ Marina descendants.
 
 The Celestial Compass was created through the joint effort of multiple
 houses, combining different magical traditions:
-
+\column
 -   Star magic (House Starleaf)
 
 -   Nature divination (various druidic orders)
@@ -19217,9 +19217,10 @@ warriors singing from beyond.
 
 -   Trade checkpoint between north and south
 
--   Military garrison supplementing civilian population
-
+\column
 {{margin-top:370px}}
+
+-   Military garrison supplementing civilian population
 
 -   Signal beacons for rapid warnings
 
@@ -19274,13 +19275,13 @@ are home to rare magical ore veins that glow faintly at night.
 
 -   Secret Forging techniques known only to Ironforge and Thandris
 
--   Multi-level underground city descending miles into mountain
-
--   Population 75% dwarf, 20% human, 5% other
-
 {{pageNumber,auto}}
 {{footnote Chapter 31: Towns and Regional Settlements}}
 \page
+
+-   Multi-level underground city descending miles into mountain
+
+-   Population 75% dwarf, 20% human, 5% other
 
 -   Supplies mythril to the Crown Forge in Kaer Thandros
 
@@ -19368,7 +19369,7 @@ with its own rules.
 **Population:** ~2,400
 
 **Character:** Lawless mercenary town
-
+\column
 **Notable Features:**
 
 -   Junction of three major trade routes
@@ -19458,6 +19459,10 @@ The agricultural engine of Thaldros, endless fields of grain, pastures
 with livestock, and prosperous farming communities. The most
 "civilized" part of the continent.
 
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
+
 ##### Towns
 
 ###### Riverdale
@@ -19465,10 +19470,6 @@ with livestock, and prosperous farming communities. The most
 **Population:** ~4,200
 
 **Character:** Agricultural hub
-
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
 
 **Notable Features:**
 
@@ -19565,6 +19566,8 @@ with livestock, and prosperous farming communities. The most
 
 -   Elevated position provides natural defense
 
+\column
+
 #### 31.7 WEST COAST (Goldcoast)
 
 
@@ -19658,6 +19661,10 @@ guarding trade routes.
 
 -   Caravans must stop here before entering the Sundaran
 
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
+
 -   Water supplies for desert crossings
 
 -   Military garrison
@@ -19669,10 +19676,6 @@ guarding trade routes.
 **Population:** ~1,200
 
 **Character:** Southernmost fortification
-
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
 
 **Notable Features:**
 
@@ -19748,6 +19751,8 @@ ancient civilizations.
 
 -   Rest and resupply for desert travelers
 
+\column
+
 #### 31.10 VOLCANIC REGION (Ashfall Barrens)
 
 
@@ -19760,8 +19765,6 @@ and obsidian, deadly but profitable for those brave enough.
 ###### Cinderfall
 
 **Population:** ~2,300
-
-\column
 
 **Character:** Obsidian mining town
 
@@ -19841,6 +19844,10 @@ and obsidian, deadly but profitable for those brave enough.
 
 -   Connects volcanic towns to Heartlands markets
 
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
+
 ###### Flamekeep
 
 **Population:** ~1,900
@@ -19862,11 +19869,6 @@ and obsidian, deadly but profitable for those brave enough.
 -   Unusual religious tolerance
 
 -   Tieflings welcomed and honored
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
 
 #### 31.11 SUMMARY TABLE: ALL THALDROS TOWNS
 
@@ -19993,6 +19995,10 @@ proper respect for nature.
 
 -   Home to moon druids and their acolytes
 
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
+
 -   Pilgrimage site for those seeking lunar magic
 
 -   Well provides divination during full moons
@@ -20009,10 +20015,6 @@ largest freshwater lake system on Aethoria. The water is so pure it can
 be used for scrying without magical enhancement. Cosmopolitan by
 Aethorian standards, with water central to life religiously,
 economically, and socially.
-
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
 
 ##### Towns
 
@@ -20189,6 +20191,10 @@ due to natural magic in the waters.
 -   Connected via River Road to Crystalbrook
 
 
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
+
 ###### Harvest Hall
 
 **Population:** ~3,800
@@ -20210,10 +20216,6 @@ due to natural magic in the waters.
 -   Food supplies much of the continent
 
 -   Nature spirits actively honored
-
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
 
 ###### Vineheart
 
@@ -20294,6 +20296,8 @@ due to natural magic in the waters.
 -   Unique microclimate supports rare plants
 
 -   Healers study here
+
+\column
 
 #### 31.16 EAST COAST (Fractured Coast & Singing Fens)
 
@@ -20389,6 +20393,10 @@ reeds creates eerie music.
 
 -   Connected to Marshaven via Swamp Road
 
+{{pageNumber,auto}}
+{{footnote Chapter 31: Towns and Regional Settlements}}
+\page
+
 #### 31.17 SWAMPS (Thornmire Marches)
 
 
@@ -20417,10 +20425,6 @@ thrive where others cannot survive.
 -   Stilt construction
 
 -   Adapted to tidal flooding
-
-{{pageNumber,auto}}
-{{footnote Chapter 31: Towns and Regional Settlements}}
-\page
 
 -   Reed instruments crafted
 
@@ -20478,6 +20482,8 @@ worship.
 
 -   Wind carries prayers to gods
 
+\column
+
 ###### Southvale
 
 **Population:** ~1,900
@@ -20497,9 +20503,6 @@ worship.
 -   Relaxed pace of life
 
 -   Last major town before the wilderness
-
-\column
-
 
 ###### Mountainhome
 
@@ -20850,6 +20853,8 @@ to the south
 | **Cliffwatch** | ~260 | Cliff observation post |
 | **Searock** | ~250 | Sea-worn rock formations |
 
+\column
+
 #### Island Villages
 
 | Village | Pop. | Description |
@@ -20859,8 +20864,6 @@ to the south
 | **Driftport** | ~290 | Coralkeep Isle, drifting port |
 | **Tidecrest** | ~240 | Deepholm Isle, tidal pools |
 | **Waverest** | ~260 | Seafoam Isle, wave watching |
-
-\column
 
 ### 32.3 Hamlets (Both Continents)
 
@@ -20909,6 +20912,10 @@ to the south
 | **Ridgepost** | ~42 | Ridge waypost, mail station |
 | **Summitwatch** | ~38 | Summit watch, signal tower |
 
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
+
 ### 32.4 Ruins & Lost Cities
 
 
@@ -20928,10 +20935,6 @@ to the south
 House Blackwood established Raven's Keep as their seat of power. The
 Blackwood bloodline traced to Lord Garrett Blackwood (750 BW), but the
 formal noble house was established when the keep was built.
-
-{{pageNumber,auto}}
-{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
-\page
 
 **The Blackwood Legacy:**
 
@@ -20992,6 +20995,8 @@ formal noble house was established when the keep was built.
 
 -   Planning "The Awakening"
 
+\column
+
 **What Remains:**
 
 -   Ancient vaults beneath the keep
@@ -21013,7 +21018,7 @@ formal noble house was established when the keep was built.
 -   Strong necromantic and abjuration auras linger
 
 -   Ravens still gather here unnaturally
-\column
+
 #### Palace Port (Sundering Sea)
 
 
@@ -21073,6 +21078,10 @@ formal noble house was established when the keep was built.
 
 -   70% of world's liquid wealth destroyed
 
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
+
 **Who Died:**
 
 -   High King Aldric
@@ -21102,11 +21111,6 @@ formal noble house was established when the keep was built.
 -   The High King's Sword
 
 **Survivors:** ~5,000 (those who fled in time, ships at sea)
-
-
-{{pageNumber,auto}}
-{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
-\page
 
 #### The Salvage Wars (100-1247 CR)
 
@@ -21170,6 +21174,8 @@ formal noble house was established when the keep was built.
 -   The Ledger (Deepwater's complete records)
 
 -   Lord Aldris' will (names true heir)
+
+\column
 
 **Guardians:**
 
@@ -21257,6 +21263,10 @@ formal noble house was established when the keep was built.
 
 -   Guarded by druid circle (12 members)
 
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
+
 ##### The Obsidian Spire
 
 -   Border between Thaldros and Aethoria
@@ -21292,10 +21302,6 @@ formal noble house was established when the keep was built.
 -   Some who enter never return
 
 -   Others return changed
-
-{{pageNumber,auto}}
-{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
-\page
 
 ##### The Glass Valley (Sundaran Expanse)
 
@@ -21348,6 +21354,9 @@ formal noble house was established when the keep was built.
 -   Original imperial treasury stored here
 
 -   Guarded by modified iron golem
+
+\column
+
 
 ##### Goldreach Vault 13
 
@@ -21446,6 +21455,10 @@ formal noble house was established when the keep was built.
 
 -   Reed instruments crafted here
 
+{{pageNumber,auto}}
+{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
+\page
+
 ##### The Deep Wildwood Nexus
 
 -   Heart of southern rainforests
@@ -21494,10 +21507,6 @@ formal noble house was established when the keep was built.
 
 -   Portal to Elemental Planes
 
-{{pageNumber,auto}}
-{{footnote Chapter 32: Villages, Hamlets, Ruins, and Legendary Places}}
-\page
-
 ##### Sundaran Ruins
 
 -   Buried beneath desert sands
@@ -21509,6 +21518,9 @@ formal noble house was established when the keep was built.
 -   Occasionally surge with power
 
 -   Cause strange phenomena in desert above
+
+\column
+
 
 #### The Forgotten Monastery
 
@@ -21535,8 +21547,6 @@ formal noble house was established when the keep was built.
 -   Aethoria: ~75 named villages
 
 -   **Total: ~140 villages**
-
-\column
 
 **Hamlets:**
 
