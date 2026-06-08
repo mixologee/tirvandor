@@ -1,3 +1,100 @@
+/* UPDATED | KDP hardcover: 8.25" x 11" trim size, page extended to 9.25" x 11.75" so the
+   printer treats the surrounding 0.625" (Spine Side) / 0.375" (top, bottom, outer edge) as bleed/margin.
+   Margin and Padding values keep text + images well inside
+   the trim, centered between left and right margins (no odd/even gutter).
+   Bottom padding is larger to leave room for page number / footnote.
+   Ref: https://kdp.amazon.com/en_US/help/topic/GVBQ3CMEQW3W2VL6 
+   
+   https://homebrewery.naturalcrit.com/new
+   */
+
+
+
+.page {
+  width: 9.25in;                /*Print size 9.25in (.page+.page padding left and right)*/
+  height: 12in;                 /*Print size 12in (.page height + padding top and bottom)*/
+  background-size: 100% 100%;
+  padding-top: 0.85in;         /*Bleed and Safe Margin + 0.35in */
+  padding-bottom: 0.5in;      /*Bleed and Safe Margin + 0.1in */
+}
+
+/* Even Pages (Right Hand Side): Bleed is on the right (outside), gutter on the left (spine) */
+.page:nth-of-type(odd) {  
+   padding-left: 1.25in;        /* 0.625" Inside (Gutter Margin) + 0.27in */
+   padding-right: 1in;       /* 0.125" Bleed + 0.25" Outside Margin + 0.5in   */
+}
+
+/* Odd Pages (Left Hand Side): Bleed is on the left (outside), gutter on the right (spine) */
+.page:nth-of-type(even) {
+   padding-right: 1.125in;        /* 0.625" Inside (Gutter Margin) + 0.27in */
+   padding-left: 1in;       /* 0.125" Bleed + 0.25" Outside Margin + 0.5in   */   
+}
+
+.page .pageNumber,
+.page .footnote {
+    position: absolute;
+    bottom: 0.75in;             
+    left: 0.625in !important;   /* Position Left elements within page layout */
+    right: 0.625in !important;  /* Position right elements within page layout */
+    width: inherit !important;
+    display: block;
+}
+
+
+/*Overrides for style.css*/
+
+.page:after {
+    bottom: 0.70in !important;    /*Adjusts footer graphic position from bottom*/
+}
+
+.columnWrapper {
+    max-height:95% !important;
+}
+
+/* 2. Position the Footnote text slightly left of center */
+.page .footnote {
+    text-align: left;
+    margin-left: 0.5in; /* Adjust this to push the text further left */
+}
+
+/* 3. Position the Page Number slightly right of center */
+.page .pageNumber {
+    text-align: right;
+    padding-right: 0.5in; /* Adjust this to push the number further right */
+    color: gol;         /* Fixed typo from 'gol' */
+}
+
+/* Constrain absolutely-positioned chapter-opener images to the safety margins.
+   The cover image (filename contains "cover") is excluded so it can bleed to
+   the page edge. Matches both with-space and no-space style serializations. */
+.page img[style*="position:absolute"]:not([src*="cover"]),
+.page img[style*="position: absolute"]:not([src*="cover"]) {
+    /*top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    object-fit: cover;
+    margin-bottom: .5in !important;*/
+}
+
+/* Display settings for Chapter Cover Images */
+
+.cvr-img-top img, .cvr-img-bottom img {            /*Chapter images*/
+    position: absolute;
+    width: 100%;
+    object-fit: cover;
+    left:0;
+}
+
+.cvr-img-top img {top:0;}       /*Chapter images pinned to top*/
+
+.cvr-img-bottom img {bottom:0;}  /*Chapter images pinned to bottom*/
+
+.col-img img {display: block; z-index:1; margin: 0 auto;} /*Characters and Creatures*/
+
+.col-img-item img {display: block;  z-index:0; width: 50%; margin:1%;} /*Item images*/
+  
+</style>
+
 {{frontCover}}
 
 
@@ -151,7 +248,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ Special Encounter Types}}{{ 373}}](#p376)
     - [{{ Balancing for Party Size}}{{ 374}}](#p377)
     - [{{ Example Encounters}}{{ 374}}](#p377)
-  - #### [{{ Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor’s Wild Lands}}{{ 375}}](#p378)
+  - #### [{{ Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor's Wild Lands}}{{ 375}}](#p378)
     - [{{ Travel Pacing}}{{ 375}}](#p378)
     - [{{ Navigation}}{{ 375}}](#p378)
     - [{{ Foraging and Hunting}}{{ 375}}](#p378)
@@ -2383,7 +2480,7 @@ Features:
 - Ritual chamber with time distortion effects
 - Portal to a demiplane (locked)
 
-Plot: Monks aren't evil—they genuinely seek knowledge. But their patron may be corrupted.
+Plot: Monks aren't evil. They genuinely seek knowledge. But their patron may be corrupted.
 
 Treasure: *Staff of Forgotten Moments* (legendary), historical texts worth 5,000 gp.
 
@@ -2399,7 +2496,7 @@ Hazards:
 - Void corruption: DC 18 Wis save when casting or spell warps unpredictably
 - Haunted by drowned empire ghosts (10d10 specters)
 
-Reward: Access to *The Seal Chamber*—can repair seal or drain power (dangerous).
+Reward: Access to *The Seal Chamber*, can repair seal or drain power (dangerous).
 
 Campaign Use: Final arc location for preventing second Worldrend.
 
@@ -2486,7 +2583,7 @@ Interior:
 - Seal mechanisms in cardinal directions
 - Each mechanism requires legendary artifact to operate
 
-Encounter: The Devourer will bargain—offers incredible power in exchange for weakening just one seal mechanism. Lying. Will consume whoever accepts.
+Encounter: The Devourer will bargain. Offers incredible power in exchange for weakening just one seal mechanism. Lying. Will consume whoever accepts.
 
 Outcome:
 - Reinforce seal: Prevents catastrophe for 1,000 years
@@ -2513,7 +2610,7 @@ Security:
 
 \column
 
-Heist Challenge: Getting in isn't hard—getting out with proof before guards arrive is.
+Heist Challenge: Getting in isn't hard, getting out with proof before guards arrive is.
 
 Consequence: Exposing vault brings down bank owner, destabilizes Goldreach economy, but weakens Thornwood Syndicate.
 
@@ -2618,7 +2715,7 @@ Minor Ley Lines: Connect major nexuses. GMs can place 2d4 minor nodes per region
 - Failure: Lose 1 day, retry
 
 2. Creation Phase (Remaining days): Arcana check DC 12 + (spell level × 2)
-- Failure by <5: Spell flawed—works but with drawback
+- Failure by <5: Spell flawed, works but with drawback
 - Failure by 5+: Total failure, lose half materials
 
 #### Flawed Spells
@@ -2874,7 +2971,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 - +2 to Persuasion checks with military personnel and guards
 - Free passage at borders
-- Commands respect — identifies the wearer as an authority figure
+- Commands respect, identifies the wearer as an authority figure
 
 **Signature NPC:** Border patrol officers  
 \column
@@ -3068,7 +3165,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 **Properties:**
 
-- A fragment of the Dread King's power — a large ice crystal that never melts
+- A fragment of the Dread King's power, a large ice crystal that never melts
 - Grants resistance to cold damage when held
 - Cast Ice Storm 1/day
 - Cold damage spells deal +1d6 extra damage
@@ -3089,7 +3186,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - +2 quarterstaff that doubles as a spellcasting focus
 - Advantage on Persuasion checks when dealing with nobility
 - Cast Legend Lore 1/day
-- Reveals true bloodlines — can distinguish legitimate heirs from pretenders
+- Reveals true bloodlines, can distinguish legitimate heirs from pretenders
 - Crown and emerald design aesthetic
 
 \column
@@ -3308,13 +3405,13 @@ Tall and powerfully built (6'4", 220 lbs), with broad shoulders and a commanding
 - Secret fear that he's not worthy of the High King title
 
 #### Background & History
-Born in 1195 CR, third in line for the throne. Never expected to rule—his older brothers were the heirs. As a young prince with no expectation of succession, Aldric began a relationship with Lady Mara of House Ironforge. She became pregnant in 1221 CR, but marriage wasn't urgent—he was third in line and their union could wait.
+Born in 1195 CR, third in line for the throne. Never expected to rule: his older brothers were the heirs. As a young prince with no expectation of succession, Aldric began a relationship with Lady Mara of House Ironforge. She became pregnant in 1221 CR, but marriage wasn't urgent. He was third in line and their union could wait.
 
-Then disaster struck in rapid succession: his eldest brother disappeared under mysterious circumstances during the Dragon Crisis era, and his second brother died of plague (1222). At age 27, Aldric suddenly became heir apparent—with an illegitimate son about to be born. Thorin arrived in 1222 CR.
+Then disaster struck in rapid succession: his eldest brother disappeared under mysterious circumstances during the Dragon Crisis era, and his second brother died of plague (1222). At age 27, Aldric suddenly became heir apparent, with an illegitimate son about to be born. Thorin arrived in 1222 CR.
 
-The situation demanded immediate action. A hasty legitimization marriage was arranged in 1225 CR, officially recorded as a "political alliance" with House Ironforge. The exact timing of Thorin's birth has been quietly obscured in official records, and most assume the Crown Prince was born after the wedding. But certain parties know the truth—and that knowledge is dangerous.
+The situation demanded immediate action. A hasty legitimization marriage was arranged in 1225 CR, officially recorded as a "political alliance" with House Ironforge. The exact timing of Thorin's birth has been quietly obscured in official records, and most assume the Crown Prince was born after the wedding. But certain parties know the truth, and that knowledge is dangerous.
 
-Crowned in 1230 after his father's death defending Ironhold from giant raids. His first decade was spent consolidating power and rebuilding the military. Known for the "Iron Reforms"—modernizing the army, improving fortifications, and establishing the Northern Guard as an elite force.
+Crowned in 1230 after his father's death defending Ironhold from giant raids. His first decade was spent consolidating power and rebuilding the military. Known for the "Iron Reforms", modernizing the army, improving fortifications, and establishing the Northern Guard as an elite force.
 
 He and Queen Mara have three children:
 - **Crown Prince Thorin** (age 25) - Heir, proving himself through military service and diplomacy
@@ -3336,19 +3433,19 @@ His reign has been marked by stability and strength, but also by increased tensi
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Succession Document:** Privately possesses evidence suggesting neither Thandris nor Aethermere has clear claim to High King title—a third bloodline might exist. Keeps this hidden.
-2. **The Northern Pact:** Made a secret treaty with the frost giants—they stay in high peaks, humans stay below. Publicly denies this.
+1. **The Succession Document:** Privately possesses evidence suggesting neither Thandris nor Aethermere has clear claim to High King title, a third bloodline might exist. Keeps this hidden.
+2. **The Northern Pact:** Made a secret treaty with the frost giants. They stay in high peaks, humans stay below. Publicly denies this.
 3. **The Legitimization Secret:** Crown Prince Thorin was born three years before Aldric married Queen Mara. Official records have been altered, but General Marthos Thandris knows the truth and holds it as leverage. If exposed, it could fuel challenges to Thorin's succession rights from more "legitimate" claimants.
 4. **The Black Budget:** Maintains a secret treasury for "special operations" funded by seizing Syndicate assets. Not all council members know about it.
 5. **Health Concern:** Has recurring nightmares about the Worldrend. Consulted diviner secretly; told he'll face a choice between crown and realm.
 }}
 
 #### Plot Hooks
-1. **The High King's Quest:** Hires party to find the legendary proof of succession—the High King's Sword or crown jewels from the Sundered Palace.
+1. **The High King's Quest:** Hires party to find the legendary proof of succession: the High King's Sword or crown jewels from the Sundered Palace.
 2. **Assassination Plot:** The Syndicate makes another attempt. Party must protect him or investigate who hired the killers.
 3. **Northern Crisis:** Giants are pushing boundaries of the secret treaty. King needs deniable agents to resolve situation.
 4. **The Lost Heir:** Evidence surfaces of a third bloodline. King wants party to investigate quietly.
-5. **Dragon's Return:** A dragon attacks the border. King needs heroes to deal with it—but secretly, it might be tied to his family's past.
+5. **Dragon's Return:** A dragon attacks the border. King needs heroes to deal with it, but secretly, it might be tied to his family's past.
 6. **Princess in Danger:** One of his children is kidnapped or threatened. King will pay anything for their safe return.
 7. **The Unity Summit:** King arranges a summit with Queen Aelindra. Needs party to ensure security and perhaps influence negotiations.
 
@@ -3357,7 +3454,7 @@ His reign has been marked by stability and strength, but also by increased tensi
 **Mannerisms:** 
 - Taps fingers on sword pommel when thinking
 - Stands with weight on both feet, ready for combat
-- Makes direct eye contact—holds it until others look away
+- Makes direct eye contact, holds it until others look away
 - Adjusts armor straps when stressed
 
 **In Combat:** Fights from the front. Protects weaker allies. Never retreats unless tactical. Uses Intimidating Presence to break enemy morale.
@@ -3372,8 +3469,8 @@ His reign has been marked by stability and strength, but also by increased tensi
 #### Notes for DMs
 - Use him as quest-giver for high-level parties
 - Can be ally or obstacle depending on party's goals
-- Not evil—genuinely believes he's doing right thing
-- Complex character—military pragmatist with hidden depths
+- Not evil: genuinely believes he's doing right thing
+- Complex character, military pragmatist with hidden depths
 - His stubbornness can create problems even when he's right
 - Good for political intrigue campaigns
 - Can be redeemed if shown he's wrong about something important
@@ -3483,13 +3580,13 @@ Graceful and ethereal (5'8", 120 lbs), with the timeless beauty of high elves. S
 **Flaws:**
 - Sometimes so focused on long-term future that she misses immediate crises
 - Can appear cold or detached because she's seen so many possible futures
-- Trusts her divinations absolutely—sometimes to her detriment when magic fails
+- Trusts her divinations absolutely: sometimes to her detriment when magic fails
 - Secret guilt over her role (however small) in the Worldrend
 
 #### Background & History
 Born in 247 BW, long before the Worldrend. Trained at the University of Arcane Studies in Silverpine (when it was one continent). Witnessed the Worldrend at age 247—one of the few elves alive who remembers the world before.
 
-Ascended to the throne in 1110 CR after being chosen by the world-trees. Her reign has been marked by wisdom, peace, and prosperity—but also by the shadow of the Worldrend and the question of succession.
+Ascended to the throne in 1110 CR after being chosen by the world-trees. Her reign has been marked by wisdom, peace, and prosperity, but also by the shadow of the Worldrend and the question of succession.
 
 Married Prince Consort Thaelon Starlight (another high elf, age 600+) before ascending to the throne. They have two children from before her coronation:
 - **Archmage Eldrin Aethermere** (age 158) - Royal Mage, wizard like his mother
@@ -3497,9 +3594,9 @@ Married Prince Consort Thaelon Starlight (another high elf, age 600+) before asc
 
 ::
 
-*Note: Neither is heir. When Aelindra took the throne in 1110 CR, she underwent the coronation ritual that prevents further children. Succession follows the Chosen Heir system—currently Theron Aethermere (age 89, half-elf), selected by the world-trees.*
+*Note: Neither is heir. When Aelindra took the throne in 1110 CR, she underwent the coronation ritual that prevents further children. Succession follows the Chosen Heir system, currently Theron Aethermere (age 89, half-elf), selected by the world-trees.*
 :
-She genuinely believes her claim to High Queen (of the unified realm) is legitimate. Unlike King Aldric IV, she doesn't seek reunification through force—she believes it will happen naturally when the time is right, guided by the stars.
+She genuinely believes her claim to High Queen (of the unified realm) is legitimate. Unlike King Aldric IV, she doesn't seek reunification through force: she believes it will happen naturally when the time is right, guided by the stars.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -3517,7 +3614,7 @@ She genuinely believes her claim to High Queen (of the unified realm) is legitim
 #### Secrets (DM Only)
 1. **The Vision:** Has foreseen multiple possible futures, several involving catastrophe. Working quietly to prevent them without revealing the full scope of danger (might cause panic).
 2. **The Lost Sister:** Had a twin sister who died in the Worldrend. Consults her spirit through magic (others don't know). Sister's advice is sometimes... questionable.
-3. **The True Heir:** Her divinations show that neither Thandris nor Aethermere is the "true" heir—but also show three different people who could be. Trying to identify them.
+3. **The True Heir:** Her divinations show that neither Thandris nor Aethermere is the "true" heir, but also show three different people who could be. Trying to identify them.
 4. **The Stars' Warning:** The stars have gone "quiet" in recent years. Her divination magic still works, but there's a sense that something is blocking or changing fate itself. This terrifies her.
 5. **Mother's Death:** Officially died of old age. Truth: sacrificed herself in a ritual to prevent something terrible. Aelindra continues the ritual monthly in secret.
 }}
@@ -3555,8 +3652,8 @@ She genuinely believes her claim to High Queen (of the unified realm) is legitim
 - Excellent quest-giver for mysteries and prophecies
 - Her Portent ability means she might know party is coming
 - Can serve as deus ex machina but use sparingly
-- Interesting moral conflict: she knows terrible futures but can't prevent all of them—which does she choose?
-- Good foil to King Aldric IV—wisdom vs. strength, patience vs. action
+- Interesting moral conflict: she knows terrible futures but can't prevent all of them, which does she choose?
+- Good foil to King Aldric IV: wisdom vs. strength, patience vs. action
 - Her visions can seed future campaigns
 - Not infallible—divination can be wrong or misinterpreted
 
@@ -3632,7 +3729,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **Class:** Rogue 12 (Mastermind) / Bard 4 (College of Whispers)
 
 #### Physical Description
-Distinguished and handsome (5'11", 165 lbs), with the ageless quality of half-elves. Dark hair streaked with silver, kept impeccably groomed. Green eyes that seem to calculate your worth when they look at you. Always impeccably dressed in the finest clothes (worth 500+ gp per outfit). Wears expensive jewelry but tastefully—shows wealth without being gaudy.
+Distinguished and handsome (5'11", 165 lbs), with the ageless quality of half-elves. Dark hair streaked with silver, kept impeccably groomed. Green eyes that seem to calculate your worth when they look at you. Always impeccably dressed in the finest clothes (worth 500+ gp per outfit). Wears expensive jewelry but tastefully, shows wealth without being gaudy.
 
 #### Equipment
 - **Armor:** Studded Leather +2 (black leather, gold studs, elegant)
@@ -3645,7 +3742,7 @@ Distinguished and handsome (5'11", 165 lbs), with the ageless quality of half-el
 
 #### Personality
 **Traits:**
-- Everything is a negotiation—every conversation has an angle
+- Everything is a negotiation. Every conversation has an angle
 - Smiles constantly, even when discussing violence (especially then)
 - Remembers everyone's name and details about them
 - Never shows anger, even when furious inside
@@ -3658,27 +3755,27 @@ Distinguished and handsome (5'11", 165 lbs), with the ageless quality of half-el
 **Bonds:**
 - House Goldshore's unification under HIS leadership
 - His network of informants and agents across both continents
-- The city of Goldreach—he built it into what it is
+- The city of Goldreach. He built it into what it is
 - The memory of his grandfather, who first dreamed of branch family ascendancy
 
 **Flaws:**
 - Believes everything and everyone can be bought
 - So focused on profit that he misses emotional motivations
 - Paranoid—trusts almost no one completely
-- Ruthless when betrayed—holds grudges forever
+- Ruthless when betrayed, holds grudges forever
 
 #### Background & History
-Born in 1090 CR to the lesser branch of House Goldshore—descended from a younger son who split from the main family a century earlier. Half-elf heritage from his elvish mother. While the main Aldris line held the official lordship, Davos's branch always chafed at their secondary status.
+Born in 1090 CR to the lesser branch of House Goldshore, descended from a younger son who split from the main family a century earlier. Half-elf heritage from his elvish mother. While the main Aldris line held the official lordship, Davos's branch always chafed at their secondary status.
 
 Showed talent for trade and manipulation from youth. Built family business into trading empire through combination of shrewd deals and ruthless elimination of competitors. By age 50, his wealth rivaled the main house, though he lacked their title and legitimacy.
 
-The relationship between Davos and Lord Aldris III has always been complicated. They share blood (distant cousins), business interests (the Goldshore trading network), and mutual suspicion. Davos officially serves as the family's "Merchant Prince"—handling day-to-day commerce while the Aldris line maintains noble legitimacy. In practice, Davos wields more actual power and secretly resents the arrangement.
+The relationship between Davos and Lord Aldris III has always been complicated. They share blood (distant cousins), business interests (the Goldshore trading network), and mutual suspicion. Davos officially serves as the family's "Merchant Prince". Handling day-to-day commerce while the Aldris line maintains noble legitimacy. In practice, Davos wields more actual power and secretly resents the arrangement.
 
-His ultimate goal: reunite the Goldshore branches under HIS leadership. He's patient, methodical, and has been maneuvering for decades. Lord Aldris III is old (178), and Lord Aldris IV lacks Davos's ruthlessness. When the moment is right, Davos intends to claim the entire house—through legal manipulation, blackmail, or if necessary, more direct means.
+His ultimate goal: reunite the Goldshore branches under HIS leadership. He's patient, methodical, and has been maneuvering for decades. Lord Aldris III is old (178), and Lord Aldris IV lacks Davos's ruthlessness. When the moment is right, Davos intends to claim the entire house: through legal manipulation, blackmail, or if necessary, more direct means.
 
-Currently the richest individual in Tirvandor (excepting maybe dragons). Worth estimated 8-10 million gold pieces. Controls approximately 40% of maritime trade between continents—more than the "main" branch of his own house.
+Currently the richest individual in Tirvandor (excepting maybe dragons). Worth estimated 8-10 million gold pieces. Controls approximately 40% of maritime trade between continents: more than the "main" branch of his own house.
 
-Married twice (both wives died of "illness"). Currently widowed. Has no legitimate heirs—a deliberate choice. He believes legitimate children would be targets, liabilities, or rivals. Instead, he's positioning himself to claim Lord Aldris IV's daughter Serina as his own heir through adoption or marriage alliance when he takes over the main house.
+Married twice (both wives died of "illness"). Currently widowed. Has no legitimate heirs, a deliberate choice. He believes legitimate children would be targets, liabilities, or rivals. Instead, he's positioning himself to claim Lord Aldris IV's daughter Serina as his own heir through adoption or marriage alliance when he takes over the main house.
 
 Rumored to have several illegitimate children across both continents. Uses them as agents but has acknowledged none officially.
 
@@ -3689,21 +3786,21 @@ Rumored to have several illegitimate children across both continents. Uses them 
 #### Connections
 - **Business Partner:** Captain Sylara Windchaser (merchant fleet)
 - **Ally:** Sultan Rashid Ashborne (trade agreements)
-- **Family Rival:** Lord Aldris IV Goldshore (main branch heir—Davos resents his legitimacy, Aldris distrusts Davos's ambitions)
+- **Family Rival:** Lord Aldris IV Goldshore (main branch heir, Davos resents his legitimacy, Aldris distrusts Davos's ambitions)
 - **Competitor:** Trade Prince Lucian Goldfingers (Merchant League)
-- **Tool:** Master Crimson (criminal syndicate—Davos uses them, they don't know)
+- **Tool:** Master Crimson (criminal syndicate, Davos uses them, they don't know)
 - **Curiosity:** High Queen Aelindra (wants trade deal with Aethoria)
 - **Problem:** House Crystalborn (old naval rivalry)
 
 {{descriptive
 #### Secrets (DM Only)
 1. **The Takeover Plan:** Davos has spent decades positioning himself to take control of the entire Goldshore house. He has forged documents, bribed witnesses, and compiled blackmail on Lord Aldris IV. When the elderly Lord Aldris III dies, Davos will challenge Aldris IV's succession and claim the whole house is rightfully his.
-2. **The Salvage Operation:** Has secret expeditions searching sunken palace for treasures. Found several artifacts, kept quiet. One might be the Crown Jewels—which he plans to use as leverage.
+2. **The Salvage Operation:** Has secret expeditions searching sunken palace for treasures. Found several artifacts, kept quiet. One might be the Crown Jewels, which he plans to use as leverage.
 3. **The Poison Prince:** Maintains a poisoner on permanent staff. Has eliminated at least seven business rivals. Never caught. Has considered using these services on Lord Aldris III to accelerate his plans.
-4. **The Lost Heir:** Knows the identity (or thinks he does) of Lord Aldris's fourth daughter Marina. Keeping information for leverage—if she surfaces, she could complicate his takeover.
+4. **The Lost Heir:** Knows the identity (or thinks he does) of Lord Aldris's fourth daughter Marina. Keeping information for leverage, if she surfaces, she could complicate his takeover.
 5. **The Syndicate Connection:** While he publicly opposes the Syndicate, he secretly funds certain operations and gets cut of profits. Uses them for deniable operations against the main Goldshore branch.
 6. **The Forged Will:** Has a forged copy of an old Goldshore succession document proving his branch was illegally disinherited. It's convincing enough to tie up the courts for years if challenged.
-7. **The Insurance Policy:** Has compromising information on dozens of nobles, merchants, and officials—including several on Lord Aldris IV. Files hidden in several locations. If he dies, they're released.
+7. **The Insurance Policy:** Has compromising information on dozens of nobles, merchants, and officials, including several on Lord Aldris IV. Files hidden in several locations. If he dies, they're released.
 }}
 
 #### Plot Hooks
@@ -3711,7 +3808,7 @@ Rumored to have several illegitimate children across both continents. Uses them 
 2. **Corporate Espionage:** Needs party to infiltrate rival's operations and steal trade secrets or sabotage operations.
 3. **The Blackmail:** Someone is blackmailing him (rare!). Needs party to find out who and eliminate the problem quietly.
 4. **Protect the Shipment:** High-value cargo needs protection from pirates/monsters/rivals. Simple job that becomes complicated.
-5. **The Succession Sabotage:** Lady Serina Goldshore (Lord Aldris IV's daughter) has attracted a promising suitor—a match that could produce heirs and secure the main branch's succession for generations. Davos wants the party to sabotage the romance discreetly: spread rumors, create "misunderstandings," or make the suitor's family look unsuitable. If Serina remains unmarried and childless, Davos's claim to reunite the houses becomes stronger.
+5. **The Succession Sabotage:** Lady Serina Goldshore (Lord Aldris IV's daughter) has attracted a promising suitor, a match that could produce heirs and secure the main branch's succession for generations. Davos wants the party to sabotage the romance discreetly: spread rumors, create "misunderstandings," or make the suitor's family look unsuitable. If Serina remains unmarried and childless, Davos's claim to reunite the houses becomes stronger.
 6. **The Missing Agent:** One of his informants disappeared with sensitive information. Find them, retrieve the information, ensure silence.
 7. **The Hostile Takeover:** Davos is trying to acquire a company/property. Owner won't sell. Party might be hired by Davos... or by the owner to stop him.
 
@@ -3735,7 +3832,7 @@ Rumored to have several illegitimate children across both continents. Uses them 
 #### Notes for DMs
 - Excellent recurring patron for mercenary-type parties
 - Can be ally or antagonist depending on party's actions
-- Not obviously evil—just ruthlessly practical
+- Not obviously evil, just ruthlessly practical
 - Good source of morally gray quests
 - His resources mean he can bail out or screw over the party
 - Use as example of "rich getting richer" and systemic corruption
@@ -3833,14 +3930,14 @@ Elderly but vigorous (5'9", 160 lbs), with dark skin weathered by desert sun. Lo
 - **Bracers:** Bracers of Defense (+2 AC while unarmored)
 - **Amulet:** Holy Symbol of Sera (golden chalice overflowing with water)
 - **Ring:** Ring of Feather Falling
-- **Other:** Pouch with 10 diamonds (300 gp each for Revivify), waterskin (always full—Create Water), prayer beads
+- **Other:** Pouch with 10 diamonds (300 gp each for Revivify), waterskin (always full. Create Water), prayer beads
 
 #### Personality
 **Traits:**
-- Speaks in parables and desert wisdom—everything has a lesson
+- Speaks in parables and desert wisdom: everything has a lesson
 - Genuinely kind and patient with everyone, even enemies
 - Pauses to pray/meditate multiple times daily, even mid-conversation
-- Touches people's hands or shoulders when speaking—physical connection matters
+- Touches people's hands or shoulders when speaking: physical connection matters
 
 **Ideals:**
 - **Life:** "Every soul is precious. Every death diminishes us all."
@@ -3849,23 +3946,23 @@ Elderly but vigorous (5'9", 160 lbs), with dark skin weathered by desert sun. Lo
 
 **Bonds:**
 - Sundara and its people are his sacred charge from Sera
-- The Great Oasis—if it fails, the city dies
+- The Great Oasis, if it fails, the city dies
 - His students and spiritual children (he's trained dozens of clerics)
 - The memory of his wife, who died twenty years ago
 
 **Flaws:**
 - Pacifistic to a fault—sometimes won't act when action is needed
-- Trusts too easily—believes in the good in everyone
+- Trusts too easily, believes in the good in everyone
 - So focused on spiritual matters that practical governance suffers
 - Secret fear that he's not worthy of being "Twice-Blessed"
 
 #### Background & History
-Born in Sundara in 1179 CR to a merchant family. Experienced divine vision at age 16—saw Sera in the sun and dedicated his life to service. Trained as cleric, became respected spiritual leader by age 30.
+Born in Sundara in 1179 CR to a merchant family. Experienced divine vision at age 16, saw Sera in the sun and dedicated his life to service. Trained as cleric, became respected spiritual leader by age 30.
 
-Appointed High Priest at age 45 (1224 CR) by the newly crowned Sultan Rashid Ashborne. His spiritual authority complements the Sultan's political leadership—Ashborne handles governance and trade while Al-Sahir guides the people's souls. Despite sharing a first name, they are not related; Rashid is simply a common name in Sundara.
+Appointed High Priest at age 45 (1224 CR) by the newly crowned Sultan Rashid Ashborne. His spiritual authority complements the Sultan's political leadership: Ashborne handles governance and trade while Al-Sahir guides the people's souls. Despite sharing a first name, they are not related; Rashid is simply a common name in Sundara.
 
 **The Two Blessings:**
-1. **First Blessing (Age 22):** During plague, he healed hundreds until he collapsed from exhaustion. Should have died. Divine Intervention activated—Sera himself appeared and restored him. Earned title "The Blessed."
+1. **First Blessing (Age 22):** During plague, he healed hundreds until he collapsed from exhaustion. Should have died. Divine Intervention activated: Sera himself appeared and restored him. Earned title "The Blessed."
 2. **Second Blessing (Age 50):** During sandstorm, went into desert to rescue lost child. Caught in storm, nearly died of dehydration. Divine Intervention activated again. Sera sent rain (in the desert!). Saved both. Became "Twice-Blessed."
 
 These two miracles make him living legend. Many pilgrims come to Sundara just to meet him. He's humble about it, insists he's just a servant.
@@ -3873,11 +3970,11 @@ These two miracles make him living legend. Many pilgrims come to Sundara just to
 Wife (Aisha) died 20 years ago. Never remarried. They had no children. Considers his students his children.
 
 #### Connections
-- **Sultan:** Rashid Ashborne (political ruler of Sundara; mutual respect despite differing approaches—Ashborne is calculating, Al-Sahir is compassionate)
+- **Sultan:** Rashid Ashborne (political ruler of Sundara; mutual respect despite differing approaches, Ashborne is calculating, Al-Sahir is compassionate)
 - **Student:** Master Glasswright Zara (he taught her, she reveres him)
 - **Ally:** Merchant Prince Davos Goldshore (trade partnership, but Al-Sahir doesn't fully trust him)
 - **Friend:** Archdruid Silvaris Oakenheart (mutual respect between clerics and druids)
-- **Concern:** Desert Ranger Khalid (capable but vengeful—Al-Sahir tries to teach mercy)
+- **Concern:** Desert Ranger Khalid (capable but vengeful, Al-Sahir tries to teach mercy)
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -3888,7 +3985,7 @@ Wife (Aisha) died 20 years ago. Never remarried. They had no children. Considers
 {{descriptive
 #### Secrets (DM Only)
 1. **The Third Blessing:** Rashid knows he can call Divine Intervention one more time before he dies. Sera told him so. Saving it for the moment of greatest need. Terrified of choosing wrong moment.
-2. **The Oasis Curse:** The Great Oasis is slowly dying. Not natural—someone cursed it. Rashid knows but hasn't told anyone (would cause panic). Working on solution privately.
+2. **The Oasis Curse:** The Great Oasis is slowly dying. Not natural: someone cursed it. Rashid knows but hasn't told anyone (would cause panic). Working on solution privately.
 3. **The Doubts:** Despite being "Twice-Blessed," he has moments of deep doubt. Wonders if he misunderstood Sera's will. Hasn't told anyone.
 4. **The Dark Prayer:** Once, in moment of rage when his wife died, he prayed for vengeance instead of peace. Sera didn't answer. Rashid considers this his greatest sin.
 5. **The Successor:** Has no biological heir. Secretly training three possible successors, but hasn't chosen which one. One of them isn't who they claim to be.
@@ -3899,7 +3996,7 @@ Wife (Aisha) died 20 years ago. Never remarried. They had no children. Considers
 2. **The False Heir:** One of his spiritual successors is actually a Syndicate plant. Rashid suspects but can't prove it. Needs investigation.
 3. **The Third Blessing:** Rashid receives vision that the moment for his final Divine Intervention is coming. Party must help him reach the place where it must be used.
 4. **The Plague Returns:** Disease strikes Sundara again. Rashid heals everyone he can, but it's not enough. Party must find the source/cure.
-5. **The Sand Prophet:** The mysterious oracle in the desert has gone silent. Rashid is concerned—needs party to check on them.
+5. **The Sand Prophet:** The mysterious oracle in the desert has gone silent. Rashid is concerned: needs party to check on them.
 6. **The Pilgrimage:** Rashid must make pilgrimage to sacred site, but assassins have been hired to kill him on the road. Party provides protection.
 7. **The Doubt:** Rashid's faith wavers after a terrible tragedy. His powers weaken. Party must help him find his faith again.
 
@@ -3913,7 +4010,7 @@ Wife (Aisha) died 20 years ago. Never remarried. They had no children. Considers
 
 **In Combat:** Avoids combat if possible. If fighting, focuses on healing allies and protecting innocents. Uses non-lethal methods when possible. Will use lethal force only to save lives.
 
-**Social Situations:** Extremely approachable. Listens more than talks. Gives advice when asked, never forces it. Treats everyone with equal respect—beggar and king alike.
+**Social Situations:** Extremely approachable. Listens more than talks. Gives advice when asked, never forces it. Treats everyone with equal respect, beggar and king alike.
 
 **Goals:**
 - Short-term: Keep Sundara safe and prosperous
@@ -3927,7 +4024,7 @@ Wife (Aisha) died 20 years ago. Never remarried. They had no children. Considers
 - His two Divine Interventions are legendary—third one is major campaign moment
 - Use him to teach moral lessons without being preachy
 - Good counterpoint to more pragmatic or ruthless NPCs
-- His death would be emotionally impactful—use sparingly
+- His death would be emotionally impactful, use sparingly
 - Can provide sanctuary or guidance when party needs it
 
 {{pageNumber,auto}}
@@ -3979,7 +4076,7 @@ ___
 - **Class:** Rogue 8 (Mastermind) / Fighter 3 / Noble Background
 
 #### Physical Description
-Strikingly handsome (5'10", 170 lbs), with dark skin, perfectly trimmed black beard, and calculating brown eyes that miss nothing. Dressed in finest white silk robes with gold embroidery and turquoise jewelry. Every gesture is deliberate, every word chosen. Moves with the casual confidence of a man who has never been told "no." A faint smile plays constantly at his lips—the smile of someone who knows something you don't.
+Strikingly handsome (5'10", 170 lbs), with dark skin, perfectly trimmed black beard, and calculating brown eyes that miss nothing. Dressed in finest white silk robes with gold embroidery and turquoise jewelry. Every gesture is deliberate, every word chosen. Moves with the casual confidence of a man who has never been told "no." A faint smile plays constantly at his lips, the smile of someone who knows something you don't.
 
 #### Equipment
 - **Armor:** Breastplate +1 (concealed under robes, masterwork)
@@ -3996,8 +4093,8 @@ Strikingly handsome (5'10", 170 lbs), with dark skin, perfectly trimmed black be
 
 #### Personality
 **Traits:**
-- Never raises his voice—whispers are more threatening than shouts
-- Treats everyone like a business proposition—friends are allies, enemies are opportunities
+- Never raises his voice, whispers are more threatening than shouts
+- Treats everyone like a business proposition. Friends are allies, enemies are opportunities
 - Refers to himself in third person when making threats ("The Sultan does not forget...")
 - Touches his beard thoughtfully when considering something
 
@@ -4009,32 +4106,32 @@ Strikingly handsome (5'10", 170 lbs), with dark skin, perfectly trimmed black be
 **Bonds:**
 - House Ashborne's expansion into a true desert empire
 - His seven children (even though they compete for succession)
-- Sundara's prosperity—a rich city means a rich Sultan
+- Sundara's prosperity, a rich city means a rich Sultan
 - The memory of his grandfather, who built Ashborne from nothing
 
 **Flaws:**
 - Paranoid about assassination (with good reason)
-- Cannot accept being outmaneuvered—takes setbacks personally
-- Underestimates religious influence—thinks everything is politics
+- Cannot accept being outmaneuvered, takes setbacks personally
+- Underestimates religious influence: thinks everything is politics
 - His succession crisis is partially his own making
 
 #### Background & History
 Born in 1206 CR to Sultan Karim Ashborne, the second ruler of the Ashborne dynasty. Grew up watching his father consolidate power through marriage alliances with nomad clans, strategic assassinations of rivals, and monopolization of desert trade routes. Learned that power comes not from strength but from making yourself indispensable.
 
-At age 15, negotiated his first trade deal—a water-rights agreement that quadrupled House Ashborne's income. By 20, he'd married his first wife (daughter of the strongest nomad chief) and begun building his own network of spies and merchants.
+At age 15, negotiated his first trade deal, a water-rights agreement that quadrupled House Ashborne's income. By 20, he'd married his first wife (daughter of the strongest nomad chief) and begun building his own network of spies and merchants.
 
-Became Sultan at 25 (1231 CR) when his father died of "natural causes" (widely suspected to be poison, but never proven—possibly by Rashid himself, though he denies it). Immediately consolidated power by marrying two more wives from competing clans, essentially holding their heirs hostage.
+Became Sultan at 25 (1231 CR) when his father died of "natural causes" (widely suspected to be poison, but never proven. Possibly by Rashid himself, though he denies it). Immediately consolidated power by marrying two more wives from competing clans, essentially holding their heirs hostage.
 
 **The Seven Children:**
-- **Eldest Son (deceased 1245 CR):** Heir apparent until his "riding accident." Actually poisoned by one of his brothers—Rashid knows which one but hasn't acted.
+- **Eldest Son (deceased 1245 CR):** Heir apparent until his "riding accident." Actually poisoned by one of his brothers. Rashid knows which one but hasn't acted.
 - **Second Son (age 18):** Current heir by default. Competent but uninspired.
 - **Daughters (3):** Married or betrothed to useful allies.
 - **Younger Sons (2):** Still children, but already showing ambition.
 
-The succession crisis is intentional. Rashid believes competition makes stronger heirs. He'll choose his successor when he's ready—or let them fight for it after he's gone.
+The succession crisis is intentional. Rashid believes competition makes stronger heirs. He'll choose his successor when he's ready, or let them fight for it after he's gone.
 
 **Relationship with High Priest Al-Sahir:**
-Rashid appointed Al-Sahir as High Priest shortly after becoming Sultan. They share a first name (common in Sundara) but no blood relation. Rashid respects Al-Sahir's spiritual authority and genuine popularity with the people, while Al-Sahir provides moral legitimacy to Rashid's pragmatic rule. They disagree frequently—Rashid favors harsh justice, Al-Sahir advocates mercy—but their partnership has kept Sundara stable for sixteen years.
+Rashid appointed Al-Sahir as High Priest shortly after becoming Sultan. They share a first name (common in Sundara) but no blood relation. Rashid respects Al-Sahir's spiritual authority and genuine popularity with the people, while Al-Sahir provides moral legitimacy to Rashid's pragmatic rule. They disagree frequently, Rashid favors harsh justice, Al-Sahir advocates mercy, but their partnership has kept Sundara stable for sixteen years.
 
 #### Connections
 - **High Priest:** Rashid Al-Sahir (spiritual advisor, moral counterweight, mutual respect despite different approaches)
@@ -4056,18 +4153,18 @@ Rashid appointed Al-Sahir as High Priest shortly after becoming Sultan. They sha
 
 2. **The Eldest Son:** Rashid knows which of his sons killed the heir. It was the fourth son—only 12 at the time. Rashid is oddly proud. He's watching to see if the boy has what it takes.
 
-3. **The Empire Plan:** Rashid isn't content with Sundara. He's slowly positioning House Ashborne to claim all of the Ashfall Barrens—and possibly challenge House Thandris for dominance in Thaldros. This will take decades, but he's patient.
+3. **The Empire Plan:** Rashid isn't content with Sundara. He's slowly positioning House Ashborne to claim all of the Ashfall Barrens, and possibly challenge House Thandris for dominance in Thaldros. This will take decades, but he's patient.
 
-4. **The Oasis Curse:** He's aware the Great Oasis is failing (High Priest Al-Sahir told him). Unlike Al-Sahir, Rashid suspects someone is deliberately cursing it—probably a rival house. He's hunting the culprit.
+4. **The Oasis Curse:** He's aware the Great Oasis is failing (High Priest Al-Sahir told him). Unlike Al-Sahir, Rashid suspects someone is deliberately cursing it, probably a rival house. He's hunting the culprit.
 
 5. **The Escape Plan:** Has emergency escape routes, hidden funds, and a bolt-hole in Goldreach. If everything collapses, he'll survive. Ashbornes always survive.
 }}
 
 #### Plot Hooks
-1. **The Succession Crisis:** Rashid needs an outside party to investigate his children—which one is truly plotting against him, and which would make the best heir?
+1. **The Succession Crisis:** Rashid needs an outside party to investigate his children, which one is truly plotting against him, and which would make the best heir?
 2. **The Trade War:** Competition with the Merchant League has turned violent. Rashid needs mercenaries who can't be traced back to him.
 3. **The Oasis Threat:** The Great Oasis is dying. Rashid will pay handsomely for anyone who can find and stop whoever is responsible.
-4. **The Desert Expansion:** Rashid is claiming new oases in the deep desert. The party could help establish outposts—or investigate why previous expeditions disappeared.
+4. **The Desert Expansion:** Rashid is claiming new oases in the deep desert. The party could help establish outposts, or investigate why previous expeditions disappeared.
 5. **The Diplomatic Mission:** Needs emissaries to negotiate with parties he can't openly contact (perhaps the Unbound, or foreign powers).
 6. **The Family Problem:** One of his children has done something that could destroy House Ashborne if it becomes public. He needs the problem to disappear quietly.
 
@@ -4075,11 +4172,11 @@ Rashid appointed Al-Sahir as High Priest shortly after becoming Sultan. They sha
 **Voice:** Smooth, measured, never rushed. Speaks like everything is a negotiation. Occasional dry humor. Uses silence effectively.
 **Mannerisms:**
 - Strokes beard when thinking
-- Makes direct eye contact—uncomfortably long
+- Makes direct eye contact, uncomfortably long
 - Offers refreshments before business (it's rude to refuse)
 - Always sits in the highest chair
 
-**In Combat:** Avoids direct combat—that's what guards are for. If cornered, fights dirty (poison, distractions, calling reinforcements). Prioritizes escape over victory.
+**In Combat:** Avoids direct combat: that's what guards are for. If cornered, fights dirty (poison, distractions, calling reinforcements). Prioritizes escape over victory.
 
 **Social Situations:** Always probing for advantage. Assumes everyone wants something. Offers just enough to keep people interested. Never commits until he has to.
 
@@ -4178,7 +4275,7 @@ Elegant and composed (5'7", 125 lbs), with the timeless beauty of high elves. Au
 
 #### Personality
 **Traits:**
-- Precise and organized—everything in its place
+- Precise and organized, everything in its place
 - Listens carefully before speaking, then speaks with authority
 - Uses hand gestures when explaining complex concepts
 - Corrects people politely when they're wrong (which annoys some)
@@ -4191,21 +4288,21 @@ Elegant and composed (5'7", 125 lbs), with the timeless beauty of high elves. Au
 **Bonds:**
 - The University and its students are her life's work
 - The city of Silverpine must remain safe haven for learning
-- Her most promising students—she tracks their careers with pride
-- The great library—repository of centuries of knowledge
+- Her most promising students: she tracks their careers with pride
+- The great library: repository of centuries of knowledge
 
 **Flaws:**
-- Perfectionist—can be harsh on self and others
-- Somewhat elitist—believes educated opinions matter more
+- Perfectionist. Can be harsh on self and others
+- Somewhat elitist, believes educated opinions matter more
 - Underestimates non-magical solutions to problems
-- Workaholic—hasn't taken vacation in 50 years
+- Workaholic, hasn't taken vacation in 50 years
 
 #### Background & History
-Born in 905 CR in Aethermere. Showed magical talent young. Sent to Silverpine Magical Academy at age 40 (young for an elf). Proved to be prodigy in abjuration magic—by age 80, was full professor.
+Born in 905 CR in Aethermere. Showed magical talent young. Sent to Silverpine Magical Academy at age 40 (young for an elf). Proved to be prodigy in abjuration magic, by age 80, was full professor.
 
 Appointed Rector of the University at age 250 (1155 CR). Youngest Rector in university history. Under her leadership, the University has grown to be premier magical institution in western Tirvandor.
 
-Also leads the Silverpine Council (city government). Silverpine is unique—governed by council of academics, merchants, and artisans. Elara chairs it. She's good administrator but sometimes frustrated by politics.
+Also leads the Silverpine Council (city government). Silverpine is unique: governed by council of academics, merchants, and artisans. Elara chairs it. She's good administrator but sometimes frustrated by politics.
 
 Never married. Devoted entirely to her work. Considers her students her children. Has trained hundreds of wizards over the centuries.
 
@@ -4220,10 +4317,10 @@ Never married. Devoted entirely to her work. Considers her students her children
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Forbidden Vault:** University has vault of dangerous magical knowledge. Only she has access. Contains things that shouldn't exist—necromancy tomes, demon summoning, reality-breaking spells. She's studied them all (to know how to counter them, she tells herself).
+1. **The Forbidden Vault:** University has vault of dangerous magical knowledge. Only she has access. Contains things that shouldn't exist, necromancy tomes, demon summoning, reality-breaking spells. She's studied them all (to know how to counter them, she tells herself).
 2. **The Failed Student:** One of her most promising students turned to dark magic. She tried to stop him. He died in the confrontation. She's never fully forgiven herself.
 3. **The True Power:** Her Staff of Power contains fragment of an ancient artifact. If reassembled with other fragments, it would create world-shattering weapon. She guards it carefully.
-4. **The Secret Research:** Privately researching way to prevent another Worldrend. Has theory that requires massive magical energy. Hasn't told anyone—sounds too much like what caused first Worldrend.
+4. **The Secret Research:** Privately researching way to prevent another Worldrend. Has theory that requires massive magical energy. Hasn't told anyone, sounds too much like what caused first Worldrend.
 5. **The Personal Ward:** Created a permanent personal ward on herself years ago. It's why she has such high Constitution. But it's slowly draining her life force. In 50-100 years, it will kill her. She's trying to fix it without removing the protection.
 }}
 
@@ -4234,7 +4331,7 @@ Never married. Devoted entirely to her work. Considers her students her children
 #### Plot Hooks
 1. **The Library Theft:** Dangerous book stolen from restricted section. Party must recover it before it's used.
 2. **The Failing Wards:** City's protective wards are failing. Party must investigate why and help restore them.
-3. **The Dark Student:** Elara's former student is using dark magic for terrible purposes. She wants party to stop them—but alive if possible, for her sake.
+3. **The Dark Student:** Elara's former student is using dark magic for terrible purposes. She wants party to stop them, but alive if possible, for her sake.
 4. **The Research Mission:** Needs rare magical components for research. Hires party to retrieve them from dangerous location.
 5. **The Infiltration:** Suspects Syndicate spy in University. Party must identify them without causing panic.
 6. **The Artifact Fragments:** Party discovers fragment of the same artifact as in her staff. She wants to secure it. Others want to assemble complete artifact.
@@ -4260,8 +4357,8 @@ Never married. Devoted entirely to her work. Considers her students her children
 #### Notes for DMs
 - Excellent quest-giver for magical research missions
 - Can provide magical item identification, spell research, etc.
-- University can be campaign location—intrigue among faculty, student problems
-- Her protective magic makes her hard to kill—use as safe ally
+- University can be campaign location, intrigue among faculty, student problems
+- Her protective magic makes her hard to kill. Use as safe ally
 - Good mentor figure for wizard PCs
 - Her forbidden knowledge can seed dark magic plots
 - The Failing Ward secret can be tragic end to her story
@@ -4316,7 +4413,7 @@ Born in the deep halls of Kaer Thandros to the Ironoak clan, one of the oldest d
 
 Fought alongside humans during the Ashfall Uprising (1210 CR) when volcanic creatures threatened Emberforge. Lost his right eye to a fire giant's thrown boulder but refused to retreat until civilians evacuated. The injury became his badge of honor. Promoted to Lord Commander in 1225 CR, making him the first dwarf to hold the position in 200 years.
 
-Has served three Thandris kings—the late Aldric III, briefly the infant-king Marcus (who died of fever), and now Aldric IV. This continuity makes him one of the most trusted advisors in the realm. Lives in the Military Command tower, hasn't visited his family hold in fifteen years.
+Has served three Thandris kings, the late Aldric III, briefly the infant-king Marcus (who died of fever), and now Aldric IV. This continuity makes him one of the most trusted advisors in the realm. Lives in the Military Command tower, hasn't visited his family hold in fifteen years.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -4332,19 +4429,19 @@ Has served three Thandris kings—the late Aldric III, briefly the infant-king M
 {{descriptive
 #### Secrets (DM Only)
 1. **The Northern Pact:** Negotiated a secret non-aggression treaty with frost giants. Giants get tribute of ale and metal; Thaldros gets safe northern borders. Only King Aldric IV and High Diplomat Erenna know.
-2. **The Blackwood Sympathy:** His grandmother sheltered Blackwood refugees after the rebellion. He's quietly investigated their claims—and found troubling evidence the crown's version isn't complete.
+2. **The Blackwood Sympathy:** His grandmother sheltered Blackwood refugees after the rebellion. He's quietly investigated their claims, and found troubling evidence the crown's version isn't complete.
 3. **The Dragon Deal:** Witnessed the moment the red dragon Infernalix departed in 1201 CR. Saw someone speaking to it from the walls. Has never told anyone, not even the king.
 4. **Failing Health:** The fire giant's boulder damaged more than his eye. Has recurring seizures he hides with medication from a discrete healer.
 5. **The Lost Company:** His first command was massacred because he trusted bad intelligence. Survivors were told it was enemy action. It was actually friendly fire from panicking human troops.
 }}
 
 #### Plot Hooks
-1. **The Northern Pact Renewal:** Giants demand renegotiation. Thrain needs discrete agents to carry tribute and negotiate—official envoys would expose the secret.
+1. **The Northern Pact Renewal:** Giants demand renegotiation. Thrain needs discrete agents to carry tribute and negotiate, official envoys would expose the secret.
 2. **The Traitor Hunt:** Evidence suggests a high-ranking officer is selling military secrets to the Shadow Syndicate. Thrain needs outsiders to investigate without alerting the mole.
-3. **The Lost Standard:** His first company's battle standard was taken by orcs and now sits in a warlord's trophy hall. He'll pay handsomely for its recovery—and silence about what really happened.
+3. **The Lost Standard:** His first company's battle standard was taken by orcs and now sits in a warlord's trophy hall. He'll pay handsomely for its recovery, and silence about what really happened.
 4. **The Blackwood Papers:** He's obtained documents suggesting House Blackwood was framed. Needs someone to verify them without his involvement being known.
-5. **Dragon Witness:** After decades of silence, he's ready to tell someone what he saw during the Dragon Crisis—but only adventurers who've proven themselves trustworthy.
-6. **The Kidnapped Son:** His estranged son Borin (not the Captain) was taken by giants who didn't get the Northern Pact message. Rescue required—but quietly, or the pact is exposed.
+5. **Dragon Witness:** After decades of silence, he's ready to tell someone what he saw during the Dragon Crisis, but only adventurers who've proven themselves trustworthy.
+6. **The Kidnapped Son:** His estranged son Borin (not the Captain) was taken by giants who didn't get the Northern Pact message. Rescue required, but quietly, or the pact is exposed.
 7. **The Sealed Levels:** Something is stirring in the forbidden deep levels of Kaer Thandros. He needs expendable explorers who won't be missed if they don't return.
 
 {{pageNumber,auto}}
@@ -4389,11 +4486,11 @@ Perfectionist obsessed with craft. Speaks more to metal than people. Runs Crown 
 **Secret:** Can forge mythril. Only three smiths in world can. Doesn't advertise this.
 
 #### Background & History
-Fourth generation Crown Forge smith, born into the craft. His great-grandfather helped build the original Crown Forge in 650 CR under King Thorin I. The Forgefire clan has passed down techniques for three centuries—secrets whispered from father to son, never written.
+Fourth generation Crown Forge smith, born into the craft. His great-grandfather helped build the original Crown Forge in 650 CR under King Thorin I. The Forgefire clan has passed down techniques for three centuries, secrets whispered from father to son, never written.
 
 Durgan showed talent early, forging his first blade at age 30 (young for dwarves). Apprenticed under his father until 1120 CR, then journeyed to study other techniques. Spent twenty years in Emberforge learning volcanic smithing, ten years in the Sundaran Expanse studying desert-forged steel, and allegedly visited eastern Aethoria (he won't confirm this).
 
-Returned to Kaer Thandros in 1157 CR and assumed his father's position after his death during the Dragon Crisis. The dragon Infernalix specifically targeted the Forge District—Durgan believes it was seeking something. He's spent 90 years trying to understand what.
+Returned to Kaer Thandros in 1157 CR and assumed his father's position after his death during the Dragon Crisis. The dragon Infernalix specifically targeted the Forge District, Durgan believes it was seeking something. He's spent 90 years trying to understand what.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -4411,17 +4508,17 @@ Now the undisputed master of the Crown Forge, he's created weapons for three gen
 {{descriptive
 #### Secrets (DM Only)
 1. **Mythril Mastery:** One of only three living smiths who can forge true mythril. The others are Rurik Ironanvil (his rival) and someone in Aethoria he's never met. The technique is dying.
-2. **The Dragon's Purpose:** Found slag in the Forge District that shouldn't exist—dragon fire alone couldn't create it. Something else burned here. Something magical.
+2. **The Dragon's Purpose:** Found slag in the Forge District that shouldn't exist: dragon fire alone couldn't create it. Something else burned here. Something magical.
 3. **The Incomplete Blade:** His father died mid-forge on a commissioned blade. Durgan has kept the unfinished weapon for 90 years, unable to complete it or destroy it. It whispers to him sometimes.
-4. **The Eastern Journey:** He did visit Aethoria—specifically House Crystalborn. They showed him crystal-infusion techniques. He's never used them, afraid of what he might create.
-5. **The Royal Request:** King Aldric IV has asked him to forge something unprecedented—a weapon that could kill an ancient dragon. He's not sure it's possible. Or ethical.
+4. **The Eastern Journey:** He did visit Aethoria: specifically House Crystalborn. They showed him crystal-infusion techniques. He's never used them, afraid of what he might create.
+5. **The Royal Request:** King Aldric IV has asked him to forge something unprecedented, a weapon that could kill an ancient dragon. He's not sure it's possible. Or ethical.
 }}
 
 #### Plot Hooks
 1. **The Rare Materials:** Needs adamantine from a specific crashed meteor in orc territory. Hiring adventurers for extraction.
 2. **The Stolen Techniques:** His former apprentice fled to the Shadow Syndicate with forging secrets. They're making inferior but mass-produced magic weapons. Needs the apprentice stopped.
-3. **The Ancient Forge:** Explorers discovered a pre-Worldrend dwarven forge in the Sealed Levels. Durgan needs it secured and studied—the techniques there might be lost to time.
-4. **The Dragon Scale Commission:** A wealthy patron wants dragon-scale armor. Durgan needs fresh scales from a living dragon—and someone to get them.
+3. **The Ancient Forge:** Explorers discovered a pre-Worldrend dwarven forge in the Sealed Levels. Durgan needs it secured and studied, the techniques there might be lost to time.
+4. **The Dragon Scale Commission:** A wealthy patron wants dragon-scale armor. Durgan needs fresh scales from a living dragon, and someone to get them.
 5. **The Incomplete Blade:** Finally ready to complete his father's last work. But the blade requires a specific component: the tear of a dying king. He hopes King Aldric IV will volunteer a tear before his natural death, decades hence.
 6. **The Rival's Challenge:** Rurik Ironanvil has challenged him to a forge-off. The prize: recognition as Thaldros's greatest smith. Durgan needs rare materials to win.
 7. **The Whispering Steel:** The incomplete blade has started speaking clearly. It wants to be finished. It's telling him how. He's not sure he should listen.
@@ -4489,20 +4586,20 @@ Has personally stopped three assassination attempts against the crown. The first
 {{descriptive
 #### Secrets (DM Only)
 1. **The Court Traitor:** Intercepted coded messages proving someone in the Royal Quarter is selling information. The code is unbroken, but the drop point is a noble's estate. Which noble?
-2. **The Third Assassin:** The third assassin he stopped wasn't aiming for the king—they were aiming for Crown Prince Thorin. Why target the heir specifically?
-3. **The Gate Records:** Keeps secret logs of everyone entering the city. Has noticed patterns—certain people arrive before certain "accidents" happen.
+2. **The Third Assassin:** The third assassin he stopped wasn't aiming for the king: they were aiming for Crown Prince Thorin. Why target the heir specifically?
+3. **The Gate Records:** Keeps secret logs of everyone entering the city. Has noticed patterns. Certain people arrive before certain "accidents" happen.
 4. **The Bribe Offers:** Has been offered enormous bribes to "not notice" certain visitors. He's declined, but he's recorded every offer and who made it.
 5. **The Divine Vision:** During his healing, he saw something—a moment of darkness swallowing Kaer Thandros. He believes it's prophetic. He doesn't know how to stop it.
 }}
 
 #### Plot Hooks
-1. **The Coded Messages:** Needs someone outside the guard to decode intercepted messages—can't trust internal cryptographers.
+1. **The Coded Messages:** Needs someone outside the guard to decode intercepted messages. Can't trust internal cryptographers.
 2. **The Suspicious Travelers:** Had to admit a diplomatic party he's certain contains infiltrators. Needs them watched without official involvement.
 3. **The Gate Sabotage:** Someone is weakening the outer gate mechanisms. Needs investigation before the next assault.
 4. **The Assassin's Employer:** The third assassin was a professional from the Shadow Syndicate. Who hired them to kill Crown Prince Thorin?
 5. **The Underground Entrance:** Discovered evidence of a tunnel bypassing his gates entirely. Needs explorers to find and seal it.
 6. **The Briber's Identity:** Ready to spring a trap on whoever's offering bribes. Needs trustworthy witnesses who can testify in royal court.
-7. **The Vision Quest:** A Lightbringer superior suggested his vision might be clarified through a sacred quest. He can't leave his post—but could sponsor others.
+7. **The Vision Quest:** A Lightbringer superior suggested his vision might be clarified through a sacred quest. He can't leave his post, but could sponsor others.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -4549,14 +4646,14 @@ ___
 & Background
 Elderly royal advisor. Scholarly, absent-minded, brilliant. Has advised three generations of kings. More interested in ancient texts than politics but understands both. Believes current political tensions are tied to pre-Worldrend events. Researching constantly.
 
-**Secret:** Has discovered evidence that third bloodline exists. Hasn't told King yet—trying to verify first.
+**Secret:** Has discovered evidence that third bloodline exists. Hasn't told King yet: trying to verify first.
 
 #### Background & History
 Born in a small Heartlands village to a family of scribes. Showed magical aptitude early and was sent to the Arcanum in Silverpine at age 14. Excelled in divination studies under Archmage Veridian Starweaver, becoming one of his finest students.
 
 Recruited to Kaer Thandros in 1202 CR when King Aldric III needed a royal diviner. Has served the crown for 45 years across three reigns. His predictions about the Merchant Riot of 1185 CR (before his official posting) brought him to royal attention—he warned of unrest six months before it occurred.
 
-Survived the Dragon Crisis of 1156 CR as a young apprentice in Silverpine, but the experience haunted him. Has spent decades researching why the dragon departed. His divinations suggest something negotiated with it—but his visions of that moment are always obscured.
+Survived the Dragon Crisis of 1156 CR as a young apprentice in Silverpine, but the experience haunted him. Has spent decades researching why the dragon departed. His divinations suggest something negotiated with it, but his visions of that moment are always obscured.
 
 Now elderly and knowing his time is limited, he works frantically to complete his life's research: understanding the pre-Worldrend royal succession and why both House Thandris and House Aethermere believe they're the legitimate heirs.
 
@@ -4573,20 +4670,20 @@ Now elderly and knowing his time is limited, he works frantically to complete hi
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Third Bloodline:** His research suggests a third royal line exists—neither Thandris nor Aethermere, but descendants of a sibling history forgot. If true, the entire succession dispute is moot.
+1. **The Third Bloodline:** His research suggests a third royal line exists, neither Thandris nor Aethermere, but descendants of a sibling history forgot. If true, the entire succession dispute is moot.
 2. **The Dragon's Deal:** His divinations show King Aldric III's father made some kind of bargain with Infernalix. He can't see the terms, but the dragon's departure wasn't random.
 3. **The Prophecy Suppression:** He's had a vision of Kaer Thandros burning that he's hidden from the king. Showing it might cause the very panic that makes it come true.
 4. **The Aethorian Contact:** His anonymous correspondent claims to be from House Starweaver. They're sharing information that contradicts both continental histories.
-5. **The Approaching Death:** He's divined his own death—within the year. He's racing to complete his research and find someone worthy to continue it.
+5. **The Approaching Death:** He's divined his own death: within the year. He's racing to complete his research and find someone worthy to continue it.
 }}
 
 #### Plot Hooks
 1. **The Lost Archive:** Pre-Worldrend texts exist in a ruin beneath the Sundering Sea. Needs adventurers to retrieve them before they're lost forever.
-2. **The Third Heir:** Has a lead on the third bloodline's descendants. Needs discrete investigation—if true, this could reshape continental politics.
+2. **The Third Heir:** Has a lead on the third bloodline's descendants. Needs discrete investigation, if true, this could reshape continental politics.
 3. **The Vision Verification:** Needs heroes to travel to the site of his disaster vision to see if it can be prevented.
 4. **The Successor Search:** Looking for someone with divination talent to inherit his research. Will test promising candidates.
 5. **The Correspondent Meeting:** His Aethorian contact wants to meet in person. Needs protection for the dangerous journey to neutral Port Myrthen.
-6. **The Dragon Research:** Needs someone to investigate the Ashfall Barrens where Infernalix ruled during the Dragon Crisis—to understand what the dragon sought before he mysteriously withdrew.
+6. **The Dragon Research:** Needs someone to investigate the Ashfall Barrens where Infernalix ruled during the Dragon Crisis, to understand what the dragon sought before he mysteriously withdrew.
 7. **The Royal Revelation:** Has finally gathered enough evidence to present to King Aldric IV. Needs witnesses he trusts in case something goes wrong.
 
 {{pageNumber,auto}}
@@ -4629,11 +4726,11 @@ Former soldier turned priest. Runs temple dedicated to Mordain (god of protectio
 #### Background & History
 Born Marcus Tormund in Crossvale to a farming family. Joined the Royal Army at 18, served in the Northern Border Campaigns against orc raiders throughout his twenties. Witnessed countless deaths and grew disillusioned with violence without purpose.
 
-The turning point came during the Battle of Iron Pass (1223 CR) when his company was ambushed and nearly wiped out. Tormund held a defensive line for six hours, protecting wounded soldiers, until reinforcements arrived. He was the only one of the rear guard still standing. During that stand, he prayed to every god he could name—and Mordain answered.
+The turning point came during the Battle of Iron Pass (1223 CR) when his company was ambushed and nearly wiped out. Tormund held a defensive line for six hours, protecting wounded soldiers, until reinforcements arrived. He was the only one of the rear guard still standing. During that stand, he prayed to every god he could name, and Mordain answered.
 
 After recovering from his wounds, he left the military and took holy orders. Trained at the Temple of Mordain in Ironhold, then transferred to Kaer Thandros in 1230 CR. Built the temple's warrior-priest program from scratch, training soldier-clerics who protect without seeking conquest.
 
-Now serves as the temple's head priest and chief counselor to soldiers struggling with the weight of their duties. His practical approach—combining military discipline with spiritual guidance—has made him beloved by the City Watch and Royal Army alike.
+Now serves as the temple's head priest and chief counselor to soldiers struggling with the weight of their duties. His practical approach (combining military discipline with spiritual guidance) has made him beloved by the City Watch and Royal Army alike.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -4648,7 +4745,7 @@ Now serves as the temple's head priest and chief counselor to soldiers strugglin
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Vision:** Saw a massive battle coming to Kaer Thandros—worse than the Dragon Crisis. Siege weapons, dark magic, armies beyond counting. He's quietly stockpiling supplies and training healers.
+1. **The Vision:** Saw a massive battle coming to Kaer Thandros. Worse than the Dragon Crisis. Siege weapons, dark magic, armies beyond counting. He's quietly stockpiling supplies and training healers.
 2. **The Survivor's Guilt:** Still dreams of the men who died at Iron Pass. Sometimes questions whether he truly heard Mordain, or just his own desperate will to survive.
 3. **The Deserter Sanctuary:** Secretly shelters soldiers who've deserted due to trauma rather than cowardice. Helps them find peace before turning themselves in or starting new lives.
 4. **The Forbidden Ritual:** Knows a prayer that can bind a dying soldier's soul to his weapon, creating a guardian spirit. It's not heresy, but the church leadership would disapprove. He's done it twice.
@@ -4656,12 +4753,12 @@ Now serves as the temple's head priest and chief counselor to soldiers strugglin
 }}
 
 #### Plot Hooks
-1. **The Battle Preparation:** Needs help preparing the temple for mass casualties. Supplies, cots, healers, escape routes—all without causing panic.
+1. **The Battle Preparation:** Needs help preparing the temple for mass casualties. Supplies, cots, healers, escape routes, all without causing panic.
 2. **The Haunted Soldier:** A veteran is possessed by something from the battlefield. Needs both combat skill and spiritual knowledge to help.
 3. **The Deserter Crisis:** One of his sheltered deserters was actually a spy. Now Tormund needs help finding him before the spy sells what he's learned.
 4. **The Sacred Weapon:** A legendary warrior's blade needs to be recovered from a battlefield. The soldier's ghost won't rest until it's returned to his family.
 5. **The Confession Dilemma:** The traitor from confession is about to be promoted to a sensitive position. Tormund can't break the seal but needs someone to find evidence independently.
-6. **The Iron Pass Pilgrimage:** Finally ready to return to where his faith was born. Needs escort through dangerous territory—and witnesses for what he might find there.
+6. **The Iron Pass Pilgrimage:** Finally ready to return to where his faith was born. Needs escort through dangerous territory, and witnesses for what he might find there.
 7. **The Vision Quest:** A prophecy suggests someone can prevent his vision of destruction. He's looking for that person among adventurers who pass through.
 
 
@@ -4717,9 +4814,9 @@ Quiet, contemplative, sees patterns others miss. Former student of Council Mistr
 #### Background & History
 Born in Silverpine to House Silverleaf retainers. Showed magical talent early and was admitted to Silverpine Magical Academy at the unusually young age of 45 (for elves). Studied under the legendary Council Mistress Elara Silverleaf (her namesake, no relation), developing a passion for divination and celestial magic.
 
-Her thesis work connected astronomical observations to ley line fluctuations—proving that celestial events influence magical currents. This groundbreaking research earned her a professorship at age 120, making her one of the youngest tenured faculty in the university's history.
+Her thesis work connected astronomical observations to ley line fluctuations, proving that celestial events influence magical currents. This groundbreaking research earned her a professorship at age 120, making her one of the youngest tenured faculty in the university's history.
 
-The real turning point came in 1190 CR during a rare celestial alignment. Her observations that night showed her something that shouldn't exist—a pattern in the stars that matched ancient House Starleaf records of the pre-Worldrend sky. The stars are slowly returning to their ancient positions. She doesn't know what this means, but she's been studying it for sixty years.
+The real turning point came in 1190 CR during a rare celestial alignment. Her observations that night showed her something that shouldn't exist, a pattern in the stars that matched ancient House Starleaf records of the pre-Worldrend sky. The stars are slowly returning to their ancient positions. She doesn't know what this means, but she's been studying it for sixty years.
 
 #### Connections
 - **Mentor:** Council Mistress Elara Silverleaf (proud of her student's achievements)
@@ -4736,7 +4833,7 @@ The real turning point came in 1190 CR during a rare celestial alignment. Her ob
 #### Secrets (DM Only)
 1. **The Returning Stars:** The sky is slowly reverting to its pre-Worldrend configuration. At current rate, it will match ancient records in approximately 100 years. What happens then?
 2. **The Hidden Observatory:** Maintains a secret observation post in the Ironspine Mountains, away from Silverpine's light pollution. Only her most trusted students know.
-3. **The Prophecy Collection:** Has compiled every recorded prophecy about the Worldrend and its aftermath. Patterns suggest a second Worldrend—or something that prevents one.
+3. **The Prophecy Collection:** Has compiled every recorded prophecy about the Worldrend and its aftermath. Patterns suggest a second Worldrend, or something that prevents one.
 4. **The Aethorian Connection:** Her correspondent is actually Archmage Eldrin Aethermere himself. They share astronomical data that contradicts both continents' historical records.
 5. **The Student's Death:** A promising student died investigating something she asked him to observe. She carries guilt but has never told anyone what he was looking for.
 }}
@@ -4808,7 +4905,7 @@ Master of Artisan Guild. Creates beauty, not just function. Jewelry fetches thou
 #### Background & History
 Born in the Starwood of Aethoria over five centuries ago. Studied art and magic at Aethermere before crossing the Sundering Sea as a young elf, seeking new artistic traditions. Settled in Silverpine where the fusion of elven and human cultures inspired new creative possibilities.
 
-Apprenticed to both elven woodcarvers and human jewelers, developing a unique style blending elven grace with human boldness. His breakthrough piece—a crown for the Lord Silverleaf wedding—established his reputation across both continents.
+Apprenticed to both elven woodcarvers and human jewelers, developing a unique style blending elven grace with human boldness. His breakthrough piece, a crown for the Lord Silverleaf wedding, established his reputation across both continents.
 
 Elected Master of the Artisan Guild in 1180 CR after his predecessor died without an heir. Has led the guild for 67 years, maintaining Silverpine's reputation as the center of artistic excellence. His waiting list is decades long; his prices are astronomical; his work is priceless.
 
@@ -4825,19 +4922,19 @@ Elected Master of the Artisan Guild in 1180 CR after his predecessor died withou
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Hidden Artifact:** Created a crown that enhances magical ability tenfold—too powerful to exist. Hidden in a location he's told no one. Not even he can reach it alone.
+1. **The Hidden Artifact:** Created a crown that enhances magical ability tenfold. Too powerful to exist. Hidden in a location he's told no one. Not even he can reach it alone.
 2. **The Aethorian Connection:** Still corresponds with artists in Aethermere. Has secretly smuggled techniques across the Sundering Sea despite trade restrictions.
-3. **The Guild Corruption:** Some guild members are selling inferior work under guild seals. He knows but hasn't acted—they're relatives of powerful patrons.
-4. **The Pre-Worldrend Design:** Found ancient artifact designs in his research. One matches something that shouldn't exist—a weapon that could shatter continents.
+3. **The Guild Corruption:** Some guild members are selling inferior work under guild seals. He knows but hasn't acted: they're relatives of powerful patrons.
+4. **The Pre-Worldrend Design:** Found ancient artifact designs in his research. One matches something that shouldn't exist, a weapon that could shatter continents.
 5. **The Failing Eyes:** His vision is deteriorating. He has perhaps five more years of detailed work left. He's told no one.
 }}
 
 #### Plot Hooks
-1. **The Artifact Recovery:** Finally ready to retrieve his hidden crown. Needs trusted help to reach it—the location is dangerous.
+1. **The Artifact Recovery:** Finally ready to retrieve his hidden crown. Needs trusted help to reach it: the location is dangerous.
 2. **The Guild Investigation:** Ready to clean house but needs outside investigators the corrupt members won't recognize.
 3. **The Commission of a Lifetime:** Will create a masterwork for free if someone retrieves specific rare materials from pre-Worldrend ruins.
 4. **The Design Mystery:** Wants someone to investigate whether the dangerous design was ever built.
-5. **The Successor Search:** Looking for an apprentice worthy of inheriting his secrets—and his burden.
+5. **The Successor Search:** Looking for an apprentice worthy of inheriting his secrets, and his burden.
 
 ---
 
@@ -4883,11 +4980,11 @@ Fair, tough, intelligent. Commands City Watch with skill. Solved multiple high-p
 **Secret:** Her father was a Syndicate member. She turned him in. He died in prison. She's never forgiven herself but stands by the decision.
 
 #### Background & History
-Born in Silverpine's lower district to a mixed-race family—human mother, elven father. Her father Marcus worked for the Shadow Syndicate as a fence, providing the family a comfortable but morally compromised living.
+Born in Silverpine's lower district to a mixed-race family, human mother, elven father. Her father Marcus worked for the Shadow Syndicate as a fence, providing the family a comfortable but morally compromised living.
 
-Lyra joined the City Watch at 20, believing she could do good from within the system. Rose quickly through the ranks, her mixed heritage giving her unique perspective on both human and elven concerns. At 32, she uncovered a smuggling ring—and discovered her father at its center.
+Lyra joined the City Watch at 20, believing she could do good from within the system. Rose quickly through the ranks, her mixed heritage giving her unique perspective on both human and elven concerns. At 32, she uncovered a smuggling ring, and discovered her father at its center.
 
-She arrested him personally. He died of fever in prison two years later, never speaking to her again. Her mother hasn't forgiven her either. But the arrest—and her willingness to sacrifice family for duty—made her legend. Promoted to Captain at 40, she now commands the City Watch with the same unbending commitment to law that cost her everything.
+She arrested him personally. He died of fever in prison two years later, never speaking to her again. Her mother hasn't forgiven her either. But the arrest, and her willingness to sacrifice family for duty, made her legend. Promoted to Captain at 40, she now commands the City Watch with the same unbending commitment to law that cost her everything.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -4902,7 +4999,7 @@ She arrested him personally. He died of fever in prison two years later, never s
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Father's Legacy:** Found her father's hidden records after his death. The Syndicate doesn't know she has them—details of operations, contacts, safehouses.
+1. **The Father's Legacy:** Found her father's hidden records after his death. The Syndicate doesn't know she has them, details of operations, contacts, safehouses.
 2. **The Mother's Blame:** Her mother still lives in Silverpine. They haven't spoken in 15 years. Lyra watches over her secretly.
 3. **The Syndicate Offer:** They've offered to leave her alone if she returns the records. She's refused. They're getting desperate.
 4. **The Corrupt Officer:** One of her lieutenants is on the Syndicate payroll. She knows who but is gathering evidence for a clean prosecution.
@@ -4960,12 +5057,12 @@ ___
 
 #### Personality
 & Background
-Mysterious information broker. Runs upscale tavern where secrets are traded. Never takes sides. Sells information to anyone who can pay. Neutral arbiter of underworld. Even Syndicate respects her neutrality. Face changes slightly every time you see her—glamour magic.
+Mysterious information broker. Runs upscale tavern where secrets are traded. Never takes sides. Sells information to anyone who can pay. Neutral arbiter of underworld. Even Syndicate respects her neutrality. Face changes slightly every time you see her: glamour magic.
 
-**Secret:** Is actually ancient demon who found loophole in her binding. Stuck on Material Plane. Gathering information to find way home. Not evil—just wants freedom.
+**Secret:** Is actually ancient demon who found loophole in her binding. Stuck on Material Plane. Gathering information to find way home. Not evil, just wants freedom.
 
 #### Background & History
-The being called "Celeste" was bound to the Material Plane seven hundred years ago by a wizard seeking a servant. When the wizard died, she discovered a loophole—the binding required service to "the wizard's line." His last descendant died childless. She was free to act, but not to leave.
+The being called "Celeste" was bound to the Material Plane seven hundred years ago by a wizard seeking a servant. When the wizard died, she discovered a loophole, the binding required service to "the wizard's line." His last descendant died childless. She was free to act, but not to leave.
 
 Took mortal form and built a new existence. Discovered that information was more valuable than any demonic power. Established the Silver Ear as a neutral ground where secrets could be traded. Her supernatural nature helps her detect lies, read emotions, and remember everything.
 
@@ -4988,12 +5085,12 @@ She's spent centuries seeking a way home. The answer might lie in understanding 
 2. **The Loophole's Limit:** Can act freely but cannot directly harm mortals without cause. The binding's protection still restricts her.
 3. **The Church Hunter:** An Inquisitor suspects her nature. She's been feeding him false leads for decades, but he's getting close.
 4. **The Real Goal:** Doesn't care about Material Plane politics. Only wants to go home. Everything else is means to that end.
-5. **The Worldrend Connection:** Believes the Worldrend weakened her planar prison. A second Worldrend might free her—or destroy her.
+5. **The Worldrend Connection:** Believes the Worldrend weakened her planar prison. A second Worldrend might free her, or destroy her.
 }}
 
 #### Plot Hooks
 1. **The Information Trade:** Knows almost everything about Silverpine. Will share for services that advance her goals.
-2. **The Inquisitor Problem:** The hunter is getting too close. Needs help misdirecting him—permanently.
+2. **The Inquisitor Problem:** The hunter is getting too close. Needs help misdirecting him. Permanently.
 3. **The Planar Research:** Needs someone to investigate a site related to the Worldrend. Paying extremely well.
 4. **The Bound Sibling:** Her allied entity is in danger. Needs rescue from someone who doesn't know what they're saving.
 5. **The Honest Deal:** Will reveal everything she knows about a topic if someone can find information about escaping planar bindings.
@@ -5034,7 +5131,7 @@ ___
 #### Background & History
 Born in Goldreach's dock district to a sailmaker and a tavern cook. Started working the docks at 10, loading cargo. By 20, knew every ship in the harbor by silhouette. Joined the Harbormaster's office at 25 as a junior clerk.
 
-Rose through the ranks over three decades through competence and carefully maintained neutrality. Became Harbormaster at 45 when his predecessor died in a "warehouse accident" (Syndicate punishment for being too strict). Tobias learned from that example—not to be corrupt, but to be flexible.
+Rose through the ranks over three decades through competence and carefully maintained neutrality. Became Harbormaster at 45 when his predecessor died in a "warehouse accident" (Syndicate punishment for being too strict). Tobias learned from that example, not to be corrupt, but to be flexible.
 
 His compromise: accept bribes from smugglers dealing in victimless goods (exotic spices, rare materials, luxury items). Refuse anything involving weapons, drugs, or people. Use the bribe money to fund the orphanage where he grew up. It's morally gray, but the orphanage has saved hundreds of children who'd otherwise have died or joined the Syndicate themselves.
 
@@ -5051,11 +5148,11 @@ His compromise: accept bribes from smugglers dealing in victimless goods (exotic
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Bribery System:** Has carefully constructed rules for which bribes he accepts. Anything harmful is refused—and reported to the Watch.
+1. **The Bribery System:** Has carefully constructed rules for which bribes he accepts. Anything harmful is refused, and reported to the Watch.
 2. **The Leverage:** Keeps records of every smuggler he's helped. If he goes down, so do they. Mutual assured destruction.
 3. **The Real Enemy:** Knows the Syndicate murdered his predecessor. Has been quietly gathering evidence for years.
 4. **The Orphan's Debt:** Grew up in the orphanage he now funds. Sister Mercy saved his life. He'll do anything to protect that place.
-5. **The Big Shipment:** A very large illegal cargo is coming through soon—weapons for someone. He can't stop it without exposing himself. Needs help.
+5. **The Big Shipment:** A very large illegal cargo is coming through soon: weapons for someone. He can't stop it without exposing himself. Needs help.
 }}
 
 #### Plot Hooks
@@ -5103,9 +5200,9 @@ ___
 #### Background & History
 Born in Crystalbrook to a family of lake pilots. Her great-grandfather helped establish the lake patrol when the Crystalbrook Compact formed. She was practically raised on boats, learning navigation before she could read.
 
-Married young to another patrol officer, Darian. They served together on the same ship, the perfect partnership. Then pirates from the Fractured Coast raided their patrol—rare but devastating. Darian died holding the deck so the crew could escape.
+Married young to another patrol officer, Darian. They served together on the same ship, the perfect partnership. Then pirates from the Fractured Coast raided their patrol. Rare but devastating. Darian died holding the deck so the crew could escape.
 
-Mira took command of the survivors, hunted the pirates for three months, and sank their ship personally. That pursuit made her legend and earned her the captaincy. Now commands the entire lake patrol fleet—a dozen ships protecting trade across the Crystalvale. Every pirate captured feels like justice for Darian.
+Mira took command of the survivors, hunted the pirates for three months, and sank their ship personally. That pursuit made her legend and earned her the captaincy. Now commands the entire lake patrol fleet: a dozen ships protecting trade across the Crystalvale. Every pirate captured feels like justice for Darian.
 \column
 
 #### Connections
@@ -5123,8 +5220,8 @@ Mira took command of the survivors, hunted the pirates for three months, and san
 #### Secrets (DM Only)
 1. **The Personal Vendetta:** The pirate captain who killed her husband escaped. He's still out there. She's been hunting him for 20 years.
 2. **The Letter:** Darian left a letter she's never opened. Carries it everywhere. Can't bring herself to read his last words.
-3. **The Offer:** The pirate who escaped offered to surrender—if she let his crew go free. She refused. Sometimes she wonders if she was wrong.
-4. **The New Threat:** Something is stirring in the deep lakes. Ships disappearing without wreckage. Not pirates—something worse.
+3. **The Offer:** The pirate who escaped offered to surrender, if she let his crew go free. She refused. Sometimes she wonders if she was wrong.
+4. **The New Threat:** Something is stirring in the deep lakes. Ships disappearing without wreckage. Not pirates, something worse.
 5. **The Forbidden Zone:** Knows the location of a sunken pre-Worldrend city beneath the lake. Officially it doesn't exist. She's seen its lights.
 }}
 
@@ -5133,7 +5230,7 @@ Mira took command of the survivors, hunted the pirates for three months, and san
 2. **The Lake Mystery:** Ships vanishing. Needs investigators who can travel where her fleet can't.
 3. **The Sunken City:** Ready to explore the forbidden ruins. Needs divers and adventurers.
 4. **The Letter's Secret:** Discovered Darian's letter contains coordinates. Needs help reaching what he was protecting.
-5. **The Pirate Negotiation:** The pirate captain wants to surrender—but claims to have information worth her forgiveness.
+5. **The Pirate Negotiation:** The pirate captain wants to surrender, but claims to have information worth her forgiveness.
 
 ---
 
@@ -5175,9 +5272,9 @@ ___
 #### Background & History
 The being calling himself Cornelius Goldpurse was born a nameless halfling slave in a Sundaran merchant's household sixty years ago. Beaten, starved, and treated as property, he learned two things: how wealth worked, and how to hate.
 
-When his master died (of "natural causes" involving a very natural poisoned wine glass), the slave stole his identity papers, his emergency fund, and his ship. Fled to Goldreach where no one knew the real Cornelius. Built an empire from nothing using skills learned watching his master—and a ruthlessness born from suffering.
+When his master died (of "natural causes" involving a very natural poisoned wine glass), the slave stole his identity papers, his emergency fund, and his ship. Fled to Goldreach where no one knew the real Cornelius. Built an empire from nothing using skills learned watching his master, and a ruthlessness born from suffering.
 
-Now he's one of the wealthiest merchants in Thaldros. Controls shipping routes, warehouses, and a network of legitimate and less-legitimate businesses. Uses his fortune to secretly fund abolition efforts in Sundara while publicly maintaining a mask of amoral capitalism. The contradiction is intentional—the world expects evil from the wealthy, so he gives them evil while doing good in shadow.
+Now he's one of the wealthiest merchants in Thaldros. Controls shipping routes, warehouses, and a network of legitimate and less-legitimate businesses. Uses his fortune to secretly fund abolition efforts in Sundara while publicly maintaining a mask of amoral capitalism. The contradiction is intentional, the world expects evil from the wealthy, so he gives them evil while doing good in shadow.
 
 #### Connections
 - **Business Network:** Dozens of merchant houses depend on his trade routes
@@ -5194,7 +5291,7 @@ Now he's one of the wealthiest merchants in Thaldros. Controls shipping routes, 
 #### Secrets (DM Only)
 1. **The Original Cornelius:** Murdered his master. The body is buried under his first warehouse. He visits it annually.
 2. **The Abolition Network:** Spends a fortune smuggling slaves to freedom. No one suspects the "evil" merchant lord.
-3. **The Blackmail Files:** Has dirt on half the nobility. Uses it to protect his interests—and his causes.
+3. **The Blackmail Files:** Has dirt on half the nobility. Uses it to protect his interests, and his causes.
 4. **The Real Ledgers:** Maintains two sets of books. The public ones show ruthless capitalism. The private ones show massive charitable spending.
 5. **The Wife's Price:** His wife demanded one thing for her silence: he must never stop helping slaves escape. He hasn't.
 }}
@@ -5246,13 +5343,13 @@ Born in a fishing village on the Goldcoast, the son of a fisherman who drowned i
 
 Called to Sylvara's service at 18 after surviving a shipwreck that killed everyone else. Walked out of the surf untouched while bodies washed up around him. Knew the goddess had plans for him. Trained at the temple in Goldreach, quickly showing unprecedented talent for Tempest magic.
 
-Now serves as high priest of Sylvara's temple in Goldreach Harbor. Blesses ships, comforts widows, and—when storms threaten—stands at the harbor entrance and bargains with the weather itself. Sailors consider him a living saint. He considers himself a servant doing his job.
+Now serves as high priest of Sylvara's temple in Goldreach Harbor. Blesses ships, comforts widows, and, when storms threaten, stands at the harbor entrance and bargains with the weather itself. Sailors consider him a living saint. He considers himself a servant doing his job.
 
 #### Connections
 - **Congregation:** Thousands of sailors, fishermen, and their families
 - **Temple Staff:** Twelve lesser priests and acolytes
 - **Ally:** Harbor Master Tobias Saltwind (mutual respect)
-- **Rival:** The Temple of Talos (evil storm god—theological enemy)
+- **Rival:** The Temple of Talos (evil storm god: theological enemy)
 - **Contact:** The merfolk community who sometimes surfaces near Goldreach
 
 {{pageNumber,auto}}
@@ -5264,13 +5361,13 @@ Now serves as high priest of Sylvara's temple in Goldreach Harbor. Blesses ships
 1. **The Weather Gift:** Can control weather in a small area through divine power. Does this secretly during storms to protect ships. Sylvara permits this but asks a price.
 2. **The Price of Storms:** Each time he calms a storm, somewhere else faces worse weather. He chooses where. Usually uninhabited areas. Usually.
 3. **The Merfolk Treaty:** Has negotiated unofficial peace with the local merfolk. They warn him of coming storms. In return, he ensures no fishermen take more than sustainable catches.
-4. **The Storm That's Coming:** Has had visions of a hurricane unlike anything in memory. It's coming within the year. He's preparing—but can't save everyone.
+4. **The Storm That's Coming:** Has had visions of a hurricane unlike anything in memory. It's coming within the year. He's preparing, but can't save everyone.
 5. **The Survivor's Guilt:** Still dreams of the shipwreck survivors who didn't walk out of the surf. Wonders why he was chosen and they weren't.
 }}
 
 #### Plot Hooks
 1. **The Coming Storm:** Needs help preparing Goldreach for the catastrophic hurricane he's foreseen.
-2. **The Merfolk Crisis:** Something threatens the merfolk. They've asked him for help—and for the first time, he can't provide it alone.
+2. **The Merfolk Crisis:** Something threatens the merfolk. They've asked him for help, and for the first time, he can't provide it alone.
 3. **The Weather Balance:** A storm he redirected destroyed a village he thought was empty. It wasn't. He needs to help without revealing his power.
 4. **The Talos Cult:** A cult of the evil storm god is trying to summon the hurricane early. Needs them stopped.
 5. **The Sacred Mission:** Sylvara demands he travel to a distant shrine and perform a ritual. Needs protection for the journey.
@@ -5317,11 +5414,11 @@ ___
 }}
 
 #### Background & History
-Born to a servant in the Goldshore household who caught Merchant Prince Davos's eye. Her mother was paid off and sent away when the pregnancy showed. Verena grew up in poverty knowing her father was one of the wealthiest men in Thaldros—and that he'd thrown her away.
+Born to a servant in the Goldshore household who caught Merchant Prince Davos's eye. Her mother was paid off and sent away when the pregnancy showed. Verena grew up in poverty knowing her father was one of the wealthiest men in Thaldros, and that he'd thrown her away.
 
 Trained herself in the arts of death, starting with the man who abused her mother in their exile. Killed him at 16. Found she had talent. Joined the Shadow Syndicate at 18, rising quickly through their assassin ranks. By 25, she was their most reliable contractor.
 
-Now operates independently, taking contracts from anyone who meets her standards. Her code is absolute: no innocents, no children, and no one who doesn't deserve it by her judgment. The irony isn't lost on her that Davos Goldshore is one of her regular clients—hiring his own daughter to eliminate rivals. She's waiting for the right moment to reveal herself. Or kill him. She hasn't decided.
+Now operates independently, taking contracts from anyone who meets her standards. Her code is absolute: no innocents, no children, and no one who doesn't deserve it by her judgment. The irony isn't lost on her that Davos Goldshore is one of her regular clients, hiring his own daughter to eliminate rivals. She's waiting for the right moment to reveal herself. Or kill him. She hasn't decided.
 
 #### Connections
 - **Former Employer:** Shadow Syndicate (left on good terms, still takes referrals)
@@ -5337,18 +5434,18 @@ Now operates independently, taking contracts from anyone who meets her standards
 {{descriptive
 #### Secrets (DM Only)
 1. **The Father Connection:** Knows exactly who her father is. Has killed for him a dozen times. Each contract is simultaneously revenge and audition.
-2. **The Mother's Location:** Sends money anonymously. Her mother doesn't know she's an assassin—thinks she married well.
+2. **The Mother's Location:** Sends money anonymously. Her mother doesn't know she's an assassin, thinks she married well.
 3. **The Goldshore Files:** Has compiled extensive information about her father's criminal activities. Could destroy him. Might save it for leverage instead.
-4. **The One Who Got Away:** Failed to kill one target—a child who was supposed to be with the mark. Let the child go. The child is now adult and hunting her.
+4. **The One Who Got Away:** Failed to kill one target, a child who was supposed to be with the mark. Let the child go. The child is now adult and hunting her.
 5. **The Retirement Plan:** Accumulating wealth to disappear completely. Or to reveal herself to her father and take everything. Still deciding.
 }}
 
 #### Plot Hooks
 1. **The Contract Offer:** Will take contracts that meet her code. Pays well for leads on deserving targets.
-2. **The Goldshore Revelation:** Ready to confront her father—but needs witnesses who can protect her afterward.
+2. **The Goldshore Revelation:** Ready to confront her father, but needs witnesses who can protect her afterward.
 3. **The Survivor's Revenge:** The child she spared is hunting her. Needs help determining if they're a threat or an opportunity.
 4. **The Family Business:** Discovered something terrible about the Goldshore empire. Might hire outsiders to investigate.
-5. **The Professional Courtesy:** Will share assassination-relevant intelligence—dead drops, poison sources, escape routes—in exchange for favors.
+5. **The Professional Courtesy:** Will share assassination-relevant intelligence (dead drops, poison sources, escape routes) in exchange for favors.
 
 
 {{pageNumber,auto}}
@@ -5391,7 +5488,7 @@ Third generation Crossvale politician. His grandfather helped establish the city
 
 Studied law and commerce in Silverpine, returned to Crossvale with ambitious reform ideas, and promptly discovered that politics moves slower than he'd hoped. Elected to the Council at 30, became Burgher-Master at 45 after a campaign built on promises of infrastructure improvement.
 
-Discovered upon taking office that the Council was more interested in maintaining the status quo than building anything new. So he started skimming small amounts from tariffs—never enough to notice, always enough to fund essential projects. New wells, road repairs, granary expansions. Everything the city needs but won't pay for.
+Discovered upon taking office that the Council was more interested in maintaining the status quo than building anything new. So he started skimming small amounts from tariffs, never enough to notice, always enough to fund essential projects. New wells, road repairs, granary expansions. Everything the city needs but won't pay for.
 
 #### Connections
 - **Commands:** City Council (15 members, various factions)
@@ -5407,14 +5504,14 @@ Discovered upon taking office that the Council was more interested in maintainin
 {{descriptive
 #### Secrets (DM Only)
 1. **The Embezzlement:** Skims about 2% of tariff revenue. Has funded 23 infrastructure projects in 11 years. Justified but illegal.
-2. **The Blackwood Councilman:** Knows Councilman Aldric is actually from a minor branch of House Blackwood—distant cousins who changed their name generations before the main family's fall. His bloodline was never directly targeted, but the association would still destroy his political career. Wilhelm protects his secret in exchange for votes.
+2. **The Blackwood Councilman:** Knows Councilman Aldric is actually from a minor branch of House Blackwood, distant cousins who changed their name generations before the main family's fall. His bloodline was never directly targeted, but the association would still destroy his political career. Wilhelm protects his secret in exchange for votes.
 3. **The Merchant League Pressure:** The League wants Crossvale to impose tariffs favoring their members. He's resisted. They're getting insistent.
 4. **The Syndicate Problem:** Shadow Syndicate uses Crossvale as a hub. He's looked the other way because they keep worse criminals out. Now he's not sure that was wise.
 5. **The Succession Crisis:** His sons are incompetent. His daughter is brilliant but women can't hold office in Crossvale. He's trying to change that law before he dies.
 }}
 
 #### Plot Hooks
-1. **The Audit Problem:** Someone is investigating city finances. Needs help hiding the evidence—or deciding to come clean.
+1. **The Audit Problem:** Someone is investigating city finances. Needs help hiding the evidence, or deciding to come clean.
 2. **The Blackwood Secret:** Councilman Aldric is being blackmailed by someone else. Wilhelm needs help without exposing either of them.
 3. **The League Negotiation:** Needs intermediaries to negotiate with the Merchant League without appearing weak.
 4. **The Succession Reform:** Trying to change Crossvale law. Needs public support and possibly embarrassing information about opponents.
@@ -5468,7 +5565,7 @@ Her warehouse is legendary: nothing is lost, nothing is wasted, everything is ac
 - **Employer:** Merchant League (regional director)
 - **Staff:** 40 warehouse workers, all personally vetted
 - **Clients:** Every merchant who moves goods through Crossvale
-- **Informant:** Knows which goods move where—useful for predicting markets and exposing smugglers
+- **Informant:** Knows which goods move where. Useful for predicting markets and exposing smugglers
 - **Family:** Distant cousin of the Forgefire clan (the forge masters of Kaer Thandros)
 
 {{pageNumber,auto}}
@@ -5478,14 +5575,14 @@ Her warehouse is legendary: nothing is lost, nothing is wasted, everything is ac
 {{descriptive
 #### Secrets (DM Only)
 1. **The Photographic Memory:** Remembers every transaction, every shipment, every face. Has never written down the truly sensitive information.
-2. **The Smuggling Blind Eye:** Knows exactly which crates contain contraband. Looks the other way for a 5% cut—used to fund her retirement.
+2. **The Smuggling Blind Eye:** Knows exactly which crates contain contraband. Looks the other way for a 5% cut. Used to fund her retirement.
 3. **The Missing Shipment:** One cargo disappeared 30 years ago. She knows who took it. She's waiting for the right moment to collect.
 4. **The League's Secrets:** Has figured out the League's long-term strategy from shipping patterns. They're positioning for something big.
 5. **The Emergency Cache:** Has hidden supplies throughout Crossvale for emergencies. If the city ever falls under siege, she's prepared.
 }}
 
 #### Plot Hooks
-1. **The Special Order:** Can acquire almost anything—for the right price and the right reasons.
+1. **The Special Order:** Can acquire almost anything, for the right price and the right reasons.
 2. **The Missing Cargo:** Willing to share information about the 30-year-old theft in exchange for help recovering it.
 3. **The Market Intelligence:** Will trade shipping pattern analysis for services rendered.
 4. **The League Investigation:** Suspects her superiors are planning something harmful. Needs discrete investigators.
@@ -5531,7 +5628,7 @@ ___
 #### Background & History
 Born to the Al-Rashid clan of the Sundaran Expanse, one of the oldest caravan families. His great-great-grandfather established the trade route connecting Sundara to Crossvale. Hassan has walked it so many times he knows every rock, every oasis, every danger.
 
-Took over the family caravan at 35 after his father retired. Expanded operations to include the dangerous eastern route through the Ashfall Barrens. His caravans are legendary for arriving on time, intact, and profitable—achievements that seem impossible in the desert trade.
+Took over the family caravan at 35 after his father retired. Expanded operations to include the dangerous eastern route through the Ashfall Barrens. His caravans are legendary for arriving on time, intact, and profitable. Achievements that seem impossible in the desert trade.
 
 Three years ago, his scouts found an unmarked tomb in the deep desert. Against his better judgment, he explored it. Took a golden scarab that called to him. Didn't realize until later it was slowly killing him. Now he runs each caravan like it might be his last, searching for someone who can break the curse before it's too late.
 
@@ -5540,7 +5637,7 @@ Three years ago, his scouts found an unmarked tomb in the deep desert. Against h
 - **Routes:** Controls primary Sundara-Crossvale and Sundara-Ashgate routes
 - **Patron:** Sultan Rashid Ashborne (shares family name, distant relation)
 - **Rival:** Merchant League caravans (competition for lucrative contracts)
-- **Secret Contact:** A desert hermit who knew about the tomb—might know about the curse
+- **Secret Contact:** A desert hermit who knew about the tomb, might know about the curse
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -5548,11 +5645,11 @@ Three years ago, his scouts found an unmarked tomb in the deep desert. Against h
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Cursed Scarab:** The artifact drains his life force. He has perhaps two years left. Wears it against his heart—can't bring himself to throw it away.
+1. **The Cursed Scarab:** The artifact drains his life force. He has perhaps two years left. Wears it against his heart, can't bring himself to throw it away.
 2. **The Tomb Location:** Knows where the tomb is. Hasn't told anyone. Whatever else is down there might be worse than the scarab.
 3. **The Hermit's Warning:** A desert sage warned him not to take anything. He didn't listen. The sage might know how to undo the curse.
 4. **The Family Secret:** His grandfather was a Blackwood loyalist who fled south after the rebellion. The Al-Rashid identity is adopted.
-5. **The Final Route:** Has planned one last grand expedition—across the Sundering Sea to Aethoria. Wants to see the eastern continent before he dies.
+5. **The Final Route:** Has planned one last grand expedition. Across the Sundering Sea to Aethoria. Wants to see the eastern continent before he dies.
 }}
 
 #### Plot Hooks
@@ -5560,7 +5657,7 @@ Three years ago, his scouts found an unmarked tomb in the deep desert. Against h
 2. **The Desert Caravan:** Needs guards for a dangerous crossing. Pays extremely well because it might be his last.
 3. **The Return Expedition:** Ready to go back to the tomb—needs help dealing with whatever he awakened.
 4. **The Eastern Dream:** Looking for a ship captain willing to take him to Aethoria. Will pay any price.
-5. **The Hermit Hunt:** Needs help finding the desert sage who warned him—might be the key to survival.
+5. **The Hermit Hunt:** Needs help finding the desert sage who warned him, might be the key to survival.
 
 ---
 
@@ -5600,9 +5697,9 @@ ___
 #### Background & History
 Born in Crossvale to a blacksmith and a seamstress. His older brother Marcus was always the clever one; Gregor was the strong one. They were close as children, drifted apart as adults when Marcus "went into business" and Gregor joined the City Watch.
 
-Rose through the ranks through competence and stubborn honesty. Can't be bribed—not because he's rich, but because he genuinely believes in the law. Made Watch Captain at 38 after his predecessor was murdered by the Shadow Syndicate. Gregor swore to clean up Crossvale. He's been trying ever since.
+Rose through the ranks through competence and stubborn honesty. Can't be bribed, not because he's rich, but because he genuinely believes in the law. Made Watch Captain at 38 after his predecessor was murdered by the Shadow Syndicate. Gregor swore to clean up Crossvale. He's been trying ever since.
 
-Doesn't know his brother Marcus is "The Iron Hand"—a Syndicate enforcer who handles their most violent problems. The brothers haven't spoken in years. If Gregor ever discovered the truth, it would break him. And he'd still make the arrest.
+Doesn't know his brother Marcus is "The Iron Hand", a Syndicate enforcer who handles their most violent problems. The brothers haven't spoken in years. If Gregor ever discovered the truth, it would break him. And he'd still make the arrest.
 
 #### Connections
 - **Commands:** 80 City Watch officers in Crossvale
@@ -5617,17 +5714,17 @@ Doesn't know his brother Marcus is "The Iron Hand"—a Syndicate enforcer who ha
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Brother's Identity:** Doesn't know—yet. Multiple investigations have come close to revealing the truth.
+1. **The Brother's Identity:** Doesn't know, yet. Multiple investigations have come close to revealing the truth.
 2. **The Predecessor's Murder:** Knows the Syndicate killed his predecessor. Can't prove it. Obsessed with finding evidence.
-3. **The Incorruptible's Price:** Has been offered everything—gold, women, power. Turned it all down. Syndicate now considers him a problem.
+3. **The Incorruptible's Price:** Has been offered everything. Gold, women, power. Turned it all down. Syndicate now considers him a problem.
 4. **The Personal Crusade:** Works 16-hour days hunting the Syndicate. His wife left him. He barely noticed.
-5. **The Near Miss:** Once arrested his brother during a random sweep. Marcus talked his way out. Gregor doesn't remember his face—it was dark and crowded.
+5. **The Near Miss:** Once arrested his brother during a random sweep. Marcus talked his way out. Gregor doesn't remember his face. It was dark and crowded.
 }}
 
 #### Plot Hooks
 1. **The Syndicate Investigation:** Hiring discrete help to investigate Syndicate operations.
-2. **The Brother's Trail:** Evidence pointing to "The Iron Hand." Needs help following it—doesn't know where it leads.
-3. **The Assassination Attempt:** Syndicate might try to kill him. Needs protection—or bait for a trap.
+2. **The Brother's Trail:** Evidence pointing to "The Iron Hand." Needs help following it, doesn't know where it leads.
+3. **The Assassination Attempt:** Syndicate might try to kill him. Needs protection, or bait for a trap.
 4. **The Former Partner:** His old patrol partner went corrupt. Needs help bringing him in quietly.
 5. **The Family Reunion:** His mother is dying. Wants to reunite the brothers. Might expose everything.
 
@@ -5672,7 +5769,7 @@ Born "Silas Greenfingers" in the poorest district of Crossvale. Orphaned at 8, s
 
 Rose through the ranks by being smart, careful, and absolutely reliable. Started as a runner, became a fence, then a regional coordinator. Now serves on the Syndicate's inner council—one of Master Crimson's most trusted lieutenants. His fence operation is legitimate cover for his real work: managing Syndicate operations throughout central Thaldros.
 
-The irony of providing information to Captain Lyra Swiftwind isn't lost on him. He feeds her enough real intelligence to maintain his cover while protecting Syndicate interests. It's a dangerous game—if either side discovers the full truth, he's dead.
+The irony of providing information to Captain Lyra Swiftwind isn't lost on him. He feeds her enough real intelligence to maintain his cover while protecting Syndicate interests. It's a dangerous game, if either side discovers the full truth, he's dead.
 
 #### Connections
 - **Superior:** Master Crimson (Syndicate leader)
@@ -5687,7 +5784,7 @@ The irony of providing information to Captain Lyra Swiftwind isn't lost on him. 
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The True Role:** Not just a fence—senior Syndicate leader managing a regional network.
+1. **The True Role:** Not just a fence, senior Syndicate leader managing a regional network.
 2. **The Double Game:** Feeds real intelligence to Captain Lyra, but carefully chosen to protect Syndicate priorities.
 3. **The Loyalty Question:** Has worked for the Syndicate 40 years. Starting to question whether it's all worth it.
 4. **The Escape Plan:** Has accumulated enough wealth to disappear forever. Keeps emergency identities ready.
@@ -5695,7 +5792,7 @@ The irony of providing information to Captain Lyra Swiftwind isn't lost on him. 
 }}
 
 #### Plot Hooks
-1. **The Information Broker:** Will sell information to adventurers—if they're useful to Syndicate interests.
+1. **The Information Broker:** Will sell information to adventurers, if they're useful to Syndicate interests.
 2. **The Double Agent Opportunity:** Might be turned if convinced his escape plan could actually work.
 3. **The Old Crime:** Wants to make amends for the innocent death. Will help—for a price that includes discretion.
 4. **The Internal Conflict:** Rival lieutenant is causing problems. Might hire outsiders to resolve it "cleanly."
@@ -5735,11 +5832,11 @@ ___
 }}
 
 #### Background & History
-Born in Frostholm to a family that has guarded the northern border for generations. His grandfather fought frost giants. His father negotiated with them. Kael learned to do both—fight when necessary, talk when possible.
+Born in Frostholm to a family that has guarded the northern border for generations. His grandfather fought frost giants. His father negotiated with them. Kael learned to do both. Fight when necessary, talk when possible.
 
 Assigned to Ironhold's northern garrison at 20, rose to command by 35. During a brutal winter campaign that killed hundreds, he was captured by frost giants. Instead of executing him, their king wanted to talk. That conversation changed everything.
 
-Kael realized the giants weren't invading—they were desperate. Their hunting grounds were dying. They raided because they were starving. He negotiated a secret agreement: controlled hunting rights in exchange for peace. The raids stopped. His superiors think he's a tactical genius. The truth would end his career.
+Kael realized the giants weren't invading. They were desperate. Their hunting grounds were dying. They raided because they were starving. He negotiated a secret agreement: controlled hunting rights in exchange for peace. The raids stopped. His superiors think he's a tactical genius. The truth would end his career.
 
 #### Connections
 - **Commands:** Northern Garrison (500 soldiers)
@@ -5808,7 +5905,7 @@ Born in Iceridge to a mining family. Joined the army to escape the mines, discov
 
 Her first command was a disaster. Led a squad of eight into what should have been a routine patrol. Giant ambush in a narrow pass. She was the only survivor, dragging herself back through the snow with three broken ribs and a shattered leg. The healers saved her body. Nothing saved her mind.
 
-Now she trains like she's possessed—because she is. Every morning starts before dawn. Every night ends with weapons practice. She's made herself into the perfect soldier because she refuses to be the reason anyone else dies. Her troops respect her but worry about her. The nightmares never stopped.
+Now she trains like she's possessed, because she is. Every morning starts before dawn. Every night ends with weapons practice. She's made herself into the perfect soldier because she refuses to be the reason anyone else dies. Her troops respect her but worry about her. The nightmares never stopped.
 
 #### Connections
 - **Commands:** Elite Scout Squad (12 soldiers, all volunteers)
@@ -5824,18 +5921,18 @@ Now she trains like she's possessed—because she is. Every morning starts befor
 {{descriptive
 #### Secrets (DM Only)
 1. **The Survivor's Guilt:** Relives the ambush every night. Has considered taking her own life. Training is what keeps her alive.
-2. **The Reckless Courage:** Takes the most dangerous assignments hoping to prove herself—or die trying.
+2. **The Reckless Courage:** Takes the most dangerous assignments hoping to prove herself, or die trying.
 3. **The Memory Gap:** Doesn't remember how she escaped the ambush. Just woke up in the snow, walking. Sometimes wonders if she really survived.
 4. **The Hidden Injury:** Old wounds never healed right. She's in constant pain. Hides it because she'd be removed from field duty.
 5. **The Suspicious Pattern:** Giants knew exactly where her patrol would be. Suspects someone betrayed them. Has never stopped looking.
 }}
 
 #### Plot Hooks
-1. **The Dangerous Mission:** Volunteers for suicide missions. Might need help—or saving from herself.
+1. **The Dangerous Mission:** Volunteers for suicide missions. Might need help, or saving from herself.
 2. **The Ambush Investigation:** Finally has a lead on who betrayed her squad. Needs help following it.
 3. **The Memory Recovery:** A dream-shaman might be able to restore her missing memories. Needs escort to find one.
 4. **The Pain Management:** Heard about a healer who might fix her old injuries. Too proud to go alone.
-5. **The Squad Protection:** Her current troops are in danger. Would do anything to save them—including asking for help.
+5. **The Squad Protection:** Her current troops are in danger. Would do anything to save them, including asking for help.
 
 ---
 
@@ -5877,7 +5974,7 @@ ___
 #### Background & History
 Born to a halfling trading family that traveled between Crossvale and the Ironspine settlements. Grew up on the road, learning to read trails before he could read books. His small size and light feet made him perfect for scouting dangerous territory.
 
-Enlisted in the Ironhold scouts at 25—unusual for a halfling. Faced prejudice but proved himself by surviving missions that killed larger soldiers. His ability to move unseen through giant territory saved dozens of lives. Promoted to Scout Captain at 40.
+Enlisted in the Ironhold scouts at 25, unusual for a halfling. Faced prejudice but proved himself by surviving missions that killed larger soldiers. His ability to move unseen through giant territory saved dozens of lives. Promoted to Scout Captain at 40.
 
 Six months ago, he found something during a routine patrol—tracks that shouldn't exist. Something large, ancient, and moving through areas it never used before. He's been tracking it obsessively since, going on "solo patrols" that take him deeper into dangerous territory. He won't tell anyone what he's hunting because he's not sure they'd believe him.
 
@@ -5902,7 +5999,7 @@ Six months ago, he found something during a routine patrol—tracks that shouldn
 }}
 
 #### Plot Hooks
-1. **The Dragon Hunt:** Finally ready to share what he knows—but needs help for the final approach.
+1. **The Dragon Hunt:** Finally ready to share what he knows, but needs help for the final approach.
 2. **The Intervention:** His scouts want someone to talk sense into him. Or help him finish the hunt safely.
 3. **The Evidence Analysis:** Needs the scales and tooth identified by someone who won't report him.
 4. **The Hermit's Knowledge:** The hermit knows more than he said. Needs help convincing him to talk.
@@ -5948,18 +6045,18 @@ ___
 }}
 
 #### Background & History
-Born in Silverpine to a merchant family, joined the clergy of Sera at 18 seeking purpose. Assigned as military chaplain to the Ironhold garrison at 25—the traditional posting for new priests. Expected to serve a few years and transfer to a comfortable temple position.
+Born in Silverpine to a merchant family, joined the clergy of Sera at 18 seeking purpose. Assigned as military chaplain to the Ironhold garrison at 25, the traditional posting for new priests. Expected to serve a few years and transfer to a comfortable temple position.
 
 That was 15 years ago. He stayed because the soldiers needed him. Held dying men's hands. Performed last rites in snowstorms. Blessed weapons before battles and conducted funerals after. Saw more death in his first year than most priests see in a lifetime.
 
-Somewhere along the way, his faith cracked. He prays the words but feels nothing. Performs the rituals but wonders if anyone listens. He continues because the soldiers need someone to believe in something—and he won't abandon them to despair even as he drowns in his own.
+Somewhere along the way, his faith cracked. He prays the words but feels nothing. Performs the rituals but wonders if anyone listens. He continues because the soldiers need someone to believe in something, and he won't abandon them to despair even as he drowns in his own.
 \column
 #### Connections
 - **Congregation:** The entire Ironhold garrison (500 soldiers)
 - **Superior:** Temple hierarchy in Silverpine (distant, indifferent)
 - **Ally:** Commander Kael Stormwatcher (trusts his counsel)
 - **Confidant:** Sergeant Brenna Iceheart (they understand each other's broken places)
-- **The Crisis:** His faith—or lack thereof
+- **The Crisis:** His faith, or lack thereof
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -5971,15 +6068,15 @@ Somewhere along the way, his faith cracked. He prays the words but feels nothing
 2. **The Death Toll:** Knows exactly how many soldiers he's given last rites to. Dreams their faces.
 3. **The Unanswered Prayer:** Prayed desperately to save a child during a giant raid. The child died. That was when his faith broke.
 4. **The Comfort He Provides:** Still helps soldiers find peace. Wonders if he's lying to them.
-5. **The Question:** Sometimes wishes for an answer—any answer—even if it meant his own death would prove gods exist.
+5. **The Question:** Sometimes wishes for an answer, any answer, even if it meant his own death would prove gods exist.
 }}
 
 #### Plot Hooks
-1. **The Faith Quest:** Needs someone to help him find proof—or closure. Will travel anywhere.
+1. **The Faith Quest:** Needs someone to help him find proof, or closure. Will travel anywhere.
 2. **The Soldier's Souls:** A dying soldier asked him to deliver a message to a god. He needs to find a way to do it.
 3. **The Temple Politics:** Silverpine wants to transfer him. The garrison wants to keep him. Needs allies for the political fight.
 4. **The Last Hope:** Heard about a shrine where prayers are answered. Needs help reaching it.
-5. **The Crisis Shared:** Other soldiers are losing faith too. Needs help restoring morale—even if he doesn't believe himself.
+5. **The Crisis Shared:** Other soldiers are losing faith too. Needs help restoring morale, even if he doesn't believe himself.
 
 ---
 
@@ -6020,15 +6117,15 @@ ___
 #### Background & History
 She doesn't remember her true name anymore—it was taken as part of the binding. Once she was a free spirit of winter, dancing through blizzards and singing with avalanches. Then a desperate human commander made a pact to save his fortress from a giant siege.
 
-The binding chains her to Ironhold's defense. She must protect the fortress and its people. Cannot leave the northern territories. Cannot refuse calls for help. The original pact was for "a hundred winters"—but the commander's descendants keep renewing it through ritual.
+The binding chains her to Ironhold's defense. She must protect the fortress and its people. Cannot leave the northern territories. Cannot refuse calls for help. The original pact was for "a hundred winters", but the commander's descendants keep renewing it through ritual.
 
-She has served for 300 years. Watched generations live and die. Helped them, healed them, killed for them. Hates them. Loves some of them. The contradiction is maddening. She wants to be free—but the current Commander Kael is a good man, and part of her doesn't want to abandon his people.
+She has served for 300 years. Watched generations live and die. Helped them, healed them, killed for them. Hates them. Loves some of them. The contradiction is maddening. She wants to be free, but the current Commander Kael is a good man, and part of her doesn't want to abandon his people.
 
 #### Connections
 - **Bound To:** Ironhold and its people (Commander Kael is current pact holder)
 - **Origin:** Winter Court of the Fey (if she could return)
 - **Allies:** Some Ironhold soldiers genuinely care for her
-- **Enemy:** Her own binding—and the priests who maintain it
+- **Enemy:** Her own binding, and the priests who maintain it
 - **The Only Hope:** Someone who can break fey pacts
 
 {{pageNumber,auto}}
@@ -6037,8 +6134,8 @@ She has served for 300 years. Watched generations live and die. Helped them, hea
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Binding Truth:** Trapped by a pact she never agreed to. Commander Kael doesn't know—the ritual is passed down without explanation.
-2. **The Renewal Date:** The pact must be renewed at winter solstice. If the ritual fails, she's free—but Ironhold loses her protection.
+1. **The Binding Truth:** Trapped by a pact she never agreed to. Commander Kael doesn't know, the ritual is passed down without explanation.
+2. **The Renewal Date:** The pact must be renewed at winter solstice. If the ritual fails, she's free, but Ironhold loses her protection.
 3. **The Loophole:** Believes a specific phrase or action could break the pact. Has been studying it for centuries.
 4. **The Conflicted Heart:** Some Ironhold people have shown her kindness. She's not sure she wants to be free if it means abandoning them.
 5. **The Winter Court:** If freed, she could summon help from the Winter Court. Whether they'd help or punish her for being bound is unknown.
@@ -6049,7 +6146,7 @@ She has served for 300 years. Watched generations live and die. Helped them, hea
 2. **The Renewal Sabotage:** Could tell adventurers how to disrupt the renewal ritual—if convinced they'd protect Ironhold another way.
 3. **The Winter Court Embassy:** Needs a message carried to the fey courts. Can't go herself.
 4. **The Kind Commander:** Kael is a good man. Might help if he knew the truth. But revealing it risks the binding.
-5. **The Final Choice:** If freed, would she stay to help? She doesn't know—and wants to find out.
+5. **The Final Choice:** If freed, would she stay to help? She doesn't know, and wants to find out.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -6083,11 +6180,11 @@ ___
 }}
 
 #### Background & History
-Elder Rashid earned his title "the Twice-Blessed" through two miraculous events that defined his life. The first occurred in his youth when, during a sandstorm that claimed his entire caravan, he alone survived—found three days later by traders, unharmed and claiming a golden figure had sheltered him. The second blessing came decades later when assassins poisoned his wine at a diplomatic dinner; he drank deeply, felt nothing, and continued his speech while his would-be killers fled in terror.
+Elder Rashid earned his title "the Twice-Blessed" through two miraculous events that defined his life. The first occurred in his youth when, during a sandstorm that claimed his entire caravan, he alone survived, found three days later by traders, unharmed and claiming a golden figure had sheltered him. The second blessing came decades later when assassins poisoned his wine at a diplomatic dinner; he drank deeply, felt nothing, and continued his speech while his would-be killers fled in terror.
 
 Born to a minor merchant family in the oasis city of Sundara, Rashid showed early aptitude for diplomacy and an uncanny ability to sense deception. He rose through the temple hierarchy not through ambition but through genuine wisdom and an almost supernatural calm that soothed conflicts before they could escalate.
 
-Now in his seventies, he serves as a senior spiritual advisor alongside High Priest Al-Sahir, counseling Sultan Rashid Ashborne (no relation—Rashid is simply a common name in Sundara) and mediating disputes between the great trading houses. His reputation for fairness is matched only by his reputation for surviving things that should have killed him.
+Now in his seventies, he serves as a senior spiritual advisor alongside High Priest Al-Sahir, counseling Sultan Rashid Ashborne (no relation: Rashid is simply a common name in Sundara) and mediating disputes between the great trading houses. His reputation for fairness is matched only by his reputation for surviving things that should have killed him.
 
 #### Connections
 - **Sultan Rashid Ashborne:** Trusted advisor on spiritual matters, though they sometimes disagree on mercy vs. pragmatism
@@ -6104,7 +6201,7 @@ Now in his seventies, he serves as a senior spiritual advisor alongside High Pri
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The True First Blessing:** The golden figure wasn't a god—it was something older. Rashid has spent decades trying to understand what saved him, and why.
+1. **The True First Blessing:** The golden figure wasn't a god: it was something older. Rashid has spent decades trying to understand what saved him, and why.
 2. **Immunity's Cost:** His poison immunity isn't divine—it's the result of whatever touched him in that sandstorm. It's slowly changing him in other ways.
 3. **The Third Blessing:** He's had visions suggesting a third miraculous event is coming. He fears it won't be survivable this time.
 4. **The Secret He Keeps:** He knows the Sultan's eldest son is not the Sultan's biological child. He's never told anyone.
@@ -6113,10 +6210,10 @@ Now in his seventies, he serves as a senior spiritual advisor alongside High Pri
 
 #### Plot Hooks
 1. **The Assassination Attempt:** Someone is hiring outsiders to kill Rashid, since local assassins refuse. He needs investigation and protection.
-2. **The Vision's Warning:** His latest vision showed the party in danger. He wants to help them—but the vision also showed his own death.
+2. **The Vision's Warning:** His latest vision showed the party in danger. He wants to help them, but the vision also showed his own death.
 3. **The Desert Entity:** Strange phenomena are occurring near the site of his first blessing. He needs someone to investigate.
 4. **The Mediation Request:** Two powerful houses are on the brink of war. Rashid needs help gathering evidence to resolve the dispute peacefully.
-5. **The Third Blessing:** Signs suggest his third miraculous event is imminent. He wants to control it—or at least understand what's coming.
+5. **The Third Blessing:** Signs suggest his third miraculous event is imminent. He wants to control it, or at least understand what's coming.
 
 ---
 
@@ -6158,9 +6255,9 @@ ___
 #### Background & History
 Born in Sundara to a family of glassworkers. The desert provides perfect sand for glass-making, and her family has practiced the craft for twelve generations. She showed exceptional talent from childhood, creating pieces that seemed to capture light itself.
 
-Traveled to Silverpine to study magical glass at the university, then returned to Sundara to combine traditional techniques with arcane knowledge. Her fusion style—called "desert light" by collectors—commands prices that rival jewelry.
+Traveled to Silverpine to study magical glass at the university, then returned to Sundara to combine traditional techniques with arcane knowledge. Her fusion style (called "desert light" by collectors) commands prices that rival jewelry.
 
-Three years ago, while experimenting with ancient Sundaran formulas found in a ruin, she accidentally created glass that couldn't break. Dropped it, hit it with a hammer, threw it against stone—nothing. She immediately destroyed her notes and told no one. Unbreakable glass would revolutionize warfare—shields, windows, armor. She's terrified of what would happen if the secret spread.
+Three years ago, while experimenting with ancient Sundaran formulas found in a ruin, she accidentally created glass that couldn't break. Dropped it, hit it with a hammer, threw it against stone: nothing. She immediately destroyed her notes and told no one. Unbreakable glass would revolutionize warfare—shields, windows, armor. She's terrified of what would happen if the secret spread.
 
 #### Connections
 - **Patron:** Sultan Rashid Ashborne (loves her art pieces)
@@ -6175,7 +6272,7 @@ Three years ago, while experimenting with ancient Sundaran formulas found in a r
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Unbreakable Glass:** Created it accidentally. Could recreate it—but won't.
+1. **The Unbreakable Glass:** Created it accidentally. Could recreate it, but won't.
 2. **The Ancient Formula:** The original formula came from a pre-Worldrend source. The ruins might contain more.
 3. **The Military Interest:** Agents from multiple kingdoms have approached her about "special commissions." She's refused all.
 4. **The Apprentice's Discovery:** One apprentice is close to figuring it out independently. She's considering destroying his notes.
@@ -6183,7 +6280,7 @@ Three years ago, while experimenting with ancient Sundaran formulas found in a r
 }}
 
 #### Plot Hooks
-1. **The Ruin Expedition:** Needs the ancient formula source explored—and potentially sealed forever.
+1. **The Ruin Expedition:** Needs the ancient formula source explored, and potentially sealed forever.
 2. **The Apprentice Problem:** Needs help deciding what to do about her too-clever student.
 3. **The Commission Refusal:** A powerful kingdom is pressing harder. Might need protection.
 4. **The Peaceful Application:** Wants to find uses for the glass that don't involve warfare. Needs creative partners.
@@ -6230,16 +6327,16 @@ ___
 #### Background & History
 Born to a Sundaran clan destroyed by bandits when he was 10. Survived by hiding under his mother's body. Rescued by the Sultan's rangers, who raised him as one of their own.
 
-Became the most effective ranger in the Expanse. His tracking is legendary—can follow a snake across sand, predict sandstorms by smell, find water where none should exist. But his methods have grown darker. The bandits who killed his family were never caught. Every criminal might be one of them.
+Became the most effective ranger in the Expanse. His tracking is legendary, can follow a snake across sand, predict sandstorms by smell, find water where none should exist. But his methods have grown darker. The bandits who killed his family were never caught. Every criminal might be one of them.
 
-Started taking prisoners for "extended questioning" nearly a century ago. The information he extracts has prevented attacks, saved lives. But the screaming haunts him. He knows what he's becoming. Can't seem to stop. The boy hiding under his mother's corpse is still screaming for justice—and nothing satisfies him.
+Started taking prisoners for "extended questioning" nearly a century ago. The information he extracts has prevented attacks, saved lives. But the screaming haunts him. He knows what he's becoming. Can't seem to stop. The boy hiding under his mother's corpse is still screaming for justice, and nothing satisfies him.
 
 #### Connections
 - **Commands:** Desert Ranger Squad (20 elite trackers)
 - **Superior:** Sultan Rashid Ashborne (doesn't know about the torture)
 - **Victim:** Every prisoner he's "questioned"
-- **The Ghost:** His family's killers—still out there
-- **Confidant:** No one—he's completely alone with this
+- **The Ghost:** His family's killers. Still out there
+- **Confidant:** No one. He's completely alone with this
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -6255,7 +6352,7 @@ Started taking prisoners for "extended questioning" nearly a century ago. The in
 }}
 
 #### Plot Hooks
-1. **The Confession:** Wants to stop—but doesn't know how. Might open up to outsiders who don't judge immediately.
+1. **The Confession:** Wants to stop, but doesn't know how. Might open up to outsiders who don't judge immediately.
 2. **The Family's Killers:** Actually has a lead on the real bandits. Needs help so he doesn't have to torture the answer out.
 3. **The Sultan's Discovery:** Rashid is suspicious. Khalid needs either help covering up or help coming clean.
 4. **The Redemption Quest:** A priest suggested a pilgrimage might cleanse him. Needs escort.
@@ -6299,7 +6396,7 @@ ___
 #### Background & History
 Born to the wealthiest merchant family in Sundara, trained from childhood to take over the family empire. But Yasmin always cared more about the desert's secrets than its profits. While learning trade, she secretly studied archaeology, history, and ancient languages.
 
-Inherited the family business at 25 when her father died. Used her merchant networks to fund desert excavations disguised as "trade expeditions." Every caravan that goes out comes back with legal goods—and hidden relics from ruins her workers have uncovered.
+Inherited the family business at 25 when her father died. Used her merchant networks to fund desert excavations disguised as "trade expeditions." Every caravan that goes out comes back with legal goods, and hidden relics from ruins her workers have uncovered.
 
 Now has the largest private collection of pre-Worldrend artifacts in Thaldros. Most are locked in a secret vault beneath her mansion. She's written scholarly papers under a pseudonym that have revolutionized understanding of ancient Sundaran civilization. The academic world doesn't know the mysterious "Scholar Al-Rashidi" is actually a merchant princess.
 
@@ -6319,7 +6416,7 @@ Now has the largest private collection of pre-Worldrend artifacts in Thaldros. M
 1. **The Private Collection:** Over 200 artifacts hidden in a vault. Some are dangerous. Some are priceless. All are technically illegal.
 2. **The Scholar Identity:** Has published 12 papers. Would be recognized as brilliant if anyone knew.
 3. **The Dangerous Artifact:** One piece in her collection pulses with energy. She doesn't know what it does. Afraid to find out.
-4. **The Tomb She Hasn't Opened:** Found a major site—sealed royal tomb. Hasn't opened it because of the warnings carved outside.
+4. **The Tomb She Hasn't Opened:** Found a major site: sealed royal tomb. Hasn't opened it because of the warnings carved outside.
 5. **The Legacy Question:** No children. Worries what happens to her collection and knowledge when she dies.
 }}
 
@@ -6328,7 +6425,7 @@ Now has the largest private collection of pre-Worldrend artifacts in Thaldros. M
 2. **The Tomb Expedition:** Finally ready to open the sealed tomb. Needs skilled adventurers.
 3. **The Rival Problem:** The Silverpine archaeologist is getting close to her best site. Needs interference.
 4. **The Legacy Project:** Looking for worthy heirs to continue her work. Testing candidates.
-5. **The Scholarly Collaboration:** Would work with anyone who shares her passion—if they can keep secrets.
+5. **The Scholarly Collaboration:** Would work with anyone who shares her passion, if they can keep secrets.
 
 ---
 
@@ -6371,11 +6468,11 @@ ___
 }}
 
 #### Background & History
-Born blind to a poor Sundaran family. Abandoned in the desert at age 5—common practice for those who "couldn't contribute." Survived because he learned to sense everything else: wind patterns, animal behavior, sand shifts, temperature changes.
+Born blind to a poor Sundaran family. Abandoned in the desert at age 5, common practice for those who "couldn't contribute." Survived because he learned to sense everything else: wind patterns, animal behavior, sand shifts, temperature changes.
 
 Found and raised by a hermit who taught him to interpret what he sensed. Qadir discovered he could predict weather, find water, and anticipate dangers by reading the desert's subtle signals. When he wandered into Sundara at 20, his "prophecies" about a coming sandstorm that saved the city made him famous.
 
-Now serves as the Sultan's advisor on all desert matters. People think he receives divine visions. The truth is simpler and more impressive: he understands the desert so completely that prediction feels like prophecy. He's never corrected the misconception—it gives him influence to help people.
+Now serves as the Sultan's advisor on all desert matters. People think he receives divine visions. The truth is simpler and more impressive: he understands the desert so completely that prediction feels like prophecy. He's never corrected the misconception: it gives him influence to help people.
 
 #### Connections
 - **Patron:** Sultan Rashid Ashborne (believes him genuinely prophetic)
@@ -6391,9 +6488,9 @@ Now serves as the Sultan's advisor on all desert matters. People think he receiv
 {{descriptive
 #### Secrets (DM Only)
 1. **No Divine Gift:** His "prophecies" are observation, not revelation. The desert tells him everything if he listens.
-2. **The Fear:** What if he's wrong someday? One failed prediction destroys his credibility—and his ability to help.
+2. **The Fear:** What if he's wrong someday? One failed prediction destroys his credibility, and his ability to help.
 3. **The Hermit's Death:** His teacher didn't die naturally. Someone killed him. Qadir has never found out who.
-4. **The True Prophecy:** Once, just once, he had an actual vision—a dream of fire consuming the world. Doesn't know what it means.
+4. **The True Prophecy:** Once, just once, he had an actual vision: a dream of fire consuming the world. Doesn't know what it means.
 5. **The Successor:** Training the blind girl because he's aging. Worried she relies too much on him instead of the desert.
 }}
 
@@ -6402,7 +6499,7 @@ Now serves as the Sultan's advisor on all desert matters. People think he receiv
 2. **The Hermit's Murder:** Finally has a lead. Needs investigators.
 3. **The Successor's Training:** Needs adventurers to take his student on a journey to teach her self-reliance.
 4. **The Prediction Challenge:** Something is coming he can't read. Needs help understanding it.
-5. **The Truth Revealed:** Someone suspects he's not prophetic. Needs help maintaining the useful fiction—or deciding to come clean.
+5. **The Truth Revealed:** Someone suspects he's not prophetic. Needs help maintaining the useful fiction, or deciding to come clean.
 
 ---
 
@@ -6441,18 +6538,18 @@ ___
 }}
 
 #### Background & History
-Born in Ashgate to a family that has served as volcano wardens for eight generations. Learned to read the mountain's moods before he could walk. His grandmother used to say the volcano was their family's oldest child—temperamental but not malicious.
+Born in Ashgate to a family that has served as volcano wardens for eight generations. Learned to read the mountain's moods before he could walk. His grandmother used to say the volcano was their family's oldest child. Temperamental but not malicious.
 
 Rose through the Ashwarden ranks by being right when everyone else was wrong. Predicted the 1220 eruption six months early, allowing full evacuation. His warning saved 3,000 lives. Promoted to Warden Commander immediately after.
 
-Five years ago, his deep sensors detected something new: a slow, steady pressure build beneath the main caldera. Not the quick patterns that signal imminent eruption—something much larger, much slower. He's done the calculations. The volcano is building toward an eruption that could destroy everything within fifty miles. It won't happen for decades, but when it does, nothing will stop it.
+Five years ago, his deep sensors detected something new: a slow, steady pressure build beneath the main caldera. Not the quick patterns that signal imminent eruption, something much larger, much slower. He's done the calculations. The volcano is building toward an eruption that could destroy everything within fifty miles. It won't happen for decades, but when it does, nothing will stop it.
 
 #### Connections
 - **Commands:** Ashwarden Order (200 volcano monitors)
 - **Reports To:** Lord Mayor of Ashgate
 - **Secret Collaborator:** Engineer Mira Steamvent (shares concerns about geological instability)
 - **Family:** Wife and three children in Ashgate (part of why he's so careful)
-- **The Mountain:** The volcano itself—his lifelong study and greatest threat
+- **The Mountain:** The volcano itself, his lifelong study and greatest threat
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -6461,7 +6558,7 @@ Five years ago, his deep sensors detected something new: a slow, steady pressure
 {{descriptive
 #### Secrets (DM Only)
 1. **The Big One Coming:** Has mathematical proof of eventual catastrophic eruption. Hasn't told anyone in authority.
-2. **The Secret Plans:** Developing evacuation routes that could save most of the population—if there's enough warning.
+2. **The Secret Plans:** Developing evacuation routes that could save most of the population, if there's enough warning.
 3. **The Acceleration Risk:** Certain activities could trigger early eruption. He's been quietly blocking them.
 4. **The Refused Report:** Tried to report his findings once. Was told it would "cause panic." Ordered to stay silent.
 5. **The Family Decision:** Plans to move his family to safety within 10 years. Will stay himself to monitor.
@@ -6472,7 +6569,7 @@ Five years ago, his deep sensors detected something new: a slow, steady pressure
 2. **The Acceleration Prevention:** Someone is planning activities that could trigger early eruption. Needs them stopped.
 3. **The Evidence Gathering:** Wants more proof before going public. Needs help with deep survey.
 4. **The Political Pressure:** Those who silenced him might do worse. Needs protection.
-5. **The Early Warning:** If adventurers are traveling near the volcano, he'll share critical safety information—and maybe ask for observations.
+5. **The Early Warning:** If adventurers are traveling near the volcano, he'll share critical safety information, and maybe ask for observations.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -6514,17 +6611,17 @@ ___
 }}
 
 #### Background & History
-Born to a minor noble family in the Thornmire swamps, married into the Blackwater name—the oldest family in Marshaven. Her husband died three years into the marriage under mysterious circumstances. She's ruled the city ever since.
+Born to a minor noble family in the Thornmire swamps, married into the Blackwater name: the oldest family in Marshaven. Her husband died three years into the marriage under mysterious circumstances. She's ruled the city ever since.
 
-Marshaven has always been overlooked: too swampy, too poor, too strange. The continental powers take its taxes but provide nothing in return. Morgana decided to change that. Using forbidden texts found in swamp ruins, she's learned to create undead that retain their intelligence and free will—not shambling corpses, but thinking soldiers.
+Marshaven has always been overlooked: too swampy, too poor, too strange. The continental powers take its taxes but provide nothing in return. Morgana decided to change that. Using forbidden texts found in swamp ruins, she's learned to create undead that retain their intelligence and free will, not shambling corpses, but thinking soldiers.
 
-Her plan is elegant: build an army in the swamps where no one looks, then declare independence. The continental powers won't expect it, can't easily invade the swamps, and will eventually accept the new reality. She sees herself as a liberator, not a villain. The fact that she's raising the dead is merely pragmatic—the swamps have plenty of corpses and few living recruits.
+Her plan is elegant: build an army in the swamps where no one looks, then declare independence. The continental powers won't expect it, can't easily invade the swamps, and will eventually accept the new reality. She sees herself as a liberator, not a villain. The fact that she's raising the dead is merely pragmatic, the swamps have plenty of corpses and few living recruits.
 
 #### Connections
 - **Rules:** Marshaven (population 8,000)
 - **Advisor:** Master Alchemist Varek (knows some of her plans)
 - **Secret Army:** Currently 200 intelligent undead hidden in deep swamps
-- **Enemies:** If discovered—everyone
+- **Enemies:** If discovered, everyone
 - **Ally:** Sage-Speaker Sss'rith of the lizardfolk (supports independence, doesn't know about undead)
 
 {{pageNumber,auto}}
@@ -6541,8 +6638,8 @@ Her plan is elegant: build an army in the swamps where no one looks, then declar
 }}
 
 #### Plot Hooks
-1. **The Recruitment:** Might approach capable adventurers about her cause—carefully testing their reactions first.
-2. **The Discovery Risk:** Someone is getting close to finding her army. Needs them diverted—or silenced.
+1. **The Recruitment:** Might approach capable adventurers about her cause, carefully testing their reactions first.
+2. **The Discovery Risk:** Someone is getting close to finding her army. Needs them diverted, or silenced.
 3. **The Moral Question:** Some undead want true death. She needs help deciding if she should grant it.
 4. **The Husband's Memory:** His ghost haunts her. Needs help putting him to rest.
 5. **The Independence Negotiation:** If her plan succeeds, she'll need diplomats. Might recruit promising candidates early.
@@ -6590,7 +6687,7 @@ Born half-orc in a society that despised him. Found refuge in alchemy, where res
 
 Studied at Silverpine Magical Academy until expelled for "unauthorized experimentation" (he was testing theories on himself). Wandered to Marshaven, where no one cared about his past or his race. Built a laboratory in the swamps, surrounded by the richest concentration of alchemical reagents in Thaldros.
 
-Now he's the most skilled alchemist in the region, possibly the continent. His poisons are legendary—precise, reliable, traceable only if he wants them to be. But his life's work is the opposite: a universal antidote. If he succeeds, poison becomes obsolete. Assassins, venomous creatures, toxic plants—all neutralized. It would save countless lives and make him wealthy beyond measure.
+Now he's the most skilled alchemist in the region, possibly the continent. His poisons are legendary: precise, reliable, traceable only if he wants them to be. But his life's work is the opposite: a universal antidote. If he succeeds, poison becomes obsolete. Assassins, venomous creatures, toxic plants, all neutralized. It would save countless lives and make him wealthy beyond measure.
 
 #### Connections
 - **Patron:** Lady Morgana Blackwater (his best customer and protector)
@@ -6608,14 +6705,14 @@ Now he's the most skilled alchemist in the region, possibly the continent. His p
 1. **The Universal Antidote:** 95% complete. Last ingredient is rare and dangerous to acquire.
 2. **The Lady's Knowledge:** Knows some of Lady Morgana's plans. Stays quiet because she protects him.
 3. **The Test Subject:** Has been testing the antidote on himself. Side effects are concerning.
-4. **The Poison Records:** Has formulas for every poison he's ever made. Could save lives—or end them.
+4. **The Poison Records:** Has formulas for every poison he's ever made. Could save lives, or end them.
 5. **The Self-Loathing:** Hates that he creates death to fund his research into preventing it.
 }}
 
 #### Plot Hooks
 1. **The Final Ingredient:** Needs help acquiring the last component. It's in a very dangerous place.
 2. **The Test Results:** Needs someone to observe his next self-test in case something goes wrong.
-3. **The Poison Identification:** Will identify any poison for free—information is more valuable than gold.
+3. **The Poison Identification:** Will identify any poison for free: information is more valuable than gold.
 4. **The Moral Contract:** Will create anything for the right price. Sometimes regrets it.
 5. **The Professor's Interference:** His Silverpine rival is trying to sabotage his research. Needs protection.
 
@@ -6656,9 +6753,9 @@ ___
 #### Background & History
 Born in the village of Murkhollow on the edge of the Thornmire, Grizelda was the daughter of a charcoal burner who worked the swamp's edges. When plague swept through the village at age twelve, she fled deeper into the swamp rather than face the sickness. She survived by watching animals, eating what they ate, and learning the swamp's rhythms.
 
-For three years she lived wild before a ranger patrol found her—more swamp creature than girl. The rangers tried to civilize her, but she kept returning to the marsh. Eventually they stopped trying and instead trained her. By twenty-five, she knew paths through the Thornmire that no map showed. By forty, she was the only guide with a perfect survival record.
+For three years she lived wild before a ranger patrol found her: more swamp creature than girl. The rangers tried to civilize her, but she kept returning to the marsh. Eventually they stopped trying and instead trained her. By twenty-five, she knew paths through the Thornmire that no map showed. By forty, she was the only guide with a perfect survival record.
 
-She's guided treasure hunters, fugitives, scholars, and assassins. She doesn't judge her clients—the swamp judges everyone equally. What matters is whether they listen and whether they pay. Those who don't listen often don't return. Those who don't pay... well, the swamp has many hungry mouths.
+She's guided treasure hunters, fugitives, scholars, and assassins. She doesn't judge her clients, the swamp judges everyone equally. What matters is whether they listen and whether they pay. Those who don't listen often don't return. Those who don't pay... well, the swamp has many hungry mouths.
 
 #### Connections
 - **Employer:** Lady Morgana Blackwater (regular contract for "special deliveries")
@@ -6677,7 +6774,7 @@ She's guided treasure hunters, fugitives, scholars, and assassins. She doesn't j
 2. **Morgana's Cargo:** Has transported "sleeping" people for Lady Morgana. Suspects they become her undead servants but doesn't ask questions.
 3. **The Sunken Temple:** Discovered a pre-Worldrend temple beneath the black water. Took one artifact and never returned—something down there is still alive.
 4. **Sweetness's Brood:** Her crocodile has a nest with eggs. When they hatch, she'll control a pack of giant crocodiles.
-5. **The True Path:** Knows a route through the swamp that leads to a tear between worlds—fey creatures use it. She guards it from both sides.
+5. **The True Path:** Knows a route through the swamp that leads to a tear between worlds, fey creatures use it. She guards it from both sides.
 }}
 
 #### Plot Hooks
@@ -6685,7 +6782,7 @@ She's guided treasure hunters, fugitives, scholars, and assassins. She doesn't j
 2. **The Missing Scholar:** An archaeologist she guided to the Sunken Temple never returned. His family is offering a fortune for recovery.
 3. **The Crocodile Crisis:** Sweetness's eggs are about to hatch, but a monster has moved into her nesting ground. Grizelda needs help.
 4. **The Hidden Village:** The escaped slaves' community has been discovered. They need evacuation before hunters arrive.
-5. **The Fey Crossing:** Something is coming through the tear between worlds. Grizelda needs help sealing it—or negotiating with what's on the other side.
+5. **The Fey Crossing:** Something is coming through the tear between worlds. Grizelda needs help sealing it, or negotiating with what's on the other side.
 6. **The Smuggler's War:** Captain Vex and Grizelda's conflict is escalating. She's looking for allies.
 
 
@@ -6731,7 +6828,7 @@ ___
 #### Background & History
 Born Marcus Vex in Goldreach's poorest district, son of a dock worker who drank away every coin. Ran away at fourteen, stowed away on a merchant vessel, and was discovered three days out. Rather than throw him overboard, Captain Sylas Darkwater saw potential and made him cabin boy.
 
-For fifteen years, Vex learned everything about ships—sailing, fighting, smuggling, and eventually piracy when Sylas turned to raiding. When Sylas was killed by the Goldreach navy, Vex took command of the Serpent's Coil and the Darkwater name. He's spent the last decade building a reputation as the most successful pirate in the Thornmire waters.
+For fifteen years, Vex learned everything about ships: sailing, fighting, smuggling, and eventually piracy when Sylas turned to raiding. When Sylas was killed by the Goldreach navy, Vex took command of the Serpent's Coil and the Darkwater name. He's spent the last decade building a reputation as the most successful pirate in the Thornmire waters.
 
 Unlike many pirates, Vex operates with a code: no slavery, no torture without cause, and always leave enough survivors to spread tales. Fear is better than corpses, and enemies who fear you make mistakes. He's never been caught because he's patient, well-informed, and knows when to fight and when to disappear into the swamp's countless waterways.
 
@@ -6748,9 +6845,9 @@ Unlike many pirates, Vex operates with a code: no slavery, no torture without ca
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Sylas Truth:** Captain Sylas didn't die fighting the navy—Vex poisoned him after discovering Sylas was planning to sell the crew into slavery.
+1. **The Sylas Truth:** Captain Sylas didn't die fighting the navy, Vex poisoned him after discovering Sylas was planning to sell the crew into slavery.
 2. **The Goldreach Informant:** Has a highly placed informant in Goldreach's Harbor Authority who provides shipping schedules.
-3. **Morgana's Deal:** His arrangement with Lady Morgana involves more than just protection money—he helps transport her "special cargo."
+3. **Morgana's Deal:** His arrangement with Lady Morgana involves more than just protection money. He helps transport her "special cargo."
 4. **The Treasure Map:** Possesses half of a map to Sylas's hidden treasure cache, rumored to contain a king's ransom.
 5. **The Escape Plan:** Has a bolt-hole prepared in the Sundaran desert—identity papers, gold, and a contact who can make him disappear if things go wrong.
 }}
@@ -6759,7 +6856,7 @@ Unlike many pirates, Vex operates with a code: no slavery, no torture without ca
 1. **The Enemy's Enemy:** Offers the party a job raiding a mutual enemy's ship, no questions asked about their reasons.
 2. **The Map's Other Half:** Knows the party has the other half of the treasure map (or something he wants). Proposes a partnership.
 3. **The Rescue Mission:** His informant in Goldreach has been arrested. Needs them broken out before they talk.
-4. **The Navy's Trap:** The navy is setting an ambush using false shipping information. Vex knows—and offers to share the knowledge for a price.
+4. **The Navy's Trap:** The navy is setting an ambush using false shipping information. Vex knows, and offers to share the knowledge for a price.
 5. **The Morgana Problem:** Lady Morgana's demands are becoming troubling. He's looking for leverage or allies against her.
 6. **The Honest Deal:** Claims to have information about something the party desperately needs. For once, he's offering a straight trade.
 
@@ -6801,11 +6898,11 @@ ___
 }}
 
 #### Background & History
-Helga was born in a small village near the Thornmire with the gift of sight—she could see the threads of fate binding people to their futures. Her village celebrated her as blessed until her visions turned dark, predicting a noble's death. When that noble died exactly as she described, the villagers turned on her, claiming she'd caused it.
+Helga was born in a small village near the Thornmire with the gift of sight. She could see the threads of fate binding people to their futures. Her village celebrated her as blessed until her visions turned dark, predicting a noble's death. When that noble died exactly as she described, the villagers turned on her, claiming she'd caused it.
 
-She fled into the swamp at seventeen and nearly died before a voice offered salvation. The Archfey known as the Lady of Thorns granted Helga power in exchange for service—collecting debts, granting wishes, and maintaining the boundary between the mortal world and the Feywild. Fifty-six years later, Helga has become something between human and fey herself.
+She fled into the swamp at seventeen and nearly died before a voice offered salvation. The Archfey known as the Lady of Thorns granted Helga power in exchange for service: collecting debts, granting wishes, and maintaining the boundary between the mortal world and the Feywild. Fifty-six years later, Helga has become something between human and fey herself.
 
-She lives in the Crooked Hut, which moves through the swamp according to rules only she understands. Petitioners find her when she wishes to be found. She grants wishes—but her prices are strange and terrible. A year of your shadow. Your firstborn's first laugh. The memory of your mother's face. She never lies about the cost, but people rarely understand what they're truly giving up.
+She lives in the Crooked Hut, which moves through the swamp according to rules only she understands. Petitioners find her when she wishes to be found. She grants wishes, but her prices are strange and terrible. A year of your shadow. Your firstborn's first laugh. The memory of your mother's face. She never lies about the cost, but people rarely understand what they're truly giving up.
 
 #### Connections
 - **Patron:** The Lady of Thorns (Archfey of the Dark Court)
@@ -6820,19 +6917,19 @@ She lives in the Crooked Hut, which moves through the swamp according to rules o
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Binding Cost:** Her original deal with the Lady of Thorns requires her to collect one soul per year. She chooses her victims carefully—murderers, slavers, the wicked.
+1. **The Binding Cost:** Her original deal with the Lady of Thorns requires her to collect one soul per year. She chooses her victims carefully, murderers, slavers, the wicked.
 2. **The Unfinished Bargain:** Lady Morgana owes her "a service to be named." Helga is waiting for the perfect moment to collect.
 3. **The Lost Children:** Some children who wander into the swamp find their way to her hut. She raises them for seven years, then sends them to the Feywild. They return as changelings.
 4. **The Prophecy Collection:** Has recorded hundreds of visions over fifty years. Together, they form a picture of a coming catastrophe.
-5. **The Heart's Desire:** Deep down, she wants to die—but the Lady of Thorns won't release her. She's looking for someone strong enough to kill her and take her place.
+5. **The Heart's Desire:** Deep down, she wants to die, but the Lady of Thorns won't release her. She's looking for someone strong enough to kill her and take her place.
 }}
 
 #### Plot Hooks
-1. **The Three Wishes:** Offers the party exactly what they need—but each wish has a price that seems minor but has devastating implications.
+1. **The Three Wishes:** Offers the party exactly what they need, but each wish has a price that seems minor but has devastating implications.
 2. **The Prophecy Trade:** Has seen something important about one of the party members' futures. Will trade the knowledge for a service.
 3. **The Lady's Errand:** Her patron demands a task completed in the mortal world. She needs mortal agents.
 4. **The Soul Debt:** This year's soul is a member of the party's family or ally. She offers an alternative: complete an impossible task.
-5. **The Final Rest:** Confesses her desire for death and asks if the party would take her place—or help her trick the Lady into releasing her.
+5. **The Final Rest:** Confesses her desire for death and asks if the party would take her place, or help her trick the Lady into releasing her.
 6. **The Changeling Return:** One of her changeling children has returned from the Feywild, bringing something dangerous with them.
 
 
@@ -6872,9 +6969,9 @@ ___
 }}
 
 #### Background & History
-Born in Aethermere over thirteen centuries ago, Thaelon was a prodigy of enchantment magic who could charm birds from trees before he finished his first century. He is one of the few living beings who witnessed the Worldrend firsthand—a trauma that shaped his lifelong commitment to peace and understanding. He served on the Circle of Speakers for three hundred years before stepping back to focus on magical research, then returned to politics when the Worldrend's aftereffects threatened Aethorian stability.
+Born in Aethermere over thirteen centuries ago, Thaelon was a prodigy of enchantment magic who could charm birds from trees before he finished his first century. He is one of the few living beings who witnessed the Worldrend firsthand, a trauma that shaped his lifelong commitment to peace and understanding. He served on the Circle of Speakers for three hundred years before stepping back to focus on magical research, then returned to politics when the Worldrend's aftereffects threatened Aethorian stability.
 
-His specialty is the magic of minds and hearts—not for control, but for understanding. He believes that most conflicts arise from misunderstanding, and that with patience and empathy, even ancient enemies can find common ground. This philosophy has made him the Harmony's primary diplomat, negotiating treaties with the Crystalbrook Compact and even opening limited dialogue with Thaldros.
+His specialty is the magic of minds and hearts, not for control, but for understanding. He believes that most conflicts arise from misunderstanding, and that with patience and empathy, even ancient enemies can find common ground. This philosophy has made him the Harmony's primary diplomat, negotiating treaties with the Crystalbrook Compact and even opening limited dialogue with Thaldros.
 
 Critics call him naive; he's been betrayed by those he trusted, watched treaties collapse, and seen his students fall to corruption. Yet he persists, believing that each success justifies a hundred failures. His detractors note that at over 1,300 years old, he can afford patience that shorter-lived races cannot.
 
@@ -6895,7 +6992,7 @@ Critics call him naive; he's been betrayed by those he trusted, watched treaties
 1. **The Worldrend Fragment:** Possesses a piece of the artifact that caused the Worldrend. Has spent centuries trying to understand it safely.
 2. **The Thaldros Channel:** Maintains secret diplomatic communications with King Aldric IV, working toward eventual reunification of the continents.
 3. **The Mind Wound:** Was mentally attacked decades ago by something from beyond; still carries scars that occasionally cause episodes of confusion.
-4. **The Failed Student:** Lyrian Crystal's fall into dark magic was partly his fault—he pushed too hard, too fast.
+4. **The Failed Student:** Lyrian Crystal's fall into dark magic was partly his fault. He pushed too hard, too fast.
 5. **The Prophecy:** Has foreseen that the next Worldrend can only be prevented by sacrifice. He believes he knows whose sacrifice is required.
 }}
 
@@ -6904,11 +7001,11 @@ Critics call him naive; he's been betrayed by those he trusted, watched treaties
 2. **The Fragment's Awakening:** The Worldrend fragment is becoming active. He needs help containing or studying it.
 3. **The Mind Healer:** Looking for a way to repair the damage to his mind before it worsens.
 4. **The Redemption Mission:** Wants to save Lyrian Crystal from their dark path. Needs help reaching them.
-5. **The Prophecy's Burden:** Shares his vision with the party—one of them may be the one who must sacrifice.
+5. **The Prophecy's Burden:** Shares his vision with the party, one of them may be the one who must sacrifice.
 6. **The Whisperer Hunt:** His secrets are being sold. He needs to find the leak and stop it.
 
 
-**Secret:** One of the few living witnesses to the Worldrend (over 1,300 years old). Was a young elf of about 100 when the world split. Remembers the unified kingdom. Dreams of it nightly. Believes reunification is his life's purpose—and his burden.
+**Secret:** One of the few living witnesses to the Worldrend (over 1,300 years old). Was a young elf of about 100 when the world split. Remembers the unified kingdom. Dreams of it nightly. Believes reunification is his life's purpose, and his burden.
 
 ---
 
@@ -6948,7 +7045,7 @@ ___
 #### Background & History
 Silvaris is not one druid but the title passed down through a line of oak-bonded druids stretching back to before the Worldrend. The current Silvaris, an elf named Caelindra, took up the mantle two centuries ago when her predecessor died defending the Heartwood from a demonic incursion.
 
-The role requires bonding with the Great Oak at the heart of Aethoria's oldest forest—a tree whose roots touch the ley lines connecting all life on the continent. Through this bond, the Archdruid can sense disturbances anywhere in the natural world, communicate with animal and plant life, and call upon ancient nature magic.
+The role requires bonding with the Great Oak at the heart of Aethoria's oldest forest, a tree whose roots touch the ley lines connecting all life on the continent. Through this bond, the Archdruid can sense disturbances anywhere in the natural world, communicate with animal and plant life, and call upon ancient nature magic.
 
 But the bond comes at a cost. Each Archdruid slowly loses their individual identity, their memories merging with those of their predecessors. Caelindra has perhaps another century before she is more Silvaris than herself. She dreads this fate even as she fulfills her duties, and secretly searches for a way to preserve her sense of self.
 
@@ -6957,7 +7054,7 @@ But the bond comes at a cost. Each Archdruid slowly loses their individual ident
 - **Predecessor:** Memories of twelve previous Archdruids
 - **Ally:** Speaker Arien Swiftbrook (supports her secretly)
 - **Circle:** Twenty-three druids who serve under her guidance
-- **Enemy:** The Blight—a spreading corruption in the eastern forests
+- **Enemy:** The Blight, a spreading corruption in the eastern forests
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -6968,12 +7065,12 @@ But the bond comes at a cost. Each Archdruid slowly loses their individual ident
 1. **The Fading Self:** Losing herself faster than any previous Archdruid. Something is accelerating the merge.
 2. **The Blight's Origin:** Knows the corruption comes from a sealed portal to the Shadowfell. The seal is weakening.
 3. **The Predecessor's Sin:** One previous Archdruid made a deal with dark powers. That debt is coming due.
-4. **The Heart's Desire:** Has fallen in love—something the role supposedly forbids. It's keeping her anchored to herself.
+4. **The Heart's Desire:** Has fallen in love: something the role supposedly forbids. It's keeping her anchored to herself.
 5. **The Succession Crisis:** No suitable candidate exists for the next Archdruid. If she dies, the line may end.
 }}
 
 #### Plot Hooks
-1. **The Blight Investigation:** Needs outsiders to investigate the corruption's source—druids who approach are absorbed.
+1. **The Blight Investigation:** Needs outsiders to investigate the corruption's source. Druids who approach are absorbed.
 2. **The Identity Quest:** Looking for magic that could preserve her individuality without breaking her bond.
 3. **The Predecessor's Debt:** Something is coming to collect on an ancient bargain. She needs help facing it.
 4. **The Secret Love:** Her beloved is in danger. She can't act openly without scandal, but needs help protecting them.
@@ -7019,9 +7116,9 @@ ___
 #### Background & History
 Once the most promising student of Council Elder Thaelon, Lyrian was a half-elf born with an unusual sensitivity to raw magic. They could perceive the weave of spells as physical threads and manipulate them in ways most wizards never imagined. Thaelon saw in them the potential to revolutionize magical theory.
 
-But Lyrian's gift came with a curse—they could also perceive the damage magic had done to the world, the scars left by the Worldrend still bleeding magical energy. Determined to heal these wounds, they pushed beyond safe magical practice. An experiment went wrong, killing three colleagues and leaving Lyrian touched by something from beyond the normal planes.
+But Lyrian's gift came with a curse: they could also perceive the damage magic had done to the world, the scars left by the Worldrend still bleeding magical energy. Determined to heal these wounds, they pushed beyond safe magical practice. An experiment went wrong, killing three colleagues and leaving Lyrian touched by something from beyond the normal planes.
 
-Now Lyrian walks a dark path, still seeking to heal the world but willing to use increasingly dangerous methods. They believe the ends justify the means—that a healed world is worth any cost. Council Elder Thaelon mourns the student they failed; others see Lyrian as a growing threat.
+Now Lyrian walks a dark path, still seeking to heal the world but willing to use increasingly dangerous methods. They believe the ends justify the means. That a healed world is worth any cost. Council Elder Thaelon mourns the student they failed; others see Lyrian as a growing threat.
 
 #### Connections
 - **Former Mentor:** Council Elder Thaelon Starlight (complicated love/resentment)
@@ -7036,18 +7133,18 @@ Now Lyrian walks a dark path, still seeking to heal the world but willing to use
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Patron's Nature:** Doesn't know what their patron truly is—possibly a forgotten god, possibly something worse.
-2. **The Partial Success:** One experiment worked—they healed a minor Worldrend scar. It nearly killed them but proved the theory.
+1. **The Patron's Nature:** Doesn't know what their patron truly is, possibly a forgotten god, possibly something worse.
+2. **The Partial Success:** One experiment worked. They healed a minor Worldrend scar. It nearly killed them but proved the theory.
 3. **The Death Toll:** The accident that killed their colleagues wasn't entirely accidental. Their patron demanded the energy.
 4. **The Redemption Possibility:** Sometimes hears Thaelon's teachings in their mind. Part of them wants to stop.
-5. **The Final Experiment:** Planning something that could heal the greatest Worldrend wound—or tear reality apart trying.
+5. **The Final Experiment:** Planning something that could heal the greatest Worldrend wound, or tear reality apart trying.
 }}
 
 #### Plot Hooks
 1. **The Plea for Help:** Reaches out secretly, asking for help escaping their patron's control.
 2. **The Dangerous Discovery:** Offers to share their healing knowledge if the party helps with "one small task."
 3. **The Follower Defects:** One of Lyrian's followers contacts the party, terrified of the final experiment.
-4. **The Thaelon Request:** The Elder asks the party to reach Lyrian—capture, kill, or redeem, depending on what they find.
+4. **The Thaelon Request:** The Elder asks the party to reach Lyrian, capture, kill, or redeem, depending on what they find.
 5. **The Final Choice:** The experiment is beginning. Stop it, help it, or try to guide it toward a safer outcome.
 
 
@@ -7095,11 +7192,11 @@ ___
 }}
 
 #### Background & History
-Niriel was born to a minor elven house five centuries ago and showed early talent for shadow magic—rare among elves, who typically favor light and nature. Her family tried to suppress her gifts, fearing social stigma. When she was discovered practicing in secret, they gave her a choice: abandon shadow magic or abandon the family.
+Niriel was born to a minor elven house five centuries ago and showed early talent for shadow magic. Rare among elves, who typically favor light and nature. Her family tried to suppress her gifts, fearing social stigma. When she was discovered practicing in secret, they gave her a choice: abandon shadow magic or abandon the family.
 
-She chose the shadows. Taking the name "Shadowleaf" as bitter reminder of what she'd lost, she spent centuries honing her craft in isolation. Her break came when the Circle of Speakers needed someone for tasks too dark for their public image—espionage, sabotage, and occasionally worse. Niriel became their shadow, doing necessary evils so they could maintain their principles.
+She chose the shadows. Taking the name "Shadowleaf" as bitter reminder of what she'd lost, she spent centuries honing her craft in isolation. Her break came when the Circle of Speakers needed someone for tasks too dark for their public image, espionage, sabotage, and occasionally worse. Niriel became their shadow, doing necessary evils so they could maintain their principles.
 
-Now she leads a network of shadow-touched elves who serve the Harmony from the darkness. She tells herself it's noble work, protecting her people from threats they'll never know existed. But sometimes she wonders if she's truly serving the Harmony—or if she's become exactly the monster her family feared.
+Now she leads a network of shadow-touched elves who serve the Harmony from the darkness. She tells herself it's noble work, protecting her people from threats they'll never know existed. But sometimes she wonders if she's truly serving the Harmony, or if she's become exactly the monster her family feared.
 
 #### Connections
 - **Handler:** Council Speaker Aquila Clearwater (gives orders, denies connection)
@@ -7114,10 +7211,10 @@ Now she leads a network of shadow-touched elves who serve the Harmony from the d
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Hidden Archive:** Maintains records of every operation—insurance against the Council denying her existence.
+1. **The Hidden Archive:** Maintains records of every operation, insurance against the Council denying her existence.
 2. **The Family Assassination:** Was once ordered to kill a member of her birth family. She faked the death instead; they live under a new identity.
 3. **The Double Agent:** One of her agents is feeding information to someone. She's waiting to see where it leads.
-4. **The Personal Mission:** Searching for an artifact that could let her walk in daylight again—shadow magic has made sunlight painful.
+4. **The Personal Mission:** Searching for an artifact that could let her walk in daylight again, shadow magic has made sunlight painful.
 5. **The Exit Strategy:** Has planned exactly how to disappear if the Council ever decides she's a liability.
 }}
 
@@ -7169,9 +7266,9 @@ ___
 #### Background & History
 Born during a rare celestial conjunction, Celestia's first cry coincided with a meteor striking the mountains a hundred miles away. Her parents took it as an omen; they were right. She developed prophetic gifts before she could walk, seeing futures in dreams and reflections.
 
-Her visions brought her to the Academy's attention, and she rose quickly through the ranks of diviners. Unlike most seers who glimpse fragments, Celestia can sometimes see complete futures with terrible clarity. This gift became a curse when she foresaw the death of her first love—and was unable to prevent it despite knowing every detail.
+Her visions brought her to the Academy's attention, and she rose quickly through the ranks of diviners. Unlike most seers who glimpse fragments, Celestia can sometimes see complete futures with terrible clarity. This gift became a curse when she foresaw the death of her first love, and was unable to prevent it despite knowing every detail.
 
-Now she leads the Harmony's diviners, guiding policy with her visions while struggling with the knowledge that seeing the future doesn't always mean being able to change it. She has become cold, clinical—treating prophecy as information to be analyzed rather than fate to be feared. Critics say she's lost her humanity; she says she's simply practical.
+Now she leads the Harmony's diviners, guiding policy with her visions while struggling with the knowledge that seeing the future doesn't always mean being able to change it. She has become cold, clinical. Treating prophecy as information to be analyzed rather than fate to be feared. Critics say she's lost her humanity; she says she's simply practical.
 
 #### Connections
 - **Superior:** The Circle of Speakers (advisory role)
@@ -7186,7 +7283,7 @@ Now she leads the Harmony's diviners, guiding policy with her visions while stru
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Unchangeable Vision:** Has seen a catastrophe she cannot prevent—the death of everyone she knows. She's searching for a way to prove her visions can be wrong.
+1. **The Unchangeable Vision:** Has seen a catastrophe she cannot prevent, the death of everyone she knows. She's searching for a way to prove her visions can be wrong.
 2. **The Blocked Future:** Something is hiding certain futures from her. She's never encountered anything that could do this.
 3. **The False Prophecy:** Once gave a false prophecy to prevent a war. The truth would have been worse, but the lie haunts her.
 4. **The Resurrection Obsession:** Secretly researches ways to bring back the dead. For her lost love, or perhaps for those she's foreseen dying.
@@ -7194,7 +7291,7 @@ Now she leads the Harmony's diviners, guiding policy with her visions while stru
 }}
 
 #### Plot Hooks
-1. **The Commission:** Offers to read the party's futures, but the visions she sees are troubling—and incomplete.
+1. **The Commission:** Offers to read the party's futures, but the visions she sees are troubling, and incomplete.
 2. **The Blocked Vision:** Something the party carries or knows is blocking her sight. She needs to understand why.
 3. **The Prevention Quest:** Shares a terrible vision and asks if they can help change it.
 4. **The Ghost's Message:** Her dead love's ghost has a message for someone in the party.
@@ -7239,11 +7336,11 @@ ___
 }}
 
 #### Background & History
-Aquila's family has led the Crystalbrook Compact for seven generations, but she was never meant to inherit. The third child of three, she was free to pursue her passions—sailing the great lakes, exploring sunken ruins, and avoiding the tedious business of politics. Then her older siblings died in a boating accident that wasn't quite an accident.
+Aquila's family has led the Crystalbrook Compact for seven generations, but she was never meant to inherit. The third child of three, she was free to pursue her passions, sailing the great lakes, exploring sunken ruins, and avoiding the tedious business of politics. Then her older siblings died in a boating accident that wasn't quite an accident.
 
 At twenty-eight, she was suddenly Guildmaster of House Clearwater and de facto leader of the Compact. She spent her first decade fighting to survive the political machinations that had killed her siblings. When she finally identified and destroyed those responsible, she found she had developed a taste for the game.
 
-Now sixty and at the height of her power, Aquila plays politics like chess—always thinking three moves ahead. She's transformed the Compact from a loose alliance into a genuine power, though always careful not to threaten the Harmony's dominance. Her public face is diplomatic and reasonable; her private actions are ruthlessly pragmatic.
+Now sixty and at the height of her power, Aquila plays politics like chess, always thinking three moves ahead. She's transformed the Compact from a loose alliance into a genuine power, though always careful not to threaten the Harmony's dominance. Her public face is diplomatic and reasonable; her private actions are ruthlessly pragmatic.
 
 #### Connections
 - **Asset:** Lady Shadowleaf (handles "difficult" problems)
@@ -7310,7 +7407,7 @@ ___
 }}
 
 #### Background & History
-Talia came to Aethoria as a refugee from Thaldros, one of the half-elf children displaced by the conflicts following the Dragon Crisis. The elves took her in reluctantly—half-breeds often struggled to find acceptance—but she won them over with determination and wisdom beyond her years.
+Talia came to Aethoria as a refugee from Thaldros, one of the half-elf children displaced by the conflicts following the Dragon Crisis. The elves took her in reluctantly, half-breeds often struggled to find acceptance, but she won them over with determination and wisdom beyond her years.
 
 She became a druid of considerable power, specializing in agricultural magic that helped communities thrive. Her practical approach and understanding of non-elven perspectives made her valuable as a bridge between the Harmony and other peoples. When the Circle of Speakers created an advisory position for non-pure-elven voices, she was the obvious choice.
 
@@ -7381,7 +7478,7 @@ ___
 #### Background & History
 Gareth was born to farmers in the shadow of the Ironspine Mountains, the third son with no prospects. He joined the Lightbringers at sixteen seeking purpose, and found it in holy warfare against evil. For forty years he rose through the ranks, his tactical brilliance matched only by his unyielding faith.
 
-His defining moment came during the Demon Tide of 1198 CR, when a portal to the Abyss opened in the northern mountains. Gareth led the defense for three months, suffering wounds that should have killed him, before finally sealing the portal. He emerged a hero—and changed. The demons had shown him things, whispered truths that shook his simple faith.
+His defining moment came during the Demon Tide of 1198 CR, when a portal to the Abyss opened in the northern mountains. Gareth led the defense for three months, suffering wounds that should have killed him, before finally sealing the portal. He emerged a hero, and changed. The demons had shown him things, whispered truths that shook his simple faith.
 
 Now he leads the Iron Council, the military arm of the Lightbringers. He remains devoted to protecting the innocent, but his methods have become harder, his mercy rarer. He's seen what evil truly is, and he knows that sometimes fighting monsters requires becoming something not entirely human.
 
@@ -7401,7 +7498,7 @@ Now he leads the Iron Council, the military arm of the Lightbringers. He remains
 1. **The Demon Fragment:** A piece of demonic essence lodged in his soul during the Demon Tide. It grants him power but slowly corrupts.
 2. **The Mercy Killings:** Has executed prisoners who would have been shown mercy. Justified it as necessity.
 3. **The Doubt:** No longer certain his god exists. Fights on anyway because the evil definitely exists.
-4. **The Successor Concern:** Fears what will happen to the Iron Council after he dies—or falls to the demon within.
+4. **The Successor Concern:** Fears what will happen to the Iron Council after he dies, or falls to the demon within.
 5. **The Sealed Portal:** The Demon Tide portal wasn't fully sealed. He's been containing it personally for thirty years.
 }}
 
@@ -7463,7 +7560,7 @@ Lucian was born in the gutters of Port Myrthen, a half-elf bastard of a merchant
 
 When his father died, Lucian revealed the blackmail material anyway—not for revenge, but to eliminate rivals who knew the truth. He absorbed his father's trading company and used it as a foundation to build a merchant empire spanning both continents. Now he sits on the Merchant League's inner council, one of the three Trade Princes who truly control continental commerce.
 
-His public persona is the charming rogue, the common-born success story. Privately, he's ruthless, patient, and never forgives a slight. He doesn't want money—he has more than he could spend in several lifetimes. He wants power, respect, and eventually to reshape the world's economy in his image.
+His public persona is the charming rogue, the common-born success story. Privately, he's ruthless, patient, and never forgives a slight. He doesn't want money. He has more than he could spend in several lifetimes. He wants power, respect, and eventually to reshape the world's economy in his image.
 
 #### Connections
 - **Peers:** Two other Trade Princes (allies of convenience)
@@ -7486,14 +7583,14 @@ His public persona is the charming rogue, the common-born success story. Private
 }}
 
 #### Plot Hooks
-1. **The Investment Opportunity:** Offers to fund the party's goals in exchange for future favors. The terms seem generous—too generous.
+1. **The Investment Opportunity:** Offers to fund the party's goals in exchange for future favors. The terms seem generous, too generous.
 2. **The Corporate Espionage:** Needs information from a rival merchant house. Offers significant payment.
 3. **The Archaeological Discovery:** One of his expeditions found something dangerous. Needs it retrieved before rivals learn of it.
 4. **The Family Problem:** One of his half-siblings is making moves. Needs outside help to counter them.
 5. **The Honest Deal:** For once, offers a straightforward business arrangement. Something has spooked him.
 
 
-**Secret:** Funds both sides of several conflicts. Profits from war. Has destabilization agents creating tensions. Not patriotic—mercenary.
+**Secret:** Funds both sides of several conflicts. Profits from war. Has destabilization agents creating tensions. Not patriotic, mercenary.
 
 ---
 
@@ -7534,7 +7631,7 @@ ___
 }}
 
 #### Background & History
-No one knows who Master Crimson really is—that's rather the point. The name has been used for over forty years, possibly by multiple individuals, possibly by one very careful person. What's known is that Master Crimson controls the Shadow Syndicate's operations across central Thaldros.
+No one knows who Master Crimson really is. That's rather the point. The name has been used for over forty years, possibly by multiple individuals, possibly by one very careful person. What's known is that Master Crimson controls the Shadow Syndicate's operations across central Thaldros.
 
 The Shadow Syndicate isn't a traditional thieves' guild. It's a business—criminal business, but business nonetheless. They provide services: smuggling, theft, assassination, information, protection. Everything has a price, and Master Crimson sets the prices.
 
@@ -7544,9 +7641,9 @@ The current Master Crimson (if there's only one) operates from somewhere in the 
 
 #### Connections
 - **Regional Lieutenants:** Silas the Fence (Silverpine), The Iron Hand (Crossvale), Whisper (Goldreach), and others
-- **Trade Prince Lucian:** Business arrangement—mutual benefit, mutual distrust
+- **Trade Prince Lucian:** Business arrangement. Mutual benefit, mutual distrust
 - **City Watch Commanders:** Several have quiet understandings. Captain Lyra Swiftwind is notably NOT one of them.
-- **The Crimson Order:** The blood mage society chose their name coincidentally—or did they? Crimson finds the confusion useful.
+- **The Crimson Order:** The blood mage society chose their name coincidentally, or did they? Crimson finds the confusion useful.
 - **Lady Morgana Blackwater:** Has used Syndicate services. Crimson finds her increasingly concerning.
 
 {{pageNumber,auto}}
@@ -7559,7 +7656,7 @@ The current Master Crimson (if there's only one) operates from somewhere in the 
 2. **The Succession:** The title has been held by three people over forty years. Elena is the third, having inherited it from her mentor ten years ago.
 3. **The Blood Mages:** The Crimson Order actually did name themselves after the Syndicate as a subtle tribute. Several blood mages are Syndicate members.
 4. **Lucian's Secret:** Knows about the Trade Prince's assassination of his rival. The evidence is part of Crimson's insurance collection.
-5. **The Moral Line:** Elena has rules her predecessors didn't—no children, no killing for revenge only, no slavery. Some lieutenants chafe at these restrictions.
+5. **The Moral Line:** Elena has rules her predecessors didn't: no children, no killing for revenge only, no slavery. Some lieutenants chafe at these restrictions.
 }}
 
 #### Plot Hooks
@@ -7625,7 +7722,7 @@ Under Crimson's leadership, the Syndicate has become almost respectable—a shad
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Identity:** Is actually three people sharing the role—a human, an elf, and a half-orc who rotate duties.
+1. **The Identity:** Is actually three people sharing the role, a human, an elf, and a half-orc who rotate duties.
 2. **The Retirement Plan:** Has been slowly preparing to dissolve the Syndicate and transform it into legitimate business.
 3. **The Protection Racket:** Some of the people Syndicate "protects" are actually hostages. If Crimson falls, so do they.
 4. **The Law Enforcement Deals:** Multiple governments secretly pay the Syndicate to maintain underworld order.
@@ -7681,7 +7778,7 @@ ___
 #### Background & History
 Thalia grew up in the forests bordering the Ironspine Mountains, daughter of two rangers who taught her to track before she could read. She joined the Ironspine Rangers at sixteen, the youngest in their history, and proved herself during the Troll Wars of 1210 CR when she single-handedly tracked and killed a troll chieftain.
 
-The Ironspine Rangers patrol the mountains' lower slopes and forest boundaries, protecting travelers and settlements from the creatures that emerge from the peaks. It's unglamorous work—more about prevention and patrol than heroic battles—but Thalia has shaped them into the most effective wilderness force in Thaldros.
+The Ironspine Rangers patrol the mountains' lower slopes and forest boundaries, protecting travelers and settlements from the creatures that emerge from the peaks. It's unglamorous work (more about prevention and patrol than heroic battles) but Thalia has shaped them into the most effective wilderness force in Thaldros.
 
 Her command style is quiet competence; she leads by example and rarely raises her voice. Her rangers worship her, not because she asks them to but because she genuinely cares about each of them. She knows every ranger's name, family situation, and weaknesses, and she never sends someone on a mission they can't handle.
 
@@ -7698,11 +7795,11 @@ Her command style is quiet competence; she leads by example and rarely raises he
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Monster Migration:** Has noticed monsters moving downward from the peaks—fleeing something above.
+1. **The Monster Migration:** Has noticed monsters moving downward from the peaks: fleeing something above.
 2. **The Lost Patrol:** A patrol disappeared three months ago. She's been searching secretly, fearing the worst.
 3. **The Ranger Corruption:** Suspects one of her rangers is feeding information to bandits. Building a case carefully.
 4. **The Personal Grief:** Lost her parents to a monster attack she could have prevented. Still blames herself.
-5. **The Mountain Summit:** Has seen something at the highest peak—lights, movement. Hasn't reported it yet.
+5. **The Mountain Summit:** Has seen something at the highest peak, lights, movement. Hasn't reported it yet.
 }}
 
 #### Plot Hooks
@@ -7751,11 +7848,11 @@ ___
 }}
 
 #### Background & History
-The Forgebound Guild has shaped metal in the Ironspine Mountains for two thousand years, and Rurik can trace his lineage back to its founders. He inherited not just their skill but their obsession—the pursuit of perfect metallurgy, the creation of items that will outlast empires.
+The Forgebound Guild has shaped metal in the Ironspine Mountains for two thousand years, and Rurik can trace his lineage back to its founders. He inherited not just their skill but their obsession, the pursuit of perfect metallurgy, the creation of items that will outlast empires.
 
 Rurik became Forge-Master at the young age of 95 (young for a dwarf), after his predecessor died in a forge accident that Rurik suspects was sabotage. He's spent the last century modernizing the Guild while preserving its traditions, a balance that requires constant negotiation between young innovators and ancient conservatives.
 
-His personal forge produces the finest work in Thaldros, and possibly the world. Kings pay fortunes for Rurik's personal touch, but he's more interested in craft than wealth. He dreams of creating a legendary artifact to rival those of the pre-Worldrend age—a masterwork that will ensure his name lives forever.
+His personal forge produces the finest work in Thaldros, and possibly the world. Kings pay fortunes for Rurik's personal touch, but he's more interested in craft than wealth. He dreams of creating a legendary artifact to rival those of the pre-Worldrend age, a masterwork that will ensure his name lives forever.
 
 #### Connections
 - **Guild:** Eight hundred smiths across multiple mountain forges
@@ -7772,7 +7869,7 @@ His personal forge produces the finest work in Thaldros, and possibly the world.
 #### Secrets (DM Only)
 1. **The Sabotage:** His predecessor was definitely murdered. He's been hunting the killer for a century.
 2. **The Forbidden Technique:** Knows how to forge using dragon fire. It's dangerous and possibly illegal.
-3. **The Legendary Plans:** Has designs for a legendary weapon but lacks one crucial component—something that may no longer exist.
+3. **The Legendary Plans:** Has designs for a legendary weapon but lacks one crucial component, something that may no longer exist.
 4. **The Exceptional Apprentice:** One apprentice has more talent than Rurik himself. He's torn between pride and jealousy.
 5. **The Guild's Secret:** The Forgebound have a sealed vault containing weapons too dangerous to release. He knows what's inside.
 }}
@@ -7906,7 +8003,7 @@ Now at 25, he serves as his father's chief military advisor and ambassador. He's
 #### Secrets (DM Only)
 1. **The Secret Correspondence:** Thorin exchanges letters with Princess Elanil Aethermere about eventual reunification. If discovered, it would be seen as treason by hardliners on both sides. The letters are encoded and delivered through trusted merchant intermediaries.
 
-2. **The Older Half-Brother:** During northern service, Thorin discovered evidence of a bastard half-brother—a son his father sired with a servant woman before courting Lady Mara. This man is older than Thorin and, if Thorin's own pre-marriage birth becomes public, could press a stronger claim. He's kept this quiet, but the brother (now a mercenary) may surface.
+2. **The Older Half-Brother:** During northern service, Thorin discovered evidence of a bastard half-brother, a son his father sired with a servant woman before courting Lady Mara. This man is older than Thorin and, if Thorin's own pre-marriage birth becomes public, could press a stronger claim. He's kept this quiet, but the brother (now a mercenary) may surface.
 
 3. **The Dragon Pact:** Thorin secretly met with a bronze dragon named Aerthis who lives in the northern peaks. They've formed a tentative alliance - the dragon provides intelligence on giant movements, Thorin keeps miners away from the dragon's territory. His father doesn't know.
 
@@ -8229,7 +8326,7 @@ She's walked a careful line between her mother's cautious wisdom and pushing for
 #### Connections
 - **Mother:** High Queen Aelindra Aethermere (loves and respects, sometimes frustrated by caution)
 - **Brother:** Archmage Eldrin Aethermere (close siblings, he supports her diplomatic efforts)
-- **Chosen Heir:** Theron Aethermere (complex relationship—he will inherit, not her)
+- **Chosen Heir:** Theron Aethermere (complex relationship: he will inherit, not her)
 - **Secret Correspondent:** Crown Prince Thorin Thandris (potential ally, growing friendship, possibly romantic tension)
 - **Mentor:** Council Elder Thaelon Starlight (her mother's advisor, taught her diplomacy)
 - **Friend:** Council Mistress Elara Silverleaf (Silverpine, shares vision of cooperation)
@@ -8552,11 +8649,11 @@ Handsome and well-groomed (5'11", 175 lbs) with the practiced charm of a success
 - Cold - values people by utility, struggles with genuine emotion
 
 #### Background & History
-Born in 1202 CR to Lord Aldris Goldshore III (half-elf) and Lady Mirella Goldshore (human), young Aldris inherited his mother's human appearance despite his father's elven blood—a quirk of mixed heritage that occasionally produces fully human-presenting offspring. His mother died when he was twelve (officially illness, though whispers suggest poison from rivals).
+Born in 1202 CR to Lord Aldris Goldshore III (half-elf) and Lady Mirella Goldshore (human), young Aldris inherited his mother's human appearance despite his father's elven blood: a quirk of mixed heritage that occasionally produces fully human-presenting offspring. His mother died when he was twelve (officially illness, though whispers suggest poison from rivals).
 
 His father taught him business ruthlessly; the streets of Goldreach taught him cunning. At 20, he took control of a failing trade route and made it profitable through brilliant negotiation, strategic bribes, and eliminating competition (legally, mostly). By 25, he was running a quarter of House Goldshore's operations.
 
-As Lord Aldris III aged and his half-elven vitality finally began to wane in his 160s, Aldris IV gradually assumed more control. By 1235 CR, the transition was essentially complete—III remained the official patriarch and made major decisions, but IV handled day-to-day operations and the family's "gray market" enterprises.
+As Lord Aldris III aged and his half-elven vitality finally began to wane in his 160s, Aldris IV gradually assumed more control. By 1235 CR, the transition was essentially complete, III remained the official patriarch and made major decisions, but IV handled day-to-day operations and the family's "gray market" enterprises.
 
 Now at 45, Aldris IV is one of the wealthiest individuals in Tirvandor, controls a vast merchant fleet, and has influence in both kingdoms. His father, at 178, remains sharp but increasingly reclusive, focused on his obsession with recovering the Deepwater vaults. IV privately considers his father's fixation a waste of resources but indulges it for now.
 
@@ -8581,7 +8678,7 @@ He's untouchable due to wealth, connections, and careful legal maneuvering. Many
 #### Secrets (DM Only)
 1. **The Smuggling Empire:** Beyond legal trade, Aldris runs a massive smuggling operation - restricted goods, weapons, information, people. He uses legitimate merchant ships as cover. The operation generates as much profit as his legal business.
 
-2. **The Mother's Murder:** Aldris suspects his mother was poisoned by rivals when he was twelve—but he's recently discovered evidence it may have been his own father who arranged it. She threatened to expose his illegal operations to authorities. Aldris is torn between rage and admiration at his father's ruthlessness.
+2. **The Mother's Murder:** Aldris suspects his mother was poisoned by rivals when he was twelve, but he's recently discovered evidence it may have been his own father who arranged it. She threatened to expose his illegal operations to authorities. Aldris is torn between rage and admiration at his father's ruthlessness.
 
 3. **The Syndicate Alliance:** Aldris is a silent partner in The Syndicate's operations in Goldreach. He provides shipping, they handle enforcement and dirty work. Master Crimson meets with him monthly. If exposed, both would claim ignorance.
 
@@ -9250,7 +9347,7 @@ She became Matriarch of House Silverleaf in 1102 CR (at 242) when her mother pas
 
 She transformed Silverpine from a small forest settlement into a major city - while ensuring it remained in harmony with the Silverwood. She established the University, attracted scholars and artisans, created a model of urban-forest coexistence that others try to emulate.
 
-But she's tired. Nearly 1,400 years is ancient even for elves—she's among the oldest living beings in Thaldros, second only to her ancestor Matriarch Seraphina. She's seen friends die, forests burn and regrow, kingdoms rise and fall. She's grooming her son Arannis to inherit, but worries he's too aggressive, too willing to fight rather than negotiate.
+But she's tired. Nearly 1,400 years is ancient even for elves. She's among the oldest living beings in Thaldros, second only to her ancestor Matriarch Seraphina. She's seen friends die, forests burn and regrow, kingdoms rise and fall. She's grooming her son Arannis to inherit, but worries he's too aggressive, too willing to fight rather than negotiate.
 
 Recently, the forest has been whispering warnings. Something is wrong in the deep woods. Trees are dying in patterns she doesn't recognize. Animals flee from nothing visible. She fears something from before the Worldrend is awakening.
 
@@ -10293,11 +10390,11 @@ Traits
 - Distrusts outsiders, especially southern merchants
 
 #### Background & History
-Brenna was born in a snowstorm on the coldest night in a century—an omen, the village elders said. They were right; she was born with the cold in her blood, able to endure temperatures that would kill others and shrug off frostbite like a minor inconvenience.
+Brenna was born in a snowstorm on the coldest night in a century, an omen, the village elders said. They were right; she was born with the cold in her blood, able to endure temperatures that would kill others and shrug off frostbite like a minor inconvenience.
 
 She joined the northern garrison at twenty and quickly proved herself in conflicts with frost giants and ice trolls. Her fearlessness in cold-weather combat earned her command of the Winter Guard, the elite unit that patrols the frozen north during the months when normal soldiers cannot operate.
 
-Now forty, she's a legend among northern troops—part commander, part force of nature. Her tactical brilliance in winter conditions is matched only by her struggle to connect with people in peacetime. She's spent so long in the cold that warmth—emotional and physical—makes her uncomfortable.
+Now forty, she's a legend among northern troops. Part commander, part force of nature. Her tactical brilliance in winter conditions is matched only by her struggle to connect with people in peacetime. She's spent so long in the cold that warmth, emotional and physical, makes her uncomfortable.
 \column
 #### Connections
 - **Command:** Eighty Winter Guard soldiers
@@ -10311,7 +10408,7 @@ Now forty, she's a legend among northern troops—part commander, part force of 
 {{descriptive
 #### Secrets (DM Only)
 1. **The Frost Giant Vendetta:** Jarl Grimtusk killed her brother. She's planning assassination, not mere combat.
-2. **The Ice Blessing:** Her cold resistance isn't natural—a frost spirit blessed her at birth. It's slowly changing her.
+2. **The Ice Blessing:** Her cold resistance isn't natural, a frost spirit blessed her at birth. It's slowly changing her.
 3. **The Failed Romance:** Tried to have a normal relationship once. Couldn't make it work. Still hurts.
 4. **The Command Disagreement:** Believes Stormwatcher's giant pacts are weakness. Would expose them if she had proof.
 5. **The Spirit's Price:** The frost spirit will eventually come to collect. She doesn't know what it wants.
@@ -10411,7 +10508,7 @@ ___
 }}
 
 #### Background & History
-Eirlys was born completely blind, but where her eyes should see darkness, she perceives the patterns of cold—heat signatures, frozen water, the breath of living things. The northern shamans recognized her gift and trained her as a seer, teaching her to read the future in snowfall patterns and ice crystal formations.
+Eirlys was born completely blind, but where her eyes should see darkness, she perceives the patterns of cold. Heat signatures, frozen water, the breath of living things. The northern shamans recognized her gift and trained her as a seer, teaching her to read the future in snowfall patterns and ice crystal formations.
 
 She became the Frost Seer at thirty, the youngest in seven generations. Her predictions have saved countless lives, from warning of avalanches to foreseeing giant raids. The northern garrison considers her indispensable; commanders plan major operations only after consulting her.
 
@@ -10526,7 +10623,7 @@ Ancient and weathered (5'5", 110 lbs), appearing far older than her 68 years. Ha
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Sleeping God:** Has seen what lies beneath the northern glacier—an ancient entity of pure cold. It's dreaming, and its dreams affect reality.
+1. **The Sleeping God:** Has seen what lies beneath the northern glacier, an ancient entity of pure cold. It's dreaming, and its dreams affect reality.
 2. **The Death Visions:** Can see when someone will die. Never tells them, but the knowledge weighs heavily.
 3. **The Correspondence:** She and the Sand Prophet have compared visions. They've seen the same catastrophe from different angles.
 4. **The Limited Time:** Her gift is killing her slowly, freezing her from within. She has perhaps ten more years.
@@ -10534,7 +10631,7 @@ Ancient and weathered (5'5", 110 lbs), appearing far older than her 68 years. Ha
 }}
 
 #### Plot Hooks
-1. **The Vision Sharing:** Has seen something about the party. Offers to share it—for a price.
+1. **The Vision Sharing:** Has seen something about the party. Offers to share it, for a price.
 2. **The Dream Investigation:** The sleeping god's dreams are intensifying. Needs help investigating without waking it.
 3. **The Prophet Meeting:** Wants to meet the Sand Prophet in person to compare full visions. Needs escort.
 4. **The Mortality Quest:** Seeking a way to extend her life or at least slow the freezing.
@@ -10597,9 +10694,9 @@ ___
 #### Background & History
 Torvald was born to a long line of soldiers, each serving in the mountain garrisons. His father commanded the eastern pass; his grandfather died defending it. The shield he carries has been in his family for eight generations, and he intends to pass it on with his family's honor intact.
 
-He took command of Stoneshield Keep at forty after distinguishing himself against orc raiders. For twenty years, he's maintained the most boring command in the Ironspines—which suits him perfectly. Boring means no deaths, no disasters, no families receiving terrible news. He's made boring into an art form.
+He took command of Stoneshield Keep at forty after distinguishing himself against orc raiders. For twenty years, he's maintained the most boring command in the Ironspines, which suits him perfectly. Boring means no deaths, no disasters, no families receiving terrible news. He's made boring into an art form.
 
-But the mountains are getting less boring. Patrols are finding tracks they can't identify, scouts are reporting lights in abandoned mines, and something killed a giant last month—something bigger than a giant. Torvald is preparing for war while hoping desperately it never comes.
+But the mountains are getting less boring. Patrols are finding tracks they can't identify, scouts are reporting lights in abandoned mines, and something killed a giant last month, something bigger than a giant. Torvald is preparing for war while hoping desperately it never comes.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -10682,7 +10779,7 @@ The Icewind Trading Company has controlled the northern ice-trade for three gene
 
 Kael took over at twenty-five when his father died, and immediately modernized operations. New ice-harvesting techniques, improved magical preservation, expanded shipping routes. In fifteen years, he's tripled the company's value and opened markets in Aethoria.
 
-But he's restless. Money is just a way of keeping score, and he's already winning. He's started investing in stranger ventures—archaeological expeditions, magical research, political causes. He wants to matter, to change the world, not just sell ice to nobles. He's just not sure how yet.
+But he's restless. Money is just a way of keeping score, and he's already winning. He's started investing in stranger ventures, archaeological expeditions, magical research, political causes. He wants to matter, to change the world, not just sell ice to nobles. He's just not sure how yet.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
@@ -10707,7 +10804,7 @@ But he's restless. Money is just a way of keeping score, and he's already winnin
 #### Plot Hooks
 1. **The Expedition Funding:** Offers to fund the party's expedition in exchange for first rights to anything found.
 2. **The Ice Memories:** Has found a memory that seems relevant to current events. Needs help interpreting it.
-3. **The Witch's Service:** The Frost Witch has called in her debt. He needs help fulfilling it—or escaping it.
+3. **The Witch's Service:** The Frost Witch has called in her debt. He needs help fulfilling it, or escaping it.
 4. **The Artifact Study:** The Worldrend artifact is doing something unexpected. Needs experts to examine it.
 5. **The Friend Request:** Looking for genuine companions, not sycophants. Tests the party's character.
 
@@ -10756,7 +10853,7 @@ ___
 #### Background & History
 Grimnir was born a thousand feet underground and has spent most of his 180 years even deeper. The Deepdelve clan has mined the Ironspines since before human history, and Grimnir knows tunnels his great-grandfather discovered that still haven't been fully explored.
 
-He became Master Miner—the dwarf responsible for all mining operations in the central Ironspines—after the previous master died in a cave-in that shouldn't have happened. Grimnir discovered sabotage, tracked down those responsible, and dealt with them personally. He's been paranoid about safety ever since.
+He became Master Miner (the dwarf responsible for all mining operations in the central Ironspines) after the previous master died in a cave-in that shouldn't have happened. Grimnir discovered sabotage, tracked down those responsible, and dealt with them personally. He's been paranoid about safety ever since.
 
 His miners respect him because he still works alongside them, despite his position. He says he can't trust any tunnel he hasn't walked himself. Truthfully, he can't stand paperwork and would rather swing a pickaxe than attend meetings. His subordinates handle administration while he explores.
 
@@ -10773,9 +10870,9 @@ His miners respect him because he still works alongside them, despite his positi
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Deep Negotiation:** Made a deal with deep-dwelling creatures—certain tunnels are theirs, certain are ours.
+1. **The Deep Negotiation:** Made a deal with deep-dwelling creatures, certain tunnels are theirs, certain are ours.
 2. **The Mithril Vein:** Found a vein of pure mithril. Concealing it until he can arrange proper extraction and security.
-3. **The Previous Master:** Didn't just find the saboteurs—extracted information before killing them. Someone powerful ordered the sabotage.
+3. **The Previous Master:** Didn't just find the saboteurs, extracted information before killing them. Someone powerful ordered the sabotage.
 4. **The Thing in the Dark:** Has glimpsed something in the deepest tunnels. Bigger than anything should be. It's watching.
 5. **The Family Secret:** The Deepdelve clan originated from dwarves who fled something below. Family legends hint at what.
 }}
@@ -10881,11 +10978,11 @@ Ethereally beautiful (5'10", 140 lbs) with pale, almost translucent skin. Long w
 ---
 
 #### Background & History
-Ylva was born during a blizzard that killed her mother and left her father's fingers blackened with frostbite. The village should have left her to die—winter's children rarely survived—but her father refused. She lived, and the cold followed her.
+Ylva was born during a blizzard that killed her mother and left her father's fingers blackened with frostbite. The village should have left her to die, winter's children rarely survived, but her father refused. She lived, and the cold followed her.
 
 By ten, she could freeze water with a touch. By twenty, she could summon blizzards. The villagers drove her out, calling her cursed. She found refuge in the ice caves of Mount Frostpeak, where she's lived for sixty years, growing stronger and stranger.
 
-She's not evil—she protects the mountain communities from avalanches and warns of deadly storms. But she's no longer entirely human. The ice has seeped into her soul, making her cold, patient, and difficult to understand. Those who approach her properly receive help; those who don't face the fury of winter.
+She's not evil. She protects the mountain communities from avalanches and warns of deadly storms. But she's no longer entirely human. The ice has seeped into her soul, making her cold, patient, and difficult to understand. Those who approach her properly receive help; those who don't face the fury of winter.
 
 #### Connections
 - **Friend:** The Frost Seer Eirlys (kindred spirits)
@@ -10907,7 +11004,7 @@ She's not evil—she protects the mountain communities from avalanches and warns
 1. **The Mountain's Will:** The voice wants something. She needs help interpreting its desires.
 2. **The Fire Cult Return:** The survivors are gathering strength. She needs allies against them.
 3. **The Transformation Cure:** Seeking a way to slow or stop her transformation. Willing to reward help.
-4. **The Helga Conflict:** The feud with Helga is escalating. Could use allies—or mediators.
+4. **The Helga Conflict:** The feud with Helga is escalating. Could use allies, or mediators.
 5. **The Frozen Love:** Has found a way to thaw her lover safely. Needs help with the ritual.
 
 {{pageNumber,auto}}
@@ -11049,11 +11146,11 @@ ___
 - **Tools:** Runic transcription kit
 
 #### Background & History
-Veridian's name honors Archmage Veridian Starweaver—his parents were scribes who hoped naming their son after the famous University wizard would bring him luck. It worked; he's become one of the foremost scholars of runic magic in Thaldros, able to read inscriptions that have baffled others for centuries.
+Veridian's name honors Archmage Veridian Starweaver, his parents were scribes who hoped naming their son after the famous University wizard would bring him luck. It worked; he's become one of the foremost scholars of runic magic in Thaldros, able to read inscriptions that have baffled others for centuries.
 
 His specialty is pre-Worldrend text, the ancient scripts that were used before the world was torn apart. He's spent sixty years collecting rubbings, copying inscriptions, and developing translation methods. His crowning achievement is a partial dictionary of the Elder Script, the language used by the civilization that caused the Worldrend.
 
-He works from a cluttered study in the Silverpine Magical Academy, surrounded by books, scrolls, and strange artifacts. He's absent-minded about everyday matters but razor-sharp about his field. Students simultaneously adore and fear him—he's brilliant but demands excellence.
+He works from a cluttered study in the Silverpine Magical Academy, surrounded by books, scrolls, and strange artifacts. He's absent-minded about everyday matters but razor-sharp about his field. Students simultaneously adore and fear him. He's brilliant but demands excellence.
 
 #### Connections
 - **Institution:** Silverpine Magical Academy (senior professor)
@@ -11069,7 +11166,7 @@ He works from a cluttered study in the Silverpine Magical Academy, surrounded by
 {{descriptive
 #### Secrets (DM Only)
 1. **The Complete Translation:** Has secretly translated more Elder Script than he's published. Some texts are too dangerous.
-2. **The Worldrend Cause:** His translations suggest the Worldrend was deliberate—someone meant to tear the world apart.
+2. **The Worldrend Cause:** His translations suggest the Worldrend was deliberate, someone meant to tear the world apart.
 3. **The Warning:** One text appears to describe how to prevent a second Worldrend. He's still deciphering it.
 4. **The Stolen Artifact:** Stole a key artifact from treasure hunters who would have destroyed it. Technically illegal.
 5. **The Immortality Hints:** Some texts describe techniques for extending life. He's tempted to try them.
@@ -11077,7 +11174,7 @@ He works from a cluttered study in the Silverpine Magical Academy, surrounded by
 
 #### Plot Hooks
 1. **The Translation Project:** Has a text that resists translation. Needs adventurers to investigate its source.
-2. **The Dangerous Knowledge:** Ready to share what he knows about the Worldrend—but only with those he trusts.
+2. **The Dangerous Knowledge:** Ready to share what he knows about the Worldrend, but only with those he trusts.
 3. **The Artifact Problem:** The stolen artifact is being sought. Needs help either hiding it or legitimizing his possession.
 4. **The Field Expedition:** Needs to visit a ruin to study inscriptions in context. Needs protection.
 5. **The Prevention Theory:** Believes he's found instructions to prevent catastrophe. Needs help implementing them.
@@ -11269,9 +11366,9 @@ Borin can use his reaction to become the target instead.
 #### Background & History
 The Stonecutter clan has managed the great stone quarries south of the Ironspines for eight generations. Borin inherited the operation at fifty when his mother retired, and has spent the last century turning a profitable business into an essential one.
 
-His stone builds the castles, bridges, and monuments of a dozen kingdoms. He employs three thousand workers across multiple quarries and has developed techniques that produce stone of unprecedented quality. His personal fortune rivals some noble houses, but he lives simply—wealth is for reinvestment, not display.
+His stone builds the castles, bridges, and monuments of a dozen kingdoms. He employs three thousand workers across multiple quarries and has developed techniques that produce stone of unprecedented quality. His personal fortune rivals some noble houses, but he lives simply. Wealth is for reinvestment, not display.
 
-He's a patient negotiator, willing to wait years for the right deal. He's also utterly ruthless when crossed; anyone who cheats him discovers their stone shipments delayed indefinitely, their competitors suddenly well-supplied. He doesn't need to threaten—his control of the market speaks for itself.
+He's a patient negotiator, willing to wait years for the right deal. He's also utterly ruthless when crossed; anyone who cheats him discovers their stone shipments delayed indefinitely, their competitors suddenly well-supplied. He doesn't need to threaten, his control of the market speaks for itself.
 
 #### Connections
 - **Employees:** Three thousand quarry workers
@@ -11613,7 +11710,7 @@ Traits
 #### Background & History
 Aldric's family has been woodworkers for ten generations, but he's the first to achieve true mastery. His joints are invisible, his carvings lifelike, his furniture sold to royalty across both continents. He's transformed the family workshop into a renowned atelier.
 
-He discovered his exceptional talent young—he could see how wood wanted to be shaped, could sense the grain and flow of lumber as clearly as others see color. By thirty, he was taking commissions from nobles. By fifty, he was turning them away—there's only so much he can produce, and he chooses projects that interest him.
+He discovered his exceptional talent young: he could see how wood wanted to be shaped, could sense the grain and flow of lumber as clearly as others see color. By thirty, he was taking commissions from nobles. By fifty, he was turning them away, there's only so much he can produce, and he chooses projects that interest him.
 
 He's gentle and patient, more interested in teaching than fame. He takes one apprentice at a time, training them for seven years before pronouncing them ready. His former students are among the finest woodworkers in the world.
 
@@ -11736,7 +11833,7 @@ Traits
 - Always knows what time it is by mill wheel rotations
 
 **Ideals:**
-- **Precision:** "Flour quality depends on perfect millstone gaps. Life's the same—precision matters."
+- **Precision:** "Flour quality depends on perfect millstone gaps. Life's the same: precision matters."
 - **Service:** "Every loaf of bread starts here. That's responsibility."
 - **Innovation:** "There's always a better wheel design. Always room to improve."
 - **Reliability:** "The mill runs 24 hours because people rely on it. So do I."
@@ -11758,7 +11855,7 @@ Traits
 - Paranoid about sabotage after previous incident
 \column
 #### Background & History
-The Waterwheel mill has ground grain for the village of Millbrook for two hundred years. Tobias is the fifth generation to run it, and possibly the last—his sons have left for city trades, and his daughter shows no interest in flour-dusted labor.
+The Waterwheel mill has ground grain for the village of Millbrook for two hundred years. Tobias is the fifth generation to run it, and possibly the last, his sons have left for city trades, and his daughter shows no interest in flour-dusted labor.
 
 He's content with his life: steady work, respected position, enough coin to be comfortable. He knows every farmer within ten miles, their crops, their troubles, their secrets. The mill is where people talk while waiting for their grain, and Tobias listens more than he speaks.
 
@@ -11855,7 +11952,7 @@ ___
 }}
 
 #### Physical Description
-Elegant and commanding presence (5'8", 145 lbs) with the poise of generations of nobility. Auburn hair worn in practical noble style, sometimes covered with silk scarf. Striking green eyes that assess people instantly. Fair skin despite outdoor work managing estates. Wears practical but expensive clothing—reinforced silk that looks decorative but allows movement. Always carries rapier at hip, though she makes it look decorative.
+Elegant and commanding presence (5'8", 145 lbs) with the poise of generations of nobility. Auburn hair worn in practical noble style, sometimes covered with silk scarf. Striking green eyes that assess people instantly. Fair skin despite outdoor work managing estates. Wears practical but expensive clothing, reinforced silk that looks decorative but allows movement. Always carries rapier at hip, though she makes it look decorative.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
@@ -12024,7 +12121,7 @@ ___
 (Human Form)
 Rugged and battle-hardened (6'1", 200 lbs) with the weathered look of frontier life. Dark brown hair kept military short. Intense gray eyes that sometimes flash amber in moonlight. Strong jawline with short beard showing early gray. Multiple scars across face and arms from frontier combat. Moves with controlled power, like a caged wolf. Wears half-plate that's seen heavy use but is meticulously maintained. Smells of leather, steel, and wild places. Carries himself with authority but growing weariness.
 
-**(Hybrid Form):** Gains wolf-like features—elongated snout, fangs, claws, fur covering body, digitigrade legs, tail. Height increases to 7 feet. Eyes glow amber. Still recognizable but terrifying. Retains ability to speak (with difficulty).
+**(Hybrid Form):** Gains wolf-like features, elongated snout, fangs, claws, fur covering body, digitigrade legs, tail. Height increases to 7 feet. Eyes glow amber. Still recognizable but terrifying. Retains ability to speak (with difficulty).
 
 **(Wolf Form):** Large black wolf with gray eyes. Indistinguishable from dire wolf except for amber eye-flash in moonlight.
 
@@ -12078,9 +12175,9 @@ Traits
 #### Background & History
 Marcus was a promising young captain in the border guard when the werewolf pack attacked. Most of his patrol died; he was bitten and left for dead. He survived, changed, and faced a choice: surrender to the beast or master it.
 
-Twenty years later, he's done the impossible—maintained his humanity while using his lycanthropy to protect the frontier. The wild lands are full of creatures that normal soldiers can't fight; Marcus can. He operates alone, reporting to commanders who officially don't know what he is.
+Twenty years later, he's done the impossible, maintained his humanity while using his lycanthropy to protect the frontier. The wild lands are full of creatures that normal soldiers can't fight; Marcus can. He operates alone, reporting to commanders who officially don't know what he is.
 
-He's not cured—there's no cure. But he's found equilibrium: running wild during full moons in unpopulated areas, taking wolfsbane to maintain control, and channeling the predator inside toward protecting the helpless. It costs him everything else. He has no family, few friends, and no hope of a normal life.
+He's not cured, there's no cure. But he's found equilibrium: running wild during full moons in unpopulated areas, taking wolfsbane to maintain control, and channeling the predator inside toward protecting the helpless. It costs him everything else. He has no family, few friends, and no hope of a normal life.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
@@ -12095,7 +12192,7 @@ He's not cured—there's no cure. But he's found equilibrium: running wild durin
 {{descriptive
 #### Secrets (DM Only)
 1. **The Pack Hunt:** Has been systematically hunting the werewolves who turned him. Three left.
-2. **The Control Secret:** His control isn't natural—it's a ritual Morganna developed. Requires monthly renewal.
+2. **The Control Secret:** His control isn't natural: it's a ritual Morganna developed. Requires monthly renewal.
 3. **The Bite Risk:** Has accidentally bitten two people. Found them and ensured they received help.
 4. **The Retirement Dream:** Wants to find a cure and live normally. Knows it probably doesn't exist.
 5. **The Silver Wolf Connection:** The Silver Wolf is his turned mentor. They're linked but on opposite paths.
@@ -12254,9 +12351,9 @@ Traits
 #### Background & History
 Before the curse, she was Captain Helena Silverbane, the most decorated officer in the frontier guard. She was Marcus's mentor, the one who trained him, the one who led the patrol into the werewolf ambush. She was the first bitten, and the first to turn.
 
-Unlike Marcus, she didn't fight the beast—she embraced it. The Wolf offered freedom from human frailty, from pain, from the slow decline of aging. She disappeared into the wilderness and built a pack of werewolves who live as she does: hunting, running, wild and free.
+Unlike Marcus, she didn't fight the beast: she embraced it. The Wolf offered freedom from human frailty, from pain, from the slow decline of aging. She disappeared into the wilderness and built a pack of werewolves who live as she does: hunting, running, wild and free.
 
-She's not evil in any simple sense. Her pack doesn't attack innocents unprovoked. But they are predators, and they claim hunting territories that sometimes conflict with human settlements. She believes lycanthropy is a gift and seeks to share it—willing or not—with those she deems worthy.
+She's not evil in any simple sense. Her pack doesn't attack innocents unprovoked. But they are predators, and they claim hunting territories that sometimes conflict with human settlements. She believes lycanthropy is a gift and seeks to share it, willing or not, with those she deems worthy.
 
 #### Connections
 - **Pack:** Twelve werewolves loyal to her
@@ -12554,10 +12651,10 @@ Traits
 - Treats all living things with respect
 
 **Ideals:**
-- **Balance:** "Life and death, growth and decay—all part of the cycle."
+- **Balance:** "Life and death, growth and decay, all part of the cycle."
 - **Protection:** "The forest shelters us. We shelter the forest. This is the way."
 - **Ancient Ways:** "The old ways preserved forests for millennia. Modern ways threaten them."
-- **Debt:** "The forest remembers all debts—those paid and those owed."
+- **Debt:** "The forest remembers all debts, those paid and those owed."
 
 **Bonds:**
 - The entire forest (considers it a living entity)
@@ -12578,7 +12675,7 @@ Traits
 #### Background & History
 Thornwood isn't a name—it's what the forest itself calls him. He was born human, with a human name he's forgotten, in a village that no longer exists. When loggers came to clearcut his home forest, he called on power he didn't know he had. The forest responded. The loggers didn't survive.
 
-That was sixty years ago. Since then, he's become more forest than man. Bark grows on his skin, leaves sprout from his hair, and he can be in any part of the forest simultaneously by traveling through the root network. He protects the woodland from all threats—natural and unnatural.
+That was sixty years ago. Since then, he's become more forest than man. Bark grows on his skin, leaves sprout from his hair, and he can be in any part of the forest simultaneously by traveling through the root network. He protects the woodland from all threats. Natural and unnatural.
 
 He's not hostile to civilization, but he's not friendly either. Loggers who harvest sustainably can pass safely; those who clear-cut wake the trees' wrath. Hunters who take only what they need are welcome; poachers are never found. He maintains balance, nothing more.
 
@@ -12695,7 +12792,7 @@ ___
 \page
 
 #### Physical Description
-Distinguished and charismatic (5'10", 160 lbs) with the ageless quality of half-elves. Silver-white hair worn long and theatrical. Sparkling blue eyes that dance with mischief and wisdom. Weathered face with laugh lines and a warm smile. Moves with performer's grace. Wears colorful traveling clothes that have seen a thousand performances. The legendary lute "Memoir" is always within reach. Hands show decades of instrument playing—callused but graceful. Smells of pipe smoke, old books, and campfire stories. Voice is rich, melodious, perfect for songs and tales.
+Distinguished and charismatic (5'10", 160 lbs) with the ageless quality of half-elves. Silver-white hair worn long and theatrical. Sparkling blue eyes that dance with mischief and wisdom. Weathered face with laugh lines and a warm smile. Moves with performer's grace. Wears colorful traveling clothes that have seen a thousand performances. The legendary lute "Memoir" is always within reach. Hands show decades of instrument playing, callused but graceful. Smells of pipe smoke, old books, and campfire stories. Voice is rich, melodious, perfect for songs and tales.
 
 #### Equipment
 - **Armor:** Fine Studded Leather (AC 13, decorated with story-telling scenes)
@@ -12747,7 +12844,7 @@ Traits
 #### Background & History
 Finnegan has been collecting stories for forty years, traveling from village to village, tavern to tavern, gathering tales both true and legendary. He has one of the most comprehensive collections of folklore in Thaldros, and more importantly, he understands how to separate fact from fiction.
 
-He was a soldier in his youth, then a failed merchant, before discovering his true calling: preserving oral tradition. He's not a great musician or performer—merely competent—but his knowledge of stories is encyclopedic. People invite him to perform because his tales are accurate and complete, even when the truth is uncomfortable.
+He was a soldier in his youth, then a failed merchant, before discovering his true calling: preserving oral tradition. He's not a great musician or performer, merely competent, but his knowledge of stories is encyclopedic. People invite him to perform because his tales are accurate and complete, even when the truth is uncomfortable.
 
 Now sixty and slowing down, he's looking for a place to record his collection properly. He fears dying with his head full of stories that will be lost forever.
 
@@ -12859,7 +12956,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 \page
 
 #### Physical Description
-Ancient and frail appearance (5'5", 110 lbs) despite magical longevity. Impossibly old for a human—312 years through magic and fey bargains. Hair is pure white, long and wild, often escapes from loose bun. Pale, paper-thin skin with age spots and wrinkles mapping centuries of study. Eyes are milky white (blind) but "see" through magical sight. Moves slowly, leaning on quarterstaff. Wears dusty gray robes covered in pockets containing scrolls, herbs, and oddities. Thick spectacles for reading (purely aesthetic, she "sees" magically). Smells of old parchment, dried lavender, and ancient dust. Trembling hands from age but mind is sharp as ever.
+Ancient and frail appearance (5'5", 110 lbs) despite magical longevity. Impossibly old for a human, 312 years through magic and fey bargains. Hair is pure white, long and wild, often escapes from loose bun. Pale, paper-thin skin with age spots and wrinkles mapping centuries of study. Eyes are milky white (blind) but "see" through magical sight. Moves slowly, leaning on quarterstaff. Wears dusty gray robes covered in pockets containing scrolls, herbs, and oddities. Thick spectacles for reading (purely aesthetic, she "sees" magically). Smells of old parchment, dried lavender, and ancient dust. Trembling hands from age but mind is sharp as ever.
 
 #### Equipment
 - **Staff:** Ancient Quarterstaff (simple, but has been with her 200+ years)
@@ -12911,11 +13008,11 @@ Traits
 - Sometimes wishes she had let herself die naturally
 
 #### Background & History
-Morganna was once a prominent healer in Silverpine, respected for her skill with both medicine and magic. Then she started hearing whispers—voices from dying patients, from the recently dead, from things that had never been alive. The voices drove her from the city, into the wilderness, where their chatter was quieter.
+Morganna was once a prominent healer in Silverpine, respected for her skill with both medicine and magic. Then she started hearing whispers, voices from dying patients, from the recently dead, from things that had never been alive. The voices drove her from the city, into the wilderness, where their chatter was quieter.
 
 She's lived in her remote cottage for thirty years, visited only by those who need what she uniquely provides: healing for curses, potions that normal apothecaries can't make, and counsel from someone who hears both sides of the living and dead.
 
-She's not mad—the whispers are real. She communes with spirits, ghosts, and stranger things. This has made her invaluable for certain problems and terrifying for most people. She's content with solitude; the living are exhausting, and the dead are usually more polite.
+She's not mad, the whispers are real. She communes with spirits, ghosts, and stranger things. This has made her invaluable for certain problems and terrifying for most people. She's content with solitude; the living are exhausting, and the dead are usually more polite.
 
 #### Connections
 - **Client:** Captain Marcus Frontiersman (provides control ritual)
@@ -13124,9 +13221,9 @@ Traits
 ---
 
 #### Background & History
-Born over four centuries ago in the ancient elven city of Aethermere, Veridian showed prodigious magical talent before he could walk. He was formally inducted into the Arcanum at age forty (young for an elf), became a full wizard at one hundred, and achieved the rank of Archmage at two hundred and fifty—the youngest in recorded history.
+Born over four centuries ago in the ancient elven city of Aethermere, Veridian showed prodigious magical talent before he could walk. He was formally inducted into the Arcanum at age forty (young for an elf), became a full wizard at one hundred, and achieved the rank of Archmage at two hundred and fifty: the youngest in recorded history.
 
-His specialty is divination, but his true mastery lies in the intersection of magical schools. He developed the Starweaver Synthesis—a technique for combining spells of different schools into hybrid effects. The technique is now taught at every major magical academy, though few can replicate his fluency.
+His specialty is divination, but his true mastery lies in the intersection of magical schools. He developed the Starweaver Synthesis, a technique for combining spells of different schools into hybrid effects. The technique is now taught at every major magical academy, though few can replicate his fluency.
 
 He has served as headmaster of the Silverpine Arcanum for seventy-five years, overseeing its expansion from regional school to continental institution. Under his leadership, enrollment has tripled, and the school has produced three archmages and dozens of notable wizards.
 
@@ -13252,11 +13349,11 @@ Traits
 - Uncomfortable in combat situations
 
 #### Background & History
-Miranda earned her nickname honestly—she's never met a mystery she didn't want to solve or a question she wasn't willing to pursue across continents. Born in Crossvale to a merchant family, she rejected the family business at sixteen to attend the Arcanum, specializing in historical research and artifact identification.
+Miranda earned her nickname honestly. She's never met a mystery she didn't want to solve or a question she wasn't willing to pursue across continents. Born in Crossvale to a merchant family, she rejected the family business at sixteen to attend the Arcanum, specializing in historical research and artifact identification.
 
 Her breakthrough came at thirty-five when she correctly identified a "worthless" brooch in a museum collection as a pre-Worldrend communication device. The discovery made her reputation and funded her next twenty years of research.
 
-Now fifty-eight, she holds the Chair of Ancient Studies at the Arcanum and has authored twelve books on pre-Worldrend civilizations. Her field expeditions are legendary—equal parts brilliant archaeological work and barely-survived disasters. Students compete fiercely for spots on her research teams.
+Now fifty-eight, she holds the Chair of Ancient Studies at the Arcanum and has authored twelve books on pre-Worldrend civilizations. Her field expeditions are legendary. Equal parts brilliant archaeological work and barely-survived disasters. Students compete fiercely for spots on her research teams.
 
 Her methodology is controversial in academic circles. She believes in getting her hands dirty, taking calculated risks, and following hunches. "You can't understand history from a library chair," she's fond of saying. "You have to dig it up."
 
@@ -13264,13 +13361,13 @@ Her methodology is controversial in academic circles. She believes in getting he
 - **Merchant Princess Yasmin:** Rival and occasional collaborator in artifact acquisition
 - **Archmage Veridian Starweaver:** Mentor who indulges her unconventional methods
 - **Caravan Master Hassan:** Has provided transport for several expeditions
-- **Tomb Raiders Guild:** Complicated relationship—she buys from them while publicly condemning them
+- **Tomb Raiders Guild:** Complicated relationship. She buys from them while publicly condemning them
 - **Research Assistants:** A rotating cast of graduate students who emerge from her expeditions either traumatized or transformed
 
 {{descriptive
 #### Secrets (DM Only)
 1. **The Forbidden Dig:** Found a pre-Worldrend site nearly a century ago that she's kept secret because what's there is too dangerous to excavate.
-2. **The Tomb Raiders:** More than just a buyer—she founded the guild thirty years ago to fund her research, then "left" while keeping a controlling interest.
+2. **The Tomb Raiders:** More than just a buyer. She founded the guild thirty years ago to fund her research, then "left" while keeping a controlling interest.
 3. **Personal Tragedy:** Lost her husband and daughter on an expedition fifteen years ago. Threw herself into work to avoid dealing with grief she's never processed.
 4. **The Artifact Collection:** Has a private collection of artifacts too dangerous or valuable to document publicly.
 5. **Worldrend Knowledge:** Believes she knows what caused the Worldrend, but the implications are so disturbing she's never published her findings.
@@ -13461,7 +13558,7 @@ Traits
 - Drinks heavily after difficult hunts
 
 #### Background & History
-Kael earned his epithet the hard way—by killing dragons. Not through luck or ambush, but through decades of study, preparation, and countless near-death experiences. He's survived encounters with fourteen dragons and killed eight of them (with significant help).
+Kael earned his epithet the hard way. By killing dragons. Not through luck or ambush, but through decades of study, preparation, and countless near-death experiences. He's survived encounters with fourteen dragons and killed eight of them (with significant help).
 
 Born in a frontier village constantly threatened by a young red dragon, Kael lost half his family before he turned twelve. He dedicated his life to ensuring other families wouldn't suffer the same fate. He joined the Silver Wardens at fifteen, studied under their best monster hunters, and eventually specialized in the most dangerous game.
 
@@ -13473,7 +13570,7 @@ At sixty-four, his body is failing faster than his spirit. Old injuries accumula
 - **Warden Commander Thalia Moonbow:** His commanding officer and one of the few people he considers a peer
 - **Scout Captain Finn Quickfoot:** The halfling has discovered something Kael needs to investigate
 - **Master Smith Durgan Forgefire:** Creates his specialized dragon-hunting equipment
-- **The Dragon Infernalix:** The great wyrm that threatened Kaer Thandros—Kael has studied him for decades
+- **The Dragon Infernalix:** The great wyrm that threatened Kaer Thandros: Kael has studied him for decades
 - **Surviving Students:** Only three of the twelve hunters he's trained are still alive
 
 {{pageNumber,auto}}
@@ -13483,16 +13580,16 @@ At sixty-four, his body is failing faster than his spirit. Old injuries accumula
 {{descriptive
 #### Secrets (DM Only)
 1. **Infernalix's Deal:** Knows about the old king's bargain with the dragon. Suspects it's coming due soon.
-2. **The Ninth Dragon:** There's one he's never spoken about—a dragon he befriended rather than killed, who shares information about dragonkind.
+2. **The Ninth Dragon:** There's one he's never spoken about, a dragon he befriended rather than killed, who shares information about dragonkind.
 3. **Failing Body:** His injuries are worse than he lets on. Some days he can barely grip a sword.
 4. **The Survivor's Guilt:** Three of his students died because of his decisions. He replays those moments constantly.
-5. **Dragon Blood:** During one fight, he was bathed in dragon blood. It changed him subtly—better senses, resistance to fire, and dreams he doesn't understand.
+5. **Dragon Blood:** During one fight, he was bathed in dragon blood. It changed him subtly, better senses, resistance to fire, and dreams he doesn't understand.
 }}
 
 #### Plot Hooks
 1. **The Final Hunt:** One last dragon needs killing before Kael retires. The most dangerous one yet.
 2. **Finn's Discovery:** The halfling scout has found tracks that suggest something ancient is awakening.
-3. **Dragon Friend:** His dragon contact has sent a warning—others of its kind are planning something.
+3. **Dragon Friend:** His dragon contact has sent a warning: others of its kind are planning something.
 4. **Student's Legacy:** One of his dead students had a child who's now old enough to demand answers about how their parent died.
 5. **The Blood's Call:** His dragon-blood changes are intensifying. He needs to understand what's happening before it's too late.
 
@@ -13681,11 +13778,11 @@ Traits
 #### Background & History
 Born to a minor noble family in Silverpine, Thalia was raised with privilege but felt called to service. She joined the Lightbringers at eighteen, one of the few women in the order at the time, and proved herself through sheer determination and undeniable faith.
 
-Her defining moment came during the Tomb of Shadows expedition—a disaster that killed twenty-three Lightbringers and nearly released an imprisoned lich. Thalia was one of seven survivors and the one who ultimately sealed the tomb, though it cost her left arm below the elbow.
+Her defining moment came during the Tomb of Shadows expedition, a disaster that killed twenty-three Lightbringers and nearly released an imprisoned lich. Thalia was one of seven survivors and the one who ultimately sealed the tomb, though it cost her left arm below the elbow.
 
 She now wears a blessed prosthetic forged by dwarven artificers and enchanted by the order's chaplains. It functions nearly as well as flesh and serves as a symbol of sacrifice in the line of duty. She's been promoted to Captain, commanding a company of sixty Lightbringers.
 
-At forty-two, she's considered a rising star in the order—young enough to have decades of service ahead, experienced enough to have earned respect. Some whisper she might eventually challenge for the Iron Council, though she claims no such ambition.
+At forty-two, she's considered a rising star in the order, young enough to have decades of service ahead, experienced enough to have earned respect. Some whisper she might eventually challenge for the Iron Council, though she claims no such ambition.
 
 #### Connections
 - **Lord Commander Gareth Lightbane:** Her superior, who she respects but sometimes questions
@@ -13873,7 +13970,7 @@ Traits
 #### Background & History
 Cornelius has been ancient for as long as anyone can remember. Records from a hundred years ago describe him as "the elderly sage Cornelius," and records from two hundred years ago say the same thing. Either he's found a way to extend his life considerably, or there have been multiple people using the name. He claims the former.
 
-His specialty is ancient civilizations—not the recent ancient, but the truly old. Pre-Worldrend cultures, the Primordials, the First Age. He reads languages no one else can identify, recognizes artifacts others dismiss as rocks, and occasionally references events from millennia ago as if he'd witnessed them.
+His specialty is ancient civilizations, not the recent ancient, but the truly old. Pre-Worldrend cultures, the Primordials, the First Age. He reads languages no one else can identify, recognizes artifacts others dismiss as rocks, and occasionally references events from millennia ago as if he'd witnessed them.
 
 He holds no official position but is consulted by every major institution. The Arcanum keeps a permanent guest chamber for him. The Free Cities Alliance seeks his advice on archaeological policy. Noble houses hire him to authenticate relics. He charges nothing for his services but accepts donations to fund further research.
 
@@ -13881,7 +13978,7 @@ His current residence is a cluttered tower on the outskirts of Silverpine, fille
 
 #### Connections
 - **Professor Miranda Questseeker:** Occasional collaborator, though they disagree on methodology
-- **Archmage Veridian Starweaver:** Old friend—how old, neither will say
+- **Archmage Veridian Starweaver:** Old friend, how old, neither will say
 - **Merchant Princess Yasmin:** She brings him artifacts; he tells her their histories
 - **The Circle of Eight:** Denies any connection but seems suspiciously well-informed about their activities
 - **Nobody knows his family:** He deflects all personal questions with practiced ease
@@ -13889,7 +13986,7 @@ His current residence is a cluttered tower on the outskirts of Silverpine, fille
 {{descriptive
 #### Secrets (DM Only)
 1. **True Age:** He is over eight hundred years old, sustained by a combination of elven blood (he's one-quarter elf), alchemical treatments, and a binding to a genius loci that anchors his life force.
-2. **The Worldrend Witness:** He was alive during the Worldrend. He knows what caused it—and who.
+2. **The Worldrend Witness:** He was alive during the Worldrend. He knows what caused it, and who.
 3. **The Burden:** His knowledge of history includes things that must remain secret for civilization's safety. This burden weighs heavily.
 4. **Multiple Identities:** Has lived under dozens of names throughout history, each with its own documented life and death.
 5. **The Anchor's Price:** His life-sustaining connection requires a yearly ritual that he finds increasingly distasteful.
@@ -13903,7 +14000,7 @@ His current residence is a cluttered tower on the outskirts of Silverpine, fille
 1. **The Critical History:** Something from his knowledge is suddenly relevant. He needs help acting on information he's kept secret for centuries.
 2. **The Ritual:** His yearly ritual has been disrupted. Without it, he'll begin aging rapidly.
 3. **Identity Exposed:** Someone has connected his various historical identities. What do they want?
-4. **Succession:** He's finally contemplating death. Time to pass on his knowledge—but to whom?
+4. **Succession:** He's finally contemplating death. Time to pass on his knowledge, but to whom?
 5. **The Worldrend Truth:** Events are unfolding that relate to what caused the original catastrophe.
 
 #### Roleplaying Notes
@@ -14078,13 +14175,13 @@ His record includes three major engagements against pirates, two punitive expedi
 
 At sixty, he remains vigorous, spending most of his time aboard his flagship *Pride of Goldreach*. He distrusts land-based politics and avoids them when possible, preferring the clean decisions of naval warfare to the murky compromises of government.
 
-His sailors worship him—he's fair, shares their hardships, and has pulled drowning men from the water personally. His officers respect him—he listens to advice but makes decisions decisively. His enemies fear him—once he commits to battle, he fights to win regardless of cost.
+His sailors worship him. He's fair, shares their hardships, and has pulled drowning men from the water personally. His officers respect him—he listens to advice but makes decisions decisively. His enemies fear him—once he commits to battle, he fights to win regardless of cost.
 
 #### Connections
 - **Guildmaster Theron Clearwater:** Civilian counterpart who handles merchant interests
 - **Captain Mira Wavecrest:** His best combat captain, commanding the inland lake patrol
 - **Harbor Master Tobias Saltwind:** Old friend from before either held rank
-- **Captain Vex Darkwater:** His most persistent failure—the pirate has escaped him four times
+- **Captain Vex Darkwater:** His most persistent failure, the pirate has escaped him four times
 - **Lord Aldris Goldshore IV:** Political ally who funds much of the navy
 
 {{pageNumber,auto}}
@@ -14105,7 +14202,7 @@ His sailors worship him—he's fair, shares their hardships, and has pulled drow
 2. **Final Chase:** One last chance to catch Vex Darkwater. The admiral is committed regardless of cost.
 3. **The Health Crisis:** His condition worsens at an inopportune moment. Who takes command?
 4. **Clearwater's Exposure:** Someone threatens to reveal the Guildmaster's arrangement. Managing the fallout.
-5. **Family Reconciliation:** One of his children reaches out—genuine, or manipulation?
+5. **Family Reconciliation:** One of his children reaches out: genuine, or manipulation?
 
 #### Roleplaying Notes
 - Touches his cutlass hilt when thinking
@@ -14262,14 +14359,14 @@ Massive firbolg (8'2", 380 lbs) covered in living moss and bark-like skin. Long 
 #### Background & History
 Silvaris has tended the ancient groves for over three centuries, making her one of the oldest living druids in Thaldros. She witnessed the founding of Silverpine when it was a logging camp, watched it grow into a city, and has spent centuries negotiating the balance between civilization and wilderness.
 
-She's not opposed to civilization—quite the contrary. She believes cities can exist in harmony with nature when properly guided. Her life's work has been the Green Pact, an agreement between Silverpine and the surrounding forests that limits expansion in exchange for druidic protection and healing services.
+She's not opposed to civilization. Quite the contrary. She believes cities can exist in harmony with nature when properly guided. Her life's work has been the Green Pact, an agreement between Silverpine and the surrounding forests that limits expansion in exchange for druidic protection and healing services.
 
 Her grove lies three days' walk from Silverpine, a sacred space where the boundary between the material world and the Feywild grows thin. She communes with spirits there, gains visions of possible futures, and maintains wards against threats both natural and supernatural.
 
-Age has slowed her—she walks with a staff now, and her transformations are less frequent than they once were. But her mind remains sharp, her magic formidable, and her patience seemingly infinite. She measures time in decades and plans in centuries.
+Age has slowed her. She walks with a staff now, and her transformations are less frequent than they once were. But her mind remains sharp, her magic formidable, and her patience seemingly infinite. She measures time in decades and plans in centuries.
 
 #### Connections
-- **Archdruid Silvaris Oakenheart:** Her successor in training (different person, similar name—a druidic tradition)
+- **Archdruid Silvaris Oakenheart:** Her successor in training (different person, similar name: a druidic tradition)
 - **The Green Circle:** The loose confederation of druids she nominally leads
 - **Mayor Elisandra Brightblade:** Political contact in Silverpine who respects the Green Pact
 - **Fey Contacts:** Various entities in the Feywild who share information and occasionally requests
@@ -14277,7 +14374,7 @@ Age has slowed her—she walks with a staff now, and her transformations are les
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The True Pact:** The Green Pact includes clauses the city doesn't know about—rights the forest holds that haven't been exercised yet.
+1. **The True Pact:** The Green Pact includes clauses the city doesn't know about. Rights the forest holds that haven't been exercised yet.
 2. **Fey Obligation:** Owes a significant debt to a powerful archfey. The payment will be called in someday.
 3. **Succession Concerns:** Her chosen successor isn't ready, and Silvaris may not have enough time to complete their training.
 4. **The Grove's Secret:** Something sleeps beneath her sacred grove. She's spent centuries ensuring it stays asleep.
@@ -14352,7 +14449,7 @@ ___
 ---
 
 #### Background & History
-Tobias grew up in Crossvale among mechanics, tinkers, and inventors—the kind of people who see a problem and immediately start sketching solutions. His talent manifested early: he built his first working clock at age eight, his first automated defense system at twelve, and his first genuine magical construct at sixteen.
+Tobias grew up in Crossvale among mechanics, tinkers, and inventors, the kind of people who see a problem and immediately start sketching solutions. His talent manifested early: he built his first working clock at age eight, his first automated defense system at twelve, and his first genuine magical construct at sixteen.
 
 He studied briefly at the Arcanum but found their approach too theoretical. Magic should do things, he argued, not just explain things. He returned to Crossvale and established his workshop, where he combines arcane principles with mechanical engineering to create marvels.
 
@@ -14362,18 +14459,18 @@ He studied briefly at the Arcanum but found their approach too theoretical. Magi
 
 His inventions range from practical (better locks, more efficient mills, weapons that anyone can use) to ambitious (constructs that can think, vehicles that don't need horses, communication devices that work across distances). Not all of them work, but enough do to make him wealthy and famous.
 
-At forty-five, he runs a workshop with twelve apprentices and a waiting list of commissions stretching two years forward. He's known for delivering exactly what clients request—which sometimes teaches them to be more careful what they ask for.
+At forty-five, he runs a workshop with twelve apprentices and a waiting list of commissions stretching two years forward. He's known for delivering exactly what clients request, which sometimes teaches them to be more careful what they ask for.
 
 #### Connections
 - **Master Smith Durgan Forgefire:** Collaborates on projects requiring both skills
 - **Quartermaster Thorna Ironprice:** Major client for mechanical inventory systems
-- **The Arcanum:** Complicated relationship—they buy his devices while criticizing his methods
+- **The Arcanum:** Complicated relationship. They buy his devices while criticizing his methods
 - **Burgher-Master Wilhelm Von Handel:** Commissioner of several city improvement projects
 - **Various Nobles:** A waiting list of commissions from powerful clients
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Forbidden Project:** Has been secretly working on a fully autonomous construct—essentially artificial life. It's nearly complete.
+1. **The Forbidden Project:** Has been secretly working on a fully autonomous construct, essentially artificial life. It's nearly complete.
 2. **Stolen Schematics:** Some of his best designs were "inspired by" ancient texts he found in ruins. He didn't have permission to remove them.
 3. **The Weapons Contract:** Accepted a commission from a suspicious client. The weapons he built have been used for something he regrets.
 4. **Military Interest:** Multiple kingdoms want him to work exclusively for them. He's been resisting, but the pressure is increasing.
@@ -14458,7 +14555,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 #### Background & History
 Kaelen doesn't officially exist. No records document his birth, no institutions acknowledge his employment, and no treasury lists his salary. He is the Free Cities Alliance's most closely guarded secret: their intelligence coordinator.
 
-His cover identity is a minor clerk in Silverpine's taxation office—boring enough that no one looks twice. In reality, he coordinates a network of agents, informants, and assets spread across Thaldros and into Aethoria. He reports directly to a committee of three mayors and has authority to act independently when necessary.
+His cover identity is a minor clerk in Silverpine's taxation office: boring enough that no one looks twice. In reality, he coordinates a network of agents, informants, and assets spread across Thaldros and into Aethoria. He reports directly to a committee of three mayors and has authority to act independently when necessary.
 
 He was recruited thirty years ago from the thieves' guilds, where his talent for infiltration and information gathering had made him valuable but expendable. The Alliance offered him legitimacy, purpose, and resources. In return, he's kept them informed of threats both foreign and domestic.
 
@@ -14467,7 +14564,7 @@ He's sixty-two, looks fifty, and moves like a man half his age. The gray at his 
 #### Connections
 - **The Committee of Three:** His only legitimate superiors, currently the mayors of Silverpine, Goldreach, and Crossvale
 - **Agent Network:** Dozens of operatives he's recruited and trained over three decades
-- **Master Crimson:** Rival and occasional collaborator—they've danced around each other for years
+- **Master Crimson:** Rival and occasional collaborator. They've danced around each other for years
 - **Trade Prince Lucian:** A subject of extensive surveillance who has no idea
 - **Archmage Veridian Starweaver:** The only non-mayor who knows Kaelen's true role
 
@@ -14543,7 +14640,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **No material needs:** Celestial being
 
 #### Background & History
-The Guardian has no name that mortal tongues can speak. It exists at the intersection of the material world and the planes beyond—a sentinel that watches the places where reality grows thin. It has stood guard since before the Worldrend, perhaps since before recorded history.
+The Guardian has no name that mortal tongues can speak. It exists at the intersection of the material world and the planes beyond: a sentinel that watches the places where reality grows thin. It has stood guard since before the Worldrend, perhaps since before recorded history.
 
 Its appearance varies depending on the viewer and the situation. Some see a towering figure of light, others a swirling mass of shadows, others something geometric and impossible. It communicates through impressions and visions rather than words, making conversations challenging but memorable.
 
@@ -14554,7 +14651,7 @@ Its appearance varies depending on the viewer and the situation. Some see a towe
 
 The Guardian's purpose is simple: prevent unauthorized passage between planes and eliminate threats that slip through. It doesn't care about mortal politics, doesn't distinguish between good and evil, only between authorized and unauthorized, stable and unstable, safe and dangerous.
 
-It can be bargained with, though the currency it accepts is unusual—memories, promises, years of life, or services rendered. Those who earn its favor gain access to knowledge and passages others can never find. Those who anger it tend to disappear entirely.
+It can be bargained with, though the currency it accepts is unusual: memories, promises, years of life, or services rendered. Those who earn its favor gain access to knowledge and passages others can never find. Those who anger it tend to disappear entirely.
 
 #### Connections
 - **The Circle of Eight:** They have an arrangement. The details are unclear.
@@ -14576,7 +14673,7 @@ It can be bargained with, though the currency it accepts is unusual—memories, 
 1. **Threshold Breach:** Something unauthorized is trying to cross. The Guardian needs mortal assistance.
 2. **The Bargain:** Offers something the party desperately needs in exchange for a service only mortals can perform.
 3. **Pattern Disruption:** The design it serves is being interfered with. Investigation and intervention required.
-4. **Communication:** Has a message it needs delivered but cannot deliver itself. The message is important—and dangerous.
+4. **Communication:** Has a message it needs delivered but cannot deliver itself. The message is important, and dangerous.
 5. **The Approaching Storm:** Begins recruiting mortals for the coming conflict. Explains as little as possible but the gravity is clear.
 
 {{pageNumber,auto}}
@@ -14621,11 +14718,11 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 }}
 
 #### Background & History
-K'Thrax has existed for over two thousand years—not as an individual, but as a collective consciousness housed in an hive mind deep beneath the Ironspine Mountains. It began as a single psionic horror colony that grew, absorbed others, and eventually achieved a form of immortality through the hive mind's preservation of all absorbed minds.
+K'Thrax has existed for over two thousand years, not as an individual, but as a collective consciousness housed in an hive mind deep beneath the Ironspine Mountains. It began as a single psionic horror colony that grew, absorbed others, and eventually achieved a form of immortality through the hive mind's preservation of all absorbed minds.
 
-The colony was driven underground during the Worldrend, when surface races united against the "mind plague." For centuries, K'Thrax rebuilt in the deep places, consuming minds and growing in power. It developed patience that individual psionic horrors lack—the ability to plan across centuries.
+The colony was driven underground during the Worldrend, when surface races united against the "mind plague." For centuries, K'Thrax rebuilt in the deep places, consuming minds and growing in power. It developed patience that individual psionic horrors lack, the ability to plan across centuries.
 
-Its current territory spans a network of caverns connected to ancient dwarven deep roads. The dwarves know something terrible lurks below but have sealed those passages rather than confront it. K'Thrax is content with this arrangement—for now. It has agents on the surface, thralls whose minds it touches through dreams, and a growing interest in the political chaos above.
+Its current territory spans a network of caverns connected to ancient dwarven deep roads. The dwarves know something terrible lurks below but have sealed those passages rather than confront it. K'Thrax is content with this arrangement, for now. It has agents on the surface, thralls whose minds it touches through dreams, and a growing interest in the political chaos above.
 
 The hive mind's ultimate goal is transcendence: to become a god-brain capable of touching all minds on Thaldros simultaneously. The chaos of the coming years may provide the psychic energy it needs.
 
@@ -14704,11 +14801,11 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 #### Background & History
 Morveth is Infernalix's opposite in almost every way—where the red dragon burns with ambition, the black dragon lurks with spite. She's nearly as old, having claimed the Thornmire swamps as her domain for over two thousand years, but her goals are smaller and more vicious.
 
-She doesn't want to rule the world; she wants to make it suffer. The Worldrend delighted her—all that destruction, all that loss. She's spent centuries since nurturing misery: corrupting water sources, sponsoring bandits, whispering madness to hermits. Her swamp is a festering wound on the land, and she likes it that way.
+She doesn't want to rule the world; she wants to make it suffer. The Worldrend delighted her, all that destruction, all that loss. She's spent centuries since nurturing misery: corrupting water sources, sponsoring bandits, whispering madness to hermits. Her swamp is a festering wound on the land, and she likes it that way.
 
-Unlike Infernalix, Morveth remains active. She polymorphs into human form regularly, walking through Marshaven and other settlements, tasting their fears. She's been a plague doctor, a traveling merchant, a grieving widow—always spreading subtle harm. Her true form hasn't been seen in decades, leading some to hope she's dead. She isn't.
+Unlike Infernalix, Morveth remains active. She polymorphs into human form regularly, walking through Marshaven and other settlements, tasting their fears. She's been a plague doctor, a traveling merchant, a grieving widow, always spreading subtle harm. Her true form hasn't been seen in decades, leading some to hope she's dead. She isn't.
 
-Her current interest is Lady Morgana Blackwater. The noblewoman's undead experiments amuse Morveth, and she's been secretly encouraging them—and waiting for Morgana to create something that will cause maximum suffering when it inevitably escapes control.
+Her current interest is Lady Morgana Blackwater. The noblewoman's undead experiments amuse Morveth, and she's been secretly encouraging them, and waiting for Morgana to create something that will cause maximum suffering when it inevitably escapes control.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -14727,7 +14824,7 @@ Her current interest is Lady Morgana Blackwater. The noblewoman's undead experim
 1. **The Current Disguise:** Currently poses as "Mother Marsh," an elderly healer in a village near Marshaven. Her "medicines" cause as many problems as they solve.
 2. **The Morgana Project:** Has been visiting Morgana in dreams, suggesting improvements to her undead. The noblewoman thinks they're her own ideas.
 3. **The Thornmire Heart:** The swamp's corruption centers on her lair, which sits on a corrupted ley line node. Cleansing it could heal the entire region.
-4. **The Infernalix Standoff:** Made a pact with Infernalix centuries ago—neither interferes with the other's domain. But if he threatens her swamp, the pact ends.
+4. **The Infernalix Standoff:** Made a pact with Infernalix centuries ago, neither interferes with the other's domain. But if he threatens her swamp, the pact ends.
 5. **The True Goal:** Wants to corrupt the ley line network itself, spreading Thornmire's taint across Thaldros. She's patient; it might take centuries.
 }}
 \column
@@ -14784,7 +14881,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 }}
 
 #### Background & History
-Radiant was the first mortal to receive Aethros's direct blessing—the original paladin, from whom all holy warriors trace their spiritual lineage. She lived during the chaos following the Worldrend, when gods were silent and monsters roamed freely.
+Radiant was the first mortal to receive Aethros's direct blessing, the original paladin, from whom all holy warriors trace their spiritual lineage. She lived during the chaos following the Worldrend, when gods were silent and monsters roamed freely.
 
 Born a farmer's daughter in what would become Silverpine, she witnessed her village destroyed by undead. With nothing but a makeshift weapon and desperate faith, she stood against the horde and prayed to any god listening. Aethros answered, and light poured through her.
 
@@ -14806,18 +14903,18 @@ Her armor and sword were preserved as holy relics, and her spirit is said to wat
 {{descriptive
 #### Secrets (DM Only)
 1. **The Living Spirit:** Radiant's spirit truly does exist, bound to the material plane by her duty. She can manifest to Lightbringers in crisis.
-2. **The Unfinished Victory:** Maltharok wasn't destroyed—merely banished. Her death prevented the final blow. He's been gathering strength ever since.
+2. **The Unfinished Victory:** Maltharok wasn't destroyed, merely banished. Her death prevented the final blow. He's been gathering strength ever since.
 3. **The Code's Hidden Meaning:** The Lightbringer code contains hidden wisdom, readable only by those who've proven worthy. Most members don't know it exists.
-4. **The Armor's Power:** Her armor isn't just a relic—it's a vessel for a portion of her power. Wearing it confers her abilities but also her duties.
+4. **The Armor's Power:** Her armor isn't just a relic. It's a vessel for a portion of her power. Wearing it confers her abilities but also her duties.
 5. **The Return Prophecy:** There's a prediction that Radiant will physically return when the Lightbringers face extinction. The conditions are approaching.
 }}
 \column
 #### Plot Hooks
 1. **The Vision Quest:** Radiant appears to a Lightbringer with a cryptic warning. Interpreting it requires investigation.
-2. **The Armor's Call:** Her relics have begun glowing. They want to be wielded—but by whom?
+2. **The Armor's Call:** Her relics have begun glowing. They want to be wielded, but by whom?
 3. **Maltharok's Return:** The demon lord is stirring. Radiant's unfinished battle must be completed.
 4. **The Hidden Code:** Discovering the secret wisdom in the Lightbringer code could transform the order.
-5. **The Physical Return:** The conditions for Radiant's return are being met. The party might witness—or cause—a miracle.
+5. **The Physical Return:** The conditions for Radiant's return are being met. The party might witness, or cause, a miracle.
 
 ---
 
@@ -14859,13 +14956,13 @@ ___
 }}
 
 #### Background & History
-Merrick was the greatest historian of the pre-Worldrend era—a wizard who dedicated his long life to preserving knowledge rather than pursuing power. He maintained the Grand Library of Aethermere, the largest repository of information in the world.
+Merrick was the greatest historian of the pre-Worldrend era, a wizard who dedicated his long life to preserving knowledge rather than pursuing power. He maintained the Grand Library of Aethermere, the largest repository of information in the world.
 
-When the Worldrend struck, Merrick faced an impossible choice. He couldn't save everything—the cataclysm was too vast, too sudden. So he chose what to preserve: genealogies, magical formulas, historical records, maps of ley lines. And he chose what to destroy: knowledge too dangerous for a shattered world.
+When the Worldrend struck, Merrick faced an impossible choice. He couldn't save everything, the cataclysm was too vast, too sudden. So he chose what to preserve: genealogies, magical formulas, historical records, maps of ley lines. And he chose what to destroy: knowledge too dangerous for a shattered world.
 
 He spent his final hours encoding critical information into magical crystals and scattering them across both continents. Then he sealed himself in the library's ruins, becoming its eternal guardian. The library still exists, hidden in an extradimensional space, and Merrick's spirit still tends its shelves.
 
-Those who find the library can access knowledge lost for millennia—but Merrick judges visitors carefully. Those who seek power are turned away or destroyed. Those who seek understanding find a patient teacher.
+Those who find the library can access knowledge lost for millennia, but Merrick judges visitors carefully. Those who seek power are turned away or destroyed. Those who seek understanding find a patient teacher.
 
 #### Connections
 - **The Grand Library:** The extradimensional repository he guards
@@ -14884,7 +14981,7 @@ Those who find the library can access knowledge lost for millennia—but Merrick
 2. **The Destroyed Knowledge:** Merrick eliminated information about certain magical techniques and historical events. He had good reasons.
 3. **The Crystal Network:** The knowledge crystals he scattered can be connected to form a complete picture of pre-Worldrend civilization.
 4. **The Visitor List:** Over the centuries, he's allowed certain individuals access. Their identities and what they learned are recorded.
-5. **The Worldrend Cause:** He knows exactly what caused the cataclysm—and destroyed most evidence to prevent repetition.
+5. **The Worldrend Cause:** He knows exactly what caused the cataclysm, and destroyed most evidence to prevent repetition.
 }}
 \column
 #### Plot Hooks
@@ -14934,11 +15031,11 @@ ___
 }}
 
 #### Background & History
-Silvanus dedicated his immortal life to hunting the undead—specifically, vampires. He was turned against his will in the early days after the Worldrend, when vampire lords established territories across the chaos-wracked lands. Rather than accept his nature, he turned it against his own kind.
+Silvanus dedicated his immortal life to hunting the undead. Specifically, vampires. He was turned against his will in the early days after the Worldrend, when vampire lords established territories across the chaos-wracked lands. Rather than accept his nature, he turned it against his own kind.
 
 For over a thousand years, he hunted. He destroyed vampire covens, freed their thralls, and burned their lairs. He developed techniques for tracking immortal predators and weapons designed to destroy them permanently. His name became a curse among vampires and a prayer among their victims.
 
-He was finally destroyed by a coalition of elder vampires who realized that only through cooperation could they stop him. The battle lasted three days and cost them five of their number—but Silvanus fell. His body was never found; the vampires claimed to have destroyed it utterly.
+He was finally destroyed by a coalition of elder vampires who realized that only through cooperation could they stop him. The battle lasted three days and cost them five of their number, but Silvanus fell. His body was never found; the vampires claimed to have destroyed it utterly.
 
 But hunters die hard. Rumors persist of a scarred figure stalking vampire territories, of ancient lords dying in their coffins, of Silvanus's techniques appearing in the hands of new hunters who claim to have learned from a mysterious mentor.
 
@@ -14959,15 +15056,15 @@ But hunters die hard. Rumors persist of a scarred figure stalking vampire territ
 2. **The Curse's Burden:** He still requires blood to survive. He feeds only on criminals and monsters, but the hunger never truly fades.
 3. **The Technique Legacy:** He's trained a small number of hunters over the centuries, passing on knowledge no book contains.
 4. **The Coalition's Fear:** The vampire lords who "destroyed" him know he's still out there. Their alliance persists solely to oppose him.
-5. **The Final Hunt:** He's planning something big—a strike against the vampires' hidden stronghold. He needs allies.
+5. **The Final Hunt:** He's planning something big, a strike against the vampires' hidden stronghold. He needs allies.
 }}
 \column
 #### Plot Hooks
-1. **The Living Legend:** Evidence suggests Silvanus survived. Finding him could provide crucial allies—or a dangerous obligation.
+1. **The Living Legend:** Evidence suggests Silvanus survived. Finding him could provide crucial allies, or a dangerous obligation.
 2. **The Vampire Coalition:** The elder vampires are making moves. Understanding their alliance requires knowing their shared enemy.
 3. **The Lost Techniques:** Silvanus's hunting methods could transform the fight against undead. Finding someone he trained is the key.
 4. **The Hidden Stronghold:** Vampire lords have a secret refuge. Silvanus knows where it is and is planning an assault.
-5. **The Moral Question:** He's a vampire who hunts vampires. Can he be trusted? Should he be helped—or stopped?
+5. **The Moral Question:** He's a vampire who hunts vampires. Can he be trusted? Should he be helped, or stopped?
 
 ---
 
@@ -15018,7 +15115,7 @@ Serenity achieved something most monks only dream of: true enlightenment. Throug
 
 She was born during the Worldrend, in a village caught between colliding realities. Everyone else died; she survived as an infant, somehow protected. Monks of the Celestial Order found her and raised her in their remote monastery. She never knew any other life.
 
-Her enlightenment came at age ninety-two, after seventy-five years of dedicated practice. The experience lasted three days, during which her body glowed with inner light and her voice spoke truths in languages no living person understood. When she emerged, she was changed—ageless, powerful, and burdened with knowledge she couldn't fully share.
+Her enlightenment came at age ninety-two, after seventy-five years of dedicated practice. The experience lasted three days, during which her body glowed with inner light and her voice spoke truths in languages no living person understood. When she emerged, she was changed. Ageless, powerful, and burdened with knowledge she couldn't fully share.
 
 She spent her remaining years teaching, establishing monasteries, and occasionally intervening in world events when cosmic balance was threatened. Her body finally failed after two hundred and thirty years, but her spirit ascended rather than departed—becoming a celestial guide for those who follow her path.
 
@@ -15035,15 +15132,15 @@ She spent her remaining years teaching, establishing monasteries, and occasional
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Ascended State:** Serenity didn't die—she transcended, becoming a spiritual entity that can still interact with the devoted.
+1. **The Ascended State:** Serenity didn't die. She transcended, becoming a spiritual entity that can still interact with the devoted.
 2. **The Cosmic Warning:** During her enlightenment, she received knowledge of a coming threat. She spent her life preparing defenses.
 3. **The Forbidden Technique:** She developed a method for accelerated enlightenment. It's incredibly dangerous and hidden in her most secure teachings.
-4. **The Balance Role:** As an ascended being, she actively works to maintain cosmic balance—sometimes in ways mortals wouldn't approve.
+4. **The Balance Role:** As an ascended being, she actively works to maintain cosmic balance: sometimes in ways mortals wouldn't approve.
 5. **The Return Possibility:** Under specific circumstances, she could physically manifest again. The ritual requires extreme conditions.
 }}
 \column
 #### Plot Hooks
-1. **The Spiritual Contact:** Serenity's ascended form reaches out with guidance—or a warning.
+1. **The Spiritual Contact:** Serenity's ascended form reaches out with guidance, or a warning.
 2. **The Hidden Teaching:** Her forbidden technique is discovered. Should it be used, preserved, or destroyed?
 3. **The Cosmic Threat:** What she foresaw is approaching. Her preparations need to be activated.
 4. **The Balance Crisis:** Something is disrupting cosmic harmony. Serenity needs mortal agents to fix it.
@@ -15097,13 +15194,13 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 }}
 
 #### Background & History
-Maltharok ruled a domain in the Abyss for eons before he turned his attention to the mortal world. Unlike many demons, he wasn't content with random destruction—he wanted conquest, dominion, worship. The Worldrend gave him opportunity.
+Maltharok ruled a domain in the Abyss for eons before he turned his attention to the mortal world. Unlike many demons, he wasn't content with random destruction. He wanted conquest, dominion, worship. The Worldrend gave him opportunity.
 
 He emerged through tears in reality during the cataclysm, leading a legion of demons into the chaos. For decades, he carved out territory, building temples where mortals were forced to worship him, establishing a foothold for permanent invasion. He might have succeeded if not for Radiant Dawnbringer.
 
-The First Paladin faced him in single combat, and though she died in the battle, her final blow banished him back to the Abyss—wounded, humiliated, and furious. He's spent the centuries since rebuilding his power and nurturing his hatred.
+The First Paladin faced him in single combat, and though she died in the battle, her final blow banished him back to the Abyss, wounded, humiliated, and furious. He's spent the centuries since rebuilding his power and nurturing his hatred.
 
-His influence never fully left the mortal world. Cults worship him in secret, preparing for his return. Demons loyal to him slip through weak points in reality. And Maltharok himself watches, waits, and plans. When he returns, it won't be through a random tear in reality—it will be through a gate his followers have prepared, at a time of his choosing.
+His influence never fully left the mortal world. Cults worship him in secret, preparing for his return. Demons loyal to him slip through weak points in reality. And Maltharok himself watches, waits, and plans. When he returns, it won't be through a random tear in reality: it will be through a gate his followers have prepared, at a time of his choosing.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -15121,8 +15218,8 @@ His influence never fully left the mortal world. Cults worship him in secret, pr
 #### Secrets (DM Only)
 1. **The Return Gate:** His cultists have been building a stable portal for decades. It's nearly complete.
 2. **The Weakness:** Radiant's final blow left a permanent wound. Weapons blessed in her name deal enhanced damage to him.
-3. **The Cult Network:** His followers have infiltrated major institutions—including, possibly, the Lightbringers themselves.
-4. **The True Plan:** He doesn't just want conquest—he wants to merge his Abyssal domain with the material world, creating a hellscape where he rules as god.
+3. **The Cult Network:** His followers have infiltrated major institutions, including, possibly, the Lightbringers themselves.
+4. **The True Plan:** He doesn't just want conquest. He wants to merge his Abyssal domain with the material world, creating a hellscape where he rules as god.
 5. **The Allies' Price:** Other demon lords might oppose him if properly motivated. They have their own prices.
 }}
 \column
@@ -15131,7 +15228,7 @@ His influence never fully left the mortal world. Cults worship him in secret, pr
 2. **The Gate Location:** The return portal is nearly finished. Finding and destroying it is critical.
 3. **The Blessed Weapons:** Radiant's relics could hurt Maltharok. Acquiring and preparing them becomes priority.
 4. **The Infiltration:** Cultists are in the Lightbringers. Identifying them without tipping off the network is delicate work.
-5. **The Abyssal Alliance:** Can demon lords be convinced to oppose Maltharok? What would that require—and cost?
+5. **The Abyssal Alliance:** Can demon lords be convinced to oppose Maltharok? What would that require, and cost?
 
 ---
 
@@ -15179,13 +15276,13 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 }}
 
 #### Background & History
-Celestine was mortal once—a healer in a small village who tended the sick without thought of payment or recognition. When plague struck during the post-Worldrend chaos, she worked herself to death saving others, literally giving her life force to fuel healing magic.
+Celestine was mortal once, a healer in a small village who tended the sick without thought of payment or recognition. When plague struck during the post-Worldrend chaos, she worked herself to death saving others, literally giving her life force to fuel healing magic.
 
 The gods noticed. Such selfless sacrifice, such pure dedication, transcended mortality. As her body failed, her spirit was caught up and transformed. She became a celestial being—not a god, but something close. A saint in the truest sense: a mortal soul elevated to divine service.
 
 She serves as a guardian of healers, an inspiration to the selfless, and an enemy of plagues and corruption. Her presence is felt in hospitals and healing temples across Tirvandor, where her blessing makes treatments more effective and gives strength to those who serve.
 
-She can manifest physically, though it costs her greatly. She reserves such appearances for times of desperate need—plagues that threaten civilizations, corruptions that poison the land, healers who face impossible choices. When she appears, miracles follow.
+She can manifest physically, though it costs her greatly. She reserves such appearances for times of desperate need. Plagues that threaten civilizations, corruptions that poison the land, healers who face impossible choices. When she appears, miracles follow.
 
 #### Connections
 - **Temples of Healing:** All such institutions honor her; many receive her blessing
@@ -15201,7 +15298,7 @@ She can manifest physically, though it costs her greatly. She reserves such appe
 {{descriptive
 #### Secrets (DM Only)
 1. **The Manifestation Cost:** Each physical appearance weakens her; too many in succession could destroy her permanently.
-2. **The Plague Source:** She knows where supernatural plagues originate—a corrupted realm she cannot enter alone.
+2. **The Plague Source:** She knows where supernatural plagues originate, a corrupted realm she cannot enter alone.
 3. **The Healer's Network:** Those who receive her blessing form a psychic network she can access, though she rarely does without permission.
 4. **The Corruption's Growth:** Something is spreading taint faster than she can purify. She needs mortal allies to address the source.
 5. **The Sacrifice Question:** To truly stop the corruption, she might need to sacrifice her celestial existence. She's contemplating it.
@@ -15212,7 +15309,7 @@ She can manifest physically, though it costs her greatly. She reserves such appe
 2. **The Corrupted Realm:** She needs mortals to enter where she cannot go and address the plague's source.
 3. **The Weakening:** Too many crises have required her manifestation. She's fading and needs help to recover.
 4. **The Network Vision:** Someone in her healer network has seen something important. Finding them requires investigation.
-5. **The Ultimate Sacrifice:** She's decided the only way to stop the corruption is her own destruction. Can she be convinced otherwise—or helped to succeed?
+5. **The Ultimate Sacrifice:** She's decided the only way to stop the corruption is her own destruction. Can she be convinced otherwise, or helped to succeed?
 
 
 
@@ -15255,11 +15352,11 @@ ___
 }}
 
 #### Background & History
-Garrett was born common—a blacksmith's son in a village that no longer exists. He rose through military service, catching the eye of a minor baron whose daughter he married. Within a decade, his father-in-law was dead, his wife controlled the barony, and Garrett controlled his wife. It was the first of many such arrangements.
+Garrett was born common, a blacksmith's son in a village that no longer exists. He rose through military service, catching the eye of a minor baron whose daughter he married. Within a decade, his father-in-law was dead, his wife controlled the barony, and Garrett controlled his wife. It was the first of many such arrangements.
 
-His genius was marriage—not romance, but strategy. Each wedding brought lands, alliances, and opportunities for accidents. By the time he established the Blackwood bloodline in 750 BW, he controlled territory that had belonged to six different families, all of whom had died without other heirs. The family would not become a formal noble house until Lord Aldric Blackwood I built Raven's Keep in 587 CR, but Garrett's legacy—and his curse—would define them forever.
+His genius was marriage, not romance, but strategy. Each wedding brought lands, alliances, and opportunities for accidents. By the time he established the Blackwood bloodline in 750 BW, he controlled territory that had belonged to six different families, all of whom had died without other heirs. The family would not become a formal noble house until Lord Aldric Blackwood I built Raven's Keep in 587 CR, but Garrett's legacy, and his curse, would define them forever.
 
-But political cunning alone couldn't explain his success. In his journals, he wrote of "the Whispering Patron"—a shadow entity that offered knowledge in exchange for service. Garrett accepted, and the entity's counsel made him nearly prescient in matters of politics and murder. The price was a curse on his bloodline: every Blackwood heir would hear the whispers, and some would answer.
+But political cunning alone couldn't explain his success. In his journals, he wrote of "the Whispering Patron", a shadow entity that offered knowledge in exchange for service. Garrett accepted, and the entity's counsel made him nearly prescient in matters of politics and murder. The price was a curse on his bloodline: every Blackwood heir would hear the whispers, and some would answer.
 
 He died wealthy, powerful, and utterly alone. His children feared him too much for love. His curse passed to them all.
 
@@ -15284,8 +15381,8 @@ He died wealthy, powerful, and utterly alone. His children feared him too much f
 }}
 \column
 #### Plot Hooks
-1. **The Journal Hunt:** The Blackwood journals could prove useful—or dangerous. Finding them means exploring haunted Raven's Keep.
-2. **The Curse Investigation:** Understanding the Blackwood curse might help with the Blackwood heir—or might make things worse.
+1. **The Journal Hunt:** The Blackwood journals could prove useful, or dangerous. Finding them means exploring haunted Raven's Keep.
+2. **The Curse Investigation:** Understanding the Blackwood curse might help with the Blackwood heir, or might make things worse.
 3. **The Patron's Return:** The Whispering Patron is becoming more active, seeking new vessels among the Blackwoods.
 4. **The Ghosts' Justice:** The families Garrett destroyed want revenge. Their spirits are stirring.
 5. **The Cure's Cost:** Someone discovers the ritual to end the curse. Is anyone willing to pay the price?
@@ -15335,11 +15432,11 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 #### Background & History
 Caspian began as a fisherman's son who dreamed of horizons. He built his first boat at fourteen, captained a trading vessel at twenty, and commanded a fleet at thirty. His wealth came from risk-taking—voyages others deemed too dangerous, routes others feared to try.
 
-The Goldshore fortune was built on three legendary voyages. The first discovered new fishing grounds that fed Goldreach for generations. The second established trade routes with distant Sundaran ports. The third—the one Caspian rarely discussed—found something in the deep waters of the Sundering Sea.
+The Goldshore fortune was built on three legendary voyages. The first discovered new fishing grounds that fed Goldreach for generations. The second established trade routes with distant Sundaran ports. The third (the one Caspian rarely discussed) found something in the deep waters of the Sundering Sea.
 
 He used that discovery to establish House Goldshore as the preeminent maritime power of Thaldros. The family's ships were faster, their navigation more precise, their sailors more loyal. Rivals suspected magic or cheating; the truth was stranger.
 
-Caspian died at sea, as he always said he would—but not from storm or battle. He sailed into the Sundering Sea one final time, alone, and never returned. His descendants believe he went to meet whatever he'd found on that third voyage.
+Caspian died at sea, as he always said he would, but not from storm or battle. He sailed into the Sundering Sea one final time, alone, and never returned. His descendants believe he went to meet whatever he'd found on that third voyage.
 
 #### Connections
 - **House Goldshore:** His descendants, including current Lord Aldris IV
@@ -15354,10 +15451,10 @@ Caspian died at sea, as he always said he would—but not from storm or battle. 
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Deep Pact:** Found a surviving fragment of pre-Worldrend civilization beneath the waves—and made a bargain with what lived there.
-2. **The Navigation Secret:** Goldshore ships use charts marked with coordinates no normal sailor can read—directions in three dimensions, for waters above and below.
+1. **The Deep Pact:** Found a surviving fragment of pre-Worldrend civilization beneath the waves, and made a bargain with what lived there.
+2. **The Navigation Secret:** Goldshore ships use charts marked with coordinates no normal sailor can read: directions in three dimensions, for waters above and below.
 3. **The Blood Price:** Every generation, a Goldshore must return something to the deep. Those who refuse have accidents at sea.
-4. **The Final Voyage:** Caspian didn't die—he transformed, becoming something that lives in the deep waters and watches over his descendants.
+4. **The Final Voyage:** Caspian didn't die. He transformed, becoming something that lives in the deep waters and watches over his descendants.
 5. **The True Map:** The complete charts to his third voyage's destination still exist, hidden in the family vault. Following them would be extraordinarily dangerous.
 }}
 \column
@@ -15412,11 +15509,11 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 }}
 
 #### Background & History
-Celestine was the most powerful wizard of her age—a claim verified by the fact that she survived the Worldrend. She was over four hundred years old when the cataclysm struck, and her quick thinking saved thousands. The magical barriers she erected around Silverpine held against the reality-warping chaos that destroyed lesser cities.
+Celestine was the most powerful wizard of her age, a claim verified by the fact that she survived the Worldrend. She was over four hundred years old when the cataclysm struck, and her quick thinking saved thousands. The magical barriers she erected around Silverpine held against the reality-warping chaos that destroyed lesser cities.
 
 But survival had a cost. Celestine watched the world tear itself apart, felt the deaths of millions through her magical connections, and emerged... changed. She spent the next century rebuilding magical infrastructure, establishing the Arcanum, and training the next generation. Then she walked into the Feywild and never returned.
 
-Her descendants inherited her talent but not her trauma. House Starweaver became synonymous with magical excellence, producing archmages in every generation. The current head, Archmage Veridian, is her direct descendant—and may have inherited more than her bloodline.
+Her descendants inherited her talent but not her trauma. House Starweaver became synonymous with magical excellence, producing archmages in every generation. The current head, Archmage Veridian, is her direct descendant, and may have inherited more than her bloodline.
 
 What no one knows is that Celestine isn't dead. In the Feywild, time moves strangely. She's been there for what feels like decades, recovering from wounds that took centuries to heal. She's almost ready to return.
 
@@ -15434,15 +15531,15 @@ What no one knows is that Celestine isn't dead. In the Feywild, time moves stran
 {{descriptive
 #### Secrets (DM Only)
 1. **Still Alive:** She exists in the Feywild, recovering from psychic wounds caused by feeling millions die. She's nearly ready to return.
-2. **The Circle's Origin:** The Circle of Eight was her idea—a group to prevent another Worldrend. The current members are the third generation.
+2. **The Circle's Origin:** The Circle of Eight was her idea, a group to prevent another Worldrend. The current members are the third generation.
 3. **The Worldrend Witness:** She knows exactly what caused the cataclysm: a ritual intended to grant immortality that tore reality instead.
-4. **The Immortality Seekers:** The mages who caused the Worldrend weren't destroyed—some of them survived in forms twisted by their failed ritual.
+4. **The Immortality Seekers:** The mages who caused the Worldrend weren't destroyed, some of them survived in forms twisted by their failed ritual.
 5. **The Return Prophecy:** Celestine foresaw that she'd need to return when "shadows rise and dragons wake." That time approaches.
 }}
 \column
 #### Plot Hooks
 1. **The Feywild Message:** Celestine is trying to contact her descendants. Her warnings are fragmented but urgent.
-2. **The Founder's Return:** She's coming back. Preparing for what that means—politically and magically—falls to the party.
+2. **The Founder's Return:** She's coming back. Preparing for what that means, politically and magically, falls to the party.
 3. **The Worldrend Survivors:** The twisted immortals who caused the cataclysm are stirring. Celestine knows how to stop them.
 4. **The Circle's Secret:** The current Circle of Eight needs to know their true purpose. Celestine has the answers.
 5. **The Time Debt:** Feywild time has consequences. Celestine's return may cause temporal ripples that need management.
@@ -15488,13 +15585,13 @@ ___
 }}
 
 #### Background & History
-Seraphina is among the oldest living elves—over two thousand years old, with clear memories of the world before the Worldrend. She was already ancient when the cataclysm struck, and she's spent the centuries since as the living memory of her people.
+Seraphina is among the oldest living elves, over two thousand years old, with clear memories of the world before the Worldrend. She was already ancient when the cataclysm struck, and she's spent the centuries since as the living memory of her people.
 
-She founded House Silverleaf not through conquest but through survival. When other noble houses fell to chaos, war, and madness in the Worldrend's aftermath, Seraphina gathered survivors, preserved knowledge, and built something that would endure. Her philosophy—patience, wisdom, and balance with nature—became the foundation of modern elven society in Thaldros.
+She founded House Silverleaf not through conquest but through survival. When other noble houses fell to chaos, war, and madness in the Worldrend's aftermath, Seraphina gathered survivors, preserved knowledge, and built something that would endure. Her philosophy, patience, wisdom, and balance with nature, became the foundation of modern elven society in Thaldros.
 
 She no longer leads House Silverleaf directly; that honor passed first to Council Mistress Elara, who later transitioned to lead Silverpine University, passing the matriarch duties to Lady Seraphine. But Seraphina remains the family's conscience, advisor, and last resort. When the house faces decisions that will echo for centuries, they seek her counsel.
 
-Age has diminished her in some ways—she sleeps more, moves slower, and sometimes confuses past and present. But her mind remains sharp when it matters, and her magical power is undiminished. She is, quite possibly, the most powerful living mortal in Thaldros. She simply chooses not to demonstrate it.
+Age has diminished her in some ways: she sleeps more, moves slower, and sometimes confuses past and present. But her mind remains sharp when it matters, and her magical power is undiminished. She is, quite possibly, the most powerful living mortal in Thaldros. She simply chooses not to demonstrate it.
 
 #### Connections
 - **House Silverleaf:** All current members are her descendants; she remembers each of their ancestors
@@ -15513,13 +15610,13 @@ Age has diminished her in some ways—she sleeps more, moves slower, and sometim
 #### Secrets (DM Only)
 1. **The World Before:** She remembers a unified world, when Thaldros and Aethoria were one continent. Her descriptions could revolutionize historical understanding.
 2. **Celestine's Location:** Knows her old friend is in the Feywild and expects her return. Has been preparing for centuries.
-3. **The Artifact Truth:** The artifact wasn't designed to destroy—it was designed to reshape. The Worldrend was an accident. The artifact could theoretically reverse it.
+3. **The Artifact Truth:** The artifact wasn't designed to destroy: it was designed to reshape. The Worldrend was an accident. The artifact could theoretically reverse it.
 4. **Her Own Death:** Has foreseen when and how she'll die. It's soon. She's made peace with it but has preparations to complete.
 5. **The Warning:** Knows that the current generation faces a crisis comparable to the Worldrend. Has been subtly positioning her house to survive it.
 }}
 \column
 #### Plot Hooks
-1. **The Living History:** Seraphina agrees to share pre-Worldrend knowledge—but wants something in return.
+1. **The Living History:** Seraphina agrees to share pre-Worldrend knowledge, but wants something in return.
 2. **The Preparation:** She's making final arrangements before her death. Some tasks require outside help.
 3. **Celestine's Herald:** Seraphina needs messengers to the Feywild to contact her old friend.
 4. **The Ancient Artifact:** She knows where another fragment lies. Retrieving it could be salvation or catastrophe.
@@ -15570,11 +15667,11 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 }}
 
 #### Background & History
-Durgan united the dwarven holds through a combination of military might, political marriage, and sheer stubborn endurance that impressed even other dwarves. He forged the Ironforge Compact—the agreement that bound the holds into a confederation—and became its first Thane.
+Durgan united the dwarven holds through a combination of military might, political marriage, and sheer stubborn endurance that impressed even other dwarves. He forged the Ironforge Compact, the agreement that bound the holds into a confederation, and became its first Thane.
 
 His rule lasted two hundred years, an unprecedented length even for a dwarf. He survived three assassination attempts, two wars with surface kingdoms, and a volcanic eruption that destroyed his original hold. Each crisis made him stronger, more cunning, and more paranoid.
 
-He died in battle against a demon incursion from the deep roads—not from the demons themselves, but from the collapse of the tunnel he brought down to stop them. His sacrifice saved the holds, and his tomb became a shrine that dwarves still pilgrimage to.
+He died in battle against a demon incursion from the deep roads, not from the demons themselves, but from the collapse of the tunnel he brought down to stop them. His sacrifice saved the holds, and his tomb became a shrine that dwarves still pilgrimage to.
 
 But there are rumors that Durgan didn't truly die. Some say his spirit guards the deep roads still. Others whisper that he made a pact with the mountain itself, becoming one with the stone. Whatever the truth, miners occasionally report seeing a spectral dwarf in ancient armor patrolling the deepest tunnels.
 
@@ -15595,9 +15692,9 @@ But there are rumors that Durgan didn't truly die. Some say his spirit guards th
 #### Secrets (DM Only)
 1. **The Mountain Pact:** He did bargain with the mountain—a spirit of earth and stone that granted him strength in exchange for eternal service.
 2. **The Spectral Guardian:** His ghost truly does patrol the deep roads, bound by his pact to protect the holds forever.
-3. **The Demon Seal:** The tunnel collapse didn't just stop the demons—it sealed something worse. Durgan died maintaining that seal.
+3. **The Demon Seal:** The tunnel collapse didn't just stop the demons. It sealed something worse. Durgan died maintaining that seal.
 4. **The Hidden Armory:** His personal weapons and armor are interred with him, including items of legendary power.
-5. **The Awakening Condition:** Durgan can be truly summoned in times of desperate need—but the ritual requires a living Ironforge to sacrifice their own life.
+5. **The Awakening Condition:** Durgan can be truly summoned in times of desperate need, but the ritual requires a living Ironforge to sacrifice their own life.
 }}
 \column
 #### Plot Hooks
@@ -15657,7 +15754,7 @@ In desperation, he sought out the dragon and proposed a bargain. The terms were 
 
 Thandris spent his remaining years haunted by what he'd agreed to. He never spoke of the bargain's terms, not even to his heirs. He increased funding for military research, established the Silver Wardens, and left cryptic warnings in his private journals. He died hoping the debt would never come due.
 
-But the bargain had a timeline, and that timeline runs out in 1250 CR—less than twenty-five years away. Whatever Thandris promised, his descendants will have to pay.
+But the bargain had a timeline, and that timeline runs out in 1250 CR, less than twenty-five years away. Whatever Thandris promised, his descendants will have to pay.
 
 #### Connections
 - **Dragon Infernalix:** The entity he bargained with; the debt passes to his bloodline
@@ -15674,16 +15771,16 @@ But the bargain had a timeline, and that timeline runs out in 1250 CR—less tha
 #### Secrets (DM Only)
 1. **The True Terms:** Thandris promised the dragon his bloodline's service when the bargain came due. Every living Thandris will feel compelled to serve Infernalix.
 2. **The Loophole Attempt:** Thandris spent years trying to find a way out of the bargain. His notes suggest possibilities but no solutions.
-3. **The Contingency:** He created something—a weapon, a ritual, a failsafe—hidden somewhere in Kaer Thandros. Finding it requires understanding his journals.
+3. **The Contingency:** He created something (a weapon, a ritual, a failsafe) hidden somewhere in Kaer Thandros. Finding it requires understanding his journals.
 4. **The Warning System:** Left signs that would activate as the deadline approached. Those signs are beginning to appear.
-5. **The Secret Heir:** Fathered a child with a commoner and hid that lineage. If the main line fails, this bloodline might be immune to the bargain—or might still be bound.
+5. **The Secret Heir:** Fathered a child with a commoner and hid that lineage. If the main line fails, this bloodline might be immune to the bargain, or might still be bound.
 }}
 \column
 #### Plot Hooks
 1. **The Journal Decoding:** Thandris's private journals contain warnings and possibly solutions. Interpreting them requires expertise.
 2. **The Contingency Hunt:** His failsafe weapon is hidden somewhere. Finding it before the deadline is critical.
 3. **The Warning Signs:** The activation signs are appearing. Understanding what they mean requires investigation.
-4. **The Secret Heir:** Finding Thandris's hidden bloodline could provide options—but also complications.
+4. **The Secret Heir:** Finding Thandris's hidden bloodline could provide options, but also complications.
 5. **The Loophole Quest:** His research suggested possibilities. Following those leads might reveal an escape from the bargain.
 
 ---
@@ -15727,7 +15824,7 @@ ___
 }}
 
 #### Background & History
-Emberthorn led the resistance against House Blackwood during their attempted coup against the crown. He was a minor lord from the volcanic regions near Ashfall—not wealthy, not well-connected, but absolutely unwilling to bend to Blackwood intimidation.
+Emberthorn led the resistance against House Blackwood during their attempted coup against the crown. He was a minor lord from the volcanic regions near Ashfall, not wealthy, not well-connected, but absolutely unwilling to bend to Blackwood intimidation.
 
 When Blackwood agents threatened his family, he sent them away and stayed to fight alone. When Blackwood forces burned his keep, he rallied survivors and fought from the ruins. When they offered him amnesty in exchange for surrender, he laughed and charged their lines.
 
@@ -15757,7 +15854,7 @@ What history doesn't record is that Emberthorn had help. Someone provided intell
 \column
 #### Plot Hooks
 1. **The Banner Quest:** Finding Emberthorn's standard could unite resistance against dark forces.
-2. **The Hidden Descendants:** His family line survives. Finding them—and proving their identity—could matter politically.
+2. **The Hidden Descendants:** His family line survives. Finding them, and proving their identity, could matter politically.
 3. **The Coded Message:** His final message is hidden somewhere in Kaer Thandros. The information inside could change everything.
 4. **The Spirit's Warning:** Emberthorn's ghost has been seen. He's trying to communicate something.
 5. **The Alliance Revealed:** Proving the insider's role in the resistance could matter for their descendants.
@@ -15809,11 +15906,11 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 }}
 
 #### Background & History
-Infernalix is ancient even by dragon standards—over three thousand years old when he first appeared over Thaldros in 1156 CR. His origins trace to the volcanic ranges of southern Aethoria, where he ruled unchallenged for millennia before the Worldrend split the world.
+Infernalix is ancient even by dragon standards, over three thousand years old when he first appeared over Thaldros in 1156 CR. His origins trace to the volcanic ranges of southern Aethoria, where he ruled unchallenged for millennia before the Worldrend split the world.
 
 The cataclysm that separated the continents also separated Infernalix from his ancestral territory. He spent centuries in a rage, burning anything that reminded him of what he'd lost. Eventually that rage cooled to something more dangerous: patience. He began to plan.
 
-His forty-five year campaign against Thaldros (1156-1201 CR) was never about territory or treasure—though he accumulated both. It was about finding something specific: a piece of the artifact that caused the Worldrend, which he believed could reunite the continents and restore his domain. The deal he struck with King Thandris V in 1201 CR gave him time to search while ensuring the kingdom couldn't rebuild enough to threaten him.
+His forty-five year campaign against Thaldros (1156-1201 CR) was never about territory or treasure, though he accumulated both. It was about finding something specific: a piece of the artifact that caused the Worldrend, which he believed could reunite the continents and restore his domain. The deal he struck with King Thandris V in 1201 CR gave him time to search while ensuring the kingdom couldn't rebuild enough to threaten him.
 
 He found what he sought. Now he sleeps beneath Kaer Thandros itself, in caverns no dwarf has mapped, waiting for his bargain to come due in 1250 CR. When he wakes, he won't want gold or conquest. He'll want to reshape the world.
 
@@ -15831,15 +15928,15 @@ He found what he sought. Now he sleeps beneath Kaer Thandros itself, in caverns 
 #### Secrets (DM Only)
 1. **The Sleeping Location:** Rests in caverns directly beneath the Royal Palace of Kaer Thandros. The heat from his presence warms the palace's lower levels.
 2. **The Artifact Fragment:** His hoard contains a piece of an ancient artifact that may have caused the Worldrend. He's been dreaming of the other pieces' locations.
-3. **The True Bargain:** The deal with Thandris V wasn't just for peace—it was for the king's bloodline. When it comes due, every Thandris will feel the call.
+3. **The True Bargain:** The deal with Thandris V wasn't just for peace: it was for the king's bloodline. When it comes due, every Thandris will feel the call.
 4. **The Dream Network:** While sleeping, he's been psychically influencing certain individuals, preparing agents for his awakening.
-5. **The Reunification Plan:** Doesn't want to destroy civilization—wants to reunite Thaldros and Aethoria, with himself as god-emperor of the restored world.
+5. **The Reunification Plan:** Doesn't want to destroy civilization. Wants to reunite Thaldros and Aethoria, with himself as god-emperor of the restored world.
 }}
 \column
 #### Plot Hooks
-1. **The Awakening Signs:** Strange heat, tremors, and dragon-dreams are increasing near Kaer Thandros. Someone needs to investigate—quietly.
+1. **The Awakening Signs:** Strange heat, tremors, and dragon-dreams are increasing near Kaer Thandros. Someone needs to investigate. Quietly.
 2. **The Bargain's Terms:** The exact terms of the Thandris deal have been lost. Finding them might reveal a loophole.
-3. **The Fragment Hunt:** If the other Worldrend artifact pieces can be found first, Infernalix's plan might be stopped—or the party might accidentally complete his work.
+3. **The Fragment Hunt:** If the other Worldrend artifact pieces can be found first, Infernalix's plan might be stopped, or the party might accidentally complete his work.
 4. **The Dream Agents:** People throughout Thaldros have been having dragon-dreams. Some are acting on them. Identifying and stopping them is critical.
 5. **The Shadow's Game: Dark forces know about Infernalix. What does he intend? Alliance or betrayal?
 6. **The Impossible Negotiation:** Could someone actually bargain with an ancient dragon? What would he accept in exchange for abandoning his plan?
@@ -15926,36 +16023,36 @@ Tall and patrician (6'1", 180 lbs), with silver-streaked black hair swept back f
 - The Northern Provinces are his domain and responsibility
 - The secret treaty with the frost giants is his greatest achievement
 - His daughter Lyria, whom he's grooming as successor
-- King Aldric IV, whom he serves—though not blindly
+- King Aldric IV, whom he serves, though not blindly
 
 **Flaws:**
 - Will sacrifice individuals for the greater good without hesitation
 - Cannot resist a political scheme, even when simple honesty would work
 - Underestimates those he considers beneath his station
-- The giant treaty weighs on him—he knows what he's hiding
+- The giant treaty weighs on him: he knows what he's hiding
 
 #### Background & History
 Born into House Rothgar, one of the oldest noble families in Thaldros. Trained from childhood in diplomacy, politics, and the subtle arts of court intrigue. Proved himself at age 23 when he negotiated a bloodless resolution to the Silvervein Mining Dispute that had killed hundreds.
 
-Appointed Duke of the Northern Provinces at 35 after his father's death. Inherited a border constantly raided by giants and barbarian tribes. Within five years, he'd reduced raids by 90%—officially through superior military positioning, but actually through the secret Northern Pact with Frost Giant King Hrothgar.
+Appointed Duke of the Northern Provinces at 35 after his father's death. Inherited a border constantly raided by giants and barbarian tribes. Within five years, he'd reduced raids by 90%. Officially through superior military positioning, but actually through the secret Northern Pact with Frost Giant King Hrothgar.
 
 The Pact: Giants stay above the snow line, humans stay below. Neither raids the other. Trade in specific goods is permitted through secret channels. The King knows; almost no one else does.
 
-Now serves as the Crown's chief diplomat and unofficial spymaster. His network of informants spans both continents. He knows secrets about almost every noble family in Thaldros—and quite a few in Aethoria.
+Now serves as the Crown's chief diplomat and unofficial spymaster. His network of informants spans both continents. He knows secrets about almost every noble family in Thaldros, and quite a few in Aethoria.
 
 #### Connections
 - **Ally:** King Aldric IV (mutual respect, shared secrets)
 - **Secret Ally:** Frost Giant King Hrothgar (the Pact)
 - **Rival:** Lady Cassandra Vantress (competing for influence)
 - **Asset:** Has informants in every major house
-- **Enemy:** The Syndicate (they've tried to blackmail him—it went poorly for them)
+- **Enemy:** The Syndicate (they've tried to blackmail him. It went poorly for them)
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Northern Pact:** The frost giant treaty is his greatest secret. If revealed, it could destroy his reputation—or save the realm, depending on how it's framed.
+1. **The Northern Pact:** The frost giant treaty is his greatest secret. If revealed, it could destroy his reputation, or save the realm, depending on how it's framed.
 2. **The Succession Crisis:** He knows King Aldric has evidence that neither Thandris nor Aethermere has clear claim to High King. He's helping the King hide it.
 3. **His Wife's Death:** His wife died 20 years ago in what was ruled an accident. He knows it was murder. He knows who did it. He's been slowly destroying them ever since.
-4. **Aethorian Contact:** Has a secret communication channel with a highly-placed Aethorian official. Not treason—"diplomatic insurance."
+4. **Aethorian Contact:** Has a secret communication channel with a highly-placed Aethorian official. Not treason, "diplomatic insurance."
 5. **The Giant's Request:** Hrothgar has asked for help with something in the deep mountains. Something that frightens even giants. Valentin hasn't decided whether to help.
 }}
 {{pageNumber,auto}}
@@ -15963,11 +16060,11 @@ Now serves as the Crown's chief diplomat and unofficial spymaster. His network o
 \page
 
 #### Plot Hooks
-1. **The Treaty Exposed:** Someone's discovered evidence of the giant treaty. Valentin needs it retrieved—or the discoverer silenced.
+1. **The Treaty Exposed:** Someone's discovered evidence of the giant treaty. Valentin needs it retrieved, or the discoverer silenced.
 2. **Giant Succession:** Hrothgar is aging. His heir is aggressive. Valentin needs agents to... influence... the succession.
 3. **The Old Murder:** He's finally ready to move against his wife's killer. Needs independent agents with no connection to him.
 4. **Northern Expedition:** Something in the deep mountains is awakening. Giants are scared. Valentin needs expendable heroes.
-5. **Political Chess:** A rival house is moving against him. Needs party to uncover their plot—or plant evidence of one.
+5. **Political Chess:** A rival house is moving against him. Needs party to uncover their plot, or plant evidence of one.
 6. **The King's Mission:** King Aldric needs deniable agents for a sensitive mission. Valentin provides the introduction.
 7. **Diplomatic Crisis:** An incident threatens war with Aethoria. Valentin needs the party to find proof it was manufactured.
 \column
@@ -15975,13 +16072,13 @@ Now serves as the Crown's chief diplomat and unofficial spymaster. His network o
 **Voice:** Smooth, cultured, with a slight northern accent. Never raises his voice. Most dangerous when he sounds most reasonable.
 **Mannerisms:** 
 - Steeples fingers when thinking
-- Offers wine to visitors (tests their resistance to poison—his is drugged-detector wine)
+- Offers wine to visitors (tests their resistance to poison, his is drugged-detector wine)
 - Never sits with his back to a door
 - Smiles before delivering bad news
 
-**Social Situations:** Master of understatement. Says more with what he doesn't say. Always has multiple agendas. Will genuinely help those he respects—while also using them.
+**Social Situations:** Master of understatement. Says more with what he doesn't say. Always has multiple agendas. Will genuinely help those he respects, while also using them.
 
-**In Combat:** Prefers to avoid it. When forced, fights dirty and smart. Uses environment, allies, and escape routes. Not a coward—just practical.
+**In Combat:** Prefers to avoid it. When forced, fights dirty and smart. Uses environment, allies, and escape routes. Not a coward, just practical.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -16057,7 +16154,7 @@ Athletic and imposing (5'10", 170 lbs), with the build of someone who trains dai
 **Traits:** ::
 - Speaks in clipped, efficient sentences
 - Evaluates everyone as potential soldier, ally, or threat
-- Leads from the front—will never ask soldiers to do what she won't
+- Leads from the front, will never ask soldiers to do what she won't
 - Maintains emotional distance to make hard decisions
 
 **Ideals:** ::
@@ -16067,24 +16164,24 @@ Athletic and imposing (5'10", 170 lbs), with the build of someone who trains dai
 
 **Bonds:** ::
 - The Iron Legion is her family (she never married, never had children)
-- Every soldier who dies under her command—she remembers their names
+- Every soldier who dies under her command: she remembers their names
 - King Aldric IV, whom she's served since she was a lieutenant
 - The defense of Kaer Thandros itself
 
 **Flaws:** ::
 - So devoted to duty that she sacrifices her personal life entirely
 - Can be merciless to those she considers cowards or traitors
-- Struggles to delegate—believes only she can do things right
+- Struggles to delegate: believes only she can do things right
 - Secret fear: she's training her replacement because she doesn't expect to survive the coming war
 
 #### Background & History
 Born to a blacksmith father and soldier mother in the lower quarters of Kaer Thandros. Enlisted at 16, lying about her age. Rose through ranks on pure merit—no noble connections, no favors, just results.
 
-Distinguished herself during the Giant Raids of 1215 CR, holding a mountain pass for three days with 50 soldiers against 200 giants. Lost her eye in that battle (wears no patch—"let them see what I've given"). Promoted to Captain immediately after.
+Distinguished herself during the Giant Raids of 1215 CR, holding a mountain pass for three days with 50 soldiers against 200 giants. Lost her eye in that battle (wears no patch, "let them see what I've given"). Promoted to Captain immediately after.
 
 Became youngest General in Thaldros history at age 36. Has commanded the Iron Legion for eight years. Under her leadership, desertion is at an all-time low and combat effectiveness at an all-time high. Soldiers would follow her into the Abyss.
 
-Privately carries the weight of every soldier she's lost. Has a private memorial in her quarters with 847 names—every casualty under her direct command.
+Privately carries the weight of every soldier she's lost. Has a private memorial in her quarters with 847 names, every casualty under her direct command.
 
 \column
 
@@ -16093,19 +16190,19 @@ Privately carries the weight of every soldier she's lost. Has a private memorial
 - **Respected Rival:** Lord Commander Thrain Ironoak (friendly professional competition)
 - **Protégé:** Lieutenant Sara Brightwind (grooming her as successor)
 - **Concern:** General Marcus Steelhart (good soldier, but she worries about his ambition)
-- **Enemy:** The Syndicate (they tried to assassinate her once—she killed three of them personally)
+- **Enemy:** The Syndicate (they tried to assassinate her once: she killed three of them personally)
 
 {{descriptive
 #### Secrets (DM Only)
 1. **The Coming War:** She believes war with Aethoria is inevitable within 5 years. She's quietly preparing.
 2. **The Successor:** Lieutenant Brightwind doesn't know she's being groomed. Viktoria expects to die in the war.
-3. **The Old Wound:** The giant that took her eye is still alive—a frost giant champion named Hrothvir. Unfinished business.
+3. **The Old Wound:** The giant that took her eye is still alive, a frost giant champion named Hrothvir. Unfinished business.
 4. **Mercy Shown:** During the Border Conflicts, she let a group of Aethorian soldiers escape rather than massacre surrendering troops. This "weakness" haunts her.
-5. **The King's Secret:** She knows about the Northern Pact with the giants. She supports it—"a smart enemy is better than a stupid ally."
+5. **The King's Secret:** She knows about the Northern Pact with the giants. She supports it: "a smart enemy is better than a stupid ally."
 }}
 
 #### Plot Hooks
-1. **Giant Hunt:** Hrothvir the frost giant has been sighted. She wants him—alive if possible, dead if necessary.
+1. **Giant Hunt:** Hrothvir the frost giant has been sighted. She wants him: alive if possible, dead if necessary.
 2. **The Traitor:** Someone in the Legion is selling information. She needs outsiders to investigate.
 3. **War Games:** She's running training exercises near the border. Needs the party to play "enemy force."
 4. **The Lost Patrol:** A scouting unit has gone missing in disputed territory. Official rescue is politically impossible.
@@ -16122,7 +16219,7 @@ Privately carries the weight of every soldier she's lost. Has a private memorial
 **Mannerisms:**
 - Stands with hands clasped behind back when thinking
 - Scans room for tactical advantages constantly
-- Drinks only water (never alcohol on duty—and she's always on duty)
+- Drinks only water (never alcohol on duty, and she's always on duty)
 - Salutes the King even in private meetings
 
 **In Combat:** Master tactician. Controls the battlefield. Protects her people fiercely. Uses Legendary Actions to support allies.
@@ -16185,7 +16282,7 @@ ___
 - **Class:** Cleric (Knowledge Domain) 14 / Inquisitor Background
 
 #### Physical Description
-Gaunt and severe (5'9", 140 lbs), with hollow cheeks and deep-set dark eyes that seem to bore into souls. Completely bald, with ritual scars on his scalp in the form of open eyes. Wears black and silver robes of office. Moves with unsettling stillness—rarely gestures or shows emotion. His voice is soft, almost a whisper, forcing others to lean in to hear him.
+Gaunt and severe (5'9", 140 lbs), with hollow cheeks and deep-set dark eyes that seem to bore into souls. Completely bald, with ritual scars on his scalp in the form of open eyes. Wears black and silver robes of office. Moves with unsettling stillness, rarely gestures or shows emotion. His voice is soft, almost a whisper, forcing others to lean in to hear him.
 #### Equipment
 - **Armor:** Breastplate +2 (black steel, inscribed with truth runes)
 - **Weapon:** Scepter of Judgment (see above)
@@ -16201,7 +16298,7 @@ Gaunt and severe (5'9", 140 lbs), with hollow cheeks and deep-set dark eyes that
 **Traits:**
 - Speaks in soft, measured tones that somehow carry perfectly
 - Asks questions rather than making statements
-- Never threatens—simply states consequences
+- Never threatens: simply states consequences
 - Patient beyond mortal measure
 
 **Ideals:**
@@ -16211,7 +16308,7 @@ Gaunt and severe (5'9", 140 lbs), with hollow cheeks and deep-set dark eyes that
 
 **Bonds:**
 - The Office of Truth is his life's work and legacy
-- Mordain the Sentinel (the god of death)—his divine patron
+- Mordain the Sentinel (the god of death). His divine patron
 - The stability of Thaldros, which requires hard truths
 - His network of informants and "reformed" heretics
 
@@ -16222,11 +16319,11 @@ Gaunt and severe (5'9", 140 lbs), with hollow cheeks and deep-set dark eyes that
 - His methods create the very enemies he hunts
 
 #### Background & History
-Born to devout parents who gave him to the church at age 7. Showed early talent for detecting lies and reading people. Trained as a priest of Mordain (the god, not himself—an ironic coincidence he considers divine will).
+Born to devout parents who gave him to the church at age 7. Showed early talent for detecting lies and reading people. Trained as a priest of Mordain (the god, not himself, an ironic coincidence he considers divine will).
 
 Rose through church hierarchy, but found regular clergy work unsatisfying. Transferred to the Office of Truth at 25. Found his calling. His interrogation success rate was unprecedented—he never used torture at first, just talked to people until they confessed. When they didn't confess, he concluded they were skilled liars who needed more... persuasive methods.
 
-Became High Inquisitor at 45. Has held the position for 16 years. Under his leadership, the Office has uncovered genuine plots against the crown—but also persecuted innocents, destroyed families, and created a climate of fear. He considers this acceptable collateral.
+Became High Inquisitor at 45. Has held the position for 16 years. Under his leadership, the Office has uncovered genuine plots against the crown, but also persecuted innocents, destroyed families, and created a climate of fear. He considers this acceptable collateral.
 
 Genuinely believes he serves the realm. Genuinely doesn't understand why people fear him. Genuinely thinks his methods are merciful compared to the alternatives.
 
@@ -16241,19 +16338,19 @@ Genuinely believes he serves the realm. Genuinely doesn't understand why people 
 #### Secrets (DM Only)
 1. **The Innocent List:** He keeps a private record of people he suspects were innocent. It has 47 names. He prays for them nightly.
 2. **His Heresy:** He secretly believes that Mordain the god speaks to him directly. The voices might be real. They might not be.
-3. **The King's Shield:** He's uncovered evidence of the Northern Pact but hasn't acted on it—because the King clearly knows and approves.
-4. **Personal Sin:** 20 years ago, he let a guilty man go—his own brother. He's never forgiven himself.
+3. **The King's Shield:** He's uncovered evidence of the Northern Pact but hasn't acted on it, because the King clearly knows and approves.
+4. **Personal Sin:** 20 years ago, he let a guilty man go, his own brother. He's never forgiven himself.
 5. **The True Threat:** He's detected something in the magical fabric of reality. Something watching. Something patient. He doesn't know what it is.
 }}
 
 #### Plot Hooks
-1. **False Accusation:** The party is accused of crimes they didn't commit. They must prove innocence to Mordain—or escape him.
+1. **False Accusation:** The party is accused of crimes they didn't commit. They must prove innocence to Mordain, or escape him.
 2. **The Heretic Hunt:** Mordain needs agents to infiltrate a cult he can't legally touch. Moral compromise guaranteed.
 3. **The Innocent:** Party finds evidence that someone in his dungeons is genuinely innocent. Can they convince him?
 4. **Office Politics:** A rival in the Office is framing people. Mordain suspects but needs proof.
 5. **The Watching Thing:** He shares his concern about something in the darkness. Needs investigators.
 6. **Redemption Arc:** Someone he persecuted years ago has returned. Confrontation or reconciliation?
-7. **The Brother:** His brother resurfaces. Old guilt demands action—but what kind?
+7. **The Brother:** His brother resurfaces. Old guilt demands action, but what kind?
 
 #### Roleplaying Notes
 **Voice:** Soft, almost hypnotic. Never raises it. Asks questions that cut to the soul.
@@ -16312,7 +16409,7 @@ ___
 - **Class:** Bard (College of Eloquence) 10 / Rogue (Mastermind) 3 / Noble Background
 
 #### Physical Description
-Elegant and poised (5'6", 130 lbs), with auburn hair typically arranged in elaborate court styles. Green eyes that sparkle with intelligence and barely concealed amusement. Heart-shaped face, flawless complexion. Dresses in the height of fashion—always appropriate, always memorable. Moves with dancer's grace. Her smile could launch a thousand ships or sink them.
+Elegant and poised (5'6", 130 lbs), with auburn hair typically arranged in elaborate court styles. Green eyes that sparkle with intelligence and barely concealed amusement. Heart-shaped face, flawless complexion. Dresses in the height of fashion, always appropriate, always memorable. Moves with dancer's grace. Her smile could launch a thousand ships or sink them.
 
 #### Equipment
 - **Armor:** Glamoured Studded Leather (appears as fine court dress)
@@ -16324,7 +16421,7 @@ Elegant and poised (5'6", 130 lbs), with auburn hair typically arranged in elabo
 
 #### Personality
 **Traits:**
-- Speaks in layers—every sentence has multiple meanings
+- Speaks in layers, every sentence has multiple meanings
 - Touches people when talking (establishes connection, reads reactions)
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -16340,8 +16437,8 @@ Elegant and poised (5'6", 130 lbs), with auburn hair typically arranged in elabo
 **Bonds:**
 - House Vantress and its ascent to greater power
 - Her network of informants and allies
-- Her younger sister Meridia (pure, innocent—must be protected from court)
-- The game itself—she genuinely enjoys political maneuvering
+- Her younger sister Meridia (pure, innocent: must be protected from court)
+- The game itself, she genuinely enjoys political maneuvering
 
 **Flaws:**
 - Cannot resist a scheme, even when it's unnecessary
@@ -16350,11 +16447,11 @@ Elegant and poised (5'6", 130 lbs), with auburn hair typically arranged in elabo
 - Has made enemies who won't be satisfied with political victory
 
 #### Background & History
-Born to a minor noble house, third daughter with no marriage prospects and no inheritance. Rather than accept obscurity, she made herself indispensable to more powerful nobles—first as a companion, then as an advisor, then as a dealer in secrets.
+Born to a minor noble house, third daughter with no marriage prospects and no inheritance. Rather than accept obscurity, she made herself indispensable to more powerful nobles, first as a companion, then as an advisor, then as a dealer in secrets.
 
 By 25, she knew more about the noble houses than their own members did. By 30, she'd arranged three marriages, prevented two assassinations, and orchestrated the downfall of a duke who'd insulted her family. The king himself noticed.
 
-Now she's the unofficial "social secretary" of the court—the person nobles come to when they need something done discreetly. Marriage arrangements, scandal suppression, reputation rehabilitation, quiet destruction of rivals. She provides all services, for appropriate compensation.
+Now she's the unofficial "social secretary" of the court: the person nobles come to when they need something done discreetly. Marriage arrangements, scandal suppression, reputation rehabilitation, quiet destruction of rivals. She provides all services, for appropriate compensation.
 
 Never married herself. "Why bind myself to one house when I can influence them all?"
 
@@ -16369,19 +16466,19 @@ Never married herself. "Why bind myself to one house when I can influence them a
 #### Secrets (DM Only)
 1. **The Black Book:** She has a ledger of secrets about every major noble in Thaldros. It's hidden, trapped, and keyed to destroy itself if touched by anyone but her.
 2. **Her Origin:** She's not actually noble-born. Her family bought their title when she was a child. Only three people know.
-3. **The Aethorian Connection:** She has a sister she's never met—a half-sister from her father's affair, raised in Aethoria.
+3. **The Aethorian Connection:** She has a sister she's never met, a half-sister from her father's affair, raised in Aethoria.
 4. **Baron Harwick:** She knows he's planning something. She's letting him proceed—it's better to know your enemies' plans.
-5. **Genuine Affection:** She's secretly in love with someone completely unsuitable—a common-born captain in the guard. She'll never act on it.
+5. **Genuine Affection:** She's secretly in love with someone completely unsuitable: a common-born captain in the guard. She'll never act on it.
 }}
 
 #### Plot Hooks
 1. **The Marriage Game:** She needs the party to "investigate" a potential suitor for her sister. Find the dirt.
-2. **Reputation Management:** A noble's scandal threatens to become public. She needs it buried—literally or figuratively.
+2. **Reputation Management:** A noble's scandal threatens to become public. She needs it buried: literally or figuratively.
 3. **The Harwick Problem:** Baron Harwick is becoming dangerous. She needs independent agents to handle it.
 4. **Missing Sister:** She's discovered her Aethorian half-sister exists. Wants contact established discreetly.
-5. **Court Intrigue:** She offers the party access to noble society—for a price. Their services on demand.
+5. **Court Intrigue:** She offers the party access to noble society, for a price. Their services on demand.
 6. **The Black Book:** Someone's trying to steal her secrets. She needs them stopped.
-7. **Political Favor:** She can make introductions, smooth over incidents, provide alibis—but she'll collect on the debt.
+7. **Political Favor:** She can make introductions, smooth over incidents, provide alibis, but she'll collect on the debt.
 
 #### Roleplaying Notes
 **Voice:** Melodious, cultured, often amused. Speaks in questions and implications.
@@ -16459,7 +16556,7 @@ Thin and pale (5'11", 150 lbs), with prematurely white hair that seems to absorb
 - Considers emotion a distraction from magical study
 
 **Ideals:**
-- **Knowledge:** "There is no forbidden knowledge—only knowledge we haven't learned to use safely."
+- **Knowledge:** "There is no forbidden knowledge, only knowledge we haven't learned to use safely."
 - **Balance:** "Light and shadow are not opposites. They are partners in the dance of existence."
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -16498,7 +16595,7 @@ Now serves as the kingdom's arcane defender. His Tower of Shadows protects Kaer 
 #### Plot Hooks
 1. **Shadow Breach:** Something escaped from his experiments. He needs it recaptured quietly.
 2. **Forbidden Research:** He offers payment for artifacts from the Worldrend era. No questions asked.
-3. **The Apprentice's Family:** Relatives of his dead student seek answers—or revenge.
+3. **The Apprentice's Family:** Relatives of his dead student seek answers, or revenge.
 4. **Magical Defense:** The kingdom faces a magical threat. He needs capable allies.
 5. **The Shadow Door:** He's found a way into the shadow realm. Needs explorers. Probably won't mention the dangers.
 
@@ -16548,7 +16645,7 @@ ___
 - **Class:** Fighter (Royal Guard) 15
 
 #### Physical Description
-Powerfully built (6'2", 210 lbs), with arms like tree trunks and a chest that seems carved from stone. Black hair cropped military-short, with a thick beard kept neat. Multiple scars across face and arms—he never hides them. Dark brown eyes that assess everything as a potential threat. His greatsword "Blackblade" is always within reach.
+Powerfully built (6'2", 210 lbs), with arms like tree trunks and a chest that seems carved from stone. Black hair cropped military-short, with a thick beard kept neat. Multiple scars across face and arms, he never hides them. Dark brown eyes that assess everything as a potential threat. His greatsword "Blackblade" is always within reach.
 
 #### Personality
 **Traits:**
@@ -16578,9 +16675,9 @@ Powerfully built (6'2", 210 lbs), with arms like tree trunks and a chest that se
 - Secretly believes he's not smart enough for political situations
 
 #### Background & History
-Born to a minor military family. Enlisted at 16, served on the border. Met then-Prince Thorin during a skirmish—saved his life. Rose through ranks on merit and royal favor. Became Commander of the Elite Guard at 35.
+Born to a minor military family. Enlisted at 16, served on the border. Met then-Prince Thorin during a skirmish: saved his life. Rose through ranks on merit and royal favor. Became Commander of the Elite Guard at 35.
 
-Has personally killed over 200 enemies in combat. Never lost a duel. The sword "Blackblade" is an heirloom that has been in his family since the Worldrend—supposedly forged from a piece of meteoric iron from that catastrophe.
+Has personally killed over 200 enemies in combat. Never lost a duel. The sword "Blackblade" is an heirloom that has been in his family since the Worldrend, supposedly forged from a piece of meteoric iron from that catastrophe.
 
 #### Connections
 - **Liege:** King Aldric IV (personal loyalty beyond duty)
@@ -16598,7 +16695,7 @@ Has personally killed over 200 enemies in combat. Never lost a duel. The sword "
 }}
 
 #### Plot Hooks
-1. **Honor Duel:** Someone has insulted the King. Taran needs seconds for a formal duel—or investigators to prove the insult was orchestrated.
+1. **Honor Duel:** Someone has insulted the King. Taran needs seconds for a formal duel, or investigators to prove the insult was orchestrated.
 2. **The Assassin Hunt:** He's located the Syndicate assassin. Needs help for the final confrontation.
 3. **Blackblade's Origin:** Wants to discover the true history of his sword. The truth might be dangerous.
 4. **Training Exercise:** Offers the party a chance to train with the Elite Guard. Brutal but rewarding.
@@ -16678,7 +16775,7 @@ Graceful and composed (5'7", 135 lbs), with golden-brown hair often worn in Aeth
 #### Background & History
 Born to a merchant family with connections on both continents. Grew up hearing stories from both sides. Learned early that "enemies" are just people you haven't understood yet.
 
-Joined the diplomatic corps at 21. Her language skills and cultural sensitivity made her invaluable. Negotiated three minor treaties before being named Chief Ambassador at 30—the youngest ever.
+Joined the diplomatic corps at 21. Her language skills and cultural sensitivity made her invaluable. Negotiated three minor treaties before being named Chief Ambassador at 30, the youngest ever.
 
 Has prevented at least two wars through back-channel negotiations. Neither side knows how close they came. She keeps those secrets to prevent panic.
 
@@ -16754,7 +16851,7 @@ ___
 - **Class:** Fighter (Royal Guard) 16
 
 #### Physical Description
-Broad and weathered (6'0", 200 lbs), built like a siege engine himself. Gray hair cropped short, with a thick mustache. Deep-set hazel eyes that have seen too many battles. Face is a map of scars—the largest running from his forehead across a milky blind eye. Moves with the measured pace of a man who's learned patience the hard way.
+Broad and weathered (6'0", 200 lbs), built like a siege engine himself. Gray hair cropped short, with a thick mustache. Deep-set hazel eyes that have seen too many battles. Face is a map of scars: the largest running from his forehead across a milky blind eye. Moves with the measured pace of a man who's learned patience the hard way.
 
 #### Personality
 **Traits:**
@@ -16784,7 +16881,7 @@ Broad and weathered (6'0", 200 lbs), built like a siege engine himself. Gray hai
 - His caution sometimes borders on paralysis
 
 #### Background & History
-Rose through the ranks the hard way—no noble connections, no favors. Distinguished himself during the Giant Wars, holding Ironpass for six weeks against impossible odds. Lost his eye and 400 soldiers, but the line held.
+Rose through the ranks the hard way, no noble connections, no favors. Distinguished himself during the Giant Wars, holding Ironpass for six weeks against impossible odds. Lost his eye and 400 soldiers, but the line held.
 
 Promoted to General at 40. Has spent 14 years building the eastern defenses into the most formidable fortification system on the continent. Every wall, every tower, every fallback position bears his fingerprints.
 
@@ -16800,17 +16897,17 @@ His relationship with General Steelheart is professional but cool—she thinks h
 
 {{descriptive
 #### Secrets (DM Only)
-1. **Ironpass Guilt:** He gave the order that killed 400 soldiers. It was the right call—but he dreams about them.
+1. **Ironpass Guilt:** He gave the order that killed 400 soldiers. It was the right call, but he dreams about them.
 2. **The Weakness:** He knows of a flaw in the eastern defenses but hasn't reported it—fixing it would require resources the kingdom can't spare.
 3. **The Offer:** Aethorian agents approached him once. He refused. He never reported the approach.
-4. **His Son:** Aldric didn't refuse military service out of cowardice—he discovered something about the army his father can't face.
+4. **His Son:** Aldric didn't refuse military service out of cowardice. He discovered something about the army his father can't face.
 5. **The Coming Storm:** He believes war with Aethoria is inevitable within two years. He's not ready. He won't be ready.
 }}
 
 #### Plot Hooks
 1. **The Weakness:** He needs the defensive flaw fixed quietly, without official channels knowing.
 2. **Reconciliation:** His son has information he needs. Someone must bridge the gap between them.
-3. **The Siege:** Eastern fortress under attack. He needs reinforcements—or miracles.
+3. **The Siege:** Eastern fortress under attack. He needs reinforcements, or miracles.
 4. **Old Soldiers:** Veterans from Ironpass are being murdered. Someone's settling old scores.
 5. **The Traitor:** There's a spy in his command. He needs outsiders to find them.
 
@@ -16864,7 +16961,7 @@ ___
 - **Class:** Wizard (School of Divination) 14 (in life)
 
 #### Physical Description
-A translucent figure in ancient scholarly robes, perpetually surrounded by floating spectral books. In life, he was slight and bent from decades over manuscripts. In death, he appears as he was at perhaps 60—still aged, but vigorous. Wispy white hair, kind but piercing blue eyes that glow faintly, spectacles that serve no purpose but habit. Often found reading books that only he can see.
+A translucent figure in ancient scholarly robes, perpetually surrounded by floating spectral books. In life, he was slight and bent from decades over manuscripts. In death, he appears as he was at perhaps 60, still aged, but vigorous. Wispy white hair, kind but piercing blue eyes that glow faintly, spectacles that serve no purpose but habit. Often found reading books that only he can see.
 
 #### Personality
 **Traits:**
@@ -16898,7 +16995,7 @@ High Mage of Thaldros from 920-989 CR. Served three kings. Dedicated his life to
 
 Died peacefully in his bed, surrounded by books. Woke up the next morning as a ghost, apparently unable or unwilling to leave his library. Has haunted it ever since, helping researchers, guarding dangerous knowledge, and continuing his studies.
 
-His "Compendium" is referenced by scholars across both continents—fifteen volumes of magical theory that remain foundational texts.
+His "Compendium" is referenced by scholars across both continents, fifteen volumes of magical theory that remain foundational texts.
 
 #### Connections
 - **Ally:** King Aldric IV (consults him on historical matters)
@@ -16911,7 +17008,7 @@ His "Compendium" is referenced by scholars across both continents—fifteen volu
 {{descriptive
 #### Secrets (DM Only)
 1. **The Forbidden Section:** One vault in the library contains knowledge so dangerous he's hidden it even from kings. The location of sleeping Primordials. Rituals that could end the world.
-2. **His Anchor:** He knows why he can't pass on—his research is incomplete. He discovered something about the Worldrend and must finish understanding it.
+2. **His Anchor:** He knows why he can't pass on. His research is incomplete. He discovered something about the Worldrend and must finish understanding it.
 3. **The Worldrend Truth:** He knows the official history is wrong. The Worldrend wasn't an accident. It was deliberate. He's still piecing together who and why.
 4. **Living Relatives:** He has descendants who don't know about him. One is a promising young mage in Silverpine.
 5. **The Choice:** He could pass on if he wanted. He's chosen not to. He tells himself it's duty, but perhaps it's fear.
@@ -16922,8 +17019,8 @@ His "Compendium" is referenced by scholars across both continents—fifteen volu
 2. **The Forbidden Section:** Something has been stolen from the vault. He needs discreet recovery.
 3. **The Descendant:** His great-great-granddaughter is in danger. He cannot leave to help her.
 4. **Ancient Mystery:** He's close to understanding the Worldrend's true cause. Needs one more piece of evidence.
-5. **Exorcism Threat:** Someone wants to banish him. He needs protection—or to discover why.
-6. **Living History:** He remembers something crucial about a current situation—from 200 years ago.
+5. **Exorcism Threat:** Someone wants to banish him. He needs protection, or to discover why.
+6. **Living History:** He remembers something crucial about a current situation, from 200 years ago.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -17002,11 +17099,11 @@ Once-handsome features now weathered by stress and years on the run (6'0", 195 l
 - The guilt he won't acknowledge is slowly destroying him
 
 #### Background & History
-Rose to General through a combination of skill and ruthlessness. Commanded the Aethorian border during the worst of the conflicts. Achieved victories—but at terrible cost.
+Rose to General through a combination of skill and ruthlessness. Commanded the Aethorian border during the worst of the conflicts. Achieved victories, but at terrible cost.
 
 The incident that ended his career: he ordered a village burned to deny resources to Aethorian partisans. 200 civilians died. Some were collaborators. Most were just farmers. He considers it a tactical necessity. International law considers it a war crime.
 
-Fled before he could be arrested. Now survives by selling military intelligence to various factions—Thaldros enemies, criminals, anyone who pays. The Aethorian Republic wants him for trial. Thaldros wants him silenced. The Syndicate finds him useful.
+Fled before he could be arrested. Now survives by selling military intelligence to various factions, Thaldros enemies, criminals, anyone who pays. The Aethorian Republic wants him for trial. Thaldros wants him silenced. The Syndicate finds him useful.
 
 *Note: This is the "General Thorne" referenced in Blood & Coin campaign as a defector being protected for his intelligence.*
 
@@ -17028,11 +17125,11 @@ Fled before he could be arrested. Now survives by selling military intelligence 
 }}
 
 #### Plot Hooks
-1. **Extraction:** Someone wants him extracted—to stand trial, to be silenced, or to be recruited.
+1. **Extraction:** Someone wants him extracted. To stand trial, to be silenced, or to be recruited.
 2. **The Intelligence:** He has information the party needs. What will they pay? What will they overlook?
-3. **The Daughter:** Elena is in danger because of her father. He'll do anything to protect her—except reveal himself.
+3. **The Daughter:** Elena is in danger because of her father. He'll do anything to protect her, except reveal himself.
 4. **War Crime Trial:** An international tribunal is forming. Witnesses need protection. Evidence needs gathering.
-5. **The Syndicate's Price:** They're done with him. He needs new protectors—fast.
+5. **The Syndicate's Price:** They're done with him. He needs new protectors, fast.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -17116,7 +17213,7 @@ Elegant and scholarly (5'6", 125 lbs), with the ageless features of her elven he
 - Carries guilt about using magic to resolve a past crisis
 
 #### Background & History
-Daughter of an elven scholar and a human merchant. Grew up in Silverpine, attended the university on scholarship. Showed talent for both magic and politics—a rare combination.
+Daughter of an elven scholar and a human merchant. Grew up in Silverpine, attended the university on scholarship. Showed talent for both magic and politics, a rare combination.
 
 Joined the city council at 40, youngest member in a century. Has spent 27 years balancing the interests of academics, merchants, and common folk. Generally respected by all factions, trusted by most.
 
@@ -17132,15 +17229,15 @@ Her defining moment: during a student riot 15 years ago, she used mass enchantme
 #### Secrets (DM Only)
 1. **The Riot:** She modified the memories of key instigators. They don't remember why they were angry. She does.
 2. **The Correspondence:** She exchanges letters with an Aethorian scholar about the Worldrend. If discovered, it could be called treason.
-3. **Her Father:** A merchant who abandoned the family. She's located him—in Goldreach, wealthy and remarried. She hasn't decided what to do.
-4. **The Forbidden Text:** She has access to a book that shouldn't exist—pre-Worldrend records that contradict official history.
+3. **Her Father:** A merchant who abandoned the family. She's located him, in Goldreach, wealthy and remarried. She hasn't decided what to do.
+4. **The Forbidden Text:** She has access to a book that shouldn't exist, pre-Worldrend records that contradict official history.
 5. **Magic Addiction:** Enchantment magic is seductive. She casts more than she should. It's becoming a problem.
 }}
 
 #### Plot Hooks
 1. **The Forbidden Text:** She needs the party to verify something in the pre-Worldrend records. Discreetly.
 2. **University Crisis:** A scandal threatens to tear apart the academic community. She needs investigators.
-3. **The Father:** She wants to know why he left—without revealing who's asking.
+3. **The Father:** She wants to know why he left, without revealing who's asking.
 4. **Political Balance:** A faction is trying to defund the university. She needs allies.
 5. **The Correspondence:** Her Aethorian contact has gone silent. She fears the worst.
 
@@ -17186,7 +17283,7 @@ ___
 - **Class:** Expert (Diplomat) 10
 
 #### Physical Description
-Average height and unremarkable features (5'8", 160 lbs)—deliberately cultivated to blend in anywhere. Black hair graying at temples, worn in whatever style suits his current assignment. Dark brown eyes that observe everything while revealing nothing. Dresses to match local customs perfectly. The only constant is a simple jade pendant (his mother's).
+Average height and unremarkable features (5'8", 160 lbs): deliberately cultivated to blend in anywhere. Black hair graying at temples, worn in whatever style suits his current assignment. Dark brown eyes that observe everything while revealing nothing. Dresses to match local customs perfectly. The only constant is a simple jade pendant (his mother's).
 
 #### Personality
 **Traits:**
@@ -17216,7 +17313,7 @@ Average height and unremarkable features (5'8", 160 lbs)—deliberately cultivat
 - His family life has suffered from constant travel
 
 #### Background & History
-Born in a border town to a merchant mother who traded with everyone—Thaldros, Aethoria, dwarves, even occasional orcish caravans. Learned early that "different" people are just people.
+Born in a border town to a merchant mother who traded with everyone, Thaldros, Aethoria, dwarves, even occasional orcish caravans. Learned early that "different" people are just people.
 
 Joined the diplomatic corps at 22 after his languages and cultural sensitivity were noticed. Has negotiated prisoner exchanges, trade agreements, and border disputes. Speaks twelve languages fluently, can get by in twenty more.
 
@@ -17243,7 +17340,7 @@ Now based in Silverpine, training the next generation of diplomats while still t
 1. **Diplomatic Crisis:** A misunderstanding threatens war. He needs help solving it before it explodes.
 2. **The Old Friend:** His Aethorian contact is in trouble. Personal and professional lines are blurring.
 3. **Mother's Killers:** After 30 years, he's found a lead. Needs help pursuing it.
-4. **Cultural Translator:** Party needs to navigate a foreign culture. He can help—for a favor.
+4. **Cultural Translator:** Party needs to navigate a foreign culture. He can help, for a favor.
 5. **Training Mission:** He's evaluating adventurers for potential diplomatic work. It's also a real mission.
 
 {{pageNumber,auto}}
@@ -17323,9 +17420,9 @@ Athletic and alert (5'9", 155 lbs), with the bearing of someone who's earned eve
 - Her brother's troubles make her question her faith in redemption
 
 #### Background & History
-Daughter of a guard who died in the line of duty. Enlisted at 18 to honor his memory. Promoted through dedication and skill rather than politics—unusual in city guard hierarchies.
+Daughter of a guard who died in the line of duty. Enlisted at 18 to honor his memory. Promoted through dedication and skill rather than politics, unusual in city guard hierarchies.
 
-At 28, she exposed a corruption ring within the guard itself, including her own superior. It nearly ended her career—the powerful have long memories—but Captain Holbrook protected her and promoted her.
+At 28, she exposed a corruption ring within the guard itself, including her own superior. It nearly ended her career, the powerful have long memories, but Captain Holbrook protected her and promoted her.
 
 Now she's being groomed as his successor. The old guard resents her. The young guards worship her. The criminals fear her. She just wants to do her job.
 
@@ -17347,7 +17444,7 @@ Now she's being groomed as his successor. The old guard resents her. The young g
 }}
 
 #### Plot Hooks
-1. **Brother's Trouble:** Tomas is in danger. She needs help that won't destroy his life—or her career.
+1. **Brother's Trouble:** Tomas is in danger. She needs help that won't destroy his life, or her career.
 2. **Cold Case:** Her father's death. She has new evidence. Needs investigators.
 3. **The Corruption:** The remaining corrupt official is making moves. She needs proof.
 4. **Succession:** Captain Holbrook's illness is becoming obvious. Political enemies are circling.
@@ -17437,7 +17534,7 @@ Born into the Ironfist clan, which has led the Iron Guild for six generations. T
 
 Became Guildmaster 40 years ago after his predecessor died in combat (an unusual but respected end). Has expanded the Guild's operations while maintaining its reputation for reliability.
 
-The Iron Guild under his leadership is the premier mercenary organization in Thaldros—professional, well-equipped, and absolutely bound by contract. They've fought for kings and merchants, nobles and commoners. They don't ask why. They just deliver.
+The Iron Guild under his leadership is the premier mercenary organization in Thaldros, professional, well-equipped, and absolutely bound by contract. They've fought for kings and merchants, nobles and commoners. They don't ask why. They just deliver.
 
 #### Connections
 - **Ally:** King Aldric IV (major client, mutual respect)
@@ -17447,7 +17544,7 @@ The Iron Guild under his leadership is the premier mercenary organization in Tha
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Refused Contract:** He once refused a contract to assassinate a king. The client went elsewhere. That king was later killed. He wonders if he should have taken it—at least he would have done it cleanly.
+1. **The Refused Contract:** He once refused a contract to assassinate a king. The client went elsewhere. That king was later killed. He wonders if he should have taken it, at least he would have done it cleanly.
 2. **Guild Funds:** The Guild maintains a massive hidden treasury for emergency operations. Only he knows the full amount and location.
 3. **The Betrayer:** Twenty years ago, a guild member broke contract and killed their employer. Roderic hunted him personally. The body was never found.
 4. **Family Secret:** His great-grandfather made a deal with something in the deep mines. The Ironfist prosperity has a price that comes due every generation.
@@ -17506,7 +17603,7 @@ ___
 - **Class:** Fighter (Iron Guild Veteran) 15
 
 #### Physical Description
-Tall and commanding (5'11", 170 lbs), with the weathered look of someone who's spent decades on campaign. Iron-gray hair cut short, sharp gray eyes that have seen too much death. A distinctive scar runs across her throat—a near-fatal wound that left her voice permanently hoarse. Always in armor, always armed.
+Tall and commanding (5'11", 170 lbs), with the weathered look of someone who's spent decades on campaign. Iron-gray hair cut short, sharp gray eyes that have seen too much death. A distinctive scar runs across her throat, a near-fatal wound that left her voice permanently hoarse. Always in armor, always armed.
 
 #### Personality
 **Traits:**
@@ -17536,11 +17633,11 @@ Tall and commanding (5'11", 170 lbs), with the weathered look of someone who's s
 - Sometimes too willing to sacrifice herself
 
 #### Background & History
-Enlisted at 16, lying about her age. Rose through ranks on pure ability—no noble sponsors, no political games. Distinguished herself in border skirmishes and the Giant Wars.
+Enlisted at 16, lying about her age. Rose through ranks on pure ability, no noble sponsors, no political games. Distinguished herself in border skirmishes and the Giant Wars.
 
 The throat wound came from an assassination attempt. The assassin was sent by a noble whose incompetent son she'd disciplined. She survived. The assassin didn't. The noble's family still holds a grudge.
 
-Now commands the Legion's Second Division, responsible for the eastern marches. General Steelheart considers her the best field commander in the Legion—and a possible successor.
+Now commands the Legion's Second Division, responsible for the eastern marches. General Steelheart considers her the best field commander in the Legion, and a possible successor.
 
 #### Connections
 - **Superior:** General Viktoria Steelheart (mentor and model)
@@ -17560,7 +17657,7 @@ Now commands the Legion's Second Division, responsible for the eastern marches. 
 }}
 
 #### Plot Hooks
-1. **House Valdren:** They're making another move. She needs the threat ended permanently—legally.
+1. **House Valdren:** They're making another move. She needs the threat ended permanently. Legally.
 2. **Daughter's Danger:** Sera is in trouble in Silverpine. Helena can't leave her post. She needs trusted agents.
 3. **The Succession:** General Steelheart wants her ready for command. The test might be lethal.
 4. **Border Crisis:** Something's happening on the eastern marches. She needs scouts and investigators.
@@ -17645,7 +17742,7 @@ Born to a smithing family in Ironhold. Showed prodigious talent from childhood. 
 
 Spent decades traveling, learning techniques from dwarven holds, elven smiths, and even a dragon who taught metalworking. Returned to Goldreach to establish the Grand Forge.
 
-His masterwork is Ironheart—a steel defender so sophisticated it's nearly alive. The creation process took ten years and, he claims, "a piece of my soul." It's not metaphorical.
+His masterwork is Ironheart, a steel defender so sophisticated it's nearly alive. The creation process took ten years and, he claims, "a piece of my soul." It's not metaphorical.
 
 #### Connections
 - **Friend:** King Aldric IV (has forged royal weapons)
@@ -17660,12 +17757,12 @@ His masterwork is Ironheart—a steel defender so sophisticated it's nearly aliv
 1. **Ironheart's Soul:** The steel defender contains a fragment of Garrick's actual soul. If it's destroyed, part of him dies forever.
 2. **The Dragon Teacher:** It was Infernalix, the ancient dragon sleeping beneath Kaer Thandros. They correspond occasionally.
 3. **His Wife:** She didn't die naturally. She was killed by rivals who wanted his secrets. He knows who.
-4. **The Ultimate Weapon:** King Aldric asked him to forge a dragon-killing weapon. He's not sure it's possible—or if he should try.
+4. **The Ultimate Weapon:** King Aldric asked him to forge a dragon-killing weapon. He's not sure it's possible, or if he should try.
 5. **The Successor:** None of his students are good enough. He fears his techniques will die with him.
 }}
 
 #### Plot Hooks
-1. **The Dragon Weapon:** The King's request is becoming urgent. Garrick needs rare materials—and moral clarity.
+1. **The Dragon Weapon:** The King's request is becoming urgent. Garrick needs rare materials, and moral clarity.
 2. **Revenge:** He's finally ready to move against his wife's killers. Needs help.
 3. **The Lost Technique:** He's found reference to a pre-Worldrend smithing method. Needs adventurers to recover it.
 4. **Ironheart's Damage:** His creation was damaged. The repair requires something he can't get through normal channels.
@@ -17700,7 +17797,7 @@ ___
 ***Sneak Attack (4d6).*** :: Once per turn, extra damage when hitting with advantage or ally adjacent to target.
 ***Evasion.*** :: Takes no damage on successful Dexterity save, half on failure.
 ***Mercenary Captain.*** :: Can recruit mercenaries in any port city. His crew is fiercely loyal.
-***Blackwood Name.*** :: The name opens some doors and closes others—depending on which Blackwood people think he's related to.
+***Blackwood Name.*** :: The name opens some doors and closes others, depending on which Blackwood people think he's related to.
 ### Actions
 ***Multiattack.*** :: Makes two rapier attacks or two hand crossbow attacks.
 ***Rapier +1.*** :: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. ***Hit.*** 1d8+5 piercing damage.::
@@ -17747,13 +17844,13 @@ Roguishly handsome (6'0", 175 lbs), with the lean build of someone who lives by 
 - Runs from emotional commitments
 
 #### Background & History
-Claims to be a bastard son of some Blackwood—refuses to say which one. Given the timing and the notorious House Blackwood tragedy, speculation runs wild. Some think he's Corvus's half-brother. Others think he's making it up for the reputation.
+Claims to be a bastard son of some Blackwood, refuses to say which one. Given the timing and the notorious House Blackwood tragedy, speculation runs wild. Some think he's Corvus's half-brother. Others think he's making it up for the reputation.
 
-Whatever the truth, he grew up on the streets of Goldreach, then on the docks, then on ships. Started as a cabin boy, worked his way to captain by age 26. The *Lucky Bastard* is his third ship—won in a card game.
+Whatever the truth, he grew up on the streets of Goldreach, then on the docks, then on ships. Started as a cabin boy, worked his way to captain by age 26. The *Lucky Bastard* is his third ship, won in a card game.
 
 Now operates as a "legitimate" privateer with letters of marque from Thaldros, though he's not particularly picky about which nation's ships he hits or whose cargo he moves. Has contacts in every port on both continents.
 
-*Note: His potential connection to the Blackwood family—and to either campaign's Corvus Blackwood—is deliberately ambiguous for DM use.*
+*Note: His potential connection to the Blackwood family, and to either campaign's Corvus Blackwood, is deliberately ambiguous for DM use.*
 
 #### Connections
 - **Crew:** Twenty loyal sailors who'd die for him
@@ -17765,7 +17862,7 @@ Now operates as a "legitimate" privateer with letters of marque from Thaldros, t
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Real Story:** He actually is a Blackwood bastard—the illegitimate son of a fallen Blackwood lord (now dead). He has proof but doesn't want it known.
+1. **The Real Story:** He actually is a Blackwood bastard: the illegitimate son of a fallen Blackwood lord (now dead). He has proof but doesn't want it known.
 2. **The Syndicate Job:** He's being pressured to do something that crosses his lines. He's looking for a way out.
 3. **The Aethorian Debt:** He owes his life to an Aethorian noblewoman. She's calling in the favor. It might mean war.
 4. **The Cargo:** He's currently carrying something he shouldn't have looked at. It's dangerous. He doesn't know who to sell it to.
@@ -17773,7 +17870,7 @@ Now operates as a "legitimate" privateer with letters of marque from Thaldros, t
 }}
 
 #### Plot Hooks
-1. **Transport Needed:** He'll take passengers anywhere—for the right price and the right story.
+1. **Transport Needed:** He'll take passengers anywhere, for the right price and the right story.
 2. **The Blackwood Connection:** If someone's investigating House Blackwood, he might know things. Or pretend to.
 3. **The Syndicate Problem:** He needs help getting free of an obligation. It won't be clean.
 4. **The Mysterious Cargo:** He needs to get rid of something dangerous. Might pay. Might share.
@@ -17827,7 +17924,7 @@ Can take 3 legendary actions.
 - **Legacy:** Founded the principles that became Aethorian democracy
 
 ### The Legend
-Aldric was born a slave in the mines of what is now Ironhold. At age 20, he led a revolt that freed over 3,000 slaves—the largest slave rebellion in recorded history. What began as survival became a movement.
+Aldric was born a slave in the mines of what is now Ironhold. At age 20, he led a revolt that freed over 3,000 slaves, the largest slave rebellion in recorded history. What began as survival became a movement.
 
 Over the next 47 years, he waged guerrilla war against slaveholding lords, liberated countless enslaved people, and established the first free settlements that would eventually become Aethoria. He died not in battle, but peacefully, surrounded by the children of people he'd freed.
 
@@ -17902,7 +17999,7 @@ Can take 3 legendary actions.
 - **Alignment:** Chaotic Evil
 
 ### Description
-Ryldak is massive even by ancient dragon standards—a living mountain of crimson scales turned black at the edges from millennia of fire. His wings are tattered but still functional, scarred from battles with beings that no longer exist. His eyes burn with intelligence and contempt for the short-lived races that have forgotten how the world truly works.
+Ryldak is massive even by ancient dragon standards, a living mountain of crimson scales turned black at the edges from millennia of fire. His wings are tattered but still functional, scarred from battles with beings that no longer exist. His eyes burn with intelligence and contempt for the short-lived races that have forgotten how the world truly works.
 
 \column
 
@@ -17916,7 +18013,7 @@ He's spent the last thousand years in semi-hibernation, waking occasionally to r
 
 #### Personality
 **Traits:**
-- Views mortals as insects—occasionally useful, mostly irrelevant
+- Views mortals as insects, occasionally useful, mostly irrelevant
 - Speaks in a voice that vibrates in the bones
 - Has patience measured in centuries
 - Collects knowledge as much as treasure
@@ -17924,7 +18021,7 @@ He's spent the last thousand years in semi-hibernation, waking occasionally to r
 **Goals:**
 - Survive another few millennia
 - Prevent anyone from gathering the Worldrend artifacts
-- Possibly prevent a second Worldrend—he barely survived the first
+- Possibly prevent a second Worldrend, he barely survived the first
 - Observe. Wait. Plan.
 
 #### Connections
@@ -17995,7 +18092,7 @@ ___
 A small, thin boy with unruly brown hair and unusually old eyes for his age. When not in the grip of visions, he's a normal if somewhat quiet child who likes drawing and dislikes vegetables. During visions, his eyes go white and he speaks in voices not his own.
 \column
 ### Background
-Tom was born during a rare celestial alignment to a family of simple farmers. His visions began at age 5—at first dismissed as nightmares, then recognized as something more when his "dream" about the barn fire came true.
+Tom was born during a rare celestial alignment to a family of simple farmers. His visions began at age 5, at first dismissed as nightmares, then recognized as something more when his "dream" about the barn fire came true.
 
 Word spread. Some called him blessed, others cursed. His parents, frightened for his safety, sent him to the Silver Circle for protection. He's been moved between safe houses ever since, as various factions try to claim or silence him.
 
@@ -18039,7 +18136,7 @@ Tom has made several prophecies that have proven true:
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Big Vision:** He's seen a vision of the world ending—or being saved. He can't tell which. The deciding factor is "the choice of shadows."
+1. **The Big Vision:** He's seen a vision of the world ending, or being saved. He can't tell which. The deciding factor is "the choice of shadows."
 2. **The Draw:** His drawings contain more information than even he realizes. One includes a detailed map to something.
 3. **The Connection:** He's somehow connected to the Worldrend itself. His visions are glimpses of possibilities branching from that event.
 4. **His Parents:** They're not just in hiding. They're being hunted because they know something about his birth.
@@ -18091,7 +18188,7 @@ ___
 
 ### Background
 
-Marta has run the Goodbarrel for 30 years. Her inn is neutral ground where deals get made—she hears everything and shares nothing. Former adventurer who retired after losing her party to a dragon. Keeps a loaded crossbow under the bar.
+Marta has run the Goodbarrel for 30 years. Her inn is neutral ground where deals get made. She hears everything and shares nothing. Former adventurer who retired after losing her party to a dragon. Keeps a loaded crossbow under the bar.
 
 #### Connections
 Knows everyone in Goldreach. Owes the Syndicate nothing (paid off years ago). Secret contact for the Silver Circle.
@@ -18100,7 +18197,7 @@ Knows everyone in Goldreach. Owes the Syndicate nothing (paid off years ago). Se
 #### Secrets (DM Only)
 1. Hidden room for refugees. 
 2. Knows where three wanted criminals are hiding. 
-3. Her late husband was a Syndicate boss—she inherited his files.
+3. Her late husband was a Syndicate boss: she inherited his files.
 }}
 
 ### Hooks 
@@ -18144,7 +18241,7 @@ ___
 **Role:** Syndicate Enforcer, Debt Collector ::
 
 ### Background
-Grimjaw collects debts for the Syndicate. Never kills unless ordered—broken bones heal, corpses don't pay. Surprisingly honorable: won't hurt children, keeps his word. The Syndicate values his reliability.
+Grimjaw collects debts for the Syndicate. Never kills unless ordered, broken bones heal, corpses don't pay. Surprisingly honorable: won't hurt children, keeps his word. The Syndicate values his reliability.
 
 #### Connections
 Reports to mid-level Syndicate boss. Respected by other enforcers. Has a halfling accountant he protects.
@@ -18194,7 +18291,7 @@ ___
 **Role:** Fence, Black Market Dealer, Information Broker
 
 ### Background
-Elena runs Goldreach's best fence operation from behind a legitimate antique shop. Professional, discreet, never asks questions. Former noble who lost everything to gambling—rebuilt from nothing.
+Elena runs Goldreach's best fence operation from behind a legitimate antique shop. Professional, discreet, never asks questions. Former noble who lost everything to gambling, rebuilt from nothing.
 
 #### Connections
 Knows every thief in the city. Syndicate tolerates her independence because she's useful. Has noble contacts who buy "recovered heirlooms."
@@ -18202,7 +18299,7 @@ Knows every thief in the city. Syndicate tolerates her independence because she'
 {{descriptive
 #### Secrets (DM Only) 
 1. Still owns her family's title (in exile). 
-2. Has one item she'll never sell—her mother's necklace, which contains a map. 
+2. Has one item she'll never sell, her mother's necklace, which contains a map. 
 3. Helps escaped slaves quietly.
 }}
 
@@ -18247,7 +18344,7 @@ ___
 
 ### Background
 
-Nobody knows Whisper's real name, face, or gender—they use disguises constantly. Known only by reputation: if it can be stolen, Whisper can steal it. Never kills. Takes jobs purely for the challenge.
+Nobody knows Whisper's real name, face, or gender, they use disguises constantly. Known only by reputation: if it can be stolen, Whisper can steal it. Never kills. Takes jobs purely for the challenge.
 
 #### Connections
 No known allies. Every thieves' guild knows the name. Has humiliated the Syndicate twice.
@@ -18255,7 +18352,7 @@ No known allies. Every thieves' guild knows the name. Has humiliated the Syndica
 {{descriptive
 #### Secrets (DM Only) 
 1. Actually three people working together (siblings). 
-2. One is dying—they're searching for a cure. 
+2. One is dying: they're searching for a cure. 
 3. Once stole from a dragon and lived.
 }}
 
@@ -18298,7 +18395,7 @@ ___
 
 ### Background
 
-Kael runs the finest smithy in Silverpine—not the fanciest, but the best. Self-taught after being exiled from his clan for a crime he didn't commit. His weapons are sought after by collectors and warriors alike.
+Kael runs the finest smithy in Silverpine, not the fanciest, but the best. Self-taught after being exiled from his clan for a crime he didn't commit. His weapons are sought after by collectors and warriors alike.
 
 #### Connections
 Supplies the city guard. Former customer of Garrick Ironheart (mutual respect). Has apprentices he treats like family.
@@ -18350,7 +18447,7 @@ ___
 
 ### Background
 
-Viktor extracts confessions for the Crown. Works alongside High Inquisitor Mordain but serves a different master—pure pragmatism, not faith. Believes everyone is guilty of something; his job is finding out what.
+Viktor extracts confessions for the Crown. Works alongside High Inquisitor Mordain but serves a different master, pure pragmatism, not faith. Believes everyone is guilty of something; his job is finding out what.
 
 #### Connections
 Reports to the Crown directly. Mordain respects his skill, distrusts his motives. Has broken hundreds of prisoners.
@@ -18457,14 +18554,14 @@ ___
 
 ### Background
 
-Sister Marian runs a free clinic in Goldreach's poorest district. Known for healing anyone—criminals, monsters, enemies. Some call her a saint; others call her dangerously naive.
+Sister Marian runs a free clinic in Goldreach's poorest district. Known for healing anyone, criminals, monsters, enemies. Some call her a saint; others call her dangerously naive.
 
 #### Connections 
 Beloved by the poor. Church hierarchy is uncomfortable with her. The Syndicate leaves her clinic alone (even criminals need healers).
 \column
 {{descriptive
 #### Secrets (DM Only) 
-1. Has healed Syndicate bosses and Inquisition prisoners—never refuses. 
+1. Has healed Syndicate bosses and Inquisition prisoners: never refuses. 
 2. Once harbored a fugitive she knew was guilty. 
 3. Hears a voice she believes is Sera.
 }}
@@ -18512,7 +18609,7 @@ ___
 **Role:** Death Priest, Guardian of the Dead, Conflicted Agent
 
 ### Background
-Sister Mortua serves Mordain the Sentinel, believing she ensures the dead rest peacefully and hunts those who disturb them. She is grim but principled—death is natural, necromancy is obscene violation. However, her rigid worldview has made her vulnerable to manipulation.
+Sister Mortua serves Mordain the Sentinel, believing she ensures the dead rest peacefully and hunts those who disturb them. She is grim but principled, death is natural, necromancy is obscene violation. However, her rigid worldview has made her vulnerable to manipulation.
 \column
 **The Unbound Deception:** Sister Mortua has been recruited by The Unbound under false pretenses. She believes The Unbound are working to *prevent* the Second Worldrend by recovering dangerous artifacts before corrupt governments misuse them. She doesn't know about Lord Shadows's true goals or the plan to wake Dragon Infernalix. In her mind, she's preventing catastrophe, not enabling it.
 
@@ -18527,7 +18624,7 @@ Works with the Inquisition on undead matters (unknowingly passing intelligence t
 {{descriptive
 #### Secrets (DM Only) 
 
-1. Once was a necromancer herself—converted after her experiments went wrong and killed her parents
+1. Once was a necromancer herself: converted after her experiments went wrong and killed her parents
 2. Her younger sister is now a vampire she's been unable to destroy—this guilt drove her to The Unbound's "proactive" approach
 3. Hears the dead speak; they're warning her she's been deceived, but she refuses to listen
 4. **The Unbound have manipulated her through her guilt and her desire to "do something" about the corrupt powers that enabled necromancy to flourish**
@@ -18626,10 +18723,10 @@ ___
 **Role:** Professional Courier, Message Runner
 
 ### Background
-Alden is the fastest courier in Kaer Thandros—known for delivering messages when teleportation isn't an option and discretion is required. Delivers to anyone, no questions asked.
+Alden is the fastest courier in Kaer Thandros, known for delivering messages when teleportation isn't an option and discretion is required. Delivers to anyone, no questions asked.
 
 #### Connections
-Used by everyone—nobles, criminals, merchants, spies. Nobody wants him dead because everyone needs him.
+Used by everyone, nobles, criminals, merchants, spies. Nobody wants him dead because everyone needs him.
 \column
 {{descriptive
 #### Secrets (DM Only) 
@@ -18678,7 +18775,7 @@ ___
 **Role:** Bandit Leader, Highwayman, Terror of the Roads
 
 ### Background
-Thorne leads a band of 30 bandits operating between Goldreach and Silverpine. Called "The Butcher" because he doesn't leave witnesses. Actually quite strategic—only attacks targets he can overwhelm.
+Thorne leads a band of 30 bandits operating between Goldreach and Silverpine. Called "The Butcher" because he doesn't leave witnesses. Actually quite strategic, only attacks targets he can overwhelm.
 
 #### Connections
 Loose Syndicate affiliation (pays tribute, gets left alone). Has a spy in the city guard.
@@ -18739,7 +18836,7 @@ Friends with druids and rangers. Has explored ruins no one else has found. Owes 
 {{descriptive
 #### Secrets (DM Only) 
 1. Found something in the mountains she's never told anyone about. 
-2. Her circus family was murdered—she knows by whom.
+2. Her circus family was murdered: she knows by whom.
 }}
 
 ### Hooks
@@ -18781,13 +18878,13 @@ ___
 Marcus knows people who know things. For a fee, he connects buyers with sellers, problems with solutions. Never takes sides, never betrays clients. His neutrality is his business.
 
 #### Connections 
-Everyone. That's his job. The Syndicate, the Crown, merchants, criminals—all use his services.
+Everyone. That's his job. The Syndicate, the Crown, merchants, criminals, all use his services.
 \column
 {{descriptive
 #### Secrets (DM Only) 
 1. Keeps files on everyone he works with. 
 2. Has enough blackmail material to destroy dozens of careers. 
-3. Once sold information that got someone killed—still haunts him.
+3. Once sold information that got someone killed, still haunts him.
 }}
 
 ### Hooks 
@@ -18826,7 +18923,7 @@ ___
 **Role:** Black Market Broker, Smuggler Contact
 
 ### Background
-Helena arranges the movement of goods that can't move through legal channels. Not a smuggler herself—she connects smugglers with clients. Works from a legitimate tea shop.
+Helena arranges the movement of goods that can't move through legal channels. Not a smuggler herself. She connects smugglers with clients. Works from a legitimate tea shop.
 
 #### Connections
 Knows every smuggler on the coast. Has contacts in customs. Pays the Syndicate for "protection."
@@ -18882,14 +18979,14 @@ ___
 **Role:** Iron Guild Leader, Mercenary Commander
 
 ### Background
-Varak took over the Iron Guild fifty years ago after leaving the Thaldros military. Under his leadership, it's become the premier mercenary organization in the realm—professional, well-equipped, and absolutely bound by contract. They've fought for kings and merchants, nobles and commoners. They don't ask why. They just deliver.
+Varak took over the Iron Guild fifty years ago after leaving the Thaldros military. Under his leadership, it's become the premier mercenary organization in the realm, professional, well-equipped, and absolutely bound by contract. They've fought for kings and merchants, nobles and commoners. They don't ask why. They just deliver.
 
 #### Connections
 Employer to dozens of mercenaries. Respected by military commanders. Has contracts with noble houses across Thaldros. Distant cousin to former Guildmaster Roderic Ironfist.
 \column
 {{descriptive
 #### Secrets (DM Only) 
-1. Lost his squad in an ambush 20 years ago—only survivor. 
+1. Lost his squad in an ambush 20 years ago, only survivor. 
 2. The ambush was an inside job by a rival mercenary company. 
 3. He knows who betrayed them and is slowly, methodically destroying their business. Also knows too much about various noble houses' dirty work.
 }}
@@ -18983,14 +19080,14 @@ ___
 **Role:** Resistance Fighter, Aethorian Sympathizer, Freedom Fighter
 
 ### Background
-Katrina leads a small resistance cell in the border regions, fighting against what she sees as Thaldros's imperial ambitions. Her family was killed in a border raid—she blames the crown.
+Katrina leads a small resistance cell in the border regions, fighting against what she sees as Thaldros's imperial ambitions. Her family was killed in a border raid: she blames the crown.
 
 #### Connections
 Loose ties to Aethorian intelligence. Commands 12 fighters. Hated by border patrols.
 \column
 {{descriptive
 #### Secrets (DM Only) 
-1. Her family's death wasn't a simple raid—it was connected to the Northern Pact. 
+1. Her family's death wasn't a simple raid: it was connected to the Northern Pact. 
 2. She doesn't know about the giants, but she's getting close. 
 3. Her brother survived and is now a Thaldros soldier.
 }}
@@ -19041,7 +19138,7 @@ Works freelance. Elena Ravencroft fences her goods. Owes the Syndicate nothing (
 {{descriptive
 #### Secrets (DM Only) 
 1. Saving money to buy her family's farm back. 
-2. Stole something she shouldn't have—doesn't know what it is, but people are looking for it.
+2. Stole something she shouldn't have. Doesn't know what it is, but people are looking for it.
 }}
 
 ### Hooks 
@@ -19082,7 +19179,7 @@ ___
 **Role:** Labor Organizer, Populist Leader, Would-Be Revolutionary
 
 ### Background
-Magnus organizes workers against unfair treatment. Not a revolutionary—yet—but he's moving in that direction as conditions worsen. Charismatic and genuinely cares about common people.
+Magnus organizes workers against unfair treatment. Not a revolutionary, yet, but he's moving in that direction as conditions worsen. Charismatic and genuinely cares about common people.
 
 #### Connections
 Leads the Workers' Brotherhood. Watched by the Inquisition. Has contacts among reformist nobles.
@@ -19091,7 +19188,7 @@ Leads the Workers' Brotherhood. Watched by the Inquisition. Has contacts among r
 #### Secrets (DM Only) 
 1. Has been approached by Aethorian agents. 
 2. He refused but didn't report it. 
-3. His wife was killed by strike-breakers—he's never stopped being angry.
+3. His wife was killed by strike-breakers. He's never stopped being angry.
 }}
 
 ### Hooks 
@@ -19139,7 +19236,7 @@ Was part of a legendary adventuring party. Still has contacts from the old days.
 #### Secrets (DM Only) 
 1. His old party didn't all retire. 
 2. Some died, one turned evil, one is now a lich. 
-3. He knows where their final quest ended—and what they found there.
+3. He knows where their final quest ended, and what they found there.
 }}
 
 ### Hooks 
@@ -19238,7 +19335,7 @@ Correspondent with High Mage Arcturus's ghost. Silverpine Magical Academy facult
 \column
 {{descriptive
 #### Secrets (DM Only) 
-1. His research is correct—reality is still damaged. 
+1. His research is correct. Reality is still damaged. 
 2. He's found evidence of deliberate sabotage of repair efforts. 
 3. Someone doesn't want the Worldrend healed.
 }}
@@ -19277,7 +19374,7 @@ ___
 **Role:** Master Carpenter, Craftsman, Secret Keeper
 
 ### Background
-Aldrick builds homes, ships, and siege equipment with equal skill. His father built the royal palace, and Aldrick maintains it—meaning he knows every secret passage and hidden room.
+Aldrick builds homes, ships, and siege equipment with equal skill. His father built the royal palace, and Aldrick maintains it: meaning he knows every secret passage and hidden room.
 
 #### Connections
 Knows every builder in the city. Has worked for nobles and criminals. Owes loyalty to his craft guild.
@@ -20679,7 +20776,7 @@ Balance: ::
 - Mix safe and dangerous travel
 
 
-Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from Primordial-corrupted zones to war-torn borderlands.
+Wilderness exploration in Tirvandor offers freedom, danger, and discovery, from Primordial-corrupted zones to war-torn borderlands.
 
 {{pageNumber,auto}}
 {{footnote Part V: DM Tools}}
@@ -21012,10 +21109,10 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery—from
 
 | CR | Copper | Silver | Gold | Platinum |
 |----|--------|--------|------|----------|
-| 0-4 | 1d6 x 100 | 1d6 x 10 | 1d6 x 1 | — |
+| 0-4 | 1d6 x 100 | 1d6 x 10 | 1d6 x 1 |, |
 | 5-10 | — | 1d6 x 100 | 1d6 x 10 | 1d6 x 1 |
-| 11-16 | — | — | 1d6 x 100 | 1d6 x 10 |
-| 17+ | — | — | 1d6 x 1,000 | 1d6 x 100 |
+| 11-16 |, |, | 1d6 x 100 | 1d6 x 10 |
+| 17+ |, |, | 1d6 x 1,000 | 1d6 x 100 |
 
 ### Gemstone Values
 
@@ -21109,9 +21206,9 @@ END OF LICENSE
 Tirvandor Dungeon Master's Guide: Secrets of the Sundered World
 
 :
-Behind every great campaign lies a wealth of secrets—hidden histories, shadowy factions, and truths the players must discover for themselves. This guide gives you everything you need to bring Tirvandor to life at your table.
+Behind every great campaign lies a wealth of secrets, hidden histories, shadowy factions, and truths the players must discover for themselves. This guide gives you everything you need to bring Tirvandor to life at your table.
 :
-From the political machinations of noble houses to the cosmic mysteries of the Worldrend, from street-level intrigue to world-shaking revelations—it's all here, organized for the Dungeon Master's eyes only.
+From the political machinations of noble houses to the cosmic mysteries of the Worldrend, from street-level intrigue to world-shaking revelations. It's all here, organized for the Dungeon Master's eyes only.
 :
 This Guide contains:
 

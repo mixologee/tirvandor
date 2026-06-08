@@ -119,7 +119,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ Oath of the Iron Crown (Paladin)}}{{ 88}}](#p92)
   - [{{ Oath of Liberty (Paladin)}}{{ 89}}](#p93)
   - [{{ Border Warden (Ranger)}}{{ 90}}](#p94)
-  - [{{ People’s Scout (Ranger)}}{{ 91}}](#p95)
+  - [{{ People's Scout (Ranger)}}{{ 91}}](#p95)
   - [{{ State Inquisitor (Rogue)}}{{ 92}}](#p96)
   - [{{ Shadow Broker (Rogue)}}{{ 92}}](#p96)
   - [{{ Warborn Bloodline (Sorcerer)}}{{ 93}}](#p97)
@@ -274,7 +274,7 @@ Tirvandor is a world divided by history, politics, and magic. A catastrophic eve
 
 **Aethoria** - Free democratic states where personal liberty and self-governance are paramount. Merchant councils, elected leaders, and individual rights shape society.
 
-Within Thaldros lie **The Contested Lands** — lawless frontier regions where Crown authority is nominal at best, filled with refugees, mercenaries, and those who've chosen freedom over allegiance.
+Within Thaldros lie **The Contested Lands**. Lawless frontier regions where Crown authority is nominal at best, filled with refugees, mercenaries, and those who've chosen freedom over allegiance.
 
 Magic in Tirvandor flows through **ley lines** - natural channels of energy that crisscross the world. These lines of power make some locations more magically potent than others and tie directly into the world's history.
 
@@ -1650,7 +1650,7 @@ At 20th level, you embody the power of the wilds. Your Strength and Constitution
 
 #### **Path of the Berserker**
 
-For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood.
+For some barbarians, rage is a means to an end, that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood.
 
 **Frenzy (3rd Level)** 
 
@@ -2084,11 +2084,11 @@ You start with the following equipment:
 | 4th | +2 | Ability Score Improvement | 3 | 7 | 4 | 3 | - | - | - | - | - | - | - |
 | 5th | +3 | Bardic Inspiration (d8), Font of Inspiration | 3 | 8 | 4 | 3 | 2 | - | - | - | - | - | - |
 | 6th | +3 | Countercharm, Bard College feature | 3 | 9 | 4 | 3 | 3 | - | - | - | - | - | - |
-| 7th | +3 | — | 3 | 10 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 7th | +3 |: | 3 | 10 | 4 | 3 | 3 | 1 | - | - | - | - | - |
 | 8th | +3 | Ability Score Improvement | 3 | 11 | 4 | 3 | 3 | 2 | - | - | - | - | - |
 | 9th | +4 | Song of Rest (d8) | 3 | 12 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
 | 10th | +4 | Bardic Inspiration (d10), Expertise, Magical Secrets | 4 | 14 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
-| 11th | +4 | — | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 11th | +4 |: | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
 | 12th | +4 | Ability Score Improvement | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
 | 13th | +5 | Song of Rest (d10) | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 14th | +5 | Magical Secrets, Bard College feature | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
@@ -2288,19 +2288,19 @@ You start with the following equipment:
 |-------|-------------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 1st | +2 | Spellcasting, Divine Domain | 3 | 2 | - | - | - | - | - | - | - | - |
 | 2nd | +2 | Channel Divinity (1/rest), Divine Domain feature | 3 | 3 | - | - | - | - | - | - | - | - |
-| 3rd | +2 | — | 3 | 4 | 2 | - | - | - | - | - | - | - |
+| 3rd | +2 |, | 3 | 4 | 2 | - | - | - | - | - | - | - |
 | 4th | +2 | Ability Score Improvement | 4 | 4 | 3 | - | - | - | - | - | - | - |
 | 5th | +3 | Destroy Undead (CR 1/2) | 4 | 4 | 3 | 2 | - | - | - | - | - | - |
 | 6th | +3 | Channel Divinity (2/rest), Divine Domain feature | 4 | 4 | 3 | 3 | - | - | - | - | - | - |
-| 7th | +3 | — | 4 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 7th | +3 |, | 4 | 4 | 3 | 3 | 1 | - | - | - | - | - |
 | 8th | +3 | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature | 4 | 4 | 3 | 3 | 2 | - | - | - | - | - |
-| 9th | +4 | — | 4 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 9th | +4 |, | 4 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
 | 10th | +4 | Divine Intervention | 5 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
 | 11th | +4 | Destroy Undead (CR 2) | 5 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
 | 12th | +4 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 13th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 13th | +5 |: | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 14th | +5 | Destroy Undead (CR 3) | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
-| 15th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 15th | +5 |, | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
 | 16th | +5 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
 | 17th | +6 | Destroy Undead (CR 4), Divine Domain feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18th | +6 | Channel Divinity (3/rest) | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
@@ -2348,7 +2348,7 @@ additional ways to use Channel Divinity when you gain that feature at 2nd level,
 
 **Domain Spells**
 
-Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+Each domain has a list of spells, its domain spells, that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 {{pageNumber,auto}}
 {{footnote Classes}}
 \page
@@ -2402,7 +2402,7 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 ### **Life Domain**
 
-The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.
+The Life domain focuses on the vibrant positive energy, one of the fundamental forces of the universe, that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.
 
 **Life Domain Spells**
 
@@ -2517,21 +2517,21 @@ You start with the following equipment:
 |-------|-------------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 1st | +2 | Druidic, Spellcasting | 2 | 2 | - | - | - | - | - | - | - | - |
 | 2nd | +2 | Wild Shape, Druid Circle | 2 | 3 | - | - | - | - | - | - | - | - |
-| 3rd | +2 | — | 2 | 4 | 2 | - | - | - | - | - | - | - |
+| 3rd | +2 |: | 2 | 4 | 2 | - | - | - | - | - | - | - |
 | 4th | +2 | Wild Shape improvement, Ability Score Improvement | 3 | 4 | 3 | - | - | - | - | - | - | - |
-| 5th | +3 | — | 3 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 5th | +3 |, | 3 | 4 | 3 | 2 | - | - | - | - | - | - |
 | 6th | +3 | Druid Circle feature | 3 | 4 | 3 | 3 | - | - | - | - | - | - |
-| 7th | +3 | — | 3 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 7th | +3 |, | 3 | 4 | 3 | 3 | 1 | - | - | - | - | - |
 | 8th | +3 | Wild Shape improvement, Ability Score Improvement | 3 | 4 | 3 | 3 | 2 | - | - | - | - | - |
-| 9th | +4 | — | 3 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 9th | +4 |, | 3 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
 | 10th | +4 | Druid Circle feature | 4 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
-| 11th | +4 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 11th | +4 |, | 4 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
 | 12th | +4 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 13th | +5 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 13th | +5 |: | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 14th | +5 | Druid Circle feature | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
-| 15th | +5 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 15th | +5 |, | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
 | 16th | +5 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
-| 17th | +6 | — | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 17th | +6 |: | 4 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18th | +6 | Timeless Body, Beast Spells | 4 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Archdruid | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
@@ -2590,7 +2590,7 @@ Your druid level determines the beasts you can transform into, as shown in the B
 |-------|--------|-------------|---------|
 | 2nd | 1/4 | No flying or swimming speed | Wolf |
 | 4th | 1/2 | No flying speed | Crocodile |
-| 8th | 1 | — | Giant eagle |
+| 8th | 1 |, | Giant eagle |
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
@@ -2644,7 +2644,7 @@ For example, when you are a 4th-level druid, you can recover up to two levels wo
 
 **Circle Spells (3rd, 5th, 7th, 9th Level)**
 
-Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
+Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land, arctic, coast, desert, forest, grassland, mountain, or swamp, and consult the associated list of spells.
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
@@ -2795,7 +2795,7 @@ You start with the following equipment:
 
 | Level | Proficiency | Martial Arts | Ki Points | Unarmored Movement | Features |
 |-------|-------------|--------------|-----------|---------------------|----------|
-| 1st | +2 | 1d4 | — | — | Unarmored Defense, Martial Arts |
+| 1st | +2 | 1d4 |, |, | Unarmored Defense, Martial Arts |
 | 2nd | +2 | 1d4 | 2 | +10 ft. | Ki, Unarmored Movement |
 | 3rd | +2 | 1d4 | 3 | +10 ft. | Monastic Tradition, Deflect Missiles |
 | 4th | +2 | 1d4 | 4 | +10 ft. | Ability Score Improvement, Slow Fall |
@@ -3030,23 +3030,23 @@ You start with the following equipment:
 
 | Level | Proficiency | Features | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------|----------|-----|-----|-----|-----|-----|
-| 1st | +2 | Divine Sense, Lay on Hands | — | — | — | — | — |
-| 2nd | +2 | Fighting Style, Spellcasting, Divine Smite | 2 | — | — | — | — |
-| 3rd | +2 | Divine Health, Sacred Oath | 3 | — | — | — | — |
-| 4th | +2 | Ability Score Improvement | 3 | — | — | — | — |
-| 5th | +3 | Extra Attack | 4 | 2 | — | — | — |
-| 6th | +3 | Aura of Protection | 4 | 2 | — | — | — |
-| 7th | +3 | Sacred Oath feature | 4 | 3 | — | — | — |
-| 8th | +3 | Ability Score Improvement | 4 | 3 | — | — | — |
-| 9th | +4 | — | 4 | 3 | 2 | — | — |
-| 10th | +4 | Aura of Courage | 4 | 3 | 2 | — | — |
-| 11th | +4 | Improved Divine Smite | 4 | 3 | 3 | — | — |
-| 12th | +4 | Ability Score Improvement | 4 | 3 | 3 | — | — |
-| 13th | +5 | — | 4 | 3 | 3 | 1 | — |
-| 14th | +5 | Cleansing Touch | 4 | 3 | 3 | 1 | — |
-| 15th | +5 | Sacred Oath feature | 4 | 3 | 3 | 2 | — |
-| 16th | +5 | Ability Score Improvement | 4 | 3 | 3 | 2 | — |
-| 17th | +6 | — | 4 | 3 | 3 | 3 | 1 |
+| 1st | +2 | Divine Sense, Lay on Hands | (|) |, |, |, |
+| 2nd | +2 | Fighting Style, Spellcasting, Divine Smite | 2 | (|) |, |, |
+| 3rd | +2 | Divine Health, Sacred Oath | 3 |, |, |, |, |
+| 4th | +2 | Ability Score Improvement | 3 | (|) | (|) |
+| 5th | +3 | Extra Attack | 4 | 2 |, |, |, |
+| 6th | +3 | Aura of Protection | 4 | 2 |, |, |, |
+| 7th | +3 | Sacred Oath feature | 4 | 3 | (|) |: |
+| 8th | +3 | Ability Score Improvement | 4 | 3 |, |, |: |
+| 9th | +4 |, | 4 | 3 | 2 |, |, |
+| 10th | +4 | Aura of Courage | 4 | 3 | 2 |, |, |
+| 11th | +4 | Improved Divine Smite | 4 | 3 | 3 | (|) |
+| 12th | +4 | Ability Score Improvement | 4 | 3 | 3 |, |, |
+| 13th | +5 |, | 4 | 3 | 3 | 1 |, |
+| 14th | +5 | Cleansing Touch | 4 | 3 | 3 | 1 |: |
+| 15th | +5 | Sacred Oath feature | 4 | 3 | 3 | 2 |, |
+| 16th | +5 | Ability Score Improvement | 4 | 3 | 3 | 2 |, |
+| 17th | +6 |, | 4 | 3 | 3 | 3 | 1 |
 | 18th | +6 | Aura improvements | 4 | 3 | 3 | 3 | 1 |
 | 19th | +6 | Ability Score Improvement | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Sacred Oath feature | 4 | 3 | 3 | 3 | 2 |
@@ -3311,23 +3311,23 @@ You start with the following equipment:
 
 | Level | Proficiency | Features | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
 |-------|-------------|----------|--------------|-----|-----|-----|-----|-----|
-| 1st | +2 | Favored Enemy, Natural Explorer | — | — | — | — | — | — |
-| 2nd | +2 | Fighting Style, Spellcasting | 2 | 2 | — | — | — | — |
-| 3rd | +2 | Ranger Archetype, Primeval Awareness | 3 | 3 | — | — | — | — |
-| 4th | +2 | Ability Score Improvement | 3 | 3 | — | — | — | — |
-| 5th | +3 | Extra Attack | 4 | 4 | 2 | — | — | — |
-| 6th | +3 | Favored Enemy and Natural Explorer improvements | 4 | 4 | 2 | — | — | — |
-| 7th | +3 | Ranger Archetype feature | 5 | 4 | 3 | — | — | — |
-| 8th | +3 | Ability Score Improvement, Land's Stride | 5 | 4 | 3 | — | — | — |
-| 9th | +4 | — | 6 | 4 | 3 | 2 | — | — |
-| 10th | +4 | Natural Explorer improvement, Hide in Plain Sight | 6 | 4 | 3 | 2 | — | — |
-| 11th | +4 | Ranger Archetype feature | 7 | 4 | 3 | 3 | — | — |
-| 12th | +4 | Ability Score Improvement | 7 | 4 | 3 | 3 | — | — |
-| 13th | +5 | — | 8 | 4 | 3 | 3 | 1 | — |
-| 14th | +5 | Favored Enemy improvement, Vanish | 8 | 4 | 3 | 3 | 1 | — |
-| 15th | +5 | Ranger Archetype feature | 9 | 4 | 3 | 3 | 2 | — |
-| 16th | +5 | Ability Score Improvement | 9 | 4 | 3 | 3 | 2 | — |
-| 17th | +6 | — | 10 | 4 | 3 | 3 | 3 | 1 |
+| 1st | +2 | Favored Enemy, Natural Explorer |, |, |, |, |, |, |
+| 2nd | +2 | Fighting Style, Spellcasting | 2 | 2 |, |, |, |, |
+| 3rd | +2 | Ranger Archetype, Primeval Awareness | 3 | 3 |, |, |, |, |
+| 4th | +2 | Ability Score Improvement | 3 | 3 |, |, |, |, |
+| 5th | +3 | Extra Attack | 4 | 4 | 2 | (|) |, |
+| 6th | +3 | Favored Enemy and Natural Explorer improvements | 4 | 4 | 2 |, |, |, |
+| 7th | +3 | Ranger Archetype feature | 5 | 4 | 3 | (|) |, |
+| 8th | +3 | Ability Score Improvement, Land's Stride | 5 | 4 | 3 | (|) |, |
+| 9th | +4 |, | 6 | 4 | 3 | 2 |, |, |
+| 10th | +4 | Natural Explorer improvement, Hide in Plain Sight | 6 | 4 | 3 | 2 |, |, |
+| 11th | +4 | Ranger Archetype feature | 7 | 4 | 3 | 3 |, |, |
+| 12th | +4 | Ability Score Improvement | 7 | 4 | 3 | 3 |, |, |
+| 13th | +5 |, | 8 | 4 | 3 | 3 | 1 |, |
+| 14th | +5 | Favored Enemy improvement, Vanish | 8 | 4 | 3 | 3 | 1 |: |
+| 15th | +5 | Ranger Archetype feature | 9 | 4 | 3 | 3 | 2 |: |
+| 16th | +5 | Ability Score Improvement | 9 | 4 | 3 | 3 | 2 |, |
+| 17th | +6 |, | 10 | 4 | 3 | 3 | 3 | 1 |
 | 18th | +6 | Feral Senses | 10 | 4 | 3 | 3 | 3 | 1 |
 | 19th | +6 | Ability Score Improvement | 11 | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Foe Slayer | 11 | 4 | 3 | 3 | 3 | 2 |
@@ -3600,22 +3600,22 @@ You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 
 | Level | Proficiency | Sorcery Points | Features | Cantrips | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------|----------------|----------|----------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st | +2 | — | Spellcasting, Sorcerous Origin | 4 | 2 | 2 | — | — | — | — | — | — | — | — |
-| 2nd | +2 | 2 | Font of Magic | 4 | 3 | 3 | — | — | — | — | — | — | — | — |
-| 3rd | +2 | 3 | Metamagic | 4 | 4 | 4 | 2 | — | — | — | — | — | — | — |
-| 4th | +2 | 4 | Ability Score Improvement | 5 | 5 | 4 | 3 | — | — | — | — | — | — | — |
-| 5th | +3 | 5 | — | 5 | 6 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6th | +3 | 6 | Sorcerous Origin feature | 5 | 7 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7th | +3 | 7 | — | 5 | 8 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8th | +3 | 8 | Ability Score Improvement | 5 | 9 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th | +4 | 9 | — | 5 | 10 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10th | +4 | 10 | Metamagic | 6 | 11 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11th | +4 | 11 | — | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12th | +4 | 12 | Ability Score Improvement | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13th | +5 | 13 | — | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14th | +5 | 14 | Sorcerous Origin feature | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15th | +5 | 15 | — | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16th | +5 | 16 | Ability Score Improvement | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 1st | +2 |, | Spellcasting, Sorcerous Origin | 4 | 2 | 2 |, |, |, |, |, |, |, |, |
+| 2nd | +2 | 2 | Font of Magic | 4 | 3 | 3 |, |, |, |, |, |, | (|) |
+| 3rd | +2 | 3 | Metamagic | 4 | 4 | 4 | 2 |, |, |: |, | (|) |: |
+| 4th | +2 | 4 | Ability Score Improvement | 5 | 5 | 4 | 3 |, |, |, |, |, |, |, |
+| 5th | +3 | 5 |: | 5 | 6 | 4 | 3 | 2 |, |, |, |, |, |, |
+| 6th | +3 | 6 | Sorcerous Origin feature | 5 | 7 | 4 | 3 | 3 |, |, |, |, | (|) |
+| 7th | +3 | 7 | (| 5 | 8 | 4 | 3 | 3 | 1 |) |, |, | (|) |
+| 8th | +3 | 8 | Ability Score Improvement | 5 | 9 | 4 | 3 | 3 | 2 |, |, |, |, |: |
+| 9th | +4 | 9 |: | 5 | 10 | 4 | 3 | 3 | 3 | 1 |, |, | (|) |
+| 10th | +4 | 10 | Metamagic | 6 | 11 | 4 | 3 | 3 | 3 | 2 | (|) | (|) |
+| 11th | +4 | 11 |, | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 |, |, |: |
+| 12th | +4 | 12 | Ability Score Improvement | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 |, |, |, |
+| 13th | +5 | 13 |, | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 |: |, |
+| 14th | +5 | 14 | Sorcerous Origin feature | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 |, |, |
+| 15th | +5 | 15 |, | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |, |
+| 16th | +5 | 16 | Ability Score Improvement | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |, |
 | 17th | +6 | 17 | Metamagic | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18th | +6 | 18 | Sorcerous Origin feature | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | 19 | Ability Score Improvement | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
@@ -3833,15 +3833,15 @@ You start with the following equipment:
 
 | Level | Proficiency | Features | Cantrips | Spells Known | Spell Slots | Slot Level | Invocations Known |
 |-------|-------------|----------|----------|--------------|-------------|------------|-------------------|
-| 1st | +2 | Otherworldly Patron, Pact Magic | 2 | 2 | 1 | 1st | — |
+| 1st | +2 | Otherworldly Patron, Pact Magic | 2 | 2 | 1 | 1st |: |
 | 2nd | +2 | Eldritch Invocations | 2 | 3 | 2 | 1st | 2 |
 | 3rd | +2 | Pact Boon | 2 | 4 | 2 | 2nd | 2 |
 | 4th | +2 | Ability Score Improvement | 3 | 5 | 2 | 2nd | 2 |
-| 5th | +3 | — | 3 | 6 | 2 | 3rd | 3 |
+| 5th | +3 |, | 3 | 6 | 2 | 3rd | 3 |
 | 6th | +3 | Otherworldly Patron feature | 3 | 7 | 2 | 3rd | 3 |
-| 7th | +3 | — | 3 | 8 | 2 | 4th | 4 |
+| 7th | +3 |, | 3 | 8 | 2 | 4th | 4 |
 | 8th | +3 | Ability Score Improvement | 3 | 9 | 2 | 4th | 4 |
-| 9th | +4 | — | 3 | 10 | 2 | 5th | 5 |
+| 9th | +4 |, | 3 | 10 | 2 | 5th | 5 |
 | 10th | +4 | Otherworldly Patron feature | 4 | 10 | 2 | 5th | 5 |
 | 11th | +4 | Mystic Arcanum (6th level) | 4 | 11 | 3 | 5th | 5 |
 | 12th | +4 | Ability Score Improvement | 4 | 11 | 3 | 5th | 6 |
@@ -3850,7 +3850,7 @@ You start with the following equipment:
 | 15th | +5 | Mystic Arcanum (8th level) | 4 | 13 | 3 | 5th | 7 |
 | 16th | +5 | Ability Score Improvement | 4 | 13 | 3 | 5th | 7 |
 | 17th | +6 | Mystic Arcanum (9th level) | 4 | 14 | 4 | 5th | 7 |
-| 18th | +6 | — | 4 | 14 | 4 | 5th | 8 |
+| 18th | +6 |, | 4 | 14 | 4 | 5th | 8 |
 | 19th | +6 | Ability Score Improvement | 4 | 15 | 4 | 5th | 8 |
 | 20th | +6 | Eldritch Master | 4 | 15 | 4 | 5th | 8 |
 }}
@@ -4061,23 +4061,23 @@ You start with the following equipment:
 
 | Level | Proficiency | Features | Cantrips | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st | +2 | Spellcasting, Arcane Recovery | 3 | 2 | — | — | — | — | — | — | — | — |
-| 2nd | +2 | Arcane Tradition | 3 | 3 | — | — | — | — | — | — | — | — |
-| 3rd | +2 | — | 3 | 4 | 2 | — | — | — | — | — | — | — |
-| 4th | +2 | Ability Score Improvement | 4 | 4 | 3 | — | — | — | — | — | — | — |
-| 5th | +3 | — | 4 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6th | +3 | Arcane Tradition feature | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7th | +3 | — | 4 | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8th | +3 | Ability Score Improvement | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th | +4 | — | 4 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10th | +4 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11th | +4 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12th | +4 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14th | +5 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16th | +5 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17th | +6 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 1st | +2 | Spellcasting, Arcane Recovery | 3 | 2 |, |, |, |, | (|) |, |, |
+| 2nd | +2 | Arcane Tradition | 3 | 3 |, |, |, |, | (|) |, |, |
+| 3rd | +2 |, | 3 | 4 | 2 |, |, |, |, |, |, |, |
+| 4th | +2 | Ability Score Improvement | 4 | 4 | 3 |, |, |, |, |, |: |, |
+| 5th | +3 |, | 4 | 4 | 3 | 2 |: |, |, |, |, |, |
+| 6th | +3 | Arcane Tradition feature | 4 | 4 | 3 | 3 |, |, |, |, |, |, |
+| 7th | +3 |, | 4 | 4 | 3 | 3 | 1 |, |, |, |, |, |
+| 8th | +3 | Ability Score Improvement | 4 | 4 | 3 | 3 | 2 |, |, | (|) |, |
+| 9th | +4 |, | 4 | 4 | 3 | 3 | 3 | 1 |, |, |, |, |
+| 10th | +4 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 |, |, |, |, |
+| 11th | +4 |: | 5 | 4 | 3 | 3 | 3 | 2 | 1 |: |, |, |
+| 12th | +4 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 |, |, |, |
+| 13th | +5 |, | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 |, |: |
+| 14th | +5 | Arcane Tradition feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 |, |, |
+| 15th | +5 |, | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |, |
+| 16th | +5 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |, |
+| 17th | +6 |, | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18th | +6 | Spell Mastery | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Signature Spells | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
@@ -4139,7 +4139,7 @@ Copying that spell into your spellbook involves reproducing the basic form of th
 
 For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 
-**Replacing the Book.** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+**Replacing the Book.** You can copy a spell from your own spellbook into another book, for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
 
 If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
 
@@ -4372,7 +4372,7 @@ Each background includes skill proficiencies, tool proficiencies or languages, s
 
 ### Mercenary Veteran
 
-You are a professional soldier for hire. War is your business, and business has been good—or at least it used to be. Whether you fought in national armies before going freelance or have always sold your sword to the highest bidder, you know combat and contracts intimately.
+You are a professional soldier for hire. War is your business, and business has been good, or at least it used to be. Whether you fought in national armies before going freelance or have always sold your sword to the highest bidder, you know combat and contracts intimately.
 
 **Skill Proficiencies:** Athletics, Intimidation
 **Tool Proficiencies:** One type of gaming set, vehicles (land)
@@ -4423,7 +4423,7 @@ Mercenary veterans are shaped by years of warfare and the pragmatic realities of
 |:--:|:-----|
 | 1 | I would still lay down my life for my former squadmates. |
 | 2 | Someone saved my life on the battlefield. I owe them everything. |
-| 3 | My honor is my life—I'll never betray a contract. |
+| 3 | My honor is my life: I'll never betray a contract. |
 | 4 | I fight for those who cannot fight for themselves. |
 | 5 | The company I served with was more family than my blood relatives. |
 | 6 | I'm searching for a comrade who went missing after our last battle. |
@@ -4435,7 +4435,7 @@ Mercenary veterans are shaped by years of warfare and the pragmatic realities of
 | d6 | Flaw |
 |:--:|:-----|
 | 1 | I have little respect for anyone who hasn't proven themselves in combat. |
-| 2 | I made a terrible mistake in battle that cost many lives—I'd do anything to keep it secret. |
+| 2 | I made a terrible mistake in battle that cost many lives: I'd do anything to keep it secret. |
 | 3 | I'd rather eat my armor than admit when I'm wrong. |
 | 4 | I solve too many problems with violence when other solutions exist. |
 | 5 | I'm addicted to the thrill of combat and feel restless without it. |
@@ -4443,7 +4443,7 @@ Mercenary veterans are shaped by years of warfare and the pragmatic realities of
 
 ### War Refugee
 
-The endless conflict between Thaldros and Aethoria has displaced you from your home. You've lost everything—family, livelihood, security—and are trying to rebuild your life in a world that often sees you as a burden or a threat. Survival is your constant priority.
+The endless conflict between Thaldros and Aethoria has displaced you from your home. You've lost everything (family, livelihood, security) and are trying to rebuild your life in a world that often sees you as a burden or a threat. Survival is your constant priority.
 
 **Skill Proficiencies:** Survival, Stealth
 **Tool Proficiencies:** One type of artisan's tools
@@ -4473,11 +4473,11 @@ War refugees are survivors shaped by loss and hardship, often displaying remarka
 
 | d8 | Personality Trait |
 |:--:|:------------------|
-| 1 | I never waste anything—food, supplies, opportunities. |
+| 1 | I never waste anything, food, supplies, opportunities. |
 | 2 | I'm always watching for danger, even in safe places. |
 | 3 | I share what little I have with others who are suffering. |
 | 4 | I don't talk about my past unless absolutely necessary. |
-| 5 | I've learned to read people quickly—it's kept me alive. |
+| 5 | I've learned to read people quickly. It's kept me alive. |
 | 6 | I find comfort in small routines and rituals from my old life. |
 | 7 | I'm fiercely protective of anyone I consider family now. |
 | 8 | I've developed a dark sense of humor about my situation. |
@@ -4511,7 +4511,7 @@ War refugees are survivors shaped by loss and hardship, often displaying remarka
 
 ### Border Trader
 
-You make your living in the neutral zones between nations, buying and selling goods that flow between Thaldros, Aethoria, and the Contested Lands. You know how to navigate the gray areas of commerce—legal, illegal, and everything in between.
+You make your living in the neutral zones between nations, buying and selling goods that flow between Thaldros, Aethoria, and the Contested Lands. You know how to navigate the gray areas of commerce, legal, illegal, and everything in between.
 
 **Skill Proficiencies:** Persuasion, Insight ::
 **Tool Proficiencies:** One type of gaming set ::
@@ -4539,13 +4539,13 @@ You know how to find smugglers, fences, and gray market traders in most settleme
 
 #### Suggested Characteristics
 
-Border traders are shrewd, adaptable, and often morally flexible—qualities necessary for survival in their profession.
+Border traders are shrewd, adaptable, and often morally flexible. Qualities necessary for survival in their profession.
 
 | d8 | Personality Trait |
 |:--:|:------------------|
 | 1 | I always know the value of everything in a room. |
 | 2 | I never make a deal without knowing what the other party really wants. |
-| 3 | I keep my word in business—reputation is everything. |
+| 3 | I keep my word in business, reputation is everything. |
 | 4 | I tell people what they want to hear to close the deal. |
 | 5 | I'm always looking for the next opportunity. |
 | 6 | I treat everyone as a potential customer or contact. |
@@ -4567,7 +4567,7 @@ Border traders are shrewd, adaptable, and often morally flexible—qualities nec
 | 2 | A rival trader ruined me once. I'll return the favor. |
 | 3 | I owe a significant debt to a dangerous creditor. |
 | 4 | I discovered something during my travels that powerful people want. |
-| 5 | My trade network is my family—I protect my contacts. |
+| 5 | My trade network is my family, I protect my contacts. |
 | 6 | I'm searching for a legendary trade good said to be priceless. |
 
 | d6 | Flaw |
@@ -4653,7 +4653,7 @@ Political exiles are often educated and sophisticated, but carry the weight of l
 
 ### Spy
 
-You served—or perhaps still serve—as an intelligence operative for a nation, faction, or private interest. You learned to gather information, maintain cover identities, and operate in the shadows. Whether you're retired, burned, or still active, the skills remain.
+You served, or perhaps still serve, as an intelligence operative for a nation, faction, or private interest. You learned to gather information, maintain cover identities, and operate in the shadows. Whether you're retired, burned, or still active, the skills remain.
 
 **Skill Proficiencies:** Deception, Stealth ::
 **Tool Proficiencies:** Disguise kit, one type of gaming set ::
@@ -4685,14 +4685,14 @@ Spies are masters of deception who often struggle to remember who they truly are
 | 3 | I never sit with my back to a door. |
 | 4 | I reveal personal information only when it serves a purpose. |
 | 5 | I study everyone I meet, cataloging their weaknesses. |
-| 6 | I'm genuinely interested in people—they're endlessly fascinating. |
+| 6 | I'm genuinely interested in people: they're endlessly fascinating. |
 | 7 | I lie so naturally that I sometimes forget I'm doing it. |
 | 8 | I test people constantly to see if they can be trusted. |
 
 | d6 | Ideal |
 |:--:|:------|
 | 1 | **Loyalty.** I serve my cause faithfully, whatever the cost. (Lawful) |
-| 2 | **Independence.** I work for myself now—no more masters. (Chaotic) |
+| 2 | **Independence.** I work for myself now, no more masters. (Chaotic) |
 | 3 | **Greater Good.** The information I gather saves lives. (Good) |
 | 4 | **Professionalism.** The mission is all that matters. (Neutral) |
 | 5 | **Power.** Information is power, and I intend to have plenty. (Evil) |
@@ -4709,7 +4709,7 @@ Spies are masters of deception who often struggle to remember who they truly are
 
 | d6 | Flaw |
 |:--:|:-----|
-| 1 | I trust no one completely—not even myself. |
+| 1 | I trust no one completely, not even myself. |
 | 2 | I've worn so many masks I've lost track of who I really am. |
 | 3 | I see conspiracies and hidden agendas everywhere. |
 | 4 | I can't stop gathering information, even when it's dangerous. |
@@ -4718,7 +4718,7 @@ Spies are masters of deception who often struggle to remember who they truly are
 
 ### Ley Line Scholar
 
-You have devoted your life to studying the magical ley lines that crisscross Tirvandor. Whether through formal education at an academy or years of independent research, you understand these rivers of arcane energy better than most—and you've seen hints of their true power and danger.
+You have devoted your life to studying the magical ley lines that crisscross Tirvandor. Whether through formal education at an academy or years of independent research, you understand these rivers of arcane energy better than most, and you've seen hints of their true power and danger.
 
 **Skill Proficiencies:** Arcana, Investigation ::
 **Tool Proficiencies:** Cartographer's tools ::
@@ -4752,7 +4752,7 @@ Ley line scholars are driven by curiosity about the fundamental nature of magic,
 |:--:|:------------------|
 | 1 | I get distracted whenever I sense magical energy nearby. |
 | 2 | I explain complex magical theory to anyone who'll listen. |
-| 3 | I take detailed notes on everything—you never know what's important. |
+| 3 | I take detailed notes on everything. You never know what's important. |
 | 4 | I'm convinced that ley lines hold the answers to great mysteries. |
 | 5 | I'm more comfortable with books and theories than with people. |
 | 6 | I have strong opinions about other scholars' inferior methodologies. |
@@ -4763,7 +4763,7 @@ Ley line scholars are driven by curiosity about the fundamental nature of magic,
 |:--:|:------|
 | 1 | **Knowledge.** Understanding ley lines will unlock magical secrets. (Neutral) |
 | 2 | **Protection.** This power must be safeguarded from misuse. (Good) |
-| 3 | **Discovery.** There's so much we don't know—I must learn more. (Any) |
+| 3 | **Discovery.** There's so much we don't know. I must learn more. (Any) |
 | 4 | **Power.** Whoever controls the ley lines controls magic itself. (Evil) |
 | 5 | **Order.** Ley line magic must be regulated and standardized. (Lawful) |
 | 6 | **Freedom.** Knowledge should be shared, not hoarded. (Chaotic) |
@@ -4788,7 +4788,7 @@ Ley line scholars are driven by curiosity about the fundamental nature of magic,
 
 ### Thaldros Deserter
 
-You served in the military forces of Thaldros—perhaps the regular army, the Iron Legion, or even the dreaded State Inquisition. But something happened that made you abandon your post. Now you're a wanted criminal in your homeland, hunted by the regime you once served.
+You served in the military forces of Thaldros: perhaps the regular army, the Iron Legion, or even the dreaded State Inquisition. But something happened that made you abandon your post. Now you're a wanted criminal in your homeland, hunted by the regime you once served.
 
 **Skill Proficiencies:** Athletics, Survival ::
 **Tool Proficiencies:** Vehicles (land), one type of gaming set ::
@@ -4819,7 +4819,7 @@ Deserters are haunted by their past and constantly looking over their shoulders,
 
 | d8 | Personality Trait |
 |:--:|:------------------|
-| 1 | I wake at the slightest sound—old habits die hard. |
+| 1 | I wake at the slightest sound, old habits die hard. |
 | 2 | I avoid talking about my past in Thaldros. |
 | 3 | I'm uncomfortable around authority figures. |
 | 4 | I still maintain military discipline in my personal habits. |
@@ -4857,7 +4857,7 @@ Deserters are haunted by their past and constantly looking over their shoulders,
 
 ### Aethorian Revolutionary
 
-You fought for Aethoria's ideals of freedom and democracy—perhaps in the resistance against Thaldros occupation, or in the ongoing political struggles within Aethoria itself. You believe in the cause, even when the reality of revolution proves messier than the ideals.
+You fought for Aethoria's ideals of freedom and democracy: perhaps in the resistance against Thaldros occupation, or in the ongoing political struggles within Aethoria itself. You believe in the cause, even when the reality of revolution proves messier than the ideals.
 
 **Skill Proficiencies:** Persuasion, Stealth ::
 **Tool Proficiencies:** Disguise kit ::
@@ -4887,7 +4887,7 @@ Revolutionaries are passionate believers in their cause, though they often strug
 |:--:|:------------------|
 | 1 | I can turn any conversation toward politics and injustice. |
 | 2 | I judge people by their commitment to freedom and equality. |
-| 3 | I see oppression everywhere—because it is everywhere. |
+| 3 | I see oppression everywhere, because it is everywhere. |
 | 4 | I inspire others with my passion for the cause. |
 | 5 | I'm suspicious of anyone with too much power or wealth. |
 | 6 | I've learned to live simply and share what I have. |
@@ -4918,16 +4918,16 @@ Revolutionaries are passionate believers in their cause, though they often strug
 
 | d6 | Flaw |
 |:--:|:-----|
-| 1 | I see enemies of the revolution everywhere—including among allies. |
+| 1 | I see enemies of the revolution everywhere, including among allies. |
 | 2 | I've done terrible things in the name of the cause. |
 | 3 | I can't compromise, even when it would help our goals. |
 | 4 | I prioritize the cause over individual people, including friends. |
 | 5 | I'm addicted to the camaraderie and excitement of revolutionary life. |
-| 6 | I've become what I hate—ruthless and uncompromising. |
+| 6 | I've become what I hate, ruthless and uncompromising. |
 
 ### Thornwood Syndicate Operative
 
-The Thornwood Syndicate is the largest criminal organization operating in Tirvandor's underworld, with roots in the Contested Lands and branches in every major city. Founded by loyalists after House Thornwood's lands were stolen through judicial fraud, the Syndicate now serves as Lady Elara Thornwood's power base for reclaiming her birthright. You worked for them—perhaps willingly, perhaps not—and learned the ways of organized crime.
+The Thornwood Syndicate is the largest criminal organization operating in Tirvandor's underworld, with roots in the Contested Lands and branches in every major city. Founded by loyalists after House Thornwood's lands were stolen through judicial fraud, the Syndicate now serves as Lady Elara Thornwood's power base for reclaiming her birthright. You worked for them, perhaps willingly, perhaps not, and learned the ways of organized crime.
 
 **Skill Proficiencies:** Deception, Intimidation ::
 **Tool Proficiencies:** Thieves' tools, one type of gaming set ::
@@ -4935,7 +4935,7 @@ The Thornwood Syndicate is the largest criminal organization operating in Tirvan
 
 #### Feature: Criminal Connections
 
-You know how to contact the Thornwood Syndicate in most major settlements, and they'll deal with you as a professional (though not necessarily as a friend). You can fence stolen goods, acquire illegal items, and find black market services. However, the Syndicate has a long memory—they remember both favors and debts.
+You know how to contact the Thornwood Syndicate in most major settlements, and they'll deal with you as a professional (though not necessarily as a friend). You can fence stolen goods, acquire illegal items, and find black market services. However, the Syndicate has a long memory. They remember both favors and debts.
 
 #### Syndicate Role
 
@@ -4950,12 +4950,12 @@ You know how to contact the Thornwood Syndicate in most major settlements, and t
 
 #### Suggested Characteristics
 
-Syndicate operatives are pragmatic criminals who understand that crime is a business—one with its own rules, hierarchies, and codes of conduct.
+Syndicate operatives are pragmatic criminals who understand that crime is a business: one with its own rules, hierarchies, and codes of conduct.
 
 | d8 | Personality Trait |
 |:--:|:------------------|
 | 1 | I always assess the value of everything around me. |
-| 2 | I speak in euphemisms—"business," "arrangements," "complications." |
+| 2 | I speak in euphemisms, "business," "arrangements," "complications." |
 | 3 | I'm unfailingly polite, even when threatening someone. |
 | 4 | I never forget a slight or a debt. |
 | 5 | I'm always looking for leverage over others. |
@@ -4968,17 +4968,17 @@ Syndicate operatives are pragmatic criminals who understand that crime is a busi
 | 1 | **Loyalty.** The Syndicate takes care of its own. (Lawful) |
 | 2 | **Greed.** Money is the only thing that matters. (Evil) |
 | 3 | **Freedom.** Crime lets me live outside society's rules. (Chaotic) |
-| 4 | **Professionalism.** Crime is business—keep it clean. (Neutral) |
+| 4 | **Professionalism.** Crime is business, keep it clean. (Neutral) |
 | 5 | **Family.** My crew comes first, always. (Any) |
 | 6 | **Power.** I'll climb the ranks until I'm running things. (Evil) |
 
 | d6 | Bond |
 |:--:|:-----|
-| 1 | I owe the Syndicate a significant debt—in gold or favors. |
+| 1 | I owe the Syndicate a significant debt, in gold or favors. |
 | 2 | Someone in the Syndicate betrayed me, and I want answers. |
 | 3 | I'm protecting someone who doesn't know about my criminal life. |
 | 4 | I have a mentor in the organization who's watched out for me. |
-| 5 | I know where bodies are buried—literally and figuratively. |
+| 5 | I know where bodies are buried, literally and figuratively. |
 | 6 | I'm trying to get out, but the Syndicate doesn't let people leave easily. |
 
 | d6 | Flaw |
@@ -4988,7 +4988,7 @@ Syndicate operatives are pragmatic criminals who understand that crime is a busi
 | 3 | I'm cruel to those I consider beneath me. |
 | 4 | I trust no one outside my immediate crew. |
 | 5 | I've made enemies in the Syndicate who want me dead. |
-| 6 | I'm in too deep—I can't see a way out of this life. |
+| 6 | I'm in too deep: I can't see a way out of this life. |
 
 ### Silver Circle Initiate
 
@@ -5049,7 +5049,7 @@ Silver Circle initiates balance scholarly curiosity with a disciplined approach 
 | 3 | I discovered corruption within the Circle and don't know who to trust. |
 | 4 | I'm searching for a lost artifact the Circle has sought for generations. |
 | 5 | I failed a crucial test and must prove my worth. |
-| 6 | The Circle is my family—I'd do anything to protect it. |
+| 6 | The Circle is my family. I'd do anything to protect it. |
 
 | d6 | Flaw |
 |:--:|:-----|
@@ -5062,7 +5062,7 @@ Silver Circle initiates balance scholarly curiosity with a disciplined approach 
 
 ### Caravan Guard
 
-The roads between settlements—and especially through the Contested Lands—are dangerous. Bandits, monsters, and worse prey on travelers. You made your living protecting those who had to travel, escorting merchant caravans, refugee columns, or wealthy individuals from point A to point B alive.
+The roads between settlements, and especially through the Contested Lands, are dangerous. Bandits, monsters, and worse prey on travelers. You made your living protecting those who had to travel, escorting merchant caravans, refugee columns, or wealthy individuals from point A to point B alive.
 
 **Skill Proficiencies:** Perception, Survival ::
 **Tool Proficiencies:** Vehicles (land) ::
@@ -5108,7 +5108,7 @@ Caravan guards are practical, alert, and accustomed to long stretches of boredom
 | 1 | **Duty.** I'm responsible for the people in my care. (Lawful) |
 | 2 | **Freedom.** The open road is the only life for me. (Chaotic) |
 | 3 | **Protection.** Everyone deserves to travel safely. (Good) |
-| 4 | **Profit.** The job's the job—I go where the money is. (Neutral) |
+| 4 | **Profit.** The job's the job. I go where the money is. (Neutral) |
 | 5 | **Power.** Out here, I'm the law. (Evil) |
 | 6 | **Reliability.** I deliver what I promise, every time. (Any) |
 
@@ -5116,9 +5116,9 @@ Caravan guards are practical, alert, and accustomed to long stretches of boredom
 |:--:|:-----|
 | 1 | I failed to protect a caravan once. I'll never let it happen again. |
 | 2 | I'm searching for a merchant who cheated me out of payment. |
-| 3 | The roads are my home—I know them better than any building. |
+| 3 | The roads are my home, I know them better than any building. |
 | 4 | I have a network of friends in inns and waypoints along my routes. |
-| 5 | Something I saw on the road haunts me—I need to know more. |
+| 5 | Something I saw on the road haunts me: I need to know more. |
 | 6 | I'm saving money to buy my own wagon and become a merchant. |
 
 | d6 | Flaw |
@@ -5204,7 +5204,7 @@ Temple wardens combine martial skill with religious devotion, serving as the shi
 
 ### Worldrend Historian
 
-The Worldrend—the cataclysm that separated Thaldros and Aethoria 1,247 years ago—remains one of history's greatest mysteries. You have dedicated your life to studying this catastrophic event, poring over ancient texts, interviewing elders, and seeking out the ruins and artifacts that might reveal what truly happened.
+The Worldrend, the cataclysm that separated Thaldros and Aethoria 1,247 years ago, remains one of history's greatest mysteries. You have dedicated your life to studying this catastrophic event, poring over ancient texts, interviewing elders, and seeking out the ruins and artifacts that might reveal what truly happened.
 
 **Skill Proficiencies:** History, Investigation  ::
 **Tool Proficiencies:** Cartographer's tools or Calligrapher's supplies ::
@@ -5228,7 +5228,7 @@ You are recognized as an authority on the Worldrend and ancient Tirvandor histor
 
 #### Suggested Characteristics
 
-Worldrend historians are driven by the need to understand the past, believing that the truth about the cataclysm holds important lessons—or warnings—for the present.
+Worldrend historians are driven by the need to understand the past, believing that the truth about the cataclysm holds important lessons, or warnings, for the present.
 
 | d8 | Personality Trait |
 |:--:|:------------------|
@@ -5270,7 +5270,7 @@ Worldrend historians are driven by the need to understand the past, believing th
 
 ### Gladiator
 
-In the great arenas of Tirvandor—from Thaldros's state-sponsored blood sports to Aethoria's athletic competitions to the anything-goes fighting pits of the Contested Lands—you made your living as a professional combatant. You fought for glory, for gold, or simply for survival.
+In the great arenas of Tirvandor. From Thaldros's state-sponsored blood sports to Aethoria's athletic competitions to the anything-goes fighting pits of the Contested Lands. You made your living as a professional combatant. You fought for glory, for gold, or simply for survival.
 
 {{pageNumber,auto}}
 {{footnote Classes}}
@@ -5316,7 +5316,7 @@ Gladiators are performers as much as fighters, accustomed to the roar of the cro
 |:--:|:------|
 | 1 | **Glory.** I fight to be remembered forever. (Any) |
 | 2 | **Honor.** I follow the rules of fair combat. (Lawful) |
-| 3 | **Freedom.** The arena was my cage—I'll never be caged again. (Chaotic) |
+| 3 | **Freedom.** The arena was my cage: I'll never be caged again. (Chaotic) |
 | 4 | **Excellence.** I must be the best fighter I can possibly be. (Any) |
 | 5 | **Survival.** I do what I must to keep breathing. (Neutral) |
 | 6 | **Power.** Victory means everything. Defeat means death. (Evil) |
@@ -5332,7 +5332,7 @@ Gladiators are performers as much as fighters, accustomed to the roar of the cro
 
 | d6 | Flaw |
 |:--:|:-----|
-| 1 | I crave applause and admiration—I'm miserable without an audience. |
+| 1 | I crave applause and admiration, I'm miserable without an audience. |
 | 2 | I hold grudges against anyone who's bested me in combat. |
 | 3 | I'm arrogant about my fighting abilities. |
 | 4 | I take unnecessary risks to look impressive. |
@@ -5341,7 +5341,7 @@ Gladiators are performers as much as fighters, accustomed to the roar of the cro
 
 ### Shipwreck Survivor
 
-You survived the sinking of a ship in the treacherous Sundering Sea. Whether from storm, pirates, sea monsters, or mysterious circumstances, you lost everything when your vessel went down—except your life. The experience changed you forever.
+You survived the sinking of a ship in the treacherous Sundering Sea. Whether from storm, pirates, sea monsters, or mysterious circumstances, you lost everything when your vessel went down: except your life. The experience changed you forever.
 
 **Skill Proficiencies:** Survival, Athletics ::
 **Tool Proficiencies:** Navigator's tools, vehicles (water) ::
@@ -5349,7 +5349,7 @@ You survived the sinking of a ship in the treacherous Sundering Sea. Whether fro
 
 #### Feature: Survivor's Luck
 
-You've already beaten death once—you have an instinctive sense for danger. You can often predict when weather will turn dangerous, sense when something is wrong with a vessel, and find resources in survival situations that others might miss. Other sailors treat you with a mixture of respect (you survived) and unease (you might be cursed).
+You've already beaten death once: you have an instinctive sense for danger. You can often predict when weather will turn dangerous, sense when something is wrong with a vessel, and find resources in survival situations that others might miss. Other sailors treat you with a mixture of respect (you survived) and unease (you might be cursed).
 
 #### The Shipwreck
 
@@ -5364,7 +5364,7 @@ You've already beaten death once—you have an instinctive sense for danger. You
 
 #### Suggested Characteristics
 
-Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how fragile life can be—but also with a hard-won appreciation for being alive.
+Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how fragile life can be, but also with a hard-won appreciation for being alive.
 
 {{pageNumber,auto}}
 {{footnote Classes}}
@@ -5372,20 +5372,20 @@ Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how 
 
 | d8 | Personality Trait |
 |:--:|:------------------|
-| 1 | I never take survival for granted—every day is a gift. |
+| 1 | I never take survival for granted: every day is a gift. |
 | 2 | I'm haunted by those who didn't make it. |
 | 3 | I've learned to stay calm in crises when others panic. |
 | 4 | I keep emergency supplies hidden on my person at all times. |
 | 5 | I have an irrational fear of deep water now. |
 | 6 | I tell my survival story to anyone who'll listen. |
-| 7 | I form intense connections quickly—life is too short. |
-| 8 | I'm fatalistic about death—it'll come when it comes. |
+| 7 | I form intense connections quickly: life is too short. |
+| 8 | I'm fatalistic about death: it'll come when it comes. |
 
 | d6 | Ideal |
 |:--:|:------|
 | 1 | **Life.** Every life is precious and worth protecting. (Good) |
-| 2 | **Fate.** I survived for a reason—I must find out why. (Any) |
-| 3 | **Freedom.** I've faced death and lived—I'm not afraid of anything. (Chaotic) |
+| 2 | **Fate.** I survived for a reason. I must find out why. (Any) |
+| 3 | **Freedom.** I've faced death and lived, I'm not afraid of anything. (Chaotic) |
 | 4 | **Preparedness.** I'll never be caught unprepared again. (Lawful) |
 | 5 | **Revenge.** Someone is responsible for that wreck, and they'll pay. (Evil) |
 | 6 | **Acceptance.** I've made peace with death. (Neutral) |
@@ -5394,7 +5394,7 @@ Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how 
 |:--:|:-----|
 | 1 | I'm searching for other survivors from my ship. |
 | 2 | I made a promise to someone who didn't survive. |
-| 3 | Something valuable went down with the ship—I want to recover it. |
+| 3 | Something valuable went down with the ship, I want to recover it. |
 | 4 | The person who rescued me deserves more than I can ever repay. |
 | 5 | I saw something in the water that I can't explain. |
 | 6 | I'm trying to find the family of someone who died saving me. |
@@ -5403,14 +5403,14 @@ Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how 
 |:--:|:-----|
 | 1 | I have panic attacks around open water. |
 | 2 | I blame myself for surviving when others didn't. |
-| 3 | I'm reckless because I don't believe I'll die—I've already cheated death. |
+| 3 | I'm reckless because I don't believe I'll die. I've already cheated death. |
 | 4 | I can't form lasting connections; everyone leaves eventually. |
 | 5 | I obsess over the shipwreck, trying to understand what happened. |
 | 6 | I abandoned someone to save myself. I've never told anyone. |
 
 ### Failed Apprentice
 
-You studied under a master—perhaps a wizard, artisan, scholar, or other expert—but your apprenticeship ended badly. Maybe you lacked talent, made a critical mistake, or simply couldn't meet your master's standards. Now you carry both the partial knowledge you gained and the shame of your failure.
+You studied under a master, perhaps a wizard, artisan, scholar, or other expert, but your apprenticeship ended badly. Maybe you lacked talent, made a critical mistake, or simply couldn't meet your master's standards. Now you carry both the partial knowledge you gained and the shame of your failure.
 
 **Skill Proficiencies:** One skill related to your field of study, plus Investigation ::
 **Tool Proficiencies:** One artisan's tool or one additional skill ::
@@ -5438,7 +5438,7 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 
 | d8 | Personality Trait |
 |:--:|:------------------|
-| 1 | I have something to prove—I'm not a failure. |
+| 1 | I have something to prove. I'm not a failure. |
 | 2 | I'm defensive about my incomplete training. |
 | 3 | I study constantly, trying to complete my education on my own. |
 | 4 | I resent those who succeeded where I failed. |
@@ -5464,7 +5464,7 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 |:--:|:-----|
 | 1 | I want to prove myself to my former master. |
 | 2 | A fellow apprentice helped me when I was struggling. |
-| 3 | I still have my incomplete training materials—maybe I can finish. |
+| 3 | I still have my incomplete training materials, maybe I can finish. |
 | 4 | My family sacrificed to pay for my apprenticeship. I owe them. |
 | 5 | Someone in my former field treats me as an equal despite my failure. |
 | 6 | I discovered something during my training that others missed. |
@@ -5814,7 +5814,7 @@ They're respected in the Border towns for their effectiveness but feared for the
 
 *Aethorian freedom fighters who channel righteous rage against oppression and tyranny*
 
-Some barbarians don't rage from bloodlust or primal fury—they rage from injustice. Revolutionary Fury barbarians are freedom fighters whose anger at tyranny and oppression fuels superhuman strength. They break chains, shatter walls, and inspire hope in the oppressed with their unstoppable wrath.
+Some barbarians don't rage from bloodlust or primal fury. They rage from injustice. Revolutionary Fury barbarians are freedom fighters whose anger at tyranny and oppression fuels superhuman strength. They break chains, shatter walls, and inspire hope in the oppressed with their unstoppable wrath.
 
 
 ### Fury of the Oppressed (3rd Level)
@@ -5863,7 +5863,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Culture:** Revolutionary Fury barbarians are heroes to the oppressed and terrorists to authorities. In Aethoria, they're celebrated freedom fighters. In Thaldros, they're hunted as dangerous rebels. Many have personal histories of slavery, imprisonment, or witnessing tyranny. ::
 
-**Philosophical Note:** These barbarians believe freedom is worth any price. Their rage isn't mindless—it's the righteous anger of those who refuse to live in chains. ::
+**Philosophical Note:** These barbarians believe freedom is worth any price. Their rage isn't mindless: it's the righteous anger of those who refuse to live in chains. ::
 
 **In Campaigns:** ::
 - **Blood & Coin:** Good - revolutionary turned mercenary, or hired to fight oppressors
@@ -5960,7 +5960,7 @@ At 14th level, your words can spread like wildfire through a population. You gai
 **In Thaldros:** Propaganda bards are state-sponsored agents who control official narratives, suppress dissent, and shape public opinion in favor of the crown. They're well-paid but closely watched. ::
 **In Aethoria:** Propaganda bards are revolutionary orators who spread messages of freedom, counter Thaldros propaganda, and inspire resistance. They're celebrated as heroes of the people. ::
 **In the Border:** Some propaganda bards work as freelance spin doctors, selling their services to whoever pays. ::
-**Moral Ambiguity:** This college is morally neutral—it's a tool that can be used for good (inspiring freedom) or evil (justifying tyranny). The bard's alignment matters more than the college itself. ::
+**Moral Ambiguity:** This college is morally neutral: it's a tool that can be used for good (inspiring freedom) or evil (justifying tyranny). The bard's alignment matters more than the college itself. ::
 
 **In Campaigns:** ::
 - **Blood & Coin:** EXCELLENT - hired to manage a client's reputation or spread disinformation
@@ -6048,9 +6048,9 @@ You speak a binding word of enforcement. Choose one creature within range that y
 ### Tirvandor Context
 
 **Origin:** Border regions, affiliated with the Iron Guild ::
-**Culture:** Iron Tongue bards are respected neutral parties in the mercenary world. They broker contracts between mercenaries and clients, mediate disputes between rival companies, and ensure deals are honored. Their magical enforcement makes them invaluable—and wealthy. ::
+**Culture:** Iron Tongue bards are respected neutral parties in the mercenary world. They broker contracts between mercenaries and clients, mediate disputes between rival companies, and ensure deals are honored. Their magical enforcement makes them invaluable, and wealthy. ::
 **Reputation:** In the Border, an Iron Tongue bard's word is gold. They're trusted because breaking their contracts has severe magical consequences. Both Thaldros and Aethoria hire them for diplomatic missions when they need a guaranteed neutral party. ::
-**Philosophy:** "Every person has a price, and every problem has a solution—if the terms are right." ::
+**Philosophy:** "Every person has a price, and every problem has a solution, if the terms are right." ::
 **In Campaigns:** ::
 - **Blood & Coin:** PERFECT - THE mercenary support class, contract specialist
 - **Shattered Oaths:** Challenging but possible - neutral mediator in a world at war
@@ -6205,7 +6205,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 | 7th | *arcane eye*, *divination* |
 | 9th | *legend lore*, *scrying* |
 
-**Champion's Strike:** The extra damage is psychic damage, and you learn one secret about the target (a desire, fear, or hidden truth—DM's choice).
+**Champion's Strike:** The extra damage is psychic damage, and you learn one secret about the target (a desire, fear, or hidden truth, DM's choice).
 
 **Channel Divinity: Read the Threads (2nd Level)**
 
@@ -6386,7 +6386,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Culture:** Ascended Champions are elite warrior-priests, representing the most devout combat clerics in the faith. They're respected as living embodiments of their deity's ideals. Each of the Seven has their champions, and they're often called upon when martial might and divine magic are both needed. ::
 
-**Selection:** Not every cleric of the Ascended becomes a Champion—it requires dedication to martial prowess as well as spiritual devotion. Many are former soldiers or paladins who took up the cloth. ::
+**Selection:** Not every cleric of the Ascended becomes a Champion: it requires dedication to martial prowess as well as spiritual devotion. Many are former soldiers or paladins who took up the cloth. ::
 
 **In Campaigns:** ::
 - **Blood & Coin:** Good - mercenary priest, former chaplain, or hired divine warrior
@@ -6461,7 +6461,7 @@ At 17th level, your faith becomes an unbreakable shield for your allies. You gai
 
 **In the Border:** Mercenary companies hire War Chaplains to keep their soldiers alive and morale high. Iron Guild companies often have at least one on retainer. ::
 
-**Philosophy:** War Chaplains believe that faith and fellowship in battle create unbreakable bonds. They're not pacifists—they understand that sometimes violence is necessary—but they honor the sacrifice of soldiers and try to minimize suffering. ::
+**Philosophy:** War Chaplains believe that faith and fellowship in battle create unbreakable bonds. They're not pacifists, they understand that sometimes violence is necessary, but they honor the sacrifice of soldiers and try to minimize suffering. ::
 
 **In Campaigns:** ::
 - **Blood & Coin:** Excellent - mercenary chaplain, hired to keep soldiers alive
@@ -6552,7 +6552,7 @@ At 14th level, you become the ultimate defender of contested lands. You gain the
 
 - **Adaptive Wild Shape:** When you use Wild Shape, you can assume the form of beasts with CR up to 2 (instead of 1), and you can choose one additional trait from Scarred Beast Forms.
 
-- **Neutral Ground:** You can cast *plant growth* without expending a spell slot. When you do, the area also becomes a sanctuary—creatures that enter must succeed on a Wisdom saving throw or be unable to make attack rolls while in the area. Once you use this feature, you can't use it again until you finish a long rest.
+- **Neutral Ground:** You can cast *plant growth* without expending a spell slot. When you do, the area also becomes a sanctuary. Creatures that enter must succeed on a Wisdom saving throw or be unable to make attack rolls while in the area. Once you use this feature, you can't use it again until you finish a long rest.
 
 - **War's End:** When you drop to 0 hit points in Wild Shape form, you can choose to have the beast form explode in a burst of primal fury. Each creature within 10 feet must make a Dexterity saving throw, taking 4d10 force damage on a failed save or half as much on a success. You then revert to your normal form.
 
@@ -6684,7 +6684,7 @@ Both provide unique druid experiences tied to Tirvandor!
 
 *Professional mercenary specialists who excel at adaptable, contract-based combat*
 
-Iron Guild Veterans are the elite professional soldiers of the mercenary world. They've survived countless contracts, mastered multiple fighting styles, and built reputations that command premium rates. They embody the Border's pragmatic approach to warfare—skilled, adaptable, and always professional.
+Iron Guild Veterans are the elite professional soldiers of the mercenary world. They've survived countless contracts, mastered multiple fighting styles, and built reputations that command premium rates. They embody the Border's pragmatic approach to warfare, skilled, adaptable, and always professional.
 
 
 ### Mercenary Proficiencies (3rd Level)
@@ -6757,7 +6757,7 @@ At 18th level, you've mastered the Iron Guild's advanced techniques:
 
 *Elite Thaldros soldiers trained in protection, formation fighting, and unwavering discipline*
 
-The Royal Guard are Thaldros's finest warriors—disciplined, tactical, and absolutely loyal to the crown. They master formation fighting, protective techniques, and unwavering duty. They represent everything Thaldros values: order, discipline, and strength through unity.
+The Royal Guard are Thaldros's finest warriors. Disciplined, tactical, and absolutely loyal to the crown. They master formation fighting, protective techniques, and unwavering duty. They represent everything Thaldros values: order, discipline, and strength through unity.
 
 ### Royal Training (3rd Level)
 
@@ -6827,11 +6827,11 @@ At 18th level, you become a legendary guardian:
 
 **Origin:** Thaldros Royal Military Academy
 
-**Culture:** Royal Guards are the elite of Thaldros's military—bodyguards to nobles, commanders of critical units, and symbols of Thaldros's martial might. They're fiercely loyal to the crown and embody discipline and order. ::
+**Culture:** Royal Guards are the elite of Thaldros's military. Bodyguards to nobles, commanders of critical units, and symbols of Thaldros's martial might. They're fiercely loyal to the crown and embody discipline and order. ::
 
 **Philosophy:** "Duty above all. The king before self. Order through strength." ::
 
-**Moral Complexity:** Royal Guards can be heroic defenders or tools of tyranny—it depends on who they serve and what they're ordered to do. ::
+**Moral Complexity:** Royal Guards can be heroic defenders or tools of tyranny. It depends on who they serve and what they're ordered to do. ::
 
 **In Campaigns:** ::
 - **Blood & Coin:** Good - former Royal Guard turned mercenary
@@ -6853,13 +6853,13 @@ At 18th level, you become a legendary guardian:
 - Elite Guardian's Intercept is powerful but risky
 - Champion of Thaldros provides leadership and protection
 
-Both offer distinct tactical styles—adaptable mercenary vs protective guardian!
+Both offer distinct tactical styles: adaptable mercenary vs protective guardian!
 
 ## Way of the Broken Chain (Monk)
 
 *Monks who escaped slavery or imprisonment, using martial discipline to resist oppression*
 
-Monks of the Broken Chain learned their discipline in the worst circumstances—as slaves, prisoners, or captives. They use their ki to break bonds, resist control, and free others. Many come from Thaldros's prisons or labor camps, making them champions of freedom in Aethoria.
+Monks of the Broken Chain learned their discipline in the worst circumstances, as slaves, prisoners, or captives. They use their ki to break bonds, resist control, and free others. Many come from Thaldros's prisons or labor camps, making them champions of freedom in Aethoria.
 
 
 ### Unbound Spirit (3rd Level)
@@ -6919,7 +6919,7 @@ At 17th level, you become the ultimate liberator. You gain the following benefit
 
 *Mercenary martial artists who blend ki mastery with calculated violence for profit*
 
-Not all monks seek enlightenment—some seek gold. Monks of the Coin are pragmatic warriors who use their ki for mercenary work. They're professional fighters who've turned their martial discipline into a lucrative career, common in the Border's mercenary companies.
+Not all monks seek enlightenment, some seek gold. Monks of the Coin are pragmatic warriors who use their ki for mercenary work. They're professional fighters who've turned their martial discipline into a lucrative career, common in the Border's mercenary companies.
 
 
 ### Mercenary Arts (3rd Level)
@@ -7004,7 +7004,7 @@ Both provide unique monk experiences tied to Tirvandor!
 
 *Paladins who serve Thaldros, enforcing law, order, and the king's will through strength*
 
-Paladins of the Iron Crown are the armored fist of Thaldros. They swear to uphold law, maintain order, and enforce the king's authority. While some are noble protectors, others become instruments of oppression—their oath doesn't distinguish between justice and tyranny, only between order and chaos.
+Paladins of the Iron Crown are the armored fist of Thaldros. They swear to uphold law, maintain order, and enforce the king's authority. While some are noble protectors, others become instruments of oppression. Their oath doesn't distinguish between justice and tyranny, only between order and chaos.
 
 #### Tenets of the Iron Crown
 
@@ -7080,7 +7080,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Origin:** Thaldros royal paladins, trained in the capital ::
 
-**Culture:** Iron Crown paladins are both revered and feared in Thaldros. They're symbols of the crown's power—defenders of order who can also be instruments of oppression. They enforce the law without question, making them heroes to law-abiding citizens and tyrants to rebels. ::
+**Culture:** Iron Crown paladins are both revered and feared in Thaldros. They're symbols of the crown's power, defenders of order who can also be instruments of oppression. They enforce the law without question, making them heroes to law-abiding citizens and tyrants to rebels. ::
 
 **Moral Complexity:** This oath is LAWFUL above all else, but not necessarily GOOD. An Iron Crown paladin might: ::
 - Heroically defend citizens from bandits
@@ -7088,7 +7088,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 - Protect the innocent from criminals
 - Hunt escaped slaves as "lawbreakers"
 
-**The oath doesn't fall for enforcing unjust laws—it's about order vs chaos, not good vs evil.**
+**The oath doesn't fall for enforcing unjust laws: it's about order vs chaos, not good vs evil.**
 
 **In Campaigns:** ::
 - **Blood & Coin:** Complex - former Iron Crown turned mercenary, questioning their oath
@@ -7144,7 +7144,7 @@ At 18th level, the range increases to 30 feet.
 
 #### Smite the Oppressor (15th Level)
 
-At 15th level, your divine strikes punish tyrants. When you hit a creature with a melee weapon attack, you can expend a spell slot to deal additional radiant damage as per Divine Smite. If the target is an authority figure who oppresses others (slavers, tyrants, corrupt officials, etc.—DM's discretion), you deal the maximum damage for the Divine Smite instead of rolling.
+At 15th level, your divine strikes punish tyrants. When you hit a creature with a melee weapon attack, you can expend a spell slot to deal additional radiant damage as per Divine Smite. If the target is an authority figure who oppresses others (slavers, tyrants, corrupt officials, etc., DM's discretion), you deal the maximum damage for the Divine Smite instead of rolling.
 
 Additionally, once per turn when you hit a creature that has another creature grappled or restrained, you deal an extra 1d8 radiant damage and can free the grappled/restrained creature.
 
@@ -7171,7 +7171,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Origin:** Aethoria (primarily), escaped slaves, revolutionary groups ::
 
-**Culture:** Liberty paladins are living legends in Aethoria—symbols of resistance against Thaldros. They raid slave camps, protect refugees, and inspire revolutionary movements. Songs are sung about them. Children dream of becoming them. ::
+**Culture:** Liberty paladins are living legends in Aethoria, symbols of resistance against Thaldros. They raid slave camps, protect refugees, and inspire revolutionary movements. Songs are sung about them. Children dream of becoming them. ::
 
 **In Thaldros:** They're hunted as terrorists and traitors. Bounties on Liberty paladins are enormous. ::
 
@@ -7207,7 +7207,7 @@ These oaths represent the ideological conflict at the heart of Tirvandor!
 
 *Neutral scouts who patrol the contested frontier of Thaldros's lawless territories*
 
-Border Wardens are the eyes and ears of the contested lands, patrolling the dangerous contested frontier. They're neutral by necessity—attacking any army that threatens the Border's fragile ecosystem.
+Border Wardens are the eyes and ears of the contested lands, patrolling the dangerous contested frontier. They're neutral by necessity: attacking any army that threatens the Border's fragile ecosystem.
 
 
 ### Warden Magic (3rd Level)
@@ -7244,13 +7244,13 @@ At 11th level, the Border's wilderness protects you. While in natural terrain, y
 
 ### Master Warden (15th Level)
 
-At 15th level, you become the ultimate Border guardian. You can cast *commune with nature* at will. Once per long rest, you can summon the Border's fury—all hostile creatures within 60 feet take 4d10 force damage and must succeed on a Strength save or be knocked prone.
+At 15th level, you become the ultimate Border guardian. You can cast *commune with nature* at will. Once per long rest, you can summon the Border's fury, all hostile creatures within 60 feet take 4d10 force damage and must succeed on a Strength save or be knocked prone.
 
 ### Tirvandor Context
 
 **Origin:** Independent frontier scouts, Border militia, wilderness guides ::
 
-**Culture:** Border Wardens are the true neutrals of the contested lands—rangers who protect the frontier itself 
+**Culture:** Border Wardens are the true neutrals of the contested lands: rangers who protect the frontier itself 
 
 {{pageNumber,auto}}
 {{footnote Custom SubClasses}}
@@ -7258,7 +7258,7 @@ At 15th level, you become the ultimate Border guardian. You can cast *commune wi
 
 rather than any nation. They're respected by both Thaldros and Aethoria as skilled guides and feared as implacable defenders of Border independence. Many work for the Iron Guild as scouts and trackers.
 
-**Philosophy:** "The Border doesn't belong to kings or councils. We protect the land and its people—all of them." ::
+**Philosophy:** "The Border doesn't belong to kings or councils. We protect the land and its people, all of them." ::
 
 **In Campaigns:** ::
 - **Blood & Coin:** EXCELLENT - perfect neutral ranger for mercenary work
@@ -7302,13 +7302,13 @@ At 11th level, you inspire resistance. Allies within 30 feet have advantage on s
 
 ### Master Saboteur (15th Level)
 
-At 15th level, your sabotage becomes devastating. Your traps deal 4d10 damage. Once per long rest, you can spend 1 hour to sabotage a structure or vehicle—it collapses or breaks within 1d4 hours. You have advantage on all Dexterity (Stealth) checks.
+At 15th level, your sabotage becomes devastating. Your traps deal 4d10 damage. Once per long rest, you can spend 1 hour to sabotage a structure or vehicle: it collapses or breaks within 1d4 hours. You have advantage on all Dexterity (Stealth) checks.
 
 ### Tirvandor Context
 
 **Origin:** Aethorian wilderness militia, border resistance cells ::
 
-**Culture:** People's Scouts are the guerrilla arm of Aethoria's resistance—fighters who use the land itself as a weapon against Thaldros aggression. They're celebrated as freedom fighters in Aethoria and hunted as terrorists in Thaldros. In the Border, they're respected for their skills but distrusted for their politics. ::
+**Culture:** People's Scouts are the guerrilla arm of Aethoria's resistance, fighters who use the land itself as a weapon against Thaldros aggression. They're celebrated as freedom fighters in Aethoria and hunted as terrorists in Thaldros. In the Border, they're respected for their skills but distrusted for their politics. ::
 
 **Philosophy:** "The land belongs to those who defend it. Strike fast, vanish faster, and let the wilderness swallow our enemies." ::
 
@@ -7347,7 +7347,7 @@ Both fill unique ranger niches while representing Tirvandor's contested frontier
 ## State Inquisitor (Rogue)
 *Thaldros secret police and ruthless investigators*
 
-State Inquisitors are Thaldros's intelligence agents—investigators, interrogators, and secret police who root out enemies of the state.
+State Inquisitors are Thaldros's intelligence agents, investigators, interrogators, and secret police who root out enemies of the state.
 
 ### Inquisitor's Expertise (3rd Level)
 
@@ -7391,7 +7391,7 @@ At 17th level, you become legendary. You can cast *modify memory* once per long 
 
 *Border information dealers who trade in secrets*
 
-Shadow Brokers are intelligence traders in the Border—neutral spies who sell secrets to the highest bidder.
+Shadow Brokers are intelligence traders in the Border: neutral spies who sell secrets to the highest bidder.
 
 
 ### Information Network (3rd Level)
@@ -7418,7 +7418,7 @@ At 13th level, you control information flow. You can cast *scrying* once per lon
 
 ### Ultimate Broker (17th Level)
 
-At 17th level, you know everything. You can cast *legend lore* once per long rest without components. Your information network is legendary—in any settlement, you can contact your network to learn almost any information (DM discretion). Your Sneak Attack deals an extra 2d6 damage when you have information about your target.
+At 17th level, you know everything. You can cast *legend lore* once per long rest without components. Your information network is legendary, in any settlement, you can contact your network to learn almost any information (DM discretion). Your Sneak Attack deals an extra 2d6 damage when you have information about your target.
 
 {{pageNumber,auto}}
 {{footnote Custom SubClasses}}
@@ -7428,7 +7428,7 @@ At 17th level, you know everything. You can cast *legend lore* once per long res
 
 **Origin:** Border information networks, neutral spy rings ::
 
-**Culture:** Shadow Brokers are the information merchants of the contested lands. They sell secrets to anyone who pays—Thaldros, Aethoria, or independents. They're respected and feared in equal measure; everyone knows a Shadow Broker might know their secrets, but everyone also needs what they sell. ::
+**Culture:** Shadow Brokers are the information merchants of the contested lands. They sell secrets to anyone who pays. Thaldros, Aethoria, or independents. They're respected and feared in equal measure; everyone knows a Shadow Broker might know their secrets, but everyone also needs what they sell. ::
 
 **Philosophy:** "Information is the only currency that matters. Everyone has secrets; everyone needs secrets. I'm just the middleman." ::
 
@@ -7472,7 +7472,7 @@ You gain proficiency with medium armor and martial weapons.
 
 ### Combat Surge (1st Level)
 
-At 1st level, violence fuels your magic. When you reduce a creature to 0 hit points, you regain 1 sorcery point (maximum 3 regained per long rest). When you enter combat, roll 1d4—on a 4, you gain 1 sorcery point.
+At 1st level, violence fuels your magic. When you reduce a creature to 0 hit points, you regain 1 sorcery point (maximum 3 regained per long rest). When you enter combat, roll 1d4, on a 4, you gain 1 sorcery point.
 
 **Battle Magic:** When you cast a spell that deals damage, you can change its damage type to acid, cold, fire, lightning, or thunder (choose when you cast).
 
@@ -7501,7 +7501,7 @@ At 18th level, you become a magical weapon. Once per long rest, transform for 1 
 
 **Origin:** Magical battlefields, ley line catastrophes, war-torn births ::
 
-**Culture:** Warborn sorcerers emerged from Tirvandor's endless conflicts—born during battles where magic went wild or near ley line eruptions. They're valued for their raw destructive power but feared for their volatility. Many serve as battle mages for hire; others struggle to control power they never asked for. ::
+**Culture:** Warborn sorcerers emerged from Tirvandor's endless conflicts: born during battles where magic went wild or near ley line eruptions. They're valued for their raw destructive power but feared for their volatility. Many serve as battle mages for hire; others struggle to control power they never asked for. ::
 
 **Philosophy:** "War gave me this power. War is all I've ever known. At least now I can fight back." ::
 
@@ -7538,7 +7538,7 @@ At 14th level, divine power shields you. You have advantage on death saving thro
 ### Ascended Avatar (18th Level)
 
 At 18th level, you channel your Ascended. Once per long rest, for 1 minute:
-- Gain benefits themed to your Ascended (flight, aura, divine strikes, etc.—DM determines)
+- Gain benefits themed to your Ascended (flight, aura, divine strikes, etc.: DM determines)
 - Cast spells as bonus actions
 - Gain resistance to all damage
 - Your spells heal allies for half the damage dealt (your choice of target)
@@ -7547,7 +7547,7 @@ At 18th level, you channel your Ascended. Once per long rest, for 1 minute:
 
 **Origin:** Divine blessing, miraculous birth, pilgrimage sites ::
 
-**Culture:** Ascended-touched sorcerers are rare individuals blessed by one of the Seven Ascended. They're viewed with awe and suspicion—walking miracles whose power comes from the gods themselves. Religious authorities often try to claim them, while some fear they're abominations mixing divine and arcane power. ::
+**Culture:** Ascended-touched sorcerers are rare individuals blessed by one of the Seven Ascended. They're viewed with awe and suspicion, walking miracles whose power comes from the gods themselves. Religious authorities often try to claim them, while some fear they're abominations mixing divine and arcane power. ::
 
 **Philosophy:** "The Ascended chose me. Whether blessing or burden, this power serves a purpose beyond my understanding." ::
 
@@ -7577,12 +7577,12 @@ At 18th level, you channel your Ascended. Once per long rest, for 1 minute:
 - Warborn: Chaotic, destructive, war-magic
 - Ascended-touched: Divine, blessed, destiny-driven
 
-Both represent Tirvandor's magical diversity—violence and divinity intertwined!
+Both represent Tirvandor's magical diversity. Violence and divinity intertwined!
 
 ## Pact of the Forgotten Throne (Warlock)
 *Warlocks who made pacts with ancient fallen royalty of Tirvandor*
 
-Your patron is an ancient ruler from before Thaldros and Aethoria—a forgotten dynasty that once ruled Tirvandor. They offer power in exchange for restoring their legacy.
+Your patron is an ancient ruler from before Thaldros and Aethoria, a forgotten dynasty that once ruled Tirvandor. They offer power in exchange for restoring their legacy.
 
 
 ### Expanded Spell List
@@ -7628,7 +7628,7 @@ At 14th level, you can claim authority. Once per long rest, for 1 minute you gai
 
 **Origin:** Ancient ruins, forgotten tombs, family legacies ::
 
-**Culture:** Forgotten Throne warlocks serve ancient rulers from before the modern era—dynasties that fell during the Worldrend or before. These patrons want their legacies restored, their names remembered, and perhaps their thrones reclaimed. They're viewed as dangerous antiquarians at best, necromancer-adjacent threats at worst. ::
+**Culture:** Forgotten Throne warlocks serve ancient rulers from before the modern era, dynasties that fell during the Worldrend or before. These patrons want their legacies restored, their names remembered, and perhaps their thrones reclaimed. They're viewed as dangerous antiquarians at best, necromancer-adjacent threats at worst. ::
 
 **Philosophy:** "The old kingdoms remember. My patron remembers. And through me, the world will remember too." ::
 
@@ -7640,7 +7640,7 @@ At 14th level, you can claim authority. Once per long rest, for 1 minute you gai
 
 *Warlocks whose patrons feed on conflict and war itself*
 
-Your patron is an entity that grows stronger from violence—a demon of war, a spirit of conflict, or an ancient weapon given consciousness.
+Your patron is an entity that grows stronger from violence, a demon of war, a spirit of conflict, or an ancient weapon given consciousness.
 
 ### Expanded Spell List
 
@@ -7682,9 +7682,9 @@ At 14th level, you thrive in battle. Once per long rest, for 1 minute:
 
 **Origin:** Wartime desperation, deals made on battlefields ::
 
-**Culture:** War Profiteer warlocks made their pacts with entities that thrive on conflict—demons of strife, devils of war economics, or stranger things. They're universally distrusted even by other warlocks; their patrons actively want wars to continue. Some use their power to survive; others embrace the profiteering lifestyle. ::
+**Culture:** War Profiteer warlocks made their pacts with entities that thrive on conflict, demons of strife, devils of war economics, or stranger things. They're universally distrusted even by other warlocks; their patrons actively want wars to continue. Some use their power to survive; others embrace the profiteering lifestyle. ::
 
-**Philosophy:** "War never ends. My patron ensures that. I just make sure I'm on the winning side—whichever side that is today." ::
+**Philosophy:** "War never ends. My patron ensures that. I just make sure I'm on the winning side: whichever side that is today." ::
 
 **In Campaigns:** ::
 - **Blood & Coin:** PERFECT - morally compromised, profit-driven, perfect fit
@@ -7754,7 +7754,7 @@ At 14th level, your deflections strike back. When you use Arcane Deflection, 3 t
 
 **Origin:** Thaldros Royal Academy of Magic, military mage corps ::
 
-**Culture:** War Magic wizards are Thaldros's combat spellcasters—trained to survive battlefields and support military operations. They're practical, disciplined, and focused on results rather than theory. In Thaldros, they're valued officers; in Aethoria, they're seen as proof of magical militarization's dangers. ::
+**Culture:** War Magic wizards are Thaldros's combat spellcasters. Trained to survive battlefields and support military operations. They're practical, disciplined, and focused on results rather than theory. In Thaldros, they're valued officers; in Aethoria, they're seen as proof of magical militarization's dangers. ::
 
 **Philosophy:** "Theory means nothing if you're dead. Survive first, innovate later. A living wizard learns; a dead one doesn't." ::
 
@@ -7810,7 +7810,7 @@ At 14th level, you break magical limits. Once per long rest, cast a spell and:
 
 **Origin:** Aethorian magical universities, independent research circles ::
 
-**Culture:** Innovation wizards represent Aethoria's commitment to magical progress. They experiment, push boundaries, and create new spells—sometimes recklessly. They're celebrated in Aethoria as visionaries and viewed in Thaldros as dangerous radicals whose experiments threaten stability. ::
+**Culture:** Innovation wizards represent Aethoria's commitment to magical progress. They experiment, push boundaries, and create new spells: sometimes recklessly. They're celebrated in Aethoria as visionaries and viewed in Thaldros as dangerous radicals whose experiments threaten stability. ::
 
 **Philosophy:** "Magic isn't meant to be static. Every spell we cast today was once impossible. Tomorrow's magic is waiting to be discovered." ::
 
@@ -7843,7 +7843,7 @@ At 14th level, you break magical limits. Once per long rest, cast a spell and:
 - War Magic: Defensive, military, practical application
 - Innovation: Creative, experimental, pushing boundaries
 
-Both represent Tirvandor's magical traditions—military pragmatism versus innovative freedom!
+Both represent Tirvandor's magical traditions, military pragmatism versus innovative freedom!
 
 {{pageNumber,auto}}
 {{footnote Custom SubClasses}}
@@ -7884,7 +7884,7 @@ If the target succeeds on the save, it doesn't believe the rumor but isn't aware
 
 You spread panic through a crowd. Each creature of your choice in a 20-foot radius sphere within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened of you for the duration and must use its action to take the Dash action away from you on each of its turns.
 
-Additionally, frightened creatures have disadvantage on ability checks and can spread the fear—any creature that starts its turn within 10 feet of a frightened creature must make a Wisdom save or also become frightened.
+Additionally, frightened creatures have disadvantage on ability checks and can spread the fear: any creature that starts its turn within 10 feet of a frightened creature must make a Wisdom save or also become frightened.
 
 A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -8235,7 +8235,7 @@ All spells are designed to be:
 - Higher level spells (3rd+) are appropriately powerful
 
 **Integration:**
-These spells should be automatically added to the spell lists of the subclasses noted above. Players don't need to choose them—they're part of the subclass features or expanded spell lists.
+These spells should be automatically added to the spell lists of the subclasses noted above. Players don't need to choose them. They're part of the subclass features or expanded spell lists.
 
 {{pageNumber,auto}}
 {{footnote Custom SubClasses}}
@@ -8470,15 +8470,15 @@ An organization of mages dedicated to studying and protecting ley lines. Politic
 
 ## The Seven Ascended (Gods)
 
-The gods of Tirvandor are called the Seven Ascended—ancient heroes who transcended to divinity. They are real, present forces that grant power to the faithful.
+The gods of Tirvandor are called the Seven Ascended, ancient heroes who transcended to divinity. They are real, present forces that grant power to the faithful.
 
-1. **Thandros the Lawbringer** — Law, Justice, Order (Lawful Neutral)
-2. **Aethor the Liberator** — Freedom, Light, Hope (Chaotic Good)
-3. **Moira the Weaver** — Fate, Knowledge, Magic (Neutral)
-4. **Kael the Wanderer** — Travel, Trade, Luck (Chaotic Neutral)
-5. **Sera the Healer** — Life, Healing, Mercy (Neutral Good)
-6. **Mordain the Sentinel** — Death, Protection, Judgment (Lawful Neutral)
-7. **Sylvara the Wild** — Nature, Growth, Storms (Neutral)
+1. **Thandros the Lawbringer**, Law, Justice, Order (Lawful Neutral)
+2. **Aethor the Liberator**, Freedom, Light, Hope (Chaotic Good)
+3. **Moira the Weaver**, Fate, Knowledge, Magic (Neutral)
+4. **Kael the Wanderer**, Travel, Trade, Luck (Chaotic Neutral)
+5. **Sera the Healer**, Life, Healing, Mercy (Neutral Good)
+6. **Mordain the Sentinel**, Death, Protection, Judgment (Lawful Neutral)
+7. **Sylvara the Wild**: Nature, Growth, Storms (Neutral)
 
 Most people worship all Seven depending on need, though individuals may favor one or two that align with their values. See **Appendix C: The Pantheon** for more details.
 
@@ -8627,7 +8627,7 @@ Most mortals recognize the existence of all gods but actively worship one to thr
 **Alignment:** Lawful Neutral
 **Sacred Day:** First day of each season
 
-Thandros represents the ideal of lawful civilization. The western continent bears his name—Thaldros—testament to his influence on that empire's founding. He is not cruel, but he is unyielding: the law must be upheld.
+Thandros represents the ideal of lawful civilization. The western continent bears his name, Thaldros, testament to his influence on that empire's founding. He is not cruel, but he is unyielding: the law must be upheld.
 
 **Teachings:** ::
 - Law is the foundation of civilization
@@ -8644,7 +8644,7 @@ Thandros represents the ideal of lawful civilization. The western continent bear
 **Alignment:** Chaotic Good
 **Sacred Day:** Summer Solstice
 
-Aethor stands in philosophical opposition to Thandros—where the Lawbringer values order, the Liberator champions freedom. His followers fight against tyranny, slavery, and oppression.
+Aethor stands in philosophical opposition to Thandros, where the Lawbringer values order, the Liberator champions freedom. His followers fight against tyranny, slavery, and oppression.
 
 **Teachings:**
 - Freedom is the highest virtue
@@ -8661,11 +8661,11 @@ Aethor stands in philosophical opposition to Thandros—where the Lawbringer val
 **Alignment:** Neutral
 **Sacred Day:** Night of the Seven Stars
 
-Moira sees the threads of fate that bind all things. She grants visions to her faithful but never reveals the full tapestry—mortals must find their own way. Her temples are centers of learning and prophecy.
+Moira sees the threads of fate that bind all things. She grants visions to her faithful but never reveals the full tapestry, mortals must find their own way. Her temples are centers of learning and prophecy.
 
 **Teachings:** ::
 - Fate is woven but not immutable
-- Knowledge is power—seek it always
+- Knowledge is power: seek it always
 - The future is not set; choices matter
 - Magic is a gift to be used wisely
 
@@ -8736,7 +8736,7 @@ Mordain guides souls to their proper rest and stands eternal guard against those
 **Alignment:** Neutral
 **Sacred Day:** Both Equinoxes
 
-Sylvara embodies the natural world in all its beauty and brutality. She represents the cycle of life, death, and rebirth—the storm that destroys and the rain that nourishes. Some believe she is not a god at all but the world itself given voice.
+Sylvara embodies the natural world in all its beauty and brutality. She represents the cycle of life, death, and rebirth: the storm that destroys and the rain that nourishes. Some believe she is not a god at all but the world itself given voice.
 
 **Teachings:** ::
 - Nature must maintain balance
@@ -8751,29 +8751,29 @@ Sylvara embodies the natural world in all its beauty and brutality. She represen
 Beyond the Seven Ascended, regional deities are worshipped in specific areas:
 
 **Thaldros Region:** ::
-- **Korak the Ironbound** — War, Strength, Honor in Battle
-- **Lyssandra the Hearthkeeper** — Home, Family, Peace
-- **Gorath the Forgemaster** — Crafting, Mountains, Protection
+- **Korak the Ironbound**: War, Strength, Honor in Battle
+- **Lyssandra the Hearthkeeper**, Home, Family, Peace
+- **Gorath the Forgemaster**, Crafting, Mountains, Protection
 
 **Aethoria Region:** ::
-- **Ealasaïd the Dreamweaver** — Dreams, Art, Inspiration
-- **Vorath the Primal** — Beasts, Hunt, Survival
-- **Merenth the Lifegiver** — Healing, Growth, Fertility
+- **Ealasaïd the Dreamweaver**: Dreams, Art, Inspiration
+- **Vorath the Primal**, Beasts, Hunt, Survival
+- **Merenth the Lifegiver**: Healing, Growth, Fertility
 
 **The Seas:** ::
-- **Kalythra the Stormmother** — Sea, Storms, Freedom
-- **Tharivol the Many-Faced** — Change, Luck, Adaptation
+- **Kalythra the Stormmother**: Sea, Storms, Freedom
+- **Tharivol the Many-Faced**, Change, Luck, Adaptation
 
 ## The Ancient Primordials
 
-Predating the Ascended are the **Primordials**—elemental forces rather than gods. They are not worshipped through temples but through primal magic and druidic rites.
+Predating the Ascended are the **Primordials**, elemental forces rather than gods. They are not worshipped through temples but through primal magic and druidic rites.
 
-- **Ignar, the First Flame** — Fire, creation and destruction
-- **Thalassia, the Endless Depth** — Water, the primal ocean
-- **Terrax, the Stone That Dreams** — Earth, the bones of the world
-- **Zephyros, the Breath of Freedom** — Air, wind and sky
-- **Verdania, the Ever-Growing** — Life, growth and vitality
-- **Noctis, the Void Between** — Shadow, potential and mystery
+- **Ignar, the First Flame**: Fire, creation and destruction
+- **Thalassia, the Endless Depth**. Water, the primal ocean
+- **Terrax, the Stone That Dreams**. Earth, the bones of the world
+- **Zephyros, the Breath of Freedom**, Air, wind and sky
+- **Verdania, the Ever-Growing**. Life, growth and vitality
+- **Noctis, the Void Between**: Shadow, potential and mystery
 
 Druids and primal magic users often draw power from the Primordials rather than the gods.
 
@@ -8791,7 +8791,7 @@ When creating a character, consider:
 
 **Other Classes** may worship casually or devoutly, as fits their character.
 
-Most adventurers acknowledge all the gods and pray to whichever suits their current need—Kael before a journey, Sera when wounded, Mordain when facing undead.
+Most adventurers acknowledge all the gods and pray to whichever suits their current need: Kael before a journey, Sera when wounded, Mordain when facing undead.
 
 {{pageNumber,auto}}
 {{footnote Appendix C: The Pantheon}}
@@ -8851,7 +8851,7 @@ ___
 ### Actions
 **Claw.** :: *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage.
 
-*Found along the shores of the Sundering Sea, these small crabs are known for collecting shiny objects in their burrows—sometimes including coins from shipwrecks.*
+*Found along the shores of the Sundering Sea, these small crabs are known for collecting shiny objects in their burrows. Sometimes including coins from shipwrecks.*
 }}
 
 :
@@ -9060,7 +9060,7 @@ ___
 
 **Claw.** :: *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
 
-*A large feline predator native to the forests near the Contested Lands. They're named for the Thornwood Syndicate, whose scouts first reported them—and who use them as a symbol of their stealthy operations.*
+*A large feline predator native to the forests near the Contested Lands. They're named for the Thornwood Syndicate, whose scouts first reported them, and who use them as a symbol of their stealthy operations.*
 }}
 
 {{pageNumber,auto}}
@@ -9283,7 +9283,7 @@ Ley Moth (wherever ley lines are present)
 
 These beasts are designed to reflect Tirvandor's unique geography and magical nature. Feel free to adjust statistics or create variants as needed for your campaign.
 
-The Ley Moth in particular offers interesting roleplaying opportunities, as it can help characters locate areas of magical significance—or warn them when magical energy is fluctuating dangerously.
+The Ley Moth in particular offers interesting roleplaying opportunities, as it can help characters locate areas of magical significance, or warn them when magical energy is fluctuating dangerously.
 
 {{pageNumber,auto}}
 {{footnote Appendix D: Beasts of Tirvandor}}

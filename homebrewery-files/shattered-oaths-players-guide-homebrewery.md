@@ -48,7 +48,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 {{toc,wide
 # Contents
 
-- ### [{{ Shattered Oaths: Player’s Guide}}{{ 2}}](#p4)
+- ### [{{ Shattered Oaths: Player's Guide}}{{ 2}}](#p4)
   - #### [{{ Campaign Overview}}{{ 2}}](#p4)
     - [{{ What is Shattered Oaths?}}{{ 2}}](#p4)
   - #### [{{ Who You Are}}{{ 2}}](#p4)
@@ -69,13 +69,13 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Campaign Structure}}{{ 5}}](#p7)
     - [{{ What to Expect}}{{ 5}}](#p7)
   - #### [{{ Heroic Choices & Consequences}}{{ 5}}](#p7)
-    - [{{ You’re the Good Guys (Mostly)}}{{ 5}}](#p7)
+    - [{{ You're the Good Guys (Mostly)}}{{ 5}}](#p7)
   - #### [{{ Starting the Campaign}}{{ 6}}](#p8)
     - [{{ Session Zero Topics}}{{ 6}}](#p8)
     - [{{ Starting Scenario Options}}{{ 6}}](#p8)
   - #### [{{ Character Hooks & Connections}}{{ 6}}](#p8)
     - [{{ Ties to the World}}{{ 6}}](#p8)
-    - [{{ Important NPCs (You’ll Meet)}}{{ 6}}](#p8)
+    - [{{ Important NPCs (You'll Meet)}}{{ 6}}](#p8)
   - #### [{{ Equipment & Starting Gear}}{{ 6}}](#p8)
     - [{{ Beyond Standard Equipment}}{{ 6}}](#p8)
   - #### [{{ House Rules & Campaign Mechanics}}{{ 7}}](#p9)
@@ -1097,7 +1097,7 @@ ___
 :
 Darkness rises in the kingdom. **Lord Shadows** wages war against the Crown, and ancient prophecy speaks of champions who will decide the realm's fate. 
 :
-You might be one of those champions—or you might be something more.
+You might be one of those champions, or you might be something more.
 :
 This guide prepares you for: 
 - Building a hero for this world

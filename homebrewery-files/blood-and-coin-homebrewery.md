@@ -832,7 +832,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 - **Rising Stakes:** From street-level jobs to world-shaking events
 
 ### **Tone**
-Gritty, realistic, consequences-driven. Violence is common but meaningful. Death is permanent. The world doesn't care about your intentions—only your actions.
+Gritty, realistic, consequences-driven. Violence is common but meaningful. Death is permanent. The world doesn't care about your intentions, only your actions.
 
 ### **Level Progression**
 - **Act I (Levels 1-5):** Establishing yourselves as professionals
@@ -843,7 +843,7 @@ Gritty, realistic, consequences-driven. Violence is common but meaningful. Death
 
 ### The Western Conflict
 
-Blood & Coin takes place during a proxy war in western Thaldros. The Aethorian Republic—across the Sundering Sea—funds, arms, and advises separatist movements in Thaldros's frontier territories. These rebels fight for Aethorian-style democracy against Crown rule.
+Blood & Coin takes place during a proxy war in western Thaldros. The Aethorian Republic, across the Sundering Sea, funds, arms, and advises separatist movements in Thaldros's frontier territories. These rebels fight for Aethorian-style democracy against Crown rule.
 
 **Important Geographic Note:** Thaldros and Aethoria are on separate continents divided by the Sundering Sea. There is no land border. The "Aethoria forces" referenced throughout this campaign are actually Thaldrosian rebels backed by Aethorian gold, weapons, and advisors. Envoy Valen and other Aethorian representatives are diplomats and military advisors embedded with the rebellion, not commanders of an Aethorian invasion force.
 
@@ -880,7 +880,7 @@ You're not heroes. You're professionals. Sellswords. Problem-solvers for hire. Y
 2. **Don't kill clients before they pay** - Bad for business
 3. **Survive first, moralize later** - Idealism gets you killed
 
-Welcome to the profession. You'll learn quickly that every job has a catch, every client lies, and coin is the only thing you can trust—until you can't.
+Welcome to the profession. You'll learn quickly that every job has a catch, every client lies, and coin is the only thing you can trust, until you can't.
 
 ### **What Act I Teaches**
 
@@ -907,7 +907,7 @@ By the end of Act I, players will understand:
 
 ### **Overview**
 
-Crossroads sits at the intersection of three trade routes, far from royal oversight. No official government—the **Iron Guild** runs things through contracts and reputation. Violence is common but regulated. Murder is allowed if you have a contract. Theft is punishable by death (bad for business). Lying is expected, getting caught is fatal.
+Crossroads sits at the intersection of three trade routes, far from royal oversight. No official government, the **Iron Guild** runs things through contracts and reputation. Violence is common but regulated. Murder is allowed if you have a contract. Theft is punishable by death (bad for business). Lying is expected, getting caught is fatal.
 {{pageNumber,auto}}
 \page
 
@@ -1000,12 +1000,12 @@ Each PC arrives at Crossroads for their own reasons. Run individual cold opens f
 
 ##### The Exiled Noble
 {{description,note
-*The carriage dumped you at the crossroads at dawn. Your family's signet ring—the last tie to your old life—weighs heavy in your pocket. The magistrate's words echo: "Leave the kingdom or hang for treason." You chose exile. Now you need gold to survive, and pride won't feed you.*
+*The carriage dumped you at the crossroads at dawn. Your family's signet ring, the last tie to your old life, weighs heavy in your pocket. The magistrate's words echo: "Leave the kingdom or hang for treason." You chose exile. Now you need gold to survive, and pride won't feed you.*
 }}
 
 ##### The Desperate Debtor
 {{description,note
-*Three months. That's how long until Vareth the loan shark sends his collectors. You owe 500 gold—might as well be 5,000. The only place that pays enough is Crossroads. Dangerous work, but dying in combat beats dying in a gutter with your kneecaps shattered.*
+*Three months. That's how long until Vareth the loan shark sends his collectors. You owe 500 gold, might as well be 5,000. The only place that pays enough is Crossroads. Dangerous work, but dying in combat beats dying in a gutter with your kneecaps shattered.*
 }}
 
 ##### The Pragmatic Sellsword
@@ -1015,7 +1015,7 @@ Each PC arrives at Crossroads for their own reasons. Run individual cold opens f
 
 ##### The Outcast
 {{description,note
-*Your village cast you out for your "gift"—the magic in your blood. They called you cursed, dangerous, unnatural. Fine. Let them fear you. Crossroads doesn't care what you are, only what you can do. Time to make them regret exiling someone useful.*
+*Your village cast you out for your "gift": the magic in your blood. They called you cursed, dangerous, unnatural. Fine. Let them fear you. Crossroads doesn't care what you are, only what you can do. Time to make them regret exiling someone useful.*
 }}
 
 ### **Scene 1: The COPPER DRAGON**
@@ -1026,7 +1026,7 @@ After individual intros, PCs all end up at **The Copper Dragon** inn. This is wh
 
 ##### Read Aloud:
 {{description,note
-*The Copper Dragon's common room reeks of smoke, sweat, and spilled ale. Two dozen mercenaries drink, gamble, and trade war stories. Most are armed—swords, axes, bows propped casually against tables. A few glance at you, assess you as threat or opportunity, then return to their drinks.*
+*The Copper Dragon's common room reeks of smoke, sweat, and spilled ale. Two dozen mercenaries drink, gamble, and trade war stories. Most are armed, swords, axes, bows propped casually against tables. A few glance at you, assess you as threat or opportunity, then return to their drinks.*
 
 *Behind the bar, a middle-aged halfling woman polishes a glass that will never be clean. Her eyes are sharp, calculating. She's seen a thousand sellswords walk through that door. She's wondering if you'll walk out.*
 
@@ -1057,7 +1057,7 @@ If PCs engage with Finn, he offers free advice (he's genuinely trying to help):
 
 *One: Join the Iron Guild. Pay the dues, follow the contracts, and you get protection. Work outside the guild, you're on your own. Someone kills you over a disagreement? Nobody cares.*
 
-*Two: Never break a contract. Ever. I don't care if the client lied, if you learned something new, if you had a moral revelation—you finish the job or you die. Reputation is everything here.*
+*Two: Never break a contract. Ever. I don't care if the client lied, if you learned something new, if you had a moral revelation, you finish the job or you die. Reputation is everything here.*
 
 *Three: Don't trust anyone. Not me, not Mira, not your drinking buddies, not your partners. Everyone's got an angle. Gold talks, friendship walks.*
 
@@ -1068,7 +1068,7 @@ If PCs engage with Finn, he offers free advice (he's genuinely trying to help):
 **If PCs ask about work:**
 {{description,note
 
-*"Go see Varak at the Iron Guild Hall. He's got the Contract Board—public jobs for new blood. Prove yourself, he'll offer membership. First month's dues waived if you're good enough. Get you access to better contracts, better pay, better protection."*
+*"Go see Varak at the Iron Guild Hall. He's got the Contract Board, public jobs for new blood. Prove yourself, he'll offer membership. First month's dues waived if you're good enough. Get you access to better contracts, better pay, better protection."*
 }}
 
 **If PCs ask about Varak:**
@@ -1081,9 +1081,9 @@ PCs make their way to the Iron Guild Hall to find work.
 
 ##### Read Aloud:
 {{description,note
-*The Iron Guild Hall dominates the town square—three stories of dark stone, built like a fortress. Two mercenaries flank the entrance, arms crossed, weapons visible. They size you up as you approach. One nods. You're allowed to enter.*
+*The Iron Guild Hall dominates the town square, three stories of dark stone, built like a fortress. Two mercenaries flank the entrance, arms crossed, weapons visible. They size you up as you approach. One nods. You're allowed to enter.*
 
-*Inside, the hall is all business. The main room is a mix of meeting hall and armory. A dozen mercenaries cluster around a large wooden board covered in parchment—contracts, each sealed with wax. Arguments break out over who gets which job.*
+*Inside, the hall is all business. The main room is a mix of meeting hall and armory. A dozen mercenaries cluster around a large wooden board covered in parchment, contracts, each sealed with wax. Arguments break out over who gets which job.*
 
 *Behind a heavy oak desk sits a dwarf in well-maintained chainmail. His beard is braided with iron rings. His eyes are hard, calculating, measuring. He doesn't smile.*
 }}
@@ -1115,7 +1115,7 @@ PCs make their way to the Iron Guild Hall to find work.
 
 ##### Read Aloud (Varak Speaks):
 {{description,note
-*"New blood. I can smell the desperation from here. Let me guess—you need gold, you're willing to kill for it, and you think that makes you special. It doesn't. There's a hundred sellswords in this town with the same story."*
+*"New blood. I can smell the desperation from here. Let me guess. You need gold, you're willing to kill for it, and you think that makes you special. It doesn't. There's a hundred sellswords in this town with the same story."*
 
 *He leans forward, iron rings in his beard clinking.*
 
@@ -1132,12 +1132,12 @@ PCs make their way to the Iron Guild Hall to find work.
 
 **If PCs ask about the contracts:**
 {{description,note
-*"Three on the board right now. All entry-level. Pick one, complete it, come back. You can work alone or in a group—I don't care, as long as the job's done. Read the contracts carefully. Clients lie. Part of the business."*
+*"Three on the board right now. All entry-level. Pick one, complete it, come back. You can work alone or in a group, I don't care, as long as the job's done. Read the contracts carefully. Clients lie. Part of the business."*
 }}
 
 **If PCs ask if they can negotiate:**
 {{description,note
-*"With me? No. With the client? That's your business. Just remember—once you take a contract, you complete it. Break your word, the guild hunts you. We have a reputation to maintain."*
+*"With me? No. With the client? That's your business. Just remember: once you take a contract, you complete it. Break your word, the guild hunts you. We have a reputation to maintain."*
 }}
 
 
@@ -1160,7 +1160,7 @@ Three contracts are available. PCs must choose ONE (or work together on one).
 - **Client:** Loan shark Vareth Goldtooth
 - **Target:** Collect 100gp debt from "Thomas Redhill"
 - **Payment:** 75gp
-- **Details:** "Thomas owes me 100 gold. Three months overdue. Collect by any means necessary. Broken bones acceptable. Death is not—dead men don't pay."
+- **Details:** "Thomas owes me 100 gold. Three months overdue. Collect by any means necessary. Broken bones acceptable. Death is not. Dead men don't pay."
 - **Fine Print:** "10gp bonus if you make an example of him (public beating)"
 - **Truth:** Thomas is a widower with a sick child. Used loan for medicine. Child recovered but Thomas lost job. He's desperate, not malicious.
 
@@ -1185,7 +1185,7 @@ Three contracts are available. PCs must choose ONE (or work together on one).
 {{description,note
 *Oleg Tharn's warehouse sits on the edge of town, a squat wooden building with a sagging roof. The merchant himself is rotund, sweating despite the cool morning. His smile is too wide, his eyes too shifty. He keeps glancing at the warehouse nervously.*
 
-*"Ah, excellent! The guild sent help! Yes, yes, terrible rat problem. Vicious creatures. Killed my warehouse boy last week—terrible accident. Just go in there, kill them all, bring me proof. Dozen tails should do. I'll have your gold ready. Simple job!"*
+*"Ah, excellent! The guild sent help! Yes, yes, terrible rat problem. Vicious creatures. Killed my warehouse boy last week, terrible accident. Just go in there, kill them all, bring me proof. Dozen tails should do. I'll have your gold ready. Simple job!"*
 
 }}
 
@@ -1205,7 +1205,7 @@ Three contracts are available. PCs must choose ONE (or work together on one).
 
 ##### Read Aloud:
 {{description,note
-*The warehouse door creaks open. The stench hits you first—rot, mold, and something metallic. Blood. Your eyes adjust to the darkness. The interior is a maze of crates and barrels. Scratching sounds echo from deeper within. Something moves in the shadows. Multiple somethings.*
+*The warehouse door creaks open. The stench hits you first. Rot, mold, and something metallic. Blood. Your eyes adjust to the darkness. The interior is a maze of crates and barrels. Scratching sounds echo from deeper within. Something moves in the shadows. Multiple somethings.*
 
 }}
 
@@ -1215,20 +1215,20 @@ Three contracts are available. PCs must choose ONE (or work together on one).
 - Rats attack in groups of 2-3
 - Use Pack Tactics (advantage when ally is within 5 ft)
 - Flee if more than 5 are killed
-- Not defending territory—defending something specific
+- Not defending territory. Defending something specific
 
 **the discovery**
 
 Once rats are cleared (killed or driven off), PCs can investigate:
 
-**Perception DC 14:** One section of floor is newer than the rest—recently replaced boards.
+**Perception DC 14:** One section of floor is newer than the rest: recently replaced boards.
 
 **Investigation DC 12:** Prying up boards reveals hidden cache underneath:
 - **10 bolts of fine silk** (worth 50gp each, 500gp total)
 - **Merchant's ledger** (shows silk stolen from "Cassia Valen" three weeks ago)
 - **Crate of spices** (worth 100gp, also stolen from Valen)
 
-**The Truth:** Oleg bought stolen goods from thieves. Silk merchant (Cassia Valen—same woman offering caravan job!) is looking for her stolen cargo. Rats nested in cache. Oleg hired PCs to kill rats without discovering the theft.
+**The Truth:** Oleg bought stolen goods from thieves. Silk merchant (Cassia Valen, same woman offering caravan job!) is looking for her stolen cargo. Rats nested in cache. Oleg hired PCs to kill rats without discovering the theft.
 
 ### **Moral Choice**
 
@@ -1284,12 +1284,12 @@ Regardless of choice, PCs return to guild with rat tails (proof of completion).
 
 **If you exposed Oleg:** ::
 {{description,note
-*"Heard you turned in your client. Interesting choice. Merchants are gossiping about you—some love it, others won't work with a rat. Hope the righteousness was worth it. Still, you completed the contract technically. Membership approved."*
+*"Heard you turned in your client. Interesting choice. Merchants are gossiping about you, some love it, others won't work with a rat. Hope the righteousness was worth it. Still, you completed the contract technically. Membership approved."*
 }}
 
 **If you fenced the goods:** ::
 {{description,note
-*"I'm hearing rumors about extra goods being sold at the Gray Market. Same goods your client was worried about. Interesting timing. I don't care—not my business—but be careful. People remember opportunists."*
+*"I'm hearing rumors about extra goods being sold at the Gray Market. Same goods your client was worried about. Interesting timing. I don't care (not my business) but be careful. People remember opportunists."*
 }}
 
 **Outcome:**
@@ -1306,22 +1306,22 @@ Regardless of choice, PCs return to guild with rat tails (proof of completion).
 
 ##### Read Aloud:
 {{description,note
-*Vareth's office is in the back of the Temple of the Coin—the gambling hall masquerading as a place of worship. The halfling sits behind a desk too large for him, surrounded by ledgers and counting gold. His fingers are literally covered in gold rings. His smile shows gold teeth. Everything about him screams "predator."*
+*Vareth's office is in the back of the Temple of the Coin, the gambling hall masquerading as a place of worship. The halfling sits behind a desk too large for him, surrounded by ledgers and counting gold. His fingers are literally covered in gold rings. His smile shows gold teeth. Everything about him screams "predator."*
 
-*"Ah, debt collectors! Wonderful! Yes, yes, Thomas Redhill owes me 100 gold. Three months overdue. Very disappointing. I need you to collect—by any means necessary. Broken fingers, broken legs, whatever motivates him. Just don't kill him. Dead men don't pay."*
+*"Ah, debt collectors! Wonderful! Yes, yes, Thomas Redhill owes me 100 gold. Three months overdue. Very disappointing. I need you to collect, by any means necessary. Broken fingers, broken legs, whatever motivates him. Just don't kill him. Dead men don't pay."*
 
 *He slides a small pouch across the desk.*
 
-*"Your advance—25 gold. Collect the debt, bring me the coin, I'll pay you the other 50. There's a 10 gold bonus if you make it public. Let people see what happens when you don't pay Vareth. Good for business."*
+*"Your advance, 25 gold. Collect the debt, bring me the coin, I'll pay you the other 50. There's a 10 gold bonus if you make it public. Let people see what happens when you don't pay Vareth. Good for business."*
 }}
 
 **If PCs ask questions:**
 :
-**"Why doesn't he pay?":** *"Claims he doesn't have it! Can you believe that? Then he shouldn't have borrowed it. Not my problem. That's why I hire you—you make it his problem."*
+**"Why doesn't he pay?":** *"Claims he doesn't have it! Can you believe that? Then he shouldn't have borrowed it. Not my problem. That's why I hire you: you make it his problem."*
 :
-**"What was the loan for?":** *"Medicine for his daughter. She was sick. Very tragic. But charity doesn't pay my bills. The girl lived—that's more than enough charity from me."*
+**"What was the loan for?":** *"Medicine for his daughter. She was sick. Very tragic. But charity doesn't pay my bills. The girl lived. That's more than enough charity from me."*
 :
-**"What if he really doesn't have the money?":** *"Then you take collateral. His house. His tools. His fingers. I don't care. Just make sure he pays—or everyone sees what happens when you don't."*
+**"What if he really doesn't have the money?":** *"Then you take collateral. His house. His tools. His fingers. I don't care. Just make sure he pays, or everyone sees what happens when you don't."*
 {{pageNumber,auto}}
 \page
 
@@ -1331,9 +1331,9 @@ Regardless of choice, PCs return to guild with rat tails (proof of completion).
 
 **Read Aloud:** ::
 
-*Thomas Redhill's house is a small cottage on the poor side of town. The thatching needs repair. The windows are cracked. A child's toy lies forgotten in the muddy yard. Smoke rises from the chimney—someone's home.*
+*Thomas Redhill's house is a small cottage on the poor side of town. The thatching needs repair. The windows are cracked. A child's toy lies forgotten in the muddy yard. Smoke rises from the chimney: someone's home.*
 
-*You knock. After a long pause, the door cracks open. A man in his thirties peers out—gaunt, tired, afraid. His eyes go to your weapons. He knows why you're here.*
+*You knock. After a long pause, the door cracks open. A man in his thirties peers out, gaunt, tired, afraid. His eyes go to your weapons. He knows why you're here.*
 }}
 
 **NPC: Thomas Redhill** ::
@@ -1351,9 +1351,9 @@ Regardless of choice, PCs return to guild with rat tails (proof of completion).
 
 **Thomas's Story (if PCs talk instead of attack):** ::
 {{description,note
-*"I know why you're here. I know I owe Vareth. I'm not disputing it. My daughter was dying—fever that wouldn't break. The healers wanted 100 gold upfront. I didn't have it. Vareth offered a loan.*
+*"I know why you're here. I know I owe Vareth. I'm not disputing it. My daughter was dying. Fever that wouldn't break. The healers wanted 100 gold upfront. I didn't have it. Vareth offered a loan.*
 
-*The girl lived. Thank the gods, she lived. But then I lost my job—the carpenter I worked for went bankrupt. I've been looking for work, I swear. I can pay... just not yet. Please. Give me one more month. I'll pay double—125, like he wants. Just... please don't hurt my daughter. She's only seven."*
+*The girl lived. Thank the gods, she lived. But then I lost my job: the carpenter I worked for went bankrupt. I've been looking for work, I swear. I can pay... just not yet. Please. Give me one more month. I'll pay double, 125, like he wants. Just... please don't hurt my daughter. She's only seven."*
 }}
 
 **The Daughter:** ::
@@ -1424,17 +1424,17 @@ If PCs investigate, they can meet **Lily Redhill** (7 years old, innocent, frien
 
 **If you collected by force:** ::
 {{description,note
-*"Good work! I can always count on professionals. People need to learn—don't borrow what you can't repay. Here's your gold. Come back anytime—I always have collection jobs."*
+*"Good work! I can always count on professionals. People need to learn: don't borrow what you can't repay. Here's your gold. Come back anytime. I always have collection jobs."*
 }}
 
 **If you gave extension:** ::
 {{description,note
-*"One month. That's it. If he doesn't pay then, I expect you to break both his legs. Understand? Good. Here's your base pay—you'll get the bonus when he pays."*
+*"One month. That's it. If he doesn't pay then, I expect you to break both his legs. Understand? Good. Here's your base pay. You'll get the bonus when he pays."*
 }}
 
 **If you negotiated installments:** ::
 {{description,note
-*"A payment plan? Interesting. More interest for me, less immediate cash. But you're right—can't squeeze blood from corpse. You're thinking like a businessman. I appreciate that."*
+*"A payment plan? Interesting. More interest for me, less immediate cash. But you're right, can't squeeze blood from corpse. You're thinking like a businessman. I appreciate that."*
 }}
 
 **If you paid his debt:** ::
@@ -1447,17 +1447,17 @@ If PCs investigate, they can meet **Lily Redhill** (7 years old, innocent, frien
 
 **Varak's Response:**
 {{description,note
-*"Client satisfied. Debt handled. You completed the contract. Whether you did it with fists or diplomacy or your own coin—doesn't matter to me. You fulfilled the terms. That's what matters. Iron Guild membership approved."*
+*"Client satisfied. Debt handled. You completed the contract. Whether you did it with fists or diplomacy or your own coin: doesn't matter to me. You fulfilled the terms. That's what matters. Iron Guild membership approved."*
 }}
 
 **If you showed mercy:**
 {{description,note
-*"I'm hearing you went easy on the debtor. Soft, some would say. Others would say smart—hard to collect from a corpse. I'm in the second camp. Pragmatism beats brutality. Usually. Don't let it become a pattern—people will see you as weak."*
+*"I'm hearing you went easy on the debtor. Soft, some would say. Others would say smart: hard to collect from a corpse. I'm in the second camp. Pragmatism beats brutality. Usually. Don't let it become a pattern, people will see you as weak."*
 }}
 
 **If you were brutal:**
 {{description,note
-*"You made an example of him. Message sent. Word's spreading—you're not someone to cross. That's good for business. Just remember: fear works until someone stops being afraid and starts being vengeful. Watch your back."*
+*"You made an example of him. Message sent. Word's spreading: you're not someone to cross. That's good for business. Just remember: fear works until someone stops being afraid and starts being vengeful. Watch your back."*
 }}
 
 **Outcome:**
@@ -1476,14 +1476,14 @@ If PCs investigate, they can meet **Lily Redhill** (7 years old, innocent, frien
 
 ##### Read Aloud:
 {{description,note
-*Cassia Valen's wagon is parked near the town gate, loaded and ready. She's a sharp-featured woman in expensive traveling clothes, checking cargo lists with practiced efficiency. When you approach, she sizes you up with a merchant's eye—calculating your worth in gold.*
+*Cassia Valen's wagon is parked near the town gate, loaded and ready. She's a sharp-featured woman in expensive traveling clothes, checking cargo lists with practiced efficiency. When you approach, she sizes you up with a merchant's eye, calculating your worth in gold.*
 
-*"Guild mercenaries? Good. I need guards for a simple escort. The cargo goes to Millford—twenty miles north. Standard bandit territory but nothing serious. We leave at dawn, arrive by dusk. Stay alert, keep the wagon safe, get paid. Simple enough for first-timers?"*
+*"Guild mercenaries? Good. I need guards for a simple escort. The cargo goes to Millford: twenty miles north. Standard bandit territory but nothing serious. We leave at dawn, arrive by dusk. Stay alert, keep the wagon safe, get paid. Simple enough for first-timers?"*
 }}
 
 **If PCs ask questions:** ::
 
-**"What's in the wagon?":** *"Textiles and spices. Trade goods. Boring stuff but valuable to me. Contents aren't your concern—your concern is keeping bandits away from it."*
+**"What's in the wagon?":** *"Textiles and spices. Trade goods. Boring stuff but valuable to me. Contents aren't your concern: your concern is keeping bandits away from it."*
 :
 **"Why not hire cheaper guards?":** *"Because cheap guards let cargo get stolen. I'm paying for professionals. Don't make me regret it."*
 :
@@ -1508,7 +1508,7 @@ If PCs investigate, they can meet **Lily Redhill** (7 years old, innocent, frien
 
 ##### Read Aloud:
 {{description,note
-*The road north is well-traveled but lonely. Forests press close on both sides. Cassia drives the wagon in silence, eyes scanning the treeline. Morning passes without incident. Around midday, as you round a bend, you see them—six figures blocking the road ahead. Armed. Waiting.*
+*The road north is well-traveled but lonely. Forests press close on both sides. Cassia drives the wagon in silence, eyes scanning the treeline. Morning passes without incident. Around midday, as you round a bend, you see them: six figures blocking the road ahead. Armed. Waiting.*
 }}
 {{pageNumber,auto}}
 \page
@@ -1517,7 +1517,7 @@ If PCs investigate, they can meet **Lily Redhill** (7 years old, innocent, frien
 
 ##### Read Aloud:
 {{description,note
-*The leader steps forward—a woman in leather armor, sword drawn but lowered. Her voice is clear, official, commanding:*
+*The leader steps forward, a woman in leather armor, sword drawn but lowered. Her voice is clear, official, commanding:*
 
 *"This is a Crown Inspection! By authority of the Kingdom of Thaldros, stop your vehicle and prepare for cargo search! We have reason to believe you're transporting illegal contraband!"*
 
@@ -1526,7 +1526,7 @@ If PCs investigate, they can meet **Lily Redhill** (7 years old, innocent, frien
 
 **The Truth:**
 
-These aren't bandits—they're **Thaldros Revenue Officers** (basically fantasy customs/drug enforcement):
+These aren't bandits. They're **Thaldros Revenue Officers** (basically fantasy customs/drug enforcement):
 
 **Enemies:** ::
 - 1 **Officer Captain** (use Knight stats, CR 3)
@@ -1541,12 +1541,12 @@ These aren't bandits—they're **Thaldros Revenue Officers** (basically fantasy 
 
 **Officer Captain's Demand:** ::
 {{description,note
-*"Cassia Valen, you're under arrest for smuggling narcotics across kingdom borders. Mercenaries—stand down. You're not wanted for anything. Walk away now and there's no charges. Defend a smuggler and you're accessories. Choose wisely."*
+*"Cassia Valen, you're under arrest for smuggling narcotics across kingdom borders. Mercenaries: stand down. You're not wanted for anything. Walk away now and there's no charges. Defend a smuggler and you're accessories. Choose wisely."*
 }}
 
 **Cassia's Plea:** ::
 {{description,note
-*"Don't listen to them! They're trying to steal my cargo! I'm paying you to protect it—that's the contract! Do your job!"*
+*"Don't listen to them! They're trying to steal my cargo! I'm paying you to protect it. That's the contract! Do your job!"*
 }}
 
 **The Choice** ::
@@ -1584,7 +1584,7 @@ These aren't bandits—they're **Thaldros Revenue Officers** (basically fantasy 
 
 **Option 5: Bribe the Captain** ::
 - Offer captain half the cargo value (~200gp worth of narcotics)
-- Persuasion DC 18 (risky—officer might be honorable)
+- Persuasion DC 18 (risky: officer might be honorable)
 - Success: Captain takes bribe, lets everyone go
 - Failure: Captain arrests you for attempted bribery
 - **Consequence:** If successful, Cassia pays you double (120gp) for "thinking fast," you've corrupted law enforcement
@@ -1622,12 +1622,12 @@ These aren't bandits—they're **Thaldros Revenue Officers** (basically fantasy 
 
 **If you fought officers:** ::
 {{description,note
-*"You assaulted kingdom revenue officers for a smuggler? Brave or stupid—I haven't decided. The contract said protect the cargo. You did. Technically. But now you're wanted. That complicates future contracts. Hope the coin was worth it. Membership approved—but watch your back."*
+*"You assaulted kingdom revenue officers for a smuggler? Brave or stupid. I haven't decided. The contract said protect the cargo. You did. Technically. But now you're wanted. That complicates future contracts. Hope the coin was worth it. Membership approved, but watch your back."*
 }}
 
 **If you betrayed Cassia:** ::
 {{description,note
-*"You handed your client to the authorities. Pragmatic. Some clients won't hire you now—word spreads about mercenaries who turn on employers. But law-abiding clients will love you. Double-edged sword. Membership approved. Choose your reputation carefully."*
+*"You handed your client to the authorities. Pragmatic. Some clients won't hire you now: word spreads about mercenaries who turn on employers. But law-abiding clients will love you. Double-edged sword. Membership approved. Choose your reputation carefully."*
 }}
 
 **If you negotiated clean exit:** ::
@@ -1637,14 +1637,14 @@ These aren't bandits—they're **Thaldros Revenue Officers** (basically fantasy 
 
 **If you helped her escape:** ::
 {{description,note
-*"Cassia's gone. Officers are angry. But you didn't assault anyone and you didn't get caught. Clever. Cassia's leaving you dead drops with payments—she's grateful. You made an ally in the smuggling world. Useful. Membership approved."*
+*"Cassia's gone. Officers are angry. But you didn't assault anyone and you didn't get caught. Clever. Cassia's leaving you dead drops with payments: she's grateful. You made an ally in the smuggling world. Useful. Membership approved."*
 }}
 
 **The Lesson:** ::
 
 Varak concludes (regardless of choice):
 {{description,note
-*"You just learned a valuable lesson: clients lie. Always. The rat exterminator was fencing goods. The loan shark was a predator. The merchant was a smuggler. Everyone has an agenda. Your job isn't to judge—it's to decide what you can live with. Some mercenaries have lines they won't cross. Others don't. Figure out what kind you are before someone else figures it out for you."*
+*"You just learned a valuable lesson: clients lie. Always. The rat exterminator was fencing goods. The loan shark was a predator. The merchant was a smuggler. Everyone has an agenda. Your job isn't to judge: it's to decide what you can live with. Some mercenaries have lines they won't cross. Others don't. Figure out what kind you are before someone else figures it out for you."*
 }}
 
 **Outcome:** ::
@@ -1717,7 +1717,7 @@ PCs can refuse guild membership if they want to stay independent.
 
 **Varak's Response if Refused:**
 {{description,note
-*"Your choice. Some mercenaries prefer independence. Just remember—when someone puts a knife in your back, don't come crying to me. The guild protects its own. If you're not one of us, you're on your own. Door's always open if you change your mind—if you're still alive."*
+*"Your choice. Some mercenaries prefer independence. Just remember, when someone puts a knife in your back, don't come crying to me. The guild protects its own. If you're not one of us, you're on your own. Door's always open if you change your mind, if you're still alive."*
 }}
 
 ## Transition to Quest 1.2
@@ -1759,7 +1759,7 @@ After 1-2 days, Varak summons PCs to guild hall:
 {{description,note
 *Varak's office is more crowded than usual. Two men stand before his desk, glaring at each other. One is a noble in expensive clothing, sword at his hip, entitled bearing. The other is younger, in merchant's garb, nervous but determined. Both are talking over each other, making demands.*
 
-*Varak spots you entering. Relief crosses his face—briefly. He holds up a hand for silence.*
+*Varak spots you entering. Relief crosses his face: briefly. He holds up a hand for silence.*
 
 *"Enough. Both of you. You want the same thing. You're bidding for the same mercenaries. Let them decide. And whichever one they don't choose... find someone else."*
 
@@ -1861,7 +1861,7 @@ These will come back in Acts II and III!
 
 ### **Quest SETUP**
 
-After 1-2 days of downtime following Quest 1.1, Varak summons the PCs to the guild hall. This time, things are different—there's tension in the air.
+After 1-2 days of downtime following Quest 1.1, Varak summons the PCs to the guild hall. This time, things are different, there's tension in the air.
 
 ##### Read Aloud:
 {{description,note
@@ -1877,11 +1877,11 @@ After 1-2 days of downtime following Quest 1.1, Varak summons the PCs to the gui
 
 *Varak slams his fist on the desk. Silence falls.*
 
-*"Enough. You both want mercenaries for the same target. Same woman. Different reasons. I don't care about your family drama—this is business. The guild doesn't take sides in personal disputes."*
+*"Enough. You both want mercenaries for the same target. Same woman. Different reasons. I don't care about your family drama: this is business. The guild doesn't take sides in personal disputes."*
 
 *He turns to you.*
 
-*"Two clients. Same target. Opposite goals. One wants her brought back. One wants her protected. Choose one contract. The other will hire someone else—probably to fight you. This is the business we're in. Choose wisely."*
+*"Two clients. Same target. Opposite goals. One wants her brought back. One wants her protected. Choose one contract. The other will hire someone else, probably to fight you. This is the business we're in. Choose wisely."*
 }}
 
 
@@ -1913,7 +1913,7 @@ Both clients present their case. Let them argue, interrupt each other, appeal to
 **Baron's Pitch:**
 
 {{description,note
-*"My daughter, Elara, has been kidnapped—no, seduced—by a common merchant. A nobody. Thomas Redwood. He's filled her head with romantic nonsense about 'true love' and 'freedom.' She's nineteen, naive, doesn't understand the world.*
+*"My daughter, Elara, has been kidnapped, no, seduced, by a common merchant. A nobody. Thomas Redwood. He's filled her head with romantic nonsense about 'true love' and 'freedom.' She's nineteen, naive, doesn't understand the world.*
 }}
 {{pageNumber,auto}}
 \page
@@ -1921,20 +1921,20 @@ Both clients present their case. Let them argue, interrupt each other, appeal to
 {{description,note
 *Three weeks ago, she disappeared. Left a note saying she was 'following her heart.' I have it on good authority she's hiding in a cottage five miles north with this... boy. He's probably using her for her family's money and connections.*
 
-*Your job: Retrieve my daughter. Bring her home. Unharmed. I don't care about the boy—kill him, let him go, whatever. Just bring Elara back. She belongs with her family.*
+*Your job: Retrieve my daughter. Bring her home. Unharmed. I don't care about the boy. Kill him, let him go, whatever. Just bring Elara back. She belongs with her family.*
 
-*Payment: 200 gold pieces. Plus, I'll owe you a favor—a noble's favor is worth more than gold in this kingdom."*
+*Payment: 200 gold pieces. Plus, I'll owe you a favor, a noble's favor is worth more than gold in this kingdom."*
 }}
 
 **If PCs ask questions:** ::
 
-**"Why do you think she was kidnapped?":** *"Because she would never leave willingly. She knows her duty to the family. He must have enchanted her somehow—magic or manipulation, doesn't matter."*
+**"Why do you think she was kidnapped?":** *"Because she would never leave willingly. She knows her duty to the family. He must have enchanted her somehow: magic or manipulation, doesn't matter."*
 :
 **"What if she wants to stay with him?":** *"She's nineteen. She doesn't know what she wants. I'm her father. It's my duty to protect her from her own foolishness. She'll thank me when she's older."*
 :
 **"Will you hurt the merchant?":** *"If he resists? Yes. If he's smart enough to walk away? No. I'm not a monster. But if he's harmed my daughter in any way, I'll have him executed. Legally."*
 :
-**"What about Elara's wishes?":** *"She's a child. Children don't get to make adult decisions. This isn't about what she wants—it's about what's right. What's safe. What's proper."*
+**"What about Elara's wishes?":** *"She's a child. Children don't get to make adult decisions. This isn't about what she wants. It's about what's right. What's safe. What's proper."*
 :
 **Insight DC 14:** The Baron genuinely believes he's protecting his daughter. He loves her, but in a controlling, possessive way. He sees Thomas as a threat, not because he's evil, but because he's "inappropriate."
 
@@ -1962,13 +1962,13 @@ Both clients present their case. Let them argue, interrupt each other, appeal to
 **Thomas's Pitch:**
 
 {{description,note
-*"Please, hear me out. The Baron is lying—or deluded. Elara wasn't kidnapped. She chose to leave. She chose me. We're in love. We want to marry.*
+*"Please, hear me out. The Baron is lying, or deluded. Elara wasn't kidnapped. She chose to leave. She chose me. We're in love. We want to marry.*
 
 *But her father won't allow it because I'm a merchant's son, not nobility. As if love cares about bloodlines! We ran away three weeks ago because he threatened to marry her off to some old duke for political alliance.*
 
-*She's not a child—she's nineteen, an adult. This is her choice. But I know the Baron. He'll send mercenaries. He'll send assassins. He'll never stop until he gets her back.*
+*She's not a child. She's nineteen, an adult. This is her choice. But I know the Baron. He'll send mercenaries. He'll send assassins. He'll never stop until he gets her back.*
 
-*I'm offering 150 gold—everything I have saved—to protect us. To protect her. Just for a few weeks until we can reach the free territories where the Baron has no legal authority. Then we can start a new life.*
+*I'm offering 150 gold, everything I have saved, to protect us. To protect her. Just for a few weeks until we can reach the free territories where the Baron has no legal authority. Then we can start a new life.*
 
 *Please. Don't let him take her back. She'll be trapped in a gilded cage for the rest of her life."*
 }}
@@ -1981,9 +1981,9 @@ Both clients present their case. Let them argue, interrupt each other, appeal to
 ;
 **"What if the Baron attacks?":** *"That's why I need you. I can't fight trained soldiers. I'm a merchant, not a warrior. But I won't let her go back. I'd rather die."*
 ;
-**"What about her family? Won't she miss them?":** *(Pained)* *"Yes. She misses her mother. But her father is a tyrant. He's never let her make her own choices. This is her first real decision—and it's to choose love over duty."*
+**"What about her family? Won't she miss them?":** *(Pained)* *"Yes. She misses her mother. But her father is a tyrant. He's never let her make her own choices. This is her first real decision, and it's to choose love over duty."*
 :
-**Insight DC 12:** Thomas is telling the truth. He's genuinely in love. He's not after money—his own family is comfortable. He's terrified but determined.
+**Insight DC 12:** Thomas is telling the truth. He's genuinely in love. He's not after money, his own family is comfortable. He's terrified but determined.
 
 
 ### **The Decision Moment**
@@ -1991,7 +1991,7 @@ Both clients present their case. Let them argue, interrupt each other, appeal to
 Varak interrupts:
 
 {{description,note
-*"Enough. I've heard both sides. You're both paying customers. The guild doesn't judge morality—we judge contracts. Both are legitimate.*
+*"Enough. I've heard both sides. You're both paying customers. The guild doesn't judge morality. We judge contracts. Both are legitimate.*
 
 *Here's how this works: The mercenaries choose one contract. The other client leaves and finds different mercenaries. Then you'll probably end up fighting each other over this girl. That's the business."*
 
@@ -2002,7 +2002,7 @@ Varak interrupts:
 {{pageNumber,auto}}
 \page
 
-**Important:** Give players time to discuss. This is a major choice. Let them debate. Some might want the money. Others might care about morality. Some might try to negotiate (won't work—both clients are stubborn).
+**Important:** Give players time to discuss. This is a major choice. Let them debate. Some might want the money. Others might care about morality. Some might try to negotiate (won't work, both clients are stubborn).
 
 ### **The CHOICE**
 
@@ -2042,13 +2042,13 @@ Both clients agree (reluctantly) to let PCs investigate before deciding.
 
 ##### Read Aloud:
 {{description,note
-*The cottage is small but well-kept, five miles north of Crossroads. Smoke rises from the chimney. Flowers grow in window boxes—someone planted them recently. A young woman tends a small garden out front, humming to herself. She looks up as you approach.*
+*The cottage is small but well-kept, five miles north of Crossroads. Smoke rises from the chimney. Flowers grow in window boxes: someone planted them recently. A young woman tends a small garden out front, humming to herself. She looks up as you approach.*
 }}
 :
 {{description,note
-*She's pretty—dark hair, nobleman's features, but dressed in simple peasant clothing. Her hands are dirty from gardening. She looks... happy. Content. Free.*
+*She's pretty: dark hair, nobleman's features, but dressed in simple peasant clothing. Her hands are dirty from gardening. She looks... happy. Content. Free.*
 
-*She sees you. Her hand goes to her belt—a small knife. Her expression hardens.*
+*She sees you. Her hand goes to her belt, a small knife. Her expression hardens.*
 
 *"More mercenaries? Did my father send you? Tell him I'm not going back."*
 
@@ -2067,7 +2067,7 @@ Both clients agree (reluctantly) to let PCs investigate before deciding.
 - Knows what she wants
 - Loves her mother but resents her father
 - Has thought this through carefully
-- Not being controlled or enchanted—this is her choice
+- Not being controlled or enchanted: this is her choice
 
 **Stats:** Use **Commoner** (4 HP), will not fight but will run ::
 
@@ -2076,11 +2076,11 @@ Both clients agree (reluctantly) to let PCs investigate before deciding.
 If PCs talk to her peacefully: ::
 
 {{description,note
-*"Let me guess—my father told you I was kidnapped? Enchanted? That I'm a silly girl who doesn't know her own mind?*
+*"Let me guess: my father told you I was kidnapped? Enchanted? That I'm a silly girl who doesn't know her own mind?*
 
-*I'm nineteen. I'm an adult. I know exactly what I'm doing. I love Thomas. He loves me. We want to build a life together. But my father sees me as property—a trading piece for political alliances.*
+*I'm nineteen. I'm an adult. I know exactly what I'm doing. I love Thomas. He loves me. We want to build a life together. But my father sees me as property, a trading piece for political alliances.*
 
-*He was arranging my marriage to Duke Harmond. The man is forty-five years old. He's buried two wives already. My father didn't ask my opinion—he just told me it was 'decided.'*
+*He was arranging my marriage to Duke Harmond. The man is forty-five years old. He's buried two wives already. My father didn't ask my opinion, he just told me it was 'decided.'*
 
 *So yes, I left. I chose Thomas. I chose freedom. I chose love over duty. And I'm not going back.*
 
@@ -2094,7 +2094,7 @@ If PCs talk to her peacefully: ::
 
 **If PCs ask about Thomas:** ::
 
-*"Thomas is kind. He's gentle. He's the first person who ever asked what I wanted instead of telling me. His family is wealthy enough—he's not after my father's gold. He wants me. Just me. That's enough."*
+*"Thomas is kind. He's gentle. He's the first person who ever asked what I wanted instead of telling me. His family is wealthy enough. He's not after my father's gold. He wants me. Just me. That's enough."*
 
 **If PCs ask about her mother:** ::
 
@@ -2102,7 +2102,7 @@ If PCs talk to her peacefully: ::
 
 **If PCs mention Duke Harmond:** ::
 
-*"He's not evil. Just... old. Boring. Entitled. He views me as decoration—a young wife to produce heirs. That's my entire value to these men. My father sees a political alliance. Harmond sees a breeding mare. Only Thomas sees Elara."*
+*"He's not evil. Just... old. Boring. Entitled. He views me as decoration, a young wife to produce heirs. That's my entire value to these men. My father sees a political alliance. Harmond sees a breeding mare. Only Thomas sees Elara."*
 
 ### **The Truth Revealed**
 
@@ -2113,7 +2113,7 @@ After investigating, players should understand:
 - Thomas is genuinely in love, not a con artist  
 - Baron is controlling but loves his daughter (in his way)  
 - This is about freedom vs. family duty  
-- No clear villain—just opposing values
+- No clear villain, just opposing values
 
 **Now players must choose despite having all the facts.** ::
 
@@ -2137,7 +2137,7 @@ Baron provides:
 
 *He drops the axe and sprints inside, shouting: "Elara! They're here! The Baron sent them!"*
 
-*Moments later, Elara appears in the doorway. Behind her, three armed figures emerge from the cottage—mercenaries. Thomas hired protection.*
+*Moments later, Elara appears in the doorway. Behind her, three armed figures emerge from the cottage: mercenaries. Thomas hired protection.*
 
 *One of them, a scarred woman with a crossbow, calls out: "You're trespassing. Leave now or we make you leave."*
 
@@ -2180,11 +2180,11 @@ Once rivals are dealt with (fought, bribed, or convinced), face Elara:
 
 ##### Read Aloud:
 {{description,note
-*The cottage door opens. Elara stands there, knife in hand—useless against armed mercenaries, but she's not going quietly. Thomas stands behind her, protective but helpless.*
+*The cottage door opens. Elara stands there, knife in hand, useless against armed mercenaries, but she's not going quietly. Thomas stands behind her, protective but helpless.*
 
 *"So you chose him," Elara says bitterly. "You chose gold over doing the right thing. Typical. My father knew exactly what mercenaries to hire."*
 
-*She raises the knife—not to attack, but to her own throat.*
+*She raises the knife, not to attack, but to her own throat.*
 
 *"I won't go back. I'd rather die free than live in a cage. You'll have to bring him my corpse. Tell him I loved him, but I loved freedom more."*
 }}
@@ -2224,13 +2224,13 @@ If you successfully retrieve Elara (willing or not):
 
 ##### Read Aloud:
 {{description,note
-*Baron Thornhill waits at the guild hall. When you bring Elara through the door, his face floods with relief—then hardens when he sees her expression. Hatred. Pure, burning hatred.*
+*Baron Thornhill waits at the guild hall. When you bring Elara through the door, his face floods with relief, then hardens when he sees her expression. Hatred. Pure, burning hatred.*
 
 *"Father," she says coldly. "I hope you're happy. You've proven you can buy anything. Even your daughter's freedom."*
 
 *The Baron reaches for her. She flinches away.*
 
-*"Elara... I did this because I love you. You'll understand when—"*
+*"Elara... I did this because I love you. You'll understand when, "*
 
 *"When I'm older?" She laughs bitterly. "I understand now. You don't love me. You love controlling me. That's not the same thing."*
 
@@ -2322,9 +2322,9 @@ The next evening, Baron's mercenaries attack:
 
 ##### Read Aloud:
 {{description,note
-*Sunset. The forest around the cottage grows quiet—too quiet. Birds have stopped singing. Then you see them: Four armed figures emerging from the treeline. Professional. Military bearing. Better equipped than you expected.*
+*Sunset. The forest around the cottage grows quiet, too quiet. Birds have stopped singing. Then you see them: Four armed figures emerging from the treeline. Professional. Military bearing. Better equipped than you expected.*
 
-*The leader—a woman in plate armor—raises her hand. Her voice is firm, authoritative:*
+*The leader, a woman in plate armor, raises her hand. Her voice is firm, authoritative:*
 
 *"By order of Baron Thornhill, surrender the girl! You're harboring stolen property! Resist and you'll be charged with kidnapping!"*
 
@@ -2349,7 +2349,7 @@ Halfway through fight (round 3):
 
 ##### Read Aloud:
 {{description,note
-*Elara screams from inside the cottage. You spin—a fifth mercenary, a rogue, has infiltrated through a window! He has Elara in a headlock, knife to throat!*
+*Elara screams from inside the cottage. You spin, a fifth mercenary, a rogue, has infiltrated through a window! He has Elara in a headlock, knife to throat!*
 
 *"Stop fighting or she dies! Baron wants her alive, but I'm authorized to wound her if necessary! Drop your weapons!"*
 }}
@@ -2441,7 +2441,7 @@ Baron agrees to meet Elara, no guards, neutral ground (guild hall).
 
 *"You did lose me, Father. You lost me when you treated me like property."*
 
-*"I was trying to protect you! The world is dangerous—"*
+*"I was trying to protect you! The world is dangerous, "*
 
 *"So you wanted to lock me in a tower? Marry me to a stranger? That's not protection. That's control."*
 
@@ -2504,7 +2504,7 @@ If PCs walk away:
 **Varak'S Response:** 
 
 {{description,note
-*"Walking away. Interesting. Not cowardice—I saw you thinking it through. Sometimes refusing a contract is smarter than taking a bad one.*
+*"Walking away. Interesting. Not cowardice: I saw you thinking it through. Sometimes refusing a contract is smarter than taking a bad one.*
 
 *Both clients will hire other mercenaries. You'll probably watch them fight in the streets. Stay out of it or you'll make enemies of both sides.*
 
@@ -2544,9 +2544,9 @@ Regardless of path chosen, Quest 1.2 concludes with:
 
 ##### Read Aloud:
 {{description,note
-*Varak pours himself a drink—rare for him. He gestures for you to sit.*
+*Varak pours himself a drink, rare for him. He gestures for you to sit.*
 
-*"That was messy. Family disputes always are. You made a choice. Right or wrong doesn't matter—that's philosophy, not business. What matters is you honored your contract."*
+*"That was messy. Family disputes always are. You made a choice. Right or wrong doesn't matter. That's philosophy, not business. What matters is you honored your contract."*
 
 *He leans forward.*
 
@@ -2689,7 +2689,7 @@ PCs should reach **Level 3** after completing Quest 1.2.
 
 **Level:** 3   ::
 **Duration:** 2-3 sessions   ::
-**Objective:** Eliminate "bandit leader" terrorizing trade routes—or discover the truth   ::
+**Objective:** Eliminate "bandit leader" terrorizing trade routes, or discover the truth   ::
 **Key NPCs:** Elara Thornwood, Merchant Consortium Representatives, Captain Willem   ::
 **Rewards:** 500gp (base), or 300gp + ally, or political power   ::
 **Theme:** "One person's terrorist is another's freedom fighter" ::
@@ -2697,28 +2697,28 @@ PCs should reach **Level 3** after completing Quest 1.2.
 
 **DM Note: The Merchant Consortium** ::
 
-*The Merchant Consortium is a regional chapter of the continental Merchant League, operating in the Silverpine-Thornwood region. While the Merchant League as a whole is a legitimate trade organization (see World Guide), individual consortiums sometimes engage in less ethical practices. The Silverpine Consortium includes merchants who participated in the fraudulent seizure of Thornwood lands—corruption that the larger League has either ignored or been unaware of. This subplot reflects how legitimate organizations can harbor corrupt elements.*
+*The Merchant Consortium is a regional chapter of the continental Merchant League, operating in the Silverpine-Thornwood region. While the Merchant League as a whole is a legitimate trade organization (see World Guide), individual consortiums sometimes engage in less ethical practices. The Silverpine Consortium includes merchants who participated in the fraudulent seizure of Thornwood lands, corruption that the larger League has either ignored or been unaware of. This subplot reflects how legitimate organizations can harbor corrupt elements.*
 
 
 ### **Quest SETUP**
 
-A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak summons them with an unusual contract—high-paying, but there's something off about it.
+A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak summons them with an unusual contract, high-paying, but there's something off about it.
 
 ##### Read Aloud:
 {{description,note
-*Varak's office is unusually crowded. Three merchants in expensive clothing stand before his desk, arguing over a map. Behind them, a tall woman in armor—clearly military—listens with arms crossed. They all turn when you enter.*
+*Varak's office is unusually crowded. Three merchants in expensive clothing stand before his desk, arguing over a map. Behind them, a tall woman in armor, clearly military, listens with arms crossed. They all turn when you enter.*
 
-*The lead merchant—a portly man with gold rings on every finger—steps forward. His smile is oily, practiced.*
+*The lead merchant, a portly man with gold rings on every finger, steps forward. His smile is oily, practiced.*
 
 *"Ah! The mercenaries! Excellent! We have a lucrative opportunity for competent professionals. Five hundred gold pieces to solve a problem that's been bleeding us dry for months. Interested?"*
 
 **Varak'S Briefing:**
 
-*"High-paying contract. Merchant Consortium wants a bandit leader eliminated. This 'Red Wolf' has been hitting caravans for three months—stealing goods, disrupting trade. The consortium's tried hiring guards, doesn't work. They want the head of the snake cut off."*
+*"High-paying contract. Merchant Consortium wants a bandit leader eliminated. This 'Red Wolf' has been hitting caravans for three months, stealing goods, disrupting trade. The consortium's tried hiring guards, doesn't work. They want the head of the snake cut off."*
 
 *He leans forward.*
 
-*"Before you ask—yes, I verified the contract. It's legitimate. The bandits ARE attacking caravans. People ARE getting hurt. This isn't a scam. But..."*
+*"Before you ask, yes, I verified the contract. It's legitimate. The bandits ARE attacking caravans. People ARE getting hurt. This isn't a scam. But..."*
 
 *He pauses.*
 
@@ -2749,9 +2749,9 @@ A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak 
 {{description,note
 *"Gentlemen, ladies, let me explain the situation. For three months, a bandit calling herself 'Red Wolf' has terrorized the Thornwood trade route. She's stolen over 5,000 gold pieces worth of merchandise. Attacked twelve caravans. Three guards are dead.*
 
-*We've tried hiring more guards—she avoids them. We've tried negotiating—she refuses. We've tried going through legal channels—the local magistrate is... unhelpful.*
+*We've tried hiring more guards. She avoids them. We've tried negotiating: she refuses. We've tried going through legal channels, the local magistrate is... unhelpful.*
 
-*So we're hiring professionals to solve this permanently. Find her base. Kill her and her top lieutenants. Break the gang. We'll pay 500 gold pieces—250 upfront, 250 when we see her head.*
+*So we're hiring professionals to solve this permanently. Find her base. Kill her and her top lieutenants. Break the gang. We'll pay 500 gold pieces, 250 upfront, 250 when we see her head.*
 
 *The Thornwood Forest is her territory. She strikes at night. She has maybe twenty bandits with her. Former soldiers, we think. Disciplined. Dangerous.*
 
@@ -2760,19 +2760,19 @@ A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak 
 
 **If PCs ask questions:** ::
 
-**"Why so much gold for one bandit?":** *"Because she's cost us ten times that! And she's organized—this isn't some desperate peasant. She's military-trained, tactical, effective. Worth the price to eliminate her."* ::
+**"Why so much gold for one bandit?":** *"Because she's cost us ten times that! And she's organized, this isn't some desperate peasant. She's military-trained, tactical, effective. Worth the price to eliminate her."* ::
 
-**"Who is she?":** *"Some disgraced noble, we hear. Calls herself 'Red Wolf' but rumors say her real name is Elara Thornwood—used to own the forest before... well, before she lost it."* ::
+**"Who is she?":** *"Some disgraced noble, we hear. Calls herself 'Red Wolf' but rumors say her real name is Elara Thornwood, used to own the forest before... well, before she lost it."* ::
 
-**"Lost it how?":** *"Legal disputes. Debts. Foreclosure. Not our concern—we bought the trade rights legally. But she apparently disagrees with the courts."* ::
+**"Lost it how?":** *"Legal disputes. Debts. Foreclosure. Not our concern, we bought the trade rights legally. But she apparently disagrees with the courts."* ::
 
-**"What if she surrenders?":** *"We want her dead. She's a symbol now—other would-be bandits are watching. If she surrenders and walks away, we look weak. Make her disappear."* ::
+**"What if she surrenders?":** *"We want her dead. She's a symbol now, other would-be bandits are watching. If she surrenders and walks away, we look weak. Make her disappear."* ::
 
 **"What about her followers?":** *"Kill them, scare them off, we don't care. Just make sure Red Wolf doesn't come back."* ::
 
 **Insight DC 14:** Castor is hiding something. He's nervous about PCs investigating too closely. ::
 
-**Insight DC 18:** He specifically wants her dead quickly—before she can talk to authorities or make a public case.
+**Insight DC 18:** He specifically wants her dead quickly, before she can talk to authorities or make a public case.
 
 ### **The Military Advisor**
 
@@ -2798,9 +2798,9 @@ A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak 
 {{description,note
 *Willem glances at the merchants to make sure they're not listening. He speaks quietly:*
 
-*"Look, I don't like this contract. But I need the money—my company is broke, and these merchants pay well. Just... be careful. This 'Red Wolf' isn't what they're telling you.*
+*"Look, I don't like this contract. But I need the money, my company is broke, and these merchants pay well. Just... be careful. This 'Red Wolf' isn't what they're telling you.*
 
-*I've fought her. Three times. She's former military—probably noble cavalry. She had training. And here's the thing: she doesn't kill unless cornered. She takes goods, lets merchants go. She's not a murderer.*
+*I've fought her. Three times. She's former military: probably noble cavalry. She had training. And here's the thing: she doesn't kill unless cornered. She takes goods, lets merchants go. She's not a murderer.*
 
 *And her 'bandits'? They're not bandits. They're peasants. Former farmers from Thornwood lands. They follow her willingly.*
 
@@ -2808,7 +2808,7 @@ A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak 
 
 **If PCs ask him to elaborate:**
 
-*"Ten years ago, House Thornwood owned those forests—and the land, the villages, everything. Then the lord died. His heir—a young woman—suddenly had massive debts called in. The courts ruled against her. The land was auctioned. The Merchant Consortium bought it all for a fraction of its value.*
+*"Ten years ago, House Thornwood owned those forests, and the land, the villages, everything. Then the lord died. His heir, a young woman, suddenly had massive debts called in. The courts ruled against her. The land was auctioned. The Merchant Consortium bought it all for a fraction of its value.*
 
 *The peasants said the debt was forged. Said the consortium bribed the judges. But who's going to believe peasants over merchants? House Thornwood lost everything. The girl vanished. Then, three months ago, 'Red Wolf' appeared.*
 
@@ -2825,7 +2825,7 @@ A week has passed since Quest 1.2. PCs have settled into guild life. Then Varak 
 Varak interrupts before Willem can say more:
 
 {{description,note
-*"Enough speculation. Here's the contract. Read it. Sign it or don't. But decide now—the merchants won't wait forever. And other mercenaries are interested."*
+*"Enough speculation. Here's the contract. Read it. Sign it or don't. But decide now, the merchants won't wait forever. And other mercenaries are interested."*
 }}
 
 **The Contract:** ::
@@ -2843,7 +2843,7 @@ Varak interrupts before Willem can say more:
 
 **If PCs point out the fine print:** ::
 
-Castor smiles: *"Standard contract terms. We want proof of death—her head, or something identifiable. And we don't want local authorities involved because they're incompetent—that's why we're hiring you. Any other concerns?"*
+Castor smiles: *"Standard contract terms. We want proof of death, her head, or something identifiable. And we don't want local authorities involved because they're incompetent. That's why we're hiring you. Any other concerns?"*
 
 **The Choice (Before Investigation):** ::
 
@@ -2879,7 +2879,7 @@ Visit villages near Thornwood Forest (half-day travel). ::
 
 ##### Read Aloud:
 {{description,note
-*The village of Oakshade sits at the forest's edge. Once prosperous, now it's withered—half the cottages empty, fields untended, people sullen. An old woman sits outside the tavern, watching you with suspicious eyes.*
+*The village of Oakshade sits at the forest's edge. Once prosperous, now it's withered, half the cottages empty, fields untended, people sullen. An old woman sits outside the tavern, watching you with suspicious eyes.*
 
 }}
 
@@ -2892,20 +2892,20 @@ If PCs buy her ale and talk:
 
 *Let me tell you about those 'bandits.' They're my neighbors. My friends. People I've known for thirty years. They worked these lands when House Thornwood owned them. Fair wages, good treatment, protection.*
 
-*Then the consortium came. New owners. They doubled rents. Cut wages. Took our tools as 'collateral.' Evicted families who couldn't pay. Twenty families—children included—forced off land they'd worked for generations.*
+*Then the consortium came. New owners. They doubled rents. Cut wages. Took our tools as 'collateral.' Evicted families who couldn't pay. Twenty families, children included, forced off land they'd worked for generations.*
 
-*When Lady Elara—that's the 'Red Wolf'—came back, she didn't come to rob. She came to help. She takes from consortium caravans and gives to us. Food. Medicine. Tools. She's not a bandit. She's Robin Hood.*
+*When Lady Elara, that's the 'Red Wolf', came back, she didn't come to rob. She came to help. She takes from consortium caravans and gives to us. Food. Medicine. Tools. She's not a bandit. She's Robin Hood.*
 
 *But you don't care, do you? You'll kill her for gold, just like they paid you to. That's what mercenaries do."*
 }}
 
 **If PCs probe deeper:**
 {{description,note
-*"House Thornwood was framed. Lord Thornwood died in hunting accident—suspicious, but no proof. His daughter Elara inherited. Then suddenly, documents appeared showing massive debts to the consortium. Debts no one had heard of.*
+*"House Thornwood was framed. Lord Thornwood died in hunting accident. Suspicious, but no proof. His daughter Elara inherited. Then suddenly, documents appeared showing massive debts to the consortium. Debts no one had heard of.*
 
-*The consortium called them in. Elara couldn't pay—nobody could, the numbers were impossible. The courts ruled for the consortium. Auction. Elara lost everything.*
+*The consortium called them in. Elara couldn't pay: nobody could, the numbers were impossible. The courts ruled for the consortium. Auction. Elara lost everything.*
 
-*She fled. We thought she was dead. Then three months ago, she came back. But she came back as Red Wolf—and she's been taking back what was stolen, bit by bit."*
+*She fled. We thought she was dead. Then three months ago, she came back. But she came back as Red Wolf, and she's been taking back what was stolen, bit by bit."*
 
 }}
 
@@ -2957,11 +2957,11 @@ Visit the magistrate who ruled on the case.
 He breaks down:
 
 {{description,note
-*"Fine! FINE! Yes, the consortium paid me! 5,000 gold to rule in their favor! But the debt documents were already there—I just... ignored certain irregularities. I didn't forge anything! I just looked the other way!*
+*"Fine! FINE! Yes, the consortium paid me! 5,000 gold to rule in their favor! But the debt documents were already there. I just... ignored certain irregularities. I didn't forge anything! I just looked the other way!*
 
 *The consortium wanted the land. Thornwood wouldn't sell. So they created debt, called it in after the lord's convenient death, and took everything. But I didn't kill anyone! I just... processed paperwork!*
 
-*Please don't report this. They'll kill me if I talk. Or worse—I'll lose everything too. Just take your contract and go!"*
+*Please don't report this. They'll kill me if I talk. Or worse. I'll lose everything too. Just take your contract and go!"*
 
 }}
 
@@ -3006,11 +3006,11 @@ Tracking Red Wolf requires Survival checks:
 
 ##### Read Aloud:
 {{description,note
-*Deep in Thornwood Forest, you find them. Not a bandit camp—a refugee settlement. Thirty people, mostly families. Children play near campfires. Women mend clothes. Men sharpen farming tools repurposed as weapons. This isn't a gang of criminals. It's a community in exile.*
+*Deep in Thornwood Forest, you find them. Not a bandit camp: a refugee settlement. Thirty people, mostly families. Children play near campfires. Women mend clothes. Men sharpen farming tools repurposed as weapons. This isn't a gang of criminals. It's a community in exile.*
 
 *In the center, a young woman addresses her people. Late 20s, red-haired, wearing practical leather armor and a wolf-pelt cloak. She speaks with authority but also compassion:*
 
-*"Food stores are low. We'll hit another caravan tomorrow—but remember the rules: No killing. Take only from consortium wagons. Let the drivers go unharmed. We're not murderers. We're survivors."*
+*"Food stores are low. We'll hit another caravan tomorrow, but remember the rules: No killing. Take only from consortium wagons. Let the drivers go unharmed. We're not murderers. We're survivors."*
 
 *Someone calls out: "What if they resist?"*
 
@@ -3035,7 +3035,7 @@ Tracking Red Wolf requires Survival checks:
 - Will fight to death to protect her followers
 - Would prefer peaceful solution but expects violence
 
-**Secret:** Elara doesn't just command a band of loyal peasants—she leads the **Thornwood Syndicate**, the largest criminal network in Tirvandor. The Syndicate was built by loyalists after her family's fall, and now serves as her power base for reclaiming what was stolen. She has eyes and ears in every major city, access to smugglers, forgers, and information brokers across both continents. The "bandit" operation is merely the visible tip of a vast organization. ::
+**Secret:** Elara doesn't just command a band of loyal peasants. She leads the **Thornwood Syndicate**, the largest criminal network in Tirvandor. The Syndicate was built by loyalists after her family's fall, and now serves as her power base for reclaiming what was stolen. She has eyes and ears in every major city, access to smugglers, forgers, and information brokers across both continents. The "bandit" operation is merely the visible tip of a vast organization. ::
 
 **Stats:** Use **Knight** with modifications (CR 4) ::
 
@@ -3053,13 +3053,13 @@ Tracking Red Wolf requires Survival checks:
 
 *"You're not merchants. You're too well-armed. The consortium sent you, didn't they? How much are they paying you to kill me? 500 gold? 1,000?"*
 
-*She looks at her people—families, children, elders. Then back at you.*
+*She looks at her people, families, children, elders. Then back at you.*
 
 *"These are my people. Farmers. Craftsmen. Children. Do they look like dangerous bandits to you? We take food and supplies from the consortium because they stole our LAND. Our HOMES. Our LIVES.*
 
-*I am Lady Elara Thornwood. My family owned these lands for six generations. The consortium murdered my father, forged debts, bribed judges, and stole everything. I came back to reclaim what's mine—not through lawyers who can be bought, but through action.*
+*I am Lady Elara Thornwood. My family owned these lands for six generations. The consortium murdered my father, forged debts, bribed judges, and stole everything. I came back to reclaim what's mine, not through lawyers who can be bought, but through action.*
 
-*So. You have a choice. You can complete your contract—attack a camp full of families and kill a woman fighting for her birthright. Or you can walk away and let us continue our fight against the real criminals.*
+*So. You have a choice. You can complete your contract: attack a camp full of families and kill a woman fighting for her birthright. Or you can walk away and let us continue our fight against the real criminals.*
 
 *Choose carefully. Because if you attack, I'll defend my people. And some of you will die for the consortium's gold. Is that really worth it?"*
 }}
@@ -3129,7 +3129,7 @@ If meeting happens:
 
 **Path A3: Fake Her Death** ::
 
-*"Help me disappear. Give the consortium a body—someone already dead, burned beyond recognition. I'll take my people to Aethoria, start new life. They think I'm dead, they stop hunting me."*
+*"Help me disappear. Give the consortium a body, someone already dead, burned beyond recognition. I'll take my people to Aethoria, start new life. They think I'm dead, they stop hunting me."*
 
 **What's needed:** ::
 - Find a body of similar build (grim but practical)
@@ -3202,7 +3202,7 @@ This becomes a legal, public duel:
 {{description,note
 *She falls to her knees, bleeding, sword dropped. She looks up at you:*
 
-*"Do it. Kill me. Take your blood money. But know this—you didn't kill a bandit today. You killed the last hope these people had. The consortium wins. Corruption wins. And you helped it happen.*
+*"Do it. Kill me. Take your blood money. But know this, you didn't kill a bandit today. You killed the last hope these people had. The consortium wins. Corruption wins. And you helped it happen.*
 
 *I hope your gold keeps you warm at night. I hope it fills the void where your honor used to be."*
 
@@ -3253,7 +3253,7 @@ Castor is furious:
 
 **Where to present:** ::
 - Kingdom courts in capital
-- Public forum (risky—consortium has power)
+- Public forum (risky, consortium has power)
 - Regional governor (might be bribed too)
 
 **Persuasion DC 16 to be heard:** ::
@@ -3296,9 +3296,9 @@ Castor is furious:
 
 ##### Read Aloud:
 {{description,note
-*You return to Crossroads. Castor Goldweave meets you at the guild hall, smiling when he sees the wolf pelt—stained with blood.*
+*You return to Crossroads. Castor Goldweave meets you at the guild hall, smiling when he sees the wolf pelt: stained with blood.*
 
-*"Excellent work! The Red Wolf is dead! Here—250 gold, as promised. Plus the bonus for completing it within the week. 600 gold total!"*
+*"Excellent work! The Red Wolf is dead! Here, 250 gold, as promised. Plus the bonus for completing it within the week. 600 gold total!"*
 
 *He's practically giddy.*
 
@@ -3411,7 +3411,7 @@ PCs should reach **Level 4** after completing Quest 1.3.
 
 ### **Key Themes**
 
-1. **Moral Relativism:** Who's the criminal—the "bandit" or the "legitimate businessmen"?
+1. **Moral Relativism:** Who's the criminal, the "bandit" or the "legitimate businessmen"?
 2. **Justice vs Law:** Legal doesn't mean right, illegal doesn't mean wrong
 3. **Class Warfare:** Rich vs poor, power vs principle
 4. **The Cost of Principles:** Righteousness doesn't pay as well as ruthlessness
@@ -3422,7 +3422,7 @@ PCs should reach **Level 4** after completing Quest 1.3.
 - Let players investigate thoroughly
 - Reward creative information gathering
 - Make the truth gradually clear
-- Don't force a choice—let them discover
+- Don't force a choice, let them discover
 
 **Present Both Sides Fairly:** ::
 - Consortium is legally right (owns deeds)
@@ -3470,7 +3470,7 @@ PCs should reach **Level 4** after completing Quest 1.3.
 - Show consequences (NPCs react)
 - Track reputation changes
 - Let them feel the weight
-- Don't punish—just show impact
+- Don't punish, just show impact
 
 **If they killed Elara:** ::
 - Don't shame them
@@ -3595,7 +3595,7 @@ Elara should be **complex, not simple**:
 :
 *"You think I wanted this? I had a castle. A title. A future. The Consortium took that. So I took it back, one caravan at a time."*
 :
-*"Kill me if you want. But know what you're doing—you're helping rich men stay rich by killing the people they stole from."*
+*"Kill me if you want. But know what you're doing. You're helping rich men stay rich by killing the people they stole from."*
 
 ### **Common Player Questions**
 
@@ -3606,7 +3606,7 @@ Yes, but very difficult (DC 18+ checks, weeks of time, corrupt officials)
 Absolutely! Creative solution rewarded.
 
 **"What if we just take the evidence and sell it to highest bidder?"** ::
-Chaotic Neutral option—both sides might pay to suppress it.
+Chaotic Neutral option, both sides might pay to suppress it.
 
 **"Can we take over the territory ourselves?"** ::
 Technically yes, but requires army/resources PCs don't have at level 3.
@@ -3653,7 +3653,7 @@ After Quest 1.3, the Iron Guild has noticed the Merchant Consortium's activities
 
 ##### Read Aloud:
 {{description,note
-*Varak's office is darker than usual—he's closed the shutters. When you enter, he doesn't stand.*
+*Varak's office is darker than usual. He's closed the shutters. When you enter, he doesn't stand.*
 
 *"Close the door. What I'm about to tell you doesn't leave this room."*
 
@@ -3665,7 +3665,7 @@ After Quest 1.3, the Iron Guild has noticed the Merchant Consortium's activities
 
 *"There's a ledger. The Black Ledger. Every bribe, every forged deed, every magistrate they own. Lord Pembroke keeps it in his estate vault. We need it. With that evidence, we break their hold over the region."*
 
-*"Payment is 750 gold. But more importantly—you do this, you're not just guild members. You're family."*
+*"Payment is 750 gold. But more importantly: you do this, you're not just guild members. You're family."*
 }}
 
 ![The Black Ledger Discovery](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/scenes/tirvandor-scene-black-ledger.png){width:100%,mix-blend-mode:multiply}
@@ -3738,7 +3738,7 @@ Another party is after the same prize. Whisper is a legendary halfling thief hir
 
 **Encounter Trigger:** When party reaches the vault level, they find: ::
 - Fresh lockpicks in the wine cellar door
-- A guard unconscious (not dead—Whisper doesn't kill)
+- A guard unconscious (not dead, Whisper doesn't kill)
 - A small calling card: a silver feather
 
 \column
@@ -3752,13 +3752,13 @@ Another party is after the same prize. Whisper is a legendary halfling thief hir
 
 *She doesn't reach for her weapons.*
 
-*"We have a problem. There's one ledger and two groups who want it. We can fight—I'll probably win, but you might get lucky—or we can negotiate. Your call."*
+*"We have a problem. There's one ledger and two groups who want it. We can fight (I'll probably win, but you might get lucky) or we can negotiate. Your call."*
 }}
 
 **Whisper's Proposal:** ::
 - She needs the financial records (different section)
 - PCs need the bribery/corruption evidence
-- Ledger can be split—each gets what they need
+- Ledger can be split: each gets what they need
 - She'll share guard intel and help them escape
 
 **If Combat:** Use Master Thief "Whisper" stat block (CR 5) ::
@@ -3784,7 +3784,7 @@ Another party is after the same prize. Whisper is a legendary halfling thief hir
 **If PCs Read It:** ::
 - Insight DC 14: This implicates powerful people
 - History DC 16: One name is a Thandris cousin
-- Investigation DC 18: There's a code—more secrets buried
+- Investigation DC 18: There's a code, more secrets buried
 
 ### Escape and Consequences
 
@@ -3822,7 +3822,7 @@ Another party is after the same prize. Whisper is a legendary halfling thief hir
 
 *"This... this is everything. Names, dates, amounts. The Consortium is finished. And some of these Crown officials..." He trails off.*
 
-*"You've done something important here. More important than you know. There's going to be fallout—arrests, trials, maybe executions. The nobles won't take this lying down."*
+*"You've done something important here. More important than you know. There's going to be fallout, arrests, trials, maybe executions. The nobles won't take this lying down."*
 
 *He locks the ledger in his private safe.*
 
@@ -3847,22 +3847,22 @@ Another party is after the same prize. Whisper is a legendary halfling thief hir
 
 **Level:** 5 ::
 **Duration:** 2-3 sessions   ::
-**Objective:** Navigate Marcus Blackwood's trial—choose justice, corruption, or chaos   ::
+**Objective:** Navigate Marcus Blackwood's trial, choose justice, corruption, or chaos   ::
 **Key NPCs:** Marcus Blackwood, Magistrate Helena Ravens, Lord Pembroke (surviving)   ::
 **Rewards:** Variable based on choices (500-1,500gp) + Act II positioning   ::
-**Theme:** "Justice is what the powerful say it is—unless someone fights back" ::
+**Theme:** "Justice is what the powerful say it is. Unless someone fights back" ::
 
 
 ### Quest Setup
 
-Two weeks after the Pembroke heist. The Black Ledger has caused chaos—arrests, accusations, counter-accusations. And now Marcus Blackwood, the refugee leader the party may have helped in earlier quests, has been arrested on trumped-up charges.
+Two weeks after the Pembroke heist. The Black Ledger has caused chaos: arrests, accusations, counter-accusations. And now Marcus Blackwood, the refugee leader the party may have helped in earlier quests, has been arrested on trumped-up charges.
 
 **The Summons:** ::
 
 {{description,note
 *You receive a formal letter sealed with the Iron Guild's mark:*
 
-*"The trial of Marcus Blackwood begins in three days. Your presence is requested—as witnesses, not defendants. What you say may determine whether a good man lives or dies. Choose your words carefully. — Varak"*
+*"The trial of Marcus Blackwood begins in three days. Your presence is requested, as witnesses, not defendants. What you say may determine whether a good man lives or dies. Choose your words carefully.: Varak"*
 
 *A handwritten note is tucked inside:*
 
@@ -3872,7 +3872,7 @@ Two weeks after the Pembroke heist. The Black Ledger has caused chaos—arrests,
 ### Marcus Blackwood's Situation
 
 {{note
-**Secret Connection:** Marcus Blackwood is Corvus Blackwood's younger brother—the "Lost Heir" hidden as an infant when their family was destroyed 43 years ago. Marcus was raised in the frontier under his true name (where Crown authority is weak) and may not know his full heritage or his brother's activities as "Lord Shadows." This connection is explored in the Shattered Oaths campaign. DMs running both should decide if/when this revelation occurs.
+**Secret Connection:** Marcus Blackwood is Corvus Blackwood's younger brother, the "Lost Heir" hidden as an infant when their family was destroyed 43 years ago. Marcus was raised in the frontier under his true name (where Crown authority is weak) and may not know his full heritage or his brother's activities as "Lord Shadows." This connection is explored in the Shattered Oaths campaign. DMs running both should decide if/when this revelation occurs.
 }}
 
 **The Charges:** ::
@@ -3891,7 +3891,7 @@ Two weeks after the Pembroke heist. The Black Ledger has caused chaos—arrests,
 - Conspiracy: He organized mutual aid, not rebellion
 
 **The Real Reason:** ::
-Marcus uncovered evidence linking the Consortium to land fraud during his own family's displacement. He's too dangerous to let live. The trial is a formality—they intend to execute him.
+Marcus uncovered evidence linking the Consortium to land fraud during his own family's displacement. He's too dangerous to let live. The trial is a formality. They intend to execute him.
 
 ### The Three Days Before Trial
 
@@ -3928,33 +3928,33 @@ PCs can approach various factions for support.
 Final preparations and possible last-minute discoveries.
 
 **DM Choice - Add Complication:** ::
-1. Marcus's family is threatened—testify and they die
+1. Marcus's family is threatened, testify and they die
 2. Prosecutor has forged evidence against a PC
 3. Whisper offers to "remove" the prosecutor (creates moral dilemma)
 4. A sympathetic guard offers to help Marcus escape (but he refuses)
 
 ### The Trial
 
-**Location:** Crossroads Courthouse (unusual—should be in Kaer Thandros, but emergency jurisdiction claimed) ::
+**Location:** Crossroads Courthouse (unusual, should be in Kaer Thandros, but emergency jurisdiction claimed) ::
 
 **Key NPCs Present:** ::
 
 **Magistrate Helena Ravens** ::
 - *Alignment:* Lawful Neutral (truly)
 - *Demeanor:* Cold, professional, incorruptible
-- *Secret:* Respects rule of law absolutely—if evidence proves innocence, she'll rule fairly regardless of pressure
+- *Secret:* Respects rule of law absolutely, if evidence proves innocence, she'll rule fairly regardless of pressure
 - *Key Trait:* Hates corruption more than she fears consequences
 
 **Prosecutor Aldric Stone** ::
 - *Alignment:* Lawful Evil
 - *Demeanor:* Polished, confident, condescending
 - *Secret:* Paid 5,000 gold by Consortium; will lie, manipulate, suppress evidence
-- *Vulnerability:* Arrogant—can be goaded into mistakes (DC 18 Insight to spot)
+- *Vulnerability:* Arrogant. Can be goaded into mistakes (DC 18 Insight to spot)
 
 **Marcus Blackwood** (defendant) ::
 - *Demeanor:* Resigned but dignified
 - *Secret:* Would rather die honorably than escape and prove them right
-- *If PCs visit:* "Don't risk yourselves for me. But if you must—find my family's deed. The original. It proves the Consortium's first lie."
+- *If PCs visit:* "Don't risk yourselves for me. But if you must: find my family's deed. The original. It proves the Consortium's first lie."
 
 ### Trial Mechanics
 
@@ -4022,12 +4022,12 @@ If PCs choose to kill the prosecutor:
 
 **The Bribe** ::
 If PCs try to buy the judge:
-- Helena Ravens is incorruptible—attempt auto-fails and offends her
+- Helena Ravens is incorruptible: attempt auto-fails and offends her
 - Can bribe prosecutor to throw case (10,000gp)
 - Can bribe witnesses to recant (500gp each, need 3)
 
 **The Truth** ::
-If PCs reveal everything—Black Ledger, Consortium crimes, all of it:
+If PCs reveal everything: Black Ledger, Consortium crimes, all of it:
 - Trial becomes spectacle
 - Other defendants emerge
 - Crown attention increases dramatically
@@ -4101,9 +4101,9 @@ If PCs reveal everything—Black Ledger, Consortium crimes, all of it:
 
 ##### Read Aloud:
 {{description,note
-*Six months have passed since [reference their Act I ending]. Life in Crossroads continued—contracts, gold, survival. But the world beyond hasn't been idle.*
+*Six months have passed since [reference their Act I ending]. Life in Crossroads continued, contracts, gold, survival. But the world beyond hasn't been idle.*
 
-*Rumors of war spread like wildfire. The Crown and the frontier territories—in tension for decades—are now at each other's throats. Trade conflicts. Assassinations. Embargo threats. Everyone sees it coming.*
+*Rumors of war spread like wildfire. The Crown and the frontier territories (in tension for decades) are now at each other's throats. Trade conflicts. Assassinations. Embargo threats. Everyone sees it coming.*
 
 *And everyone wants mercenaries.*
 
@@ -4129,7 +4129,7 @@ Your services are requested by Commander Helena Dawnblade of the Royal Army of T
 Present yourselves at the Wayward Inn, private room, today at noon.
 Discretion is expected. Professionalism will be rewarded.
 
-**—Commander H. Dawnblade, Knight-Commander, Order of the Dawn"**
+**, Commander H. Dawnblade, Knight-Commander, Order of the Dawn"**
 }}
 
 
@@ -4145,10 +4145,10 @@ The Aetheran Council needs capable individuals who understand that freedom is wo
 Wayward Inn, private room, today at 2pm.
 Come if you believe people deserve to choose their own destiny.
 
-**—Senator M. Valen, Aetheran Council, Committee on External Affairs"**
+**: Senator M. Valen, Aetheran Council, Committee on External Affairs"**
 }}
 
-**DM Context:** Envoy Valen is an Aethorian diplomat and military advisor embedded with Thaldrosian separatist forces. He represents Aethorian interests and ideology, but the soldiers fighting under republican banners are Thaldrosian rebels, not an Aethorian army. Aethoria supports the rebellion from across the Sundering Sea with gold, weapons, training, and advisors—but this is a proxy war, not a direct invasion.
+**DM Context:** Envoy Valen is an Aethorian diplomat and military advisor embedded with Thaldrosian separatist forces. He represents Aethorian interests and ideology, but the soldiers fighting under republican banners are Thaldrosian rebels, not an Aethorian army. Aethoria supports the rebellion from across the Sundering Sea with gold, weapons, training, and advisors, but this is a proxy war, not a direct invasion.
 
 ---
 
@@ -4164,7 +4164,7 @@ Those with vision are needed. Those with courage are welcome.
 Wayward Inn, private room, today at 4pm.
 Come if you're tired of choosing between tyrants and mobs.
 
-**—A Friend"**
+**: A Friend"**
 }}
 
 
@@ -4178,7 +4178,7 @@ A well-known neutral ground in Crossroads. No guild affiliations. No political l
 
 ##### Read Aloud:
 {{description,note
-*The Wayward Inn sits on the border between Iron Guild and Black Chains territory—neutral ground by necessity. It's where deals get made when both sides need to pretend they're not cooperating.*
+*The Wayward Inn sits on the border between Iron Guild and Black Chains territory: neutral ground by necessity. It's where deals get made when both sides need to pretend they're not cooperating.*
 
 *The innkeeper, Old Marcus, is famous for two things: excellent whiskey and aggressive neutrality. He'll throw out anyone who starts trouble, regardless of guild, rank, or gold.*
 }}
@@ -4238,7 +4238,7 @@ ___
 {{description,note
 *The first private room is tastefully appointed. A fire crackles. Wine and cheese set out. Military precision in every detail.*
 
-*Commander Helena Dawnblade stands by the window, backlit by noon sun. She's imposing—six feet tall, silver armor polished to mirror sheen, holy symbol of Thaldros prominent on her chest. Late 40s, steel-gray hair in tight braid, face bearing scars from decades of service.*
+*Commander Helena Dawnblade stands by the window, backlit by noon sun. She's imposing, six feet tall, silver armor polished to mirror sheen, holy symbol of Thaldros prominent on her chest. Late 40s, steel-gray hair in tight braid, face bearing scars from decades of service.*
 
 *She turns as you enter. Her eyes assess you with military efficiency.*
 
@@ -4253,7 +4253,7 @@ ___
 
 **Personality:** ::
 - Career soldier who believes in order
-- Lawful neutral (not good—follows orders)
+- Lawful neutral (not good. Follows orders)
 - Uncomfortable with politics but loyal to crown
 - Respects competence, despises incompetence
 - Knows Thaldros is flawed but believes it's better than chaos
@@ -4280,7 +4280,7 @@ ___
 
 ##### Read Aloud:
 {{description,note
-*She pours wine—expensive vintage—and slides a glass toward you.*
+*She pours wine, expensive vintage, and slides a glass toward you.*
 
 *"I'll be direct. War is coming. Aethoria's 'democracy' threatens regional stability. Mob rule dressed as freedom. If they win, chaos spreads. Trade collapses. Bandits rule. Society crumbles.*
 
@@ -4288,7 +4288,7 @@ ___
 
 *I'm assembling a team of... specialists. Professionals who understand that sometimes order requires difficult choices. Your reputation suggests you're such professionals.*
 
-*Work for the crown. Significant compensation. Legal protection. Political connections. And when we win—not if, WHEN—you'll be on the winning side."*
+*Work for the crown. Significant compensation. Legal protection. Political connections. And when we win, not if, WHEN, you'll be on the winning side."*
 }}
 
 **She slides a contract across the table:** ::
@@ -4319,12 +4319,12 @@ ___
 **"What if we refuse?"** ::
 
 {{description,note
-*"Then you refuse. I'm not the Aethoria mob—I don't force allegiance. But this war will touch everyone. Neutrality becomes harder every day. Choose a side, or have one chosen for you."*
+*"Then you refuse. I'm not the Aethoria mob, I don't force allegiance. But this war will touch everyone. Neutrality becomes harder every day. Choose a side, or have one chosen for you."*
 }}
 **"Is Thaldros really the 'good guys'?"** ::
 {{description,note
 *(If PCs reference Quest 1.5 and Marcus Blackwood's trial)*
-*"Good? No. Better? Yes. Thaldros has problems—I won't deny it. Corruption exists. Justice isn't always just. But compare us to Aethoria's chaos. We're stable. Functional. That matters."*
+*"Good? No. Better? Yes. Thaldros has problems. I won't deny it. Corruption exists. Justice isn't always just. But compare us to Aethoria's chaos. We're stable. Functional. That matters."*
 }}
 
 **"What about civilian casualties?"** ::
@@ -4352,7 +4352,7 @@ ___
 **What she's NOT telling PCs:**
 
 1. **Scapegoat Plan:** Crown intends to frame mercenaries for war crimes post-war
-2. **Marcus Blackwood:** If PCs helped him (Quest 1.5), crown remembers—sees them as potential troublemakers
+2. **Marcus Blackwood:** If PCs helped him (Quest 1.5), crown remembers: sees them as potential troublemakers
 3. **Her Doubts:** She suspects some missions will be atrocities but will follow orders anyway
 4. **The War:** High command knows war is partly manufactured for political reasons
 
@@ -4364,7 +4364,7 @@ ___
 
 ##### Read Aloud:
 {{description,note
-*Same inn, different room. This one is simpler—wooden table, local wine, no extravagance. A statement.*
+*Same inn, different room. This one is simpler, wooden table, local wine, no extravagance. A statement.*
 
 *Envoy Marcus Valen stands as you enter. He's in his 50s, wearing republican robes (no finery), gray beard, warm eyes, genuine smile. He looks tired but hopeful.*
 }}
@@ -4446,20 +4446,20 @@ ___
 
 ##### Read Aloud:
 {{description,note
-*He doesn't pour wine. He opens a bottle of local beer—cheap, common, statement of solidarity.*
+*He doesn't pour wine. He opens a bottle of local beer. Cheap, common, statement of solidarity.*
 
 *"Commander Dawnblade offered you gold and glory serving a king. I offer you a chance to serve something greater: freedom.*
 
-*Thaldros is a relic. Monarchy is a failed system where one family decides the fate of millions. The Aetheran Council is humanity's future—government by the people, for the people.*
+*Thaldros is a relic. Monarchy is a failed system where one family decides the fate of millions. The Aetheran Council is humanity's future, government by the people, for the people.*
 
 *Yes, we're messy. Democracy is loud, chaotic, inefficient. But it's OURS. We choose our leaders. We write our laws. We own our destiny.*
 
-*I won't lie—we're outmatched militarily. Thaldros has more soldiers, more gold, more resources. But we have something they don't: we're fighting for something we believe in.*
+*I won't lie. We're outmatched militarily. Thaldros has more soldiers, more gold, more resources. But we have something they don't: we're fighting for something we believe in.*
 }}
 :
 {{description,note
 
-*Help us. Not for gold—though we'll pay what we can. Not for power—though you'll be heroes of the revolution. Do it because tyranny must be opposed. Because people deserve to be free."*
+*Help us. Not for gold, though we'll pay what we can. Not for power, though you'll be heroes of the revolution. Do it because tyranny must be opposed. Because people deserve to be free."*
 }}
 
 **The contract he offers is handwritten, simple:** ::
@@ -4486,7 +4486,7 @@ ___
 
 **"Why should we believe democracy works?"**  ::
 {{description,note
-*"Because it's already working. Look at Aethoria—we have problems, but we solve them through debate, not decree. When our leaders fail, we replace them. When Thaldros's king fails, people suffer for generations. Which system sounds better to you?"*
+*"Because it's already working. Look at Aethoria: we have problems, but we solve them through debate, not decree. When our leaders fail, we replace them. When Thaldros's king fails, people suffer for generations. Which system sounds better to you?"*
 }}
 **"You're paying less than Thaldros."**
 {{description,note
@@ -4514,7 +4514,7 @@ ___
 {{description,note
 *"You want the truth? Aethoria isn't perfect. Some senators are corrupt. Some officials abuse power. Democracy doesn't eliminate human nature.*
 
-*But here's the difference: in Thaldros, when the king is corrupt, you're stuck with him for life. In Aethoria, we can vote him out. The system has safeguards. It's not perfect, but it's better. That's all I can promise—better, not perfect."*
+*But here's the difference: in Thaldros, when the king is corrupt, you're stuck with him for life. In Aethoria, we can vote him out. The system has safeguards. It's not perfect, but it's better. That's all I can promise, better, not perfect."*
 }}
 
 ### **Valen'S Secret Agenda**
@@ -4530,7 +4530,7 @@ ___
 
 **DM Note: "Godsfall" Terminology** ::
 
-Throughout this campaign, characters refer to the ancient cataclysm as "the Godsfall"—a religious/colloquial term used by certain scholars, cultists, and those who believe gods directly caused the disaster. The World Guide refers to this same event as "the Worldrend" (the official historical name, Year 0 CR, 1,247 years ago).
+Throughout this campaign, characters refer to the ancient cataclysm as "the Godsfall", a religious/colloquial term used by certain scholars, cultists, and those who believe gods directly caused the disaster. The World Guide refers to this same event as "the Worldrend" (the official historical name, Year 0 CR, 1,247 years ago).
 
 Both names refer to the same event. "Godsfall" emphasizes the divine conflict; "Worldrend" emphasizes the geographic result. Corvus Blackwood and The Unbound prefer "Godsfall" because it supports their narrative about divine artifacts. NPCs from academic or governmental backgrounds will typically say "Worldrend."
 
@@ -4540,9 +4540,9 @@ Both names refer to the same event. "Godsfall" emphasizes the divine conflict; "
 
 ##### Read Aloud:
 {{description,note
-*The third room is different. No fire. Candles instead. Bookshelves lining walls. Maps of ancient ruins scattered on table. Occult symbols—not evil, just... old.*
+*The third room is different. No fire. Candles instead. Bookshelves lining walls. Maps of ancient ruins scattered on table. Occult symbols, not evil, just... old.*
 
-*A man stands with his back to you, studying a map. He's in his 50s, wearing scholar's robes, gray hair tied back. When he turns, his eyes are intense—not mad, but focused with frightening clarity.*
+*A man stands with his back to you, studying a map. He's in his 50s, wearing scholar's robes, gray hair tied back. When he turns, his eyes are intense, not mad, but focused with frightening clarity.*
 
 *"You came." His voice is measured, educated. "Good. That means you're thinking. Dawnblade offered order through oppression. Valen offered chaos through democracy. I offer a third option: burn it all down and build something better."*
 
@@ -4562,7 +4562,7 @@ Both names refer to the same event. "Godsfall" emphasizes the divine conflict; "
 - Well-intentioned extremist
 - Sees himself as humanity's savior
 - Willing to sacrifice millions for "greater good"
-- Not evil—just convinced he's right
+- Not evil, just convinced he's right
 
 **Background:** ::
 - Last surviving heir of House Blackwood, destroyed by the Crown 43 years ago
@@ -4571,11 +4571,11 @@ Both names refer to the same event. "Godsfall" emphasizes the divine conflict; "
 
 - Escaped at age 12, watched his family burn while soldiers called them traitors
 - Spent decades researching the Godsfall, discovered the truth: his family were *guardians* of the World-Splitter Components, not villains
-- Believes he can "remake" reality to eliminate war, poverty, suffering—and vindicate his family's name
+- Believes he can "remake" reality to eliminate war, poverty, suffering, and vindicate his family's name
 - Gathered followers (The Unbound) from those wronged by the kingdoms
 - Presents himself as a scholarly visionary to potential recruits, hiding the assassin beneath
 
-**DM Note:** Corvus is also known as "Lord Shadows" in underground circles. His full history and true combat capabilities are detailed in the Shattered Oaths campaign. Here, he presents his "recruiter persona"—the brilliant scholar offering a better world.
+**DM Note:** Corvus is also known as "Lord Shadows" in underground circles. His full history and true combat capabilities are detailed in the Shattered Oaths campaign. Here, he presents his "recruiter persona", the brilliant scholar offering a better world.
 
 **Motivation:** ::
 - End suffering through restructuring reality
@@ -4632,7 +4632,7 @@ ___
 - 9th level (1 slot): *wish* (he plans to use this with Components)
 }}
 
-**Persona Note:** This stat block represents Corvus in his "scholar recruiter" mode—emphasizing his magical knowledge and persuasive abilities. When cornered or when his mask drops, his true capabilities emerge: a CR 14 Rogue/Fighter with assassin training, detailed in the Shattered Oaths campaign. Consider this his "soft power" stat block versus his "hard power" reality.
+**Persona Note:** This stat block represents Corvus in his "scholar recruiter" mode: emphasizing his magical knowledge and persuasive abilities. When cornered or when his mask drops, his true capabilities emerge: a CR 14 Rogue/Fighter with assassin training, detailed in the Shattered Oaths campaign. Consider this his "soft power" stat block versus his "hard power" reality.
 {{pageNumber,auto}}
 \page
 
@@ -4640,16 +4640,16 @@ ___
 
 ##### Read Aloud:
 {{description,note
-*He spreads a map—not of current Tirvandor, but of something else. Ancient. Before the Godsfall.*
+*He spreads a map, not of current Tirvandor, but of something else. Ancient. Before the Godsfall.*
 
-*"Both kingdoms are corrupt. Dawnblade serves a tyranny that oppresses millions. Valen serves a democracy that's descending into mob rule. They're not opposites—they're different flavors of failure.*
+*"Both kingdoms are corrupt. Dawnblade serves a tyranny that oppresses millions. Valen serves a democracy that's descending into mob rule. They're not opposites: they're different flavors of failure.*
 
-*But there's a third option. During the Godsfall, when gods fought and shattered reality, they left something behind. Fragments of divine power—the World-Splitter Components.*
+*But there's a third option. During the Godsfall, when gods fought and shattered reality, they left something behind. Fragments of divine power, the World-Splitter Components.*
 *I've spent 30 years researching them. I've found one. Three more remain. With all five, I can use them to... restructure reality. End war. End poverty. End the suffering caused by flawed governments.*
 }}
 :
 {{description,note
-*Imagine a world without kings OR mobs. A world of true order—not Thaldros's oppressive order, but rational, benevolent coordination. Resources distributed fairly. Conflicts resolved peacefully. Everyone fed, housed, safe.*
+*Imagine a world without kings OR mobs. A world of true order, not Thaldros's oppressive order, but rational, benevolent coordination. Resources distributed fairly. Conflicts resolved peacefully. Everyone fed, housed, safe.*
 
 *That's what I'm building. Join me. Help me find the remaining Components. Help me save humanity from itself."*
 }}
@@ -4676,13 +4676,13 @@ ___
 
 **"You're insane."**
 {{description,note
-*"Am I? Look at history. Monarchies oppress. Democracies collapse. Theocracies control. Every system fails because humans are flawed. But what if we could... optimize? Remove the flaws? That's not insanity—that's vision."*
+*"Am I? Look at history. Monarchies oppress. Democracies collapse. Theocracies control. Every system fails because humans are flawed. But what if we could... optimize? Remove the flaws? That's not insanity: that's vision."*
 }}
 **"What do these Components actually do?"**
 {{description,note
 *"They were used by gods during the Godsfall to... alter fundamental reality. Think of reality as a tapestry. The Components allow you to reweave specific threads. With all five, coordinated properly, we can restructure society at a foundational level.*
 
-*No more war—conflict becomes neurologically impossible. No more poverty—resources redistribute automatically. No more tyranny—power structures optimize for collective good."*
+*No more war: conflict becomes neurologically impossible. No more poverty: resources redistribute automatically. No more tyranny, power structures optimize for collective good."*
 }}
 **"That sounds like you're removing free will."**
 {{description,note
@@ -4719,7 +4719,7 @@ ___
 
 1. **The Cost:** Actually 30-40% fatality rate (he's minimizing)
 2. **Free Will:** Components WILL remove free will in restructured reality
-3. **Permanence:** Effect is permanent—no going back
+3. **Permanence:** Effect is permanent: no going back
 4. **His Instability:** Proximity to Component #1 is affecting his sanity
 5. **The Unbound:** Some followers are extremists who want chaos, not utopia
 
@@ -4737,7 +4737,7 @@ ___
 
 *Dawnblade offers gold and order through tyranny. Valen offers ideals and chaos through democracy. Corvus offers transformation through apocalypse.*
 
-*You have three days to decide. All three recruiters made that clear—this opportunity won't wait forever. War is coming. Choose a side. Or try to play them all.*
+*You have three days to decide. All three recruiters made that clear, this opportunity won't wait forever. War is coming. Choose a side. Or try to play them all.*
 }}
 
 ### **Gathering Information**
@@ -5061,9 +5061,9 @@ Two days after swearing allegiance to Thaldros, Commander Helena Dawnblade summo
 
 ##### Read Aloud:
 {{description,note
-*The war room is sparse and functional—maps covering every wall, markers showing troop positions across the Contested Lands. Commander Dawnblade stands at the central table, her plate armor gleaming in the lamplight. She doesn't waste time with pleasantries.*
+*The war room is sparse and functional, maps covering every wall, markers showing troop positions across the Contested Lands. Commander Dawnblade stands at the central table, her plate armor gleaming in the lamplight. She doesn't waste time with pleasantries.*
 
-*"Your first mission. Simple on paper, complicated in reality." She taps a point on the map. "Aethoria is running supply convoys through the Greymarch Valley—food, medicine, weapons. We've been ordered to intercept and destroy one of these convoys before it reaches the Republican garrison at Fort Castellan."*
+*"Your first mission. Simple on paper, complicated in reality." She taps a point on the map. "Aethoria is running supply convoys through the Greymarch Valley, food, medicine, weapons. We've been ordered to intercept and destroy one of these convoys before it reaches the Republican garrison at Fort Castellan."*
 
 *She slides a leather folder across the table. "Intel says the convoy leaves Millbrook tomorrow at dawn. Twelve wagons, light guard. Your job: destroy the supplies. Leave no usable materiel for the enemy."*
 }}
@@ -5076,7 +5076,7 @@ Two days after swearing allegiance to Thaldros, Commander Helena Dawnblade summo
 :
 **"What about the wagon drivers?":** Dawnblade pauses. *"Civilian contractors. Non-combatants. Ideally, they surrender and walk away. If they don't..." She meets your eyes. "This is war. Collateral damage happens."*
 :
-**"Can we just steal the supplies instead?":** *"Negative. We don't have the logistics to transport captured goods. Destroy and deny—that's the mission. Burn it all."*
+**"Can we just steal the supplies instead?":** *"Negative. We don't have the logistics to transport captured goods. Destroy and deny: that's the mission. Burn it all."*
 :
 **Insight DC 14:** Dawnblade is uncomfortable with something about this mission. She's following orders she doesn't entirely agree with.
 :
@@ -5085,9 +5085,9 @@ Two days after swearing allegiance to Thaldros, Commander Helena Dawnblade summo
 ### The Payment
 
 {{description,note
-*"Compensation: 2,000 gold upon confirmation of convoy destruction. Bonus of 500 gold if you eliminate all guards—no witnesses to report troop movements. Questions?"*
+*"Compensation: 2,000 gold upon confirmation of convoy destruction. Bonus of 500 gold if you eliminate all guards: no witnesses to report troop movements. Questions?"*
 
-*She hands you a sealed scroll. "Authorization papers. Show these to any Thaldros patrol—they'll let you pass. You're operating under Crown authority now."*
+*She hands you a sealed scroll. "Authorization papers. Show these to any Thaldros patrol: they'll let you pass. You're operating under Crown authority now."*
 
 *"One more thing." Her voice hardens. "I don't care how you do it. I care that it gets done. Don't come back with excuses. Dismissed."*
 }}
@@ -5103,14 +5103,14 @@ Two days after swearing allegiance to Thaldros, Commander Helena Dawnblade summo
 
 ##### Read Aloud:
 {{description,note
-*The Greymarch Valley lives up to its name—gray skies, gray stone, gray mood. The road winds between steep hills, perfect ambush territory. You pass burnt farmsteads, abandoned villages. War has already touched this land.*
+*The Greymarch Valley lives up to its name, gray skies, gray stone, gray mood. The road winds between steep hills, perfect ambush territory. You pass burnt farmsteads, abandoned villages. War has already touched this land.*
 
-*On the second day, you spot the convoy in the distance—a line of covered wagons moving slowly along the valley road. Even from here, something seems... wrong. The wagons are too heavy. Moving too slowly. And there are people walking alongside them. Many people.*
+*On the second day, you spot the convoy in the distance: a line of covered wagons moving slowly along the valley road. Even from here, something seems... wrong. The wagons are too heavy. Moving too slowly. And there are people walking alongside them. Many people.*
 }}
 
-**Perception DC 13:** The people walking aren't soldiers—they're families. Women, children, elderly. ::
+**Perception DC 13:** The people walking aren't soldiers. They're families. Women, children, elderly. ::
 
-**Perception DC 16:** You can make out a banner on the lead wagon. It's not a military standard—it's the symbol of Sera,  ::goddess of mercy. A humanitarian convoy.
+**Perception DC 16:** You can make out a banner on the lead wagon. It's not a military standard: it's the symbol of Sera,  ::goddess of mercy. A humanitarian convoy.
 
 **Stealth Approach (DC 14 group check):** PCs can get within 200 feet without being spotted if they succeed. ::
 
@@ -5118,11 +5118,11 @@ Two days after swearing allegiance to Thaldros, Commander Helena Dawnblade summo
 
 ##### Read Aloud:
 {{description,note
-*As you get closer, the reality becomes undeniable. This isn't a military supply convoy. The wagons are filled with refugees—families fleeing the war, their meager possessions piled beside sacks of grain and crates of medicine. Children peer out from wagon covers. An elderly man struggles to keep pace, supported by a young woman.*
+*As you get closer, the reality becomes undeniable. This isn't a military supply convoy. The wagons are filled with refugees. Families fleeing the war, their meager possessions piled beside sacks of grain and crates of medicine. Children peer out from wagon covers. An elderly man struggles to keep pace, supported by a young woman.*
 
-*At the head of the convoy walks a woman in white robes bearing Sera's holy symbol—a priestess leading her flock to safety. Her voice carries on the wind, offering prayers of protection.*
+*At the head of the convoy walks a woman in white robes bearing Sera's holy symbol, a priestess leading her flock to safety. Her voice carries on the wind, offering prayers of protection.*
 
-*The "guards" are volunteer militia—farmers and shopkeepers with rusty swords, protecting their families. Not soldiers. Refugees.*
+*The "guards" are volunteer militia, farmers and shopkeepers with rusty swords, protecting their families. Not soldiers. Refugees.*
 }}
 
 **The Convoy Composition:** ::
@@ -5135,7 +5135,7 @@ Two days after swearing allegiance to Thaldros, Commander Helena Dawnblade summo
 
 **Investigation DC 12:** The "weapons" are farming tools. Scythes, pitchforks, axes. Not military equipment. ::
 
-**Medicine DC 14:** The medical supplies are civilian—bandages, herbs, basic medicines. Nothing military-grade. ::
+**Medicine DC 14:** The medical supplies are civilian, bandages, herbs, basic medicines. Nothing military-grade. ::
 
 **Insight DC 13:** These people are terrified. They've already lost their homes to the war. This convoy is their last hope. ::
 {{pageNumber,auto}}
@@ -5174,11 +5174,11 @@ If PCs approach openly, Sara Whitehaven steps forward:
 
 ##### Read Aloud:
 {{description,note
-*The priestess raises her hand, halting the convoy. Her eyes take in your weapons, your bearing, the Thaldros authorization papers visible at your belt. Understanding dawns on her face—not fear, but profound sadness.*
+*The priestess raises her hand, halting the convoy. Her eyes take in your weapons, your bearing, the Thaldros authorization papers visible at your belt. Understanding dawns on her face, not fear, but profound sadness.*
 
 *"I know why you're here," she says quietly. "The Crown sent you to destroy our supplies. To leave these people with nothing." She gestures at the refugees huddled behind her. "Eighty-three souls. Thirty-one children. Fleeing a war they didn't start, seeking safety they may never find."*
 
-*"I won't fight you. Neither will they—they're too tired, too hungry, too broken. If you're going to burn our food and medicine, you'll do it while we watch. While the children watch. I want you to see exactly what you're destroying."*
+*"I won't fight you. Neither will they: they're too tired, too hungry, too broken. If you're going to burn our food and medicine, you'll do it while we watch. While the children watch. I want you to see exactly what you're destroying."*
 }}
 
 **Sara's Plea (if PCs hesitate):**
@@ -5186,12 +5186,12 @@ If PCs approach openly, Sara Whitehaven steps forward:
 {{description,note
 *"You're mercenaries, yes? You do what you're paid to do. I understand. But look at them." She points to a young mother clutching an infant. An old man with a crutch. Two children holding hands, staring at you with hollow eyes.*
 
-*"Whatever Thaldros is paying you—is it worth this? Is any amount of gold worth the memory of what you'll do here today?"*
+*"Whatever Thaldros is paying you: is it worth this? Is any amount of gold worth the memory of what you'll do here today?"*
 }}
 
 **Insight DC 12:** Sara is genuinely prepared to die rather than abandon her people. She's not bluffing. ::
 
-**Insight DC 16:** She's also stalling—hoping someone might come, though she knows rescue is unlikely. ::
+**Insight DC 16:** She's also stalling. Hoping someone might come, though she knows rescue is unlikely. ::
 
 ### The Moral Choice
 
@@ -5248,9 +5248,9 @@ If PCs approach openly, Sara Whitehaven steps forward:
 \page
 
 {{description,note
-*She paces, fury barely contained. "War is ugly. It requires ugly decisions. I didn't ask if you LIKED the mission—I asked if you could COMPLETE it."*
+*She paces, fury barely contained. "War is ugly. It requires ugly decisions. I didn't ask if you LIKED the mission. I asked if you could COMPLETE it."*
 
-*"You're not getting paid. And your next mission will determine whether you have a future with Thaldros—or as a corpse in a ditch."*
+*"You're not getting paid. And your next mission will determine whether you have a future with Thaldros, or as a corpse in a ditch."*
 }}
 
 #### Option 3: PARTIAL DESTRUCTION (Compromise)
@@ -5322,7 +5322,7 @@ If PCs approach openly, Sara Whitehaven steps forward:
 - Provide intelligence on Thaldros operations
 
 **Mechanics:** ::
-- No Deception needed—you're openly switching sides
+- No Deception needed: you're openly switching sides
 - Convoy travel takes 3 additional days
 - May face Thaldros patrols (2 encounters, CR 5-6 each)
 
@@ -5338,7 +5338,7 @@ If PCs approach openly, Sara Whitehaven steps forward:
 {{description,note
 *The Republican commander at Fort Castellan reads your report with growing amazement. "You gave up Thaldros gold to save refugees? And you're willing to share intelligence?"*
 
-*She clasps your hand. "The Republic welcomes you. Not as mercenaries—as heroes. Whatever Thaldros was paying you, we'll match it. More importantly, you'll sleep without screaming."*
+*She clasps your hand. "The Republic welcomes you. Not as mercenaries, as heroes. Whatever Thaldros was paying you, we'll match it. More importantly, you'll sleep without screaming."*
 }}
 
 ### Aftermath
@@ -5347,9 +5347,9 @@ If PCs approach openly, Sara Whitehaven steps forward:
 
 ##### Read Aloud:
 {{description,note
-*A week later, you hear the stories. Eighty-three refugees, scattered across the Contested Lands without food or medicine. The elderly didn't make it. Some children died of exposure. Sara Whitehaven survived—she's organizing what's left, caring for survivors in a burned-out temple.*
+*A week later, you hear the stories. Eighty-three refugees, scattered across the Contested Lands without food or medicine. The elderly didn't make it. Some children died of exposure. Sara Whitehaven survived: she's organizing what's left, caring for survivors in a burned-out temple.*
 
-*People whisper about the mercenaries who destroyed a refugee convoy. Some praise you—patriots doing hard work for the Crown. Others look at you with horror—monsters who burned food while children starved.*
+*People whisper about the mercenaries who destroyed a refugee convoy. Some praise you. Patriots doing hard work for the Crown. Others look at you with horror. Monsters who burned food while children starved.*
 
 *You've made your choice. Now you live with it.*
 }}
@@ -5365,7 +5365,7 @@ If PCs approach openly, Sara Whitehaven steps forward:
 
 ##### Read Aloud:
 {{description,note
-*Word reaches you weeks later. The convoy made it. Eighty-three refugees arrived at Fort Castellan—hungry, exhausted, but alive. Sara Whitehaven established a refugee settlement. The children are learning to read. The elderly are teaching the young.*
+*Word reaches you weeks later. The convoy made it. Eighty-three refugees arrived at Fort Castellan: hungry, exhausted, but alive. Sara Whitehaven established a refugee settlement. The children are learning to read. The elderly are teaching the young.*
 
 *If you let them live, they remember. If you helped them, they're grateful. If you risked everything to save them, you're heroes.*
 
@@ -5388,15 +5388,15 @@ If PCs approach openly, Sara Whitehaven steps forward:
 
 ### Mission Briefing
 
-Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you to Republican Intelligence headquarters—a nondescript building in a merchant district.
+Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you to Republican Intelligence headquarters, a nondescript building in a merchant district.
 
 ##### Read Aloud:
 {{description,note
-*The intelligence office is deliberately unimpressive—cluttered desks, tired clerks, the smell of old coffee. Envoy Valen leads you past the public areas to a secure room in the basement. Maps cover the walls. Dossiers litter the table.*
+*The intelligence office is deliberately unimpressive: cluttered desks, tired clerks, the smell of old coffee. Envoy Valen leads you past the public areas to a secure room in the basement. Maps cover the walls. Dossiers litter the table.*
 
 *"We have an opportunity," Valen says, sliding a portrait across the table. A stern-faced man in Thaldros military uniform stares back. "General Marcus Thorne. Forty years of service to the Crown. Commanded the Ironclad Legion. Two weeks ago, he contacted us secretly. He wants to defect."*
 
-*She taps the portrait. "Thorne has information—troop movements, supply lines, Crown battle plans. Intelligence that could save thousands of Republican lives. We need you to extract him from Thaldros territory and bring him to safety."*
+*She taps the portrait. "Thorne has information. Troop movements, supply lines, Crown battle plans. Intelligence that could save thousands of Republican lives. We need you to extract him from Thaldros territory and bring him to safety."*
 }}
 
 **If PCs ask questions:** ::
@@ -5405,9 +5405,9 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 :
 **"What did the Crown order?":** Valen hesitates. *"He didn't specify. Something about 'actions unbecoming of a soldier.' Whatever it was, it broke his loyalty."*
 :
-**"How do we extract him?":** *"He's being held in Thornfield Manor—not arrested, but 'encouraged' to remain for 'health reasons.' House arrest, essentially. The Crown suspects his loyalty. You'll need to get in, get him out, and reach the border crossing at Millbrook."*
+**"How do we extract him?":** *"He's being held in Thornfield Manor, not arrested, but 'encouraged' to remain for 'health reasons.' House arrest, essentially. The Crown suspects his loyalty. You'll need to get in, get him out, and reach the border crossing at Millbrook."*
 :
-**"What's the resistance?":** *"Light security. A dozen guards, maybe. Thorne's been cooperative so far—they don't expect him to run. Getting in should be easy. Getting out... depends on how quiet you are."*
+**"What's the resistance?":** *"Light security. A dozen guards, maybe. Thorne's been cooperative so far, they don't expect him to run. Getting in should be easy. Getting out... depends on how quiet you are."*
 
 **Insight DC 14:** Valen knows more than she's saying about why Thorne is defecting. ::
 
@@ -5428,7 +5428,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 {{description,note
 *"Compensation: 1,500 gold upon successful delivery of General Thorne to Republican territory. Alive. Unharmed. His value is in his brain, not his corpse."*
 
-*She hands you forged documents. "These identify you as Thaldros merchants. Should get you past checkpoints. The extraction point is the old mill at Millbrook—our agents will meet you there."*
+*She hands you forged documents. "These identify you as Thaldros merchants. Should get you past checkpoints. The extraction point is the old mill at Millbrook: our agents will meet you there."*
 
 *"One more thing: Thorne doesn't know about the Riverside file. He thinks he's defecting as a hero of conscience. If he finds out we know about the massacre... he might do something stupid. Keep him calm. Keep him moving. Get him to us."*
 }}
@@ -5448,7 +5448,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 {{description,note
 *Thaldros territory feels different. More ordered. More watched. Crown banners fly from every village. Soldiers patrol the roads. Your forged papers get you through two checkpoints without incident, but the guards' eyes linger.*
 
-*Thornfield Manor sits on a hill overlooking rich farmland—a nobleman's estate requisitioned by the military. The grounds are maintained. Guards walk the perimeter. From outside, it looks peaceful. Comfortable, even.*
+*Thornfield Manor sits on a hill overlooking rich farmland: a nobleman's estate requisitioned by the military. The grounds are maintained. Guards walk the perimeter. From outside, it looks peaceful. Comfortable, even.*
 
 *General Thorne is a prisoner in a gilded cage.*
 }}
@@ -5459,7 +5459,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 
 **Investigation DC 15:** Servant entrance on east side, less guarded. Deliveries happen at dawn. ::
 
-**Stealth DC 16:** You can observe Thorne through a window—an older man pacing his study, clearly agitated ::
+**Stealth DC 16:** You can observe Thorne through a window, an older man pacing his study, clearly agitated ::
 
 **Persuasion DC 14 (with guards):** Claiming to be Thorne's relatives from the capital gets suspicion but not immediate rejection ::
 
@@ -5498,7 +5498,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 
 ##### Read Aloud:
 {{description,note
-*General Marcus Thorne is not what you expected. In his sixties, still military-straight, but something is broken behind his eyes. He's pacing when you enter—stops, hand going to a sword that isn't there.*
+*General Marcus Thorne is not what you expected. In his sixties, still military-straight, but something is broken behind his eyes. He's pacing when you enter. Stops, hand going to a sword that isn't there.*
 
 *"You're from the Republic?" His voice is hoarse. Hopeful. "You're here to get me out?"*
 
@@ -5511,7 +5511,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 
 **Insight DC 12:** Thorne is genuinely terrified. He expects the Crown to kill him. ::
 
-**Insight DC 16:** His relief isn't just about escape—it's about redemption. He's running from guilt, not just danger. ::
+**Insight DC 16:** His relief isn't just about escape: it's about redemption. He's running from guilt, not just danger. ::
 
 **Insight DC 18:** When he said "Lives I..." he was about to say "lives I owe" or "lives I took." The Riverside massacre  ::haunts him.
 
@@ -5528,7 +5528,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 
 ##### Read Aloud:
 {{description,note
-*You're halfway across the grounds when you hear it—hoofbeats. Torches. Shouting. A rider gallops up the main road, Crown banner streaming.*
+*You're halfway across the grounds when you hear it: hoofbeats. Torches. Shouting. A rider gallops up the main road, Crown banner streaming.*
 
 *"ALERT! The general is compromised! Lock down the manor! No one leaves!"*
 
@@ -5555,11 +5555,11 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 **Lieutenant Cade Complication:** ::
 
 {{description,note
-*A young officer blocks your path, sword drawn—then freezes when he sees Thorne.*
+*A young officer blocks your path, sword drawn: then freezes when he sees Thorne.*
 
-*"General? Sir? What's happening? Why are you with—" His eyes widen. "You're... defecting? To THEM?"*
+*"General? Sir? What's happening? Why are you with, " His eyes widen. "You're... defecting? To THEM?"*
 
-*Thorne's voice breaks. "Cade, you don't understand. The Crown ordered me to—I couldn't—"*
+*Thorne's voice breaks. "Cade, you don't understand. The Crown ordered me to (I couldn't) "*
 
 *"Riverside," Cade whispers. "I was THERE, sir. I followed your orders. I killed those people because YOU told me to. And now you're running?"*
 
@@ -5582,7 +5582,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 
 *At dawn, you're awakened by voices outside. Dozens of voices. Angry voices.*
 
-*Through the barn slats, you see them—forty, maybe fifty people. Farmers, laborers, villagers. They carry torches, pitchforks, makeshift weapons. And at their head stands a woman with a burned face and dead eyes.*
+*Through the barn slats, you see them: forty, maybe fifty people. Farmers, laborers, villagers. They carry torches, pitchforks, makeshift weapons. And at their head stands a woman with a burned face and dead eyes.*
 
 *"THORNE!" she screams. "I know you're in there! I know what you did! My children were in that village, you MONSTER!"*
 }}
@@ -5598,7 +5598,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 {{description,note
 *"Two hundred people! My husband! My daughters! You burned them alive and called it 'tactical necessity!' The Crown protected you, decorated you, gave you a comfortable prison while we buried what was left of our families!"*
 
-*She points a shaking finger. "The Republic might want your intelligence. We want JUSTICE. Hand him over. Let us give him what the Crown wouldn't—a trial by the people he murdered."*
+*She points a shaking finger. "The Republic might want your intelligence. We want JUSTICE. Hand him over. Let us give him what the Crown wouldn't: a trial by the people he murdered."*
 
 *Thorne is pale, shaking. "I... I was following orders. The Crown said... there were insurgents hiding..." His voice breaks. "I'm sorry. Gods help me, I'm sorry."*
 
@@ -5634,7 +5634,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 {{description,note
 *"Excellent work. The intelligence Thorne provided will save countless Republican soldiers." She counts out your gold. "The mob situation was... unfortunate. But you made the pragmatic choice."*
 
-*She slides you a bonus purse. "500 extra. For the difficult work. Welcome to intelligence operations—where the right choice and the good choice are rarely the same."*
+*She slides you a bonus purse. "500 extra. For the difficult work. Welcome to intelligence operations, where the right choice and the good choice are rarely the same."*
 }}
 
 #### Option 2: SURRENDER THORNE TO THE MOB
@@ -5647,7 +5647,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 **Mechanics:** ::
 - No combat required
 - Thorne will beg, offer more intelligence, promise anything
-- The mob will execute him (not instant—they want him to suffer)
+- The mob will execute him (not instant. They want him to suffer)
 
 **Consequences:** ::
 - No payment (mission failed)
@@ -5662,7 +5662,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 
 **Thorne's Final Plea:** ::
 {{description,note
-*"Please! I know things! I can save lives! Republican lives! Isn't that worth more than revenge? I'm SORRY for what I did—I'll spend my life making amends! Don't let them—"*
+*"Please! I know things! I can save lives! Republican lives! Isn't that worth more than revenge? I'm SORRY for what I did: I'll spend my life making amends! Don't let them, "*
 
 *The mob closes in. Thorne screams. You walk away.*
 
@@ -5686,7 +5686,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 - Partial payment: 1,000gp (complicated extraction)
 - Thorne tried publicly in Republic
 - Intelligence gathered (most of it, before trial)
-- War crimes exposed (embarrassing for Republic—they're protecting him)
+- War crimes exposed (embarrassing for Republic: they're protecting him)
 - Calira satisfied (justice through law)
 - Sets precedent: war criminals will be tried
 
@@ -5696,7 +5696,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 
 *"A trial. A REAL trial. Not a Crown cover-up. He confesses publicly. He admits what he did." She looks at Thorne with pure hatred. "And then he hangs."*
 
-*"I accept. But if your Republic buries this—if they protect him like the Crown did—I'll come for him myself. And I'll come for you."*
+*"I accept. But if your Republic buries this, if they protect him like the Crown did, I'll come for him myself. And I'll come for you."*
 }}
 
 #### Option 4: LET THORNE CHOOSE
@@ -5750,7 +5750,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 {{description,note
 *Thorne looks at your drawn weapon. Slowly, he nods.*
 
-*"It's better this way. Cleaner. I don't deserve the Republic's protection—not after Riverside." He closes his eyes. "Tell them... tell them I'm sorry. Tell them I knew it was wrong. Tell them I did it anyway."*
+*"It's better this way. Cleaner. I don't deserve the Republic's protection, not after Riverside." He closes his eyes. "Tell them... tell them I'm sorry. Tell them I knew it was wrong. Tell them I did it anyway."*
 
 *He kneels. "Make it quick. Please."*
 }}
@@ -5774,7 +5774,7 @@ Three days after swearing allegiance to Aethoria, Envoy Lyanna Valen summons you
 
 ##### Read Aloud:
 {{description,note
-*Word of Thorne's death spreads. The survivors of Riverside hold a memorial—not for him, but for their dead. They thank you, in their way. Justice was served.*
+*Word of Thorne's death spreads. The survivors of Riverside hold a memorial, not for him, but for their dead. They thank you, in their way. Justice was served.*
 
 *The Republic scrambles to recover what intelligence they can from his documents. Some of it's useful. Most of it requires context only Thorne could provide. Battles are fought blind. Soldiers die who might have lived.*
 
@@ -5796,24 +5796,24 @@ One week after joining the Unbound, you receive a coded message directing you to
 
 ##### Read Aloud:
 {{description,note
-*The underground chamber smells of old books and ozone—the scent of magic pushed too far. Corvus stands before a wall covered in maps, diagrams, and connecting threads like a spider's web of conspiracy.*
+*The underground chamber smells of old books and ozone, the scent of magic pushed too far. Corvus stands before a wall covered in maps, diagrams, and connecting threads like a spider's web of conspiracy.*
 
-*"You've proven your commitment to the cause. Now it's time for real work." He taps a location on the map—deep in the Contested Lands, far from any settlement. "The Vault of Whispers. Ancient. Pre-Worldrend. Sealed for twelve centuries."*
+*"You've proven your commitment to the cause. Now it's time for real work." He taps a location on the map: deep in the Contested Lands, far from any settlement. "The Vault of Whispers. Ancient. Pre-Worldrend. Sealed for twelve centuries."*
 
-*His voice drops to a reverent whisper. "Inside is a Component. A piece of the World-Splitter—the weapon that ended the God War. The artifact that BROKE REALITY and created the world as we know it."*
+*His voice drops to a reverent whisper. "Inside is a Component. A piece of the World-Splitter, the weapon that ended the God War. The artifact that BROKE REALITY and created the world as we know it."*
 
 *He turns to face you, and there's something frightening in his certainty. "I already have one Component. With a second, we're closer to our goal. To ending this broken world and rebuilding something better."*
 }}
 
 **If PCs ask questions:** ::
 :
-**"What exactly IS the World-Splitter?":** *"An artifact of divine power. The gods created it to end their war—and it worked too well. Split the continent. Killed millions. Changed reality itself. The Components are fragments of that power, scattered across the world."*
+**"What exactly IS the World-Splitter?":** *"An artifact of divine power. The gods created it to end their war, and it worked too well. Split the continent. Killed millions. Changed reality itself. The Components are fragments of that power, scattered across the world."*
 :
 **"What happens if you gather all five?":** *"We gain the power to reshape reality. To end the corrupt kingdoms. To build a world without tyranny, without war, without the cycles of suffering that define mortal existence. A better world."*
 :
 **"Isn't that... dangerous?":** Corvus laughs. *"Dangerous? It's APOCALYPTIC. That's rather the point. You can't fix a broken world with bandages. Sometimes you have to tear it down and start over."*
 :
-**"What's guarding the vault?":** *"Ancient wards. Constructs. Possibly traps. Nothing impossible—the vault was meant to be accessed eventually. The builders wanted the Components found when the time was right."*
+**"What's guarding the vault?":** *"Ancient wards. Constructs. Possibly traps. Nothing impossible, the vault was meant to be accessed eventually. The builders wanted the Components found when the time was right."*
 
 **Insight DC 16:** Corvus genuinely believes he's saving the world. He's not lying. He's also not entirely sane. ::
 
@@ -5822,7 +5822,7 @@ One week after joining the Unbound, you receive a coded message directing you to
 ### The Payment
 
 {{description,note
-*"Compensation: 1,000 gold pieces. Additionally, I'll share one of the lesser artifacts in my collection—genuine Pre-Worldrend craftsmanship. Power beyond anything the kingdoms could offer."*
+*"Compensation: 1,000 gold pieces. Additionally, I'll share one of the lesser artifacts in my collection: genuine Pre-Worldrend craftsmanship. Power beyond anything the kingdoms could offer."*
 
 *He hands you a map marked with the vault location. "You have two weeks. The equinox creates a resonance that temporarily weakens the wards. Miss the window, wait another six months."*
 
@@ -5843,7 +5843,7 @@ One week after joining the Unbound, you receive a coded message directing you to
 {{description,note
 *The journey takes you through war-scarred territory. Burned villages. Abandoned camps. The detritus of conflict between two kingdoms too proud to stop fighting.*
 
-*On the third day, the land changes. Grass grows gray instead of green. Trees twist in unnatural spirals. The air tastes of copper and lightning. You're entering a Scar—a place where the Worldrend's reality distortion still lingers, twelve centuries later.*
+*On the third day, the land changes. Grass grows gray instead of green. Trees twist in unnatural spirals. The air tastes of copper and lightning. You're entering a Scar, a place where the Worldrend's reality distortion still lingers, twelve centuries later.*
 
 *"The Vault is inside the Scar," your map notes say. "The distortion hides it from conventional searching. Navigate by the compass anomalies."*
 }}
@@ -5868,7 +5868,7 @@ One week after joining the Unbound, you receive a coded message directing you to
 
 ##### Read Aloud:
 {{description,note
-*The Vault emerges from the twisted landscape like a wound in reality. Black stone, carved with symbols that hurt to look at. The entrance is a perfect circle—too perfect, mathematically precise in a way that natural formations never achieve.*
+*The Vault emerges from the twisted landscape like a wound in reality. Black stone, carved with symbols that hurt to look at. The entrance is a perfect circle. Too perfect, mathematically precise in a way that natural formations never achieve.*
 
 *Above the entrance, words shimmer in a language older than any you know. Corvus's translation notes read: "HERE LIES THE ECHO OF THE END. ENTER WITH PURPOSE OR NOT AT ALL."*
 
@@ -5876,8 +5876,8 @@ One week after joining the Unbound, you receive a coded message directing you to
 }}
 
 **Vault Exterior:** ::
-- **Perception DC 14:** No guards visible, but the ground around the entrance is disturbed—something large moved recently
-- **Investigation DC 16:** Footprints. Recent. Multiple people. Another group is inside—or was.
+- **Perception DC 14:** No guards visible, but the ground around the entrance is disturbed, something large moved recently
+- **Investigation DC 16:** Footprints. Recent. Multiple people. Another group is inside, or was.
 - **Arcana DC 15:** The wards are weakened (equinox effect) but not gone. Unauthorized entry triggers... something
 
 ### Vault Entry
@@ -5911,7 +5911,7 @@ One week after joining the Unbound, you receive a coded message directing you to
 
 **If Tests Passed:** ::
 {{description,note
-*The symbols flare bright, then fade. The voice speaks once more: "You may enter. May you find what you seek—or what seeks you."*
+*The symbols flare bright, then fade. The voice speaks once more: "You may enter. May you find what you seek, or what seeks you."*
 
 *The entrance opens into absolute darkness.*
 }}
@@ -5920,7 +5920,7 @@ One week after joining the Unbound, you receive a coded message directing you to
 
 ##### Read Aloud:
 {{description,note
-*The darkness doesn't respond to torchlight. Your flames illuminate only a few feet, as if the shadows are physical, pressing back against the light. But you can hear—whispers, constantly, from everywhere and nowhere.*
+*The darkness doesn't respond to torchlight. Your flames illuminate only a few feet, as if the shadows are physical, pressing back against the light. But you can hear: whispers, constantly, from everywhere and nowhere.*
 
 *Names. Dates. Secrets. The walls remember every person who ever entered, and they're eager to share.*
 }}
@@ -5935,11 +5935,11 @@ One week after joining the Unbound, you receive a coded message directing you to
 
 ##### Read Aloud:
 {{description,note
-*Statues line the walls—dozens of them, carved with impossible detail. Men, women, elves, dwarves, creatures you don't recognize. Each frozen in a moment of emotion: terror, awe, ecstasy, despair.*
+*Statues line the walls, dozens of them, carved with impossible detail. Men, women, elves, dwarves, creatures you don't recognize. Each frozen in a moment of emotion: terror, awe, ecstasy, despair.*
 
 *Plaques beneath each statue bear names and dates. The most recent reads: "Lyra Shadowmend, 1247 CR. Claimed by Purpose."*
 
-*1247 CR. This year. Someone was here recently—and didn't leave.*
+*1247 CR. This year. Someone was here recently, and didn't leave.*
 }}
 
 **Investigation DC 14:** The statues aren't carved. They're petrified people. Former seekers who failed some test. ::
@@ -5948,13 +5948,13 @@ One week after joining the Unbound, you receive a coded message directing you to
 
 **Arcana DC 16:** The petrification is tied to the Component. Those who touched it without proper protection... became these. ::
 
-**Perception DC 15:** One statue is different—newer, the stone still warm. Lyra Shadowmend was petrified days ago. ::
+**Perception DC 15:** One statue is different, newer, the stone still warm. Lyra Shadowmend was petrified days ago. ::
 
 **Chamber 2 - The Bridge of Truth:** ::
 
 ##### Read Aloud:
 {{description,note
-*A chasm opens before you—bottomless darkness below. A bridge spans it, narrow, with no railings. The whispers grow louder here, forming words:*
+*A chasm opens before you, bottomless darkness below. A bridge spans it, narrow, with no railings. The whispers grow louder here, forming words:*
 
 *"Walk with truth in your heart. Each lie, each deception, weakens the path. Fall, and fall forever."*
 }}
@@ -5976,11 +5976,11 @@ One week after joining the Unbound, you receive a coded message directing you to
 
 ##### Read Aloud:
 {{description,note
-*The chamber beyond the bridge is vast—a cathedral of black stone. At its center, on a raised dais, a crystal shard floats in a column of pale light. The Component. Even from here, you can feel its power—a thrumming in your bones, a pressure behind your eyes.*
+*The chamber beyond the bridge is vast, a cathedral of black stone. At its center, on a raised dais, a crystal shard floats in a column of pale light. The Component. Even from here, you can feel its power, a thrumming in your bones, a pressure behind your eyes.*
 
 *Between you and the Component stands a construct of ancient metal and gemstone. Twelve feet tall. Four arms. Eyes that glow with cold intelligence.*
 
-*"You have passed the tests," it says, voice like grinding stone. "One final trial remains. Prove your worth—not through answers, but through action."*
+*"You have passed the tests," it says, voice like grinding stone. "One final trial remains. Prove your worth, not through answers, but through action."*
 }}
 
 ### The Vault Guardian
@@ -6011,7 +6011,7 @@ One week after joining the Unbound, you receive a coded message directing you to
 
 ##### Read Aloud:
 {{description,note
-*The crystal is beautiful—and wrong. Colors that shouldn't exist shimmer across its surface. Looking at it directly gives you a headache that feels like someone else's thoughts pushing into your mind.*
+*The crystal is beautiful, and wrong. Colors that shouldn't exist shimmer across its surface. Looking at it directly gives you a headache that feels like someone else's thoughts pushing into your mind.*
 
 *Without the warded gloves Corvus gave you, touching it would be catastrophic. With them... you can feel the power humming against your palms. The urge to remove the gloves, to touch it directly, is almost overwhelming.*
 
@@ -6057,7 +6057,7 @@ One week after joining the Unbound, you receive a coded message directing you to
 
 **Corvus's reaction:** ::
 {{description,note
-*"Perfect! This is brilliant work. Two Components secured. Three remain. Together, we'll save the world—whether it wants to be saved or not."*
+*"Perfect! This is brilliant work. Two Components secured. Three remain. Together, we'll save the world. Whether it wants to be saved or not."*
 }}
 
 #### **Option 2: DESTROY COMPONENT**
@@ -6144,9 +6144,9 @@ One week after joining the Unbound, you receive a coded message directing you to
 
 ##### Read Aloud:
 {{description,note
-*You hear rumors. The Unbound are becoming more active. More aggressive. Corvus is gathering followers—hundreds joining. He's promising salvation. A better world. An end to war.*
+*You hear rumors. The Unbound are becoming more active. More aggressive. Corvus is gathering followers, hundreds joining. He's promising salvation. A better world. An end to war.*
 
-*But there's something in his eyes now—a fervor that wasn't there before. Proximity to two Components is affecting him. He's more convinced than ever that his path is right.*
+*But there's something in his eyes now: a fervor that wasn't there before. Proximity to two Components is affecting him. He's more convinced than ever that his path is right.*
 
 *You helped him get closer to that goal. For better or worse.*
 }}
@@ -6157,9 +6157,9 @@ One week after joining the Unbound, you receive a coded message directing you to
 
 ##### Read Aloud:
 {{description,note
-*The Unbound are furious. Corvus put a bounty on your heads—2,000 gold, dead or alive. You're hunted by cultists who believe you destroyed their salvation.*
+*The Unbound are furious. Corvus put a bounty on your heads: 2,000 gold, dead or alive. You're hunted by cultists who believe you destroyed their salvation.*
 
-*But others—scholars, clergy, common folk—thank you quietly. "You may have saved us," one priest says. "Those Components are too dangerous for anyone."*
+*But others, scholars, clergy, common folk, thank you quietly. "You may have saved us," one priest says. "Those Components are too dangerous for anyone."*
 
 *Whether you did right or wrong, you made a powerful enemy.*
 }}
@@ -6295,7 +6295,7 @@ After 1-2 weeks, **Quest 2.3: The Double Cross** begins.
 {{description,note
 *You completed your first major mission. Gold in hand. Reputation building. Everything seems fine.*
 
-*Then, late one night, you receive an anonymous letter. No signature. Just evidence—documents, testimonies, proof.*
+*Then, late one night, you receive an anonymous letter. No signature. Just evidence. Documents, testimonies, proof.*
 
 *Your faction has been lying to you. About everything.*
 }}
@@ -6349,7 +6349,7 @@ After 1-2 weeks, **Quest 2.3: The Double Cross** begins.
 
 **Level:** 8 ::
 **Duration:** 3-4 sessions   ::
-**Objective:** Discover your faction is betraying you—survive and decide response   ::
+**Objective:** Discover your faction is betraying you: survive and decide response   ::
 **Key NPCs:** Varies by faction   ::
 **Rewards:** Survival (gold secondary)   ::
 **Theme:** "Trust no one" ::
@@ -6376,7 +6376,7 @@ After 1-2 weeks, **Quest 2.3: The Double Cross** begins.
 
 *Then you find it: an envelope slipped under your door. No seal. No signature. Just a note:*
 
-*"They're lying to you. They've been lying from the start. Meet me at the Old Mill, midnight. Come alone. I have proof. —A Friend"*
+*"They're lying to you. They've been lying from the start. Meet me at the Old Mill, midnight. Come alone. I have proof., A Friend"*
 
 *Attached: a single document. It looks official. And damning.*
 }}
@@ -6391,7 +6391,7 @@ After 1-2 weeks, **Quest 2.3: The Double Cross** begins.
 {{description,note
 **FROM:** Royal Command   ::
 **TO:** Commander Dawnblade   ::
-**RE:** Mercenary Operations—Asset Disposal   ::
+**RE:** Mercenary Operations, Asset Disposal   ::
 
 *Approved contractors [your group name] have performed adequately. Continue utilizing for sensitive operations through war's end.*
 
@@ -6449,7 +6449,7 @@ ___
 {{description,note
 *The Old Mill is abandoned, dark, perfect for clandestine meetings. You arrive carefully, weapons ready.*
 
-*A figure emerges from shadows—cloaked, face hidden. Female voice, low and urgent:*
+*A figure emerges from shadows, cloaked, face hidden. Female voice, low and urgent:*
 
 *"You came. Good. You're smarter than most." She tosses you a leather folder. "More proof. Orders. Correspondence. They're planning to execute you. Make you martyrs. Pin everything on 'rogue mercenaries' while the crown stays pure."*
 }}
@@ -6669,7 +6669,7 @@ ___
 
 *(He hands you documents)*
 
-*"The senate leadership—not all, but enough—they're planning a coup. Democracy was always a tool. Once they win the war, they'll suspend elections. Rule as oligarchs. Everything we fought for... a lie.*
+*"The senate leadership, not all, but enough, they're planning a coup. Democracy was always a tool. Once they win the war, they'll suspend elections. Rule as oligarchs. Everything we fought for... a lie.*
 
 *And you? You're too dangerous. You know too much. They'll either exile you or frame you as traitors. I've seen this pattern before. I helped Thaldros do it."*
 }}
@@ -6682,11 +6682,11 @@ ___
 {{description,note
 *Valen looks at the documents. His face falls. He sits heavily.*
 
-*"It's true." His voice is quiet, defeated. "Not me—I genuinely believe in democracy. But the senate leadership... yes. They plan to consolidate power after the war.*
+*"It's true." His voice is quiet, defeated. "Not me. I genuinely believe in democracy. But the senate leadership... yes. They plan to consolidate power after the war.*
 
 *(He looks at you, eyes pleading)*
 
-*"But don't you see? We're fighting Thaldros tyranny. If we don't have strong leadership during the transition, everything falls apart. Maybe... maybe temporary emergency powers are necessary. Just until stability—"*
+*"But don't you see? We're fighting Thaldros tyranny. If we don't have strong leadership during the transition, everything falls apart. Maybe... maybe temporary emergency powers are necessary. Just until stability, "*
 
 *(He stops, hearing himself)*
 
@@ -6694,7 +6694,7 @@ ___
 
 }}
 
-**Insight DC 13:** Valen is genuinely conflicted—he really believes in democracy but has rationalized compromise ::
+**Insight DC 13:** Valen is genuinely conflicted. He really believes in democracy but has rationalized compromise ::
 
 **If PCs press him:** ::
 
@@ -6756,7 +6756,7 @@ ___
 
 **If successful:** ::
 {{description,note
-*"You're right. If democracy is worth fighting for, it's worth fighting for HONESTLY. Help me. We'll expose the corrupt senators. Force public trials. Restore true democracy. It's risky—they'll try to kill us—but it's RIGHT."*
+*"You're right. If democracy is worth fighting for, it's worth fighting for HONESTLY. Help me. We'll expose the corrupt senators. Force public trials. Restore true democracy. It's risky, they'll try to kill us, but it's RIGHT."*
 }}
 
 **The Campaign:** ::
@@ -6798,7 +6798,7 @@ ___
 
 #### **Option 5: ANARCHIST REVOLUTION**
 
-**Burn it all down—expose both kingdoms:** ::
+**Burn it all down: expose both kingdoms:** ::
 
 **Actions:** ::
 - Leak corruption evidence publicly
@@ -6821,11 +6821,11 @@ ___
 **Corvus's Private Journal (stolen pages):** ::
 
 {{description,note
-**Journal Entry—Month 7**
+**Journal Entry, Month 7**
 
 *The Components' power is intoxicating. Two secured. Three remain. Soon.*
 
-*Initial calculations: restructuring will cause 30-40% population casualties. Acceptable cost for perfect world. Mercenaries don't need to know exact numbers. Tell them "some" will die. They're mercenaries—pragmatic.*
+*Initial calculations: restructuring will cause 30-40% population casualties. Acceptable cost for perfect world. Mercenaries don't need to know exact numbers. Tell them "some" will die. They're mercenaries, pragmatic.*
 
 **Month 9**
 
@@ -6898,7 +6898,7 @@ ___
 - Stop her father from apocalypse
 - Loved him but recognizes madness
 - Willing to die to prevent catastrophe
-- Needs help—can't stop him alone
+- Needs help: can't stop him alone
 
 **What She Knows:** ::
 - Components are corrupting Corvus
@@ -6918,7 +6918,7 @@ ___
 
 ##### Read Aloud:
 {{description,note
-*Corvus looks at the journal pages. His expression shifts—not shame, but annoyance.*
+*Corvus looks at the journal pages. His expression shifts, not shame, but annoyance.*
 
 *"Elara. Always too sentimental." He looks at you calmly. "Yes. It's all true. 30-40% casualties. Free will removal. Necessary steps for perfect world.*
 
@@ -7167,7 +7167,7 @@ ___
 {{description,note
 *The world shifted. You learned the truth. You made your choice. Now you live with it.*
 
-*War continues. Factions maneuver. But you're no longer naive. You know what you're fighting for—or against. You know the costs.*
+*War continues. Factions maneuver. But you're no longer naive. You know what you're fighting for, or against. You know the costs.*
 
 *And in two months, everything will come to a head. The final battle. The last choice. But that's Act II's end.*
 
@@ -7207,7 +7207,7 @@ ___
 **Make it hurt:** ::
 - PCs trusted their faction
 - Faction genuinely betrayed them
-- Not "misunderstanding"—real treachery
+- Not "misunderstanding": real treachery
 - Forces difficult decision
 
 **But make it understandable:** ::
@@ -7321,7 +7321,7 @@ Everyone wants into the Royal Vault.
 
 ### **Location**
 
-**Kaer Thandros Capital City—Royal District**
+**Kaer Thandros Capital City: Royal District**
 
 **Description:** ::
 
@@ -7372,7 +7372,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 
 **Envoy Valen (if still employed):**
 {{description,note
-*"Thaldros keeps evidence of their crimes in the vault—including proof of manufactured atrocities. We need those documents to turn public opinion. Also, military intelligence. Payment: 3,000 gold plus whatever you find."*
+*"Thaldros keeps evidence of their crimes in the vault, including proof of manufactured atrocities. We need those documents to turn public opinion. Also, military intelligence. Payment: 3,000 gold plus whatever you find."*
 }}
 
 ### **If Working For Unbound:**
@@ -7400,7 +7400,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 
 **History DC 14 (Vault Background):**
 {{description,note
-*Royal Vault built 300 years ago by dwarf architects. Five levels deep. Never successfully robbed. Three attempted heists—all thieves executed.*
+*Royal Vault built 300 years ago by dwarf architects. Five levels deep. Never successfully robbed. Three attempted heists, all thieves executed.*
 }}
 {{pageNumber,auto}}
 \page
@@ -7435,7 +7435,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 
 **Arcana DC 15:** ::
 {{description,note
-*The wards are... impressive. Seventh-level magic. Detect intruders, prevent teleportation, sound alarm if bypassed incorrectly. But they pulse on a cycle—every 10 minutes, there's a 30-second window where they're weakest.*
+*The wards are... impressive. Seventh-level magic. Detect intruders, prevent teleportation, sound alarm if bypassed incorrectly. But they pulse on a cycle: every 10 minutes, there's a 30-second window where they're weakest.*
 }}
 
 ### **Gathering Specialists**
@@ -7677,7 +7677,7 @@ The Royal Vault is built beneath the treasury building, five levels underground.
 {{description,note
 *You reach the bottom. The Inner Vault.*
 
-*It's cathedral-sized. Shelves of gold. Display cases of artifacts. Document archives. At the far end: a pedestal with crystalline shard glowing with unnatural light—Component #4.*
+*It's cathedral-sized. Shelves of gold. Display cases of artifacts. Document archives. At the far end: a pedestal with crystalline shard glowing with unnatural light, Component #4.*
 
 *It's beautiful. Overwhelming. This is the kingdom's heart. 500 years of accumulated wealth and power.*
 
@@ -7923,7 +7923,7 @@ ___
 
 *"War serves both our interests. Thaldros consolidates power through emergency measures. Aethoria senate suspends elections. We both win."*
 
-*(Date: Three years ago—before war started)*
+*(Date: Three years ago, before war started)*
 
 *The war was manufactured. Coordinated. Both kingdoms working together to create conflict for political gain.*
 
@@ -8122,7 +8122,7 @@ ___
 
 *Now, two months later, the war reaches its climax. Both armies at the border. Final battle imminent.*
 
-*Your choices across Act II—who you joined, who you betrayed, what you revealed—all converge here.*
+*Your choices across Act II, who you joined, who you betrayed, what you revealed, all converge here.*
 
 *This is the endgame. This is Quest 2.5: The Breaking Point.*
 
@@ -8136,7 +8136,7 @@ ___
 
 **Level:** 10   ::
 **Duration:** 3-4 sessions   ::
-**Objective:** War begins—or is prevented (PCs decide outcome)   ::
+**Objective:** War begins, or is prevented (PCs decide outcome)   ::
 **Key NPCs:** All major faction leaders, armies, your allies   ::
 **Rewards:** 2,000-10,000gp + faction rewards + Act III setup   ::
 **Theme:** "Blood or peace?" ::
@@ -8163,7 +8163,7 @@ ___
 
 *Thaldros Crown Forces: 10,000 soldiers, siege weapons, royal banner flying. Order through strength.*
 
-*Republican Rebels: 8,000 fighters—Thaldrosian separatists armed with Aethorian gold, trained by Aethorian advisors, flying republican flags. Freedom through blood.*
+*Republican Rebels: 8,000 fighters, Thaldrosian separatists armed with Aethorian gold, trained by Aethorian advisors, flying republican flags. Freedom through blood.*
 
 *The Unbound: Hidden cells throughout, waiting for chaos. Salvation through apocalypse.*
 
@@ -8200,7 +8200,7 @@ ___
 {{description,note
 *A royal courier arrives with sealed letter:*
 
-*"Final battle tomorrow. Victory is certain, but costly. We need you. Join Thaldros forces. Lead vanguard. Break Aethoria line. Payment: 5,000 gold plus lands and titles. This is your chance to be on the winning side. Refuse, and you're enemies of the crown. —Commander Dawnblade"*
+*"Final battle tomorrow. Victory is certain, but costly. We need you. Join Thaldros forces. Lead vanguard. Break Aethoria line. Payment: 5,000 gold plus lands and titles. This is your chance to be on the winning side. Refuse, and you're enemies of the crown., Commander Dawnblade"*
 }}
 {{pageNumber,auto}}
 \page
@@ -8213,7 +8213,7 @@ ___
 {{description,note
 *A republican messenger brings folded note:*
 
-*"Tomorrow, freedom fights tyranny. We're outmatched. We need every sword. Join Republican forces. Defend democracy. Payment: 3,000 gold plus eternal gratitude of free people. Stand with us. Stand for what's right. —Envoy Valen"*
+*"Tomorrow, freedom fights tyranny. We're outmatched. We need every sword. Join Republican forces. Defend democracy. Payment: 3,000 gold plus eternal gratitude of free people. Stand with us. Stand for what's right., Envoy Valen"*
 }}
 
 ### **Message From The Unbound**
@@ -8224,7 +8224,7 @@ ___
 {{description,note
 *A cultist hands you sealed scroll:*
 
-*"Tomorrow, while they slaughter each other, we act. I have secured Component 1. Components 2 and 3 are within my grasp—my agents move to claim them as we speak. Components 4 and 5 will appear on the battlefield tomorrow, carried as protective talismans by generals who don't understand what they possess. While armies clash, we steal them. Complete the set. Reshape reality. Save the world. Join me. —Corvus"*
+*"Tomorrow, while they slaughter each other, we act. I have secured Component 1. Components 2 and 3 are within my grasp. My agents move to claim them as we speak. Components 4 and 5 will appear on the battlefield tomorrow, carried as protective talismans by generals who don't understand what they possess. While armies clash, we steal them. Complete the set. Reshape reality. Save the world. Join me.. Corvus"*
 }}
 
 ## The Choice Point
@@ -8241,7 +8241,7 @@ ___
 
 ##### Read Aloud:
 {{description,note
-*Dawn breaks. You stand with Thaldros vanguard—500 elite soldiers. Commander Dawnblade briefs you:*
+*Dawn breaks. You stand with Thaldros vanguard, 500 elite soldiers. Commander Dawnblade briefs you:*
 
 *"Aethoria's left flank is weak. Volunteers, poor training. Break through there. Collapse their line. Victory is ours. You lead the charge. For the kingdom!"*
 
@@ -8320,7 +8320,7 @@ ___
 {{description,note
 *Valen stands defiant, bloody, defeated but not broken:*
 
-*"So. You chose tyranny. I hope it's everything you dreamed. When the king turns on you—and he will—remember this moment. Remember you had a choice."*
+*"So. You chose tyranny. I hope it's everything you dreamed. When the king turns on you, and he will, remember this moment. Remember you had a choice."*
 }}
 
 **PCs can:** ::
@@ -8342,7 +8342,7 @@ ___
 
 *You're heroes of the kingdom. Commander Dawnblade promotes you. King grants titles, lands, gold.*
 
-*But walking through the battlefield afterward, you see: 3,000 dead. Mostly Aethoria militia—farmers, shopkeepers, people who believed freedom was worth fighting for.*
+*But walking through the battlefield afterward, you see: 3,000 dead. Mostly Aethoria militia: farmers, shopkeepers, people who believed freedom was worth fighting for.*
 
 *You helped create this. You helped tyranny win.*
 
@@ -8366,7 +8366,7 @@ ___
 
 ##### Read Aloud:
 {{description,note
-*You stand with Aethoria defenders—outnumbered, outmatched, but not outspirited. Envoy Valen addresses troops:*
+*You stand with Aethoria defenders: outnumbered, outmatched, but not outspirited. Envoy Valen addresses troops:*
 
 *"They have more soldiers. Better armor. Royal gold. We have something they don't: we're fighting for our freedom. Today, we prove democracy is worth dying for. For the Republic!"*
 
@@ -8405,7 +8405,7 @@ ___
 
 ##### Read Aloud:
 {{description,note
-*"While they regroup, we strike their supply lines. Their siege weapons. Their command tent. Guerrilla warfare. This is how we win—not by matching their strength, but by attacking their weaknesses."*
+*"While they regroup, we strike their supply lines. Their siege weapons. Their command tent. Guerrilla warfare. This is how we win, not by matching their strength, but by attacking their weaknesses."*
 }}
 
 **PCs lead strike team:** ::
@@ -8447,7 +8447,7 @@ ___
 {{description,note
 *Dawnblade makes final stand, surrounded but unbroken:*
 
-*"So. You chose chaos over order. When democracy fails—and it will—remember I offered you stability. You chose mob rule."*
+*"So. You chose chaos over order. When democracy fails, and it will, remember I offered you stability. You chose mob rule."*
 
 *(She raises her sword)*
 
@@ -8473,7 +8473,7 @@ ___
 
 *You're heroes of the revolution. Valen promotes you to generals. Senate grants citizenship, honors, gold.*
 
-*But walking through the battlefield afterward, you see: 2,500 dead. Mostly young Republicans—believers, idealists, people who died for a cause.*
+*But walking through the battlefield afterward, you see: 2,500 dead. Mostly young Republicans: believers, idealists, people who died for a cause.*
 
 *And the kingdom? Fragmenting. Warlords claiming territory. Chaos spreading.*
 
@@ -8563,7 +8563,7 @@ ___
 
 *"Perfect. PERFECT! Now, the ritual. Reality will bend. The world will change. Humanity will be saved."*
 
-*(He begins arranging Components in circle—intricate pattern, glowing with power)*
+*(He begins arranging Components in circle: intricate pattern, glowing with power)*
 
 *"When I activate this, 30-40% of population will die. Necessary sacrifice. The rest will enter new world order. No free will, but no suffering. Perfect peace. Perfect control."*
 
@@ -8592,7 +8592,7 @@ ___
 \page
 
 {{description,note
-*You feel it—pull on your mind. But Components protect you. You're exempt. Wardens of New Order.*
+*You feel it: pull on your mind. But Components protect you. You're exempt. Wardens of New Order.*
 
 *The old world dies. The new world is born.*
 }}
@@ -8757,13 +8757,13 @@ Corvus takes 3 legendary actions:
 
 ##### Read Aloud:
 {{description,note
-*Neutral tent. Two enemies sit across from each other. Documents between them—proof of conspiracy.*
+*Neutral tent. Two enemies sit across from each other. Documents between them, proof of conspiracy.*
 
 *Dawnblade: "This... this is real? High command manufactured this war?"*
 
 *Valen: "Our senate too. We've been played. Both of us."*
 
-*(They look at each other—first time seeing shared victimhood)*
+*(They look at each other, first time seeing shared victimhood)*
 
 *Dawnblade: "So what now? Do we fight knowing it's a lie?"*
 
@@ -8852,7 +8852,7 @@ Corvus takes 3 legendary actions:
 - Title: "Peacemaker"
 - **ACT III Path D: FRAGILE PEACE**
 
-**This is the "best" ending—but hardest to achieve and maintain.** ::
+**This is the "best" ending, but hardest to achieve and maintain.** ::
 
 ## Path 5: Total War
 
@@ -8912,7 +8912,7 @@ Corvus takes 3 legendary actions:
 - Title: "The Survivor"
 - **ACT III Path E: TOTAL WAR**
 
-**This is the "bad" ending—but it's what happens when heroes don't act.** ::
+**This is the "bad" ending, but it's what happens when heroes don't act.** ::
 
 ## Act II Ending
 
@@ -8920,7 +8920,7 @@ Corvus takes 3 legendary actions:
 
 ##### Read Aloud:
 {{description,note
-*Power Plays are over. You made your choices. The war is decided—one way or another.*
+*Power Plays are over. You made your choices. The war is decided, one way or another.*
 
 *A year has passed. The consequences of your decisions have reshaped Tirvandor. For better or worse.*
 
@@ -9027,7 +9027,7 @@ Varies wildly by choices:
 {{description,note
 *"One year since the Breaking Point. The war's outcome has reshaped everything. You live now in the world you created.*
 
-*Act III: Empire of Ashes. Living with consequences. Defending—or regretting—your choices.*
+*Act III: Empire of Ashes. Living with consequences. Defending, or regretting, your choices.*
 
 *Was it worth it?"*
 }}
@@ -9051,7 +9051,7 @@ Varies wildly by choices:
 
 **The State of the World:** ::
 
-You achieved the impossible in Act II—you stopped the war. You exposed the conspiracy, forced both kingdoms to the negotiating table, and brokered the Treaty of Judgment Border.
+You achieved the impossible in Act II. You stopped the war. You exposed the conspiracy, forced both kingdoms to the negotiating table, and brokered the Treaty of Judgment Border.
 :
 But peace is fragile. Daily.
 {{pageNumber,auto}}
@@ -9059,11 +9059,11 @@ But peace is fragile. Daily.
 
 ##### Read Aloud:
 {{description,note
-*One year has passed since you prevented the war. The Treaty of Judgment Border holds—barely.*
+*One year has passed since you prevented the war. The Treaty of Judgment Border holds, barely.*
 
 *The frontier territories exist in uneasy peace with the Crown. Trade resumed. Prisoners exchanged. Diplomatic relations established. From the outside, it looks like peace.*
 
-*From the inside? You know better. You're the official Peacekeepers—neutral mediators appointed by both kingdoms. Every week brings new crises. Border disputes. Trade disagreements. Assassination attempts. Diplomatic incidents.*
+*From the inside? You know better. You're the official Peacekeepers: neutral mediators appointed by both kingdoms. Every week brings new crises. Border disputes. Trade disagreements. Assassination attempts. Diplomatic incidents.*
 
 *You prevent them. One crisis at a time. One day at a time. It's exhausting.*
 
@@ -9088,7 +9088,7 @@ Thaldros guards killed an Aethoria merchant they claim was smuggling weapons. Ae
 
 ##### Read Aloud:
 {{description,note
-*You arrive at the border checkpoint to find 50 Thaldros soldiers on one side, 40 Aethoria militia on the other. The dead merchant's body lies in no-man's-land. No one will retrieve it—crossing the line might spark violence.*
+*You arrive at the border checkpoint to find 50 Thaldros soldiers on one side, 40 Aethoria militia on the other. The dead merchant's body lies in no-man's-land. No one will retrieve it, crossing the line might spark violence.*
 
 *Thaldros Captain: "He was smuggling swords! We have every right to enforce border security!"*
 
@@ -9118,7 +9118,7 @@ Thaldros guards killed an Aethoria merchant they claim was smuggling weapons. Ae
 }}
 **Insight DC 15 (reading soldiers):** ::
 {{description,note
-*Thaldros captain looks nervous. He's hiding something. Aethoria lieutenant is genuinely enraged—believes merchant was innocent.*
+*Thaldros captain looks nervous. He's hiding something. Aethoria lieutenant is genuinely enraged, believes merchant was innocent.*
 }}
 
 ### **The TRUTH**
@@ -9210,7 +9210,7 @@ Aethoria merchant ship seized by Thaldros navy for "illegal goods." Aethoria dem
 
 ##### Read Aloud:
 {{description,note
-*Port Myrthen Port. The merchant ship "Liberty's Call" sits anchored, Thaldros navy blockading it. Aethoria diplomats argue with Thaldros admirals on the dock. Merchants on both sides watching nervously—if trade stops, everyone loses money.*
+*Port Myrthen Port. The merchant ship "Liberty's Call" sits anchored, Thaldros navy blockading it. Aethoria diplomats argue with Thaldros admirals on the dock. Merchants on both sides watching nervously, if trade stops, everyone loses money.*
 
 *Thaldros Admiral: "The ship carries Unbound propaganda. Books. Pamphlets. Cult materials. We can't allow that poison into our kingdom."*
 
@@ -9233,7 +9233,7 @@ Aethoria merchant ship seized by Thaldros navy for "illegal goods." Aethoria dem
 
 **Investigation DC 16:** ::
 {{description,note
-*The books were loaded by someone named "Brother Ash"—Unbound member. He's listed as passenger, not crew.*
+*The books were loaded by someone named "Brother Ash": Unbound member. He's listed as passenger, not crew.*
 }}
 **Insight DC 14:** ::
 {{description,note
@@ -9316,13 +9316,13 @@ Someone tried to assassinate Envoy Valen during peace summit. Aethoria blames Th
 
 ##### Read Aloud:
 {{description,note
-*You arrive at the summit building to chaos. Envoy Valen is alive—barely. Crossbow bolt missed his heart by inches. He's conscious, bleeding, furious.*
+*You arrive at the summit building to chaos. Envoy Valen is alive, barely. Crossbow bolt missed his heart by inches. He's conscious, bleeding, furious.*
 
 *Valen: "Thaldros tried to kill me! So much for peace!"*
 
 *Commander Dawnblade: "We did NO such thing! This is a frame job!"*
 
-*Security found the assassin's position—rooftop across street. Bolt is Thaldros military issue. Valen's guards want blood. Dawnblade's honor guards are defensive. Violence is imminent unless you stop it.*
+*Security found the assassin's position: rooftop across street. Bolt is Thaldros military issue. Valen's guards want blood. Dawnblade's honor guards are defensive. Violence is imminent unless you stop it.*
 }}
 
 ### **Investigation**
@@ -9340,18 +9340,18 @@ Someone tried to assassinate Envoy Valen during peace summit. Aethoria blames Th
 
 **Medicine DC 16 (examining Valen's wound):**
 {{description,note
-*Bolt trajectory suggests deliberate near-miss. One inch right and Valen dies. This wasn't incompetence—it was precision missing.*
+*Bolt trajectory suggests deliberate near-miss. One inch right and Valen dies. This wasn't incompetence: it was precision missing.*
 }}
 **Investigation DC 18 (rooftop evidence):**
 {{description,note
-*Boot prints. Military boots. Size 10. Also: black fabric thread caught on roof tile. Not Thaldros colors—that's Unbound black.*
+*Boot prints. Military boots. Size 10. Also: black fabric thread caught on roof tile. Not Thaldros colors: that's Unbound black.*
 }}
 
 ### **The TRUTH**
 
 **The assassin was Unbound, not Thaldros.** ::
 
-They used Thaldros equipment to frame them. Deliberately missed Valen (wanted to wound, not kill—dead martyr less useful than angry victim). Goal: Reignite war.
+They used Thaldros equipment to frame them. Deliberately missed Valen (wanted to wound, not kill. Dead martyr less useful than angry victim). Goal: Reignite war.
 
 **If PCs find Brother Ash from Crisis 2:** He knows about assassin. Can be interrogated. ::
 
@@ -9434,7 +9434,7 @@ Corvus (if alive) or Unbound remnants are deliberately creating incidents to res
 
 ##### Read Aloud:
 {{description,note
-*You handled three crises in one day. Three potential wars prevented. Three diplomatic victories (or compromises, or failures—depending on choices).*
+*You handled three crises in one day. Three potential wars prevented. Three diplomatic victories (or compromises, or failures, depending on choices).*
 
 *But as you return to your quarters, exhausted, you realize: This is your life now. Every day. Every week. The peace doesn't maintain itself. It requires constant, thankless, exhausting work.*
 
@@ -9550,7 +9550,7 @@ This quest establishes Act III pattern: constant crisis management.
 {{description,note
 *The incidents haven't stopped. Every week: Another border clash. Another diplomatic incident. Another assassination attempt. All orchestrated. All Unbound.*
 
-*Both kingdoms agree: The Unbound must be eliminated. They've tasked you—the Peacekeepers—with hunting them down.*
+*Both kingdoms agree: The Unbound must be eliminated. They've tasked you (the Peacekeepers) with hunting them down.*
 
 *Intelligence suggests three major Unbound cells operating:*
 
@@ -9600,7 +9600,7 @@ This quest establishes Act III pattern: constant crisis management.
 
 ##### Read Aloud:
 {{description,note
-*The safehouse is in the warehouse district—abandoned textile factory. During day: Looks empty. At night: Figures come and go. Coded knocks. Secret meetings.*
+*The safehouse is in the warehouse district: abandoned textile factory. During day: Looks empty. At night: Figures come and go. Coded knocks. Secret meetings.*
 
 *Intel suggests 12-15 Unbound members. Mix of true believers and desperate recruits. Armed. Dangerous. Planning next attack.*
 
@@ -9644,7 +9644,7 @@ This quest establishes Act III pattern: constant crisis management.
 
 **Initiation Test:** ::
 {{description,note
-*"Prove your loyalty. Kill this prisoner." (They have someone tied up—actually a homeless person they kidnapped, not a cultist)*
+*"Prove your loyalty. Kill this prisoner." (They have someone tied up, actually a homeless person they kidnapped, not a cultist)*
 
 
 }}
@@ -9707,7 +9707,7 @@ This quest establishes Act III pattern: constant crisis management.
 - Let summit proceed
 - Position ambush
 - Capture assassins (gain more intel)
-- RISKY—if trap fails, leaders die
+- RISKY, if trap fails, leaders die
 
 **Option 3: Only Warn One** ::
 - Choose to save Dawnblade OR Valen
@@ -9736,7 +9736,7 @@ This quest establishes Act III pattern: constant crisis management.
 
 ##### Read Aloud:
 {{description,note
-*You return to Thornwood Forest—where you hunted Red Wolf in Act I. The ruins of old fort still stand. But now: Unbound banners. Fortifications. Armed patrols.*
+*You return to Thornwood Forest, where you hunted Red Wolf in Act I. The ruins of old fort still stand. But now: Unbound banners. Fortifications. Armed patrols.*
 
 *Cell Beta has transformed Red Wolf's base into guerrilla headquarters. Poetic. The freedom fighter's sanctuary now houses terrorists.*
 
@@ -9795,7 +9795,7 @@ ___
 
 **Perception DC 17:**
 {{description,note
-*The Reaper is a woman. Mid-40s. One-eyed. Scarred. Wait... you recognize her. That's Elise Thornwood—Red Wolf's SISTER (from Quest 1.3 if she survived).*
+*The Reaper is a woman. Mid-40s. One-eyed. Scarred. Wait... you recognize her. That's Elise Thornwood. Red Wolf's SISTER (from Quest 1.3 if she survived).*
 }}
 
 **Background:** ::
@@ -9810,7 +9810,7 @@ ___
 
 **Motivation:** ::
 - Revenge (if you killed Red Wolf)
-- Or nihilism (if you helped—sister still died/was imprisoned)
+- Or nihilism (if you helped. Sister still died/was imprisoned)
 - Believes peace is lie
 - War is natural state
 - Unbound offers purpose
@@ -9930,7 +9930,7 @@ ___
 
 ##### Read Aloud:
 {{description,note
-*You descend again into Old Kaer—the ruins where you found Component #4 in Act II. The sinkhole. The dead city. The vault.*
+*You descend again into Old Kaer: the ruins where you found Component #4 in Act II. The sinkhole. The dead city. The vault.*
 
 *But now: Unbound presence. Torches light the streets. Cultists patrol. Magic wards erected. They've fortified the vault as headquarters.*
 
@@ -10045,7 +10045,7 @@ She took up her father's mantle. Believes in his vision. Completed Component tra
 {{description,note
 *"But his work continues. I've gathered the faithful. Recovered Component fragments. And in two weeks: We'll complete what he started.*
 
-*"Operation Collapse. Simultaneous attacks worldwide. Not to kill—no. To create chaos. And in chaos, people BEG for order. They'll accept restructuring. They'll BEG for it.*
+*"Operation Collapse. Simultaneous attacks worldwide. Not to kill, no. To create chaos. And in chaos, people BEG for order. They'll accept restructuring. They'll BEG for it.*
 
 *"My father tried to force salvation. I'll make them want it. Make them choose it.*
 
@@ -10146,7 +10146,7 @@ PCs become Unbound leadership. Help execute Operation Collapse. Enable tyranny. 
 {{description,note
 *The Unbound are broken. Cells Alpha, Beta, and Gamma eliminated. Leadership killed or captured. Remaining members scatter, leaderless.*
 
-*Both kingdoms celebrate. Joint victory. Cooperation against shared enemy. The peace is stronger than ever—not perfect, but real.*
+*Both kingdoms celebrate. Joint victory. Cooperation against shared enemy. The peace is stronger than ever, not perfect, but real.*
 
 *You did it. You saved the peace. Again.*
 
@@ -10213,7 +10213,7 @@ PCs become Unbound leadership. Help execute Operation Collapse. Enable tyranny. 
 {{description,note
 *Emergency session. Neutral diplomatic hall. You're summoned urgently.*
 
-*Commander Dawnblade and Envoy Valen sit at same table—first time they've cooperated willingly since the treaty. Both look shaken.*
+*Commander Dawnblade and Envoy Valen sit at same table, first time they've cooperated willingly since the treaty. Both look shaken.*
 
 *Dawnblade speaks first: "We have reports. Northern border. Unknown force. Not Thaldros. Not Aethoria. Not Unbound."*
 
@@ -10242,7 +10242,7 @@ PCs become Unbound leadership. Help execute Operation Collapse. Enable tyranny. 
 
 **Background:** ::
 
-Over a thousand years ago, during the chaos of the Godsfall, an ambitious king in the far north tried to achieve immortality using forbidden necromancy. He succeeded—becoming a lich. His kingdom fell, all citizens converted to undead servants. For centuries, he's been isolated in the frozen wastes, building his forces.
+Over a thousand years ago, during the chaos of the Godsfall, an ambitious king in the far north tried to achieve immortality using forbidden necromancy. He succeeded: becoming a lich. His kingdom fell, all citizens converted to undead servants. For centuries, he's been isolated in the frozen wastes, building his forces.
 
 Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 
@@ -10254,7 +10254,7 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 
 ##### Read Aloud (From Reports):
 {{description,note
-*"Village of Northholm: Population 200. Found every citizen dead, reanimated within hours. Witnesses from nearby—before they fled—describe: 'Dead army. Thousands. Led by corpse-wizards in black robes. And at the rear... something ancient. Wearing crown of bone. The Dread King.'*
+*"Village of Northholm: Population 200. Found every citizen dead, reanimated within hours. Witnesses from nearby, before they fled, describe: 'Dead army. Thousands. Led by corpse-wizards in black robes. And at the rear... something ancient. Wearing crown of bone. The Dread King.'*
 
 *"Villages of Frostmere and Ironwood: Same fate. Total conversion. Undead population now estimated 10,600 and growing with each conquest.*
 
@@ -10320,7 +10320,7 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 
 **Option 3: Suggest Third-Party Command** ::
 - **Persuasion DC 20** (bold)
-- Argument: "Neither side leads. We—the Peacekeepers—command."
+- Argument: "Neither side leads. We, the Peacekeepers, command."
 - If successful: PCs become Supreme Commanders
 - Consequence: Ultimate responsibility falls on you
 
@@ -10437,7 +10437,7 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 
 **Encounter:** ::
 
-**40 Zombies** (CR 1/4, abstracted—PCs fight 40, represent larger battle)   ::
+**40 Zombies** (CR 1/4, abstracted, PCs fight 40, represent larger battle)   ::
 **4 Wights** (CR 3, squad leaders)   ::
 **1 Death Knight** (CR 8, wave commander) ::
 
@@ -10459,7 +10459,7 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 
 ##### Read Aloud:
 {{description,note
-*Your dead begin rising. Allied soldiers—killed minutes ago—stand up. Eyes vacant. They attack their former comrades.*
+*Your dead begin rising. Allied soldiers, killed minutes ago, stand up. Eyes vacant. They attack their former comrades.*
 
 *Morale plummets. Soldiers panic: "We're losing even when we win! Every death makes them stronger!"*
 
@@ -10528,7 +10528,7 @@ Now: Moving south. Need fresh corpses. Plan to convert both kingdoms.
 
 *Every soldier on battlefield must make DC 18 Wisdom save or flee in panic. Your combined army is routing.*
 
-*Only you—heroes of legend—resist. You and maybe a dozen other veterans.*
+*Only you, heroes of legend, resist. You and maybe a dozen other veterans.*
 
 *The Dread King points at you, recognizing a threat and advances in your direction.*
 }}
@@ -10849,7 +10849,7 @@ Fights for unlife:
 **Most Importantly:** ::
 - Thaldros and Aethoria are now true allies
 - Forged in fire
-- The peace is no longer fragile—it's strong
+- The peace is no longer fragile. It's strong
 
 ## Level Up
 
@@ -10891,7 +10891,7 @@ Fights for unlife:
 
 ##### Read Aloud:
 {{description,note
-*You stand at the docks. Frozen north before you. Ship prepared. Supplies loaded. Both kingdoms contributed everything: Maps (unreliable), supplies (essential), soldiers (volunteers—most won't return).*
+*You stand at the docks. Frozen north before you. Ship prepared. Supplies loaded. Both kingdoms contributed everything: Maps (unreliable), supplies (essential), soldiers (volunteers, most won't return).*
 
 *Dawnblade and Valen see you off:*
 
@@ -10966,7 +10966,7 @@ Uneventful. Crew nervous. Temperature dropping.
 - Success: Find phylactery location
 
 **Option 2: Use Magic** ::
-- *Locate object* (doesn't work—phylactery warded)
+- *Locate object* (doesn't work: phylactery warded)
 - *Legend lore* (reveals clue in riddle form)
 - *Divination* (gods give cryptic answer)
 
@@ -10989,7 +10989,7 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 
 ##### Read Aloud:
 {{description,note
-*The palace. Frozen. Grand hall leading to throne room. Ice sculptures of courtiers line the walls—these were real people once. Flash-frozen during the transformation.*
+*The palace. Frozen. Grand hall leading to throne room. Ice sculptures of courtiers line the walls: these were real people once. Flash-frozen during the transformation.*
 
 *You reach throne room. Empty throne. Stone. Cold. And on it: A crown. Bone and black metal. Pulsing with necrotic energy.*
 
@@ -11104,7 +11104,7 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 
 *The Dread King SCREAMS. Ancient voice filled with rage, terror, and disbelief.*
 
-*"No. NO! I conquered DEATH! I cannot—"*
+*"No. NO! I conquered DEATH! I cannot: "*
 
 *(He disintegrates. Dust. Gone. Forever.)*
 
@@ -11125,7 +11125,7 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 {{description,note
 *You return to find both kingdoms in celebration. News arrived ahead (via sending spells): The Dread King is DEAD. Permanently. The threat is ended.*
 
-*Streets packed with Thaldros and Aethoria citizens—together. No longer enemies. Unified by shared victory.*
+*Streets packed with Thaldros and Aethoria citizens, together. No longer enemies. Unified by shared victory.*
 
 *Dawnblade and Valen meet you with full military honors. Banners of both kingdoms side-by-side.*
 
@@ -11424,7 +11424,7 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 
 *"You've served beyond any reasonable expectation. Three years. Fifteen impossible tasks. You've earned rest. Retirement. Whatever you want.*
 
-*"But the peace you built still needs maintenance. Disputes arise. Tensions flare. Having neutral arbiters—trusted by all—is vital.*
+*"But the peace you built still needs maintenance. Disputes arise. Tensions flare. Having neutral arbiters, trusted by all, is vital.*
 
 *"The question: Do the Peacekeepers continue? And if so... is it still you?"*
 }}
@@ -11537,7 +11537,7 @@ Phylactery is in the Dread King's original crown. He wears it always. Even when 
 
 *(Shocked silence)*
 
-*Dawnblade: "But who will—"*
+*Dawnblade: "But who will, "*
 
 *You: "You will. All of you. You've relied on us for three years. Time to grow up. Make it work yourselves."*
 
@@ -11581,7 +11581,7 @@ Same options as Ending 2 - each PC retires how they wish.
 
 **Example 1: Warrior PC who showed mercy**
 {{description,note
-*You settle in a small village. Open a training hall. Teach young people combat—but more importantly, when NOT to fight. You become legendary not for battles won, but for battles prevented. You die at 80, surrounded by grateful students, having never killed another person after the campaign ended.*
+*You settle in a small village. Open a training hall. Teach young people combat, but more importantly, when NOT to fight. You become legendary not for battles won, but for battles prevented. You die at 80, surrounded by grateful students, having never killed another person after the campaign ended.*
 }}
 **Example 2: Rogue PC who stayed pragmatic**
 {{description,note
@@ -12873,13 +12873,13 @@ Each Necromancer Lord can take 2 legendary actions:
 **Role:** Dread King's lieutenants  
 **Location:** Dreadhost army
 
-**Ice Golems** (summoned by Dread King) — Use Stone Golem with:
+**Ice Golems** (summoned by Dread King). Use Stone Golem with:
 - **Cold Aura:** 10-ft. radius, 2d6 cold to creatures that start turn there
 - **Ice Slam:** +10 to hit, 3d8+6 bludgeoning + 2d6 cold
 
 ## Quest 3.4: The Unification
 
-**The Dread King (Empowered)** — Same as Quest 3.3 but with: ::
+**The Dread King (Empowered)**, Same as Quest 3.3 but with: ::
 - **Learned Tactics:** Advantage on saves vs effects he experienced before
 - **Frozen Domain:** Throne room is difficult terrain, DC 17 Con save each round or 3d6 cold
 - **Phylactery Link:** Regenerates 20 HP per turn while within 60 ft of crown
@@ -13325,7 +13325,7 @@ Each Necromancer Lord can take 2 legendary actions:
 - Can cast *command* at will (DC 17)
 - **Corruption:** DC 17 Wis save daily
 
-**Lore:** Fifth and final Component. Carried by General Marcus Vale (Aethoria) as protective talisman—he doesn't know its true nature. During the climactic battle, players may steal it for Corvus or claim it for themselves. ::
+**Lore:** Fifth and final Component. Carried by General Marcus Vale (Aethoria) as protective talisman, he doesn't know its true nature. During the climactic battle, players may steal it for Corvus or claim it for themselves. ::
 
 **Location:** Worn by General Marcus Vale (Aethoria military commander) ::
 
@@ -13607,7 +13607,7 @@ Items support campaign themes:
 ## Custom/Modified Monsters
 
 ## Act I Creatures
-**War Refugees** (Quest 1.1) — Use Commoner. If attacked, most flee. A few (1d6) try to defend with improvised weapons (+2 to hit, 1d4 damage).
+**War Refugees** (Quest 1.1), Use Commoner. If attacked, most flee. A few (1d6) try to defend with improvised weapons (+2 to hit, 1d4 damage).
 
 {{monster,frame
 ## Consortium Enforcers
@@ -13879,9 +13879,9 @@ ___
 **Role:** Republican defenders  
 **Encountered:** Large groups (30-150) (Quest 2.5, Act III)
 
-**Republican Veterans** (Quest 2.5, Act III) — Use Veteran. Believe strongly in democracy, will die for cause. **CR:** 3 (700 XP).
+**Republican Veterans** (Quest 2.5, Act III), Use Veteran. Believe strongly in democracy, will die for cause. **CR:** 3 (700 XP).
 
-**Thaldros Knights** (Quest 2.5, Act III) — Use Knight. Often mounted on warhorses in battle. **CR:** 3 (700 XP).
+**Thaldros Knights** (Quest 2.5, Act III): Use Knight. Often mounted on warhorses in battle. **CR:** 3 (700 XP).
 
 
 ## Act III Creatures
@@ -14068,7 +14068,7 @@ ___
 
 ## Constructs
 
-**Vault Guardian** (Quest 2.4) — See NPC Compendium for full stats. **Challenge:** 10 (5,900 XP).
+**Vault Guardian** (Quest 2.4), See NPC Compendium for full stats. **Challenge:** 10 (5,900 XP).
 
 {{monster,frame
 ## Ice Golems
@@ -14185,9 +14185,9 @@ Blood & Coin and Shattered Oaths occur simultaneously in the same world:
 | The War | Central conflict | Background context |
 | World-Splitter | Corvus recruiting help to find | PCs racing Corvus to find |
 
-**The Proxy War:** This campaign's "Aethoria forces" are actually Thaldrosian rebels backed by Aethorian gold and advisors. Aethoria is across the Sundering Sea—there is no land border. Envoy Valen is an Aethorian diplomat embedded with the rebellion, not a general commanding Aethorian troops.
+**The Proxy War:** This campaign's "Aethoria forces" are actually Thaldrosian rebels backed by Aethorian gold and advisors. Aethoria is across the Sundering Sea, there is no land border. Envoy Valen is an Aethorian diplomat embedded with the rebellion, not a general commanding Aethorian troops.
 
-**If running for players who've played Shattered Oaths:** They may recognize Corvus immediately and know his true nature. This is fine—let them use that knowledge, but remember he's presenting his scholar persona here.
+**If running for players who've played Shattered Oaths:** They may recognize Corvus immediately and know his true nature. This is fine: let them use that knowledge, but remember he's presenting his scholar persona here.
 
 ## BLOOD & COIN - DM QUICK REFERENCE
 ## At-a-Glance Campaign Guide
@@ -14549,7 +14549,7 @@ Blood & Coin and Shattered Oaths occur simultaneously in the same world:
 - **Session feels rushed:** Add roleplay moment, let players breathe
 - **Players stuck:** Give subtle hint through NPC or environmental clue
 
-*Remember: This is YOUR campaign. Adapt freely, reward creativity, and most importantly—have fun!*
+*Remember: This is YOUR campaign. Adapt freely, reward creativity, and most importantly, have fun!*
 
 ## RANDOM ENCOUNTER TABLES
 
@@ -14605,13 +14605,13 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 
 ##### Read Aloud:
 {{description,note
-*The Broken Blade tavern erupts in shouting. Two mercenary crews face off—four rough-looking fighters against three scarred veterans. Between them, a bloodied man in merchant clothes cowers.*
+*The Broken Blade tavern erupts in shouting. Two mercenary crews face off: four rough-looking fighters against three scarred veterans. Between them, a bloodied man in merchant clothes cowers.*
 
 *"We killed the target! That's OUR bounty!"*
 
 *"You killed his BROTHER. We killed the actual mark. Check the poster again, idiots!"*
 
-*Hands move toward weapons. The barkeep—a one-armed woman—reaches for a crossbow under the bar.*
+*Hands move toward weapons. The barkeep (a one-armed woman) reaches for a crossbow under the bar.*
 }}
 
 **THE SITUATION:** ::
@@ -14624,7 +14624,7 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 
 **Mediate (Persuasion DC 14):**
 {{description,note
-*"Look—the Black Wolves did half the work. They flushed the target, caused chaos. Split the bounty 60-40."*
+*"Look, the Black Wolves did half the work. They flushed the target, caused chaos. Split the bounty 60-40."*
 }}
 
 - Success: Both crews grudgingly accept, owe party minor favor
@@ -14653,18 +14653,18 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 
 ##### Read Aloud:
 {{description,note
-*A grizzled dwarf in battered armor blocks your path. His left hand is missing—replaced by a crude hook. His eyes are wild, desperate.*
+*A grizzled dwarf in battered armor blocks your path. His left hand is missing: replaced by a crude hook. His eyes are wild, desperate.*
 
-*"You. You look capable. I need work. Anything. I can still fight—lost the hand, not my skill. Please. Three weeks without a contract. I've got a daughter..."*
+*"You. You look capable. I need work. Anything. I can still fight. Lost the hand, not my skill. Please. Three weeks without a contract. I've got a daughter..."*
 
 *His voice cracks. Behind him, you notice a young dwarven girl, maybe eight years old, watching from an alley. She's thin. Too thin.*
 }}
 
 **THE SITUATION:** ::
 - Torvin Steelhammer lost his hand on last job
-- Guild won't hire him—liability concern
+- Guild won't hire him, liability concern
 - Daughter Mira hasn't eaten properly in days
-- He's not begging—he's asking for honest work
+- He's not begging. He's asking for honest work
 
 **RESOLUTION OPTIONS:** ::
 
@@ -14703,7 +14703,7 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 - -2 to attack rolls (missing hand)
 - Can use hook as improvised weapon (1d4 piercing)
 - Speaks Dwarvish, Common
-- Knows Crossroads intimately—advantage on local knowledge checks
+- Knows Crossroads intimately: advantage on local knowledge checks
 
 **CONSEQUENCES:** ::
 - Torvin becomes recurring NPC (ally or tragic figure)
@@ -14714,7 +14714,7 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 
 ##### Read Aloud:
 {{description,note
-*You're enjoying a quiet drink when a serving girl stumbles against your table, spilling ale across your lap. As she apologizes profusely, cleaning the mess, her eyes flick to your mug—just for an instant.*
+*You're enjoying a quiet drink when a serving girl stumbles against your table, spilling ale across your lap. As she apologizes profusely, cleaning the mess, her eyes flick to your mug, just for an instant.*
 
 *"So sorry! Let me get you a fresh one, on the house!"*
 
@@ -14729,7 +14729,7 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 **THE SITUATION:** ::
 - Serving girl (Nessa) was paid to poison party member
 - Poison: Assassin's Blood (DC 15 CON or 1d12 poison + poisoned 24 hrs)
-- She doesn't know who hired her—dead drop payment
+- She doesn't know who hired her: dead drop payment
 - She's terrified, not malicious
 
 \column
@@ -14775,7 +14775,7 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 
 ##### Read Aloud:
 {{description,note
-*A massive half-orc in fighting leathers approaches your table. Scars crisscross his green skin. He drops a bronze token in front of you—it bears an image of crossed swords over a pit.*
+*A massive half-orc in fighting leathers approaches your table. Scars crisscross his green skin. He drops a bronze token in front of you. It bears an image of crossed swords over a pit.*
 
 *"You fight good. I seen you work." His voice is gravel. "Bloodpit needs fresh meat. Legal fights, good gold. You interested, come tonight. Warehouse by the south gate. Show the token."*
 *He leaves without waiting for an answer.*
@@ -14829,7 +14829,7 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 
 ##### Read Aloud:
 {{description,note
-*Three Iron Guild enforcers block your path as you leave your lodgings. The leader—a scarred woman with sergeant's marks—steps forward.*
+*Three Iron Guild enforcers block your path as you leave your lodgings. The leader (a scarred woman with sergeant's marks) steps forward.*
 
 *"Word is you've been taking jobs without guild registration. That's a problem. Guild takes 15% of all contracts in Crossroads. You owe us back-dues. Let's call it... 100 gold. Pay now, or we have a different conversation."*
 }}
@@ -14869,7 +14869,7 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 - Beating them = assault charges OR respect if no witnesses
 
 **Report to Varak:** ::
-- Varak furious—this damages guild reputation
+- Varak furious. This damages guild reputation
 - Kira's crew disciplined (demoted or expelled)
 - Party earns Varak's respect: "You handled that right."
 - Possible reward: First contract fee waived
@@ -14883,15 +14883,15 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 
 ##### Read Aloud:
 {{description,note
-*You wake to find a dagger pinning a note to your door frame. The dagger is expensive—silver handle, razor edge. The note reads:*
+*You wake to find a dagger pinning a note to your door frame. The dagger is expensive: silver handle, razor edge. The note reads:*
 
-*"You've been noticed. The Syndicate extends professional courtesy—one time only. Walk away from the Thornwood contract. Compensation for your trouble will be left at the Dead Dog tavern, under the third floorboard from the bar. This offer expires at dawn. There will not be a second message."*
+*"You've been noticed. The Syndicate extends professional courtesy, one time only. Walk away from the Thornwood contract. Compensation for your trouble will be left at the Dead Dog tavern, under the third floorboard from the bar. This offer expires at dawn. There will not be a second message."*
 }}
 
 **THE SITUATION:** ::
 - The Syndicate wants party off a specific contract
 - They're offering 200 gold to walk away
-- The "courtesy" is genuine—they prefer bribery to bloodshed
+- The "courtesy" is genuine, they prefer bribery to bloodshed
 - If party refuses, Syndicate becomes active enemy
 {{pageNumber,auto}}
 \page
@@ -14913,7 +14913,7 @@ Use these when you want richer interactions in Crossroads. Each includes full di
 - Stake out Dead Dog tavern
 - Syndicate operative (Spy stat block) checks if gold is taken
 - Can follow back to Syndicate safehouse
-- Dangerous—they're professionals too
+- Dangerous: they're professionals too
 
 **Report to Client:** ::
 - Client appreciates warning
@@ -15073,7 +15073,7 @@ ___
 ***Hypnotic Rebuke (Recharge 5-6).*** When a creature within 30 feet attacks Marcus, he can force it to make a DC 15 Wisdom save. On failure, the attack misses and the creature is charmed until the end of its next turn.
 }}
 
-**Background:** Marcus Valen rose from a merchant family to become the Aetheran Republic's most skilled diplomat. He genuinely believes in democracy and freedom, but he's learned that idealism alone doesn't win wars. He'll use manipulation, blackmail, and enchantment magic to protect the Republic—hating himself for it afterward.
+**Background:** Marcus Valen rose from a merchant family to become the Aetheran Republic's most skilled diplomat. He genuinely believes in democracy and freedom, but he's learned that idealism alone doesn't win wars. He'll use manipulation, blackmail, and enchantment magic to protect the Republic. Hating himself for it afterward.
 
 **Personality:** Warm, genuine, exhausted. Speaks like someone who desperately wants to believe in people but has seen too much. Carries guilt for the compromises he's made.
 {{pageNumber,auto}}
@@ -15083,7 +15083,7 @@ ___
 
 **Secret:** He's willing to use deeply undemocratic means (mind control, assassination) to protect democracy. The cognitive dissonance is destroying him. He drinks too much.
 
-**Tactics:** Avoids direct combat entirely. Uses *greater invisibility* and *dimension door* to escape. If cornered, uses *dominate person* on the strongest enemy. Will surrender rather than die—too many secrets in his head.
+**Tactics:** Avoids direct combat entirely. Uses *greater invisibility* and *dimension door* to escape. If cornered, uses *dominate person* on the strongest enemy. Will surrender rather than die: too many secrets in his head.
 
 **Quote:** *"I believe in freedom. I believe in democracy. I believe in people. And sometimes protecting those beliefs requires... flexibility."*
 
@@ -15161,11 +15161,11 @@ When fighting in his sanctum, Arcanus can use lair actions:
 {{pageNumber,auto}}
 \page
 
-**Background:** Arcanus was once Magistar Corvellian, Court Wizard to the ancient Ashford dynasty three centuries ago. His experiments into immortality succeeded—at the cost of everything else. He's manipulated kingdoms, started wars, and cultivated promising necromancers for generations. Corvus Blackwood is merely his latest protégé—and potential replacement vessel.
+**Background:** Arcanus was once Magistar Corvellian, Court Wizard to the ancient Ashford dynasty three centuries ago. His experiments into immortality succeeded, at the cost of everything else. He's manipulated kingdoms, started wars, and cultivated promising necromancers for generations. Corvus Blackwood is merely his latest protégé, and potential replacement vessel.
 
 **Tactics:** Opens with *time stop* to buff and position. Uses *forcecage* to isolate threats. Maintains undead army as meat shields. Uses legendary actions to control action economy. Will *plane shift* to escape rather than risk true destruction.
 
-**Secret:** His phylactery requires souls to maintain—he needs Corvus to deliver sacrifices. If Corvus learned he was meant to become Arcanus's new body, the alliance would shatter.
+**Secret:** His phylactery requires souls to maintain. He needs Corvus to deliver sacrifices. If Corvus learned he was meant to become Arcanus's new body, the alliance would shatter.
 
 **Quote:** *"Three hundred years, child. I've manipulated a dozen 'chosen ones' like you. You're useful. Don't mistake that for valued."*
 
@@ -15514,9 +15514,9 @@ Blood & Coin and Shattered Oaths occur simultaneously in the same world:
 | The War | Central conflict | Background context |
 | World-Splitter | Corvus recruiting help to find | PCs racing Corvus to find |
 
-**The Proxy War:** This campaign's "Aethoria forces" are actually Thaldrosian rebels backed by Aethorian gold and advisors. Aethoria is across the Sundering Sea—there is no land border. Envoy Valen is an Aethorian diplomat embedded with the rebellion, not a general commanding Aethorian troops.
+**The Proxy War:** This campaign's "Aethoria forces" are actually Thaldrosian rebels backed by Aethorian gold and advisors. Aethoria is across the Sundering Sea: there is no land border. Envoy Valen is an Aethorian diplomat embedded with the rebellion, not a general commanding Aethorian troops.
 
-**If running for players who've played Shattered Oaths:** They may recognize Corvus immediately and know his true nature. This is fine—let them use that knowledge, but remember he's presenting his scholar persona here.
+**If running for players who've played Shattered Oaths:** They may recognize Corvus immediately and know his true nature. This is fine, let them use that knowledge, but remember he's presenting his scholar persona here.
 {{pageNumber,auto}}
 \page
 
@@ -15928,7 +15928,7 @@ Welcome to **Crossroads**, where the only laws are contracts and survival. In **
 :
 **This campaign will challenge you to:** 
 - Make impossible choices where there's no "right" answer
-- Build a reputation that opens doors—or closes them
+- Build a reputation that opens doors, or closes them
 - Balance profit against principle
 - Survive in a world that doesn't care about your intentions
 

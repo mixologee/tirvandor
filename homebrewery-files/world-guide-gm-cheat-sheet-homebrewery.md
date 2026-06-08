@@ -810,7 +810,7 @@ if it can be prevented---before it's too late.
 
 -   The Unseen Hand conspiracy.
 
--   Merchant League vs. noble houses.
+-   Merchant League vs. noble houses.
 
 -   University funding battles.
 

@@ -83,7 +83,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ DM Tips for Smooth Sessions}}{{ 5}}](#p11)
     - [{{ Rule of Cool}}{{ 5}}](#p11)
     - [{{ The Three Clue Rule}}{{ 5}}](#p11)
-    - [{{ Yes, And…}}{{ 5}}](#p11)
+    - [{{ Yes, And...}}{{ 5}}](#p11)
     - [{{ Pacing Tricks}}{{ 5}}](#p11)
     - [{{ When to Call for Rolls}}{{ 5}}](#p11)
   - #### [{{ Major Cities & Regions at a Glance}}{{ 6}}](#p12)
@@ -2488,9 +2488,9 @@ When players try creative solutions, say "yes, and..." instead of "no"
  PRE-SESSION PLANNING                        Session #: _____      Date: ______________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
- CAMPAIGN: â–¡ Blood & Coin   â–¡ Shattered Oaths   â–¡ Other: __________   LENGTH: _____ hrs
+ CAMPAIGN: □ Blood & Coin   □ Shattered Oaths   □ Other: __________   LENGTH: _____ hrs
 
- PLAYERS:  â–¡ _______________  â–¡ _______________  â–¡ _______________  â–¡ _______________
+ PLAYERS:  □ _______________  □ _______________  □ _______________  □ _______________
 
  LAST SESSION RECAP: _________________________________________________________________
 
@@ -2499,11 +2499,11 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  PLANNED ENCOUNTERS:
 
- #1: _______________________________  â–¡ Combat â–¡ Social â–¡ Exploration  â–¡E â–¡M â–¡H â–¡D
+ #1: _______________________________  □ Combat □ Social □ Exploration  □E □M □H □D
 
- #2: _______________________________  â–¡ Combat â–¡ Social â–¡ Exploration  â–¡E â–¡M â–¡H â–¡D
+ #2: _______________________________  □ Combat □ Social □ Exploration  □E □M □H □D
 
- #3: _______________________________  â–¡ Combat â–¡ Social â–¡ Exploration  â–¡E â–¡M â–¡H â–¡D
+ #3: _______________________________  □ Combat □ Social □ Exploration  □E □M □H □D
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  KEY NPCs:  Name / Role / Motivation / Secret
@@ -2515,11 +2515,11 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  PREP CHECKLIST:                                       REWARDS:
 
- â–¡ Maps: ________________________________              Gold: _____________ GP
+ □ Maps: ________________________________              Gold: _____________ GP
 
- â–¡ Handouts: ____________________________              Items: ________________________
+ □ Handouts: ____________________________              Items: ________________________
 
- â–¡ Music: _______________________________              XP: __________________________
+ □ Music: _______________________________              XP: __________________________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  IF PLAYERS DO X: ____________________________________________________________________
@@ -2572,11 +2572,11 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  NPC INTERACTIONS:                           COMBAT ENCOUNTERS:
 
- NPC: ___________________ â–¡F â–¡N â–¡H           Encounter: ______________________________
+ NPC: ___________________ □F □N □H           Encounter: ______________________________
 
- NPC: ___________________ â–¡F â–¡N â–¡H           Rounds: ____  Outcome: â–¡Win â–¡Flee â–¡Nego
+ NPC: ___________________ □F □N □H           Rounds: ____  Outcome: □Win □Flee □Nego
 
- NPC: ___________________ â–¡F â–¡N â–¡H           MVP: ____________  Casualties: _________
+ NPC: ___________________ □F □N □H           MVP: ____________  Casualties: _________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  LOOT ACQUIRED:   Gold: _______ GP       Items: ______________________________________
@@ -2619,11 +2619,11 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  QUEST STATUS:
 
- Quest: _______________________________  â–¡ Started â–¡ Progress â–¡ Done â–¡ Failed  Next: _
+ Quest: _______________________________  □ Started □ Progress □ Done □ Failed  Next: _
 
- Quest: _______________________________  â–¡ Started â–¡ Progress â–¡ Done â–¡ Failed  Next: _
+ Quest: _______________________________  □ Started □ Progress □ Done □ Failed  Next: _
 
- Quest: _______________________________  â–¡ Started â–¡ Progress â–¡ Done â–¡ Failed  Next: _
+ Quest: _______________________________  □ Started □ Progress □ Done □ Failed  Next: _
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  ACTIVE PLOT THREADS:                        NPC RELATIONSHIP CHANGES:
@@ -2654,10 +2654,10 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  WORKED WELL:  ✓ __________________  ✓ __________________  ✓ __________________
 
- IMPROVE:      âš  __________________  âš  __________________  âš  __________________
+ IMPROVE:      ⚠ __________________  ⚠ __________________  ⚠ __________________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
- PREP FOR NEXT:  â–¡ __________________  â–¡ __________________  â–¡ __________________
+ PREP FOR NEXT:  □ __________________  □ __________________  □ __________________
 ```
 }}
 {{pageNumber,auto}}
@@ -2673,9 +2673,9 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  NPC NAME: ________________________________________    FIRST SEEN: Session #__________
 
- STATUS: â–¡ Alive   â–¡ Dead   â–¡ Missing   â–¡ Unknown     LOCATION: _____________________
+ STATUS: □ Alive   □ Dead   □ Missing   □ Unknown     LOCATION: _____________________
 
- RELATIONSHIP: â–¡ Allied   â–¡ Friendly   â–¡ Neutral   â–¡ Unfriendly   â–¡ Hostile
+ RELATIONSHIP: □ Allied   □ Friendly   □ Neutral   □ Unfriendly   □ Hostile
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  INTERACTION LOG:
@@ -2695,9 +2695,9 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  PROMISES:
 
- â–¡ NPC promised: __________________________________________  â–¡ Kept â–¡ Broken â–¡ Pending
+ □ NPC promised: __________________________________________  □ Kept □ Broken □ Pending
 
- â–¡ Party promised: ________________________________________  â–¡ Kept â–¡ Broken â–¡ Pending
+ □ Party promised: ________________________________________  □ Kept □ Broken □ Pending
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  SECRETS REVEALED:
@@ -2787,7 +2787,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 
 ═════════════════════════════════════════════════════════════════════════════════════════
 
- BALANCE:   Expected: _______ GP    Actual: _______ GP    â–¡ More   â–¡ Less   â–¡ On Track
+ BALANCE:   Expected: _______ GP    Actual: _______ GP    □ More   □ Less   □ On Track
 ```
 }}
 {{pageNumber,auto}}
@@ -2798,7 +2798,7 @@ When players try creative solutions, say "yes, and..." instead of "no"
 {{wide
 ```
 ═════════════════════════════════════════════════════════════════════════════════════════
- CAMPAIGN MILESTONE TRACKER                â–¡ Blood & Coin   â–¡ Shattered Oaths   â–¡ Custom
+ CAMPAIGN MILESTONE TRACKER                □ Blood & Coin   □ Shattered Oaths   □ Custom
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  START: ___________    CURRENT SESSION: #______    ESTIMATED TOTAL: ______ sessions
@@ -2806,30 +2806,30 @@ When players try creative solutions, say "yes, and..." instead of "no"
 ═════════════════════════════════════════════════════════════════════════════════════════
  STORY ARCS:
 
- Arc 1: ____________________________________  â–¡ Not Started  â–¡ In Progress  â–¡ Complete
+ Arc 1: ____________________________________  □ Not Started  □ In Progress  □ Complete
         Sessions: ___/___   Events: __________________________________________________
 
- Arc 2: ____________________________________  â–¡ Not Started  â–¡ In Progress  â–¡ Complete
+ Arc 2: ____________________________________  □ Not Started  □ In Progress  □ Complete
         Sessions: ___/___   Events: __________________________________________________
 
- Arc 3: ____________________________________  â–¡ Not Started  â–¡ In Progress  â–¡ Complete
+ Arc 3: ____________________________________  □ Not Started  □ In Progress  □ Complete
         Sessions: ___/___   Events: __________________________________________________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  CAMPAIGN GOALS:
 
- Primary: ______________________________________  [â–'â–'â–'â–'â–'â–'â–'â–'â–'â–'] _____%   by Sess #_____
+ Primary: ______________________________________  [░░░░░░░░░░] _____%   by Sess #_____
 
- Secondary: ____________________________________  [â–'â–'â–'â–'â–'â–'â–'â–'â–'â–'] _____%   by Sess #_____
+ Secondary: ____________________________________  [░░░░░░░░░░] _____%   by Sess #_____
 
 ═════════════════════════════════════════════════════════════════════════════════════════
- NPCs MET:        â–¡ __________  â–¡ __________  â–¡ __________  â–¡ __________  â–¡ __________
+ NPCs MET:        □ __________  □ __________  □ __________  □ __________  □ __________
 
- NPCs REMAINING:  â–¡ __________  â–¡ __________  â–¡ __________
+ NPCs REMAINING:  □ __________  □ __________  □ __________
 
- LOCATIONS VISITED:    â–¡ __________  â–¡ __________  â–¡ __________  â–¡ __________
+ LOCATIONS VISITED:    □ __________  □ __________  □ __________  □ __________
 
- LOCATIONS REMAINING:  â–¡ __________  â–¡ __________  â–¡ __________
+ LOCATIONS REMAINING:  □ __________  □ __________  □ __________
 
 ═════════════════════════════════════════════════════════════════════════════════════════
  MAJOR BATTLES:
@@ -3849,7 +3849,7 @@ The Campaign Dashboard is your **mission control** for running Tirvandor campaig
 
 **What is Tirvandor?**
 
-Tirvandor is a world where magic flows through ancient ley lines like rivers beneath the earth, where two great continents were once joined until a catastrophic event known as the Worldrend split them apart. Three thousand years later, the kingdoms of Thaldros and Aethoria remain divided—not by distance, but by pride, philosophy, and old wounds that refuse to heal.
+Tirvandor is a world where magic flows through ancient ley lines like rivers beneath the earth, where two great continents were once joined until a catastrophic event known as the Worldrend split them apart. Three thousand years later, the kingdoms of Thaldros and Aethoria remain divided, not by distance, but by pride, philosophy, and old wounds that refuse to heal.
 
 ---
 
@@ -3874,7 +3874,7 @@ Tirvandor is a world where magic flows through ancient ley lines like rivers ben
 
 **The Great Divide:**
 
-The kingdoms were once united under a single banner. Then came the Worldrend—an arcane catastrophe that literally split the landmass in two. Each side blames the other. Each side has legitimate grievances. Both want reunification, but on their terms.
+The kingdoms were once united under a single banner. Then came the Worldrend, an arcane catastrophe that literally split the landmass in two. Each side blames the other. Each side has legitimate grievances. Both want reunification, but on their terms.
 
 **Thaldros Kingdom** (West - Humans)
 - **Ruler:** King Aldric IV Thandris
@@ -4301,7 +4301,7 @@ Help players create bonds:
 
 **Welcome to Tirvandor!**
 
-Your adventure begins in a world torn by ancient catastrophe, where magic runs deep and every choice matters. Whether you seek to reunite the kingdoms or tear them further apart, to accumulate wealth or save lives, to serve a faction or serve only yourself—the choice is yours.
+Your adventure begins in a world torn by ancient catastrophe, where magic runs deep and every choice matters. Whether you seek to reunite the kingdoms or tear them further apart, to accumulate wealth or save lives, to serve a faction or serve only yourself, the choice is yours.
 
 *The realm awaits, adventurer.*
 
@@ -4452,7 +4452,7 @@ d20 Roll | Encounter
 16 | Poison dealer offering "professional supplies" discreetly
 17 | Mercenary captain recruiting for suicide mission, huge pay
 18 | Assassin (Assassin stat block) watching mark at tavern
-19 | Iron Guild internal dispute—two captains draw weapons
+19 | Iron Guild internal dispute, two captains draw weapons
 20 | Varak Ironfist personally seeking capable team for sensitive job
 
 \column
@@ -4471,7 +4471,7 @@ d20 Roll | Encounter
 8 | Street illusionist performing, hat collecting coins
 9 | Magical item appraiser offers free evaluation (actually fair)
 10 | Student protest against academy tuition increases
-11 | Wizard's experiment escapes lab—animated objects causing chaos
+11 | Wizard's experiment escapes lab, animated objects causing chaos
 12 | Rare book dealer has "forbidden" tome, very expensive
 13 | Academy guard asking about stolen component (valuable reagent)
 14 | Fortune teller with genuine minor divination, cryptic warnings
@@ -4479,7 +4479,7 @@ d20 Roll | Encounter
 16 | Magical duel in designated area, crowd watching, bets placed
 17 | Cult recruiter targeting disillusioned students
 18 | Professor seeks adventurers to retrieve item from dangerous ruin
-19 | Wild magic surge from academy—random magical effect hits street
+19 | Wild magic surge from academy, random magical effect hits street
 20 | Archmage Veridian's simulacrum delivering urgent summons
 
 {{pageNumber,auto}}
@@ -5985,7 +5985,7 @@ ___
 
 ***Leadership (Recharge 5-6).*** For 1 minute, Aldric can utter a special command. Any ally within 30 feet can add a d4 to attack rolls and saving throws.
  ::
-*"The mountain bows to no one—neither shall we."*
+*"The mountain bows to no one, neither shall we."*
 }}
 
 
@@ -7205,7 +7205,7 @@ END OF LICENSE
 Tirvandor Dungeon Master's Toolkit: Quick Reference for Tirvandor
 
 :
-Everything a Dungeon Master needs at their fingertips. No more flipping through multiple books mid-session—this toolkit puts Tirvandor's essential information in one place, organized for fast reference during play.
+Everything a Dungeon Master needs at their fingertips. No more flipping through multiple books mid-session, this toolkit puts Tirvandor's essential information in one place, organized for fast reference during play.
 Whether you're running a tense negotiation in Kaer Thandros, a desperate chase through Goldreach's streets, or an ambush in the Ashfall Barrens, this book has you covered.
 
 This Toolkit contains: ::

@@ -49,7 +49,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 {{toc,wide
 # Contents
 
-- ### [{{ Blood & Coin: Player’s Guide}}{{ 1}}](#p4)
+- ### [{{ Blood & Coin: Player's Guide}}{{ 1}}](#p4)
   - #### [{{ Campaign Overview}}{{ 1}}](#p4)
     - [{{ What is Blood & Coin?}}{{ 1}}](#p4)
   - #### [{{ Who You Are}}{{ 1}}](#p4)
@@ -66,7 +66,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - #### [{{ Contract Types}}{{ 3}}](#p6)
     - [{{ What Kinds of Jobs Will You Take?}}{{ 3}}](#p6)
   - #### [{{ Moral Choices & Consequences}}{{ 4}}](#p7)
-    - [{{ The Mercenary’s Dilemma}}{{ 4}}](#p7)
+    - [{{ The Mercenary's Dilemma}}{{ 4}}](#p7)
   - #### [{{ Campaign Structure}}{{ 4}}](#p7)
     - [{{ What to Expect}}{{ 4}}](#p7)
   - #### [{{ Starting the Campaign}}{{ 4}}](#p7)
@@ -99,7 +99,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 ## Campaign Overview
 
 ### What is Blood & Coin?
-Blood & Coin is a mercenary-focused campaign set in the Border region of Thaldros—a contested frontier zone between the Kingdom's central authority and independent territories. You play professional fighters-for-hire working for the Iron Guild, taking contracts from anyone with gold to spend. This is a morally gray campaign where money talks, loyalty is negotiable, and survival depends on your skills and reputation.
+Blood & Coin is a mercenary-focused campaign set in the Border region of Thaldros, a contested frontier zone between the Kingdom's central authority and independent territories. You play professional fighters-for-hire working for the Iron Guild, taking contracts from anyone with gold to spend. This is a morally gray campaign where money talks, loyalty is negotiable, and survival depends on your skills and reputation.
 
 **Core Themes** ::
 - Professional mercenary work
@@ -122,11 +122,11 @@ Blood & Coin is a mercenary-focused campaign set in the Border region of Thaldro
 You are members of (or affiliated with) the Iron Guild, the largest and most respected mercenary organization in the Border. The Guild operates under strict professional standards:
 
 **The Guild Code:** ::
-1. Honor Contracts – A contract, once signed, is sacred
-2. No Betrayal – Never betray your squad or employer (during the contract)
+1. Honor Contracts, A contract, once signed, is sacred
+2. No Betrayal, Never betray your squad or employer (during the contract)
 3. Fair Payment – Good work deserves good pay
-4. Professional Conduct – Mercenaries, not bandits
-5. Reputation Matters – Your word is your bond
+4. Professional Conduct: Mercenaries, not bandits
+5. Reputation Matters, Your word is your bond
 
 **What This Means:** ::
 - You're professionals, not murder-hobos
@@ -182,9 +182,9 @@ Personality: Charming, clever, connected ::
 All races work, but some fit the mercenary life better:
 
 **Highly Recommended:** ::
-Human – Versatile, common, no stigma. Most mercenaries are human. ::
-Half-Orc – Respected for strength. "Hired muscle" stereotype but well-paid. ::
-Dwarf – Reliable, tough. Good reputation in the Guild. ::
+Human: Versatile, common, no stigma. Most mercenaries are human. ::
+Half-Orc: Respected for strength. "Hired muscle" stereotype but well-paid. ::
+Dwarf: Reliable, tough. Good reputation in the Guild. ::
 Half-Elf – Adaptable, good with people. Excellent negotiators. ::
 
 {{pageNumber,auto}}
@@ -192,53 +192,53 @@ Half-Elf – Adaptable, good with people. Excellent negotiators. ::
 \page
 
 **Good Choices:** ::
-Dragonborn – Intimidating, loyal. Sought after for elite squads. ::
-Tiefling – Distrusted by some, but talent talks. Lower starting reputation. ::
-Halfling – Underestimated, which can be an advantage. Good scouts. ::
+Dragonborn: Intimidating, loyal. Sought after for elite squads. ::
+Tiefling: Distrusted by some, but talent talks. Lower starting reputation. ::
+Halfling. Underestimated, which can be an advantage. Good scouts. ::
 
 **Challenging (But Playable):** ::
-Elf – Seen as aloof or too "noble." Must prove yourself. ::
-Gnome – Rare in mercenary work. Better as support/magic specialists. ::
+Elf: Seen as aloof or too "noble." Must prove yourself. ::
+Gnome: Rare in mercenary work. Better as support/magic specialists. ::
 
 ### Step 3: Select Class & Subclass
 
-**Fighter** – Iron Guild Veteran ::
+**Fighter**: Iron Guild Veteran ::
 
 THE quintessential Blood & Coin subclass
 Professional, adaptable, respected
 High pay rate, good reputation
 This subclass was designed for this campaign
 
-**Rogue** – Shadow Broker ::
+**Rogue**, Shadow Broker ::
 Intelligence gathering specialist
 Information is gold
 Valuable to any squad
 This subclass was designed for this campaign
 
-**Bard** – College of the Iron Tongue ::
+**Bard**: College of the Iron Tongue ::
 Contract specialist and negotiator
 Essential for good deals
 Magical contract enforcement
 This subclass was designed for this campaign
 
-**Barbarian** – Path of the Border Reaver – Professional raider ::
+**Barbarian**, Path of the Border Reaver: Professional raider ::
 
-**Cleric** – War Chaplain – Military healer ::
-**Fighter** – Champion – Tactical expert ::
-**Monk** – Way of the Coin – Martial artist for hire ::
-**Ranger** – Border Warden – Frontier scout ::
-**Rogue** – Assassin – Professional killer ::
-**Warlock** – Pact of War Profiteer – Dark power from conflict ::
+**Cleric**, War Chaplain: Military healer ::
+**Fighter**, Champion: Tactical expert ::
+**Monk**, Way of the Coin: Martial artist for hire ::
+**Ranger**, Border Warden: Frontier scout ::
+**Rogue**, Assassin: Professional killer ::
+**Warlock**, Pact of War Profiteer: Dark power from conflict ::
 
 Most other subclasses work with the right backstory
 Ex–soldiers, former criminals, outcasts, refugees
 Anyone who needs money and can fight
 
 **Challenging** (Requires Justification) ::
-**Paladin** – Oath of Devotion – Hard to be idealistic mercenary ::
-**Paladin** – Oath of Liberty – Freedom fighter, not mercenary ::
-**Cleric** – Life Domain – Better suited to temple work ::
-**Druid** – Most circles – Nature vs. profit conflict ::
+**Paladin**, Oath of Devotion: Hard to be idealistic mercenary ::
+**Paladin**, Oath of Liberty: Freedom fighter, not mercenary ::
+**Cleric**, Life Domain: Better suited to temple work ::
+**Druid**, Most circles: Nature vs. profit conflict ::
 *Note: Challenging doesn't mean impossible! Just needs a good character concept.*::
 
 \column
@@ -288,41 +288,41 @@ Why are you a mercenary?
 Choose 1-2 motivations. These drive your character:
 
 #### Pragmatic Motivations:
-**Need Money** – Survival, debts, family support ::
+**Need Money**: Survival, debts, family support ::
 **Best Option** – War refugee, no other skills ::
-**Professional Pride** – You're good at this, why quit? ::
-**Adventure** – Beats farming or shop-keeping ::
-**Reputation** – Building a name in the Guild ::
+**Professional Pride**: You're good at this, why quit? ::
+**Adventure**: Beats farming or shop-keeping ::
+**Reputation**, Building a name in the Guild ::
 
 #### Deeper Motivations:
-**Running From Past** – War crimes, failures, lost love ::
-**Seeking Someone** – Lost family, enemy, old friend ::
-**Revenge** – Against nation, person, organization (be careful) ::
+**Running From Past**: War crimes, failures, lost love ::
+**Seeking Someone**. Lost family, enemy, old friend ::
+**Revenge**, Against nation, person, organization (be careful) ::
 
 {{pageNumber,auto}}
 {{footnote Blood & Coin Player's Guide}}
 \page
 
-**Redemption** – Trying to be better than you were ::
-**Ideals** – Money is means to an end (free homeland, etc.) ::
+**Redemption**, Trying to be better than you were ::
+**Ideals**: Money is means to an end (free homeland, etc.) ::
 
 #### Dark Motivations:
-**Love of Violence** – You enjoy combat (don't be edgy) ::
-**Power** – Money = power, and you want it ::
-**Survival** – Kill or be killed mindset ::
-**Nihilism** – Nothing matters but gold and blood ::
+**Love of Violence**. You enjoy combat (don't be edgy) ::
+**Power**: Money = power, and you want it ::
+**Survival**: Kill or be killed mindset ::
+**Nihilism**: Nothing matters but gold and blood ::
 
 ### Step 6: Squad Bonds
 You're part of a mercenary squad. How do you know each other?
 Choose or roll 1d8:
 1. Veterans – Served together in previous contracts
-2. Guild Training – Met during Iron Guild recruitment/training
-3. Saved Each Other – One saved another's life in combat
+2. Guild Training, Met during Iron Guild recruitment/training
+3. Saved Each Other: One saved another's life in combat
 4. Recommended – A mutual contact brought you together
-5. Former Enemies – Fought on opposite sides once, now allies
+5. Former Enemies: Fought on opposite sides once, now allies
 6. Family/Friends – Preexisting relationship outside mercenary work
-7. Strangers – Just assigned to same squad by the Guild
-8. Shared Trauma – Survived something terrible together
+7. Strangers: Just assigned to same squad by the Guild
+8. Shared Trauma: Survived something terrible together
 Important: You trust your squad (at least professionally). Mercenaries who betray their own don't last long.
 
 ## Iron Guild Reputation System
@@ -447,11 +447,11 @@ But the world will react to them*
 
 ### What to Expect
 Typical Session:
-1. Downtime – Recover, train, shop, role play (30 min)
+1. Downtime. Recover, train, shop, role play (30 min)
 2. Contract Briefing – Get mission details, negotiate pay (15 min)
 3. Preparation – Plan, gather intel, prepare (15 min)
-4. Mission – Execute the contract (2 hours)
-5. Aftermath – Get paid, reputation changes, consequences (30 min)
+4. Mission, Execute the contract (2 hours)
+5. Aftermath: Get paid, reputation changes, consequences (30 min)
 
 Campaign Progression ::
 - Levels 1-4: Local contracts, building reputation
@@ -559,16 +559,16 @@ Discuss as a group:
 Each PC should have 1-2 NPC contacts:
 
 **Guild Officials** ::
-- Contract Broker – Gets you jobs
+- Contract Broker, Gets you jobs
 - Quartermaster – Supplies and equipment
-- Trainer – Teaches new skills
-- Medic – Patches you up cheap
+- Trainer: Teaches new skills
+- Medic: Patches you up cheap
 
 **Other Mercenaries** ::
-- Mentor – Experienced merc who trained you
-- Rival – Competing mercenary (friendly or hostile)
-- Former Squad – Old companions from past contracts
-- Contact – Information broker, smuggler, fence
+- Mentor, Experienced merc who trained you
+- Rival: Competing mercenary (friendly or hostile)
+- Former Squad: Old companions from past contracts
+- Contact, Information broker, smuggler, fence
 
 ## Equipment & Starting Gear
 
@@ -581,11 +581,11 @@ Each PC should have 1-2 NPC contacts:
 - Iron Guild signet ring (for identification)
 
 **Recommended Purchases** ::
-- Healing potions – You'll need them
-- Rope and climbing gear – Always useful
+- Healing potions: You'll need them
+- Rope and climbing gear. Always useful
 - Thieves' tools – For those sneaky contracts
 - Good quality weapon – Your life depends on it
-- Armor upgrades – As soon as you can afford
+- Armor upgrades. As soon as you can afford
 
 **Optional Equipment** ::
 - Disguise kit (covert ops)
@@ -634,11 +634,11 @@ Each PC should have 1-2 NPC contacts:
 ### How to Succeed in Blood & Coin
 
 #### IN COMBAT
-- Work as a team – You're professionals
-- Use tactics – Positioning matters
-- Conserve resources – Multiple fights per day
-- Protect your healer – They keep you alive
-- Retreat when needed – Dead mercs earn nothing
+- Work as a team: You're professionals
+- Use tactics: Positioning matters
+- Conserve resources: Multiple fights per day
+- Protect your healer: They keep you alive
+- Retreat when needed: Dead mercs earn nothing
 
 #### Out of Combat 
 - Gather intel before missions
@@ -655,11 +655,11 @@ Each PC should have 1-2 NPC contacts:
 - Have personal goals beyond money
 
 #### DON'T 
-- Murder-hobo – You're professionals
-- Betray the squad – Death sentence
-- Ignore contracts – Reputation matters
-- Be a lone wolf – This is team-based
-- Expect easy answers – Moral complexity is the point
+- Murder-hobo: You're professionals
+- Betray the squad: Death sentence
+- Ignore contracts: Reputation matters
+- Be a lone wolf: This is team-based
+- Expect easy answers: Moral complexity is the point
 
 ## Setting Information
 
