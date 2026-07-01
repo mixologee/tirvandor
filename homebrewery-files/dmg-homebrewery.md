@@ -5550,9 +5550,45 @@ ___
 4. **The Eastern Dream:** Looking for a ship captain willing to take him to Aethoria. Will pay any price.
 5. **The Hermit Hunt:** Needs help finding the desert sage who warned him, might be the key to survival.
 
+## Watch Captain Gregor Ironhand
+
+#### Background & History
+Born in Crossvale to a blacksmith and a seamstress. His older brother Marcus was always the clever one; Gregor was the strong one. They were close as children, drifted apart as adults when Marcus "went into business" and Gregor joined the City Watch.
+
+Rose through the ranks through competence and stubborn honesty. Can't be bribed, not because he's rich, but because he genuinely believes in the law. Made Watch Captain at 38 after his predecessor was murdered by the Shadow Syndicate. Gregor swore to clean up Crossvale. He's been trying ever since.
+
+Doesn't know his brother Marcus is "The Iron Hand", a Syndicate enforcer who handles their most violent problems. The brothers haven't spoken in years. If Gregor ever discovered the truth, it would break him. And he'd still make the arrest.
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+
+<div class="col-img">![Watch Captain Gregor Ironhand](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-watch-captain-gregor-ironhand.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Connections
+- **Commands:** 80 City Watch officers in Crossvale
+- **Reports To:** Burgher-Master Wilhelm Von Handel
+- **Unknown Enemy:** His brother Marcus "The Iron Hand"
+- **Informant:** A street urchin named Pip who reports suspicious activity
+- **Ally:** Captain Lyra Swiftwind of Silverpine (professional correspondence)
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Brother's Identity:** Doesn't know, yet. Multiple investigations have come close to revealing the truth.
+2. **The Predecessor's Murder:** Knows the Syndicate killed his predecessor. Can't prove it. Obsessed with finding evidence.
+3. **The Incorruptible's Price:** Has been offered everything. Gold, women, power. Turned it all down. Syndicate now considers him a problem.
+4. **The Personal Crusade:** Works 16-hour days hunting the Syndicate. His wife left him. He barely noticed.
+5. **The Near Miss:** Once arrested his brother during a random sweep. Marcus talked his way out. Gregor doesn't remember his face. It was dark and crowded.
+}}
+
+#### Plot Hooks
+1. **The Syndicate Investigation:** Hiring discrete help to investigate Syndicate operations.
+2. **The Brother's Trail:** Evidence pointing to "The Iron Hand." Needs help following it, doesn't know where it leads.
+3. **The Assassination Attempt:** Syndicate might try to kill him. Needs protection, or bait for a trap.
+4. **The Former Partner:** His old patrol partner went corrupt. Needs help bringing him in quietly.
+5. **The Family Reunion:** His mother is dying. Wants to reunite the brothers. Might expose everything.
+
+ ::
 
 {{monster,frame,wide
 ## Watch Captain Gregor Ironhand
@@ -5561,7 +5597,7 @@ ___
 **Armor Class** :: 19 (plate, shield)
 **Hit Points** :: 115 (10d10 + 40)
 **Speed** :: 30 ft.
-<div class="col-img">![Watch Captain Gregor Ironhand](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-watch-captain-gregor-ironhand.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -5582,55 +5618,49 @@ ___
 ***Indomitable (1/Rest).*** :: Gregor can reroll a saving throw that he fails and must use the new roll.
 }}
 
-#### Background & History
-Born in Crossvale to a blacksmith and a seamstress. His older brother Marcus was always the clever one; Gregor was the strong one. They were close as children, drifted apart as adults when Marcus "went into business" and Gregor joined the City Watch.
-
-Rose through the ranks through competence and stubborn honesty. Can't be bribed, not because he's rich, but because he genuinely believes in the law. Made Watch Captain at 38 after his predecessor was murdered by the Shadow Syndicate. Gregor swore to clean up Crossvale. He's been trying ever since.
-
-Doesn't know his brother Marcus is "The Iron Hand", a Syndicate enforcer who handles their most violent problems. The brothers haven't spoken in years. If Gregor ever discovered the truth, it would break him. And he'd still make the arrest.
-
-#### Connections
-- **Commands:** 80 City Watch officers in Crossvale
-- **Reports To:** Burgher-Master Wilhelm Von Handel
-- **Unknown Enemy:** His brother Marcus "The Iron Hand"
-- **Informant:** A street urchin named Pip who reports suspicious activity
-- **Ally:** Captain Lyra Swiftwind of Silverpine (professional correspondence)
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
+
 \page
+
+## Silas the Fence
+
+<div class="col-img">![Silas the Fence](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silas-the-fence.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+Born "Silas Greenfingers" in the poorest district of Crossvale. Orphaned at 8, survived by stealing. Caught at 12, nearly hanged, saved by a Syndicate recruiter who saw potential. Has worked for the organization ever since.
+
+Rose through the ranks by being smart, careful, and absolutely reliable. Started as a runner, became a fence, then a regional coordinator. Now serves on the Syndicate's inner council—one of Master Crimson's most trusted lieutenants. His fence operation is legitimate cover for his real work: managing Syndicate operations throughout central Thaldros.
+
+The irony of providing information to Captain Lyra Swiftwind isn't lost on him. He feeds her enough real intelligence to maintain his cover while protecting Syndicate interests. It's a dangerous game, if either side discovers the full truth, he's dead.
+
+\column
+
+#### Connections
+- **Superior:** Master Crimson (Syndicate leader)
+- **Cover Contact:** Captain Lyra Swiftwind (feeds her controlled intelligence)
+- **Operations:** Coordinates Syndicate activities across central Thaldros
+- **Employees:** 30 fences, runners, and enforcers under his direct command
+- **Rival:** Another Syndicate lieutenant who covets his position
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Brother's Identity:** Doesn't know, yet. Multiple investigations have come close to revealing the truth.
-2. **The Predecessor's Murder:** Knows the Syndicate killed his predecessor. Can't prove it. Obsessed with finding evidence.
-3. **The Incorruptible's Price:** Has been offered everything. Gold, women, power. Turned it all down. Syndicate now considers him a problem.
-4. **The Personal Crusade:** Works 16-hour days hunting the Syndicate. His wife left him. He barely noticed.
-5. **The Near Miss:** Once arrested his brother during a random sweep. Marcus talked his way out. Gregor doesn't remember his face. It was dark and crowded.
+1. **The True Role:** Not just a fence, senior Syndicate leader managing a regional network.
+2. **The Double Game:** Feeds real intelligence to Captain Lyra, but carefully chosen to protect Syndicate priorities.
+3. **The Loyalty Question:** Has worked for the Syndicate 40 years. Starting to question whether it's all worth it.
+4. **The Escape Plan:** Has accumulated enough wealth to disappear forever. Keeps emergency identities ready.
+5. **The One Regret:** Ordered a killing 20 years ago that still haunts him. The target was innocent. He knows exactly who actually committed the crime.
 }}
 
-#### Plot Hooks
-1. **The Syndicate Investigation:** Hiring discrete help to investigate Syndicate operations.
-2. **The Brother's Trail:** Evidence pointing to "The Iron Hand." Needs help following it, doesn't know where it leads.
-3. **The Assassination Attempt:** Syndicate might try to kill him. Needs protection, or bait for a trap.
-4. **The Former Partner:** His old patrol partner went corrupt. Needs help bringing him in quietly.
-5. **The Family Reunion:** His mother is dying. Wants to reunite the brothers. Might expose everything.
-
----
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-
-\page
-
-{{monster,frame,wide
+{{monster,frame
 ## Silas the Fence
 *Small humanoid (halfling), neutral evil*
 ___
 **Armor Class** :: 17 (studded leather +2, dex)
 **Hit Points** :: 85 (11d8 + 22)
 **Speed** :: 25 ft.
-<div class="col-img">![Silas the Fence](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silas-the-fence.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -5652,32 +5682,10 @@ ___
 ***Uncanny Dodge.*** :: When an attacker Silas can see hits him with an attack, he can use his reaction to halve the attack's damage.
 }}
 
-#### Background & History
-Born "Silas Greenfingers" in the poorest district of Crossvale. Orphaned at 8, survived by stealing. Caught at 12, nearly hanged, saved by a Syndicate recruiter who saw potential. Has worked for the organization ever since.
-
-Rose through the ranks by being smart, careful, and absolutely reliable. Started as a runner, became a fence, then a regional coordinator. Now serves on the Syndicate's inner council—one of Master Crimson's most trusted lieutenants. His fence operation is legitimate cover for his real work: managing Syndicate operations throughout central Thaldros.
-
-The irony of providing information to Captain Lyra Swiftwind isn't lost on him. He feeds her enough real intelligence to maintain his cover while protecting Syndicate interests. It's a dangerous game, if either side discovers the full truth, he's dead.
-
-#### Connections
-- **Superior:** Master Crimson (Syndicate leader)
-- **Cover Contact:** Captain Lyra Swiftwind (feeds her controlled intelligence)
-- **Operations:** Coordinates Syndicate activities across central Thaldros
-- **Employees:** 30 fences, runners, and enforcers under his direct command
-- **Rival:** Another Syndicate lieutenant who covets his position
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The True Role:** Not just a fence, senior Syndicate leader managing a regional network.
-2. **The Double Game:** Feeds real intelligence to Captain Lyra, but carefully chosen to protect Syndicate priorities.
-3. **The Loyalty Question:** Has worked for the Syndicate 40 years. Starting to question whether it's all worth it.
-4. **The Escape Plan:** Has accumulated enough wealth to disappear forever. Keeps emergency identities ready.
-5. **The One Regret:** Ordered a killing 20 years ago that still haunts him. The target was innocent. He knows exactly who actually committed the crime.
-}}
 
 #### Plot Hooks
 1. **The Information Broker:** Will sell information to adventurers, if they're useful to Syndicate interests.
@@ -5686,19 +5694,25 @@ The irony of providing information to Captain Lyra Swiftwind isn't lost on him. 
 4. **The Internal Conflict:** Rival lieutenant is causing problems. Might hire outsiders to resolve it "cleanly."
 5. **The Exit Strategy:** Looking for a way out. Might help adventurers against the Syndicate in exchange for protection.
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
+## Commander Kael Stormwatcher
 
-\page
+<div class="col-img">![Commander Kael Stormwatcher](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-kael-stormwatcher.jpg){width:325px,mix-blend-mode:multiply}</div>
 
-{{monster,frame,wide
+#### Background & History
+Born in Frostholm to a family that has guarded the northern border for generations. His grandfather fought frost giants. His father negotiated with them. Kael learned to do both. Fight when necessary, talk when possible.
+
+Assigned to Ironhold's northern garrison at 20, rose to command by 35. During a brutal winter campaign that killed hundreds, he was captured by frost giants. Instead of executing him, their king wanted to talk. That conversation changed everything.
+
+Kael realized the giants weren't invading. They were desperate. Their hunting grounds were dying. They raided because they were starving. He negotiated a secret agreement: controlled hunting rights in exchange for peace. The raids stopped. His superiors think he's a tactical genius. The truth would end his career.
+
+{{monster,frame
 ## Commander Kael Stormwatcher
 *Medium humanoid (human), lawful neutral*
 ___
 **Armor Class** :: 18 (studded leather +2, shield)
 **Hit Points** :: 120 (12d10 + 48)
 **Speed** :: 30 ft.
-<div class="col-img">![Commander Kael Stormwatcher](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-kael-stormwatcher.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -5718,13 +5732,6 @@ ___
 ***Commander's Strike.*** :: When Kael takes the Attack action, he can forgo one of his attacks and use a bonus action to direct an ally within 30 feet to attack.
 ***Rallying Cry.*** :: As a bonus action, chooses up to 3 allies within 60 feet who can hear him. Each regains 11 hit points.
 }}
-
-#### Background & History
-Born in Frostholm to a family that has guarded the northern border for generations. His grandfather fought frost giants. His father negotiated with them. Kael learned to do both. Fight when necessary, talk when possible.
-
-Assigned to Ironhold's northern garrison at 20, rose to command by 35. During a brutal winter campaign that killed hundreds, he was captured by frost giants. Instead of executing him, their king wanted to talk. That conversation changed everything.
-
-Kael realized the giants weren't invading. They were desperate. Their hunting grounds were dying. They raided because they were starving. He negotiated a secret agreement: controlled hunting rights in exchange for peace. The raids stopped. His superiors think he's a tactical genius. The truth would end his career.
 
 #### Connections
 - **Commands:** Northern Garrison (500 soldiers)
@@ -5753,21 +5760,54 @@ Kael realized the giants weren't invading. They were desperate. Their hunting gr
 4. **The Heir Negotiation:** Giant prince needs to be convinced peace is profitable. Needs skilled diplomats.
 5. **The Discovery Risk:** Someone suspects the truth. Needs help either silencing them or coming clean.
 
----
+## Sergeant Brenna Iceheart
+
+#### Background & History
+Born in Iceridge to a mining family. Joined the army to escape the mines, discovered she was born for combat. Her speed, precision, and cold nerve made her a natural warrior.
+
+Her first command was a disaster. Led a squad of eight into what should have been a routine patrol. Giant ambush in a narrow pass. She was the only survivor, dragging herself back through the snow with three broken ribs and a shattered leg. The healers saved her body. Nothing saved her mind.
+
+Now she trains like she's possessed, because she is. Every morning starts before dawn. Every night ends with weapons practice. She's made herself into the perfect soldier because she refuses to be the reason anyone else dies. Her troops respect her but worry about her. The nightmares never stopped.
+
+#### Connections
+- **Commands:** Elite Scout Squad (12 soldiers, all volunteers)
+- **Superior:** Commander Kael Stormwatcher (respects but doesn't fully trust)
+- **Troops:** Fiercely loyal squad who'd follow her anywhere
+\column
+- **Rival:** A veteran sergeant who thinks she pushes too hard
+- **Ghost:** The memory of eight soldiers she couldn't save
+
+<div class="col-img">![Sergeant Brenna Iceheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sergeant-brenna-iceheart.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Survivor's Guilt:** Relives the ambush every night. Has considered taking her own life. Training is what keeps her alive.
+2. **The Reckless Courage:** Takes the most dangerous assignments hoping to prove herself, or die trying.
+3. **The Memory Gap:** Doesn't remember how she escaped the ambush. Just woke up in the snow, walking. Sometimes wonders if she really survived.
+4. **The Hidden Injury:** Old wounds never healed right. She's in constant pain. Hides it because she'd be removed from field duty.
+5. **The Suspicious Pattern:** Giants knew exactly where her patrol would be. Suspects someone betrayed them. Has never stopped looking.
+
+}}
+
+#### Plot Hooks
+1. **The Dangerous Mission:** Volunteers for suicide missions. Might need help, or saving from herself.
+2. **The Ambush Investigation:** Finally has a lead on who betrayed her squad. Needs help following it.
+3. **The Memory Recovery:** A dream-shaman might be able to restore her missing memories. Needs escort to find one.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+4. **The Pain Management:** Heard about a healer who might fix her old injuries. Too proud to go alone.
+5. **The Squad Protection:** Her current troops are in danger. Would do anything to save them, including asking for help.
+
+{{monster,frame
 ## Sergeant Brenna Iceheart
 *Medium humanoid (human), lawful neutral*
 ___
 **Armor Class** :: 18 (chain mail, shield, defensive)
 **Hit Points** :: 115 (11d10 + 44)
 **Speed** :: 30 ft.
-<div class="col-img">![Sergeant Brenna Iceheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sergeant-brenna-iceheart.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -5788,55 +5828,48 @@ ___
 ***Remarkable Athlete.*** :: Adds +3 to any Strength, Dexterity, or Constitution check that doesn't already use her proficiency bonus.
 }}
 
+## Scout Captain Finn Quickfoot
+
 #### Background & History
-Born in Iceridge to a mining family. Joined the army to escape the mines, discovered she was born for combat. Her speed, precision, and cold nerve made her a natural warrior.
+Born to a halfling trading family that traveled between Crossvale and the Ironspine settlements. Grew up on the road, learning to read trails before he could read books. His small size and light feet made him perfect for scouting dangerous territory.
 
-Her first command was a disaster. Led a squad of eight into what should have been a routine patrol. Giant ambush in a narrow pass. She was the only survivor, dragging herself back through the snow with three broken ribs and a shattered leg. The healers saved her body. Nothing saved her mind.
+Enlisted in the Ironhold scouts at 25, unusual for a halfling. Faced prejudice but proved himself by surviving missions that killed larger soldiers. His ability to move unseen through giant territory saved dozens of lives. Promoted to Scout Captain at 40.
 
-Now she trains like she's possessed, because she is. Every morning starts before dawn. Every night ends with weapons practice. She's made herself into the perfect soldier because she refuses to be the reason anyone else dies. Her troops respect her but worry about her. The nightmares never stopped.
+Six months ago, he found something during a routine patrol—tracks that shouldn't exist. Something large, ancient, and moving through areas it never used before. He's been tracking it obsessively since, going on "solo patrols" that take him deeper into dangerous territory. He won't tell anyone what he's hunting because he's not sure they'd believe him.
+
+<div class="col-img">![Scout Captain Finn Quickfoot](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-scout-captain-finn-quickfoot.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Connections
-- **Commands:** Elite Scout Squad (12 soldiers, all volunteers)
-- **Superior:** Commander Kael Stormwatcher (respects but doesn't fully trust)
-- **Troops:** Fiercely loyal squad who'd follow her anywhere
-- **Rival:** A veteran sergeant who thinks she pushes too hard
-- **Ghost:** The memory of eight soldiers she couldn't save
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+- **Commands:** Scout Unit (30 halfling and gnome scouts)
+- **Superior:** Commander Kael Stormwatcher
+- **Rival:** Human scout captain who resents his promotion
+- **Informant:** An old hermit who lives in the mountains
+- **Hunting:** Something he refuses to name
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Survivor's Guilt:** Relives the ambush every night. Has considered taking her own life. Training is what keeps her alive.
-2. **The Reckless Courage:** Takes the most dangerous assignments hoping to prove herself, or die trying.
-3. **The Memory Gap:** Doesn't remember how she escaped the ambush. Just woke up in the snow, walking. Sometimes wonders if she really survived.
-4. **The Hidden Injury:** Old wounds never healed right. She's in constant pain. Hides it because she'd be removed from field duty.
-5. **The Suspicious Pattern:** Giants knew exactly where her patrol would be. Suspects someone betrayed them. Has never stopped looking.
+1. **The Ancient Tracks:** He's tracking what he believes is an ancient dragon—not Infernalix, but something older. The tracks suggest it's been dormant for centuries and recently awakened.
+2. **The Hermit's Warning:** The mountain hermit told him some things should stay lost. Finn didn't listen.
+3. **The Obsession:** Can't stop. The hunt has taken over his life. His scouts are worried.
+4. **The Evidence:** Has collected scales, claw marks, and a shed tooth. Hiding them until he has proof.
+5. **The Close Call:** Almost found its lair last month. Something saw him and let him go. He doesn't know why.
+
 }}
 
-#### Plot Hooks
-1. **The Dangerous Mission:** Volunteers for suicide missions. Might need help, or saving from herself.
-2. **The Ambush Investigation:** Finally has a lead on who betrayed her squad. Needs help following it.
-3. **The Memory Recovery:** A dream-shaman might be able to restore her missing memories. Needs escort to find one.
-4. **The Pain Management:** Heard about a healer who might fix her old injuries. Too proud to go alone.
-5. **The Squad Protection:** Her current troops are in danger. Would do anything to save them, including asking for help.
-
----
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+
+{{monster,frame
 ## Scout Captain Finn Quickfoot
 *Small humanoid (halfling), chaotic good*
 ___
 **Armor Class** :: 18 (studded leather +2, dex, defensive)
 **Hit Points** :: 95 (13d8 + 26)
 **Speed** :: 25 ft.
-<div class="col-img">![Scout Captain Finn Quickfoot](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-scout-captain-finn-quickfoot.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -5859,32 +5892,6 @@ ___
 ***Uncanny Dodge.*** :: Can use reaction to halve an attack's damage.
 }}
 
-#### Background & History
-Born to a halfling trading family that traveled between Crossvale and the Ironspine settlements. Grew up on the road, learning to read trails before he could read books. His small size and light feet made him perfect for scouting dangerous territory.
-
-Enlisted in the Ironhold scouts at 25, unusual for a halfling. Faced prejudice but proved himself by surviving missions that killed larger soldiers. His ability to move unseen through giant territory saved dozens of lives. Promoted to Scout Captain at 40.
-
-Six months ago, he found something during a routine patrol—tracks that shouldn't exist. Something large, ancient, and moving through areas it never used before. He's been tracking it obsessively since, going on "solo patrols" that take him deeper into dangerous territory. He won't tell anyone what he's hunting because he's not sure they'd believe him.
-
-#### Connections
-- **Commands:** Scout Unit (30 halfling and gnome scouts)
-- **Superior:** Commander Kael Stormwatcher
-- **Rival:** Human scout captain who resents his promotion
-- **Informant:** An old hermit who lives in the mountains
-- **Hunting:** Something he refuses to name
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Ancient Tracks:** He's tracking what he believes is an ancient dragon—not Infernalix, but something older. The tracks suggest it's been dormant for centuries and recently awakened.
-2. **The Hermit's Warning:** The mountain hermit told him some things should stay lost. Finn didn't listen.
-3. **The Obsession:** Can't stop. The hunt has taken over his life. His scouts are worried.
-4. **The Evidence:** Has collected scales, claw marks, and a shed tooth. Hiding them until he has proof.
-5. **The Close Call:** Almost found its lair last month. Something saw him and let him go. He doesn't know why.
-}}
 
 #### Plot Hooks
 1. **The Dragon Hunt:** Finally ready to share what he knows, but needs help for the final approach.
@@ -5893,21 +5900,38 @@ Six months ago, he found something during a routine patrol—tracks that shouldn
 4. **The Hermit's Knowledge:** The hermit knows more than he said. Needs help convincing him to talk.
 5. **The Lair Discovery:** Found the entrance. Needs a party to explore it with him.
 
----
+## Brother Marcus
+
+#### Background & History
+Born in Silverpine to a merchant family, joined the clergy of Sera at 18 seeking purpose. Assigned as military chaplain to the Ironhold garrison at 25, the traditional posting for new priests. Expected to serve a few years and transfer to a comfortable temple position.
+
+\column
+
+That was 15 years ago. He stayed because the soldiers needed him. Held dying men's hands. Performed last rites in snowstorms. Blessed weapons before battles and conducted funerals after. Saw more death in his first year than most priests see in a lifetime.
+
+Somewhere along the way, his faith cracked. He prays the words but feels nothing. Performs the rituals but wonders if anyone listens. He continues because the soldiers need someone to believe in something, and he won't abandon them to despair even as he drowns in his own.
+
+<div class="col-img">![Brother Marcus](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-marcus.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Connections
+- **Congregation:** The entire Ironhold garrison (500 soldiers)
+- **Superior:** Temple hierarchy in Silverpine (distant, indifferent)
+- **Ally:** Commander Kael Stormwatcher (trusts his counsel)
+- **Confidant:** Sergeant Brenna Iceheart (they understand each other's broken places)
+- **The Crisis:** His faith, or lack thereof
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+
+{{monster,frame
 ## Brother Marcus
 *Medium humanoid (human), lawful good*
 ___
 **Armor Class** :: 18 (chain mail, shield)
 **Hit Points** :: 75 (9d8 + 27)
 **Speed** :: 30 ft.
-<div class="col-img">![Brother Marcus](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-brother-marcus.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -5932,23 +5956,7 @@ ___
 ***Channel Divinity: Guided Strike.*** :: On an attack roll, Marcus can use Channel Divinity to gain a +10 bonus to the roll.
 }}
 
-#### Background & History
-Born in Silverpine to a merchant family, joined the clergy of Sera at 18 seeking purpose. Assigned as military chaplain to the Ironhold garrison at 25, the traditional posting for new priests. Expected to serve a few years and transfer to a comfortable temple position.
 
-That was 15 years ago. He stayed because the soldiers needed him. Held dying men's hands. Performed last rites in snowstorms. Blessed weapons before battles and conducted funerals after. Saw more death in his first year than most priests see in a lifetime.
-
-Somewhere along the way, his faith cracked. He prays the words but feels nothing. Performs the rituals but wonders if anyone listens. He continues because the soldiers need someone to believe in something, and he won't abandon them to despair even as he drowns in his own.
-\column
-#### Connections
-- **Congregation:** The entire Ironhold garrison (500 soldiers)
-- **Superior:** Temple hierarchy in Silverpine (distant, indifferent)
-- **Ally:** Commander Kael Stormwatcher (trusts his counsel)
-- **Confidant:** Sergeant Brenna Iceheart (they understand each other's broken places)
-- **The Crisis:** His faith, or lack thereof
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -5966,21 +5974,29 @@ Somewhere along the way, his faith cracked. He prays the words but feels nothing
 4. **The Last Hope:** Heard about a shrine where prayers are answered. Needs help reaching it.
 5. **The Crisis Shared:** Other soldiers are losing faith too. Needs help restoring morale, even if he doesn't believe himself.
 
----
+## The Frost Witch (Name Unknown)
+
+<div class="col-img">![The Frost Witch (Name Unknown)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-frost-witch.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+She doesn't remember her true name anymore—it was taken as part of the binding. Once she was a free spirit of winter, dancing through blizzards and singing with avalanches. Then a desperate human commander made a pact to save his fortress from a giant siege.
+
+The binding chains her to Ironhold's defense. She must protect the fortress and its people. Cannot leave the northern territories. Cannot refuse calls for help. The original pact was for "a hundred winters", but the commander's descendants keep renewing it through ritual.
+
+She has served for 300 years. Watched generations live and die. Helped them, healed them, killed for them. Hates them. Loves some of them. The contradiction is maddening. She wants to be free, but the current Commander Kael is a good man, and part of her doesn't want to abandon his people.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+{{monster,frame
 ## The Frost Witch (Name Unknown)
 *Medium humanoid (human), chaotic neutral*
 ___
 **Armor Class** :: 16 (draconic resilience, dex)
 **Hit Points** :: 105 (15d6 + 60)
 **Speed** :: 30 ft., fly 30 ft. (levitate)
-<div class="col-img">![The Frost Witch (Name Unknown)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-frost-witch.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6002,13 +6018,6 @@ ___
 ***Winter's Embrace.*** :: As a bonus action, the Frost Witch can teleport to an unoccupied space within 30 feet that she can see, leaving behind a burst of snow that heavily obscures the space until the start of her next turn.
 }}
 
-#### Background & History
-She doesn't remember her true name anymore—it was taken as part of the binding. Once she was a free spirit of winter, dancing through blizzards and singing with avalanches. Then a desperate human commander made a pact to save his fortress from a giant siege.
-
-The binding chains her to Ironhold's defense. She must protect the fortress and its people. Cannot leave the northern territories. Cannot refuse calls for help. The original pact was for "a hundred winters", but the commander's descendants keep renewing it through ritual.
-
-She has served for 300 years. Watched generations live and die. Helped them, healed them, killed for them. Hates them. Loves some of them. The contradiction is maddening. She wants to be free, but the current Commander Kael is a good man, and part of her doesn't want to abandon his people.
-
 #### Connections
 - **Bound To:** Ironhold and its people (Commander Kael is current pact holder)
 - **Origin:** Winter Court of the Fey (if she could return)
@@ -6016,9 +6025,12 @@ She has served for 300 years. Watched generations live and die. Helped them, hea
 - **Enemy:** Her own binding, and the priests who maintain it
 - **The Only Hope:** Someone who can break fey pacts
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+#### Plot Hooks
+1. **The Freedom Quest:** Looking for anyone who understands fey pacts. Will trade winter magic for knowledge.
+2. **The Renewal Sabotage:** Could tell adventurers how to disrupt the renewal ritual—if convinced they'd protect Ironhold another way.
+3. **The Winter Court Embassy:** Needs a message carried to the fey courts. Can't go herself.
+4. **The Kind Commander:** Kael is a good man. Might help if he knew the truth. But revealing it risks the binding.
+5. **The Final Choice:** If freed, would she stay to help? She doesn't know, and wants to find out.
 
 {{descriptive
 #### Secrets (DM Only)
@@ -6029,26 +6041,31 @@ She has served for 300 years. Watched generations live and die. Helped them, hea
 5. **The Winter Court:** If freed, she could summon help from the Winter Court. Whether they'd help or punish her for being bound is unknown.
 }}
 
-#### Plot Hooks
-1. **The Freedom Quest:** Looking for anyone who understands fey pacts. Will trade winter magic for knowledge.
-2. **The Renewal Sabotage:** Could tell adventurers how to disrupt the renewal ritual—if convinced they'd protect Ironhold another way.
-3. **The Winter Court Embassy:** Needs a message carried to the fey courts. Can't go herself.
-4. **The Kind Commander:** Kael is a good man. Might help if he knew the truth. But revealing it risks the binding.
-5. **The Final Choice:** If freed, would she stay to help? She doesn't know, and wants to find out.
+## Elder Rashid the Twice-Blessed
+
+<div class="col-img">![Elder Rashid the Twice-Blessed](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-rashid-the-twice-blessed.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+Elder Rashid earned his title "the Twice-Blessed" through two miraculous events that defined his life. The first occurred in his youth when, during a sandstorm that claimed his entire caravan, he alone survived, found three days later by traders, unharmed and claiming a golden figure had sheltered him. The second blessing 
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+came decades later when assassins poisoned his wine at a diplomatic dinner; he drank deeply, felt nothing, and continued his speech while his would-be killers fled in terror.
+
+Born to a minor merchant family in the oasis city of Sundara, Rashid showed early aptitude for diplomacy and an uncanny ability to sense deception. He rose through the temple hierarchy not through ambition but through genuine wisdom and an almost supernatural calm that soothed conflicts before they could escalate.
+
+Now in his seventies, he serves as a senior spiritual advisor alongside High Priest Al-Sahir, counseling Sultan Rashid Ashborne (no relation: Rashid is simply a common name in Sundara) and mediating disputes between the great trading houses. His reputation for fairness is matched only by his reputation for surviving things that should have killed him.
+
+{{monster,frame
 ## Elder Rashid the Twice-Blessed
 *Medium humanoid (human), neutral good*
 ___
 **Armor Class** :: 13 (robes)
 **Hit Points** :: 45 (10d8)
 **Speed** :: 30 ft.
-<div class="col-img">![Elder Rashid the Twice-Blessed](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-rashid-the-twice-blessed.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6067,23 +6084,11 @@ ___
 ***Healing Touch (3/Day).*** :: Touches a creature and restores 2d8+4 hit points.
 }}
 
-#### Background & History
-Elder Rashid earned his title "the Twice-Blessed" through two miraculous events that defined his life. The first occurred in his youth when, during a sandstorm that claimed his entire caravan, he alone survived, found three days later by traders, unharmed and claiming a golden figure had sheltered him. The second blessing came decades later when assassins poisoned his wine at a diplomatic dinner; he drank deeply, felt nothing, and continued his speech while his would-be killers fled in terror.
-
-Born to a minor merchant family in the oasis city of Sundara, Rashid showed early aptitude for diplomacy and an uncanny ability to sense deception. He rose through the temple hierarchy not through ambition but through genuine wisdom and an almost supernatural calm that soothed conflicts before they could escalate.
-
-Now in his seventies, he serves as a senior spiritual advisor alongside High Priest Al-Sahir, counseling Sultan Rashid Ashborne (no relation: Rashid is simply a common name in Sundara) and mediating disputes between the great trading houses. His reputation for fairness is matched only by his reputation for surviving things that should have killed him.
-
 #### Connections
 - **Sultan Rashid Ashborne:** Trusted advisor on spiritual matters, though they sometimes disagree on mercy vs. pragmatism
 - **High Priest Al-Sahir:** Fellow elder and spiritual colleague, mutual respect despite different approaches
 - **The Temple of the Seven:** Senior elder of the Sundaran temple complex
 - **Trade Prince Lucian Goldfingers:** Occasionally mediates disputes involving the Merchant League
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 - **Master Glasswright Zara:** Blessed her workshop; she credits him for her success
 - **The Assassin's Guild:** They've stopped accepting contracts on him after the third failure
 
@@ -6103,21 +6108,55 @@ Now in his seventies, he serves as a senior spiritual advisor alongside High Pri
 4. **The Mediation Request:** Two powerful houses are on the brink of war. Rashid needs help gathering evidence to resolve the dispute peacefully.
 5. **The Third Blessing:** Signs suggest his third miraculous event is imminent. He wants to control it, or at least understand what's coming.
 
----
+## Master Glasswright Zara
+
+#### Background & History
+Born in Sundara to a family of glassworkers. The desert provides perfect sand for glass-making, and her family has practiced the craft for twelve generations. She showed exceptional talent from childhood, creating pieces that seemed to capture light itself.
+
+Traveled to Silverpine to study magical glass at the university, then returned to Sundara to combine traditional techniques with arcane knowledge. Her fusion style (called "desert light" by collectors) commands prices that rival jewelry.
+
+Three years ago, while experimenting with ancient Sundaran formulas found in a ruin, she accidentally created glass that couldn't break. Dropped it, hit it with a hammer, threw it against stone: nothing. She immediately destroyed her notes and told no one. Unbreakable glass would revolutionize warfare—shields, windows, armor. She's terrified of what would happen if the secret spread.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+<div class="col-img">![Master Glasswright Zara](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-glasswright-zara.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Connections
+- **Patron:** Sultan Rashid Ashborne (loves her art pieces)
+- **Guild:** Head of the Sundaran Glassworkers Guild
+- **Students:** Three apprentices learning traditional techniques only
+- **Rival:** A Silverpine glassmaker who claims her fusion style is "impure"
+- **The Secret:** Knowledge that could change warfare forever
+
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Unbreakable Glass:** Created it accidentally. Could recreate it, but won't.
+2. **The Ancient Formula:** The original formula came from a pre-Worldrend source. The ruins might contain more.
+3. **The Military Interest:** Agents from multiple kingdoms have approached her about "special commissions." She's refused all.
+4. **The Apprentice's Discovery:** One apprentice is close to figuring it out independently. She's considering destroying his notes.
+5. **The Moral Question:** Could unbreakable glass save lives? Stop wars? Or just make them worse? She doesn't know.
+}}
+
+\column
+
+#### Plot Hooks
+1. **The Ruin Expedition:** Needs the ancient formula source explored, and potentially sealed forever.
+2. **The Apprentice Problem:** Needs help deciding what to do about her too-clever student.
+3. **The Commission Refusal:** A powerful kingdom is pressing harder. Might need protection.
+4. **The Peaceful Application:** Wants to find uses for the glass that don't involve warfare. Needs creative partners.
+5. **The Moral Debate:** Wants someone impartial to help her decide: share the secret or bury it forever?
+
+{{monster,frame
 ## Master Glasswright Zara
 *Medium humanoid (human), neutral good*
 ___
 **Armor Class** :: 16 (leather armor, dex, shield)
 **Hit Points** :: 90 (12d8 + 36)
 **Speed** :: 30 ft.
-<div class="col-img">![Master Glasswright Zara](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-glasswright-zara.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6140,46 +6179,43 @@ ___
 ***Flash of Genius (4/Day).*** :: When Zara or a creature within 30 feet makes an ability check or saving throw, she can add +4 to the roll as a reaction.
 }}
 
-#### Background & History
-Born in Sundara to a family of glassworkers. The desert provides perfect sand for glass-making, and her family has practiced the craft for twelve generations. She showed exceptional talent from childhood, creating pieces that seemed to capture light itself.
-
-Traveled to Silverpine to study magical glass at the university, then returned to Sundara to combine traditional techniques with arcane knowledge. Her fusion style (called "desert light" by collectors) commands prices that rival jewelry.
-
-Three years ago, while experimenting with ancient Sundaran formulas found in a ruin, she accidentally created glass that couldn't break. Dropped it, hit it with a hammer, threw it against stone: nothing. She immediately destroyed her notes and told no one. Unbreakable glass would revolutionize warfare—shields, windows, armor. She's terrified of what would happen if the secret spread.
-
-#### Connections
-- **Patron:** Sultan Rashid Ashborne (loves her art pieces)
-- **Guild:** Head of the Sundaran Glassworkers Guild
-- **Students:** Three apprentices learning traditional techniques only
-- **Rival:** A Silverpine glassmaker who claims her fusion style is "impure"
-- **The Secret:** Knowledge that could change warfare forever
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+
+## Desert Ranger Khalid
+
+<div class="col-img">![Desert Ranger Khalid](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-desert-ranger-khalid.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+Born to a Sundaran clan destroyed by bandits when he was 10. Survived by hiding under his mother's body. Rescued by the Sultan's rangers, who raised him as one of their own.
+
+Became the most effective ranger in the Expanse. His tracking is legendary, can follow a snake across sand, predict sandstorms by smell, find water where none should exist. But his methods have grown darker. The bandits who killed his family were never caught. Every criminal might be one of them.
+
+Started taking prisoners for "extended questioning" nearly a century ago. The information he extracts has prevented attacks, saved lives. But the screaming haunts him. He knows what he's becoming. Can't seem to stop. The boy hiding under his mother's corpse is still screaming for justice, and nothing satisfies him.
+
+#### Connections
+- **Commands:** Desert Ranger Squad (20 elite trackers)
+- **Superior:** Sultan Rashid Ashborne (doesn't know about the torture)
+- **Victim:** Every prisoner he's "questioned"
+- **The Ghost:** His family's killers. Still out there
+- **Confidant:** No one. He's completely alone with this
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Unbreakable Glass:** Created it accidentally. Could recreate it, but won't.
-2. **The Ancient Formula:** The original formula came from a pre-Worldrend source. The ruins might contain more.
-3. **The Military Interest:** Agents from multiple kingdoms have approached her about "special commissions." She's refused all.
-4. **The Apprentice's Discovery:** One apprentice is close to figuring it out independently. She's considering destroying his notes.
-5. **The Moral Question:** Could unbreakable glass save lives? Stop wars? Or just make them worse? She doesn't know.
+1. **The Dark Room:** Has a hidden location in the desert where he takes prisoners. No one else knows.
+2. **The Justification:** Tells himself it's necessary. Every confession proves he was right. The logic is circular and mad.
+3. **The Humanity Lost:** Started feeling nothing during the sessions. That scared him more than the screaming.
+4. **The One Who Broke:** A prisoner confessed to his family's murder. Khalid killed him before verifying. Might have been a lie.
+5. **The Final Warning:** A prisoner's curse before dying: "You'll become what you hunt." He thinks about it every day.
 }}
 
 #### Plot Hooks
-1. **The Ruin Expedition:** Needs the ancient formula source explored, and potentially sealed forever.
-2. **The Apprentice Problem:** Needs help deciding what to do about her too-clever student.
-3. **The Commission Refusal:** A powerful kingdom is pressing harder. Might need protection.
-4. **The Peaceful Application:** Wants to find uses for the glass that don't involve warfare. Needs creative partners.
-5. **The Moral Debate:** Wants someone impartial to help her decide: share the secret or bury it forever?
-
----
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-
-\page
+1. **The Confession:** Wants to stop, but doesn't know how. Might open up to outsiders who don't judge immediately.
+2. **The Family's Killers:** Actually has a lead on the real bandits. Needs help so he doesn't have to torture the answer out.
+3. **The Sultan's Discovery:** Rashid is suspicious. Khalid needs either help covering up or help coming clean.
+4. **The Redemption Quest:** A priest suggested a pilgrimage might cleanse him. Needs escort.
+5. **The Reckoning:** The families of his victims want justice. He might actually agree he deserves it.
 
 {{monster,frame,wide
 ## Desert Ranger Khalid
@@ -6188,7 +6224,7 @@ ___
 **Armor Class** :: 17 (studded leather +1, shield)
 **Hit Points** :: 100 (11d10 + 33)
 **Speed** :: 30 ft.
-<div class="col-img">![Desert Ranger Khalid](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-desert-ranger-khalid.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6212,55 +6248,47 @@ ___
 ***Volley.*** :: Khalid can use his action to make a ranged attack against any number of creatures within 10 feet of a point he can see within his weapon's range.
 }}
 
-#### Background & History
-Born to a Sundaran clan destroyed by bandits when he was 10. Survived by hiding under his mother's body. Rescued by the Sultan's rangers, who raised him as one of their own.
-
-Became the most effective ranger in the Expanse. His tracking is legendary, can follow a snake across sand, predict sandstorms by smell, find water where none should exist. But his methods have grown darker. The bandits who killed his family were never caught. Every criminal might be one of them.
-
-Started taking prisoners for "extended questioning" nearly a century ago. The information he extracts has prevented attacks, saved lives. But the screaming haunts him. He knows what he's becoming. Can't seem to stop. The boy hiding under his mother's corpse is still screaming for justice, and nothing satisfies him.
-
-#### Connections
-- **Commands:** Desert Ranger Squad (20 elite trackers)
-- **Superior:** Sultan Rashid Ashborne (doesn't know about the torture)
-- **Victim:** Every prisoner he's "questioned"
-- **The Ghost:** His family's killers. Still out there
-- **Confidant:** No one. He's completely alone with this
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+
+## Merchant Princess Yasmin
+
+<div class="col-img">![Merchant Princess Yasmin](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-princess-yasmin.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+Born to the wealthiest merchant family in Sundara, trained from childhood to take over the family empire. But Yasmin always cared more about the desert's secrets than its profits. While learning trade, she secretly studied archaeology, history, and ancient languages.
+
+Inherited the family business at 25 when her father died. Used her merchant networks to fund desert excavations disguised as "trade expeditions." Every caravan that goes out comes back with legal goods, and hidden relics from ruins her workers have uncovered.
+
+Now has the largest private collection of pre-Worldrend artifacts in Thaldros. Most are locked in a secret vault beneath her mansion. She's written scholarly papers under a pseudonym that have revolutionized understanding of ancient Sundaran civilization. The academic world doesn't know the mysterious "Scholar Al-Rashidi" is actually a merchant princess.
+
+\column
+
+#### Connections
+- **Business:** Largest merchant house in Sundara
+- **Secret Identity:** "Scholar Al-Rashidi" (respected academic pseudonym)
+- **Rival:** Archaeologist from Silverpine Magical Academy competing for sites
+- **Black Market:** Carefully cultivated contacts for acquiring pieces
+- **The Sultan:** Sultan Rashid Ashborne (distant relative, buys her legal goods)
 
 {{descriptive
 #### Secrets (DM Only)
-1. **The Dark Room:** Has a hidden location in the desert where he takes prisoners. No one else knows.
-2. **The Justification:** Tells himself it's necessary. Every confession proves he was right. The logic is circular and mad.
-3. **The Humanity Lost:** Started feeling nothing during the sessions. That scared him more than the screaming.
-4. **The One Who Broke:** A prisoner confessed to his family's murder. Khalid killed him before verifying. Might have been a lie.
-5. **The Final Warning:** A prisoner's curse before dying: "You'll become what you hunt." He thinks about it every day.
+1. **The Private Collection:** Over 200 artifacts hidden in a vault. Some are dangerous. Some are priceless. All are technically illegal.
+2. **The Scholar Identity:** Has published 12 papers. Would be recognized as brilliant if anyone knew.
+3. **The Dangerous Artifact:** One piece in her collection pulses with energy. She doesn't know what it does. Afraid to find out.
+4. **The Tomb She Hasn't Opened:** Found a major site: sealed royal tomb. Hasn't opened it because of the warnings carved outside.
+5. **The Legacy Question:** No children. Worries what happens to her collection and knowledge when she dies.
 }}
 
-#### Plot Hooks
-1. **The Confession:** Wants to stop, but doesn't know how. Might open up to outsiders who don't judge immediately.
-2. **The Family's Killers:** Actually has a lead on the real bandits. Needs help so he doesn't have to torture the answer out.
-3. **The Sultan's Discovery:** Rashid is suspicious. Khalid needs either help covering up or help coming clean.
-4. **The Redemption Quest:** A priest suggested a pilgrimage might cleanse him. Needs escort.
-5. **The Reckoning:** The families of his victims want justice. He might actually agree he deserves it.
-
----
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-
-\page
-
-{{monster,frame,wide
+{{monster,frame
 ## Merchant Princess Yasmin
 *Medium humanoid (human), lawful neutral*
 ___
 **Armor Class** :: 15 (studded leather, dex, ring)
 **Hit Points** :: 56 (8d8 + 16)
 **Speed** :: 30 ft.
-<div class="col-img">![Merchant Princess Yasmin](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-princess-yasmin.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6281,32 +6309,10 @@ ___
 ***Supreme Sneak.*** :: Has advantage on Stealth checks if she moves no more than half her speed on the same turn.
 }}
 
-#### Background & History
-Born to the wealthiest merchant family in Sundara, trained from childhood to take over the family empire. But Yasmin always cared more about the desert's secrets than its profits. While learning trade, she secretly studied archaeology, history, and ancient languages.
-
-Inherited the family business at 25 when her father died. Used her merchant networks to fund desert excavations disguised as "trade expeditions." Every caravan that goes out comes back with legal goods, and hidden relics from ruins her workers have uncovered.
-
-Now has the largest private collection of pre-Worldrend artifacts in Thaldros. Most are locked in a secret vault beneath her mansion. She's written scholarly papers under a pseudonym that have revolutionized understanding of ancient Sundaran civilization. The academic world doesn't know the mysterious "Scholar Al-Rashidi" is actually a merchant princess.
-
-#### Connections
-- **Business:** Largest merchant house in Sundara
-- **Secret Identity:** "Scholar Al-Rashidi" (respected academic pseudonym)
-- **Rival:** Archaeologist from Silverpine Magical Academy competing for sites
-- **Black Market:** Carefully cultivated contacts for acquiring pieces
-- **The Sultan:** Sultan Rashid Ashborne (distant relative, buys her legal goods)
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Private Collection:** Over 200 artifacts hidden in a vault. Some are dangerous. Some are priceless. All are technically illegal.
-2. **The Scholar Identity:** Has published 12 papers. Would be recognized as brilliant if anyone knew.
-3. **The Dangerous Artifact:** One piece in her collection pulses with energy. She doesn't know what it does. Afraid to find out.
-4. **The Tomb She Hasn't Opened:** Found a major site: sealed royal tomb. Hasn't opened it because of the warnings carved outside.
-5. **The Legacy Question:** No children. Worries what happens to her collection and knowledge when she dies.
-}}
 
 #### Plot Hooks
 1. **The Artifact Identification:** Needs help understanding the dangerous piece. Will pay in gold or artifacts.
@@ -6315,21 +6321,24 @@ Now has the largest private collection of pre-Worldrend artifacts in Thaldros. M
 4. **The Legacy Project:** Looking for worthy heirs to continue her work. Testing candidates.
 5. **The Scholarly Collaboration:** Would work with anyone who shares her passion, if they can keep secrets.
 
----
+## The Sand Prophet (Qadir al-Rum)
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
+<div class="col-img">![The Sand Prophet (Qadir al-Rum)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-sand-prophet.jpg){width:325px,mix-blend-mode:multiply}</div>
 
-\page
+#### Background & History
+Born blind to a poor Sundaran family. Abandoned in the desert at age 5, common practice for those who "couldn't contribute." Survived because he learned to sense everything else: wind patterns, animal behavior, sand shifts, temperature changes.
 
-{{monster,frame,wide
+Found and raised by a hermit who taught him to interpret what he sensed. Qadir discovered he could predict weather, find water, and anticipate dangers by reading the desert's subtle signals. When he wandered into Sundara at 20, his "prophecies" about a coming sandstorm that saved the city made him famous.
+
+Now serves as the Sultan's advisor on all desert matters. People think he receives divine visions. The truth is simpler and more impressive: he understands the desert so completely that prediction feels like prophecy. He's never corrected the misconception: it gives him influence to help people.
+
+{{monster,frame
 ## The Sand Prophet (Qadir al-Rum)
 *Medium humanoid (human), true neutral*
 ___
 **Armor Class** :: 15 (barkskin, wisdom)
 **Hit Points** :: 91 (13d8 + 26)
 **Speed** :: 30 ft.
-<div class="col-img">![The Sand Prophet (Qadir al-Rum)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-sand-prophet.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6355,12 +6364,6 @@ ___
 ***Prophetic Insight (3/Day).*** :: As a bonus action, Qadir can give one ally within 60 feet advantage on their next attack roll or saving throw.
 }}
 
-#### Background & History
-Born blind to a poor Sundaran family. Abandoned in the desert at age 5, common practice for those who "couldn't contribute." Survived because he learned to sense everything else: wind patterns, animal behavior, sand shifts, temperature changes.
-
-Found and raised by a hermit who taught him to interpret what he sensed. Qadir discovered he could predict weather, find water, and anticipate dangers by reading the desert's subtle signals. When he wandered into Sundara at 20, his "prophecies" about a coming sandstorm that saved the city made him famous.
-
-Now serves as the Sultan's advisor on all desert matters. People think he receives divine visions. The truth is simpler and more impressive: he understands the desert so completely that prediction feels like prophecy. He's never corrected the misconception: it gives him influence to help people.
 
 #### Connections
 - **Patron:** Sultan Rashid Ashborne (believes him genuinely prophetic)
@@ -6389,21 +6392,17 @@ Now serves as the Sultan's advisor on all desert matters. People think he receiv
 4. **The Prediction Challenge:** Something is coming he can't read. Needs help understanding it.
 5. **The Truth Revealed:** Someone suspects he's not prophetic. Needs help maintaining the useful fiction, or deciding to come clean.
 
----
+## Warden Commander Ignis Ashborn
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
+<div class="col-img">![Warden Commander Ignis Ashborn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-warden-commander-ignis-ashborn.jpg){width:325px,mix-blend-mode:multiply}</div>
 
-\page
-
-{{monster,frame,wide
+{{monster,frame
 ## Warden Commander Ignis Ashborn
 *Medium humanoid (human), lawful neutral*
 ___
 **Armor Class** :: 19 (plate, shield, defensive)
 **Hit Points** :: 135 (12d10 + 60)
 **Speed** :: 30 ft.
-<div class="col-img">![Warden Commander Ignis Ashborn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-warden-commander-ignis-ashborn.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6432,6 +6431,10 @@ Rose through the Ashwarden ranks by being right when everyone else was wrong. Pr
 
 Five years ago, his deep sensors detected something new: a slow, steady pressure build beneath the main caldera. Not the quick patterns that signal imminent eruption, something much larger, much slower. He's done the calculations. The volcano is building toward an eruption that could destroy everything within fifty miles. It won't happen for decades, but when it does, nothing will stop it.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 #### Connections
 - **Commands:** Ashwarden Order (200 volcano monitors)
 - **Reports To:** Lord Mayor of Ashgate
@@ -6439,9 +6442,6 @@ Five years ago, his deep sensors detected something new: a slow, steady pressure
 - **Family:** Wife and three children in Ashgate (part of why he's so careful)
 - **The Mountain:** The volcano itself, his lifelong study and greatest threat
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -6459,19 +6459,53 @@ Five years ago, his deep sensors detected something new: a slow, steady pressure
 4. **The Political Pressure:** Those who silenced him might do worse. Needs protection.
 5. **The Early Warning:** If adventurers are traveling near the volcano, he'll share critical safety information, and maybe ask for observations.
 
+## Lady Morgana Blackwater
+#### Background & History
+Born to a minor noble family in the Thornmire swamps, married into the Blackwater name: the oldest family in Marshaven. Her husband died three years into the marriage under mysterious circumstances. She's ruled the city ever since.
+
+Marshaven has always been overlooked: too swampy, too poor, too strange. The continental powers take its taxes but provide nothing in return. Morgana decided to change that. Using forbidden texts found in swamp ruins, she's learned to create undead that retain their intelligence and free will, not shambling corpses, but thinking soldiers.
+
+Her plan is elegant: build an army in the swamps where no one looks, then declare independence. The continental powers won't expect it, can't easily invade the swamps, and will eventually accept the new reality. She sees herself as a liberator, not a villain. The fact that she's raising the dead is merely pragmatic, the swamps have plenty of corpses and few living recruits.
+
+#### Connections
+- **Rules:** Marshaven (population 8,000)
+- **Advisor:** Master Alchemist Varek (knows some of her plans)
+- **Secret Army:** Currently 200 intelligent undead hidden in deep swamps
+- **Enemies:** If discovered, everyone
+- **Ally:** Sage-Speaker Sss'rith of the lizardfolk (supports independence, doesn't know about undead)
+
+<div class="col-img">![Lady Morgana Blackwater](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-morgana-blackwater.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+ ::
+ 
+{{descriptive
+#### Secrets (DM Only)
+1. **The Undead Army:** 200 and growing. Hidden in flooded ruins. Loyal to her through a modified binding.
+2. **The Husband's Death:** He discovered her early experiments. She didn't kill him—her first creation did. She's never forgiven herself.
+3. **The Intelligence Ritual:** Her undead retain memories and personality. Some thank her for the second chance. Some hate her.
+4. **The Timeline:** Needs 500 undead for her plan. At current rate: 5 years.
+5. **The Exit Strategy:** If the plan fails, she has escape routes prepared. Won't let herself be captured.
+}}
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+#### Plot Hooks
+1. **The Recruitment:** Might approach capable adventurers about her cause, carefully testing their reactions first.
+2. **The Discovery Risk:** Someone is getting close to finding her army. Needs them diverted, or silenced.
+3. **The Moral Question:** Some undead want true death. She needs help deciding if she should grant it.
+4. **The Husband's Memory:** His ghost haunts her. Needs help putting him to rest.
+5. **The Independence Negotiation:** If her plan succeeds, she'll need diplomats. Might recruit promising candidates early.
+
+{{monster,frame
 ## Lady Morgana Blackwater
 *Medium humanoid (human), lawful evil*
 ___
 **Armor Class** :: 16 (mage armor, shield, ring)
 **Hit Points** :: 85 (13d6 + 39)
 **Speed** :: 30 ft.
-<div class="col-img">![Lady Morgana Blackwater](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-morgana-blackwater.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6498,55 +6532,37 @@ ___
 ***Undying Servitude.*** :: When Morgana slays a humanoid with a spell of 1st level or higher, she can raise it as a zombie at the start of her next turn.
 }}
 
+\column
+
+## Master Alchemist Varek
+
+<div class="col-img">![Master Alchemist Varek](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-alchemist-varek.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 #### Background & History
-Born to a minor noble family in the Thornmire swamps, married into the Blackwater name: the oldest family in Marshaven. Her husband died three years into the marriage under mysterious circumstances. She's ruled the city ever since.
+Born half-orc in a society that despised him. Found refuge in alchemy, where results matter more than bloodlines. A perfect poison doesn't care who brewed it.
 
-Marshaven has always been overlooked: too swampy, too poor, too strange. The continental powers take its taxes but provide nothing in return. Morgana decided to change that. Using forbidden texts found in swamp ruins, she's learned to create undead that retain their intelligence and free will, not shambling corpses, but thinking soldiers.
+Studied at Silverpine Magical Academy until expelled for "unauthorized experimentation" (he was testing theories on himself). Wandered to Marshaven, where no one cared about his past or his race. Built a laboratory in the swamps, surrounded by the richest concentration of alchemical reagents in Thaldros.
 
-Her plan is elegant: build an army in the swamps where no one looks, then declare independence. The continental powers won't expect it, can't easily invade the swamps, and will eventually accept the new reality. She sees herself as a liberator, not a villain. The fact that she's raising the dead is merely pragmatic, the swamps have plenty of corpses and few living recruits.
+Now he's the most skilled alchemist in the region, possibly the continent. His poisons are legendary: precise, reliable, traceable only if he wants them to be. But his life's work is the opposite: a universal antidote. If he succeeds, poison becomes obsolete. Assassins, venomous creatures, toxic plants, all neutralized. It would save countless lives and make him wealthy beyond measure.
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 #### Connections
-- **Rules:** Marshaven (population 8,000)
-- **Advisor:** Master Alchemist Varek (knows some of her plans)
-- **Secret Army:** Currently 200 intelligent undead hidden in deep swamps
-- **Enemies:** If discovered, everyone
-- **Ally:** Sage-Speaker Sss'rith of the lizardfolk (supports independence, doesn't know about undead)
+- **Patron:** Lady Morgana Blackwater (his best customer and protector)
+- **Clients:** The Shadow Syndicate, various nobles, anyone who needs poisons
+- **Supplier:** Swamp Guide Grizelda (provides rare ingredients)
+- **Rival:** A Silverpine professor who wants to see him fail
+- **The Dream:** A world without poison deaths
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Undead Army:** 200 and growing. Hidden in flooded ruins. Loyal to her through a modified binding.
-2. **The Husband's Death:** He discovered her early experiments. She didn't kill him—her first creation did. She's never forgiven herself.
-3. **The Intelligence Ritual:** Her undead retain memories and personality. Some thank her for the second chance. Some hate her.
-4. **The Timeline:** Needs 500 undead for her plan. At current rate: 5 years.
-5. **The Exit Strategy:** If the plan fails, she has escape routes prepared. Won't let herself be captured.
-}}
-
-#### Plot Hooks
-1. **The Recruitment:** Might approach capable adventurers about her cause, carefully testing their reactions first.
-2. **The Discovery Risk:** Someone is getting close to finding her army. Needs them diverted, or silenced.
-3. **The Moral Question:** Some undead want true death. She needs help deciding if she should grant it.
-4. **The Husband's Memory:** His ghost haunts her. Needs help putting him to rest.
-5. **The Independence Negotiation:** If her plan succeeds, she'll need diplomats. Might recruit promising candidates early.
-
----
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-
-\page
-
-{{monster,frame,wide
+{{monster,frame
 ## Master Alchemist Varek
 *Medium humanoid (half-orc), neutral evil*
 ___
 **Armor Class** :: 17 (studded leather +2, dex, shield)
 **Hit Points** :: 112 (14d8 + 42)
 **Speed** :: 30 ft.
-<div class="col-img">![Master Alchemist Varek](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-alchemist-varek.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6570,23 +6586,6 @@ ___
 ***Chemical Mastery.*** :: Varek has resistance to acid and poison damage and can't be poisoned.
 }}
 
-#### Background & History
-Born half-orc in a society that despised him. Found refuge in alchemy, where results matter more than bloodlines. A perfect poison doesn't care who brewed it.
-
-Studied at Silverpine Magical Academy until expelled for "unauthorized experimentation" (he was testing theories on himself). Wandered to Marshaven, where no one cared about his past or his race. Built a laboratory in the swamps, surrounded by the richest concentration of alchemical reagents in Thaldros.
-
-Now he's the most skilled alchemist in the region, possibly the continent. His poisons are legendary: precise, reliable, traceable only if he wants them to be. But his life's work is the opposite: a universal antidote. If he succeeds, poison becomes obsolete. Assassins, venomous creatures, toxic plants, all neutralized. It would save countless lives and make him wealthy beyond measure.
-
-#### Connections
-- **Patron:** Lady Morgana Blackwater (his best customer and protector)
-- **Clients:** The Shadow Syndicate, various nobles, anyone who needs poisons
-- **Supplier:** Swamp Guide Grizelda (provides rare ingredients)
-- **Rival:** A Silverpine professor who wants to see him fail
-- **The Dream:** A world without poison deaths
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -6604,21 +6603,36 @@ Now he's the most skilled alchemist in the region, possibly the continent. His p
 4. **The Moral Contract:** Will create anything for the right price. Sometimes regrets it.
 5. **The Professor's Interference:** His Silverpine rival is trying to sabotage his research. Needs protection.
 
----
+## Swamp Guide Grizelda
+
+<div class="col-img">![Swamp Guide Grizelda](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-swamp-guide-grizelda.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+Born in the village of Murkhollow on the edge of the Thornmire, Grizelda was the daughter of a charcoal burner who worked the swamp's edges. When plague swept through the village at age twelve, she fled deeper into the swamp rather than face the sickness. She survived by watching animals, eating what they ate, and learning the swamp's rhythms.
+
+For three years she lived wild before a ranger patrol found her: more swamp creature than girl. The rangers tried to civilize her, but she kept returning to the marsh. Eventually they stopped trying and instead trained her. By twenty-five, she knew paths through the Thornmire that no map showed. By forty, she was the only guide with a perfect survival record.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+She's guided treasure hunters, fugitives, scholars, and assassins. She doesn't judge her clients, the swamp judges everyone equally. What matters is whether they listen and whether they pay. Those who don't listen often don't return. Those who don't pay... well, the swamp has many hungry mouths.
+
+#### Connections
+- **Employer:** Lady Morgana Blackwater (regular contract for "special deliveries")
+- **Rival:** Captain Vex Darkwater (disputes over smuggling routes)
+- **Contact:** Master Alchemist Varek (trades rare swamp reagents)
+- **Pet:** "Sweetness" - a 20-foot giant crocodile she raised from a hatchling
+- **Informant network:** Swamp hermits and outcasts who report unusual activities
+
+{{monster,frame
 ## Swamp Guide Grizelda
 *Medium humanoid (human), true neutral*
 ___
 **Armor Class** :: 17 (studded leather +1, shield)
 **Hit Points** :: 105 (12d10 + 36)
 **Speed** :: 30 ft., swim 30 ft.
-<div class="col-img">![Swamp Guide Grizelda](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-swamp-guide-grizelda.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6637,24 +6651,6 @@ ___
 ***Multiattack.*** :: Makes 2 attacks per turn.
 ***Spear +2.*** :: Melee or Ranged Weapon Attack: +10 to hit, 1d6+6 or 1d8+6.::
 }}
-
-#### Background & History
-Born in the village of Murkhollow on the edge of the Thornmire, Grizelda was the daughter of a charcoal burner who worked the swamp's edges. When plague swept through the village at age twelve, she fled deeper into the swamp rather than face the sickness. She survived by watching animals, eating what they ate, and learning the swamp's rhythms.
-
-For three years she lived wild before a ranger patrol found her: more swamp creature than girl. The rangers tried to civilize her, but she kept returning to the marsh. Eventually they stopped trying and instead trained her. By twenty-five, she knew paths through the Thornmire that no map showed. By forty, she was the only guide with a perfect survival record.
-
-She's guided treasure hunters, fugitives, scholars, and assassins. She doesn't judge her clients, the swamp judges everyone equally. What matters is whether they listen and whether they pay. Those who don't listen often don't return. Those who don't pay... well, the swamp has many hungry mouths.
-
-#### Connections
-- **Employer:** Lady Morgana Blackwater (regular contract for "special deliveries")
-- **Rival:** Captain Vex Darkwater (disputes over smuggling routes)
-- **Contact:** Master Alchemist Varek (trades rare swamp reagents)
-- **Pet:** "Sweetness" - a 20-foot giant crocodile she raised from a hatchling
-- **Informant network:** Swamp hermits and outcasts who report unusual activities
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -6676,21 +6672,21 @@ She's guided treasure hunters, fugitives, scholars, and assassins. She doesn't j
 
 **Secret:** Controls giant crocodile named "Sweetness." Uses it to eliminate troublemakers who hire her for nefarious purposes.
 
----
+## Captain Vex Darkwater
+
+<div class="col-img">![Captain Vex Darkwater](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-vex-darkwater.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+{{monster,frame
 ## Captain Vex Darkwater
 *Medium humanoid (half-elf), chaotic evil*
 ___
 **Armor Class** :: 18 (studded leather +2, dex, defensive)
 **Hit Points** :: 105 (13d8 + 39)
 **Speed** :: 30 ft., swim 40 ft.
-<div class="col-img">![Captain Vex Darkwater](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-vex-darkwater.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6713,8 +6709,6 @@ ___
 ***Panache.*** :: As an action, Vex can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight). If Vex succeeds, the creature is charmed by him or has disadvantage on attacks against anyone other than Vex.
 }}
 
-#### Background & History
-Born Marcus Vex in Goldreach's poorest district, son of a dock worker who drank away every coin. Ran away at fourteen, stowed away on a merchant vessel, and was discovered three days out. Rather than throw him overboard, Captain Sylas Darkwater saw potential and made him cabin boy.
 
 For fifteen years, Vex learned everything about ships: sailing, fighting, smuggling, and eventually piracy when Sylas turned to raiding. When Sylas was killed by the Goldreach navy, Vex took command of the Serpent's Coil and the Darkwater name. He's spent the last decade building a reputation as the most successful pirate in the Thornmire waters.
 
@@ -6726,10 +6720,6 @@ Unlike many pirates, Vex operates with a code: no slavery, no torture without ca
 - **Crew:** 60 loyal pirates who share in all plunder equally
 - **Contact:** Silas the Fence (handles sale of stolen goods)
 - **Enemy:** Admiral Theron Stormcrest of Goldreach (obsessed with catching him)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -6751,44 +6741,18 @@ Unlike many pirates, Vex operates with a code: no slavery, no torture without ca
 
 **Secret:** Paying off Lady Morgana for protection. She allows his piracy in exchange for cut. Win-win arrangement.
 
----
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-
-\page
-
-{{monster,frame,wide
 ## Witch Mother Helga
-*Medium humanoid (human), chaotic neutral*
-___
-**Armor Class** :: 16 (mage armor, dex, ring)
-**Hit Points** :: 91 (13d8 + 26)
-**Speed** :: 30 ft.
-<div class="col-img">![Witch Mother Helga](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-witch-mother-helga.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1) | 14 (+2) | 14 (+2) | 16 (+3) | 16 (+3) | 20 (+5) |
-___
-**Saving Throws** :: —
-**Skills** :: Perception +6
-**Senses** :: passive Perception 13
-**Languages** :: Common, Elvish
-**Challenge** :: 12 (8,400 XP)
-___
-***Fey Presence.*** :: Fey Presence (frighten/charm)
-***Misty Escape.*** :: Misty Escape
-***Beguiling Defenses.*** :: Beguiling Defenses
-***Dark Delirium.*** :: Dark Delirium
-### Actions
-***Weapon Attack.*** :: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + -1 modifier.::
-}}
 
 #### Background & History
 Helga was born in a small village near the Thornmire with the gift of sight. She could see the threads of fate binding people to their futures. Her village celebrated her as blessed until her visions turned dark, predicting a noble's death. When that noble died exactly as she described, the villagers turned on her, claiming she'd caused it.
 
-She fled into the swamp at seventeen and nearly died before a voice offered salvation. The Archfey known as the Lady of Thorns granted Helga power in exchange for service: collecting debts, granting wishes, and maintaining the boundary between the mortal world and the Feywild. Fifty-six years later, Helga has become something between human and fey herself.
+She fled into the swamp at seventeen and nearly died before a voice offered salvation. The Archfey known as the Lady of Thorns granted Helga power in exchange for service: collecting debts, granting wishes, and maintaining the boundary between the mortal world and 
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+the Feywild. Fifty-six years later, Helga has become something between human and fey herself.
 
 She lives in the Crooked Hut, which moves through the swamp according to rules only she understands. Petitioners find her when she wishes to be found. She grants wishes, but her prices are strange and terrible. A year of your shadow. Your firstborn's first laugh. The memory of your mother's face. She never lies about the cost, but people rarely understand what they're truly giving up.
 
@@ -6798,10 +6762,6 @@ She lives in the Crooked Hut, which moves through the swamp according to rules o
 - **Rival:** The Frost Witch of Iceridge (old grudge from a stolen bargain)
 - **Servant:** Three will-o'-wisps that serve as messengers and guardians
 - **Enemy:** Inquisitor Aldric Brightblade (has sworn to destroy her)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -6823,20 +6783,63 @@ She lives in the Crooked Hut, which moves through the swamp according to rules o
 
 **Secret:** Was normal woman. Made deal with Archfey for power to save dying child. Child lived. She became this. Doesn't regret it.
 
+<div class="col-img">![Witch Mother Helga](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-witch-mother-helga.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+{{monster,frame,wide
+## Witch Mother Helga
+*Medium humanoid (human), chaotic neutral*
+___
+**Armor Class** :: 16 (mage armor, dex, ring)
+**Hit Points** :: 91 (13d8 + 26)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1) | 14 (+2) | 14 (+2) | 16 (+3) | 16 (+3) | 20 (+5) |
+___
+**Saving Throws** :: —
+**Skills** :: Perception +6
+**Senses** :: passive Perception 13
+**Languages** :: Common, Elvish
+**Challenge** :: 12 (8,400 XP)
+___
+***Fey Presence.*** :: Fey Presence (frighten/charm)
+***Misty Escape.*** :: Misty Escape
+***Beguiling Defenses.*** :: Beguiling Defenses
+***Dark Delirium.*** :: Dark Delirium
+### Actions
+***Weapon Attack.*** :: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + -1 modifier.::
+}}
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+## Council Elder Thaelon Starlight
+
+<div class="col-img">![Council Elder Thaelon Starlight](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-elder-thaelon-starlight.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+Born in Aethermere over thirteen centuries ago, Thaelon was a prodigy of enchantment magic who could charm birds from trees before he finished his first century. He is one of the few living beings who witnessed the Worldrend firsthand, a trauma that shaped his lifelong commitment to peace and understanding. He served on the Circle of Speakers for three hundred years before stepping back to focus on magical research, then returned to politics when the Worldrend's aftereffects threatened Aethorian stability.
+
+His specialty is the magic of minds and hearts, not for control, but for understanding. He believes that most conflicts arise from misunderstanding, and that with patience and empathy, even ancient enemies can find common ground. This philosophy has made him the Harmony's primary diplomat, negotiating treaties with the Crystalbrook Compact and even opening limited dialogue with Thaldros.
+
+Critics call him naive; he's been betrayed by those he trusted, watched treaties collapse, and seen his students fall to corruption. Yet he persists, believing that each success justifies a hundred failures. His detractors note that at over 1,300 years old, he can afford patience that shorter-lived races cannot.
+
+#### Connections
+- **Peer:** Speaker Ellandris Starweaver (old friend, philosophical disagreements)
+- **Student:** Spellweaver Lyrian Crystal (former protégé, estranged)
+- **Contact:** Sage Thelmar Runescribe in Thaldros (secret correspondent)
+- **Rival:** High Diviner Celestia Starborn (disapproves of his openness with outsiders)
+- **Enemy:** The Whisperer (information broker who has sold his secrets)
+
+{{monster,frame
 ## Council Elder Thaelon Starlight
 *Medium humanoid (elf), lawful good*
 ___
 **Armor Class** :: 16 (robes, shield, ring)
 **Hit Points** :: 85 (14d6 + 2d8 + 32)
 **Speed** :: 30 ft.
-<div class="col-img">![Council Elder Thaelon Starlight](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-elder-thaelon-starlight.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6856,25 +6859,8 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + -1 modifier.::
 }}
 
-#### Background & History
-Born in Aethermere over thirteen centuries ago, Thaelon was a prodigy of enchantment magic who could charm birds from trees before he finished his first century. He is one of the few living beings who witnessed the Worldrend firsthand, a trauma that shaped his lifelong commitment to peace and understanding. He served on the Circle of Speakers for three hundred years before stepping back to focus on magical research, then returned to politics when the Worldrend's aftereffects threatened Aethorian stability.
-
-His specialty is the magic of minds and hearts, not for control, but for understanding. He believes that most conflicts arise from misunderstanding, and that with patience and empathy, even ancient enemies can find common ground. This philosophy has made him the Harmony's primary diplomat, negotiating treaties with the Crystalbrook Compact and even opening limited dialogue with Thaldros.
-
-Critics call him naive; he's been betrayed by those he trusted, watched treaties collapse, and seen his students fall to corruption. Yet he persists, believing that each success justifies a hundred failures. His detractors note that at over 1,300 years old, he can afford patience that shorter-lived races cannot.
-
-#### Connections
-- **Peer:** Speaker Ellandris Starweaver (old friend, philosophical disagreements)
-- **Student:** Spellweaver Lyrian Crystal (former protégé, estranged)
-- **Contact:** Sage Thelmar Runescribe in Thaldros (secret correspondent)
-- **Rival:** High Diviner Celestia Starborn (disapproves of his openness with outsiders)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-- **Enemy:** The Whisperer (information broker who has sold his secrets)
-
+ ::
+ 
 {{descriptive
 #### Secrets (DM Only)
 1. **The Worldrend Fragment:** Possesses a piece of the artifact that caused the Worldrend. Has spent centuries trying to understand it safely.
@@ -6883,6 +6869,10 @@ Critics call him naive; he's been betrayed by those he trusted, watched treaties
 4. **The Failed Student:** Lyrian Crystal's fall into dark magic was partly his fault. He pushed too hard, too fast.
 5. **The Prophecy:** Has foreseen that the next Worldrend can only be prevented by sacrifice. He believes he knows whose sacrifice is required.
 }}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 #### Plot Hooks
 1. **The Secret Embassy:** Needs trustworthy outsiders to carry messages to Thaldros without the Harmony's knowledge.
@@ -6895,21 +6885,17 @@ Critics call him naive; he's been betrayed by those he trusted, watched treaties
 
 **Secret:** One of the few living witnesses to the Worldrend (over 1,300 years old). Was a young elf of about 100 when the world split. Remembers the unified kingdom. Dreams of it nightly. Believes reunification is his life's purpose, and his burden.
 
----
+## Archdruid Silvaris Oakenheart
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
+<div class="col-img">![Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silvaris.jpg){width:325px,mix-blend-mode:multiply}</div>
 
-\page
-
-{{monster,frame,wide
+{{monster,frame
 ## Archdruid Silvaris Oakenheart
 *Medium humanoid (elf), neutral good*
 ___
 **Armor Class** :: 16 (barkskin, wisdom)
 **Hit Points** :: 112 (15d8 + 45)
 **Speed** :: 30 ft.
-<div class="col-img">![Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-silvaris.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -6967,21 +6953,26 @@ But the bond comes at a cost. Each Archdruid slowly loses their individual ident
 
 **Secret:** The forests are dying slowly. Some disease or curse he can't identify. Race against time to find cure.
 
----
+## Spellweaver Lyrian Crystal
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
+#### Background & History
+Once the most promising student of Council Elder Thaelon, Lyrian was a half-elf born with an unusual sensitivity to raw magic. They could perceive the weave of spells as physical threads and manipulate them in ways most wizards never imagined. Thaelon saw in them the potential to revolutionize magical theory.
 
-\page
+But Lyrian's gift came with a curse: they could also perceive the damage magic had done to the world, the scars left by the Worldrend still bleeding magical energy. Determined to heal these wounds, they pushed beyond safe magical practice. An experiment went wrong, killing three colleagues and leaving Lyrian touched by something from beyond the normal planes.
 
-{{monster,frame,wide
+Now Lyrian walks a dark path, still seeking to heal the world but willing to use increasingly dangerous methods. They believe the ends justify the means. That a healed world is worth any cost. Council Elder Thaelon mourns the student they failed; others see Lyrian as a growing threat.
+
+<div class="col-img">![Spellweaver Lyrian Crystal](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-spellweaver-lyrian-crystal.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+ ::
+
+{{monster,frame
 ## Spellweaver Lyrian Crystal
 *Medium humanoid (elf), chaotic good*
 ___
 **Armor Class** :: 17 (draconic resilience, dex, shield)
 **Hit Points** :: 105 (14d6 + 56)
 **Speed** :: 30 ft., fly 30 ft.
-<div class="col-img">![Spellweaver Lyrian Crystal](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-spellweaver-lyrian-crystal.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7001,12 +6992,9 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + -1 modifier.::
 }}
 
-#### Background & History
-Once the most promising student of Council Elder Thaelon, Lyrian was a half-elf born with an unusual sensitivity to raw magic. They could perceive the weave of spells as physical threads and manipulate them in ways most wizards never imagined. Thaelon saw in them the potential to revolutionize magical theory.
-
-But Lyrian's gift came with a curse: they could also perceive the damage magic had done to the world, the scars left by the Worldrend still bleeding magical energy. Determined to heal these wounds, they pushed beyond safe magical practice. An experiment went wrong, killing three colleagues and leaving Lyrian touched by something from beyond the normal planes.
-
-Now Lyrian walks a dark path, still seeking to heal the world but willing to use increasingly dangerous methods. They believe the ends justify the means. That a healed world is worth any cost. Council Elder Thaelon mourns the student they failed; others see Lyrian as a growing threat.
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 #### Connections
 - **Former Mentor:** Council Elder Thaelon Starlight (complicated love/resentment)
@@ -7014,10 +7002,6 @@ Now Lyrian walks a dark path, still seeking to heal the world but willing to use
 - **Followers:** Twelve mages who believe in their vision
 - **Enemy:** The Harmony Council (outlawed, hunted)
 - **Contact:** Master Alchemist Varek (supplies rare components, no questions asked)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -7038,21 +7022,37 @@ Now Lyrian walks a dark path, still seeking to heal the world but willing to use
 
 **Secret:** Silver dragon ancestor visits him in dreams. Gives advice. Is real dragon, not hallucination. Dragon watching over family.
 
----
+## Lady Shadowleaf (True Name: Niriel)
+
+#### Background & History
+Niriel was born to a minor elven house five centuries ago and showed early talent for shadow magic. Rare among elves, who typically favor light and nature. Her family tried to suppress her gifts, fearing social stigma. When she was discovered practicing in secret, they gave her a choice: abandon shadow magic or abandon the family.
+
+\column
+
+She chose the shadows. Taking the name "Shadowleaf" as bitter reminder of what she'd lost, she spent centuries honing her craft in isolation. Her break came when the Circle of Speakers needed someone for tasks too dark for their public image, espionage, sabotage, and occasionally worse. Niriel became their shadow, doing necessary evils so they could maintain their principles.
+
+Now she leads a network of shadow-touched elves who serve the Harmony from the darkness. She tells herself it's noble work, protecting her people from threats they'll never know existed. But sometimes she wonders if she's truly serving the Harmony, or if she's become exactly the monster her family feared.
+
+#### Connections
+- **Handler:** Council Speaker Aquila Clearwater (gives orders, denies connection)
+- **Network:** Forty-seven shadow agents across both continents
+- **Enemy:** Her birth family (mutual pretense of non-existence)
+- **Asset:** The Whisperer (information broker, complicated relationship)
+- **Rival:** Spy-Master Kaelen Shadowleaf (no relation, professional competition)
+
+<div class="col-img">![Lady Shadowleaf (True Name: Niriel)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-shadowleaf-niriel.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+{{monster,frame
 ## Lady Shadowleaf (True Name: Niriel)
 *Medium humanoid (elf), lawful neutral*
 ___
 **Armor Class** :: 19 (studded leather +3, dex, defensive)
 **Hit Points** :: 125 (15d8 + 3d10 + 54)
 **Speed** :: 40 ft.
-<div class="col-img">![Lady Shadowleaf (True Name: Niriel)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-shadowleaf-niriel.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7079,24 +7079,6 @@ ___
 ***Ambush Master.*** :: Has advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. Any hit against a surprised creature is a critical hit.
 }}
 
-#### Background & History
-Niriel was born to a minor elven house five centuries ago and showed early talent for shadow magic. Rare among elves, who typically favor light and nature. Her family tried to suppress her gifts, fearing social stigma. When she was discovered practicing in secret, they gave her a choice: abandon shadow magic or abandon the family.
-
-She chose the shadows. Taking the name "Shadowleaf" as bitter reminder of what she'd lost, she spent centuries honing her craft in isolation. Her break came when the Circle of Speakers needed someone for tasks too dark for their public image, espionage, sabotage, and occasionally worse. Niriel became their shadow, doing necessary evils so they could maintain their principles.
-
-Now she leads a network of shadow-touched elves who serve the Harmony from the darkness. She tells herself it's noble work, protecting her people from threats they'll never know existed. But sometimes she wonders if she's truly serving the Harmony, or if she's become exactly the monster her family feared.
-
-#### Connections
-- **Handler:** Council Speaker Aquila Clearwater (gives orders, denies connection)
-- **Network:** Forty-seven shadow agents across both continents
-- **Enemy:** Her birth family (mutual pretense of non-existence)
-- **Asset:** The Whisperer (information broker, complicated relationship)
-- **Rival:** Spy-Master Kaelen Shadowleaf (no relation, professional competition)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Hidden Archive:** Maintains records of every operation, insurance against the Council denying her existence.
@@ -7105,6 +7087,8 @@ Now she leads a network of shadow-touched elves who serve the Harmony from the d
 4. **The Personal Mission:** Searching for an artifact that could let her walk in daylight again, shadow magic has made sunlight painful.
 5. **The Exit Strategy:** Has planned exactly how to disappear if the Council ever decides she's a liability.
 }}
+
+\column
 
 #### Plot Hooks
 1. **The Deniable Operation:** Offers the party a job the Harmony can't officially sanction. Pay is excellent; risks are unclear.
@@ -7116,21 +7100,21 @@ Now she leads a network of shadow-touched elves who serve the Harmony from the d
 
 **Secret:** Is actually twin sisters taking turns. Both named Niriel. No one knows there are two. This is how she's "everywhere."
 
----
+## High Diviner Celestia Starborn
+
+<div class="col-img">![High Diviner Celestia Starborn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-high-diviner-celestia-starborn.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+{{monster,frame
 ## High Diviner Celestia Starborn
 *Medium humanoid (elf), lawful neutral*
 ___
 **Armor Class** :: 17 (mage armor, shield, ring)
 **Hit Points** :: 100 (16d6 + 48)
 **Speed** :: 30 ft.
-<div class="col-img">![High Diviner Celestia Starborn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-high-diviner-celestia-starborn.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7165,10 +7149,6 @@ Now she leads the Harmony's diviners, guiding policy with her visions while stru
 - **Contact:** Sage Thelmar Runescribe (exchanges visions via coded letters)
 - **Ghost:** Her first love (appears in visions, offers cryptic warnings)
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Unchangeable Vision:** Has seen a catastrophe she cannot prevent, the death of everyone she knows. She's searching for a way to prove her visions can be wrong.
@@ -7188,21 +7168,46 @@ Now she leads the Harmony's diviners, guiding policy with her visions while stru
 
 **Secret:** Has foreseen her own death. Date, time, manner. Accepts it. Preparing successor. Writing down all knowledge before then.
 
----
+## Council Speaker Aquila Clearwater
+
+#### Background & History
+Aquila's family has led the Crystalbrook Compact for seven generations, but she was never meant to inherit. The third child of three, she was free to pursue her passions, sailing the great lakes, exploring sunken ruins, and avoiding the tedious business of politics. Then her older siblings died in a boating accident that wasn't quite an accident.
+
+At twenty-eight, she was suddenly Guildmaster of House Clearwater and de facto leader of the Compact. She spent her first decade fighting to survive the political machinations that had killed her siblings. When she finally identified and destroyed those responsible, she found she had developed a taste for the game.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+Now sixty and at the height of her power, Aquila plays politics like chess, always thinking three moves ahead. She's transformed the Compact from a loose alliance into a genuine power, though always careful not to threaten the Harmony's dominance. Her public face is diplomatic and reasonable; her private actions are ruthlessly pragmatic.
+
+#### Connections
+- **Asset:** Lady Shadowleaf (handles "difficult" problems)
+- **Rival:** Guildmaster Theron Clearwater (cousin, wants her position)
+- **Ally:** Speaker Arien Swiftbrook (Harmony reformer)
+- **Contact:** Trade Prince Lucian Goldfingers (business arrangements)
+- **Enemy:** The organization that killed her siblings (still exists, diminished)
+
+<div class="col-img">![Council Speaker Aquila Clearwater](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-speaker-aquila-clearwater.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Siblings' Killers:** Destroyed most of them, but three escaped. She's hunted them for thirty years.
+2. **The Harmony Manipulation:** Secretly working to increase Compact independence while appearing loyal.
+3. **The Shadowleaf Connection:** Her relationship with Lady Shadowleaf extends beyond professional. They are lovers.
+4. **The Sunken Discovery:** Found something in a lake ruin that could change the balance of power. Hiding it until the time is right.
+5. **The Succession Plan:** Has no children and no clear heir. Is carefully testing candidates without their knowledge.
+}}
+
+ ::
+
+{{monster,frame
 ## Council Speaker Aquila Clearwater
 *Medium humanoid (human), lawful good*
 ___
 **Armor Class** :: 15 (studded leather, dex)
 **Hit Points** :: 63 (9d8 + 18)
 **Speed** :: 30 ft., swim 40 ft.
-<div class="col-img">![Council Speaker Aquila Clearwater](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-speaker-aquila-clearwater.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7223,32 +7228,6 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + +0 modifier.::
 }}
 
-#### Background & History
-Aquila's family has led the Crystalbrook Compact for seven generations, but she was never meant to inherit. The third child of three, she was free to pursue her passions, sailing the great lakes, exploring sunken ruins, and avoiding the tedious business of politics. Then her older siblings died in a boating accident that wasn't quite an accident.
-
-At twenty-eight, she was suddenly Guildmaster of House Clearwater and de facto leader of the Compact. She spent her first decade fighting to survive the political machinations that had killed her siblings. When she finally identified and destroyed those responsible, she found she had developed a taste for the game.
-
-Now sixty and at the height of her power, Aquila plays politics like chess, always thinking three moves ahead. She's transformed the Compact from a loose alliance into a genuine power, though always careful not to threaten the Harmony's dominance. Her public face is diplomatic and reasonable; her private actions are ruthlessly pragmatic.
-
-#### Connections
-- **Asset:** Lady Shadowleaf (handles "difficult" problems)
-- **Rival:** Guildmaster Theron Clearwater (cousin, wants her position)
-- **Ally:** Speaker Arien Swiftbrook (Harmony reformer)
-- **Contact:** Trade Prince Lucian Goldfingers (business arrangements)
-- **Enemy:** The organization that killed her siblings (still exists, diminished)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Siblings' Killers:** Destroyed most of them, but three escaped. She's hunted them for thirty years.
-2. **The Harmony Manipulation:** Secretly working to increase Compact independence while appearing loyal.
-3. **The Shadowleaf Connection:** Her relationship with Lady Shadowleaf extends beyond professional. They are lovers.
-4. **The Sunken Discovery:** Found something in a lake ruin that could change the balance of power. Hiding it until the time is right.
-5. **The Succession Plan:** Has no children and no clear heir. Is carefully testing candidates without their knowledge.
-}}
 
 #### Plot Hooks
 1. **The Final Hunt:** Has located one of her siblings' killers. Needs outside help to reach them.
@@ -7260,46 +7239,23 @@ Now sixty and at the height of her power, Aquila plays politics like chess, alwa
 
 **Secret:** Is actually from underwater city. Came to surface 40 years ago. Still maintains contact. Secret liaison between worlds.
 
----
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-
-\page
-
-{{monster,frame,wide
 ## Elder Council Mother Talia Vinehart
-*Medium humanoid (elf), neutral good*
-___
-**Armor Class** :: 16 (barkskin, wisdom)
-**Hit Points** :: 105 (14d8 + 42)
-**Speed** :: 35 ft., climb 35 ft.
-<div class="col-img">![Elder Council Mother Talia Vinehart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-council-mother-talia-vinehart.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 (+1) | 14 (+2) | 16 (+3) | 14 (+2) | 20 (+5) | 16 (+3) |
-___
-**Saving Throws** :: —
-**Skills** :: Perception +8
-**Senses** :: darkvision 60 ft., passive Perception 15
-**Languages** :: Common, Elvish
-**Challenge** :: 13 (10,000 XP)
-___
-***Fey Ancestry.*** :: Has advantage on saving throws against being charmed, and magic can't put them to sleep.
-***Jungle terrain bonuses.*** :: Jungle terrain bonuses
-***can communicate with plants/animals.*** :: can communicate with plants/animals
-***Natural Sanctuary.*** :: Natural Sanctuary
-### Actions
-***Weapon Attack.*** :: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + +1 modifier.::
-}}
 
 #### Background & History
 Talia came to Aethoria as a refugee from Thaldros, one of the half-elf children displaced by the conflicts following the Dragon Crisis. The elves took her in reluctantly, half-breeds often struggled to find acceptance, but she won them over with determination and wisdom beyond her years.
 
-She became a druid of considerable power, specializing in agricultural magic that helped communities thrive. Her practical approach and understanding of non-elven perspectives made her valuable as a bridge between the Harmony and other peoples. When the Circle of Speakers created an advisory position for non-pure-elven voices, she was the obvious choice.
+She became a druid of considerable power, specializing in agricultural magic that helped communities thrive. Her practical approach and 
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+understanding of non-elven perspectives made her valuable as a bridge between the Harmony and other peoples. When the Circle of Speakers created an advisory position for non-pure-elven voices, she was the obvious choice.
 
 Now she represents the interests of half-elves, human immigrants, and other minorities within the Harmony. It's a difficult position—too elven for outsiders, too human for traditionalists—but she navigates it with patience and occasional stubbornness. She's older than most humans live but young by elven standards, giving her a unique temporal perspective.
+
+<div class="col-img">![Elder Council Mother Talia Vinehart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-council-mother-talia-vinehart.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 
 #### Connections
 - **Allies:** Other half-elves and minority populations
@@ -7307,10 +7263,6 @@ Now she represents the interests of half-elves, human immigrants, and other mino
 - **Opponent:** Speaker Ellandris Starweaver (traditionalist)
 - **Contact:** Various immigrant communities
 - **Memory:** Thaldros (hasn't visited in decades, still considers it home)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -7331,19 +7283,63 @@ Now she represents the interests of half-elves, human immigrants, and other mino
 
 **Secret:** The jungle is sentient. Collective consciousness of all plants. She's its voice. Not metaphor—literal truth.
 
+{{monster,frame
+## Elder Council Mother Talia Vinehart
+*Medium humanoid (elf), neutral good*
+___
+**Armor Class** :: 16 (barkskin, wisdom)
+**Hit Points** :: 105 (14d8 + 42)
+**Speed** :: 35 ft., climb 35 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 12 (+1) | 14 (+2) | 16 (+3) | 14 (+2) | 20 (+5) | 16 (+3) |
+___
+**Saving Throws** :: —
+**Skills** :: Perception +8
+**Senses** :: darkvision 60 ft., passive Perception 15
+**Languages** :: Common, Elvish
+**Challenge** :: 13 (10,000 XP)
+___
+***Fey Ancestry.*** :: Has advantage on saving throws against being charmed, and magic can't put them to sleep.
+***Jungle terrain bonuses.*** :: Jungle terrain bonuses
+***can communicate with plants/animals.*** :: can communicate with plants/animals
+***Natural Sanctuary.*** :: Natural Sanctuary
+### Actions
+***Weapon Attack.*** :: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + +1 modifier.::
+}}
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+## Lord Commander Gareth Lightbane (Iron Council)
+
+<div class="col-img">![Lord Commander Gareth Lightbane (Iron Council)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-gareth-lightbane.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+Gareth was born to farmers in the shadow of the Ironspine Mountains, the third son with no prospects. He joined the Lightbringers at sixteen seeking purpose, and found it in holy warfare against evil. For forty years he rose through the ranks, his tactical brilliance matched only by his unyielding faith.
+
+His defining moment came during the Demon Tide of 1198 CR, when a portal to the Abyss opened in the northern mountains. Gareth led the defense for three months, suffering wounds that should have killed him, before finally sealing the portal. He emerged a hero, and changed. The demons had shown him things, whispered truths that shook his simple faith.
+
+Now he leads the Iron Council, the military arm of the Lightbringers. He remains devoted to protecting the innocent, but his methods have become harder, his mercy rarer. He's seen what evil truly is, and he knows that sometimes fighting monsters requires becoming something not entirely human.
+
+\column
+
+#### Connections
+- **Order:** The Lightbringers (commands their military forces)
+- **Peer:** Lord Commander Thrain Ironoak (professional respect)
+- **Subordinate:** Captain Thalia Lightbringer (devoted, competent)
+- **Concern:** Brother Tormund (sees his own path in Tormund's trauma)
+- **Secret Enemy:** Something sealed within him during the Demon Tide
+
+{{monster,frame
 ## Lord Commander Gareth Lightbane (Iron Council)
 *Medium humanoid (human), lawful good*
 ___
 **Armor Class** :: 21 (plate +1, shield +1, defense)
 **Hit Points** :: 165 (15d10 + 75)
 **Speed** :: 30 ft.
-<div class="col-img">![Lord Commander Gareth Lightbane (Iron Council)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-gareth-lightbane.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7363,23 +7359,6 @@ ___
 ***Sunblade.*** :: Melee or Ranged Weapon Attack: +12 to hit, 1d8+7 radiant + 1d8 radiant vs undead, glows.::
 }}
 
-#### Background & History
-Gareth was born to farmers in the shadow of the Ironspine Mountains, the third son with no prospects. He joined the Lightbringers at sixteen seeking purpose, and found it in holy warfare against evil. For forty years he rose through the ranks, his tactical brilliance matched only by his unyielding faith.
-
-His defining moment came during the Demon Tide of 1198 CR, when a portal to the Abyss opened in the northern mountains. Gareth led the defense for three months, suffering wounds that should have killed him, before finally sealing the portal. He emerged a hero, and changed. The demons had shown him things, whispered truths that shook his simple faith.
-
-Now he leads the Iron Council, the military arm of the Lightbringers. He remains devoted to protecting the innocent, but his methods have become harder, his mercy rarer. He's seen what evil truly is, and he knows that sometimes fighting monsters requires becoming something not entirely human.
-
-#### Connections
-- **Order:** The Lightbringers (commands their military forces)
-- **Peer:** Lord Commander Thrain Ironoak (professional respect)
-- **Subordinate:** Captain Thalia Lightbringer (devoted, competent)
-- **Concern:** Brother Tormund (sees his own path in Tormund's trauma)
-- **Secret Enemy:** Something sealed within him during the Demon Tide
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -7389,6 +7368,10 @@ Now he leads the Iron Council, the military arm of the Lightbringers. He remains
 4. **The Successor Concern:** Fears what will happen to the Iron Council after he dies, or falls to the demon within.
 5. **The Sealed Portal:** The Demon Tide portal wasn't fully sealed. He's been containing it personally for thirty years.
 }}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 #### Plot Hooks
 1. **The Portal Crisis:** The seal is weakening. He needs help reinforcing it without revealing why he's connected to it.
@@ -7400,21 +7383,17 @@ Now he leads the Iron Council, the military arm of the Lightbringers. He remains
 
 **Secret:** His daughter was turned into vampire. He destroyed her himself. This broke him. Now he's even more zealous to cope.
 
----
+## Trade Prince Lucian Goldfingers (Merchant League)
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
+<div class="col-img">![Trade Prince Lucian Goldfingers (Merchant League)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lucian-goldfingers.jpg){width:325px,mix-blend-mode:multiply}</div>
 
-\page
-
-{{monster,frame,wide
+{{monster,frame
 ## Trade Prince Lucian Goldfingers (Merchant League)
 *Medium humanoid (human), lawful evil*
 ___
 **Armor Class** :: 17 (studded leather +2, dex, ring)
 **Hit Points** :: 88 (11d8 + 33)
 **Speed** :: 30 ft.
-<div class="col-img">![Trade Prince Lucian Goldfingers (Merchant League)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lucian-goldfingers.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7448,6 +7427,10 @@ Lucian was born in the gutters of Port Myrthen, a half-elf bastard of a merchant
 
 When his father died, Lucian revealed the blackmail material anyway—not for revenge, but to eliminate rivals who knew the truth. He absorbed his father's trading company and used it as a foundation to build a merchant empire spanning both continents. Now he sits on the Merchant League's inner council, one of the three Trade Princes who truly control continental commerce.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 His public persona is the charming rogue, the common-born success story. Privately, he's ruthless, patient, and never forgives a slight. He doesn't want money. He has more than he could spend in several lifetimes. He wants power, respect, and eventually to reshape the world's economy in his image.
 
 #### Connections
@@ -7456,10 +7439,6 @@ His public persona is the charming rogue, the common-born success story. Private
 - **Asset:** Extensive spy network across merchant houses
 - **Contact:** Master Crimson (occasional business, mutual respect)
 - **Enemy:** His half-siblings (still fighting over their father's legacy)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -7480,21 +7459,37 @@ His public persona is the charming rogue, the common-born success story. Private
 
 **Secret:** Funds both sides of several conflicts. Profits from war. Has destabilization agents creating tensions. Not patriotic, mercenary.
 
----
+## Master Crimson (The Syndicate)
+
+#### Background & History
+No one knows who Master Crimson really is. That's rather the point. The name has been used for over forty years, possibly by multiple individuals, possibly by one very careful person. What's known is that Master Crimson controls the Shadow Syndicate's operations across central Thaldros.
+
+The Shadow Syndicate isn't a traditional thieves' guild. It's a business—criminal business, but business nonetheless. They provide services: smuggling, theft, assassination, information, protection. Everything has a price, and Master Crimson sets the prices.
+
+Under Crimson's leadership, the Syndicate has become almost respectable in certain circles. They honor contracts, don't target civilians unnecessarily, and maintain order in the underworld that benefits everyone. Several city watch commanders have quiet arrangements. Some noble houses retain their services.
+
+The current Master Crimson (if there's only one) operates from somewhere in the Free Cities, coordinates regional operations through lieutenants like Silas the Fence, and appears in person only for the most important negotiations.
+
+#### Connections
+- **Regional Lieutenants:** Silas the Fence (Silverpine), The Iron Hand (Crossvale), Whisper (Goldreach), and others
+- **Trade Prince Lucian:** Business arrangement. Mutual benefit, mutual distrust
+- **City Watch Commanders:** Several have quiet understandings. Captain Lyra Swiftwind is notably NOT one of them.
+- **The Crimson Order:** The blood mage society chose their name coincidentally, or did they? Crimson finds the confusion useful.
+- **Lady Morgana Blackwater:** Has used Syndicate services. Crimson finds her increasingly concerning.
+
+<div class="col-img">![Master Crimson (The Syndicate)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-crimson.jpg){width:310px,mix-blend-mode:multiply}</div>
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+{{monster,frame
 ## Master Crimson (The Syndicate)
 *Medium humanoid (human), neutral evil*
 ___
 **Armor Class** :: 16 (studded leather +1)
 **Hit Points** :: 97 (15d8 + 30)
 **Speed** :: 30 ft.
-<div class="col-img">![Master Crimson (The Syndicate)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-crimson.jpg){width:310px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7518,25 +7513,6 @@ ___
 ***Parry.*** :: Adds +4 AC against one melee attack.
 }}
 
-#### Background & History
-No one knows who Master Crimson really is. That's rather the point. The name has been used for over forty years, possibly by multiple individuals, possibly by one very careful person. What's known is that Master Crimson controls the Shadow Syndicate's operations across central Thaldros.
-
-The Shadow Syndicate isn't a traditional thieves' guild. It's a business—criminal business, but business nonetheless. They provide services: smuggling, theft, assassination, information, protection. Everything has a price, and Master Crimson sets the prices.
-
-Under Crimson's leadership, the Syndicate has become almost respectable in certain circles. They honor contracts, don't target civilians unnecessarily, and maintain order in the underworld that benefits everyone. Several city watch commanders have quiet arrangements. Some noble houses retain their services.
-
-The current Master Crimson (if there's only one) operates from somewhere in the Free Cities, coordinates regional operations through lieutenants like Silas the Fence, and appears in person only for the most important negotiations.
-
-#### Connections
-- **Regional Lieutenants:** Silas the Fence (Silverpine), The Iron Hand (Crossvale), Whisper (Goldreach), and others
-- **Trade Prince Lucian:** Business arrangement. Mutual benefit, mutual distrust
-- **City Watch Commanders:** Several have quiet understandings. Captain Lyra Swiftwind is notably NOT one of them.
-- **The Crimson Order:** The blood mage society chose their name coincidentally, or did they? Crimson finds the confusion useful.
-- **Lady Morgana Blackwater:** Has used Syndicate services. Crimson finds her increasingly concerning.
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -7555,21 +7531,30 @@ The current Master Crimson (if there's only one) operates from somewhere in the 
 5. **The Predecessor's Debts:** The second Master Crimson made promises Elena didn't know about. Those debts are being called in.
 6. **Identity Exposed:** Someone has figured out who she really is. They want something in exchange for silence.
 
----
+## Grand Warden Volcanus Rex (Ashwardens)
 
+<div class="col-img">![Grand Warden Volcanus Rex (Ashwardens)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-grand-warden-volcanus-rex.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+No one knows Master Crimson's original name or face—that identity died decades ago when they assumed leadership of the Shadow Syndicate's central council. They might be human, elf, or something else entirely; the mask has been worn so long it's become the only truth.
+
+The Syndicate was fragmenting when Crimson took control, various factions warring for dominance. Through a combination of assassination, bribery, and strategic brilliance, they unified the underworld under a 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+single code: profitable crime with minimal violence, maintained order in the shadows, and absolute punishment for those who break the rules.
+
+Under Crimson's leadership, the Syndicate has become almost respectable—a shadow government that provides services the legitimate authorities cannot or will not. They arbitrate disputes, protect certain communities, and even occasionally assist law enforcement against threats to stability. They're still criminals, but organized, predictable criminals.
+
+
+{{monster,frame
 ## Grand Warden Volcanus Rex (Ashwardens)
 *Medium humanoid (human), lawful neutral*
 ___
 **Armor Class** :: 21 (plate +1, shield +1, Forge blessing)
 **Hit Points** :: 160 (14d8 + 4d10 + 72)
 **Speed** :: 30 ft.
-<div class="col-img">![Grand Warden Volcanus Rex (Ashwardens)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-grand-warden-volcanus-rex.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7590,23 +7575,12 @@ ___
 ***Warhammer +2.*** :: Melee or Ranged Weapon Attack: +12 to hit, 1d8+7 + 1d8 fire.::
 }}
 
-#### Background & History
-No one knows Master Crimson's original name or face—that identity died decades ago when they assumed leadership of the Shadow Syndicate's central council. They might be human, elf, or something else entirely; the mask has been worn so long it's become the only truth.
-
-The Syndicate was fragmenting when Crimson took control, various factions warring for dominance. Through a combination of assassination, bribery, and strategic brilliance, they unified the underworld under a single code: profitable crime with minimal violence, maintained order in the shadows, and absolute punishment for those who break the rules.
-
-Under Crimson's leadership, the Syndicate has become almost respectable—a shadow government that provides services the legitimate authorities cannot or will not. They arbitrate disputes, protect certain communities, and even occasionally assist law enforcement against threats to stability. They're still criminals, but organized, predictable criminals.
-
 #### Connections
 - **Organization:** The Shadow Syndicate (rules through council)
 - **Lieutenant:** Silas the Fence (trusted regional manager)
 - **Contact:** Trade Prince Lucian (mutual arrangements)
 - **Enemy:** Inquisitor cells (constant low-level conflict)
 - **Asset:** Informants in every major organization
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -7627,21 +7601,30 @@ Under Crimson's leadership, the Syndicate has become almost respectable—a shad
 
 **Secret:** Has direct communication with primordial fire elemental under volcano. It warns him of eruptions. This is his "divine" ability.
 
----
+## Warden Commander Thalia Moonbow (Ironspine Rangers)
+
+<div class="col-img">![Warden Commander Thalia Moonbow (Ironspine Rangers)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-warden-commander-thalia-moonbow.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+Thalia grew up in the forests bordering the Ironspine Mountains, daughter of two rangers who taught her to track before she could read. She joined the Ironspine Rangers at sixteen, the youngest in their history, and 
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+proved herself during the Troll Wars of 1210 CR when she single-handedly tracked and killed a troll chieftain.
+
+The Ironspine Rangers patrol the mountains' lower slopes and forest boundaries, protecting travelers and settlements from the creatures that emerge from the peaks. It's unglamorous work (more about prevention and patrol than heroic battles) but Thalia has shaped them into the most effective wilderness force in Thaldros.
+
+Her command style is quiet competence; she leads by example and rarely raises her voice. Her rangers worship her, not because she asks them to but because she genuinely cares about each of them. She knows every ranger's name, family situation, and weaknesses, and she never sends someone on a mission they can't handle.
+
+{{monster,frame
 ## Warden Commander Thalia Moonbow (Ironspine Rangers)
 *Medium humanoid (elf), neutral good*
 ___
 **Armor Class** :: 19 (studded leather +3, dex, ring)
 **Hit Points** :: 155 (16d10 + 64)
 **Speed** :: 40 ft., climb 40 ft.
-<div class="col-img">![Warden Commander Thalia Moonbow (Ironspine Rangers)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-warden-commander-thalia-moonbow.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7663,23 +7646,12 @@ ___
 ***Longbow +3.*** :: Melee or Ranged Weapon Attack: +15 to hit, 1d8+9 + 1d8 thunder, Extra Attack (2.::
 }}
 
-#### Background & History
-Thalia grew up in the forests bordering the Ironspine Mountains, daughter of two rangers who taught her to track before she could read. She joined the Ironspine Rangers at sixteen, the youngest in their history, and proved herself during the Troll Wars of 1210 CR when she single-handedly tracked and killed a troll chieftain.
-
-The Ironspine Rangers patrol the mountains' lower slopes and forest boundaries, protecting travelers and settlements from the creatures that emerge from the peaks. It's unglamorous work (more about prevention and patrol than heroic battles) but Thalia has shaped them into the most effective wilderness force in Thaldros.
-
-Her command style is quiet competence; she leads by example and rarely raises her voice. Her rangers worship her, not because she asks them to but because she genuinely cares about each of them. She knows every ranger's name, family situation, and weaknesses, and she never sends someone on a mission they can't handle.
-
 #### Connections
 - **Command:** Two hundred rangers across the Ironspine region
 - **Superior:** Lord Commander Thrain Ironoak (formal chain of command)
 - **Ally:** Scout Captain Finn Quickfoot (shares intelligence)
 - **Rival:** Captain Brenna Frostbeard (different approaches to command)
 - **Contact:** Druid Thornwood (provides magical support)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -7700,21 +7672,31 @@ Her command style is quiet competence; she leads by example and rarely raises he
 
 **Secret:** Has befriended silver dragon living in high peaks. It provides intelligence. Official reports omit this detail.
 
----
+## Forge-Master Rurik Ironanvil (Forgebound Guild)
+
+#### Background & History
+The Forgebound Guild has shaped metal in the Ironspine Mountains for two thousand years, and Rurik can trace his lineage back to its founders. He inherited not just their skill but their obsession, the pursuit of perfect metallurgy, the creation of items that will outlast empires.
+
+Rurik became Forge-Master at the young age of 95 (young for a dwarf), after his predecessor died in a forge accident that Rurik suspects was sabotage. He's spent the last century modernizing the Guild while preserving its traditions, a balance that requires constant negotiation between young innovators and ancient conservatives.
+
+His personal forge produces the finest work in Thaldros, and possibly the world. Kings pay fortunes for Rurik's personal touch, but he's more interested in craft than wealth. He dreams of creating a legendary artifact to rival those of the pre-Worldrend age, a masterwork that will ensure his name lives forever.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+
+<div class="col-img">![Forge-Master Rurik Ironanvil (Forgebound Guild)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-rurik-ironanvil.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+ ::
+
+{{monster,frame
 ## Forge-Master Rurik Ironanvil (Forgebound Guild)
 *Medium humanoid (dwarf), lawful good*
 ___
 **Armor Class** :: 21 (artificer armor, defensive infusions)
 **Hit Points** :: 135 (15d8 + 75)
 **Speed** :: 25 ft.
-<div class="col-img">![Forge-Master Rurik Ironanvil (Forgebound Guild)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-rurik-ironanvil.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7735,23 +7717,12 @@ ___
 ***Weapon Attack.*** :: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. ***Hit.*** Weapon damage + +4 modifier.::
 }}
 
-#### Background & History
-The Forgebound Guild has shaped metal in the Ironspine Mountains for two thousand years, and Rurik can trace his lineage back to its founders. He inherited not just their skill but their obsession, the pursuit of perfect metallurgy, the creation of items that will outlast empires.
-
-Rurik became Forge-Master at the young age of 95 (young for a dwarf), after his predecessor died in a forge accident that Rurik suspects was sabotage. He's spent the last century modernizing the Guild while preserving its traditions, a balance that requires constant negotiation between young innovators and ancient conservatives.
-
-His personal forge produces the finest work in Thaldros, and possibly the world. Kings pay fortunes for Rurik's personal touch, but he's more interested in craft than wealth. He dreams of creating a legendary artifact to rival those of the pre-Worldrend age, a masterwork that will ensure his name lives forever.
-
 #### Connections
 - **Guild:** Eight hundred smiths across multiple mountain forges
 - **Rival:** Master Smith Durgan Forgefire (professional competition)
 - **Client:** Grand Warden Volcanus Rex (specialized fire-resistant gear)
 - **Contact:** Merchant Princess Yasmin (rare materials supplier)
 - **Apprentice:** Seventeen masters-in-training, one exceptional
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -7760,6 +7731,7 @@ His personal forge produces the finest work in Thaldros, and possibly the world.
 3. **The Legendary Plans:** Has designs for a legendary weapon but lacks one crucial component, something that may no longer exist.
 4. **The Exceptional Apprentice:** One apprentice has more talent than Rurik himself. He's torn between pride and jealousy.
 5. **The Guild's Secret:** The Forgebound have a sealed vault containing weapons too dangerous to release. He knows what's inside.
+
 }}
 
 #### Plot Hooks
@@ -7772,20 +7744,42 @@ His personal forge produces the finest work in Thaldros, and possibly the world.
 
 **Secret:** Discovered pre-Worldrend technique for forging. Creates items superior to modern methods. Teaching only trusted apprentices.
 
+## Crown Prince Thorin Thandris
+
+#### Basic Information
+- **Race:** Human
+- **Age:** 25
+- **Location:** Kaer Thandros, Royal Palace
+- **Role:** Crown Prince, Heir to the Throne of Thaldros
+- **Alignment:** Lawful Good
+- **Class:** Fighter 8 / Paladin 4 (Oath of the Iron Crown)
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
+<div class="col-img">![Crown Prince Thorin Thandris](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-prince-thorin-thandris.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Physical Description
+Tall and athletic (6'2", 190 lbs) with the Thandris dark hair and strong features. Unlike his father's weathered appearance, Thorin has a youthful vigor tempered by the weight of future responsibility. Clean-shaven, with intense gray eyes that assess situations tactically. Wears practical armor even in court - always ready for action. Has a small scar on his left hand from a training accident at age 16.
+
+#### Equipment
+- **Armor:** Plate Armor +1 (polished, Thandris crest on breastplate)
+- **Shield:** Steel Shield with Mountain Sigil (family crest)
+- **Primary Weapon:** Heir's Blade (Longsword +1, family heirloom, passed to each heir)
+- **Secondary:** Lance (for mounted combat), Javelin (×3)
+- **Mount:** Heavy warhorse named "Stormhoof" (trained for battle)
+- **Cloak:** Cloak of Protection (royal purple with fur trim)
+- **Ring:** Signet Ring of House Thandris (marks official documents)
+- **Other:** Holy symbol of Mordain (steel hammer pendant), Potion of Superior Healing (×2)
+
+{{monster,frame
 ## Crown Prince Thorin Thandris
 *Medium humanoid (human), lawful good*
 ___
 **Armor Class** :: 20 (plate armor +1, shield, defense fighting style)
 **Hit Points** :: 126 (12d10 + 48)
 **Speed** :: 30 ft.
-<div class="col-img">![Crown Prince Thorin Thandris](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-prince-aldric-thandris.jpg){width:315px,mix-blend-mode:multiply}</div>
-
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7821,26 +7815,6 @@ ___
 *"A crown is earned through deeds, not birthright alone."*
 }}
 
-#### Basic Information
-- **Race:** Human
-- **Age:** 25
-- **Location:** Kaer Thandros, Royal Palace
-- **Role:** Crown Prince, Heir to the Throne of Thaldros
-- **Alignment:** Lawful Good
-- **Class:** Fighter 8 / Paladin 4 (Oath of the Iron Crown)
-
-#### Physical Description
-Tall and athletic (6'2", 190 lbs) with the Thandris dark hair and strong features. Unlike his father's weathered appearance, Thorin has a youthful vigor tempered by the weight of future responsibility. Clean-shaven, with intense gray eyes that assess situations tactically. Wears practical armor even in court - always ready for action. Has a small scar on his left hand from a training accident at age 16.
-
-#### Equipment
-- **Armor:** Plate Armor +1 (polished, Thandris crest on breastplate)
-- **Shield:** Steel Shield with Mountain Sigil (family crest)
-- **Primary Weapon:** Heir's Blade (Longsword +1, family heirloom, passed to each heir)
-- **Secondary:** Lance (for mounted combat), Javelin (×3)
-- **Mount:** Heavy warhorse named "Stormhoof" (trained for battle)
-- **Cloak:** Cloak of Protection (royal purple with fur trim)
-- **Ring:** Signet Ring of House Thandris (marks official documents)
-- **Other:** Holy symbol of Mordain (steel hammer pendant), Potion of Superior Healing (×2)
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
@@ -7903,11 +7877,11 @@ Now at 25, he serves as his father's chief military advisor and ambassador. He's
 #### Plot Hooks
 1. **The Assassination Attempt:** Someone tries to kill Crown Prince Thorin during a public ceremony. The party must investigate who ordered it and why - is it political rivals, foreign agents, or something more sinister?
 
+2. **The Secret Meeting:** Thorin needs the party to escort him (in disguise) to a secret meeting with Princess Elanil at the border. They must protect him without revealing his identity, navigate both kingdoms' patrols, and deliver him safely.
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-2. **The Secret Meeting:** Thorin needs the party to escort him (in disguise) to a secret meeting with Princess Elanil at the border. They must protect him without revealing his identity, navigate both kingdoms' patrols, and deliver him safely.
 
 3. **The Bastard Brother:** The illegitimate half-brother surfaces and is kidnapped by enemies who plan to use him to destabilize the succession. Thorin asks the party to rescue him quietly - without revealing the family connection.
 
@@ -7933,19 +7907,40 @@ Now at 25, he serves as his father's chief military advisor and ambassador. He's
 - The bastard brother plot can create succession drama
 - His romance with Mira adds humanizing element and potential vulnerability
 
+## General Marthos Thandris
+
+#### Basic Information
+- **Race:** Human
+- **Age:** 35
+- **Location:** Kaer Thandros, Military Command
+- **Role:** General of the Royal Army, Distant Cousin to the King
+- **Alignment:** Lawful Neutral
+- **Class:** Fighter 14
+
+<div class="col-img">![General Marthos Thandris](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-general-marthos-thandris.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Physical Description
+Imposing figure (6'3", 210 lbs) with a commanding presence that fills any room. Older than Crown Prince Thorin by seven years and looks it - weathered face, several scars, prematurely graying hair despite his age. Keeps a short military beard. Cold blue eyes that assess everyone as either asset or threat. Always in uniform, even at formal events. Walks with a slight limp from an old battle wound.
+
+#### Equipment
+- **Armor:** Plate Armor +2 (battle-scarred, decorated with campaign ribbons)
+- **Primary Weapon:** Greatsword of Command +2 (glows faintly when he gives orders, grants +2 to command checks)
+- **Secondary:** Heavy Crossbow (masterwork), 20 bolts
+- **Cloak:** Cloak of Protection (military gray with Thandris colors)
+- **Ring:** Ring of Mind Shielding (protects against divination)
+- **Other:** General's signet (commands authority), Potion of Superior Healing (×2), tactical maps and planning materials
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+{{monster,frame
 ## General Marthos Thandris
 *Medium humanoid (human), lawful neutral*
 ___
 **Armor Class** :: 20 (plate armor +2, defense fighting style)
 **Hit Points** :: 154 (14d10 + 70)
 **Speed** :: 30 ft.
-<div class="col-img">![General Marthos Thandris](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-general-marthos-thandris.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -7981,27 +7976,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Victory justifies any sacrifice - except honor."*
 }}
 
-#### Basic Information
-- **Race:** Human
-- **Age:** 35
-- **Location:** Kaer Thandros, Military Command
-- **Role:** General of the Royal Army, Distant Cousin to the King
-- **Alignment:** Lawful Neutral
-- **Class:** Fighter 14
 \column
-#### Physical Description
-Imposing figure (6'3", 210 lbs) with a commanding presence that fills any room. Older than Crown Prince Thorin by seven years and looks it - weathered face, several scars, prematurely graying hair despite his age. Keeps a short military beard. Cold blue eyes that assess everyone as either asset or threat. Always in uniform, even at formal events. Walks with a slight limp from an old battle wound.
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-#### Equipment
-- **Armor:** Plate Armor +2 (battle-scarred, decorated with campaign ribbons)
-- **Primary Weapon:** Greatsword of Command +2 (glows faintly when he gives orders, grants +2 to command checks)
-- **Secondary:** Heavy Crossbow (masterwork), 20 bolts
-- **Cloak:** Cloak of Protection (military gray with Thandris colors)
-- **Ring:** Ring of Mind Shielding (protects against divination)
-- **Other:** General's signet (commands authority), Potion of Superior Healing (×2), tactical maps and planning materials
 
 #### Personality
 **Traits:**
@@ -8038,6 +8013,10 @@ By 30, he was General - youngest ever at the time. He modernized the army, impro
 
 But success breeds ambition. Marthos respects the King but sees Crown Prince Thorin as soft - too concerned with being loved rather than being effective. He doesn't actively plot against the prince, but he's quietly positioning himself. If Thorin proves unworthy... well, the kingdom needs strong leadership.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 #### Connections
 - **King Aldric IV:** Serves loyally but privately questions some decisions
 - **Crown Prince Thorin Thandris:** Competitive relationship, sees him as inexperienced
@@ -8046,10 +8025,6 @@ But success breeds ambition. Marthos respects the King but sees Crown Prince Tho
 - **Commander Kael Stormwatcher:** One of his most competent subordinates
 - **Secret Ally:** Lady Morgana Blackwater (she provides intelligence, he provides political cover)
 - **Rival:** Some nobles who fear his influence and ambition
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -8096,7 +8071,6 @@ But success breeds ambition. Marthos respects the King but sees Crown Prince Tho
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
 {{monster,frame,wide
