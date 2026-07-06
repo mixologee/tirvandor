@@ -2035,7 +2035,7 @@ their journeys.
 
 World map images can be found at: 
 
-https://github.com/jankygames/tirvandor-maps.
+https://tirvandor.com/maps.html
 
 ![Tirvandor](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/maps/tirvandor_map_regions.jpg){position:absolute,top:unset,bottom:1in,left:1in,width:80%}
 
