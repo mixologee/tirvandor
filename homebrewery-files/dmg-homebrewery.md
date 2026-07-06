@@ -8073,6 +8073,85 @@ But success breeds ambition. Marthos respects the King but sees Crown Prince Tho
 {{footnote Part IV: NPCs}}
 \page
 
+## Princess Elanil Aethermere
+
+<div class="col-img">![Princess Elanil Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-princess-elanil-aethermere.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+
+#### Basic Information
+- **Race:** High Elf
+- **Age:** 142
+- **Location:** Aethermere (travels frequently as diplomat)
+- **Role:** Princess, Chief Diplomat of Aethoria
+- **Alignment:** Neutral Good
+- **Class:** Wizard 11 (School of Enchantment) / Bard 3
+
+
+#### Physical Description
+Graceful and elegant (5'8", 125 lbs) with the ethereal beauty typical of high elves but warmed by genuine kindness. Long silver-blonde hair usually styled in elaborate braids woven with flowers and crystals. Violet eyes that seem to see through pretense to truth. Dresses in flowing robes of blue and silver (Aethermere colors) that somehow remain pristine even after travel. Wears a circlet of silver leaves that marks her royal status.
+
+#### Equipment
+- **Robes:** Robes of the Archmagi (blue, AC 15, advantage on saves vs. spells, resistance to spell damage, +2 spell save DC already calculated)
+- **Quarterstaff:** Crystal-topped staff (focus, rarely used as weapon)
+- **Circlet:** Royal Circlet of Aethermere (silver leaves, +2 to Charisma checks when identifying as royalty)
+- **Ring:** Ring of Protection (+1 AC and saves, already calculated)
+- **Cloak:** Cloak of Elvenkind (advantage on Stealth, creature has disadvantage seeing you)
+- **Amulet:** Amulet of Proof against Detection and Location (can't be targeted by divination magic)
+- **Other:** Spellbook (beautifully illustrated), diplomatic papers, sending stones (matched pair for secure communication)
+
+#### Personality
+**Traits:**
+- Patient and diplomatic, always seeks peaceful solutions first
+- Genuinely curious about other cultures and perspectives
+- Excellent listener who makes others feel heard and valued
+- Subtle manipulation through charm and suggestion rather than force
+
+**Ideals:**
+- **Peace:** "Every conflict has a solution if both sides truly want it."
+- **Understanding:** "Fear comes from ignorance. Knowledge bridges all divides."
+- **Progress:** "We honor the past, but we must build a better future."
+
+**Bonds:**
+- Deep love for her mother High Queen Aelindra
+- Commitment to eventual reunification of the sundered kingdoms
+- Friendship with those who work toward peace across borders
+- The elven people's wellbeing and future
+
+**Flaws:**
+- Sometimes naive about depth of others' hatred and prejudice
+- Can be manipulative even when trying to help
+- Struggles with the idea that some conflicts can't be resolved peacefully
+- Fears that her diplomatic approach is seen as weakness
+
+#### Background & History
+Born in 1105 CR, Princess Elanil has lived through much of the recent history of the Sundered Kingdoms. Unlike younger generations who see the division as natural, she remembers stories from elders about the unified realm and believes reunification is inevitable - and necessary.
+
+She showed magical talent young, studying at Silverpine Magical Academy (crossing borders even then) before returning to Aethermere. Her mother recognized her diplomatic gifts and appointed her Chief 
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+Diplomat at age 85 - young for such responsibility, but she proved worthy.
+
+Over the past 57 years, she's negotiated dozens of treaties, prevented three wars, and built relationships across both continents. She's one of few people who moves freely in both kingdoms, trusted (mostly) by both sides.
+
+Her greatest project is secret: for five years, she's been in coded correspondence with Crown Prince Thorin Thandris about reunification. They've met three times in secret at the border. It's dangerous - if exposed, both could be accused of treason - but they believe it's necessary.
+
+She's walked a careful line between her mother's cautious wisdom and pushing for change. Some in Aethoria see her as the future - a leader who can bridge the divide. Others fear she's too close to Thaldros and might compromise Aethoria's independence.
+
+#### Connections
+- **Mother:** High Queen Aelindra Aethermere (loves and respects, sometimes frustrated by caution)
+- **Brother:** Archmage Eldrin Aethermere (close siblings, he supports her diplomatic efforts)
+- **Chosen Heir:** Theron Aethermere (complex relationship: he will inherit, not her)
+- **Secret Correspondent:** Crown Prince Thorin Thandris (potential ally, growing friendship, possibly romantic tension)
+- **Mentor:** Council Elder Thaelon Starlight (her mother's advisor, taught her diplomacy)
+- **Friend:** Council Mistress Elara Silverleaf (Silverpine, shares vision of cooperation)
+- **Opposition:** Conservative elven lords who see reunification as betrayal
+- **Spy:** Lady Shadowleaf keeps her informed of threats
+
+ ::
+
 {{monster,frame,wide
 ## Princess Elanil Aethermere
 *Medium humanoid (elf), neutral good*
@@ -8080,7 +8159,6 @@ ___
 **Armor Class** :: 15 (13 + Dex + Ring of Protection)
 **Hit Points** :: 94 (14d8 + 28)
 **Speed** :: 30 ft.
-<div class="col-img">![Princess Elanil Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-princess-elanil-aethermere.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -8127,73 +8205,6 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Wisdom blooms in patience; force withers what it touches."*
 }}
 
-#### Basic Information
-- **Race:** High Elf
-- **Age:** 142
-- **Location:** Aethermere (travels frequently as diplomat)
-- **Role:** Princess, Chief Diplomat of Aethoria
-- **Alignment:** Neutral Good
-- **Class:** Wizard 11 (School of Enchantment) / Bard 3
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-#### Physical Description
-Graceful and elegant (5'8", 125 lbs) with the ethereal beauty typical of high elves but warmed by genuine kindness. Long silver-blonde hair usually styled in elaborate braids woven with flowers and crystals. Violet eyes that seem to see through pretense to truth. Dresses in flowing robes of blue and silver (Aethermere colors) that somehow remain pristine even after travel. Wears a circlet of silver leaves that marks her royal status.
-
-#### Equipment
-- **Robes:** Robes of the Archmagi (blue, AC 15, advantage on saves vs. spells, resistance to spell damage, +2 spell save DC already calculated)
-- **Quarterstaff:** Crystal-topped staff (focus, rarely used as weapon)
-- **Circlet:** Royal Circlet of Aethermere (silver leaves, +2 to Charisma checks when identifying as royalty)
-- **Ring:** Ring of Protection (+1 AC and saves, already calculated)
-- **Cloak:** Cloak of Elvenkind (advantage on Stealth, creature has disadvantage seeing you)
-- **Amulet:** Amulet of Proof against Detection and Location (can't be targeted by divination magic)
-- **Other:** Spellbook (beautifully illustrated), diplomatic papers, sending stones (matched pair for secure communication)
-
-#### Personality
-**Traits:**
-- Patient and diplomatic, always seeks peaceful solutions first
-- Genuinely curious about other cultures and perspectives
-- Excellent listener who makes others feel heard and valued
-- Subtle manipulation through charm and suggestion rather than force
-
-**Ideals:**
-- **Peace:** "Every conflict has a solution if both sides truly want it."
-- **Understanding:** "Fear comes from ignorance. Knowledge bridges all divides."
-- **Progress:** "We honor the past, but we must build a better future."
-
-**Bonds:**
-- Deep love for her mother High Queen Aelindra
-- Commitment to eventual reunification of the sundered kingdoms
-- Friendship with those who work toward peace across borders
-- The elven people's wellbeing and future
-
-**Flaws:**
-- Sometimes naive about depth of others' hatred and prejudice
-- Can be manipulative even when trying to help
-- Struggles with the idea that some conflicts can't be resolved peacefully
-- Fears that her diplomatic approach is seen as weakness
-
-#### Background & History
-Born in 1105 CR, Princess Elanil has lived through much of the recent history of the Sundered Kingdoms. Unlike younger generations who see the division as natural, she remembers stories from elders about the unified realm and believes reunification is inevitable - and necessary.
-
-She showed magical talent young, studying at Silverpine Magical Academy (crossing borders even then) before returning to Aethermere. Her mother recognized her diplomatic gifts and appointed her Chief Diplomat at age 85 - young for such responsibility, but she proved worthy.
-
-Over the past 57 years, she's negotiated dozens of treaties, prevented three wars, and built relationships across both continents. She's one of few people who moves freely in both kingdoms, trusted (mostly) by both sides.
-
-Her greatest project is secret: for five years, she's been in coded correspondence with Crown Prince Thorin Thandris about reunification. They've met three times in secret at the border. It's dangerous - if exposed, both could be accused of treason - but they believe it's necessary.
-
-She's walked a careful line between her mother's cautious wisdom and pushing for change. Some in Aethoria see her as the future - a leader who can bridge the divide. Others fear she's too close to Thaldros and might compromise Aethoria's independence.
-
-#### Connections
-- **Mother:** High Queen Aelindra Aethermere (loves and respects, sometimes frustrated by caution)
-- **Brother:** Archmage Eldrin Aethermere (close siblings, he supports her diplomatic efforts)
-- **Chosen Heir:** Theron Aethermere (complex relationship: he will inherit, not her)
-- **Secret Correspondent:** Crown Prince Thorin Thandris (potential ally, growing friendship, possibly romantic tension)
-- **Mentor:** Council Elder Thaelon Starlight (her mother's advisor, taught her diplomacy)
-- **Friend:** Council Mistress Elara Silverleaf (Silverpine, shares vision of cooperation)
-- **Opposition:** Conservative elven lords who see reunification as betrayal
-- **Spy:** Lady Shadowleaf keeps her informed of threats
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -8243,9 +8254,77 @@ She's walked a careful line between her mother's cautious wisdom and pushing for
 - Her enchantment magic makes her formidable without combat
 - Perfect for political intrigue and espionage campaigns
 
+## Archmage Eldrin Aethermere
+
+#### Basic Information
+- **Race:** High Elf
+- **Age:** 158
+- **Location:** Aethermere, Royal Tower
+- **Role:** Court Wizard, Royal Advisor, Prince of Aethoria
+- **Alignment:** Lawful Neutral
+- **Class:** Wizard 17 (School of Divination)
+
+#### Physical Description
+Tall and elegant (6'1", 145 lbs) with the bearing of both royalty and scholarly authority. Long silver hair pulled back in a practical ponytail, often escaping to frame sharp features. Gold eyes that seem to see multiple possible futures simultaneously. Usually wears elaborate robes covered in runes and astrological symbols. Carries an ancient staff that hums with barely contained power. Has ink stains on his fingers from constant study.
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
+\page
 
+<div class="col-img">![Archmage Eldrin Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-eldrin-aethermere.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Equipment
+- **Robes:** Robe of the Archmagi (blue, AC 15 base, advantage vs. spells, spell resistance, +2 spell DC already calculated)
+- **Staff:** Staff of Power +2 (acts as +2 quarterstaff, +2 AC/saves/spell attacks, can cast various spells, can be broken for retributive strike)
+- **Ring:** Ring of Spell Storing (holds 5 spell levels)
+- **Amulet:** Amulet of the Planes (can cast Plane Shift 1/day)
+- **Cloak:** Cloak of Protection (+1 AC/saves, calculated in totals)
+- **Other:** Spellbook (ancient tome, contains every wizard spell), crystal focus, sending stones, astrolabe, research notes
+
+#### Personality
+**Traits:**
+- Intellectually brilliant but sometimes socially awkward
+- Thinks several steps ahead, can seem distant or distracted
+- Speaks in precise, technical language even about simple matters
+- Deeply curious about magic and reality's nature
+
+\column
+
+**Ideals:**
+- **Knowledge:** "Understanding is the path to power and wisdom."
+- **Order:** "Magic follows rules. Society should too."
+- **Truth:** "Illusion and deception obscure what must be seen clearly."
+
+**Bonds:**
+- Loyalty to his mother High Queen Aelindra
+- Protective of his sister Princess Elanil
+- Dedication to magical research and advancement
+- The magical traditions and knowledge of Aethoria
+
+**Flaws:**
+- Can be condescending when others don't understand concepts he sees as obvious
+- Sometimes prioritizes research over immediate practical concerns
+- Uncomfortable with unpredictability and chaos
+- Struggles with emotional situations, prefers logic
+
+#### Background & History
+Born in 1089 CR, Eldrin showed exceptional magical talent from childhood. By age 30, he had mastered spells most elves take a century to learn. His mother recognized his genius and sent him to study across both continents - Silverpine Magical Academy, the Starfall Observatory, even a controversial stint in Kaer Thandros studying dwarven runecraft.
+
+He returned home at 80 and was appointed Court Wizard at 95 - one of the youngest ever. He transformed the position from ceremonial to essential, providing his mother with magical intelligence, divination insights, and arcane counsel that proved invaluable.
+
+His specialty in divination means he often sees possible futures. This gift has prevented disasters but also made him cautious - he sees all the ways plans can fail. Unlike his sister's optimism, he approaches reunification with analytical skepticism. He supports it intellectually but questions the timing and methodology.
+
+He's published dozens of magical treatises, advanced divination theory significantly, and trained three generations of court wizards. He's respected and feared in equal measure - brilliant but cold, powerful but distant.
+
+Recently, his divinations have shown troubling patterns - shadows gathering, timelines converging on a crisis point. He's trying to understand what's coming, but the future keeps shifting. Something big is approaching, but he can't see it clearly yet.
+
+#### Connections
+- **Mother:** High Queen Aelindra Aethermere (serves and advises, sometimes disagrees)
+- **Sister:** Princess Elanil Aethermere (protective, supports her diplomatically)
+- **Chosen Heir:** Theron Aethermere (respects the system, supports him publicly)
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
 \page
 
 {{monster,frame,wide
@@ -8255,7 +8334,6 @@ ___
 **Armor Class** :: 17 (Robe of the Archmagi, Dex, Shield spell)
 **Hit Points** :: 128 (17d6 + 51)
 **Speed** :: 30 ft.
-<div class="col-img">![Archmage Eldrin Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-eldrin-aethermere.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -8302,89 +8380,41 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Magic is truth made manifest. Reality bends to those who understand it."*
 }}
 
-#### Basic Information
-- **Race:** High Elf
-- **Age:** 158
-- **Location:** Aethermere, Royal Tower
-- **Role:** Court Wizard, Royal Advisor, Prince of Aethoria
-- **Alignment:** Lawful Neutral
-- **Class:** Wizard 17 (School of Divination)
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-#### Physical Description
-Tall and elegant (6'1", 145 lbs) with the bearing of both royalty and scholarly authority. Long silver hair pulled back in a practical ponytail, often escaping to frame sharp features. Gold eyes that seem to see multiple possible futures simultaneously. Usually wears elaborate robes covered in runes and astrological symbols. Carries an ancient staff that hums with barely contained power. Has ink stains on his fingers from constant study.
-
-#### Equipment
-- **Robes:** Robe of the Archmagi (blue, AC 15 base, advantage vs. spells, spell resistance, +2 spell DC already calculated)
-- **Staff:** Staff of Power +2 (acts as +2 quarterstaff, +2 AC/saves/spell attacks, can cast various spells, can be broken for retributive strike)
-- **Ring:** Ring of Spell Storing (holds 5 spell levels)
-- **Amulet:** Amulet of the Planes (can cast Plane Shift 1/day)
-- **Cloak:** Cloak of Protection (+1 AC/saves, calculated in totals)
-- **Other:** Spellbook (ancient tome, contains every wizard spell), crystal focus, sending stones, astrolabe, research notes
-
-#### Personality
-**Traits:**
-- Intellectually brilliant but sometimes socially awkward
-- Thinks several steps ahead, can seem distant or distracted
-- Speaks in precise, technical language even about simple matters
-- Deeply curious about magic and reality's nature
-
-**Ideals:**
-- **Knowledge:** "Understanding is the path to power and wisdom."
-- **Order:** "Magic follows rules. Society should too."
-- **Truth:** "Illusion and deception obscure what must be seen clearly."
-
-**Bonds:**
-- Loyalty to his mother High Queen Aelindra
-- Protective of his sister Princess Elanil
-- Dedication to magical research and advancement
-- The magical traditions and knowledge of Aethoria
-
-**Flaws:**
-- Can be condescending when others don't understand concepts he sees as obvious
-- Sometimes prioritizes research over immediate practical concerns
-- Uncomfortable with unpredictability and chaos
-- Struggles with emotional situations, prefers logic
-
-#### Background & History
-Born in 1089 CR, Eldrin showed exceptional magical talent from childhood. By age 30, he had mastered spells most elves take a century to learn. His mother recognized his genius and sent him to study across both continents - Silverpine Magical Academy, the Starfall Observatory, even a controversial stint in Kaer Thandros studying dwarven runecraft.
-
-He returned home at 80 and was appointed Court Wizard at 95 - one of the youngest ever. He transformed the position from ceremonial to essential, providing his mother with magical intelligence, divination insights, and arcane counsel that proved invaluable.
-
-His specialty in divination means he often sees possible futures. This gift has prevented disasters but also made him cautious - he sees all the ways plans can fail. Unlike his sister's optimism, he approaches reunification with analytical skepticism. He supports it intellectually but questions the timing and methodology.
-
-He's published dozens of magical treatises, advanced divination theory significantly, and trained three generations of court wizards. He's respected and feared in equal measure - brilliant but cold, powerful but distant.
-
-Recently, his divinations have shown troubling patterns - shadows gathering, timelines converging on a crisis point. He's trying to understand what's coming, but the future keeps shifting. Something big is approaching, but he can't see it clearly yet.
-
-#### Connections
-- **Mother:** High Queen Aelindra Aethermere (serves and advises, sometimes disagrees)
-- **Sister:** Princess Elanil Aethermere (protective, supports her diplomatically)
-- **Chosen Heir:** Theron Aethermere (respects the system, supports him publicly)
 - **Mentor:** High Diviner Celestia Starborn (Starfall, taught him advanced divination)
 - **Rival:** Archmage Veridian Starweaver (Silverpine, friendly rivalry over magical theory)
 - **Student:** Spellweaver Lyrian Crystal (court mage, his protégé)
 - **Concern:** Multiple divinations show trouble from Thaldros, but he can't pinpoint source
 - **Secret Contact:** Sage Thelmar Runescribe (Kaer Thandros, magical correspondence about runecraft)
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
 1. **The Dark Vision:** Eldrin's divinations repeatedly show a catastrophic event involving his family - but the details keep shifting. He sees his mother dead in some visions, his sister in others, sometimes both. He doesn't know if it's inevitable or preventable, and he's terrified of making it happen by trying to prevent it.
 
-2. **The Forbidden Research:** He's been studying the Celestial Compass fragments and the magic that caused the Worldrend. This research is technically forbidden as too dangerous. He's hidden his work in encoded magical notation only he can read.
+
+2. **The Forbidden Research:** He's been studying the Celestial Compass fragments and the magic that caused the
+
+}}
+
+ ::
+
+{{descriptive
+
+Worldrend. This research is technically forbidden as too dangerous. He's hidden his work in encoded magical notation only he can read.
 
 3. **The Simulacrum:** Eldrin has created a simulacrum of himself that handles routine court duties while he focuses on research. Only his mother and sister know. If discovered, it would be scandal - he's technically deceiving the court.
 
 4. **The Failed Prophecy:** Twenty years ago, Eldrin predicted a major threat that never materialized. He evacuated a city, caused panic and economic damage, and was ultimately wrong. This failure haunts him and he's desperate to ensure his current visions are accurate before acting.
 
 5. **The Time Loop Research:** He's theorized a way to create a limited time loop - reliving a short period to get perfect outcomes. The magic is incredibly dangerous and possibly blasphemous, but his visions suggest he might need it to save his family.
+   
 }}
+
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 
 #### Plot Hooks
 1. **The Vision Quest:** Eldrin's divinations show the party as central to preventing catastrophe. He recruits them for a dangerous mission based purely on future-sight. They must trust his visions while not knowing the full picture.
@@ -8418,19 +8448,42 @@ Recently, his divinations have shown troubling patterns - shadows gathering, tim
 - Can be helpful ally or dangerous liability depending on situation
 - His relationship with Elanil creates family dynamics
 
+## Lord Aldris Goldshore IV
+
+<div class="col-img">![Lord Aldris Goldshore IV](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-aldris-goldshore-iv.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Basic Information
+- **Race:** Human
+- **Age:** 45
+- **Location:** Goldreach, Goldshore Manor
+- **Role:** Lord of House Goldshore, Trade Magnate
+- **Alignment:** Neutral (leaning toward Neutral Evil)
+- **Class:** Rogue 10 / Expert (Merchant) 5
+
+#### Physical Description
+Handsome and well-groomed (5'11", 175 lbs) with the practiced charm of a successful merchant. Brown hair styled fashionably, neat beard, warm brown eyes that calculate value even while smiling. Dresses in expensive but tasteful clothing - silk shirts, fine leather boots, gold jewelry that shows wealth without vulgarity. Always has a slight smile, as if he knows a secret you don't.
+
+#### Equipment
+- **Armor:** Studded Leather +2 (finest quality, concealed beneath fine clothes)
+- **Primary Weapon:** Rapier +2 "Profit's Edge" (ornate, gold-inlaid hilt)
+- **Secondary:** Hand Crossbow +1 (concealed in coat), 20 bolts
+- **Ring:** Ring of Mind Shielding (protects thoughts, stores soul if killed)
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+- **Amulet:** Periapt of Proof Against Poison (+advantage vs. poison)
+- **Cloak:** Cloak of Protection (+1 AC/saves)
+- **Other:** Bag of Holding (contains emergency gold, documents, disguises), counterfeit detection kit, merchant's scale, ledgers
+
+{{monster,frame
 ## Lord Aldris Goldshore IV
 *Medium humanoid (human), neutral*
 ___
 **Armor Class** :: 17 (studded leather +2, Dex)
 **Hit Points** :: 105 (15d8 + 30)
 **Speed** :: 30 ft.
-<div class="col-img">![Lord Aldris Goldshore IV](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-aldris-goldshore-iv.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -8463,28 +8516,7 @@ ___
 *"Gold flows where opportunity blooms - and I cultivate opportunities."*
 }}
 
-#### Basic Information
-- **Race:** Human
-- **Age:** 45
-- **Location:** Goldreach, Goldshore Manor
-- **Role:** Lord of House Goldshore, Trade Magnate
-- **Alignment:** Neutral (leaning toward Neutral Evil)
-- **Class:** Rogue 10 / Expert (Merchant) 5
 
-#### Physical Description
-Handsome and well-groomed (5'11", 175 lbs) with the practiced charm of a successful merchant. Brown hair styled fashionably, neat beard, warm brown eyes that calculate value even while smiling. Dresses in expensive but tasteful clothing - silk shirts, fine leather boots, gold jewelry that shows wealth without vulgarity. Always has a slight smile, as if he knows a secret you don't.
-
-#### Equipment
-- **Armor:** Studded Leather +2 (finest quality, concealed beneath fine clothes)
-- **Primary Weapon:** Rapier +2 "Profit's Edge" (ornate, gold-inlaid hilt)
-- **Secondary:** Hand Crossbow +1 (concealed in coat), 20 bolts
-- **Ring:** Ring of Mind Shielding (protects thoughts, stores soul if killed)
-- **Amulet:** Periapt of Proof Against Poison (+advantage vs. poison)
-- **Cloak:** Cloak of Protection (+1 AC/saves)
-- **Other:** Bag of Holding (contains emergency gold, documents, disguises), counterfeit detection kit, merchant's scale, ledgers
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Personality
 **Traits:**
@@ -8517,7 +8549,13 @@ His father taught him business ruthlessly; the streets of Goldreach taught him c
 
 As Lord Aldris III aged and his half-elven vitality finally began to wane in his 160s, Aldris IV gradually assumed more control. By 1235 CR, the transition was essentially complete, III remained the official patriarch and made major decisions, but IV handled day-to-day operations and the family's "gray market" enterprises.
 
-Now at 45, Aldris IV is one of the wealthiest individuals in Tirvandor, controls a vast merchant fleet, and has influence in both kingdoms. His father, at 178, remains sharp but increasingly reclusive, focused on his obsession with recovering the Deepwater vaults. IV privately considers his father's fixation a waste of resources but indulges it for now.
+Now at 45, Aldris IV is one of the wealthiest individuals in Tirvandor, controls a vast merchant fleet, and has influence in both kingdoms. His father, at 178, remains sharp but increasingly reclusive, focused on his 
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+obsession with recovering the Deepwater vaults. IV privately considers his father's fixation a waste of resources but indulges it for now.
 
 He's untouchable due to wealth, connections, and careful legal maneuvering. Many suspect his methods are unethical, but proving it is nearly impossible. He's too smart to leave evidence.
 
@@ -8532,10 +8570,6 @@ He's untouchable due to wealth, connections, and careful legal maneuvering. Many
 - **Secret Partner:** Master Crimson (The Syndicate) - business relationship both deny
 - **Buyer:** Various nobles who need discrete acquisitions
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Smuggling Empire:** Beyond legal trade, Aldris runs a massive smuggling operation - restricted goods, weapons, information, people. He uses legitimate merchant ships as cover. The operation generates as much profit as his legal business.
@@ -8548,6 +8582,11 @@ He's untouchable due to wealth, connections, and careful legal maneuvering. Many
 
 5. **The Leverage Collection:** He maintains files on every important person he's dealt with - their vices, debts, affairs, crimes. This blackmail material is his insurance policy. The collection is hidden in a secret vault only he can access.
 
+}}
+
+ ::
+
+{{descriptive
 6. **The Succession Fear:** Despite outward confidence, Aldris fears his daughter Serina will discover his crimes and turn against him. She has a moral streak he doesn't understand. He's grooming her for leadership but hiding his methods.
 }}
 
