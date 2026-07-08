@@ -8608,18 +8608,42 @@ He's untouchable due to wealth, connections, and careful legal maneuvering. Many
 - **Mannerisms:** Gestures with hands when talking, calculates with fingers when thinking, always has slight smile
 - **Catchphrase:** "Everything has a price."
 
+## Lady Serina Goldshore
+
+#### Basic Information
+- **Race:** Half-Elf
+- **Age:** 23
+- **Location:** Goldreach / Traveling (Trade Ministry duties)
+- **Role:** Trade Minister of House Goldshore, Heir Apparent
+- **Alignment:** Neutral Good
+- **Class:** Bard 9 (College of Lore) / Rogue 3
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
-{{monster,frame,wide
+
+<div class="col-img">![Lady Serina Goldshore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-serina-goldshore.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Physical Description
+Beautiful and graceful (5'7", 130 lbs) with her father's brown eyes but warmer, more genuine. Long dark hair usually in practical braids for travel. Dresses well but not ostentatiously - quality over flash. Has a disarming smile that's real, unlike her father's calculated one. Often carries a lute or violin case. Ink stains on fingers from writing correspondence.
+
+#### Equipment
+- **Armor:** Studded Leather +1 (fashionable but functional)
+- **Weapon:** Rapier +1 (elegant, family heirloom from grandmother)
+- **Instrument:** Masterwork Lute (spellcasting focus, incredibly valuable)
+- **Ring:** Ring of Sending (allows Sending spell 3/day)
+- **Amulet:** Amulet of Proof against Detection (can't be tracked magically)
+- **Cloak:** Cloak of Elvenkind (advantage on Stealth, creatures have disadvantage seeing her)
+- **Other:** Disguise kit, forgery kit, journal (coded), collection of merchant contacts
+ 
+{{monster,frame
 ## Lady Serina Goldshore
 *Medium humanoid (half-elf), neutral good*
 ___
 **Armor Class** :: 16 (studded leather +1, Dex)
 **Hit Points** :: 75 (12d8 + 12)
 **Speed** :: 30 ft.
-<div class="col-img">![Lady Serina Goldshore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-serina-goldshore.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -8660,28 +8684,10 @@ ___
 *"My family's wealth means nothing if it's built on suffering."*
 }}
 
-#### Basic Information
-- **Race:** Half-Elf
-- **Age:** 23
-- **Location:** Goldreach / Traveling (Trade Ministry duties)
-- **Role:** Trade Minister of House Goldshore, Heir Apparent
-- **Alignment:** Neutral Good
-- **Class:** Bard 9 (College of Lore) / Rogue 3
 
-#### Physical Description
-Beautiful and graceful (5'7", 130 lbs) with her father's brown eyes but warmer, more genuine. Long dark hair usually in practical braids for travel. Dresses well but not ostentatiously - quality over flash. Has a disarming smile that's real, unlike her father's calculated one. Often carries a lute or violin case. Ink stains on fingers from writing correspondence.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-#### Equipment
-- **Armor:** Studded Leather +1 (fashionable but functional)
-- **Weapon:** Rapier +1 (elegant, family heirloom from grandmother)
-- **Instrument:** Masterwork Lute (spellcasting focus, incredibly valuable)
-- **Ring:** Ring of Sending (allows Sending spell 3/day)
-- **Amulet:** Amulet of Proof against Detection (can't be tracked magically)
-- **Cloak:** Cloak of Elvenkind (advantage on Stealth, creatures have disadvantage seeing her)
-- **Other:** Disguise kit, forgery kit, journal (coded), collection of merchant contacts
 
 #### Personality
 **Traits:**
@@ -8726,9 +8732,6 @@ Recently, she's discovered disturbing evidence suggesting her father may have ki
 - **Secret Contact:** Crown Prince Thorin Thandris (met during trade negotiations, corresponding about reforms)
 - **Investigator:** She's quietly working with someone gathering evidence on The Syndicate - doesn't know her father is involved
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -8743,7 +8746,12 @@ Recently, she's discovered disturbing evidence suggesting her father may have ki
 5. **The Romantic Attachment:** She's fallen in love with a "merchant sailor" named Darin. He's actually an undercover investigator gathering evidence on House Goldshore. Neither knows the other's secret. Their relationship could destroy them both.
 
 6. **The Succession Plan:** Serina has been planning to refuse inheritance unless her father reforms. She'll give everything to charity rather than continue illegal operations. This would destroy House Goldshore as currently structured.
+
 }}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 #### Plot Hooks
 1. **The Whistleblower:** Serina approaches the party with evidence of her father's crimes. She needs help gathering more proof and protection when she exposes him. But exposing him might destroy her too.
@@ -8777,10 +8785,64 @@ Recently, she's discovered disturbing evidence suggesting her father may have ki
 - Can become tragic figure if exposed or heroic if successful
 - The romance subplot adds vulnerability and stakes
 
+\column
+
+## Thane Durin Ironforge
+
+<div class="col-img">![Thane Durin Ironforge](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-thane-durin-ironforge.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Basic Information
+- **Race:** Mountain Dwarf
+- **Age:** 245
+- **Location:** Deepforge (House Seat)
+- **Role:** Thane of House Ironforge, Master of the Deep Mines
+- **Alignment:** Lawful Neutral
+- **Class:** Fighter 12 / Cleric 4 (Forge Domain)
+
+#### Physical Description
+Massive even for a dwarf (4'8", 235 lbs of muscle), built like the mountain itself. Long gray-streaked black beard braided with iron bands and mythril clasps. Scarred hands from decades of forge work and mining. One eye is slightly milky (injury from cave-in, refuses magical healing). Wears practical work clothes even at formal events - leather apron over sturdy tunic. Smells of coal smoke, hot metal, and stone dust.
+
+#### Equipment
+- **Armor:** Plate Armor +1 (mythril-forged, family heirloom, covered in runes)
+- **Shield:** Tower Shield (iron-bound, Ironforge hammer emblem)
+- **Primary Weapon:** Forgemaster's Hammer +2 "Earthbreaker" (legendary warhammer, deals extra fire damage, glows when near precious metals)
+ 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
+
+- **Holy Symbol:** Iron hammer pendant (Gorath the Forgemaster)
+- **Ring:** Ring of Fire Resistance (from working forge magic)
+- **Belt:** Belt of Dwarvenkind (advantage on Charisma checks vs. dwarves, can grow beard even if normally unable)
+- **Other:** Master smith's tools (magical quality), survey maps of all Ironforge mines, ledgers
+
+#### Personality
+**Traits:**
+- Speaks bluntly, values honesty and direct communication
+- Extremely proud of dwarven heritage and craftsmanship
+- Judges people by their work ethic and skill
+- Traditional but not inflexible - respects those who prove themselves
+
+**Ideals:**
+- **Craftsmanship:** "A thing worth doing is worth doing perfectly."
+- **Endurance:** "Stone outlasts flesh, iron outlasts stone, but legacy outlasts all."
+- **Community:** "No dwarf stands alone. We rise or fall as clan."
+
+**Bonds:**
+- House Ironforge's reputation and legacy
+- The mines (treats them almost like children)
+- Loyalty to dwarven traditions
+- Brotherhood with all who work with their hands
+
+**Flaws:**
+- Stubborn to the point of foolishness
+- Dismissive of those who don't do physical work
+- Holds grudges for decades (typical dwarf)
+- Struggles to adapt to new methods or technologies
+
+#### Background & History
+Born in 1002 CR to a mining family, Durin learned smithing at 20, mining at 50, leadership at 100. He worked every position in the mines - hauler, digger, surveyor, foreman - before inheriting the Thanedom at 180.
+
 
 {{monster,frame,wide
 ## Thane Durin Ironforge
@@ -8789,7 +8851,7 @@ ___
 **Armor Class** :: 20 (plate armor +1, shield, defense)
 **Hit Points** :: 180 (16d10 + 80)
 **Speed** :: 25 ft.
-<div class="col-img">![Thane Durin Ironforge](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-thane-durin-ironforge.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -8832,55 +8894,9 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Stone remembers. Iron endures. Ironforge stands eternal."*
 }}
 
-#### Basic Information
-- **Race:** Mountain Dwarf
-- **Age:** 245
-- **Location:** Deepforge (House Seat)
-- **Role:** Thane of House Ironforge, Master of the Deep Mines
-- **Alignment:** Lawful Neutral
-- **Class:** Fighter 12 / Cleric 4 (Forge Domain)
-
-#### Physical Description
-Massive even for a dwarf (4'8", 235 lbs of muscle), built like the mountain itself. Long gray-streaked black beard braided with iron bands and mythril clasps. Scarred hands from decades of forge work and mining. One eye is slightly milky (injury from cave-in, refuses magical healing). Wears practical work clothes even at formal events - leather apron over sturdy tunic. Smells of coal smoke, hot metal, and stone dust.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-#### Equipment
-- **Armor:** Plate Armor +1 (mythril-forged, family heirloom, covered in runes)
-- **Shield:** Tower Shield (iron-bound, Ironforge hammer emblem)
-- **Primary Weapon:** Forgemaster's Hammer +2 "Earthbreaker" (legendary warhammer, deals extra fire damage, glows when near precious metals)
-- **Holy Symbol:** Iron hammer pendant (Gorath the Forgemaster)
-- **Ring:** Ring of Fire Resistance (from working forge magic)
-- **Belt:** Belt of Dwarvenkind (advantage on Charisma checks vs. dwarves, can grow beard even if normally unable)
-- **Other:** Master smith's tools (magical quality), survey maps of all Ironforge mines, ledgers
-
-#### Personality
-**Traits:**
-- Speaks bluntly, values honesty and direct communication
-- Extremely proud of dwarven heritage and craftsmanship
-- Judges people by their work ethic and skill
-- Traditional but not inflexible - respects those who prove themselves
-
-**Ideals:**
-- **Craftsmanship:** "A thing worth doing is worth doing perfectly."
-- **Endurance:** "Stone outlasts flesh, iron outlasts stone, but legacy outlasts all."
-- **Community:** "No dwarf stands alone. We rise or fall as clan."
-
-**Bonds:**
-- House Ironforge's reputation and legacy
-- The mines (treats them almost like children)
-- Loyalty to dwarven traditions
-- Brotherhood with all who work with their hands
-
-**Flaws:**
-- Stubborn to the point of foolishness
-- Dismissive of those who don't do physical work
-- Holds grudges for decades (typical dwarf)
-- Struggles to adapt to new methods or technologies
-
-#### Background & History
-Born in 1002 CR to a mining family, Durin learned smithing at 20, mining at 50, leadership at 100. He worked every position in the mines - hauler, digger, surveyor, foreman - before inheriting the Thanedom at 180.
 
 When he took control (65 years ago), House Ironforge was in decline - mines depleting, skilled workers leaving, finances poor. Durin personally explored the deepest tunnels and found three new mythril veins. He modernized equipment, improved safety, trained a new generation of smiths.
 
@@ -8898,10 +8914,6 @@ He's also concerned about succession. He has three sons, all capable, all compet
 - **Master Smith Gundren Ironforge:** Distant cousin, legendary craftsman (NPC #90)
 - **Concerns:** The deep findings, succession crisis, increasing mining dangers
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Deep Things:** Miners have found ancient dwarven ruins beneath the current mines - from before the Worldrend, possibly before recorded history. The architecture is wrong, the symbols unknown. Durin has sealed seven chambers and told no one. Something down there feels wrong.
@@ -8911,10 +8923,16 @@ He's also concerned about succession. He has three sons, all capable, all compet
 3. **The Chosen Heir:** Durin has secretly decided his middle son Balin should inherit (most balanced, most capable). But tradition demands the eldest Thorin. Revealing his choice will cause family crisis and possibly violence among the brothers.
 
 4. **The Betrayal:** Twenty years ago, a House Ironforge survey team disappeared in the deep mines. Durin found evidence they were murdered - by someone who didn't want them discovering what was down there. The murderer was never found and might still be in the mines.
+}}
+
+ ::
+
+{{descriptive
 
 5. **The Dragon Pact:** Durin discovered a red dragon lair near one mythril vein. He made a deal - Ironforge doesn't mine that vein, the dragon doesn't attack the mines. The dragon occasionally provides Durin with information about deep threats. If this became known, it would be scandal.
 
 6. **The Ancestral Shame:** Durin discovered records suggesting House Ironforge's founder obtained their first mine through treachery - possibly murder. The evidence is fragmentary but damning. He's hidden the documents, but they haunt him.
+
 }}
 
 #### Plot Hooks
@@ -8941,6 +8959,11 @@ He's also concerned about succession. He has three sons, all capable, all compet
 - Durin is designed as a traditional dwarven leader with secrets
 - He's the "gruff but honorable" archetype with hidden depths
 - Can serve as quest-giver for mining/underground adventures
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 - His secrets provide hooks for levels 10-18 (ancient evil awakening)
 - Works as patron, ally, or source of employment
 - The succession crisis creates political drama
@@ -8949,10 +8972,77 @@ He's also concerned about succession. He has three sons, all capable, all compet
 - Can be stubborn ally or valuable friend
 - His relationship with sons provides family drama
 
+## Master Smith Gundren Ironforge
+
+<div class="col-img">![Master Smith Gundren Ironforge](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-smith-gundren-ironforge.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Basic Information
+- **Race:** Mountain Dwarf
+- **Age:** 198
+- **Location:** Kaer Thandros / Travels to commissions
+- **Role:** Legendary Craftsman, Master Weaponsmith
+- **Alignment:** Neutral Good
+- **Class:** Artificer 15 (Armorer/Battle Smith)
+
+#### Physical Description
+Compact and muscular (4'5", 210 lbs), with the powerful arms of a lifelong smith. Magnificent copper-red beard braided with tools - tiny hammer, chisel, file - as decoration. Burn scars on hands and forearms. Always has coal dust under fingernails. Wears work clothes - leather apron, heavy gloves tucked in belt, goggles pushed up on forehead. Smells of hot metal and quenching oil.
+
+#### Equipment
+- **Arcane Armor:** Custom Heavy Armor +2 (his masterpiece, constantly upgrading)
+- **Primary Weapon:** Warhammer +2 "Forge-Friend" (his personal hammer, returns when thrown)
+- **Tools:** Masterwork Smith's Tools +2 (infused, can work any metal)
+- **Goggles:** Goggles of Night (darkvision 60 ft., infused replica)
+- **Ring:** Ring of Protection (+1 AC/saves, infused)
+- **Steel Defender:** Mechanical bear named "Ironheart" (his companion, built from scratch)
+- **Other:** Bag of Holding (full of materials, components, tools), sketches of designs, commission list
+
+#### Personality
+**Traits:**
+- Passionate about his craft, can talk for hours about metallurgy
+- Generous with knowledge, teaches anyone genuinely interested
+- Gruff exterior but warm heart - enjoys helping people
+- Perfectionist - if it's not perfect, it's not done
+
+**Ideals:**
+- **Excellence:** "Anything worth making is worth making perfectly."
+- **Legacy:** "My work will outlive me. It speaks when I'm gone."
+- **Teaching:** "Knowledge hoarded dies with you. Shared, it becomes immortal."
+
+**Bonds:**
+- His craft and reputation
+- Students he's trained (dozens across both continents)
+- House Ironforge (though he keeps distance from politics)
+- The weapons and armor he's created (tracks their locations)
+
+**Flaws:**
+- Obsessive about quality - will redo work if slight imperfection
+- Terrible with money - undercharges because he loves the work
+- Socially awkward - better with metal than people
+- Refuses commissions from those he considers unworthy
+
+#### Background & History
+Born in 1049 CR, Gundren showed talent young. By 50, he was crafting better blades than smiths twice his age. By 100, his work was famous. By 150, he was legendary.
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
+
+He's created weapons for kings, armor for heroes, tools for artisans. His pieces are treasured across Tirvandor. Nobles wait years for commissions. He's turned down kings who he felt unworthy.
+
+He left House Ironforge at 120 - not in anger, but to pursue pure craft without politics. He travels, taking commissions, teaching, always learning. He's studied with every major smith in both kingdoms and beyond.
+
+His greatest creation is Ironheart, his Steel Defender - a mechanical bear that's part tool, part companion, part masterpiece. It took him 10 years to build, combining smithing, magic, and artifice.
+
+Now at 198, he's considered the greatest living smith. But he's restless - he wants to create something truly legendary before he dies. Something that will be remembered forever.
+
+#### Connections
+- **Thane Durin Ironforge:** Distant cousin, good relationship though Gundren avoids politics
+- **Master Smith Durgan Forgefire (Kaer Thandros):** Close friend, rival, they compete over technique
+- **King Aldric IV:** Created the king's ceremonial armor, mutual respect
+- **Crown Prince Thorin Thandris:** Forged Heir's Blade, sees potential in the prince
+- **Many Students:** Apprentices across both continents
+- **Lord Commander Thrain Ironoak:** Forged his axe "Kingbreaker"
+- **Admirers:** Nearly every warrior who's used his weapons
 
 {{monster,frame,wide
 ## Master Smith Gundren Ironforge
@@ -8961,7 +9051,6 @@ ___
 **Armor Class** :: 19 (Arcane Armor - heavy)
 **Hit Points** :: 135 (15d8 + 60)
 **Speed** :: 25 ft.
-<div class="col-img">![Master Smith Gundren Ironforge](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-smith-gundren-ironforge.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -9014,73 +9103,6 @@ ___
 *"Every piece bears the maker's soul. Forge with pride or don't forge at all."*
 }}
 
-#### Basic Information
-- **Race:** Mountain Dwarf
-- **Age:** 198
-- **Location:** Kaer Thandros / Travels to commissions
-- **Role:** Legendary Craftsman, Master Weaponsmith
-- **Alignment:** Neutral Good
-- **Class:** Artificer 15 (Armorer/Battle Smith)
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-#### Physical Description
-Compact and muscular (4'5", 210 lbs), with the powerful arms of a lifelong smith. Magnificent copper-red beard braided with tools - tiny hammer, chisel, file - as decoration. Burn scars on hands and forearms. Always has coal dust under fingernails. Wears work clothes - leather apron, heavy gloves tucked in belt, goggles pushed up on forehead. Smells of hot metal and quenching oil.
-
-#### Equipment
-- **Arcane Armor:** Custom Heavy Armor +2 (his masterpiece, constantly upgrading)
-- **Primary Weapon:** Warhammer +2 "Forge-Friend" (his personal hammer, returns when thrown)
-- **Tools:** Masterwork Smith's Tools +2 (infused, can work any metal)
-- **Goggles:** Goggles of Night (darkvision 60 ft., infused replica)
-- **Ring:** Ring of Protection (+1 AC/saves, infused)
-- **Steel Defender:** Mechanical bear named "Ironheart" (his companion, built from scratch)
-- **Other:** Bag of Holding (full of materials, components, tools), sketches of designs, commission list
-
-#### Personality
-**Traits:**
-- Passionate about his craft, can talk for hours about metallurgy
-- Generous with knowledge, teaches anyone genuinely interested
-- Gruff exterior but warm heart - enjoys helping people
-- Perfectionist - if it's not perfect, it's not done
-
-**Ideals:**
-- **Excellence:** "Anything worth making is worth making perfectly."
-- **Legacy:** "My work will outlive me. It speaks when I'm gone."
-- **Teaching:** "Knowledge hoarded dies with you. Shared, it becomes immortal."
-
-**Bonds:**
-- His craft and reputation
-- Students he's trained (dozens across both continents)
-- House Ironforge (though he keeps distance from politics)
-- The weapons and armor he's created (tracks their locations)
-
-**Flaws:**
-- Obsessive about quality - will redo work if slight imperfection
-- Terrible with money - undercharges because he loves the work
-- Socially awkward - better with metal than people
-- Refuses commissions from those he considers unworthy
-
-#### Background & History
-Born in 1049 CR, Gundren showed talent young. By 50, he was crafting better blades than smiths twice his age. By 100, his work was famous. By 150, he was legendary.
-
-He's created weapons for kings, armor for heroes, tools for artisans. His pieces are treasured across Tirvandor. Nobles wait years for commissions. He's turned down kings who he felt unworthy.
-
-He left House Ironforge at 120 - not in anger, but to pursue pure craft without politics. He travels, taking commissions, teaching, always learning. He's studied with every major smith in both kingdoms and beyond.
-
-His greatest creation is Ironheart, his Steel Defender - a mechanical bear that's part tool, part companion, part masterpiece. It took him 10 years to build, combining smithing, magic, and artifice.
-
-Now at 198, he's considered the greatest living smith. But he's restless - he wants to create something truly legendary before he dies. Something that will be remembered forever.
-
-#### Connections
-- **Thane Durin Ironforge:** Distant cousin, good relationship though Gundren avoids politics
-- **Master Smith Durgan Forgefire (Kaer Thandros):** Close friend, rival, they compete over technique
-- **King Aldric IV:** Created the king's ceremonial armor, mutual respect
-- **Crown Prince Thorin Thandris:** Forged Heir's Blade, sees potential in the prince
-- **Many Students:** Apprentices across both continents
-- **Lord Commander Thrain Ironoak:** Forged his axe "Kingbreaker"
-- **Admirers:** Nearly every warrior who's used his weapons
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
@@ -9132,67 +9154,7 @@ Now at 198, he's considered the greatest living smith. But he's restless - he wa
 - Can teach party members crafting skills
 - Humanized through his regrets and relationships
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-
-\page
-
-{{monster,frame,wide
 ## Lady Seraphine Silverleaf
-*Medium humanoid (elf), neutral good*
-___
-**Armor Class** :: 18 (barkskin spell, Dex, natural armor)
-**Hit Points** :: 156 (18d8 + 72)
-**Speed** :: 35 ft., climb 35 ft. (through trees)
-<div class="col-img">![Lady Seraphine Silverleaf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-seraphine-silverleaf.jpg){width:305px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 18 (+4) | 18 (+4) | 16 (+3) | 22 (+6) | 16 (+3) |
-___
-**Saving Throws** :: Intelligence +8, Wisdom +11
-**Skills** :: Animal Handling +11, Arcana +8, Insight +11, Medicine +11, Nature +13 (expertise), Perception +11, Stealth +9, Survival +11
-**Damage Resistances** :: Poison, non-magical physical (while in Wild Shape)
-**Senses** :: Darkvision 60 ft., Passive Perception 21
-**Languages** :: Common, Elvish, Sylvan, Druidic, can speak with plants and animals
-**Challenge** :: 15 (13,000 XP)
-___
-***Fey Ancestry.*** :: Advantage on saves vs. charmed, immune to magical sleep.
-***Mask of the Wild.*** :: Can hide in lightly obscured natural terrain.
-***Fleet of Foot.*** :: Speed 35 ft.
-***Wild Shape (2/Rest).*** :: Transform into beast CR 1 or lower for 7 hours, or two CR 2 beasts simultaneously.
-***Land's Stride.*** :: Move through nonmagical difficult terrain without penalty, advantage vs. magical plants.
-***Nature's Ward.*** :: Immune to poison, disease, and charmed/frightened by fey and elementals.
-***Nature's Sanctuary.*** :: Beasts and plants must succeed DC 19 Wisdom save to attack her.
-***Natural Explorer (Forest).*** :: Ignore difficult forest terrain, double proficiency on Nature/Survival in forests.
-***Favored Enemy (Aberrations, Undead).*** :: +2 damage, advantage on tracking/recalling information.
-***Spell Save DC.*** :: 19, Spell Attack Bonus: +11
-***Druid Cantrips.*** :: Druidcraft, Guidance, Mending, Shillelagh, Thorn Whip
-***1st Level (4 slots).*** :: Cure Wounds, Detect Magic, Entangle, Goodberry, Speak with Animals
-***2nd Level (3 slots).*** :: Barkskin, Pass Without Trace, Spike Growth, Lesser Restoration
-***3rd Level (3 slots).*** :: Call Lightning, Plant Growth, Speak with Plants, Dispel Magic
-***4th Level (3 slots).*** :: Blight, Grasping Vine, Stone Shape, Freedom of Movement
-***5th Level (2 slots).*** :: Commune with Nature, Tree Stride, Greater Restoration
-***6th Level (1 slot).*** :: Transport via Plants, Wall of Thorns
-***7th Level (1 slot).*** :: Fire Storm, Regenerate
-***Ranger Spells (2 slots).*** :: Hunter's Mark, Longstrider
-### Actions
-***Multiattack.*** :: Makes two attacks or casts a spell.
-***Quarterstaff +1 (Shillelagh).*** :: Melee Weapon Attack: +12 to hit, reach 5 ft., one target. ***Hit.*** 1d8+7 bludgeoning damage (magical).::
-***Longbow.*** :: Ranged Weapon Attack: +9 to hit, range 150/600 ft., one target. ***Hit.*** 1d8+4 piercing damage.::
-***Summon Forest Guardian (1/Day).*** :: Summons a treant that fights for 1 hour.
-***WILD SHAPE FORMS (Common).*** :: 
-- Ancient Wolf (CR 1/4, scouting)
-- Giant Eagle (CR 1, aerial reconnaissance)
-- Brown Bear (CR 1, combat)
-- Giant Elk (CR 2, travel)
-### Legendary Actions
-Can take 3 legendary actions, choosing from options below. Only one legendary action can be used at a time and only at end of another creature's turn. Regains spent legendary actions at start of turn.
-**Cantrip.** :: Casts a druid cantrip.
-**Wild Shape.** :: Transforms into beast form.
-**Nature's Wrath (Costs 2).** :: All enemies within 30 feet take 3d8 nature damage (necrotic, poison, or radiant - her choice), Wisdom save DC 19 half.
-*"The forest remembers every kindness and every wound. So do I."*
-}}
 
 #### Basic Information
 - **Race:** Wood Elf
@@ -9201,9 +9163,6 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - **Role:** Matriarch of House Silverleaf, Council Mistress of Silverpine
 - **Alignment:** Neutral Good
 - **Class:** Druid 14 (Circle of the Land - Forest) / Ranger 4
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Physical Description
 Ancient and ageless simultaneously (5'6", 115 lbs). Silver-white hair (from age, not dye) flows to her waist, often woven with living flowers and vines. Eyes are deep green, like forest shadows, and seem to see through pretense to truth. Skin has faint bark-like texture from centuries of druidic magic. Wears robes of living plants that grow and change with seasons. Moves with liquid grace despite her age.
@@ -9212,10 +9171,17 @@ Ancient and ageless simultaneously (5'6", 115 lbs). Silver-white hair (from age,
 - **Staff:** Quarterstaff +1 "Heartwood" (carved from ancient oak, focus)
 - **Bow:** Longbow (masterwork elven make)
 - **Cloak:** Cloak of Elvenkind (advantage on Stealth)
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 - **Amulet:** Periapt of Wound Closure (stabilizes automatically, max HP on healing)
 - **Ring:** Ring of Animal Influence (Speak with Animals at will, Animal Friendship/Fear 3/day)
 - **Bracelet:** Nature's Blessing (grants barkskin effect, AC 16 + Dex)
 - **Other:** Druidic focus (living branch), herbalism kit, scrolls of forest lore
+
+<div class="col-img">![Lady Seraphine Silverleaf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-seraphine-silverleaf.jpg){width:305px,mix-blend-mode:multiply}</div>
 
 #### Personality
 **Traits:**
@@ -9266,6 +9232,63 @@ Recently, the forest has been whispering warnings. Something is wrong in the dee
 {{footnote Part IV: NPCs}}
 \page
 
+{{monster,frame,wide
+## Lady Seraphine Silverleaf
+*Medium humanoid (elf), neutral good*
+___
+**Armor Class** :: 18 (barkskin spell, Dex, natural armor)
+**Hit Points** :: 156 (18d8 + 72)
+**Speed** :: 35 ft., climb 35 ft. (through trees)
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 18 (+4) | 18 (+4) | 16 (+3) | 22 (+6) | 16 (+3) |
+___
+**Saving Throws** :: Intelligence +8, Wisdom +11
+**Skills** :: Animal Handling +11, Arcana +8, Insight +11, Medicine +11, Nature +13 (expertise), Perception +11, Stealth +9, Survival +11
+**Damage Resistances** :: Poison, non-magical physical (while in Wild Shape)
+**Senses** :: Darkvision 60 ft., Passive Perception 21
+**Languages** :: Common, Elvish, Sylvan, Druidic, can speak with plants and animals
+**Challenge** :: 15 (13,000 XP)
+___
+***Fey Ancestry.*** :: Advantage on saves vs. charmed, immune to magical sleep.
+***Mask of the Wild.*** :: Can hide in lightly obscured natural terrain.
+***Fleet of Foot.*** :: Speed 35 ft.
+***Wild Shape (2/Rest).*** :: Transform into beast CR 1 or lower for 7 hours, or two CR 2 beasts simultaneously.
+***Land's Stride.*** :: Move through nonmagical difficult terrain without penalty, advantage vs. magical plants.
+***Nature's Ward.*** :: Immune to poison, disease, and charmed/frightened by fey and elementals.
+***Nature's Sanctuary.*** :: Beasts and plants must succeed DC 19 Wisdom save to attack her.
+***Natural Explorer (Forest).*** :: Ignore difficult forest terrain, double proficiency on Nature/Survival in forests.
+***Favored Enemy (Aberrations, Undead).*** :: +2 damage, advantage on tracking/recalling information.
+***Spell Save DC.*** :: 19, Spell Attack Bonus: +11
+***Druid Cantrips.*** :: Druidcraft, Guidance, Mending, Shillelagh, Thorn Whip
+***1st Level (4 slots).*** :: Cure Wounds, Detect Magic, Entangle, Goodberry, Speak with Animals
+***2nd Level (3 slots).*** :: Barkskin, Pass Without Trace, Spike Growth, Lesser Restoration
+***3rd Level (3 slots).*** :: Call Lightning, Plant Growth, Speak with Plants, Dispel Magic
+***4th Level (3 slots).*** :: Blight, Grasping Vine, Stone Shape, Freedom of Movement
+***5th Level (2 slots).*** :: Commune with Nature, Tree Stride, Greater Restoration
+***6th Level (1 slot).*** :: Transport via Plants, Wall of Thorns
+***7th Level (1 slot).*** :: Fire Storm, Regenerate
+***Ranger Spells (2 slots).*** :: Hunter's Mark, Longstrider
+### Actions
+***Multiattack.*** :: Makes two attacks or casts a spell.
+***Quarterstaff +1 (Shillelagh).*** :: Melee Weapon Attack: +12 to hit, reach 5 ft., one target. ***Hit.*** 1d8+7 bludgeoning damage (magical).::
+***Longbow.*** :: Ranged Weapon Attack: +9 to hit, range 150/600 ft., one target. ***Hit.*** 1d8+4 piercing damage.::
+***Summon Forest Guardian (1/Day).*** :: Summons a treant that fights for 1 hour.
+***WILD SHAPE FORMS (Common).*** :: 
+- Ancient Wolf (CR 1/4, scouting)
+- Giant Eagle (CR 1, aerial reconnaissance)
+- Brown Bear (CR 1, combat)
+- Giant Elk (CR 2, travel)
+### Legendary Actions
+Can take 3 legendary actions, choosing from options below. Only one legendary action can be used at a time and only at end of another creature's turn. Regains spent legendary actions at start of turn.
+**Cantrip.** :: Casts a druid cantrip.
+**Wild Shape.** :: Transforms into beast form.
+**Nature's Wrath (Costs 2).** :: All enemies within 30 feet take 3d8 nature damage (necrotic, poison, or radiant - her choice), Wisdom save DC 19 half.
+*"The forest remembers every kindness and every wound. So do I."*
+}}
+
+
 {{descriptive
 #### Secrets (DM Only)
 1. **The Forest Disease:** The tree deaths aren't natural - it's a magical plague from before the Worldrend, sealed away and now leaking. She's trying to find the source before it spreads catastrophically. If it reaches the Heartwood, the entire Silverwood could die.
@@ -9274,12 +9297,20 @@ Recently, the forest has been whispering warnings. Something is wrong in the dee
 
 3. **The Ancient Pact:** House Silverleaf's power comes from a pact with ancient fey made before the Worldrend. The pact requires "stewardship" of the forest. She interprets this benevolently, but the original terms might be darker. Breaking it would strip the house of power.
 
-4. **The Succession Doubt:** She's not sure Arannis should inherit. He's capable but aggressive. She's considered passing leadership to someone else but tradition demands bloodline succession. She's torn between duty and wisdom.
-
-5. **The Personal Failure:** During the early post-Worldrend chaos (she was young), she made decisions that led to a small forest burning. Hundreds died - elves and animals. She's never forgiven herself. The guilt drives her excessive caution now.
-
-6. **The Forbidden Love:** In her youth, she loved a human - a ranger who died of old age centuries ago. She never took another partner. She still visits his grave secretly and speaks to him. Some think she's beyond emotion; they're wrong.
 }}
+
+{{descriptive
+
+3. **The Succession Doubt:** She's not sure Arannis should inherit. He's capable but aggressive. She's considered passing leadership to someone else but tradition demands bloodline succession. She's torn between duty and wisdom.
+
+4. **The Personal Failure:** During the early post-Worldrend chaos (she was young), she made decisions that led to a small forest burning. Hundreds died - elves and animals. She's never forgiven herself. The guilt drives her excessive caution now.
+
+5. **The Forbidden Love:** In her youth, she loved a human - a ranger who died of old age centuries ago. She never took another partner. She still visits his grave secretly and speaks to him. Some think she's beyond emotion; they're wrong.
+}}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 #### Plot Hooks
 1. **The Forest Plague:** Seraphine reveals the tree plague and asks the party to find its source. They must journey to pre-Worldrend ruins where ancient magic is sealed - and failing.
@@ -9313,9 +9344,25 @@ Recently, the forest has been whispering warnings. Something is wrong in the dee
 - Can be powerful ally or demanding employer
 - Her relationship with Arannis creates family tension
 
+\column
+
+## Ranger-Lord Arannis Silverleaf
+
+<div class="col-img">![Ranger-Lord Arannis Silverleaf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-arannis-silverleaf.jpg){width:305px,mix-blend-mode:multiply}</div>
+
+#### Basic Information
+- **Race:** Wood Elf
+- **Age:** 156
+- **Location:** The Silverwood (ranger outpost "The Green Watchtower")
+- **Role:** Ranger-Lord, Forest Guardian, Military Leader of House Silverleaf forces
+- **Alignment:** Neutral
+- **Class:** Ranger 16 (Hunter Archetype)
+
+#### Physical Description
+Tall and lean (6'0", 165 lbs), built for speed and endurance. Dark green hair (rare for elves) pulled back in warrior's braid. Intense emerald eyes that constantly scan surroundings. His face has the hard look of someone who's seen combat - scars, weathered skin despite elven youth. Wears practical forest-camouflage leather armor, always armed. Moves with predatory grace - quieter than whisper.
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
 {{monster,frame,wide
@@ -9325,7 +9372,6 @@ ___
 **Armor Class** :: 20 (studded leather +2, Dex, defensive training)
 **Hit Points** :: 168 (16d10 + 80)
 **Speed** :: 40 ft., climb 40 ft.
-<div class="col-img">![Ranger-Lord Arannis Silverleaf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-arannis-silverleaf.jpg){width:305px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -9370,19 +9416,6 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"The forest needs protectors, not philosophers. I am its sword."*
 }}
 
-#### Basic Information
-- **Race:** Wood Elf
-- **Age:** 156
-- **Location:** The Silverwood (ranger outpost "The Green Watchtower")
-- **Role:** Ranger-Lord, Forest Guardian, Military Leader of House Silverleaf forces
-- **Alignment:** Neutral
-- **Class:** Ranger 16 (Hunter Archetype)
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-#### Physical Description
-Tall and lean (6'0", 165 lbs), built for speed and endurance. Dark green hair (rare for elves) pulled back in warrior's braid. Intense emerald eyes that constantly scan surroundings. His face has the hard look of someone who's seen combat - scars, weathered skin despite elven youth. Wears practical forest-camouflage leather armor, always armed. Moves with predatory grace - quieter than whisper.
 
 #### Equipment
 - **Armor:** Studded Leather +2 "Forest's Embrace" (green, perfectly camouflaged)
@@ -9393,6 +9426,8 @@ Tall and lean (6'0", 165 lbs), built for speed and endurance. Dark green hair (r
 - **Quiver:** Efficient Quiver (never runs out of arrows, carries 60 normal + 20 magical)
 - **Ring:** Ring of Free Action (can't be paralyzed or restrained)
 - **Other:** Ranger survival kit, tracking materials, healing potions (×5), poison vials (various types)
+
+\column
 
 #### Personality
 **Traits:**
@@ -9405,6 +9440,10 @@ Tall and lean (6'0", 165 lbs), built for speed and endurance. Dark green hair (r
 - **Protection:** "The forest can't defend itself. That's my job."
 - **Action:** "Words are wind. Deeds matter."
 - **Vigilance:** "Threats don't announce themselves. Stay ready."
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 **Bonds:**
 - The Silverwood Forest (would die to protect it)
@@ -9440,10 +9479,6 @@ He knows he'll inherit eventually. He's not sure he wants the political burden, 
 - **Enemy:** A hobgoblin warlord named Grimfang (ongoing blood feud)
 - **Concern:** The deep forest threats his mother won't acknowledge
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Kill Count:** Arannis has personally killed over 200 intelligent creatures (goblins, orcs, bandits, etc.) defending the forest. He keeps a private record - not from pride but from guilt. He questions if he's become what he fights against.
@@ -9472,6 +9507,10 @@ He knows he'll inherit eventually. He's not sure he wants the political burden, 
 
 6. **The Moral Choice:** Arannis captures enemies with crucial information. His interrogation methods work but are brutal. The party must decide whether to support, stop, or report him.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 #### Roleplaying Notes
 - **Voice:** Clipped, military, speaks in short sentences
 - **Mannerisms:** Constantly scanning surroundings, hand always near weapon, moves silently even casually
@@ -9491,10 +9530,70 @@ He knows he'll inherit eventually. He's not sure he wants the political burden, 
 - Can be reliable ally or dangerous extremist depending on party's choices
 - His relationship with Seraphine shows generational conflict
 
+## Admiral Theron Stormcrest
+
+#### Basic Information
+- **Race:** Human
+- **Age:** 48
+- **Location:** Goldreach (Harbor District) / At sea (commands fleet)
+- **Role:** Admiral of House Stormcrest Fleet, Naval Commander
+- **Alignment:** Lawful Neutral
+- **Class:** Fighter 14 (Champion) / Rogue 2
+
+#### Physical Description
+Weather-beaten and imposing (6'2", 210 lbs of muscle and scars). Sun-darkened skin, short salt-and-pepper hair, piercing blue eyes like the sea itself. Multiple scars - sword cuts, burns from naval battles, shark bite on left forearm. Walks with rolling gait of career sailor. Usually wears modified naval uniform - practical for combat but clearly marking rank. Smells of saltwater and gunpowder.
+
+#### Equipment
+- **Armor:** Half Plate +1 (naval-modified, saltwater-proof)
+- **Primary Weapon:** Cutlass +2 "Tidebreaker" (legendary naval blade, ignores water resistance)
+- **Pistols:** Two Naval Pistols +1 (matched pair, family heirlooms)
+- **Cloak:** Cloak of the Manta Ray (swim speed, breathe underwater)
+- **Ring:** Ring of Water Walking
+- **Spyglass:** Magical telescope (see 10× normal distance, advantage on Perception)
+- **Other:** Navigation tools, charts, signal flags, powder and shot, Admiral's commission papers
+
+<div class="col-img">![Admiral Theron Stormcrest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-admiral-theron-stormcrest.jpg){width:315px,mix-blend-mode:multiply}</div>
+
+#### Personality
+**Traits:**
+- Commanding presence, expects obedience but earns respect
+- Strategic thinker, plans operations meticulously
+- Direct and honest, dislikes deception and games
+- Protective of his fleet and crew (they're his family)
+
+**Ideals:**
+- **Order:** "The sea is chaos. Ships require discipline and structure."
+- **Duty:** "I serve the sea, the fleet, and the crown. In that order."
+- **Honor:** "A captain's word is absolute. Break it, and you're worse than pirates."
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
+
+**Bonds:**
+- His flagship "Stormbreaker" (30 years commanding her)
+- The Stormcrest fleet (15 ships, 3,000 sailors)
+- His sister Tempest (complicated relationship)
+- House Stormcrest's naval legacy
+
+**Flaws:**
+- Rigid - struggles with flexibility and improvisation
+- Judgmental - quick to categorize people as competent or incompetent
+- Haunted by those lost at sea under his command
+- Workaholic - neglects personal relationships for duty
+
+#### Background & History
+Born in 1199 CR to House Stormcrest, Theron went to sea at 10. Cabin boy became sailor became officer became captain became admiral. He's spent 38 years at sea, more than on land.
+
+At 25, he captained his first ship. At 30, he won his first major naval engagement against pirates. At 35, he commanded a squadron. At 40, he became Admiral of the Stormcrest fleet - youngest ever.
+
+For 8 years, he's commanded the largest private fleet in Tirvandor. Officially, they protect Stormcrest trade interests. Unofficially, they're a naval power that rivals kingdom fleets.
+
+He's fought pirates, foreign raiders, sea monsters, and once, a kraken. His tactical brilliance is matched by personal courage - he leads from the front, boarding actions and all. His crews worship him.
+
+But success breeds enemies. He's discovered smuggling operations (possibly tied to House Goldshore). He's intercepted suspicious cargo. He suspects someone powerful is using trade routes for illegal purposes. Investigation is difficult - he can't be everywhere.
+
+He's also concerned about his sister Tempest. Her weather magic is invaluable but she's unpredictable, possibly dangerous. He can't decide if she's asset or liability.
 
 {{monster,frame,wide
 ## Admiral Theron Stormcrest
@@ -9503,7 +9602,6 @@ ___
 **Armor Class** :: 19 (half plate +1, Dex, defensive)
 **Hit Points** :: 156 (16d10 + 64)
 **Speed** :: 30 ft., swim 30 ft.
-<div class="col-img">![Admiral Theron Stormcrest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-admiral-theron-stormcrest.jpg){width:315px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -9550,65 +9648,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"The sea respects strength and cunning in equal measure. So do I."*
 }}
 
-#### Basic Information
-- **Race:** Human
-- **Age:** 48
-- **Location:** Goldreach (Harbor District) / At sea (commands fleet)
-- **Role:** Admiral of House Stormcrest Fleet, Naval Commander
-- **Alignment:** Lawful Neutral
-- **Class:** Fighter 14 (Champion) / Rogue 2
 
-#### Physical Description
-Weather-beaten and imposing (6'2", 210 lbs of muscle and scars). Sun-darkened skin, short salt-and-pepper hair, piercing blue eyes like the sea itself. Multiple scars - sword cuts, burns from naval battles, shark bite on left forearm. Walks with rolling gait of career sailor. Usually wears modified naval uniform - practical for combat but clearly marking rank. Smells of saltwater and gunpowder.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-#### Equipment
-- **Armor:** Half Plate +1 (naval-modified, saltwater-proof)
-- **Primary Weapon:** Cutlass +2 "Tidebreaker" (legendary naval blade, ignores water resistance)
-- **Pistols:** Two Naval Pistols +1 (matched pair, family heirlooms)
-- **Cloak:** Cloak of the Manta Ray (swim speed, breathe underwater)
-- **Ring:** Ring of Water Walking
-- **Spyglass:** Magical telescope (see 10× normal distance, advantage on Perception)
-- **Other:** Navigation tools, charts, signal flags, powder and shot, Admiral's commission papers
-
-#### Personality
-**Traits:**
-- Commanding presence, expects obedience but earns respect
-- Strategic thinker, plans operations meticulously
-- Direct and honest, dislikes deception and games
-- Protective of his fleet and crew (they're his family)
-
-**Ideals:**
-- **Order:** "The sea is chaos. Ships require discipline and structure."
-- **Duty:** "I serve the sea, the fleet, and the crown. In that order."
-- **Honor:** "A captain's word is absolute. Break it, and you're worse than pirates."
-
-**Bonds:**
-- His flagship "Stormbreaker" (30 years commanding her)
-- The Stormcrest fleet (15 ships, 3,000 sailors)
-- His sister Tempest (complicated relationship)
-- House Stormcrest's naval legacy
-
-**Flaws:**
-- Rigid - struggles with flexibility and improvisation
-- Judgmental - quick to categorize people as competent or incompetent
-- Haunted by those lost at sea under his command
-- Workaholic - neglects personal relationships for duty
-
-#### Background & History
-Born in 1199 CR to House Stormcrest, Theron went to sea at 10. Cabin boy became sailor became officer became captain became admiral. He's spent 38 years at sea, more than on land.
-
-At 25, he captained his first ship. At 30, he won his first major naval engagement against pirates. At 35, he commanded a squadron. At 40, he became Admiral of the Stormcrest fleet - youngest ever.
-
-For 8 years, he's commanded the largest private fleet in Tirvandor. Officially, they protect Stormcrest trade interests. Unofficially, they're a naval power that rivals kingdom fleets.
-
-He's fought pirates, foreign raiders, sea monsters, and once, a kraken. His tactical brilliance is matched by personal courage - he leads from the front, boarding actions and all. His crews worship him.
-
-But success breeds enemies. He's discovered smuggling operations (possibly tied to House Goldshore). He's intercepted suspicious cargo. He suspects someone powerful is using trade routes for illegal purposes. Investigation is difficult - he can't be everywhere.
-
-He's also concerned about his sister Tempest. Her weather magic is invaluable but she's unpredictable, possibly dangerous. He can't decide if she's asset or liability.
 
 #### Connections
 - **Sister:** Lady Tempest Stormcrest (weather mage, complicated relationship)
@@ -9618,10 +9661,6 @@ He's also concerned about his sister Tempest. Her weather magic is invaluable bu
 - **Subordinate:** 50 ship captains under his command, all loyal
 - **Enemy:** Pirate lords he's hunted (survived, seeking revenge)
 - **Concern:** Captain Blackheart (legendary pirate, still at large)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -9637,6 +9676,8 @@ He's also concerned about his sister Tempest. Her weather magic is invaluable bu
 
 6. **The Personal Loss:** Theron has a daughter he's never met - born to a affair decades ago. He pays support through intermediaries but has never acknowledged her. She's now a sailor on merchant vessel, unaware of her heritage. He watches her career from distance.
 }}
+
+\column
 
 #### Plot Hooks
 1. **The Smuggling Raid:** Theron hires the party to infiltrate a suspected smuggling operation - on ships he can't officially board. They discover the extent of House Goldshore's illegal operation and must decide what to do with evidence.
@@ -9672,8 +9713,79 @@ He's also concerned about his sister Tempest. Her weather magic is invaluable bu
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
+
+## Lady Tempest Stormcrest
+
+<div class="col-img">![Lady Tempest Stormcrest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-tempest-stormcrest.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Basic Information
+- **Race:** Human
+- **Age:** 35
+- **Location:** At sea (aboard various Stormcrest vessels) / Goldreach (when on land)
+- **Role:** Weather Mage, "Storm-Caller" of House Stormcrest
+- **Alignment:** Chaotic Neutral
+- **Class:** Sorcerer 15 (Storm Sorcery)
+
+#### Physical Description
+Wild and striking (5'9", 140 lbs), with an intensity that makes people step back. Long black hair that seems to move with static electricity even when there's no wind. Eyes that shift from gray to electric blue depending on mood. Olive skin with lightning-bolt scars from channeling power. Wears flowing dark robes that billow dramatically. Has a presence that fills rooms - electric and slightly dangerous.
+
+#### Equipment
+- **Robes:** Robes of the Archmagi (AC 15 base, advantage vs. spells, resistance to spell damage, +2 spell DC)
+- **Staff:** Staff of Thunder and Lightning (+2 quarterstaff, can cast various lightning spells, special attacks)
+- **Amulet:** Amulet of Lightning Resistance (redundant with natural resistance, but amplifies power)
+- **Ring:** Ring of Weather Control (advantage on weather-manipulation checks, enhance Storm Guide)
+- **Boots:** Winged Boots (flight 4 hours/day)
+- **Other:** Component pouch, weather journal (tracks atmospheric conditions obsessively), storm-glass barometer
+
+#### Personality
+**Traits:**
+- Passionate and intense, everything at 100%
+- Impulsive - acts on instinct rather than thought
+- Moody - temperament matches weather, literally
+- Generous with power but careless about consequences
+
+**Ideals:**
+- **Freedom:** "I am the storm - wild, untamed, free. No one controls me."
+- **Power:** "Nature's fury flows through me. Why should I restrain it?"
+- **Authenticity:** "I am what I am. Accept it or get struck by lightning."
+
+**Bonds:**
+- Her brother Theron (complicated love-hate relationship)
+- The storm itself (feels connected to weather patterns)
+- House Stormcrest (despite tensions)
+- A sailor who died when her power first manifested (guilt haunts her)
+
+**Flaws:**
+- Volatile - anger can cause literal storms
+- Reckless - doesn't think about collateral damage
+- Addicted to power - the rush of controlling weather
+- Struggles with controlling her abilities
+
+#### Background & History
+Born in 1212 CR, Tempest was always different. While her brother went to sea at 10, she stayed on land - seasick, much to her shame. At 13, during a tantrum, she called lightning without meaning to. Burned down a dock. Killed three people.
+
+House Stormcrest recognized sorcerous bloodline manifesting. They hired teachers - mages who'd help her control it. Some helped. Some tried to suppress it. All failed to truly teach control because the power is tied to her emotions.
+
+By 20, she could call storms. By 25, she could control weather. By 30, she could summon hurricanes. But control remains imperfect. When she's angry, ships sink. When she's sad, it rains for days. When she's happy, winds blow favorable. The fleet needs her power but fears it.
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+Her brother Theron brought her aboard fleet at 28, thinking sea life might help. It did - she's no longer seasick when she controls winds. But she's caused three near-disasters when she lost control during emotional moments.
+
+Now at 35, she's incredibly powerful but possibly too dangerous. She knows this. She tries to control herself but emotions are storms too, and storms don't want control.
+
+Recently, her power is growing. Weather responds to her moods even when she's not trying. She's starting to hear whispers in storms - something calling to her from deep weather patterns. She hasn't told anyone.
+
+#### Connections
+- **Brother:** Admiral Theron Stormcrest (loves him, resents his control)
+- **Teacher:** A retired storm sorcerer who lives in lighthouse, only one who understands her power
+- **Friend:** Captain Mira Wavecrest (Lake Patrol, one person not afraid of her)
+- **Fear:** She accidentally killed a sailor named Erik who tried to kiss her (she panicked, lightning struck, he died - only Theron knows)
+- **Rival:** Lady Tempest Crystalborn (same name, competitive relationship)
+- **Drawn To:** Ancient storm elemental that lives in perpetual tempest far at sea
 
 {{monster,frame,wide
 ## Lady Tempest Stormcrest
@@ -9682,7 +9794,6 @@ ___
 **Armor Class** :: 16 (13 + Dex + Mage Armor)
 **Hit Points** :: 105 (15d6 + 45)
 **Speed** :: 30 ft., fly 30 ft. (through storm magic)
-<div class="col-img">![Lady Tempest Stormcrest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-tempest-stormcrest.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -9732,72 +9843,8 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"The storm doesn't ask permission. Neither do I."*
 }}
 
-#### Basic Information
-- **Race:** Human
-- **Age:** 35
-- **Location:** At sea (aboard various Stormcrest vessels) / Goldreach (when on land)
-- **Role:** Weather Mage, "Storm-Caller" of House Stormcrest
-- **Alignment:** Chaotic Neutral
-- **Class:** Sorcerer 15 (Storm Sorcery)
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
-#### Physical Description
-Wild and striking (5'9", 140 lbs), with an intensity that makes people step back. Long black hair that seems to move with static electricity even when there's no wind. Eyes that shift from gray to electric blue depending on mood. Olive skin with lightning-bolt scars from channeling power. Wears flowing dark robes that billow dramatically. Has a presence that fills rooms - electric and slightly dangerous.
 
-#### Equipment
-- **Robes:** Robes of the Archmagi (AC 15 base, advantage vs. spells, resistance to spell damage, +2 spell DC)
-- **Staff:** Staff of Thunder and Lightning (+2 quarterstaff, can cast various lightning spells, special attacks)
-- **Amulet:** Amulet of Lightning Resistance (redundant with natural resistance, but amplifies power)
-- **Ring:** Ring of Weather Control (advantage on weather-manipulation checks, enhance Storm Guide)
-- **Boots:** Winged Boots (flight 4 hours/day)
-- **Other:** Component pouch, weather journal (tracks atmospheric conditions obsessively), storm-glass barometer
-
-#### Personality
-**Traits:**
-- Passionate and intense, everything at 100%
-- Impulsive - acts on instinct rather than thought
-- Moody - temperament matches weather, literally
-- Generous with power but careless about consequences
-
-**Ideals:**
-- **Freedom:** "I am the storm - wild, untamed, free. No one controls me."
-- **Power:** "Nature's fury flows through me. Why should I restrain it?"
-- **Authenticity:** "I am what I am. Accept it or get struck by lightning."
-
-**Bonds:**
-- Her brother Theron (complicated love-hate relationship)
-- The storm itself (feels connected to weather patterns)
-- House Stormcrest (despite tensions)
-- A sailor who died when her power first manifested (guilt haunts her)
-
-**Flaws:**
-- Volatile - anger can cause literal storms
-- Reckless - doesn't think about collateral damage
-- Addicted to power - the rush of controlling weather
-- Struggles with controlling her abilities
-
-#### Background & History
-Born in 1212 CR, Tempest was always different. While her brother went to sea at 10, she stayed on land - seasick, much to her shame. At 13, during a tantrum, she called lightning without meaning to. Burned down a dock. Killed three people.
-
-House Stormcrest recognized sorcerous bloodline manifesting. They hired teachers - mages who'd help her control it. Some helped. Some tried to suppress it. All failed to truly teach control because the power is tied to her emotions.
-
-By 20, she could call storms. By 25, she could control weather. By 30, she could summon hurricanes. But control remains imperfect. When she's angry, ships sink. When she's sad, it rains for days. When she's happy, winds blow favorable. The fleet needs her power but fears it.
-
-Her brother Theron brought her aboard fleet at 28, thinking sea life might help. It did - she's no longer seasick when she controls winds. But she's caused three near-disasters when she lost control during emotional moments.
-
-Now at 35, she's incredibly powerful but possibly too dangerous. She knows this. She tries to control herself but emotions are storms too, and storms don't want control.
-
-Recently, her power is growing. Weather responds to her moods even when she's not trying. She's starting to hear whispers in storms - something calling to her from deep weather patterns. She hasn't told anyone.
-
-#### Connections
-- **Brother:** Admiral Theron Stormcrest (loves him, resents his control)
-- **Teacher:** A retired storm sorcerer who lives in lighthouse, only one who understands her power
-- **Friend:** Captain Mira Wavecrest (Lake Patrol, one person not afraid of her)
-- **Fear:** She accidentally killed a sailor named Erik who tried to kiss her (she panicked, lightning struck, he died - only Theron knows)
-- **Rival:** Lady Tempest Crystalborn (same name, competitive relationship)
-- **Drawn To:** Ancient storm elemental that lives in perpetual tempest far at sea
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -9824,6 +9871,8 @@ Recently, her power is growing. Weather responds to her moods even when she's no
 2. **The Calling Investigation:** Tempest admits something in storms is calling her and asks the party to help investigate. They must journey into a perpetual tempest at sea to find the source - and decide if it should be destroyed or embraced.
 
 3. **The Teaching:** Tempest asks the party to help her find her old teacher, who's gone missing. They discover he didn't disappear - he's been possessed by a storm entity. They must free him while learning about Tempest's future.
+
+\column
 
 4. **The Storm Elemental:** The elemental offers the merger pact again - publicly this time. Tempest must decide, and the party counsels her. Each choice has enormous consequences - for her, her family, and Tirvandor's weather.
 
