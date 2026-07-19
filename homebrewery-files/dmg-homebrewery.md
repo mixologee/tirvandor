@@ -9904,57 +9904,9 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 
 \page
 
-{{monster,frame,wide
 ## Patriarch Zircon Crystalborn
-*Medium humanoid (elemental-touched), lawful neutral*
-___
-**Armor Class** :: 16 (13 + Dex + Ring of Protection + Shield spell when cast)
-**Hit Points** :: 112 (16d6 + 48)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Patriarch Zircon Crystalborn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-patriarch-zircon-crystalborn.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 (+1) | 14 (+2) | 16 (+3) | 22 (+6) | 16 (+3) | 14 (+2) |
-___
-**Saving Throws** :: Intelligence +11, Wisdom +8
-**Skills** :: Arcana +16 (expertise), History +11, Insight +8, Investigation +11, Jeweler's Tools +11, Perception +8
-**Damage Resistances** :: Acid (Earth Walk)
-**Senses** :: Darkvision 60 ft., Passive Perception 18
-**Languages** :: Common, Primordial, Terran, Draconic, Dwarvish, Celestial
-**Challenge** :: 14 (11,500 XP)
-___
-***Earth Walk.*** :: Can move across difficult terrain made of earth or stone without penalty.
-***Merge with Stone (1/Rest).*** :: Can cast Pass Without Trace once per day.
-***Transmuter's Stone.*** :: Creates stone that grants one benefit - darkvision 60 ft., +10 speed, proficiency in CON saves, or resistance to a damage type. Can change benefit in 8 hours.
-***Shapechanger.*** :: Can use action to polymorph self or willing creature (lasts 1 hour or concentration).
-***Minor Alchemy.*** :: Can transform material (wood→stone, iron→copper, etc.) for up to 1 hour.
-***Master Transmuter (1/Rest).*** :: Can expend Transmuter's Stone for one major effect:
-***- Panacea.*** :: Remove curse, disease, poison
-***- Restore Life.*** :: Raise Dead
-***- Restore Youth.*** :: Reduce age 3d10 years
-***- Transform.*** :: Permanent transmutation effect
-***Magical Tinkering.*** :: Can imbue tiny objects with minor effects.
-***Infuse Item.*** :: Can infuse 2 magic items.
-***Spell Save DC.*** :: 19, Spell Attack Bonus: +11
-***Cantrips.*** :: Mage Hand, Mending, Prestidigitation, Ray of Frost, Stone Shape (at will)
-***1st Level (4 slots).*** :: Detect Magic, Identify, Mage Armor, Shield, Unseen Servant
-***2nd Level (3 slots).*** :: Alter Self, Enlarge/Reduce, Enhance Ability, Levitate
-***3rd Level (3 slots).*** :: Dispel Magic, Haste, Slow, Tongues
-***4th Level (3 slots).*** :: Fabricate, Polymorph, Stone Shape
-***5th Level (2 slots).*** :: Creation, Passwall, Telekinesis
-***6th Level (1 slot).*** :: Disintegrate, True Seeing, Wall of Stone
-***7th Level (1 slot).*** :: Simulacrum, Reverse Gravity
-### Actions
-***Quarterstaff +1.*** :: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. ***Hit.*** 1d6+2 bludgeoning damage (rarely used).::
-***Crystal Shard.*** :: Ranged Spell Attack: +11 to hit, range 60 ft., one target. ***Hit.*** 3d10 force damage (custom spell using crystal components).::
-***Spellcasting.*** :: Casts one of his prepared spells.
-***Transmute Object.*** :: Touch object up to 5-foot cube, transform into another material (stone, metal, crystal, etc.).
-### Reactions
-***Shield.*** :: +5 AC until start of next turn.
-***Counterspell.*** :: Counter enemy spell.
-*"Wealth is fleeting. Power is temporary. But knowledge crystallized is eternal."*
-}}
 
 #### Basic Information
 - **Race:** Rock Elemental-touched
@@ -9963,9 +9915,6 @@ ___
 - **Role:** Patriarch of House Crystalborn, Master Gem Merchant
 - **Alignment:** Lawful Neutral
 - **Class:** Wizard 14 (School of Transmutation) / Artificer 2
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Physical Description
 Distinctive and striking (5'10", 190 lbs), with the crystalline features of rock elemental-touched. Skin has faint crystal formations - like geodes embedded in flesh. Eyes are literally crystalline - faceted like cut gems, reflecting light prismatically. White hair with crystal-like streaks. Moves with deliberate precision. Wears expensive robes with crystals sewn throughout - both decoration and functional spell components.
@@ -10010,11 +9959,18 @@ For 27 years, he's ruled House Crystalborn with calculated precision. He transfo
 
 He discovered that perfect gems amplify magic. He developed techniques to grow synthetic crystals with superior properties. He created new gem cuts that focus magical energy more efficiently. His innovations revolutionized crystal-based magic.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+
 But innovation breeds rivals. House Goldshore competes for trade dominance. Other houses want his techniques. He's had to balance sharing enough to maintain relevance while hiding secrets that ensure superiority.
 
 His greatest work is his daughter Sapphira - not just training her in craft, but in patience, precision, and perfection. She'll inherit techniques refined over centuries, knowledge worth more than gold.
 
 Recently, he's discovered something troubling - evidence that certain gem formations aren't natural. They're artifacts from before the Worldrend, possibly dangerous. He's investigating quietly, not wanting to cause panic or reveal he's found something valuable.
+
+\column
 
 #### Connections
 - **Daughter:** Gem-Mage Sapphira Crystalborn (protégé and heir)
@@ -10023,6 +9979,59 @@ Recently, he's discovered something troubling - evidence that certain gem format
 - **Customer:** Multiple noble houses who need his crystals for magic
 - **Secret Source:** A dao (earth genie) who provides rare minerals from Elemental Plane of Earth
 - **Concerned About:** Enchanter Prismara in Crystalbrook (knows about anomalous crystals)
+
+ ::
+  
+{{monster,frame,wide
+## Patriarch Zircon Crystalborn
+*Medium humanoid (elemental-touched), lawful neutral*
+___
+**Armor Class** :: 16 (13 + Dex + Ring of Protection + Shield spell when cast)
+**Hit Points** :: 112 (16d6 + 48)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 12 (+1) | 14 (+2) | 16 (+3) | 22 (+6) | 16 (+3) | 14 (+2) |
+___
+**Saving Throws** :: Intelligence +11, Wisdom +8
+**Skills** :: Arcana +16 (expertise), History +11, Insight +8, Investigation +11, Jeweler's Tools +11, Perception +8
+**Damage Resistances** :: Acid (Earth Walk)
+**Senses** :: Darkvision 60 ft., Passive Perception 18
+**Languages** :: Common, Primordial, Terran, Draconic, Dwarvish, Celestial
+**Challenge** :: 14 (11,500 XP)
+___
+***Earth Walk.*** :: Can move across difficult terrain made of earth or stone without penalty.
+***Merge with Stone (1/Rest).*** :: Can cast Pass Without Trace once per day.
+***Transmuter's Stone.*** :: Creates stone that grants one benefit - darkvision 60 ft., +10 speed, proficiency in CON saves, or resistance to a damage type. Can change benefit in 8 hours.
+***Shapechanger.*** :: Can use action to polymorph self or willing creature (lasts 1 hour or concentration).
+***Minor Alchemy.*** :: Can transform material (wood→stone, iron→copper, etc.) for up to 1 hour.
+***Master Transmuter (1/Rest).*** :: Can expend Transmuter's Stone for one major effect:
+***- Panacea.*** :: Remove curse, disease, poison
+***- Restore Life.*** :: Raise Dead
+***- Restore Youth.*** :: Reduce age 3d10 years
+***- Transform.*** :: Permanent transmutation effect
+***Magical Tinkering.*** :: Can imbue tiny objects with minor effects.
+***Infuse Item.*** :: Can infuse 2 magic items.
+***Spell Save DC.*** :: 19, Spell Attack Bonus: +11
+***Cantrips.*** :: Mage Hand, Mending, Prestidigitation, Ray of Frost, Stone Shape (at will)
+***1st Level (4 slots).*** :: Detect Magic, Identify, Mage Armor, Shield, Unseen Servant
+***2nd Level (3 slots).*** :: Alter Self, Enlarge/Reduce, Enhance Ability, Levitate
+***3rd Level (3 slots).*** :: Dispel Magic, Haste, Slow, Tongues
+***4th Level (3 slots).*** :: Fabricate, Polymorph, Stone Shape
+***5th Level (2 slots).*** :: Creation, Passwall, Telekinesis
+***6th Level (1 slot).*** :: Disintegrate, True Seeing, Wall of Stone
+***7th Level (1 slot).*** :: Simulacrum, Reverse Gravity
+### Actions
+***Quarterstaff +1.*** :: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. ***Hit.*** 1d6+2 bludgeoning damage (rarely used).::
+***Crystal Shard.*** :: Ranged Spell Attack: +11 to hit, range 60 ft., one target. ***Hit.*** 3d10 force damage (custom spell using crystal components).::
+***Spellcasting.*** :: Casts one of his prepared spells.
+***Transmute Object.*** :: Touch object up to 5-foot cube, transform into another material (stone, metal, crystal, etc.).
+### Reactions
+***Shield.*** :: +5 AC until start of next turn.
+***Counterspell.*** :: Counter enemy spell.
+*"Wealth is fleeting. Power is temporary. But knowledge crystallized is eternal."*
+}}
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -10080,6 +10089,127 @@ Recently, he's discovered something troubling - evidence that certain gem format
 
 \page
 
+## Gem-Mage Sapphira Crystalborn
+
+<div class="col-img">![Gem-Mage Sapphira Crystalborn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-gem-mage-sapphira-crystalborn.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Basic Information
+- **Race:** Human (doesn't know she's adopted)
+- **Age:** 25
+- **Location:** Crystalbrook (Crystal Palace, studying under her father)
+- **Role:** Heir to House Crystalborn, Crystal Magic Specialist
+- **Alignment:** Neutral Good
+- **Class:** Wizard 11 (School of Abjuration) / Sorcerer 3 (Draconic Bloodline - Crystal Dragon, rare)
+
+#### Physical Description
+Striking and elegant (5'8", 135 lbs), with unusual features she attributes to Crystalborn bloodline. Silver-white hair (natural, unusual for her age), pale blue eyes that sparkle like sapphires. Skin is flawless - literally, like polished stone. Delicate features, graceful movements. Wears robes decorated with crystal patterns, always has crystals woven into hair. Radiates subtle luminescence in darkness (draconic heritage manifesting).
+
+#### Equipment
+- **Robes:** Elegant robes (AC from Draconic Resilience, not armor)
+- **Staff:** Crystal Staff of Defense (+1 to AC, stores 10 spell levels)
+- **Dagger:** Dagger +1 (ceremonial, rarely used in combat)
+- **Amulet:** Amulet of the Devout (Crystal variant, +1 spell save DC - already calculated)
+- **Ring:** Ring of Spell Storing (5 levels worth of spells)
+- **Bracelet:** Bracelet of Crystal Attunement (advantage on checks related to crystals)
+- **Other:** Jeweler's tools, spell books (multiple, different specialties), crystal collection, research notes
+
+#### Personality
+**Traits:**
+- Curious and scholarly, always asking questions
+- Kind and empathetic, unlike her father's coldness
+- Meticulous about research but excited by discoveries
+- Protective of knowledge but believes it should help people
+
+**Ideals:**
+- **Understanding:** "Magic is beautiful because we can understand it."
+- **Protection:** "Power exists to shield those who can't shield themselves."
+- **Wonder:** "Every crystal took millions of years to form. That's worth respecting."
+
+**Bonds:**
+- Her father Zircon (loves him, seeks his approval)
+- House Crystalborn's legacy and reputation
+- The pursuit of crystal magic knowledge
+- The people she can help with her magic
+
+**Flaws:**
+- Naive about her father's darker secrets
+- Too trusting - believes people are fundamentally good
+- Obsessive about research - loses track of time and needs
+- Fear of disappointing her father
+
+#### Background & History
+Sapphira remembers a loving childhood learning gem-cutting from her father. He was demanding but patient, teaching her precision and craft. She showed magical aptitude early - but it was protective magic, not transmutation like his. He adapted her training, teaching abjuration alongside craft.
+
+What she doesn't know: She was adopted at age 2 after her birth parents died in an accident. She has no memory of them. Zircon raised her as his own, never telling her the truth.
+
+At 15, she began formal magical training. At 18, she mastered techniques that took others decades. At 22, she discovered her sorcerous bloodline - crystal dragon ancestry (extremely rare). Her father was surprised but supportive, helping her integrate both wizard and sorcerer magic.
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+
+Now at 25, she's a master of crystal magic and abjuration. She's created new defensive spells using crystal matrices. She's pioneered techniques combining learned and innate magic. She's on the verge of breakthroughs that could revolutionize magical defense.
+
+But she's been noticing inconsistencies. Her father works in secret. Records are missing. Questions get deflected. She's starting to suspect he's hiding something - she just doesn't know what.
+
+Recently, she's had dreams of flying over crystal landscapes, speaking in voices that aren't hers, and seeing reflections in crystals that aren't her face. Her dragon bloodline is awakening more fully. She's becoming something her father can't explain.
+
+#### Connections
+- **Father:** Patriarch Zircon Crystalborn (loves him, starting to question him)
+- **Mentor:** Enchanter Prismara (teaches her crystal manipulation, knows about anomalous crystals)
+- **Friend:** Council Speaker Aquila Clearwater (Crystalbrook, bonded over scholarship)
+- **Admirer:** A young wizard who studies with her (she's oblivious to romantic interest)
+- **Unknown:** Her birth parents (died 23 years ago, she has no memory)
+- **Drawn To:** Ancient crystals (her bloodline recognizes them as important)
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Adoption Truth:** She's not Zircon's biological daughter. She was adopted at age 2. If she learns this, it will shatter her sense of identity. But it might also explain why her magic is so different from his - different bloodline.
+
+2. **The Dragon Dreams:** Her dragon bloodline is manifesting more strongly. She's having visions of ancient crystal dragons, speaking their language in dreams, feeling urges to hoard beautiful crystals. She's becoming partly draconic and doesn't know if it's controllable.
+
+3. **The Worldrend Resonance:** Sapphira instinctively recognizes the pre-Worldrend crystals. They call to her bloodline. She's drawn to them compulsively. If she touches one, something will awaken - possibly her dragon ancestor's consciousness, possibly something worse.
+
+4. **The Father's Secrets:** She's discovered encrypted notes in her father's laboratory. She can't decrypt them yet, but she suspects they contain his darkest secrets. She's torn between loyalty and need to know truth.
+
+
+5. **The Alternative Magic:** Through combining wizard and sorcerer magic, Sapphira has accidentally discovered something new - crystal magic that doesn't follow normal rules. She can trap spells in crystals, create crystalline constructs, even extend her Arcane Ward to an entire building. She hasn't told anyone, scared of the implications.
+
+}}
+
+ ::
+
+{{descriptive
+
+6. **The Romantic Feelings:** She's developed feelings for someone - possibly a party member, possibly the admiring student, possibly someone else. But she's terrified of relationships. Her magic is unstable when emotional. She fears hurting someone she cares about.
+
+}}
+
+#### Plot Hooks
+1. **The Heritage Revelation:** Sapphira discovers she's adopted, possibly finding birth parents' belongings or hearing from someone who knew them. She must reconcile her identity while party helps her investigate her true origins.
+
+2. **The Dragon Awakening:** Her bloodline fully manifests - physical transformations, dragon personality asserting itself, compulsion to claim territory. Party must help her control it or accept transformation into something partially draconic.
+
+3. **The Father's Crimes:** Sapphira discovers Zircon's secrets (the dao, the failed experiment, the Worldrend crystals). She asks party to help investigate. They must decide - expose him, help him hide it, or help fix his mistakes?
+
+4. **The Crystal Discovery:** She finds a pre-Worldrend crystal and touches it before anyone can stop her. Something awakens inside the crystal - ancient knowledge, consciousness, or power. Party must help her control or expel it.
+
+5. **The New Magic:** Her experimental crystal magic attracts attention - from rival houses, magical organizations, or darker forces. Party must protect her while she completes research - or convince her to stop before something goes wrong.
+
+6. **The Succession Crisis:** If Zircon's secrets are exposed or he dies, Sapphira inherits House Crystalborn. But she's not ready, doesn't want leadership, and has her own secrets. Party helps her navigate succession while kingdom politics threaten to tear apart everything.
+
+#### Roleplaying Notes
+- **Voice:** Soft, thoughtful, gets excited when discussing magic
+- **Mannerisms:** Touches crystals in her hair when nervous, eyes sparkle literally when happy, creates light unconsciously when emotional
+- **Catchphrase:** "Let me think about this crystallographically."
+- **When stressed:** Arcane Ward becomes visible (shimmer around her), speaks faster
+- **In combat:** Stays back, protects allies, creates defensive fields, reluctant to harm
+  
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 {{monster,frame,wide
 ## Gem-Mage Sapphira Crystalborn
 *Medium humanoid (human), neutral good*
@@ -10087,7 +10217,6 @@ ___
 **Armor Class** :: 19 (Mage Armor, Dex, Arcane Ward, Draconic Resilience)
 **Hit Points** :: 91 (14d6 + 28)
 **Speed** :: 30 ft.
-<div class="col-img">![Gem-Mage Sapphira Crystalborn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-gem-mage-sapphira-crystalborn.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -10135,113 +10264,6 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Every crystal tells a story. I speak their language."*
 }}
 
-#### Basic Information
-- **Race:** Human (doesn't know she's adopted)
-- **Age:** 25
-- **Location:** Crystalbrook (Crystal Palace, studying under her father)
-- **Role:** Heir to House Crystalborn, Crystal Magic Specialist
-- **Alignment:** Neutral Good
-- **Class:** Wizard 11 (School of Abjuration) / Sorcerer 3 (Draconic Bloodline - Crystal Dragon, rare)
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-#### Physical Description
-Striking and elegant (5'8", 135 lbs), with unusual features she attributes to Crystalborn bloodline. Silver-white hair (natural, unusual for her age), pale blue eyes that sparkle like sapphires. Skin is flawless - literally, like polished stone. Delicate features, graceful movements. Wears robes decorated with crystal patterns, always has crystals woven into hair. Radiates subtle luminescence in darkness (draconic heritage manifesting).
-
-#### Equipment
-- **Robes:** Elegant robes (AC from Draconic Resilience, not armor)
-- **Staff:** Crystal Staff of Defense (+1 to AC, stores 10 spell levels)
-- **Dagger:** Dagger +1 (ceremonial, rarely used in combat)
-- **Amulet:** Amulet of the Devout (Crystal variant, +1 spell save DC - already calculated)
-- **Ring:** Ring of Spell Storing (5 levels worth of spells)
-- **Bracelet:** Bracelet of Crystal Attunement (advantage on checks related to crystals)
-- **Other:** Jeweler's tools, spell books (multiple, different specialties), crystal collection, research notes
-
-#### Personality
-**Traits:**
-- Curious and scholarly, always asking questions
-- Kind and empathetic, unlike her father's coldness
-- Meticulous about research but excited by discoveries
-- Protective of knowledge but believes it should help people
-
-**Ideals:**
-- **Understanding:** "Magic is beautiful because we can understand it."
-- **Protection:** "Power exists to shield those who can't shield themselves."
-- **Wonder:** "Every crystal took millions of years to form. That's worth respecting."
-
-**Bonds:**
-- Her father Zircon (loves him, seeks his approval)
-- House Crystalborn's legacy and reputation
-- The pursuit of crystal magic knowledge
-- The people she can help with her magic
-
-**Flaws:**
-- Naive about her father's darker secrets
-- Too trusting - believes people are fundamentally good
-- Obsessive about research - loses track of time and needs
-- Fear of disappointing her father
-
-#### Background & History
-Sapphira remembers a loving childhood learning gem-cutting from her father. He was demanding but patient, teaching her precision and craft. She showed magical aptitude early - but it was protective magic, not transmutation like his. He adapted her training, teaching abjuration alongside craft.
-
-What she doesn't know: She was adopted at age 2 after her birth parents died in an accident. She has no memory of them. Zircon raised her as his own, never telling her the truth.
-
-At 15, she began formal magical training. At 18, she mastered techniques that took others decades. At 22, she discovered her sorcerous bloodline - crystal dragon ancestry (extremely rare). Her father was surprised but supportive, helping her integrate both wizard and sorcerer magic.
-
-Now at 25, she's a master of crystal magic and abjuration. She's created new defensive spells using crystal matrices. She's pioneered techniques combining learned and innate magic. She's on the verge of breakthroughs that could revolutionize magical defense.
-
-But she's been noticing inconsistencies. Her father works in secret. Records are missing. Questions get deflected. She's starting to suspect he's hiding something - she just doesn't know what.
-
-Recently, she's had dreams of flying over crystal landscapes, speaking in voices that aren't hers, and seeing reflections in crystals that aren't her face. Her dragon bloodline is awakening more fully. She's becoming something her father can't explain.
-
-#### Connections
-- **Father:** Patriarch Zircon Crystalborn (loves him, starting to question him)
-- **Mentor:** Enchanter Prismara (teaches her crystal manipulation, knows about anomalous crystals)
-- **Friend:** Council Speaker Aquila Clearwater (Crystalbrook, bonded over scholarship)
-- **Admirer:** A young wizard who studies with her (she's oblivious to romantic interest)
-- **Unknown:** Her birth parents (died 23 years ago, she has no memory)
-- **Drawn To:** Ancient crystals (her bloodline recognizes them as important)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Adoption Truth:** She's not Zircon's biological daughter. She was adopted at age 2. If she learns this, it will shatter her sense of identity. But it might also explain why her magic is so different from his - different bloodline.
-
-2. **The Dragon Dreams:** Her dragon bloodline is manifesting more strongly. She's having visions of ancient crystal dragons, speaking their language in dreams, feeling urges to hoard beautiful crystals. She's becoming partly draconic and doesn't know if it's controllable.
-
-3. **The Worldrend Resonance:** Sapphira instinctively recognizes the pre-Worldrend crystals. They call to her bloodline. She's drawn to them compulsively. If she touches one, something will awaken - possibly her dragon ancestor's consciousness, possibly something worse.
-
-4. **The Father's Secrets:** She's discovered encrypted notes in her father's laboratory. She can't decrypt them yet, but she suspects they contain his darkest secrets. She's torn between loyalty and need to know truth.
-
-5. **The Alternative Magic:** Through combining wizard and sorcerer magic, Sapphira has accidentally discovered something new - crystal magic that doesn't follow normal rules. She can trap spells in crystals, create crystalline constructs, even extend her Arcane Ward to an entire building. She hasn't told anyone, scared of the implications.
-
-6. **The Romantic Feelings:** She's developed feelings for someone - possibly a party member, possibly the admiring student, possibly someone else. But she's terrified of relationships. Her magic is unstable when emotional. She fears hurting someone she cares about.
-}}
-
-#### Plot Hooks
-1. **The Heritage Revelation:** Sapphira discovers she's adopted, possibly finding birth parents' belongings or hearing from someone who knew them. She must reconcile her identity while party helps her investigate her true origins.
-
-2. **The Dragon Awakening:** Her bloodline fully manifests - physical transformations, dragon personality asserting itself, compulsion to claim territory. Party must help her control it or accept transformation into something partially draconic.
-
-3. **The Father's Crimes:** Sapphira discovers Zircon's secrets (the dao, the failed experiment, the Worldrend crystals). She asks party to help investigate. They must decide - expose him, help him hide it, or help fix his mistakes?
-
-4. **The Crystal Discovery:** She finds a pre-Worldrend crystal and touches it before anyone can stop her. Something awakens inside the crystal - ancient knowledge, consciousness, or power. Party must help her control or expel it.
-
-5. **The New Magic:** Her experimental crystal magic attracts attention - from rival houses, magical organizations, or darker forces. Party must protect her while she completes research - or convince her to stop before something goes wrong.
-
-6. **The Succession Crisis:** If Zircon's secrets are exposed or he dies, Sapphira inherits House Crystalborn. But she's not ready, doesn't want leadership, and has her own secrets. Party helps her navigate succession while kingdom politics threaten to tear apart everything.
-
-#### Roleplaying Notes
-- **Voice:** Soft, thoughtful, gets excited when discussing magic
-- **Mannerisms:** Touches crystals in her hair when nervous, eyes sparkle literally when happy, creates light unconsciously when emotional
-- **Catchphrase:** "Let me think about this crystallographically."
-- **When stressed:** Arcane Ward becomes visible (shimmer around her), speaks faster
-- **In combat:** Stays back, protects allies, creates defensive fields, reluctant to harm
-
 #### Notes for DMs
 - Sapphira is designed as innocent prodigy caught in complex situation
 - She's the "talented student discovering dark family secrets" archetype
@@ -10259,47 +10281,12 @@ Recently, she's had dreams of flying over crystal landscapes, speaking in voices
 
 \page
 
-{{monster,frame,wide
 ## Captain Brenna Frostbeard
-*Medium humanoid (human), neutral good*
-___
-**Armor Class** :: 15 (studded leather, Dex)
-**Hit Points** :: 85 (10d10 + 30)
-**Speed** :: 30 ft., swim 30 ft.
 <div class="col-img">![Captain Brenna Frostbeard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-brenna-frostbeard.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 16 (+3) | 14 (+2) | 16 (+3) | 12 (+1) | 15 (+2) | 13 (+1) |
-___
-**Saving Throws** :: Strength +6, Constitution +6, Wisdom +5
-**Skills** :: Athletics +6, Insight +5, Nature +4, Perception +5, Survival +8 (expertise)
-**Damage Resistances** :: Cold (from years in the north)
-**Senses** :: Passive Perception 15
-**Languages** :: Common, Northern dialect
-**Challenge** :: 7 (2,900 XP)
-___
-***Ice Walker.*** :: Ignores difficult terrain caused by ice or snow. Has advantage on saves against slipping or falling on ice.
-***Master Navigator (Ice).*** :: Has advantage on Survival checks to navigate frozen waters. Cannot become lost in arctic conditions.
-***Cold Resistance.*** :: Resistant to cold damage. Can survive in extreme cold without magical aid for days.
-***Fleet Commander.*** :: Can use bonus action to direct allies. One ally within 60 ft. gains advantage on their next attack or skill check.
-***Ice Sense.*** :: Can detect thin ice, pressure cracks, and dangerous conditions within 100 ft. automatically.
-### Actions
-***Multiattack.*** :: Makes two attacks with Heirloom Harpoon or one harpoon attack and one dagger attack.
-***Heirloom Harpoon.*** :: Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. ***Hit.*** 1d10+4 piercing damage.::
-***Special.*** :: If thrown, attached to 60 ft. rope. Can use bonus action to pull target 10 ft. closer (DC 14 Strength save to resist).
-***Ice Knife.*** :: Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft. ***Hit.*** 1d4+3 piercing plus 1d4 cold damage.::
-***Net.*** :: Ranged Weapon Attack: +5 to hit, range 5/15 ft. ***Hit.*** Target is restrained (DC 13 Strength check to escape).::
-***Commanding Shout (Recharge 5-6).*** :: All allies within 30 ft. who can hear her gain +2 to attack rolls and advantage on saves against fear for 1 minute.
-### Reactions
-***Hook and Pull.*** :: When she hits with harpoon, can use reaction to pull target 10 ft. closer (DC 14 Strength save).
-***Defensive Stance.*** :: When an ally within 5 ft. is attacked, impose disadvantage on the attack roll.
-*"The ice provides for those who respect it. Break that rule, you break through the ice."*
-}}
 
 #### Physical Description
 Weathered and tough (5'8", 160 lbs), built like someone who hauls nets and navigates treacherous ice daily. White-blonde hair in tight practical braids, showing gray at temples. Ice-blue eyes that constantly scan for danger. Face marked by frostbite scars and weather lines. Wears heavy seal-skin parka even indoors. Strong, calloused hands. Moves with sure-footed grace even on ice. Smells of fish, salt, and cold air.
-\column
+
 #### Equipment
 - **Armor:** Studded Leather (reinforced, cold-weather)
 - **Primary Weapon:** Heirloom Harpoon (great-grandfather's, masterwork)
@@ -10308,9 +10295,8 @@ Weathered and tough (5'8", 160 lbs), built like someone who hauls nets and navig
 - **Cloak:** Seal-skin Parka (grants resistance to cold, *endure elements* enchantment)
 - **Boots:** Ice Cleats (advantage on ice terrain)
 - **Other:** Navigation tools, signal flags, emergency supplies
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+
+\column
 
 #### Personality
 Traits
@@ -10345,15 +10331,54 @@ Brenna was born in a snowstorm on the coldest night in a century, an omen, the v
 She joined the northern garrison at twenty and quickly proved herself in conflicts with frost giants and ice trolls. Her fearlessness in cold-weather combat earned her command of the Winter Guard, the elite unit that patrols the frozen north during the months when normal soldiers cannot operate.
 
 Now forty, she's a legend among northern troops. Part commander, part force of nature. Her tactical brilliance in winter conditions is matched only by her struggle to connect with people in peacetime. She's spent so long in the cold that warmth, emotional and physical, makes her uncomfortable.
-\column
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{monster,frame
+## Captain Brenna Frostbeard
+*Medium humanoid (human), neutral good*
+___
+**Armor Class** :: 15 (studded leather, Dex)
+**Hit Points** :: 85 (10d10 + 30)
+**Speed** :: 30 ft., swim 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 16 (+3) | 14 (+2) | 16 (+3) | 12 (+1) | 15 (+2) | 13 (+1) |
+___
+**Saving Throws** :: Strength +6, Constitution +6, Wisdom +5
+**Skills** :: Athletics +6, Insight +5, Nature +4, Perception +5, Survival +8 (expertise)
+**Damage Resistances** :: Cold (from years in the north)
+**Senses** :: Passive Perception 15
+**Languages** :: Common, Northern dialect
+**Challenge** :: 7 (2,900 XP)
+___
+***Ice Walker.*** :: Ignores difficult terrain caused by ice or snow. Has advantage on saves against slipping or falling on ice.
+***Master Navigator (Ice).*** :: Has advantage on Survival checks to navigate frozen waters. Cannot become lost in arctic conditions.
+***Cold Resistance.*** :: Resistant to cold damage. Can survive in extreme cold without magical aid for days.
+***Fleet Commander.*** :: Can use bonus action to direct allies. One ally within 60 ft. gains advantage on their next attack or skill check.
+***Ice Sense.*** :: Can detect thin ice, pressure cracks, and dangerous conditions within 100 ft. automatically.
+### Actions
+***Multiattack.*** :: Makes two attacks with Heirloom Harpoon or one harpoon attack and one dagger attack.
+***Heirloom Harpoon.*** :: Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. ***Hit.*** 1d10+4 piercing damage.::
+***Special.*** :: If thrown, attached to 60 ft. rope. Can use bonus action to pull target 10 ft. closer (DC 14 Strength save to resist).
+***Ice Knife.*** :: Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft. ***Hit.*** 1d4+3 piercing plus 1d4 cold damage.::
+***Net.*** :: Ranged Weapon Attack: +5 to hit, range 5/15 ft. ***Hit.*** Target is restrained (DC 13 Strength check to escape).::
+***Commanding Shout (Recharge 5-6).*** :: All allies within 30 ft. who can hear her gain +2 to attack rolls and advantage on saves against fear for 1 minute.
+### Reactions
+***Hook and Pull.*** :: When she hits with harpoon, can use reaction to pull target 10 ft. closer (DC 14 Strength save).
+***Defensive Stance.*** :: When an ally within 5 ft. is attacked, impose disadvantage on the attack roll.
+*"The ice provides for those who respect it. Break that rule, you break through the ice."*
+}}
+
 #### Connections
 - **Command:** Eighty Winter Guard soldiers
 - **Superior:** Commander Kael Stormwatcher (respects but disagrees with)
 - **Ally:** The Frost Seer Eirlys (provides strategic intelligence)
 - **Rival:** Warden Commander Thalia Moonbow (mutual professional respect)
 - **Enemy:** Frost Giant Jarl Grimtusk (personal vendetta)
-
-
 
 {{descriptive
 #### Secrets (DM Only)
@@ -10370,9 +10395,6 @@ Now forty, she's a legend among northern troops. Part commander, part force of n
 3. **The Winter Campaign:** A threat requires extended operations in deep winter. Only the Winter Guard can reach it.
 4. **The Evidence Gathering:** Suspects Stormwatcher's secrets. Asks the party to investigate.
 5. **The Human Connection:** Tries to form an actual friendship with party members. Awkwardly.
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Roleplaying Notes
 - Touches harpoon for luck
@@ -10394,6 +10416,10 @@ Now forty, she's a legend among northern troops. Part commander, part force of n
 3. **The Lost Brother:** Believes her brother's ghost guides her ship
 4. **Hidden Cache:** Maintains secret food stores, feeds starving families quietly
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 **Plot Hooks:**
 - Party needs guide across treacherous ice field
 - Fleet discovers frozen body from Age of Strife
@@ -10407,20 +10433,18 @@ Now forty, she's a legend among northern troops. Part commander, part force of n
 - Owes debt to Merchant-Prince Kael Icewind (resents it)
 - Her first mate is secretly part of Syndicate
 
----
+## The Frost Seer (Eirlys Snowsight)
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+<div class="col-img">![The Frost Seer (Eirlys Snowsight)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-frost-seer.jpg){width:325px,mix-blend-mode:multiply}</div>
 
-{{monster,frame,wide
+
+{{monster,frame
 ## The Frost Seer (Eirlys Snowsight)
 *Medium humanoid (human), neutral*
 ___
 **Armor Class** :: 13 (16 with mage armor)
 **Hit Points** :: 78 (12d8 + 24)
 **Speed** :: 25 ft. (reduced by age)
-<div class="col-img">![The Frost Seer (Eirlys Snowsight)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-frost-seer.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -10457,16 +10481,18 @@ ___
 *"The auroras speak to those who listen. Tonight, they scream warnings."*
 }}
 
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+
 #### Background & History
 Eirlys was born completely blind, but where her eyes should see darkness, she perceives the patterns of cold. Heat signatures, frozen water, the breath of living things. The northern shamans recognized her gift and trained her as a seer, teaching her to read the future in snowfall patterns and ice crystal formations.
 
 She became the Frost Seer at thirty, the youngest in seven generations. Her predictions have saved countless lives, from warning of avalanches to foreseeing giant raids. The northern garrison considers her indispensable; commanders plan major operations only after consulting her.
 
 But her gift shows her more than weather and raids. She sees the cold of death approaching individuals, the frost that will one day cover the world, and the ice-bound thing sleeping beneath the northern glaciers. Some visions she shares; others she keeps secret, burdened by knowledge too terrible to speak.
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Connections
 - **Military:** Advisory role to northern command
@@ -10548,12 +10574,13 @@ Ancient and weathered (5'5", 110 lbs), appearing far older than her 68 years. Ha
 - Lives in isolated lighthouse at Frostholm's edge
 - Reads prophecies in aurora borealis patterns
 - Eyes see into spirit world
-- Never wrong about storms
-- Speaks in riddles and three-part phrases
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+
+- Never wrong about storms
+- Speaks in riddles and three-part phrases
 
 **Secrets:**
 1. **Divine Connection:** Actually communicates with Frostmere through auroras
@@ -10587,18 +10614,63 @@ Ancient and weathered (5'5", 110 lbs), appearing far older than her 68 years. Ha
 4. **The Mortality Quest:** Seeking a way to extend her life or at least slow the freezing.
 5. **The Prevention Plan:** Shares her theory about stopping the catastrophe. Needs allies to execute it.
 
+\column
+
+## Commander Torvald Stoneshield
+
+<div class="col-img">![Commander Torvald Stoneshield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-torvald-stoneshield.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Equipment
+- **Armor:** Mythril Plate +1 (runic engravings)
+- **Shield:** Dwarven Shield +1 (mountain motif)
+- **Weapon:** Mountain's Voice (Warhammer +3, ancestral, thunder damage)
+- **Prosthetic:** Runic Left Hand (magical, Shield spell, +2 AC)
+- **Cloak:** Cloak of Protection
+- **Ring:** Ring of Warmth (cold resistance)
+- **Horn:** Giant-Calling Horn (can summon frost giants)
+
+#### Background & History
+Torvald was born to a long line of soldiers, each serving in the mountain garrisons. His father commanded the eastern pass; his grandfather died defending it. The shield he carries has been in his family for eight generations, and he intends to pass it on with his family's honor intact.
+
+He took command of Stoneshield Keep at forty after distinguishing himself against orc raiders. For twenty years, he's maintained the most boring command in the Ironspines, which suits him perfectly. Boring means no deaths, no disasters, no families receiving terrible news. He's made boring into an art form.
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
+But the mountains are getting less boring. Patrols are finding tracks they can't identify, scouts are reporting lights in abandoned mines, and something killed a giant last month, something bigger than a giant. Torvald is preparing for war while hoping desperately it never comes.
+
+#### Connections
+- **Command:** Two hundred garrison soldiers
+- **Superior:** Lord Commander Thrain Ironoak (respects immensely)
+- **Ally:** Master Miner Grimnir Deepdelve (childhood friend)
+- **Wife:** Helena Stoneshield (handles logistics, keeps him sane)
+- **Concern:** Something in the deep mines
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Ancient Map:** Found an old map showing tunnels beneath his keep. Something is marked in the deepest level.
+2. **The Garrison Weakness:** His forces are spread too thin. One determined attack could overwhelm them.
+3. **The Family Shame:** His grandfather didn't die in battle—he abandoned his post. Torvald found the truth in old records.
+4. **The Enemy Approach:** Has evidence that whatever's in the mines is moving toward the surface.
+5. **The Retirement Dream:** Wants to retire and raise goats. Knows he never will while there's duty to serve.
+}}
+
+#### Plot Hooks
+1. **The Deep Exploration:** Needs volunteers to explore the tunnels shown on the map.
+2. **The Reinforcement Request:** Trying to get more troops. Needs evidence of the threat to convince superiors.
+3. **The Family Legacy:** The grandfather's shame could be used against him. Wants the truth contained.
+4. **The Early Warning:** Something will emerge from the mines. Needs help preparing defenses.
+5. **The Honest Commander:** Simply needs capable people for difficult work. Offers fair pay and honest dealing.
+
+{{monster,frame
 ## Commander Torvald Stoneshield
 *Medium humanoid (dwarf), lawful good*
 ___
 **Armor Class** :: 20 (mythril plate +1, shield +1, Defense)
 **Hit Points** :: 165 (14d10 + 84)
 **Speed** :: 25 ft.
-<div class="col-img">![Commander Torvald Stoneshield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-torvald-stoneshield.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -10632,62 +10704,39 @@ ___
 *"We stand between civilization and chaos. Giants respect strength. Show none, and we all fall."*
 }}
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+## Merchant-Prince Kael Icewind
+
+<div class="col-img">![Merchant-Prince Kael Icewind](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-kael-icewind.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 #### Equipment
-- **Armor:** Mythril Plate +1 (runic engravings)
-- **Shield:** Dwarven Shield +1 (mountain motif)
-- **Weapon:** Mountain's Voice (Warhammer +3, ancestral, thunder damage)
-- **Prosthetic:** Runic Left Hand (magical, Shield spell, +2 AC)
-- **Cloak:** Cloak of Protection
-- **Ring:** Ring of Warmth (cold resistance)
-- **Horn:** Giant-Calling Horn (can summon frost giants)
+- **Armor:** Studded Leather +1 (merchant's finery)
+- **Weapons:** Rapier +1, poisoned daggers (6)
+- **Ring:** Ring of Mind Shielding (hides true identity)
+- **Documents:** Forged merchant credentials
+- **Wealth:** 50,000 gp in assets
+
+**Secret:** MURDERED real Kael Icewind 30 years ago, stole identity, nobody knows!
+
 
 #### Background & History
-Torvald was born to a long line of soldiers, each serving in the mountain garrisons. His father commanded the eastern pass; his grandfather died defending it. The shield he carries has been in his family for eight generations, and he intends to pass it on with his family's honor intact.
+The Icewind Trading Company has controlled the northern ice-trade for three generations, and Kael has expanded it to dominance. Ice preserved with magic can be shipped anywhere in the world, and rich southern nobles pay fortunes for frozen luxuries. It's made the Icewinds one of the wealthiest families in Thaldros.
 
-He took command of Stoneshield Keep at forty after distinguishing himself against orc raiders. For twenty years, he's maintained the most boring command in the Ironspines, which suits him perfectly. Boring means no deaths, no disasters, no families receiving terrible news. He's made boring into an art form.
+Kael took over at twenty-five when his father died, and immediately modernized operations. New ice-harvesting techniques, improved magical preservation, expanded shipping routes. In fifteen years, he's tripled the company's value and opened markets in Aethoria.
 
-But the mountains are getting less boring. Patrols are finding tracks they can't identify, scouts are reporting lights in abandoned mines, and something killed a giant last month, something bigger than a giant. Torvald is preparing for war while hoping desperately it never comes.
+\column
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+But he's restless. Money is just a way of keeping score, and he's already winning. He's started investing in stranger ventures, archaeological expeditions, magical research, political causes. He wants to matter, to change the world, not just sell ice to nobles. He's just not sure how yet.
 
-#### Connections
-- **Command:** Two hundred garrison soldiers
-- **Superior:** Lord Commander Thrain Ironoak (respects immensely)
-- **Ally:** Master Miner Grimnir Deepdelve (childhood friend)
-- **Wife:** Helena Stoneshield (handles logistics, keeps him sane)
-- **Concern:** Something in the deep mines
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Ancient Map:** Found an old map showing tunnels beneath his keep. Something is marked in the deepest level.
-2. **The Garrison Weakness:** His forces are spread too thin. One determined attack could overwhelm them.
-3. **The Family Shame:** His grandfather didn't die in battle—he abandoned his post. Torvald found the truth in old records.
-4. **The Enemy Approach:** Has evidence that whatever's in the mines is moving toward the surface.
-5. **The Retirement Dream:** Wants to retire and raise goats. Knows he never will while there's duty to serve.
-}}
-
-#### Plot Hooks
-1. **The Deep Exploration:** Needs volunteers to explore the tunnels shown on the map.
-2. **The Reinforcement Request:** Trying to get more troops. Needs evidence of the threat to convince superiors.
-3. **The Family Legacy:** The grandfather's shame could be used against him. Wants the truth contained.
-4. **The Early Warning:** Something will emerge from the mines. Needs help preparing defenses.
-5. **The Honest Commander:** Simply needs capable people for difficult work. Offers fair pay and honest dealing.
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-
-\page
-
-{{monster,frame,wide
+{{monster,frame
 ## Merchant-Prince Kael Icewind
 *Medium humanoid (human), neutral evil*
 ___
 **Armor Class** :: 16 (studded leather +1, Dex)
 **Hit Points** :: 91 (14d8 + 28)
 **Speed** :: 30 ft.
-<div class="col-img">![Merchant-Prince Kael Icewind](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-merchant-prince-kael-icewind.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -10713,26 +10762,7 @@ ___
 *"Everyone needs something. I simply ensure supply meets demand - at fair market rates, naturally."*
 }}
 
-#### Equipment
-- **Armor:** Studded Leather +1 (merchant's finery)
-- **Weapons:** Rapier +1, poisoned daggers (6)
-- **Ring:** Ring of Mind Shielding (hides true identity)
-- **Documents:** Forged merchant credentials
-- **Wealth:** 50,000 gp in assets
 
-**Secret:** MURDERED real Kael Icewind 30 years ago, stole identity, nobody knows!
-
----
-
-#### Background & History
-The Icewind Trading Company has controlled the northern ice-trade for three generations, and Kael has expanded it to dominance. Ice preserved with magic can be shipped anywhere in the world, and rich southern nobles pay fortunes for frozen luxuries. It's made the Icewinds one of the wealthiest families in Thaldros.
-
-Kael took over at twenty-five when his father died, and immediately modernized operations. New ice-harvesting techniques, improved magical preservation, expanded shipping routes. In fifteen years, he's tripled the company's value and opened markets in Aethoria.
-
-But he's restless. Money is just a way of keeping score, and he's already winning. He's started investing in stranger ventures, archaeological expeditions, magical research, political causes. He wants to matter, to change the world, not just sell ice to nobles. He's just not sure how yet.
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Connections
 - **Company:** Icewind Trading Company (500 employees)
@@ -10741,6 +10771,9 @@ But he's restless. Money is just a way of keeping score, and he's already winnin
 - **Client:** Nobility across both continents
 - **Obsession:** Pre-Worldrend history and magic
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -10758,9 +10791,25 @@ But he's restless. Money is just a way of keeping score, and he's already winnin
 4. **The Artifact Study:** The Worldrend artifact is doing something unexpected. Needs experts to examine it.
 5. **The Friend Request:** Looking for genuine companions, not sycophants. Tests the party's character.
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+## Master Miner Grimnir Deepdelve
+
+#### Equipment
+- **Armor:** Chain Mail (work-worn)
+- **Primary:** Mining Pick +1 (family heirloom)
+- **Secondary:** Warhammer
+- **Tools:** Complete mining kit, explosives
+- **Lamp:** Continual Flame lantern
+
+#### Background & History
+Grimnir was born a thousand feet underground and has spent most of his 180 years even deeper. The Deepdelve clan has mined the Ironspines since before human history, and Grimnir knows tunnels his great-grandfather discovered that still haven't been fully explored.
+
+He became Master Miner (the dwarf responsible for all mining operations in the central Ironspines) after the previous master died in a cave-in that shouldn't have happened. Grimnir discovered sabotage, tracked down those responsible, and dealt with them personally. He's been paranoid about safety ever since.
+
+His miners respect him because he still works alongside them, despite his position. He says he can't trust any tunnel he hasn't walked himself. Truthfully, he can't stand paperwork and would rather swing a pickaxe than attend meetings. His subordinates handle administration while he explores.
+
+<div class="col-img">![Master Miner Grimnir Deepdelve](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-miner-grimnir-deepdelve.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+
 {{monster,frame,wide
 ## Master Miner Grimnir Deepdelve
 *Medium humanoid (dwarf), neutral good*
@@ -10768,7 +10817,6 @@ ___
 **Armor Class** :: 16 (chain mail)
 **Hit Points** :: 75 (10d8 + 30)
 **Speed** :: 25 ft.
-<div class="col-img">![Master Miner Grimnir Deepdelve](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-miner-grimnir-deepdelve.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -10793,19 +10841,10 @@ ___
 *"Fifty years I've mined these mountains. Never seen anything like what's down there. Never WANTED to."*
 }}
 
-#### Equipment
-- **Armor:** Chain Mail (work-worn)
-- **Primary:** Mining Pick +1 (family heirloom)
-- **Secondary:** Warhammer
-- **Tools:** Complete mining kit, explosives
-- **Lamp:** Continual Flame lantern
 
-#### Background & History
-Grimnir was born a thousand feet underground and has spent most of his 180 years even deeper. The Deepdelve clan has mined the Ironspines since before human history, and Grimnir knows tunnels his great-grandfather discovered that still haven't been fully explored.
-
-He became Master Miner (the dwarf responsible for all mining operations in the central Ironspines) after the previous master died in a cave-in that shouldn't have happened. Grimnir discovered sabotage, tracked down those responsible, and dealt with them personally. He's been paranoid about safety ever since.
-
-His miners respect him because he still works alongside them, despite his position. He says he can't trust any tunnel he hasn't walked himself. Truthfully, he can't stand paperwork and would rather swing a pickaxe than attend meetings. His subordinates handle administration while he explores.
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 #### Connections
 - **Guild:** Fourteen hundred miners under his authority
@@ -10813,10 +10852,6 @@ His miners respect him because he still works alongside them, despite his positi
 - **Rival:** Forge-Master Rurik Ironanvil (compete for resources)
 - **Contact:** Something that lives in the deep (negotiated arrangement)
 - **Concern:** The Thing in the Dark
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -10834,10 +10869,81 @@ His miners respect him because he still works alongside them, despite his positi
 4. **The Thing's Approach:** Whatever's in the dark is getting closer. Needs help assessing the threat.
 5. **The Family Legacy:** Wants to find what his ancestors fled from. Needs expedition companions.
 
+## The Ice Witch of Iceridge (Ylva Frostborn)
+
+#### Equipment
+- **Robes:** Flowing ice-blue robes (never get dirty or wet)
+- **Staff:** Ice Crystal Staff (acts as arcane focus)
+- **Crown:** Circlet of ice crystals (permanent, part of her)
+- **No armor needed:** Natural AC from fey nature
+- **No shoes:** Walks barefoot in snow
+
+#### Personality
+- Detached, observes humanity from outside
+- Kind but alien in her kindness
+- Protects community because of ancient oath
+- Sees long-term (decades/centuries)
+- Lonely but accepts isolation
+
+#### Physical Description
+Ethereally beautiful (5'10", 140 lbs) with pale, almost translucent skin. Long white hair flows like snow. Eyes are pale blue, shifting like winter sky. Wears flowing robes of ice-blue that seem woven from frost itself. Barefoot always, leaving no tracks. Surrounded by faint mist. White wolves follow her. Smells of pine and fresh snow. Voice sounds like wind through ice.
+
+<div class="col-img">![The Ice Witch of Iceridge (Ylva Frostborn)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-ice-witch-ylva-frostborn.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+**Secrets:**
+1. **True Nature:** Winter eladrin bound by 200-year-old oath
+2. **The Oath:** Protects something imprisoned beneath town
+3. **Archfey Connection:** Serves an archfey of winter
+4. **Limited Time:** Oath ends in 50 years - then she's free
+
+**Plot Hooks:**
+- Ice chamber awakening threatens her oath
+- Needs party to help fulfill ancient duty
+- Archfey summons her, leaving town vulnerable
+- Miners transforming - she must intervene
+
+#### Background & History
+Ylva was born during a blizzard that killed her mother and left her father's fingers blackened with frostbite. The village should have left her to die, winter's children rarely survived, but her father refused. She lived, and the cold followed her.
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
+
+By ten, she could freeze water with a touch. By twenty, she could summon blizzards. The villagers drove her out, calling her cursed. She found refuge in the ice caves of Mount Frostpeak, where she's lived for sixty years, growing stronger and stranger.
+
+She's not evil. She protects the mountain communities from avalanches and warns of deadly storms. But she's no longer entirely human. The ice has seeped into her soul, making her cold, patient, and difficult to understand. Those who approach her properly receive help; those who don't face the fury of winter.
+
+#### Connections
+- **Friend:** The Frost Seer Eirlys (kindred spirits)
+- **Rival:** Witch Mother Helga (old disagreement over a stolen bargain)
+- **Protectorate:** Mountain villages that honor her
+- **Enemy:** The fire cult that tried to kill her
+- **Master:** The mountain itself (or something within it)
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Mountain's Voice:** Something speaks to her from within the mountain. She serves it without understanding what it is.
+
+}}
+
+::
+
+{{descriptive
+
+2. **The Fire Cult:** A cult of fire worshippers tried to kill her twenty years ago. She destroyed most of them but some survived.
+3. **The Transformation:** She's becoming less human each year. Eventually she'll be pure ice, unable to interact with mortals.
+4. **The Helga Bargain:** Stole a deal from Witch Mother Helga. The two have been enemies since.
+5. **The Frozen Love:** Once loved a human. Froze him to preserve him when he was dying. He's still in the ice, preserved.
+
+}}
+
+#### Plot Hooks
+1. **The Mountain's Will:** The voice wants something. She needs help interpreting its desires.
+2. **The Fire Cult Return:** The survivors are gathering strength. She needs allies against them.
+3. **The Transformation Cure:** Seeking a way to slow or stop her transformation. Willing to reward help.
+4. **The Helga Conflict:** The feud with Helga is escalating. Could use allies, or mediators.
+5. **The Frozen Love:** Has found a way to thaw her lover safely. Needs help with the ritual.
+
 {{monster,frame,wide
 ## The Ice Witch of Iceridge (Ylva Frostborn)
 *Medium fey, neutral*
@@ -10845,7 +10951,6 @@ ___
 **Armor Class** :: 15 (18 with mage armor)
 **Hit Points** :: 117 (18d8 + 36)
 **Speed** :: 30 ft.
-<div class="col-img">![The Ice Witch of Iceridge (Ylva Frostborn)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-ice-witch-ylva-frostborn.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -10893,83 +10998,37 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Winter is not cruel. It simply is. Humans mistake indifference for malice."*
 }}
 
-#### Physical Description
-Ethereally beautiful (5'10", 140 lbs) with pale, almost translucent skin. Long white hair flows like snow. Eyes are pale blue, shifting like winter sky. Wears flowing robes of ice-blue that seem woven from frost itself. Barefoot always, leaving no tracks. Surrounded by faint mist. White wolves follow her. Smells of pine and fresh snow. Voice sounds like wind through ice.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
+
+## Forge-Master Thordak Lavaheart
+
+<div class="col-img">![Forge-Master Thordak Lavaheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-thordak-lavaheart.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 #### Equipment
-- **Robes:** Flowing ice-blue robes (never get dirty or wet)
-- **Staff:** Ice Crystal Staff (acts as arcane focus)
-- **Crown:** Circlet of ice crystals (permanent, part of her)
-- **No armor needed:** Natural AC from fey nature
-- **No shoes:** Walks barefoot in snow
+- **Armor:** Chain Mail (heat-resistant)
+- **Primary:** Volcanic Warhammer +2 (legendary, family heirloom)
+- **Tools:** Masterwork smith's tools (+2 to all checks)
+- **Apron:** Red Dragon Hide Apron (fire immunity while worn)
+- **Goggles:** Volcanic Goggles (can see through smoke/steam)
 
-#### Personality
-- Detached, observes humanity from outside
-- Kind but alien in her kindness
-- Protects community because of ancient oath
-- Sees long-term (decades/centuries)
-- Lonely but accepts isolation
-
-**Secrets:**
-1. **True Nature:** Winter eladrin bound by 200-year-old oath
-2. **The Oath:** Protects something imprisoned beneath town
-3. **Archfey Connection:** Serves an archfey of winter
-4. **Limited Time:** Oath ends in 50 years - then she's free
-
-**Plot Hooks:**
-- Ice chamber awakening threatens her oath
-- Needs party to help fulfill ancient duty
-- Archfey summons her, leaving town vulnerable
-- Miners transforming - she must intervene
-
----
+**Secret:** Unknowingly forged cursed weapon for a cult agent!
 
 #### Background & History
-Ylva was born during a blizzard that killed her mother and left her father's fingers blackened with frostbite. The village should have left her to die, winter's children rarely survived, but her father refused. She lived, and the cold followed her.
+Thordak's forge sits at the edge of an active volcanic vent, where he works metal in heat that would kill ordinary smiths. He's a dragonborn of red dragon heritage, immune to fire and capable of producing work that requires temperatures no normal forge can reach.
 
-By ten, she could freeze water with a touch. By twenty, she could summon blizzards. The villagers drove her out, calling her cursed. She found refuge in the ice caves of Mount Frostpeak, where she's lived for sixty years, growing stronger and stranger.
+He learned his craft from a fire giant smith who owed his father a life debt. For twenty years, he trained in the volcanic depths, learning techniques unknown to surface races. When he emerged, he established a forge that produces the most heat-resistant equipment in the world.
 
-She's not evil. She protects the mountain communities from avalanches and warns of deadly storms. But she's no longer entirely human. The ice has seeped into her soul, making her cold, patient, and difficult to understand. Those who approach her properly receive help; those who don't face the fury of winter.
+The Ashwardens are his primary clients, but anyone willing to pay his prices and brave the journey receives his work. He's gruff, rude, and completely uninterested in social niceties. He cares only for craft and considers conversation a waste of smithing time.
 
-#### Connections
-- **Friend:** The Frost Seer Eirlys (kindred spirits)
-- **Rival:** Witch Mother Helga (old disagreement over a stolen bargain)
-- **Protectorate:** Mountain villages that honor her
-- **Enemy:** The fire cult that tried to kill her
-- **Master:** The mountain itself (or something within it)
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Mountain's Voice:** Something speaks to her from within the mountain. She serves it without understanding what it is.
-2. **The Fire Cult:** A cult of fire worshippers tried to kill her twenty years ago. She destroyed most of them but some survived.
-3. **The Transformation:** She's becoming less human each year. Eventually she'll be pure ice, unable to interact with mortals.
-4. **The Helga Bargain:** Stole a deal from Witch Mother Helga. The two have been enemies since.
-5. **The Frozen Love:** Once loved a human. Froze him to preserve him when he was dying. He's still in the ice, preserved.
-}}
-
-#### Plot Hooks
-1. **The Mountain's Will:** The voice wants something. She needs help interpreting its desires.
-2. **The Fire Cult Return:** The survivors are gathering strength. She needs allies against them.
-3. **The Transformation Cure:** Seeking a way to slow or stop her transformation. Willing to reward help.
-4. **The Helga Conflict:** The feud with Helga is escalating. Could use allies, or mediators.
-5. **The Frozen Love:** Has found a way to thaw her lover safely. Needs help with the ritual.
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-
-\page
-
-{{monster,frame,wide
+{{monster,frame
 ## Forge-Master Thordak Lavaheart
 *Medium humanoid (elemental-touched), lawful neutral*
 ___
 **Armor Class** :: 16 (chain mail)
 **Hit Points** :: 136 (16d8 + 64)
 **Speed** :: 25 ft.
-<div class="col-img">![Forge-Master Thordak Lavaheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-thordak-lavaheart.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -11000,26 +11059,12 @@ ___
 *"Iron bends. Steel breaks. But a proper dwarven weapon? That endures forever."*
 }}
 
-#### Equipment
-- **Armor:** Chain Mail (heat-resistant)
-- **Primary:** Volcanic Warhammer +2 (legendary, family heirloom)
-- **Tools:** Masterwork smith's tools (+2 to all checks)
-- **Apron:** Red Dragon Hide Apron (fire immunity while worn)
-- **Goggles:** Volcanic Goggles (can see through smoke/steam)
-
-**Secret:** Unknowingly forged cursed weapon for a cult agent!
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-#### Background & History
-Thordak's forge sits at the edge of an active volcanic vent, where he works metal in heat that would kill ordinary smiths. He's a dragonborn of red dragon heritage, immune to fire and capable of producing work that requires temperatures no normal forge can reach.
 
-He learned his craft from a fire giant smith who owed his father a life debt. For twenty years, he trained in the volcanic depths, learning techniques unknown to surface races. When he emerged, he established a forge that produces the most heat-resistant equipment in the world.
-
-The Ashwardens are his primary clients, but anyone willing to pay his prices and brave the journey receives his work. He's gruff, rude, and completely uninterested in social niceties. He cares only for craft and considers conversation a waste of smithing time.
 
 #### Connections
 - **Client:** Grand Warden Volcanus Rex (primary contract)
@@ -11044,19 +11089,45 @@ The Ashwardens are his primary clients, but anyone willing to pay his prices and
 4. **The Entity Trade:** The volcanic entity wants something. Needs intermediaries.
 5. **The Dragon Message:** Has received another message from his ancestor. Needs help responding.
 
+## Sage Veridian Runereader
+
+#### Equipment
+- **Robes:** Scholar's robes
+- **Staff:** Walking staff (mundane)
+- **Spectacles:** Reading glasses (advantage on deciphering text)
+- **Books:** 12 notebooks full of runic research
+- **Tools:** Runic transcription kit
+
+#### Background & History
+Veridian's name honors Archmage Veridian Starweaver, his parents were scribes who hoped naming their son after the famous University wizard would bring him luck. It worked; he's become one of the foremost scholars of runic magic in Thaldros, able to read inscriptions that have baffled others for centuries.
+
+\column
+
+His specialty is pre-Worldrend text, the ancient scripts that were used before the world was torn apart. He's spent sixty years collecting rubbings, copying inscriptions, and developing translation methods. His crowning achievement is a partial dictionary of the Elder Script, the language used by the civilization that caused the Worldrend.
+
+He works from a cluttered study in the Silverpine Magical Academy, surrounded by books, scrolls, and strange artifacts. He's absent-minded about everyday matters but razor-sharp about his field. Students simultaneously adore and fear him. He's brilliant but demands excellence.
+
+<div class="col-img">![Sage Veridian Runereader](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sage-elminster-runereader.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Connections
+- **Institution:** Silverpine Magical Academy (senior professor)
+- **Student:** Six doctoral candidates in ancient languages
+- **Collaborator:** Professor Elara Moonwhisper (combines astronomy with his linguistics)
+- **Correspondent:** Scholars across both continents
+- **Enemy:** Treasure hunters who destroy inscriptions while looting
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
+{{monster,frame
 ## Sage Veridian Runereader
 *Medium humanoid (human), neutral good*
 ___
 **Armor Class** :: 12 (15 with mage armor)
 **Hit Points** :: 71 (13d8 + 13)
 **Speed** :: 30 ft.
-<div class="col-img">![Sage Veridian Runereader](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sage-elminster-runereader.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -11088,30 +11159,7 @@ ___
 *"These runes predate the Worldrend. They're not decoration - they're warnings."*
 }}
 
-#### Equipment
-- **Robes:** Scholar's robes
-- **Staff:** Walking staff (mundane)
-- **Spectacles:** Reading glasses (advantage on deciphering text)
-- **Books:** 12 notebooks full of runic research
-- **Tools:** Runic transcription kit
-
-#### Background & History
-Veridian's name honors Archmage Veridian Starweaver, his parents were scribes who hoped naming their son after the famous University wizard would bring him luck. It worked; he's become one of the foremost scholars of runic magic in Thaldros, able to read inscriptions that have baffled others for centuries.
-
-His specialty is pre-Worldrend text, the ancient scripts that were used before the world was torn apart. He's spent sixty years collecting rubbings, copying inscriptions, and developing translation methods. His crowning achievement is a partial dictionary of the Elder Script, the language used by the civilization that caused the Worldrend.
-
-He works from a cluttered study in the Silverpine Magical Academy, surrounded by books, scrolls, and strange artifacts. He's absent-minded about everyday matters but razor-sharp about his field. Students simultaneously adore and fear him. He's brilliant but demands excellence.
-
-#### Connections
-- **Institution:** Silverpine Magical Academy (senior professor)
-- **Student:** Six doctoral candidates in ancient languages
-- **Collaborator:** Professor Elara Moonwhisper (combines astronomy with his linguistics)
-- **Correspondent:** Scholars across both continents
-- **Enemy:** Treasure hunters who destroy inscriptions while looting
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+\column
 
 {{descriptive
 #### Secrets (DM Only)
@@ -11131,16 +11179,36 @@ He works from a cluttered study in the Silverpine Magical Academy, surrounded by
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
-{{monster,frame,wide
+
+## Engineer Mira Steamvent
+
+<div class="col-img">![Engineer Mira Steamvent](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-engineer-mira-steamvent.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+Mira was born with a gift for understanding machines that borders on magical—she can hear when gears are misaligned, feel when pressure is building dangerously, sense the flow of steam and water through pipes. She's used this talent to become the Ashwardens' primary engineer, designing systems that contain volcanic forces.
+
+Her containment domes, pressure release valves, and early warning networks have saved tens of thousands of lives. She works constantly, driven by the memory of her hometown's destruction by volcanic eruption when she was twelve. She survived; three thousand others didn't.
+
+She splits her time between the Ashgate engineering works and field installations across volcanic regions. She's practical, blunt, and impatient with those who don't share her urgency. Every day without proper containment is a day someone might die, and she can't afford to waste time on politics or niceties.
+
+#### Connections
+- **Superior:** Warden Commander Ignis Ashborn (close working relationship)
+- **Supplier:** Forge-Master Thordak Lavaheart (provides specialized components)
+
+\column
+
+- **Team:** Twenty engineers and fifty technicians
+- **Rival:** Artificer Tobias Gearwise (different engineering philosophy)
+- **Ghost:** The three thousand dead (drives her forward)
+
+{{monster,frame
 ## Engineer Mira Steamvent
 *Small humanoid (rock gnome), neutral good*
 ___
 **Armor Class** :: 16 (reinforced work jacket, Dex)
 **Hit Points** :: 82 (15d6 + 30)
 **Speed** :: 25 ft.
-<div class="col-img">![Engineer Mira Steamvent](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-engineer-mira-steamvent.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -11176,21 +11244,9 @@ their saving throw.
 *"Lava doesn't negotiate. Neither do I. The systems work or people die."*
 }}
 
-#### Background & History
-Mira was born with a gift for understanding machines that borders on magical—she can hear when gears are misaligned, feel when pressure is building dangerously, sense the flow of steam and water through pipes. She's used this talent to become the Ashwardens' primary engineer, designing systems that contain volcanic forces.
-
-Her containment domes, pressure release valves, and early warning networks have saved tens of thousands of lives. She works constantly, driven by the memory of her hometown's destruction by volcanic eruption when she was twelve. She survived; three thousand others didn't.
-
-She splits her time between the Ashgate engineering works and field installations across volcanic regions. She's practical, blunt, and impatient with those who don't share her urgency. Every day without proper containment is a day someone might die, and she can't afford to waste time on politics or niceties.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-#### Connections
-- **Superior:** Warden Commander Ignis Ashborn (close working relationship)
-- **Supplier:** Forge-Master Thordak Lavaheart (provides specialized components)
-- **Team:** Twenty engineers and fifty technicians
-- **Rival:** Artificer Tobias Gearwise (different engineering philosophy)
-- **Ghost:** The three thousand dead (drives her forward)
 
 {{descriptive
 #### Secrets (DM Only)
@@ -11268,14 +11324,31 @@ She splits her time between the Ashgate engineering works and field installation
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
+## Quarry-Master Borin Stonecutter
+
+<div class="col-img">![Quarry-Master Borin Stonecutter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-quarry-master-borin-stonecutter.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Background & History
+The Stonecutter clan has managed the great stone quarries south of the Ironspines for eight generations. Borin inherited the operation at fifty when his mother retired, and has spent the last century turning a profitable business into an essential one.
+
+His stone builds the castles, bridges, and monuments of a dozen kingdoms. He employs three thousand workers across multiple quarries and has developed techniques that produce stone of unprecedented quality. His personal fortune rivals some noble houses, but he lives simply. Wealth is for reinvestment, not display.
+
+He's a patient negotiator, willing to wait years for the right deal. He's also utterly ruthless when crossed; anyone who cheats him discovers their stone shipments delayed indefinitely, their competitors suddenly well-supplied. He doesn't need to threaten, his control of the market speaks for itself.
+
+#### Connections
+- **Employees:** Three thousand quarry workers
+- **Ally:** Master Miner Grimnir Deepdelve (complementary businesses)
+- **Client:** Every major construction project in Thaldros
+- **Rival:** Lesser quarry operators he's slowly absorbing
+- **Contact:** Something ancient in the deepest quarry
+
+{{monster,frame
 ## Quarry-Master Borin Stonecutter
 *Medium humanoid (shield dwarf), lawful neutral*
 ___
 **Armor Class** :: 18 (half plate, shield)
 **Hit Points** :: 112 (15d8 + 45)
 **Speed** :: 25 ft.
-<div class="col-img">![Quarry-Master Borin Stonecutter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-quarry-master-borin-stonecutter.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -11312,20 +11385,6 @@ Must be wielding his hammer.
 Borin can use his reaction to become the target instead.
 *"Stone's been dead for millennia. If it's moving now, that's a problem."*
 }}
-
-#### Background & History
-The Stonecutter clan has managed the great stone quarries south of the Ironspines for eight generations. Borin inherited the operation at fifty when his mother retired, and has spent the last century turning a profitable business into an essential one.
-
-His stone builds the castles, bridges, and monuments of a dozen kingdoms. He employs three thousand workers across multiple quarries and has developed techniques that produce stone of unprecedented quality. His personal fortune rivals some noble houses, but he lives simply. Wealth is for reinvestment, not display.
-
-He's a patient negotiator, willing to wait years for the right deal. He's also utterly ruthless when crossed; anyone who cheats him discovers their stone shipments delayed indefinitely, their competitors suddenly well-supplied. He doesn't need to threaten, his control of the market speaks for itself.
-
-#### Connections
-- **Employees:** Three thousand quarry workers
-- **Ally:** Master Miner Grimnir Deepdelve (complementary businesses)
-- **Client:** Every major construction project in Thaldros
-- **Rival:** Lesser quarry operators he's slowly absorbing
-- **Contact:** Something ancient in the deepest quarry
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -11364,7 +11423,7 @@ He's a patient negotiator, willing to wait years for the right deal. He's also u
 - Dismissive of "magic nonsense" (despite evidence)
 - Stubborn about admitting he needs help
 - Deeply disturbed that stone is "waking up"
-
+\column
 **Secrets:**
 1. **Quarry Location:** Built on pre-Worldrend golem factory
 2. **Active Runes:** His quarrying disturbed ancient activation runes
@@ -11399,6 +11458,67 @@ He's a patient negotiator, willing to wait years for the right deal. He's also u
 {{footnote Part IV: NPCs}}
 \page
 
+## Elder Thalindra Oakheart
+
+<div class="col-img">![Elder Thalindra Oakheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-thalindra-oakheart.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Physical Description
+Ancient and ethereal (5'10", 130 lbs) with a presence that commands respect without words. Skin has a faint golden-brown hue like aged oak, with subtle patterns resembling wood grain visible in certain lights. Silver-white hair flows past her waist, often adorned with living vines, flowers, and autumn leaves that grow naturally from it. Eyes are deep forest green with golden flecks, seeming to hold the wisdom of centuries. Moves with slow, deliberate grace. Wears flowing robes of deep green embroidered with golden leaves. The Oakheart Staff is always at her side, pulsing with faint green light. Her hands are gnarled like ancient wood but gentle. Small roots occasionally sprout from her footsteps when she stands still too long.
+
+#### Equipment
+- **Staff:** Oakheart Staff (legendary, carved from Heart Oak, never broken, +2 quarterstaff, functions as Staff of the Woodlands)
+- **Armor:** Living Bark Armor (AC 16, made from shed bark of Heart Oak, regrows when damaged, grants resistance to poison)
+- **Robes:** Ancient Elvish ceremonial robes (deep green with gold leaf patterns)
+- **Crown:** Circlet of Autumn Leaves (continuously sheds and regrows golden leaves, grants advantage on Charisma checks with fey)
+- **Amulet:** Acorn of the First Tree (contains seed from pre-Worldrend era, grants *speak with plants* at will)
+- **Ring:** Ring of Regeneration (1 HP per 10 minutes)
+- **Belt:** Belt of Living Wood (contains emergency healing potions stored in wood-grain pockets)
+- **Pouch:** Component pouch with rare herbs and crystals
+- **Book:** Personal journal spanning 847 years (invaluable historical record)
+- **Potions:** 2 potions of supreme healing, 1 potion of vitality, 3 potions of greater healing
+- **Seeds:** Rare magical plant seeds (moonflower, starlight rose, dreamvine)
+
+#### Personality
+Traits
+- Speaks slowly, choosing each word with centuries of consideration
+- Often pauses mid-sentence to listen to the forest
+- Touches trees when passing, as if greeting old friends
+- Refers to events from centuries ago as if they were yesterday
+- Has a serene smile that carries profound sadness
+- Never raises her voice, yet commands absolute attention
+- Smells of oak leaves, morning dew, and ancient forest
+
+**Ideals:**
+- **Life:** "All living things are connected. To harm the forest is to harm ourselves."
+- **Memory:** "I am the keeper of memories that would otherwise be lost to time."
+- **Balance:** "The forest takes and gives in equal measure. So must we."
+- **Hope:** "I have seen empires fall and forests regrow. There is always hope."
+
+**Bonds:**
+- The Heart Oak (would die to protect it)
+- Her apprentice, Elder Silverbark (403 years old, still young in her eyes)
+- The people of Oakenheart (both human and elf)
+- Ancient oaths made during the Age of Strife
+- The memory of her beloved, lost in the Worldrend
+- The forest itself, which she considers her body's extension
+
+**Flaws:**
+- Impossibly patient to the point of inaction (centuries have taught her patience, sometimes too much)
+- Guilt over surviving the Worldrend when so many died
+- Secretly fears the Heart Oak's death means her death
+- Sometimes loses track of "modern" concerns (what happened 50 years ago is "recent" to her)
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+- Struggles to understand human urgency and short-term thinking
+- The Heart Oak's illness is draining her own life force (she hides this)
+- Knows she's dying with the tree but refuses to leave it
+
+#### Background & History
+Thalindra has led the village of Oakheart Grove for three centuries, watching generations of humans come and go while the elven core of the community remains. She's seen wars, plagues, and natural disasters; she's guided her people through all of them.
+
 {{monster,frame,wide
 ## Elder Thalindra Oakheart
 *Medium humanoid (elf), neutral good*
@@ -11406,7 +11526,6 @@ ___
 **Armor Class** :: 16 (barkskin armor, natural)
 **Hit Points** :: 142 (19d8 + 57)
 **Speed** :: 30 ft.
-<div class="col-img">![Elder Thalindra Oakheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-elder-thalindra-oakheart.jpg){width:100px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -11465,64 +11584,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-#### Physical Description
-Ancient and ethereal (5'10", 130 lbs) with a presence that commands respect without words. Skin has a faint golden-brown hue like aged oak, with subtle patterns resembling wood grain visible in certain lights. Silver-white hair flows past her waist, often adorned with living vines, flowers, and autumn leaves that grow naturally from it. Eyes are deep forest green with golden flecks, seeming to hold the wisdom of centuries. Moves with slow, deliberate grace. Wears flowing robes of deep green embroidered with golden leaves. The Oakheart Staff is always at her side, pulsing with faint green light. Her hands are gnarled like ancient wood but gentle. Small roots occasionally sprout from her footsteps when she stands still too long.
-
-#### Equipment
-- **Staff:** Oakheart Staff (legendary, carved from Heart Oak, never broken, +2 quarterstaff, functions as Staff of the Woodlands)
-- **Armor:** Living Bark Armor (AC 16, made from shed bark of Heart Oak, regrows when damaged, grants resistance to poison)
-- **Robes:** Ancient Elvish ceremonial robes (deep green with gold leaf patterns)
-- **Crown:** Circlet of Autumn Leaves (continuously sheds and regrows golden leaves, grants advantage on Charisma checks with fey)
-- **Amulet:** Acorn of the First Tree (contains seed from pre-Worldrend era, grants *speak with plants* at will)
-- **Ring:** Ring of Regeneration (1 HP per 10 minutes)
-- **Belt:** Belt of Living Wood (contains emergency healing potions stored in wood-grain pockets)
-- **Pouch:** Component pouch with rare herbs and crystals
-- **Book:** Personal journal spanning 847 years (invaluable historical record)
-- **Potions:** 2 potions of supreme healing, 1 potion of vitality, 3 potions of greater healing
-- **Seeds:** Rare magical plant seeds (moonflower, starlight rose, dreamvine)
-
-#### Personality
-Traits
-- Speaks slowly, choosing each word with centuries of consideration
-- Often pauses mid-sentence to listen to the forest
-- Touches trees when passing, as if greeting old friends
-- Refers to events from centuries ago as if they were yesterday
-- Has a serene smile that carries profound sadness
-- Never raises her voice, yet commands absolute attention
-- Smells of oak leaves, morning dew, and ancient forest
-
-**Ideals:**
-- **Life:** "All living things are connected. To harm the forest is to harm ourselves."
-- **Memory:** "I am the keeper of memories that would otherwise be lost to time."
-- **Balance:** "The forest takes and gives in equal measure. So must we."
-- **Hope:** "I have seen empires fall and forests regrow. There is always hope."
-
-**Bonds:**
-- The Heart Oak (would die to protect it)
-- Her apprentice, Elder Silverbark (403 years old, still young in her eyes)
-- The people of Oakenheart (both human and elf)
-- Ancient oaths made during the Age of Strife
-- The memory of her beloved, lost in the Worldrend
-- The forest itself, which she considers her body's extension
-
-**Flaws:**
-- Impossibly patient to the point of inaction (centuries have taught her patience, sometimes too much)
-- Guilt over surviving the Worldrend when so many died
-- Secretly fears the Heart Oak's death means her death
-- Sometimes loses track of "modern" concerns (what happened 50 years ago is "recent" to her)
-- Struggles to understand human urgency and short-term thinking
-- The Heart Oak's illness is draining her own life force (she hides this)
-- Knows she's dying with the tree but refuses to leave it
-
-#### Background & History
-Thalindra has led the village of Oakheart Grove for three centuries, watching generations of humans come and go while the elven core of the community remains. She's seen wars, plagues, and natural disasters; she's guided her people through all of them.
 
 She was a druid of considerable power in her youth, but chose to focus on community leadership rather than mystical pursuits. She still maintains a connection to the great oak at the village center, which was planted by her grandmother and will likely outlive her grandchildren.
 
 Her leadership style is gentle guidance rather than command. She rarely orders anything directly, instead asking questions that lead people to the right conclusions. Some find this maddening; others appreciate being treated as capable adults. She's been doing it so long she's forgotten any other approach.
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Connections
 - **Community:** Oakheart Grove (800 residents)
@@ -11547,6 +11612,8 @@ Her leadership style is gentle guidance rather than command. She rarely orders a
 4. **The Binding Investigation:** Wants to understand her bond to the village. Possibly break it.
 5. **The Succession Planning:** Looking for someone to lead after her. Might see potential in party members.
 
+\column
+
 #### Roleplaying Notes
 - Speaks in measured, poetic phrases
 - Often quotes ancient proverbs in Elvish
@@ -11565,53 +11632,14 @@ Her leadership style is gentle guidance rather than command. She rarely orders a
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
 ## Master Carpenter Aldric Woodwise
-*Medium humanoid (human), lawful good*
-___
-**Armor Class** :: 15 (leather armor + shield)
-**Hit Points** :: 68 (8d10 + 24)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Master Carpenter Aldric Woodwise](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-carpenter-aldric-woodwise.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 16 (+3) | 14 (+2) | 16 (+3) | 14 (+2) | 15 (+2) | 12 (+1) |
-___
-**Saving Throws** :: Strength +6, Constitution +6
-**Skills** :: Athletics +6, Insight +5, Nature +5, Perception +5, Survival +5, Carpenter's Tools +8 (expertise), Woodcarver's Tools +8 (expertise)
-**Senses** :: Passive Perception 15
-**Languages** :: Common, Elvish, Dwarvish (trade dialect)
-**Challenge** :: 5 (1,800 XP)
-___
-***Master Craftsman.*** :: Has advantage on all checks using carpenter's tools or woodcarver's tools. Can identify the quality, age, and origin of any wooden object by touch.
-***Wood Sense.*** :: Can detect the presence of wooden structures, hidden passages, or structural weaknesses in wooden buildings within 30 ft. Automatically notices concealed doors, trap doors, or architectural flaws.
-***Expert Builder.*** :: Given appropriate tools and materials, can construct a basic wooden structure (house, bridge, wall) in half the normal time with superior quality (+2 AC for fortifications, +50% HP for structures).
-***Sustainable Harvest.*** :: Knows exactly which trees can be safely harvested without damaging the forest. Has advantage on Nature checks related to forestry and tree health.
-***Architect's Eye.*** :: Can assess building structural integrity at a glance. Knows if a building is dangerous, how much weight it can support, and where weak points are.
-***Combat Carpenter.*** :: Years of chopping wood and construction have made him surprisingly effective in combat. His axe strikes are precise and devastating.
-### Actions
-***Multiattack.*** :: Makes two attacks with Heirloom Greataxe or Handaxe.
-***Heirloom Greataxe.*** :: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. ***Hit.*** 1d12+3 slashing damage (two-handed) or 1d10+3 (versatile).::
-***Special.*** :: This masterwork axe has been in his family for three generations. On critical hit, deals extra 2d12 damage.
-***Handaxe +1.*** :: Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft. ***Hit.*** 1d6+4 slashing damage.::
-***Hammer.*** :: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. ***Hit.*** 1d6+3 bludgeoning damage.::
-***Precise Strike (Recharge 5-6).*** :: Aldric makes a perfectly aimed strike with his axe, targeting a weak point. +5 to hit, and on hit deals 3d12+3 damage. If target is wearing wooden armor or is a plant creature, deals 4d12+3 instead.
-***Improvised Defense (3/Day).*** :: Uses carpentry knowledge to quickly construct basic cover. As an action, creates a wooden barrier (AC 15, 30 HP) that provides half cover for up to 4 creatures.
-### Reactions
-***Defensive Chop.*** :: When a creature enters his reach, he can make an opportunity attack even if they used Disengage. +6 to hit, 1d10+3 damage.
-***Structural Expertise.*** :: When an ally within 10 ft. is hit by an attack, Aldric can shout a warning about structural weaknesses. The ally gains +2 AC against that attack (potentially causing it to miss).
-*"Every tree has a purpose. My job is to help it find that purpose—whether a beam, a bow, or a legacy."*
-}}
 
 #### Physical Description
 Solidly built (5'11", 210 lbs) with the powerful frame of someone who works with timber daily. Calloused hands covered in tiny scars and splinters. Short brown hair showing gray, usually dusted with sawdust. Brown eyes that constantly assess structures and quality. Full beard kept neat but practical. Wears leather work clothes reinforced at stress points. Smells of fresh-cut wood, pine sap, and linseed oil. Moves with the careful confidence of someone used to dangerous work. Always has wood shavings in his hair and on his clothes.
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Equipment
 - **Armor:** Reinforced Leather (+1 leather armor, AC 12)
@@ -11660,6 +11688,10 @@ Traits
 #### Background & History
 Aldric's family has been woodworkers for ten generations, but he's the first to achieve true mastery. His joints are invisible, his carvings lifelike, his furniture sold to royalty across both continents. He's transformed the family workshop into a renowned atelier.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 He discovered his exceptional talent young: he could see how wood wanted to be shaped, could sense the grain and flow of lumber as clearly as others see color. By thirty, he was taking commissions from nobles. By fifty, he was turning them away, there's only so much he can produce, and he chooses projects that interest him.
 
 He's gentle and patient, more interested in teaching than fame. He takes one apprentice at a time, training them for seven years before pronouncing them ready. His former students are among the finest woodworkers in the world.
@@ -11679,7 +11711,46 @@ He's gentle and patient, more interested in teaching than fame. He takes one app
 3. **The Rejected Commission:** Once turned down a commission from someone important. They've been petty about it.
 4. **The Masterwork Hidden:** Has created his greatest piece but keeps it hidden. Not for sale at any price.
 5. **The Failing Eyes:** His sight is slowly deteriorating. Terrified of losing his gift.
+
+{{monster,frame,wide
+## Master Carpenter Aldric Woodwise
+*Medium humanoid (human), lawful good*
+___
+**Armor Class** :: 15 (leather armor + shield)
+**Hit Points** :: 68 (8d10 + 24)
+**Speed** :: 30 ft.
+
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 16 (+3) | 14 (+2) | 16 (+3) | 14 (+2) | 15 (+2) | 12 (+1) |
+___
+**Saving Throws** :: Strength +6, Constitution +6
+**Skills** :: Athletics +6, Insight +5, Nature +5, Perception +5, Survival +5, Carpenter's Tools +8 (expertise), Woodcarver's Tools +8 (expertise)
+**Senses** :: Passive Perception 15
+**Languages** :: Common, Elvish, Dwarvish (trade dialect)
+**Challenge** :: 5 (1,800 XP)
+___
+***Master Craftsman.*** :: Has advantage on all checks using carpenter's tools or woodcarver's tools. Can identify the quality, age, and origin of any wooden object by touch.
+***Wood Sense.*** :: Can detect the presence of wooden structures, hidden passages, or structural weaknesses in wooden buildings within 30 ft. Automatically notices concealed doors, trap doors, or architectural flaws.
+***Expert Builder.*** :: Given appropriate tools and materials, can construct a basic wooden structure (house, bridge, wall) in half the normal time with superior quality (+2 AC for fortifications, +50% HP for structures).
+***Sustainable Harvest.*** :: Knows exactly which trees can be safely harvested without damaging the forest. Has advantage on Nature checks related to forestry and tree health.
+***Architect's Eye.*** :: Can assess building structural integrity at a glance. Knows if a building is dangerous, how much weight it can support, and where weak points are.
+***Combat Carpenter.*** :: Years of chopping wood and construction have made him surprisingly effective in combat. His axe strikes are precise and devastating.
+### Actions
+***Multiattack.*** :: Makes two attacks with Heirloom Greataxe or Handaxe.
+***Heirloom Greataxe.*** :: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. ***Hit.*** 1d12+3 slashing damage (two-handed) or 1d10+3 (versatile).::
+***Special.*** :: This masterwork axe has been in his family for three generations. On critical hit, deals extra 2d12 damage.
+***Handaxe +1.*** :: Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft. ***Hit.*** 1d6+4 slashing damage.::
+***Hammer.*** :: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. ***Hit.*** 1d6+3 bludgeoning damage.::
+***Precise Strike (Recharge 5-6).*** :: Aldric makes a perfectly aimed strike with his axe, targeting a weak point. +5 to hit, and on hit deals 3d12+3 damage. If target is wearing wooden armor or is a plant creature, deals 4d12+3 instead.
+***Improvised Defense (3/Day).*** :: Uses carpentry knowledge to quickly construct basic cover. As an action, creates a wooden barrier (AC 15, 30 HP) that provides half cover for up to 4 creatures.
+### Reactions
+***Defensive Chop.*** :: When a creature enters his reach, he can make an opportunity attack even if they used Disengage. +6 to hit, 1d10+3 damage.
+***Structural Expertise.*** :: When an ally within 10 ft. is hit by an attack, Aldric can shout a warning about structural weaknesses. The ally gains +2 AC against that attack (potentially causing it to miss).
+*"Every tree has a purpose. My job is to help it find that purpose—whether a beam, a bow, or a legacy."*
 }}
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
@@ -11709,10 +11780,76 @@ He's gentle and patient, more interested in teaching than fame. He takes one app
 - Maintains strategic timber reserves (hidden location)
 - Personal friend of Elder Thalindra (she trusts his forest practices)
 
+## Miller Tobias Waterwheel
+
+#### Physical Description
+Average height (5'10", 180 lbs) but powerfully built from years of hauling grain sacks and working machinery. Flour dust permanently stains his clothes and hair white, making him look older. Practical brown work clothes always covered in flour. Strong hands with blacksmith-like grip strength. Brown eyes that constantly assess mechanical workings. Short practical hair usually white with flour. Clean-shaven face dusted with flour. Smells of fresh flour, water, and machine oil. Moves with efficiency of someone used to dangerous machinery.
+
+#### Equipment
+- **Armor:** Padded Leather Apron (AC 11, protects against flour dust, sparks)
+- **Primary Tool:** Heavy Wrench (2 ft. long, masterwork, doubles as weapon)
+- **Tools:** Tinker's tools, engineer's tools (both masterwork quality)
+- **Belt:** Tool belt with hammers, pliers, oil can, measuring tape
+- **Knife:** Utility knife (1d4 damage, for cutting rope/sacks)
+- **Lantern:** Hooded lantern (essential in mill work, oil flask)
+- **Other:** Chalk for marking, leather gloves, safety goggles (dwarven made)
+- **Emergency:** Length of rope, pulleys, spare gears
+
+#### Personality
+Traits
+- Constantly wipes flour off clothes (futile habit)
+- Explains things using mill and water metaphors
+- Listens to machine sounds to diagnose problems
+- Practical and direct in speech
+- Takes pride in the quality of ground flour
+- Patient with questions, impatient with incompetence
+- Always knows what time it is by mill wheel rotations
+
+**Ideals:**
+- **Precision:** "Flour quality depends on perfect millstone gaps. Life's the same: precision matters."
+- **Service:** "Every loaf of bread starts here. That's responsibility."
+- **Innovation:** "There's always a better wheel design. Always room to improve."
+- **Reliability:** "The mill runs 24 hours because people rely on it. So do I."
+
+<div class="col-img">![Miller Tobias Waterwheel](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-miller-tobias-waterwheel.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
+
+**Bonds:**
+- His watermill (built it himself 20 years ago)
+- The town of Willowbrook (feeds them all)
+- His apprentice Jonas (teaching him the trade)
+- The river (source of his power and livelihood)
+- His late wife's memory (she designed the wheel)
+- The mechanical innovation he's working on
+  
+**Flaws:**
+- Obsessive about mill maintenance (checks it hourly)
+- Fears fire above all else (grain dust explosions)
+- Guilty about profiting when grain prices rise during famine
+- Distrusts magic (prefers mechanical solutions)
+- Sometimes ignores family for mill work
+- Paranoid about sabotage after previous incident
+
+#### Background & History
+The Waterwheel mill has ground grain for the village of Millbrook for two hundred years. Tobias is the fifth generation to run it, and possibly the last, his sons have left for city trades, and his daughter shows no interest in flour-dusted labor.
+
+He's content with his life: steady work, respected position, enough coin to be comfortable. He knows every farmer within ten miles, their crops, their troubles, their secrets. The mill is where people talk while waiting for their grain, and Tobias listens more than he speaks.
+
+But lately, something is wrong with the river. Fish are dying, the water tastes strange, and the wheel has been harder to turn. Tobias has been investigating quietly, and what he's found frightens him.
+
+#### Connections
+- **Community:** Millbrook village (300 residents)
+- **Customers:** Every farm within ten miles
+- **Daughter:** Sarah Waterwheel (herbalist, lives in town)
+- **Friend:** Forester Galen Sustainharvest (shares concerns about the land)
+- **Worry:** Whatever is poisoning the river
+
+ ::
 
 {{monster,frame,wide
 ## Miller Tobias Waterwheel
@@ -11721,7 +11858,6 @@ ___
 **Armor Class** :: 13 (padded armor)
 **Hit Points** :: 52 (7d8 + 21)
 **Speed** :: 30 ft.
-<div class="col-img">![Miller Tobias Waterwheel](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-miller-tobias-waterwheel.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -11756,67 +11892,9 @@ ___
 *"The mill turns day and night, just like the world. We feed the wheel, the wheel feeds us."*
 }}
 
-#### Physical Description
-Average height (5'10", 180 lbs) but powerfully built from years of hauling grain sacks and working machinery. Flour dust permanently stains his clothes and hair white, making him look older. Practical brown work clothes always covered in flour. Strong hands with blacksmith-like grip strength. Brown eyes that constantly assess mechanical workings. Short practical hair usually white with flour. Clean-shaven face dusted with flour. Smells of fresh flour, water, and machine oil. Moves with efficiency of someone used to dangerous machinery.
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-#### Equipment
-- **Armor:** Padded Leather Apron (AC 11, protects against flour dust, sparks)
-- **Primary Tool:** Heavy Wrench (2 ft. long, masterwork, doubles as weapon)
-- **Tools:** Tinker's tools, engineer's tools (both masterwork quality)
-- **Belt:** Tool belt with hammers, pliers, oil can, measuring tape
-- **Knife:** Utility knife (1d4 damage, for cutting rope/sacks)
-- **Lantern:** Hooded lantern (essential in mill work, oil flask)
-- **Other:** Chalk for marking, leather gloves, safety goggles (dwarven made)
-- **Emergency:** Length of rope, pulleys, spare gears
-
-#### Personality
-Traits
-- Constantly wipes flour off clothes (futile habit)
-- Explains things using mill and water metaphors
-- Listens to machine sounds to diagnose problems
-- Practical and direct in speech
-- Takes pride in the quality of ground flour
-- Patient with questions, impatient with incompetence
-- Always knows what time it is by mill wheel rotations
-
-**Ideals:**
-- **Precision:** "Flour quality depends on perfect millstone gaps. Life's the same: precision matters."
-- **Service:** "Every loaf of bread starts here. That's responsibility."
-- **Innovation:** "There's always a better wheel design. Always room to improve."
-- **Reliability:** "The mill runs 24 hours because people rely on it. So do I."
-
-**Bonds:**
-- His watermill (built it himself 20 years ago)
-- The town of Willowbrook (feeds them all)
-- His apprentice Jonas (teaching him the trade)
-- The river (source of his power and livelihood)
-- His late wife's memory (she designed the wheel)
-- The mechanical innovation he's working on
-
-**Flaws:**
-- Obsessive about mill maintenance (checks it hourly)
-- Fears fire above all else (grain dust explosions)
-- Guilty about profiting when grain prices rise during famine
-- Distrusts magic (prefers mechanical solutions)
-- Sometimes ignores family for mill work
-- Paranoid about sabotage after previous incident
-\column
-#### Background & History
-The Waterwheel mill has ground grain for the village of Millbrook for two hundred years. Tobias is the fifth generation to run it, and possibly the last, his sons have left for city trades, and his daughter shows no interest in flour-dusted labor.
-
-He's content with his life: steady work, respected position, enough coin to be comfortable. He knows every farmer within ten miles, their crops, their troubles, their secrets. The mill is where people talk while waiting for their grain, and Tobias listens more than he speaks.
-
-But lately, something is wrong with the river. Fish are dying, the water tastes strange, and the wheel has been harder to turn. Tobias has been investigating quietly, and what he's found frightens him.
-
-#### Connections
-- **Community:** Millbrook village (300 residents)
-- **Customers:** Every farm within ten miles
-- **Daughter:** Sarah Waterwheel (herbalist, lives in town)
-- **Friend:** Forester Galen Sustainharvest (shares concerns about the land)
-- **Worry:** Whatever is poisoning the river
 
 
 {{descriptive
@@ -11834,9 +11912,6 @@ But lately, something is wrong with the river. Fish are dying, the water tastes 
 3. **The Secret Keeper:** Has information the party needs. Might share if asked right.
 4. **The Daughter's Trouble:** Sarah is in some kind of difficulty. Needs discrete help.
 5. **The Mill Defense:** Something is threatening the mill. Needs capable fighters.
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Roleplaying Notes
 - Constantly wipes flour from hands
@@ -11856,10 +11931,66 @@ But lately, something is wrong with the river. Fish are dying, the water tastes 
 - Maintains strategic grain reserves during harvest
 - His mill is local news center (everyone visits)
 
+## Lady Seraphina Riverbrook
+
+
+#### Physical Description
+Elegant and commanding presence (5'8", 145 lbs) with the poise of generations of nobility. Auburn hair worn in practical noble style, sometimes covered with silk scarf. Striking green eyes that assess people instantly. Fair skin despite outdoor work managing estates. Wears practical but expensive clothing, reinforced silk that looks decorative but allows movement. Always carries rapier at hip, though she makes it look decorative.
+
+Moves with fencer's grace. Smells of rose water and parchment. Hands show evidence of both sword practice and ledger work.
+
+<div class="col-img">![Lady Seraphina Riverbrook](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-seraphina-riverbrook.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Equipment
+- **Armor:** Fine Studded Leather (AC 14, disguised as fashionable clothing)
+- **Primary Weapon:** Riverbrook Rapier +1 (family heirloom, magically keen)
+- **Secondary:** Main Gauche (parrying dagger, masterwork)
+- **Clothing:** Noble's traveling outfit (worth 50 gp, reinforced silk)
+- **Jewelry:** Signet ring (family crest, proves identity), pearl necklace (worth 500 gp)
+- **Documents:** Leather portfolio with land deeds, contracts, maps
+- **Tools:** Wax seal, noble stationery, ledger books
+- **Emergency:** Hidden lockbox key (opens vault in Kaer Thandros)
+- **Potions:** 2 potions of healing, 1 potion of water breathing (insurance)
+- **Mount:** Well-bred riding horse (outside), saddle and tack
+
+
+
+#### Personality
+Traits
+- Speaks with clear authority, expects to be obeyed
+- Listens intently to all sides before deciding
+- Uses legal terminology in casual conversation
+- Taps fingers when calculating costs/benefits
+- Maintains perfect posture always
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
+
+- Treats commoners with respect (unusual for nobility)
+- Quick to correct contract errors or unfair deals
+
+**Ideals:**
+- **Justice:** "Law must protect both the powerful and the powerless, or it protects no one."
+- **Stewardship:** "This land will outlast me. I must leave it better than I found it."
+- **Honor:** "My word is my bond. Once given, I do not break it."
+- **Balance:** "The river must flow for the miller and the farmer both."
+
+**Bonds:**
+- Her family estate (Riverbrook Manor, 500 acres)
+- The people living on her lands (300+ tenants)
+- Her deceased father's legacy (trying to honor)
+- The Riverbrook family name (ancient lineage)
+- Her younger brother Marcus (captain in the army)
+- The river itself (family named for it)
+
+**Flaws:**
+- Stubborn about family honor and tradition
+- Struggles to trust after betrayal by former steward
+- Sometimes prioritizes law over people's immediate needs
+- Guilty about living in wealth while tenants struggle
+- Fears becoming cruel like other nobles
+- Duty-bound to arranged marriage she doesn't want
 
 {{monster,frame,wide
 ## Lady Seraphina Riverbrook
@@ -11868,7 +11999,6 @@ ___
 **Armor Class** :: 16 (studded leather + Dex)
 **Hit Points** :: 72 (11d8 + 22)
 **Speed** :: 30 ft.
-<div class="col-img">![Lady Seraphina Riverbrook](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-seraphina-riverbrook.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -11901,62 +12031,15 @@ ___
 *"Land ownership is a sacred trust. We do not own the earth; we are merely its temporary stewards."*
 }}
 
-#### Physical Description
-Elegant and commanding presence (5'8", 145 lbs) with the poise of generations of nobility. Auburn hair worn in practical noble style, sometimes covered with silk scarf. Striking green eyes that assess people instantly. Fair skin despite outdoor work managing estates. Wears practical but expensive clothing, reinforced silk that looks decorative but allows movement. Always carries rapier at hip, though she makes it look decorative.
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-Moves with fencer's grace. Smells of rose water and parchment. Hands show evidence of both sword practice and ledger work.
-
-#### Equipment
-- **Armor:** Fine Studded Leather (AC 14, disguised as fashionable clothing)
-- **Primary Weapon:** Riverbrook Rapier +1 (family heirloom, magically keen)
-- **Secondary:** Main Gauche (parrying dagger, masterwork)
-- **Clothing:** Noble's traveling outfit (worth 50 gp, reinforced silk)
-- **Jewelry:** Signet ring (family crest, proves identity), pearl necklace (worth 500 gp)
-- **Documents:** Leather portfolio with land deeds, contracts, maps
-- **Tools:** Wax seal, noble stationery, ledger books
-- **Emergency:** Hidden lockbox key (opens vault in Kaer Thandros)
-- **Potions:** 2 potions of healing, 1 potion of water breathing (insurance)
-- **Mount:** Well-bred riding horse (outside), saddle and tack
-
-#### Personality
-Traits
-- Speaks with clear authority, expects to be obeyed
-- Listens intently to all sides before deciding
-- Uses legal terminology in casual conversation
-- Taps fingers when calculating costs/benefits
-- Maintains perfect posture always
-- Treats commoners with respect (unusual for nobility)
-- Quick to correct contract errors or unfair deals
-
-**Ideals:**
-- **Justice:** "Law must protect both the powerful and the powerless, or it protects no one."
-- **Stewardship:** "This land will outlast me. I must leave it better than I found it."
-- **Honor:** "My word is my bond. Once given, I do not break it."
-- **Balance:** "The river must flow for the miller and the farmer both."
-
-**Bonds:**
-- Her family estate (Riverbrook Manor, 500 acres)
-- The people living on her lands (300+ tenants)
-- Her deceased father's legacy (trying to honor)
-- The Riverbrook family name (ancient lineage)
-- Her younger brother Marcus (captain in the army)
-- The river itself (family named for it)
-
-**Flaws:**
-- Stubborn about family honor and tradition
-- Struggles to trust after betrayal by former steward
-- Sometimes prioritizes law over people's immediate needs
-- Guilty about living in wealth while tenants struggle
-- Fears becoming cruel like other nobles
-- Duty-bound to arranged marriage she doesn't want
 
 #### Background & History
 Seraphina was born to wealth and privilege, the only daughter of Lord Riverbrook. She was expected to marry well and manage a noble household. Instead, she discovered a passion for governance, studying law and administration while her father prepared her for a political marriage.
 
 When her father died unexpectedly, she had to fight to inherit—the law was unclear, and cousins contested her claim. She won through a combination of legal brilliance and strategic marriage to a lower noble who was content to let her rule. She's been Lady of Riverbrook for fifteen years.
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 She's transformed her domain into a model of efficient governance: roads maintained, justice fair, taxes reasonable. Other nobles either admire or resent her success. She's ambitious but patient, building alliances for a long-term goal she rarely discusses.
 
@@ -11983,9 +12066,6 @@ She's transformed her domain into a model of efficient governance: roads maintai
 3. **The Heir Search:** Looking for the right person to adopt. Might test party members.
 4. **The Reform Proposal:** Working on major governance reform. Needs allies to push it through.
 5. **The Intelligence Trade:** Has information the party needs. Willing to trade.
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Roleplaying Notes
 - Stands straight, shoulders back, even when tired
@@ -12006,10 +12086,49 @@ She's transformed her domain into a model of efficient governance: roads maintai
 - Secretly funding irrigation projects from personal wealth
 - Has veto power over water use decisions
 
+## Captain Marcus Frontiersman (Werewolf)
+
+<div class="col-img">![Captain Marcus Frontiersman](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-marcus-frontiersman.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Physical Description
+(Human Form)
+Rugged and battle-hardened (6'1", 200 lbs) with the weathered look of frontier life. Dark brown hair kept military short. Intense gray eyes that sometimes flash amber in moonlight. Strong jawline with short beard showing early gray. Multiple scars across face and arms from frontier combat. Moves with controlled power, like a caged wolf. Wears half-plate that's seen heavy use but is meticulously maintained. Smells of leather, steel, and wild places. Carries himself with authority but growing weariness.
+
+**(Hybrid Form):** Gains wolf-like features, elongated snout, fangs, claws, fur covering body, digitigrade legs, tail. Height increases to 7 feet. Eyes glow amber. Still recognizable but terrifying. Retains ability to speak (with difficulty).
+
+**(Wolf Form):** Large black wolf with gray eyes. Indistinguishable from dire wolf except for amber eye-flash in moonlight.
+
+
+#### Equipment
+(Human Form)
+- **Armor:** Half-Plate +1 (custom-fitted, reinforced)
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
+
+- **Primary Weapon:** Longsword +1 "Frontier's Edge" (silvered, ironically)
+- **Secondary:** Silvered Dagger (keeps it as test of control)
+- **Ranged:** Longbow with 40 arrows (20 normal, 20 silvered)
+- **Shield:** Heater Shield (+2 AC when used)
+- **Cloak:** Frontier Captain's Cloak (marks authority, grants +1 to Charisma checks with frontier folk)
+- **Amulet:** Moonstone Pendant (helps resist transformations, grants +2 to Wisdom saves vs. lycanthropy)
+- **Belt:** Utility belt with rope, signal horn, rations, waterskin
+- **Potions:** 3 potions of healing, 1 potion of heroism
+- **Special:** Silver chain (last resort restraint if he loses control)
+- **Documents:** Captain's commission, frontier maps, wanted posters
+
+#### Personality
+Traits
+- Constantly aware of moon phases
+- Checks silver weapons compulsively
+- Keeps distance from people he cares about
+- Patrols alone whenever possible
+- Drinks wolfsbane tea nightly (bitter, helps control)
+- Watches his hands for signs of transformation
+- Protective of others to extreme degree
+
 
 {{monster,frame,wide
 ## Captain Marcus Frontiersman (Werewolf)
@@ -12018,7 +12137,6 @@ ___
 **Armor Class** :: 17 (half-plate)
 **Hit Points** :: 112 (14d10 + 42)
 **Speed** :: 30 ft. (40 ft. in hybrid or wolf form)
-<div class="col-img">![Captain Marcus Frontiersman](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-marcus-frontiersman.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -12065,39 +12183,9 @@ ___
 }}
 
 {{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
 \page
 
-#### Physical Description
-(Human Form)
-Rugged and battle-hardened (6'1", 200 lbs) with the weathered look of frontier life. Dark brown hair kept military short. Intense gray eyes that sometimes flash amber in moonlight. Strong jawline with short beard showing early gray. Multiple scars across face and arms from frontier combat. Moves with controlled power, like a caged wolf. Wears half-plate that's seen heavy use but is meticulously maintained. Smells of leather, steel, and wild places. Carries himself with authority but growing weariness.
-
-**(Hybrid Form):** Gains wolf-like features, elongated snout, fangs, claws, fur covering body, digitigrade legs, tail. Height increases to 7 feet. Eyes glow amber. Still recognizable but terrifying. Retains ability to speak (with difficulty).
-
-**(Wolf Form):** Large black wolf with gray eyes. Indistinguishable from dire wolf except for amber eye-flash in moonlight.
-
-#### Equipment
-(Human Form)
-- **Armor:** Half-Plate +1 (custom-fitted, reinforced)
-- **Primary Weapon:** Longsword +1 "Frontier's Edge" (silvered, ironically)
-- **Secondary:** Silvered Dagger (keeps it as test of control)
-- **Ranged:** Longbow with 40 arrows (20 normal, 20 silvered)
-- **Shield:** Heater Shield (+2 AC when used)
-- **Cloak:** Frontier Captain's Cloak (marks authority, grants +1 to Charisma checks with frontier folk)
-- **Amulet:** Moonstone Pendant (helps resist transformations, grants +2 to Wisdom saves vs. lycanthropy)
-- **Belt:** Utility belt with rope, signal horn, rations, waterskin
-- **Potions:** 3 potions of healing, 1 potion of heroism
-- **Special:** Silver chain (last resort restraint if he loses control)
-- **Documents:** Captain's commission, frontier maps, wanted posters
-
-#### Personality
-Traits
-- Constantly aware of moon phases
-- Checks silver weapons compulsively
-- Keeps distance from people he cares about
-- Patrols alone whenever possible
-- Drinks wolfsbane tea nightly (bitter, helps control)
-- Watches his hands for signs of transformation
-- Protective of others to extreme degree
 
 **Ideals:**
 - **Protection:** "These people need a guardian, even if that guardian is cursed."
@@ -12128,9 +12216,6 @@ Marcus was a promising young captain in the border guard when the werewolf pack 
 Twenty years later, he's done the impossible, maintained his humanity while using his lycanthropy to protect the frontier. The wild lands are full of creatures that normal soldiers can't fight; Marcus can. He operates alone, reporting to commanders who officially don't know what he is.
 
 He's not cured, there's no cure. But he's found equilibrium: running wild during full moons in unpopulated areas, taking wolfsbane to maintain control, and channeling the predator inside toward protecting the helpless. It costs him everything else. He has no family, few friends, and no hope of a normal life.
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Connections
 - **Chain of Command:** Reports to Commander Kael Stormwatcher (knows the truth)
@@ -12176,7 +12261,66 @@ He's not cured, there's no cure. But he's found equilibrium: running wild during
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
+\page
 
+## The Silver Wolf
+
+<div class="col-img">![The Silver Wolf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-silver-wolf.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Physical Description
+**(Human Form - Rarely Seen):**
+Rugged and weathered (6'0", 190 lbs) with the look of someone who lives in wilderness. Prematurely gray hair worn long and wild. Piercing gray eyes that sometimes flash silver. Multiple scars across exposed skin. Strong build from years of hunting. Wears simple travel-worn clothes. Moves with predator's grace even in human form.
+
+**(Hybrid Form - His Preferred State):**
+Towering werewolf (7'5", 320 lbs) with silver-gray fur that seems to shimmer in moonlight. Powerful build with visible muscle definition. Elongated wolf snout with intelligent gray eyes. Large pointed ears constantly swiveling. Massive claws (6 inches long) and fangs. Digitigrade legs with powerful haunches. Long bushy tail. Wears the gray cloak like a badge. Despite terrifying appearance, moves with controlled grace.
+
+**(Wolf Form - For Travel):**
+Large silver-gray wolf (size of a small horse). Appears as a dire wolf but with distinctive silver sheen to fur. Gray eyes remain intelligent and aware. Faster than normal wolves. Often mistaken for spirit or fey wolf.
+\column
+#### Equipment
+(Rarely Carries)
+- **Clothing:** Simple traveler's clothes (human form), shreds when transforming
+- **Amulet:** Silver moon pendant (proof he's mastered the curse, doesn't harm him)
+- **Cloak:** Weather-worn gray cloak (wolf form can wear it like a cape)
+- **Pouch:** Small leather pouch with herbs, wolfsbane antidote, emergency rations
+- **No Weapons:** Relies entirely on natural weapons
+- **No Armor:** Natural armor in hybrid form superior to any worn armor
+
+#### Personality
+Traits
+- Speaks little, observes much
+- Comfortable in prolonged silences
+- Refers to himself as "we" (human and beast are one)
+- Watches moon phases but isn't controlled by them
+- Protective of innocent lycanthropes struggling with curse
+- Hunts those who abuse lycanthropy
+- Smells everyone upon meeting (habit)
+
+**Ideals:**
+- **Balance:** "Man and beast can coexist in one soul. The struggle creates strength."
+- **Choice:** "The curse doesn't make monsters. People choose to be monsters."
+- **Protection:** "Those who cannot control the beast need guidance, not execution."
+- **Nature:** "The wild is not evil. Civilization fears what it doesn't understand."
+
+**Bonds:**
+- Lycanthropes struggling with control (mentors them)
+- The forest and wild places (his true home)
+- Captain Marcus Frontiersman (teaching him control)
+- The memory of his pack (all dead now)
+- An oath made long ago (won't speak of it)
+- The balance between civilization and wilderness
+
+**Flaws:**
+- Increasingly isolated from humanity
+- Sometimes forgets human social norms
+- Violent toward anyone who abuses lycanthropy
+- Guilty about past (killed people before gaining control)
+- Fears complete loss of humanity despite control
+- Refuses to fully commit to either beast or man
+- Hunted by silver-armed hunters (constant vigilance)
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
 \page
 
 {{monster,frame,wide
@@ -12186,7 +12330,6 @@ ___
 **Armor Class** :: 18 (natural armor in hybrid form)
 **Hit Points** :: 142 (17d10 + 51)
 **Speed** :: 40 ft. (50 ft. in hybrid or wolf form)
-<div class="col-img">![The Silver Wolf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-silver-wolf.jpg){width:255px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -12243,60 +12386,6 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"The curse is not evil. The man makes that choice, not the beast."*
 }}
 
-{{pageNumber,auto}}
-\page
-
-#### Physical Description
-**(Human Form - Rarely Seen):**
-Rugged and weathered (6'0", 190 lbs) with the look of someone who lives in wilderness. Prematurely gray hair worn long and wild. Piercing gray eyes that sometimes flash silver. Multiple scars across exposed skin. Strong build from years of hunting. Wears simple travel-worn clothes. Moves with predator's grace even in human form.
-
-**(Hybrid Form - His Preferred State):**
-Towering werewolf (7'5", 320 lbs) with silver-gray fur that seems to shimmer in moonlight. Powerful build with visible muscle definition. Elongated wolf snout with intelligent gray eyes. Large pointed ears constantly swiveling. Massive claws (6 inches long) and fangs. Digitigrade legs with powerful haunches. Long bushy tail. Wears the gray cloak like a badge. Despite terrifying appearance, moves with controlled grace.
-
-**(Wolf Form - For Travel):**
-Large silver-gray wolf (size of a small horse). Appears as a dire wolf but with distinctive silver sheen to fur. Gray eyes remain intelligent and aware. Faster than normal wolves. Often mistaken for spirit or fey wolf.
-
-#### Equipment
-(Rarely Carries)
-- **Clothing:** Simple traveler's clothes (human form), shreds when transforming
-- **Amulet:** Silver moon pendant (proof he's mastered the curse, doesn't harm him)
-- **Cloak:** Weather-worn gray cloak (wolf form can wear it like a cape)
-- **Pouch:** Small leather pouch with herbs, wolfsbane antidote, emergency rations
-- **No Weapons:** Relies entirely on natural weapons
-- **No Armor:** Natural armor in hybrid form superior to any worn armor
-
-#### Personality
-Traits
-- Speaks little, observes much
-- Comfortable in prolonged silences
-- Refers to himself as "we" (human and beast are one)
-- Watches moon phases but isn't controlled by them
-- Protective of innocent lycanthropes struggling with curse
-- Hunts those who abuse lycanthropy
-- Smells everyone upon meeting (habit)
-
-**Ideals:**
-- **Balance:** "Man and beast can coexist in one soul. The struggle creates strength."
-- **Choice:** "The curse doesn't make monsters. People choose to be monsters."
-- **Protection:** "Those who cannot control the beast need guidance, not execution."
-- **Nature:** "The wild is not evil. Civilization fears what it doesn't understand."
-
-**Bonds:**
-- Lycanthropes struggling with control (mentors them)
-- The forest and wild places (his true home)
-- Captain Marcus Frontiersman (teaching him control)
-- The memory of his pack (all dead now)
-- An oath made long ago (won't speak of it)
-- The balance between civilization and wilderness
-
-**Flaws:**
-- Increasingly isolated from humanity
-- Sometimes forgets human social norms
-- Violent toward anyone who abuses lycanthropy
-- Guilty about past (killed people before gaining control)
-- Fears complete loss of humanity despite control
-- Refuses to fully commit to either beast or man
-- Hunted by silver-armed hunters (constant vigilance)
 
 #### Background & History
 Before the curse, she was Captain Helena Silverbane, the most decorated officer in the frontier guard. She was Marcus's mentor, the one who trained him, the one who led the patrol into the werewolf ambush. She was the first bitten, and the first to turn.
@@ -12305,16 +12394,16 @@ Unlike Marcus, she didn't fight the beast: she embraced it. The Wolf offered fre
 
 She's not evil in any simple sense. Her pack doesn't attack innocents unprovoked. But they are predators, and they claim hunting territories that sometimes conflict with human settlements. She believes lycanthropy is a gift and seeks to share it, willing or not, with those she deems worthy.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 #### Connections
 - **Pack:** Twelve werewolves loyal to her
 - **Former Protégé:** Captain Marcus Frontiersman (love and hate intertwined)
 - **Enemy:** Werewolf hunters across the region
 - **Ally:** Some fey creatures who appreciate her wildness
 - **Target:** Soldiers and warriors she deems "worthy" of the gift
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -12347,10 +12436,56 @@ She's not evil in any simple sense. Her pack doesn't attack innocents unprovoked
 - "Control comes from acceptance, not resistance."
 - "Your beast and you are not enemies. Learn this."
 
+## Forester Galen Sustainharvest
+
+#### Physical Description
+Lean and weathered (5'11", 165 lbs) with the wiry build of someone who climbs and hikes constantly. Silver-streaked brown hair worn in practical ponytail. Kind hazel eyes that shift green in certain lights (elf heritage). Tanned, lined face marked by years of outdoor work. Moves with quiet grace through forests. Wears earth-tone clothes that blend perfectly with forest. Perpetually has leaves, moss, and bark pieces on his person. Smells of pine, earth, and leather. His hands are calloused but gentle. Usually accompanied by Moss, a large old brown bear.
+
+<div class="col-img">![Forester Galen Sustainharvest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forester-galen-sustainharvest.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Equipment
+- **Armor:** Reinforced Studded Leather +1 (forest camouflage pattern)
+- **Primary Weapon:** Forestkeeper's Longbow +1 (carved with growth runes)
+- **Arrows:** Quiver with 40 arrows (20 normal, 10 poisoned, 10 nonlethal blunt)
+- **Secondary:** Handaxe +1 (doubles as tool and weapon)
+- **Tool:** Hunting Knife (razor sharp, used for careful bark removal)
+- **Tools:** Woodcarver's tools, forester's marking axe, measuring rope
+- **Cloak:** Forest Green Cloak (grants advantage on Stealth in forest)
+- **Boots:** Soft Leather Boots (no sound when walking, tracks minimal)
+- **Pack:** Rope, climbing gear, tree-marking paint, seedling pouches
+- **Book:** Comprehensive forestry journal (40 years of observations)
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
+
+- **Companion:** Moss the Bear (old brown bear, best friend)
+- **Seeds:** Pouches of various tree seeds (oak, pine, maple, etc.)
+
+#### Personality
+Traits
+- Speaks softly, rarely raises voice
+- Often pauses to touch or examine trees
+- Quotes forest wisdom and old sayings
+- Patient to extreme degree
+- Treats trees like old friends
+- Gentle but firm about forest protection
+- Makes decisions slowly but confidently
+
+**Ideals:**
+- **Balance:** "Take what you need, not what you want. Plant more than you harvest."
+- **Wisdom:** "The forest teaches if you're patient enough to listen."
+- **Stewardship:** "We don't own the forest. We serve it, and it serves us."
+- **Future:** "I plant trees knowing I won't see them grown. That's the responsibility."
+
+**Bonds:**
+- The forest (considers it alive and conscious)
+- His bear companion Moss (20 years together)
+- Apprentice foresters he's training (12 current students)
+- The druid circle (honorary member despite not being druid)
+- His children and grandchildren (family of foresters)
+- The memory of ancient trees he's lost
+
 
 {{monster,frame,wide
 ## Forester Galen Sustainharvest
@@ -12359,7 +12494,6 @@ ___
 **Armor Class** :: 16 (studded leather + Dex)
 **Hit Points** :: 78 (12d8 + 24)
 **Speed** :: 30 ft., climb 30 ft.
-<div class="col-img">![Forester Galen Sustainharvest](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forester-galen-sustainharvest.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -12405,47 +12539,6 @@ ___
 {{footnote Part IV: NPCs}}
 \page
 
-#### Physical Description
-Lean and weathered (5'11", 165 lbs) with the wiry build of someone who climbs and hikes constantly. Silver-streaked brown hair worn in practical ponytail. Kind hazel eyes that shift green in certain lights (elf heritage). Tanned, lined face marked by years of outdoor work. Moves with quiet grace through forests. Wears earth-tone clothes that blend perfectly with forest. Perpetually has leaves, moss, and bark pieces on his person. Smells of pine, earth, and leather. His hands are calloused but gentle. Usually accompanied by Moss, a large old brown bear.
-
-#### Equipment
-- **Armor:** Reinforced Studded Leather +1 (forest camouflage pattern)
-- **Primary Weapon:** Forestkeeper's Longbow +1 (carved with growth runes)
-- **Arrows:** Quiver with 40 arrows (20 normal, 10 poisoned, 10 nonlethal blunt)
-- **Secondary:** Handaxe +1 (doubles as tool and weapon)
-- **Tool:** Hunting Knife (razor sharp, used for careful bark removal)
-- **Tools:** Woodcarver's tools, forester's marking axe, measuring rope
-- **Cloak:** Forest Green Cloak (grants advantage on Stealth in forest)
-- **Boots:** Soft Leather Boots (no sound when walking, tracks minimal)
-- **Pack:** Rope, climbing gear, tree-marking paint, seedling pouches
-- **Book:** Comprehensive forestry journal (40 years of observations)
-- **Companion:** Moss the Bear (old brown bear, best friend)
-- **Seeds:** Pouches of various tree seeds (oak, pine, maple, etc.)
-
-#### Personality
-Traits
-- Speaks softly, rarely raises voice
-- Often pauses to touch or examine trees
-- Quotes forest wisdom and old sayings
-- Patient to extreme degree
-- Treats trees like old friends
-- Gentle but firm about forest protection
-- Makes decisions slowly but confidently
-
-**Ideals:**
-- **Balance:** "Take what you need, not what you want. Plant more than you harvest."
-- **Wisdom:** "The forest teaches if you're patient enough to listen."
-- **Stewardship:** "We don't own the forest. We serve it, and it serves us."
-- **Future:** "I plant trees knowing I won't see them grown. That's the responsibility."
-
-**Bonds:**
-- The forest (considers it alive and conscious)
-- His bear companion Moss (20 years together)
-- Apprentice foresters he's training (12 current students)
-- The druid circle (honorary member despite not being druid)
-- His children and grandchildren (family of foresters)
-- The memory of ancient trees he's lost
-
 **Flaws:**
 - Sometimes prioritizes trees over people
 - Holds decades-long grudges against those who harmed forests
@@ -12468,10 +12561,6 @@ Recently, he's noticed troubling changes. Trees are growing strangely, animals b
 - **Contact:** Druid Thornwood (magical advisor)
 - **Family:** Wife and three children, all learning forestry
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Blight Signs:** Has seen early signs of magical blight. Not sure what to do about it.
@@ -12480,7 +12569,7 @@ Recently, he's noticed troubling changes. Trees are growing strangely, animals b
 4. **The Family Gift:** His family has minor forest magic. Nothing dramatic, just an affinity.
 5. **The Evacuation Plan:** If things get bad enough, he knows how to get his family out fast.
 }}
-
+\column
 #### Plot Hooks
 1. **The Blight Investigation:** Needs magical help understanding what's happening to the forest.
 2. **The Buried Discovery:** The thing in the clearing is definitely waking up. Needs excavation.
@@ -12509,71 +12598,11 @@ Recently, he's noticed troubling changes. Trees are growing strangely, animals b
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
 ## Druid Thornwood
-*Medium humanoid (firbolg), neutral*
-___
-**Armor Class** :: 16 (barkskin)
-**Hit Points** :: 127 (15d8 + 60)
-**Speed** :: 30 ft.
-<div class="col-img">![Druid Thornwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-druid-thornwood.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 16 (+3) | 14 (+2) | 18 (+4) | 14 (+2) | 20 (+5) | 14 (+2) |
-___
-**Saving Throws** :: Intelligence +6, Wisdom +9, Charisma +6
-**Skills** :: Animal Handling +9, Arcana +6, Insight +9, Medicine +9, Nature +10 (expertise), Perception +9, Survival +9
-**Damage Resistances** :: Poison
-**Condition Immunities** :: Charmed, Frightened (while in forest)
-**Senses** :: Darkvision 60 ft., Passive Perception 19, Tremorsense 30 ft. (through roots)
-**Languages** :: Common, Elvish, Sylvan, Druidic, Giant, Primordial, can speak with beasts and plants
-**Challenge** :: 11 (7,200 XP)
-___
-***Spellcasting.*** :: 12th-level druid (Circle of the Land - Forest). Spell save DC 17, +9 to hit with spell attacks.
-***Cantrips (at will).*** :: Druidcraft, Guidance, Produce Flame, Thorn Whip, Shillelagh
-***1st level (4 slots).*** :: Cure Wounds, Entangle, Goodberry, Speak with Animals
-***2nd level (3 slots).*** :: Barkskin*, Hold Person, Pass without Trace, Spike Growth
-***3rd level (3 slots).*** :: Call Lightning, Conjure Animals, Plant Growth, Speak with Plants
-***4th level (3 slots).*** :: Blight, Dominate Beast, Grasping Vine, Stone Shape
-***5th level (2 slots).*** :: Commune with Nature, Cone of Cold (forest feature), Tree Stride
-***6th level (1 slot).*** :: Transport via Plants, Wall of Thorns
-***Forest Sanctuary.*** :: When a beast or plant creature attempts to attack him, must succeed DC 17 Wisdom save. On failure, must choose different target or action wasted. On success, immune for 24 hours.
-***Wild Shape (2/Short Rest).*** :: Can wild shape into beasts up to CR 1 as action (swim speed at 8th level). Prefers brown bear, dire wolf, or giant eagle forms. Lasts 6 hours.
-***Land's Stride.*** :: Moving through difficult terrain costs no extra movement. Can pass through magical plants without being slowed or taking damage.
-***Nature's Ward.*** :: Immune to poison and disease. Can't be charmed or frightened by fey or plants.
-***Root Network.*** :: While in forest, can sense disturbances through root systems within 300 ft. radius. Knows if creatures are moving through his territory.
-***Thornwood Transformation (1/Day).*** :: For 10 minutes, becomes avatar of forest fury:
-### Actions
-***Multiattack.*** :: Makes two attacks with Thornwood Staff or casts a cantrip and makes one staff attack.
-***Thornwood Staff (Shillelagh).*** :: Melee Weapon Attack: +9 to hit, reach 5 ft., one target. ***Hit.*** 2d8+5 magical bludgeoning damage plus 1d8 poison damage (thorns).::
-***Special.*** :: Staff regrows thorns naturally. On critical hit, target is grappled by thorny vines (escape DC 17).
-***Thorn Whip.*** :: Ranged Spell Attack: +9 to hit, range 30 ft., one creature. ***Hit.*** 3d6 piercing damage and pull target 10 ft. closer.::
-***Flame Seed (Recharge 5-6).*** :: Hurls explosive acorn. Ranged Spell Attack: +9 to hit, range 60 ft. ***Hit.*** 4d8 fire damage to target and 2d8 fire to all creatures within 5 ft. (Dex DC 17 half).::
-***Command Forest (1/Day).*** :: In 60-foot radius, causes:
-- All plants become difficult terrain for enemies
-- Trees attempt to restrain enemies (DC 17 Str save or restrained)
-- Party gains half cover from foliage
-- Lasts 10 minutes
-***Summon Forest Guardian (1/Day).*** :: Summons awakened tree (CR 2) that fights for 1 hour.
-### Reactions
-***Bramble Defense.*** :: When hit by melee attack, thorny brambles lash out at attacker. +9 to hit, 2d8 piercing damage.
-***Nature's Intervention.*** :: When ally within 30 ft. takes damage, can cause vines to absorb some impact, reducing damage by 2d10+5.
-***Root Trip.*** :: When creature within 10 ft. moves, can cause roots to trip them. DC 17 Dexterity save or knocked prone.
-### Legendary Actions
-Can take 3 legendary actions, choosing from options below. Only one legendary action can be used at a time and only at end of another creature's turn. Regains spent legendary actions at start of turn.
-**Cantrip.** :: Casts a cantrip.
-**Move.** :: Moves up to half speed without provoking opportunity attacks.
-**Thorn Lash (Costs 2).** :: Uses thorn whip.
-**Healing Blessing (Costs 2).** :: Touches creature and heals 3d8+5 HP.
-*"The forest remembers all debts—those paid and those owed."*
-}}
-{{pageNumber,auto}}
 
-\page
+<div class="col-img">![Druid Thornwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-druid-thornwood.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Physical Description
 Towering and imposing (7'2", 280 lbs) with the gentle giant presence of firbolgs. Skin has gray-blue tone with texture resembling bark. Long hair and beard are dark brown with green moss growing naturally. Deep amber eyes that glow faintly in darkness. Face is weathered and lined with age, carved features like ancient wood. Wears robes of living vines that move slightly. The Thornwood Staff is gnarled oak that grows fresh thorns daily. Moves with slow, deliberate power. Smells of earth, moss, and ancient forests. Small plants occasionally sprout from his footprints.
@@ -12625,6 +12654,70 @@ Traits
 #### Background & History
 Thornwood isn't a name—it's what the forest itself calls him. He was born human, with a human name he's forgotten, in a village that no longer exists. When loggers came to clearcut his home forest, he called on power he didn't know he had. The forest responded. The loggers didn't survive.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{monster,frame,wide
+## Druid Thornwood
+*Medium humanoid (firbolg), neutral*
+___
+**Armor Class** :: 16 (barkskin)
+**Hit Points** :: 127 (15d8 + 60)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 16 (+3) | 14 (+2) | 18 (+4) | 14 (+2) | 20 (+5) | 14 (+2) |
+___
+**Saving Throws** :: Intelligence +6, Wisdom +9, Charisma +6
+**Skills** :: Animal Handling +9, Arcana +6, Insight +9, Medicine +9, Nature +10 (expertise), Perception +9, Survival +9
+**Damage Resistances** :: Poison
+**Condition Immunities** :: Charmed, Frightened (while in forest)
+**Senses** :: Darkvision 60 ft., Passive Perception 19, Tremorsense 30 ft. (through roots)
+**Languages** :: Common, Elvish, Sylvan, Druidic, Giant, Primordial, can speak with beasts and plants
+**Challenge** :: 11 (7,200 XP)
+___
+***Spellcasting.*** :: 12th-level druid (Circle of the Land - Forest). Spell save DC 17, +9 to hit with spell attacks.
+***Cantrips (at will).*** :: Druidcraft, Guidance, Produce Flame, Thorn Whip, Shillelagh
+***1st level (4 slots).*** :: Cure Wounds, Entangle, Goodberry, Speak with Animals
+***2nd level (3 slots).*** :: Barkskin*, Hold Person, Pass without Trace, Spike Growth
+***3rd level (3 slots).*** :: Call Lightning, Conjure Animals, Plant Growth, Speak with Plants
+***4th level (3 slots).*** :: Blight, Dominate Beast, Grasping Vine, Stone Shape
+***5th level (2 slots).*** :: Commune with Nature, Cone of Cold (forest feature), Tree Stride
+***6th level (1 slot).*** :: Transport via Plants, Wall of Thorns
+***Forest Sanctuary.*** :: When a beast or plant creature attempts to attack him, must succeed DC 17 Wisdom save. On failure, must choose different target or action wasted. On success, immune for 24 hours.
+***Wild Shape (2/Short Rest).*** :: Can wild shape into beasts up to CR 1 as action (swim speed at 8th level). Prefers brown bear, dire wolf, or giant eagle forms. Lasts 6 hours.
+***Land's Stride.*** :: Moving through difficult terrain costs no extra movement. Can pass through magical plants without being slowed or taking damage.
+***Nature's Ward.*** :: Immune to poison and disease. Can't be charmed or frightened by fey or plants.
+***Root Network.*** :: While in forest, can sense disturbances through root systems within 300 ft. radius. Knows if creatures are moving through his territory.
+***Thornwood Transformation (1/Day).*** :: For 10 minutes, becomes avatar of forest fury:
+### Actions
+***Multiattack.*** :: Makes two attacks with Thornwood Staff or casts a cantrip and makes one staff attack.
+***Thornwood Staff (Shillelagh).*** :: Melee Weapon Attack: +9 to hit, reach 5 ft., one target. ***Hit.*** 2d8+5 magical bludgeoning damage plus 1d8 poison damage (thorns).::
+***Special.*** :: Staff regrows thorns naturally. On critical hit, target is grappled by thorny vines (escape DC 17).
+***Thorn Whip.*** :: Ranged Spell Attack: +9 to hit, range 30 ft., one creature. ***Hit.*** 3d6 piercing damage and pull target 10 ft. closer.::
+***Flame Seed (Recharge 5-6).*** :: Hurls explosive acorn. Ranged Spell Attack: +9 to hit, range 60 ft. ***Hit.*** 4d8 fire damage to target and 2d8 fire to all creatures within 5 ft. (Dex DC 17 half).::
+***Command Forest (1/Day).*** :: In 60-foot radius, causes:
+- All plants become difficult terrain for enemies
+- Trees attempt to restrain enemies (DC 17 Str save or restrained)
+- Party gains half cover from foliage
+- Lasts 10 minutes
+***Summon Forest Guardian (1/Day).*** :: Summons awakened tree (CR 2) that fights for 1 hour.
+### Reactions
+***Bramble Defense.*** :: When hit by melee attack, thorny brambles lash out at attacker. +9 to hit, 2d8 piercing damage.
+***Nature's Intervention.*** :: When ally within 30 ft. takes damage, can cause vines to absorb some impact, reducing damage by 2d10+5.
+***Root Trip.*** :: When creature within 10 ft. moves, can cause roots to trip them. DC 17 Dexterity save or knocked prone.
+### Legendary Actions
+Can take 3 legendary actions, choosing from options below. Only one legendary action can be used at a time and only at end of another creature's turn. Regains spent legendary actions at start of turn.
+**Cantrip.** :: Casts a cantrip.
+**Move.** :: Moves up to half speed without provoking opportunity attacks.
+**Thorn Lash (Costs 2).** :: Uses thorn whip.
+**Healing Blessing (Costs 2).** :: Touches creature and heals 3d8+5 HP.
+*"The forest remembers all debts—those paid and those owed."*
+}}
+
+
 That was sixty years ago. Since then, he's become more forest than man. Bark grows on his skin, leaves sprout from his hair, and he can be in any part of the forest simultaneously by traveling through the root network. He protects the woodland from all threats. Natural and unnatural.
 
 He's not hostile to civilization, but he's not friendly either. Loggers who harvest sustainably can pass safely; those who clear-cut wake the trees' wrath. Hunters who take only what they need are welcome; poachers are never found. He maintains balance, nothing more.
@@ -12675,9 +12768,16 @@ He's not hostile to civilization, but he's not friendly either. Loggers who harv
 - Has zero tolerance for illegal logging
 - Forest spirits report to him
 
+\column
+
+## Bard Finnegan Storyteller
+
+<div class="col-img">![Bard Finnegan Storyteller](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-bard-finnegan-storyteller.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
 {{monster,frame,wide
@@ -12687,7 +12787,6 @@ ___
 **Armor Class** :: 15 (studded leather + Dex)
 **Hit Points** :: 84 (13d8 + 26)
 **Speed** :: 30 ft.
-<div class="col-img">![Bard Finnegan Storyteller](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-bard-finnegan-storyteller.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
