@@ -12774,7 +12774,19 @@ He's not hostile to civilization, but he's not friendly either. Loggers who harv
 
 <div class="col-img">![Bard Finnegan Storyteller](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-bard-finnegan-storyteller.jpg){width:325px,mix-blend-mode:multiply}</div>
 
-
+#### Equipment
+- **Armor:** Fine Studded Leather (AC 13, decorated with story-telling scenes)
+- **Weapon:** Storyteller's Rapier +1 (covered in etched tales, masterwork)
+- **Secondary:** Hand Crossbow (for emergencies only)
+- **Primary Instrument:** "Memoir" - Legendary Lute (masterwork, +2 to Performance, can cast legend lore 1/week)
+- **Secondary Instruments:** Flute, hand drum, pan pipes (all masterwork)
+- **Clothing:** Colorful traveling performer's outfit (worth 50 gp)
+- **Hat:** Feathered cap (iconic, recognizable everywhere)
+- **Cloak:** Cloak of Many Colors (changes hue with mood)
+- **Jewelry:** Multiple small trinkets (each with a story)
+- **Books:** 12 leather journals (200+ years of chronicles)
+- **Potions:** 2 potions of healing, 1 potion of inspiration (homebrew, grants inspiration die)
+- **Other:** Sheet music, quills, ink, traveling performer's license
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -12836,29 +12848,14 @@ ___
 ***Historical Insight.*** :: When ally within 30 ft. makes Intelligence check about history or lore, can use reaction to grant advantage.
 *"Every tale deserves to be told, every song to be sung. Even the sad ones. Especially the sad ones."*
 }}
-{{pageNumber,auto}}
-
-\page
 
 #### Physical Description
 Distinguished and charismatic (5'10", 160 lbs) with the ageless quality of half-elves. Silver-white hair worn long and theatrical. Sparkling blue eyes that dance with mischief and wisdom. Weathered face with laugh lines and a warm smile. Moves with performer's grace. Wears colorful traveling clothes that have seen a thousand performances. The legendary lute "Memoir" is always within reach. Hands show decades of instrument playing, callused but graceful. Smells of pipe smoke, old books, and campfire stories. Voice is rich, melodious, perfect for songs and tales.
 
-#### Equipment
-- **Armor:** Fine Studded Leather (AC 13, decorated with story-telling scenes)
-- **Weapon:** Storyteller's Rapier +1 (covered in etched tales, masterwork)
-- **Secondary:** Hand Crossbow (for emergencies only)
-- **Primary Instrument:** "Memoir" - Legendary Lute (masterwork, +2 to Performance, can cast legend lore 1/week)
-- **Secondary Instruments:** Flute, hand drum, pan pipes (all masterwork)
-- **Clothing:** Colorful traveling performer's outfit (worth 50 gp)
-- **Hat:** Feathered cap (iconic, recognizable everywhere)
-- **Cloak:** Cloak of Many Colors (changes hue with mood)
-- **Jewelry:** Multiple small trinkets (each with a story)
-- **Books:** 12 leather journals (200+ years of chronicles)
-- **Potions:** 2 potions of healing, 1 potion of inspiration (homebrew, grants inspiration die)
-- **Other:** Sheet music, quills, ink, traveling performer's license
+\column
 
 #### Personality
-Traits
+**Traits**
 - Speaks in dramatic, story-like fashion
 - Makes callbacks to historical events he witnessed
 - Breaks into song mid-conversation
@@ -12866,6 +12863,11 @@ Traits
 - Performs even mundane actions theatrically
 - Remembers everyone's name and story
 - Weeps openly at sad tales
+
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 **Ideals:**
 - **Memory:** "Stories preserve what time erases. I am the keeper of memories."
@@ -12904,10 +12906,6 @@ Now sixty and slowing down, he's looking for a place to record his collection pr
 - **Friend:** Sage Veridian Runereader (scholarly collaboration)
 - **Treasure:** Forty years of stories in his memory
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The True Histories:** Knows the real versions of many sanitized official histories. Dangerous knowledge.
@@ -12941,68 +12939,11 @@ Now sixty and slowing down, he's looking for a place to record his collection pr
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
-{{monster,frame,wide
 ## Hermit Sage Morganna Whisperwind
-*Medium humanoid (human), true neutral*
-___
-**Armor Class** :: 13 (16 with mage armor)
-**Hit Points** :: 99 (18d8 + 18)
-**Speed** :: 25 ft. (slowed by age)
-<div class="col-img">![Hermit Sage Morganna Whisperwind](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-morganna-whisperwind.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1) | 12 (+1) | 13 (+1) | 22 (+6) | 18 (+4) | 14 (+2) |
-___
-**Saving Throws** :: Intelligence +11, Wisdom +9
-**Skills** :: Arcana +16 (expertise), History +16 (expertise), Insight +9, Investigation +11, Medicine +9, Nature +11, Perception +9, Religion +11
-**Damage Resistances** :: Psychic
-**Condition Immunities** :: None (deliberately refuses protections)
-**Senses** :: Darkvision 60 ft. (magical), Passive Perception 19, can see magic auras
-**Languages** :: Common, Elvish, Dwarvish, Draconic, Celestial, Infernal, Abyssal, Deep Speech, Primordial, Ancient Common (pre-Worldrend), Telepathy 60 ft.
-**Challenge** :: 9 (5,000 XP)
-___
-***Spellcasting.*** :: 14th-level wizard (School of Divination). Spell save DC 19, +11 to hit with spell attacks.
-***Cantrips (at will).*** :: Light, Mage Hand, Message, Minor Illusion, Prestidigitation
-***1st level (4 slots).*** :: Comprehend Languages, Detect Magic, Identify, Mage Armor*
-***2nd level (3 slots).*** :: Detect Thoughts, Locate Object, See Invisibility
-***3rd level (3 slots).*** :: Clairvoyance, Dispel Magic, Tongues
-***4th level (3 slots).*** :: Arcane Eye, Locate Creature
-***5th level (2 slots).*** :: Contact Other Plane, Legend Lore, Scrying
-***6th level (1 slot).*** :: Find the Path, True Seeing
-***7th level (1 slot).*** :: Etherealness, Sequester
-***Portent (2/Day).*** :: When she or creature she can see makes attack roll, ability check, or saving throw, she can replace the roll with one of two d20s she rolls at dawn. Must decide before roll is made.
-***Expert Divination.*** :: When casts divination spell of 2nd level or higher, regains expended spell slot of lower level.
-***The Third Eye (1/Short Rest).*** :: Can grant herself one of following benefits for 1 hour:
-***Magical Longevity.*** :: Extended life through careful spellcasting and fey pacts. Ages 1 year per 10 years.
-***Scholar's Mind.*** :: Perfect memory for anything read or studied. Can recall exact text from thousands of books.
-***Prophetic Dreams.*** :: Each long rest, DM rolls twice for random encounter/event. She can choose which occurs, or neither.
-***Forbidden Knowledge.*** :: Knows dangerous secrets about pre-Worldrend world, ancient rituals, true names, and lost magic.
-***Library Network.*** :: Has created scrying links to 20 major libraries. Can research in any of them remotely.
-### Actions
-***Quarterstaff.*** :: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. ***Hit.*** 1d6-1 bludgeoning damage (1d8-1 versatile).::
-***Cast a Spell.*** :: Casts a prepared spell.
-***Prophetic Warning (Recharge 5-6).*** :: Uses divination magic to predict enemy's next action. One creature within 60 ft. must reveal their intended action next turn. Morganna's allies gain advantage against that action.
-***Borrowed Knowledge (3/Day).*** :: Taps into collective knowledge of all libraries she's linked to. For 1 hour, has proficiency in any one skill, tool, or language of her choice.
-***Consult the Tome (1/Day).*** :: Opens her ancient grimoire and consults forgotten lore. Casts legend lore without expending spell slot. Takes 1 minute.
-### Reactions
-***Shield.*** :: Casts shield to increase AC by 5 until start of next turn (spell).
-***Forewarned.*** :: After rolling initiative, can swap initiative with one willing creature she can see.
-***Prophetic Save.*** :: When ally she can see within 30 ft. fails saving throw, can use reaction to force reroll.
-### Legendary Actions
-Can take 3 legendary actions, choosing from options below. Only one legendary action can be used at a time and only at end of another creature's turn. Regains spent legendary actions at start of turn.
-**Cantrip.** :: Casts a cantrip.
-**Move.** :: Moves up to half speed.
-**Consult Knowledge (Costs 2).** :: Makes Intelligence check with advantage to recall lore.
-**Scrying Glimpse (Costs 2).** :: Uses scrying to observe a distant location for 1 minute (must have been there before).
-*"I have read every book worth reading twice. Some truths are found only in silence."*
-}}
 
-{{pageNumber,auto}}
-\page
+<div class="col-img">![Hermit Sage Morganna Whisperwind](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-morganna-whisperwind.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Physical Description
 Ancient and frail appearance (5'5", 110 lbs) despite magical longevity. Impossibly old for a human, 312 years through magic and fey bargains. Hair is pure white, long and wild, often escapes from loose bun. Pale, paper-thin skin with age spots and wrinkles mapping centuries of study. Eyes are milky white (blind) but "see" through magical sight. Moves slowly, leaning on quarterstaff. Wears dusty gray robes covered in pockets containing scrolls, herbs, and oddities. Thick spectacles for reading (purely aesthetic, she "sees" magically). Smells of old parchment, dried lavender, and ancient dust. Trembling hands from age but mind is sharp as ever.
@@ -13055,6 +12996,67 @@ Traits
 - Fears death will erase her accumulated knowledge
 - Lonely but won't admit it
 - Sometimes wishes she had let herself die naturally
+  
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{monster,frame,wide
+## Hermit Sage Morganna Whisperwind
+*Medium humanoid (human), true neutral*
+___
+**Armor Class** :: 13 (16 with mage armor)
+**Hit Points** :: 99 (18d8 + 18)
+**Speed** :: 25 ft. (slowed by age)
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1) | 12 (+1) | 13 (+1) | 22 (+6) | 18 (+4) | 14 (+2) |
+___
+**Saving Throws** :: Intelligence +11, Wisdom +9
+**Skills** :: Arcana +16 (expertise), History +16 (expertise), Insight +9, Investigation +11, Medicine +9, Nature +11, Perception +9, Religion +11
+**Damage Resistances** :: Psychic
+**Condition Immunities** :: None (deliberately refuses protections)
+**Senses** :: Darkvision 60 ft. (magical), Passive Perception 19, can see magic auras
+**Languages** :: Common, Elvish, Dwarvish, Draconic, Celestial, Infernal, Abyssal, Deep Speech, Primordial, Ancient Common (pre-Worldrend), Telepathy 60 ft.
+**Challenge** :: 9 (5,000 XP)
+___
+***Spellcasting.*** :: 14th-level wizard (School of Divination). Spell save DC 19, +11 to hit with spell attacks.
+***Cantrips (at will).*** :: Light, Mage Hand, Message, Minor Illusion, Prestidigitation
+***1st level (4 slots).*** :: Comprehend Languages, Detect Magic, Identify, Mage Armor*
+***2nd level (3 slots).*** :: Detect Thoughts, Locate Object, See Invisibility
+***3rd level (3 slots).*** :: Clairvoyance, Dispel Magic, Tongues
+***4th level (3 slots).*** :: Arcane Eye, Locate Creature
+***5th level (2 slots).*** :: Contact Other Plane, Legend Lore, Scrying
+***6th level (1 slot).*** :: Find the Path, True Seeing
+***7th level (1 slot).*** :: Etherealness, Sequester
+***Portent (2/Day).*** :: When she or creature she can see makes attack roll, ability check, or saving throw, she can replace the roll with one of two d20s she rolls at dawn. Must decide before roll is made.
+***Expert Divination.*** :: When casts divination spell of 2nd level or higher, regains expended spell slot of lower level.
+***The Third Eye (1/Short Rest).*** :: Can grant herself one of following benefits for 1 hour:
+***Magical Longevity.*** :: Extended life through careful spellcasting and fey pacts. Ages 1 year per 10 years.
+***Scholar's Mind.*** :: Perfect memory for anything read or studied. Can recall exact text from thousands of books.
+***Prophetic Dreams.*** :: Each long rest, DM rolls twice for random encounter/event. She can choose which occurs, or neither.
+***Forbidden Knowledge.*** :: Knows dangerous secrets about pre-Worldrend world, ancient rituals, true names, and lost magic.
+***Library Network.*** :: Has created scrying links to 20 major libraries. Can research in any of them remotely.
+### Actions
+***Quarterstaff.*** :: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. ***Hit.*** 1d6-1 bludgeoning damage (1d8-1 versatile).::
+***Cast a Spell.*** :: Casts a prepared spell.
+***Prophetic Warning (Recharge 5-6).*** :: Uses divination magic to predict enemy's next action. One creature within 60 ft. must reveal their intended action next turn. Morganna's allies gain advantage against that action.
+***Borrowed Knowledge (3/Day).*** :: Taps into collective knowledge of all libraries she's linked to. For 1 hour, has proficiency in any one skill, tool, or language of her choice.
+***Consult the Tome (1/Day).*** :: Opens her ancient grimoire and consults forgotten lore. Casts legend lore without expending spell slot. Takes 1 minute.
+### Reactions
+***Shield.*** :: Casts shield to increase AC by 5 until start of next turn (spell).
+***Forewarned.*** :: After rolling initiative, can swap initiative with one willing creature she can see.
+***Prophetic Save.*** :: When ally she can see within 30 ft. fails saving throw, can use reaction to force reroll.
+### Legendary Actions
+Can take 3 legendary actions, choosing from options below. Only one legendary action can be used at a time and only at end of another creature's turn. Regains spent legendary actions at start of turn.
+**Cantrip.** :: Casts a cantrip.
+**Move.** :: Moves up to half speed.
+**Consult Knowledge (Costs 2).** :: Makes Intelligence check with advantage to recall lore.
+**Scrying Glimpse (Costs 2).** :: Uses scrying to observe a distant location for 1 minute (must have been there before).
+*"I have read every book worth reading twice. Some truths are found only in silence."*
+}}
+
 
 #### Background & History
 Morganna was once a prominent healer in Silverpine, respected for her skill with both medicine and magic. Then she started hearing whispers, voices from dying patients, from the recently dead, from things that had never been alive. The voices drove her from the city, into the wilderness, where their chatter was quieter.
@@ -13105,9 +13107,29 @@ She's not mad, the whispers are real. She communes with spirits, ghosts, and str
 - "I read about this 180 years ago. Let me think... *long pause*"
 - "Interesting. *writes note* Continue speaking."
 
+## Archmage Veridian Starweaver (Expanded)
+
+#### Physical Description
+Tall and slender (6'1", 145 lbs) with the timeless grace of high elves. Silver-white hair worn long and loose, often floating slightly as if in an invisible breeze. Eyes shift color with his mood - blue when calm, violet when using divination, gold when angry. Pale, ageless features marked with faint runic tattoos along his temples (warding glyphs). Wears flowing robes of deep midnight blue with silver star patterns that actually twinkle. The Starlight Staff pulses with gentle light and is never far from his hand.
+\column
+#### Equipment
+- **Robes:** Archmage's Robes (AC 15 + Dex, advantage on saves vs. spells)
+- **Staff:** Starlight Staff (Staff of Power, legendary, +3 quarterstaff, 20 charges)
+- **Ring:** Ring of Spell Storing (contains Shield, Counterspell, Dispel Magic)
+- **Cloak:** Cloak of Protection +1
+- **Amulet:** Amulet of Proof Against Detection and Location
+- **Headband:** Circlet of Intellect (already included in stats)
+- **Spellbook:** "The Cosmic Codex" - contains all wizard spells up to 9th level
+- **Communication Crystals:** 12 sending stones linked to allies
+- **Scrying Orb:** Crystal ball with true seeing
+- **Potions:** 3 potions of supreme healing, 1 potion of invulnerability
+- **Teleportation Chalk:** For creating temporary circles (10 uses)
+
+<div class="col-img">![Archmage Veridian Starweaver (Expanded)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-veridian-starweaver.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
-
 \page
 
 {{monster,frame,wide
@@ -13117,7 +13139,6 @@ ___
 **Armor Class** :: 15 (18 with mage armor)
 **Hit Points** :: 165 (22d8 + 66)
 **Speed** :: 30 ft.
-<div class="col-img">![Archmage Veridian Starweaver (Expanded)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-veridian-starweaver.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -13168,35 +13189,15 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Magic is not power. It is responsibility. Those who forget this truth become tyrants or corpses."*
 }}
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-#### Physical Description
-Tall and slender (6'1", 145 lbs) with the timeless grace of high elves. Silver-white hair worn long and loose, often floating slightly as if in an invisible breeze. Eyes shift color with his mood - blue when calm, violet when using divination, gold when angry. Pale, ageless features marked with faint runic tattoos along his temples (warding glyphs). Wears flowing robes of deep midnight blue with silver star patterns that actually twinkle. The Starlight Staff pulses with gentle light and is never far from his hand.
-
-#### Equipment
-- **Robes:** Archmage's Robes (AC 15 + Dex, advantage on saves vs. spells)
-- **Staff:** Starlight Staff (Staff of Power, legendary, +3 quarterstaff, 20 charges)
-- **Ring:** Ring of Spell Storing (contains Shield, Counterspell, Dispel Magic)
-- **Cloak:** Cloak of Protection +1
-- **Amulet:** Amulet of Proof Against Detection and Location
-- **Headband:** Circlet of Intellect (already included in stats)
-- **Spellbook:** "The Cosmic Codex" - contains all wizard spells up to 9th level
-- **Communication Crystals:** 12 sending stones linked to allies
-- **Scrying Orb:** Crystal ball with true seeing
-- **Potions:** 3 potions of supreme healing, 1 potion of invulnerability
-- **Teleportation Chalk:** For creating temporary circles (10 uses)
-
 #### Personality
-Traits
+**Traits**
 - Speaks in measured, precise sentences
 - Makes direct eye contact that seems to see through deception
 - Often pauses mid-conversation to consult magical sensors
 - Gestures create small sparkles of light
 - Has a dry, understated sense of humor
 - Never panics - has seen too much
-
+\column
 **Ideals:**
 - **Responsibility:** "Those with power must use it to protect the powerless."
 - **Knowledge:** "Understanding magic prevents its misuse."
@@ -13208,6 +13209,10 @@ Traits
 - His students and apprentices
 - The truth about the Worldrend (obsessed with preventing repetition)
 - Tower library (contains irreplaceable texts)
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 **Flaws:**
 - Sometimes too cautious, overthinks decisions
@@ -13248,11 +13253,7 @@ Traits
 - **Interested** (after 2-3 quests): Offers better rewards, more trust
 - **Allied** (after 5+ quests): Shares critical information, major support
 - **Confidant** (late campaign): Reveals full knowledge of shadow cults, recruits party for final missions
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
+\column
 **Secrets He Can Reveal:**
 - The Blackwood heir's true identity and motivations
 - Location of pre-Worldrend artifacts
@@ -13266,8 +13267,6 @@ Traits
 - Has met Matriarch Seraphina Silverleaf
 - Studied under High Mage Arcturus (ghost) through séances
 - Aware of Professor Miranda's research
-
----
 
 #### Background & History
 Born over four centuries ago in the ancient elven city of Aethermere, Veridian showed prodigious magical talent before he could walk. He was formally inducted into the Arcanum at age forty (young for an elf), became a full wizard at one hundred, and achieved the rank of Archmage at two hundred and fifty: the youngest in recorded history.
@@ -13284,6 +13283,10 @@ Despite his power, Veridian is approachable and patient with students. He rememb
 - **Archmage Eldrin Aethermere:** Secret correspondent in Aethoria, sharing research across the Sundering Sea
 - **The Circle of Eight:** Rumored member, though he neither confirms nor denies
 - **High Diviner Celestia Starborn:** His successor as head of Divination, though they disagree on methodology
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 {{descriptive
 #### Secrets (DM Only)
