@@ -17573,15 +17573,29 @@ Now she's being groomed as his successor. The old guard resents her. The young g
 ## Faction Leaders
 
 Key figures who lead the major organizations shaping Tirvandor's political landscape.
-::::::
-{{monster,frame,wide
+
+## Guildmaster Roderic Ironfist
+
+<div class="col-img">![Guildmaster Roderic Ironfist](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-roderic-ironfist-iron-guild.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Basic Information
+- **Race:** Mountain Dwarf
+- **Age:** 187
+- **Location:** Goldreach, Iron Guild Headquarters
+- **Role:** Guildmaster of the Iron Guild, Master of Mercenary Contracts
+- **Alignment:** Lawful Neutral
+- **Class:** Fighter (Iron Guild Veteran) 12 / Guild Artisan Background
+
+#### Physical Description
+Stocky and powerful even by dwarven standards (4'6", 190 lbs). Iron-gray beard braided with guild tokens representing every rank he's held. Deep brown eyes that have appraised thousands of contracts and warriors. Face weathered like old leather, hands scarred from centuries of weapon work. Always wears his ceremonial armor with the Ironfist clan crest.
+
+{{monster,frame
 ## Guildmaster Roderic Ironfist
 *Medium humanoid (dwarf), lawful neutral*
 ___
 **Armor Class** :: 18 (plate armor)
 **Hit Points** :: 136 (16d8 + 64)
 **Speed** :: 25 ft.
-<div class="col-img">![Guildmaster Roderic Ironfist](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-roderic-ironfist-iron-guild.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -17607,16 +17621,7 @@ ___
 ***Parry.*** :: Adds +3 to AC against one melee attack.
 }}
 
-#### Basic Information
-- **Race:** Mountain Dwarf
-- **Age:** 187
-- **Location:** Goldreach, Iron Guild Headquarters
-- **Role:** Guildmaster of the Iron Guild, Master of Mercenary Contracts
-- **Alignment:** Lawful Neutral
-- **Class:** Fighter (Iron Guild Veteran) 12 / Guild Artisan Background
 
-#### Physical Description
-Stocky and powerful even by dwarven standards (4'6", 190 lbs). Iron-gray beard braided with guild tokens representing every rank he's held. Deep brown eyes that have appraised thousands of contracts and warriors. Face weathered like old leather, hands scarred from centuries of weapon work. Always wears his ceremonial armor with the Ironfist clan crest.
 
 #### Personality
 **Traits:**
@@ -17624,14 +17629,15 @@ Stocky and powerful even by dwarven standards (4'6", 190 lbs). Iron-gray beard b
 - Judges everyone by their reliability and skill
 - Honors contracts absolutely, expects others to do the same
 - Has a surprisingly dry sense of humor
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 **Ideals:**
 - **Reliability:** "The Iron Guild's word is iron. Break it, and we break you."
 - **Fair Exchange:** "Every service has a price. Every price should be fair."
 - **Professionalism:** "We're not thugs. We're professionals who happen to kill for money."
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 **Bonds:**
 - The Iron Guild's reputation and honor
@@ -17666,7 +17672,7 @@ The Iron Guild under his leadership is the premier mercenary organization in Tha
 4. **Family Secret:** His great-grandfather made a deal with something in the deep mines. The Ironfist prosperity has a price that comes due every generation.
 5. **The Retirement Plan:** He's grooming three possible successors. He's also testing them against each other. One of them might try to accelerate the succession.
 }}
-
+\column
 #### Plot Hooks
 1. **Contract Work:** The Guild is always hiring skilled adventurers. Prove yourself and doors open.
 2. **The Betrayer's Return:** The traitor from 20 years ago has resurfaced. Roderic wants him found.
@@ -17674,18 +17680,29 @@ The Iron Guild under his leadership is the premier mercenary organization in Tha
 4. **Guild Politics:** Someone's trying to undermine the Guild from within. He needs outside investigators.
 5. **The War Contract:** Both sides of a coming conflict want exclusive Guild services. This decision could shape history.
 
+## Commander Helena Blackstone
+
+<div class="col-img">![Commander Helena Blackstone](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-helena-blackstone-iron-legion.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Basic Information
+- **Race:** Human
+- **Age:** 45
+- **Location:** Kaer Thandros, Iron Legion Barracks
+- **Role:** Commander of the Iron Legion's Second Division, Warden of the Eastern Marches
+- **Alignment:** Lawful Neutral
+- **Class:** Fighter (Iron Guild Veteran) 15
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
+{{monster,frame
 ## Commander Helena Blackstone
 *Medium humanoid (human), lawful neutral*
 ___
 **Armor Class** :: 18 (plate armor)
 **Hit Points** :: 127 (15d8 + 60)
 **Speed** :: 30 ft.
-<div class="col-img">![Commander Helena Blackstone](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-helena-blackstone-iron-legion.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -17710,14 +17727,6 @@ ___
 ***Inspiring Strike (1/Rest).*** :: On hit, all allies within 30 feet can make an attack as a reaction.
 }}
 
-#### Basic Information
-- **Race:** Human
-- **Age:** 45
-- **Location:** Kaer Thandros, Iron Legion Barracks
-- **Role:** Commander of the Iron Legion's Second Division, Warden of the Eastern Marches
-- **Alignment:** Lawful Neutral
-- **Class:** Fighter (Iron Guild Veteran) 15
-
 #### Physical Description
 Tall and commanding (5'11", 170 lbs), with the weathered look of someone who's spent decades on campaign. Iron-gray hair cut short, sharp gray eyes that have seen too much death. A distinctive scar runs across her throat, a near-fatal wound that left her voice permanently hoarse. Always in armor, always armed.
 
@@ -17732,9 +17741,6 @@ Tall and commanding (5'11", 170 lbs), with the weathered look of someone who's s
 - **Duty:** "The Legion is my family. I will not fail them."
 - **Sacrifice:** "Officers eat last. Officers sleep last. Officers die first."
 - **Competence:** "I don't care about birth or breeding. Can you fight? Can you lead?"
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 **Bonds:**
 - The soldiers under her command
@@ -17761,7 +17767,6 @@ Now commands the Legion's Second Division, responsible for the eastern marches. 
 - **Enemy:** House Valdren (the family that tried to have her killed)
 - **Family:** Daughter Sera, now 19, training as a healer in Silverpine
 
-\column
 
 {{descriptive
 #### Secrets (DM Only)
@@ -17775,22 +17780,37 @@ Now commands the Legion's Second Division, responsible for the eastern marches. 
 #### Plot Hooks
 1. **House Valdren:** They're making another move. She needs the threat ended permanently. Legally.
 2. **Daughter's Danger:** Sera is in trouble in Silverpine. Helena can't leave her post. She needs trusted agents.
-3. **The Succession:** General Steelheart wants her ready for command. The test might be lethal.
-4. **Border Crisis:** Something's happening on the eastern marches. She needs scouts and investigators.
-5. **The Old Offer:** The Aethorian general has returned with a better offer. She's tempted.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
+4. **The Succession:** General Steelheart wants her ready for command. The test might be lethal.
+5. **Border Crisis:** Something's happening on the eastern marches. She needs scouts and investigators.
+6. **The Old Offer:** The Aethorian general has returned with a better offer. She's tempted.
+
+## Garrick "Ironheart" Hammerfist
+
+<div class="col-img">![Garrick Ironheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-garrick-ironheart-guildmaster.jpg){width:315px,mix-blend-mode:multiply}</div>
+
+#### Basic Information
+- **Race:** Mountain Dwarf
+- **Age:** 156
+- **Location:** Goldreach, The Grand Forge
+- **Role:** Master Smith, Guildmaster of the Smiths' Guild
+- **Alignment:** Neutral
+- **Class:** Artificer (Battle Smith) 12
+
+#### Physical Description
+Powerfully built (4'4", 180 lbs), with arms like tree trunks from a century and a half at the forge. Ruddy face permanently flushed from heat exposure, copper-red beard braided with metal rings. Missing the last two fingers of his left hand (forge accident). Eyes are an unusual amber color, seeming to glow near flames.
+
+{{monster,frame
 ## Garrick "Ironheart" Hammerfist
 *Medium humanoid (dwarf), neutral*
 ___
 **Armor Class** :: 16 (chain mail)
 **Hit Points** :: 112 (15d8 + 45)
 **Speed** :: 25 ft.
-<div class="col-img">![Garrick Ironheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/faction-garrick-ironheart-guildmaster.jpg){width:315px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -17814,17 +17834,6 @@ ___
 ***Forge Blast (Recharge 5-6).*** :: 30-foot cone of forge fire. DC 14 Dexterity save, 6d6 fire damage (half on save).
 ***Command Ironheart.*** :: Ironheart takes the Attack, Dash, or Help action.
 }}
-
-#### Basic Information
-- **Race:** Mountain Dwarf
-- **Age:** 156
-- **Location:** Goldreach, The Grand Forge
-- **Role:** Master Smith, Guildmaster of the Smiths' Guild
-- **Alignment:** Neutral
-- **Class:** Artificer (Battle Smith) 12
-
-#### Physical Description
-Powerfully built (4'4", 180 lbs), with arms like tree trunks from a century and a half at the forge. Ruddy face permanently flushed from heat exposure, copper-red beard braided with metal rings. Missing the last two fingers of his left hand (forge accident). Eyes are an unusual amber color, seeming to glow near flames.
 
 #### Personality
 **Traits:**
@@ -17890,14 +17899,36 @@ His masterwork is Ironheart, a steel defender so sophisticated it's nearly alive
 
 ## Goldreach Figures
 
-{{monster,frame,wide
+## Captain Aldren Blackwood
+
+<div class="col-img">![Captain Aldren Blackwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/gr-captain-aldren-blackwood-mercenary.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Basic Information
+- **Race:** Human
+- **Age:** 34
+- **Location:** Goldreach (ship: *The Lucky Bastard*)
+- **Role:** Mercenary Captain, Privateer, Occasional Smuggler
+- **Alignment:** Chaotic Neutral
+- **Class:** Rogue (Swashbuckler) 10
+
+#### Physical Description
+Roguishly handsome (6'0", 175 lbs), with the lean build of someone who lives by speed and cunning. Black hair worn long and often salt-crusted, dark eyes that are always calculating odds. A thin scar runs from his left ear to his jaw. Dresses flamboyantly when on shore, practically when at sea.
+
+#### Personality
+**Traits:**
+- Laughs easily, especially at danger
+- Always has three escape plans
+- Loyal to his crew above everything else
+- Can't resist a good story or a bad bet
+
+
+{{monster,frame
 ## Captain Aldren Blackwood
 *Medium humanoid (human), chaotic neutral*
 ___
 **Armor Class** :: 16 (studded leather +1, Dexterity)
 **Hit Points** :: 97 (13d8 + 39)
 **Speed** :: 30 ft.
-<div class="col-img">![Captain Aldren Blackwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/gr-captain-aldren-blackwood-mercenary.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -17921,31 +17952,13 @@ ___
 ***Dirty Fighting (Recharge 5-6).*** :: Next successful attack blinds target for 1 round (DC 15 Constitution save negates).
 }}
 
-#### Basic Information
-- **Race:** Human
-- **Age:** 34
-- **Location:** Goldreach (ship: *The Lucky Bastard*)
-- **Role:** Mercenary Captain, Privateer, Occasional Smuggler
-- **Alignment:** Chaotic Neutral
-- **Class:** Rogue (Swashbuckler) 10
 
-#### Physical Description
-Roguishly handsome (6'0", 175 lbs), with the lean build of someone who lives by speed and cunning. Black hair worn long and often salt-crusted, dark eyes that are always calculating odds. A thin scar runs from his left ear to his jaw. Dresses flamboyantly when on shore, practically when at sea.
 
-#### Personality
-**Traits:**
-- Laughs easily, especially at danger
-- Always has three escape plans
-- Loyal to his crew above everything else
-- Can't resist a good story or a bad bet
 
 **Ideals:**
 - **Freedom:** "The sea doesn't care about your titles or laws. Neither do I."
 - **Loyalty:** "My crew is my family. Betray them, you're dead."
 - **Adventure:** "What's the point of living if you're not really living?"
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 **Bonds:**
 - His ship and crew
@@ -17958,6 +17971,10 @@ Roguishly handsome (6'0", 175 lbs), with the lean build of someone who lives by 
 - Doesn't know when to walk away from a challenge
 - The Blackwood name is a burden he can't escape
 - Runs from emotional commitments
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 #### Background & History
 Claims to be a bastard son of some Blackwood, refuses to say which one. Given the timing and the notorious House Blackwood tragedy, speculation runs wild. Some think he's Corvus's half-brother. Others think he's making it up for the reputation.
@@ -17996,17 +18013,29 @@ Now operates as a "legitimate" privateer with letters of marque from Thaldros, t
 {{footnote Part IV: NPCs}}
 \page
 
-
 ## Historical & Legendary Figures
 
-{{monster,frame,wide
+## Aldric the Chain-Breaker (Historical)
+
+<div class="col-img">![Aldric the Chain-Breaker](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/historical-aldric-chain-breaker.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Historical Information
+- **Lived:** 612-689 CR
+- **Role:** Liberator, Rebel Leader, Folk Hero
+- **Legacy:** Founded the principles that became Aethorian democracy
+
+### The Legend
+Aldric was born a slave in the mines of what is now Ironhold. At age 20, he led a revolt that freed over 3,000 slaves, the largest slave rebellion in recorded history. What began as survival became a movement.
+
+Over the next 47 years, he waged guerrilla war against slaveholding lords, liberated countless enslaved people, and established the first free settlements that would eventually become Aethoria. He died not in battle, but peacefully, surrounded by the children of people he'd freed.
+
+{{monster,frame
 ## Aldric the Chain-Breaker (Historical)
 *Medium humanoid (human), chaotic good*
 ___
 **Armor Class** :: 18 (plate armor)
 **Hit Points** :: 178 (17d10 + 85)
 **Speed** :: 30 ft.
-<div class="col-img">![Aldric the Chain-Breaker](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/historical-aldric-chain-breaker.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -18034,15 +18063,7 @@ Can take 3 legendary actions.
 **Break Chains (Costs 3).** :: All restrained or grappled allies within 60 feet are immediately freed.
 }}
 
-#### Historical Information
-- **Lived:** 612-689 CR
-- **Role:** Liberator, Rebel Leader, Folk Hero
-- **Legacy:** Founded the principles that became Aethorian democracy
 
-### The Legend
-Aldric was born a slave in the mines of what is now Ironhold. At age 20, he led a revolt that freed over 3,000 slaves, the largest slave rebellion in recorded history. What began as survival became a movement.
-
-Over the next 47 years, he waged guerrilla war against slaveholding lords, liberated countless enslaved people, and established the first free settlements that would eventually become Aethoria. He died not in battle, but peacefully, surrounded by the children of people he'd freed.
 
 ### Historical Impact
 - His "Chain-Breaker's Creed" forms the philosophical foundation of Aethorian democracy
@@ -18066,18 +18087,18 @@ Over the next 47 years, he waged guerrilla war against slaveholding lords, liber
 4. **The Ghost's Warning:** His spirit has appeared, warning of returning slavery. What does it mean?
 5. **The False Prophet:** Someone claims to be Aldric reborn. They're gathering followers.
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+## Ryldak the Ancient
 
-{{monster,frame,wide
+<div class="col-img">![Ryldak the Ancient](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/ancient-dragon-ryldak.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+
+{{monster,frame
 ## Ryldak the Ancient
 *Gargantuan dragon, chaotic evil*
 ___
 **Armor Class** :: 22 (natural armor)
 **Hit Points** :: 546 (28d20 + 252)
 **Speed** :: 40 ft., fly 80 ft., swim 40 ft.
-<div class="col-img">![Ryldak the Ancient](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/ancient-dragon-ryldak.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -18114,18 +18135,17 @@ Can take 3 legendary actions.
 - **Role:** Ancient Wyrm, World-Shaper, Keeper of Pre-Worldrend Knowledge
 - **Alignment:** Chaotic Evil
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 ### Description
 Ryldak is massive even by ancient dragon standards, a living mountain of crimson scales turned black at the edges from millennia of fire. His wings are tattered but still functional, scarred from battles with beings that no longer exist. His eyes burn with intelligence and contempt for the short-lived races that have forgotten how the world truly works.
-
-\column
 
 ### History
 Ryldak was already ancient when the Worldrend occurred. He witnessed the splitting of the continents, the deaths of gods, and the fall of civilizations that modern scholars don't even know existed.
 
 He's spent the last thousand years in semi-hibernation, waking occasionally to remind the world that dragons still exist. His last major activity was a century ago when he destroyed a dwarven expedition that ventured too close to his lair.
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Personality
 **Traits:**
@@ -18146,8 +18166,6 @@ He's spent the last thousand years in semi-hibernation, waking occasionally to r
 - **Interest:** The Blackwood bloodline (knows their secret)
 - **Enemy:** Dragonslayers, artifact hunters
 
-\column
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Worldrend Truth:** He knows exactly what caused it and who was responsible. He's never told anyone.
@@ -18157,6 +18175,8 @@ He's spent the last thousand years in semi-hibernation, waking occasionally to r
 5. **The Plan:** He believes a second Worldrend is coming. He's preparing.
 }}
 
+\column
+
 #### Plot Hooks
 1. **Knowledge Seeker:** He has information the party needs. What will they offer? What will he demand?
 2. **The Artifact:** Someone's trying to steal from his hoard. He might hire rather than hunt.
@@ -18164,18 +18184,28 @@ He's spent the last thousand years in semi-hibernation, waking occasionally to r
 4. **The Warning:** He emerges to warn of coming catastrophe. Is it genuine concern or manipulation?
 5. **Dragonslayers:** Someone's organizing a hunt. Is it heroic or foolish?
 
+## Young Tom (The Prophecy Child)
+
+<div class="col-img">![Young Tom](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/young-tom-prophecy-child.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Basic Information
+- **Race:** Human
+- **Age:** 9
+- **Location:** Moves frequently (currently sheltered by the Silver Circle)
+- **Role:** Prophetic Oracle, Innocent Caught in Greater Events
+- **Alignment:** Neutral Good
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
+{{monster,frame
 ## Young Tom (The Prophecy Child)
 *Small humanoid (human), neutral good*
 ___
 **Armor Class** :: 10 (no armor)
 **Hit Points** :: 14 (4d6)
 **Speed** :: 25 ft.
-<div class="col-img">![Young Tom](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/young-tom-prophecy-child.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -18197,25 +18227,15 @@ ___
 ***Draw the Unseen.*** :: Tom compulsively draws his visions. The drawings often reveal more than his spoken prophecies.
 }}
 
-#### Basic Information
-- **Race:** Human
-- **Age:** 9
-- **Location:** Moves frequently (currently sheltered by the Silver Circle)
-- **Role:** Prophetic Oracle, Innocent Caught in Greater Events
-- **Alignment:** Neutral Good
-
 ### Description
 A small, thin boy with unruly brown hair and unusually old eyes for his age. When not in the grip of visions, he's a normal if somewhat quiet child who likes drawing and dislikes vegetables. During visions, his eyes go white and he speaks in voices not his own.
-\column
+
 ### Background
 Tom was born during a rare celestial alignment to a family of simple farmers. His visions began at age 5, at first dismissed as nightmares, then recognized as something more when his "dream" about the barn fire came true.
 
 Word spread. Some called him blessed, others cursed. His parents, frightened for his safety, sent him to the Silver Circle for protection. He's been moved between safe houses ever since, as various factions try to claim or silence him.
 
 He doesn't understand why everyone wants him. He just wants to stop seeing scary things and have friends his own age.
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 ### The Prophecies
 Tom has made several prophecies that have proven true:
@@ -18248,17 +18268,25 @@ Tom has made several prophecies that have proven true:
 - **Seekers:** Multiple factions want him (throne, church, Syndicate, both campaigns' villains)
 - **Family:** Parents in hiding (miss him terribly)
 
-\column
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Big Vision:** He's seen a vision of the world ending, or being saved. He can't tell which. The deciding factor is "the choice of shadows."
 2. **The Draw:** His drawings contain more information than even he realizes. One includes a detailed map to something.
 3. **The Connection:** He's somehow connected to the Worldrend itself. His visions are glimpses of possibilities branching from that event.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+
+{{descriptive
+
 4. **His Parents:** They're not just in hiding. They're being hunted because they know something about his birth.
 5. **The Block:** Someone—or something—is blocking some of his visions. Whatever he's not seeing might be more important than what he is.
 }}
-
+\column
 #### Plot Hooks
 1. **Protect the Child:** Someone's trying to kidnap him. Standard protection mission with massive stakes.
 2. **Interpret the Vision:** He's had a vision about the party. They need to figure out what it means.
@@ -18272,16 +18300,26 @@ Tom has made several prophecies that have proven true:
 
 ## Miscellaneous NPCs
 
- ::
+## Marta Goodbarrel
 
-{{monster,frame,wide
+<div class="col-img">![Marta Goodbarrel](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/marta-goodbarrel-innkeeper.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+**Role:** Owner of The Goodbarrel Inn, Goldreach ::
+
+### Background
+
+Marta has run the Goodbarrel for 30 years. Her inn is neutral ground where deals get made. She hears everything and shares nothing. Former adventurer who retired after losing her party to a dragon. Keeps a loaded crossbow under the bar.
+
+#### Connections
+Knows everyone in Goldreach. Owes the Syndicate nothing (paid off years ago). Secret contact for the Silver Circle.
+
+{{monster,frame
 ## Marta Goodbarrel
 *Small humanoid (halfling), neutral good*
 ___
 **Armor Class** :: 11
 **Hit Points** :: 27 (6d6 + 6)
 **Speed** :: 25 ft.
-<div class="col-img">![Marta Goodbarrel](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/marta-goodbarrel-innkeeper.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -18300,15 +18338,8 @@ ___
 ***Hidden Crossbow.*** :: Ranged Weapon Attack: +3 to hit, range 30/120 ft., one target. ***Hit.*** 1d6+1 piercing damage.::
 }}
 
-**Role:** Owner of The Goodbarrel Inn, Goldreach ::
 
-### Background
 
-Marta has run the Goodbarrel for 30 years. Her inn is neutral ground where deals get made. She hears everything and shares nothing. Former adventurer who retired after losing her party to a dragon. Keeps a loaded crossbow under the bar.
-
-#### Connections
-Knows everyone in Goldreach. Owes the Syndicate nothing (paid off years ago). Secret contact for the Silver Circle.
-\column
 {{descriptive
 #### Secrets (DM Only)
 1. Hidden room for refugees. 
@@ -18326,14 +18357,32 @@ Knows everyone in Goldreach. Owes the Syndicate nothing (paid off years ago). Se
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
+## Grimjaw
+
+<div class="col-img">![Grimjaw](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/grimjaw-orc-enforcer.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+**Role:** Syndicate Enforcer, Debt Collector ::
+
+### Background
+Grimjaw collects debts for the Syndicate. Never kills unless ordered, broken bones heal, corpses don't pay. Surprisingly honorable: won't hurt children, keeps his word. The Syndicate values his reliability.
+
+#### Connections
+Reports to mid-level Syndicate boss. Respected by other enforcers. Has a halfling accountant he protects.
+
+{{descriptive
+#### Secrets (DM Only)
+1. Sends money to an orcish orphanage. 
+2. Killed his previous boss who ordered harm to children. 
+3. The Syndicate doesn't know about either.
+}}
+
+{{monster,frame
 ## Grimjaw
 *Medium humanoid (orc), lawful evil*
 ___
 **Armor Class** :: 16 (chain mail)
 **Hit Points** :: 93 (11d8 + 44)
 **Speed** :: 30 ft.
-<div class="col-img">![Grimjaw](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/grimjaw-orc-enforcer.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -18354,21 +18403,6 @@ ___
 ***Brutal Strike (Recharge 5-6).*** :: Single attack deals extra 2d12 damage on hit.
 }}
 
-**Role:** Syndicate Enforcer, Debt Collector ::
-
-### Background
-Grimjaw collects debts for the Syndicate. Never kills unless ordered, broken bones heal, corpses don't pay. Surprisingly honorable: won't hurt children, keeps his word. The Syndicate values his reliability.
-
-#### Connections
-Reports to mid-level Syndicate boss. Respected by other enforcers. Has a halfling accountant he protects.
-
-\column
-{{descriptive
-#### Secrets (DM Only)
-1. Sends money to an orcish orphanage. 
-2. Killed his previous boss who ordered harm to children. 
-3. The Syndicate doesn't know about either.
-}}
 
 ### Hooks
 - Could be turned against Syndicate. 
@@ -18380,14 +18414,38 @@ Reports to mid-level Syndicate boss. Respected by other enforcers. Has a halflin
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
+## Elena Ravencroft
+
+<div class="col-img">![Elena Ravencroft](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elena-ravencroft-fence.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+**Role:** Fence, Black Market Dealer, Information Broker
+
+### Background
+Elena runs Goldreach's best fence operation from behind a legitimate antique shop. Professional, discreet, never asks questions. Former noble who lost everything to gambling, rebuilt from nothing.
+
+#### Connections
+Knows every thief in the city. Syndicate tolerates her independence because she's useful. Has noble contacts who buy "recovered heirlooms."
+
+{{descriptive
+#### Secrets (DM Only) 
+1. Still owns her family's title (in exile). 
+2. Has one item she'll never sell, her mother's necklace, which contains a map. 
+3. Helps escaped slaves quietly.
+}}
+\column
+### Hooks 
+- Can fence unusual items. 
+- Might know who stole something. 
+- Needs help recovering the one thing she cares about.
+
+
+{{monster,frame
 ## Elena Ravencroft
 *Medium humanoid (human), neutral*
 ___
 **Armor Class** :: 14 (leather armor)
 **Hit Points** :: 44 (8d8 + 8)
 **Speed** :: 30 ft.
-<div class="col-img">![Elena Ravencroft](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elena-ravencroft-fence.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -18404,57 +18462,14 @@ ___
 ***Dagger.*** :: Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. ***Hit.*** 1d4+3 piercing damage.::
 }}
 
-**Role:** Fence, Black Market Dealer, Information Broker
-
-### Background
-Elena runs Goldreach's best fence operation from behind a legitimate antique shop. Professional, discreet, never asks questions. Former noble who lost everything to gambling, rebuilt from nothing.
-
-#### Connections
-Knows every thief in the city. Syndicate tolerates her independence because she's useful. Has noble contacts who buy "recovered heirlooms."
-\column
-{{descriptive
-#### Secrets (DM Only) 
-1. Still owns her family's title (in exile). 
-2. Has one item she'll never sell, her mother's necklace, which contains a map. 
-3. Helps escaped slaves quietly.
-}}
-
-### Hooks 
-- Can fence unusual items. 
-- Might know who stole something. 
-- Needs help recovering the one thing she cares about.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Whisper
-*Medium humanoid (human), chaotic neutral*
-___
-**Armor Class** :: 16 (studded leather)
-**Hit Points** :: 78 (12d8 + 24)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Whisper](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/master-thief-whisper.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 20 (+5) | 14 (+2) | 16 (+3) | 14 (+2) | 12 (+1) |
-___
-**Saving Throws** :: Dexterity +9, Intelligence +7
-**Skills** :: Acrobatics +9, Perception +6, Sleight of Hand +13, Stealth +13
-**Senses** :: Passive Perception 16
-**Languages** :: Common, Thieves' Cant, Elvish
-**Challenge** :: 8 (3,900 XP)
-___
-***Cunning Action.*** :: Dash, Disengage, or Hide as bonus action.
-***Sneak Attack (5d6).*** :: Extra damage when advantage or ally adjacent.
-***Evasion.*** :: No damage on successful Dex save, half on failure.
-***Legendary Thief.*** :: Advantage on checks to bypass locks, traps, and security.
-### Actions
-***Multiattack.*** :: Makes two dagger attacks.
-***Dagger +2.*** :: Melee or Ranged Weapon Attack: +11 to hit, reach 5 ft. or range 20/60 ft., one target. ***Hit.*** 1d4+7 piercing damage.::
-}}
 
 **Role:** Legendary Thief, Independent Operator
 
@@ -18477,35 +18492,42 @@ No known allies. Every thieves' guild knows the name. Has humiliated the Syndica
 - Could be hired to steal something back. 
 - The dying sibling creates vulnerability.
 
+
+{{monster,frame
+## Whisper
+*Medium humanoid (human), chaotic neutral*
+___
+**Armor Class** :: 16 (studded leather)
+**Hit Points** :: 78 (12d8 + 24)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 20 (+5) | 14 (+2) | 16 (+3) | 14 (+2) | 12 (+1) |
+___
+**Saving Throws** :: Dexterity +9, Intelligence +7
+**Skills** :: Acrobatics +9, Perception +6, Sleight of Hand +13, Stealth +13
+**Senses** :: Passive Perception 16
+**Languages** :: Common, Thieves' Cant, Elvish
+**Challenge** :: 8 (3,900 XP)
+___
+***Cunning Action.*** :: Dash, Disengage, or Hide as bonus action.
+***Sneak Attack (5d6).*** :: Extra damage when advantage or ally adjacent.
+***Evasion.*** :: No damage on successful Dex save, half on failure.
+***Legendary Thief.*** :: Advantage on checks to bypass locks, traps, and security.
+### Actions
+***Multiattack.*** :: Makes two dagger attacks.
+***Dagger +2.*** :: Melee or Ranged Weapon Attack: +11 to hit, reach 5 ft. or range 20/60 ft., one target. ***Hit.*** 1d4+7 piercing damage.::
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Kael Ironforge
-*Medium humanoid (dwarf), neutral good*
-___
-**Armor Class** :: 14 (leather apron, shield)
-**Hit Points** :: 52 (8d8 + 16)
-**Speed** :: 25 ft.
+
 <div class="col-img">![Kael Ironforge](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/kael-ironforge-blacksmith.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 16 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 13 (+1) | 11 (+0) |
-___
-**Skills** :: Athletics +5, Smith's Tools +7
-**Damage Resistances** :: Fire, Poison
-**Senses** :: Darkvision 60 ft., Passive Perception 11
-**Languages** :: Common, Dwarvish
-**Challenge** :: 2 (450 XP)
-___
-***Master Smith.*** :: Creates masterwork weapons (+1 to hit, non-magical) in half normal time.
-***Forge Hardened.*** :: Resistance to fire damage from years at the forge.
-### Actions
-***Warhammer.*** :: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. ***Hit.*** 1d8+3 bludgeoning damage.::
-***Forge Hammer (improvised).*** :: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. ***Hit.*** 2d6+3 bludgeoning damage.::
-}}
 
 **Role:** Master Blacksmith, Weapon Crafter
 
@@ -18528,36 +18550,40 @@ Supplies the city guard. Former customer of Garrick Ironheart (mutual respect). 
 - Needs help clearing his name. 
 - Might know about rare metals or techniques.
 
+
+{{monster,frame
+## Kael Ironforge
+*Medium humanoid (dwarf), neutral good*
+___
+**Armor Class** :: 14 (leather apron, shield)
+**Hit Points** :: 52 (8d8 + 16)
+**Speed** :: 25 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 16 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 13 (+1) | 11 (+0) |
+___
+**Skills** :: Athletics +5, Smith's Tools +7
+**Damage Resistances** :: Fire, Poison
+**Senses** :: Darkvision 60 ft., Passive Perception 11
+**Languages** :: Common, Dwarvish
+**Challenge** :: 2 (450 XP)
+___
+***Master Smith.*** :: Creates masterwork weapons (+1 to hit, non-magical) in half normal time.
+***Forge Hardened.*** :: Resistance to fire damage from years at the forge.
+### Actions
+***Warhammer.*** :: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. ***Hit.*** 1d8+3 bludgeoning damage.::
+***Forge Hammer (improvised).*** :: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. ***Hit.*** 2d6+3 bludgeoning damage.::
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Viktor Coldstone
-*Medium humanoid (human), lawful evil*
-___
-**Armor Class** :: 15 (chain shirt)
-**Hit Points** :: 71 (11d8 + 22)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Viktor Coldstone](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/viktor-coldstone-interrogator.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 14 (+2) | 14 (+2) | 14 (+2) | 16 (+3) | 18 (+4) | 14 (+2) |
-___
-**Saving Throws** :: Intelligence +6, Wisdom +7
-**Skills** :: Insight +10, Intimidation +8, Investigation +6, Perception +7
-**Senses** :: Passive Perception 17
-**Languages** :: Common, Dwarvish, Elvish
-**Challenge** :: 5 (1,800 XP)
-___
-***Truth Seeker.*** :: Advantage on Insight checks to detect lies.
-***Interrogator's Patience.*** :: Can conduct interrogations for hours without fatigue.
-***Cold Read.*** :: After 1 minute of conversation, knows target's emotional state and likely motivations.
-### Actions
-***Dagger.*** :: Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. ***Hit.*** 1d4+2 piercing damage.::
-***Break Will (Recharge 5-6).*** :: Target in conversation must make DC 15 Wisdom save or be compelled to answer one question truthfully.
-}}
 
 **Role:** Royal Interrogator, Truth Seeker
 
@@ -18581,37 +18607,40 @@ Reports to the Crown directly. Mordain respects his skill, distrusts his motives
 - Might investigate the party. 
 - The son's case could humanize him.
 
+
+{{monster,frame
+## Viktor Coldstone
+*Medium humanoid (human), lawful evil*
+___
+**Armor Class** :: 15 (chain shirt)
+**Hit Points** :: 71 (11d8 + 22)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 14 (+2) | 14 (+2) | 14 (+2) | 16 (+3) | 18 (+4) | 14 (+2) |
+___
+**Saving Throws** :: Intelligence +6, Wisdom +7
+**Skills** :: Insight +10, Intimidation +8, Investigation +6, Perception +7
+**Senses** :: Passive Perception 17
+**Languages** :: Common, Dwarvish, Elvish
+**Challenge** :: 5 (1,800 XP)
+___
+***Truth Seeker.*** :: Advantage on Insight checks to detect lies.
+***Interrogator's Patience.*** :: Can conduct interrogations for hours without fatigue.
+***Cold Read.*** :: After 1 minute of conversation, knows target's emotional state and likely motivations.
+### Actions
+***Dagger.*** :: Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. ***Hit.*** 1d4+2 piercing damage.::
+***Break Will (Recharge 5-6).*** :: Target in conversation must make DC 15 Wisdom save or be compelled to answer one question truthfully.
+}}
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-
-{{monster,frame,wide
 ## Sir Garrett Ironhelm
-*Medium humanoid (human), lawful good*
-___
-**Armor Class** :: 18 (plate armor)
-**Hit Points** :: 85 (10d8 + 40)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Sir Garrett](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sir-garrett-iron-knight.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 18 (+4) | 10 (+0) | 18 (+4) | 11 (+0) | 14 (+2) | 14 (+2) |
-___
-**Saving Throws** :: Wisdom +5, Charisma +5
-**Skills** :: Athletics +7, Religion +3
-**Senses** :: Passive Perception 12
-**Languages** :: Common
-**Challenge** :: 5 (1,800 XP)
-___
-***Divine Smite.*** :: Expends spell slot to deal extra 2d8 radiant damage on hit.
-***Lay on Hands (30 HP pool).*** :: Heals or cures disease/poison by touch.
-***Aura of Protection.*** :: Allies within 10 ft. add +2 to saves.
-### Actions
-***Multiattack.*** :: Makes two longsword attacks.
-***Longsword.*** :: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. ***Hit.*** 1d8+4 slashing damage.::
-}}
 
 **Role:** Knight Errant, Paladin of Thandros
 
@@ -18634,37 +18663,40 @@ Oath-bound to the crown. Admires General Steelheart. Distrusts the Inquisition's
 - Could need rescue from his own idealism. 
 - The inappropriate love interest creates drama.
 
+
+{{monster,frame
+## Sir Garrett Ironhelm
+*Medium humanoid (human), lawful good*
+___
+**Armor Class** :: 18 (plate armor)
+**Hit Points** :: 85 (10d8 + 40)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 18 (+4) | 10 (+0) | 18 (+4) | 11 (+0) | 14 (+2) | 14 (+2) |
+___
+**Saving Throws** :: Wisdom +5, Charisma +5
+**Skills** :: Athletics +7, Religion +3
+**Senses** :: Passive Perception 12
+**Languages** :: Common
+**Challenge** :: 5 (1,800 XP)
+___
+***Divine Smite.*** :: Expends spell slot to deal extra 2d8 radiant damage on hit.
+***Lay on Hands (30 HP pool).*** :: Heals or cures disease/poison by touch.
+***Aura of Protection.*** :: Allies within 10 ft. add +2 to saves.
+### Actions
+***Multiattack.*** :: Makes two longsword attacks.
+***Longsword.*** :: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. ***Hit.*** 1d8+4 slashing damage.::
+}}
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Sister Marian
-*Medium humanoid (human), lawful good*
-___
-**Armor Class** :: 16 (chain mail, shield)
-**Hit Points** :: 58 (9d8 + 18)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Sister Marian](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sister-marian-saint.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 (+1) | 10 (+0) | 14 (+2) | 12 (+1) | 18 (+4) | 15 (+2) |
-___
-**Skills** :: Insight +7, Medicine +7, Religion +4
-**Senses** :: Passive Perception 14
-**Languages** :: Common, Celestial
-**Challenge** :: 4 (1,100 XP)
-___
-***Spellcasting.*** :: 7th-level cleric. DC 15, +7 to hit.
-***Cantrips.*** :: Guidance, Light, Sacred Flame, Spare the Dying
-***1st (4).*** :: Cure Wounds, Detect Evil, Healing Word, Shield of Faith
-***2nd (3).*** :: Lesser Restoration, Prayer of Healing, Spiritual Weapon
-***3rd (3).*** :: Mass Healing Word, Revivify, Spirit Guardians
-***4th (1).*** :: Death Ward
-### Actions
-***Mace.*** :: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. ***Hit.*** 1d6+1 bludgeoning damage.::
-}}
 
 **Role:** Healer, Saint-in-Making, Voice of Compassion
 
@@ -18687,18 +18719,61 @@ Beloved by the poor. Church hierarchy is uncomfortable with her. The Syndicate l
 - Could be threatened to pressure players. 
 - Might need protection from someone she healed who turned on her.
 
+{{monster,frame
+## Sister Marian
+*Medium humanoid (human), lawful good*
+___
+**Armor Class** :: 16 (chain mail, shield)
+**Hit Points** :: 58 (9d8 + 18)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 12 (+1) | 10 (+0) | 14 (+2) | 12 (+1) | 18 (+4) | 15 (+2) |
+___
+**Skills** :: Insight +7, Medicine +7, Religion +4
+**Senses** :: Passive Perception 14
+**Languages** :: Common, Celestial
+**Challenge** :: 4 (1,100 XP)
+___
+***Spellcasting.*** :: 7th-level cleric. DC 15, +7 to hit.
+***Cantrips.*** :: Guidance, Light, Sacred Flame, Spare the Dying
+***1st (4).*** :: Cure Wounds, Detect Evil, Healing Word, Shield of Faith
+***2nd (3).*** :: Lesser Restoration, Prayer of Healing, Spiritual Weapon
+***3rd (3).*** :: Mass Healing Word, Revivify, Spirit Guardians
+***4th (1).*** :: Death Ward
+### Actions
+***Mace.*** :: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. ***Hit.*** 1d6+1 bludgeoning damage.::
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
+## Sister Mortua
+
+<div class="col-img">![Sister Mortua](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sister-mortua-dark-priest.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+**Role:** Death Priest, Guardian of the Dead, Conflicted Agent
+
+### Background
+Sister Mortua serves Mordain the Sentinel, believing she ensures the dead rest peacefully and hunts those who disturb them. She is grim but principled, death is natural, necromancy is obscene violation. However, her rigid worldview has made her vulnerable to manipulation.
+
+**The Unbound Deception:** Sister Mortua has been recruited by The Unbound under false pretenses. She believes The Unbound are working to *prevent* the Second Worldrend by recovering dangerous artifacts before corrupt governments misuse them. She doesn't know about Lord Shadows's true goals or the plan to wake Dragon Infernalix. In her mind, she's preventing catastrophe, not enabling it.
+
+When the truth becomes clear, she faces a crisis: follow orders from those who deceived her, or break her oath and oppose the very organization she joined to serve the greater good?
+
+#### Connections 
+Works with the Inquisition on undead matters (unknowingly passing intelligence to The Unbound). Respects High Inquisitor Mordain (shared deity). Secretly reports to Lord Shadows (believes him righteous).
+
+{{monster,frame
 ## Sister Mortua
 *Medium humanoid (human), lawful neutral*
 ___
 **Armor Class** :: 15 (chain shirt)
 **Hit Points** :: 65 (10d8 + 20)
 **Speed** :: 30 ft.
-<div class="col-img">![Sister Mortua](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/sister-mortua-dark-priest.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -18722,21 +18797,6 @@ ___
 ***Scythe.*** :: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. ***Hit.*** 1d10 slashing damage.::
 }}
 
-**Role:** Death Priest, Guardian of the Dead, Conflicted Agent
-
-### Background
-Sister Mortua serves Mordain the Sentinel, believing she ensures the dead rest peacefully and hunts those who disturb them. She is grim but principled, death is natural, necromancy is obscene violation. However, her rigid worldview has made her vulnerable to manipulation.
-\column
-**The Unbound Deception:** Sister Mortua has been recruited by The Unbound under false pretenses. She believes The Unbound are working to *prevent* the Second Worldrend by recovering dangerous artifacts before corrupt governments misuse them. She doesn't know about Lord Shadows's true goals or the plan to wake Dragon Infernalix. In her mind, she's preventing catastrophe, not enabling it.
-
-When the truth becomes clear, she faces a crisis: follow orders from those who deceived her, or break her oath and oppose the very organization she joined to serve the greater good?
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-#### Connections 
-Works with the Inquisition on undead matters (unknowingly passing intelligence to The Unbound). Respects High Inquisitor Mordain (shared deity). Secretly reports to Lord Shadows (believes him righteous).
-
 {{descriptive
 #### Secrets (DM Only) 
 
@@ -18745,7 +18805,7 @@ Works with the Inquisition on undead matters (unknowingly passing intelligence t
 3. Hears the dead speak; they're warning her she's been deceived, but she refuses to listen
 4. **The Unbound have manipulated her through her guilt and her desire to "do something" about the corrupt powers that enabled necromancy to flourish**
 }}
-\column
+
 ### Hooks
 - Could be turned against The Unbound if confronted with their true goals
 - The vampire sister creates leverage and drama
@@ -18756,14 +18816,37 @@ Works with the Inquisition on undead matters (unknowingly passing intelligence t
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
+## Vexis Shadowmaw
+
+<div class="col-img">![Vexis Shadowmaw](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/warlock-vexis-shadowmaw.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+**Role:** Warlock, Cult Leader, Ambitious Villain
+
+### Background
+
+Vexis made a pact with something in the void and now leads a small cult seeking more power. Charming, ruthless, and convinced she's the protagonist of her own story.
+
+#### Connections 
+Commands 20 cultists. Her patron demands souls. Rival of other warlocks and necromancers.
+\column
+{{descriptive
+#### Secrets (DM Only) 
+1. His patron is trapped and uses his to work toward freedom. 
+2. He's not as in control as he thinks. Has a twin sister who's a paladin.
+}}
+
+### Hooks
+- Villain for lower-level parties. 
+- The patron could be the real threat. 
+- The twin sister adds complexity.
+
+{{monster,frame
 ## Vexis Shadowmaw
 *Medium humanoid (tiefling), chaotic evil*
 ___
 **Armor Class** :: 15 (studded leather)
 **Hit Points** :: 91 (14d8 + 28)
 **Speed** :: 30 ft.
-<div class="col-img">![Vexis Shadowmaw](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/warlock-vexis-shadowmaw.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -18786,55 +18869,13 @@ ___
 ***Dagger.*** :: Melee or Ranged Weapon Attack: +6 to hit. ***Hit.*** 1d4+3 piercing damage.::
 }}
 
-**Role:** Warlock, Cult Leader, Ambitious Villain
-
-### Background
-
-Vexis made a pact with something in the void and now leads a small cult seeking more power. Charming, ruthless, and convinced she's the protagonist of her own story.
-
-#### Connections 
-Commands 20 cultists. Her patron demands souls. Rival of other warlocks and necromancers.
-\column
-{{descriptive
-#### Secrets (DM Only) 
-1. His patron is trapped and uses his to work toward freedom. 
-2. He's not as in control as he thinks. Has a twin sister who's a paladin.
-}}
-
-### Hooks
-- Villain for lower-level parties. 
-- The patron could be the real threat. 
-- The twin sister adds complexity.
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Alden Swiftfoot
-*Medium humanoid (human), neutral*
-___
-**Armor Class** :: 14 (leather armor)
-**Hit Points** :: 33 (6d8 + 6)
-**Speed** :: 40 ft.
+
 <div class="col-img">![Alden Swiftfoot](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/alden-swiftfoot-courier.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 (+1) | 18 (+4) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
-___
-**Skills** :: Acrobatics +6, Athletics +3, Perception +3, Stealth +6
-**Senses** :: Passive Perception 13
-**Languages** :: Common
-**Challenge** :: 1 (200 XP)
-___
-***Fleet of Foot.*** :: Base speed is 40 ft. Can Dash as bonus action.
-***Parkour.*** :: Ignores difficult terrain when running. Can run across walls for up to 15 ft.
-***Courier's Memory.*** :: Can memorize messages perfectly for delivery.
-### Actions
-***Shortsword.*** :: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. ***Hit.*** 1d6+4 piercing damage.::
-***Hand Crossbow.*** :: Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. ***Hit.*** 1d6+4 piercing damage.::
-}}
 
 **Role:** Professional Courier, Message Runner
 
@@ -18856,37 +18897,39 @@ Used by everyone, nobles, criminals, merchants, spies. Nobody wants him dead bec
 - Might witness something important. 
 - His knowledge makes him a target.
 
+{{monster,frame
+## Alden Swiftfoot
+*Medium humanoid (human), neutral*
+___
+**Armor Class** :: 14 (leather armor)
+**Hit Points** :: 33 (6d8 + 6)
+**Speed** :: 40 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 12 (+1) | 18 (+4) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
+___
+**Skills** :: Acrobatics +6, Athletics +3, Perception +3, Stealth +6
+**Senses** :: Passive Perception 13
+**Languages** :: Common
+**Challenge** :: 1 (200 XP)
+___
+***Fleet of Foot.*** :: Base speed is 40 ft. Can Dash as bonus action.
+***Parkour.*** :: Ignores difficult terrain when running. Can run across walls for up to 15 ft.
+***Courier's Memory.*** :: Can memorize messages perfectly for delivery.
+### Actions
+***Shortsword.*** :: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. ***Hit.*** 1d6+4 piercing damage.::
+***Hand Crossbow.*** :: Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. ***Hit.*** 1d6+4 piercing damage.::
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Thorne "The Butcher"
-*Medium humanoid (human), chaotic evil*
-___
-**Armor Class** :: 15 (chain shirt)
-**Hit Points** :: 102 (12d8 + 48)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Thorne the Butcher](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/thorne-butcher-bandit.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 18 (+4) | 14 (+2) | 18 (+4) | 10 (+0) | 12 (+1) | 10 (+0) |
-___
-**Saving Throws** :: Strength +7, Constitution +7
-**Skills** :: Athletics +7, Intimidation +6, Survival +4
-**Senses** :: Passive Perception 11
-**Languages** :: Common
-**Challenge** :: 6 (2,300 XP)
-___
-***Brutal Critical.*** :: Rolls extra damage die on critical hits.
-***Reckless Attack.*** :: Can attack with advantage, giving enemies advantage against him.
-***Danger Sense.*** :: Advantage on Dex saves against effects he can see.
-### Actions
-***Multiattack.*** :: Makes two greataxe attacks.
-***Greataxe.*** :: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. ***Hit.*** 1d12+4 slashing damage.::
-***Handaxe.*** :: Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. ***Hit.*** 1d6+4 slashing damage.::
-}}
 
 **Role:** Bandit Leader, Highwayman, Terror of the Roads
 
@@ -18908,38 +18951,41 @@ Loose Syndicate affiliation (pays tribute, gets left alone). Has a spy in the ci
 - Could be redirected toward his real target. 
 - The revenge angle adds depth.
 
+{{monster,frame
+## Thorne "The Butcher"
+*Medium humanoid (human), chaotic evil*
+___
+**Armor Class** :: 15 (chain shirt)
+**Hit Points** :: 102 (12d8 + 48)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 18 (+4) | 14 (+2) | 18 (+4) | 10 (+0) | 12 (+1) | 10 (+0) |
+___
+**Saving Throws** :: Strength +7, Constitution +7
+**Skills** :: Athletics +7, Intimidation +6, Survival +4
+**Senses** :: Passive Perception 11
+**Languages** :: Common
+**Challenge** :: 6 (2,300 XP)
+___
+***Brutal Critical.*** :: Rolls extra damage die on critical hits.
+***Reckless Attack.*** :: Can attack with advantage, giving enemies advantage against him.
+***Danger Sense.*** :: Advantage on Dex saves against effects he can see.
+### Actions
+***Multiattack.*** :: Makes two greataxe attacks.
+***Greataxe.*** :: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. ***Hit.*** 1d12+4 slashing damage.::
+***Handaxe.*** :: Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. ***Hit.*** 1d6+4 slashing damage.::
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-
-{{monster,frame,wide
 ## Lydia Shadowstep
-*Small humanoid (halfling), chaotic good*
-___
-**Armor Class** :: 15 (leather armor)
-**Hit Points** :: 45 (10d6 + 10)
-**Speed** :: 25 ft.
+
 <div class="col-img">![Lydia Shadowstep](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/lydia-shadowstep-halfling-scout.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 18 (+4) | 12 (+1) | 13 (+1) | 16 (+3) | 12 (+1) |
-___
-**Skills** :: Nature +3, Perception +7, Stealth +8, Survival +7
-**Senses** :: Passive Perception 17
-**Languages** :: Common, Halfling, Elvish, Sylvan
-**Challenge** :: 3 (700 XP)
-___
-***Halfling Luck.*** :: Reroll 1s.
-***Naturally Stealthy.*** :: Can hide behind medium creatures.
-***Keen Senses.*** :: Advantage on Perception checks.
-***Favored Terrain (Forest).*** :: Advantage on tracking and foraging.
-### Actions
-***Multiattack.*** :: Makes two shortbow or shortsword attacks.
-***Shortsword.*** :: Melee Weapon Attack: +6 to hit. ***Hit.*** 1d6+4 piercing damage.::
-***Shortbow.*** :: Ranged Weapon Attack: +6 to hit, range 80/320 ft. ***Hit.*** 1d6+4 piercing damage.::
-}}
 
 **Role:** Scout, Ranger, Wilderness Guide
 
@@ -18960,33 +19006,41 @@ Friends with druids and rangers. Has explored ruins no one else has found. Owes 
 - The mountain discovery could be adventure seed. 
 - Revenge subplot available.
 
+{{monster,frame
+## Lydia Shadowstep
+*Small humanoid (halfling), chaotic good*
+___
+**Armor Class** :: 15 (leather armor)
+**Hit Points** :: 45 (10d6 + 10)
+**Speed** :: 25 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 18 (+4) | 12 (+1) | 13 (+1) | 16 (+3) | 12 (+1) |
+___
+**Skills** :: Nature +3, Perception +7, Stealth +8, Survival +7
+**Senses** :: Passive Perception 17
+**Languages** :: Common, Halfling, Elvish, Sylvan
+**Challenge** :: 3 (700 XP)
+___
+***Halfling Luck.*** :: Reroll 1s.
+***Naturally Stealthy.*** :: Can hide behind medium creatures.
+***Keen Senses.*** :: Advantage on Perception checks.
+***Favored Terrain (Forest).*** :: Advantage on tracking and foraging.
+### Actions
+***Multiattack.*** :: Makes two shortbow or shortsword attacks.
+***Shortsword.*** :: Melee Weapon Attack: +6 to hit. ***Hit.*** 1d6+4 piercing damage.::
+***Shortbow.*** :: Ranged Weapon Attack: +6 to hit, range 80/320 ft. ***Hit.*** 1d6+4 piercing damage.::
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Marcus Vrell
-*Medium humanoid (human), neutral*
-___
-**Armor Class** :: 12
-**Hit Points** :: 32 (5d8 + 10)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Marcus Vrell](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/marcus-vrell-broker.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 14 (+2) | 14 (+2) | 17 (+3) | 15 (+2) | 15 (+2) |
-___
-**Skills** :: Deception +4, Insight +6, Investigation +5, Persuasion +4
-**Senses** :: Passive Perception 12
-**Languages** :: Common, Dwarvish, Elvish
-**Challenge** :: 1/2 (100 XP)
-___
-***Information Broker.*** :: Can find information on almost any topic in the city within 1d4 days.
-***Connected.*** :: Knows someone in every major organization.
-### Actions
-***Dagger.*** :: Melee or Ranged Weapon Attack: +4 to hit. ***Hit.*** 1d4+2 piercing damage.::
-}}
 
 **Role:** Information Broker, Fixer, Professional Middleman
 
@@ -19008,33 +19062,37 @@ Everyone. That's his job. The Syndicate, the Crown, merchants, criminals, all us
 - Could be silenced by enemies. 
 - His files make him a target.
 
+{{monster,frame
+## Marcus Vrell
+*Medium humanoid (human), neutral*
+___
+**Armor Class** :: 12
+**Hit Points** :: 32 (5d8 + 10)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 14 (+2) | 14 (+2) | 17 (+3) | 15 (+2) | 15 (+2) |
+___
+**Skills** :: Deception +4, Insight +6, Investigation +5, Persuasion +4
+**Senses** :: Passive Perception 12
+**Languages** :: Common, Dwarvish, Elvish
+**Challenge** :: 1/2 (100 XP)
+___
+***Information Broker.*** :: Can find information on almost any topic in the city within 1d4 days.
+***Connected.*** :: Knows someone in every major organization.
+### Actions
+***Dagger.*** :: Melee or Ranged Weapon Attack: +4 to hit. ***Hit.*** 1d4+2 piercing damage.::
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Helena Duskmere
-*Medium humanoid (human), neutral*
-___
-**Armor Class** :: 13 (leather armor)
-**Hit Points** :: 39 (6d8 + 12)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Helena Duskmere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/helena-duskmere-broker.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 11 (+0) | 14 (+2) | 14 (+2) | 15 (+2) | 16 (+3) | 16 (+3) |
-___
-**Skills** :: Deception +5, Insight +5, Investigation +4, Persuasion +5
-**Senses** :: Passive Perception 13
-**Languages** :: Common, Elvish, Thieves' Cant
-**Challenge** :: 1 (200 XP)
-___
-***Black Market Contact.*** :: Can acquire illegal goods within 1d6 days.
-***Discrete.*** :: Advantage on checks to avoid detection or tail someone.
-### Actions
-***Dagger.*** :: Melee or Ranged Weapon Attack: +4 to hit. ***Hit.*** 1d4+2 piercing damage.::
-}}
 
 **Role:** Black Market Broker, Smuggler Contact
 
@@ -19056,18 +19114,65 @@ Knows every smuggler on the coast. Has contacts in customs. Pays the Syndicate f
 - Might need help with a complicated job. 
 - The brother creates potential drama.
 
+{{monster,frame
+## Helena Duskmere
+*Medium humanoid (human), neutral*
+___
+**Armor Class** :: 13 (leather armor)
+**Hit Points** :: 39 (6d8 + 12)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 11 (+0) | 14 (+2) | 14 (+2) | 15 (+2) | 16 (+3) | 16 (+3) |
+___
+**Skills** :: Deception +5, Insight +5, Investigation +4, Persuasion +5
+**Senses** :: Passive Perception 13
+**Languages** :: Common, Elvish, Thieves' Cant
+**Challenge** :: 1 (200 XP)
+___
+***Black Market Contact.*** :: Can acquire illegal goods within 1d6 days.
+***Discrete.*** :: Advantage on checks to avoid detection or tail someone.
+### Actions
+***Dagger.*** :: Melee or Ranged Weapon Attack: +4 to hit. ***Hit.*** 1d4+2 piercing damage.::
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
+## Varak Ironfist
+
+<div class="col-img">![Varak Ironfist](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/varak-ironfist-dwarf.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+**Role:** Iron Guild Leader, Mercenary Commander
+
+### Background
+Varak took over the Iron Guild fifty years ago after leaving the Thaldros military. Under his leadership, it's become the premier mercenary organization in the realm, professional, well-equipped, and absolutely bound by contract. They've fought for kings and merchants, nobles and commoners. They don't ask why. They just deliver.
+
+#### Connections
+Employer to dozens of mercenaries. Respected by military commanders. Has contracts with noble houses across Thaldros. Distant cousin to former Guildmaster Roderic Ironfist.
+\column
+{{descriptive
+#### Secrets (DM Only) 
+1. Lost his squad in an ambush 20 years ago, only survivor. 
+2. The ambush was an inside job by a rival mercenary company. 
+3. He knows who betrayed them and is slowly, methodically destroying their business. Also knows too much about various noble houses' dirty work.
+}}
+
+### Hooks 
+- Premier mercenary quest-giver. 
+- The betrayer could resurface. Mentor figure for aspiring warriors. 
+- Has jobs that need doing and pays fairly.
+
+{{monster,frame
 ## Varak Ironfist
 *Medium humanoid (dwarf), lawful neutral*
 ___
 **Armor Class** :: 18 (plate armor)
 **Hit Points** :: 112 (15d8 + 45)
 **Speed** :: 25 ft.
-<div class="col-img">![Varak Ironfist](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/varak-ironfist-dwarf.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -19092,54 +19197,13 @@ ___
 ***Parry.*** :: Adds 3 to AC against one melee attack that would hit. Must see attacker and be wielding a melee weapon.
 }}
 
-**Role:** Iron Guild Leader, Mercenary Commander
-
-### Background
-Varak took over the Iron Guild fifty years ago after leaving the Thaldros military. Under his leadership, it's become the premier mercenary organization in the realm, professional, well-equipped, and absolutely bound by contract. They've fought for kings and merchants, nobles and commoners. They don't ask why. They just deliver.
-
-#### Connections
-Employer to dozens of mercenaries. Respected by military commanders. Has contracts with noble houses across Thaldros. Distant cousin to former Guildmaster Roderic Ironfist.
-\column
-{{descriptive
-#### Secrets (DM Only) 
-1. Lost his squad in an ambush 20 years ago, only survivor. 
-2. The ambush was an inside job by a rival mercenary company. 
-3. He knows who betrayed them and is slowly, methodically destroying their business. Also knows too much about various noble houses' dirty work.
-}}
-
-### Hooks 
-- Premier mercenary quest-giver. 
-- The betrayer could resurface. Mentor figure for aspiring warriors. 
-- Has jobs that need doing and pays fairly.
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Korvan Steelhand
-*Medium humanoid (human), lawful neutral*
-___
-**Armor Class** :: 16 (chain mail)
-**Hit Points** :: 65 (10d8 + 20)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Korvan Steelhand](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/korvan-steelhand-quartermaster.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 14 (+2) | 12 (+1) | 14 (+2) | 16 (+3) | 14 (+2) | 12 (+1) |
-___
-**Skills** :: Athletics +4, Insight +4, Investigation +5, Perception +4
-**Senses** :: Passive Perception 14
-**Languages** :: Common, Dwarvish
-**Challenge** :: 3 (700 XP)
-___
-***Quartermaster's Eye.*** :: Can accurately assess supply needs and spot discrepancies.
-***Logistics Master.*** :: Advantage on checks related to supply chains and equipment.
-### Actions
-***Longsword.*** :: Melee Weapon Attack: +4 to hit. ***Hit.*** 1d8+2 slashing damage.::
-***Heavy Crossbow.*** :: Ranged Weapon Attack: +3 to hit. ***Hit.*** 1d10+1 piercing damage.::
-}}
 
 **Role:** Military Quartermaster, Supply Master
 
@@ -19161,37 +19225,37 @@ Reports to General Steelhart. Works with the Merchant League. Has caught corrupt
 - Could expose the fraud. 
 - Enemies might try to discredit or eliminate him.
 
+{{monster,frame
+## Korvan Steelhand
+*Medium humanoid (human), lawful neutral*
+___
+**Armor Class** :: 16 (chain mail)
+**Hit Points** :: 65 (10d8 + 20)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 14 (+2) | 12 (+1) | 14 (+2) | 16 (+3) | 14 (+2) | 12 (+1) |
+___
+**Skills** :: Athletics +4, Insight +4, Investigation +5, Perception +4
+**Senses** :: Passive Perception 14
+**Languages** :: Common, Dwarvish
+**Challenge** :: 3 (700 XP)
+___
+***Quartermaster's Eye.*** :: Can accurately assess supply needs and spot discrepancies.
+***Logistics Master.*** :: Advantage on checks related to supply chains and equipment.
+### Actions
+***Longsword.*** :: Melee Weapon Attack: +4 to hit. ***Hit.*** 1d8+2 slashing damage.::
+***Heavy Crossbow.*** :: Ranged Weapon Attack: +3 to hit. ***Hit.*** 1d10+1 piercing damage.::
+}}
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Katrina Ashfall
-*Medium humanoid (human), chaotic good*
-___
-**Armor Class** :: 15 (studded leather)
-**Hit Points** :: 66 (12d8 + 12)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Katrina Ashfall](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/katrina-ashfall-guerrilla.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 14 (+2) | 17 (+3) | 12 (+1) | 14 (+2) | 14 (+2) | 15 (+2) |
-___
-**Saving Throws** :: Dexterity +5
-**Skills** :: Athletics +4, Deception +4, Stealth +5, Survival +4
-**Senses** :: Passive Perception 12
-**Languages** :: Common, Aethorian dialect
-**Challenge** :: 4 (1,100 XP)
-___
-***Guerrilla Tactics.*** :: Advantage on attacks against surprised enemies.
-***Sneak Attack (2d6).*** :: Extra damage with advantage or ally adjacent.
-***Escape Artist.*** :: Advantage on checks to escape grapples or restraints.
-### Actions
-***Multiattack.*** :: Makes two shortsword attacks.
-***Shortsword.*** :: Melee Weapon Attack: +5 to hit. ***Hit.*** 1d6+3 piercing damage.::
-***Hand Crossbow.*** :: Ranged Weapon Attack: +5 to hit. ***Hit.*** 1d6+3 piercing damage.::
-}}
 
 **Role:** Resistance Fighter, Aethorian Sympathizer, Freedom Fighter
 
@@ -19213,35 +19277,41 @@ Loose ties to Aethorian intelligence. Commands 12 fighters. Hated by border patr
 - The brother creates drama. 
 - The truth about her family could redirect her.
 
+{{monster,frame
+## Katrina Ashfall
+*Medium humanoid (human), chaotic good*
+___
+**Armor Class** :: 15 (studded leather)
+**Hit Points** :: 66 (12d8 + 12)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 14 (+2) | 17 (+3) | 12 (+1) | 14 (+2) | 14 (+2) | 15 (+2) |
+___
+**Saving Throws** :: Dexterity +5
+**Skills** :: Athletics +4, Deception +4, Stealth +5, Survival +4
+**Senses** :: Passive Perception 12
+**Languages** :: Common, Aethorian dialect
+**Challenge** :: 4 (1,100 XP)
+___
+***Guerrilla Tactics.*** :: Advantage on attacks against surprised enemies.
+***Sneak Attack (2d6).*** :: Extra damage with advantage or ally adjacent.
+***Escape Artist.*** :: Advantage on checks to escape grapples or restraints.
+### Actions
+***Multiattack.*** :: Makes two shortsword attacks.
+***Shortsword.*** :: Melee Weapon Attack: +5 to hit. ***Hit.*** 1d6+3 piercing damage.::
+***Hand Crossbow.*** :: Ranged Weapon Attack: +5 to hit. ***Hit.*** 1d6+3 piercing damage.::
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-
-{{monster,frame,wide
 ## Miranda Ashwood
-*Medium humanoid (human), neutral*
-___
-**Armor Class** :: 14 (leather armor)
-**Hit Points** :: 44 (8d8 + 8)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Miranda Ashwood](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/miranda-ashwood-rogue.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 16 (+3) | 12 (+1) | 14 (+2) | 13 (+1) | 14 (+2) |
-___
-**Skills** :: Acrobatics +5, Deception +4, Sleight of Hand +7, Stealth +7
-**Senses** :: Passive Perception 11
-**Languages** :: Common, Thieves' Cant
-**Challenge** :: 2 (450 XP)
-___
-***Cunning Action.*** :: Dash, Disengage, or Hide as bonus action.
-***Sneak Attack (2d6).*** :: Extra damage with advantage or ally adjacent.
-### Actions
-***Shortsword.*** :: Melee Weapon Attack: +5 to hit. ***Hit.*** 1d6+3 piercing damage.::
-***Dagger.*** :: Melee or Ranged Weapon Attack: +5 to hit. ***Hit.*** 1d4+3 piercing damage.::
-}}
 
 **Role:** Thief, Burglar, Cat Burglar
 
@@ -19262,35 +19332,38 @@ Works freelance. Elena Ravencroft fences her goods. Owes the Syndicate nothing (
 - The mysterious item creates plot hooks. 
 - Could fence items for the party.
 
+{{monster,frame
+## Miranda Ashwood
+*Medium humanoid (human), neutral*
+___
+**Armor Class** :: 14 (leather armor)
+**Hit Points** :: 44 (8d8 + 8)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 16 (+3) | 12 (+1) | 14 (+2) | 13 (+1) | 14 (+2) |
+___
+**Skills** :: Acrobatics +5, Deception +4, Sleight of Hand +7, Stealth +7
+**Senses** :: Passive Perception 11
+**Languages** :: Common, Thieves' Cant
+**Challenge** :: 2 (450 XP)
+___
+***Cunning Action.*** :: Dash, Disengage, or Hide as bonus action.
+***Sneak Attack (2d6).*** :: Extra damage with advantage or ally adjacent.
+### Actions
+***Shortsword.*** :: Melee Weapon Attack: +5 to hit. ***Hit.*** 1d6+3 piercing damage.::
+***Dagger.*** :: Melee or Ranged Weapon Attack: +5 to hit. ***Hit.*** 1d4+3 piercing damage.::
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Magnus Ironroot
-*Medium humanoid (human), chaotic good*
-___
-**Armor Class** :: 15 (chain shirt)
-**Hit Points** :: 71 (11d8 + 22)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Magnus Ironroot](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/magnus-ironroot-rebel.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 16 (+3) | 14 (+2) | 14 (+2) | 12 (+1) | 12 (+1) | 16 (+3) |
-___
-**Saving Throws** :: Strength +5, Charisma +5
-**Skills** :: Athletics +5, Intimidation +5, Persuasion +5
-**Senses** :: Passive Perception 11
-**Languages** :: Common
-**Challenge** :: 4 (1,100 XP)
-___
-***Inspiring Leader.*** :: Allies within 30 ft. gain +2 to saves against fear.
-***Rallying Cry (1/Rest).*** :: Allies gain 10 temp HP.
-### Actions
-***Multiattack.*** :: Makes two greatsword attacks.
-***Greatsword.*** :: Melee Weapon Attack: +5 to hit. ***Hit.*** 2d6+3 slashing damage.::
-}}
 
 **Role:** Labor Organizer, Populist Leader, Would-Be Revolutionary
 
@@ -19312,33 +19385,38 @@ Leads the Workers' Brotherhood. Watched by the Inquisition. Has contacts among r
 - Could become ally or be used by villains. 
 - The Aethorian approach creates tension.
 
+{{monster,frame
+## Magnus Ironroot
+*Medium humanoid (human), chaotic good*
+___
+**Armor Class** :: 15 (chain shirt)
+**Hit Points** :: 71 (11d8 + 22)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 16 (+3) | 14 (+2) | 14 (+2) | 12 (+1) | 12 (+1) | 16 (+3) |
+___
+**Saving Throws** :: Strength +5, Charisma +5
+**Skills** :: Athletics +5, Intimidation +5, Persuasion +5
+**Senses** :: Passive Perception 11
+**Languages** :: Common
+**Challenge** :: 4 (1,100 XP)
+___
+***Inspiring Leader.*** :: Allies within 30 ft. gain +2 to saves against fear.
+***Rallying Cry (1/Rest).*** :: Allies gain 10 temp HP.
+### Actions
+***Multiattack.*** :: Makes two greatsword attacks.
+***Greatsword.*** :: Melee Weapon Attack: +5 to hit. ***Hit.*** 2d6+3 slashing damage.::
+}}
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Old Barrett
-*Medium humanoid (human), neutral good*
-___
-**Armor Class** :: 12
-**Hit Points** :: 38 (7d8 + 7)
-**Speed** :: 25 ft.
+
 <div class="col-img">![Old Barrett](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/old-barrett-mentor.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 10 (+0) | 12 (+1) | 14 (+2) | 18 (+4) | 14 (+2) |
-___
-**Skills** :: History +6, Insight +8, Medicine +6, Perception +6
-**Senses** :: Passive Perception 16
-**Languages** :: Common, Dwarvish, Elvish
-**Challenge** :: 1 (200 XP)
-___
-***Sage Advice.*** :: Can give guidance on almost any topic. Advantage on History checks.
-***Retired Adventurer.*** :: Proficient in all simple weapons and light armor, though he rarely uses them now.
-### Actions
-***Walking Staff.*** :: Melee Weapon Attack: +2 to hit. ***Hit.*** 1d6 bludgeoning damage.::
-}}
 
 **Role:** Retired Adventurer, Mentor, Village Elder
 
@@ -19360,31 +19438,37 @@ Was part of a legendary adventuring party. Still has contacts from the old days.
 - Could reveal location of legendary treasure or threat. 
 - The evil former companion creates drama.
 
+{{monster,frame
+## Old Barrett
+*Medium humanoid (human), neutral good*
+___
+**Armor Class** :: 12
+**Hit Points** :: 38 (7d8 + 7)
+**Speed** :: 25 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 10 (+0) | 12 (+1) | 14 (+2) | 18 (+4) | 14 (+2) |
+___
+**Skills** :: History +6, Insight +8, Medicine +6, Perception +6
+**Senses** :: Passive Perception 16
+**Languages** :: Common, Dwarvish, Elvish
+**Challenge** :: 1 (200 XP)
+___
+***Sage Advice.*** :: Can give guidance on almost any topic. Advantage on History checks.
+***Retired Adventurer.*** :: Proficient in all simple weapons and light armor, though he rarely uses them now.
+### Actions
+***Walking Staff.*** :: Melee Weapon Attack: +2 to hit. ***Hit.*** 1d6 bludgeoning damage.::
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Elder Tremont
-*Medium humanoid (human), lawful good*
-___
-**Armor Class** :: 10
-**Hit Points** :: 27 (6d8)
-**Speed** :: 25 ft.
+
 <div class="col-img">![Elder Tremont](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/elder-tremont-mentor.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 (-1) | 10 (+0) | 10 (+0) | 16 (+3) | 18 (+4) | 15 (+2) |
-___
-**Skills** :: History +7, Insight +8, Religion +7
-**Senses** :: Passive Perception 14
-**Languages** :: Common, Celestial
-**Challenge** :: 1/4 (50 XP)
-___
-***Wise Counsel.*** :: Advantage on Insight checks. Can cast Guidance at will.
-***Temple Elder.*** :: Commands respect in religious circles.
-}}
 
 **Role:** Temple Elder, Priest of Sera, Community Leader
 
@@ -19408,37 +19492,34 @@ Respected by all faiths. Mediates disputes. Has married nobles and commoners ali
 - The forbidden ritual could resurface. 
 - Good source for healing or information.
 
+{{monster,frame
+## Elder Tremont
+*Medium humanoid (human), lawful good*
+___
+**Armor Class** :: 10
+**Hit Points** :: 27 (6d8)
+**Speed** :: 25 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8 (-1) | 10 (+0) | 10 (+0) | 16 (+3) | 18 (+4) | 15 (+2) |
+___
+**Skills** :: History +7, Insight +8, Religion +7
+**Senses** :: Passive Perception 14
+**Languages** :: Common, Celestial
+**Challenge** :: 1/4 (50 XP)
+___
+***Wise Counsel.*** :: Advantage on Insight checks. Can cast Guidance at will.
+***Temple Elder.*** :: Commands respect in religious circles.
+}}
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Aramil Starwarden
-*Medium humanoid (elf), neutral good*
-___
-**Armor Class** :: 14 (leather armor)
-**Hit Points** :: 58 (13d8)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Aramil Starwarden](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-aramil-starwarden.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 16 (+3) | 10 (+0) | 18 (+4) | 15 (+2) | 12 (+1) |
-___
-**Skills** :: Arcana +8, History +8, Investigation +6, Nature +6
-**Senses** :: Darkvision 60 ft., Passive Perception 12
-**Languages** :: Common, Elvish, Draconic, Sylvan, Primordial
-**Challenge** :: 4 (1,100 XP)
-___
-***Spellcasting.*** :: 7th-level wizard. DC 14, +6 to hit.
-***Cantrips.*** :: Light, Mage Hand, Prestidigitation
-***1st (4).*** :: Detect Magic, Identify, Shield, Magic Missile
-***2nd (3).*** :: Detect Thoughts, Locate Object, See Invisibility
-***3rd (3).*** :: Clairvoyance, Dispel Magic, Tongues
-***4th (1).*** :: Arcane Eye
-***Fey Ancestry.*** :: Advantage vs. charm, immune to magic sleep.
-***Researcher.*** :: Advantage on checks to research magical phenomena.
-}}
 
 **Role:** Wizard, Researcher, Worldrend Scholar
 
@@ -19461,31 +19542,40 @@ Correspondent with High Mage Arcturus's ghost. Silverpine Magical Academy facult
 - Could send party to investigate Worldrend sites. 
 - His enemies might target him.
 
+{{monster,frame
+## Aramil Starwarden
+*Medium humanoid (elf), neutral good*
+___
+**Armor Class** :: 14 (leather armor)
+**Hit Points** :: 58 (13d8)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 16 (+3) | 10 (+0) | 18 (+4) | 15 (+2) | 12 (+1) |
+___
+**Skills** :: Arcana +8, History +8, Investigation +6, Nature +6
+**Senses** :: Darkvision 60 ft., Passive Perception 12
+**Languages** :: Common, Elvish, Draconic, Sylvan, Primordial
+**Challenge** :: 4 (1,100 XP)
+___
+***Spellcasting.*** :: 7th-level wizard. DC 14, +6 to hit.
+***Cantrips.*** :: Light, Mage Hand, Prestidigitation
+***1st (4).*** :: Detect Magic, Identify, Shield, Magic Missile
+***2nd (3).*** :: Detect Thoughts, Locate Object, See Invisibility
+***3rd (3).*** :: Clairvoyance, Dispel Magic, Tongues
+***4th (1).*** :: Arcane Eye
+***Fey Ancestry.*** :: Advantage vs. charm, immune to magic sleep.
+***Researcher.*** :: Advantage on checks to research magical phenomena.
+}}
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{monster,frame,wide
 ## Master Aldrick Woodwise
-*Medium humanoid (human), neutral good*
-___
-**Armor Class** :: 11
-**Hit Points** :: 32 (5d8 + 10)
-**Speed** :: 30 ft.
+
 <div class="col-img">![Aldrick Woodwise](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-carpenter-aldrick-woodwise.jpg){width:325px,mix-blend-mode:multiply}</div>
-___
-|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 14 (+2) | 12 (+1) | 14 (+2) | 13 (+1) | 15 (+2) | 12 (+1) |
-___
-**Skills** :: Carpenter's Tools +8, Insight +4, Nature +3, Perception +4
-**Senses** :: Passive Perception 14
-**Languages** :: Common
-**Challenge** :: 1/2 (100 XP)
-___
-***Master Craftsman.*** :: Expertise with Carpenter's Tools. Can identify wood types and quality instantly.
-***Structural Expert.*** :: Can assess buildings for weaknesses or secret compartments.
-}}
 
 **Role:** Master Carpenter, Craftsman, Secret Keeper
 
@@ -19508,19 +19598,62 @@ Knows every builder in the city. Has worked for nobles and criminals. Owes loyal
 - Could be threatened to get palace access. 
 - His knowledge of city architecture is invaluable for heists or invasions.
 
+{{monster,frame
+## Master Aldrick Woodwise
+*Medium humanoid (human), neutral good*
+___
+**Armor Class** :: 11
+**Hit Points** :: 32 (5d8 + 10)
+**Speed** :: 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 14 (+2) | 12 (+1) | 14 (+2) | 13 (+1) | 15 (+2) | 12 (+1) |
+___
+**Skills** :: Carpenter's Tools +8, Insight +4, Nature +3, Perception +4
+**Senses** :: Passive Perception 14
+**Languages** :: Common
+**Challenge** :: 1/2 (100 XP)
+___
+***Master Craftsman.*** :: Expertise with Carpenter's Tools. Can identify wood types and quality instantly.
+***Structural Expert.*** :: Can assess buildings for weaknesses or secret compartments.
+}}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
+## Vault Guardian
 
-{{monster,frame,wide
+<div class="col-img">![Vault Guardian](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/vault-guardian-golem.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+**Role:** Treasury Guardian, Ancient Security System
+**Location:** Various vaults, treasuries, and ancient sites
+
+### Background
+Vault Guardians are constructs created to protect valuable items or locations. Unlike common golems, they're intelligent enough to recognize authorized users and ignore them while destroying intruders.
+
+**Notable Locations:** The Royal Treasury has three. The Merchant League vault has two. Ancient ruins may have pre-Worldrend versions with unknown programming.
+\column
+{{descriptive
+#### Secrets (DM Only) 
+1. Some pre-Worldrend guardians have been dormant for centuries, waiting for commands that will never come. 
+2. Their treasures remain untouched.
+}}
+
+### Hooks 
+- Heist target. 
+- Ancient guardian might have outdated "authorized" list. 
+- Could be reprogrammed or bypassed.
+
+{{monster,frame
 ## Vault Guardian
 *Large construct, unaligned*
 ___
 **Armor Class** :: 18 (natural armor)
 **Hit Points** :: 142 (15d10 + 60)
 **Speed** :: 30 ft.
-<div class="col-img">![Vault Guardian](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/vault-guardian-golem.jpg){width:325px,mix-blend-mode:multiply}</div>
 ___
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -19542,24 +19675,6 @@ ___
 ***Vault Seal (Recharge 5-6).*** :: All doors within 60 ft. magically seal (DC 20 Strength to force). Lasts 1 hour.
 }}
 
-**Role:** Treasury Guardian, Ancient Security System
-**Location:** Various vaults, treasuries, and ancient sites
-
-### Background
-Vault Guardians are constructs created to protect valuable items or locations. Unlike common golems, they're intelligent enough to recognize authorized users and ignore them while destroying intruders.
-
-**Notable Locations:** The Royal Treasury has three. The Merchant League vault has two. Ancient ruins may have pre-Worldrend versions with unknown programming.
-\column
-{{descriptive
-#### Secrets (DM Only) 
-1. Some pre-Worldrend guardians have been dormant for centuries, waiting for commands that will never come. 
-2. Their treasures remain untouched.
-}}
-
-### Hooks 
-- Heist target. 
-- Ancient guardian might have outdated "authorized" list. 
-- Could be reprogrammed or bypassed.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -19620,7 +19735,7 @@ By Level: ::
 - 2nd: 3d6-4d8 damage, strong utility
 - 3rd: 5d6-8d6 damage, major utility
 - 4th-9th: (See PHB for comparisons)
-
+\column
 Components: ::
 - Verbal: Requires speech
 - Somatic: Requires hand gestures
@@ -19675,7 +19790,6 @@ Artifact: Unique, world-shaping power ::
 
 {{pageNumber,auto}}
 {{footnote Part V: DM Tools}}
-
 \page
 
 #### Magic Item Template
@@ -19780,11 +19894,6 @@ Touch corruption source: ::
 - Immediate save at disadvantage
 - Failure advances 1 stage instantly
 
-
-{{pageNumber,auto}}
-{{footnote Part V: DM Tools}}
-\page
-
 ### Traps
 
 #### Simple Traps (CR 1-4)
@@ -19794,6 +19903,10 @@ Pit Trap: ::
 - Effect: 10-foot fall, 1d6 damage, DC 10 Dex save to avoid
 - Detect: DC 15 Perception
 - Disarm: DC 15 Sleight of Hand
+
+{{pageNumber,auto}}
+{{footnote Part V: DM Tools}}
+\page
 
 Poison Dart: ::
 - Trigger: Tripwire
@@ -19873,7 +19986,7 @@ Complications: ::
 Cost: 15,000 gp initial, 300 gp/month maintenance ::
 Location: Hidden in cities, rural areas, underground ::
 Size: Accommodates 20-30 operatives ::
-
+\column
 Features: ::
 - Hidden entrances (DC 20 to find)
 - Escape tunnels
@@ -20051,8 +20164,6 @@ Boss Encounters: ::
 - Single boss vs 4 PCs: Give boss legendary actions/lair actions
 - Or: Boss + minions (50% XP from boss, 50% from minions)
 
----
-
 ### Using Terrain
 
 Terrain turns simple combat into tactical challenge.
@@ -20098,11 +20209,6 @@ Hazard Zone: Environmental danger ::
 Escape Route: Clear path to exit (allows retreat) ::
 
 
-{{pageNumber,auto}}
-{{footnote Part V: DM Tools}}
-
-\page
-
 ### Monster Tactics
 
 Different creatures fight differently:
@@ -20114,6 +20220,10 @@ Intelligent Humanoids: ::
 - Negotiate if outmatched
 - Use terrain advantages
 - Call for reinforcements
+
+{{pageNumber,auto}}
+{{footnote Part V: DM Tools}}
+\page
 
 Beasts/Animals: ::
 - Attack nearest/weakest
@@ -20217,10 +20327,6 @@ Bad Puzzles: ::
 - Block progress if unsolved
 - Take 30+ minutes
 
-{{pageNumber,auto}}
-{{footnote Part V: DM Tools}}
-\page
-
 Solution: ::
 - Drop hints after 10 minutes
 - Allow skill checks (DC 15 Intelligence) for clues
@@ -20236,6 +20342,10 @@ Simple Trap: ::
 
 Example: ::
 - Pit trap: DC 15 Perception to spot, DC 12 Dex save to avoid, 20 feet deep (2d6 damage)
+
+{{pageNumber,auto}}
+{{footnote Part V: DM Tools}}
+\page
 
 Complex Trap: ::
 - Multiple triggers
@@ -20295,7 +20405,7 @@ Per Arc, Include: ::
 - Several medium combats (standard challenge)
 - 1-2 hard combats (test limits)
 - 1 deadly combat (climax)
-
+\column
 Avoid: ::
 - Back-to-back deadly combats
 - 5+ combats without rest
@@ -20329,11 +20439,6 @@ Mechanics: ::
 - Morale checks for defenders
 - Time pressure (reinforcements coming)
 
-{{pageNumber,auto}}
-{{footnote Part V: DM Tools}}
-
-\page
-
 
 #### Bound Corruption Event
 
@@ -20363,6 +20468,10 @@ Mixed Levels: ::
 - Add their individual thresholds
 - Or: Average party level, then adjust encounter
 
+{{pageNumber,auto}}
+{{footnote Part V: DM Tools}}
+\page
+
 ### Example Encounters
 
 #### Level 3 Party (4 PCs) - Medium Combat
@@ -20383,7 +20492,7 @@ Primordial Spawn Emergence: ::
 - Tactics: Priest casts from range, spawn rush melee, corruption spreads toward party
 - Objective: Seal corruption breach at altar while fighting
 - Time limit: 6 rounds before corruption overtakes temple
-
+\column
 #### Level 12 Party (5 PCs) - Social Encounter
 
 Negotiate with Warlord: ::
@@ -20398,6 +20507,7 @@ Well-designed encounters create memorable moments and challenge players meaningf
 {{pageNumber,auto}}
 {{footnote Part V: DM Tools}}
 \page
+
 {{wide
 ## Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor's Wild Lands
 }}
@@ -20458,7 +20568,7 @@ Advantages: ::
 - Detailed map: Advantage
 - Clear landmark visible: Advantage
 - Guide who knows area: Advantage
-
+\column
 #### Mapping
 
 Creating Map: ::
@@ -21344,3 +21454,7 @@ This Guide contains:
 :
 The world has secrets. Now you know them all.
 {{/backCover}}
+
+![DMG-cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-shattered-coast.jpg){position:absolute,top:0px,left:0px,width:100%}
+
+\page
