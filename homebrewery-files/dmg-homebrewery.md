@@ -117,7 +117,7 @@ ___
 {{padding-top:450px}}
 #### Copyright & Attribution
 
-**Tirvandor Dungeon Master's Guide** ::
+**Tirvandor Game Master's Guide** ::
 
 Copyright © 2025 Jason "Mixologee" Scheponik. All rights reserved.
 
@@ -447,7 +447,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
 
 ### Using This Guide
 
-This guide contains information only for Dungeon Masters. It reveals secrets players should not know.
+This guide contains information only for Game Masters. It reveals secrets players should not know.
 
 ## Chapter 1. Complete Timeline of Tirvandor
 
@@ -20235,7 +20235,7 @@ Reference when creating custom content. Balance is approximate - playtest and ad
 
 
 {{pageNumber,auto}}
-{{footnote DUNGEON MASTER'S GUIDE}}
+{{footnote Game Master's Guide}}
 
 \page
 {{wide
@@ -20398,7 +20398,7 @@ Complications: ::
 - Maintenance costs
 
 {{pageNumber,auto}}
-{{footnote DUNGEON MASTER'S GUIDE}}
+{{footnote Game Master's Guide}}
 
 \page
 {{wide
@@ -22090,12 +22090,12 @@ END OF LICENSE
 \page
 
 {{backCover}}
-Tirvandor Dungeon Master's Guide: Secrets of the Sundered World
+Tirvandor Game Master's Guide: Secrets of the Sundered World
 
 :
 Behind every great campaign lies a wealth of secrets, hidden histories, shadowy factions, and truths the players must discover for themselves. This guide gives you everything you need to bring Tirvandor to life at your table.
 :
-From the political machinations of noble houses to the cosmic mysteries of the Worldrend, from street-level intrigue to world-shaking revelations. It's all here, organized for the Dungeon Master's eyes only.
+From the political machinations of noble houses to the cosmic mysteries of the Worldrend, from street-level intrigue to world-shaking revelations. It's all here, organized for the Game Master's eyes only.
 :
 This Guide contains:
 
@@ -22117,5 +22117,15 @@ The world has secrets. Now you know them all.
 {{/backCover}}
 
 ![DMG-cover](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/world/tirvandor-world-the-shattered-coast.jpg){position:absolute,top:0px,left:0px,width:100%}
+
+{{logo
+
+![](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/janky-games-llc-logo.png){position:absolute,left:50px}
+
+![](https://homebrewery.naturalcrit.com/assets/naturalCritLogoWhite.svg){position:absolute,right:110px}
+ :: 
+ ::
+Homebrewery.Naturalcrit.com
+}}
 
 \page
