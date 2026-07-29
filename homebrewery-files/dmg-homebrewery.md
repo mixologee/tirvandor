@@ -61,8 +61,7 @@
 /* 3. Position the Page Number slightly right of center */
 .page .pageNumber {
     text-align: right;
-    padding-right: 0.5in; /* Adjust this to push the number further right */
-    color: gold;         /* Fixed typo from 'gol' */
+    padding-right: 0.5in; /* Adjust this to push the number further right */ 
 }
 
 /* Constrain absolutely-positioned chapter-opener images to the safety margins.
@@ -3139,7 +3138,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Commands respect, identifies the wearer as an authority figure
 
 **Signature NPC:** Border patrol officers  
-
+\column
 #### 2: Potion of Fire Resistance
 
 <div class="col-img-item">![4: POTION OF FIRE RESISTANCE](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-potion-of-fire-resistance.jpg){width:150px,mix-blend-mode:multiply}</div>
@@ -3174,6 +3173,9 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Most common healing potion
 - Single use
 
+{{pageNumber,auto}}
+{{footnote Part III: Treasure}}
+\page
 
 #### 4: Wand of Magic Missiles
 
@@ -3182,10 +3184,6 @@ Magic items are rare and significant. Each item has history and often ties to sp
 **Type:** Wand  
 **Rarity:** Uncommon  
 **Attunement:** Required (spellcaster)  
-
-{{pageNumber,auto}}
-{{footnote Part III: Treasure}}
-\page
 
 **Properties:**
 
@@ -3200,21 +3198,20 @@ Magic items are rare and significant. Each item has history and often ties to sp
 **Type:** Wondrous Item (amulet)  
 **Rarity:** Rare  
 **Attunement:** Required  
-
 **Properties:**
-
 - Constitution becomes 19
 - Does not stack with other Constitution-setting items
 - Visually a silver chain with a heart-shaped ruby pendant in an intricate metalwork frame with a radiant glow
 
+\column
+
 #### 6: Dragon Slaying Arrows (SET OF 3)
 
-<div class="col-img-item">![11: DRAGON SLAYING ARROWS (SET OF 3)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-dragon-slaying-arrows.jpg){width:200px,mix-blend-mode:multiply}</div>
+<div class="col-img-item">![11: DRAGON SLAYING ARROWS (SET OF 3)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-dragon-slaying-arrows.jpg){width:180px,mix-blend-mode:multiply}</div>
 
 **Type:** Weapon (arrows)  
 **Rarity:** Very Rare  
 **Attunement:** No Attunement  
-\column
 **Properties:**
 
 - +1 ammunition
@@ -3222,7 +3219,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Phoenix feather fletching
 - Golden glowing arrowheads
 - Runic engravings on shaft
----
+
 
 #### 7: Dragon Warding Amulets (SET OF 4)
 
@@ -3244,7 +3241,13 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Cast Protection from Energy 1/day (matching the amulet's type)
 - Set bonus: All 4 together grant immunity to dragon fear
 
+{{pageNumber,auto}}
+{{footnote Part III: Treasure}}
+\page
+
 #### 8: Flaming Longsword - Phoenix Variant
+
+<div class="col-img-item">![13: FLAMING LONGSWORD - PHOENIX VARIANT](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-flaming-longsword.jpg){width:200px,mix-blend-mode:multiply}</div>
 
 **Type:** Weapon (longsword)  
 **Rarity:** Rare  
@@ -3260,11 +3263,6 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Can ignite flammable objects
 - Phoenix wing-shaped crossguard, red leather grip, gold/brass fittings
 
-{{pageNumber,auto}}
-{{footnote Part III: Treasure}}
-\page
-
-<div class="col-img-item">![13: FLAMING LONGSWORD - PHOENIX VARIANT](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-flaming-longsword.jpg){width:200px,mix-blend-mode:multiply}</div>
 
 #### 9: Morningstar - Holy Radiant
 
@@ -3281,8 +3279,6 @@ Magic items are rare and significant. Each item has history and often ties to sp
 - Advantage on attacks vs undead
 - Sheds bright light 10 ft., dim light 20 ft.
 - Cast Daylight 1/day
-
-\column
 
 #### 10: Ring of Spell Storing
 
@@ -3370,7 +3366,7 @@ Magic items are rare and significant. Each item has history and often ties to sp
 
 #### 15: Voidblade Longsword
 
-<div class="col-img-item">![30: VOIDBLADE LONGSWORD](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-voidblade-longsword.jpg){width:200px,mix-blend-mode:multiply}</div>
+<div class="col-img-item">![30: VOIDBLADE LONGSWORD](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/items/tirvandor-item-voidblade-longsword.jpg){width:150px,mix-blend-mode:multiply}</div>
 
 **Type:** Weapon (longsword)  
 **Rarity:** Very Rare  
@@ -5294,6 +5290,15 @@ His compromise: accept bribes from smugglers dealing in victimless goods (exotic
 
 <div class="col-img">![Harbor Master Tobias Saltwind](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-harbor-master-tobias-saltwind.jpg){width:325px,mix-blend-mode:multiply}</div>
 
+ ::
+ 
+{{descriptive
+#### Secrets (DM Only)
+1. **The Selective Blind Eye:** Takes bribes only on victimless smuggling, and every coin goes to Sister Mercy's orphanage. His books would ruin him; his conscience is clean.
+2. **The Predecessor's File:** Has quietly assembled evidence on the Syndicate member who murdered the last harbormaster. He's waiting until it's ironclad.
+3. **The Terrible Cargo:** A ship arrived carrying something he should have reported. He looked the other way once, and it haunts him.
+}}
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
@@ -5326,14 +5331,6 @@ ___
 ***Rallying Cry.*** :: As a bonus action, chooses up to 3 allies within 60 feet who can hear him. Each regains 8 hit points.
 }}
 
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Selective Blind Eye:** Takes bribes only on victimless smuggling, and every coin goes to Sister Mercy's orphanage. His books would ruin him; his conscience is clean.
-2. **The Predecessor's File:** Has quietly assembled evidence on the Syndicate member who murdered the last harbormaster. He's waiting until it's ironclad.
-3. **The Terrible Cargo:** A ship arrived carrying something he should have reported. He looked the other way once, and it haunts him.
-}}
-
 #### Plot Hooks
 1. **The Weapon Shipment:** Knows when and where but can't act. Needs outsiders to intercept without involving him.
 2. **The Predecessor's Murder:** Finally ready to move against the Syndicate member who killed his boss. Needs proof that will hold up.
@@ -5357,13 +5354,11 @@ Mira took command of the survivors, hunted the pirates for three months, and san
 - **Reports To:** Guildmaster Theron Clearwater of Crystalbrook
 - **Rival:** Captain Vex Darkwater of the Thornmire (territorial disputes)
 - **Ally:** Admiral Theron Stormcrest (distant relation, mutual respect)
+- **Informant:** A former pirate who provides intelligence on raider movements
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-- **Informant:** A former pirate who provides intelligence on raider movements
-
 
 {{monster,frame
 ## Captain Mira Wavecrest
@@ -5488,10 +5483,6 @@ Called to Sylvara's service at 18 after surviving a shipwreck that killed everyo
 
 Now serves as high priest of Sylvara's temple in Goldreach Harbor. Blesses ships, comforts widows, and, when storms threaten, stands at the harbor entrance and bargains with the weather itself. Sailors consider him a living saint. He considers himself a servant doing his job.
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 #### Connections
 - **Congregation:** Thousands of sailors, fishermen, and their families
 - **Temple Staff:** Twelve lesser priests and acolytes
@@ -5499,7 +5490,14 @@ Now serves as high priest of Sylvara's temple in Goldreach Harbor. Blesses ships
 - **Rival:** The Temple of Kalythra the Stormmother (rival storm cult: theological enemy)
 - **Contact:** The merfolk community who sometimes surfaces near Goldreach
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
+<div class="col-img">![Father Aldric Tidekeeper](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-father-aldric-tidekeeper.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+ ::
+ 
 {{descriptive
 #### Secrets (DM Only)
 1. **The Weather Gift:** Can control weather in a small area through divine power. Does this secretly during storms to protect ships. Sylvara permits this but asks a price.
@@ -5509,7 +5507,13 @@ Now serves as high priest of Sylvara's temple in Goldreach Harbor. Blesses ships
 5. **The Survivor's Guilt:** Still dreams of the shipwreck survivors who didn't walk out of the surf. Wonders why he was chosen and they weren't.
 }}
 
-<div class="col-img">![Father Aldric Tidekeeper](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-father-aldric-tidekeeper.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Plot Hooks
+1. **The Coming Storm:** Needs help preparing Goldreach for the catastrophic hurricane he's foreseen.
+2. **The Merfolk Crisis:** Something threatens the merfolk. They've asked him for help, and for the first time, he can't provide it alone.
+3. **The Weather Balance:** A storm he redirected destroyed a village he thought was empty. It wasn't. He needs to help without revealing his power.
+4. **The Storm Cult:** A rogue cult of Kalythra the Stormmother is trying to summon the hurricane early. Needs them stopped.
+5. **The Sacred Mission:** Sylvara demands he travel to a distant shrine and perform a ritual. Needs protection for the journey.
 
 
 {{monster,frame
@@ -5545,15 +5549,6 @@ ___
 ***Destructive Wrath (2/Day).*** :: When Aldric rolls lightning or thunder damage, he can use Channel Divinity to deal maximum damage instead of rolling.
 ***Wrath of the Storm.*** :: When a creature within 5 feet hits Aldric with an attack, he can use his reaction to deal 2d8 lightning or thunder damage (DC 16 Dex save for half).
 }}
-
-
-
-#### Plot Hooks
-1. **The Coming Storm:** Needs help preparing Goldreach for the catastrophic hurricane he's foreseen.
-2. **The Merfolk Crisis:** Something threatens the merfolk. They've asked him for help, and for the first time, he can't provide it alone.
-3. **The Weather Balance:** A storm he redirected destroyed a village he thought was empty. It wasn't. He needs to help without revealing his power.
-4. **The Storm Cult:** A rogue cult of Kalythra the Stormmother is trying to summon the hurricane early. Needs them stopped.
-5. **The Sacred Mission:** Sylvara demands he travel to a distant shrine and perform a ritual. Needs protection for the journey.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -7489,7 +7484,9 @@ Now sixty and at the height of her power, Aquila plays politics like chess, alwa
 - **Enemy:** The organization that killed her siblings (still exists, diminished)
 
 <div class="col-img">![Council Speaker Aquila Clearwater](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-council-speaker-aquila-clearwater.jpg){width:325px,mix-blend-mode:multiply}</div>
-
+ 
+ ::
+ 
 {{descriptive
 #### Secrets (DM Only)
 1. **The Siblings' Killers:** Destroyed most of them, but three escaped. She's hunted them for thirty years.
@@ -7499,6 +7496,10 @@ Now sixty and at the height of her power, Aquila plays politics like chess, alwa
 5. **The Succession Plan:** Has no children and no clear heir. Is carefully testing candidates without their knowledge.
 }}
 
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 {{monster,frame
 ## Council Speaker Aquila Clearwater
@@ -7540,13 +7541,7 @@ ___
 #### Background & History
 Talia came to Aethoria as a refugee from Thaldros, one of the half-elf children displaced by the conflicts following the Dragon Crisis. The elves took her in reluctantly, half-breeds often struggled to find acceptance, but she won them over with determination and wisdom beyond her years.
 
-She became a druid of considerable power, specializing in agricultural magic that helped communities thrive. Her practical approach and 
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-understanding of non-elven perspectives made her valuable as a bridge between the Harmony and other peoples. When the Circle of Speakers created an advisory position for non-pure-elven voices, she was the obvious choice.
+She became a druid of considerable power, specializing in agricultural magic that helped communities thrive. Her practical approach and understanding of non-elven perspectives made her valuable as a bridge between the Harmony and other peoples. When the Circle of Speakers created an advisory position for non-pure-elven voices, she was the obvious choice.
 
 Now she represents the interests of half-elves, human immigrants, and other minorities within the Harmony. It's a difficult position—too elven for outsiders, too human for traditionalists—but she navigates it with patience and occasional stubbornness. She's older than most humans live but young by elven standards, giving her a unique temporal perspective.
 
@@ -7564,6 +7559,13 @@ Now she represents the interests of half-elves, human immigrants, and other mino
 #### Secrets (DM Only)
 1. **The Thaldros Family:** Left family behind when she fled. They're still alive, and she sends money secretly.
 2. **The Discrimination Records:** Has documented decades of discrimination against non-elves. Could cause a scandal if released.
+}}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{descriptive
 3. **The Underground Railroad:** Helps refugees from troubled areas reach safety in Aethoria, outside official channels.
 4. **The Harmony's Flaw:** Knows the elven government has a critical weakness that could destroy it. Protects the secret while working to fix it.
 5. **The Dream of Return:** Wants to visit Thaldros before she dies but fears what she'll find.
@@ -7575,8 +7577,6 @@ Now she represents the interests of half-elves, human immigrants, and other mino
 3. **The Family Reunion:** Her Thaldros family is in danger. She needs someone to check on them.
 4. **The Reform Push:** Making a major political move. Needs allies to help it succeed.
 5. **The Return Journey:** Finally ready to visit Thaldros. Wants trusted companions for the emotional journey.
-
-
 
 {{monster,frame
 ## Elder Council Mother Talia Vinehart
@@ -7604,9 +7604,7 @@ ___
 ***Vine Staff.*** :: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. ***Hit.*** 4 (1d6 + 1) bludgeoning damage, and vines grapple the target (escape DC 15) on a hit against a Medium or smaller creature.::
 }}
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+\column
 
 ## Lord Commander Gareth Lightbane (Iron Council)
 
@@ -7619,7 +7617,9 @@ His defining moment came during the Demon Tide of 1198 CR, when a portal to the 
 
 Now he leads the Iron Council, the military arm of the Lightbringers. He remains devoted to protecting the innocent, but his methods have become harder, his mercy rarer. He's seen what evil truly is, and he knows that sometimes fighting monsters requires becoming something not entirely human.
 
-\column
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 #### Connections
 - **Order:** The Lightbringers (commands their military forces)
@@ -7664,9 +7664,6 @@ ___
 5. **The Sealed Portal:** The Demon Tide portal wasn't fully sealed. He's been containing it personally since the Demon Tide.
 }}
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Plot Hooks
 1. **The Portal Crisis:** The seal is weakening. He needs help reinforcing it without revealing why he's connected to it.
@@ -7682,6 +7679,42 @@ ___
 
 <div class="col-img">![Trade Prince Lucian Goldfingers (Merchant League)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lucian-goldfingers.jpg){width:325px,mix-blend-mode:multiply}</div>
 
+#### Background & History
+Lucian was born in the gutters of Port Myrthen, a half-elf bastard of a merchant lord who refused to acknowledge him. He survived by theft and wit until a chance encounter let him blackmail his father into funding his education. He proved to be a prodigy of commerce, multiplying his starting funds a hundredfold within a decade.
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+When his father died, Lucian revealed the blackmail material anyway—not for revenge, but to eliminate rivals who knew the truth. He absorbed his father's trading company and used it as a foundation to build a merchant empire spanning both continents. Now he sits on the Merchant League's inner council, one of the three Trade Princes who truly control continental commerce.
+
+His public persona is the charming rogue, the common-born success story. Privately, he's ruthless, patient, and never forgives a slight. He doesn't want money. He has more than he could spend in several lifetimes. He wants power, respect, and eventually to reshape the world's economy in his image.
+
+#### Connections
+- **Peers:** Two other Trade Princes (allies of convenience)
+- **Rival:** House Goldshore (old money, despises him)
+- **Asset:** Extensive spy network across merchant houses
+- **Contact:** Master Crimson (occasional business, mutual respect)
+- **Enemy:** His half-siblings (still fighting over their father's legacy)
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Father's Murder:** Arranged his father's death to look natural. The man was planning to expose and disinherit him.
+2. **The Currency Plot:** Slowly manipulating exchange rates to eventually give him control over the continental economy.
+3. **The Emergency Fortune:** Has hidden caches of wealth across both continents, enough to rebuild from nothing.
+4. **The Legacy Project:** Funding archaeological expeditions to find pre-Worldrend trade magic. Wants to revolutionize commerce.
+5. **The Half-Sibling Solution:** Planning to eliminate or co-opt his half-siblings permanently. Tired of their interference.
+}}
+
+#### Plot Hooks
+1. **The Investment Opportunity:** Offers to fund the party's goals in exchange for future favors. The terms seem generous, too generous.
+2. **The Corporate Espionage:** Needs information from a rival merchant house. Offers significant payment.
+3. **The Archaeological Discovery:** One of his expeditions found something dangerous. Needs it retrieved before rivals learn of it.
+4. **The Family Problem:** One of his half-siblings is making moves. Needs outside help to counter them.
+5. **The Honest Deal:** For once, offers a straightforward business arrangement. Something has spooked him.
+
+
+**Secret:** Funds both sides of several conflicts. Profits from war. Has destabilization agents creating tensions. Not patriotic, mercenary.
 {{monster,frame
 ## Trade Prince Lucian Goldfingers (Merchant League)
 *Medium humanoid (human), lawful evil*
@@ -7716,44 +7749,14 @@ ___
 ***Insightful Manipulator.*** :: After observing a creature for 1 minute, learns two of the following: Int, Wis, Cha scores, class levels, or total hit dice.
 }}
 
-#### Background & History
-Lucian was born in the gutters of Port Myrthen, a half-elf bastard of a merchant lord who refused to acknowledge him. He survived by theft and wit until a chance encounter let him blackmail his father into funding his education. He proved to be a prodigy of commerce, multiplying his starting funds a hundredfold within a decade.
-
-When his father died, Lucian revealed the blackmail material anyway—not for revenge, but to eliminate rivals who knew the truth. He absorbed his father's trading company and used it as a foundation to build a merchant empire spanning both continents. Now he sits on the Merchant League's inner council, one of the three Trade Princes who truly control continental commerce.
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-His public persona is the charming rogue, the common-born success story. Privately, he's ruthless, patient, and never forgives a slight. He doesn't want money. He has more than he could spend in several lifetimes. He wants power, respect, and eventually to reshape the world's economy in his image.
-
-#### Connections
-- **Peers:** Two other Trade Princes (allies of convenience)
-- **Rival:** House Goldshore (old money, despises him)
-- **Asset:** Extensive spy network across merchant houses
-- **Contact:** Master Crimson (occasional business, mutual respect)
-- **Enemy:** His half-siblings (still fighting over their father's legacy)
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Father's Murder:** Arranged his father's death to look natural. The man was planning to expose and disinherit him.
-2. **The Currency Plot:** Slowly manipulating exchange rates to eventually give him control over the continental economy.
-3. **The Emergency Fortune:** Has hidden caches of wealth across both continents, enough to rebuild from nothing.
-4. **The Legacy Project:** Funding archaeological expeditions to find pre-Worldrend trade magic. Wants to revolutionize commerce.
-5. **The Half-Sibling Solution:** Planning to eliminate or co-opt his half-siblings permanently. Tired of their interference.
-}}
-
-#### Plot Hooks
-1. **The Investment Opportunity:** Offers to fund the party's goals in exchange for future favors. The terms seem generous, too generous.
-2. **The Corporate Espionage:** Needs information from a rival merchant house. Offers significant payment.
-3. **The Archaeological Discovery:** One of his expeditions found something dangerous. Needs it retrieved before rivals learn of it.
-4. **The Family Problem:** One of his half-siblings is making moves. Needs outside help to counter them.
-5. **The Honest Deal:** For once, offers a straightforward business arrangement. Something has spooked him.
-
-
-**Secret:** Funds both sides of several conflicts. Profits from war. Has destabilization agents creating tensions. Not patriotic, mercenary.
-
 ## Master Crimson (The Syndicate)
+
+<div class="col-img">![Master Crimson (The Syndicate)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-crimson.jpg){width:310px,mix-blend-mode:multiply}</div>
+
 
 #### Background & History
 No one knows who Master Crimson really is. That's rather the point. The name has been used for over forty years, possibly by multiple individuals, possibly by one very careful person. What's known is that Master Crimson controls the Shadow Syndicate's operations across central Thaldros.
@@ -7763,19 +7766,6 @@ The Shadow Syndicate isn't a traditional thieves' guild. It's a business—crimi
 Under Crimson's leadership, the Syndicate has become almost respectable in certain circles. They honor contracts, don't target civilians unnecessarily, and maintain order in the underworld that benefits everyone. Several city watch commanders have quiet arrangements. Some noble houses retain their services.
 
 The current Master Crimson (if there's only one) operates from somewhere in the Free Cities, coordinates regional operations through lieutenants like Silas the Fence, and appears in person only for the most important negotiations.
-
-#### Connections
-- **Regional Lieutenants:** Silas the Fence (Silverpine), The Iron Hand (Crossvale), Whisper (Goldreach), and others
-- **Trade Prince Lucian:** Business arrangement. Mutual benefit, mutual distrust
-- **City Watch Commanders:** Several have quiet understandings. Captain Lyra Swiftwind is notably NOT one of them.
-- **The Crimson Order:** The blood mage society chose their name coincidentally, or did they? Crimson finds the confusion useful.
-- **Lady Morgana Blackwater:** Has used Syndicate services. Crimson finds her increasingly concerning.
-
-<div class="col-img">![Master Crimson (The Syndicate)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-crimson.jpg){width:310px,mix-blend-mode:multiply}</div>
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{monster,frame
 ## Master Crimson (The Syndicate)
@@ -7807,6 +7797,16 @@ ___
 ***Parry.*** :: Adds +4 AC against one melee attack.
 }}
 
+#### Connections
+- **Regional Lieutenants:** Silas the Fence (Silverpine), The Iron Hand (Crossvale), Whisper (Goldreach), and others
+- **Trade Prince Lucian:** Business arrangement. Mutual benefit, mutual distrust
+- **City Watch Commanders:** Several have quiet understandings. Captain Lyra Swiftwind is notably NOT one of them.
+- **The Crimson Order:** The blood mage society chose their name coincidentally, or did they? Crimson finds the confusion useful.
+- **Lady Morgana Blackwater:** Has used Syndicate services. Crimson finds her increasingly concerning.
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -7827,20 +7827,26 @@ ___
 
 ## Grand Warden Volcanus Rex (Ashwardens)
 
-<div class="col-img">![Grand Warden Volcanus Rex (Ashwardens)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-grand-warden-volcanus-rex.jpg){width:325px,mix-blend-mode:multiply}</div>
-
 #### Background & History
 Volcanus Rex has spent his life listening to the mountains. Born in the shadow of the Ashen Peaks, he joined the Ashwardens as a young man and rose through their ranks the hard way—year after year at the monitoring stations, learning to read tremor patterns, gas plumes, and the moods of the burning earth better than anyone alive.
 
-His defining moment came in 1220 CR, when he predicted the great eruption days before any instrument or omen agreed with him. He forced the evacuations through on his authority alone. Three thousand lives were 
+His defining moment came in 1220 CR, when he predicted the great eruption days before any instrument or omen agreed with him. He forced the evacuations through on his authority alone. Three thousand lives were saved when the mountain finally broke, and the order that had doubted him made him Grand Warden. He has led the Ashwardens for fifteen years since.
+\column
+The people of the ash country treat his warnings as holy writ, and many whisper that the Forge itself speaks through him. Volcanus does not correct them. The truth of where his warnings come from is a burden he carries alone, and the price of that arrangement has not yet come due.
+
+<div class="col-img">![Grand Warden Volcanus Rex (Ashwardens)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-grand-warden-volcanus-rex.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Connections
+- **Organization:** The Ashwardens (200 volcano monitors across the Ashen Peaks)
+- **Subordinate:** Warden Commander Ignis Ashborn (Ashgate station)
+- **Engineer:** Mira Steamvent (containment systems)
+- **Smith:** Forge-Master Thordak Lavaheart (equipment and instruments)
+- **Authorities:** Regional governments that fund—and quietly pressure—the order
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-saved when the mountain finally broke, and the order that had doubted him made him Grand Warden. He has led the Ashwardens for fifteen years since.
-
-The people of the ash country treat his warnings as holy writ, and many whisper that the Forge itself speaks through him. Volcanus does not correct them. The truth of where his warnings come from is a burden he carries alone, and the price of that arrangement has not yet come due.
-
 
 {{monster,frame
 ## Grand Warden Volcanus Rex (Ashwardens)
@@ -7867,12 +7873,6 @@ ___
 ***Warhammer +2.*** :: Melee or Ranged Weapon Attack: +12 to hit, 1d8+7 + 1d8 fire.::
 }}
 
-#### Connections
-- **Organization:** The Ashwardens (200 volcano monitors across the Ashen Peaks)
-- **Subordinate:** Warden Commander Ignis Ashborn (Ashgate station)
-- **Engineer:** Mira Steamvent (containment systems)
-- **Smith:** Forge-Master Thordak Lavaheart (equipment and instruments)
-- **Authorities:** Regional governments that fund—and quietly pressure—the order
 
 {{descriptive
 #### Secrets (DM Only)
@@ -7895,17 +7895,15 @@ ___
 <div class="col-img">![Warden Commander Thalia Moonbow (Ironspine Rangers)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-warden-commander-thalia-moonbow.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Background & History
-Thalia grew up in the forests bordering the Ironspine Mountains, daughter of two rangers who taught her to track before she could read. She joined the Ironspine Rangers at sixteen, the youngest in their history, and 
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-proved herself during the Troll Wars of 1210 CR when she single-handedly tracked and killed a troll chieftain.
+Thalia grew up in the forests bordering the Ironspine Mountains, daughter of two rangers who taught her to track before she could read. She joined the Ironspine Rangers at sixteen, the youngest in their history, and proved herself during the Troll Wars of 1210 CR when she single-handedly tracked and killed a troll chieftain.
 
 The Ironspine Rangers patrol the mountains' lower slopes and forest boundaries, protecting travelers and settlements from the creatures that emerge from the peaks. It's unglamorous work (more about prevention and patrol than heroic battles) but Thalia has shaped them into the most effective wilderness force in Thaldros.
 
 Her command style is quiet competence; she leads by example and rarely raises her voice. Her rangers worship her, not because she asks them to but because she genuinely cares about each of them. She knows every ranger's name, family situation, and weaknesses, and she never sends someone on a mission they can't handle.
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 {{monster,frame
 ## Warden Commander Thalia Moonbow (Ironspine Rangers)
@@ -7935,31 +7933,6 @@ ___
 ***Longbow +3.*** :: Ranged Weapon Attack: +15 to hit, range 150/600 ft., one target. ***Hit.*** 1d8+9 piercing damage plus 1d8 thunder damage. Extra Attack (2).::
 }}
 
-#### Connections
-- **Command:** Two hundred rangers across the Ironspine region
-- **Superior:** Lord Commander Thrain Ironoak (formal chain of command)
-- **Ally:** Scout Captain Finn Quickfoot (shares intelligence)
-- **Rival:** Captain Brenna Frostbeard (different approaches to command)
-- **Contact:** Druid Thornwood (provides magical support)
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Monster Migration:** Has noticed monsters moving downward from the peaks: fleeing something above.
-2. **The Lost Patrol:** A patrol disappeared three months ago. She's been searching secretly, fearing the worst.
-3. **The Ranger Corruption:** Suspects one of her rangers is feeding information to bandits. Building a case carefully.
-4. **The Personal Grief:** Lost her parents to a monster attack she could have prevented. Still blames herself.
-5. **The Mountain Summit:** Has seen something at the highest peak, lights, movement. Hasn't reported it yet.
-}}
-
-#### Plot Hooks
-1. **The Search Party:** Ready to mount a proper search for the lost patrol. Needs additional fighters.
-2. **The Migration Investigation:** Needs people who can climb higher than her rangers to find what's driving monsters down.
-3. **The Traitor Trap:** Has a plan to expose the corrupted ranger but needs outside help to spring it.
-4. **The Summit Expedition:** Finally ready to investigate the mountain peak. Needs a capable team.
-5. **The Training Mission:** Offers to help the party develop wilderness skills in exchange for their assistance.
-
-
-**Secret:** Has befriended silver dragon living in high peaks. It provides intelligence. Official reports omit this detail.
 
 ## Forge-Master Rurik Ironanvil (Forgebound Guild)
 
@@ -7977,6 +7950,32 @@ His personal forge produces the finest work in Thaldros, and possibly the world.
 
 <div class="col-img">![Forge-Master Rurik Ironanvil (Forgebound Guild)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-rurik-ironanvil.jpg){width:325px,mix-blend-mode:multiply}</div>
 
+#### Connections
+- **Guild:** Eight hundred smiths across multiple mountain forges
+- **Rival:** Master Smith Durgan Forgefire (professional competition)
+- **Client:** Grand Warden Volcanus Rex (specialized fire-resistant gear)
+- **Contact:** Merchant Princess Yasmin (rare materials supplier)
+- **Apprentice:** Seventeen masters-in-training, one exceptional
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Sabotage:** His predecessor was definitely murdered. He's been hunting the killer for a century.
+2. **The Forbidden Technique:** Knows how to forge using dragon fire. It's dangerous and possibly illegal.
+3. **The Legendary Plans:** Has designs for a legendary weapon but lacks one crucial component, something that may no longer exist.
+4. **The Exceptional Apprentice:** One apprentice has more talent than Rurik himself. He's torn between pride and jealousy.
+5. **The Guild's Secret:** The Forgebound have a sealed vault containing weapons too dangerous to release. He knows what's inside.
+
+}}
+\column
+#### Plot Hooks
+1. **The Commission:** Offers to forge something extraordinary for the party if they retrieve a rare material.
+2. **The Murder Investigation:** Finally has a lead on his predecessor's killer. Needs discreet investigation.
+3. **The Dragon Fire:** Has located a living dragon whose fire could complete his masterwork. Needs help approaching it.
+4. **The Vault Problem:** Something in the sealed vault is waking up. Needs help containing it.
+5. **The Apprentice Test:** Wants to test his exceptional apprentice without their knowledge. The party is the test.
+
+
+**Secret:** Discovered pre-Worldrend technique for forging. Creates items superior to modern methods. Teaching only trusted apprentices.
 
 {{monster,frame
 ## Forge-Master Rurik Ironanvil (Forgebound Guild)
@@ -8004,32 +8003,10 @@ ___
 ***Forge-Master's Hammer.*** :: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. ***Hit.*** 8 (1d8 + 4) bludgeoning damage plus 7 (2d6) fire damage from its perpetually heated head.::
 }}
 
-#### Connections
-- **Guild:** Eight hundred smiths across multiple mountain forges
-- **Rival:** Master Smith Durgan Forgefire (professional competition)
-- **Client:** Grand Warden Volcanus Rex (specialized fire-resistant gear)
-- **Contact:** Merchant Princess Yasmin (rare materials supplier)
-- **Apprentice:** Seventeen masters-in-training, one exceptional
 
-{{descriptive
-#### Secrets (DM Only)
-1. **The Sabotage:** His predecessor was definitely murdered. He's been hunting the killer for a century.
-2. **The Forbidden Technique:** Knows how to forge using dragon fire. It's dangerous and possibly illegal.
-3. **The Legendary Plans:** Has designs for a legendary weapon but lacks one crucial component, something that may no longer exist.
-4. **The Exceptional Apprentice:** One apprentice has more talent than Rurik himself. He's torn between pride and jealousy.
-5. **The Guild's Secret:** The Forgebound have a sealed vault containing weapons too dangerous to release. He knows what's inside.
-
-}}
-
-#### Plot Hooks
-1. **The Commission:** Offers to forge something extraordinary for the party if they retrieve a rare material.
-2. **The Murder Investigation:** Finally has a lead on his predecessor's killer. Needs discreet investigation.
-3. **The Dragon Fire:** Has located a living dragon whose fire could complete his masterwork. Needs help approaching it.
-4. **The Vault Problem:** Something in the sealed vault is waking up. Needs help containing it.
-5. **The Apprentice Test:** Wants to test his exceptional apprentice without their knowledge. The party is the test.
-
-
-**Secret:** Discovered pre-Worldrend technique for forging. Creates items superior to modern methods. Teaching only trusted apprentices.
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 ## Crown Prince Thorin Thandris
 
@@ -8041,24 +8018,11 @@ ___
 - **Alignment:** Lawful Good
 - **Class:** Fighter 8 / Paladin 4 (Oath of the Iron Crown)
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 <div class="col-img">![Crown Prince Thorin Thandris](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-prince-thorin-thandris.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Physical Description
 Tall and athletic (6'2", 190 lbs) with the Thandris dark hair and strong features. Unlike his father's weathered appearance, Thorin has a youthful vigor tempered by the weight of future responsibility. Clean-shaven, with intense gray eyes that assess situations tactically. Wears practical armor even in court - always ready for action. Has a small scar on his left hand from a training accident at age 16.
-
-#### Equipment
-- **Armor:** Plate Armor +1 (polished, Thandris crest on breastplate)
-- **Shield:** Steel Shield with Mountain Sigil (family crest)
-- **Primary Weapon:** Heir's Blade (Longsword +1, family heirloom, passed to each heir)
-- **Secondary:** Lance (for mounted combat), Javelin (×3)
-- **Mount:** Heavy warhorse named "Stormhoof" (trained for battle)
-- **Cloak:** Cloak of Protection (royal purple with fur trim)
-- **Ring:** Signet Ring of House Thandris (marks official documents)
-- **Other:** Holy symbol of Mordain (steel hammer pendant), Potion of Superior Healing (×2)
 
 {{monster,frame
 ## Crown Prince Thorin Thandris
@@ -8105,6 +8069,17 @@ ___
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+
+#### Equipment
+- **Armor:** Plate Armor +1 (polished, Thandris crest on breastplate)
+- **Shield:** Steel Shield with Mountain Sigil (family crest)
+- **Primary Weapon:** Heir's Blade (Longsword +1, family heirloom, passed to each heir)
+- **Secondary:** Lance (for mounted combat), Javelin (×3)
+- **Mount:** Heavy warhorse named "Stormhoof" (trained for battle)
+- **Cloak:** Cloak of Protection (royal purple with fur trim)
+- **Ring:** Signet Ring of House Thandris (marks official documents)
+- **Other:** Holy symbol of Mordain (steel hammer pendant), Potion of Superior Healing (×2)
+
 
 #### Personality
 **Traits:**
@@ -8157,7 +8132,13 @@ Now at 25, he serves as his father's chief military advisor and ambassador. He's
 3. **The Dragon Pact:** Thorin secretly met with a bronze dragon named Aerthis who lives in the northern peaks. They've formed a tentative alliance - the dragon provides intelligence on giant movements, Thorin keeps miners away from the dragon's territory. His father doesn't know.
 
 4. **The Doubt:** Despite outward confidence, Thorin sometimes questions if he's truly ready to be king. He keeps a journal of his father's decisions, studying them, but fears he lacks his father's wisdom.
+}}
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{descriptive
 5. **The Romantic Entanglement:** Thorin is in love with a common-born healer named Mira (who serves in the army). They've kept it secret - a king must make a political marriage, and acknowledging the relationship would force them to end it or cause scandal.
 }}
 
@@ -8165,10 +8146,6 @@ Now at 25, he serves as his father's chief military advisor and ambassador. He's
 1. **The Assassination Attempt:** Someone tries to kill Crown Prince Thorin during a public ceremony. The party must investigate who ordered it and why - is it political rivals, foreign agents, or something more sinister?
 
 2. **The Secret Meeting:** Thorin needs the party to escort him (in disguise) to a secret meeting with Princess Elanil at the border. They must protect him without revealing his identity, navigate both kingdoms' patrols, and deliver him safely.
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 3. **The Bastard Brother:** The illegitimate half-brother surfaces and is kidnapped by enemies who plan to use him to destabilize the succession. Thorin asks the party to rescue him quietly - without revealing the family connection.
 
@@ -8208,14 +8185,6 @@ Now at 25, he serves as his father's chief military advisor and ambassador. He's
 
 #### Physical Description
 Imposing figure (6'3", 210 lbs) with a commanding presence that fills any room. Older than Crown Prince Thorin by seven years and looks it - weathered face, several scars, prematurely graying hair despite his age. Keeps a short military beard. Cold blue eyes that assess everyone as either asset or threat. Always in uniform, even at formal events. Walks with a slight limp from an old battle wound.
-
-#### Equipment
-- **Armor:** Plate Armor +2 (battle-scarred, decorated with campaign ribbons)
-- **Primary Weapon:** Greatsword of Command +2 (glows faintly when he gives orders, grants +2 to command checks)
-- **Secondary:** Heavy Crossbow (masterwork), 20 bolts
-- **Cloak:** Cloak of Protection (military gray with Thandris colors)
-- **Ring:** Ring of Mind Shielding (protects against divination)
-- **Other:** General's signet (commands authority), Potion of Superior Healing (×2), tactical maps and planning materials
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -8265,6 +8234,14 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 
 \column
 
+#### Equipment
+- **Armor:** Plate Armor +2 (battle-scarred, decorated with campaign ribbons)
+- **Primary Weapon:** Greatsword of Command +2 (glows faintly when he gives orders, grants +2 to command checks)
+- **Secondary:** Heavy Crossbow (masterwork), 20 bolts
+- **Cloak:** Cloak of Protection (military gray with Thandris colors)
+- **Ring:** Ring of Mind Shielding (protects against divination)
+- **Other:** General's signet (commands authority), Potion of Superior Healing (×2), tactical maps and planning materials
+
 #### Personality
 **Traits:**
 - Brilliant military strategist, thinks three moves ahead
@@ -8294,15 +8271,15 @@ Marthos is a distant cousin of King Aldric IV - his great-grandfather was the Ki
 
 Born in 1212 CR to a minor branch of House Thandris, Marthos grew up knowing he'd never inherit the throne. Instead, he dedicated himself to military service. He enlisted at 16, rose through ranks through sheer competence and tactical brilliance.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 At 25, he led a crucial defense of a border fortress against a massive orc horde. Outnumbered 5-to-1, he held for three days until reinforcements arrived. This earned him promotion to Captain and the King's attention.
 
 By 30, he was General - youngest ever at the time. He modernized the army, improved training protocols, and increased efficiency. Under his command, Thaldros hasn't lost a single major engagement.
 
 But success breeds ambition. Marthos respects the King but sees Crown Prince Thorin as soft - too concerned with being loved rather than being effective. He doesn't actively plot against the prince, but he's quietly positioning himself. If Thorin proves unworthy... well, the kingdom needs strong leadership.
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Connections
 - **King Aldric IV:** Serves loyally but privately questions some decisions
@@ -8320,7 +8297,9 @@ But success breeds ambition. Marthos respects the King but sees Crown Prince Tho
 2. **The Blackwater Alliance:** He's been working with Lady Morgana Blackwater of Marshaven, providing her with political protection in exchange for her spy network's intelligence. This relationship is unknown to the King.
 
 3. **The Prince's Vulnerabilities:** Marthos knows two dangerous secrets about Crown Prince Thorin: his secret romance with the common healer Mira, and the fact that Thorin was born three years before the King married Queen Mara. Either secret could damage Thorin's reputation or succession rights. Marthos keeps both as leverage - not to use maliciously, but to "guide" the prince toward better decisions if needed.
-
+}}
+ ::
+{{descriptive
 4. **The Northern Failure:** Five years ago, a mission Marthos planned resulted in the deaths of 40 soldiers. He covered it up as enemy action, but it was actually a strategic miscalculation on his part. Evidence exists in the form of a surviving soldier's journal.
 
 5. **The Legitimate Claim:** Through genealogical research, Marthos discovered that due to an obscure historical marriage, his claim to the throne might actually be stronger than King Aldric IV's under ancient law. He's kept this secret - using it would destabilize everything - but it haunts him.
@@ -8346,6 +8325,10 @@ But success breeds ambition. Marthos respects the King but sees Crown Prince Tho
 - **When stressed:** Jaw tightens, hand moves to sword hilt, eyes narrow calculating
 - **In combat:** Fights from strategic position, directs allies, never panics
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 #### Notes for DMs
 - Marthos is designed as a morally complex figure - not evil, but dangerously ambitious
 - He's the "competent but cold" archetype - effective but potentially ruthless
@@ -8355,10 +8338,6 @@ But success breeds ambition. Marthos respects the King but sees Crown Prince Tho
 - The succession angle allows for political intrigue campaigns
 - His secrets provide hooks for levels 8-15 adventures
 - Can become villain or savior depending on circumstances and party choices
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 ## Princess Elanil Aethermere
 
@@ -8373,7 +8352,7 @@ But success breeds ambition. Marthos respects the King but sees Crown Prince Tho
 - **Alignment:** Neutral Good
 - **Class:** Wizard 11 (School of Enchantment) / Bard 3
 
-
+\column
 #### Physical Description
 Graceful and elegant (5'8", 125 lbs) with the ethereal beauty typical of high elves but warmed by genuine kindness. Long silver-blonde hair usually styled in elaborate braids woven with flowers and crystals. Violet eyes that seem to see through pretense to truth. Dresses in flowing robes of blue and silver (Aethermere colors) that somehow remain pristine even after travel. Wears a circlet of silver leaves that marks her royal status.
 
@@ -8404,6 +8383,10 @@ Graceful and elegant (5'8", 125 lbs) with the ethereal beauty typical of high el
 - Friendship with those who work toward peace across borders
 - The elven people's wellbeing and future
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 **Flaws:**
 - Sometimes naive about depth of others' hatred and prejudice
 - Can be manipulative even when trying to help
@@ -8413,30 +8396,13 @@ Graceful and elegant (5'8", 125 lbs) with the ethereal beauty typical of high el
 #### Background & History
 Born in 1105 CR, Princess Elanil has lived through much of the recent history of the Sundered Kingdoms. Unlike younger generations who see the division as natural, she remembers stories from elders about the unified realm and believes reunification is inevitable - and necessary.
 
-She showed magical talent young, studying at Silverpine Magical Academy (crossing borders even then) before returning to Aethermere. Her mother recognized her diplomatic gifts and appointed her Chief 
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-Diplomat at age 85 - young for such responsibility, but she proved worthy.
+She showed magical talent young, studying at Silverpine Magical Academy (crossing borders even then) before returning to Aethermere. Her mother recognized her diplomatic gifts and appointed her Chief Diplomat at age 85 - young for such responsibility, but she proved worthy.
 
 Over the past 57 years, she's negotiated dozens of treaties, prevented three wars, and built relationships across both continents. She's one of few people who moves freely in both kingdoms, trusted (mostly) by both sides.
 
 Her greatest project is secret: for five years, she's been in coded correspondence with Crown Prince Thorin Thandris about reunification. They've met three times in secret at the border. It's dangerous - if exposed, both could be accused of treason - but they believe it's necessary.
 
 She's walked a careful line between her mother's cautious wisdom and pushing for change. Some in Aethoria see her as the future - a leader who can bridge the divide. Others fear she's too close to Thaldros and might compromise Aethoria's independence.
-
-#### Connections
-- **Mother:** High Queen Aelindra Aethermere (loves and respects, sometimes frustrated by caution)
-- **Brother:** Archmage Eldrin Aethermere (close siblings, he supports her diplomatic efforts)
-- **Chosen Heir:** Theron Aethermere (complex relationship: he will inherit, not her)
-- **Secret Correspondent:** Crown Prince Thorin Thandris (potential ally, growing friendship, possibly romantic tension)
-- **Mentor:** Council Elder Thaelon Starlight (her mother's advisor, taught her diplomacy)
-- **Friend:** Council Mistress Elara Silverleaf (Silverpine, shares vision of cooperation)
-- **Opposition:** Conservative elven lords who see reunification as betrayal
-- **Spy:** Lady Shadowleaf keeps her informed of threats
-
 
 {{monster,frame,wide
 ## Princess Elanil Aethermere
@@ -8491,10 +8457,20 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Wisdom blooms in patience; force withers what it touches."*
 }}
 
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+
+#### Connections
+- **Mother:** High Queen Aelindra Aethermere (loves and respects, sometimes frustrated by caution)
+- **Brother:** Archmage Eldrin Aethermere (close siblings, he supports her diplomatic efforts)
+- **Chosen Heir:** Theron Aethermere (complex relationship: he will inherit, not her)
+- **Secret Correspondent:** Crown Prince Thorin Thandris (potential ally, growing friendship, possibly romantic tension)
+- **Mentor:** Council Elder Thaelon Starlight (her mother's advisor, taught her diplomacy)
+- **Friend:** Council Mistress Elara Silverleaf (Silverpine, shares vision of cooperation)
+- **Opposition:** Conservative elven lords who see reunification as betrayal
+- **Spy:** Lady Shadowleaf keeps her informed of threats
+
 
 {{descriptive
 #### Secrets (DM Only)
@@ -8540,7 +8516,13 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - Her enchantment magic makes her formidable without combat
 - Perfect for political intrigue and espionage campaigns
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 ## Archmage Eldrin Aethermere
+
+<div class="col-img">![Archmage Eldrin Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-eldrin-aethermere.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Basic Information
 - **Race:** High Elf
@@ -8553,11 +8535,6 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 #### Physical Description
 Tall and elegant (6'1", 145 lbs) with the bearing of both royalty and scholarly authority. Long silver hair pulled back in a practical ponytail, often escaping to frame sharp features. Gold eyes that seem to see multiple possible futures simultaneously. Usually wears elaborate robes covered in runes and astrological symbols. Carries an ancient staff that hums with barely contained power. Has ink stains on his fingers from constant study.
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-<div class="col-img">![Archmage Eldrin Aethermere](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-archmage-eldrin-aethermere.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Equipment
 - **Robes:** Robe of the Archmagi (blue, AC 15 base, advantage vs. spells, spell resistance, +2 spell DC already calculated)
@@ -8573,8 +8550,6 @@ Tall and elegant (6'1", 145 lbs) with the bearing of both royalty and scholarly 
 - Thinks several steps ahead, can seem distant or distracted
 - Speaks in precise, technical language even about simple matters
 - Deeply curious about magic and reality's nature
-
-\column
 
 **Ideals:**
 - **Knowledge:** "Understanding is the path to power and wisdom."
@@ -8598,20 +8573,27 @@ Born in 1089 CR, Eldrin showed exceptional magical talent from childhood. By age
 
 He returned home at 80 and was appointed Court Wizard at 95 - one of the youngest ever. He transformed the position from ceremonial to essential, providing his mother with magical intelligence, divination insights, and arcane counsel that proved invaluable.
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 His specialty in divination means he often sees possible futures. This gift has prevented disasters but also made him cautious - he sees all the ways plans can fail. Unlike his sister's optimism, he approaches reunification with analytical skepticism. He supports it intellectually but questions the timing and methodology.
 
 He's published dozens of magical treatises, advanced divination theory significantly, and trained three generations of court wizards. He's respected and feared in equal measure - brilliant but cold, powerful but distant.
 
 Recently, his divinations have shown troubling patterns - shadows gathering, timelines converging on a crisis point. He's trying to understand what's coming, but the future keeps shifting. Something big is approaching, but he can't see it clearly yet.
 
+\column
+
 #### Connections
 - **Mother:** High Queen Aelindra Aethermere (serves and advises, sometimes disagrees)
 - **Sister:** Princess Elanil Aethermere (protective, supports her diplomatically)
 - **Chosen Heir:** Theron Aethermere (respects the system, supports him publicly)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+- **Mentor:** High Diviner Celestia Starborn (Starfall, taught him advanced divination)
+- **Rival:** Archmage Veridian Starweaver (Silverpine, friendly rivalry over magical theory)
+- **Student:** Spellweaver Lyrian Crystal (court mage, his protégé)
+- **Concern:** Multiple divinations show trouble from Thaldros, but he can't pinpoint source
+- **Secret Contact:** Sage Thelmar Runescribe (Kaer Thandros, magical correspondence about runecraft)
 
 {{monster,frame,wide
 ## Archmage Eldrin Aethermere
@@ -8666,11 +8648,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Magic is truth made manifest. Reality bends to those who understand it."*
 }}
 
-- **Mentor:** High Diviner Celestia Starborn (Starfall, taught him advanced divination)
-- **Rival:** Archmage Veridian Starweaver (Silverpine, friendly rivalry over magical theory)
-- **Student:** Spellweaver Lyrian Crystal (court mage, his protégé)
-- **Concern:** Multiple divinations show trouble from Thaldros, but he can't pinpoint source
-- **Secret Contact:** Sage Thelmar Runescribe (Kaer Thandros, magical correspondence about runecraft)
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 
 {{descriptive
@@ -8678,14 +8659,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 1. **The Dark Vision:** Eldrin's divinations repeatedly show a catastrophic event involving his family - but the details keep shifting. He sees his mother dead in some visions, his sister in others, sometimes both. He doesn't know if it's inevitable or preventable, and he's terrified of making it happen by trying to prevent it.
 
 
-2. **The Forbidden Research:** He's been studying the Celestial Compass fragments and the magic that caused the
-
-}}
-
-
-{{descriptive
-
-Worldrend. This research is technically forbidden as too dangerous. He's hidden his work in encoded magical notation only he can read.
+2. **The Forbidden Research:** He's been studying the Celestial Compass fragments and the magic that caused the Worldrend. This research is technically forbidden as too dangerous. He's hidden his work in encoded magical notation only he can read.
 
 3. **The Simulacrum:** Eldrin has created a simulacrum of himself that handles routine court duties while he focuses on research. Only his mother and sister know. If discovered, it would be scandal - he's technically deceiving the court.
 
@@ -8694,11 +8668,6 @@ Worldrend. This research is technically forbidden as too dangerous. He's hidden 
 5. **The Time Loop Research:** He's theorized a way to create a limited time loop - reliving a short period to get perfect outcomes. The magic is incredibly dangerous and possibly blasphemous, but his visions suggest he might need it to save his family.
    
 }}
-
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 
 #### Plot Hooks
@@ -8735,7 +8704,7 @@ Worldrend. This research is technically forbidden as too dangerous. He's hidden 
 
 ## Lord Aldris Goldshore IV
 
-<div class="col-img">![Lord Aldris Goldshore IV](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-aldris-goldshore-iv.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 
 #### Basic Information
 - **Race:** Human
@@ -8752,15 +8721,91 @@ Handsome and well-groomed (5'11", 175 lbs) with the practiced charm of a success
 - **Armor:** Studded Leather +2 (finest quality, concealed beneath fine clothes)
 - **Primary Weapon:** Rapier +2 "Profit's Edge" (ornate, gold-inlaid hilt)
 - **Secondary:** Hand Crossbow +1 (concealed in coat), 20 bolts
-- **Ring:** Ring of Mind Shielding (protects thoughts, stores soul if killed)
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
+- **Ring:** Ring of Mind Shielding (protects thoughts, stores soul if killed)
 - **Amulet:** Periapt of Proof Against Poison (+advantage vs. poison)
 - **Cloak:** Cloak of Protection (+1 AC/saves)
 - **Other:** Bag of Holding (contains emergency gold, documents, disguises), counterfeit detection kit, merchant's scale, ledgers
+
+<div class="col-img">![Lord Aldris Goldshore IV](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lord-aldris-goldshore-iv.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+
+#### Personality
+**Traits:**
+- Charismatic and charming, makes everyone feel valued
+- Treats business as a game, enjoys outsmarting competitors
+- Generous to those useful to him, ruthless to those who aren't
+- Sees everything and everyone as either asset or liability
+
+**Ideals:**
+- **Profit:** "Every interaction is a transaction. Everyone wants something."
+- **Pragmatism:** "Morality is expensive. I prefer practical solutions."
+- **Freedom:** "Gold buys freedom - from laws, from consequences, from limits."
+
+**Bonds:**
+- House Goldshore's wealth and power
+- His daughter Serina (genuinely loves her)
+- The Merchant League (his power base)
+- His reputation as untouchable and clever
+
+**Flaws:**
+- Arrogance - believes he can buy or manipulate his way out of anything
+- Greed - always wants more, even when he has enough
+- Paranoid - trusts no one fully, sees betrayal everywhere
+- Cold - values people by utility, struggles with genuine emotion
+
+#### Background & History
+Born in 1202 CR to Lord Aldris Goldshore III (half-elf) and Lady Mirella Goldshore (human), young Aldris inherited his mother's human appearance despite his father's elven blood: a quirk of mixed heritage that occasionally produces fully human-presenting offspring. His mother died when he was twelve (officially illness, though whispers suggest poison from rivals).
+
+His father taught him business ruthlessly; the streets of Goldreach taught him cunning. At 20, he took control of a failing trade route and made it profitable through brilliant negotiation, strategic bribes, and eliminating competition (legally, mostly). By 25, he was running a quarter of House Goldshore's operations.
+
+As Lord Aldris III aged and his half-elven vitality finally began to wane in his 160s, Aldris IV gradually assumed more control. By 1235 CR, the transition was essentially complete, III remained the official patriarch and made major decisions, but IV handled day-to-day operations and the family's "gray market" enterprises.
+
+Now at 45, Aldris IV is one of the wealthiest individuals in Tirvandor, controls a vast merchant fleet, and has influence in both kingdoms. His father, at 178, remains sharp but increasingly reclusive, focused on his obsession with recovering the Deepwater vaults. IV privately considers his father's fixation a waste of resources but indulges it for now.
+
+He's untouchable due to wealth, connections, and careful legal maneuvering. Many suspect his methods are unethical, but proving it is nearly impossible. He's too smart to leave evidence.
+
+#### Connections
+- **Father:** Lord Aldris III Goldshore (elderly patriarch, still makes major decisions)
+- **Daughter:** Lady Serina Goldshore (his pride, genuinely cares about)
+- **Branch Family Threat:** Merchant Prince Davos Goldshore (distant cousin, runs the branch family, clearly plotting to claim the whole house)
+- **Rival:** House Crystalborn (competing for trade dominance)
+- **Ally:** Trade Prince Lucian Goldfingers (Merchant League, mutual benefit)
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+- **Tool:** Harbor Master Tobias Saltwind (on his payroll, though Tobias doesn't realize extent)
+- **Enemy:** House Stormcrest (Admiral Theron suspects his smuggling operations)
+- **Secret Partner:** Master Crimson (The Syndicate) - business relationship both deny
+- **Buyer:** Various nobles who need discreet acquisitions
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Smuggling Empire:** Beyond legal trade, Aldris runs a massive smuggling operation - restricted goods, weapons, information, people. He uses legitimate merchant ships as cover. The operation generates as much profit as his legal business.
+
+2. **The Mother's Murder:** Aldris suspects his mother was poisoned by rivals when he was twelve, but he's recently discovered evidence it may have been his own father who arranged it. She threatened to expose his illegal operations to authorities. Aldris is torn between rage and admiration at his father's ruthlessness.
+
+3. **The Syndicate Alliance:** Aldris is a silent partner in The Syndicate's operations in Goldreach. He provides shipping, they handle enforcement and dirty work. Master Crimson meets with him monthly. If exposed, both would claim ignorance.
+
+4. **The False Ledgers:** Aldris keeps three sets of books - one for tax collectors, one for investors, one true set hidden in his vault. The real books show tax evasion, illegal trading, and payoffs to dozens of officials.
+
+5. **The Leverage Collection:** He maintains files on every important person he's dealt with - their vices, debts, affairs, crimes. This blackmail material is his insurance policy. The collection is hidden in a secret vault only he can access.
+
+6. **The Succession Fear:** Despite outward confidence, Aldris fears his daughter Serina will discover his crimes and turn against him. She has a moral streak he doesn't understand. He's grooming her for leadership but hiding his methods.
+}}
+
+#### Plot Hooks
+1. **The Missing Shipment:** A cargo ship carrying "spices" has disappeared. Aldris hires the party to recover it - but they discover it was carrying weapons to rebels. What do they do with this information?
+
+2. **The Investigation:** Authorities suspect Aldris of smuggling but can't prove it. They hire the party to infiltrate his organization, gather evidence, and expose him. But he's several steps ahead.
+
+3. **The Blackmail Extraction:** Someone has stolen Aldris's leverage collection and is blackmailing him. He needs it back before his crimes are exposed. The party must rob the thief - who turns out to be someone sympathetic.
 
 {{monster,frame
 ## Lord Aldris Goldshore IV
@@ -8802,84 +8847,9 @@ ___
 }}
 
 
-
-#### Personality
-**Traits:**
-- Charismatic and charming, makes everyone feel valued
-- Treats business as a game, enjoys outsmarting competitors
-- Generous to those useful to him, ruthless to those who aren't
-- Sees everything and everyone as either asset or liability
-
-**Ideals:**
-- **Profit:** "Every interaction is a transaction. Everyone wants something."
-- **Pragmatism:** "Morality is expensive. I prefer practical solutions."
-- **Freedom:** "Gold buys freedom - from laws, from consequences, from limits."
-
-**Bonds:**
-- House Goldshore's wealth and power
-- His daughter Serina (genuinely loves her)
-- The Merchant League (his power base)
-- His reputation as untouchable and clever
-
-**Flaws:**
-- Arrogance - believes he can buy or manipulate his way out of anything
-- Greed - always wants more, even when he has enough
-- Paranoid - trusts no one fully, sees betrayal everywhere
-- Cold - values people by utility, struggles with genuine emotion
-
-#### Background & History
-Born in 1202 CR to Lord Aldris Goldshore III (half-elf) and Lady Mirella Goldshore (human), young Aldris inherited his mother's human appearance despite his father's elven blood: a quirk of mixed heritage that occasionally produces fully human-presenting offspring. His mother died when he was twelve (officially illness, though whispers suggest poison from rivals).
-
-His father taught him business ruthlessly; the streets of Goldreach taught him cunning. At 20, he took control of a failing trade route and made it profitable through brilliant negotiation, strategic bribes, and eliminating competition (legally, mostly). By 25, he was running a quarter of House Goldshore's operations.
-
-As Lord Aldris III aged and his half-elven vitality finally began to wane in his 160s, Aldris IV gradually assumed more control. By 1235 CR, the transition was essentially complete, III remained the official patriarch and made major decisions, but IV handled day-to-day operations and the family's "gray market" enterprises.
-
-Now at 45, Aldris IV is one of the wealthiest individuals in Tirvandor, controls a vast merchant fleet, and has influence in both kingdoms. His father, at 178, remains sharp but increasingly reclusive, focused on his 
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-obsession with recovering the Deepwater vaults. IV privately considers his father's fixation a waste of resources but indulges it for now.
-
-He's untouchable due to wealth, connections, and careful legal maneuvering. Many suspect his methods are unethical, but proving it is nearly impossible. He's too smart to leave evidence.
-
-#### Connections
-- **Father:** Lord Aldris III Goldshore (elderly patriarch, still makes major decisions)
-- **Daughter:** Lady Serina Goldshore (his pride, genuinely cares about)
-- **Branch Family Threat:** Merchant Prince Davos Goldshore (distant cousin, runs the branch family, clearly plotting to claim the whole house)
-- **Rival:** House Crystalborn (competing for trade dominance)
-- **Ally:** Trade Prince Lucian Goldfingers (Merchant League, mutual benefit)
-- **Tool:** Harbor Master Tobias Saltwind (on his payroll, though Tobias doesn't realize extent)
-- **Enemy:** House Stormcrest (Admiral Theron suspects his smuggling operations)
-- **Secret Partner:** Master Crimson (The Syndicate) - business relationship both deny
-- **Buyer:** Various nobles who need discreet acquisitions
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Smuggling Empire:** Beyond legal trade, Aldris runs a massive smuggling operation - restricted goods, weapons, information, people. He uses legitimate merchant ships as cover. The operation generates as much profit as his legal business.
-
-2. **The Mother's Murder:** Aldris suspects his mother was poisoned by rivals when he was twelve, but he's recently discovered evidence it may have been his own father who arranged it. She threatened to expose his illegal operations to authorities. Aldris is torn between rage and admiration at his father's ruthlessness.
-
-3. **The Syndicate Alliance:** Aldris is a silent partner in The Syndicate's operations in Goldreach. He provides shipping, they handle enforcement and dirty work. Master Crimson meets with him monthly. If exposed, both would claim ignorance.
-
-4. **The False Ledgers:** Aldris keeps three sets of books - one for tax collectors, one for investors, one true set hidden in his vault. The real books show tax evasion, illegal trading, and payoffs to dozens of officials.
-
-5. **The Leverage Collection:** He maintains files on every important person he's dealt with - their vices, debts, affairs, crimes. This blackmail material is his insurance policy. The collection is hidden in a secret vault only he can access.
-
-}}
-
-
-{{descriptive
-6. **The Succession Fear:** Despite outward confidence, Aldris fears his daughter Serina will discover his crimes and turn against him. She has a moral streak he doesn't understand. He's grooming her for leadership but hiding his methods.
-}}
-
-#### Plot Hooks
-1. **The Missing Shipment:** A cargo ship carrying "spices" has disappeared. Aldris hires the party to recover it - but they discover it was carrying weapons to rebels. What do they do with this information?
-
-2. **The Investigation:** Authorities suspect Aldris of smuggling but can't prove it. They hire the party to infiltrate his organization, gather evidence, and expose him. But he's several steps ahead.
-
-3. **The Blackmail Extraction:** Someone has stolen Aldris's leverage collection and is blackmailing him. He needs it back before his crimes are exposed. The party must rob the thief - who turns out to be someone sympathetic.
 
 4. **The Daughter's Dilemma:** Serina discovers evidence of her father's crimes and approaches the party. Should she expose him and destroy her house, or protect family and become complicit?
 
@@ -8902,11 +8872,6 @@ He's untouchable due to wealth, connections, and careful legal maneuvering. Many
 - **Alignment:** Neutral Good
 - **Class:** Bard 9 (College of Lore) / Rogue 3
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-<div class="col-img">![Lady Serina Goldshore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-serina-goldshore.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Physical Description
 Beautiful and graceful (5'7", 130 lbs) with her father's brown eyes but warmer, more genuine. Long dark hair usually in practical braids for travel. Dresses well but not ostentatiously - quality over flash. Has a disarming smile that's real, unlike her father's calculated one. Often carries a lute or violin case. Ink stains on fingers from writing correspondence.
@@ -8919,7 +8884,63 @@ Beautiful and graceful (5'7", 130 lbs) with her father's brown eyes but warmer, 
 - **Amulet:** Amulet of Proof against Detection (can't be tracked magically)
 - **Cloak:** Cloak of Elvenkind (advantage on Stealth, creatures have disadvantage seeing her)
 - **Other:** Disguise kit, forgery kit, journal (coded), collection of merchant contacts
- 
+
+<div class="col-img">![Lady Serina Goldshore](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-serina-goldshore.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Personality
+**Traits:**
+- Genuinely kind and empathetic, cares about people's wellbeing
+- Idealistic but not naive - knows the world is complicated
+- Uses charm to build real relationships, not manipulate
+- Increasingly troubled by her family's business practices
+
+**Ideals:**
+- **Justice:** "Wealth should help people, not exploit them."
+- **Honesty:** "I'd rather be poor and honest than rich and corrupt."
+- **Change:** "Every generation has the responsibility to be better than the last."
+
+**Bonds:**
+- Love for her father (despite everything)
+- Loyalty to House Goldshore (but not its methods)
+- Friendships with common people her father would never notice
+- Hope that she can reform the family business from within
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+**Flaws:**
+- Naive about the full extent of her father's crimes
+- Overly trusting of people's better nature
+- Guilt over her family's wealth and how it was obtained
+- Fear of losing her father's love if she opposes him
+
+#### Background & History
+Born in 1224 CR, Serina grew up in luxury. Unlike her father, who saw wealth as power, she saw it as responsibility. Her mother (deceased when Serina was 10) instilled values of kindness and service before she died - values her father dismisses as impractical.
+
+At 15, Serina traveled with a merchant caravan (against her father's wishes) and saw poverty, exploitation, and suffering. She realized her family's wealth was built on others' backs. She tried to discuss this with her father; he laughed and called it "naive idealism she'd outgrow."
+
+She didn't outgrow it. She studied music (bardic magic), diplomacy, and trade law. At 20, her father made her Trade Minister - thinking she'd learn "practical business." Instead, she's been using the position to reform practices, improve worker conditions, and investigate suspicious activities.
+
+She suspects her father of illegal operations but hasn't found proof. She's walking a tightrope - maintaining family loyalty while quietly undermining corrupt practices. She doesn't know how long she can balance both.
+
+Recently, she's discovered disturbing evidence suggesting her grandfather may have arranged her grandmother's death, and that her father knows. She's terrified it's true and desperately hopes it's not.
+
+#### Connections
+- **Father:** Lord Aldris Goldshore IV (loves him, increasingly disillusioned)
+- **Mentor:** Harbor Master Tobias Saltwind (taught her practical maritime trade, doesn't know his corruption)
+- **Friend:** Captain Mira Wavecrest (Lake Patrol, they bond over justice)
+- **Ally:** Merchant Prince Lucian Goldfingers (respects her idealism, tries to protect her)
+- **Secret Contact:** Crown Prince Thorin Thandris (met during trade negotiations, corresponding about reforms)
+- **Investigator:** She's quietly working with someone gathering evidence on The Syndicate - doesn't know her father is involved
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Investigation:** Serina has been secretly investigating her father's business for two years. She has fragments of evidence but not enough to act. She's compiled everything in a coded journal she keeps with her always.
+}}
+
+\column
+
 {{monster,frame
 ## Lady Serina Goldshore
 *Medium humanoid (half-elf), neutral good*
@@ -8972,56 +8993,10 @@ ___
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-#### Personality
-**Traits:**
-- Genuinely kind and empathetic, cares about people's wellbeing
-- Idealistic but not naive - knows the world is complicated
-- Uses charm to build real relationships, not manipulate
-- Increasingly troubled by her family's business practices
-
-**Ideals:**
-- **Justice:** "Wealth should help people, not exploit them."
-- **Honesty:** "I'd rather be poor and honest than rich and corrupt."
-- **Change:** "Every generation has the responsibility to be better than the last."
-
-**Bonds:**
-- Love for her father (despite everything)
-- Loyalty to House Goldshore (but not its methods)
-- Friendships with common people her father would never notice
-- Hope that she can reform the family business from within
-
-**Flaws:**
-- Naive about the full extent of her father's crimes
-- Overly trusting of people's better nature
-- Guilt over her family's wealth and how it was obtained
-- Fear of losing her father's love if she opposes him
-
-#### Background & History
-Born in 1224 CR, Serina grew up in luxury. Unlike her father, who saw wealth as power, she saw it as responsibility. Her mother (deceased when Serina was 10) instilled values of kindness and service before she died - values her father dismisses as impractical.
-
-At 15, Serina traveled with a merchant caravan (against her father's wishes) and saw poverty, exploitation, and suffering. She realized her family's wealth was built on others' backs. She tried to discuss this with her father; he laughed and called it "naive idealism she'd outgrow."
-
-She didn't outgrow it. She studied music (bardic magic), diplomacy, and trade law. At 20, her father made her Trade Minister - thinking she'd learn "practical business." Instead, she's been using the position to reform practices, improve worker conditions, and investigate suspicious activities.
-
-She suspects her father of illegal operations but hasn't found proof. She's walking a tightrope - maintaining family loyalty while quietly undermining corrupt practices. She doesn't know how long she can balance both.
-
-Recently, she's discovered disturbing evidence suggesting her grandfather may have arranged her grandmother's death, and that her father knows. She's terrified it's true and desperately hopes it's not.
-
-#### Connections
-- **Father:** Lord Aldris Goldshore IV (loves him, increasingly disillusioned)
-- **Mentor:** Harbor Master Tobias Saltwind (taught her practical maritime trade, doesn't know his corruption)
-- **Friend:** Captain Mira Wavecrest (Lake Patrol, they bond over justice)
-- **Ally:** Merchant Prince Lucian Goldfingers (respects her idealism, tries to protect her)
-- **Secret Contact:** Crown Prince Thorin Thandris (met during trade negotiations, corresponding about reforms)
-- **Investigator:** She's quietly working with someone gathering evidence on The Syndicate - doesn't know her father is involved
-
-
 {{descriptive
-#### Secrets (DM Only)
-1. **The Investigation:** Serina has been secretly investigating her father's business for two years. She has fragments of evidence but not enough to act. She's compiled everything in a coded journal she keeps with her always.
 
 2. **The Hidden Fortune:** She's been quietly diverting profits from legitimate operations into a secret fund - money that will be "clean" if she ever breaks from her father. It's currently 10,000 gold pieces, hidden in accounts across multiple cities under fake names.
+
 
 3. **The Underground Railroad:** Serina has been helping people escape her father's smuggling operations - workers trapped in debt, captives being transported, etc. She uses family resources to spirit them away and resettle them. If discovered, her father might kill her.
 
@@ -9032,10 +9007,6 @@ Recently, she's discovered disturbing evidence suggesting her grandfather may ha
 6. **The Succession Plan:** Serina has been planning to refuse inheritance unless her father reforms. She'll give everything to charity rather than continue illegal operations. This would destroy House Goldshore as currently structured.
 
 }}
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Plot Hooks
 1. **The Whistleblower:** Serina approaches the party with evidence of her father's crimes. She needs help gathering more proof and protection when she exposes him. But exposing him might destroy her too.
@@ -9069,11 +9040,13 @@ Recently, she's discovered disturbing evidence suggesting her grandfather may ha
 - Can become tragic figure if exposed or heroic if successful
 - The romance subplot adds vulnerability and stakes
 
-\column
-
 ## Thane Durin Ironforge
 
 <div class="col-img">![Thane Durin Ironforge](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-thane-durin-ironforge.jpg){width:325px,mix-blend-mode:multiply}</div>
+ 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 #### Basic Information
 - **Race:** Mountain Dwarf
@@ -9090,11 +9063,6 @@ Massive even for a dwarf (4'8", 235 lbs of muscle), built like the mountain itse
 - **Armor:** Plate Armor +1 (mythril-forged, family heirloom, covered in runes)
 - **Shield:** Tower Shield (iron-bound, Ironforge hammer emblem)
 - **Primary Weapon:** Forgemaster's Hammer +2 "Earthbreaker" (legendary warhammer, deals extra fire damage, glows when near precious metals)
- 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 - **Holy Symbol:** Iron hammer pendant (Gorath the Forgemaster)
 - **Ring:** Ring of Fire Resistance (from working forge magic)
 - **Belt:** Belt of Dwarvenkind (advantage on Charisma checks vs. dwarves, can grow beard even if normally unable)
@@ -9127,6 +9095,50 @@ Massive even for a dwarf (4'8", 235 lbs of muscle), built like the mountain itse
 #### Background & History
 Born in 1002 CR to a mining family, Durin learned smithing at 20, mining at 50, leadership at 100. He worked every position in the mines - hauler, digger, surveyor, foreman - before inheriting the Thanedom at 180.
 
+When he took control (65 years ago), House Ironforge was in decline - mines depleting, skilled workers leaving, finances poor. Durin personally explored the deepest tunnels and found three new mythril veins. He modernized equipment, improved safety, trained a new generation of smiths.
+
+Now House Ironforge thrives again. Their mines produce a third of Thaldros's iron and most of its mythril. Their smiths are legendary. Other houses need them, which means power.
+
+But success brings problems. The deeper they mine, the stranger things they find - ancient tunnels, sealed chambers, things that shouldn't exist. Durin has kept these discoveries secret, but he's worried. Some doors were sealed for reasons.
+
+He's also concerned about succession. He has three sons, all capable, all competitive. Dwarven tradition says the eldest inherits, but Durin isn't sure that's best. The choice will shape House Ironforge's future.
+
+#### Connections
+- **Three Sons:** Thorin (eldest, traditional), Balin (middle, innovative), Dwalin (youngest, aggressive) - all vying for succession
+- **King Aldric IV:** Supplies weapons to royal army, good relationship
+- **General Marthos Thandris:** Military contracts, mutual respect
+- **House Thandris:** Ancient alliance, military and economic ties
+- **Master Smith Gundren Ironforge:** Distant cousin, legendary craftsman
+- **Concerns:** The deep findings, succession crisis, increasing mining dangers
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Deep Things:** Miners have found ancient dwarven ruins beneath the current mines - from before the Worldrend, possibly before recorded history. The architecture is wrong, the symbols unknown. Durin has sealed seven chambers and told no one. Something down there feels wrong.
+}}
+
+ 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{descriptive
+
+2. **The Mythril Depletion:** The three new veins are depleting faster than expected. Durin estimates 30 years until exhausted. This would destroy House Ironforge's power. He's desperately searching for new veins but finding only more ancient ruins.
+
+3. **The Chosen Heir:** Durin has secretly decided his middle son Balin should inherit (most balanced, most capable). But tradition demands the eldest Thorin. Revealing his choice will cause family crisis and possibly violence among the brothers.
+
+4. **The Betrayal:** Twenty years ago, a House Ironforge survey team disappeared in the deep mines. Durin found evidence they were murdered - by someone who didn't want them discovering what was down there. The murderer was never found and might still be in the mines.
+}}
+
+\column
+
+{{descriptive
+
+5. **The Dragon Pact:** Durin discovered a red dragon lair near one mythril vein. He made a deal - Ironforge doesn't mine that vein, the dragon doesn't attack the mines. The dragon occasionally provides Durin with information about deep threats. If this became known, it would be scandal.
+
+6. **The Ancestral Shame:** Durin discovered records suggesting House Ironforge's founder obtained their first mine through treachery - possibly murder. The evidence is fragmentary but damning. He's hidden the documents, but they haunt him.
+
+}}
 
 {{monster,frame,wide
 ## Thane Durin Ironforge
@@ -9178,45 +9190,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"Stone remembers. Iron endures. Ironforge stands eternal."*
 }}
 
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
-
-When he took control (65 years ago), House Ironforge was in decline - mines depleting, skilled workers leaving, finances poor. Durin personally explored the deepest tunnels and found three new mythril veins. He modernized equipment, improved safety, trained a new generation of smiths.
-
-Now House Ironforge thrives again. Their mines produce a third of Thaldros's iron and most of its mythril. Their smiths are legendary. Other houses need them, which means power.
-
-But success brings problems. The deeper they mine, the stranger things they find - ancient tunnels, sealed chambers, things that shouldn't exist. Durin has kept these discoveries secret, but he's worried. Some doors were sealed for reasons.
-
-He's also concerned about succession. He has three sons, all capable, all competitive. Dwarven tradition says the eldest inherits, but Durin isn't sure that's best. The choice will shape House Ironforge's future.
-
-#### Connections
-- **Three Sons:** Thorin (eldest, traditional), Balin (middle, innovative), Dwalin (youngest, aggressive) - all vying for succession
-- **King Aldric IV:** Supplies weapons to royal army, good relationship
-- **General Marthos Thandris:** Military contracts, mutual respect
-- **House Thandris:** Ancient alliance, military and economic ties
-- **Master Smith Gundren Ironforge:** Distant cousin, legendary craftsman
-- **Concerns:** The deep findings, succession crisis, increasing mining dangers
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Deep Things:** Miners have found ancient dwarven ruins beneath the current mines - from before the Worldrend, possibly before recorded history. The architecture is wrong, the symbols unknown. Durin has sealed seven chambers and told no one. Something down there feels wrong.
-
-2. **The Mythril Depletion:** The three new veins are depleting faster than expected. Durin estimates 30 years until exhausted. This would destroy House Ironforge's power. He's desperately searching for new veins but finding only more ancient ruins.
-
-3. **The Chosen Heir:** Durin has secretly decided his middle son Balin should inherit (most balanced, most capable). But tradition demands the eldest Thorin. Revealing his choice will cause family crisis and possibly violence among the brothers.
-
-4. **The Betrayal:** Twenty years ago, a House Ironforge survey team disappeared in the deep mines. Durin found evidence they were murdered - by someone who didn't want them discovering what was down there. The murderer was never found and might still be in the mines.
-}}
-
-
-{{descriptive
-
-5. **The Dragon Pact:** Durin discovered a red dragon lair near one mythril vein. He made a deal - Ironforge doesn't mine that vein, the dragon doesn't attack the mines. The dragon occasionally provides Durin with information about deep threats. If this became known, it would be scandal.
-
-6. **The Ancestral Shame:** Durin discovered records suggesting House Ironforge's founder obtained their first mine through treachery - possibly murder. The evidence is fragmentary but damning. He's hidden the documents, but they haunt him.
-
-}}
 
 #### Plot Hooks
 1. **The Deep Expedition:** Durin hires the party to explore the ancient ruins beneath his mines. What they find challenges understanding of history - and suggests something terrible is waking up.
@@ -9242,11 +9219,6 @@ He's also concerned about succession. He has three sons, all capable, all compet
 - Durin is designed as a traditional dwarven leader with secrets
 - He's the "gruff but honorable" archetype with hidden depths
 - Can serve as quest-giver for mining/underground adventures
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 - His secrets provide hooks for levels 10-18 (ancient evil awakening)
 - Works as patron, ally, or source of employment
 - The succession crisis creates political drama
@@ -9254,6 +9226,8 @@ He's also concerned about succession. He has three sons, all capable, all compet
 - The dragon pact adds complexity
 - Can be stubborn ally or valuable friend
 - His relationship with sons provides family drama
+
+\column
 
 ## Master Smith Gundren Ironforge
 
@@ -9274,6 +9248,11 @@ Compact and muscular (4'5", 210 lbs), with the powerful arms of a lifelong smith
 - **Arcane Armor:** Custom Heavy Armor +2 (his masterpiece, constantly upgrading)
 - **Primary Weapon:** Warhammer +2 "Forge-Friend" (his personal hammer, returns when thrown)
 - **Tools:** Masterwork Smith's Tools +2 (infused, can work any metal)
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 - **Goggles:** Goggles of Night (darkvision 60 ft., infused replica)
 - **Ring:** Ring of Protection (+1 AC/saves, infused)
 - **Steel Defender:** Mechanical bear named "Ironheart" (his companion, built from scratch)
@@ -9303,29 +9282,6 @@ Compact and muscular (4'5", 210 lbs), with the powerful arms of a lifelong smith
 - Socially awkward - better with metal than people
 - Refuses commissions from those he considers unworthy
 
-#### Background & History
-Born in 1049 CR, Gundren showed talent young. By 50, he was crafting better blades than smiths twice his age. By 100, his work was famous. By 150, he was legendary.
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-He's created weapons for kings, armor for heroes, tools for artisans. His pieces are treasured across Tirvandor. Nobles wait years for commissions. He's turned down kings who he felt unworthy.
-
-He left House Ironforge at 120 - not in anger, but to pursue pure craft without politics. He travels, taking commissions, teaching, always learning. He's studied with every major smith in both kingdoms and beyond.
-
-His greatest creation is Ironheart, his Steel Defender - a mechanical bear that's part tool, part companion, part masterpiece. It took him 10 years to build, combining smithing, magic, and artifice.
-
-Now at 198, he's considered the greatest living smith. But he's restless - he wants to create something truly legendary before he dies. Something that will be remembered forever.
-
-#### Connections
-- **Thane Durin Ironforge:** Distant cousin, good relationship though Gundren avoids politics
-- **Master Smith Durgan Forgefire (Kaer Thandros):** Close friend, rival, they compete over technique
-- **King Aldric IV:** Created the king's ceremonial armor, mutual respect
-- **Crown Prince Thorin Thandris:** Forged Heir's Blade, sees potential in the prince
-- **Many Students:** Apprentices across both continents
-- **Lord Commander Thrain Ironoak:** Forged his axe "Kingbreaker"
-- **Admirers:** Nearly every warrior who's used his weapons
 
 {{monster,frame,wide
 ## Master Smith Gundren Ironforge
@@ -9389,6 +9345,25 @@ ___
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+#### Background & History
+Born in 1049 CR, Gundren showed talent young. By 50, he was crafting better blades than smiths twice his age. By 100, his work was famous. By 150, he was legendary.
+
+He's created weapons for kings, armor for heroes, tools for artisans. His pieces are treasured across Tirvandor. Nobles wait years for commissions. He's turned down kings who he felt unworthy.
+
+He left House Ironforge at 120 - not in anger, but to pursue pure craft without politics. He travels, taking commissions, teaching, always learning. He's studied with every major smith in both kingdoms and beyond.
+
+His greatest creation is Ironheart, his Steel Defender - a mechanical bear that's part tool, part companion, part masterpiece. It took him 10 years to build, combining smithing, magic, and artifice.
+
+Now at 198, he's considered the greatest living smith. But he's restless - he wants to create something truly legendary before he dies. Something that will be remembered forever.
+
+#### Connections
+- **Thane Durin Ironforge:** Distant cousin, good relationship though Gundren avoids politics
+- **Master Smith Durgan Forgefire (Kaer Thandros):** Close friend, rival, they compete over technique
+- **King Aldric IV:** Created the king's ceremonial armor, mutual respect
+- **Crown Prince Thorin Thandris:** Forged Heir's Blade, sees potential in the prince
+- **Many Students:** Apprentices across both continents
+- **Lord Commander Thrain Ironoak:** Forged his axe "Kingbreaker"
+- **Admirers:** Nearly every warrior who's used his weapons
 
 {{descriptive
 #### Secrets (DM Only)
@@ -9397,6 +9372,11 @@ ___
 2. **The Failed Commission:** Twenty years ago, he created a sword for a noble who seemed honorable. The noble used it to massacre civilians. Gundren tracks that sword obsessively, hoping to recover and destroy it. The guilt haunts him.
 
 3. **The Secret Student:** Gundren is training someone unlikely - a hobgoblin weaponsmith who approached him humbly. He's kept this secret because both kingdoms would disapprove. The student is incredibly talented.
+}}
+
+\column
+
+{{descriptive
 
 4. **The Living Metal:** Gundren discovered a new metal alloy that's partially sentient - it resonates with its wielder's intent. He's terrified of what this could mean but fascinated. He's kept samples hidden and told no one.
 
@@ -9425,6 +9405,10 @@ ___
 - **When excited:** Talks rapidly about metallurgy, eyes light up
 - **In combat:** Fights alongside Ironheart, very protective of companion
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 #### Notes for DMs
 - Gundren is designed as a master craftsman and potential patron
 - He's the "grumpy but talented artisan" archetype
@@ -9439,6 +9423,8 @@ ___
 
 ## Lady Seraphine Silverleaf
 
+<div class="col-img">![Lady Seraphine Silverleaf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-seraphine-silverleaf.jpg){width:305px,mix-blend-mode:multiply}</div>
+
 #### Basic Information
 - **Race:** Wood Elf
 - **Age:** 1,394
@@ -9446,6 +9432,8 @@ ___
 - **Role:** Matriarch of House Silverleaf, Council Mistress of Silverpine
 - **Alignment:** Neutral Good
 - **Class:** Druid 14 (Circle of the Land - Forest) / Ranger 4
+
+\column
 
 #### Physical Description
 Ancient and ageless simultaneously (5'6", 115 lbs). Silver-white hair (from age, not dye) flows to her waist, often woven with living flowers and vines. Eyes are deep green, like forest shadows, and seem to see through pretense to truth. Skin has faint bark-like texture from centuries of druidic magic. Wears robes of living plants that grow and change with seasons. Moves with liquid grace despite her age.
@@ -9455,16 +9443,10 @@ Ancient and ageless simultaneously (5'6", 115 lbs). Silver-white hair (from age,
 - **Bow:** Longbow (masterwork elven make)
 - **Cloak:** Cloak of Elvenkind (advantage on Stealth)
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 - **Amulet:** Periapt of Wound Closure (stabilizes automatically, max HP on healing)
 - **Ring:** Ring of Animal Influence (Speak with Animals at will, Animal Friendship/Fear 3/day)
 - **Bracelet:** Nature's Blessing (grants barkskin effect, AC 16 + Dex)
 - **Other:** Druidic focus (living branch), herbalism kit, scrolls of forest lore
-
-<div class="col-img">![Lady Seraphine Silverleaf](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-lady-seraphine-silverleaf.jpg){width:305px,mix-blend-mode:multiply}</div>
 
 #### Personality
 **Traits:**
@@ -9490,6 +9472,10 @@ Ancient and ageless simultaneously (5'6", 115 lbs). Silver-white hair (from age,
 - Sometimes dismisses younger races' perspectives
 - Struggles with changes she doesn't understand
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 #### Background & History
 Born in 147 BW, before the Worldrend, Seraphine remembers the unified kingdoms. She was young when the Worldrend happened (147 years old) but old enough to understand the tragedy. That memory shapes her politics - she supports eventual reunification.
 
@@ -9501,19 +9487,6 @@ But she's tired. Nearly 1,400 years is ancient even for elves. She's among the o
 
 Recently, the forest has been whispering warnings. Something is wrong in the deep woods. Trees are dying in patterns she doesn't recognize. Animals flee from nothing visible. She fears something from before the Worldrend is awakening.
 
-#### Connections
-- **Son:** Ranger-Lord Arannis Silverleaf (loves him, worries about his methods)
-- **Family:** Council Mistress Elara Silverleaf (Rector of Silverpine University; formerly managed house affairs, now focuses on academia)
-- **Ancestor:** Matriarch Seraphina Silverleaf (the ancient founder; seeks her wisdom on matters of great import)
-- **Friend:** Council Elder Thaelon Starlight (Aethermere, old friend from before Worldrend)
-- **Ally:** Princess Elanil Aethermere (supports her diplomatic efforts)
-- **Apprentice:** Archdruid Silvaris Oakenheart (Aethermere, trained by her)
-- **Concern:** King Aldric IV (respects him but questions his understanding of nature)
-- **Ancient Enemy:** Something in the deep forest (pre-Worldrend threat awakening)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 {{monster,frame,wide
 ## Lady Seraphine Silverleaf
@@ -9571,6 +9544,20 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"The forest remembers every kindness and every wound. So do I."*
 }}
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+#### Connections
+- **Son:** Ranger-Lord Arannis Silverleaf (loves him, worries about his methods)
+- **Family:** Council Mistress Elara Silverleaf (Rector of Silverpine University; formerly managed house affairs, now focuses on academia)
+- **Ancestor:** Matriarch Seraphina Silverleaf (the ancient founder; seeks her wisdom on matters of great import)
+- **Friend:** Council Elder Thaelon Starlight (Aethermere, old friend from before Worldrend)
+- **Ally:** Princess Elanil Aethermere (supports her diplomatic efforts)
+- **Apprentice:** Archdruid Silvaris Oakenheart (Aethermere, trained by her)
+- **Concern:** King Aldric IV (respects him but questions his understanding of nature)
+- **Ancient Enemy:** Something in the deep forest (pre-Worldrend threat awakening)
+
 
 {{descriptive
 #### Secrets (DM Only)
@@ -9580,21 +9567,13 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 
 3. **The Ancient Pact:** House Silverleaf's power comes from a pact with ancient fey made before the Worldrend. The pact requires "stewardship" of the forest. She interprets this benevolently, but the original terms might be darker. Breaking it would strip the house of power.
 
+4. **The Succession Doubt:** She's not sure Arannis should inherit. He's capable but aggressive. She's considered passing leadership to someone else but tradition demands bloodline succession. She's torn between duty and wisdom.
+
+5. **The Personal Failure:** During the early post-Worldrend chaos (she was young), she made decisions that led to a small forest burning. Hundreds died - elves and animals. She's never forgiven herself. The guilt drives her excessive caution now.
+
+6. **The Forbidden Love:** In her youth, she loved a human - a ranger who died of old age centuries ago. She never took another partner. She still visits his grave secretly and speaks to him. Some think she's beyond emotion; they're wrong.
 }}
-
-{{descriptive
-
-3. **The Succession Doubt:** She's not sure Arannis should inherit. He's capable but aggressive. She's considered passing leadership to someone else but tradition demands bloodline succession. She's torn between duty and wisdom.
-
-4. **The Personal Failure:** During the early post-Worldrend chaos (she was young), she made decisions that led to a small forest burning. Hundreds died - elves and animals. She's never forgiven herself. The guilt drives her excessive caution now.
-
-5. **The Forbidden Love:** In her youth, she loved a human - a ranger who died of old age centuries ago. She never took another partner. She still visits his grave secretly and speaks to him. Some think she's beyond emotion; they're wrong.
-}}
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
+\column
 #### Plot Hooks
 1. **The Forest Plague:** Seraphine reveals the tree plague and asks the party to find its source. They must journey to pre-Worldrend ruins where ancient magic is sealed - and failing.
 
@@ -9627,7 +9606,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - Can be powerful ally or demanding employer
 - Her relationship with Arannis creates family tension
 
-\column
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 
 ## Ranger-Lord Arannis Silverleaf
 
@@ -9644,9 +9626,67 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 #### Physical Description
 Tall and lean (6'0", 165 lbs), built for speed and endurance. Dark green hair (rare for elves) pulled back in warrior's braid. Intense emerald eyes that constantly scan surroundings. His face has the hard look of someone who's seen combat - scars, weathered skin despite elven youth. Wears practical forest-camouflage leather armor, always armed. Moves with predatory grace - quieter than whisper.
 
+#### Equipment
+- **Armor:** Studded Leather +2 "Forest's Embrace" (green, perfectly camouflaged)
+- **Primary Weapon:** Longbow +3 "Thornstrike" (legendary elven bow, never misses in forest)
+- **Melee:** Two Shortswords +2 (matched pair, perfect balance)
+- **Cloak:** Cloak of Elvenkind (advantage on Stealth, invisibility in shadows)
+- **Boots:** Boots of Speed (double speed for 10 minutes/day)
+- **Quiver:** Efficient Quiver (never runs out of arrows, carries 60 normal + 20 magical)
+- **Ring:** Ring of Free Action (can't be paralyzed or restrained)
+- **Other:** Ranger survival kit, tracking materials, healing potions (×5), poison vials (various types)
+
+#### Personality
+**Traits:**
+- Direct and action-oriented, dislikes politics and talk
+- Fiercely protective of the forest and House Silverleaf
+- Tactical thinker in combat situations
+- Suspicious of outsiders until they prove themselves
+
+**Ideals:**
+- **Protection:** "The forest can't defend itself. That's my job."
+- **Action:** "Words are wind. Deeds matter."
+- **Vigilance:** "Threats don't announce themselves. Stay ready."
+
+**Bonds:**
+- The Silverwood Forest (would die to protect it)
+- His mother Seraphine (respects but disagrees with her caution)
+- His ranger company (50 elite forest guardians)
+- The creatures of the forest (especially a white stag he considers sacred)
+
+**Flaws:**
+- Quick to violence when forest is threatened
+- Dismissive of diplomatic solutions
+- Arrogant about his combat skills
+- Struggles with patience and politics
+
+#### Background & History
+Born in 1091 CR to Matriarch Seraphine, Arannis grew up knowing he'd inherit House Silverleaf. But he never wanted politics - he wanted to protect the forest.
+
+At 30, he joined the ranger corps. At 50, he led his first patrol. At 80, he'd killed his first aberration - something that came from deep forest. At 100, he was Ranger-Lord, commanding all House Silverleaf's military forces.
+
+For 56 years, he's defended the Silverwood from threats his mother often doesn't acknowledge until too late. Goblin raids, orc incursions, aberrations from deep places, poachers, dark fey - he's fought them all.
+
+He's grown frustrated with his mother's diplomatic approach. While she negotiates, he acts. While she considers consequences, he eliminates threats. This creates tension - he respects her wisdom but questions her methods.
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+
+He's proven himself in combat repeatedly. His rangers are legendary - silent, deadly, and absolutely loyal. They've prevented dozens of threats from reaching Silverpine. But his aggressive tactics have also created enemies and diplomatic incidents.
+
+He knows he'll inherit eventually. He's not sure he wants the political burden, but he'll accept it as duty. When he does, the forest will have a protector who isn't afraid to spill blood.
+
+#### Connections
+- **Mother:** Matriarch Seraphine Silverleaf (respects, disagrees with frequently)
+- **Rival:** General Marthos Thandris (competitive relationship, mutual respect as warriors)
+- **Ally:** Commander Kael Stormwatcher (Ironhold, bonded over northern threats)
+- **Friend:** Crown Prince Thorin Thandris (mutual respect, trained together once)
+- **Rangers:** 50 elite forest guardians under his command
+- **Enemy:** A hobgoblin warlord named Grimfang (ongoing blood feud)
+- **Concern:** The deep forest threats his mother won't acknowledge
+
+ ::
 
 {{monster,frame,wide
 ## Ranger-Lord Arannis Silverleaf
@@ -9700,67 +9740,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 }}
 
 
-#### Equipment
-- **Armor:** Studded Leather +2 "Forest's Embrace" (green, perfectly camouflaged)
-- **Primary Weapon:** Longbow +3 "Thornstrike" (legendary elven bow, never misses in forest)
-- **Melee:** Two Shortswords +2 (matched pair, perfect balance)
-- **Cloak:** Cloak of Elvenkind (advantage on Stealth, invisibility in shadows)
-- **Boots:** Boots of Speed (double speed for 10 minutes/day)
-- **Quiver:** Efficient Quiver (never runs out of arrows, carries 60 normal + 20 magical)
-- **Ring:** Ring of Free Action (can't be paralyzed or restrained)
-- **Other:** Ranger survival kit, tracking materials, healing potions (×5), poison vials (various types)
-
-\column
-
-#### Personality
-**Traits:**
-- Direct and action-oriented, dislikes politics and talk
-- Fiercely protective of the forest and House Silverleaf
-- Tactical thinker in combat situations
-- Suspicious of outsiders until they prove themselves
-
-**Ideals:**
-- **Protection:** "The forest can't defend itself. That's my job."
-- **Action:** "Words are wind. Deeds matter."
-- **Vigilance:** "Threats don't announce themselves. Stay ready."
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-**Bonds:**
-- The Silverwood Forest (would die to protect it)
-- His mother Seraphine (respects but disagrees with her caution)
-- His ranger company (50 elite forest guardians)
-- The creatures of the forest (especially a white stag he considers sacred)
-
-**Flaws:**
-- Quick to violence when forest is threatened
-- Dismissive of diplomatic solutions
-- Arrogant about his combat skills
-- Struggles with patience and politics
-
-#### Background & History
-Born in 1091 CR to Matriarch Seraphine, Arannis grew up knowing he'd inherit House Silverleaf. But he never wanted politics - he wanted to protect the forest.
-
-At 30, he joined the ranger corps. At 50, he led his first patrol. At 80, he'd killed his first aberration - something that came from deep forest. At 100, he was Ranger-Lord, commanding all House Silverleaf's military forces.
-
-For 56 years, he's defended the Silverwood from threats his mother often doesn't acknowledge until too late. Goblin raids, orc incursions, aberrations from deep places, poachers, dark fey - he's fought them all.
-
-He's grown frustrated with his mother's diplomatic approach. While she negotiates, he acts. While she considers consequences, he eliminates threats. This creates tension - he respects her wisdom but questions her methods.
-
-He's proven himself in combat repeatedly. His rangers are legendary - silent, deadly, and absolutely loyal. They've prevented dozens of threats from reaching Silverpine. But his aggressive tactics have also created enemies and diplomatic incidents.
-
-He knows he'll inherit eventually. He's not sure he wants the political burden, but he'll accept it as duty. When he does, the forest will have a protector who isn't afraid to spill blood.
-
-#### Connections
-- **Mother:** Matriarch Seraphine Silverleaf (respects, disagrees with frequently)
-- **Rival:** General Marthos Thandris (competitive relationship, mutual respect as warriors)
-- **Ally:** Commander Kael Stormwatcher (Ironhold, bonded over northern threats)
-- **Friend:** Crown Prince Thorin Thandris (mutual respect, trained together once)
-- **Rangers:** 50 elite forest guardians under his command
-- **Enemy:** A hobgoblin warlord named Grimfang (ongoing blood feud)
-- **Concern:** The deep forest threats his mother won't acknowledge
 
 {{descriptive
 #### Secrets (DM Only)
@@ -9789,10 +9772,6 @@ He knows he'll inherit eventually. He's not sure he wants the political burden, 
 5. **The Succession Crisis:** Seraphine announces Arannis as heir apparent. He considers refusing publicly. The party, as neutral outsiders, are asked to counsel him - and possibly help him escape if he chooses.
 
 6. **The Moral Choice:** Arannis captures enemies with crucial information. His interrogation methods work but are brutal. The party must decide whether to support, stop, or report him.
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 #### Roleplaying Notes
 - **Voice:** Clipped, military, speaks in short sentences
@@ -9830,6 +9809,11 @@ Weather-beaten and imposing (6'2", 210 lbs of muscle and scars). Sun-darkened sk
 - **Armor:** Half Plate +1 (naval-modified, saltwater-proof)
 - **Primary Weapon:** Cutlass +2 "Tidebreaker" (legendary naval blade, ignores water resistance)
 - **Pistols:** Two Naval Pistols +1 (matched pair, family heirlooms)
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 - **Cloak:** Cloak of the Manta Ray (swim speed, breathe underwater)
 - **Ring:** Ring of Water Walking
 - **Spyglass:** Magical telescope (see 10× normal distance, advantage on Perception)
@@ -9848,10 +9832,6 @@ Weather-beaten and imposing (6'2", 210 lbs of muscle and scars). Sun-darkened sk
 - **Order:** "The sea is chaos. Ships require discipline and structure."
 - **Duty:** "I serve the sea, the fleet, and the crown. In that order."
 - **Honor:** "A captain's word is absolute. Break it, and you're worse than pirates."
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
 
 **Bonds:**
 - His flagship "Stormbreaker" (30 years commanding her)
@@ -9877,6 +9857,43 @@ He's fought pirates, foreign raiders, sea monsters, and once, a kraken. His tact
 But success breeds enemies. He's discovered smuggling operations (possibly tied to House Goldshore). He's intercepted suspicious cargo. He suspects someone powerful is using trade routes for illegal purposes. Investigation is difficult - he can't be everywhere.
 
 He's also concerned about his sister Tempest. Her weather magic is invaluable but she's unpredictable, possibly dangerous. He can't decide if she's asset or liability.
+
+#### Connections
+- **Sister:** Lady Tempest Stormcrest (weather mage, complicated relationship)
+- **Rival:** Lord Aldris Goldshore IV (suspects his smuggling, can't prove it)
+- **Ally:** Admiral Marcus Stormbreaker (Tide Wardens, professional respect)
+- **Friend:** Harbor Master Tobias Saltwind (drinking buddies, shares intelligence)
+- **Subordinate:** 50 ship captains under his command, all loyal
+- **Enemy:** Pirate lords he's hunted (survived, seeking revenge)
+- **Concern:** Captain Blackheart (legendary pirate, still at large)
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Smuggling Investigation:** Theron has been secretly investigating House Goldshore for two years. He has evidence of illegal cargo but not enough to act. He's building a case, but Aldris Goldshore is slippery. If exposed prematurely, evidence disappears.
+
+}}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{descriptive
+
+2. **The Mutiny:** Fifteen years ago, his first major command nearly ended in mutiny. He made a tactical decision that seemed to sacrifice crew to save ship. Mutiny was stopped, ringleaders executed. He was right tactically but it haunts him - were his orders justified?
+
+3. **The Sister's Power:** Tempest's weather magic is growing stronger and more unstable. Theron has documented incidents where she lost control - ships nearly destroyed by sudden storms when she was angry. He's considering whether she's too dangerous to remain with fleet.
+
+4. **The Foreign Contact:** Theron has been approached by foreign naval power interested in hiring Stormcrest fleet. The pay would be incredible, but it would mean operating against Tirvandor interests. He's tempted - not for money but for challenge. He's kept negotiations secret.
+}}
+
+\column
+
+{{descriptive
+
+5. **The Depth Pact:** During the kraken battle, Theron made a pact with a merfolk community. They provide intelligence about underwater threats; he protects them from surface vessels. If other nobles learned he's allied with "fish people," it would be scandal.
+
+6. **The Personal Loss:** Theron has a daughter he's never met - born to an affair decades ago. He pays support through intermediaries but has never acknowledged her. She's now a sailor on merchant vessel, unaware of her heritage. He watches her career from distance.
+}}
 
 {{monster,frame,wide
 ## Admiral Theron Stormcrest
@@ -9936,31 +9953,6 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{footnote Part IV: NPCs}}
 \page
 
-#### Connections
-- **Sister:** Lady Tempest Stormcrest (weather mage, complicated relationship)
-- **Rival:** Lord Aldris Goldshore IV (suspects his smuggling, can't prove it)
-- **Ally:** Admiral Marcus Stormbreaker (Tide Wardens, professional respect)
-- **Friend:** Harbor Master Tobias Saltwind (drinking buddies, shares intelligence)
-- **Subordinate:** 50 ship captains under his command, all loyal
-- **Enemy:** Pirate lords he's hunted (survived, seeking revenge)
-- **Concern:** Captain Blackheart (legendary pirate, still at large)
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Smuggling Investigation:** Theron has been secretly investigating House Goldshore for two years. He has evidence of illegal cargo but not enough to act. He's building a case, but Aldris Goldshore is slippery. If exposed prematurely, evidence disappears.
-
-2. **The Mutiny:** Fifteen years ago, his first major command nearly ended in mutiny. He made a tactical decision that seemed to sacrifice crew to save ship. Mutiny was stopped, ringleaders executed. He was right tactically but it haunts him - were his orders justified?
-
-3. **The Sister's Power:** Tempest's weather magic is growing stronger and more unstable. Theron has documented incidents where she lost control - ships nearly destroyed by sudden storms when she was angry. He's considering whether she's too dangerous to remain with fleet.
-
-4. **The Foreign Contact:** Theron has been approached by foreign naval power interested in hiring Stormcrest fleet. The pay would be incredible, but it would mean operating against Tirvandor interests. He's tempted - not for money but for challenge. He's kept negotiations secret.
-
-5. **The Depth Pact:** During the kraken battle, Theron made a pact with a merfolk community. They provide intelligence about underwater threats; he protects them from surface vessels. If other nobles learned he's allied with "fish people," it would be scandal.
-
-6. **The Personal Loss:** Theron has a daughter he's never met - born to an affair decades ago. He pays support through intermediaries but has never acknowledged her. She's now a sailor on merchant vessel, unaware of her heritage. He watches her career from distance.
-}}
-
-\column
 
 #### Plot Hooks
 1. **The Smuggling Raid:** Theron hires the party to infiltrate a suspected smuggling operation - on ships he can't officially board. They discover the extent of House Goldshore's illegal operation and must decide what to do with evidence.
@@ -9994,9 +9986,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - Can be reliable commander or rigid obstacle
 - His personal connections add human element
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+\column
 
 ## Lady Tempest Stormcrest
 
@@ -10016,6 +10006,11 @@ Wild and striking (5'9", 140 lbs), with an intensity that makes people step back
 #### Equipment
 - **Robes:** Robes of the Archmagi (AC 15 base, advantage vs. spells, resistance to spell damage, +2 spell DC)
 - **Staff:** Staff of Thunder and Lightning (+2 quarterstaff, can cast various lightning spells, special attacks)
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 - **Amulet:** Amulet of Lightning Resistance (redundant with natural resistance, but amplifies power)
 - **Ring:** Ring of Weather Control (advantage on weather-manipulation checks, enhance Storm Guide)
 - **Boots:** Winged Boots (flight 4 hours/day)
@@ -10052,10 +10047,6 @@ House Stormcrest recognized sorcerous bloodline manifesting. They hired teachers
 
 By 20, she could call storms. By 25, she could control weather. By 30, she could summon hurricanes. But control remains imperfect. When she's angry, ships sink. When she's sad, it rains for days. When she's happy, winds blow favorable. The fleet needs her power but fears it.
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 Her brother Theron brought her aboard fleet at 28, thinking sea life might help. It did - she's no longer seasick when she controls winds. But she's caused three near-disasters when she lost control during emotional moments.
 
 Now at 35, she's incredibly powerful but possibly too dangerous. She knows this. She tries to control herself but emotions are storms too, and storms don't want control.
@@ -10069,6 +10060,43 @@ Recently, her power is growing. Weather responds to her moods even when she's no
 - **Fear:** She accidentally killed a sailor named Erik who tried to kiss her (she panicked, lightning struck, he died - only Theron knows)
 - **Rival:** Lady Tempest Crystalborn (same name, competitive relationship)
 - **Drawn To:** Ancient storm elemental that lives in perpetual tempest far at sea
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Growing Power:** Her magic is increasing beyond her control. She can feel weather patterns hundreds of miles away. Soon, she might affect entire continental weather. She's terrified of what this means - is she becoming something inhuman?
+
+2. **The Calling:** Something in storms is calling to her - an ancient presence, possibly an elder elemental or sleeping god. The calling is seductive. It promises ultimate power and freedom. She's tempted. Hasn't told anyone.
+
+3. **The Accident:** The sailor Erik didn't die accidentally. He was assaulting her. Her lightning strike was self-defense. But she told Theron it was accident because she was ashamed and scared. The guilt and lie eat at her.
+
+4. **The Addiction:** Using her power feels euphoric - like a drug. The bigger the storm, the better the feeling. She's been creating unnecessary storms just to feel that rush. She's worried she's becoming addicted to her own magic.
+
+5. **The Bargain:** A storm elemental once offered her a pact - merge with it, become purely elemental, have perfect control and unlimited power. She'd stop being human but become an eternal storm. She refused but sometimes wishes she'd accepted.
+}}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{descriptive
+
+6. **The Prophecy:** Her teacher told her a prophecy - she'll either become the greatest storm mage in history who saves thousands, or she'll lose control completely and cause a catastrophe killing thousands. She doesn't know which future she's walking toward.
+}}
+
+#### Plot Hooks
+1. **The Control Crisis:** Tempest loses control during a major storm, endangering an entire fleet. The party must calm her, suppress her magic, or help her channel it safely. Time is critical - people are dying.
+
+2. **The Calling Investigation:** Tempest admits something in storms is calling her and asks the party to help investigate. They must journey into a perpetual tempest at sea to find the source - and decide if it should be destroyed or embraced.
+
+3. **The Teaching:** Tempest asks the party to help her find her old teacher, who's gone missing. They discover he didn't disappear - he's been possessed by a storm entity. They must free him while learning about Tempest's future.
+
+4. **The Storm Elemental:** The elemental offers the merger pact again - publicly this time. Tempest must decide, and the party counsels her. Each choice has enormous consequences - for her, her family, and Tirvandor's weather.
+
+5. **The Weather War:** Someone is hiring rogue weather mages to attack Stormcrest fleet. Tempest must coordinate defense, but using her power extensively might trigger loss of control. The party helps her balance power and restraint.
+
+6. **The Truth Revealed:** Evidence of Erik's assault surfaces. Theron learns the truth. He's relieved his sister defended herself but angry she lied. The party mediates this family crisis while Tempest's emotions threaten to literally destroy the ship they're on.
+
+ ::
 
 {{monster,frame,wide
 ## Lady Tempest Stormcrest
@@ -10126,42 +10154,10 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 *"The storm doesn't ask permission. Neither do I."*
 }}
 
-
-
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
-{{descriptive
-#### Secrets (DM Only)
-1. **The Growing Power:** Her magic is increasing beyond her control. She can feel weather patterns hundreds of miles away. Soon, she might affect entire continental weather. She's terrified of what this means - is she becoming something inhuman?
-
-2. **The Calling:** Something in storms is calling to her - an ancient presence, possibly an elder elemental or sleeping god. The calling is seductive. It promises ultimate power and freedom. She's tempted. Hasn't told anyone.
-
-3. **The Accident:** The sailor Erik didn't die accidentally. He was assaulting her. Her lightning strike was self-defense. But she told Theron it was accident because she was ashamed and scared. The guilt and lie eat at her.
-
-4. **The Addiction:** Using her power feels euphoric - like a drug. The bigger the storm, the better the feeling. She's been creating unnecessary storms just to feel that rush. She's worried she's becoming addicted to her own magic.
-
-5. **The Bargain:** A storm elemental once offered her a pact - merge with it, become purely elemental, have perfect control and unlimited power. She'd stop being human but become an eternal storm. She refused but sometimes wishes she'd accepted.
-
-6. **The Prophecy:** Her teacher told her a prophecy - she'll either become the greatest storm mage in history who saves thousands, or she'll lose control completely and cause a catastrophe killing thousands. She doesn't know which future she's walking toward.
-}}
-
-#### Plot Hooks
-1. **The Control Crisis:** Tempest loses control during a major storm, endangering an entire fleet. The party must calm her, suppress her magic, or help her channel it safely. Time is critical - people are dying.
-
-2. **The Calling Investigation:** Tempest admits something in storms is calling her and asks the party to help investigate. They must journey into a perpetual tempest at sea to find the source - and decide if it should be destroyed or embraced.
-
-3. **The Teaching:** Tempest asks the party to help her find her old teacher, who's gone missing. They discover he didn't disappear - he's been possessed by a storm entity. They must free him while learning about Tempest's future.
-
-\column
-
-4. **The Storm Elemental:** The elemental offers the merger pact again - publicly this time. Tempest must decide, and the party counsels her. Each choice has enormous consequences - for her, her family, and Tirvandor's weather.
-
-5. **The Weather War:** Someone is hiring rogue weather mages to attack Stormcrest fleet. Tempest must coordinate defense, but using her power extensively might trigger loss of control. The party helps her balance power and restraint.
-
-6. **The Truth Revealed:** Evidence of Erik's assault surfaces. Theron learns the truth. He's relieved his sister defended herself but angry she lied. The party mediates this family crisis while Tempest's emotions threaten to literally destroy the ship they're on.
 
 #### Roleplaying Notes
 - **Voice:** Ranges from whisper to shout, crackling with static when emotional
@@ -10182,15 +10178,7 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - Can be hero, victim, or villain depending on how her arc resolves
 - Her emotional instability makes her unpredictable and interesting
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-
-\page
-
 ## Patriarch Zircon Crystalborn
-
-<div class="col-img">![Patriarch Zircon Crystalborn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-patriarch-zircon-crystalborn.jpg){width:325px,mix-blend-mode:multiply}</div>
-
 #### Basic Information
 - **Race:** Rock Elemental-touched
 - **Age:** 87
@@ -10211,6 +10199,8 @@ Distinctive and striking (5'10", 190 lbs), with the crystalline features of rock
 - **Jewelry:** Multiple rings, bracelets, necklaces - all contain valuable gems he can use as spell components
 - **Other:** Jeweler's tools (masterwork), gem collection (worth 50,000+ gp), spellbook (covers in crystal), magnifying lens
 
+<div class="col-img">![Patriarch Zircon Crystalborn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-patriarch-zircon-crystalborn.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 #### Personality
 **Traits:**
 - Meticulous and precise, everything calculated
@@ -10222,6 +10212,10 @@ Distinctive and striking (5'10", 190 lbs), with the crystalline features of rock
 - **Perfection:** "A flawed gem can be recut. Flawed understanding cannot."
 - **Legacy:** "Wealth fades. Knowledge persists. Art becomes eternal."
 - **Order:** "Crystals form in perfect geometric patterns. So should society."
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 **Bonds:**
 - House Crystalborn's reputation and influence
@@ -10242,27 +10236,13 @@ For 27 years, he's ruled House Crystalborn with calculated precision. He transfo
 
 He discovered that perfect gems amplify magic. He developed techniques to grow synthetic crystals with superior properties. He created new gem cuts that focus magical energy more efficiently. His innovations revolutionized crystal-based magic.
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-
 But innovation breeds rivals. House Goldshore competes for trade dominance. Other houses want his techniques. He's had to balance sharing enough to maintain relevance while hiding secrets that ensure superiority.
 
 His greatest work is his daughter Sapphira - not just training her in craft, but in patience, precision, and perfection. She'll inherit techniques refined over centuries, knowledge worth more than gold.
 
 Recently, he's discovered something troubling - evidence that certain gem formations aren't natural. They're artifacts from before the Worldrend, possibly dangerous. He's investigating quietly, not wanting to cause panic or reveal he's found something valuable.
 
-\column
-
-#### Connections
-- **Daughter:** Gem-Mage Sapphira Crystalborn (protégé and heir)
-- **Rival:** Lord Aldris Goldshore IV (economic competition)
-- **Ally:** Thane Durin Ironforge of House Ironforge (gem-cutting and mythril trade partnership)
-- **Customer:** Multiple noble houses who need his crystals for magic
-- **Secret Source:** A dao (earth genie) who provides rare minerals from Elemental Plane of Earth
-- **Concerned About:** Enchanter Prismara in Crystalbrook (knows about anomalous crystals)
-
+ ::
   
 {{monster,frame,wide
 ## Patriarch Zircon Crystalborn
@@ -10319,6 +10299,14 @@ ___
 {{footnote Part IV: NPCs}}
 \page
 
+#### Connections
+- **Daughter:** Gem-Mage Sapphira Crystalborn (protégé and heir)
+- **Rival:** Lord Aldris Goldshore IV (economic competition)
+- **Ally:** Thane Durin Ironforge of House Ironforge (gem-cutting and mythril trade partnership)
+- **Customer:** Multiple noble houses who need his crystals for magic
+- **Secret Source:** A dao (earth genie) who provides rare minerals from Elemental Plane of Earth
+- **Concerned About:** Enchanter Prismara in Crystalbrook (knows about anomalous crystals)
+
 {{descriptive
 #### Secrets (DM Only)
 1. **The Synthetic Breakthrough:** Zircon can now create perfect synthetic gems indistinguishable from natural ones - even to magical detection. This would crash gem markets if revealed. He's using it sparingly to maintain prices while building secret reserves.
@@ -10333,7 +10321,7 @@ ___
 
 6. **The Succession Secret:** Sapphira isn't his biological daughter - she's adopted after his wife couldn't conceive. He's never told her. Her real parents died in accident, he took her in at age 2. She doesn't remember. If she learns truth, it could shatter their relationship and destabilize House leadership.
 }}
-
+\column
 #### Plot Hooks
 1. **The Crystal Commission:** Zircon hires the party to retrieve a specific rare gem from dangerous location (dragon hoard, elemental plane, ancient ruins). The gem is actually a Worldrend crystal. What they don't know could endanger the world.
 
@@ -10360,7 +10348,6 @@ ___
 - Can provide crystal-based magic items and knowledge
 - His secrets provide hooks for levels 10-18
 - Works as patron, merchant, or source of specialized knowledge
-- Perfect for campaigns involving transmutation, crafting, or ancient artifacts
 - The dao subplot adds planar adventure potential
 - His moral compromises explore cost of perfection
 - Can be valuable ally or dangerous extremist
@@ -10460,6 +10447,7 @@ Recently, she's had dreams of flying over crystal landscapes, speaking in voices
 
 }}
 
+\column
 
 {{descriptive
 
@@ -10613,9 +10601,55 @@ She joined the northern garrison at twenty and quickly proved herself in conflic
 
 Now forty, she's a legend among northern troops. Part commander, part force of nature. Her tactical brilliance in winter conditions is matched only by her struggle to connect with people in peacetime. She's spent so long in the cold that warmth, emotional and physical, makes her uncomfortable.
 
+#### Connections
+- **Command:** Eighty Winter Guard soldiers
+- **Superior:** Commander Kael Stormwatcher (respects but disagrees with)
+- **Ally:** The Frost Seer Eirlys (provides strategic intelligence)
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+
+- **Rival:** Warden Commander Thalia Moonbow (mutual professional respect)
+- **Enemy:** Frost Giant Jarl Grimtusk (personal vendetta)
+  
+{{descriptive
+#### Secrets (DM Only)
+1. **The Frost Giant Vendetta:** Jarl Grimtusk killed her brother. She's planning assassination, not mere combat.
+2. **The Ice Blessing:** Her cold resistance isn't natural, a frost spirit blessed her at birth. It's slowly changing her.
+3. **The Failed Romance:** Tried to have a normal relationship once. Couldn't make it work. Still hurts.
+4. **The Command Disagreement:** Believes Stormwatcher's giant pacts are weakness. Would expose them if she had proof.
+5. **The Spirit's Price:** The frost spirit will eventually come to collect. She doesn't know what it wants.
+}}
+
+#### Plot Hooks
+1. **The Vengeance Mission:** Ready to move against Grimtusk. Needs allies for the kill.
+2. **The Spirit Investigation:** Strange things happening with her blessing. Needs help understanding the spirit's intentions.
+3. **The Winter Campaign:** A threat requires extended operations in deep winter. Only the Winter Guard can reach it.
+4. **The Evidence Gathering:** Suspects Stormwatcher's secrets. Asks the party to investigate.
+5. **The Human Connection:** Tries to form an actual friendship with party members. Awkwardly.
+
+#### Roleplaying Notes
+- Touches harpoon for luck
+- Constantly checks ice conditions
+- Speaks in nautical/fishing terms
+- Weather predictions (usually accurate)
+- Tells stories about her brother's "guidance"
+
+#### The Ice Fleet
+Alongside the Winter Guard, Brenna commands Frostholm's ice-fishing fleet, a dual role no one else in the north could hold.
+
+- Commands fleet of 12 ice fishing vessels
+- Knows every current, crack, and safe route on frozen waters
+- Lost her brother when Jarl Grimtusk's raiders collapsed the ice beneath his crew - obsessive about safety now
+- Wears seal-skin parka enchanted with *endure elements*
+- Carries harpoon that belonged to her great-grandfather
+
+#### Fleet Secrets (DM Only)
+1. **The Deep Catch:** Her crews pulling up strange frozen artifacts - pre-Worldrend relics
+2. **Ice Whispers:** Hearing voices in the ice at night, speaking in old tongues
+3. **The Lost Brother:** Believes her brother's ghost guides her ship
+4. **Hidden Cache:** Maintains secret food stores, feeds starving families quietly
 
 {{monster,frame
 ## Captain Brenna Frostbeard
@@ -10654,50 +10688,6 @@ ___
 *"The ice provides for those who respect it. Break that rule, you break through the ice."*
 }}
 
-#### Connections
-- **Command:** Eighty Winter Guard soldiers
-- **Superior:** Commander Kael Stormwatcher (respects but disagrees with)
-- **Ally:** The Frost Seer Eirlys (provides strategic intelligence)
-- **Rival:** Warden Commander Thalia Moonbow (mutual professional respect)
-- **Enemy:** Frost Giant Jarl Grimtusk (personal vendetta)
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Frost Giant Vendetta:** Jarl Grimtusk killed her brother. She's planning assassination, not mere combat.
-2. **The Ice Blessing:** Her cold resistance isn't natural, a frost spirit blessed her at birth. It's slowly changing her.
-3. **The Failed Romance:** Tried to have a normal relationship once. Couldn't make it work. Still hurts.
-4. **The Command Disagreement:** Believes Stormwatcher's giant pacts are weakness. Would expose them if she had proof.
-5. **The Spirit's Price:** The frost spirit will eventually come to collect. She doesn't know what it wants.
-}}
-
-#### Plot Hooks
-1. **The Vengeance Mission:** Ready to move against Grimtusk. Needs allies for the kill.
-2. **The Spirit Investigation:** Strange things happening with her blessing. Needs help understanding the spirit's intentions.
-3. **The Winter Campaign:** A threat requires extended operations in deep winter. Only the Winter Guard can reach it.
-4. **The Evidence Gathering:** Suspects Stormwatcher's secrets. Asks the party to investigate.
-5. **The Human Connection:** Tries to form an actual friendship with party members. Awkwardly.
-
-#### Roleplaying Notes
-- Touches harpoon for luck
-- Constantly checks ice conditions
-- Speaks in nautical/fishing terms
-- Weather predictions (usually accurate)
-- Tells stories about her brother's "guidance"
-
-#### The Ice Fleet
-Alongside the Winter Guard, Brenna commands Frostholm's ice-fishing fleet, a dual role no one else in the north could hold.
-
-- Commands fleet of 12 ice fishing vessels
-- Knows every current, crack, and safe route on frozen waters
-- Lost her brother when Jarl Grimtusk's raiders collapsed the ice beneath his crew - obsessive about safety now
-- Wears seal-skin parka enchanted with *endure elements*
-- Carries harpoon that belonged to her great-grandfather
-
-#### Fleet Secrets (DM Only)
-1. **The Deep Catch:** Her crews pulling up strange frozen artifacts - pre-Worldrend relics
-2. **Ice Whispers:** Hearing voices in the ice at night, speaking in old tongues
-3. **The Lost Brother:** Believes her brother's ghost guides her ship
-4. **Hidden Cache:** Maintains secret food stores, feeds starving families quietly
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -11069,8 +11059,27 @@ His miners respect him because he still works alongside them, despite his positi
 
 <div class="col-img">![Master Miner Grimnir Deepdelve](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-master-miner-grimnir-deepdelve.jpg){width:325px,mix-blend-mode:multiply}</div>
 
+#### Connections
+- **Guild:** Fourteen hundred miners under his authority
+- **Friend:** Commander Torvald Stoneshield (drinking companions)
+- **Rival:** Forge-Master Rurik Ironanvil (compete for resources)
+- **Contact:** Something that lives in the deep (negotiated arrangement)
+- **Concern:** The Thing in the Dark
 
-{{monster,frame,wide
+{{descriptive
+#### Secrets (DM Only)
+1. **The Deep Negotiation:** Made a deal with deep-dwelling creatures, certain tunnels are theirs, certain are ours.
+2. **The Mythril Vein:** Found a vein of pure mythril. Concealing it until he can arrange proper extraction and security.
+3. **The Previous Master:** Didn't just find the saboteurs, extracted information before killing them. Someone powerful ordered the sabotage.
+4. **The Thing in the Dark:** Has glimpsed something in the deepest tunnels. Bigger than anything should be. It's watching.
+5. **The Family Secret:** The Deepdelve clan originated from dwarves who fled something below. Family legends hint at what.
+}}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+{{monster,frame
 ## Master Miner Grimnir Deepdelve
 *Medium humanoid (dwarf), neutral good*
 ___
@@ -11102,32 +11111,14 @@ ___
 }}
 
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-#### Connections
-- **Guild:** Fourteen hundred miners under his authority
-- **Friend:** Commander Torvald Stoneshield (drinking companions)
-- **Rival:** Forge-Master Rurik Ironanvil (compete for resources)
-- **Contact:** Something that lives in the deep (negotiated arrangement)
-- **Concern:** The Thing in the Dark
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Deep Negotiation:** Made a deal with deep-dwelling creatures, certain tunnels are theirs, certain are ours.
-2. **The Mythril Vein:** Found a vein of pure mythril. Concealing it until he can arrange proper extraction and security.
-3. **The Previous Master:** Didn't just find the saboteurs, extracted information before killing them. Someone powerful ordered the sabotage.
-4. **The Thing in the Dark:** Has glimpsed something in the deepest tunnels. Bigger than anything should be. It's watching.
-5. **The Family Secret:** The Deepdelve clan originated from dwarves who fled something below. Family legends hint at what.
-}}
-
 #### Plot Hooks
 1. **The Mythril Expedition:** Ready to exploit the mythril vein. Needs trusted outsiders who can keep secrets.
 2. **The Deep Ones:** The creatures he negotiated with want to renegotiate. Needs mediators.
 3. **The Sabotage Trail:** Finally has a lead on who ordered his predecessor's death. Needs investigators.
 4. **The Thing's Approach:** Whatever's in the dark is getting closer. Needs help assessing the threat.
 5. **The Family Legacy:** Wants to find what his ancestors fled from. Needs expedition companions.
+
+\column
 
 ## The Ice Witch of Iceridge (Ylva Frostborn)
 
