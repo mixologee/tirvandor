@@ -11122,6 +11122,8 @@ ___
 
 ## The Ice Witch of Iceridge (Ylva Frostborn)
 
+<div class="col-img">![The Ice Witch of Iceridge (Ylva Frostborn)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-ice-witch-ylva-frostborn.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 #### Equipment
 - **Robes:** Flowing ice-blue robes (never get dirty or wet)
 - **Staff:** Ice Crystal Staff (acts as arcane focus)
@@ -11136,17 +11138,20 @@ ___
 - Sees long-term (decades/centuries)
 - Lonely but accepts isolation
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 #### Physical Description
 Ethereally beautiful (5'10", 140 lbs) with pale, almost translucent skin. Long white hair flows like snow. Eyes are pale blue, shifting like winter sky. Wears flowing robes of ice-blue that seem woven from frost itself. Barefoot always, leaving no tracks. Surrounded by faint mist. White wolves follow her. Smells of pine and fresh snow. Voice sounds like wind through ice.
 
-<div class="col-img">![The Ice Witch of Iceridge (Ylva Frostborn)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-ice-witch-ylva-frostborn.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 **Secrets:**
 1. **True Nature:** Born mortal, she is now more winter fey than human - travelers who glimpse her mistake her for a winter eladrin
 2. **The Oath:** Sworn to an archfey of the Winter Court after her exile, she protects something imprisoned beneath the town
 3. **Archfey Connection:** Serves an archfey of winter, the source of her growing power
 4. **Limited Time:** The oath ends in 50 years - then she's free, if anything of the girl she was remains
-
+\column
 **Plot Hooks:**
 - Ice chamber awakening threatens her oath
 - Needs party to help fulfill ancient duty
@@ -11156,43 +11161,9 @@ Ethereally beautiful (5'10", 140 lbs) with pale, almost translucent skin. Long w
 #### Background & History
 Ylva was born during a blizzard that killed her mother and left her father's fingers blackened with frostbite. The village should have left her to die, winter's children rarely survived, but her father refused. She lived, and the cold followed her.
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 By ten, she could freeze water with a touch. By twenty, she could summon blizzards. The villagers drove her out, calling her cursed. She found refuge in the ice caves of Mount Frostpeak, where she's lived for sixty years, growing stronger and stranger.
 
 She's not evil. She protects the mountain communities from avalanches and warns of deadly storms. But she's no longer entirely human. The ice has seeped into her soul, making her cold, patient, and difficult to understand. Those who approach her properly receive help; those who don't face the fury of winter.
-
-#### Connections
-- **Friend:** The Frost Seer Eirlys (kindred spirits)
-- **Rival:** Witch Mother Helga (old disagreement over a stolen bargain)
-- **Protectorate:** Mountain villages that honor her
-- **Enemy:** The fire cult that tried to kill her
-- **Master:** The mountain itself (or something within it)
-
-{{descriptive
-#### Secrets (DM Only)
-1. **The Mountain's Voice:** Something speaks to her from within the mountain. She serves it without understanding what it is.
-
-}}
-
-
-{{descriptive
-
-2. **The Fire Cult:** A cult of fire worshippers tried to kill her twenty years ago. She destroyed most of them but some survived.
-3. **The Transformation:** She's becoming less human each year. Eventually she'll be pure ice, unable to interact with mortals.
-4. **The Helga Bargain:** Stole a deal from Witch Mother Helga. The two have been enemies since.
-5. **The Frozen Love:** Once loved a human. Froze him to preserve him when he was dying. He's still in the ice, preserved.
-
-}}
-
-#### Plot Hooks
-1. **The Mountain's Will:** The voice wants something. She needs help interpreting its desires.
-2. **The Fire Cult Return:** The survivors are gathering strength. She needs allies against them.
-3. **The Transformation Cure:** Seeking a way to slow or stop her transformation. Willing to reward help.
-4. **The Helga Conflict:** The feud with Helga is escalating. Could use allies, or mediators.
-5. **The Frozen Love:** Has found a way to thaw her lover safely. Needs help with the ritual.
 
 {{monster,frame,wide
 ## The Ice Witch of Iceridge (Ylva Frostborn)
@@ -11251,10 +11222,32 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+#### Connections
+- **Friend:** The Frost Seer Eirlys (kindred spirits)
+- **Rival:** Witch Mother Helga (old disagreement over a stolen bargain)
+- **Protectorate:** Mountain villages that honor her
+- **Enemy:** The fire cult that tried to kill her
+- **Master:** The mountain itself (or something within it)
+
+{{descriptive
+#### Secrets (DM Only)
+1. **The Mountain's Voice:** Something speaks to her from within the mountain. She serves it without understanding what it is.
+
+2. **The Fire Cult:** A cult of fire worshippers tried to kill her twenty years ago. She destroyed most of them but some survived.
+3. **The Transformation:** She's becoming less human each year. Eventually she'll be pure ice, unable to interact with mortals.
+4. **The Helga Bargain:** Stole a deal from Witch Mother Helga. The two have been enemies since.
+5. **The Frozen Love:** Once loved a human. Froze him to preserve him when he was dying. He's still in the ice, preserved.
+
+}}
+
+#### Plot Hooks
+1. **The Mountain's Will:** The voice wants something. She needs help interpreting its desires.
+2. **The Fire Cult Return:** The survivors are gathering strength. She needs allies against them.
+3. **The Transformation Cure:** Seeking a way to slow or stop her transformation. Willing to reward help.
+4. **The Helga Conflict:** The feud with Helga is escalating. Could use allies, or mediators.
+5. **The Frozen Love:** Has found a way to thaw her lover safely. Needs help with the ritual.
 
 ## Forge-Master Thordak Lavaheart
-
-<div class="col-img">![Forge-Master Thordak Lavaheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-thordak-lavaheart.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Equipment
 - **Armor:** Chain Mail (heat-resistant)
@@ -11271,6 +11264,20 @@ Thordak's forge sits at the edge of an active volcanic vent, where he works meta
 He learned his craft from a fire giant smith who owed his father a life debt. For twenty years, he trained in the volcanic depths, learning techniques unknown to surface races. When he emerged, he established a forge that produces the most heat-resistant equipment in the world.
 
 The Ashwardens are his primary clients, but anyone willing to pay his prices and brave the journey receives his work. He's gruff, rude, and completely uninterested in social niceties. He cares only for craft and considers conversation a waste of smithing time.
+
+<div class="col-img">![Forge-Master Thordak Lavaheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-thordak-lavaheart.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Connections
+- **Client:** Grand Warden Volcanus Rex (primary contract)
+- **Teacher:** Fire giant smith Ignak (still corresponds)
+- **Rival:** Forge-Master Rurik Ironanvil (respects but competitive)
+- **Apprentice:** One fire elemental-touched who can survive the heat
+- **Contact:** Something in the volcano (trades service for rare metals)
+
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 {{monster,frame
 ## Forge-Master Thordak Lavaheart
@@ -11310,19 +11317,6 @@ ___
 }}
 
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-
-
-#### Connections
-- **Client:** Grand Warden Volcanus Rex (primary contract)
-- **Teacher:** Fire giant smith Ignak (still corresponds)
-- **Rival:** Forge-Master Rurik Ironanvil (respects but competitive)
-- **Apprentice:** One fire elemental-touched who can survive the heat
-- **Contact:** Something in the volcano (trades service for rare metals)
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Volcanic Entity:** Trades with something living in the magma. It provides metals that shouldn't exist.
@@ -11341,6 +11335,8 @@ ___
 
 ## Sage Veridian Runereader
 
+<div class="col-img">![Sage Veridian Runereader](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sage-elminster-runereader.jpg){width:325px,mix-blend-mode:multiply}</div>
+
 #### Equipment
 - **Robes:** Scholar's robes
 - **Staff:** Walking staff (mundane)
@@ -11349,15 +11345,18 @@ ___
 - **Tools:** Runic transcription kit
 
 #### Background & History
-Veridian's name honors Archmage Veridian Starweaver, his parents were scribes who hoped naming their son after the famous University wizard would bring him luck. It worked; he's become one of the foremost scholars of runic magic in Thaldros, able to read inscriptions that have baffled others for centuries.
+Veridian's name honors Archmage Veridian Starweaver, his parents were scribes who hoped naming their son after the famous University wizard would bring him luck. 
 
-\column
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+It worked; he's become one of the foremost scholars of runic magic in Thaldros, able to read inscriptions that have baffled others for centuries.
 
 His specialty is pre-Worldrend text, the ancient scripts that were used before the world was torn apart. He's spent sixty years collecting rubbings, copying inscriptions, and developing translation methods. His crowning achievement is a partial dictionary of the Elder Script, the language used by the civilization that caused the Worldrend.
 
 He works from a cluttered study in the Silverpine Magical Academy, surrounded by books, scrolls, and strange artifacts. He's absent-minded about everyday matters but razor-sharp about his field. Students simultaneously adore and fear him. He's brilliant but demands excellence.
 
-<div class="col-img">![Sage Veridian Runereader](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-sage-elminster-runereader.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Connections
 - **Institution:** Silverpine Magical Academy (senior professor)
@@ -11366,10 +11365,21 @@ He works from a cluttered study in the Silverpine Magical Academy, surrounded by
 - **Correspondent:** Scholars across both continents
 - **Enemy:** Treasure hunters who destroy inscriptions while looting
 
+{{descriptive
+#### Secrets (DM Only)
+1. **The Complete Translation:** Has secretly translated more Elder Script than he's published. Some texts are too dangerous.
+2. **The Worldrend Cause:** His translations suggest the Worldrend was deliberate, someone meant to tear the world apart.
+3. **The Warning:** One text appears to describe how to prevent a second Worldrend. He's still deciphering it.
+4. **The Stolen Artifact:** Stole a key artifact from treasure hunters who would have destroyed it. Technically illegal.
+5. **The Immortality Hints:** Some texts describe techniques for extending life. He's tempted to try them.
+}}
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
+#### Plot Hooks
+1. **The Translation Project:** Has a text that resists translation. Needs adventurers to investigate its source.
+2. **The Dangerous Knowledge:** Ready to share what he knows about the Worldrend, but only with those he trusts.
+3. **The Artifact Problem:** The stolen artifact is being sought. Needs help either hiding it or legitimizing his possession.
+4. **The Field Expedition:** Needs to visit a ruin to study inscriptions in context. Needs protection.
+5. **The Prevention Theory:** Believes he's found instructions to prevent catastrophe. Needs help implementing them.
 
 {{monster,frame
 ## Sage Veridian Runereader
@@ -11409,23 +11419,8 @@ ___
 *"These runes predate the Worldrend. They're not decoration - they're warnings."*
 }}
 
-\column
 
-{{descriptive
-#### Secrets (DM Only)
-1. **The Complete Translation:** Has secretly translated more Elder Script than he's published. Some texts are too dangerous.
-2. **The Worldrend Cause:** His translations suggest the Worldrend was deliberate, someone meant to tear the world apart.
-3. **The Warning:** One text appears to describe how to prevent a second Worldrend. He's still deciphering it.
-4. **The Stolen Artifact:** Stole a key artifact from treasure hunters who would have destroyed it. Technically illegal.
-5. **The Immortality Hints:** Some texts describe techniques for extending life. He's tempted to try them.
-}}
 
-#### Plot Hooks
-1. **The Translation Project:** Has a text that resists translation. Needs adventurers to investigate its source.
-2. **The Dangerous Knowledge:** Ready to share what he knows about the Worldrend, but only with those he trusts.
-3. **The Artifact Problem:** The stolen artifact is being sought. Needs help either hiding it or legitimizing his possession.
-4. **The Field Expedition:** Needs to visit a ruin to study inscriptions in context. Needs protection.
-5. **The Prevention Theory:** Believes he's found instructions to prevent catastrophe. Needs help implementing them.
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -11762,13 +11757,6 @@ Traits
 {{footnote Part IV: NPCs}}
 \page
 
-- Struggles to understand human urgency and short-term thinking
-- The Heart Oak's illness is draining her own life force (she hides this)
-- Knows she's dying with the tree but refuses to leave it
-
-#### Background & History
-Thalindra has led the village of Oakheart Grove for three centuries, watching generations of humans come and go while the elven core of the community remains. She's seen wars, plagues, and natural disasters; she's guided her people through all of them.
-
 {{monster,frame,wide
 ## Elder Thalindra Oakheart
 *Medium humanoid (elf), neutral good*
@@ -11830,10 +11818,18 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 **Command Forest (Costs 2).** :: Commands plants in a 30-foot radius to restrain one creature (DC 19 Strength save).
 *"The Heart Oak has stood for three thousand years. It shall stand three thousand more, or I shall fall with it."*
 }}
+
+
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
+- Struggles to understand human urgency and short-term thinking
+- The Heart Oak's illness is draining her own life force (she hides this)
+- Knows she's dying with the tree but refuses to leave it
+
+#### Background & History
+Thalindra has led the village of Oakheart Grove for three centuries, watching generations of humans come and go while the elven core of the community remains. She's seen wars, plagues, and natural disasters; she's guided her people through all of them.
 
 She was a druid of considerable power in her youth, but chose to focus on community leadership rather than mystical pursuits. She still maintains a connection to the great oak at the village center, which was planted by her grandmother and will likely outlive her grandchildren.
 
@@ -11854,15 +11850,13 @@ Her leadership style is gentle guidance rather than command. She rarely orders a
 4. **The Sacred Trust:** Guards a portal to the Feywild that opens once per century. Next opening is soon.
 5. **The Weary Heart:** Has been ready to die for decades. Stays alive only because she's needed.
 }}
-
+\column
 #### Plot Hooks
 1. **The Portal Preparation:** The Feywild portal opens soon. Needs help preparing for whatever comes through.
 2. **The Youth Appeal:** Looking for ways to make the village attractive to young elves. Open to suggestions.
 3. **The Old Crime:** Someone has discovered evidence of the killing. Needs help managing the situation.
 4. **The Binding Investigation:** Wants to understand her bond to the village. Possibly break it.
 5. **The Succession Planning:** Looking for someone to lead after her. Might see potential in party members.
-
-\column
 
 #### Roleplaying Notes
 - Speaks in measured, poetic phrases
@@ -11897,6 +11891,7 @@ Solidly built (5'11", 210 lbs) with the powerful frame of someone who works with
 - **Primary Weapon:** Heirloom Greataxe (grandfather's axe, perfectly balanced, masterwork)
 - **Secondary:** Handaxe +1 (masterwork throwing axe)
 - **Tools:** Master carpenter's tools (worth 500 gp, include folding saw, precision chisels, measuring devices)
+\column
 - **Belt:** Carpenter's Belt (contains hammer, nails, small tools, always within reach)
 - **Boots:** Steel-toed Work Boots (protect feet, grant +2 to avoid being knocked prone)
 - **Gloves:** Leather Work Gloves (prevent splinters, grant advantage on grip checks)
@@ -11935,16 +11930,18 @@ Traits
 - Struggles to say no to requests for free work
 - Guilty about accident where apprentice lost finger
 
-#### Background & History
-Rowan's family has been woodworkers for ten generations, trained by his grandfather, a legendary carpenter in his own right, and Rowan has surpassed them all. His joints are invisible, his carvings lifelike, his furniture sold to royalty across both continents. He's transformed the family workshop into a renowned atelier.
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
+#### Background & History
+Rowan's family has been woodworkers for ten generations, trained by his grandfather, a legendary carpenter in his own right, and Rowan has surpassed them all. His joints are invisible, his carvings lifelike, his furniture sold to royalty across both continents. He's transformed the family workshop into a renowned atelier.
+
 He discovered his exceptional talent young: he could see how wood wanted to be shaped, could sense the grain and flow of lumber as clearly as others see color. By thirty, he was taking commissions from nobles. By fifty, he was turning them away, there's only so much he can produce, and he chooses projects that interest him.
 
 He's gentle and patient, more interested in teaching than fame. He trains each apprentice for seven years before pronouncing them ready. His former students are among the finest woodworkers in the world.
+
+\column
 
 #### Connections
 - **Workshop:** Master's Atelier in Oakenheart
@@ -12300,7 +12297,6 @@ She's transformed her domain into a model of efficient governance: roads maintai
 - **Ally:** Various reform-minded nobles
 - **Goal:** The High Council seat
 
-
 {{descriptive
 #### Secrets (DM Only)
 1. **The Council Ambition:** Working toward a seat on the High Council. Would be the first woman in three generations.
@@ -12349,15 +12345,14 @@ Rugged and battle-hardened (6'1", 200 lbs) with the weathered look of frontier l
 **(Wolf Form):** Large black wolf with gray eyes. Indistinguishable from dire wolf except for amber eye-flash in moonlight.
 
 
-#### Equipment
-(Human Form)
-- **Armor:** Half-Plate +1 (custom-fitted, reinforced)
-
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
 
+
+#### Equipment
+(Human Form)
+- **Armor:** Half-Plate +1 (custom-fitted, reinforced)
 - **Primary Weapon:** Longsword +1 "Frontier's Edge" (silvered, ironically)
 - **Secondary:** Silvered Dagger (keeps it as test of control)
 - **Ranged:** Longbow with 40 arrows (20 normal, 20 silvered)
@@ -12370,7 +12365,7 @@ Rugged and battle-hardened (6'1", 200 lbs) with the weathered look of frontier l
 - **Documents:** Captain's commission, frontier maps, wanted posters
 
 #### Personality
-Traits
+**Traits**
 - Constantly aware of moon phases
 - Checks silver weapons compulsively
 - Keeps distance from people he cares about
@@ -12463,7 +12458,7 @@ Marcus was a promising young captain in the border guard when the werewolf pack 
 Three years later, he's done the impossible, maintained his humanity while using his lycanthropy to protect the frontier. The wild lands are full of creatures that normal soldiers can't fight; Marcus can. He operates alone; of his commanders, only Kael Stormwatcher knows the truth of what he is.
 
 He's not cured, there's no cure. But he's found equilibrium: running wild during full moons in unpopulated areas, taking wolfsbane to maintain control, and channeling the predator inside toward protecting the helpless. It costs him everything else. He has no family, few friends, and no hope of a normal life.
-
+\column
 #### Connections
 - **Chain of Command:** Reports to Commander Kael Stormwatcher (knows the truth)
 - **Pack:** The Silver Wolf (complicated)
@@ -13316,12 +13311,14 @@ She's not mad, the whispers are real. She communes with spirits, ghosts, and str
 - **Client:** Captain Marcus Frontiersman (provides control ritual)
 - **Contact:** The Frost Seer Eirlys (fellow unusual seer)
 - **Spirit Friends:** Several ghosts who provide information
-- **Enemy:** A powerful ghost she bound that wants revenge
-- **Worry:** The whispers are getting louder
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+
+- **Enemy:** A powerful ghost she bound that wants revenge
+- **Worry:** The whispers are getting louder
+
 
 {{descriptive
 #### Secrets (DM Only)
@@ -13358,7 +13355,7 @@ She's not mad, the whispers are real. She communes with spirits, ghosts, and str
 
 #### Physical Description
 Tall and slender (6'1", 145 lbs) with the timeless grace of high elves. Silver-white hair worn long and loose, often floating slightly as if in an invisible breeze. Eyes shift color with his mood - blue when calm, violet when using divination, gold when angry. Pale, ageless features marked with faint runic tattoos along his temples (warding glyphs). Wears flowing robes of deep midnight blue with silver star patterns that actually twinkle. The Starlight Staff pulses with gentle light and is never far from his hand.
-\column
+
 #### Equipment
 - **Robes:** Archmage's Robes (AC 15 + Dex, advantage on saves vs. spells)
 - **Staff:** Starlight Staff (Staff of Power, legendary, +3 quarterstaff, 20 charges)
@@ -13804,11 +13801,11 @@ Kael earned his epithet the hard way. By killing dragons. Not through luck or am
 
 Born in a frontier village constantly threatened by a young red dragon, Kael lost half his family before he turned twelve. He dedicated his life to ensuring other families wouldn't suffer the same fate. He joined the Silver Wardens at fifteen, studied under their best monster hunters, and eventually specialized in the most dangerous game.
 
-His approach combines scholarly research with practical hunting. He knows dragon anatomy, behavior patterns, territorial instincts, and weaknesses. He's written the definitive guide to dragon hunting (circulation restricted by the Wardens—they don't want amateurs trying).
-
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
 \page
+
+His approach combines scholarly research with practical hunting. He knows dragon anatomy, behavior patterns, territorial instincts, and weaknesses. He's written the definitive guide to dragon hunting (circulation restricted by the Wardens—they don't want amateurs trying).
 
 At sixty-four, his body is failing faster than his spirit. Old injuries accumulate, and he knows he has perhaps five more years of field work. He's focused now on passing his knowledge to the next generation, though finding students capable of surviving the training is challenging.
 
@@ -13819,6 +13816,7 @@ At sixty-four, his body is failing faster than his spirit. Old injuries accumula
 - **The Dragon Infernalix:** The great wyrm that threatened Kaer Thandros: Kael has studied him for decades
 - **Surviving Students:** Only three of the twelve hunters he's trained are still alive
 
+ ::
 
 {{monster,frame,wide
 ## Master Hunter Kael Dragonsbane
@@ -14726,7 +14724,15 @@ At forty-five, he runs a workshop with twelve apprentices and a waiting list of 
 3. **The Weapons Contract:** Accepted a commission from a suspicious client. The weapons he built have been used for something he regrets.
 }}
 
- 
+\column
+
+{{descriptive
+
+4. **Military Interest:** Multiple kingdoms want him to work exclusively for them. He's been resisting, but the pressure is increasing.
+5. **Health Concerns:** Exposure to various materials over the years has affected his lungs. He hides it but it's getting worse.
+
+}}
+
 {{monster,frame
 ## Artificer Tobias Gearwise
 *Small humanoid (gnome), neutral good*
@@ -14768,12 +14774,7 @@ ___
 *"Magic is wonderful. Engineering is reliable. Combined? Revolutionary."*
 }}
 
-{{descriptive
 
-4. **Military Interest:** Multiple kingdoms want him to work exclusively for them. He's been resisting, but the pressure is increasing.
-5. **Health Concerns:** Exposure to various materials over the years has affected his lungs. He hides it but it's getting worse.
-
-}}
 
 {{pageNumber,auto}}
 {{footnote Part IV: NPCs}}
@@ -14797,6 +14798,7 @@ ___
 - **Cloak:** Cloak of Elvenkind (advantage on Stealth)
 - **Ring:** Ring of Mind Shielding (immune to detect thoughts)
 - **Boots:** Boots of Elvenkind (advantage on Stealth)
+\column
 - **Poisons:** Various deadly and non-lethal poisons
 - **Tools:** Disguise kit, thieves' tools, forgery kit
 - **Documents:** Dossiers on all cult members
@@ -19980,7 +19982,7 @@ By Level: ::
 - 2nd: 3d6-4d8 damage, strong utility
 - 3rd: 5d6-8d6 damage, major utility
 - 4th-9th: (See PHB for comparisons)
-\column
+
 Components: ::
 - Verbal: Requires speech
 - Somatic: Requires hand gestures
@@ -20457,6 +20459,10 @@ Interactive Elements: ::
 - Levers/switches (activates traps or opens doors)
 - Flammable materials (oil, gunpowder)
 
+{{pageNumber,auto}}
+{{footnote Part V: DM Tools}}
+\page
+
 #### Battlefield Zones
 
 Divide battlefield into zones: ::
@@ -20479,10 +20485,6 @@ Intelligent Humanoids: ::
 - Negotiate if outmatched
 - Use terrain advantages
 - Call for reinforcements
-
-{{pageNumber,auto}}
-{{footnote Part V: DM Tools}}
-\page
 
 Beasts/Animals: ::
 - Attack nearest/weakest
@@ -20520,6 +20522,8 @@ Too Short (1-2 rounds): ::
 - No tactical decisions
 - Abilities wasted
 - Unsatisfying
+
+\column
 
 Too Long (8+ rounds): ::
 - Players bored
@@ -20579,6 +20583,10 @@ Good Puzzles: ::
 - Failure has consequence (not blocking)
 - Take 10-15 minutes real time
 
+{{pageNumber,auto}}
+{{footnote Part V: DM Tools}}
+\page
+
 Bad Puzzles: ::
 - Require meta-knowledge
 - Only one solution
@@ -20601,10 +20609,6 @@ Simple Trap: ::
 
 Example: ::
 - Pit trap: DC 15 Perception to spot, DC 12 Dex save to avoid, 20 feet deep (2d6 damage)
-
-{{pageNumber,auto}}
-{{footnote Part V: DM Tools}}
-\page
 
 Complex Trap: ::
 - Multiple triggers
@@ -20639,7 +20643,7 @@ Escalation: ::
 - Round 2: Alarm sounds, more enemies coming
 - Round 3: Boss appears
 - Round 4: Environmental change (fire spreads, building collapsing)
-
+\column
 Branching: ::
 - If players capture leader: minions flee
 - If players destroy artifact: enemies lose powers
@@ -20664,7 +20668,7 @@ Per Arc, Include: ::
 - Several medium combats (standard challenge)
 - 1-2 hard combats (test limits)
 - 1 deadly combat (climax)
-\column
+
 Avoid: ::
 - Back-to-back deadly combats
 - 5+ combats without rest
@@ -20699,6 +20703,10 @@ Mechanics: ::
 - Time pressure (reinforcements coming)
 
 
+{{pageNumber,auto}}
+{{footnote Part V: DM Tools}}
+\page
+
 #### Bound Corruption Event
 
 Mechanics: ::
@@ -20727,9 +20735,6 @@ Mixed Levels: ::
 - Add their individual thresholds
 - Or: Average party level, then adjust encounter
 
-{{pageNumber,auto}}
-{{footnote Part V: DM Tools}}
-\page
 
 ### Example Encounters
 
@@ -20741,7 +20746,7 @@ Bandit Ambush: ::
 - Terrain: Trees (half cover), log barricade (three-quarters cover)
 - Tactics: Bandits use cover, focus fire on spellcasters, retreat if captain falls
 - Twist: If captured, bandits reveal they're desperate refugees forced into crime
-
+\column
 #### Level 7 Party (4 PCs) - Hard Combat
 
 Primordial Spawn Emergence: ::
@@ -20751,7 +20756,7 @@ Primordial Spawn Emergence: ::
 - Tactics: Priest casts from range, spawn rush melee, corruption spreads toward party
 - Objective: Seal corruption breach at altar while fighting
 - Time limit: 6 rounds before corruption overtakes temple
-\column
+
 #### Level 12 Party (5 PCs) - Social Encounter
 
 Negotiate with Warlord: ::
@@ -20942,7 +20947,7 @@ Extreme Cold (below 0°F): ::
 - Each hour: DC 10 Constitution save or 1 level exhaustion
 - Cold resistance: Advantage
 - Warm clothing/shelter: Immune
-
+\column
 Extreme Heat (above 100°F): ::
 - Each hour without water: DC 10 Constitution save or 1 level exhaustion
 - Heat resistance: Advantage
@@ -21608,16 +21613,6 @@ Wilderness exploration in Tirvandor offers freedom, danger, and discovery, from 
 ---
 
 Use these tables to quickly generate content during sessions without preparation.
-
-{{padding-top:392px}}
-{{homebreweryCredits
-Made With
-
-{{homebreweryIcon}}
-
-The Homebrewery  
-[Homebrewery.Naturalcrit.com](https://homebrewery.naturalcrit.com)
-}}
 
 {{pageNumber,auto}}
 {{footnote Part VI: Appendices}}
