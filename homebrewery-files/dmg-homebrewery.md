@@ -197,6 +197,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
   - [{{ Item Distribution Guidelines}}{{ 39}}](#p39)
 - ### [{{ Part IV: NPCs}}{{ 41}}](#p41)
 - #### [{{ Chapter 8: NPCs of Tirvandor}}{{ 41}}](#p41)
+- ### [{{ Major NPCs}}{{ 41}}](#p41)
   - [{{ Sultan Rashid Ashborne}}{{ 52}}](#p52)
   - [{{ Council Mistress Elara Silverleaf}}{{ 54}}](#p54)
   - [{{ Lord Commander Thrain Ironoak}}{{ 57}}](#p57)
@@ -236,6 +237,13 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
   - [{{ Witch Mother Helga}}{{ 98}}](#p98)
   - [{{ Council Elder Thaelon Starlight}}{{ 99}}](#p99)
   - [{{ Archdruid Silvaris Oakenheart}}{{ 100}}](#p100)
+}}
+
+\page
+
+{{toc,wide
+# Contents
+-
   - [{{ Spellweaver Lyrian Crystal}}{{ 101}}](#p101)
   - [{{ Lady Shadowleaf (True Name: Niriel)}}{{ 102}}](#p102)
   - [{{ High Diviner Celestia Starborn}}{{ 104}}](#p104)
@@ -243,11 +251,6 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
   - [{{ Elder Council Mother Talia Vinehart}}{{ 106}}](#p106)
   - [{{ Lord Commander Gareth Lightbane (Iron Council)}}{{ 107}}](#p107)
   - [{{ Trade Prince Lucian Goldfingers (Merchant League)}}{{ 108}}](#p108)
-}}
-
-\page
-
-{{toc,wide
   - [{{ Master Crimson (The Syndicate)}}{{ 110}}](#p110)
   - [{{ Grand Warden Volcanus Rex (Ashwardens)}}{{ 111}}](#p111)
   - [{{ Warden Commander Thalia Moonbow (Ironspine Rangers)}}{{ 112}}](#p112)
@@ -266,7 +269,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
   - [{{ Lady Tempest Stormcrest}}{{ 144}}](#p144)
   - [{{ Patriarch Zircon Crystalborn}}{{ 147}}](#p147)
   - [{{ Gem-Mage Sapphira Crystalborn}}{{ 150}}](#p150)
-  - [{{ Captain Brenna Frostbeard}}{{ 153}}](#p153)
+  - [{{ Captain Brenna Frostbeard}}{{ 152}}](#p152)
   - [{{ The Frost Seer (Eirlys Snowsight)}}{{ 155}}](#p155)
   - [{{ Commander Torvald Stoneshield}}{{ 157}}](#p157)
   - [{{ Merchant-Prince Kael Icewind}}{{ 159}}](#p159)
@@ -337,13 +340,18 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
   - [{{ Aldric the Chain-Breaker (Historical)}}{{ 270}}](#p270)
   - [{{ Ryldak the Ancient}}{{ 271}}](#p271)
   - [{{ Young Tom (The Prophecy Child)}}{{ 272}}](#p272)
-  - [{{ Miscellaneous NPCs}}{{ 275}}](#p275)
+- ### [{{ Miscellaneous NPCs}}{{ 275}}](#p275)
   - [{{ Marta Goodbarrel}}{{ 275}}](#p275)
   - [{{ Grimjaw}}{{ 276}}](#p276)
   - [{{ Elena Ravencroft}}{{ 277}}](#p277)
   - [{{ Whisper}}{{ 278}}](#p278)
   - [{{ Kael Ironforge}}{{ 279}}](#p279)
   - [{{ Viktor Coldstone}}{{ 280}}](#p280)
+}}
+\page
+
+{{toc,wide
+# Contents
   - [{{ Sir Garrett Ironhelm}}{{ 281}}](#p281)
   - [{{ Sister Marian}}{{ 282}}](#p282)
   - [{{ Sister Mortua}}{{ 283}}](#p283)
@@ -363,11 +371,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
   - [{{ Aramil Starwarden}}{{ 297}}](#p297)
   - [{{ Master Aldrick Woodwise}}{{ 298}}](#p298)
   - [{{ Vault Guardian}}{{ 299}}](#p299)
-}}
 
-\page
-
-{{toc,wide
 - ### [{{ Part V: DM Tools}}{{ 300}}](#p300)
 - #### [{{ Chapter 9: Creating Custom Content}}{{ 300}}](#p300)
   - [{{ Creating Creatures}}{{ 300}}](#p300)
@@ -437,13 +441,6 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
   - [{{ Gemstone Values}}{{ 317}}](#p317)
   - [{{ Licensing & Attribution}}{{ 318}}](#p318)
 }}
-
-
-
-\page
-
-
-\page
 
 
 \page
@@ -7945,14 +7942,9 @@ The Forgebound Guild has shaped metal in the Ironspine Mountains for two thousan
 
 Rurik became Forge-Master at the young age of 95 (young for a dwarf), after his predecessor died in a forge accident that Rurik suspects was sabotage. He's spent the last century modernizing the Guild while preserving its traditions, a balance that requires constant negotiation between young innovators and ancient conservatives.
 
+\column
+
 His personal forge produces the finest work in Thaldros, and possibly the world. Kings pay fortunes for Rurik's personal touch, but he's more interested in craft than wealth. He dreams of creating a legendary artifact to rival those of the pre-Worldrend age, a masterwork that will ensure his name lives forever.
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
-
-<div class="col-img">![Forge-Master Rurik Ironanvil (Forgebound Guild)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-rurik-ironanvil.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Connections
 - **Guild:** Eight hundred smiths across multiple mountain forges
@@ -7970,7 +7962,7 @@ His personal forge produces the finest work in Thaldros, and possibly the world.
 5. **The Guild's Secret:** The Forgebound have a sealed vault containing weapons too dangerous to release. He knows what's inside.
 
 }}
-\column
+
 #### Plot Hooks
 1. **The Commission:** Offers to forge something extraordinary for the party if they retrieve a rare material.
 2. **The Murder Investigation:** Finally has a lead on his predecessor's killer. Needs discreet investigation.
@@ -7980,6 +7972,16 @@ His personal forge produces the finest work in Thaldros, and possibly the world.
 
 
 **Secret:** Discovered pre-Worldrend technique for forging. Creates items superior to modern methods. Teaching only trusted apprentices.
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+
+<div class="col-img">![Forge-Master Rurik Ironanvil (Forgebound Guild)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-forge-master-rurik-ironanvil.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+
+
 
 {{monster,frame
 ## Forge-Master Rurik Ironanvil (Forgebound Guild)
@@ -10549,16 +10551,9 @@ Can take 3 legendary actions, choosing from options below. Only one legendary ac
 - Can be protected innocent or become powerful leader
 - Her relationship with Zircon creates family drama and moral questions
 
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-
-\page
+\column
 
 ## Captain Brenna Frostbeard
-<div class="col-img">![Captain Brenna Frostbeard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-brenna-frostbeard.jpg){width:325px,mix-blend-mode:multiply}</div>
-
-#### Physical Description
-Weathered and tough (5'8", 160 lbs), built like someone who hauls nets and navigates treacherous ice daily. White-blonde hair in tight practical braids, showing gray at temples. Ice-blue eyes that constantly scan for danger. Face marked by frostbite scars and weather lines. Wears heavy seal-skin parka even indoors. Strong, calloused hands. Moves with sure-footed grace even on ice. Smells of fish, salt, and cold air.
 
 #### Equipment
 - **Armor:** Studded Leather (reinforced, cold-weather)
@@ -10569,7 +10564,16 @@ Weathered and tough (5'8", 160 lbs), built like someone who hauls nets and navig
 - **Boots:** Ice Cleats (advantage on ice terrain)
 - **Other:** Navigation tools, signal flags, emergency supplies
 
-\column
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
+
+<div class="col-img">![Captain Brenna Frostbeard](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-captain-brenna-frostbeard.jpg){width:325px,mix-blend-mode:multiply}</div>
+
+#### Physical Description
+Weathered and tough (5'8", 160 lbs), built like someone who hauls nets and navigates treacherous ice daily. White-blonde hair in tight practical braids, showing gray at temples. Ice-blue eyes that constantly scan for danger. Face marked by frostbite scars and weather lines. Wears heavy seal-skin parka even indoors. Strong, calloused hands. Moves with sure-footed grace even on ice. Smells of fish, salt, and cold air.
 
 #### Personality
 Traits
@@ -10583,7 +10587,7 @@ Traits
 - **Safety:** "The ice respects no one. Respect it back or die."
 - **Loyalty:** "My crews are family. Harm them and answer to me."
 - **Tradition:** "My great-grandfather taught me these waters. I honor his memory."
-
+\column
 **Bonds:**
 - Her fishing fleet and crews
 - Memory of her lost brother
@@ -10609,11 +10613,6 @@ Now forty, she's a legend among northern troops. Part commander, part force of n
 - **Command:** Eighty Winter Guard soldiers
 - **Superior:** Commander Kael Stormwatcher (respects but disagrees with)
 - **Ally:** The Frost Seer Eirlys (provides strategic intelligence)
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 - **Rival:** Warden Commander Thalia Moonbow (mutual professional respect)
 - **Enemy:** Frost Giant Jarl Grimtusk (personal vendetta)
   
@@ -10625,6 +10624,10 @@ Now forty, she's a legend among northern troops. Part commander, part force of n
 4. **The Command Disagreement:** Believes Stormwatcher's giant pacts are weakness. Would expose them if she had proof.
 5. **The Spirit's Price:** The frost spirit will eventually come to collect. She doesn't know what it wants.
 }}
+
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 #### Plot Hooks
 1. **The Vengeance Mission:** Ready to move against Grimtusk. Needs allies for the kill.
@@ -10714,7 +10717,6 @@ ___
 
 <div class="col-img">![The Frost Seer (Eirlys Snowsight)](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-the-frost-seer.jpg){width:325px,mix-blend-mode:multiply}</div>
 
-
 {{monster,frame
 ## The Frost Seer (Eirlys Snowsight)
 *Medium humanoid (human), neutral*
@@ -10748,9 +10750,9 @@ ___
 ***Frost-Touched.*** :: Resistant to cold damage. Immune to effects of natural cold weather.
 ***Prophetic Warnings.*** :: Always knows when storms or ice breaks are coming (24 hours advance warning minimum).
 ### Actions
-***Ice Staff.*** :: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. ***Hit.*** 1d6-1 bludgeoning damage plus 1d6 cold damage.::
+***Ice Staff.*** :: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. ***Hit.*** 1d6-1 bludgeoning damage plus 1d6 cold damage.
 ***Cast a Spell.*** :: Casts a prepared spell.
-***Prophetic Vision (Recharge 5-6).*** :: Touches a creature and shows them vision of possible future. Target must make DC 16 Wisdom save or be stunned until end of their next turn as they process the vision. Gain insight into current quest or danger.
+***Prophetic Vision (Recharge 5-6).*** :: Touch a creature and show them a vision of a possible future. Target must make DC 16 Wisdom save or be stunned until end of their next turn. Gain insight into current quest or danger.
 ### Reactions
 ***Portent Defense.*** :: Uses Portent die to change an attack roll against herself or ally within 30 ft.
 ***Shield.*** :: Casts Shield for +5 AC.
@@ -10828,11 +10830,6 @@ Ancient and weathered (5'5", 110 lbs), appearing far older than her 68 years. Ha
 - Lives in isolated lighthouse at Frostholm's edge
 - Reads prophecies in aurora borealis patterns
 - Eyes see into spirit world
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 - Never wrong about storms
 - Speaks in riddles and three-part phrases
 
@@ -10851,6 +10848,9 @@ Ancient and weathered (5'5", 110 lbs), appearing far older than her 68 years. Ha
 - Needs escort to ancient ice shrine for ritual
 - Frost Seer goes missing - community desperate
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
 
 {{descriptive
 #### Secrets (DM Only)
@@ -10868,11 +10868,7 @@ Ancient and weathered (5'5", 110 lbs), appearing far older than her 68 years. Ha
 4. **The Mortality Quest:** Seeking a way to extend her life or at least slow the freezing.
 5. **The Prevention Plan:** Shares her theory about stopping the catastrophe. Needs allies to execute it.
 
-\column
-
 ## Commander Torvald Stoneshield
-
-<div class="col-img">![Commander Torvald Stoneshield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-torvald-stoneshield.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Equipment
 - **Armor:** Mythril Plate +1 (runic engravings)
@@ -10888,12 +10884,9 @@ Torvald was born to a long line of soldiers, each serving in the mountain garris
 
 He took command of Stoneshield Keep at forty after distinguishing himself against orc raiders. For twenty years, he's maintained the most boring command in the Ironspines, which suits him perfectly. Boring means no deaths, no disasters, no families receiving terrible news. He's made boring into an art form.
 
-
-{{pageNumber,auto}}
-{{footnote Part IV: NPCs}}
-\page
-
 But the mountains are getting less boring. Patrols are finding tracks they can't identify, scouts are reporting lights in abandoned mines, and something killed a giant last month, something bigger than a giant. Torvald is preparing for war while hoping desperately it never comes.
+
+<div class="col-img">![Commander Torvald Stoneshield](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-commander-torvald-stoneshield.jpg){width:325px,mix-blend-mode:multiply}</div>
 
 #### Connections
 - **Command:** Two hundred garrison soldiers
@@ -10911,6 +10904,10 @@ But the mountains are getting less boring. Patrols are finding tracks they can't
 5. **The Retirement Dream:** Wants to retire and raise goats. Knows he never will while there's duty to serve.
 }}
 
+{{pageNumber,auto}}
+{{footnote Part IV: NPCs}}
+\page
+
 #### Plot Hooks
 1. **The Deep Exploration:** Needs volunteers to explore the tunnels shown on the map.
 2. **The Reinforcement Request:** Trying to get more troops. Needs evidence of the threat to convince superiors.
@@ -10918,7 +10915,7 @@ But the mountains are getting less boring. Patrols are finding tracks they can't
 4. **The Early Warning:** Something will emerge from the mines. Needs help preparing defenses.
 5. **The Honest Commander:** Simply needs capable people for difficult work. Offers fair pay and honest dealing.
 
-{{monster,frame
+{{monster,frame,wide
 ## Commander Torvald Stoneshield
 *Medium humanoid (dwarf), lawful good*
 ___
@@ -18535,7 +18532,7 @@ Tom has made several prophecies that have proven true:
 4. **His Parents:** They're not just in hiding. They're being hunted because they know something about his birth.
 5. **The Block:** Someone—or something—is blocking some of his visions. Whatever he's not seeing might be more important than what he is.
 }}
-\column
+
 #### Plot Hooks
 1. **Protect the Child:** Someone's trying to kidnap him. Standard protection mission with massive stakes.
 2. **Interpret the Vision:** He's had a vision about the party. They need to figure out what it means.
@@ -18547,7 +18544,7 @@ Tom has made several prophecies that have proven true:
 {{footnote Part IV: NPCs}}
 \page
 
-## Miscellaneous NPCs
+# Miscellaneous NPCs
 
 ## Marta Goodbarrel
 
@@ -21627,11 +21624,11 @@ Use these tables to quickly generate content during sessions without preparation
 
 **Tirvandor: Game Master's Guide — Secrets of the Sundered World** © 2026 Janky Games LLC. All rights reserved.
 
-This work includes material from the **System Reference Document 5.2 ("SRD 5.2")** by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2 is licensed under the **Creative Commons Attribution 4.0 International License ("CC-BY-4.0")**, available at https://creativecommons.org/licenses/by/4.0/legalcode.
+This work includes material from the **System Reference Document 5.1 ("SRD 5.1")** by Wizards of the Coast LLC, available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the **Creative Commons Attribution 4.0 International License ("CC-BY-4.0")**, available at https://creativecommons.org/licenses/by/4.0/legalcode.
 
-No changes to SRD 5.2 material are asserted beyond adaptation and integration into this work. This work is not published, endorsed, or specifically approved by Wizards of the Coast. Dungeons & Dragons, D&D, and their respective logos are trademarks of Wizards of the Coast LLC; no compatibility endorsement is claimed or implied.
+No changes to SRD 5.1 material are asserted beyond adaptation and integration into this work. This work is not published, endorsed, or specifically approved by Wizards of the Coast. Dungeons & Dragons, D&D, and their respective logos are trademarks of Wizards of the Coast LLC; no compatibility endorsement is claimed or implied.
 
-All content of this work other than material derived from the SRD 5.2 — including but not limited to the world of Tirvandor, its history, characters, locations, organizations, deities, storylines, artwork, and maps — is the original creation and exclusive property of the author, and is **not** licensed under CC-BY-4.0.
+All content of this work other than material derived from the SRD 5.1 — including but not limited to the world of Tirvandor, its history, characters, locations, organizations, deities, storylines, artwork, and maps — is the original creation and exclusive property of the author, and is **not** licensed under CC-BY-4.0.
 
 TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™, SHATTERED OATHS™, and BLOOD & COIN™ are trademarks of the author.
 }}
