@@ -5908,10 +5908,6 @@ extra 1d6 damage if you have advantage on the attack roll or if another enemy of
 
 They're respected in the Border towns for their effectiveness but feared for their brutality. Many are Iron Guild members.
 
-**In Campaigns:** ::
-- **Blood & Coin:** PERFECT - quintessential mercenary barbarian
-- **Shattered Oaths:** Good - former reaver turned hero or antagonist
-
 ## Path of Revolutionary Fury (Barbarian)
 
 *Aethorian freedom fighters who channel righteous rage against oppression and tyranny*
@@ -5967,19 +5963,17 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Philosophical Note:** These barbarians believe freedom is worth any price. Their rage isn't mindless: it's the righteous anger of those who refuse to live in chains. ::
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
-**In Campaigns:** ::
-- **Blood & Coin:** Good - revolutionary turned mercenary, or hired to fight oppressors
-- **Shattered Oaths:** EXCELLENT - perfect heroic revolutionary archetype
-
 ## College of Propaganda (Bard)
 
 *Masters of information warfare who wield words as weapons to shape public opinion and control narratives*
 
-Whether serving a state or a revolution, bards of the College of Propaganda understand that controlling information is as powerful as any spell. They are masters of spin, manipulation, and mass persuasion, capable of turning friend to foe and hero to villain with carefully chosen words.
+Whether serving a state or a revolution, bards of the College of Propaganda understand that controlling information is as powerful as any spell. They are masters of spin, manipulation, and mass persuasion, 
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
+capable of turning friend to foe and hero to villain with carefully chosen words.
 
 
 ### Bonus Proficiencies (3rd Level)
@@ -6035,16 +6029,12 @@ At 14th level, your words can spread like wildfire through a population. You gai
 **In Thaldros:** Propaganda bards are state-sponsored agents who control official narratives, suppress dissent, and shape public opinion in favor of the crown. They're well-paid but closely watched. ::
 **In Aethoria:** Propaganda bards are revolutionary orators who spread messages of freedom, counter Thaldros propaganda, and inspire resistance. They're celebrated as heroes of the people. ::
 **In the Border:** Some propaganda bards work as freelance spin doctors, selling their services to whoever pays. ::
+**Moral Ambiguity:** This college is morally neutral: it's a tool that can be used for good (inspiring freedom) or evil (justifying tyranny). The bard's alignment matters more than the college itself. ::
+
 
 {{pageNumber,auto}}
 {{footnote Custom SubClasses}}
 \page
-
-**Moral Ambiguity:** This college is morally neutral: it's a tool that can be used for good (inspiring freedom) or evil (justifying tyranny). The bard's alignment matters more than the college itself. ::
-
-**In Campaigns:** ::
-- **Blood & Coin:** EXCELLENT - hired to manage a client's reputation or spread disinformation
-- **Shattered Oaths:** Good - revolutionary propagandist or antagonist state agent
 
 ## College of the Iron Tongue (Bard)
 
@@ -6100,18 +6090,16 @@ Also at 6th level, your affiliation with the Iron Guild grants you special privi
 At 14th level, you become legendary in the world of negotiation and deal-making. You gain the following abilities:
 
 - **Legendary Negotiator:** When you roll initiative and aren't surprised, you can use your reaction to attempt to negotiate instead of fighting. Make a Charisma (Persuasion) check contested by the Wisdom (Insight) check of one creature that can hear and understand you. On a success, that creature and its allies will hear you out for 1 minute before combat begins. During this time, you can attempt to negotiate a peaceful resolution, bribe them, or convince them to leave.
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 - **Unbreakable Terms:** Contracts you create with Binding Contract become much more powerful:
   - Creatures that violate major terms take 4d10 psychic damage and suffer one level of exhaustion.
   - Creatures that violate minor terms take 2d10 psychic damage.
   - You can include a clause that teleports a creature to a designated location if they violate terms (the creature gets a Wisdom save to resist).
 
-- **Arbitrator's Authority:** You can cast *geas* once without expending a spell slot, but only as part of a negotiated agreement where all parties consent. Once you use this feature, you can't use it again until you finish a long rest.
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
+- **Arbitrator's Authority:** You can cast *geas* once without expending a spell slot, but only as part of a negotiated agreement where all parties consent. Once you use this feature, you can't use it again until you finish a long rest.
 
 ### New Spell: Iron Word
 *3rd-level enchantment*
@@ -6131,9 +6119,6 @@ You speak a binding word of enforcement. Choose one creature within range that y
 **Culture:** Iron Tongue bards are respected neutral parties in the mercenary world. They broker contracts between mercenaries and clients, mediate disputes between rival companies, and ensure deals are honored. Their magical enforcement makes them invaluable, and wealthy. ::
 **Reputation:** In the Border, an Iron Tongue bard's word is gold. They're trusted because breaking their contracts has severe magical consequences. Both Thaldros and Aethoria hire them for diplomatic missions when they need a guaranteed neutral party. ::
 **Philosophy:** "Every person has a price, and every problem has a solution, if the terms are right." ::
-**In Campaigns:** ::
-- **Blood & Coin:** PERFECT - THE mercenary support class, contract specialist
-- **Shattered Oaths:** Challenging but possible - neutral mediator in a world at war
 
 ## Ascended Champion Domain (Cleric)
 
@@ -6143,6 +6128,7 @@ The Ascended Champion domain represents the most devout combat clerics in Tirvan
 
 **When you choose this domain at 1st level, select one of the Seven Ascended to serve. Your choice determines your domain spells and Channel Divinity options.**
 
+\column
 
 ### Ascended Champion: General Features
 
@@ -6177,10 +6163,6 @@ Starting at 8th level, your devotion armors you against your foes. You gain resi
 
 At 17th level, you gain a powerful capstone ability specific to your chosen Ascended (see individual entries below).
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 ### The Seven Variants
 
 #### **1. Thandros the Lawbringer** (Law, Order, Justice)
@@ -6195,6 +6177,10 @@ At 17th level, you gain a powerful capstone ability specific to your chosen Asce
 | 9th | *dominate person*, *hold monster* |
 
 **Champion's Strike:** The extra damage is radiant damage, and the target must succeed on a Wisdom saving throw or be unable to take reactions until the start of your next turn.
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 **Channel Divinity: Voice of Law (2nd Level)**
 
@@ -6263,11 +6249,6 @@ Once you use this feature, you can't use it again until you finish a long rest.
 You can use your Channel Divinity to see strands of fate. As an action, you can touch a creature and learn the following information:
 - Its current emotional state and surface thoughts
 - Whether it intends harm to you or your allies in the next hour
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 - One major event in its past that shaped who it is today
 - A glimpse of one possible future event involving the creature (within 24 hours)
 
@@ -6280,6 +6261,11 @@ You can see danger before it strikes. When you or a creature within 30 feet of y
 As an action, you can grasp the threads of fate itself. For 1 minute, you gain the following benefits:
 - You can see all invisible creatures and objects within 60 feet.
 - You have truesight out to 60 feet.
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 - Before any creature within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction to give them advantage or disadvantage on the roll.
 - Your weapon attacks deal an extra 2d8 psychic damage.
 
@@ -6320,6 +6306,8 @@ As an action, you can embody Kael's wandering spirit. For 1 minute, you gain the
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
+\column
+
 #### **5. Sera the Healer** (Life, Healing, Mercy)
 
 **Domain Spells:**
@@ -6351,12 +6339,6 @@ As an action, you can embody Sera's healing light. For 1 minute, you gain the fo
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
-
 #### **6. Mordain the Sentinel** (Death, Honor, Duty)
 
 **Domain Spells:**
@@ -6369,6 +6351,10 @@ Once you use this feature, you can't use it again until you finish a long rest.
 | 9th | *antilife shell*, *raise dead* |
 
 **Champion's Strike:** The extra damage is necrotic damage, and you gain temporary hit points equal to half the necrotic damage dealt (rounded down).
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 **Channel Divinity: Sentinel's Vigil (2nd Level)**
 
@@ -6389,8 +6375,6 @@ As an action, you can embody Mordain's eternal vigil. For 1 minute, you gain the
 - Your weapon attacks deal an extra 2d8 necrotic damage
 
 Once you use this feature, you can't use it again until you finish a long rest.
-
----
 
 #### **7. Sylvara the Wild** (Nature, Beasts, Storms)
 
@@ -6435,17 +6419,12 @@ Once you use this feature, you can't use it again until you finish a long rest.
 **Origin:** Temples throughout Tirvandor, serving the Seven Ascended ::
 
 **Culture:** Ascended Champions are elite warrior-priests, representing the most devout combat clerics in the faith. They're respected as living embodiments of their deity's ideals. Each of the Seven has their champions, and they're often called upon when martial might and divine magic are both needed. ::
+**Selection:** Not every cleric of the Ascended becomes a Champion: it requires dedication to martial prowess as well as spiritual devotion. Many are former soldiers or paladins who took up the cloth. ::
+
 
 {{pageNumber,auto}}
 {{footnote Custom SubClasses}}
 \page
-
-**Selection:** Not every cleric of the Ascended becomes a Champion: it requires dedication to martial prowess as well as spiritual devotion. Many are former soldiers or paladins who took up the cloth. ::
-
-**In Campaigns:** ::
-- **Blood & Coin:** Good - mercenary priest, former chaplain, or hired divine warrior
-- **Shattered Oaths:** Excellent - chosen champion for heroic deeds
-
 
 ## War Chaplain Domain (Cleric)
 
@@ -6513,13 +6492,6 @@ At 17th level, your faith becomes an unbreakable shield for your allies. You gai
 
 **Philosophy:** War Chaplains believe that faith and fellowship in battle create unbreakable bonds. They're not pacifists, they understand that sometimes violence is necessary, but they honor the sacrifice of soldiers and try to minimize suffering. ::
 
-**In Campaigns:** ::
-- **Blood & Coin:** Excellent - mercenary chaplain, hired to keep soldiers alive
-- **Shattered Oaths:** Excellent - military chaplain for heroic army
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 ## Circle of the Contested Lands (Druid)
 
@@ -6531,6 +6503,10 @@ The frontier territories of western Thaldros have become a scarred, contested wi
 ### Circle Spells
 
 Your mystical connection to contested lands grants you access to certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells.
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
@@ -6547,11 +6523,6 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 When you choose this circle at 2nd level, you can adapt to any battlefield. You gain the following benefits:
 
 - **Terrain Sense:** You can spend 1 minute sensing your surroundings to detect the presence of military encampments, fortifications, or large groups of creatures (10+) within 1 mile. You learn their approximate direction and distance.
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 - **Scarred Beast Forms:** Your Wild Shape forms can reflect battlefield scars. When you use Wild Shape, you can choose to give your beast form one of the following traits:
   - **Battle-Scarred:** Gain temporary hit points equal to your druid level
   - **War-Wise:** Advantage on initiative rolls and can't be surprised
@@ -6591,7 +6562,6 @@ At 14th level, you become the ultimate defender of contested lands. You gain the
 
 - **War's End:** When you drop to 0 hit points in Wild Shape form, you can choose to have the beast form explode in a burst of primal fury. Each creature within 10 feet must make a Dexterity saving throw, taking 4d10 force damage on a failed save or half as much on a success. You then revert to your normal form.
 
-
 ### Tirvandor Context
 
 **Origin:** Border wilderness, contested zones ::
@@ -6600,9 +6570,6 @@ At 14th level, you become the ultimate defender of contested lands. You gain the
 
 **Philosophy:** "Nature endures. Empires fall. We remain." ::
 
-**In Campaigns:** ::
-- **Blood & Coin:** Good - neutral wilderness guide, hired protector
-- **Shattered Oaths:** Good - protector of sacred groves in war zones
 
 ## Circle of the Ascended Wild (Druid)
 
@@ -6610,6 +6577,9 @@ At 14th level, you become the ultimate defender of contested lands. You gain the
 
 While most druids honor nature generally, some dedicate themselves specifically to Sylvara the Wild, the most primal of the Seven Ascended. These druids embody her storm-touched fury and wild beauty, becoming avatars of nature's raw power.
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ### Circle Spells
 
@@ -6622,9 +6592,6 @@ Your connection to Sylvara grants you access to certain spells.
 | 7th | *ice storm*, *conjure woodland beings* |
 | 9th | *commune with nature*, *wrath of nature* |
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 ### Sylvara's Blessing (2nd Level)
 
 When you choose this circle at 2nd level, Sylvara grants you her wild blessing. You gain the following benefits:
@@ -6655,8 +6622,6 @@ Starting at 6th level, you embody Sylvara's storm-nature. You gain the following
 
 - **Weather Sense:** You always know what the weather will be for the next 24 hours. You can cast *fog cloud* and *gust of wind* at will without expending spell slots.
 
-\column
-
 ### Sylvara's Avatar (10th Level)
 
 At 10th level, you can briefly become an avatar of the Wild. As an action, you transform for 1 minute, gaining the following benefits:
@@ -6678,7 +6643,6 @@ At 14th level, you become the ultimate servant of Sylvara. You gain the followin
 
 - **Sylvara's Champion:** You have advantage on saving throws against spells and magical effects. Beasts never willingly attack you.
 
-
 ### Tirvandor Context
 
 **Origin:** Sacred groves dedicated to Sylvara, wild places ::
@@ -6687,14 +6651,6 @@ At 14th level, you become the ultimate servant of Sylvara. You gain the followin
 
 **Philosophy:** "The Wild is not gentle. Sylvara is not kind. We are her storm." ::
 
-**In Campaigns:** ::
-- **Blood & Coin:** Challenging - anti-civilization can conflict with urban jobs
-- **Shattered Oaths:** Good - primal champion against corrupting forces
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 **Ascended Wild:** ::
 - Sylvara's Blessing provides expanded beast options and resistance
 - Channel Divinity gives druids more martial options
@@ -6702,6 +6658,10 @@ At 14th level, you become the ultimate servant of Sylvara. You gain the followin
 - Primal Embodiment is a powerful capstone
 
 Both provide unique druid experiences tied to Tirvandor!
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ## Iron Guild Veteran (Fighter)
 
@@ -6753,7 +6713,6 @@ At 15th level, you've become a legendary mercenary. You gain the following benef
 
 - **Never Outnumbered:** When you're surrounded by enemies (at least 3 hostile creatures within 5 feet), you have advantage on attack rolls and add +2 to AC.
 
-
 ### Iron Guild Techniques (18th Level)
 
 At 18th level, you've mastered the Iron Guild's advanced techniques:
@@ -6762,9 +6721,6 @@ At 18th level, you've mastered the Iron Guild's advanced techniques:
 
 - **Professional's Endurance:** You regain 5 hit points at the start of your turn if you have no more than half your hit points remaining.
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 ### Tirvandor Context
 
@@ -6772,9 +6728,9 @@ At 18th level, you've mastered the Iron Guild's advanced techniques:
 
 **Culture:** Iron Guild Veterans are elite soldiers-for-hire, commanding top rates and loyalty to contracts above all else. They're respected professionals in the Border, feared combatants in both nations.
 
-**In Campaigns:** ::
-- **Blood & Coin:** PERFECT - THE quintessential mercenary fighter
-- **Shattered Oaths:** Good - mercenary turned hero
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ## Royal Guard (Fighter)
 
@@ -6831,7 +6787,6 @@ At 15th level, you become the ultimate protector:
 
 - **Guardian's Resolve:** You have advantage on death saving throws. When you're reduced to 0 hit points, you can choose to remain conscious and continue fighting. You automatically fail death saving throws but can still take actions normally. At the start of your turn, you take 1d10 necrotic damage. This effect ends when you regain any hit points. Once you use this feature, you can't use it again until you finish a long rest.
 
-
 ### Champion of Thaldros (18th Level)
 
 At 18th level, you become a legendary guardian:
@@ -6841,10 +6796,6 @@ At 18th level, you become a legendary guardian:
 - **Unbreakable Will:** You can't be charmed or frightened. Allies within 10 feet have advantage on saves against being charmed or frightened.
 
 - **Royal Authority:** As an action, you can issue a royal command. Each creature of your choice within 30 feet that can hear you must succeed on a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier) or be charmed by you for 1 minute or until you or your allies harm it. While charmed, it regards you as a legitimate authority figure. Once you use this feature, you can't use it again until you finish a long rest.
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 ### Tirvandor Context
 
@@ -6856,9 +6807,9 @@ At 18th level, you become a legendary guardian:
 
 **Moral Complexity:** Royal Guards can be heroic defenders or tools of tyranny. It depends on who they serve and what they're ordered to do. ::
 
-**In Campaigns:** ::
-- **Blood & Coin:** Good - former Royal Guard turned mercenary
-- **Shattered Oaths:** Complex - could be antagonist or defector seeking redemption
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ## Way of the Broken Chain (Monk)
 
@@ -6893,6 +6844,7 @@ At 11th level, you can turn your oppressor's weapons against them. When you hit 
 
 Additionally, you can spend 2 ki points to cast *dispel magic*.
 
+\column
 
 ### Avatar of Freedom (17th Level)
 
@@ -6901,12 +6853,7 @@ At 17th level, you become the ultimate liberator. You gain the following benefit
 - **Unbreakable:** You are immune to being charmed, frightened, paralyzed, or stunned. You can move through solid objects as if they were difficult terrain (taking 1d10 force damage if you end your turn inside an object).
 
 - **Mass Liberation:** As an action, you can spend 5 ki points to release a wave of liberating energy. All creatures of your choice within 30 feet immediately end all conditions affecting them (charmed, frightened, grappled, paralyzed, restrained, or stunned), and all restraints (magical or nonmagical) break.
-
 - **Freedom's Champion:** Once per turn when you hit with an unarmed strike, you deal an extra 1d10 force damage if the target is an authority figure, slaver, jailer, or tyrant (DM's discretion).
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 ### Tirvandor Context
 
@@ -6932,6 +6879,10 @@ Not all monks seek enlightenment, some seek gold. Monks of the Coin are pragmati
 When you choose this tradition at 3rd level, you learn to blend commerce with combat. You gain the following benefits:
 
 - **Professional's Focus:** When you begin combat, you can designate one creature as your contract target. You deal an extra 1d6 damage to that target with your unarmed strikes and monk weapons. This lasts until the target drops to 0 hit points or combat ends.
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 - **Coin-Fueled Ki:** Whenever you spend at least 100 gp on yourself (equipment, training, luxuries, etc.) during downtime, you gain 1 additional ki point that lasts until expended or until you finish a long rest (maximum +3 ki points from this feature).
 
@@ -6979,14 +6930,6 @@ At 17th level, you become a legendary mercenary monk:
 
 **Philosophy:** "Enlightenment doesn't pay the bills. Excellence does." ::
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
-**In Campaigns:** ::
-- **Blood & Coin:** PERFECT - quintessential mercenary monk
-- **Shattered Oaths:** Challenging - requires character growth from mercenary to hero
-
 ## Oath of the Iron Crown (Paladin)
 
 *Paladins who serve Thaldros, enforcing law, order, and the king's will through strength*
@@ -7018,6 +6961,10 @@ You gain oath spells at the paladin levels listed.
 | 13th | *banishment*, *compulsion* |
 | 17th | *dominate person*, *hold monster* |
 
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 #### Channel Divinity: Voice of the Crown (3rd Level)
 
@@ -7053,11 +7000,6 @@ At 20th level, you can assume the mantle of ultimate authority. As an action, yo
 - You emanate a 30-foot aura. Enemies in the aura have disadvantage on attack rolls and ability checks.
 - You have advantage on all Charisma checks and saving throws.
 - When an enemy in your aura makes an attack roll, ability check, or saving throw, you can use your reaction to impose disadvantage on the roll (no limit).
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 - You can cast *command* at will without expending spell slots.
 
 Once you use this feature, you can't use it again until you finish a long rest.
@@ -7076,10 +7018,6 @@ Once you use this feature, you can't use it again until you finish a long rest.
 - Hunt escaped slaves as "lawbreakers"
 
 **The oath doesn't fall for enforcing unjust laws: it's about order vs chaos, not good vs evil.**
-
-**In Campaigns:** ::
-- **Blood & Coin:** Complex - former Iron Crown turned mercenary, questioning their oath
-- **Shattered Oaths:** EXCELLENT - perfect antagonist OR defector seeking redemption
 
 ## Oath of Liberty (Paladin)
 
@@ -7119,6 +7057,10 @@ When you take this oath at 3rd level, you gain the following Channel Divinity op
 
 **Break the Chains:** As an action, you can use your Channel Divinity to free yourself and allies. Each creature of your choice within 30 feet immediately ends all conditions affecting them (charmed, frightened, grappled, paralyzed, petrified, or restrained). Additionally, all restraints (magical or nonmagical) within the area break.
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 **Champion of the Oppressed:** As a bonus action, you can use your Channel Divinity to become a beacon of hope. For 1 minute, you and allies within 10 feet have advantage on saves against being charmed or frightened, and you all gain temporary hit points equal to your Charisma modifier + your paladin level (minimum 1) at the start of your turn.
 
 
@@ -7143,11 +7085,6 @@ At 20th level, you become the ultimate symbol of freedom. As an action, you tran
 - You emanate bright light in a 30-foot radius and dim light 30 feet beyond that.
 - You and allies in the bright light have resistance to all damage and advantage on all saves.
 - At the start of each of your turns, all conditions (charmed, frightened, paralyzed, etc.) end on you and allies in the bright light.
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 - When a creature starts its turn in the bright light, you can use your reaction to either heal it for 2d10 hit points or deal 2d10 radiant damage to it.
 - Your weapon attacks deal an extra 2d8 radiant damage.
 
@@ -7163,10 +7100,6 @@ Once you use this feature, you can't use it again until you finish a long rest.
 **In Thaldros:** They're hunted as terrorists and traitors. Bounties on Liberty paladins are enormous. ::
 
 **Philosophy:** "Every chain broken is a victory. Every freed soul is sacred. Every tyrant defeated is justice." ::
-
-**In Campaigns:** ::
-- **Blood & Coin:** Good - mercenary who fights for freedom (conflicted about payment)
-- **Shattered Oaths:** PERFECT - THE heroic paladin archetype for this campaign
 
 ## Border Warden (Ranger)
 
@@ -7211,23 +7144,18 @@ At 11th level, the Border's wilderness protects you. While in natural terrain, y
 
 At 15th level, you become the ultimate Border guardian. You can cast *commune with nature* at will. Once per long rest, you can summon the Border's fury, all hostile creatures within 60 feet take 4d10 force damage and must succeed on a Strength save or be knocked prone.
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 ### Tirvandor Context
 
 **Origin:** Independent frontier scouts, Border militia, wilderness guides ::
 
 **Culture:** Border Wardens are the true neutrals of the contested lands: rangers who protect the frontier itself 
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 rather than any nation. They're respected by both Thaldros and Aethoria as skilled guides and feared as implacable defenders of Border independence. Many work for the Iron Guild as scouts and trackers.
 
 **Philosophy:** "The Border doesn't belong to kings or councils. We protect the land and its people, all of them." ::
-
-**In Campaigns:** ::
-- **Blood & Coin:** EXCELLENT - perfect neutral ranger for mercenary work
-- **Shattered Oaths:** Good - defender of the innocent, could be recruited to the cause
 
 ## People's Scout (Ranger)
 
@@ -7265,6 +7193,8 @@ At 7th level, you can disappear when danger strikes. As a bonus action, you beco
 
 At 11th level, you inspire resistance. Allies within 30 feet have advantage on saves against being frightened. As a bonus action, you can grant one ally advantage on their next attack roll or save.
 
+\column
+
 ### Master Saboteur (15th Level)
 
 At 15th level, your sabotage becomes devastating. Your traps deal 4d10 damage. Once per long rest, you can spend 1 hour to sabotage a structure or vehicle: it collapses or breaks within 1d4 hours. You have advantage on all Dexterity (Stealth) checks.
@@ -7277,14 +7207,6 @@ At 15th level, your sabotage becomes devastating. Your traps deal 4d10 damage. O
 
 **Philosophy:** "The land belongs to those who defend it. Strike fast, vanish faster, and let the wilderness swallow our enemies." ::
 
-**In Campaigns:** ::
-- **Blood & Coin:** Challenging - strong political ties make neutrality difficult
-- **Shattered Oaths:** PERFECT - quintessential resistance fighter archetype
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 ## State Inquisitor (Rogue)
 *Thaldros secret police and ruthless investigators*
 
@@ -7295,7 +7217,6 @@ State Inquisitors are Thaldros's intelligence agents, investigators, interrogato
 At 3rd level, you gain proficiency in Insight and Intimidation. Your proficiency bonus is doubled for these skills. You can use Sneak Attack with melee attacks against frightened or restrained creatures.
 
 **Extract Information:** You have advantage on Charisma (Intimidation) checks during interrogations. You automatically detect when someone tells an obvious lie.
-
 
 ### Fearsome Presence (3rd Level)
 
@@ -7311,6 +7232,9 @@ At 9th level, you're a master investigator. You can cast *detect thoughts* at wi
 
 At 13th level, you read people instantly. You have advantage on Insight checks. You can spend 1 minute observing someone to learn their surface emotions, intentions, and one secret (DM's choice).
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ### Master Inquisitor (17th Level)
 
@@ -7323,10 +7247,6 @@ At 17th level, you become legendary. You can cast *modify memory* once per long 
 **Culture:** State Inquisitors are the feared arm of Thaldros law enforcement. They investigate sedition, root out spies, and ensure loyalty to the crown. In Thaldros, they're respected (and feared) as protectors of order. In Aethoria, they're despised as oppressors and torturers. In the Border, they operate covertly, hunting enemies of the state. ::
 
 **Philosophy:** "Order requires vigilance. The crown's enemies hide among us. I find them." ::
-
-**In Campaigns:** ::
-- **Blood & Coin:** Good - investigating crimes, rooting out threats (morally complex)
-- **Shattered Oaths:** Challenging - would need to defect or be a double agent
 
 ## Shadow Broker (Rogue)
 
@@ -7361,9 +7281,6 @@ At 13th level, you control information flow. You can cast *scrying* once per lon
 
 At 17th level, you know everything. You can cast *legend lore* once per long rest without components. Your information network is legendary, in any settlement, you can contact your network to learn almost any information (DM discretion). Your Sneak Attack deals an extra 2d6 damage when you have information about your target.
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 ### Tirvandor Context
 
@@ -7372,10 +7289,6 @@ At 17th level, you know everything. You can cast *legend lore* once per long res
 **Culture:** Shadow Brokers are the information merchants of the contested lands. They sell secrets to anyone who pays. Thaldros, Aethoria, or independents. They're respected and feared in equal measure; everyone knows a Shadow Broker might know their secrets, but everyone also needs what they sell. ::
 
 **Philosophy:** "Information is the only currency that matters. Everyone has secrets; everyone needs secrets. I'm just the middleman." ::
-
-**In Campaigns:** ::
-- **Blood & Coin:** PERFECT - ideal morally gray information dealer
-- **Shattered Oaths:** Good - can be recruited to the cause but loyalties are always suspect
 
 ## Warborn Bloodline (Sorcerer)
 *Sorcerers born from magical warfare, wielding chaotic combat magic*
@@ -7405,6 +7318,9 @@ At 6th level, your magic is unpredictable. When you cast a spell of 1st level or
 
 At 14th level, magic protects you in battle. When you cast a spell, you gain temporary hit points equal to the spell's level. You have resistance to damage from spells.
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ### Avatar of War (18th Level)
 
@@ -7421,14 +7337,6 @@ At 18th level, you become a magical weapon. Once per long rest, transform for 1 
 **Culture:** Warborn sorcerers emerged from Tirvandor's endless conflicts: born during battles where magic went wild or near ley line eruptions. They're valued for their raw destructive power but feared for their volatility. Many serve as battle mages for hire; others struggle to control power they never asked for. ::
 
 **Philosophy:** "War gave me this power. War is all I've ever known. At least now I can fight back." ::
-
-**In Campaigns:** ::
-- **Blood & Coin:** EXCELLENT - perfect mercenary battle mage
-- **Shattered Oaths:** Good - powerful ally, potential redemption arc from violence
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 ## Ascended-touched (Sorcerer)
 
@@ -7451,7 +7359,6 @@ At 6th level, your Ascended grants power. You can spend 2 sorcery points to cast
 
 At 14th level, divine power shields you. You have advantage on death saving throws. When you drop to 0 hit points, you can use your reaction and spend 5 sorcery points to instead drop to 1 hit point. Once you use this, you can't use it again until you finish a long rest.
 
-
 ### Ascended Avatar (18th Level)
 
 At 18th level, you channel your Ascended. Once per long rest, for 1 minute:
@@ -7468,9 +7375,6 @@ At 18th level, you channel your Ascended. Once per long rest, for 1 minute:
 
 **Philosophy:** "The Ascended chose me. Whether blessing or burden, this power serves a purpose beyond my understanding." ::
 
-**In Campaigns:** ::
-- **Blood & Coin:** Good - divine power in a morally gray world creates interesting tension
-- **Shattered Oaths:** EXCELLENT - chosen one narrative, divine destiny
 
 ## Pact of the Forgotten Throne (Warlock)
 *Warlocks who made pacts with ancient fallen royalty of Tirvandor*
@@ -7495,10 +7399,6 @@ You gain proficiency in History and Persuasion. You can add your Charisma modifi
 
 **Crown's Command:** You can cast *command* at will without expending a spell slot.
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 ### Ancient Knowledge (6th Level)
 
 At 6th level, your patron shares lost knowledge. You can cast *speak with dead* at will. You can spend 10 minutes communing with your patron to learn one historical fact about a location, object, or person.
@@ -7508,6 +7408,9 @@ At 6th level, your patron shares lost knowledge. You can cast *speak with dead* 
 
 At 10th level, you can summon spectral courtiers. As an action, summon 1d4+1 ghosts of ancient nobles. They have ghost statistics but serve you for 1 hour. Once per long rest.
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ### Throne of Ages (14th Level)
 
@@ -7552,7 +7455,6 @@ You gain proficiency in Intimidation and medium armor. When you enter combat, ga
 
 **Feed on Violence:** When you see a creature drop to 0 hit points within 60 feet, you gain 1d6 temporary hit points.
 
-
 ### War Sight (6th Level)
 
 At 6th level, you sense conflict. You have advantage on initiative. As an action, you can sense all combat within 1 mile (direction and intensity). You have advantage on attack rolls against creatures at half HP or less.
@@ -7579,14 +7481,6 @@ At 14th level, you thrive in battle. Once per long rest, for 1 minute:
 
 **Philosophy:** "War never ends. My patron ensures that. I just make sure I'm on the winning side: whichever side that is today." ::
 
-**In Campaigns:** ::
-- **Blood & Coin:** PERFECT - morally compromised, profit-driven, perfect fit
-- **Shattered Oaths:** Challenging - would need strong redemption arc
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 ## School of the Iron Legion (Wizard)
 
 *Thaldros military battle mages who march with the Iron Legion, blending disciplined spellcraft with the endurance to survive a battlefield*
@@ -7601,7 +7495,13 @@ When you choose this tradition at 2nd level, your military training reshapes you
 
 ### Warding Reflex (2nd Level)
 
-Also at 2nd level, you can raise a ward in the instant before harm reaches you. When you are hit by an attack or fail a saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack (potentially causing it to miss), or to reroll that saving throw with advantage.
+Also at 2nd level, you can raise a ward in the instant before harm reaches you. When you are hit by an attack or fail a saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack (potentially 
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
+causing it to miss), or to reroll that saving throw with advantage.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
@@ -7630,10 +7530,6 @@ In addition, when you have no uses of Warding Reflex remaining, you can use it a
 
 **Philosophy:** "Theory means nothing if you're dead. Survive first, innovate later. A living wizard learns; a dead one doesn't." ::
 
-**In Campaigns:** ::
-- **Blood & Coin:** EXCELLENT - practical battle mage, mercenary spellcaster
-- **Shattered Oaths:** Good - tactical magic supporting heroic efforts
-
 ## School of Innovation (Wizard)
 
 *Aethorian experimental mages pushing magical boundaries*
@@ -7661,10 +7557,6 @@ Also at 2nd level, the number of spells you can prepare each day increases by on
 
 At 6th level, create temporary spells. During a long rest, create one custom spell (work with DM on effects, level, and balance). The spell lasts until you create a new one.
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 ### Arcane Breakthrough (10th Level)
 
 At 10th level, your innovations become powerful. When you use Experimental Magic, you can choose two modifications instead of one.
@@ -7687,9 +7579,6 @@ At 14th level, you break magical limits. Once per long rest, cast a spell and:
 **Philosophy:** "Magic isn't meant to be static. Every spell we cast today was once impossible. Tomorrow's magic is waiting to be discovered." ::
 
 
-**In Campaigns:** ::
-- **Blood & Coin:** Good - experimental magic for hire, creating custom solutions
-- **Shattered Oaths:** EXCELLENT - innovative magic supporting the revolution
 
 \column
 
@@ -7697,7 +7586,7 @@ At 14th level, you break magical limits. Once per long rest, cast a spell and:
 {{footnote Custom SubClasses}}
 \page
 
-![Spells Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-spells.png){position:absolute,bottom:0,right:0,width:100%,mix-blend-mode:multiply}
+![Spells Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-spells.png){position:absolute,bottom:40px,right:0,width:100%,mix-blend-mode:multiply}
 
 # Chapter 8: Tirvandor Custom Spells
 
@@ -8033,6 +7922,8 @@ Additionally, you have advantage on Constitution saving throws to maintain conce
 ### Way of the Broken Chain (Monk)
 - Chain Breaker (3rd)
 
+\column
+
 ### Oath of the Iron Crown (Paladin)
 - Voice of Authority (2nd)
 
@@ -8099,7 +7990,7 @@ Additionally, you have advantage on Constitution saving throws to maintain conce
 - You can learn them when you gain bard levels
 - They count as bard spells for you
 
-![end-classes-chapter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-spells-end.png){position:absolute,bottom:30px,left:0,width:100%,mix-blend-mode:multiply}
+![end-classes-chapter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-spells-end.png){position:absolute,bottom:90px,left:0,width:100%,mix-blend-mode:multiply}
 
 {{pageNumber,auto}}
 {{footnote Custom Spells}}
@@ -8183,6 +8074,11 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 - Its weight increases by a factor of ten, and it ceases aging
 - The creature is incapacitated, can't move or speak, and is unaware of its surroundings
 - Attack rolls against the creature have advantage
+
+{{pageNumber,auto}}
+{{footnote Appendix A: Conditions}}
+\page
+
 - The creature automatically fails Strength and Dexterity saving throws
 - The creature has resistance to all damage
 - The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized
@@ -8203,18 +8099,14 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 - Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage
 - The creature has disadvantage on Dexterity saving throws
 
-{{pageNumber,auto}}
-{{footnote Appendix A: Conditions}}
-\page
 
-![Conditions Appendix Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-appendix-conditions.png){position:absolute,bottom:0,left:0,width:100%,mix-blend-mode:multiply}
+![Conditions Appendix Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-appendix-conditions.png){position:absolute,bottom:50px,left:270px,width:80%,mix-blend-mode:multiply}
+\column
 ## Stunned
 
 - A stunned creature is incapacitated, can't move, and can speak only falteringly
 - The creature automatically fails Strength and Dexterity saving throws
 - Attack rolls against the creature have advantage
-
-\column
 
 ## Unconscious
 
@@ -8228,7 +8120,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 {{footnote Appendix A: Conditions}}
 \page
 
-![World Primer Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-appendix-world-primer.png){position:absolute,bottom:0,right:0,width:380px,mix-blend-mode:multiply}
+![World Primer Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-appendix-world-primer.png){position:absolute,bottom:50px,right:50px,width:43%,mix-blend-mode:multiply}
 
 # Appendix B: World Primer
 :
@@ -8563,7 +8455,7 @@ Sera is the most universally beloved of the Seven. Her temples serve as hospital
 {{pageNumber,auto}}
 {{footnote Appendix C: The Pantheon}}
 \page
-![Pantheon Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-appendix-pantheon.png){position:absolute,bottom:-130px,right:0,width:380px,mix-blend-mode:multiply}
+![Pantheon Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-appendix-pantheon.png){position:absolute,bottom:30px,right:80px,width:42%,mix-blend-mode:multiply}
 
 ### Mordain, the Sentinel
 
@@ -8617,6 +8509,8 @@ Beyond the Seven Ascended, regional deities are worshipped in specific areas:
 **The Seas:** ::
 - **Kalythra the Stormmother**: Sea, Storms, Freedom
 - **Tharivol the Many-Faced**: Change, Luck, Adaptation
+
+\column
 
 ## The Ancient Primordials
 
@@ -9270,12 +9164,14 @@ If You are contributing original material as Open Game Content, You represent th
 
 You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.
 
+### 7. Use of Product Identity
+
+You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement 
+
 {{pageNumber,auto}}
 \page
 
-### 7. Use of Product Identity
-
-You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
+with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
 
 ### 8. Identification
 
@@ -9292,6 +9188,8 @@ You MUST include a copy of this License with every copy of the Open Game Content
 ### 11. Use of Contributor Credits
 
 You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
+
+\column
 
 ### 12. Inability to Comply
 
@@ -9313,15 +9211,6 @@ If any provision of this License is held to be unenforceable, such provision sha
 
 ## End of License
 
-{{padding-top:750px}}
-{{homebreweryCredits
-Made With
-
-{{homebreweryIcon}}
-
-The Homebrewery  
-[Homebrewery.Naturalcrit.com](https://homebrewery.naturalcrit.com)
-}}
 
 {{pageNumber,auto}}
 \page
