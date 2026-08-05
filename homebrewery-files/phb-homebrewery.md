@@ -1690,7 +1690,7 @@ You have advantage on Dexterity saving throws against effects that you can see, 
 ### **Primal Path (3rd Level)**
 
 At 3rd level, you choose a path that shapes the nature of your rage. The Path of the Berserker is detailed below. Additional primal paths such as the Path of the Totem Warrior can be found in the *Player's Handbook*. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
-
+\column
 ### **Ability Score Improvement (4th, 8th, 12th, 16th, 19th)**
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -2337,7 +2337,7 @@ Starting at 14th level, when you make an ability check, you can expend one use o
 
 - **Shattered Oaths:** Excellent (inspiring heroes, rallying troops)
 
-![Cleric Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-cleric.png){position:absolute,top:110px,right:-100px,width:75%,mix-blend-mode:multiply}
+![Cleric Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-cleric.png){position:absolute,top:139px,right:-70px,width:69%,mix-blend-mode:multiply}
 ## Cleric
 
 *A priestly champion who wields divine magic in service of a higher power*
@@ -2482,7 +2482,7 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 | 11th | 2 or lower |
 | 14th | 3 or lower |
 | 17th | 4 or lower |
-
+\column
 ### **Divine Intervention (10th Level)**
 
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
@@ -2570,7 +2570,7 @@ In Tirvandor, clerics serve one of the Seven Ascended (see Appendix C):
 
 ## Druid
 
-![Druid Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-druid.png){position:absolute,top:130px,right:-150px,width:75%,mix-blend-mode:multiply}
+![Druid Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-druid.png){position:absolute,top:115px,right:-150px,width:71%,mix-blend-mode:multiply}
 
 *A priest of nature who wields primal magic and can take the form of beasts*
 
@@ -2848,7 +2848,7 @@ The creature is aware of this effect before it makes its attack against you.
 
 <div style="margin-left:25px">
 
-![Monk Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-monk.png){position:absolute,top:255px,left:-100px,width:70%,mix-blend-mode:multiply}
+![Monk Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-monk.png){position:absolute,top:245px,left:-50px,width:63%,mix-blend-mode:multiply}
 
 *A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection*
 
@@ -3072,6 +3072,8 @@ You can have only one creature under the effect of this feature at a time. You c
 - Located in northern mountain ranges
 - Accept students rarely and only after trials
 
+\column
+
 **In Tirvandor:** ::
 - **Thaldros:** Rare, viewed with suspicion (foreign martial arts)
 - **Aethoria:** Rare, respected as philosophers and warriors
@@ -3116,7 +3118,7 @@ You start with the following equipment:
 \page
 
 
-![Paladin Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-paladin.png){position:absolute,top:160px,right:-160px,width:75%,mix-blend-mode:multiply}
+![Paladin Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-paladin.png){position:absolute,top:150px,right:-160px,width:72%,mix-blend-mode:multiply}
 
 
 ### **The Paladin Table**
@@ -3361,7 +3363,7 @@ Paladins in Tirvandor swear oaths inspired by (but not directly to) the Ascended
 
 ## Ranger
 
-![Ranger Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-ranger.png){position:absolute,bottom:0px,right:-100px,width:55%,mix-blend-mode:multiply}
+![Ranger Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-ranger.png){position:absolute,bottom:50px,right:-60px,width:55%,mix-blend-mode:multiply}
 
 *A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization*
 
@@ -3620,7 +3622,7 @@ At 15th level, you gain one of the following features of your choice.
 
 ## Sorcerer
 
-![Sorcerer Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-sorcerer.png){position:absolute,top:10px,right:-10px,width:55%,mix-blend-mode:multiply}
+![Sorcerer Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-sorcerer.png){position:absolute,top:0px,right:-10px,width:53%,mix-blend-mode:multiply}
 
 *A spellcaster who draws on inherent magic from a gift or bloodline*
 
@@ -3809,6 +3811,8 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 
 Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
 
+\column
+
 **Dragon Ancestor (1st Level)**
 
 At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
@@ -3872,7 +3876,7 @@ fear) until the aura ends. A creature that succeeds on this saving throw is immu
 - Can be unstable and unpredictable
 - Some fear sorcerers, others revere them
 
-{{padding-top:340px}}
+{{padding-top:360px}}
 
 **In Tirvandor:** ::
 - **Thaldros:** Must register with authorities, closely monitored (fear of uncontrolled power)
@@ -3885,7 +3889,7 @@ fear) until the aura ends. A creature that succeeds on this saving throw is immu
 \column
 ## Warlock
 
-![Warlock Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-warlock.png){position:absolute,top:400px,right:50px,width:75%,mix-blend-mode:multiply}
+![Warlock Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-warlock.png){position:absolute,top:420px,right:90px,width:70%,mix-blend-mode:multiply}
 
 *A wielder of magic that is derived from a bargain with an extraplanar entity*
 
@@ -4115,7 +4119,7 @@ All patron types exist but are controversial:
 
 ## Wizard
 
-![Wizard Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-wizard.png){position:absolute,top:50px,right:-150px,width:75%,mix-blend-mode:multiply}
+![Wizard Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-class-wizard.png){position:absolute,top:50px,right:-130px,width:70%,mix-blend-mode:multiply}
 
 *A scholarly magic-user capable of manipulating the structures of reality*
 
@@ -4243,7 +4247,7 @@ If you lose your spellbook, you can use the same procedure to transcribe the spe
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
 For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
-
+\column
 ### **Arcane Tradition (2nd Level)**
 
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools, such as Evocation.
@@ -4309,6 +4313,8 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
   - Magic use closely monitored
   - Focuses on practical applications for the kingdom
 
+\column
+
 - **Aethoria:**
   - **Multiple competing schools and universities**
   - Free study and experimentation encouraged
@@ -4321,6 +4327,7 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
   - Self-taught wizards
   - Traveling scholars
   - No formal regulation
+
 
 **The Eight Schools of Magic:** ::
 
@@ -4355,7 +4362,7 @@ All eight schools exist in Tirvandor academies:
 {{footnote Classes}}
 \page
 
-![Backgrounds Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-backgrounds.png){position:absolute,bottom:0,left:0,width:380px,mix-blend-mode:multiply}
+![Backgrounds Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-backgrounds.png){position:absolute,bottom:53px,left:30px,width:380px,mix-blend-mode:multiply}
 
 # Chapter 4: Personality & Background
 
@@ -5229,6 +5236,8 @@ You served as a guardian and protector of a temple dedicated to one of the Seven
 **Languages:** One of your choice (often Celestial) ::
 **Equipment:** A holy symbol of your deity, a set of common clothes, a set of traveler's clothes suitable for guard duty, temple insignia, and a belt pouch containing 10 gp ::
 
+\column
+
 #### Feature: Temple Shelter
 
 Temples and shrines dedicated to your deity will offer you shelter, food, and basic healing. You can also request temporary sanctuary from the faithful, and clergy will generally vouch for your good character. Other temple wardens recognize you as a colleague and will share information about threats to the faith.
@@ -5279,10 +5288,6 @@ Temple wardens combine martial skill with religious devotion, serving as the shi
 | 5 | I failed to protect someone and carry that guilt with me. |
 | 6 | I'm looking for a worthy place to establish a new shrine. |
 
-{{pageNumber,auto}}
-{{footnote Personality & Background}}
-\page
-
 | d6 | Flaw |
 |:--:|:-----|
 | 1 | I'm judgmental of those who don't share my faith. |
@@ -5291,6 +5296,10 @@ Temple wardens combine martial skill with religious devotion, serving as the shi
 | 4 | I sometimes enjoy violence more than a servant of the gods should. |
 | 5 | I put my temple's interests above the greater good. |
 | 6 | I broke a sacred vow and fear discovery. |
+
+{{pageNumber,auto}}
+{{footnote Personality & Background}}
+\page
 
 ### Worldrend Historian
 
@@ -5362,9 +5371,6 @@ Worldrend historians are driven by the need to understand the past, believing th
 
 In the great arenas of Tirvandor. From Thaldros's state-sponsored blood sports to Aethoria's athletic competitions to the anything-goes fighting pits of the Contested Lands. You made your living as a professional combatant. You fought for glory, for gold, or simply for survival.
 
-{{pageNumber,auto}}
-{{footnote Personality & Background}}
-\page
 
 **Skill Proficiencies:** Performance, Athletics ::
 **Tool Proficiencies:** One type of gaming set, disguise kit ::
@@ -5375,6 +5381,10 @@ In the great arenas of Tirvandor. From Thaldros's state-sponsored blood sports t
 
 You are known in the world of professional fighting. You can usually find work at fighting pits, gain entry to gladiatorial events, and earn money through exhibition matches or personal appearances. Former opponents, fans, and other fighters recognize you and may react with admiration, jealousy, or a desire for revenge.
 
+
+{{pageNumber,auto}}
+{{footnote Personality & Background}}
+\page
 
 #### Arena Background
 
@@ -5456,10 +5466,6 @@ You've already beaten death once: you have an instinctive sense for danger. You 
 
 Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how fragile life can be, but also with a hard-won appreciation for being alive.
 
-{{pageNumber,auto}}
-{{footnote Personality & Background}}
-\page
-
 | d8 | Personality Trait |
 |:--:|:------------------|
 | 1 | I never take survival for granted: every day is a gift. |
@@ -5488,6 +5494,10 @@ Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how 
 | 4 | The person who rescued me deserves more than I can ever repay. |
 | 5 | I saw something in the water that I can't explain. |
 | 6 | I'm trying to find the family of someone who died saving me. |
+
+{{pageNumber,auto}}
+{{footnote Personality & Background}}
+\page
 
 | d6 | Flaw |
 |:--:|:-----|
@@ -5522,6 +5532,8 @@ You have incomplete but real training in your former field. You can speak knowle
 | 5 | Medicine (healer's student) |
 | 6 | Combat training (military or martial arts) |
 
+\column
+
 #### Suggested Characteristics
 
 Failed apprentices often struggle with feelings of inadequacy while trying to prove their worth through other means.
@@ -5546,10 +5558,6 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 | 5 | **Ambition.** I'll find another path to power and recognition. (Evil) |
 | 6 | **Acceptance.** My failure set me on a different, better path. (Any) |
 
-{{pageNumber,auto}}
-{{footnote Personality & Background}}
-\page
-
 | d6 | Bond |
 |:--:|:-----|
 | 1 | I want to prove myself to my former master. |
@@ -5558,7 +5566,7 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 | 4 | My family sacrificed to pay for my apprenticeship. I owe them. |
 | 5 | Someone in my former field treats me as an equal despite my failure. |
 | 6 | I discovered something during my training that others missed. |
-\column
+
 | d6 | Flaw |
 |:--:|:-----|
 | 1 | I can't admit when I don't know something. |
@@ -5567,6 +5575,10 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 | 4 | I pretend to more expertise than I actually have. |
 | 5 | I blame everyone but myself for my failure. |
 | 6 | I'm terrified of failing again. |
+
+{{pageNumber,auto}}
+{{footnote Personality & Background}}
+\page
 
 {{wide
 ### Summary: Tirvandor Backgrounds
@@ -5592,7 +5604,7 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 
 }}
 
-![end-classes-chapter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-backgrounds-end.png){position:absolute,bottom:0,left:0,height:41%,width:100%,mix-blend-mode:multiply}
+![end-classes-chapter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-backgrounds-end.png){position:absolute,bottom:96px,left:0,height:50%,width:100%,mix-blend-mode:multiply}
 
 {{pageNumber,auto}}
 {{footnote Personality & Background}}
@@ -5805,7 +5817,7 @@ Your DM may allow campaign-specific feats:
 {{footnote Customization Options}}
 \page
 
-![Subclasses Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-subclasses.png){position:absolute,bottom:-25px,left:25%,width:50%,mix-blend-mode:multiply}
+![Subclasses Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-subclasses.png){position:absolute,bottom:58px,left:238px,width:45%,mix-blend-mode:multiply}
 
 {{wide
 # Chapter 7: Tirvandor Custom Subclasses
@@ -5842,7 +5854,7 @@ Starting at 6th level, you've learned that honor means nothing in a real fight. 
 <div style="width:52%">
 succeed on a Strength saving throw (DC = 8 + your
 </div>
-<div style="width:89%">
+<div style="width:80%">
 
 proficiency bonus + your Strength modifier) or suffer one of the following effects of your choice:
 - **Sand in the Eyes:** The target is blinded until the end of your next turn.
@@ -5884,14 +5896,14 @@ extra 1d6 damage if you have advantage on the attack roll or if another enemy of
 
 <div style="margin-left:80px">
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 ### Tirvandor Context
 
 **Origin:** The Contested Lands of western Thaldros ::
 </div>
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 **Culture:** These barbarians are professional survivors and mercenaries.
 
 They're respected in the Border towns for their effectiveness but feared for their brutality. Many are Iron Guild members.
@@ -5955,13 +5967,12 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Philosophical Note:** These barbarians believe freedom is worth any price. Their rage isn't mindless: it's the righteous anger of those who refuse to live in chains. ::
 
-**In Campaigns:** ::
-- **Blood & Coin:** Good - revolutionary turned mercenary, or hired to fight oppressors
-
 {{pageNumber,auto}}
 {{footnote Custom SubClasses}}
 \page
 
+**In Campaigns:** ::
+- **Blood & Coin:** Good - revolutionary turned mercenary, or hired to fight oppressors
 - **Shattered Oaths:** EXCELLENT - perfect heroic revolutionary archetype
 
 ## College of Propaganda (Bard)
@@ -6012,10 +6023,6 @@ At 14th level, your words can spread like wildfire through a population. You gai
 
 - **Fanatical Loyalty:** When a creature is charmed by you, it becomes fanatically loyal to you and your cause. It will defend your reputation, spread your message, and actively work to further your goals to the best of its ability. When the charm ends, the creature doesn't immediately realize it was magically influenced unless it acts completely contrary to its normal behavior.
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 - **Control the Narrative:** You can cast *modify memory* once without expending a spell slot. Once you use this feature, you can't use it again until you finish a long rest.
 
 
@@ -6028,6 +6035,11 @@ At 14th level, your words can spread like wildfire through a population. You gai
 **In Thaldros:** Propaganda bards are state-sponsored agents who control official narratives, suppress dissent, and shape public opinion in favor of the crown. They're well-paid but closely watched. ::
 **In Aethoria:** Propaganda bards are revolutionary orators who spread messages of freedom, counter Thaldros propaganda, and inspire resistance. They're celebrated as heroes of the people. ::
 **In the Border:** Some propaganda bards work as freelance spin doctors, selling their services to whoever pays. ::
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 **Moral Ambiguity:** This college is morally neutral: it's a tool that can be used for good (inspiring freedom) or evil (justifying tyranny). The bard's alignment matters more than the college itself. ::
 
 **In Campaigns:** ::
@@ -6083,15 +6095,15 @@ Also at 6th level, your affiliation with the Iron Guild grants you special privi
 - You can access Iron Guild safe houses, which provide free lodging and information about local mercenary work.
 - You gain a +2 bonus to your Iron Guild reputation score (if using the reputation system from Blood & Coin campaign).
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 ### Master Mediator (14th Level)
 
 At 14th level, you become legendary in the world of negotiation and deal-making. You gain the following abilities:
 
 - **Legendary Negotiator:** When you roll initiative and aren't surprised, you can use your reaction to attempt to negotiate instead of fighting. Make a Charisma (Persuasion) check contested by the Wisdom (Insight) check of one creature that can hear and understand you. On a success, that creature and its allies will hear you out for 1 minute before combat begins. During this time, you can attempt to negotiate a peaceful resolution, bribe them, or convince them to leave.
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 - **Unbreakable Terms:** Contracts you create with Binding Contract become much more powerful:
   - Creatures that violate major terms take 4d10 psychic damage and suffer one level of exhaustion.
@@ -6129,13 +6141,8 @@ You speak a binding word of enforcement. Choose one creature within range that y
 
 The Ascended Champion domain represents the most devout combat clerics in Tirvandor. These warrior-priests dedicate themselves to one of the Seven Ascended and become living embodiments of their deity's martial ideals. Each of the Seven grants different powers based on their divine portfolio.
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 **When you choose this domain at 1st level, select one of the Seven Ascended to serve. Your choice determines your domain spells and Channel Divinity options.**
 
----
 
 ### Ascended Champion: General Features
 
@@ -6170,7 +6177,9 @@ Starting at 8th level, your devotion armors you against your foes. You gain resi
 
 At 17th level, you gain a powerful capstone ability specific to your chosen Ascended (see individual entries below).
 
-:
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ### The Seven Variants
 
@@ -6186,7 +6195,7 @@ At 17th level, you gain a powerful capstone ability specific to your chosen Asce
 | 9th | *dominate person*, *hold monster* |
 
 **Champion's Strike:** The extra damage is radiant damage, and the target must succeed on a Wisdom saving throw or be unable to take reactions until the start of your next turn.
-\column
+
 **Channel Divinity: Voice of Law (2nd Level)**
 
 You can use your Channel Divinity to speak with absolute authority. As an action, you present your holy symbol and speak a command. Each creature of your choice within 30 feet of you that can hear you must succeed on a Wisdom saving throw or be compelled to follow a one-word command on its next turn (as per the *command* spell). This affects creatures regardless of creature type (unlike the spell).
@@ -6221,10 +6230,6 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 You can use your Channel Divinity to free yourself and your allies. As an action, you present your holy symbol and release a burst of liberating energy. All allies within 30 feet of you immediately end all effects that are charming, frightening, restraining, grappling, or paralyzing them. Additionally, magical restraints (like manacles or *hold person*) are destroyed.
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 **Divine Warrior: Freedom's Blessing (6th Level)**
 
 You and allies within 10 feet of you have advantage on saving throws against being charmed, frightened, paralyzed, or restrained. Additionally, you can't be surprised while conscious.
@@ -6258,6 +6263,11 @@ Once you use this feature, you can't use it again until you finish a long rest.
 You can use your Channel Divinity to see strands of fate. As an action, you can touch a creature and learn the following information:
 - Its current emotional state and surface thoughts
 - Whether it intends harm to you or your allies in the next hour
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 - One major event in its past that shaped who it is today
 - A glimpse of one possible future event involving the creature (within 24 hours)
 
@@ -6306,11 +6316,6 @@ As an action, you can embody Kael's wandering spirit. For 1 minute, you gain the
 - You can take the Dash or Disengage action as a bonus action
 - You and allies within 30 feet of you have advantage on all ability checks
 - Opportunity attacks against you and allies within 30 feet have disadvantage
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 - Your weapon attacks deal an extra 2d8 force damage
 
 Once you use this feature, you can't use it again until you finish a long rest.
@@ -6346,7 +6351,11 @@ As an action, you can embody Sera's healing light. For 1 minute, you gain the fo
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
----
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 
 #### **6. Mordain the Sentinel** (Death, Honor, Duty)
 
@@ -6401,10 +6410,6 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 You can use your Channel Divinity to summon nature's fury. As an action, you present your holy symbol and choose one of the following effects:
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 - **Beast's Fury:** You summon spectral animals. Each creature of your choice within 30 feet makes a Dexterity saving throw, taking 2d8 + your cleric level piercing damage on a failed save, or half as much on a success.
 - **Storm's Wrath:** Lightning strikes around you. Each hostile creature within 30 feet must make a Dexterity saving throw, taking 2d8 + your cleric level lightning damage on a failed save, or half on a success. The area becomes difficult terrain until the start of your next turn.
 
@@ -6424,7 +6429,6 @@ As an action, you can become one with nature's fury. For 1 minute, you gain the 
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
----
 
 ### Tirvandor Context
 
@@ -6432,13 +6436,16 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 **Culture:** Ascended Champions are elite warrior-priests, representing the most devout combat clerics in the faith. They're respected as living embodiments of their deity's ideals. Each of the Seven has their champions, and they're often called upon when martial might and divine magic are both needed. ::
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 **Selection:** Not every cleric of the Ascended becomes a Champion: it requires dedication to martial prowess as well as spiritual devotion. Many are former soldiers or paladins who took up the cloth. ::
 
 **In Campaigns:** ::
 - **Blood & Coin:** Good - mercenary priest, former chaplain, or hired divine warrior
 - **Shattered Oaths:** Excellent - chosen champion for heroic deeds
 
----
 
 ## War Chaplain Domain (Cleric)
 
@@ -6476,9 +6483,6 @@ Starting at 2nd level, you can use your Channel Divinity to bolster your allies'
 
 Starting at 6th level, you can use your Channel Divinity to protect your squad at great personal cost. When a creature you can see within 30 feet of you takes damage, you can use your reaction to take that damage instead. This damage can't be reduced or prevented in any way.
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 ### Divine Strike (8th Level)
 
@@ -6512,6 +6516,10 @@ At 17th level, your faith becomes an unbreakable shield for your allies. You gai
 **In Campaigns:** ::
 - **Blood & Coin:** Excellent - mercenary chaplain, hired to keep soldiers alive
 - **Shattered Oaths:** Excellent - military chaplain for heroic army
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ## Circle of the Contested Lands (Druid)
 
