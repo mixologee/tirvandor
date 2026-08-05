@@ -180,11 +180,28 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ Warlock}}{{ 49}}](#p53)
   - [{{ Wizard}}{{ 52}}](#p56)
 - ### [{{ Chapter 4: Personality & Background}}{{ 56}}](#p60)
-  - [{{ Character Details}}{{ 56}}](#p60)
-  - [{{ Backgrounds}}{{ 56}}](#p60)
-  - [{{ Languages}}{{ 56}}](#p60)
-  - [{{ Inspiration}}{{ 57}}](#p61)
-  - [{{ Tirvandor Custom Backgrounds}}{{ 57}}](#p61)
+- [{{ Character Details}}{{ 56}}](#p60)
+- [{{ Backgrounds}}{{ 56}}](#p60)
+- [{{ Languages}}{{ 56}}](#p60)
+- [{{ Inspiration}}{{ 57}}](#p61)
+- [{{ Tirvandor Custom Backgrounds}}{{ 57}}](#p61)
+  - [{{ Mercenary Veteran}}{{ 57}}](#p61)
+  - [{{ War Refugee}}{{ 58}}](#p62)
+  - [{{ Border Trader}}{{ 58}}](#p62)
+  - [{{ Political Exile}}{{ 59}}](#p63)
+  - [{{ Spy}}{{ 60}}](#p64)
+  - [{{ Ley Line Scholar}}{{ 60}}](#p64)
+  - [{{ Thaldros Deserter}}{{ 61}}](#p65)
+  - [{{ Aethorian Revolutionary}}{{ 62}}](#p66)
+  - [{{ Thornwood Syndicate Operative}}{{ 63}}](#p67)
+  - [{{ Silver Circle Initiate}}{{ 63}}](#p67)
+  - [{{ Caravan Guard}}{{ 64}}](#p68)
+  - [{{ Temple Warden}}{{ 65}}](#p69)
+  - [{{ Worldrend Historian}}{{ 66}}](#p70)
+  - [{{ Gladiator}}{{ 66}}](#p70)
+  - [{{ Shipwreck Survivor}}{{ 67}}](#p71)
+  - [{{ Failed Apprentice}}{{ 68}}](#p72)
+  - [{{ Summary: Tirvandor Backgrounds}}{{ 69}}](#p73)
 - ### [{{ Chapter 5: Equipment}}{{ 70}}](#p74)
   - [{{ Starting Equipment}}{{ 70}}](#p74)
   - [{{ Wealth}}{{ 70}}](#p74)
@@ -192,68 +209,121 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ Weapons}}{{ 70}}](#p74)
   - [{{ Adventuring Gear}}{{ 70}}](#p74)
   - [{{ Tools}}{{ 70}}](#p74)
-  - [{{ Mounts and Vehicles}}{{ 70}}](#p74) 
+  - [{{ Mounts and Vehicles}}{{ 70}}](#p74)
 - ### [{{ Chapter 6: Customization Options}}{{ 71}}](#p75)
   - [{{ Multiclassing}}{{ 71}}](#p75)
   - [{{ Feats}}{{ 71}}](#p75)
 - ### [{{ Chapter 7: Tirvandor Custom Subclasses}}{{ 72}}](#p76)
   - [{{ Path of the Border Reaver (Barbarian)}}{{ 72}}](#p76)
   - [{{ Path of Revolutionary Fury (Barbarian)}}{{ 73}}](#p77)
-  - [{{ College of Propaganda (Bard)}}{{ 74}}](#p78)
+  - [{{ College of Propaganda (Bard)}}{{ 73}}](#p77)
   - [{{ College of the Iron Tongue (Bard)}}{{ 75}}](#p79)
   - [{{ Ascended Champion Domain (Cleric)}}{{ 76}}](#p80)
   - [{{ War Chaplain Domain (Cleric)}}{{ 80}}](#p84)
-  - [{{ Circle of the Contested Lands (Druid)}}{{ 81}}](#p85)
-  - [{{ Circle of the Ascended Wild (Druid)}}{{ 82}}](#p86)
-  - [{{ Iron Guild Veteran (Fighter)}}{{ 84}}](#p88)
-  - [{{ Royal Guard (Fighter)}}{{ 85}}](#p89)
-  - [{{ Way of the Broken Chain (Monk)}}{{ 86}}](#p90)
-  - [{{ Way of the Coin (Monk)}}{{ 87}}](#p91)
-  - [{{ Oath of the Iron Crown (Paladin)}}{{ 88}}](#p92)
-  - [{{ Oath of Liberty (Paladin)}}{{ 89}}](#p93)
-  - [{{ Border Warden (Ranger)}}{{ 90}}](#p94)
-  - [{{ People's Scout (Ranger)}}{{ 91}}](#p95)
-  - [{{ State Inquisitor (Rogue)}}{{ 92}}](#p96)
-  - [{{ Shadow Broker (Rogue)}}{{ 92}}](#p96)
-  - [{{ Warborn Bloodline (Sorcerer)}}{{ 93}}](#p97)
-  - [{{ Ascended-touched (Sorcerer)}}{{ 94}}](#p98)
-  - [{{ Pact of the Forgotten Throne (Warlock)}}{{ 94}}](#p98)
-  - [{{ Pact of the War Profiteer (Warlock)}}{{ 95}}](#p99)
-  - [{{ School of the Iron Legion (Wizard)}}{{ 96}}](#p100)
-  - [{{ School of Innovation (Wizard)}}{{ 96}}](#p100)
-- ### [{{ Chapter 8: Tirvandor Custom Spells}}{{ 98}}](#p102)
-  - [{{ Propaganda & Manipulation Spells}}{{ 98}}](#p102)
-  - [{{ Warlock Patron Spells}}{{ 99}}](#p103)
-  - [{{ War & Conflict Spells}}{{ 100}}](#p104)
-  - [{{ Ascended-themed Spells}}{{ 100}}](#p104)
-  - [{{ Spell Availability by Subclass}}{{ 101}}](#p105)
-  - [{{ How to Use These Spells}}{{ 103}}](#p107)
+  - [{{ Circle of the Contested Lands (Druid)}}{{ 80}}](#p84)
+  - [{{ Circle of the Ascended Wild (Druid)}}{{ 81}}](#p85)
+  - [{{ Iron Guild Veteran (Fighter)}}{{ 83}}](#p87)
+  - [{{ Royal Guard (Fighter)}}{{ 84}}](#p88)
+  - [{{ Way of the Broken Chain (Monk)}}{{ 85}}](#p89)
+  - [{{ Way of the Coin (Monk)}}{{ 85}}](#p89)
+  - [{{ Oath of the Iron Crown (Paladin)}}{{ 86}}](#p90)
+  - [{{ Oath of Liberty (Paladin)}}{{ 87}}](#p91)
+  - [{{ Border Warden (Ranger)}}{{ 88}}](#p92)
+  - [{{ People’s Scout (Ranger)}}{{ 89}}](#p93)
+  - [{{ State Inquisitor (Rogue)}}{{ 89}}](#p93)
+  - [{{ Shadow Broker (Rogue)}}{{ 90}}](#p94)
+  - [{{ Warborn Bloodline (Sorcerer)}}{{ 90}}](#p94)
+  - [{{ Ascended-touched (Sorcerer)}}{{ 91}}](#p95)
+  - [{{ Pact of the Forgotten Throne (Warlock)}}{{ 91}}](#p95)
+  - [{{ Pact of the War Profiteer (Warlock)}}{{ 92}}](#p96)
+  - [{{ School of the Iron Legion (Wizard)}}{{ 92}}](#p96)
+  - [{{ School of Innovation (Wizard)}}{{ 93}}](#p97)
 }}
 
 {{skipCounting}}
 \page
-{{toc,wide 
-# Contents
-  
-- ### [{{ Appendix A: Conditions}}{{ 104}}](#p108)
-- ### [{{ Appendix B: World Primer}}{{ 106}}](#p110)
-  - [{{ Geography}}{{ 106}}](#p110)
-  - [{{ History}}{{ 106}}](#p110)
-  - [{{ Magic}}{{ 107}}](#p111)
-  - [{{ The Seven Ascended (Gods)}}{{ 107}}](#p111)
-  - [{{ Factions}}{{ 107}}](#p111)
-  - [{{ Currency and Economy}}{{ 107}}](#p111)
-  - [{{ Languages}}{{ 107}}](#p111)
-  - [{{ Life in Tirvandor}}{{ 108}}](#p112)
-  - [{{ What Your Character Knows}}{{ 108}}](#p112)
-  - [{{ Starting Your Adventure}}{{ 108}}](#p112)
-- ### [{{ Appendix C: The Pantheon of Tirvandor}}{{ 109}}](#p113)
-  - [{{ The Seven Ascended}}{{ 109}}](#p113)
-  - [{{ Regional Powers}}{{ 110}}](#p114)
-  - [{{ The Ancient Primordials}}{{ 110}}](#p114)
-  - [{{ Choosing a Deity}}{{ 110}}](#p114)
-- ### [{{ Appendix D: Beasts of Tirvandor}}{{ 111}}](#p115)
-- ### [{{ Legal Notices and Licenses}}{{ 117}}](#p121)
+
+{{toc,wide
+- ### [{{ Chapter 8: Tirvandor Custom Spells}}{{ 94}}](#p98)
+  - [{{ Propaganda & Manipulation Spells}}{{ 94}}](#p98)
+  - [{{ Warlock Patron Spells}}{{ 95}}](#p99)
+  - [{{ War & Conflict Spells}}{{ 96}}](#p100)
+  - [{{ Ascended-themed Spells}}{{ 96}}](#p100)
+  - [{{ Spell Availability by Subclass}}{{ 98}}](#p102)
+  - [{{ How to Use These Spells}}{{ 99}}](#p103)
+- ### [{{ Appendix A: Conditions}}{{ 100}}](#p104)
+  - [{{ Blinded}}{{ 100}}](#p104)
+  - [{{ Charmed}}{{ 100}}](#p104)
+  - [{{ Deafened}}{{ 100}}](#p104)
+  - [{{ Exhaustion}}{{ 100}}](#p104)
+  - [{{ Frightened}}{{ 100}}](#p104)
+  - [{{ Grappled}}{{ 100}}](#p104)
+  - [{{ Incapacitated}}{{ 100}}](#p104)
+  - [{{ Invisible}}{{ 100}}](#p104)
+  - [{{ Paralyzed}}{{ 100}}](#p104)
+  - [{{ Petrified}}{{ 100}}](#p104)
+  - [{{ Poisoned}}{{ 101}}](#p105)
+  - [{{ Prone}}{{ 101}}](#p105)
+  - [{{ Restrained}}{{ 101}}](#p105)
+  - [{{ Stunned}}{{ 101}}](#p105)
+  - [{{ Unconscious}}{{ 101}}](#p105)
+- ### [{{ Appendix B: World Primer}}{{ 102}}](#p106)
+  - [{{ Geography}}{{ 102}}](#p106)
+    - [{{ Thaldros (the Western Continent)}}{{ 102}}](#p106)
+    - [{{ Aethoria (the Eastern Continent)}}{{ 102}}](#p106)
+    - [{{ The Contested Lands (the Border)}}{{ 102}}](#p106)
+    - [{{ The Sundering Sea}}{{ 102}}](#p106)
+  - [{{ History}}{{ 102}}](#p106)
+    - [{{ The Age of Unity (Ancient Past)}}{{ 102}}](#p106)
+    - [{{ The Worldrend (1,247 Years Ago)}}{{ 102}}](#p106)
+    - [{{ The Age of Chains (1,200-850 Years Ago)}}{{ 102}}](#p106)
+    - [{{ The Liberation (~850 Years Ago)}}{{ 102}}](#p106)
+    - [{{ The Iron Crown Era (200 Years Ago - Present)}}{{ 102}}](#p106)
+    - [{{ The Present Day}}{{ 102}}](#p106)
+  - [{{ Magic}}{{ 103}}](#p107)
+    - [{{ Ley Lines}}{{ 103}}](#p107)
+    - [{{ Magic Users}}{{ 103}}](#p107)
+    - [{{ The Silver Circle}}{{ 103}}](#p107)
+  - [{{ The Seven Ascended (Gods)}}{{ 103}}](#p107)
+  - [{{ Factions}}{{ 103}}](#p107)
+    - [{{ The Iron Guild}}{{ 103}}](#p107)
+    - [{{ The Thornwood Syndicate}}{{ 103}}](#p107)
+    - [{{ The Silver Circle}}{{ 103}}](#p107)
+    - [{{ The Iron Legion}}{{ 103}}](#p107)
+    - [{{ The People’s Councils}}{{ 103}}](#p107)
+  - [{{ Currency and Economy}}{{ 103}}](#p107)
+  - [{{ Languages}}{{ 103}}](#p107)
+  - [{{ Life in Tirvandor}}{{ 104}}](#p108)
+    - [{{ In Thaldros}}{{ 104}}](#p108)
+    - [{{ In Aethoria}}{{ 104}}](#p108)
+    - [{{ In the Contested Lands}}{{ 104}}](#p108)
+  - [{{ What Your Character Knows}}{{ 104}}](#p108)
+  - [{{ Starting Your Adventure}}{{ 104}}](#p108)
+- ### [{{ Appendix C: The Pantheon of Tirvandor}}{{ 105}}](#p109)
+  - [{{ The Seven Ascended}}{{ 105}}](#p109)
+    - [{{ Thandros, the Lawbringer}}{{ 105}}](#p109)
+    - [{{ Aethor, the Liberator}}{{ 105}}](#p109)
+    - [{{ Moira, the Weaver}}{{ 105}}](#p109)
+    - [{{ Kael, the Wanderer}}{{ 105}}](#p109)
+    - [{{ Sera, the Healer}}{{ 105}}](#p109)
+    - [{{ Mordain, the Sentinel}}{{ 106}}](#p110)
+    - [{{ Sylvara, the Wild}}{{ 106}}](#p110)
+  - [{{ Regional Powers}}{{ 106}}](#p110)
+  - [{{ The Ancient Primordials}}{{ 106}}](#p110)
+  - [{{ Choosing a Deity}}{{ 106}}](#p110)
+- ### [{{ Appendix D: Beasts of Tirvandor}}{{ 107}}](#p111)
+  - [{{ CR 0 Beasts}}{{ 107}}](#p111)
+  - [{{ CR 1/8 Beasts}}{{ 107}}](#p111)
+  - [{{ CR 1/4 Beasts}}{{ 108}}](#p112)
+  - [{{ CR 1/2 Beasts}}{{ 109}}](#p113)
+  - [{{ CR 1 Beasts}}{{ 109}}](#p113)
+  - [{{ CR 2 Beasts}}{{ 110}}](#p114)
+  - [{{ CR 3 Beasts}}{{ 111}}](#p115)
+  - [{{ Beast Summary Table}}{{ 111}}](#p115)
+  - [{{ Using These Beasts}}{{ 112}}](#p116)
+  - [{{ Regional Distribution}}{{ 112}}](#p116)
+  - [{{ Notes for DMs}}{{ 112}}](#p116)
+- ### [{{ Legal Notices and Licenses}}{{ 113}}](#p117)
 }}
 
 {{skipCounting}}
@@ -9215,6 +9285,234 @@ If any provision of this License is held to be unenforceable, such provision sha
 {{pageNumber,auto}}
 \page
 
+{{index,wide,columns:3;
+##### Index
+- Ability Scores, 8
+- Action Surge, 25
+- Adventuring Gear, 74
+- Aethor (god), 66
+- Aethorian Republic, The, 66
+- Aethorian Revolutionary, 66
+- Aethorian River Otter, 114
+- Alignment, 10
+- Ancient Primordials, The, 110
+- Arcane Recovery, 58
+- Armor, 74
+- Armor Class, 11
+- Ascended Champion Domain (Cleric), 80
+- Ascended-themed Spells, 100
+- Ascended-touched (Sorcerer), 95
+- Ascended-Touched Magic, 95
+- Backgrounds, 60
+- Barbarian, 22
+- Bard, 29
+- Bardic Inspiration, 30
+- Battlefield Awareness, 100
+- Beast Summary Table, 115
+- Beasts of Tirvandor (Appendix D), 111
+- Blessing of the Ascended, 100
+- Blinded, 104
+- Blood Price, 99
+- Bonds, 60
+- Border Hound, 112
+- Border Marches, The, 76
+- Border Trader, 62
+- Border Warden (Ranger), 92
+- Cantrips, 30
+- Caravan Guard, 68
+- Chain Breaker, 101
+- Channel Divinity, 34
+- Character Creation, 8
+- Charisma, 7
+- Charmed, 104
+- Circle of the Ascended Wild (Druid), 85
+- Circle of the Contested Lands (Druid), 84
+- Class Selection, 8
+- Class Summary Table, 21
+- Classes (Chapter 3), 21
+- Cleric, 32
+- College of Propaganda (Bard), 77
+- College of the Iron Tongue (Bard), 79
+- Concentration, 80
+- Conditions (Appendix A), 104
+- Constitution, 7
+- Contested Hare, 111
+- Contested Plains Raptor, 113
+- Crown of the Fallen King, 99
+- Cunning Action, 27
+- Currency and Economy, 107
+- Custom Backgrounds, 61
+- Custom Spells, 98
+- Custom Subclasses, 76
+- Customization Options (Chapter 6), 75
+- Deafened, 104
+- Dexterity, 7
+- Divine Smite, 44
+- Dragonborn, 16
+- Druid, 35
+- Dwarf, 13
+- Eldritch Invocations, 54
+- Elf, 14
+- Emerald Deeps Constrictor, 115
+- Emerald Deeps Treefrog, 112
+- Equipment (Chapter 5), 74
+- Exhaustion, 104
+- Extra Attack, 23
+- Factions, 107
+- Failed Apprentice, 72
+- Favored Enemy, 47
+- Feats, 75
+- Fighter, 24
+- Fighting Style, 25
+- Flaws, 60
+- Frightened, 104
+- Geography, 106
+- Geography of Tirvandor, 106
+- Gladiator, 70
+- Gnome, 17
+- Goldreach Warhorse, 115
+- Grappled, 104
+- Half-elf, 18
+- Half-orc, 19
+- Halfling, 15
+- History, 106
+- History of Tirvandor, 106
+- Hit Points, 75
+- How to Use These Spells, 103
+- Human, 12
+- Ideals, 60
+- Incapacitated, 104
+- Inspiration, 61
+- Intelligence, 7
+- Invisible, 104
+- Iron Guild Contract, 100
+- Iron Guild Veteran (Fighter), 87
+- Iron Guild, The, 79
+- Iron Word, 100
+- Ironhold Mountain Goat, 112
+- Ironwood Boar, 114
+- Ki, 40
+- Kingdom of Thaldros, The, 65
+- Languages, 60
+- Lay on Hands, 43
+- Ley Line Scholar, 64
+- Ley Lines, 64
+- Ley Moth, 111
+- Life in Tirvandor, 108
+- Long Rest, 114
+- Magic, 107
+- Magic in Tirvandor, 31
+- Martial Arts, 40
+- Mass Hysteria, 98
+- Mercenary Veteran, 61
+- Metamagic, 51
+- Moira (goddess), 81
+- Monk, 39
+- Mordain (god), 82
+- Mounts and Vehicles, 74
+- Multiclassing, 75
+- Oath of Liberty (Paladin), 91
+- Oath of the Iron Crown (Paladin), 90
+- Pact Magic, 54
+- Pact of the Forgotten Throne (Warlock), 95
+- Pact of the War Profiteer (Warlock), 96
+- Paladin, 42
+- The Pantheon of Tirvandor (Appendix C), 109
+- Paralyzed, 104
+- Path of Revolutionary Fury (Barbarian), 77
+- Path of the Border Reaver (Barbarian), 76
+- People's Scout (Ranger), 93
+- Personality & Background (Chapter 4), 60
+- Personality Traits, 60
+- Petrified, 104
+- Point Buy, 9
+- Poisoned, 105
+- Political Exile, 63
+- Proficiency Bonus, 75
+- Profiteer's Shield, 100
+- Prone, 105
+- Propaganda & Manipulation Spells, 98
+- Propagandist's Whisper, 98
+- Race Selection, 8
+- Races (Chapter 2), 12
+- Rage, 23
+- Ranger, 46
+- Reckless Attack, 23
+- Regional Powers, 110
+- Restrained, 105
+- Rewrite Memory, 99
+- Ritual Spells, 30
+- Rogue, 26
+- Rolling Ability Scores, 9
+- Royal Guard (Fighter), 88
+- Saving Throws, 22
+- School of Innovation (Wizard), 97
+- School of the Iron Legion (Wizard), 96
+- Second Wind, 25
+- Sera (goddess), 82
+- Seven Ascended, The (Gods), 107
+- Shadow Broker (Rogue), 94
+- Shadow Syndicate, The, 67
+- Shipwreck Survivor, 71
+- Silver Circle Initiate, 67
+- Silver Circle, The, 67
+- Skills, 12
+- Sneak Attack, 27
+- Sorcerer, 50
+- Sorcery Points, 51
+- Spell Availability, 102
+- Spell Availability by Subclass, 102
+- Spell Components, 80
+- Spell Slots, 30
+- Spellbook, 57
+- Spellcasting Ability, 30
+- Spy, 64
+- Standard Array, 9
+- Starting Equipment, 10
+- State Inquisitor (Rogue), 93
+- Step-by-step Characters (Chapter 1), 8
+- Strength, 7
+- Stunned, 105
+- Summon Ancient Courtier, 99
+- Sundering Crab, 111
+- Sundering Sea Serpent (Juvenile), 114
+- Sundering Seal, 113
+- Sylvara (goddess), 83
+- Tactical Strike, 100
+- Temple Warden, 69
+- Thaldros Deserter, 65
+- Thandros (god), 80
+- Thornwood Stalker, 113
+- Thornwood Syndicate Operative, 67
+- Tiefling, 20
+- Tirvandor Custom Backgrounds, 61
+- Tirvandor Custom Spells (Chapter 8), 98
+- Tirvandor Custom Subclasses (Chapter 7), 76
+- Tools, 74
+- Unconscious, 105
+- Voice of Authority, 99
+- War & Conflict Spells, 100
+- War Chaplain Domain (Cleric), 84
+- War Refugee, 62
+- Warborn Bloodline (Sorcerer), 94
+- Warborn Surge, 101
+- Warlock, 53
+- Warlock Patron Spells, 99
+- Way of the Broken Chain (Monk), 89
+- Way of the Coin (Monk), 89
+- Wealth, 74
+- Weapons, 74
+- Wild Shape, 37
+- Wisdom, 7
+- Wizard, 56
+- World Primer (Appendix B), 106
+- Worldrend Historian, 70
+- Worldrend, The, 70
+- Wrath of the Wild, 101
+}}
+{{pageNumber,auto}}
+{{footnote Index}}
+\page
 {{backCover,wide}}
 Tirvandor Player's Guide: Adventuring in the Sundered Realms
 
@@ -9246,3 +9544,4 @@ Whether you're joining the morally gray mercenary world of **Blood & Coin**, the
  ::
 Homebrewery.Naturalcrit.com
 }}
+\page
