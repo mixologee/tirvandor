@@ -344,7 +344,7 @@ Welcome to **Tirvandor**, a world of political intrigue, moral complexity, and m
 
 **This handbook includes:** ::
 
-- Complete character creation rules for D&D 5th Edition
+- Complete character creation rules for SRD 5.1
 - All standard races and classes with full mechanics
 - Tirvandor-specific subclasses for every class
 - Custom spells tied to the world's ley line magic
@@ -354,17 +354,17 @@ Welcome to **Tirvandor**, a world of political intrigue, moral complexity, and m
 
 **This handbook does NOT include:** ::
 
-- Combat and general gameplay rules (see D&D 5e Basic Rules or Player's Handbook)
+- Combat and general gameplay rules (see SRD 5.1 Basic Rules or Player's Handbook)
 - Magic item descriptions (see campaign-specific guides)
 - Monster statistics (Dungeon Master territory)
 - Campaign-specific content with spoilers (see campaign player's guides)
 - Dungeon Master secrets
 
-This book provides the character creation rules. For the complete D&D 5e gameplay rules, refer to the official D&D Basic Rules (available free online) or the official Player's Handbook.
+This book provides the character creation rules. For the complete SRD 5.1 gameplay rules, refer to the official SRD 5.1 Basic Rules (available free online) or the official Player's Handbook.
 
 ## How to Use This Book
 
-**If you're new to D&D:** ::
+**If you're new to SRD 5.1:** ::
 
 1. Read Chapter 1 (Step-by-Step Characters) to understand the process
 2. Follow along to create your first character
@@ -372,7 +372,7 @@ This book provides the character creation rules. For the complete D&D 5e gamepla
 4. Ask your Dungeon Master questions about Tirvandor
 5. Use the World Primer (Appendix B) to learn about the setting
 
-**If you're experienced with D&D 5e:** ::
+**If you're experienced with SRD 5.1:** ::
 
 1. Skim Chapter 1 for any Tirvandor-specific differences
 2. Jump directly to races (Chapter 2) and classes (Chapter 3)
@@ -400,7 +400,7 @@ This book provides the character creation rules. For the complete D&D 5e gamepla
 **Essential Materials:** ::
 
 - This Player's Handbook
-- A character sheet (use the free official D&D 5e sheet or a digital tool)
+- A character sheet (use the free official SRD 5.1 sheet or a digital tool)
 - Pencil and eraser (or digital note-taking app)
 - A set of polyhedral dice: d4, d6, d8, d10, d12, d20, d100 (or dice rolling app)
 - Friends to play with
@@ -410,7 +410,7 @@ This book provides the character creation rules. For the complete D&D 5e gamepla
 
 - Miniatures or tokens to represent your character
 - Grid mat or battle map for tactical combat
-- Digital tools (D&D Beyond, Roll20, Foundry VTT, etc.)
+- Digital tools (SRD 5.1 Beyond, Roll20, Foundry VTT, etc.)
 - Campaign-specific player's guide
 - Snacks (always a good idea)
 - Note-taking supplies for tracking quests and NPCs
@@ -464,7 +464,7 @@ Talk with your DM and fellow players about the tone and themes of your campaign.
 
 ## How to Create a Character
 
-Character creation in Tirvandor follows the standard D&D 5e process with some Tirvandor-specific flavor added. The full step-by-step process is covered in Chapter 1, but here's the quick overview:
+Character creation in Tirvandor follows the standard SRD 5.1 process with some Tirvandor-specific flavor added. The full step-by-step process is covered in Chapter 1, but here's the quick overview:
 
 **Step 1: Choose a Race**   ::
 Select from nine standard fantasy races (Chapter 2), each with cultural context for how they fit into Tirvandor society.
@@ -492,7 +492,7 @@ Once your character is created, you're ready to play!
 
 Ready to create your character? Turn to Chapter 1 for the complete step-by-step process.
 
-Already know D&D 5e? Jump to Chapter 2 (Races) or Chapter 3 (Classes) to start building.
+Already know SRD 5.1? Jump to Chapter 2 (Races) or Chapter 3 (Classes) to start building.
 
 Need world context first? Skip to Appendix B (World Primer) to learn about Tirvandor before making character decisions.
 
@@ -522,7 +522,7 @@ Your first step in playing an adventurer in Tirvandor is to imagine and create a
 5. **Choose Equipment:** Weapons, armor, gear, and starting gold
 6. **Come Together:** Connect with your party
 
-**Record everything on a character sheet.** Use the free official D&D 5e character sheet or a digital character tool.
+**Record everything on a character sheet.** Use the free official SRD 5.1 character sheet or a digital character tool.
 
 ---
 
@@ -2265,7 +2265,7 @@ You start with the following equipment:
 
 ### **Spellcasting**
 
-You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. See the D&D Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the bard spell list.
+You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. See the SRD 5.1 Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the bard spell list.
 
 **Cantrips**
 
@@ -2472,7 +2472,7 @@ You start with the following equipment:
 }}
 ### **Spellcasting**
 
-As a conduit for divine power, you can cast cleric spells. See the D&D Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the cleric spell list.
+As a conduit for divine power, you can cast cleric spells. See the SRD 5.1 Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the cleric spell list.
 
 **Cantrips**
 
@@ -2705,7 +2705,7 @@ You know Druidic, the secret language of druids. You can speak the language and 
 
 ### **Spellcasting**
 
-Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See the D&D Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the druid spell list.
+Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See the SRD 5.1 Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the druid spell list.
 
 **Cantrips**
 
@@ -3250,7 +3250,7 @@ At 2nd level, you adopt a style of fighting as your specialty. Choose one of the
 
 ### **Spellcasting (2nd Level)**
 
-By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See the D&D Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the paladin spell list.
+By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See the SRD 5.1 Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the paladin spell list.
 
 **Preparing and Casting Spells**
 
@@ -3538,7 +3538,7 @@ At 2nd level, you adopt a particular style of fighting as your specialty. Choose
 
 ### **Spellcasting (2nd Level)**
 
-By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See the D&D Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the ranger spell list.
+By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See the SRD 5.1 Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the ranger spell list.
 
 {{pageNumber,auto}}
 {{footnote Classes}}
@@ -3724,7 +3724,7 @@ You start with the following equipment:
 
 ### **Spellcasting**
 
-An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See the D&D Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the sorcerer spell list.
+An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See the SRD 5.1 Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the sorcerer spell list.
 
 **Cantrips**
 
@@ -4028,7 +4028,7 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 
 ### **Pact Magic**
 
-Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See the D&D Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the warlock spell list.
+Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See the SRD 5.1 Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the warlock spell list.
 
 **Cantrips**
 
@@ -4252,7 +4252,7 @@ You start with the following equipment:
 
 ### **Spellcasting**
 
-As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See the D&D Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the wizard spell list.
+As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See the SRD 5.1 Basic Rules (or the Player's Handbook) for the general rules of spellcasting and the wizard spell list.
 
 **Cantrips**
 
@@ -4485,7 +4485,7 @@ Your background represents your character's life before becoming an adventurer. 
 **Sage:** Scholar or researcher  
 **Soldier:** Military service  
 
-(Refer to D&D 5e SRD or Player's Handbook for full background details)
+(Refer to SRD 5.1 SRD or Player's Handbook for full background details)
 
 ### Tirvandor Backgrounds
 
@@ -5758,7 +5758,7 @@ Coins come in different denominations:
 ### Martial Ranged Weapons
 - Longbow: 50 gp, 1d8 piercing, heavy, range 150/600
 
-(Refer to D&D 5e SRD for complete equipment lists)
+(Refer to SRD 5.1 SRD for complete equipment lists)
 
 ## Adventuring Gear
 
@@ -5793,7 +5793,7 @@ Tool proficiencies allow you to add your proficiency bonus to ability checks mad
 {{footnote Equipment}}
 \page
 
-![Customization Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-customization.png){position:absolute,bottom:-185px,right:-50px,width:380px,mix-blend-mode:multiply}
+![Customization Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-customization.png){position:absolute,bottom:50px,left:0px,width:35%,mix-blend-mode:multiply}
 
 {{wide
 # Chapter 6: Customization Options
@@ -5835,17 +5835,21 @@ You gain the hit points from your new class as described for levels after 1st. Y
 
 Your proficiency bonus is always based on your total character level, not your level in a particular class.
 
+<div style="margin-left:65%">
+
 ### Proficiencies
 
-When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table in the D&D 5e rules.
+When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table in the SRD 5.1 rules.
+</div>
 
+\column
 ### Class Features
 
 You get all the class features of all your classes, but you must meet level requirements individually for each class.
-\column
+
 ### Spellcasting
 
-Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. (Refer to D&D 5e rules for multiclass spellcasting details)
+Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. (Refer to SRD 5.1 rules for multiclass spellcasting details)
 
 ## Feats
 
@@ -5861,7 +5865,7 @@ Some feats have prerequisites. You must meet any prerequisite specified in a fea
 
 ### Sample Feats
 
-Common feats include (refer to D&D 5e SRD for full details):
+Common feats include (refer to SRD for full details):
 
 - **Alert:** +5 initiative, can't be surprised
 - **Athlete:** Improved climbing, jumping, standing
@@ -5871,8 +5875,6 @@ Common feats include (refer to D&D 5e SRD for full details):
 - **Tough:** +2 HP per level
 - **War Caster:** Advantage on concentration, cast while wielding
 
-(Refer to D&D 5e SRD or Player's Handbook for complete feat list)
-
 ### Tirvandor Feats
 
 Your DM may allow campaign-specific feats:
@@ -5880,8 +5882,6 @@ Your DM may allow campaign-specific feats:
 - **Ley Line Attuned:** Enhanced magic near ley lines
 - **Border Survivor:** Expertise in contested territories
 - **Iron Guild Veteran:** Combat and mercenary skills
-
-(See campaign guides for full details)
 
 {{pageNumber,auto}}
 {{footnote Customization Options}}
@@ -7661,7 +7661,7 @@ At 14th level, you break magical limits. Once per long rest, cast a spell and:
 # Chapter 8: Tirvandor Custom Spells
 
 :
-These spells are available to specific classes and subclasses as noted. All are balanced for D&D 5e gameplay.
+These spells are available to specific classes and subclasses as noted. All are balanced for SRD 5.1 gameplay.
 
 ## Propaganda & Manipulation Spells
 
@@ -8324,7 +8324,7 @@ Democratic governing bodies of Aethoria. Each city has its own council elected b
 
 ## Currency and Economy
 
-Standard D&D currency applies:
+Standard SRD 5.1 currency applies:
 - **Copper pieces (cp)**
 - **Silver pieces (sp)**
 - **Gold pieces (gp)**
