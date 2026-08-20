@@ -42256,7 +42256,7 @@ his techniques will die with him.
 
 ### 61.7 Archdruid Silvaris Oakenheart
 
-<div class="col-img">![61.7 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-druid-elder-silvaris.jpg){width:325px}</div>
+<div class="col-img">![61.7 Archdruid Silvaris Oakenheart](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/npcs/tirvandor-npc-caelindra-silvaris-heartwood.jpg){width:325px}</div>
 
 
 **Race:** Elf (the title, not the current holder)
