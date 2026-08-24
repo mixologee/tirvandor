@@ -168,75 +168,75 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
   - [{{ Common Mistakes}}{{ 20}}](#p20)
   - [{{ Adventure Templates}}{{ 20}}](#p20)
   - [{{ Using This Chapter}}{{ 21}}](#p21)
-- #### [{{ Chapter 4: Creating Campaigns}}{{ 23}}](#p23)
-  - [{{ Long-Term Play and Story Arcs}}{{ 23}}](#p23)
-  - [{{ Tirvandor Campaign Themes}}{{ 23}}](#p23)
-  - [{{ Campaign Structure}}{{ 23}}](#p23)
-  - [{{ Campaign Phases}}{{ 24}}](#p24)
-  - [{{ Campaign Planning}}{{ 25}}](#p25)
-  - [{{ Tying Player Backstories}}{{ 26}}](#p26)
-  - [{{ Pacing the Campaign}}{{ 26}}](#p26)
-  - [{{ Ending the Campaign}}{{ 26}}](#p26)
-  - [{{ Common Campaign Problems}}{{ 27}}](#p27)
+- #### [{{ Chapter 4: Creating Campaigns}}{{ 22}}](#p22)
+  - [{{ Long-Term Play and Story Arcs}}{{ 22}}](#p22)
+  - [{{ Tirvandor Campaign Themes}}{{ 22}}](#p22)
+  - [{{ Campaign Structure}}{{ 22}}](#p22)
+  - [{{ Campaign Phases}}{{ 23}}](#p23)
+  - [{{ Campaign Planning}}{{ 24}}](#p24)
+  - [{{ Tying Player Backstories}}{{ 25}}](#p25)
+  - [{{ Pacing the Campaign}}{{ 25}}](#p25)
+  - [{{ Ending the Campaign}}{{ 25}}](#p25)
+  - [{{ Common Campaign Problems}}{{ 26}}](#p26)
   - [{{ Using This Chapter}}{{ 27}}](#p27)
-- #### [{{ Chapter 5: Secret Locations}}{{ 29}}](#p29)
-  - [{{ Hidden Places of Power}}{{ 29}}](#p29)
-- #### [{{ Chapter 6: How Magic Really Works in Tirvandor}}{{ 31}}](#p31)
-  - [{{ Ley Line System}}{{ 31}}](#p31)
-  - [{{ Spell Creation Rules}}{{ 31}}](#p31)
+- #### [{{ Chapter 5: Secret Locations}}{{ 28}}](#p28)
+  - [{{ Hidden Places of Power}}{{ 28}}](#p28)
+- #### [{{ Chapter 6: How Magic Really Works in Tirvandor}}{{ 30}}](#p30)
+  - [{{ Ley Line System}}{{ 30}}](#p30)
+  - [{{ Spell Creation Rules}}{{ 30}}](#p30)
   - [{{ Magic Item Creation}}{{ 31}}](#p31)
-  - [{{ Ritual Casting}}{{ 32}}](#p32)
-  - [{{ Wild Magic}}{{ 32}}](#p32)
+  - [{{ Ritual Casting}}{{ 31}}](#p31)
+  - [{{ Wild Magic}}{{ 31}}](#p31)
   - [{{ Artifact Rules}}{{ 32}}](#p32)
-  - [{{ Planar Travel}}{{ 33}}](#p33)
-  - [{{ Using Magic Mechanics}}{{ 33}}](#p33)
-- ### [{{ Part III: Treasure}}{{ 35}}](#p35)
-- #### [{{ Chapter 7: Treasure & Magic Items}}{{ 35}}](#p35)
-  - [{{ Using Treasure in Tirvandor}}{{ 35}}](#p35)
-  - [{{ Treasure Tables by CR}}{{ 39}}](#p39)
-  - [{{ Item Distribution Guidelines}}{{ 39}}](#p39)
-- ### [{{ Part IV: NPCs}}{{ 41}}](#p41)
-- #### [{{ Chapter 8: NPCs of Tirvandor}}{{ 41}}](#p41)
-- ### [{{ Major NPCs}}{{ 41}}](#p41)
-  - [{{ Sultan Rashid Ashborne}}{{ 52}}](#p52)
-  - [{{ Council Mistress Elara Silverleaf}}{{ 54}}](#p54)
-  - [{{ Lord Commander Thrain Ironoak}}{{ 57}}](#p57)
-  - [{{ Master Smith Durgan Forgefire}}{{ 58}}](#p58)
-  - [{{ Captain Borin Stoneshield}}{{ 60}}](#p60)
-  - [{{ Sage Thelmar Runescribe}}{{ 61}}](#p61)
-  - [{{ Brother Tormund}}{{ 62}}](#p62)
-  - [{{ Professor Elara Moonwhisper}}{{ 64}}](#p64)
-  - [{{ Master Artisan Silvanus Brightforge}}{{ 65}}](#p65)
-  - [{{ Captain Lyra Swiftwind}}{{ 66}}](#p66)
-  - [{{ Madame Celeste}}{{ 68}}](#p68)
-  - [{{ Harbor Master Tobias Saltwind}}{{ 69}}](#p69)
-  - [{{ Captain Mira Wavecrest}}{{ 70}}](#p70)
-  - [{{ Merchant Lord Cornelius Goldpurse}}{{ 71}}](#p71)
-  - [{{ Father Aldric Tidekeeper}}{{ 72}}](#p72)
-  - [{{ The Scarlet Knife (Verena Shadowblade)}}{{ 74}}](#p74)
-  - [{{ Burgher-Master Wilhelm Von Handel}}{{ 75}}](#p75)
-  - [{{ Quartermaster Thorna Ironprice}}{{ 76}}](#p76)
-  - [{{ Caravan Master Hassan}}{{ 77}}](#p77)
-  - [{{ Watch Captain Gregor Ironhand}}{{ 78}}](#p78)
-  - [{{ Silas the Fence}}{{ 80}}](#p80)
-  - [{{ Commander Kael Stormwatcher}}{{ 81}}](#p81)
-  - [{{ Sergeant Brenna Iceheart}}{{ 82}}](#p82)
-  - [{{ Scout Captain Finn Quickfoot}}{{ 83}}](#p83)
-  - [{{ Brother Marcus}}{{ 84}}](#p84)
-  - [{{ The Frost Witch (Name Unknown)}}{{ 85}}](#p85)
-  - [{{ Elder Rashid the Twice-Blessed}}{{ 86}}](#p86)
-  - [{{ Master Glasswright Zara}}{{ 87}}](#p87)
-  - [{{ Desert Ranger Khalid}}{{ 89}}](#p89)
-  - [{{ Merchant Princess Yasmin}}{{ 90}}](#p90)
-  - [{{ The Sand Prophet (Qadir al-Rum)}}{{ 91}}](#p91)
-  - [{{ Warden Commander Ignis Ashborn}}{{ 92}}](#p92)
-  - [{{ Lady Morgana Blackwater}}{{ 93}}](#p93)
-  - [{{ Master Alchemist Varek}}{{ 94}}](#p94)
-  - [{{ Swamp Guide Grizelda}}{{ 95}}](#p95)
-  - [{{ Captain Vex Darkwater}}{{ 96}}](#p96)
-  - [{{ Witch Mother Helga}}{{ 98}}](#p98)
-  - [{{ Council Elder Thaelon Starlight}}{{ 99}}](#p99)
-  - [{{ Archdruid Silvaris Oakenheart (the Heartwood)}}{{ 100}}](#p100)
+  - [{{ Planar Travel}}{{ 32}}](#p32)
+  - [{{ Using Magic Mechanics}}{{ 32}}](#p32)
+- ### [{{ Part III: Treasure}}{{ 33}}](#p33)
+- #### [{{ Chapter 7: Treasure & Magic Items}}{{ 33}}](#p33)
+  - [{{ Using Treasure in Tirvandor}}{{ 33}}](#p33)
+  - [{{ Treasure Tables by CR}}{{ 37}}](#p37)
+  - [{{ Item Distribution Guidelines}}{{ 37}}](#p37)
+- ### [{{ Part IV: NPCs}}{{ 39}}](#p39)
+- #### [{{ Chapter 8: NPCs of Tirvandor}}{{ 39}}](#p39)
+- ### [{{ Major NPCs}}{{ 39}}](#p39)
+  - [{{ Sultan Rashid Ashborne}}{{ 50}}](#p50)
+  - [{{ Council Mistress Elara Silverleaf}}{{ 52}}](#p52)
+  - [{{ Lord Commander Thrain Ironoak}}{{ 55}}](#p55)
+  - [{{ Master Smith Durgan Forgefire}}{{ 56}}](#p56)
+  - [{{ Captain Borin Stoneshield}}{{ 58}}](#p58)
+  - [{{ Sage Thelmar Runescribe}}{{ 59}}](#p59)
+  - [{{ Brother Tormund}}{{ 60}}](#p60)
+  - [{{ Professor Elara Moonwhisper}}{{ 62}}](#p62)
+  - [{{ Master Artisan Silvanus Brightforge}}{{ 63}}](#p63)
+  - [{{ Captain Lyra Swiftwind}}{{ 64}}](#p64)
+  - [{{ Madame Celeste}}{{ 66}}](#p66)
+  - [{{ Harbor Master Tobias Saltwind}}{{ 67}}](#p67)
+  - [{{ Captain Mira Wavecrest}}{{ 68}}](#p68)
+  - [{{ Merchant Lord Cornelius Goldpurse}}{{ 69}}](#p69)
+  - [{{ Father Aldric Tidekeeper}}{{ 70}}](#p70)
+  - [{{ The Scarlet Knife (Verena Shadowblade)}}{{ 72}}](#p72)
+  - [{{ Burgher-Master Wilhelm Von Handel}}{{ 73}}](#p73)
+  - [{{ Quartermaster Thorna Ironprice}}{{ 74}}](#p74)
+  - [{{ Caravan Master Hassan}}{{ 75}}](#p75)
+  - [{{ Watch Captain Gregor Ironhand}}{{ 76}}](#p76)
+  - [{{ Silas the Fence}}{{ 78}}](#p78)
+  - [{{ Commander Kael Stormwatcher}}{{ 79}}](#p79)
+  - [{{ Sergeant Brenna Iceheart}}{{ 80}}](#p80)
+  - [{{ Scout Captain Finn Quickfoot}}{{ 81}}](#p81)
+  - [{{ Brother Marcus}}{{ 82}}](#p82)
+  - [{{ The Frost Witch (Name Unknown)}}{{ 83}}](#p83)
+  - [{{ Elder Rashid the Twice-Blessed}}{{ 84}}](#p84)
+  - [{{ Master Glasswright Zara}}{{ 85}}](#p85)
+  - [{{ Desert Ranger Khalid}}{{ 87}}](#p87)
+  - [{{ Merchant Princess Yasmin}}{{ 88}}](#p88)
+  - [{{ The Sand Prophet (Qadir al-Rum)}}{{ 89}}](#p89)
+  - [{{ Warden Commander Ignis Ashborn}}{{ 90}}](#p90)
+  - [{{ Lady Morgana Blackwater}}{{ 91}}](#p91)
+  - [{{ Master Alchemist Varek}}{{ 92}}](#p92)
+  - [{{ Swamp Guide Grizelda}}{{ 93}}](#p93)
+  - [{{ Captain Vex Darkwater}}{{ 94}}](#p94)
+  - [{{ Witch Mother Helga}}{{ 96}}](#p96)
+  - [{{ Council Elder Thaelon Starlight}}{{ 97}}](#p97)
+  - [{{ Archdruid Silvaris Oakenheart (the Heartwood)}}{{ 98}}](#p98)
 }}
 
 \page
@@ -244,202 +244,202 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 {{toc,wide
 # Contents
 -
-  - [{{ Spellweaver Lyrian Crystal}}{{ 101}}](#p101)
-  - [{{ Lady Shadowleaf (True Name: Niriel)}}{{ 102}}](#p102)
-  - [{{ High Diviner Celestia Starborn}}{{ 104}}](#p104)
-  - [{{ Council Speaker Aquila Clearwater}}{{ 105}}](#p105)
-  - [{{ Elder Council Mother Talia Vinehart}}{{ 106}}](#p106)
-  - [{{ Lord Commander Gareth Lightbane (Iron Council)}}{{ 107}}](#p107)
-  - [{{ Trade Prince Lucian Goldfingers (Merchant League)}}{{ 108}}](#p108)
-  - [{{ Master Crimson (The Syndicate)}}{{ 110}}](#p110)
-  - [{{ Grand Warden Volcanus Rex (Ashwardens)}}{{ 111}}](#p111)
-  - [{{ Warden Commander Thalia Moonbow (Ironspine Rangers)}}{{ 112}}](#p112)
-  - [{{ Forge-Master Rurik Ironanvil (Forgebound Guild)}}{{ 113}}](#p113)
-  - [{{ Crown Prince Thorin Thandris}}{{ 115}}](#p115)
-  - [{{ General Marthos Thandris}}{{ 117}}](#p117)
-  - [{{ Princess Elanil Aethermere}}{{ 120}}](#p120)
-  - [{{ Archmage Eldrin Aethermere}}{{ 123}}](#p123)
-  - [{{ Lord Aldris Goldshore IV}}{{ 125}}](#p125)
-  - [{{ Lady Serina Goldshore}}{{ 128}}](#p128)
-  - [{{ Thane Durin Ironforge}}{{ 130}}](#p130)
-  - [{{ Master Smith Gundren Ironforge}}{{ 133}}](#p133)
-  - [{{ Lady Seraphine Silverleaf}}{{ 136}}](#p136)
-  - [{{ Ranger-Lord Arannis Silverleaf}}{{ 139}}](#p139)
-  - [{{ Admiral Theron Stormcrest}}{{ 141}}](#p141)
-  - [{{ Lady Tempest Stormcrest}}{{ 144}}](#p144)
-  - [{{ Master Zircon Crystalborn}}{{ 147}}](#p147)
-  - [{{ Gem-Mage Sapphira Crystalborn}}{{ 150}}](#p150)
-  - [{{ Captain Brenna Frostbeard}}{{ 152}}](#p152)
-  - [{{ The Frost Seer (Eirlys Snowsight)}}{{ 155}}](#p155)
-  - [{{ Commander Torvald Stoneshield}}{{ 157}}](#p157)
-  - [{{ Merchant-Prince Kael Icewind}}{{ 159}}](#p159)
-  - [{{ Master Miner Grimnir Deepdelve}}{{ 160}}](#p160)
-  - [{{ The Ice Witch of Iceridge (Ylva Frostborn)}}{{ 161}}](#p161)
-  - [{{ Forge-Master Thordak Lavaheart}}{{ 163}}](#p163)
-  - [{{ Sage Veridian Runereader}}{{ 164}}](#p164)
-  - [{{ Engineer Mira Steamvent}}{{ 166}}](#p166)
-  - [{{ Quarry-Master Borin Stonecutter}}{{ 168}}](#p168)
-  - [{{ Elder Thalindra Oakheart}}{{ 170}}](#p170)
-  - [{{ Master Carpenter Rowan Woodwise}}{{ 173}}](#p173)
-  - [{{ Miller Tobias Waterwheel}}{{ 175}}](#p175)
-  - [{{ Lady Seraphina Riverbrook}}{{ 177}}](#p177)
-  - [{{ Captain Marcus Frontiersman (Werewolf)}}{{ 179}}](#p179)
-  - [{{ The Silver Wolf}}{{ 182}}](#p182)
-  - [{{ Forester Galen Sustainharvest}}{{ 184}}](#p184)
-  - [{{ Druid Thornwood}}{{ 187}}](#p187)
-  - [{{ Bard Finnegan Storyteller}}{{ 189}}](#p189)
-  - [{{ Hermit Sage Morganna Whisperwind}}{{ 192}}](#p192)
-  - [{{ Archmage Veridian Starweaver}}{{ 194}}](#p194)
-  - [{{ Professor Miranda Questseeker}}{{ 197}}](#p197)
-  - [{{ Master Hunter Kael Dragonsbane}}{{ 200}}](#p200)
-  - [{{ Captain Thalia Lightbringer}}{{ 203}}](#p203)
-  - [{{ Sage Cornelius the Elder}}{{ 205}}](#p205)
-  - [{{ Admiral Marcus Truewind}}{{ 208}}](#p208)
-  - [{{ Archdruid Silvaris Oakenheart (Silverwood Circle)}}{{ 211}}](#p211)
-  - [{{ Artificer Tobias Gearwise}}{{ 212}}](#p212)
-  - [{{ Spy-Master Kaelen Shadowleaf}}{{ 214}}](#p214)
-  - [{{ The Guardian of Thresholds}}{{ 216}}](#p216)
-  - [{{ Colony-Mind K’Thrax}}{{ 217}}](#p217)
-  - [{{ Morveth Shadowmane (Ancient Black Dragon)}}{{ 219}}](#p219)
-  - [{{ Paladin Radiant Dawnbringer (First Paladin)}}{{ 220}}](#p220)
-  - [{{ Wizard Merrick the Wise (The Last Scholar)}}{{ 222}}](#p222)
-  - [{{ Ranger-Lord Silvanus (Vampire Slayer)}}{{ 223}}](#p223)
-  - [{{ Monk Serenity (The Enlightened One)}}{{ 224}}](#p224)
-  - [{{ Demon Lord Maltharok (The Burning Legion)}}{{ 226}}](#p226)
-  - [{{ Saint Celestine the Healer (The Ascended)}}{{ 227}}](#p227)
-  - [{{ Lord Garrett Blackwood (Founder of Blackwood)}}{{ 229}}](#p229)
-  - [{{ Admiral Caspian Goldshore (Maritime Dynasty Founder)}}{{ 230}}](#p230)
-  - [{{ Archmage Celestine (Arcane Dynasty)}}{{ 231}}](#p231)
-  - [{{ Matriarch Seraphina Silverleaf (The Ancient Elf)}}{{ 233}}](#p233)
-  - [{{ Thane Durgan Ironforge (Mountain Lord)}}{{ 234}}](#p234)
-  - [{{ King Thandris V (The Dragon’s Debtor)}}{{ 235}}](#p235)
-  - [{{ Lord Emberthorn the Defiant (The Martyr)}}{{ 237}}](#p237)
-  - [{{ Dragon Infernalix (The Vanished Flame)}}{{ 238}}](#p238)
-  - [{{ Additional Kaer Thandros Officials}}{{ 240}}](#p240)
-  - [{{ Grand Duke Valentin Rothgar}}{{ 240}}](#p240)
-  - [{{ General Viktoria Steelheart}}{{ 242}}](#p242)
-  - [{{ High Inquisitor Mordain}}{{ 244}}](#p244)
-  - [{{ Lady Cassandra Vantress}}{{ 246}}](#p246)
-  - [{{ Archmagus Theron Darkweave}}{{ 248}}](#p248)
-  - [{{ Commander Taran Steelheart}}{{ 249}}](#p249)
-  - [{{ Seraphina Goldheart}}{{ 251}}](#p251)
-  - [{{ General Marcus Steelhart}}{{ 252}}](#p252)
-  - [{{ High Mage Arcturus}}{{ 254}}](#p254)
-  - [{{ General Marcus Thorne}}{{ 256}}](#p256)
-  - [{{ Silverpine Officials}}{{ 258}}](#p258)
-  - [{{ Councilor Mira Silvervein}}{{ 258}}](#p258)
-  - [{{ Diplomat Chen Aldermist}}{{ 259}}](#p259)
-  - [{{ Lieutenant Sara Brightwind}}{{ 261}}](#p261)
-  - [{{ Faction Leaders}}{{ 263}}](#p263)
-  - [{{ Guildmaster Roderic Ironfist}}{{ 263}}](#p263)
-  - [{{ Commander Helena Blackstone}}{{ 264}}](#p264)
-  - [{{ Garrick “Ironheart” Hammerfist}}{{ 266}}](#p266)
-  - [{{ Goldreach Figures}}{{ 268}}](#p268)
-  - [{{ Captain Aldren Blackwood}}{{ 268}}](#p268)
-  - [{{ Historical & Legendary Figures}}{{ 270}}](#p270)
-  - [{{ Aldric the Chain-Breaker (Historical)}}{{ 270}}](#p270)
-  - [{{ Ryldak the Ancient}}{{ 271}}](#p271)
-  - [{{ Young Tom (The Prophecy Child)}}{{ 272}}](#p272)
-- ### [{{ Miscellaneous NPCs}}{{ 275}}](#p275)
-  - [{{ Marta Goodbarrel}}{{ 275}}](#p275)
-  - [{{ Grimjaw}}{{ 276}}](#p276)
-  - [{{ Elena Ravencroft}}{{ 277}}](#p277)
-  - [{{ Whisper}}{{ 278}}](#p278)
-  - [{{ Kael Ironforge}}{{ 279}}](#p279)
-  - [{{ Viktor Coldstone}}{{ 280}}](#p280)
+  - [{{ Spellweaver Lyrian Crystal}}{{ 99}}](#p99)
+  - [{{ Lady Shadowleaf (True Name: Niriel)}}{{ 100}}](#p100)
+  - [{{ High Diviner Celestia Starborn}}{{ 102}}](#p102)
+  - [{{ Council Speaker Aquila Clearwater}}{{ 103}}](#p103)
+  - [{{ Elder Council Mother Talia Vinehart}}{{ 104}}](#p104)
+  - [{{ Lord Commander Gareth Lightbane (Iron Council)}}{{ 105}}](#p105)
+  - [{{ Trade Prince Lucian Goldfingers (Merchant League)}}{{ 106}}](#p106)
+  - [{{ Master Crimson (The Syndicate)}}{{ 108}}](#p108)
+  - [{{ Grand Warden Volcanus Rex (Ashwardens)}}{{ 109}}](#p109)
+  - [{{ Warden Commander Thalia Moonbow (Ironspine Rangers)}}{{ 110}}](#p110)
+  - [{{ Forge-Master Rurik Ironanvil (Forgebound Guild)}}{{ 111}}](#p111)
+  - [{{ Crown Prince Thorin Thandris}}{{ 113}}](#p113)
+  - [{{ General Marthos Thandris}}{{ 115}}](#p115)
+  - [{{ Princess Elanil Aethermere}}{{ 118}}](#p118)
+  - [{{ Archmage Eldrin Aethermere}}{{ 121}}](#p121)
+  - [{{ Lord Aldris Goldshore IV}}{{ 123}}](#p123)
+  - [{{ Lady Serina Goldshore}}{{ 126}}](#p126)
+  - [{{ Thane Durin Ironforge}}{{ 128}}](#p128)
+  - [{{ Master Smith Gundren Ironforge}}{{ 131}}](#p131)
+  - [{{ Lady Seraphine Silverleaf}}{{ 134}}](#p134)
+  - [{{ Ranger-Lord Arannis Silverleaf}}{{ 137}}](#p137)
+  - [{{ Admiral Theron Stormcrest}}{{ 139}}](#p139)
+  - [{{ Lady Tempest Stormcrest}}{{ 142}}](#p142)
+  - [{{ Master Zircon Crystalborn}}{{ 145}}](#p145)
+  - [{{ Gem-Mage Sapphira Crystalborn}}{{ 148}}](#p148)
+  - [{{ Captain Brenna Frostbeard}}{{ 150}}](#p150)
+  - [{{ The Frost Seer (Eirlys Snowsight)}}{{ 153}}](#p153)
+  - [{{ Commander Torvald Stoneshield}}{{ 155}}](#p155)
+  - [{{ Merchant-Prince Kael Icewind}}{{ 157}}](#p157)
+  - [{{ Master Miner Grimnir Deepdelve}}{{ 158}}](#p158)
+  - [{{ The Ice Witch of Iceridge (Ylva Frostborn)}}{{ 159}}](#p159)
+  - [{{ Forge-Master Thordak Lavaheart}}{{ 161}}](#p161)
+  - [{{ Sage Veridian Runereader}}{{ 162}}](#p162)
+  - [{{ Engineer Mira Steamvent}}{{ 164}}](#p164)
+  - [{{ Quarry-Master Borin Stonecutter}}{{ 166}}](#p166)
+  - [{{ Elder Thalindra Oakheart}}{{ 168}}](#p168)
+  - [{{ Master Carpenter Rowan Woodwise}}{{ 171}}](#p171)
+  - [{{ Miller Tobias Waterwheel}}{{ 173}}](#p173)
+  - [{{ Lady Seraphina Riverbrook}}{{ 175}}](#p175)
+  - [{{ Captain Marcus Frontiersman (Werewolf)}}{{ 177}}](#p177)
+  - [{{ The Silver Wolf}}{{ 180}}](#p180)
+  - [{{ Forester Galen Sustainharvest}}{{ 182}}](#p182)
+  - [{{ Druid Thornwood}}{{ 185}}](#p185)
+  - [{{ Bard Finnegan Storyteller}}{{ 187}}](#p187)
+  - [{{ Hermit Sage Morganna Whisperwind}}{{ 190}}](#p190)
+  - [{{ Archmage Veridian Starweaver}}{{ 192}}](#p192)
+  - [{{ Professor Miranda Questseeker}}{{ 195}}](#p195)
+  - [{{ Master Hunter Kael Dragonsbane}}{{ 198}}](#p198)
+  - [{{ Captain Thalia Lightbringer}}{{ 201}}](#p201)
+  - [{{ Sage Cornelius the Elder}}{{ 203}}](#p203)
+  - [{{ Admiral Marcus Truewind}}{{ 206}}](#p206)
+  - [{{ Archdruid Silvaris Oakenheart (Silverwood Circle)}}{{ 209}}](#p209)
+  - [{{ Artificer Tobias Gearwise}}{{ 210}}](#p210)
+  - [{{ Spy-Master Kaelen Shadowleaf}}{{ 212}}](#p212)
+  - [{{ The Guardian of Thresholds}}{{ 214}}](#p214)
+  - [{{ Colony-Mind K’Thrax}}{{ 215}}](#p215)
+  - [{{ Morveth Shadowmane (Ancient Black Dragon)}}{{ 217}}](#p217)
+  - [{{ Paladin Radiant Dawnbringer (First Paladin)}}{{ 218}}](#p218)
+  - [{{ Wizard Merrick the Wise (The Last Scholar)}}{{ 220}}](#p220)
+  - [{{ Ranger-Lord Silvanus (Vampire Slayer)}}{{ 221}}](#p221)
+  - [{{ Monk Serenity (The Enlightened One)}}{{ 222}}](#p222)
+  - [{{ Demon Lord Maltharok (The Burning Legion)}}{{ 224}}](#p224)
+  - [{{ Saint Celestine the Healer (The Ascended)}}{{ 225}}](#p225)
+  - [{{ Lord Garrett Blackwood (Founder of Blackwood)}}{{ 227}}](#p227)
+  - [{{ Admiral Caspian Goldshore (Maritime Dynasty Founder)}}{{ 228}}](#p228)
+  - [{{ Archmage Celestine (Arcane Dynasty)}}{{ 229}}](#p229)
+  - [{{ Matriarch Seraphina Silverleaf (The Ancient Elf)}}{{ 231}}](#p231)
+  - [{{ Thane Durgan Ironforge (Mountain Lord)}}{{ 232}}](#p232)
+  - [{{ King Thandris V (The Dragon’s Debtor)}}{{ 233}}](#p233)
+  - [{{ Lord Emberthorn the Defiant (The Martyr)}}{{ 235}}](#p235)
+  - [{{ Dragon Infernalix (The Vanished Flame)}}{{ 236}}](#p236)
+  - [{{ Additional Kaer Thandros Officials}}{{ 238}}](#p238)
+  - [{{ Grand Duke Valentin Rothgar}}{{ 238}}](#p238)
+  - [{{ General Viktoria Steelheart}}{{ 240}}](#p240)
+  - [{{ High Inquisitor Mordain}}{{ 242}}](#p242)
+  - [{{ Lady Cassandra Vantress}}{{ 244}}](#p244)
+  - [{{ Archmagus Theron Darkweave}}{{ 246}}](#p246)
+  - [{{ Commander Taran Steelheart}}{{ 247}}](#p247)
+  - [{{ Seraphina Goldheart}}{{ 249}}](#p249)
+  - [{{ General Marcus Steelhart}}{{ 250}}](#p250)
+  - [{{ High Mage Arcturus}}{{ 252}}](#p252)
+  - [{{ General Marcus Thorne}}{{ 254}}](#p254)
+  - [{{ Silverpine Officials}}{{ 256}}](#p256)
+  - [{{ Councilor Mira Silvervein}}{{ 256}}](#p256)
+  - [{{ Diplomat Chen Aldermist}}{{ 257}}](#p257)
+  - [{{ Lieutenant Sara Brightwind}}{{ 259}}](#p259)
+  - [{{ Faction Leaders}}{{ 261}}](#p261)
+  - [{{ Guildmaster Roderic Ironfist}}{{ 261}}](#p261)
+  - [{{ Commander Helena Blackstone}}{{ 262}}](#p262)
+  - [{{ Garrick “Ironheart” Hammerfist}}{{ 264}}](#p264)
+  - [{{ Goldreach Figures}}{{ 266}}](#p266)
+  - [{{ Captain Aldren Blackwood}}{{ 266}}](#p266)
+  - [{{ Historical & Legendary Figures}}{{ 268}}](#p268)
+  - [{{ Aldric the Chain-Breaker (Historical)}}{{ 268}}](#p268)
+  - [{{ Ryldak the Ancient}}{{ 269}}](#p269)
+  - [{{ Young Tom (The Prophecy Child)}}{{ 270}}](#p270)
+- ### [{{ Miscellaneous NPCs}}{{ 273}}](#p273)
+  - [{{ Marta Goodbarrel}}{{ 273}}](#p273)
+  - [{{ Grimjaw}}{{ 274}}](#p274)
+  - [{{ Elena Ravencroft}}{{ 275}}](#p275)
+  - [{{ Whisper}}{{ 276}}](#p276)
+  - [{{ Kael Ironforge}}{{ 277}}](#p277)
+  - [{{ Viktor Coldstone}}{{ 278}}](#p278)
 }}
 \page
 
 {{toc,wide
 # Contents
-  - [{{ Sir Garrett Ironhelm}}{{ 281}}](#p281)
-  - [{{ Sister Marian}}{{ 282}}](#p282)
-  - [{{ Sister Mortua}}{{ 283}}](#p283)
-  - [{{ Vexis Shadowmaw}}{{ 284}}](#p284)
-  - [{{ Alden Swiftfoot}}{{ 285}}](#p285)
-  - [{{ Thorne “The Butcher”}}{{ 286}}](#p286)
-  - [{{ Lydia Shadowstep}}{{ 287}}](#p287)
-  - [{{ Marcus Vrell}}{{ 288}}](#p288)
-  - [{{ Helena Duskmere}}{{ 289}}](#p289)
-  - [{{ Varak Ironfist}}{{ 290}}](#p290)
-  - [{{ Korvan Steelhand}}{{ 291}}](#p291)
-  - [{{ Katrina Ashfall}}{{ 292}}](#p292)
-  - [{{ Miranda Ashwood}}{{ 293}}](#p293)
-  - [{{ Magnus Ironroot}}{{ 294}}](#p294)
-  - [{{ Old Barrett}}{{ 295}}](#p295)
-  - [{{ Elder Tremont}}{{ 296}}](#p296)
-  - [{{ Aramil Starwarden}}{{ 297}}](#p297)
-  - [{{ Master Aldrick Woodwise}}{{ 298}}](#p298)
-  - [{{ Vault Guardian}}{{ 299}}](#p299)
+  - [{{ Sir Garrett Ironhelm}}{{ 279}}](#p279)
+  - [{{ Sister Marian}}{{ 280}}](#p280)
+  - [{{ Sister Mortua}}{{ 281}}](#p281)
+  - [{{ Vexis Shadowmaw}}{{ 282}}](#p282)
+  - [{{ Alden Swiftfoot}}{{ 283}}](#p283)
+  - [{{ Thorne “The Butcher”}}{{ 284}}](#p284)
+  - [{{ Lydia Shadowstep}}{{ 285}}](#p285)
+  - [{{ Marcus Vrell}}{{ 286}}](#p286)
+  - [{{ Helena Duskmere}}{{ 287}}](#p287)
+  - [{{ Varak Ironfist}}{{ 288}}](#p288)
+  - [{{ Korvan Steelhand}}{{ 289}}](#p289)
+  - [{{ Katrina Ashfall}}{{ 290}}](#p290)
+  - [{{ Miranda Ashwood}}{{ 291}}](#p291)
+  - [{{ Magnus Ironroot}}{{ 292}}](#p292)
+  - [{{ Old Barrett}}{{ 293}}](#p293)
+  - [{{ Elder Tremont}}{{ 294}}](#p294)
+  - [{{ Aramil Starwarden}}{{ 295}}](#p295)
+  - [{{ Master Aldrick Woodwise}}{{ 296}}](#p296)
+  - [{{ Vault Guardian}}{{ 297}}](#p297)
 
-- ### [{{ Part V: DM Tools}}{{ 300}}](#p300)
-- #### [{{ Chapter 9: Creating Custom Content}}{{ 300}}](#p300)
-  - [{{ Creating Creatures}}{{ 300}}](#p300)
-  - [{{ Creating Spells}}{{ 300}}](#p300)
-  - [{{ Creating Magic Items}}{{ 300}}](#p300)
-  - [{{ Environmental Hazards}}{{ 301}}](#p301)
-  - [{{ Bound Corruption (Detailed)}}{{ 301}}](#p301)
-  - [{{ Traps}}{{ 301}}](#p301)
-  - [{{ Using This Chapter}}{{ 302}}](#p302)
-- #### [{{ Chapter 10: Faction Strongholds}}{{ 303}}](#p303)
-  - [{{ Gaining a Stronghold}}{{ 303}}](#p303)
-  - [{{ Stronghold Types}}{{ 303}}](#p303)
-- #### [{{ Chapter 11: Encounter Building: Creating Balanced, Memorable Encounters}}{{ 305}}](#p305)
-  - [{{ Encounter Basics}}{{ 305}}](#p305)
-  - [{{ Combat Encounters}}{{ 305}}](#p305)
-  - [{{ Using Terrain}}{{ 305}}](#p305)
-  - [{{ Monster Tactics}}{{ 306}}](#p306)
-  - [{{ Encounter Pacing}}{{ 306}}](#p306)
-  - [{{ Social Encounters}}{{ 306}}](#p306)
-  - [{{ Exploration Encounters}}{{ 306}}](#p306)
-  - [{{ Mixed Encounters}}{{ 307}}](#p307)
-  - [{{ Dynamic Encounters}}{{ 307}}](#p307)
-  - [{{ Encounter Variety}}{{ 307}}](#p307)
-  - [{{ Special Encounter Types}}{{ 307}}](#p307)
-  - [{{ Balancing for Party Size}}{{ 308}}](#p308)
-  - [{{ Example Encounters}}{{ 308}}](#p308)
-- #### [{{ Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor’s Wild Lands}}{{ 309}}](#p309)
-  - [{{ Travel Pacing}}{{ 309}}](#p309)
-  - [{{ Navigation}}{{ 309}}](#p309)
-  - [{{ Foraging and Hunting}}{{ 309}}](#p309)
-  - [{{ Weather}}{{ 310}}](#p310)
-  - [{{ Hazards}}{{ 310}}](#p310)
-  - [{{ Random Encounters}}{{ 311}}](#p311)
-  - [{{ Camping}}{{ 311}}](#p311)
-  - [{{ Survival Challenges}}{{ 312}}](#p312)
-  - [{{ Wilderness Survival Tips for DMs}}{{ 313}}](#p313)
-- ### [{{ Part VI: Appendices}}{{ 314}}](#p314)
-- #### [{{ Appendix A: Weather Tables}}{{ 314}}](#p314)
-  - [{{ Daily Weather}}{{ 314}}](#p314)
-  - [{{ Extreme Weather}}{{ 314}}](#p314)
-- #### [{{ Appendix B: Random Encounters by Region}}{{ 314}}](#p314)
-  - [{{ Thaldros Mainland}}{{ 314}}](#p314)
-  - [{{ Aethoria Territories}}{{ 314}}](#p314)
-  - [{{ The Border}}{{ 314}}](#p314)
-- #### [{{ Appendix C: Treasure Tables}}{{ 315}}](#p315)
-  - [{{ Treasure Hoard by CR}}{{ 315}}](#p315)
-  - [{{ Individual Treasure}}{{ 315}}](#p315)
-- #### [{{ Appendix D: Settlement Generation}}{{ 315}}](#p315)
-  - [{{ Settlement Size}}{{ 315}}](#p315)
-  - [{{ Settlement Attitude Toward Strangers}}{{ 315}}](#p315)
-  - [{{ Settlement Problem}}{{ 315}}](#p315)
-- #### [{{ Appendix E: NPC Generation}}{{ 315}}](#p315)
-  - [{{ Quick NPC Generator}}{{ 315}}](#p315)
-- #### [{{ Appendix F: Travel and Navigation}}{{ 316}}](#p316)
-  - [{{ Travel Distances}}{{ 316}}](#p316)
-  - [{{ Getting Lost (Navigation DC)}}{{ 316}}](#p316)
-- #### [{{ Appendix G: Difficulty Classes}}{{ 316}}](#p316)
-  - [{{ Standard DCs}}{{ 316}}](#p316)
-  - [{{ Contested Actions}}{{ 316}}](#p316)
-- #### [{{ Appendix H: Condition Reference}}{{ 316}}](#p316)
-- #### [{{ Appendix I: Faction Influence Scale}}{{ 316}}](#p316)
-  - [{{ Earning Faction Influence}}{{ 317}}](#p317)
-- #### [{{ Appendix J: Bound Corruption Stages}}{{ 317}}](#p317)
-- #### [{{ Appendix K: Ley Line Proximity Effects}}{{ 317}}](#p317)
-- #### [{{ Appendix L: Quick Loot Generator}}{{ 317}}](#p317)
-  - [{{ Coin Loot by CR}}{{ 317}}](#p317)
-  - [{{ Gemstone Values}}{{ 317}}](#p317)
-  - [{{ Licensing & Attribution}}{{ 318}}](#p318)
+- ### [{{ Part V: DM Tools}}{{ 298}}](#p298)
+- #### [{{ Chapter 9: Creating Custom Content}}{{ 298}}](#p298)
+  - [{{ Creating Creatures}}{{ 298}}](#p298)
+  - [{{ Creating Spells}}{{ 298}}](#p298)
+  - [{{ Creating Magic Items}}{{ 298}}](#p298)
+  - [{{ Environmental Hazards}}{{ 299}}](#p299)
+  - [{{ Bound Corruption (Detailed)}}{{ 299}}](#p299)
+  - [{{ Traps}}{{ 300}}](#p300)
+  - [{{ Using This Chapter}}{{ 300}}](#p300)
+- #### [{{ Chapter 10: Faction Strongholds}}{{ 301}}](#p301)
+  - [{{ Gaining a Stronghold}}{{ 301}}](#p301)
+  - [{{ Stronghold Types}}{{ 301}}](#p301)
+- #### [{{ Chapter 11: Encounter Building: Creating Balanced, Memorable Encounters}}{{ 303}}](#p303)
+  - [{{ Encounter Basics}}{{ 303}}](#p303)
+  - [{{ Combat Encounters}}{{ 303}}](#p303)
+  - [{{ Using Terrain}}{{ 303}}](#p303)
+  - [{{ Monster Tactics}}{{ 304}}](#p304)
+  - [{{ Encounter Pacing}}{{ 304}}](#p304)
+  - [{{ Social Encounters}}{{ 304}}](#p304)
+  - [{{ Exploration Encounters}}{{ 304}}](#p304)
+  - [{{ Mixed Encounters}}{{ 305}}](#p305)
+  - [{{ Dynamic Encounters}}{{ 305}}](#p305)
+  - [{{ Encounter Variety}}{{ 305}}](#p305)
+  - [{{ Special Encounter Types}}{{ 305}}](#p305)
+  - [{{ Balancing for Party Size}}{{ 306}}](#p306)
+  - [{{ Example Encounters}}{{ 306}}](#p306)
+- #### [{{ Chapter 12: Wilderness Exploration: Surviving and Thriving in Tirvandor’s Wild Lands}}{{ 307}}](#p307)
+  - [{{ Travel Pacing}}{{ 307}}](#p307)
+  - [{{ Navigation}}{{ 307}}](#p307)
+  - [{{ Foraging and Hunting}}{{ 307}}](#p307)
+  - [{{ Weather}}{{ 308}}](#p308)
+  - [{{ Hazards}}{{ 308}}](#p308)
+  - [{{ Random Encounters}}{{ 309}}](#p309)
+  - [{{ Camping}}{{ 309}}](#p309)
+  - [{{ Survival Challenges}}{{ 310}}](#p310)
+  - [{{ Wilderness Survival Tips for DMs}}{{ 311}}](#p311)
+- ### [{{ Part VI: Appendices}}{{ 312}}](#p312)
+- #### [{{ Appendix A: Weather Tables}}{{ 312}}](#p312)
+  - [{{ Daily Weather}}{{ 312}}](#p312)
+  - [{{ Extreme Weather}}{{ 312}}](#p312)
+- #### [{{ Appendix B: Random Encounters by Region}}{{ 312}}](#p312)
+  - [{{ Thaldros Mainland}}{{ 312}}](#p312)
+  - [{{ Aethoria Territories}}{{ 312}}](#p312)
+  - [{{ The Border}}{{ 312}}](#p312)
+- #### [{{ Appendix C: Treasure Tables}}{{ 313}}](#p313)
+  - [{{ Treasure Hoard by CR}}{{ 313}}](#p313)
+  - [{{ Individual Treasure}}{{ 313}}](#p313)
+- #### [{{ Appendix D: Settlement Generation}}{{ 313}}](#p313)
+  - [{{ Settlement Size}}{{ 313}}](#p313)
+  - [{{ Settlement Attitude Toward Strangers}}{{ 313}}](#p313)
+  - [{{ Settlement Problem}}{{ 313}}](#p313)
+- #### [{{ Appendix E: NPC Generation}}{{ 314}}](#p314)
+  - [{{ Quick NPC Generator}}{{ 314}}](#p314)
+- #### [{{ Appendix F: Travel and Navigation}}{{ 314}}](#p314)
+  - [{{ Travel Distances}}{{ 314}}](#p314)
+  - [{{ Getting Lost (Navigation DC)}}{{ 314}}](#p314)
+- #### [{{ Appendix G: Difficulty Classes}}{{ 314}}](#p314)
+  - [{{ Standard DCs}}{{ 314}}](#p314)
+  - [{{ Contested Actions}}{{ 314}}](#p314)
+- #### [{{ Appendix H: Condition Reference}}{{ 314}}](#p314)
+- #### [{{ Appendix I: Faction Influence Scale}}{{ 315}}](#p315)
+  - [{{ Earning Faction Influence}}{{ 315}}](#p315)
+- #### [{{ Appendix J: Bound Corruption Stages}}{{ 315}}](#p315)
+- #### [{{ Appendix K: Ley Line Proximity Effects}}{{ 315}}](#p315)
+- #### [{{ Appendix L: Quick Loot Generator}}{{ 315}}](#p315)
+  - [{{ Coin Loot by CR}}{{ 315}}](#p315)
+  - [{{ Gemstone Values}}{{ 315}}](#p315)
+  - [{{ Licensing & Attribution}}{{ 316}}](#p316)
 }}
 
 
@@ -21749,7 +21749,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Age of Tyrants, 7
 - Alden Swiftfoot, 283
 - Aldren Blackwood, Captain, 266
-- Aldric IV Thandris, King, 41
+- Aldric IV Thandris, King, 39
 - Aldric the Chain-Breaker (Historical), 268
 - Aldric Tidekeeper, Father, 70
 - Rowan Woodwise, Master Carpenter, 171
@@ -21762,7 +21762,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Arcturus, High Mage, 252
 - Armor of the Unbreakable, 37
 - Artifact Rules, 32
-- Artificer Tobias Gearwise, 211
+- Artificer Tobias Gearwise, 210
 - Ashfall Barrens, 52
 - Ashfall Uprising, 55
 - Ashgate, 28
@@ -21770,13 +21770,13 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Ashwardens, The, 109
 - Belt of Giant Strength (Frost Giant), 35
 - Black Archive, The, 28
-- Border Captain’s Badge, 33
+- Border Captain's Badge, 35
 - Borin Stonecutter, Quarry-Master, 166
 - Borin Stoneshield, Captain, 58
 - Bound Ancients, The, 9
 - Bound Corruption, 299
 - Bound Corruption Stages (Appendix J), 315
-- Brenna Frostbeard, Captain, 152
+- Brenna Frostbeard, Captain, 150
 - Brenna Iceheart, Sergeant, 80
 - Campaign Phases, 23
 - Campaign Structure, 22
@@ -21793,12 +21793,12 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Circle of Seven, The, 8
 - Cloak of Invisibility, 37
 - Combat, 12
-- Combat Encounters, 305
+- Combat Encounters, 303
 - Complete Timeline of Tirvandor (Chapter 1), 7
 - Condition Reference (Appendix H), 314
 - Conditions, 13
 - Contested Lands, The, 29
-- Contests, 9
+- Contests, 11
 - Core Mechanics and Adjudication (Chapter 2), 11
 - Cornelius Goldpurse, Merchant Lord, 69
 - Cornelius the Elder, Sage, 203
@@ -21809,7 +21809,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Creating Campaigns (Chapter 4), 22
 - Creating Creatures, 298
 - Creating Custom Content (Chapter 9), 298
-- Creating Magic Items, 300
+- Creating Magic Items, 298
 - Creating Spells, 298
 - Crimson, Master (The Syndicate), 108
 - Critical Hits, 12
@@ -21840,7 +21840,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Elena Ravencroft, 275
 - Emberforge, 57
 - Emberthorn the Defiant, Lord (The Martyr), 235
-- Encounter Basics, 305
+- Encounter Basics, 303
 - Encounter Building: Creating Balanced, Memorable Encounters (Chapter 11), 303
 - Encounter Pacing, 304
 - Engineer Mira Steamvent, 164
@@ -21865,7 +21865,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Gareth Lightbane, Lord Commander (Iron Council), 105
 - Garrett Blackwood, Lord (Founder of Blackwood), 227
 - Garrett Ironhelm, Sir, 279
-- Garrick “Ironheart” Hammerfist, 264
+- Garrick "Ironheart" Hammerfist, 264
 - Getting Lost, 14
 - Goldreach, 29
 - Goldreach Vault 13, 29
@@ -21907,7 +21907,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Ironhold, 61
 - Ironspine Mountains, 7
 - Ironspine Rangers, The, 110
-- K’Thrax, Colony-Mind, 216
+- K'Thrax, Colony-Mind, 215
 - Kael Dragonsbane, Master Hunter, 198
 - Kael Icewind, Merchant-Prince, 157
 - Kael Ironforge, 277
@@ -21949,14 +21949,14 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Monster Tactics, 304
 - Mordain the Sentinel, 243
 - Mordain, High Inquisitor, 242
-- Morgana Blackwater, Lady, 92
+- Morgana Blackwater, Lady, 91
 - Morganna Whisperwind, Hermit Sage, 190
 - Morningstar - Holy Radiant, 35
 - Mortua, Sister, 281
 - Morveth Shadowmane (Ancient Black Dragon), 217
 - Movement, 12
 - Navigation, 307
-- Necromancer Lord’s Phylactery, 37
+- Necromancer Lord's Phylactery, 39
 - Nexus of Seven Sorrows, 28
 - Northern Pact, The, 41
 - NPC Attitudes, 14
@@ -22025,24 +22025,24 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Sylvara (goddess), 71
 - Syndicate, The, 108
 - Talia Vinehart, Elder Council Mother, 104
-- Taran Steelheart, Commander, 248
+- Taran Steelheart, Commander, 247
 - Tempest Stormcrest, Lady, 142
 - Temple of the Void Saints, 29
 - Thaelon Starlight, Council Elder, 97
 - Thalia Lightbringer, Captain, 201
 - Thalia Moonbow, Warden Commander (Ironspine Rangers), 110
 - Thalindra Oakheart, Elder, 168
-- Thandris V, King (The Dragon’s Debtor), 234
+- Thandris V, King (The Dragon's Debtor), 235
 - Thelmar Runescribe, Sage, 59
 - Theron Darkweave, Archmagus, 246
 - Theron Stormcrest, Admiral, 139
 - Thordak Lavaheart, Forge-Master, 161
 - Thorin Thandris, Crown Prince, 113
 - Thorna Ironprice, Quartermaster, 74
-- Thorne “The Butcher”, 284
+- Thorne "The Butcher", 284
 - Thornmire, 68
 - Thrain Ironoak, Lord Commander, 55
-- Thrandil’s Edge, 40
+- Thrandil's Edge, 41
 - Three-Clue Rule, 19
 - Tobias Saltwind, Harbor Master, 67
 - Tormund, Brother, 60
@@ -22055,7 +22055,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Treasure Tables (Appendix C), 313
 - Tremont, Elder, 294
 - Tyrant, The, 10
-- Using Terrain, 305
+- Using Terrain, 303
 - Valentin Rothgar, Grand Duke, 238
 - Varak Ironfist, 288
 - Varek, Master Alchemist, 92
@@ -22075,14 +22075,14 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 - Weaver, The (Bound Ancient), 10
 - Whisper, 190
 - Wild Magic, 31
-- Wilderness Exploration: Surviving and Thriving in Tirvandor’s Wild Lands (Chapter 12), 307
-- Wilhelm Von Handel, Burgher- Master, 73
+- Wilderness Exploration: Surviving and Thriving in Tirvandor's Wild Lands (Chapter 12), 309
+- Wilhelm Von Handel, Burgher-Master, 73
 - Worldrend, The, 8
 - XP Budget Method, 303
 - Yasmin, Merchant Princess, 88
-- Young Tom (The Prophecy Child), 271
+- Young Tom (The Prophecy Child), 270
 - Zara, Master Glasswright, 85
-- Zircon Crystalborn, Master, 146
+- Zircon Crystalborn, Master, 145
 }}
 
 {{pageNumber,auto}}
