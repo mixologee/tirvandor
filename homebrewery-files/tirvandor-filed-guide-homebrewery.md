@@ -185,7 +185,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ Siege Golem}}{{ 27}}](#p29)
   - [{{ General's Champion}}{{ 28}}](#p30)
   - [{{ Iron Crown Knight}}{{ 29}}](#p31)
-  - [{{ Lord Commander Varius}}{{ 31}}](#p33)
+  - [{{ Marshal Varius}}{{ 31}}](#p33)
 - ### [{{ Chapter 3 - Aethoria & Iron Guild}}{{ 33}}](#p35)
 - #### [{{ Aethoria Resistance}}{{ 33}}](#p35)
   - [{{ Aethorian Militia}}{{ 33}}](#p35)
@@ -254,8 +254,8 @@ This Field Guide collects fifty creatures and characters drawn from the world of
 ### Reading the Regions
 The chapters are organized geographically and politically rather than by monster type:
 
-- **Chapter 1: Border Creatures**. The Contested Lands between the two nations. Bandits, smugglers, war-twisted wildlife, and the dead that don't stay dead. Best for war-themed campaigns or any party traveling near the front.
-- **Chapter 2: Thaldros Military**. The disciplined iron fist of the empire. Conscripts to legendary commanders. Drop these into any encounter where lawful authority is asserting itself.
+- **Chapter 1: Border Creatures**. The Contested Lands between the two nations. Bandits, smugglers, war-twisted wildlife, and the dead that don't stay dead. Best for campaigns about the proxy quarrel in the Contested Lands, or any party traveling through them.
+- **Chapter 2: Thaldros Military**. The disciplined iron fist of the kingdom. Conscripts to legendary commanders. Drop these into any encounter where lawful authority is asserting itself.
 - **Chapter 3: Aethoria Resistance & Iron Guild**. Freedom fighters and professional mercenaries: two faces of organized armed force outside the Thaldros structure.
 - **Chapter 4: Ascended & Ancient**. Divine champions, prophetic entities, and the corrupted things that haunt the deep places. Use sparingly; their presence signals that the stakes have escalated.
 
@@ -272,7 +272,7 @@ Here are a few pre-built compositions to drop into a session:
 - **Iron Crown Tribunal (CR 11)**: 1 Iron Crown Knight + 1 Thandros's Justicar + 2 Iron Legion Enforcers
 - **Sentinel's Vigil (CR 12)**: 1 Mordain's Sentinel + 2 War-Twisted Soldiers + 1 Fallen Champion
 - **Wild Hunt (CR 10)**: 1 Sylvara's Wild Hunter + 4 War Beasts + 2 Territorial Drakes
-- **Final Stand (CR 15+)**: 1 Lord Commander Varius + 2 General's Champions + 4 Royal Guard Elites
+- **Final Stand (CR 15+)**: 1 Marshal Varius + 2 General's Champions + 4 Royal Guard Elites
 
 {{footnote Using This Bestiary}}
 {{pageNumber,auto}}
@@ -341,7 +341,7 @@ ___
 - May surrender if offered mercy
 
 ### Story Hooks
-- Ambushers turn out to be former soldiers waging a quiet guerrilla war against occupation.
+- Ambushers turn out to be former soldiers waging a quiet guerrilla war against the Crown garrisons of the Contested Lands.
 - A bandit leader holds information vital to the party's mission but won't share it without payment or service.
 - The party must negotiate safe passage through bandit territory, playing rival groups against each other.
 - A "random" raid reveals that someone powerful is secretly directing these attacks.
@@ -842,7 +842,7 @@ War beasts are massive predators: wolves, hunting cats, or war dogs averaging si
 heavy muscle, powerful jaws, and coats ranging from dark gray to mottled brown depending on breeding lineage. Their eyes show unusual intelligence for animals, the product of generations of selective breeding. Scars from training and combat mark most specimens; their teeth and claws are larger than natural. Domesticated beasts wear barding and unit collars; feral ones have torn their gear away but often still bear harness marks faintly visible in their fur.
 
 ### Lore
-Both Thaldros and Aethoria have run war-beast breeding programs for centuries, producing wolves, hunting cats, and war dogs that are larger, smarter, and more aggressive than their wild ancestors. Trained from birth to follow commands and form supernatural bonds with their handlers, domesticated war beasts are extensions of the soldiers who command them. But war is chaos. Handlers die, units scatter, beasts escape or are abandoned. Feral war beasts retain their training while losing their restraint, and they hunt in packs using military tactics: flanking, ambush, coordinated strikes. They're more dangerous than wild predators because they think like soldiers. Their existence is a quiet scandal for both militaries; neither admits how many beasts have gone feral over the centuries.
+Both Thaldros and Aethoria have run war-beast breeding programs for centuries, producing wolves, hunting cats, and war dogs that are larger, smarter, and more aggressive than their wild ancestors. Trained from birth to follow commands and form supernatural bonds with their handlers, domesticated war beasts are extensions of the soldiers who command them. But war is chaos. Handlers die, units scatter, beasts escape or are abandoned. Feral war beasts retain their training while losing their restraint, and they hunt in packs using military tactics: flanking, ambush, coordinated strikes. They're more dangerous than wild predators because they think like soldiers. In Thaldros the programs belong to the Royal Army; in Aethoria they belong to ranger lodges and druid circles, since there is no army to own them. Neither side admits how many beasts have gone feral over the centuries.
 
 ### Cultural Significance
 The bond between handler and beast is celebrated in military tradition. Losing a war beast is considered equivalent to losing a comrade, and ceremonies are held for the dead. Feral beasts, by contrast, sit awkwardly in the cultural mind: they're dangerous pests, but they're also abandoned soldiers in their own right, and some people simply can't bring themselves to put them down.
@@ -977,7 +977,7 @@ ___
 
 # Chapter 2 - Thaldros Military
 :
-The iron fist of the Thaldros Empire are disciplined soldiers, ruthless inquisitors, and devastating war machines that enforce the Emperor's will.
+The iron fist of the Kingdom of Thaldros are disciplined soldiers, ruthless inquisitors, and devastating war machines that enforce the will of King Aldric IV.
 
 ## Thaldros Conscript
 
@@ -990,7 +990,7 @@ Conscripts wear whatever they were given, usually ill-fitting leather armor that
 When volunteers aren't sufficient (and they rarely are), the Crown exercises its right of conscription. Quotas pass from provinces to towns to whoever can be spared, which in practice means the poor go to war while the wealthy buy exemptions. Conscripts are farmers, laborers, and tradespeople thrust into ill-fitting armor that often belonged to someone who died wearing it. They fight because deserters are executed, not because they believe in the cause, and most will break and run if their officers fall. They aren't cowards. They're ordinary people in extraordinary circumstances, and the only thing that makes their situation bearable is the fierce loyalty they develop for each other. Many soldiers who survive conscription remain bonded for life; just as many are mourned at the village reunions of those who came home without them.
 
 ### Cultural Significance
-Conscription is one of the most contentious issues in Thaldros. Reformers argue it's a blood tax on the poor; traditionalists counter that the kingdom's defense requires sacrifice from all. Beneath both arguments simmers a quiet resentment of the professional soldiers, the officers, and the nobles who sent these farmers to die for an empire's vision they never shared.
+Conscription is one of the most contentious issues in Thaldros. Reformers argue it's a blood tax on the poor; traditionalists counter that the kingdom's defense requires sacrifice from all. Beneath both arguments simmers a quiet resentment of the professional soldiers, the officers, and the nobles who sent these farmers to die for a Crown vision they never shared.
 
 
 {{monster,frame
@@ -1188,10 +1188,10 @@ Selection for the Royal Guard is extraordinarily competitive. Candidates must de
 respected by common soldiers and civilians alike. They are protectors, not oppressors, and their reputation is carefully cultivated and just as carefully earned.
 
 ### Cultural Significance
-Guard membership confers significant social status (roughly equivalent to minor nobility), and many guards come from noble families to begin with. They form a tight community, often marry within guard families, and transition smoothly into comfortable retirement positions: security consulting, training roles, noble household service. They are the empire's polished face.
+Guard membership confers significant social status (roughly equivalent to minor nobility), and many guards come from noble families to begin with. They form a tight community, often marry within guard families, and transition smoothly into comfortable retirement positions: security consulting, training roles, noble household service. They are the kingdom's polished face.
 
 ### Habitat & Ecology
-Guards are assigned to protect royalty, secure important locations, and handle sensitive missions across the empire and abroad. They train together, socialize together, and form a tight intergenerational community. Their oath binds them to Thaldros as a concept rather than to whichever person currently wears the crown, a distinction that has mattered during succession disputes more than once. Retirement typically leads to comfortable positions: security consulting, training roles, noble household service. Arrogance is weeded out during selection; the Guard's reputation depends on its members remaining humble about their abilities.
+Guards are assigned to protect royalty, secure important locations, and handle sensitive missions across the kingdom and abroad. They train together, socialize together, and form a tight intergenerational community. Their oath binds them to Thaldros as a concept rather than to whichever person currently wears the crown, a distinction that has mattered during succession disputes more than once. Retirement typically leads to comfortable positions: security consulting, training roles, noble household service. Arrogance is weeded out during selection; the Guard's reputation depends on its members remaining humble about their abilities.
 
 ### Tactics
 - Protect VIPs at all costs
@@ -1303,7 +1303,7 @@ ___
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
 
-Their information network is the most extensive in Tirvandor, embedded in Aethoria, the Contested Lands, criminal organizations, and even allied institutions. The fear of attracting their attention moderates public dissent across the empire, exactly as intended.
+Their information network is the most extensive in Tirvandor, embedded in Aethoria, the Contested Lands, criminal organizations, and even allied institutions. The fear of attracting their attention moderates public dissent across the kingdom, exactly as intended.
 
 ### Cultural Significance
 The Inquisition's mere rumored presence is its primary weapon. People watch their words in taverns, in shops, even in their own homes, knowing that the wrong comment overheard by the wrong listener might bring scrutiny no one returns from cleanly. This chilling effect is deliberate and self-reinforcing; few citizens have ever met an Inquisitor, but everyone has been told by a friend who has.
@@ -1645,16 +1645,16 @@ ___
 <div class='footnote'>Chapter 2 - Thaldors Military</div>
 \page
   
-## Lord Commander Varius
+## Marshal Varius
 
-<div class="col-img">![lord commander varius](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-lord-commander-varius-military-leader.jpg) {width:325px}</div>
+<div class="col-img">![marshal varius](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-lord-commander-varius-military-leader.jpg) {width:325px}</div>
 
 ### Description
-Lord Commander Varius appears exactly as a supreme military commander should: tall, imposing, marked by decades of campaign experience without being weakened by it. His armor is masterwork quality bearing ancient military honors. His weapons are legendary items with their own histories. His face shows intelligence, determination, and the weight of countless decisions. He is older than he looks, somewhere past sixty, but maintains his condition through discipline and (rumors suggest) magical assistance. His eyes are his most notable feature: assessing, calculating, seeing tactical implications in everything.
+Marshal Varius appears exactly as a senior commander should: tall, imposing, marked by decades of campaign experience without being weakened by it. His armor is masterwork quality bearing ancient military honors. His weapons are legendary items with their own histories. His face shows intelligence, determination, and the weight of countless decisions. He is older than he looks, somewhere past sixty, but maintains his condition through discipline and (rumors suggest) magical assistance. His eyes are his most notable feature: assessing, calculating, seeing tactical implications in everything.
 
 ### Lore
-Varius rose from minor nobility through decades of service, winning battles considered unwinnable, salvaging campaigns others had abandoned, and developing tactical innovations that changed how Thaldros fights. Now somewhere past sixty (though maintained in fighting condition by discipline and, rumor suggests, magical assistance), he holds the position of Lord Commander, supreme military authority answering only to the Crown. He has served three monarchs in this role and provided continuity through their 
-successions. His reputation crosses factional lines; even Aethorian commanders acknowledge his capabilities. His loyalty is to Thaldros as a concept rather than to individual monarchs, and his principled neutrality frustrates reformers who want him to 
+Varius rose from minor nobility through decades of service, winning battles considered unwinnable, salvaging campaigns others had abandoned, and developing tactical innovations that changed how Thaldros fights. Now somewhere past sixty (though maintained in fighting condition by discipline and, rumor suggests, magical assistance), he holds the position of Marshal of the Royal Army, ranking directly beneath Lord Commander Thrain Ironoak. Doctrine, officer training and garrison readiness are his; field armies are not, and move only on the Lord Commander's word. He has held the Marshal's post through three successions and provided continuity through their 
+successions. His reputation crosses factional lines; even Aethorian militia captains acknowledge his capabilities. His loyalty is to Thaldros as a concept rather than to individual monarchs, and his principled neutrality frustrates reformers who want him to 
 take sides on controversial military policies. The military is his family; command is his purpose. He has outlived a wife and children and converted grief into focused dedication.
 
 ### Cultural Significance
@@ -1673,7 +1673,7 @@ Varius maintains his headquarters in Kaer Thandros but spends substantial time o
 ### Story Hooks
 - An encounter with Varius forces the party to reconsider their assumptions about Thaldros itself.
 - Varius offers the party assistance, with conditions that complicate their goals.
-- The party must somehow oppose or evade the full weight of Thaldros military power that Varius commands.
+- The party must somehow oppose or evade Thaldros soldiers Varius trained, drilled and equipped.
 - Intelligence suggests Varius is considering a decision that could change everything, and someone wants to influence which way he goes.
 
 <div class='pageNumber auto'></div>
@@ -1681,7 +1681,7 @@ Varius maintains his headquarters in Kaer Thandros but spends substantial time o
 \page
 
 {{monster,frame
-## Lord Commander Varius
+## Marshal Varius
 *Medium humanoid (human), lawful neutral*
 ___
 **Armor Class** :: 21 (plate armor +3, shield +1)
@@ -1704,7 +1704,7 @@ ___
 ___
 **Legendary Resistance (3/Day).** :: If Varius fails a saving throw, he can choose to succeed instead.
 
-**Supreme Commander.** :: Allied creatures within 60 feet have advantage on saving throws against being frightened and add 1d6 to damage rolls.
+**Marshal's Authority.** :: Allied creatures within 60 feet have advantage on saving throws against being frightened and add 1d6 to damage rolls.
 
 **Tactical Genius.** :: Varius can take a special reaction at initiative count 20 (losing ties) to command an ally within 60 feet to immediately take an action.
 
@@ -1735,8 +1735,8 @@ ___
 > *"He stood at the gates of Skellholm for nine days. We expected reinforcements; he expected us to hold. We held."*  
 > *Captain Jarra, Third Iron Lance*
 
-> *"I sat across from him at a parley. He thanked me, by name, for my service to my people. Then he sent his army through us anyway. He thanked me again at the burial."*  
-> *Aethorian commander, name withheld*
+> *"I sat across from him at a parley. He thanked me, by name, for my service to my people. Then he sent the column through us anyway. He thanked me again at the burial."*  
+> *Contested Lands partisan, name withheld*
 
 > *"He's outlived everyone who knew him as a boy. There's a kindness in that, and a terror. He has no past left that can be held against him."*  
 > *Inquisitor file note, sealed*
@@ -1757,7 +1757,7 @@ Freedom fighters struggling against tyranny and professional mercenaries who ser
 
 ## Aethoria Resistance
 
-Brave souls fighting for liberation from Thaldros rule.
+Thaldros and the Aethorian Harmony have never declared war and neither capital acknowledges a state of conflict. The fighting is in the Contested Lands, where Thaldrosian separatists take Harmony coin and fly Harmony colours against Crown garrisons, and where Aethorian volunteers turn up to help. The militia below defend Aethorian ground that no Thaldrosian soldier has ever stood on; the resistance fighters, champions and commanders are partisans of that frontier. Both call the garrisons an occupation. Neither government calls it a war.
 
 ## Aethorian Militia
 
@@ -1799,14 +1799,12 @@ ___
 
 **Sling.** :: *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 1d4+2 bludgeoning damage
 }}
-
-### Habitat & Ecology
-Militia members are neighbors, friends, and family. They know each other's strengths and weaknesses intimately, which creates strong unit cohesion and complicated personal dynamics. They maintain networks of mutual support across communities: when one village is threatened, others send what help they can. The quality of any given militia varies enormously: frontier communities with regular threats 
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
 
+### Habitat & Ecology
+Militia members are neighbors, friends, and family. They know each other's strengths and weaknesses intimately, which creates strong unit cohesion and complicated personal dynamics. They maintain networks of mutual support across communities: when one village is threatened, others send what help they can. The quality of any given militia varies enormously: frontier communities with regular threats 
 maintain well-trained, experienced units, while prosperous interior towns might have militias that haven't seen real action in generations.
 
 ### Story Hooks
@@ -1821,14 +1819,10 @@ maintain well-trained, experienced units, while prosperous interior towns might 
 <div class="col-img">![resistance fighter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-resistance-fighter.jpg) {width:325px}</div>
 
 ### Description
-Resistance fighters look like what they are: people who have been fighting for a long time. Lean from irregular meals. Scarred from engagements. Eyes that watch everything, hands that never quite relax. They've lost the softness of civilian life without gaining the uniform appearance of professional soldiers. Their equipment is better than basic militia (acquired through combat, purchased through resistance networks, or provided by Republic supporters), but still worn, modified, and intensely personal.
-\column
+Resistance fighters look like what they are: people who have been fighting for a long time. Lean from irregular meals. Scarred from engagements. Eyes that watch everything, hands that never quite relax. They've lost the softness of civilian life without gaining the uniform appearance of professional soldiers. Their equipment is better than basic militia (acquired through combat, purchased through resistance networks, or paid for by sympathizers in the Harmony), but still worn, modified, and intensely personal.
+
 ### Lore
-Most resistance fighters started as militia who found they couldn't go home: their villages occupied, their families killed, their communities destroyed. With nothing left to protect in the old way, they dedicated themselves to the larger cause: making occupation painful, attacking patrols, destroying supplies, assassinating collaborators, ensuring that occupiers never feel safe. They live in the field, move constantly, and fight with personal fury that emotional investment makes fierce but sometimes reckless. They've learned hard lessons about secrecy: code names, compartmented information, protocols for capture. Many struggle with the moral complexity of their work. Ambushing soldiers is one thing; what to do about collaborators who cooperated under threat, or informants who betrayed friends to save their own families, is another. The line between justice and murder blurs quickly out here.
-
-### Cultural Significance
-Resistance fighters are the heroes of Aethorian culture: proof that ordinary people can resist tyranny through determination and sacrifice. The mythology celebrates clear heroes; reality produces morally ambiguous figures, and the songs tend to leave out the parts no one wants to remember.
-
+Most resistance fighters are Contested Lands people who found they couldn't go home: a garrison in their village, a punitive column through their fields, a cousin hanged at a crossroads for carrying a message. With nothing left to protect in the old way, they dedicated themselves to the larger cause: making a garrison's life painful, attacking patrols, destroying supplies, assassinating collaborators, ensuring that Crown soldiers never feel safe. They live in the field, move constantly, and fight with personal fury that emotional investment makes fierce but sometimes reckless. They've learned hard lessons about secrecy: code names, compartmented information, protocols for capture. Many struggle with the moral complexity of their work. Ambushing soldiers is one thing; what to do about collaborators who cooperated under threat, or informants who betrayed friends to save their own families, is another. The line between justice and murder blurs quickly out here.
  
 {{monster,frame
 ## Resistance Fighter
@@ -1859,12 +1853,18 @@ ___
 
 }}
 
-### Habitat & Ecology
-Resistance cells develop intense internal bonds. They are people who depend on each other for survival, share constant danger, and have watched comrades die. The relationships formed in resistance are among the 
+
+### Cultural Significance
+Resistance fighters are the heroes of Aethorian culture: proof that ordinary people can resist tyranny through determination and sacrifice. The mythology celebrates 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
+
+clear heroes; reality produces morally ambiguous figures, and the songs tend to leave out the parts no one wants to remember.
+
+### Habitat & Ecology
+Resistance cells develop intense internal bonds. They are people who depend on each other for survival, share constant danger, and have watched comrades die. The relationships formed in resistance are among the 
 
 strongest people experience. Cells maintain support networks among sympathetic civilians: safe houses, supply sources, information pipelines. These networks are essential but dangerous; every contact is a potential point of betrayal, and every safe house is a potential graveyard if a member breaks under interrogation.
 
@@ -1877,15 +1877,9 @@ strongest people experience. Cells maintain support networks among sympathetic c
 ## People's Champion
 
 <div class="col-img">![people's champion](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-peoples-champion.jpg) {width:325px}</div>
-
+\column
 ### Description
 People's Champions are local heroes: individuals who rose from their communities to become symbols of resistance. They are better equipped than typical fighters, often wearing armor that communities pooled resources to provide, and their weapons are quality steel, sometimes magical, acquired through deeds that built their reputations. They carry themselves with earned confidence: not the arrogance of privilege, but the assurance of people who've proven themselves through action. Their communities' hopes are visible in their equipment: the best their people could provide, given with prayer that it would be enough.
-
-### Lore
-Champions emerge when communities face threats too great for collective response, when someone steps forward, refuses to let their neighbors suffer, and takes on challenges others can't face. Most didn't seek the role; they responded to immediate need and found themselves unable to step back. Their heroism creates reputation: other communities hear of their deeds, recruits seek them out, and the best armor and weapons their people can pool together flow to them as gift and prayer. They fight protectively, positioning themselves between threats and the helpless, and inspire through example rather than command. People follow them not because they must, but because they believe in what the champion represents. Their stories are told in taverns and taught to children: the Aethorian promise that heroes come from ordinary people, if circumstances demand and character permits.
-
-### Cultural Significance
-Champions occupy a complex social position, not official leaders (Aethorian democracy resists that), but possessed of substantial unofficial influence. When a champion speaks, communities listen. Many struggle with this responsibility; they didn't want power, only to help, and the weight of their people's hopes can crush even strong shoulders.
 
 {{monster,frame
 ## People's Champion
@@ -1915,9 +1909,16 @@ ___
 
 **Rally the People (1/Day).** :: All allies within 30 ft gain 10 temp HP and advantage on saves vs fear.
 }}
+
+### Lore
+Champions emerge when communities face threats too great for collective response, when someone steps forward, refuses to let their neighbors suffer, and takes on challenges others can't face. Most didn't seek the role; they responded to immediate need and found themselves unable to step back. Their heroism creates reputation: other communities hear of their deeds, recruits seek them out, and the best armor and weapons their people can pool together flow to them as gift and prayer. They fight protectively, positioning themselves between threats and the helpless, and inspire through example rather than command. People follow them not because they must, but because they believe in what the champion represents. Their stories are told in taverns and taught to children: the Aethorian promise that heroes come from ordinary people, if circumstances demand and character permits.
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
 \page
+
+### Cultural Significance
+Champions occupy a complex social position, not official leaders (the Harmony's councils resist that), but possessed of substantial unofficial influence. When a champion speaks, communities listen. Many struggle with this responsibility; they didn't want power, only to help, and the weight of their people's hopes can crush even strong shoulders.
 
 ### Habitat & Ecology
 Champions maintain close connections to their communities of origin while traveling to where they're needed. Home grounds them; service calls them away. Balancing these pulls is a constant challenge. Their unofficial authority can be substantial: communities listen when a champion speaks, even on matters far outside the champion's expertise. Many handle this responsibility carefully; others are overwhelmed by it and either retreat from public life or grow into something less heroic. The communities that produced them often serve as their resupply, recovery, and reputation network when they need any of those things.
@@ -1931,10 +1932,24 @@ Champions maintain close connections to their communities of origin while travel
 
 ## Revolutionary Mage
 
-<div class="col-img">![revolutionary mage](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-revolutionary-mage.jpg) {width:325px}</div>
-\column
 ### Description
 Revolutionary mages dress practically rather than impressively. They have learned that ostentation attracts targeting; survival requires blending in. Their magical implements are concealed or disguised as walking sticks, jewelry, or tools of mundane trades. They often show the wear of irregular life: tired eyes, stress-aged features, the look of people who haven't slept safely in too long. Magic requires study and rest; revolution provides neither in adequate supply.
+
+### Lore
+The Aethorian magical tradition holds that power should serve the people rather than rule them, and revolutionary mages take this philosophy to its conclusion: if magic can liberate the oppressed, wielding it for liberation is moral duty. Many trained in formal academies before finding traditional institutions too comfortable with existing power structures; others learned through apprenticeship, their education combining arcane theory with political philosophy. They specialize in magic that supports and liberates (breaking chains, unlocking cells, countering enemy magic that would dominate or control) rather than personal devastation. They'd rather free a dozen 
+prisoners than kill a dozen enemies. They dress practically and conceal their implements as walking sticks or jewelry; a known revolutionary mage is a target for Thaldros Inquisitors, and the safest one is the one nobody suspects.
+
+<div class="col-img">![revolutionary mage](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-revolutionary-mage.jpg) {width:325px}</div>
+
+### Cultural Significance
+Revolutionary mages embody the Aethorian conviction that magic belongs to the people rather than to elites, a choice celebrated as exemplary by reformers and feared as reckless by traditionalists. Not everyone, even sympathetic allies, is convinced that unleashing magical power in service of political goals is wise. The mages themselves are usually too busy to attend that debate.
+
+### Habitat & Ecology
+Revolutionary mages operate in loose networks, sharing information about techniques, threats, and opportunities. No central authority coordinates them; that would be contrary to their anti-authoritarian principles. They provide crucial support to resistance networks: communication magic, healing, reconnaissance, and the occasional dramatic intervention that changes a battle's course. Many maintain secret identities, and a few maintain none at all, vanishing into the cells they serve, knowing the magical training that distinguishes them also marks them for Inquisitor attention.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
+\page
 
 {{monster,frame
 ## Revolutionary Mage
@@ -1968,21 +1983,6 @@ Cantrips (at will): *fire bolt, mage hand, message, light* ::
 **Quarterstaff.** :: *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) if used with two hands.
 
 }}
-
-### Lore
-The Aethorian magical tradition holds that power should serve the people rather than rule them, and revolutionary mages take this philosophy to its conclusion: if magic can liberate the oppressed, wielding it for liberation is moral duty. Many trained in formal academies before finding traditional institutions too comfortable with existing power structures; others learned through apprenticeship, their education combining arcane theory with political philosophy. They specialize in magic that supports and liberates (breaking chains, unlocking cells, countering enemy magic that would dominate or control) rather than personal devastation. They'd rather free a dozen 
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
-\page
-
-prisoners than kill a dozen enemies. They dress practically and conceal their implements as walking sticks or jewelry; a known revolutionary mage is a target for Thaldros Inquisitors, and the safest one is the one nobody suspects.
-
-### Cultural Significance
-Revolutionary mages embody the Aethorian conviction that magic belongs to the people rather than to elites, a choice celebrated as exemplary by reformers and feared as reckless by traditionalists. Not everyone, even sympathetic allies, is convinced that unleashing magical power in service of political goals is wise. The mages themselves are usually too busy to attend that debate.
-
-### Habitat & Ecology
-Revolutionary mages operate in loose networks, sharing information about techniques, threats, and opportunities. No central authority coordinates them; that would be contrary to their anti-authoritarian principles. They provide crucial support to resistance networks: communication magic, healing, reconnaissance, and the occasional dramatic intervention that changes a battle's course. Many maintain secret identities, and a few maintain none at all, vanishing into the cells they serve, knowing the magical training that distinguishes them also marks them for Inquisitor attention.
 
 ### Story Hooks
 - A revolutionary mage provides magical support the party needs for a critical operation.
@@ -2051,7 +2051,7 @@ The order maintains monasteries in Aethoria and hidden safehouses throughout Tha
 
 ### Story Hooks
 - A Chain Breaker is needed to free important prisoners from an inescapable Thaldros holding.
-- The party must help extract a Chain Breaker from dangerous occupied territory.
+- The party must help extract a Chain Breaker from garrisoned territory in the Contested Lands.
 - A monastery is threatened with discovery, requiring urgent defense.
 - A Chain Breaker's former captors have surfaced as someone the party must work with.
 
@@ -2064,7 +2064,7 @@ The order maintains monasteries in Aethoria and hidden safehouses throughout Tha
 Guerrilla commanders look like experienced resistance fighters who have grown into leadership. Their equipment is excellent (rewards of successful operations) but worn from constant use. They move with the careful attention of people who have survived by noticing everything. Their eyes are their most notable feature: constantly scanning, assessing, planning. They see terrain in terms of ambush positions, people in terms of capabilities and loyalties; everything is potential resource or potential threat.
 
 ### Lore
-Commanders emerge from resistance cells through demonstrated capability: fighters who survived long enough to learn, planned well enough to win, and led well enough that others followed. Their authority comes from proven competence rather than appointed position, and most have been fighting for years, often decades, lost friends, made terrible decisions, and survived failures that killed others. They think strategically rather than tactically; individual skirmishes matter less than campaign outcomes, and they maintain regional networks of village contacts, city informants, and allies among other resistance groups. Their position sits uneasily with pure Aethorian democratic principles. 
+Commanders emerge from resistance cells through demonstrated capability: fighters who survived long enough to learn, planned well enough to win, and led well enough that others followed. Their authority comes from proven competence rather than appointed position, and most have been fighting for years, often decades, lost friends, made terrible decisions, and survived failures that killed others. They think strategically rather than tactically; individual skirmishes matter less than campaign outcomes, and they maintain regional networks of village contacts, city informants, and allies among other resistance groups. Their position sits uneasily with the Aethorian preference for consensus. 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 3 - Aethoria & Iron Guild</div>
@@ -2106,7 +2106,7 @@ ___
 }}
 
 ### Cultural Significance
-Guerrilla commanders represent Aethorian practical competence: proof that free people can organize effectively without authoritarian structure, and a direct challenge to Thaldros assumptions about discipline. Their effectiveness is celebrated, but their unusual personal authority worries pure democrats who wonder what happens when the crisis ends and the commanders refuse to retire it.
+Guerrilla commanders represent Aethorian practical competence: proof that free people can organize effectively without authoritarian structure, and a direct challenge to Thaldros assumptions about discipline. Their effectiveness is celebrated, but their unusual personal authority worries those who prize consensus and wonder what happens when the crisis ends and the commanders refuse to retire it.
 
 ### Habitat & Ecology
 Commanders maintain regional networks that span villages, towns, and cities: contacts in markets, informants in garrisons, allies among other resistance groups. Building these networks is their primary strategic contribution; combat is something they only do when planning has already failed. Most maintain standing arrangements for immediate information destruction if they are taken, and some keep agents ready to kill them rather than allow capture. The information in their heads is too valuable to risk. They move constantly between safehouses and rarely sleep in the same place twice in a week.
@@ -2190,7 +2190,7 @@ The Liberator operates largely alone or with small trusted groups, appearing whe
 The title has surfaced perhaps a dozen times: never twice in the same lifetime, never twice with the same face. Common scholarly consensus identifies these confirmed Liberators:
 
 - **Mira of the Salt Mines** (Year 423 CR). Broke nine hundred chained workers free in a single night; her body was never recovered.
-- **The Burning Saint** (Year 612 CR). Said to have walked through fire to free prisoners from the Aethorian heretic-pyres before the Republic existed.
+- **The Burning Saint** (Year 612 CR). Said to have walked through fire to free prisoners from the Aethorian heretic-pyres before the Circle of Speakers existed.
 - **Tarin Halfhand** (Year 891 CR). Freed an entire ghetto from forced relocation; killed himself rather than be taken, but witnesses swore he reappeared in two other cities afterward.
 - **The current Liberator**. First confirmed sighting Year 1238 CR. Identity unknown. Still active.
 
@@ -2656,17 +2656,17 @@ ___
 Powerfully built even by dwarven standards, with arms like tree trunks from over a century at the forge. His copper-red beard is braided with metal rings, each representing a significant creation. He is missing the last two fingers of his left hand, a forge accident he refuses to discuss in detail. His eyes are an unusual amber color that seems to glow near flames. He moves with the deliberate patience of someone who has spent decades making things that last, and his hands carry the scarring of a thousand small burns long since healed over.
 
 ### Lore
-Garrick "Ironheart" Hammerfist is the dwarven Guildmaster of the Smiths' Guild in Goldreach, but his presence in mercenary catalogs comes from his younger years before the forge. He served Iron Guild contracts, led expeditions to recover rare materials, and fought in several significant conflicts. The "Ironheart" nickname is from those days, not from the steel defender he later crafted. Powerfully built even by dwarven standards, his arms are like tree trunks from over a century at the forge, and he is missing the last two fingers of his left hand from an accident he refuses to discuss. His copper-red beard is braided with metal rings, each marking a significant creation. He no longer takes contracts, but he supplies the Guild with weapons and armor, and senior members still remember his active service. His fairness in dealings is respected across mercenary communities; his endorsement carries weight no coin can buy.
+Garrick "Ironheart" Hammerfist is the dwarven Guildmaster of the Smiths' Guild in Goldreach, and he founded it. He is not an Iron Guild member and never was; his presence in mercenary catalogs comes from his younger years before the forge, when he took Iron Guild contracts as an outside hand. He led expeditions to recover rare materials, led expeditions to recover rare materials, and fought in several significant conflicts. The "Ironheart" nickname is from those days, not from the steel defender he later crafted. Powerfully built even by dwarven standards, his arms are like tree trunks from over a century at the forge, and he is missing the last two fingers of his left hand from an accident he refuses to discuss. His copper-red beard is braided with metal rings, each marking a significant creation. He no longer takes contracts, but he supplies the Guild with weapons and armor, and senior members still remember his active service. His fairness in dealings is respected across mercenary communities; his endorsement carries weight no coin can buy.
 
 ### Cultural Significance
-Garrick is one of the few figures who commands genuine respect across factional lines. Thaldros generals, Aethorian commanders, and Iron Guild captains all want his work in their armories. He refuses to forge for tyrants, but his definition of "tyrant" is famously narrow: he sells to whoever pays and behaves well in his shop. The Smiths' Guild he founded is now the most influential craft organization in Goldreach, and his approval of an apprentice is considered equivalent to a peerage in some circles.
+Garrick is one of the few figures who commands genuine respect across factional lines. Thaldros generals, Aethorian militia captains, and Iron Guild captains all want his work in their armories. He refuses to forge for tyrants, but his definition of "tyrant" is famously narrow: he sells to whoever pays and behaves well in his shop. The Smiths' Guild he founded is now the most influential craft organization in Goldreach, and his approval of an apprentice is considered equivalent to a peerage in some circles.
 
 {{monster,frame
 ## Garrick Ironheart
-*Medium humanoid (dwarf), lawful neutral*
+*Medium humanoid (dwarf), neutral*
 ___
-**Armor Class** :: 20 (plate +2, shield +1)
-**Hit Points** :: 195 (23d8 + 92)
+**Armor Class** :: 16 (chain mail)
+**Hit Points** :: 112 (15d8 + 45)
 **Speed** :: 25 ft.
 
 ___
@@ -2678,11 +2678,11 @@ ___
 **Skills** :: Insight +11, Persuasion +12
 **Damage Resistances** :: poison
 **Languages** :: Common, Dwarvish +3
-**Challenge** :: 11 (7,200 XP)
+**Challenge** :: 8 (3,900 XP)
 ___
 **Legendary Resistance (2/Day).** :: Choose to succeed on failed save.
 
-**Guildmaster's Authority.** :: All Iron Guild members within 60 ft gain +3 to all rolls.
+**Guildmaster's Authority.** :: All Smiths' Guild members within 60 ft gain +3 to all rolls.
 
 ___
 ### Actions
@@ -2754,7 +2754,7 @@ Champions blessed by the gods.
 Blessed paladins radiate a subtle divine presence. Their eyes occasionally flash with inner light. Their voices carry undertones of authority that transcend normal speech. They move with purpose that suggests divine direction, not mechanically, but with the confidence of those who believe their path is righteous. Their equipment is typically well-maintained and often bears religious symbols. Many wear the iconography of their patron Ascended prominently, and some carry weapons or armor that glow faintly with divine power, gifts from temples or supernatural sources.
 \column
 ### Lore
-Blessed paladins are mortal champions who've received divine recognition from one or more of the Seven Ascended, the gods who rose from mortal heroes during the Worldrend. This blessing isn't granted through ritual or application; it comes to those who've already demonstrated the values their patron represents. Some receive it dramatically through visions and miracles; others realize gradually that their prayers are answered more directly and their capability grows. The blessing doesn't remove free will. Actions that violate their patron's principles may result in its withdrawal, temporarily or permanently. Their eyes occasionally flash with inner light, their voices carry undertones of authority that transcend normal speech, and their divine smite burns evil with holy fire. Their existence confirms that the Ascended watch the mortal world. Different cultures view different patrons differently: Thaldros respects Thandros's champions and distrusts Aethor's.
+Blessed paladins are mortal champions who've received divine recognition from one or more of the Seven Ascended, the gods who rose from mortal heroes in the Age of Dawn. This blessing isn't granted through ritual or application; it comes to those who've already demonstrated the values their patron represents. Some receive it dramatically through visions and miracles; others realize gradually that their prayers are answered more directly and their capability grows. The blessing doesn't remove free will. Actions that violate their patron's principles may result in its withdrawal, temporarily or permanently. Their eyes occasionally flash with inner light, their voices carry undertones of authority that transcend normal speech, and their divine smite burns evil with holy fire. Their existence confirms that the Ascended watch the mortal world. Different cultures view different patrons differently: Thaldros respects Thandros's champions and distrusts Aethor's.
 
 {{monster,frame
 
@@ -2808,10 +2808,10 @@ Blessed paladins maintain connections with temples and religious orders but aren
 ## Thandros's Justicar
 
 ### Description
-Justicars embody law's implacable nature. They dress in formal attire that suggests judicial authority: robes, chains of office, or armor marked with Thandros's scales-and-gavel symbol. Their expressions are stern, their bearing formal, their movements precise. Their equipment often includes judicial implements: weighted symbols representing law's authority, formal documents, and the Mace of Justice that serves as both weapon and badge of office. Their presence commands attention and demands respect for proper procedure.
+Justicars embody law's implacable nature. They dress in formal attire that suggests judicial authority: robes, chains of office, or armor marked with Thandros's scales-on-a-sword symbol. Their expressions are stern, their bearing formal, their movements precise. Their equipment often includes judicial implements: weighted symbols representing law's authority, formal documents, and the Mace of Justice that serves as both weapon and badge of office. Their presence commands attention and demands respect for proper procedure.
 
 ### Lore
-Justicars are chosen by Thandros, god of law, from those who've demonstrated unwavering commitment to justice: former judges, magistrates, investigators who uncovered corruption, enforcers who maintained order fairly. The calling comes through dreams of the divine law court where Thandros himself presides; those who accept find themselves compelled to pursue justice wherever it's denied. They embody law's implacable nature, dressing in robes and chains of office or scales-and-gavel-marked armor, and prefer to resolve situations through proper procedure: investigate, gather evidence, pronounce judgment, then enforce sentence. Violence is a last resort. They're not cruel; justice in Thandros's understanding is about proper order, not punishment for its own sake. Yet they wrestle constantly with the knowledge that they serve Law, and not all laws are just. In Aethoria they are viewed with suspicion as potential tyrants; in Thaldros they are respected agents of proper order.
+Justicars are chosen by Thandros, god of law, from those who've demonstrated unwavering commitment to justice: former judges, magistrates, investigators who uncovered corruption, enforcers who maintained order fairly. The calling comes through dreams of the divine law court where Thandros himself presides; those who accept find themselves compelled to pursue justice wherever it's denied. They embody law's implacable nature, dressing in robes and chains of office or armor marked with the scales balanced on a sword, and prefer to resolve situations through proper procedure: investigate, gather evidence, pronounce judgment, then enforce sentence. Violence is a last resort. They're not cruel; justice in Thandros's understanding is about proper order, not punishment for its own sake. Yet they wrestle constantly with the knowledge that they serve Law, and not all laws are just. In Aethoria they are viewed with suspicion as potential tyrants; in Thaldros they are respected agents of proper order.
 
 <div class="col-img">![thandros's justicar](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-thandross-justicar.jpg) {width:325px}</div>
 
@@ -3423,7 +3423,7 @@ The Forgotten King appears as a regal figure in ancient formal attire, his featu
 <div class="col-img">![forgotten king](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-forgotten-king.jpg) {width:325px}</div>
 
 ### Lore
-The Forgotten King ruled a dynasty that flourished before the Worldrend, a kingdom so ancient that its name has been lost along with almost all records of its existence. According to fragmentary prophecy, he was one of an original "Seven" whose failure preceded the Worldrend and set the stage for the Seven Ascended's rise. What that earlier Seven were supposed to accomplish, and how they failed, remains unclear; the King himself seems unable or unwilling to explain. He exists in eternal waiting, convinced prophecy will eventually restore his dynasty or at least conclude his story. He has been waiting for millennia. His patience is eternal, but his hope occasionally wavers into something like despair. He isn't simply evil; he is trapped, desperate, and willing to do terrible things to achieve a restoration that may be impossible. His evil is the corruption of good intentions extended beyond all reasonable limits, and his shadow-clung crown still smolders with the dim glow of forgotten kings.
+The Forgotten King ruled a dynasty that flourished in the Age of Dawn, a kingdom so ancient that its name has been lost along with almost all records of its existence. According to fragmentary prophecy, he was one of an original "Seven" whose failure set the stage for the Seven Ascended's rise. What that earlier Seven were supposed to accomplish, and how they failed, remains unclear; the King himself seems unable or unwilling to explain. He exists in eternal waiting, convinced prophecy will eventually restore his dynasty or at least conclude his story. He has been waiting for millennia. His patience is eternal, but his hope occasionally wavers into something like despair. He isn't simply evil; he is trapped, desperate, and willing to do terrible things to achieve a restoration that may be impossible. His evil is the corruption of good intentions extended beyond all reasonable limits, and his shadow-clung crown still smolders with the dim glow of forgotten kings.
 
 ### Cultural Significance
 The Forgotten King represents what happens when prophecy fails, or when its fulfillment takes longer than any mortal could endure. His existence raises 
@@ -3444,9 +3444,9 @@ The Forgotten King dwells in the ruins of his lost dynasty: a buried palace bene
 - The Forgotten King seeks the party's help with something specific, willing to trade valuable knowledge for the favor.
 
 ### The First Seven
-Fragmentary prophecy speaks of a Seven who preceded the Seven Ascended: mortal champions of an earlier age, each charged with a role in averting some great calamity. They failed. The Worldrend followed. What scholars have pieced together from surviving inscriptions:
+Fragmentary prophecy speaks of a Seven who preceded the Seven Ascended: mortal champions of the Age of Dawn, each charged with a role in averting some great calamity. They failed. The Age of Strife followed, and three thousand years of war, plague and tyranny with it. What scholars have pieced together from surviving inscriptions:
 
-- The Worldrend was not a natural disaster. It was a consequence.
+- The Age of Strife was not simple bad fortune. It was a consequence.
 - The original Seven each held a fragment of something: power, knowledge, oath. The fragments were meant to fit together.
 - Only one fragment-holder remains: the Forgotten King. The others were destroyed, lost, or (the disturbing possibility) became something else entirely.
 - The Seven Ascended of the current age may be a deliberate response to the first Seven's failure. Or they may be repeating the same pattern.
@@ -3586,7 +3586,7 @@ ___
 Only nine Herald manifestations are well-documented in surviving records. Three are confirmed sightings within scholarly memory; six are pre-Worldrend events known from inscriptions, songs, or sealed temple archives. The recent ones:
 
 - **Year 1089 CR.** Appeared above the Battle of Whitebridge. Spoke seven words, none understood. Both armies withdrew.
-- **Year 1156 CR.** Appeared in the throne room of King Vellrast IV. Witnessed by only the King and one scribe. The King abdicated within the week.
+- **Year 1156 CR.** Appeared in the throne room of King Vellrast IV, who held one of the lesser mountain seats of the Northern Kingdoms. Witnessed by only the King and one scribe. He abdicated within the week.
 - **Year 1234 CR.** Appeared briefly above a village on the Aethorian border. Healed a child who would later become a People's Champion. Vanished without speaking.
 
 ### Whispers
@@ -3607,11 +3607,13 @@ Twisted by war and dark magic.
 <div class="col-img">![corruption spawn](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-corruption-spawn.jpg) {width:325px}</div>
 
 ### Description
-Corruption Spawn are small, amorphous horrors that barely qualify as living creatures. They are roughly the size of large dogs but shaped like nothing natural: masses of corrupted flesh, misshapen limbs, and mouths that open in unexpected places. Their surfaces glisten with acidic moisture, and they leave trails of caustic slime wherever they move. They have no consistent form: each spawn is uniquely malformed, shaped by the specific magical corruption that birthed it. Some have too many eyes, others have none. Some drag themselves on vestigial limbs; others roll or flow like living ooze. All are obviously, viscerally wrong.
+Corruption Spawn are small, amorphous horrors that barely qualify as living creatures. They are roughly the size of large dogs but shaped like nothing natural: masses of corrupted flesh, misshapen limbs, and mouths that open in unexpected places. Their surfaces glisten with acidic moisture, and they leave trails of caustic slime wherever they move. They have no consistent form: each spawn is uniquely malformed, shaped by the 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
+
+specific magical corruption that birthed it. Some have too many eyes, others have none. Some drag themselves on vestigial limbs; others roll or flow like living ooze. All are obviously, viscerally wrong.
 
 ### Lore
 Corruption Spawn emerge from locations where war magic has gone catastrophically wrong: battlefields saturated with destructive spells, sites of failed magical experiments, places where too much dark energy has concentrated for too long. They aren't created intentionally; they simply appear where magical contamination reaches critical levels, symptoms of magical damage rather than creatures in any conventional sense. Each is uniquely malformed, shaped by the specific corruption that birthed it: too many eyes or none, vestigial limbs, mouths that open in unexpected places. All are obviously, viscerally wrong, and their surfaces glisten with acidic moisture. The Contested Lands produce them regularly; decades of magical warfare have poisoned the very earth, and Corruption Spawn bubble up from it like infections from wounded flesh. Reformers cite them in anti-war rhetoric: this is what we're creating. This is the legacy we're leaving.
@@ -3642,7 +3644,7 @@ ___
 **Spit Corruption.** :: *Ranged Weapon Attack:* +2 to hit, range 15/30 ft., one target. *Hit:* 3d6 acid damage
 **Blinding Spittle (Recharge 5-6).** :: Spit at point within 15 ft. 5-ft radius, DC 13 Dexterity save or blinded 1 min.
 }}
-
+\column
 ### Cultural Significance
 For communities living near corrupted areas, spawn are a constant threat requiring ongoing vigilance: warning systems, patrol schedules, and grim spawn-hunting traditions develop wherever the contamination persists. Each emergence is a small reminder that magical warfare damages more than its immediate targets; it poisons land, water, and the fabric of reality itself.
 
@@ -3656,17 +3658,19 @@ Spawn cluster wherever magical contamination is severe enough to produce them: o
 
 ## War-Twisted Soldier
 
-<div class="col-img">![war-twisted soldier](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-war-twisted-soldier.jpg) {width:325px}</div>
+### Description
+War-Twisted Soldiers wear the remnants of their military equipment (rusted armor, tattered uniforms, corroded weapons) bearing the damage that killed them. Wounds that should be fatal remain visible: crushed skulls, severed limbs, gaping chest wounds. They move with the disciplined precision they learned in life, but wrong: slightly too fast, slightly too jerky, driven by rage rather than training. Their eyes burn with cold fire, and their faces are frozen in expressions of hatred or despair. They bear insignia from both Thaldros and Aethoria, from the Iron Guild, from extinct nations; the dead do not change their sides.
+
+### Lore
+War-Twisted Soldiers are undead warriors created when soldiers die in particularly violent or traumatic circumstances and their spirits cannot move on. The combination of violent death, military conditioning, and overwhelming emotion anchors them to the mortal world. They aren't raised by necromancers (though necromancers can sometimes control them) but rise 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>Chapter 4 - Ascended & Ancient</div>
 \page
 
-### Description
-War-Twisted Soldiers wear the remnants of their military equipment (rusted armor, tattered uniforms, corroded weapons) bearing the damage that killed them. Wounds that should be fatal remain visible: crushed skulls, severed limbs, gaping chest wounds. They move with the disciplined precision they learned in life, but wrong: slightly too fast, slightly too jerky, driven by rage rather than training. Their eyes burn with cold fire, and their faces are frozen in expressions of hatred or despair. They bear insignia from both Thaldros and Aethoria, from the Iron Guild, from extinct nations; the dead do not change their sides.
+spontaneously from battlefields where violence was intense enough to scar reality. They retain fragmentary memory of their living service: they remember fighting, remember dying, remember hatred for enemies they can no longer clearly identify. They wear the rusted, tattered remnants of their original gear, often bearing insignia from extinct nations or sides that no longer matter, and they continue fighting their original war, attacking anyone who resembles old enemies. Military forces on both sides train soldiers in burial practices specifically to prevent War-Twisted rising. No one wants their comrades to become monsters.
 
-### Lore
-War-Twisted Soldiers are undead warriors created when soldiers die in particularly violent or traumatic circumstances and their spirits cannot move on. The combination of violent death, military conditioning, and overwhelming emotion anchors them to the mortal world. They aren't raised by necromancers (though necromancers can sometimes control them) but rise spontaneously from battlefields where violence was intense enough to scar reality. They retain fragmentary memory of their living service: they remember fighting, remember dying, remember hatred for enemies they can no longer clearly identify. They wear the rusted, tattered remnants of their original gear, often bearing insignia from extinct nations or sides that no longer matter, and they continue fighting their original war, attacking anyone who resembles old enemies. Military forces on both sides train soldiers in burial practices specifically to prevent War-Twisted rising. No one wants their comrades to become monsters.
+<div class="col-img">![war-twisted soldier](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/monster-manual/images/portraits/tirvandor-monster-war-twisted-soldier.jpg) {width:325px}</div>
 
 ### Cultural Significance
 War-Twisted Soldiers complicate memorial practices in ways no nation likes to admit. Families whose loved ones rose as War-Twisted face impossible choices: destroy what remains of their relatives, or leave them to harm strangers. There's no good answer, and the priests who consecrate the dead carry that weight as much as the families.
@@ -3840,7 +3844,7 @@ Roll a d20 on the appropriate region table when the party travels through unfami
 | 14 | 1 **Iron Crown Knight** enforcing a tribunal verdict |
 | 15–17 | A garrison: 1 **Royal Guard Elite** + 2 **Soldiers** + 1d4 **Conscripts** |
 | 18–19 | An **Iron Legion Enforcer** squad making a public example |
-| 20 | **Lord Commander Varius** is in the region. Adjust everything |
+| 20 | **Marshal Varius** is in the region. Adjust everything |
 
 \column
 
@@ -3953,7 +3957,7 @@ Roll a d20 on the appropriate region table when the party travels through unfami
 | 11 | Garrick Ironheart | Humanoid (legendary) | 3 |
 | 12 | Prophesied Hero | Humanoid (legendary) | 3 |
 | 12 | Herald of the Seven | Celestial (legendary) | 4 |
-| 13 | Lord Commander Varius | Humanoid (legendary) | 2 |
+| 13 | Marshal Varius | Humanoid (legendary) | 2 |
 | 15 | Forgotten King | Undead (legendary) | 4 |
 
 {{footnote Appendix B: CR Quick Reference}}
@@ -3964,7 +3968,7 @@ Roll a d20 on the appropriate region table when the party travels through unfami
 THIS LICENSE IS APPROVED FOR GENERAL USE. PERMISSION TO DISTRIBUTE THIS LICENSE IS MADE BY WIZARDS OF THE COAST!
 
 ### OPEN GAME LICENSE Version 1.0a
-	
+  
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
 1. **Definitions:** 
 
@@ -4054,3 +4058,5 @@ Homebrewery.Naturalcrit.com
 }}
 
 {{/backCover}}
+
+\page
