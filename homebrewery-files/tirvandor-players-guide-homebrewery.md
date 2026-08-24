@@ -192,7 +192,7 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ Spy}}{{ 60}}](#p64)
   - [{{ Ley Line Scholar}}{{ 60}}](#p64)
   - [{{ Thaldros Deserter}}{{ 61}}](#p65)
-  - [{{ Aethorian Revolutionary}}{{ 62}}](#p66)
+  - [{{ Harmony Volunteer}}{{ 62}}](#p66)
   - [{{ Thornwood Syndicate Operative}}{{ 63}}](#p67)
   - [{{ Silver Circle Initiate}}{{ 63}}](#p67)
   - [{{ Caravan Guard}}{{ 64}}](#p68)
@@ -229,14 +229,14 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ Oath of the Iron Crown (Paladin)}}{{ 86}}](#p90)
   - [{{ Oath of Liberty (Paladin)}}{{ 87}}](#p91)
   - [{{ Border Warden (Ranger)}}{{ 88}}](#p92)
-  - [{{ People’s Scout (Ranger)}}{{ 89}}](#p93)
+  - [{{ Partisan Scout (Ranger)}}{{ 89}}](#p93)
   - [{{ State Inquisitor (Rogue)}}{{ 89}}](#p93)
   - [{{ Shadow Broker (Rogue)}}{{ 90}}](#p94)
   - [{{ Warborn Bloodline (Sorcerer)}}{{ 90}}](#p94)
   - [{{ Ascended-touched (Sorcerer)}}{{ 91}}](#p95)
   - [{{ Pact of the Forgotten Throne (Warlock)}}{{ 91}}](#p95)
   - [{{ Pact of the War Profiteer (Warlock)}}{{ 92}}](#p96)
-  - [{{ School of the Iron Legion (Wizard)}}{{ 92}}](#p96)
+  - [{{ School of the War Mage (Wizard)}}{{ 92}}](#p96)
   - [{{ School of Innovation (Wizard)}}{{ 93}}](#p97)
 }}
 
@@ -274,12 +274,13 @@ The following are designated as Product Identity: Tirvandor, all proper names of
     - [{{ The Contested Lands (the Border)}}{{ 102}}](#p106)
     - [{{ The Sundering Sea}}{{ 102}}](#p106)
   - [{{ History}}{{ 102}}](#p106)
-    - [{{ The Age of Unity (Ancient Past)}}{{ 102}}](#p106)
-    - [{{ The Worldrend (1,247 Years Ago)}}{{ 102}}](#p106)
-    - [{{ The Age of Chains (1,200-850 Years Ago)}}{{ 102}}](#p106)
-    - [{{ The Liberation (~850 Years Ago)}}{{ 102}}](#p106)
-    - [{{ The Iron Crown Era (200 Years Ago - Present)}}{{ 102}}](#p106)
-    - [{{ The Present Day}}{{ 102}}](#p106)
+    - [{{ Before the Worldrend}}{{ 102}}](#p106)
+    - [{{ The Worldrend (Year 0, 1,247 Years Ago)}}{{ 102}}](#p106)
+    - [{{ The Age of Recovery (0-400 CR)}}{{ 102}}](#p106)
+    - [{{ The Age of Nations (400-900 CR)}}{{ 102}}](#p106)
+    - [{{ The Age of Ambition (900 CR - Present)}}{{ 102}}](#p106)
+    - [{{ The Liberation of Aethoria (~200 Years Ago)}}{{ 102}}](#p106)
+    - [{{ The Present Day (1247 CR)}}{{ 102}}](#p106)
   - [{{ Magic}}{{ 103}}](#p107)
     - [{{ Ley Lines}}{{ 103}}](#p107)
     - [{{ Magic Users}}{{ 103}}](#p107)
@@ -287,10 +288,10 @@ The following are designated as Product Identity: Tirvandor, all proper names of
   - [{{ The Seven Ascended (Gods)}}{{ 103}}](#p107)
   - [{{ Factions}}{{ 103}}](#p107)
     - [{{ The Iron Guild}}{{ 103}}](#p107)
-    - [{{ The Thornwood Syndicate}}{{ 103}}](#p107)
+    - [{{ The Shadow Syndicate}}{{ 103}}](#p107)
     - [{{ The Silver Circle}}{{ 103}}](#p107)
     - [{{ The Iron Legion}}{{ 103}}](#p107)
-    - [{{ The People’s Councils}}{{ 103}}](#p107)
+    - [{{ The Free Cities Alliance}}{{ 103}}](#p107)
   - [{{ Currency and Economy}}{{ 103}}](#p107)
   - [{{ Languages}}{{ 103}}](#p107)
   - [{{ Life in Tirvandor}}{{ 104}}](#p108)
@@ -433,9 +434,9 @@ Your Dungeon Master will let you know which tools your group uses.
 
 Tirvandor is a world divided by history, politics, and magic. A catastrophic event known as **The Worldrend** tore the world in two, creating the **Sundering Sea** between two great continents.
 
-**Thaldros** - An authoritarian empire ruled by the Iron Crown, where order and control reign supreme. Military discipline, strict laws, and centralized power define daily life.
+**Thaldros** - A feudal kingdom ruled by King Aldric IV Thandris from Kaer Thandros, where order and control reign supreme. Military discipline, strict laws, and a Council of Lords who hold their own domains under the Crown define daily life.
 
-**Aethoria** - Free democratic states where personal liberty and self-governance are paramount. Merchant councils, elected leaders, and individual rights shape society.
+**Aethoria** - A confederation of allied free states where personal liberty and democratic ideals are paramount. The largest of them is the Aethorian Harmony, an elven-led council system under High Queen Aelindra Aethermere, where the Circle of Seven Speakers acts only by the consensus of all seven and every settlement governs its own affairs.
 
 Within Thaldros lie **The Contested Lands**. Lawless frontier regions where Crown authority is nominal at best, filled with refugees, mercenaries, and those who've chosen freedom over allegiance.
 
@@ -800,7 +801,7 @@ Once you have final ability scores, determine modifiers:
 | **Evil** | LE | NE | CE |
 
 **Common Alignments for Tirvandor:** ::
-- **Chaotic Good:** Freedom fighters, rebels with hearts
+- **Chaotic Good:** Contested Lands partisans, principled smugglers, rescuers who ignore the law
 - **Neutral Good:** Pragmatic heroes
 - **Lawful Neutral:** Professional soldiers, mercenaries
 - **True Neutral:** Pragmatic survivors
@@ -1008,7 +1009,7 @@ Each race also includes cultural notes about how they fit Tirvandor society. Thi
 
 ## Human
 
-![Human Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-human.png){position:absolute,top:525px,right:-20px,width:43%,mix-blend-mode:multiply}
+![Human Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-human.png){position:absolute,top:540px,right:-20px,width:43%,mix-blend-mode:multiply}
 
 *"Humans are the most adaptable and ambitious people among the common races. Whatever drives them, humans are the innovators, the achievers, and the pioneers of Tirvandor."*
 
@@ -1041,16 +1042,16 @@ If your DM allows, you can use the following traits instead:
 
 ### Humans in Tirvandor
 
-**Population:** Majority (~60%)  
-**Nations:** Dominate both Thaldros and Aethoria  
+**Population:** Most numerous overall (~45%)  
+**Nations:** Dominate Thaldros; a respected minority in Aethoria  
 **Stereotypes:** Ambitious, short-lived, adaptable
 \column
 {{padding-top:230px}}
 **Cultural Context:** ::
-- Most common race in both nations
+- The most numerous people of Thaldros, and found in every land
 - No single human culture (varies by region)
 - Thaldros humans tend toward law and order
-- Aethoria humans tend toward freedom and democracy
+- Aethoria humans tend toward personal freedom and the patience of council consensus
 - Border humans are pragmatic survivors
 
 **Roleplaying Notes:** ::
@@ -1116,19 +1117,19 @@ If your DM allows, you can use the following traits instead:
 {{padding-top:585px}}
 ### Dwarves in Tirvandor
 
-**Population:** Common (~15%)  
-**Nations:** Respected in both, mountain clans independent  
+**Population:** Common (~13%)  
+**Nations:** A founding people of Thaldros; the Ironspine holds govern themselves  
 **Stereotypes:** Stubborn, skilled craftsmen, honor-bound
 
 **Cultural Context:** ::
-- Mountain clans maintain independence in northern ranges
-- Hill dwarves integrated into both nations
+- The Ironspine holds run their own internal affairs and send representatives to the Crown's council
+- Hill dwarves are woven through Thaldros towns and cities
 - Master craftsmen, especially smiths and brewers
 - Long memories (never forget grudge or favor)
 - **Iron Guild** led by Guildmaster Roderic Ironfist (mercenary hub)
 
 **Roleplaying Notes:** ::
-- Respected professionals in both nations
+- Respected professionals across the Thaldrosian holds and cities
 - Natural fit for military or mercenary work
 - Cultural expectation of honor and craftsmanship
 - Value strength, skill, and gold
@@ -1140,7 +1141,7 @@ If your DM allows, you can use the following traits instead:
 
 ## Elf
 
-![Elf Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-elf.png){position:absolute,top:180px,left:255px,width:30%,mix-blend-mode:multiply}
+![Elf Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-elf.png){position:absolute,top:190px,left:285px,width:25%,mix-blend-mode:multiply}
 
 *"Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light."*
 
@@ -1151,12 +1152,12 @@ If your DM allows, you can use the following traits instead:
 **Ability Score Increase:** Your Dexterity score increases by 2.
 
 </div>
-<div style="width:65%">
+<div style="width:67%">
 
 **Age:** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
 
 </div>
-<div style="width:50%">
+<div style="width:55%">
 
 **Alignment:** Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.
 
@@ -1195,19 +1196,19 @@ If your DM allows, you can use the following traits instead:
 
 #### Wood Elf
 
-<div style="margin-left:10px">
+<div style="margin-left:20px">
 
 **Ability Score Increase:** Your Wisdom score increases by 1.
 
 **Elf Weapon Training:** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
 </div>
-<div style="margin-left:30px">
+<div style="margin-left:40px">
 
 **Fleet of Foot:** Your base walking speed increases to 35 feet.
 
 </div>
-<div style="margin-left:80px">
+<div style="margin-left:70px">
 
 **Mask of the Wild:** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
@@ -1229,13 +1230,14 @@ If your DM allows, you can use the following traits instead:
 
 ### Elves in Tirvandor
 
-**Population:** Uncommon (~10%)  
-**Nations:** High elves in cities/academies, wood elves in forests  
+**Population:** Common (~15%), and the majority people of Aethoria  
+**Nations:** Rule the Aethorian Harmony; hold the Silverwood inside Thaldros  
 **Stereotypes:** Aloof, long-lived, magically gifted
 
 **Cultural Context:** ::
-- High elves: Aristocratic nobles and court mages in Thaldros
-- Wood elves: Free forest enclaves, mostly in Aethoria territory
+- Aethoria: The Harmony is elven-dominated, governed by the Circle of Seven Speakers under High Queen Aelindra Aethermere
+- High elves: Aristocratic nobles and court mages, and the Silverpine academies inside Thaldros
+- Wood elves: Forest communities of the Emerald Deeps and the Silverwood
 - Dark elves: Rare and deeply distrusted, usually outcasts
 - Long lifespan makes them seem detached from "mortal concerns"
 
@@ -1254,7 +1256,7 @@ If your DM allows, you can use the following traits instead:
 
 ![Halfling Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-halfling.png){position:absolute,top:170px,right:-100px,width:65%,mix-blend-mode:multiply}
 
-*"The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. They appear relatively harmless, which has helped them survive for centuries in the shadow of empires and on the edges of wars."*
+*"The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. They appear relatively harmless, which has helped them survive for centuries in the shadow of kingdoms and on the edges of other people's quarrels."*
 
 
 ### Halfling Traits
@@ -1296,7 +1298,7 @@ If your DM allows, you can use the following traits instead:
 
 ### Halflings in Tirvandor
 
-**Population:** Common (~8%)  
+**Population:** Common (~7%)  
 **Nations:** Everywhere, especially trade towns and Border  
 **Stereotypes:** Lucky, cheerful, sneaky, underestimated
 
@@ -1319,7 +1321,7 @@ If your DM allows, you can use the following traits instead:
 
 ## Dragonborn
 
-![Dragonborn Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-dragonborn.png){position:absolute,top:430px,left:-110px,width:75%,mix-blend-mode:multiply}
+![Dragonborn Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-dragonborn.png){position:absolute,top:430px,left:-120px,width:75%,mix-blend-mode:multiply}
 
 *"Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race."*
 
@@ -1364,19 +1366,19 @@ If your DM allows, you can use the following traits instead:
 ### Dragonborn in Tirvandor
 
 **Population:** Rare (~2%)  
-**Nations:** Scattered individuals, no dragonborn homeland  
+**Nations:** Clans of the Sundaran Expanse; scattered individuals elsewhere  
 **Stereotypes:** Proud, strong, honorable, fearsome
 
 **Cultural Context:**
-- No dragonborn nation exists in Tirvandor
-- Most are wanderers, exiles, or descendants of ancient clans
+- No dragonborn kingdom exists, but the Sundaran Clans of southern Thaldros count dragonborn among their peoples
+- Zara Flameheart's clan takes in dragonborn, tieflings, and half-orcs rejected elsewhere
 - Clan ties matter greatly, even if clan is distant
 - Breath weapon makes them feared and respected
 
 **Roleplaying Notes:**
 - Stand out (7+ feet tall, scales, can't blend in)
 - Rare means unusual means questions
-- Respected warriors in both Thaldros and Aethoria
+- Respected warriors, especially in the Sundaran desert
 - Natural fit for paladins, fighters, sorcerers
 
 {{pageNumber,auto}}
@@ -1385,7 +1387,7 @@ If your DM allows, you can use the following traits instead:
 
 ## Gnome
 
-![Gnome Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-gnome.png){position:absolute,top:560px,right:-105px,width:55%,mix-blend-mode:multiply}
+![Gnome Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-gnome.png){position:absolute,top:575px,right:-105px,width:55%,mix-blend-mode:multiply}
 
 *"A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter."*
 
@@ -1440,7 +1442,7 @@ If your DM allows, you can use the following traits instead:
 **Stereotypes:** Curious, inventive, chatty, clever
 
 **Cultural Context:** ::
-- Rock gnomes: Engineers and inventors in both nations
+- Rock gnomes: Engineers and inventors in the Thaldros cities, from the Kaer Thandros workshops to the Ironhold scout companies
 - Forest gnomes: Rare hermits and illusionists in forests
 - Master tinkerers (artificer class popular)
 - Innately magical and experimental
@@ -1489,13 +1491,13 @@ If your DM allows, you can use the following traits instead:
 
 ### Half-elves in Tirvandor
 
-**Population:** Uncommon (~7%)  
-**Nations:** Everywhere, especially cosmopolitan cities  
+**Population:** Common (~9%)  
+**Nations:** A primary people of the Free Cities Alliance; growing fast in Aethoria  
 **Stereotypes:** Caught between two worlds, adaptable
 
 **Cultural Context:** ::
-- Result of human-elf relationships (increasingly common)
-- Don't fully belong to either parent culture
+- Result of human-elf relationships (a growing share of both continents)
+- You may feel you belong to neither parent culture, though half-elves now sit on the Circle of Seven Speakers and hold the Aethorian succession
 - Often become adventurers, diplomats, or wanderers
 - Excellent at bridging cultural divides
 
@@ -1543,14 +1545,14 @@ If your DM allows, you can use the following traits instead:
 
 <div style="margin-left:50px">
 
-**Population:** Rare (~2%)  
-**Nations:** Military and mercenary ranks, often outcasts  
+**Population:** Uncommon (~3%)  
+**Nations:** Thornmire Concordat communities, the Northern Islands, military and mercenary ranks  
 **Stereotypes:** Brutal, strong, angry, dangerous
 
 **Cultural Context:** ::
-- No nearby orc nations (orcs are uncommon in Tirvandor)
-- Often result of violence or conflict (social stigma)
-- Must prove worth through strength and action
+- Half-orc settlements in the Thornmire swamps govern themselves, usually by deferring to the strongest warrior
+- Northern Island harbor towns are half human, half half-orc, and make their living from the sea
+- Elsewhere you carry a stigma you did not earn, and you prove your worth through strength and action
 - Relentless endurance highly valued in combat
 
 **Roleplaying Notes:** ::
@@ -1567,7 +1569,7 @@ If your DM allows, you can use the following traits instead:
 
 ## Tiefling
 
-![Tiefling Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-tiefling.png){position:absolute,top:125px,right:-150px,width:75%,mix-blend-mode:multiply}
+![Tiefling Portrait](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-race-tiefling.png){position:absolute,top:145px,right:-150px,width:75%,mix-blend-mode:multiply}
 
 *"To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling."*
 
@@ -1596,19 +1598,19 @@ If your DM allows, you can use the following traits instead:
 ### Tieflings in Tirvandor
 
 **Population:** Rare (~1%)  
-**Nations:** Distrusted in Thaldros, more accepted in Aethoria  
+**Nations:** Distrusted in the Thaldros heartlands, welcomed in the south and the ash lands  
 **Stereotypes:** Cursed, demonic, untrustworthy, dangerous
 
 **Cultural Context:** ::
 - Infernal heritage from ancient curse (not personal fault)
 - Not inherently evil (but heavy prejudice exists)
 - Often become outcasts or work to prove themselves
-- **Thaldros:** Actively distrusted, some hide their horns
-- **Aethoria:** More tolerant but still feared
+- **Thaldros heartlands:** Actively distrusted, some hide their horns
+- **Sundaran Expanse and the Ashfall Barrens:** Welcomed and even honored, and a tenth of Sundara is tiefling
 - **Border:** Judged by actions not appearance
 \column
 **Roleplaying Notes:** ::
-- Face constant prejudice (especially in Thaldros)
+- Face constant prejudice (especially in the Thaldros heartlands)
 - Can't hide appearance (horns, tail, unusual skin)
 <div style="width:40%">
 
@@ -1993,7 +1995,7 @@ At 18th level, you attain the pinnacle of resilience in battle. At the start of 
 
 **Cultural Context:** ::
 - Most common martial class in both nations
-- Professional military backbone of both armies
+- Professional backbone of the Royal Army and the Harmony militia
 - Mercenaries are typically fighters
 - Master tacticians and weapon specialists
 
@@ -2177,7 +2179,7 @@ When you reach 17th level, you have become adept at laying ambushes and quickly 
 
 **In Tirvandor:** ::
 - **Thaldros:** Secret police, state spies, investigators
-- **Aethoria:** Intelligence operatives, freedom fighters
+- **Aethoria:** Intelligence operatives, Harmony scouts
 - **Border:** Information brokers, thieves, smugglers
 
 **In Campaigns:** ::
@@ -2615,12 +2617,12 @@ Starting at 17th level, when you would normally roll one or more dice to restore
 
 In Tirvandor, clerics serve one of the Seven Ascended (see Appendix C):
 
-- **Thandros the Lawbringer** → Knowledge or Order domain
-- **Aethor the Liberator** → Light or War domain
+- **Thandros the Lawbringer** → Order domain
+- **Aethor the Liberator** → Light domain
 - **Moira the Weaver** → Knowledge or Arcana domain
 - **Kael the Wanderer** → Trickery domain
 - **Sera the Healer** → **Life domain** (most common)
-- **Mordain the Sentinel** → Death, War, or Grave domain
+- **Mordain the Sentinel** → Death or Grave domain
 - **Sylvara the Wild** → Nature or Tempest domain
 
 **Cultural Context:** ::
@@ -3136,13 +3138,12 @@ You can have only one creature under the effect of this feature at a time. You c
 - Isolated from political conflicts
 
 **Monasteries in Tirvandor:** ::
-- **Peak of Clarity** - Highest monastery, most prestigious
-- **Stone Fist Sanctuary** - Combat-focused monks
-- **Silent Waters** - Meditation and philosophy focus
-- Located in northern mountain ranges
-- Accept students rarely and only after trials
-
+- **The Forgotten Monastery** - Unmarked and ancient, deep in the Ironspine Mountains, predating the Worldrend
+- **Thornhaven** - An island monastery, roughly eighteen hundred souls
 \column
+- **The Iron Crown's monastery** - At Kaer Thandros, close to the throne and to the law
+- **Chain Breaker houses** - Scattered through Aethoria, with safehouses in Thaldros
+- Accept students rarely and only after trials
 
 **In Tirvandor:** ::
 - **Thaldros:** Rare, viewed with suspicion (foreign martial arts)
@@ -3424,7 +3425,7 @@ Paladins in Tirvandor swear oaths inspired by (but not directly to) the Ascended
 
 **In Tirvandor:** ::
 - **Thaldros:** Royal Paladins (Order enforcers, Conquest oaths common)
-- **Aethoria:** Freedom Paladins (Justice champions, Devotion and Ancients common)
+- **Aethoria:** Grove-sworn paladins (Justice champions, Devotion and Ancients common)
 - **Border:** Rare but respected (oath-bound mercenaries, any oath)
 
 **In Campaigns:** ::
@@ -3667,11 +3668,11 @@ At 15th level, you gain one of the following features of your choice.
 
 **In Tirvandor:** ::
 - **Thaldros:** Border scouts, royal rangers, military trackers
-- **Aethoria:** Wilderness militia, forest defenders, guerrilla fighters
+- **Aethoria:** Wilderness militia, forest defenders, Forest Guard trackers
 - **Border:** Trackers, guides, hunters, independent scouts
 
 **Favored Enemy Choices:** ::
-- **Humanoids** most common (relevant to war - soldiers, spies, enemy combatants)
+- **Humanoids** most common (relevant to the Contested Lands - separatist fighters, Crown garrison troops, spies)
 - **Beasts** for hunters and wilderness guides
 - **Undead** for those who've faced dark magic
 - Choose based on campaign and character background
@@ -3979,7 +3980,7 @@ As a warlock, you gain the following class features.
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
-{{padding-top:420px}}
+{{padding-top:390px}}
 
 **Equipment** ::
 
@@ -4377,7 +4378,8 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
 **Magical Academies:** ::
 
 - **Thaldros:**
-  - **Royal Academy of Magic** - State-controlled institution
+  - **The Arcanum** - Main campus at the Silverpine Magical Academy, with branches in the major cities
+  - **The military academies** - Train war mages for the Royal Army under the standards of the Magical Corps
   - Structured curriculum, regulated study
   - All wizards must register
   - Magic use closely monitored
@@ -4432,7 +4434,7 @@ All eight schools exist in Tirvandor academies:
 {{footnote Classes}}
 \page
 
-![Backgrounds Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-backgrounds.png){position:absolute,bottom:53px,left:30px,width:380px,mix-blend-mode:multiply}
+![Backgrounds Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-backgrounds.png){position:absolute,bottom:55px,left:60px,width:350px,mix-blend-mode:multiply}
 
 # Chapter 4: Personality & Background
 
@@ -4453,9 +4455,9 @@ A typical creature in Tirvandor has an alignment, which broadly describes its mo
 - **Lawful Evil** (LE): Methodically takes what they want
 - **Neutral Evil** (NE): Does whatever they can get away with
 - **Chaotic Evil** (CE): Acts with violence and unpredictability
-\column
-For player characters in Tirvandor, discuss alignment choices with your DM as they relate to campaign themes.
 
+For player characters in Tirvandor, discuss alignment choices with your DM as they relate to campaign themes.
+\column
 ### Personality Traits
 
 Choose or roll for two personality traits that define your character's behavior.
@@ -4489,7 +4491,7 @@ Your background represents your character's life before becoming an adventurer. 
 
 ### Tirvandor Backgrounds
 
-Tirvandor also offers a full set of setting-specific backgrounds that reflect the war between Thaldros and Aethoria, the lawless Contested Lands, and the world's magical and political landscape, including the Mercenary Veteran, War Refugee, Border Trader, Political Exile, Spy, Thaldros Deserter, Aethorian Revolutionary, and more.
+Tirvandor also offers a full set of setting-specific backgrounds that reflect the long cold quarrel between Thaldros and the Aethorian Harmony, the fighting in the lawless Contested Lands, and the world's magical and political landscape, including the Mercenary Veteran, War Refugee, Border Trader, Political Exile, Spy, Thaldros Deserter, Harmony Volunteer, and more.
 
 (Full details, features, and personality tables are provided in the Tirvandor Custom Backgrounds section later in this chapter.)
 
@@ -4554,10 +4556,10 @@ You know how to find mercenary work wherever you go. You can locate mercenary co
 | d8 | Former Company |
 |:--:|:---------------|
 | 1 | Iron Guild (prestigious, professional) |
-| 2 | Black Chains Company (corrupt, but well-paid) |
+| 2 | A company that took Black Chains contracts (corrupt, but well-paid) |
 | 3 | Thaldros Military (discharged or deserted) |
 | 4 | Aethoria Militia (fought for freedom) |
-| 5 | Border Patrol (neutral peacekeepers) |
+| 5 | A Crown border patrol on the Contested Lands frontier |
 | 6 | Noble's House Guard (sworn to a lord) |
 | 7 | Small independent company (now disbanded) |
 | 8 | Naval or pirate crew (seafaring sellsword) |
@@ -4610,7 +4612,7 @@ Mercenary veterans are shaped by years of warfare and the pragmatic realities of
 
 ### War Refugee
 
-The endless conflict between Thaldros and Aethoria has displaced you from your home. You've lost everything (family, livelihood, security) and are trying to rebuild your life in a world that often sees you as a burden or a threat. Survival is your constant priority.
+The fighting in the Contested Lands has driven you from your home. A garrison took your village, or a punitive column burned your fields. You've lost everything (family, livelihood, security) and are trying to rebuild your life in a world that often sees you as a burden or a threat. Survival is your constant priority.
 
 **Skill Proficiencies:** Survival, Stealth
 **Tool Proficiencies:** One type of artisan's tools
@@ -4629,9 +4631,9 @@ Common folk relate to your suffering and are often willing to help. You can usua
 | 2 | My home and livelihood were destroyed in a raid. |
 | 3 | I was separated from my family. I don't know if they're alive. |
 | 4 | I was forced to fight for one side against my will. |
-| 5 | My village was caught in the crossfire between both armies. |
+| 5 | My village was caught between a Crown garrison and the partisans. |
 | 6 | I fled persecution from one of the nations. |
-| 7 | I was enslaved or imprisoned and managed to escape. |
+| 7 | I was bound to a lord's land or gaoled, and I got out. |
 | 8 | I witnessed atrocities that haunt my every waking moment. |
 
 #### Suggested Characteristics
@@ -4835,9 +4837,9 @@ You have an established cover identity, complete with documentation, a fabricate
 | d6 | Employer |
 |:--:|:---------|
 | 1 | Thaldros State Inquisition |
-| 2 | Aethoria Resistance Intelligence |
+| 2 | Aethorian Intelligence, or a partisan cell it quietly funds |
 | 3 | Iron Guild Information Network |
-| 4 | Thornwood Syndicate |
+| 4 | The Shadow Syndicate, or the Thornwood Syndicate under it |
 | 5 | A noble house's private intelligence service |
 | 6 | The Silver Circle (monitoring magical threats) |
 
@@ -4955,7 +4957,7 @@ Ley line scholars are driven by curiosity about the fundamental nature of magic,
 
 ### Thaldros Deserter
 
-You served in the military forces of Thaldros: perhaps the regular army, the Iron Legion, or even the dreaded State Inquisition. But something happened that made you abandon your post. Now you're a wanted criminal in your homeland, hunted by the regime you once served.
+You served the Crown of Thaldros: perhaps in the Royal Army, perhaps in the Iron Legion that regular soldiers distrust, or even in the dreaded State Inquisition. But something happened that made you abandon your post. Now you're a wanted criminal in your homeland, hunted by the Crown you once served.
 
 **Skill Proficiencies:** Athletics, Survival ::
 **Tool Proficiencies:** Vehicles (land), one type of gaming set ::
@@ -4973,7 +4975,7 @@ You know Thaldros military protocols, command structures, and tactics. You can i
 | 2 | I witnessed war crimes and knew I'd be silenced if I reported them. |
 | 3 | I was going to be executed for a crime I didn't commit. |
 | 4 | I fell in love with someone on the "wrong" side. |
-| 5 | I learned a terrible truth about the regime I served. |
+| 5 | I learned a terrible truth about what the Crown was doing. |
 | 6 | I simply couldn't kill anymore. |
 
 #### Suggested Characteristics
@@ -4999,7 +5001,7 @@ Deserters are haunted by their past and constantly looking over their shoulders,
 |:--:|:------|
 | 1 | **Redemption.** I must atone for what I did in Thaldros's name. (Good) |
 | 2 | **Freedom.** I'll never take orders from tyrants again. (Chaotic) |
-| 3 | **Justice.** The Thaldros regime must answer for its crimes. (Lawful) |
+| 3 | **Justice.** The Crown must answer for what is done in its name. (Lawful) |
 | 4 | **Survival.** I did what I had to do, and I'll keep doing it. (Neutral) |
 | 5 | **Revenge.** The officers who wronged me will pay. (Evil) |
 | 6 | **Protection.** I'll defend others from what I once inflicted. (Good) |
@@ -5022,20 +5024,20 @@ Deserters are haunted by their past and constantly looking over their shoulders,
 | 5 | I hate myself for the things I did while serving. |
 | 6 | I'm reckless because part of me thinks I deserve to be caught. |
 
-### Aethorian Revolutionary
+### Harmony Volunteer
 
-You fought for Aethoria's ideals of freedom and democracy: perhaps in the resistance against Thaldros occupation, or in the ongoing political struggles within Aethoria itself. You believe in the cause, even when the reality of revolution proves messier than the ideals.
+You believe in Aethoria's ideals of freedom and self-rule. Perhaps you crossed the Sundering Sea as a volunteer with the partisans of the Contested Lands, or perhaps you argued the cause at home, in the long consensus debates that decide everything in the Harmony. You believe in it even when the reality of the work proves messier than the ideals.
 
 **Skill Proficiencies:** Persuasion, Stealth ::
 **Tool Proficiencies:** Disguise kit ::
 **Languages:** One of your choice ::
-**Equipment:** A pamphlet or manifesto you helped write or distribute, a disguise kit, a set of common clothes, a symbol of your revolutionary cell, and a belt pouch containing 10 gp ::
+**Equipment:** A pamphlet or manifesto you helped write or distribute, a disguise kit, a set of common clothes, a symbol of the cell you served with, and a belt pouch containing 10 gp ::
 \column
-#### Feature: Revolutionary Network
+#### Feature: Volunteer Network
 
-You have contacts within Aethoria's resistance movements and democratic activists. You can usually find safe houses, sympathizers, and resources in areas where revolutionary sentiment exists. Fellow revolutionaries will help you if they can, though they may ask for help in return.
+You have contacts among the partisan cells of the Contested Lands and among their Harmony sympathizers. You can usually find safe houses, sympathizers, and resources in areas where the cause has taken root. Fellow partisans will help you if they can, though they may ask for help in return.
 
-#### Revolutionary Role
+#### Volunteer Role
 
 | d6 | Role |
 |:--:|:-----|
@@ -5058,7 +5060,7 @@ Revolutionaries are passionate believers in their cause, though they often strug
 | 4 | I inspire others with my passion for the cause. |
 | 5 | I'm suspicious of anyone with too much power or wealth. |
 | 6 | I've learned to live simply and share what I have. |
-| 7 | I use revolutionary slogans and rhetoric constantly. |
+| 7 | I use the partisans' slogans and rhetoric constantly. |
 | 8 | I remember every comrade who fell for the cause. |
 
 | d6 | Ideal |
@@ -5073,8 +5075,8 @@ Revolutionaries are passionate believers in their cause, though they often strug
 | d6 | Bond |
 |:--:|:-----|
 | 1 | I lost someone I loved to Thaldros oppression. |
-| 2 | My revolutionary cell is my family now. |
-| 3 | I'm searching for a legendary revolutionary leader. |
+| 2 | The cell I served with is my family now. |
+| 3 | I'm searching for a partisan leader out of the old stories. |
 | 4 | I promised a dying comrade I'd see the revolution succeed. |
 | 5 | I know the identity of a traitor in our movement. |
 | 6 | There's a particular Thaldros official I've sworn to bring down. |
@@ -5089,12 +5091,12 @@ Revolutionaries are passionate believers in their cause, though they often strug
 | 2 | I've done terrible things in the name of the cause. |
 | 3 | I can't compromise, even when it would help our goals. |
 | 4 | I prioritize the cause over individual people, including friends. |
-| 5 | I'm addicted to the camaraderie and excitement of revolutionary life. |
+| 5 | I'm addicted to the camaraderie and excitement of life in the cells. |
 | 6 | I've become what I hate, ruthless and uncompromising. |
 
 ### Thornwood Syndicate Operative
 
-The Thornwood Syndicate is the largest criminal organization operating in Tirvandor's underworld, with roots in the Contested Lands and branches in every major city. Founded by loyalists after House Thornwood's lands were stolen through judicial fraud, the Syndicate now serves as Lady Elara Thornwood's power base for reclaiming her birthright. You worked for them, perhaps willingly, perhaps not, and learned the ways of organized crime.
+Organized crime in Tirvandor answers to the Shadow Syndicate, which is less an organization than a network of criminal groups that have kept to the same agreed rules since about 300 CR. The Thornwood Syndicate is the largest of the networks under it that still keeps its own name, run out of the Contested Lands by Elara "Red Wolf" Thornwood. It grew from the followers she gathered when she first took up arms against those who had stolen her family's lands, and it remains her power base for taking them back. You worked for them, perhaps willingly, perhaps not, and learned the ways of organized crime. If your table would rather you came up through one of the other networks, or through no network at all, everything below works unchanged.
 
 **Skill Proficiencies:** Deception, Intimidation ::
 **Tool Proficiencies:** Thieves' tools, one type of gaming set ::
@@ -5102,7 +5104,7 @@ The Thornwood Syndicate is the largest criminal organization operating in Tirvan
 
 #### Feature: Criminal Connections
 
-You know how to contact the Thornwood Syndicate in most major settlements, and they'll deal with you as a professional (though not necessarily as a friend). You can fence stolen goods, acquire illegal items, and find black market services. However, the Syndicate has a long memory. They remember both favors and debts.
+You know how to contact the Syndicate in most major settlements, whether that means the Thornwood or one of the other networks under the Shadow Syndicate's rules, and they'll deal with you as a professional (though not necessarily as a friend). You can fence stolen goods, acquire illegal items, and find black market services. However, the Syndicate has a long memory. They remember both favors and debts.
 
 #### Syndicate Role
 
@@ -5171,7 +5173,7 @@ The Silver Circle is an organization of mages dedicated to studying and protecti
 
 #### Feature: Circle Hospitality
 
-Silver Circle chapterhouses exist in most major cities and near significant ley nodes. As a former initiate, you can request shelter and basic assistance from the Circle, though full members may view you with anything from respect to pity to suspicion, depending on why you left. You also have access to basic magical libraries and research facilities at chapterhouses.
+Silver Circle chapterhouses stand near major nexuses and ley line junctions, which sometimes means a great city and sometimes means a week's ride from anywhere. As a former initiate, you can request shelter and basic assistance from the Circle, though full members may view you with anything from respect to pity to suspicion, depending on why you left. You also have access to basic magical libraries and research facilities at chapterhouses.
 
 
 #### Circle Specialty
@@ -5323,7 +5325,7 @@ Temples and shrines dedicated to your deity will offer you shelter, food, and ba
 | 5 | Sera the Healer (life, mercy) |
 | 6 | Mordain the Sentinel (death, protection) |
 | 7 | Sylvara the Wild (nature, storms) |
-| 8 | A regional deity or the Primordials |
+| 8 | A regional deity, or a sacred grove where the Primordials are honored in rite rather than in temple |
 
 #### Suggested Characteristics
 
@@ -5377,7 +5379,7 @@ The Worldrend, the cataclysm that separated Thaldros and Aethoria 1,247 years ag
 
 **Skill Proficiencies:** History, Investigation  ::
 **Tool Proficiencies:** Cartographer's tools or Calligrapher's supplies ::
-**Languages:** One ancient language (often Old Thaldric or Ancient Aethorian) ::
+**Languages:** The Old Tongue, the pre-Worldrend language preserved in religious texts and legal documents ::
 **Equipment:** A collection of copied historical documents, a journal filled with notes and theories, cartographer's tools or calligrapher's supplies, a set of scholar's robes, and a belt pouch containing 10 gp
 
 #### Feature: Historical Expert
@@ -5388,12 +5390,12 @@ You are recognized as an authority on the Worldrend and ancient Tirvandor histor
 
 | d6 | Theory |
 |:--:|:-------|
-| 1 | The Worldrend was caused by a magical war between nations |
-| 2 | The Worldrend was divine punishment from the Ascended |
-| 3 | The Worldrend was caused by ley line manipulation |
-| 4 | The Worldrend was the result of summoning or releasing something terrible |
-| 5 | The Worldrend was deliberately caused to stop something worse |
-| 6 | The Worldrend was a natural catastrophe with no sentient cause |
+| 1 | **The Weapon Theory.** The World-Splitter was detonated during the Circle of Seven's ritual. Most scholars agree. |
+| 2 | **The Divine Intervention Theory.** The gods sundered the world to humble mortal ambition. Popular in the temples. |
+| 3 | **The Natural Magic Theory.** The ley network was already failing. The ritual was only the trigger. |
+| 4 | **The Planar Collision Theory.** Tirvandor briefly overlapped another plane, and reality corrected itself. |
+| 5 | **The Dragon Prophecy Theory.** Ancient dragons foresaw the Worldrend and helped it happen to prevent worse. Few take this seriously. |
+| 6 | **The Bound Ancient Theory.** Something was let out. You should not be able to know this one. |
 
 #### Suggested Characteristics
 
@@ -5441,9 +5443,13 @@ Worldrend historians are driven by the need to understand the past, believing th
 
 In the great arenas of Tirvandor. From Thaldros's state-sponsored blood sports to Aethoria's athletic competitions to the anything-goes fighting pits of the Contested Lands. You made your living as a professional combatant. You fought for glory, for gold, or simply for survival.
 
-
 **Skill Proficiencies:** Performance, Athletics ::
 **Tool Proficiencies:** One type of gaming set, disguise kit ::
+
+{{pageNumber,auto}}
+{{footnote Personality & Background}}
+\page
+
 **Languages:** None ::
 **Equipment:** A costume or uniform from your fighting days, a gaming set, a token or trophy from a memorable victory, a set of common clothes, and a belt pouch containing 15 gp ::
 
@@ -5451,17 +5457,12 @@ In the great arenas of Tirvandor. From Thaldros's state-sponsored blood sports t
 
 You are known in the world of professional fighting. You can usually find work at fighting pits, gain entry to gladiatorial events, and earn money through exhibition matches or personal appearances. Former opponents, fans, and other fighters recognize you and may react with admiration, jealousy, or a desire for revenge.
 
-
-{{pageNumber,auto}}
-{{footnote Personality & Background}}
-\page
-
 #### Arena Background
 
 | d6 | Background |
 |:--:|:-----------|
-| 1 | Thaldros Imperial Arena (state-sanctioned, prestigious) |
-| 2 | Aethoria Athletic Games (competitive, honorable) |
+| 1 | Thaldros Royal Arena (Crown-sanctioned, prestigious) |
+| 2 | Harmony militia trials (competitive, honorable) |
 | 3 | Border fighting pits (brutal, no rules) |
 | 4 | Noble's private games (entertainment for the wealthy) |
 | 5 | Prison fights (survival combat) |
@@ -5547,6 +5548,10 @@ Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how 
 | 7 | I form intense connections quickly: life is too short. |
 | 8 | I'm fatalistic about death: it'll come when it comes. |
 
+{{pageNumber,auto}}
+{{footnote Personality & Background}}
+\page
+
 | d6 | Ideal |
 |:--:|:------|
 | 1 | **Life.** Every life is precious and worth protecting. (Good) |
@@ -5564,10 +5569,6 @@ Shipwreck survivors often struggle with guilt, trauma, and the knowledge of how 
 | 4 | The person who rescued me deserves more than I can ever repay. |
 | 5 | I saw something in the water that I can't explain. |
 | 6 | I'm trying to find the family of someone who died saving me. |
-
-{{pageNumber,auto}}
-{{footnote Personality & Background}}
-\page
 
 | d6 | Flaw |
 |:--:|:-----|
@@ -5590,7 +5591,7 @@ You studied under a master, perhaps a wizard, artisan, scholar, or other expert,
 #### Feature: Partial Training
 
 You have incomplete but real training in your former field. You can speak knowledgeably about your area of study (even if you can't practice it at full competence), identify genuine work from fakes, and recognize others with similar training. Other practitioners in your field may view you with sympathy, contempt, or occasionally as a useful (cheap) assistant.
-
+\column
 #### Failed Field
 
 | d6 | Field |
@@ -5601,8 +5602,6 @@ You have incomplete but real training in your former field. You can speak knowle
 | 4 | Scholarship (academic institution) |
 | 5 | Medicine (healer's student) |
 | 6 | Combat training (military or martial arts) |
-
-\column
 
 #### Suggested Characteristics
 
@@ -5662,12 +5661,12 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 | Spy | Deception, Stealth | Disguise kit, gaming set | Cover Identity |
 | Ley Line Scholar | Arcana, Investigation | Cartographer's tools, one language | Ley Line Sensitivity |
 | Thaldros Deserter | Athletics, Survival | Vehicles (land), gaming set | Military Training |
-| Aethorian Revolutionary | Persuasion, Stealth | Disguise kit, one language | Revolutionary Network |
+| Harmony Volunteer | Persuasion, Stealth | Disguise kit, one language | Volunteer Network |
 | Thornwood Syndicate Operative | Deception, Intimidation | Thieves' tools, gaming set | Criminal Connections |
 | Silver Circle Initiate | Arcana, History | Two languages | Circle Hospitality |
 | Caravan Guard | Perception, Survival | Vehicles (land), one language | Well-Traveled |
 | Temple Warden | Religion, Athletics | Gaming set, one language | Temple Shelter |
-| Worldrend Historian | History, Investigation | Cartographer's or calligrapher's, ancient language | Historical Expert |
+| Worldrend Historian | History, Investigation | Cartographer's or calligrapher's, Old Tongue | Historical Expert |
 | Gladiator | Performance, Athletics | Gaming set, disguise kit | Arena Fame |
 | Shipwreck Survivor | Survival, Athletics | Navigator's tools, vehicles (water) | Survivor's Luck |
 | Failed Apprentice | One skill (field), Investigation | Artisan's tools or skill, one language | Partial Training |
@@ -5679,8 +5678,6 @@ Failed apprentices often struggle with feelings of inadequacy while trying to pr
 {{pageNumber,auto}}
 {{footnote Personality & Background}}
 \page
-
-![Equipment Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-equipment.png){position:absolute,top:550px,right:0px,width:20%,mix-blend-mode:multiply}
 
 # Chapter 5: Equipment
 
@@ -5713,50 +5710,52 @@ Coins come in different denominations:
 - **Gold pieces (gp)** = 10 sp
 - **Platinum pieces (pp)** = 10 gp
 
+**Wealth by level.** ::
+Your DM will pace treasure so that a character's accumulated wealth stays roughly in these bands: 50-500 gp at levels 1-4, 500-5,000 gp at levels 5-10, 5,000-50,000 gp at levels 11-16, and 50,000 gp or more at levels 17-20.
+
 ## Armor
 
 ### Light Armor
-- Padded: 5 gp, AC 11 + Dex
-- Leather: 10 gp, AC 11 + Dex
-- Studded Leather: 45 gp, AC 12 + Dex
+- Padded: 5 gp, AC 11 + Dex, 8 lb., Stealth disadvantage
+- Leather: 10 gp, AC 11 + Dex, 10 lb.
+- Studded Leather: 45 gp, AC 12 + Dex, 13 lb.
 
 ### Medium Armor
-- Hide: 10 gp, AC 12 + Dex (max 2)
-- Chain Shirt: 50 gp, AC 13 + Dex (max 2)
-- Scale Mail: 50 gp, AC 14 + Dex (max 2)
-- Breastplate: 400 gp, AC 14 + Dex (max 2)
-- Half Plate: 750 gp, AC 15 + Dex (max 2)
-
+- Hide: 10 gp, AC 12 + Dex (max 2), 12 lb.
+- Chain Shirt: 50 gp, AC 13 + Dex (max 2), 20 lb.
+- Scale Mail: 50 gp, AC 14 + Dex (max 2), 45 lb., Stealth disadvantage
+- Breastplate: 400 gp, AC 14 + Dex (max 2), 20 lb.
+- Half Plate: 750 gp, AC 15 + Dex (max 2), 40 lb., Stealth disadvantage
+\column
 ### Heavy Armor
-- Ring Mail: 30 gp, AC 14
-- Chain Mail: 75 gp, AC 16, Str 13
-- Splint: 200 gp, AC 17, Str 15
-- Plate: 1,500 gp, AC 18, Str 15
+- Ring Mail: 30 gp, AC 14, 40 lb., Stealth disadvantage
+- Chain Mail: 75 gp, AC 16, Str 13, 55 lb., Stealth disadvantage
+- Splint: 200 gp, AC 17, Str 15, 60 lb., Stealth disadvantage
+- Plate: 1,500 gp, AC 18, Str 15, 65 lb., Stealth disadvantage
 
 ### Shields
-- Shield: 10 gp, +2 AC
-\column
-{{padding-top:00px}}
+- Shield: 10 gp, +2 AC, 6 lb.
+
 ## Weapons
 
 ### Simple Melee Weapons
-- Club: 1 sp, 1d4 bludgeoning
-- Dagger: 2 gp, 1d4 piercing, finesse, light, thrown
-- Mace: 5 gp, 1d6 bludgeoning
-- Quarterstaff: 2 sp, 1d6 bludgeoning, versatile (1d8)
-- Spear: 1 gp, 1d6 piercing, thrown, versatile (1d8)
+- Club: 1 sp, 1d4 bludgeoning, 2 lb., light
+- Dagger: 2 gp, 1d4 piercing, 1 lb., finesse, light, thrown (range 20/60)
+- Mace: 5 gp, 1d6 bludgeoning, 4 lb.
+- Quarterstaff: 2 sp, 1d6 bludgeoning, 4 lb., versatile (1d8)
+- Spear: 1 gp, 1d6 piercing, 3 lb., thrown (range 20/60), versatile (1d8)
 
 ### Simple Ranged Weapons
-- Light Crossbow: 25 gp, 1d8 piercing, range 80/320
-- Shortbow: 25 gp, 1d6 piercing, range 80/320
+- Light Crossbow: 25 gp, 1d8 piercing, 5 lb., ammunition (range 80/320), loading, two-handed
+- Shortbow: 25 gp, 1d6 piercing, 2 lb., ammunition (range 80/320), two-handed
 
 ### Martial Melee Weapons
-- Longsword: 15 gp, 1d8 slashing, versatile (1d10)
-- Greatsword: 50 gp, 2d6 slashing, heavy, two-handed
-- Rapier: 25 gp, 1d8 piercing, finesse
+- Longsword: 15 gp, 1d8 slashing, 3 lb., versatile (1d10)
+- Greatsword: 50 gp, 2d6 slashing, 6 lb., heavy, two-handed
+- Rapier: 25 gp, 1d8 piercing, 2 lb., finesse
 
 ### Martial Ranged Weapons
-- Longbow: 50 gp, 1d8 piercing, heavy, range 150/600
+- Longbow: 50 gp, 1d8 piercing, 2 lb., ammunition (range 150/600), heavy, two-handed
 
 (Refer to SRD 5.1 SRD for complete equipment lists)
 
@@ -5771,17 +5770,23 @@ Common adventuring gear includes:
 - Waterskin: 2 sp
 - Healer's Kit: 5 gp
 
+{{pageNumber,auto}}
+{{footnote Equipment}}
+\page
+
+![Equipment Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-equipment.png){position:absolute,top:213px,right:0px,width:95%,mix-blend-mode:multiply}
+
 ## Tools
 
 Tool proficiencies allow you to add your proficiency bonus to ability checks made using those tools.
 
 **Artisan's Tools:** ::
-- Smith's tools, Carpenter's tools, Brewer's supplies, etc.: 5-50 gp 
+- Smith's tools, Carpenter's tools, Brewer's supplies, etc.: 1-50 gp 
 **Musical Instruments:** ::
 - Varies: 2-35 gp
 **Gaming Sets:** :: 
-- Dice, playing cards: 5 sp-1 gp
-
+- Dice set 1 sp, playing card set 5 sp
+\column
 ## Mounts and Vehicles
 
 - **Riding Horse:** 75 gp
@@ -5793,11 +5798,9 @@ Tool proficiencies allow you to add your proficiency bonus to ability checks mad
 {{footnote Equipment}}
 \page
 
-![Customization Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-customization.png){position:absolute,bottom:50px,left:0px,width:35%,mix-blend-mode:multiply}
 
-{{wide
 # Chapter 6: Customization Options
-}}
+
 
 
 ## Multiclassing
@@ -5835,21 +5838,20 @@ You gain the hit points from your new class as described for levels after 1st. Y
 
 Your proficiency bonus is always based on your total character level, not your level in a particular class.
 
-<div style="margin-left:65%">
-
 ### Proficiencies
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table in the SRD 5.1 rules.
-</div>
 
-\column
+
 ### Class Features
 
-You get all the class features of all your classes, but you must meet level requirements individually for each class.
-
+You get the features of each class for the levels you have in it, with these exceptions. You don't get the new class's starting equipment. If you gain the Channel Divinity feature from more than one class, the uses are shared and you gain the extra effects, not extra uses. If you gain the Extra Attack feature from more than one class, they don't add together: you still attack twice, not more. You can take the Unarmored Defense feature only once.
+\column
 ### Spellcasting
 
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. (Refer to SRD 5.1 rules for multiclass spellcasting details)
+
+Warlock Pact Magic is the exception: those slots are tracked separately, are not added into the multiclass total, and recharge on a short rest as normal. You can, however, use a Pact Magic slot to cast a spell you know from another class, and vice versa.
 
 ## Feats
 
@@ -5867,11 +5869,11 @@ Some feats have prerequisites. You must meet any prerequisite specified in a fea
 
 Common feats include (refer to SRD for full details):
 
-- **Alert:** +5 initiative, can't be surprised
-- **Athlete:** Improved climbing, jumping, standing
-- **Grappler:** Advantage on grapple attacks
+- **Alert:** +5 initiative, can't be surprised, hidden attackers gain no advantage
+- **Athlete:** +1 Str or Dex; improved climbing, jumping, standing
+- **Grappler** (requires Str 13): Advantage on attacks against a creature you are grappling; can pin a grappled creature
 - **Lucky:** 3 luck points per long rest
-- **Magic Initiate:** Learn cantrips and 1st-level spell
+- **Magic Initiate:** Two cantrips and one 1st-level spell (once per long rest) from one class's list
 - **Tough:** +2 HP per level
 - **War Caster:** Advantage on concentration, cast while wielding
 
@@ -5887,14 +5889,14 @@ Your DM may allow campaign-specific feats:
 {{footnote Customization Options}}
 \page
 
-![Subclasses Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-subclasses.png){position:absolute,bottom:58px,left:238px,width:45%,mix-blend-mode:multiply}
+![Subclasses Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-subclasses.png){position:absolute,bottom:25px,left:255px,width:45%,mix-blend-mode:multiply}
 
 {{wide
 # Chapter 7: Tirvandor Custom Subclasses
 }}
 
 
-This chapter contains custom subclasses for each of the twelve core classes, designed specifically for the Tirvandor campaign setting.
+This chapter contains twenty-four custom subclasses, two for each of the twelve core classes, designed specifically for the Tirvandor campaign setting.
 
 
 ## Path of the Border Reaver (Barbarian)
@@ -5908,7 +5910,7 @@ The Border is a harsh place where only the strong survive. Border Reavers are ba
 
 When you choose this path at 3rd level, your survival instincts become supernaturally sharp. You gain the following benefits:
 
-- **Always Ready:** You gain a bonus to initiative rolls equal to your Constitution modifier (minimum +1). You can't be surprised while you are conscious.
+- **Always Ready:** You gain a bonus to initiative rolls equal to your Constitution modifier (minimum +1). If you are surprised at the start of combat and aren't incapacitated, you can act normally on your first turn.
 
 - **Scavenger:** When you reduce a hostile creature to 0 hit points, you can use your bonus action to immediately search the body. You find 1d10 gold pieces, one use of a consumable item (DM's choice: potion, ammunition, etc.), or useful battlefield information.
 
@@ -5943,7 +5945,7 @@ At 10th level, your time surviving in the brutal Border has made you incredibly 
 
 - **Hardened:** When you roll a Hit Die to regain hit points, the minimum number you can roll is equal to your Constitution modifier (minimum of 1).
 
-- **Never Stay Down:** When you are reduced to 0 hit points while raging and don't die outright, you can choose to drop to 1 hit point instead. Once you use this feature, you can't use it again until you finish a long rest.
+- **Never Stay Down:** When you are reduced to 0 hit points while raging and don't die outright, you can make a DC 10 Constitution saving throw. On a success you drop to 1 hit point instead. Each time you use this feature after the first, the DC increases by 5. The DC resets to 10 when you finish a long rest. If you also have Relentless Rage, the two features share one DC.
 
 - **Survivor's Stamina:** You can add your Constitution modifier to death saving throws.
 
@@ -5980,7 +5982,7 @@ They're respected in the Border towns for their effectiveness but feared for the
 
 ## Path of Revolutionary Fury (Barbarian)
 
-*Aethorian freedom fighters who channel righteous rage against oppression and tyranny*
+*Partisans of the Contested Lands who channel righteous rage against garrison, lord and law*
 
 Some barbarians don't rage from bloodlust or primal fury. They rage from injustice. Revolutionary Fury barbarians are freedom fighters whose anger at tyranny and oppression fuels superhuman strength. They break chains, shatter walls, and inspire hope in the oppressed with their unstoppable wrath.
 
@@ -6002,7 +6004,7 @@ Starting at 6th level, your fury inspires others to resist. When you rage, you c
 
 Once a creature gains temporary hit points from this feature, it can't gain them again until it finishes a short or long rest.
 
-
+\column
 ### Unbreakable Will (10th Level)
 
 At 10th level, your commitment to freedom makes your spirit unbreakable. You gain the following benefits:
@@ -6027,23 +6029,33 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Tirvandor Context
 
-**Origin:** Aethoria (primarily), or former Thaldros slaves ::
+**Origin:** The Contested Lands, or Thaldros serfs who ran from the land they were bound to ::
 
-**Culture:** Revolutionary Fury barbarians are heroes to the oppressed and terrorists to authorities. In Aethoria, they're celebrated freedom fighters. In Thaldros, they're hunted as dangerous rebels. Many have personal histories of slavery, imprisonment, or witnessing tyranny. ::
+**Culture:** Revolutionary Fury barbarians are heroes to the villages of the Contested Lands and terrorists to the garrisons. In the Harmony, where they are welcomed as visiting fighters for a just cause, they're celebrated. In Thaldros, they're hunted as dangerous rebels. Many were serfs who ran, debtors who were worked half to death, or prisoners who got out. ::
 
 **Philosophical Note:** These barbarians believe freedom is worth any price. Their rage isn't mindless: it's the righteous anger of those who refuse to live in chains. ::
-
-## College of Propaganda (Bard)
-
-*Masters of information warfare who wield words as weapons to shape public opinion and control narratives*
-
-Whether serving a state or a revolution, bards of the College of Propaganda understand that controlling information is as powerful as any spell. They are masters of spin, manipulation, and mass persuasion, 
 
 {{pageNumber,auto}}
 {{footnote Custom SubClasses}}
 \page
 
-capable of turning friend to foe and hero to villain with carefully chosen words.
+## College of Propaganda (Bard)
+
+*Masters of information warfare who wield words as weapons to shape public opinion and control narratives*
+
+Whether serving a state or a revolution, bards of the College of Propaganda understand that controlling information is as powerful as any spell. They are masters of spin, manipulation, and mass persuasion, capable of turning friend to foe and hero to villain with carefully chosen words.
+
+
+### Expanded Spell List
+
+The following spells are added to the bard spell list for you. You can choose them when you learn a bard spell, and they count against your spells known as normal.
+
+| Bard Level | Spells |
+|------------|--------|
+| 3rd | *propagandist's whisper*, *voice of authority* |
+| 5th | *mass hysteria* |
+| 7th | *iron guild contract* |
+| 9th | *rewrite memory* |
 
 
 ### Bonus Proficiencies (3rd Level)
@@ -6063,7 +6075,7 @@ Also at 3rd level, you learn to reshape narratives and manipulate perception. Yo
 
 - **Plant the Seed:** When you successfully deceive or persuade a creature, you can implant a false belief in their mind. The creature believes your lie or accepts your argument as unquestionable truth for 1 hour. If presented with obvious evidence contradicting the belief, they may question it (DM's discretion). Once you use this feature, you can't use it again until you finish a short or long rest.
 
-
+\column
 ### Propaganda Campaign (6th Level)
 
 Starting at 6th level, you can launch coordinated information campaigns. Over the course of 1 hour (which can be during a rest), you can spread rumors, plant false information, or shape public opinion about a specific person, organization, or event.
@@ -6083,34 +6095,42 @@ Once you use this feature, you can't use it again until you finish a long rest. 
 
 At 14th level, your words can spread like wildfire through a population. You gain the following abilities:
 
-- **Mass Manipulation:** When you cast a spell that charms a creature, you can target one additional creature within range for each level of the spell slot used (minimum of 1 additional target).
+- **Mass Manipulation:** When you cast a spell of 1st level or higher that charms a creature, you can target one additional creature within range. You can use this feature a number of times equal to your Charisma modifier, and you regain all expended uses when you finish a long rest.
 
 - **Fanatical Loyalty:** When a creature is charmed by you, it becomes fanatically loyal to you and your cause. It will defend your reputation, spread your message, and actively work to further your goals to the best of its ability. When the charm ends, the creature doesn't immediately realize it was magically influenced unless it acts completely contrary to its normal behavior.
 
 - **Control the Narrative:** You can cast *modify memory* once without expending a spell slot. Once you use this feature, you can't use it again until you finish a long rest.
 
-
 ### Tirvandor Context
 
-**Origin:** Can serve either Thaldros (state propaganda) or Aethoria (revolutionary messaging)
-
-**Culture:**  ::
-
-**In Thaldros:** Propaganda bards are state-sponsored agents who control official narratives, suppress dissent, and shape public opinion in favor of the crown. They're well-paid but closely watched. ::
-**In Aethoria:** Propaganda bards are revolutionary orators who spread messages of freedom, counter Thaldros propaganda, and inspire resistance. They're celebrated as heroes of the people. ::
-**In the Border:** Some propaganda bards work as freelance spin doctors, selling their services to whoever pays. ::
-**Moral Ambiguity:** This college is morally neutral: it's a tool that can be used for good (inspiring freedom) or evil (justifying tyranny). The bard's alignment matters more than the college itself. ::
-
+**Origin:** The Crown's official voice in Thaldros, the cause's voice in the Harmony and the Contested Lands, or nobody's voice but the highest bidder's in the Border
 
 {{pageNumber,auto}}
 {{footnote Custom SubClasses}}
 \page
+
+**Culture:**  ::
+
+**In Thaldros:** Propaganda bards are state-sponsored agents who control official narratives, suppress dissent, and shape public opinion in favor of the crown. They're well-paid but closely watched. ::
+**In Aethoria:** Propaganda bards are orators for the cause, arguing the Contested Lands question in Harmony councils, raising coin and volunteers, and answering Crown propaganda with their own. They're celebrated as heroes of the people. ::
+**In the Border:** Some propaganda bards work as freelance spin doctors, selling their services to whoever pays. ::
+**Moral Ambiguity:** This college is morally neutral: it's a tool that can be used for good (inspiring freedom) or evil (justifying tyranny). The bard's alignment matters more than the college itself. ::
 
 ## College of the Iron Tongue (Bard)
 
 *Border diplomats and contract specialists who broker deals and enforce agreements with magic*
 
 The Iron Tongue bards are mercenary mediators affiliated with the Iron Guild. They are masters of negotiation, contract law, and deal-making who use magic to ensure agreements are honored. In the cutthroat world of Border mercenary work, their services are invaluable.
+
+
+### Expanded Spell List
+
+The following spells are added to the bard spell list for you. You can choose them when you learn a bard spell, and they count against your spells known as normal. *Iron word* is granted separately and does not count against your spells known.
+
+| Bard Level | Spells |
+|------------|--------|
+| 3rd | *voice of authority* |
+| 7th | *iron guild contract* |
 
 
 ### Bonus Proficiencies (3rd Level)
@@ -6155,6 +6175,10 @@ Also at 6th level, your affiliation with the Iron Guild grants you special privi
 - You can access Iron Guild safe houses, which provide free lodging and information about local mercenary work.
 - You gain a +2 bonus to your Iron Guild reputation score (if using the reputation system from Blood & Coin campaign).
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 ### Master Mediator (14th Level)
 
 At 14th level, you become legendary in the world of negotiation and deal-making. You gain the following abilities:
@@ -6164,30 +6188,15 @@ At 14th level, you become legendary in the world of negotiation and deal-making.
   - Creatures that violate major terms take 4d10 psychic damage and suffer one level of exhaustion.
   - Creatures that violate minor terms take 2d10 psychic damage.
   - You can include a clause that teleports a creature to a designated location if they violate terms (the creature gets a Wisdom save to resist).
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 - **Arbitrator's Authority:** You can cast *geas* once without expending a spell slot, but only as part of a negotiated agreement where all parties consent. Once you use this feature, you can't use it again until you finish a long rest.
 
-### New Spell: Iron Word
-*3rd-level enchantment*
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Components:** V, S, M (a signed contract)
-- **Duration:** Concentration, up to 1 minute
-
-You speak a binding word of enforcement. Choose one creature within range that you have a contract with. That creature must succeed on a Wisdom saving throw or be compelled to honor the terms of your agreement. While affected, the creature has disadvantage on any action that would violate the contract and automatically fails Charisma (Deception) checks related to the contract terms.
-
-**Bards of the College of the Iron Tongue learn this spell automatically at 3rd level, and it doesn't count against their spells known.**
-
+**Iron Word.** Bards of the College of the Iron Tongue learn *iron word* automatically at 3rd level, when they first gain 2nd-level spell slots. The spell is described in full in Chapter 8.
 
 ### Tirvandor Context
 
 **Origin:** Border regions, affiliated with the Iron Guild ::
 **Culture:** Iron Tongue bards are respected neutral parties in the mercenary world. They broker contracts between mercenaries and clients, mediate disputes between rival companies, and ensure deals are honored. Their magical enforcement makes them invaluable, and wealthy. ::
-**Reputation:** In the Border, an Iron Tongue bard's word is gold. They're trusted because breaking their contracts has severe magical consequences. Both Thaldros and Aethoria hire them for diplomatic missions when they need a guaranteed neutral party. ::
+**Reputation:** In the Border, an Iron Tongue bard's word is gold. They're trusted because breaking their contracts has severe magical consequences. Both Thaldros and the Harmony hire them when they need a deal that will hold, though nobody mistakes the Guild for a disinterested party: its neutrality is commercial rather than political, it takes Crown contracts happily, and it calls King Aldric IV an ally. What an Iron Tongue bard guarantees is the contract, not the sympathy. ::
 **Philosophy:** "Every person has a price, and every problem has a solution, if the terms are right." ::
 
 ## Ascended Champion Domain (Cleric)
@@ -6198,8 +6207,6 @@ The Ascended Champion domain represents the most devout combat clerics in Tirvan
 
 **When you choose this domain at 1st level, select one of the Seven Ascended to serve. Your choice determines your domain spells and Channel Divinity options.**
 
-\column
-
 ### Ascended Champion: General Features
 
 The following features apply to all Ascended Champions, regardless of which god they serve:
@@ -6209,9 +6216,9 @@ The following features apply to all Ascended Champions, regardless of which god 
 
 When you choose this domain at 1st level, you gain proficiency with martial weapons and heavy armor.
 
-#### Champion's Strike (1st Level)
+#### Ascended Resilience (1st Level)
 
-Also at 1st level, you gain the ability to infuse your weapon strikes with divine power. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of a type determined by your chosen Ascended (see individual entries below). When you reach 14th level, the extra damage increases to 2d8.
+Also at 1st level, your devotion armors you against your foes. You gain resistance to the damage type your chosen Ascended commands, and you have advantage on saving throws against being charmed or frightened.
 
 
 #### Channel Divinity: Ascended Manifestation (2nd Level)
@@ -6224,14 +6231,18 @@ At 2nd level, you gain a unique Channel Divinity option determined by your chose
 Starting at 6th level, you gain a feature specific to your chosen Ascended (see individual entries below).
 
 
-#### Ascended Resilience (8th Level)
+#### Champion's Strike (8th Level)
 
-Starting at 8th level, your devotion armors you against your foes. You gain resistance to the damage type dealt by your Champion's Strike, and you have advantage on saving throws against being charmed or frightened.
+At 8th level, you gain the ability to infuse your weapon strikes with divine power. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of a type determined by your chosen Ascended (see individual entries below). When you reach 14th level, the extra damage increases to 2d8.
 
 
 #### Ascended Avatar (17th Level)
 
 At 17th level, you gain a powerful capstone ability specific to your chosen Ascended (see individual entries below).
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ### The Seven Variants
 
@@ -6241,16 +6252,12 @@ At 17th level, you gain a powerful capstone ability specific to your chosen Asce
 | Cleric Level | Spells |
 |--------------|--------|
 | 1st | *command*, *sanctuary* |
-| 3rd | *hold person*, *zone of truth* |
-| 5th | *dispel magic*, *spirit guardians* |
+| 3rd | *hold person*, *zone of truth*, *voice of authority* |
+| 5th | *dispel magic*, *spirit guardians*, *blessing of the ascended* |
 | 7th | *banishment*, *guardian of faith* |
 | 9th | *dominate person*, *hold monster* |
 
 **Champion's Strike:** The extra damage is radiant damage, and the target must succeed on a Wisdom saving throw or be unable to take reactions until the start of your next turn.
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 **Channel Divinity: Voice of Law (2nd Level)**
 
@@ -6264,7 +6271,7 @@ You can sense lawbreakers and deception. You automatically detect when a creatur
 
 As an action, you can embody Thandros's absolute justice. For 1 minute, you gain the following benefits:
 - You emanate an aura of law in a 30-foot radius. Creatures of your choice in the aura can't be charmed or frightened.
-- When a creature within your aura makes an attack roll, ability check, or saving throw, you can use your reaction to declare whether it succeeds or fails (without seeing the roll). You can use this ability a number of times equal to your Wisdom modifier during the duration.
+- When a creature within your aura makes an attack roll, ability check, or saving throw, you can use your reaction to grant it advantage or impose disadvantage on the roll. If you impose disadvantage on a saving throw against one of your own spells, the creature also takes 2d8 radiant damage on a failure. You can use this ability a number of times equal to your Wisdom modifier during the duration.
 - Your weapon attacks deal an extra 2d8 radiant damage.
 
 Once you use this feature, you can't use it again until you finish a long rest.
@@ -6276,7 +6283,10 @@ Once you use this feature, you can't use it again until you finish a long rest.
 |--------------|--------|
 | 1st | *burning hands*, *heroism* |
 | 3rd | *scorching ray*, *lesser restoration* |
-| 5th | *daylight*, *beacon of hope* |
+
+| Cleric Level | Spells |
+|--------------|--------|
+| 5th | *daylight*, *beacon of hope*, *blessing of the ascended*, *chain breaker* |
 | 7th | *freedom of movement*, *wall of fire* |
 | 9th | *flame strike*, *greater restoration* |
 
@@ -6288,7 +6298,7 @@ You can use your Channel Divinity to free yourself and your allies. As an action
 
 **Divine Warrior: Freedom's Blessing (6th Level)**
 
-You and allies within 10 feet of you have advantage on saving throws against being charmed, frightened, paralyzed, or restrained. Additionally, you can't be surprised while conscious.
+You and allies within 10 feet of you have advantage on saving throws against being charmed, frightened, paralyzed, or restrained.
 
 **Ascended Avatar: Revolutionary Ascendance (17th Level)**
 
@@ -6308,7 +6318,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 |--------------|--------|
 | 1st | *detect magic*, *identify* |
 | 3rd | *augury*, *see invisibility* |
-| 5th | *clairvoyance*, *counterspell* |
+| 5th | *clairvoyance*, *counterspell*, *blessing of the ascended* |
 | 7th | *arcane eye*, *divination* |
 | 9th | *legend lore*, *scrying* |
 
@@ -6319,6 +6329,11 @@ Once you use this feature, you can't use it again until you finish a long rest.
 You can use your Channel Divinity to see strands of fate. As an action, you can touch a creature and learn the following information:
 - Its current emotional state and surface thoughts
 - Whether it intends harm to you or your allies in the next hour
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 - One major event in its past that shaped who it is today
 - A glimpse of one possible future event involving the creature (within 24 hours)
 
@@ -6331,11 +6346,6 @@ You can see danger before it strikes. When you or a creature within 30 feet of y
 As an action, you can grasp the threads of fate itself. For 1 minute, you gain the following benefits:
 - You can see all invisible creatures and objects within 60 feet.
 - You have truesight out to 60 feet.
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 - Before any creature within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction to give them advantage or disadvantage on the roll.
 - Your weapon attacks deal an extra 2d8 psychic damage.
 
@@ -6348,7 +6358,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 |--------------|--------|
 | 1st | *longstrider*, *expeditious retreat* |
 | 3rd | *misty step*, *pass without trace* |
-| 5th | *haste*, *phantom steed* |
+| 5th | *haste*, *phantom steed*, *blessing of the ascended* |
 | 7th | *dimension door*, *freedom of movement* |
 | 9th | *legend lore*, *teleportation circle* |
 
@@ -6376,8 +6386,6 @@ As an action, you can embody Kael's wandering spirit. For 1 minute, you gain the
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-\column
-
 #### **5. Sera the Healer** (Life, Healing, Mercy)
 
 **Domain Spells:**
@@ -6385,7 +6393,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 |--------------|--------|
 | 1st | *cure wounds*, *sanctuary* |
 | 3rd | *lesser restoration*, *aid* |
-| 5th | *mass healing word*, *revivify* |
+| 5th | *mass healing word*, *revivify*, *blessing of the ascended* |
 | 7th | *death ward*, *guardian of faith* |
 | 9th | *mass cure wounds*, *raise dead* |
 
@@ -6407,24 +6415,24 @@ As an action, you can embody Sera's healing light. For 1 minute, you gain the fo
 - When you cast a healing spell, you can target one additional creature within range
 - Your weapon attacks deal an extra 2d8 radiant damage, and half of that damage heals you or an ally within 30 feet (your choice)
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 Once you use this feature, you can't use it again until you finish a long rest.
 
-#### **6. Mordain the Sentinel** (Death, Honor, Duty)
+#### **6. Mordain the Sentinel** (Death, Protection, Judgment)
 
 **Domain Spells:**
 | Cleric Level | Spells |
 |--------------|--------|
 | 1st | *inflict wounds*, *false life* |
 | 3rd | *gentle repose*, *spiritual weapon* |
-| 5th | *speak with dead*, *spirit guardians* |
+| 5th | *speak with dead*, *spirit guardians*, *blessing of the ascended* |
 | 7th | *blight*, *death ward* |
 | 9th | *antilife shell*, *raise dead* |
 
 **Champion's Strike:** The extra damage is necrotic damage, and you gain temporary hit points equal to half the necrotic damage dealt (rounded down).
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 **Channel Divinity: Sentinel's Vigil (2nd Level)**
 
@@ -6445,16 +6453,17 @@ As an action, you can embody Mordain's eternal vigil. For 1 minute, you gain the
 - Your weapon attacks deal an extra 2d8 necrotic damage
 
 Once you use this feature, you can't use it again until you finish a long rest.
-
+\column
 #### **7. Sylvara the Wild** (Nature, Beasts, Storms)
 
 **Domain Spells:**
 | Cleric Level | Spells |
 |--------------|--------|
 | 1st | *animal friendship*, *thunderwave* |
+
 | 3rd | *barkskin*, *spike growth* |
-| 5th | *call lightning*, *plant growth* |
-| 7th | *grasping vine*, *ice storm* |
+| 5th | *call lightning*, *plant growth*, *blessing of the ascended* |
+| 7th | *grasping vine*, *ice storm*, *wrath of the wild* |
 | 9th | *commune with nature*, *insect plague* |
 
 
@@ -6483,6 +6492,9 @@ As an action, you can become one with nature's fury. For 1 minute, you gain the 
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ### Tirvandor Context
 
@@ -6491,16 +6503,11 @@ Once you use this feature, you can't use it again until you finish a long rest.
 **Culture:** Ascended Champions are elite warrior-priests, representing the most devout combat clerics in the faith. They're respected as living embodiments of their deity's ideals. Each of the Seven has their champions, and they're often called upon when martial might and divine magic are both needed. ::
 **Selection:** Not every cleric of the Ascended becomes a Champion: it requires dedication to martial prowess as well as spiritual devotion. Many are former soldiers or paladins who took up the cloth. ::
 
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 ## War Chaplain Domain (Cleric)
 
-*Military clerics who serve as battlefield healers, morale officers, and spiritual guardians of armies*
+*Military clerics who serve as battlefield healers, morale officers, and spiritual guardians of the soldiers and militia they march with*
 
-War Chaplains are combat clerics attached to military units. Found in both Thaldros and Aethoria (and as mercenaries in the frontier), they bless troops before battle, heal the wounded in the thick of combat, and provide spiritual strength to soldiers facing death.
+War Chaplains are combat clerics attached to fighting units. In Thaldros that means a battalion of the Royal Army; in Aethoria it means a militia company that elected its own captain that morning; in the Contested Lands it means whoever hired you. They bless troops before battle, heal the wounded in the thick of combat, and provide spiritual strength to soldiers facing death.
 
 
 ### Domain Spells
@@ -6550,33 +6557,33 @@ At 17th level, your faith becomes an unbreakable shield for your allies. You gai
 
 ### Tirvandor Context
 
-**Origin:** Military units in both Thaldros and Aethoria, mercenary companies
+**Origin:** Royal Army battalions in Thaldros, People's Militia companies in Aethoria, mercenary companies in the Border
 
 **Culture:** ::
 
-**In Thaldros:** War Chaplains are official military positions, serving in every regiment. They're part of the command structure and report to both religious and military authorities. ::
+**In Thaldros:** War Chaplains are official positions in the Royal Army, serving with every battalion. They're part of the command structure and report to both religious and military authorities. ::
 
-**In Aethoria:** War Chaplains serve with militia units and People's Army regiments. They're more informal but no less dedicated, often volunteers from local temples. ::
+**In Aethoria:** War Chaplains serve with the People's Militia, and with the Rangers and Forest Guard when they take the field. They're more informal but no less dedicated, often volunteers from local temples. ::
 
 **In the Border:** Mercenary companies hire War Chaplains to keep their soldiers alive and morale high. Iron Guild companies often have at least one on retainer. ::
 
 **Philosophy:** War Chaplains believe that faith and fellowship in battle create unbreakable bonds. They're not pacifists, they understand that sometimes violence is necessary, but they honor the sacrifice of soldiers and try to minimize suffering. ::
 
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 ## Circle of the Contested Lands (Druid)
 
-*Druids who protect the war-torn wilderness of the Border, adapting to any terrain and battlefield*
+*Druids who protect the scarred wilderness of the Contested Lands, adapting to any terrain and battlefield*
 
-The frontier territories of western Thaldros have become a scarred, contested wilderness where armies march and nature suffers. Druids of this circle are neutral guardians who protect what remains of the wild, adapting to any terrain and using the very tools of war against those who would destroy nature.
+The frontier territories of western Thaldros have become a scarred, contested wilderness. The Crown claims it and cannot hold it. Garrisons burn what they cannot occupy, partisans burn what the garrisons want, and nature suffers between them. Druids of this circle are neutral guardians who protect what remains of the wild, adapting to any terrain and using the very tools of war against those who would destroy nature.
 
 
 ### Circle Spells
 
 Your mystical connection to contested lands grants you access to certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells.
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
@@ -6632,24 +6639,24 @@ At 14th level, you become the ultimate defender of contested lands. You gain the
 
 - **War's End:** When you drop to 0 hit points in Wild Shape form, you can choose to have the beast form explode in a burst of primal fury. Each creature within 10 feet must make a Dexterity saving throw, taking 4d10 force damage on a failed save or half as much on a success. You then revert to your normal form.
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 ### Tirvandor Context
 
 **Origin:** Border wilderness, contested zones ::
 
-**Culture:** These druids are lone guardians or part of small circles protecting specific regions. They're fiercely neutral, attacking any army (Thaldros or Aethoria) that threatens their lands. Both nations consider them dangerous obstacles. ::
+**Culture:** These druids are lone guardians or part of small circles protecting specific regions. They're fiercely neutral, and they will bleed a Crown garrison and a partisan column alike if either one comes through their ground. Neither side has any use for them. ::
 
-**Philosophy:** "Nature endures. Empires fall. We remain." ::
+**Philosophy:** "Nature endures. Crowns and councils fall. We remain." ::
 
 
 ## Circle of the Ascended Wild (Druid)
 
 *Druids who serve Sylvara the Wild, embodying the primal fury and beauty of untamed nature*
 
-While most druids honor nature generally, some dedicate themselves specifically to Sylvara the Wild, the most primal of the Seven Ascended. These druids embody her storm-touched fury and wild beauty, becoming avatars of nature's raw power.
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
+While most druids honor nature generally, some dedicate themselves specifically to Sylvara the Wild, Lady of Storms and Voice of the World, whose worship predates writing and who some insist is not a god at all but the world itself given voice. These druids embody her storm-touched fury and wild beauty, becoming avatars of nature's raw power.
 
 ### Circle Spells
 
@@ -6658,9 +6665,9 @@ Your connection to Sylvara grants you access to certain spells.
 | Druid Level | Circle Spells |
 |-------------|---------------|
 | 3rd | *thunderwave*, *animal friendship* |
-| 5th | *call lightning*, *summon beast* |
-| 7th | *ice storm*, *conjure woodland beings* |
-| 9th | *commune with nature*, *wrath of nature* |
+| 5th | *call lightning*, *conjure animals* |
+| 7th | *ice storm*, *conjure woodland beings*, *wrath of the wild* |
+| 9th | *commune with nature*, *insect plague* |
 
 ### Sylvara's Blessing (2nd Level)
 
@@ -6671,17 +6678,17 @@ When you choose this circle at 2nd level, Sylvara grants you her wild blessing. 
 - **Storm-Touched:** You gain resistance to lightning and thunder damage.
 
 - **Wild Shapes of Power:** Your Wild Shape options expand. You can transform into beasts you've seen, and your beast forms can include the following additional options:
-  - At 2nd level: dire wolf, giant eagle
-  - At 6th level: giant scorpion, rhinoceros  
-  - At 10th level: Any beast of CR 2 or lower
-
+  - At 2nd level: wolf, giant badger, giant poisonous snake
+  - At 6th level: dire wolf, giant eagle, giant elk  
+  - At 10th level: any beast of CR 2 or lower, including forms with a flying or swimming speed
+\column
 ### Channel Sylvara (2nd Level)
 
 Also at 2nd level, Sylvara grants you the ability to channel her divine power. This works like the cleric's Channel Divinity feature, with the following options. You can use it twice between rests, regaining expended uses when you finish a short or long rest. When one of these options calls for a saving throw, the DC equals your druid spell save DC.
 
 - **Wild's Fury:** As an action, you can cause nature to lash out. Each creature of your choice within 30 feet must make a Dexterity saving throw. On a failed save, a creature takes 2d8 lightning or thunder damage (your choice) and is knocked prone. On a success, it takes half damage and isn't knocked prone.
 
-- **Beast's Call:** As an action, you can summon spectral beasts to fight for you. You summon a number of beasts (from the *conjure animals* spell list) whose combined CR doesn't exceed 2. They appear within 60 feet, act on your turn, obey your commands, and last for 10 minutes.
+- **Beast's Call:** As an action, you can call a single spectral beast of CR 1/2 or lower to fight for you. It appears within 60 feet, acts on your turn, obeys your commands, and lasts for 1 minute. At 5th level the beast can be CR 1 or lower, and at 11th level, CR 2 or lower.
 
 
 ### Storm Walker (6th Level)
@@ -6709,6 +6716,10 @@ At 14th level, you become the ultimate servant of Sylvara. You gain the followin
 
 - **Storm Form:** Your Wild Shape forms can be wreathed in lightning and wind. While in Wild Shape, you can use a bonus action to deal 2d6 lightning damage to all creatures within 5 feet of you.
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 - **Nature's Wrath:** You can cast *control weather* once without expending a spell slot. Once you do so, you can't do so again until you finish a long rest.
 
 - **Sylvara's Champion:** You have advantage on saving throws against spells and magical effects. Beasts never willingly attack you.
@@ -6720,18 +6731,6 @@ At 14th level, you become the ultimate servant of Sylvara. You gain the followin
 **Culture:** These druids are Sylvara's chosen servants, seen as her voice in the natural world. They're more aggressive than typical druids, viewing civilization's expansion as an affront to the Wild. They're revered by rangers and feared by loggers. ::
 
 **Philosophy:** "The Wild is not gentle. Sylvara is not kind. We are her storm." ::
-
-**Ascended Wild:** ::
-- Sylvara's Blessing provides expanded beast options and resistance
-- Channel Divinity gives druids more martial options
-- Storm Walker is mobile and deals moderate damage
-- Primal Embodiment is a powerful capstone
-
-Both provide unique druid experiences tied to Tirvandor!
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 ## Iron Guild Veteran (Fighter)
 
@@ -6757,7 +6756,7 @@ Also at 3rd level, you've learned to adapt to any contract. You gain the followi
 
 Starting at 7th level, your experience makes you hard to kill. You gain the following benefits:
 
-- **Seasoned Instincts:** You add your Intelligence modifier to initiative rolls (minimum +1). You can't be surprised while conscious.
+- **Seasoned Instincts:** You add your Intelligence modifier to initiative rolls (minimum +1). If you are surprised at the start of combat and aren't incapacitated, you can act normally on your first turn.
 
 - **Professional's Resilience:** When you take damage that would reduce you to 0 hit points, you can use your reaction to instead drop to 1 hit point. Once you use this feature, you can't use it again until you finish a long rest.
 
@@ -6791,16 +6790,15 @@ At 18th level, you've mastered the Iron Guild's advanced techniques:
 
 - **Professional's Endurance:** You regain 5 hit points at the start of your turn if you have no more than half your hit points remaining.
 
-
-### Tirvandor Context
-
-**Origin:** Iron Guild (Border mercenary organization)
-
-**Culture:** Iron Guild Veterans are elite soldiers-for-hire, commanding top rates and loyalty to contracts above all else. They're respected professionals in the Border, feared combatants in both nations.
-
 {{pageNumber,auto}}
 {{footnote Custom SubClasses}}
 \page
+
+### Tirvandor Context
+
+**Origin:** The Iron Guild, seated at Goldreach under Guildmaster Roderic Ironfist, whose signature on a contract is magically binding
+
+**Culture:** Iron Guild Veterans are elite soldiers-for-hire, commanding top rates and loyalty to contracts above all else. They're respected professionals in the Border, feared combatants in both nations.
 
 ## Royal Guard (Fighter)
 
@@ -6832,9 +6830,9 @@ Starting at 7th level, you excel at coordinated combat:
 
 - **Hold the Line:** When an enemy moves within your reach, you can use your reaction to make an opportunity attack. If you hit, the enemy's speed becomes 0 until the end of the turn.
 
-- **Unbreakable Formation:** While within 5 feet of two or more allies, you have advantage on saving throws and resistance to bludgeoning, piercing, and slashing damage.
+- **Unbreakable Formation:** While within 5 feet of two or more allies, you have advantage on saving throws against being frightened, moved or knocked prone, and you have resistance to bludgeoning, piercing, and slashing damage from opportunity attacks and from creatures you can see.
 
-
+\column
 ### Royal Commander (10th Level)
 
 At 10th level, you can command the battlefield:
@@ -6867,9 +6865,13 @@ At 18th level, you become a legendary guardian:
 
 - **Royal Authority:** As an action, you can issue a royal command. Each creature of your choice within 30 feet that can hear you must succeed on a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier) or be charmed by you for 1 minute or until you or your allies harm it. While charmed, it regards you as a legitimate authority figure. Once you use this feature, you can't use it again until you finish a long rest.
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 ### Tirvandor Context
 
-**Origin:** Thaldros Royal Military Academy
+**Origin:** The Royal Guard at Kaer Thandros, selected out of the Royal Army by a competition almost nobody survives
 
 **Culture:** Royal Guards are the elite of Thaldros's military. Bodyguards to nobles, commanders of critical units, and symbols of Thaldros's martial might. They're fiercely loyal to the crown and embody discipline and order. ::
 
@@ -6877,15 +6879,11 @@ At 18th level, you become a legendary guardian:
 
 **Moral Complexity:** Royal Guards can be heroic defenders or tools of tyranny. It depends on who they serve and what they're ordered to do. ::
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 ## Way of the Broken Chain (Monk)
 
-*Monks who escaped slavery or imprisonment, using martial discipline to resist oppression*
+*Monks of the Chain Breaker order, who lived through bondage and turned martial discipline into a key*
 
-Monks of the Broken Chain learned their discipline in the worst circumstances, as slaves, prisoners, or captives. They use their ki to break bonds, resist control, and free others. Many come from Thaldros's prisons or labor camps, making them champions of freedom in Aethoria.
+Monks of the Broken Chain learned their discipline in the worst circumstances, as prisoners, debtors, serfs or captives. They use their ki to break bonds, resist control, and free others. The order was founded by escaped slaves in the centuries before abolition and it never disbanded, because the chains changed shape rather than disappearing: the Chain Breakers keep monasteries in Aethoria and safehouses hidden across Thaldros, and they accept only those who have lived through bondage themselves.
 
 
 ### Unbound Spirit (3rd Level)
@@ -6905,7 +6903,9 @@ Starting at 6th level, your will cannot be broken. You gain the following benefi
 
 - **Unbreakable Mind:** You have advantage on saving throws against being charmed or frightened. You can spend 1 ki point to end these conditions on yourself immediately.
 
-- **Freedom's Defiance:** When you fail a saving throw, you can spend 1 ki point to reroll it. You must use the new roll.
+- **Freedom's Defiance:** When you fail a saving throw against an effect that would charm, frighten, paralyze, restrain or stun you, you can spend 1 ki point to reroll it. You must use the new roll.
+
+- **Break Another's Chains:** As an action, you can spend 2 ki points to touch a willing creature and end one condition affecting it: charmed, frightened, grappled, or restrained. Any nonmagical restraints binding the creature break at the same time.
 
 
 ### Chains of Retribution (11th Level)
@@ -6914,8 +6914,6 @@ At 11th level, you can turn your oppressor's weapons against them. When you hit 
 
 Additionally, you can spend 2 ki points to cast *dispel magic*.
 
-\column
-
 ### Avatar of Freedom (17th Level)
 
 At 17th level, you become the ultimate liberator. You gain the following benefits:
@@ -6923,13 +6921,17 @@ At 17th level, you become the ultimate liberator. You gain the following benefit
 - **Unbreakable:** You are immune to being charmed, frightened, paralyzed, or stunned. You can move through solid objects as if they were difficult terrain (taking 1d10 force damage if you end your turn inside an object).
 
 - **Mass Liberation:** As an action, you can spend 5 ki points to release a wave of liberating energy. All creatures of your choice within 30 feet immediately end all conditions affecting them (charmed, frightened, grappled, paralyzed, restrained, or stunned), and all restraints (magical or nonmagical) break.
-- **Freedom's Champion:** Once per turn when you hit with an unarmed strike, you deal an extra 1d10 force damage if the target is an authority figure, slaver, jailer, or tyrant (DM's discretion).
+- **Freedom's Champion:** Once per turn when you hit with an unarmed strike, you deal an extra 1d10 force damage if the target is a jailer, a lord who holds people in bondage, an authority figure, or a tyrant (DM's discretion).
 
 ### Tirvandor Context
 
-**Origin:** Former slaves, escaped prisoners, freed captives (primarily from Thaldros)
+**Origin:** Escaped prisoners, runaway serfs, freed captives, and the Chain Breaker monasteries that take them in (primarily from Thaldros)
 
-**Culture:** These monks are heroes in Aethoria, where they help escaped slaves and fight against Thaldros's oppression. They're hunted as terrorists in Thaldros. Many join revolutionary movements.
+**Culture:** These monks are heroes in Aethoria, where the order's monasteries stand openly. Their safehouses in Thaldros shelter escaped prisoners and runaway serfs and coordinate the next extraction. They're hunted as criminals there. Many take up the partisan cause in the Contested Lands.
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 **Philosophy:** "No chains can hold the determined spirit. Freedom is won, never given."
 
@@ -6949,12 +6951,7 @@ Not all monks seek enlightenment, some seek gold. Monks of the Coin are pragmati
 When you choose this tradition at 3rd level, you learn to blend commerce with combat. You gain the following benefits:
 
 - **Professional's Focus:** When you begin combat, you can designate one creature as your contract target. You deal an extra 1d6 damage to that target with your unarmed strikes and monk weapons. This lasts until the target drops to 0 hit points or combat ends.
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
-- **Coin-Fueled Ki:** Whenever you spend at least 100 gp on yourself (equipment, training, luxuries, etc.) during downtime, you gain 1 additional ki point that lasts until expended or until you finish a long rest (maximum +3 ki points from this feature).
+- **Coin-Fueled Ki:** Whenever you spend at least 100 gp on yourself during downtime (equipment, training, luxuries and the like), you gain 1 additional ki point that lasts until expended or until you finish a long rest. You can hold a maximum of 3 additional ki points from this feature at one time, and the cost is 100 gp for the first, 250 gp for the second and 500 gp for the third.
 
 - **Calculated Strike:** When you hit with a Flurry of Blows attack, you can forgo one attack to study your opponent. You learn one of the following: their AC, their remaining hit points (approximate), one damage resistance, or one damage vulnerability.
 
@@ -6994,11 +6991,15 @@ At 17th level, you become a legendary mercenary monk:
 
 ### Tirvandor Context
 
-**Origin:** Border mercenary companies, Iron Guild monasteries ::
+**Origin:** Border mercenary companies, and the training yards behind the Iron Guild's chapter houses ::
 
 **Culture:** These monks are professional fighters who view ki as a tool, not a spiritual path. They're respected in the Border as effective, reliable mercenaries. Some view them as sellouts; others as pragmatists. ::
 
 **Philosophy:** "Enlightenment doesn't pay the bills. Excellence does." ::
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ## Oath of the Iron Crown (Paladin)
 
@@ -7026,15 +7027,11 @@ You gain oath spells at the paladin levels listed.
 | Paladin Level | Spells |
 |---------------|--------|
 | 3rd | *command*, *compelled duel* |
-| 5th | *hold person*, *zone of truth* |
+| 5th | *hold person*, *zone of truth*, *voice of authority* |
 | 9th | *counterspell*, *dispel magic* |
 | 13th | *banishment*, *compulsion* |
 | 17th | *dominate person*, *hold monster* |
 
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 #### Channel Divinity: Voice of the Crown (3rd Level)
 
@@ -7051,6 +7048,7 @@ Starting at 7th level, you emanate an aura of absolute discipline. You and frien
 
 At 18th level, the range increases to 30 feet.
 
+\column
 
 #### Iron Judgment (15th Level)
 
@@ -7069,7 +7067,7 @@ At 20th level, you can assume the mantle of ultimate authority. As an action, yo
 
 - You emanate a 30-foot aura. Enemies in the aura have disadvantage on attack rolls and ability checks.
 - You have advantage on all Charisma checks and saving throws.
-- When an enemy in your aura makes an attack roll, ability check, or saving throw, you can use your reaction to impose disadvantage on the roll (no limit).
+- When an enemy in your aura makes an attack roll, ability check, or saving throw, you can use your reaction to impose disadvantage on the roll. You can do this once on each turn other than your own.
 - You can cast *command* at will without expending spell slots.
 
 Once you use this feature, you can't use it again until you finish a long rest.
@@ -7077,7 +7075,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 #### Tirvandor Context
 
-**Origin:** Thaldros royal paladins, trained in the capital ::
+**Origin:** Thaldros royal paladins, trained in the capital and posted where the Crown's writ is thinnest, from the gaols of Kaer Thandros to the garrisons of the Contested Lands ::
 
 **Culture:** Iron Crown paladins are both revered and feared in Thaldros. They're symbols of the crown's power, defenders of order who can also be instruments of oppression. They enforce the law without question, making them heroes to law-abiding citizens and tyrants to rebels. ::
 
@@ -7085,15 +7083,19 @@ Once you use this feature, you can't use it again until you finish a long rest.
 - Heroically defend citizens from bandits
 - Ruthlessly suppress peaceful protests  
 - Protect the innocent from criminals
-- Hunt escaped slaves as "lawbreakers"
+- Return runaway serfs to the lord whose land binds them, because the law says the land binds them
 
 **The oath doesn't fall for enforcing unjust laws: it's about order vs chaos, not good vs evil.**
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ## Oath of Liberty (Paladin)
 
 *Paladins who champion freedom, break chains, and fight tyranny with righteous fury*
 
-Paladins of Liberty are champions of the oppressed, breakers of chains, and living symbols of hope. They swear to fight tyranny wherever it exists, free the enslaved, and ensure all people can live without fear of oppression. They're heroes in Aethoria and criminals in Thaldros.
+Paladins of Liberty are champions of the oppressed, breakers of chains, and living symbols of hope. They swear to fight tyranny wherever it exists, break every chain they find, and ensure all people can live without fear of oppression. They're heroes in Aethoria and criminals in Thaldros.
 
 #### Tenets of Liberty
 
@@ -7116,7 +7118,7 @@ You gain oath spells at the paladin levels listed.
 |---------------|--------|
 | 3rd | *heroism*, *sanctuary* |
 | 5th | *aid*, *lesser restoration* |
-| 9th | *beacon of hope*, *remove curse* |
+| 9th | *beacon of hope*, *remove curse*, *blessing of the ascended*, *chain breaker* |
 | 13th | *freedom of movement*, *guardian of faith* |
 | 17th | *greater restoration*, *dispel evil and good* |
 
@@ -7126,10 +7128,6 @@ You gain oath spells at the paladin levels listed.
 When you take this oath at 3rd level, you gain the following Channel Divinity options:
 
 **Break the Chains:** As an action, you can use your Channel Divinity to free yourself and allies. Each creature of your choice within 30 feet immediately ends all conditions affecting them (charmed, frightened, grappled, paralyzed, petrified, or restrained). Additionally, all restraints (magical or nonmagical) within the area break.
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 **Champion of the Oppressed:** As a bonus action, you can use your Channel Divinity to become a beacon of hope. For 1 minute, you and allies within 10 feet have advantage on saves against being charmed or frightened, and you all gain temporary hit points equal to your Charisma modifier + your paladin level (minimum 1) at the start of your turn.
 
@@ -7143,7 +7141,7 @@ At 18th level, the range increases to 30 feet.
 
 #### Smite the Oppressor (15th Level)
 
-At 15th level, your divine strikes punish tyrants. When you hit a creature with a melee weapon attack, you can expend a spell slot to deal additional radiant damage as per Divine Smite. If the target is an authority figure who oppresses others (slavers, tyrants, corrupt officials, etc., DM's discretion), you deal the maximum damage for the Divine Smite instead of rolling.
+At 15th level, your divine strikes punish tyrants. When you hit a creature with a melee weapon attack, you can expend a spell slot to deal additional radiant damage as per Divine Smite. If the target is an authority figure who oppresses others (tyrants, gaolers, corrupt officials, lords who hold people in bondage, etc., DM's discretion), you deal the maximum damage for the Divine Smite instead of rolling.
 
 Additionally, once per turn when you hit a creature that has another creature grappled or restrained, you deal an extra 1d8 radiant damage and can free the grappled/restrained creature.
 
@@ -7163,27 +7161,31 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 #### Tirvandor Context
 
-**Origin:** Aethoria (primarily), escaped slaves, revolutionary groups ::
+**Origin:** Aethoria and the Order of the Broken Chain, escaped prisoners and runaway serfs, partisan cells ::
 
-**Culture:** Liberty paladins are living legends in Aethoria, symbols of resistance against Thaldros. They raid slave camps, protect refugees, and inspire revolutionary movements. Songs are sung about them. Children dream of becoming them. ::
+**Culture:** Liberty paladins trace their oath to the Order of the Broken Chain, founded in memory of Aldric the Chain-Breaker, who led three thousand out of the mines and spent forty-seven years making it stick. They're living legends in Aethoria. They break debtors out of gaols, walk runaway serfs to the coast, shield the villages of the Contested Lands from punitive columns, and protect refugees. Songs are sung about them. Children dream of becoming them. ::
 
 **In Thaldros:** They're hunted as terrorists and traitors. Bounties on Liberty paladins are enormous. ::
 
 **Philosophy:** "Every chain broken is a victory. Every freed soul is sacred. Every tyrant defeated is justice." ::
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 ## Border Warden (Ranger)
 
 *Neutral scouts who patrol the contested frontier of Thaldros's lawless territories*
 
-Border Wardens are the eyes and ears of the contested lands, patrolling the dangerous contested frontier. They're neutral by necessity: attacking any army that threatens the Border's fragile ecosystem.
+Border Wardens are the eyes and ears of the contested lands, patrolling the dangerous contested frontier. They're neutral by necessity: attacking Crown garrisons, Harmony militia, and Contested Lands partisans alike when any of them threatens the Border's fragile ecosystem.
 
 
 ### Warden Magic (3rd Level)
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | *alarm*, *detect magic* |
-| 5th | *pass without trace*, *silence* |
+| 3rd | *alarm*, *detect magic*, *tactical strike* |
+| 5th | *pass without trace*, *silence*, *battlefield awareness* |
 | 9th | *nondetection*, *plant growth* |
 | 13th | *arcane eye*, *freedom of movement* |
 | 17th | *commune with nature*, *tree stride* |
@@ -7191,7 +7193,7 @@ Border Wardens are the eyes and ears of the contested lands, patrolling the dang
 
 ### Frontier Expertise (3rd Level)
 
-At 3rd level, you gain proficiency in Perception and Survival. Your proficiency bonus is doubled for these skills. You can detect military movements (10+ creatures) within 1 mile.
+At 3rd level, you gain proficiency in Perception and Survival. If you are already proficient in either, your proficiency bonus is doubled for that skill instead. You can detect military movements (10+ creatures) within 1 mile.
 
 **Neutral Ground:** You have advantage on Stealth and Survival checks in the Border region. You can move through difficult terrain without penalty.
 
@@ -7213,11 +7215,7 @@ At 11th level, the Border's wilderness protects you. While in natural terrain, y
 ### Master Warden (15th Level)
 
 At 15th level, you become the ultimate Border guardian. You can cast *commune with nature* at will. Once per long rest, you can summon the Border's fury, all hostile creatures within 60 feet take 4d10 force damage and must succeed on a Strength save or be knocked prone.
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
+\column
 ### Tirvandor Context
 
 **Origin:** Independent frontier scouts, Border militia, wilderness guides ::
@@ -7227,21 +7225,21 @@ rather than any nation. They're respected by both Thaldros and Aethoria as skill
 
 **Philosophy:** "The Border doesn't belong to kings or councils. We protect the land and its people, all of them." ::
 
-## People's Scout (Ranger)
+## Partisan Scout (Ranger)
 
-*Aethorian guerrilla fighters using wilderness tactics for freedom*
+*Contested Lands guerrillas who make a garrison's life painful*
 
-People's Scouts are guerrilla rangers fighting for Aethoria's freedom. They use hit-and-run tactics, sabotage, and wilderness expertise to harry Thaldros forces.
+Partisan Scouts are guerrilla rangers of the Contested Lands, most of them locals who found they couldn't go home. They use hit-and-run tactics, sabotage, and wilderness expertise to make a Crown garrison's life painful.
 
 ### Scout Magic (3rd Level)
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | *disguise self*, *expeditious retreat* |
+| 3rd | *disguise self*, *expeditious retreat*, *tactical strike* |
 | 5th | *invisibility*, *pass without trace* |
 | 9th | *gaseous form*, *major image* |
 | 13th | *greater invisibility*, *freedom of movement* |
-| 17th | *mislead*, *modify memory* |
+| 17th | *mislead*, *modify memory*, *wrath of the wild* |
 
 
 ### Guerrilla Tactics (3rd Level)
@@ -7254,7 +7252,7 @@ At 3rd level, you master hit-and-run warfare. You gain proficiency in Stealth an
 Also at 3rd level, you learn to sabotage enemy operations. You gain proficiency with tinker's tools and can spend 10 minutes to create traps (DC 15 Perception to detect, DC 15 Dexterity to disarm, 2d10 damage). You can have up to 3 active traps at once.
 
 
-### Vanish (7th Level)
+### Ghost of the Thicket (7th Level)
 
 At 7th level, you can disappear when danger strikes. As a bonus action, you become invisible until the start of your next turn or until you attack. You can use this feature a number of times equal to your Wisdom modifier, regaining uses on a long rest.
 
@@ -7263,7 +7261,9 @@ At 7th level, you can disappear when danger strikes. As a bonus action, you beco
 
 At 11th level, you inspire resistance. Allies within 30 feet have advantage on saves against being frightened. As a bonus action, you can grant one ally advantage on their next attack roll or save.
 
-\column
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ### Master Saboteur (15th Level)
 
@@ -7271,20 +7271,20 @@ At 15th level, your sabotage becomes devastating. Your traps deal 4d10 damage. O
 
 ### Tirvandor Context
 
-**Origin:** Aethorian wilderness militia, border resistance cells ::
+**Origin:** Contested Lands villages, partisan cells, and Harmony volunteers who crossed the sea ::
 
-**Culture:** People's Scouts are the guerrilla arm of Aethoria's resistance, fighters who use the land itself as a weapon against Thaldros aggression. They're celebrated as freedom fighters in Aethoria and hunted as terrorists in Thaldros. In the Border, they're respected for their skills but distrusted for their politics. ::
+**Culture:** Partisan Scouts are the guerrilla edge of the Contested Lands cells, fighters who use the land itself as a weapon against the Crown's garrisons. The Harmony pays for their arrows and denies knowing their names. They're celebrated in Aethoria, hunted as terrorists in Thaldros, and in the Border they're respected for their skills but distrusted for their politics. ::
 
 **Philosophy:** "The land belongs to those who defend it. Strike fast, vanish faster, and let the wilderness swallow our enemies." ::
 
 ## State Inquisitor (Rogue)
-*Thaldros secret police and ruthless investigators*
+*Thaldros's deniable intelligence service, and the investigators nobody will admit exist*
 
-State Inquisitors are Thaldros's intelligence agents, investigators, interrogators, and secret police who root out enemies of the state.
+State Inquisitors are Thaldros's intelligence agents, investigators and interrogators, and the State Inquisition that fields them is officially denied and unofficially acknowledged.
 
 ### Inquisitor's Expertise (3rd Level)
 
-At 3rd level, you gain proficiency in Insight and Intimidation. Your proficiency bonus is doubled for these skills. You can use Sneak Attack with melee attacks against frightened or restrained creatures.
+At 3rd level, you gain proficiency in Insight and Intimidation. If you are already proficient in either, your proficiency bonus is doubled for that skill instead. You don't need advantage on the attack roll to use Sneak Attack against a creature that is frightened or restrained, provided you don't have disadvantage and the attack uses a finesse or a ranged weapon.
 
 **Extract Information:** You have advantage on Charisma (Intimidation) checks during interrogations. You automatically detect when someone tells an obvious lie.
 
@@ -7302,19 +7302,15 @@ At 9th level, you're a master investigator. You can cast *detect thoughts* at wi
 
 At 13th level, you read people instantly. You have advantage on Insight checks. You can spend 1 minute observing someone to learn their surface emotions, intentions, and one secret (DM's choice).
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 ### Master Inquisitor (17th Level)
 
 At 17th level, you become legendary. You can cast *modify memory* once per long rest. Your Sneak Attack damage increases by 2d6 against frightened creatures. You have advantage on all Charisma checks against law enforcement and government officials.
 
 ### Tirvandor Context
 
-**Origin:** Thaldros secret police, royal intelligence service ::
+**Origin:** The State Inquisition, officially denied and unofficially acknowledged ::
 
-**Culture:** State Inquisitors are the feared arm of Thaldros law enforcement. They investigate sedition, root out spies, and ensure loyalty to the crown. In Thaldros, they're respected (and feared) as protectors of order. In Aethoria, they're despised as oppressors and torturers. In the Border, they operate covertly, hunting enemies of the state. ::
+**Culture:** State Inquisitors are the Crown's quiet knife. They investigate sedition, root out spies, and ensure loyalty, and they prefer intelligence to action and cover to uniform. They operate with almost no oversight. In Thaldros, most citizens fear the Iron Legion and never learn that the Inquisition was there first. In Aethoria, they're despised as oppressors and torturers. In the Border, they operate covertly, hunting enemies of the Crown. ::
 
 **Philosophy:** "Order requires vigilance. The crown's enemies hide among us. I find them." ::
 
@@ -7334,8 +7330,11 @@ At 3rd level, you have contacts everywhere. In any settlement, you can spend 1 h
 
 ### Blackmail (3rd Level)
 
-Also at 3rd level, information is leverage. When you learn a secret about a creature, you can use it for blackmail. The creature has disadvantage on Charisma checks against you and must succeed on a Wisdom save (DC = 8 + proficiency + Charisma) to refuse reasonable requests from you.
+Also at 3rd level, information is leverage. When you learn a secret about a creature, you can use it for blackmail. The creature has disadvantage on Charisma checks against you. Once per short or long rest, you can press the advantage: the creature must succeed on a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier) or agree to one reasonable request from you, as the *suggestion* spell. The effect ends after 8 hours, when the request is fulfilled, or if you or your allies harm the creature.
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ### Information Broker (9th Level)
 
@@ -7365,6 +7364,17 @@ At 17th level, you know everything. You can cast *legend lore* once per long res
 
 Warborn sorcerers were born during magical catastrophes or near battle-sites where raw magic erupted. Their power is volatile but devastating in combat.
 
+### Expanded Spell List
+
+The following spells are added to the sorcerer spell list for you. You can choose them when you learn a sorcerer spell, and they count against your spells known as normal.
+
+| Spell Level | Spells |
+|-------------|--------|
+| 2nd | *warborn surge* |
+| 4th | *wrath of the wild* |
+
+\column
+
 ### Bonus Proficiencies (1st Level)
 
 You gain proficiency with medium armor and martial weapons.
@@ -7388,31 +7398,40 @@ At 6th level, your magic is unpredictable. When you cast a spell of 1st level or
 
 At 14th level, magic protects you in battle. When you cast a spell, you gain temporary hit points equal to the spell's level. You have resistance to damage from spells.
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 ### Avatar of War (18th Level)
 
 At 18th level, you become a magical weapon. Once per long rest, transform for 1 minute:
 - Fly speed equal to walking speed
 - Resistance to all damage
 - When you cast a spell dealing damage, roll damage twice and use the higher result
-- Cast one spell per turn as a bonus action
+- Once on each of your turns, you can cast a spell with a casting time of 1 action as a bonus action, and you can still cast a cantrip with your action on that turn
 
 ### Tirvandor Context
 
-**Origin:** Magical battlefields, ley line catastrophes, war-torn births ::
+**Origin:** Ley scars of the Contested Lands, magical catastrophes, births attended by a nexus going wrong ::
 
-**Culture:** Warborn sorcerers emerged from Tirvandor's endless conflicts: born during battles where magic went wild or near ley line eruptions. They're valued for their raw destructive power but feared for their volatility. Many serve as battle mages for hire; others struggle to control power they never asked for. ::
+**Culture:** Warborn sorcerers come from the places where magic and violence met and neither one won: the ley scars of the Contested Lands, the sites of old skirmishes where a war mage's working never fully closed, births attended by a nexus going wrong. They're valued for their raw destructive power but feared for their volatility. Many serve as battle mages for hire; others struggle to control power they never asked for. ::
 
 **Philosophy:** "War gave me this power. War is all I've ever known. At least now I can fight back." ::
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ## Ascended-touched (Sorcerer)
 
 *Sorcerers blessed (or cursed) by one of the Seven Ascended*
 
 These sorcerers have been touched by divine power, blending sorcery with divine magic.
+
+### Expanded Spell List
+
+The following spells are added to the sorcerer spell list for you. You can choose them when you learn a sorcerer spell, and they count against your spells known as normal.
+
+| Spell Level | Spells |
+|-------------|--------|
+| 3rd | *blessing of the ascended*, *chain breaker* |
+| 4th | *wrath of the wild* |
 
 ### Divine Ancestry (1st Level)
 
@@ -7422,7 +7441,7 @@ Choose one of the Seven Ascended. You learn one cleric cantrip and gain resistan
 
 ### Ascended Blessing (6th Level)
 
-At 6th level, your Ascended grants power. You can spend 2 sorcery points to cast a cleric spell of 3rd level or lower without expending a spell slot. You add your Charisma modifier to one damage roll of cleric spells you cast.
+At 6th level, your Ascended grants power. You can spend 5 sorcery points to cast a cleric spell of 3rd level or lower without expending a spell slot. You add your Charisma modifier to one damage roll of cleric spells you cast.
 
 
 ### Divine Protection (14th Level)
@@ -7433,7 +7452,7 @@ At 14th level, divine power shields you. You have advantage on death saving thro
 
 At 18th level, you channel your Ascended. Once per long rest, for 1 minute:
 - Gain benefits themed to your Ascended (flight, aura, divine strikes, etc.: DM determines)
-- Cast spells as bonus actions
+- Once on each of your turns, you can cast a spell with a casting time of 1 action as a bonus action, and you can still cast a cantrip with your action on that turn
 - Gain resistance to all damage
 - Your spells heal allies for half the damage dealt (your choice of target)
 
@@ -7449,7 +7468,7 @@ At 18th level, you channel your Ascended. Once per long rest, for 1 minute:
 ## Pact of the Forgotten Throne (Warlock)
 *Warlocks who made pacts with ancient fallen royalty of Tirvandor*
 
-Your patron is an ancient ruler from before Thaldros and Aethoria, a forgotten dynasty that once ruled Tirvandor. They offer power in exchange for restoring their legacy.
+Your patron ruled in the Age of Dawn, thousands of years before the Worldrend, over a kingdom whose very name is lost. They offer power in exchange for restoring their legacy.
 
 
 ### Expanded Spell List
@@ -7458,8 +7477,8 @@ Your patron is an ancient ruler from before Thaldros and Aethoria, a forgotten d
 |-------------|--------|
 | 1st | *command*, *heroism* |
 | 2nd | *enthrall*, *spiritual weapon* |
-| 3rd | *speak with dead*, *spirit guardians* |
-| 4th | *death ward*, *phantasmal killer* |
+| 3rd | *speak with dead*, *spirit guardians*, *crown of the fallen king* |
+| 4th | *death ward*, *phantasmal killer*, *summon ancient courtier* |
 | 5th | *dominate person*, *legend lore* |
 
 
@@ -7467,7 +7486,7 @@ Your patron is an ancient ruler from before Thaldros and Aethoria, a forgotten d
 
 You gain proficiency in History and Persuasion. You can add your Charisma modifier twice to Persuasion checks when claiming authority or noble status.
 
-**Crown's Command:** You can cast *command* at will without expending a spell slot.
+**Crown's Command:** You can cast *command* without expending a spell slot. You can do so a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest. You can also cast it using warlock spell slots as normal.
 
 ### Ancient Knowledge (6th Level)
 
@@ -7478,15 +7497,16 @@ At 6th level, your patron shares lost knowledge. You can cast *speak with dead* 
 
 At 10th level, you can summon spectral courtiers. As an action, summon 1d4+1 ghosts of ancient nobles. They have ghost statistics but serve you for 1 hour. Once per long rest.
 
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
 ### Throne of Ages (14th Level)
 
 At 14th level, you can claim authority. Once per long rest, for 1 minute you gain:
 - Immunity to being charmed or frightened
 - Advantage on Charisma checks
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
 - Creatures of your choice within 30 feet must succeed on a Wisdom save or kneel (prone, speed 0)
 - You can cast *command* as a bonus action
 
@@ -7494,7 +7514,7 @@ At 14th level, you can claim authority. Once per long rest, for 1 minute you gai
 
 **Origin:** Ancient ruins, forgotten tombs, family legacies ::
 
-**Culture:** Forgotten Throne warlocks serve ancient rulers from before the modern era, dynasties that fell during the Worldrend or before. These patrons want their legacies restored, their names remembered, and perhaps their thrones reclaimed. They're viewed as dangerous antiquarians at best, necromancer-adjacent threats at worst. ::
+**Culture:** Forgotten Throne warlocks serve rulers whose kingdoms flourished in the Age of Dawn, thousands of years before the Worldrend and before Thaldros or the Harmony had names. The archetype is the Forgotten King himself, who by fragmentary prophecy was one of an original Seven whose failure set the stage for the Seven Ascended's rise, and who waits in a buried palace trading ancient secrets for the smallest gesture toward a restoration that will never come. These patrons want their legacies restored, their names remembered, and perhaps their thrones reclaimed. They're viewed as dangerous antiquarians at best, necromancer-adjacent threats at worst. ::
 
 **Philosophy:** "The old kingdoms remember. My patron remembers. And through me, the world will remember too." ::
 
@@ -7512,9 +7532,9 @@ Your patron is an entity that grows stronger from violence, a demon of war, a sp
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | *hex*, *shield* |
-| 2nd | *spiritual weapon*, *enhance ability* |
-| 3rd | *fear*, *haste* |
+| 1st | *hex*, *shield*, *profiteer's shield* |
+| 2nd | *spiritual weapon*, *enhance ability*, *blood price* |
+| 3rd | *fear*, *haste*, *mass hysteria* |
 | 4th | *fire shield*, *stoneskin* |
 | 5th | *cone of cold*, *destructive wave* |
 
@@ -7532,7 +7552,7 @@ At 6th level, you sense conflict. You have advantage on initiative. As an action
 
 ### Spoils of War (10th Level)
 
-At 10th level, violence protects you. When you take damage, you gain resistance to that damage type until your next turn. When you deal damage to a creature, you gain +1 AC until your next turn (stacks up to +5).
+At 10th level, violence protects you. When you finish a short or long rest, choose one damage type. You have resistance to that damage type until you choose a different one. In addition, when you deal damage to a creature on your turn, you gain a +1 bonus to AC until the start of your next turn.
 
 
 ### Avatar of War (14th Level)
@@ -7545,33 +7565,35 @@ At 14th level, you thrive in battle. Once per long rest, for 1 minute:
 
 #### Tirvandor Context
 
-**Origin:** Wartime desperation, deals made on battlefields ::
+**Origin:** Desperation in the Contested Lands, deals struck on ground where a skirmish had just ended ::
 
-**Culture:** War Profiteer warlocks made their pacts with entities that thrive on conflict, demons of strife, devils of war economics, or stranger things. They're universally distrusted even by other warlocks; their patrons actively want wars to continue. Some use their power to survive; others embrace the profiteering lifestyle. ::
+**Culture:** War Profiteer warlocks made their pacts with entities that thrive on conflict, demons of strife, devils of war economics, or stranger things. They're universally distrusted even by other warlocks. Their patrons have no interest in peace breaking out, and a cold quarrel that never quite cools is exactly what feeds them. Some of these patrons are fiends or awakened weapons. A few are said to speak with the voice of the Tyrant, the Bound Ancient of Dominion and Subjugation that lies imprisoned beneath the Valley of Bones, and warlocks who suspect that of their own patron do not say so aloud. Some use their power to survive; others embrace the profiteering lifestyle. ::
 
 **Philosophy:** "War never ends. My patron ensures that. I just make sure I'm on the winning side: whichever side that is today." ::
 
-## School of the Iron Legion (Wizard)
+## School of the War Mage (Wizard)
 
-*Thaldros military battle mages who march with the Iron Legion, blending disciplined spellcraft with the endurance to survive a battlefield*
+*Thaldros battle mages attached to the Royal Army's fighting units, blending disciplined spellcraft with the endurance to survive a battlefield*
 
-Battle mages of the Iron Legion are trained in Thaldros's military academies to serve alongside its soldiers. Where other wizards prize theory, they prize survival, protective wards, tactical spellcasting, and the discipline to keep casting when steel is falling all around them.
+War Mages of Thaldros are trained in the Crown's military academies to serve alongside its soldiers. They stay behind the line, conserving power for the decisive moment, countering enemy magic, and timing a fireball to break a formation rather than to burn random skirmishers. Where other wizards prize theory, they prize survival, protective wards, tactical spellcasting, and the discipline to keep casting when steel is falling all around them.
+
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
+
+### War Mage Spells
+
+*Battlefield awareness* and *warborn surge* are wizard spells for you. When you choose this tradition at 2nd level, you add both to your spellbook at no cost and without spending the time to copy them.
 
 
-### Legionary Discipline (2nd Level)
+### Academy Discipline (2nd Level)
 
 When you choose this tradition at 2nd level, your military training reshapes your magic. You gain proficiency with medium armor, shields, and martial weapons, and you can cast wizard spells while wearing medium armor. In addition, you add your Intelligence modifier to your initiative rolls (minimum of +1).
 
 
 ### Warding Reflex (2nd Level)
 
-Also at 2nd level, you can raise a ward in the instant before harm reaches you. When you are hit by an attack or fail a saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack (potentially 
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
-
-causing it to miss), or to reroll that saving throw with advantage.
+Also at 2nd level, you can raise a ward in the instant before harm reaches you. When you are hit by an attack or fail a saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack (potentially causing it to miss), or to reroll that saving throw with advantage.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
@@ -7594,9 +7616,9 @@ In addition, when you have no uses of Warding Reflex remaining, you can use it a
 
 ### Tirvandor Context
 
-**Origin:** Thaldros Royal Academy of Magic, military mage corps ::
+**Origin:** Thaldros's military academies, which train mages for battlefield application and nothing else ::
 
-**Culture:** Iron Legion battle mages are Thaldros's combat spellcasters, trained to survive battlefields and support military operations. They're practical, disciplined, and focused on results rather than theory. In Thaldros, they're valued officers; in Aethoria, they're seen as proof of magical militarization's dangers. ::
+**Culture:** War mages are Thaldros's combat spellcasters, trained to survive battlefields and support military operations. Regular soldiers respect their power and distrust their magic; commanders value them and rarely understand their limits; academic mages call their work crude. They find company mostly with each other. In Thaldros, they're valued officers; in Aethoria, they're seen as proof of magical militarization's dangers. ::
 
 **Philosophy:** "Theory means nothing if you're dead. Survive first, innovate later. A living wizard learns; a dead one doesn't." ::
 
@@ -7631,37 +7653,37 @@ At 6th level, create temporary spells. During a long rest, create one custom spe
 
 At 10th level, your innovations become powerful. When you use Experimental Magic, you can choose two modifications instead of one.
 
+{{pageNumber,auto}}
+{{footnote Custom SubClasses}}
+\page
 
 ### Master Innovator (14th Level)
 
 At 14th level, you break magical limits. Once per long rest, cast a spell and:
 - Ignore spell components
-- Cast it as if using a 9th-level slot (no matter what slot you use)
+- Cast it as if using a spell slot two levels higher than the slot you actually expended, to a maximum of 7th level
 - It can't be counterspelled
 - Choose two Experimental Magic modifications
-
+\column
 ### Tirvandor Context
 
-**Origin:** Aethorian magical universities, independent research circles ::
+**Origin:** Starweaver Academy at Starfall, the Academies of Moira, and independent research circles ::
 
 **Culture:** Innovation wizards represent Aethoria's commitment to magical progress. They experiment, push boundaries, and create new spells: sometimes recklessly. They're celebrated in Aethoria as visionaries and viewed in Thaldros as dangerous radicals whose experiments threaten stability. ::
 
 **Philosophy:** "Magic isn't meant to be static. Every spell we cast today was once impossible. Tomorrow's magic is waiting to be discovered." ::
 
 
-
-\column
-
 {{pageNumber,auto}}
 {{footnote Custom SubClasses}}
 \page
 
-![Spells Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-spells.png){position:absolute,bottom:40px,right:0,width:100%,mix-blend-mode:multiply}
+![Spells Chapter Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-spells.png){position:absolute,bottom:50px,right:50px,width:90%,mix-blend-mode:multiply}
 
 # Chapter 8: Tirvandor Custom Spells
 
 :
-These spells are available to specific classes and subclasses as noted. All are balanced for SRD 5.1 gameplay.
+These spells are available to specific classes and subclasses as noted. They are built for SRD 5.1 play, but as with any setting-specific magic your DM has the final word on what is available at their table.
 
 ## Propaganda & Manipulation Spells
 
@@ -7676,7 +7698,7 @@ These spells are available to specific classes and subclasses as noted. All are 
 
 You whisper a rumor or false belief into a creature's mind. The target must make a Wisdom saving throw. On a failed save, the target believes the rumor to be true for the duration. The rumor must be believable and not immediately contradicted by obvious evidence. 
 
-If the target succeeds on the save, it doesn't believe the rumor but isn't aware you tried to manipulate it.
+If the target succeeds on the save, it doesn't believe the rumor and it knows that someone tried to plant it, though not necessarily that it was you. When the duration ends, the target keeps the false belief unless it later encounters evidence against it.
 
 **At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 \column
@@ -7687,18 +7709,18 @@ If the target succeeds on the save, it doesn't believe the rumor but isn't aware
 **Range:** 60 feet  
 **Components:** V, S, M (a torn piece of propaganda)  
 **Duration:** Concentration, up to 1 minute  
-**Classes:** Bard (College of Propaganda), Warlock
+**Classes:** Bard (College of Propaganda), Warlock (Pact of the War Profiteer)
 
 You spread panic through a crowd. Each creature of your choice in a 20-foot radius sphere within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened of you for the duration and must use its action to take the Dash action away from you on each of its turns.
 
-Additionally, frightened creatures have disadvantage on ability checks and can spread the fear: any creature that starts its turn within 10 feet of a frightened creature must make a Wisdom save or also become frightened.
+Additionally, the fear spreads: the first time a creature ends its turn within 10 feet of a creature frightened by this spell, it must make a Wisdom saving throw or become frightened of you for the duration. A creature can be affected by this spread only once, and no more than five creatures can be frightened by the spread.
 
 A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 **At Higher Levels:** When you cast this spell using a spell slot of 4th level or higher, the radius increases by 10 feet for each slot level above 3rd.
 
 {{pageNumber,auto}}
-{{footnote Custom SubClasses}}
+{{footnote Custom Spells}}
 \page
 
 ### Rewrite Memory
@@ -7708,9 +7730,9 @@ A frightened creature can repeat the saving throw at the end of each of its turn
 **Range:** Touch  
 **Components:** V, S, M (a page from a history book worth at least 50 gp)  
 **Duration:** Permanent until dispelled  
-**Classes:** Bard (College of Propaganda), Wizard
+**Classes:** Bard (College of Propaganda)
 
-You touch a willing creature or one that is incapacitated and rewrite one of its memories. You can alter a memory of an event that lasted no more than 10 minutes and occurred within the last 30 days. You can add false details, remove real details, or completely fabricate a new memory.
+You touch a creature and rewrite one of its memories. Unless the creature is willing, it must succeed on a Wisdom saving throw or be affected. You can alter a memory of an event that lasted no more than 10 minutes and occurred within the last 24 hours. You can add false details, remove real details, or completely fabricate a new memory.
 
 The target believes the altered memory to be true. The effect is permanent but can be ended by *greater restoration*, *heal*, *wish*, or similar magic. A creature that witnesses evidence strongly contradicting the false memory can make a Wisdom saving throw to realize the memory is false.
 
@@ -7721,18 +7743,18 @@ The target believes the altered memory to be true. The effect is permanent but c
 **Range:** 30 feet  
 **Components:** V  
 **Duration:** 1 round  
-**Classes:** Bard, Cleric (Ascended Champion - Thandros), Paladin (Oath of the Iron Crown)
+**Classes:** Bard (College of Propaganda, College of the Iron Tongue), Cleric (Ascended Champion - Thandros), Paladin (Oath of the Iron Crown)
 
-You speak with undeniable authority. Choose one creature within range that can hear you. It must make a Wisdom saving throw. On a failed save, it must obey a one-sentence command on its next turn (as long as the command isn't directly harmful to it). The command is more complex than the *command* spell and can include conditional instructions.
+You speak with undeniable authority. Choose one creature within range that can hear you. It must make a Wisdom saving throw. On a failed save, it must obey a single clear instruction of no more than one sentence on its next turn, as long as the instruction is not directly harmful to it.
 
 Examples: "Drop your weapon and surrender," "Tell me where the artifact is hidden," "Escort us safely through this area."
 
-The target understands the command even if it doesn't share a language with you.
+The target must be able to hear and understand you.
 
 ## Warlock Patron Spells
 
 ### Crown of the Fallen King
-*3rd-level illusion*
+*3rd-level enchantment*
 
 **Casting Time:** 1 action  
 **Range:** Self  
@@ -7743,8 +7765,7 @@ The target understands the command even if it doesn't share a language with you.
 A spectral crown appears on your head, marking you as royalty. For the duration, you gain the following benefits:
 
 - You have advantage on Charisma (Intimidation) and Charisma (Persuasion) checks.
-- Creatures of CR 1 or lower that can see you must succeed on a Wisdom saving throw or treat you as a legitimate authority figure, obeying reasonable commands.
-- You can cast *command* at will without expending a spell slot.
+- Up to five creatures of CR 1 or lower within 30 feet that can see you must succeed on a Wisdom saving throw or treat you as a legitimate authority figure, obeying reasonable commands that are not obviously harmful to them. A creature repeats the saving throw at the end of each of its turns, and the effect ends on a creature if you or your companions harm it.
 - Once during the spell's duration, you can use a bonus action to force one creature within 30 feet to kneel (fall prone, speed 0 until end of its next turn) if it fails a Wisdom saving throw.
 
 ### Blood Price
@@ -7758,11 +7779,13 @@ A spectral crown appears on your head, marking you as royalty. For the duration,
 
 You offer your own blood to fuel your magic. When you cast this spell, you take 2d6 necrotic damage that can't be reduced or prevented. For the duration, you gain the following benefits:
 
-- Your spell save DC increases by 2.
-- Your spell attacks gain a +2 bonus to hit.
-- When you deal damage with a warlock spell, you deal an extra 1d6 damage.
+- Your spell save DC increases by 1.
+- Your spell attacks gain a +1 bonus to hit.
+- Once on each of your turns when you deal damage with a warlock spell, you deal an extra 1d6 damage.
 
 **At Higher Levels:** When you cast this spell using a spell slot of 3rd level or higher, you take an additional 1d6 necrotic damage and the extra spell damage increases by 1d6 for each slot level above 2nd.
+
+Because a warlock's spell slots are always of the same level, a warlock always casts this spell at the level shown on the Warlock table.
 
 ### Summon Ancient Courtier
 *4th-level conjuration*
@@ -7773,30 +7796,32 @@ You offer your own blood to fuel your magic. When you cast this spell, you take 
 **Duration:** Concentration, up to 1 hour  
 **Classes:** Warlock (Pact of the Forgotten Throne)
 
-You summon the spirit of an ancient noble from your patron's fallen dynasty. The spirit appears in an unoccupied space you can see within range and uses the **ghost** stat block, but it's friendly to you and your allies and obeys your commands.
+You summon the spirit of an ancient noble from your patron's fallen dynasty. The spirit appears in an unoccupied space you can see within range and uses the **specter** stat block, but it's friendly to you and your allies and obeys your commands.
 
 The spirit has knowledge of history, nobility, and ancient lore. It can answer questions about the past (as if you had cast *legend lore*) and provide information about noble protocols and ancient customs.
 
 In combat, the spirit acts on your turn and uses its ghostly abilities to aid you.
 
-**At Higher Levels:** When you cast this spell using a spell slot of 5th level or higher, you can summon one additional spirit for each slot level above 4th.
+**At Higher Levels:** When you cast this spell using a spell slot of 6th level or higher, the spirit uses the **ghost** stat block instead.
 
 {{pageNumber,auto}}
-{{footnote Custom SubClasses}}
+{{footnote Custom Spells}}
 \page
 
 ### Profiteer's Shield
 *1st-level abjuration*
 
-**Casting Time:** 1 reaction, which you take when you see violence occur within 60 feet  
+**Casting Time:** 1 reaction, which you take when you take damage  
 **Range:** Self  
 **Components:** V  
 **Duration:** 1 round  
 **Classes:** Warlock (Pact of the War Profiteer)
 
-When violence erupts nearby, your patron's power shields you. You gain a number of temporary hit points equal to 1d10 + your warlock level. Additionally, until the start of your next turn, you have resistance to all damage.
+Your patron's power shields you as the blow lands. You gain a number of temporary hit points equal to 1d10 + your warlock level. Additionally, until the start of your next turn, you have resistance to bludgeoning, piercing, and slashing damage.
 
 **At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, the temporary hit points increase by 1d10 for each slot level above 1st.
+
+Because a warlock's spell slots are always of the same level, a warlock always casts this spell at the level shown on the Warlock table.
 
 ## War & Conflict Spells
 
@@ -7807,24 +7832,23 @@ When violence erupts nearby, your patron's power shields you. You gain a number 
 **Range:** Self  
 **Components:** V, S  
 **Duration:** Concentration, up to 10 minutes  
-**Classes:** Fighter (Iron Guild Veteran, Royal Guard), Ranger, Wizard (School of the Iron Legion)
+**Classes:** Ranger (Border Warden), Wizard (School of the War Mage)
 
 You attune yourself to the chaos of battle. For the duration, you gain the following benefits:
 
-- You can't be surprised.
 - You have advantage on initiative rolls.
-- You know the exact location of all creatures within 60 feet, even if they're invisible or heavily obscured.
+- You know the location of any creature within 60 feet that you can hear, even if it is invisible or heavily obscured, though you do not know what it is.
 - You can sense the general tactics and strategy of enemy forces within 60 feet (aggressive, defensive, flanking, retreating, etc.).
 - You have advantage on Wisdom (Perception) checks related to combat situations.
 
 ### Iron Guild Contract
-*3rd-level enchantment (ritual)*
+*4th-level enchantment (ritual)*
 
 **Casting Time:** 10 minutes  
 **Range:** Touch  
 **Components:** V, S, M (a contract worth at least 25 gp, which the spell consumes)  
 **Duration:** Until fulfilled or 30 days  
-**Classes:** Bard (College of the Iron Tongue), Fighter (Iron Guild Veteran)
+**Classes:** Bard (College of Propaganda, College of the Iron Tongue)
 
 You create a magically binding contract between willing participants. All parties must sign or mark the contract. The contract specifies terms and conditions (DM determines reasonableness).
 
@@ -7832,17 +7856,17 @@ While the contract is in effect:
 
 - All parties know if another party violates a term.
 - A party that attempts to directly violate a major term must succeed on a Wisdom saving throw or be unable to complete the violating action.
-- A party that successfully violates a major term takes 3d10 psychic damage.
-- A party that violates a minor term takes 1d10 psychic damage.
+- A party that successfully violates a major term takes 2d10 psychic damage.
+- A party that violates a minor term takes 1d6 psychic damage.
 
 The caster can sense the direction and general condition of all parties within 1 mile.
 
 The contract ends when its terms are fulfilled, all parties agree to void it, or 30 days pass.
 
-**At Higher Levels:** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 30 days for each slot level above 3rd.
+**At Higher Levels:** When you cast this spell using a spell slot of 5th level or higher, the duration increases by 30 days for each slot level above 4th.
 
 ### Iron Word
-*3rd-level enchantment*
+*2nd-level enchantment*
 
 **Casting Time:** 1 action  
 **Range:** 60 feet  
@@ -7850,9 +7874,9 @@ The contract ends when its terms are fulfilled, all parties agree to void it, or
 **Duration:** Concentration, up to 1 minute  
 **Classes:** Bard (College of the Iron Tongue)
 
-You speak a binding word of enforcement. Choose one creature within range that you have a contract with. That creature must succeed on a Wisdom saving throw or be compelled to honor the terms of your agreement. While affected, the creature has disadvantage on any action that would violate the contract and automatically fails Charisma (Deception) checks related to the contract terms.
+You speak a binding word of enforcement. Choose one creature within range that you have a contract with. That creature must succeed on a Wisdom saving throw or be compelled to honor the terms of your agreement. While affected, the creature has disadvantage on any action that would violate the contract and automatically fails Charisma (Deception) checks related to the contract terms. If the creature takes an action that violates the contract, it takes 2d8 psychic damage.
 
-Bards of the College of the Iron Tongue learn this spell automatically at 3rd level, and it doesn't count against their spells known.
+Bards of the College of the Iron Tongue learn this spell automatically at 3rd level, when they first gain 2nd-level spell slots, and it doesn't count against their spells known.
 
 ### Tactical Strike
 *1st-level divination*
@@ -7861,36 +7885,36 @@ Bards of the College of the Iron Tongue learn this spell automatically at 3rd le
 **Range:** Self  
 **Components:** V  
 **Duration:** Concentration, up to 1 minute  
-**Classes:** Fighter (Royal Guard, Iron Guild Veteran), Ranger
+**Classes:** Ranger (Border Warden, Partisan Scout)
 
-You analyze your enemy's weaknesses. Choose one creature you can see. For the duration, you have advantage on attack rolls against that creature, and you deal an extra 1d6 damage when you hit it with a weapon attack.
+You analyze your enemy's weaknesses. Choose one creature you can see. For the duration, you deal an extra 1d6 damage when you hit it with a weapon attack, and the first attack roll you make against it on each of your turns is made with advantage.
 
 **At Higher Levels:** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+{{pageNumber,auto}}
+{{footnote Custom Spells}}
+\page
 
 ## Ascended-themed Spells
 
 ### Blessing of the Ascended
-*2nd-level abjuration*
+*3rd-level abjuration*
 
 **Casting Time:** 1 action  
 **Range:** Touch  
 **Components:** V, S, M (a holy symbol of one of the Seven)  
-**Duration:** 8 hours  
-**Classes:** Cleric (Ascended Champion), Paladin, Sorcerer (Ascended-Touched)
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
+**Duration:** Concentration, up to 1 hour  
+**Classes:** Cleric (Ascended Champion), Paladin (Oath of Liberty), Sorcerer (Ascended-touched)
 
 You invoke the blessing of one of the Seven Ascended on a willing creature. Choose one of the Seven when you cast this spell. The target gains benefits based on the chosen deity:
 
-- **Thandros:** Advantage on saving throws against being charmed or frightened, and +2 to AC
+- **Thandros:** Advantage on saving throws against being charmed or frightened
 - **Aethor:** Speed increases by 10 feet, and advantage on saving throws against being restrained
 - **Moira:** Advantage on Intelligence checks and saves, and can reroll one failed save (uses the new roll)
 - **Kael:** Advantage on Dexterity checks and saves, and can't be slowed or have speed reduced
-- **Sera:** Resistance to necrotic damage, and regains 1d6 hit points at the start of each of its turns
+- **Sera:** Resistance to necrotic damage, and when the target finishes a short rest it regains an extra 1d6 hit points
 - **Mordain:** Advantage on death saving throws, and has advantage on attacks against undead
-- **Sylvara:** Resistance to lightning and thunder damage, and can speak with beasts
+- **Sylvara:** Resistance to lightning or thunder damage (your choice when you cast the spell), and can speak with beasts
 
 ### Wrath of the Wild
 *4th-level evocation*
@@ -7899,18 +7923,18 @@ You invoke the blessing of one of the Seven Ascended on a willing creature. Choo
 **Range:** Self (30-foot radius)  
 **Components:** V, S  
 **Duration:** Instantaneous  
-**Classes:** Druid (Circle of the Ascended Wild), Ranger, Sorcerer (Ascended-Touched - Sylvara)
+**Classes:** Cleric (Ascended Champion - Sylvara), Druid (Circle of the Ascended Wild), Ranger (Partisan Scout), Sorcerer (Warborn Bloodline, Ascended-touched)
 
 You call upon Sylvara's primal fury. Choose one effect:
 
-**Thunderstorm:** Lightning strikes all creatures of your choice within range. Each target must make a Dexterity saving throw, taking 4d8 lightning damage on a failed save or half as much on a success.
+**Thunderstorm:** Lightning strikes each creature in the area. Each creature must make a Dexterity saving throw, taking 5d8 lightning damage on a failed save or half as much on a success. You can choose a number of creatures equal to your spellcasting ability modifier to be unaffected.
 
 **Beast Swarm:** Spectral beasts attack all enemies within range. Each target must make a Strength saving throw, taking 4d8 piercing damage on a failed save or half as much on a success. Creatures that fail are also knocked prone.
 
-**Thorned Ground:** The ground erupts with thorns and roots. The area becomes difficult terrain, and each enemy creature in the area takes 2d8 piercing damage and must succeed on a Strength saving throw or be restrained by grasping vines until the start of your next turn.
+**Thorned Ground:** The ground erupts with thorns and roots. Each creature of your choice in the area takes 2d8 piercing damage and must succeed on a Strength saving throw or be restrained by grasping vines until the start of your next turn. The area remains difficult terrain for 1 minute.
 
 **At Higher Levels:** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
-\column
+
 ### Chain Breaker
 *3rd-level abjuration*
 
@@ -7918,14 +7942,14 @@ You call upon Sylvara's primal fury. Choose one effect:
 **Range:** 30 feet  
 **Components:** V, S  
 **Duration:** Instantaneous  
-**Classes:** Cleric (Ascended Champion - Aethor), Monk (Way of the Broken Chain), Paladin (Oath of Liberty)
+**Classes:** Cleric (Ascended Champion - Aethor), Paladin (Oath of Liberty), Sorcerer (Ascended-touched)
 
 You invoke Aethor's liberating power to shatter bonds. Choose up to three creatures within range. Each target immediately:
 
-- Ends all conditions affecting it (charmed, frightened, paralyzed, petrified, restrained, or stunned)
+- Ends one of the following conditions affecting it: charmed, frightened, grappled, or restrained
 - Breaks free from all physical restraints (ropes, manacles, magical bonds)
 - Teleports up to 30 feet to an unoccupied space it can see
-- Gains temporary hit points equal to your spellcasting ability modifier + your level
+- Gains temporary hit points equal to your spellcasting ability modifier
 
 Additionally, all restraining objects within range (manacles, cages, chains, etc.) break and become unusable.
 
@@ -7938,74 +7962,62 @@ Additionally, all restraining objects within range (manacles, cages, chains, etc
 **Range:** Self  
 **Components:** V  
 **Duration:** Concentration, up to 1 minute  
-**Classes:** Sorcerer (Warborn Bloodline), Wizard (School of the Iron Legion)
+**Classes:** Sorcerer (Warborn Bloodline), Wizard (School of the War Mage)
 
 You channel the chaotic magic of warfare. For the duration, whenever you cast a spell that deals damage, roll 1d6:
 
-- **1-2:** The spell fizzles slightly. Deal normal damage.
+- **1-2:** The surge does not catch. Deal normal damage.
 - **3-4:** The spell surges with power. Deal an extra 1d6 damage.
 - **5:** The spell explodes with energy. Deal an extra 2d6 damage.
-- **6:** Critical surge! Deal maximum damage for all dice rolled, and you regain a spell slot of the spell's level (maximum 3rd level slot).
+- **6:** Critical surge! Deal maximum damage for all dice rolled.
 
 Additionally, you have advantage on Constitution saving throws to maintain concentration on this spell.
 
-**At Higher Levels:** When you cast this spell using a spell slot of 3rd level or higher, the extra damage on rolls of 3-5 increases by 1d6 for each slot level above 2nd.
+**At Higher Levels:** When you cast this spell using a spell slot of 3rd level or higher, the extra damage on a roll of 3-4 and on a roll of 5 each increase by 1d6 for each slot level above 2nd.
 
 {{pageNumber,auto}}
-{{footnote Custom SubClasses}}
+{{footnote Custom Spells}}
 \page
 
 ## Spell Availability by Subclass
+
+Every subclass listed here grants its spells in its own entry in Chapter 7. Subclasses that have no spellcasting are not listed.
 
 ### College of Propaganda (Bard)
 - Propagandist's Whisper (1st)
 - Voice of Authority (2nd)
 - Mass Hysteria (3rd)
+- Iron Guild Contract (4th)
 - Rewrite Memory (5th)
-- Iron Guild Contract (3rd)
 
 
 ### College of the Iron Tongue (Bard)
-- Iron Word (3rd)
-- Iron Guild Contract (3rd)
 - Voice of Authority (2nd)
+- Iron Word (2nd)
+- Iron Guild Contract (4th)
 
 ### Ascended Champion Domain (Cleric)
 - Voice of Authority (2nd) - Thandros variant
-- Blessing of the Ascended (2nd) - All variants
+- Blessing of the Ascended (3rd) - All variants
 - Chain Breaker (3rd) - Aethor variant
 - Wrath of the Wild (4th) - Sylvara variant
 
 ### Circle of the Ascended Wild (Druid)
 - Wrath of the Wild (4th)
 
-### Iron Guild Veteran (Fighter)
-- Battlefield Awareness (2nd)
-- Tactical Strike (1st)
-- Iron Guild Contract (3rd)
-
-### Royal Guard (Fighter)
-- Battlefield Awareness (2nd)
-- Tactical Strike (1st)
-- Voice of Authority (2nd)
-
-### Way of the Broken Chain (Monk)
-- Chain Breaker (3rd)
-
-\column
 
 ### Oath of the Iron Crown (Paladin)
 - Voice of Authority (2nd)
 
 ### Oath of Liberty (Paladin)
+- Blessing of the Ascended (3rd)
 - Chain Breaker (3rd)
-- Blessing of the Ascended (2nd)
 
 ### Border Warden (Ranger)
-- Battlefield Awareness (2nd)
 - Tactical Strike (1st)
+- Battlefield Awareness (2nd)
 
-### People's Scout (Ranger)
+### Partisan Scout (Ranger)
 - Tactical Strike (1st)
 - Wrath of the Wild (4th)
 
@@ -8013,8 +8025,8 @@ Additionally, you have advantage on Constitution saving throws to maintain conce
 - Warborn Surge (2nd)
 - Wrath of the Wild (4th)
 
-### Ascended-Touched (Sorcerer)
-- Blessing of the Ascended (2nd)
+### Ascended-touched (Sorcerer)
+- Blessing of the Ascended (3rd)
 - Chain Breaker (3rd)
 - Wrath of the Wild (4th)
 
@@ -8023,44 +8035,37 @@ Additionally, you have advantage on Constitution saving throws to maintain conce
 - Summon Ancient Courtier (4th)
 
 ### Pact of the War Profiteer (Warlock)
-- Blood Price (2nd)
 - Profiteer's Shield (1st)
+- Blood Price (2nd)
 - Mass Hysteria (3rd)
 
-### School of the Iron Legion (Wizard)
+### School of the War Mage (Wizard)
 - Battlefield Awareness (2nd)
 - Warborn Surge (2nd)
-
-{{pageNumber,auto}}
-{{footnote Custom SubClasses}}
-\page
 
 ## How to Use These Spells
 
 ### For Subclasses with "Expanded Spell Lists"
-(Warlock, some Clerics, some Sorcerers)
-- These spells are added to your class spell list
-- You can choose to learn them like any other spell from your list
-- They don't count against spells known
+(Warlock)
+- These spells are added to your warlock spell list
+- You can choose them when you learn a warlock spell
+- They count against your Spells Known as normal
 
-### For Subclasses with "Domain Spells" or "Circle Spells"
-(Clerics, Druids)
-- You automatically know these spells
-- They're always prepared
-- They don't count against your prepared spells limit
-\column
-### For Subclasses with "Signature Spells"
-(Some Fighters, Rangers, Monks)
-- You can cast these spells using class resources (ki points, action surge, etc.)
-- Or they're available as magic initiate-style abilities
-- Check your subclass for specific casting rules
+### For Subclasses with "Domain Spells", "Circle Spells" or "Oath Spells"
+(Clerics, Druids, Paladins, Rangers)
+- You gain each spell at the level its table shows
+- It's always prepared, or always known for rangers
+- It doesn't count against your prepared or known spells
+
+### For Sorcerer and Wizard Subclasses
+(Warborn Bloodline, Ascended-touched, School of the War Mage)
+- Sorcerers: these spells are added to the sorcerer spell list for you, and you can choose them when you learn a sorcerer spell
+- Wizards: these spells are wizard spells for you, and you can add them to your spellbook as you would any other wizard spell
 
 ### For Bard Colleges
 - These spells are added to the bard spell list for you
 - You can learn them when you gain bard levels
 - They count as bard spells for you
-
-![end-classes-chapter](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-chapter-spells-end.png){position:absolute,bottom:90px,left:0,width:100%,mix-blend-mode:multiply}
 
 {{pageNumber,auto}}
 {{footnote Custom Spells}}
@@ -8190,8 +8195,6 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 {{footnote Appendix A: Conditions}}
 \page
 
-![World Primer Art](https://raw.githubusercontent.com/mixologee/tirvandor/main/tirvandor-project/all_artwork/phb/tirvandor-phb-appendix-world-primer.png){position:absolute,bottom:50px,right:50px,width:43%,mix-blend-mode:multiply}
-
 # Appendix B: World Primer
 :
 This appendix contains player-safe information about the world of Tirvandor. Your character would know most of this information as common knowledge.
@@ -8202,25 +8205,29 @@ Tirvandor consists of two great continents separated by the Sundering Sea.
 
 ### Thaldros (the Western Continent)
 
-An authoritarian empire ruled by the Iron Crown from the capital city of Kaer Thandros. The land is organized, efficient, and tightly controlled.
+An authoritarian kingdom ruled by the Iron Crown from the capital city of Kaer Thandros. The land is organized, efficient, and tightly controlled.
 
 **Major Cities:**
-- **Kaer Thandros:** Imperial capital, seat of power
+- **Kaer Thandros:** Royal capital, seat of the Iron Throne (population 45,000)
 - **Goldreach:** Major port and trade hub
 - **Ironhold:** Dwarven mountain fortress city
 
-**Government:** Centralized monarchy with military enforcement
+**Government:** Centralized monarchy under King Aldric IV Thandris, with military enforcement
 
 ### Aethoria (the Eastern Continent)
 
-A collection of democratic free states where personal liberty and self-governance reign. Less unified but more free than Thaldros.
+A confederation of allied free states, dominated by the elven-led Aethorian Harmony, where personal liberty and self-governance reign. Less unified but more free than Thaldros.
 
 **Major Cities:**
-- **Aethermere:** Largest free city, council-governed
-- **Silverpine:** University city, center of learning
+- **Aethermere:** Capital of the Aethorian Harmony, city among the world-trees, seat of the High Queen (population 38,000)
+- **Starfall:** Observatory city, center of learning and astronomy
 - **Various settlements:** Each self-governing
 
-**Government:** Democratic councils and elected leaders
+**Government:** Regional councils, the Circle of Seven Speakers ruling by consensus, under High Queen Aelindra Aethermere
+
+#### The Circle of Seven Speakers
+
+The governing body of the Aethorian Harmony. Seven Speakers drawn from the regional councils, who must reach consensus before the Harmony can act. Below them, each settlement's regional council handles its own day-to-day affairs.
 
 ### The Contested Lands (the Border)
 
@@ -8229,32 +8236,36 @@ The lawless frontier regions within Thaldros where Crown authority holds no sway
 ### The Sundering Sea
 
 The magical sea that separates the two continents, created by the catastrophic Worldrend event 1,247 years ago. Difficult to cross, full of magical anomalies.
-\column
+
 ## History
 
-### The Age of Unity (Ancient Past)
+### Before the Worldrend
 
-Before the Worldrend, Tirvandor was one unified land. The details are lost to time, but legends speak of a golden age.
+Tirvandor was one land. Elven records reach back to the Age of Dawn, when seven mortal heroes rose to godhood as the Seven Ascended. The Age of Strife followed, and ended in catastrophe.
 
-### The Worldrend (1,247 Years Ago)
+### The Worldrend (Year 0, 1,247 Years Ago)
 
-A catastrophic magical event tore the world in two, creating the Sundering Sea. The cause is debated - some blame hubris, others blame the gods. What's certain is that millions died and civilization collapsed.
+A catastrophic magical event tore the world in two, creating the Sundering Sea. The cause is debated - some blame hubris, others blame the gods. What's certain is that millions died and civilization collapsed. Every calendar in Tirvandor counts from this year.
 
-### The Age of Chains (1,200-850 Years Ago)
+### The Age of Recovery (0-400 CR)
 
-Following the Worldrend, warlords and tyrants rose to power. Might made right, and common folk suffered under brutal rule.
+Survivors rebuilt from near-collapse. Warlords held what they could, the two continents grew apart in culture as well as distance, and both Kaer Thandros and Aethermere were founded anew.
 
-### The Liberation (~850 Years Ago)
+### The Age of Nations (400-900 CR)
 
-In Aethoria, a revolutionary movement overthrew the tyrants and brought the Age of Chains to an end in the eastern lands, establishing democratic governance. This event is celebrated as the founding of free Aethoria.
+Kingdoms took their modern shape. The Unification Wars gave Thaldros one king and the Iron Crown; in the east, the council cities grew into the Aethorian Harmony.
 
-### The Iron Crown Era (200 Years Ago - Present)
+### The Age of Ambition (900 CR - Present)
 
-In Thaldros, the Iron Crown consolidated power and established the current empire. Thaldros claims to bring order and stability; Aethoria calls it tyranny.
+The current age: exploration, magical breakthrough, rebellion, and intrigue. Thaldros claims to bring order and stability; Aethoria calls it tyranny.
 
-### The Present Day
+### The Liberation of Aethoria (~200 Years Ago)
 
-Tensions between Thaldros and Aethoria remain high. The Contested Lands grow more dangerous. Strange magical phenomena increase near ley lines. Your adventure begins in this uncertain time.
+Aethorian territories that had fallen under Thaldros occupation fought for and won their independence. It is celebrated as the founding of free Aethoria and remembered as the origin of the Harmony's council system.
+
+### The Present Day (1247 CR)
+
+Neither capital admits to a war, and neither pretends to friendship. What fighting there is happens in the Contested Lands, between Crown garrisons and Thaldrosian separatists who take Harmony backing. Strange magical phenomena increase near ley lines. Your adventure begins in this uncertain time.
 
 {{pageNumber,auto}}
 {{footnote Appendix B: World Primer}}
@@ -8302,25 +8313,23 @@ Most people worship all Seven depending on need, though individuals may favor on
 
 ### The Iron Guild
 
-A massive mercenary organization operating in the Contested Lands. Politically neutral, they provide military services to anyone who can pay. Led by Guildmaster Roderic Ironfist of the Ironfist clan, based in Ironhold.
+A massive mercenary organization operating across Thaldros and the Contested Lands, and the power that keeps order in Crossroads. Politically neutral, they provide military services to anyone who can pay. Led by Guildmaster Roderic Ironfist of the Ironfist clan, based at the Guild's headquarters in Goldreach.
 
-### The Thornwood Syndicate
+### The Shadow Syndicate
 
-Criminal network operating across both continents. Smuggling, information brokering, and "off the books" services. Led by Elara Thornwood (The Red Wolf).
+The criminal power of the setting, and not one organization so much as a network of criminal groups that have cooperated under agreed rules since about 300 CR. Somewhere between fifteen hundred and two thousand members across both continents, no known headquarters, and a leader called Master Crimson. Smuggling, theft and information brokering. Official documents call it the Shadow Syndicate; most people just say "the Syndicate." The Thornwood Syndicate, run out of the Contested Lands by Elara "Red Wolf" Thornwood, is the largest of the networks that keep their own name.
 
 ### The Silver Circle
 
 Mage organization protecting ley lines and studying magic. Neutral in politics, essential for magical research.
 
+### The Free Cities Alliance
+
+A compact of Crown cities in central Thaldros, formed for mutual defence and trade, led in practice by Silverpine. Every member city still sits in a High Lord's territory and owes the Crown the allegiance it always did, so the independence is commercial and diplomatic rather than sovereign. Its council is made up of the member cities' own heads of government, each of whom answers at home to a council, a house or a lord. Around half a million people, mostly humans and half-elves.
+
 ### The Iron Legion
 
-Military force of Thaldros. Disciplined, well-equipped, and loyal to the Iron Crown.
-
-### The People's Councils
-
-Democratic governing bodies of Aethoria. Each city has its own council elected by citizens.
-
-
+Thaldros's internal security force. Disciplined, feared, and answering directly to the Iron Crown, bypassing the Royal Army's chain of command. Not the kingdom's army: that is the Royal Army, roughly 5,000 soldiers in permanent service.
 
 ## Currency and Economy
 
@@ -8344,14 +8353,14 @@ Common languages:
 - **Elvish:** Language of elves
 - Plus Halfling, Gnomish, Orcish, Giant, Goblin
 
+{{pageNumber,auto}}
+{{footnote Appendix B: World Primer}}
+\page
+
 Rare languages:
 - **Draconic:** Ancient language of dragons
 - **Primordial:** Language of elementals
 - **Celestial/Infernal:** Languages of higher planes
-
-{{pageNumber,auto}}
-{{footnote Appendix B: World Primer}}
-\page
 
 ## Life in Tirvandor
 
@@ -8382,6 +8391,8 @@ Rare languages:
 - No central authority
 - Community bonds are vital
 
+\column
+
 ## What Your Character Knows
 
 As a resident of Tirvandor, your character would know:
@@ -8390,10 +8401,8 @@ As a resident of Tirvandor, your character would know:
 - Thaldros vs Aethoria political tension
 - Ley lines are sources of magic
 - The Seven Ascended are the gods
-- The Iron Guild and Thornwood Syndicate exist
+- The Iron Guild and the Shadow Syndicate exist
 - Common cultural expectations
-
-\column
 
 Your character might NOT know:
 - Detailed ancient history
@@ -8443,7 +8452,7 @@ Most mortals recognize the existence of all gods but actively worship one to thr
 **Alignment:** Lawful Neutral
 **Sacred Day:** First day of each season
 
-Thandros represents the ideal of lawful civilization. The western continent bears his name, Thaldros, testament to his influence on that empire's founding. He is not cruel, but he is unyielding: the law must be upheld.
+Thandros represents the ideal of lawful civilization. The western continent bears his name, Thaldros, testament to his influence on that kingdom's founding. He is not cruel, but he is unyielding: the law must be upheld.
 
 **Teachings:** ::
 - Law is the foundation of civilization
@@ -8468,7 +8477,7 @@ Aethor stands in philosophical opposition to Thandros, where the Lawbringer valu
 - Light reveals truth and drives away shadows
 - Hope sustains those who fight for justice
 
-**Followers:** Revolutionaries, freedom fighters, escaped slaves, and those who oppose tyranny. Dominant in Aethoria.
+**Followers:** Reformers, freedom fighters, escaped prisoners, and those who oppose tyranny. Dominant in Aethoria.
 \column
 ### Moira, the Weaver
 
@@ -9148,6 +9157,7 @@ The following are designated as Product Identity under the Open Game License v1.
 
 ### Organizations & Factions
 - The Iron Guild
+- The Shadow Syndicate
 - The Thornwood Syndicate
 - The Silver Circle
 - The Iron Legion
@@ -9160,8 +9170,8 @@ The following are designated as Product Identity under the Open Game License v1.
 
 ### Historical Events
 - The Worldrend
-- The Age of Chains
-- All timeline events and historical narratives specific to Tirvandor
+- The Liberation of Aethoria
+- All era names, timeline events and historical narratives specific to Tirvandor
 
 ### Game Mechanics (Tirvandor-Specific)
 - All custom subclasses created for Tirvandor
@@ -9291,8 +9301,8 @@ If any provision of this License is held to be unenforceable, such provision sha
 - Action Surge, 25
 - Adventuring Gear, 74
 - Aethor (god), 66
-- Aethorian Republic, The, 66
-- Aethorian Revolutionary, 66
+- Aethorian Harmony, The, 106
+- Harmony Volunteer, 66
 - Aethorian River Otter, 114
 - Alignment, 10
 - Ancient Primordials, The, 110
@@ -9302,7 +9312,6 @@ If any provision of this License is held to be unenforceable, such provision sha
 - Ascended Champion Domain (Cleric), 80
 - Ascended-themed Spells, 100
 - Ascended-touched (Sorcerer), 95
-- Ascended-Touched Magic, 95
 - Backgrounds, 60
 - Barbarian, 22
 - Bard, 29
@@ -9419,9 +9428,9 @@ If any provision of this License is held to be unenforceable, such provision sha
 - Paladin, 42
 - The Pantheon of Tirvandor (Appendix C), 109
 - Paralyzed, 104
+- Partisan Scout (Ranger), 93
 - Path of Revolutionary Fury (Barbarian), 77
 - Path of the Border Reaver (Barbarian), 76
-- People's Scout (Ranger), 93
 - Personality & Background (Chapter 4), 60
 - Personality Traits, 60
 - Petrified, 104
@@ -9447,7 +9456,7 @@ If any provision of this License is held to be unenforceable, such provision sha
 - Royal Guard (Fighter), 88
 - Saving Throws, 22
 - School of Innovation (Wizard), 97
-- School of the Iron Legion (Wizard), 96
+- School of the War Mage (Wizard), 96
 - Second Wind, 25
 - Sera (goddess), 82
 - Seven Ascended, The (Gods), 107
