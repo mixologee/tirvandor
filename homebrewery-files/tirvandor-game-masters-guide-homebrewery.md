@@ -197,7 +197,7 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
   - [{{ Item Distribution Guidelines}}{{ 37}}](#p37)
 - ### [{{ Part IV: NPCs}}{{ 39}}](#p39)
 - #### [{{ Chapter 8: NPCs of Tirvandor}}{{ 39}}](#p39)
-- ### [{{ Major NPCs}}{{ 39}}](#p39)
+  - [{{ Major NPCs}}{{ 39}}](#p39)
   - [{{ Sultan Rashid Ashborne}}{{ 50}}](#p50)
   - [{{ Council Mistress Elara Silverleaf}}{{ 52}}](#p52)
   - [{{ Lord Commander Thrain Ironoak}}{{ 55}}](#p55)
@@ -352,26 +352,26 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
 
 {{toc,wide
 # Contents
-  - [{{ Sir Garrett Ironhelm}}{{ 279}}](#p279)
-  - [{{ Sister Marian}}{{ 280}}](#p280)
-  - [{{ Sister Mortua}}{{ 281}}](#p281)
-  - [{{ Vexis Shadowmaw}}{{ 282}}](#p282)
-  - [{{ Alden Swiftfoot}}{{ 283}}](#p283)
-  - [{{ Thorne “The Butcher”}}{{ 284}}](#p284)
-  - [{{ Lydia Shadowstep}}{{ 285}}](#p285)
-  - [{{ Marcus Vrell}}{{ 286}}](#p286)
-  - [{{ Helena Duskmere}}{{ 287}}](#p287)
-  - [{{ Varak Ironfist}}{{ 288}}](#p288)
-  - [{{ Korvan Steelhand}}{{ 289}}](#p289)
-  - [{{ Katrina Ashfall}}{{ 290}}](#p290)
-  - [{{ Miranda Ashwood}}{{ 291}}](#p291)
-  - [{{ Magnus Ironroot}}{{ 292}}](#p292)
-  - [{{ Old Barrett}}{{ 293}}](#p293)
-  - [{{ Elder Tremont}}{{ 294}}](#p294)
-  - [{{ Aramil Starwarden}}{{ 295}}](#p295)
-  - [{{ Master Aldrick Woodwise}}{{ 296}}](#p296)
-  - [{{ Vault Guardian}}{{ 297}}](#p297)
-
+-
+- [{{ Sir Garrett Ironhelm}}{{ 279}}](#p279)
+- [{{ Sister Marian}}{{ 280}}](#p280)
+- [{{ Sister Mortua}}{{ 281}}](#p281)
+- [{{ Vexis Shadowmaw}}{{ 282}}](#p282)
+- [{{ Alden Swiftfoot}}{{ 283}}](#p283)
+- [{{ Thorne “The Butcher”}}{{ 284}}](#p284)
+- [{{ Lydia Shadowstep}}{{ 285}}](#p285)
+- [{{ Marcus Vrell}}{{ 286}}](#p286)
+- [{{ Helena Duskmere}}{{ 287}}](#p287)
+- [{{ Varak Ironfist}}{{ 288}}](#p288)
+- [{{ Korvan Steelhand}}{{ 289}}](#p289)
+- [{{ Katrina Ashfall}}{{ 290}}](#p290)
+- [{{ Miranda Ashwood}}{{ 291}}](#p291)
+- [{{ Magnus Ironroot}}{{ 292}}](#p292)
+- [{{ Old Barrett}}{{ 293}}](#p293)
+- [{{ Elder Tremont}}{{ 294}}](#p294)
+- [{{ Aramil Starwarden}}{{ 295}}](#p295)
+- [{{ Master Aldrick Woodwise}}{{ 296}}](#p296)
+- [{{ Vault Guardian}}{{ 297}}](#p297)
 - ### [{{ Part V: DM Tools}}{{ 298}}](#p298)
 - #### [{{ Chapter 9: Creating Custom Content}}{{ 298}}](#p298)
   - [{{ Creating Creatures}}{{ 298}}](#p298)
@@ -441,7 +441,6 @@ TIRVANDOR™, THE SEVEN ASCENDED™, THALDROS™, AETHORIA™, THE WORLDREND™,
   - [{{ Gemstone Values}}{{ 315}}](#p315)
   - [{{ Licensing & Attribution}}{{ 316}}](#p316)
 }}
-
 
 \page
 
